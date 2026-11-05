@@ -22,12 +22,13 @@ LANG_LABEL = {"en": "English", "zh": "中文", "ru": "Русский"}
 UI = {
     "en": {"latest": "Latest stories", "sources": "Sources", "more": "More stories", "home": "Home",
            "ai": "Written by {author} with AI assistance, from the sources listed below.", "empty": "The first stories are coming soon.",
-           "all": "All", "rss": "RSS"},
+           "all": "All", "rss": "RSS", "pen": "Pen name · AI-assisted · edited by {author}", "about": "About us"},
     "zh": {"latest": "最新文章", "sources": "资料来源", "more": "更多文章", "home": "首页",
-           "ai": "本文由 {author} 在 AI 协助下根据下列来源撰写。", "empty": "首批文章即将发布。", "all": "全部", "rss": "RSS"},
+           "ai": "本文由 {author} 在 AI 协助下根据下列来源撰写。", "empty": "首批文章即将发布。", "all": "全部", "rss": "RSS",
+           "pen": "笔名 · AI 辅助写作 · 主编 {author}", "about": "关于我们"},
     "ru": {"latest": "Последние материалы", "sources": "Источники", "more": "Ещё материалы", "home": "Главная",
            "ai": "Текст подготовлен автором {author} с помощью ИИ на основе источников ниже.", "empty": "Первые материалы скоро появятся.",
-           "all": "Все", "rss": "RSS"},
+           "all": "Все", "rss": "RSS", "pen": "Псевдоним · с помощью ИИ · редактор {author}", "about": "О проекте"},
 }
 TEMPLATE_DIR = Path(__file__).parent
 E = html.escape
@@ -108,7 +109,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
 </div><div class="wrap tag">{E(_tagline(cfg, lang))}</div></header>
 <main class="wrap">{body}</main>
 <footer class="wrap foot"><span>© {datetime.now().year} {E(cfg['site']['author'])} · {E(_site_name(cfg, lang))}</span>
-<a href="feed.xml">{UI[lang]['rss']}</a></footer>
+<span><a href="about.html">{UI[lang]['about']}</a> · <a href="feed.xml">{UI[lang]['rss']}</a></span></footer>
 </body></html>"""
 
 
@@ -120,6 +121,28 @@ def _card(a, lang, prefix=""):
             f'<time>{a["date"]}</time></a>')
 
 
+def columnist(cfg, a) -> dict:
+    """Pick the pen-name columnist for an article: by type (history/athlete) or detected sport."""
+    cols = cfg.get("columnists") or {}
+    if a["type"] in cols and a["type"] != "news":
+        return cols[a["type"]]
+    from .collect import detect_sport
+    sport = detect_sport(f"{a.get('sport', '')} {a.get('en', {}).get('headline', '')}", cfg.get("sports", {}))
+    if not sport and a.get("sport"):
+        low = a["sport"].lower()
+        sport = next((k for k in cols if k in low or low in k), None)
+        if not sport and any(w in low for w in ("box", "mma", "ufc", "wrest", "judo", "fight")):
+            sport = "combat"
+        if not sport and any(w in low for w in ("athlet", "swim", "skat", "gymn", "badminton", "table tennis", "volley")):
+            sport = "olympic"
+    return cols.get(sport) or cols.get("default") or {"en": cfg["site"]["author"]}
+
+
+def byline_name(cfg, a, lang) -> str:
+    c = columnist(cfg, a)
+    return c.get(lang) or c.get("en") or cfg["site"]["author"]
+
+
 def _article_page(cfg, a, lang, related):
     L = a[lang]
     alternates = {l: f"{l}/{a['slug']}.html" for l in LANGS if a.get(l)}
@@ -127,15 +150,18 @@ def _article_page(cfg, a, lang, related):
     rel = "".join(_card(r, lang) for r in related)
     ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": L["headline"][:110],
                      "datePublished": a.get("published_at") or a["created"], "inLanguage": HTML_LANG[lang],
-                     "author": {"@type": "Person", "name": cfg["site"]["author"]}}, ensure_ascii=False)
+                     "author": {"@type": "Person", "name": byline_name(cfg, a, lang),
+                                "description": "Pen name (AI-assisted), edited by " + cfg["site"]["author"]},
+                     "publisher": {"@type": "Organization", "name": cfg["site"]["name"]}}, ensure_ascii=False)
     body = f"""<article class="story t-{a['type']}">
 <div class="kick">{E(label(a['type'], lang))} · <time>{a['date']}</time></div>
 <h1>{E(L['headline'])}</h1>
 {f'<p class="dek">{E(L["subheadline"])}</p>' if L.get('subheadline') else ''}
-<div class="byline">{E(cfg['site']['author'])}</div>
+<div class="byline"><span class="who">{E(byline_name(cfg, a, lang))}</span> · {E(columnist(cfg, a).get('beat_' + lang, ''))}
+<a class="pen" href="about.html">{E(UI[lang]['pen'].format(author=cfg['site']['author']))}</a></div>
 <div class="prose">{md_to_html(L.get('body_markdown', ''))}</div>
 <aside class="sources"><h4>{UI[lang]['sources']}</h4><ul>{src}</ul>
-<p class="ai">{E(UI[lang]['ai'].format(author=cfg['site']['author']))}</p></aside>
+<p class="ai">{E(UI[lang]['ai'].format(author=byline_name(cfg, a, lang)))}</p></aside>
 </article>
 {f'<section class="more"><h2 class="sec">{UI[lang]["more"]}</h2><div class="grid">{rel}</div></section>' if rel else ''}"""
     return _page(cfg, lang, f"{L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
@@ -158,6 +184,41 @@ def _home_page(cfg, lang, items):
 <h2 class="sec">{UI[lang]['latest']}</h2><div class="grid" id="grid">{''.join(_card(a, lang) for a in rest)}</div>
 <script>document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{{document.querySelectorAll('.filters button').forEach(x=>x.classList.toggle('on',x===b));document.querySelectorAll('#grid .card').forEach(c=>c.hidden=b.dataset.f!=='all'&&c.dataset.type!==b.dataset.f)}})</script>"""
     return _page(cfg, lang, f"{_site_name(cfg, lang)} — {_tagline(cfg, lang)}", _tagline(cfg, lang), body, alternates, f"{lang}/index.html")
+
+
+ABOUT = {
+    "en": ("About Bang Sport Daily", """<p>Bang Sport Daily tells the stories of world sport — the news, the history and the people — in English, Chinese and Russian.</p>
+<h2>How our stories are written</h2>
+<p>Every story is drafted with the help of artificial intelligence, using reports from established news outlets as sources of facts. Each story lists its sources. Nothing is published until our editor, {author}, has reviewed and approved it.</p>
+<h2>Our columnists are pen names</h2>
+<p>Stories are signed with <strong>pen names</strong>, one for each sport. They are not real people: they are the voices of our AI-assisted writing, each focused on one beat, and all edited by {author}.</p>
+<table>{rows}</table>
+<h2>Corrections</h2><p>If you find a mistake, please tell us and we will correct it.</p>"""),
+    "zh": ("关于棒体育日报", """<p>棒体育日报用中文、英文和俄文讲述世界体育——新闻、历史与人物。</p>
+<h2>我们的文章如何写成</h2>
+<p>每篇文章都在人工智能协助下起草，事实来自权威新闻媒体，并在文末列出来源。所有文章均经主编 {author} 审核批准后才会发布。</p>
+<h2>我们的专栏作者是笔名</h2>
+<p>文章以<strong>笔名</strong>署名，每个运动项目一位。他们不是真实人物，而是我们 AI 辅助写作的不同声音，全部由 {author} 编辑。</p>
+<table>{rows}</table>
+<h2>更正</h2><p>如发现错误，请告诉我们，我们会及时更正。</p>"""),
+    "ru": ("О проекте Bang Sport Daily", """<p>Bang Sport Daily рассказывает о мировом спорте — новости, история и люди — на русском, английском и китайском языках.</p>
+<h2>Как пишутся наши материалы</h2>
+<p>Каждый материал готовится с помощью искусственного интеллекта на основе сообщений авторитетных СМИ; источники указаны в конце. Ничего не публикуется без проверки и одобрения редактора — {author}.</p>
+<h2>Наши колумнисты — псевдонимы</h2>
+<p>Материалы подписаны <strong>псевдонимами</strong> — по одному на каждый вид спорта. Это не реальные люди, а голоса нашего текста, созданного с помощью ИИ; всё редактирует {author}.</p>
+<table>{rows}</table>
+<h2>Исправления</h2><p>Если вы нашли ошибку, сообщите нам — мы её исправим.</p>"""),
+}
+
+
+def _about_page(cfg, lang):
+    title, body = ABOUT[lang]
+    cols = cfg.get("columnists") or {}
+    rows = "".join(f"<tr><td><strong>{E(c.get(lang) or c.get('en', ''))}</strong></td><td>{E(c.get('beat_' + lang, ''))}</td></tr>"
+                   for k, c in cols.items() if k != "default")
+    html_body = f'<article class="story"><h1>{E(title)}</h1><div class="prose about">' + body.format(author=E(cfg["site"]["author"]), rows=rows) + "</div></article>"
+    return _page(cfg, lang, f"{title} — {_site_name(cfg, lang)}", title, html_body,
+                 {l: f"{l}/about.html" for l in LANGS}, f"{lang}/about.html")
 
 
 def _rss(cfg, lang, items):
@@ -201,6 +262,8 @@ def build_site(cfg: dict) -> None:
             urls.append(f"{lang}/{a['slug']}.html")
         (d / "index.html").write_text(_home_page(cfg, lang, items[:60]), encoding="utf-8")
         (d / "feed.xml").write_text(_rss(cfg, lang, items), encoding="utf-8")
+        (d / "about.html").write_text(_about_page(cfg, lang), encoding="utf-8")
+        urls.append(f"{lang}/about.html")
         urls.append(f"{lang}/index.html")
     (DOCS / "index.html").write_text(ROOT_INDEX.format(name=E(cfg["site"]["name"])), encoding="utf-8")
     base = _base(cfg)

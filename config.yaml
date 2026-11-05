@@ -11,8 +11,9 @@ site:
   tagline_ru: "Мировой спорт с человеческим голосом"
   author: "Mak"
   timezone: "Asia/Phnom_Penh"
-  # Your GitHub Pages address, used for links, sitemap and RSS. Set it after enabling Pages.
-  url: "https://YOUR-GITHUB-USERNAME.github.io/bang-sport-daily"
+  # Your GitHub Pages address (used for links, sitemap, RSS). On GitHub Actions it is detected
+  # automatically from the repo name, so it still works if you name the repo differently.
+  url: "https://putheamak.github.io/bang-sport-daily"
 
 # ---------- Languages ----------
 # English is written first (in your voice); then adapted — not word-for-word translated — to the others.
@@ -80,3 +81,20 @@ feeds:
   - {name: "Google News – 体育 (ZH)",   url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
   - {name: "Google News – Спорт (RU)",  url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ru&gl=RU&ceid=RU:ru", lang: ru}
   - {name: "Championat",       url: "https://www.championat.com/rss/news/", lang: ru}
+
+# ---------- Bylines: disclosed pen-name columnists ----------
+# Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:
+# every article shows "Pen name · AI-assisted · edited by <author>" and links to the About page.
+# Rename them freely (keep names that don't belong to real, well-known people).
+columnists:
+  football:      {en: "Leo Hartwell",   zh: "利奥·哈特维尔",   ru: "Лео Хартвелл",    beat_en: "Football",      beat_zh: "足球",       beat_ru: "Футбол"}
+  basketball:    {en: "Marcus Delane",  zh: "马库斯·德莱恩",   ru: "Маркус Делейн",   beat_en: "Basketball",    beat_zh: "篮球",       beat_ru: "Баскетбол"}
+  tennis:        {en: "Clara Voss",     zh: "克拉拉·沃斯",     ru: "Клара Восс",      beat_en: "Tennis",        beat_zh: "网球",       beat_ru: "Теннис"}
+  combat:        {en: "Viktor Ardan",   zh: "维克多·阿尔丹",   ru: "Виктор Ардан",    beat_en: "Combat sports", beat_zh: "格斗",       beat_ru: "Единоборства"}
+  motorsport:    {en: "Rory Kettering", zh: "罗里·凯特林",     ru: "Рори Кеттеринг",  beat_en: "Motorsport",    beat_zh: "赛车",       beat_ru: "Автоспорт"}
+  olympic:       {en: "Lan Meiyu",      zh: "兰美玉",          ru: "Лань Мэйюй",      beat_en: "Olympic sports", beat_zh: "奥运项目",  beat_ru: "Олимпийские виды"}
+  hockey:        {en: "Anya Sorel",     zh: "安雅·索雷尔",     ru: "Аня Сорель",      beat_en: "Ice hockey",    beat_zh: "冰球",       beat_ru: "Хоккей"}
+  cricket:       {en: "Arun Devaraj",   zh: "阿伦·德瓦拉杰",   ru: "Арун Деварадж",   beat_en: "Cricket",       beat_zh: "板球",       beat_ru: "Крикет"}
+  history:       {en: "Ivo Marlow",     zh: "伊沃·马洛",       ru: "Иво Марлоу",      beat_en: "Sport history", beat_zh: "体育历史",   beat_ru: "История спорта"}
+  athlete_story: {en: "Nadia Rennick",  zh: "娜迪娅·雷尼克",   ru: "Надя Реннек",     beat_en: "Athlete stories", beat_zh: "人物故事", beat_ru: "Истории спортсменов"}
+  default:       {en: "Bang Sport Desk", zh: "棒体育编辑部",   ru: "Редакция Bang Sport", beat_en: "World sport", beat_zh: "世界体育", beat_ru: "Мировой спорт"}

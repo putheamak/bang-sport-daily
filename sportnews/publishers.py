@@ -31,7 +31,8 @@ def article_url(cfg: dict, a: dict, lang: str) -> str | None:
 
 def social_text(cfg: dict, a: dict, lang: str) -> str:
     L = a.get(lang) or {}
-    text = f"{L.get('headline', '')}\n\n{L.get('social_post', '')}".strip()
+    from .site import byline_name
+    text = f"{L.get('headline', '')}\n\n{L.get('social_post', '')}\n\n✍️ {byline_name(cfg, a, lang)}".strip()
     url = article_url(cfg, a, lang)
     return text + (f"\n\n👉 {READ_MORE[lang]}: {url}" if url else "")
 

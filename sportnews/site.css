@@ -72,3 +72,11 @@ main{padding:22px 16px 40px}
 .choose a{font:600 18px var(--head);text-decoration:none;border:2px solid var(--ink);padding:10px 24px}
 .choose a:hover{background:var(--ink);color:var(--paper)}
 @media (max-width:600px){body{font-size:16.5px}.mast{position:static}}
+.byline{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px}
+.byline .who{font-weight:700}
+.byline .pen{margin-left:auto;font:400 12px var(--serif);text-transform:none;letter-spacing:0;color:var(--muted);font-style:italic}
+.l-zh .byline .pen{font-family:var(--zh);font-style:normal}
+.about table{border-collapse:collapse;margin:8px 0 20px;width:100%}
+.about td{border-bottom:1px solid var(--line);padding:8px 6px;font-size:16px}
+.about p:first-child::first-letter{font:inherit;float:none;margin:0;color:inherit}
+.foot a{color:var(--muted)}
