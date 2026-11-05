@@ -1,0 +1,50 @@
+name: Publish / reject stories
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Article ID(s) from the Telegram/email draft, comma-separated — or 'today' / 'all-drafts'"
+        required: true
+      action:
+        description: "What to do"
+        type: choice
+        options: [publish, reject]
+        default: publish
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: ${{ inputs.action }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_EN: ${{ secrets.TELEGRAM_CHANNEL_EN }}
+          TELEGRAM_CHANNEL_ZH: ${{ secrets.TELEGRAM_CHANNEL_ZH }}
+          TELEGRAM_CHANNEL_RU: ${{ secrets.TELEGRAM_CHANNEL_RU }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          IDS: ${{ inputs.ids }}
+        run: python -m sportnews ${{ inputs.action }} "$IDS"
+      - name: Save status
+        run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          mkdir -p data && touch data/.gitkeep
+          git add data docs
+          git diff --cached --quiet || git commit -m "${{ inputs.action }}: ${{ inputs.ids }}"
+          git push
