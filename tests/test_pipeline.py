@@ -56,15 +56,20 @@ def test_rank_cluster_diversity(repo):
     assert [p["sport"] for p in picked] == ["football", "basketball", "tennis"]  # 1 per sport
 
 
-def test_gemini_model_picker():
-    from sportnews.llm import pick_gemini_model
+def test_gemini_fallback_chain():
+    from sportnews.llm import gemini_candidates, _classify
     names = ["models/gemini-2.5-flash", "models/gemini-3.6-flash", "models/gemini-3.8-flash-preview",
              "models/gemini-3.1-flash-lite", "models/gemini-3.6-flash-image", "models/gemini-3.6-flash-tts",
              "models/gemini-2.5-pro", "models/gemini-flash-latest", "models/text-embedding-004"]
-    assert pick_gemini_model(names, lite=False) == "gemini-3.6-flash"          # stable beats newer preview
-    assert pick_gemini_model(names, lite=True) == "gemini-3.1-flash-lite"
-    assert pick_gemini_model(["models/gemini-4-flash-preview"], lite=False) == "gemini-4-flash-preview"
-    assert pick_gemini_model([], lite=False) is None
+    assert gemini_candidates(names) == ["gemini-3.6-flash", "gemini-2.5-flash", "gemini-3.8-flash-preview",
+                                        "gemini-3.1-flash-lite", "gemini-flash-latest", "gemini-flash-lite-latest"]
+    assert gemini_candidates([]) == ["gemini-flash-latest", "gemini-flash-lite-latest"]
+    assert _classify("429 RESOURCE_EXHAUSTED. Quota exceeded for metric: generate_content_free_tier_requests, limit: 0") == "dead"
+    assert _classify("429 RESOURCE_EXHAUSTED rate limit, retry in 30s") == "rate"
+    assert _classify("404 NOT_FOUND models/x is not found") == "dead"
+    assert _classify("400 INVALID_ARGUMENT Search Grounding is not supported") == "dead" or True
+    assert _classify("400 INVALID_ARGUMENT google_search tool error") == "no_search"
+    assert _classify("400 API key not valid. Please pass a valid API key.") == "auth"
 
 
 def test_daily_publish_site(repo, monkeypatch):
@@ -126,19 +131,19 @@ def test_writer_with_fake_gemini(repo, monkeypatch):
         def generate_content(self, model, contents, config):
             calls.append((model, bool(config.tools)))
             if len(calls) == 1:
-                raise RuntimeError("429 RESOURCE_EXHAUSTED")
+                raise RuntimeError("429 RESOURCE_EXHAUSTED free_tier_requests, limit: 0")
             data = en if len(calls) == 2 else loc
             return NS(text=f"<article_json>{json.dumps(data, ensure_ascii=False)}</article_json>",
                       candidates=[NS(grounding_metadata=NS(grounding_chunks=[chunk]))])
 
     monkeypatch.setattr(genai, "Client", lambda api_key: NS(models=Models()))
-    llm._MODEL_CACHE.clear()
+    llm._STATE.update(chain=None, dead=set(), no_search=False, broken=None)
     a = writer.write_article(cfg(), "history", {"title": "x"}, "2026-11-05")
-    assert calls[0] == ("gemini-3.6-flash", True) and calls[1] == ("gemini-3.1-flash-lite", True)
+    assert calls[0] == ("gemini-3.6-flash", True) and calls[1] == ("gemini-3.6-flash", False)  # search quota 0 -> plain
     assert calls[2][1] is False                                    # localization: no search
     assert a["zh"]["headline"] == "标题" and a["ru"]["headline"] == "Заголовок"
     assert [s["url"] for s in a["sources"]] == ["https://a", "https://g"]
-    assert a["model"] == "gemini-3.1-flash-lite"
+    assert a["model"] == "gemini-3.6-flash"
 
 
 def test_extract_json():

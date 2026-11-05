@@ -24,6 +24,14 @@ log = logging.getLogger("sportnews")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
 
+def log_to_file(name: str = "last_run.log") -> None:
+    """Also write this run's log to data/<name> (committed, so problems can be diagnosed from the repo)."""
+    DATA.mkdir(parents=True, exist_ok=True)
+    h = logging.FileHandler(DATA / name, mode="w", encoding="utf-8")
+    h.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
+    log.addHandler(h)
+
+
 def load_config() -> dict:
     with open(ROOT / "config.yaml", encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -93,3 +101,14 @@ def load_articles() -> list[dict]:
 def save_articles(items: list[dict]) -> None:
     items.sort(key=lambda a: (a.get("date", ""), a.get("created", "")), reverse=True)
     write_json(ARTICLES, items)
+
+
+def site_url(cfg: dict) -> str:
+    """SITE_URL env > GitHub repo (owner.github.io/repo) when running in Actions > config site.url."""
+    u = os.environ.get("SITE_URL", "").strip()
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if not u and repo and "/" in repo:
+        owner, name = repo.split("/", 1)
+        u = f"https://{owner.lower()}.github.io/{name}"
+    u = u or cfg["site"].get("url", "")
+    return "" if "YOUR-GITHUB-USERNAME" in u else u.rstrip("/")

@@ -66,8 +66,8 @@ def _plain(md: str, n: int = 160) -> str:
 
 
 def _base(cfg) -> str:
-    u = (os.environ.get("SITE_URL") or cfg["site"].get("url", "")).rstrip("/")
-    return "" if "YOUR-GITHUB-USERNAME" in u else u
+    from .common import site_url
+    return site_url(cfg)
 
 
 def _site_name(cfg, lang):

@@ -22,8 +22,9 @@ def _post(url: str, data: dict) -> dict:
 
 
 def article_url(cfg: dict, a: dict, lang: str) -> str | None:
-    base = (os.environ.get("SITE_URL") or cfg["site"].get("url", "")).rstrip("/")
-    if not base or "YOUR-GITHUB-USERNAME" in base:
+    from .common import site_url
+    base = site_url(cfg)
+    if not base:
         return None
     return f"{base}/{lang}/{a['slug']}.html"
 
