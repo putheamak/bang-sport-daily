@@ -1,0 +1,30 @@
+name: Learn my writing voice
+
+on:
+  workflow_dispatch:
+  push:
+    paths: ["voice/samples/**"]   # re-learn automatically when you add ebook chapters
+
+permissions:
+  contents: write
+
+jobs:
+  style:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m sportnews build-style
+      - run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add voice/style_profile.md
+          git diff --cached --quiet || git commit -m "Update style profile from ebook samples"
+          git push
