@@ -1,0 +1,21 @@
+# Athletes for the daily "life story" series. The system rotates through this list, researches each person
+# on the web (with sources) and writes their story in your voice. When the list runs out it starts again.
+# Mix legends with athletes popular with Chinese and Russian readers. Edit freely.
+# memos/athletes/<slug>.md (e.g. memos/athletes/yao-ming.md) adds your own memories or angle.
+
+- {name: "Lionel Messi",        sport: "Football"}
+- {name: "Yao Ming",            sport: "Basketball", notes: "Very popular with Chinese readers."}
+- {name: "Maria Sharapova",     sport: "Tennis",     notes: "Popular with Russian readers."}
+- {name: "Usain Bolt",          sport: "Athletics"}
+- {name: "Li Na",               sport: "Tennis",     notes: "First Asian player to win a Grand Slam singles title."}
+- {name: "Khabib Nurmagomedov", sport: "MMA"}
+- {name: "Serena Williams",     sport: "Tennis"}
+- {name: "Alexander Ovechkin",  sport: "Ice hockey"}
+- {name: "Ma Long",             sport: "Table tennis"}
+- {name: "Cristiano Ronaldo",   sport: "Football"}
+- {name: "Michael Jordan",      sport: "Basketball"}
+- {name: "Yelena Isinbayeva",   sport: "Pole vault"}
+- {name: "Lin Dan",             sport: "Badminton"}
+- {name: "Simone Biles",        sport: "Gymnastics"}
+- {name: "Lewis Hamilton",      sport: "Formula 1"}
+- {name: "Su Bingtian",         sport: "Athletics (sprint)"}

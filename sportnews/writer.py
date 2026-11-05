@@ -1,0 +1,154 @@
+"""Writer: English story in the author's voice (with web research), then native adaptation to Chinese and Russian."""
+from __future__ import annotations
+
+import json
+import re
+
+from . import llm
+from .common import MEMOS, VOICE, log, now_iso, read_text, short_hash, slugify
+
+LANG_NAMES = {"en": "English", "zh": "Chinese", "ru": "Russian"}
+
+WRITE_SYSTEM = """You are the ghost-writer for {author}, who publishes the daily column "{site}" about world sport.
+You write AS {author}, in their personal voice, exactly like the chapters of their ebook. The STYLE PROFILE
+describes that voice. The AUTHOR MEMO holds {author}'s own experiences and opinions: weave them in as
+first-person reflection where they fit naturally. Never present the memo as facts about other people and never
+invent new personal experiences for the author.
+
+ACCURACY RULES (most important):
+- Use only facts from the SOURCE MATERIAL or your web search results. Never invent quotes, scores, dates,
+  transfer fees, ages or statistics. Do not copy sentences from sources: write original prose.
+- If something is unclear or sources disagree, say so or leave it out, and list it in "facts_to_verify".
+- No betting advice, no gossip about private life, health or relationships.
+
+<style_profile>
+{style}
+</style_profile>
+
+<author_memo>
+{memo}
+</author_memo>
+
+OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing after it:
+{{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
+  "tags": [str], "athletes": [str], "facts_to_verify": [str], "sources_used": [{{"title": str, "url": str}}]}}
+- body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings.
+- social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
+"""
+
+TASKS = {
+    "news": """TASK: Write today's NEWS story ({date}). Report what happened accurately (who, what, when, where,
+result), then explain why it matters and add the author's perspective. Use web search to confirm the latest
+details and find context. Prefer official and major outlets.""",
+    "history": """TASK: Write today's "ON THIS DAY IN SPORT" story ({date}). Search for a famous, well-documented
+world sport moment that happened on this calendar date ({month_day}) in an earlier year — prefer moments that
+Chinese and Russian readers also care about. Tell it as a story: the era, the people, the drama, its legacy today.""",
+    "athlete_story": """TASK: Write the LIFE STORY of {athlete} ({sport}). Research childhood and background, how
+they started, key turning points, struggles, greatest achievements and life today. Write it as a human story in
+the author's ebook style, not a list of results. Notes (verify, do not copy blindly): {notes}""",
+}
+WORDS = {"news": "350-550", "history": "550-850", "athlete_story": "700-1000"}
+
+LOCALIZE_SYSTEM = """You are a team of senior sport editors who are native speakers of {targets}.
+Adapt the English article into each language so it reads as if originally written by a native sport columnist —
+natural idioms and rhythm, not word-for-word translation — while keeping the author's first-person voice.
+
+Rules:
+- Keep every fact, number, date and quote meaning exactly the same. Add nothing, remove nothing factual.
+- Use the standard names readers know: e.g. Chinese 梅西 / 姚明 / 曼联, Russian Месси / Яо Мин / «Манчестер Юнайтед».
+  For less-known names, transliterate in the standard way and add the Latin spelling in brackets on first mention.
+- Chinese: {script} Chinese characters, Chinese punctuation (，。！？「」or“”).
+- Russian: proper typography (« », —), sports terminology used by Russian sports media.
+- Adapt hashtags to each language.
+
+OUTPUT: one JSON object inside <article_json> ... </article_json>:
+{{{schema}}}
+where each value is {{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str}}.
+"""
+
+
+def extract_json(text: str) -> dict:
+    m = re.search(r"<article_json>\s*(\{.*\})\s*</article_json>", text, re.S)
+    raw = m.group(1) if m else text[text.find("{"): text.rfind("}") + 1]
+    raw = re.sub(r"^```(?:json)?|```$", "", raw.strip())
+    return json.loads(raw)
+
+
+def _ask_json(cfg, system, prompt, search):
+    text, sources, model = llm.generate(cfg, system, prompt, search)
+    try:
+        return extract_json(text), sources, model
+    except (json.JSONDecodeError, ValueError):
+        log.warning("Model returned invalid JSON; asking again without search")
+        text, s2, model = llm.generate(cfg, system, prompt + "\n\nReturn ONLY the valid JSON in the tags.", False)
+        return extract_json(text), sources + s2, model
+
+
+def _write_prompt(kind: str, ctx: dict, date: str) -> str:
+    parts = [TASKS[kind].format(date=date, month_day=date[5:], **ctx.get("fmt", {}))]
+    daily = read_text(MEMOS / f"{date}.md")
+    if daily:
+        parts.append(f"<todays_memo_from_author>\n{daily}\n</todays_memo_from_author>")
+    if ctx.get("athlete_memo"):
+        parts.append(f"<author_memo_about_this_athlete>\n{ctx['athlete_memo']}\n</author_memo_about_this_athlete>")
+    if ctx.get("sources"):
+        parts.append("<source_material>\n" + ctx["sources"] + "\n</source_material>")
+    return "\n\n".join(parts)
+
+
+def _mock(kind, ctx, date, langs):
+    title = ctx.get("title") or ctx.get("fmt", {}).get("athlete") or "On this day"
+    body = (f"*MOCK DRAFT — no AI key set.*\n\nThis is where the {kind.replace('_', ' ')} story about "
+            f"**{title}** will be written in your voice.\n\n## Why it matters\n\nSource material: "
+            f"{len(ctx.get('sources', ''))} characters.")
+    en = {"headline": f"[Mock] {title}", "subheadline": "Sample draft", "body_markdown": body,
+          "social_post": f"{title} #sport", "sport": ctx.get("sport") or "", "tags": [kind], "athletes": [],
+          "facts_to_verify": ["Mock article — not real"], "sources_used": ctx.get("source_links", [])}
+    loc = {"zh": {"headline": f"[示例] {title}", "subheadline": "示例稿件", "body_markdown": "*示例稿件。*\n\n" + body,
+                  "social_post": f"{title} #体育"},
+           "ru": {"headline": f"[Пример] {title}", "subheadline": "Черновик", "body_markdown": "*Черновик.*\n\n" + body,
+                  "social_post": f"{title} #спорт"}}
+    return en, [], {k: v for k, v in loc.items() if k in langs}, "mock"
+
+
+def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
+    site = cfg["site"]
+    langs = cfg["languages"].get("others", ["zh", "ru"])
+    if llm.provider(cfg) == "mock":
+        log.warning("No AI key (or SPORTNEWS_MOCK=1): writing mock %s article", kind)
+        en, cites, loc, model = _mock(kind, ctx, date, langs)
+    else:
+        system = WRITE_SYSTEM.format(author=site["author"], site=site["name"], words=WORDS[kind],
+                                     style=read_text(VOICE / "style_profile.md"), memo=read_text(MEMOS / "general.md"))
+        log.info("Writing %s (EN) ...", kind)
+        en, cites, model = _ask_json(cfg, system, _write_prompt(kind, ctx, date), search=True)
+        loc = {}
+        if langs:
+            script = "Simplified" if cfg["languages"].get("chinese_script", "simplified") == "simplified" else "Traditional"
+            schema = ", ".join(f'"{l}": {{...}}' for l in langs)
+            lsys = LOCALIZE_SYSTEM.format(targets=" and ".join(LANG_NAMES[l] for l in langs), script=script, schema=schema)
+            src = json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}, ensure_ascii=False)
+            log.info("Adapting to %s ...", ", ".join(langs))
+            try:
+                loc, _, _ = _ask_json(cfg, lsys, f"<english_article>\n{src}\n</english_article>", search=False)
+            except Exception as e:  # noqa: BLE001
+                log.error("Localization failed (%s) — article kept in English only", e)
+
+    sources, seen = [], set()
+    for s in en.get("sources_used", []) + cites + ctx.get("source_links", []):
+        if s.get("url") and s["url"] not in seen:
+            seen.add(s["url"])
+            sources.append({"title": s.get("title") or s["url"], "url": s["url"]})
+    article = {
+        "id": f"{date}-{kind[:4]}-{short_hash(en.get('headline', '') + now_iso())[:6]}",
+        "slug": slugify(en.get("headline") or ctx.get("title", kind)),
+        "date": date, "created": now_iso(cfg), "type": kind, "status": "draft", "model": model,
+        "sport": en.get("sport") or ctx.get("sport") or "",
+        "tags": en.get("tags", []), "athletes": en.get("athletes", []),
+        "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
+        "en": {k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
+    }
+    for l in langs:
+        if isinstance(loc.get(l), dict) and loc[l].get("headline"):
+            article[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+    return article

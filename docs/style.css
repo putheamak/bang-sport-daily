@@ -1,0 +1,74 @@
+:root{
+  --paper:#f7f5f0; --ink:#16181b; --muted:#666a70; --line:#dedad1; --card:#ffffff;
+  --accent:#d7261e; --news:#d7261e; --history:#9a6b00; --athlete_story:#1d5fd1;
+  --head:"Oswald","Arial Narrow",system-ui,sans-serif;
+  --serif:"PT Serif",Georgia,"Times New Roman",serif;
+  --zh:"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Source Han Sans SC",sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--paper:#111316;--ink:#ecebe6;--muted:#9b9fa6;--line:#2a2e34;--card:#181b1f;
+    --accent:#ff5a4f;--news:#ff5a4f;--history:#e0b04f;--athlete_story:#6fa0ff}
+}
+:root[data-theme="dark"]{--paper:#111316;--ink:#ecebe6;--muted:#9b9fa6;--line:#2a2e34;--card:#181b1f;
+  --accent:#ff5a4f;--news:#ff5a4f;--history:#e0b04f;--athlete_story:#6fa0ff}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 var(--serif)}
+body.l-zh{font-family:var(--zh);line-height:1.85}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+.mast{border-bottom:4px solid var(--ink);background:var(--paper);position:sticky;top:0;z-index:5}
+.mast .wrap:first-child{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:12px;padding-bottom:4px;flex-wrap:wrap}
+.brand{font:700 26px/1.1 var(--head);text-transform:uppercase;letter-spacing:.5px;text-decoration:none}
+.l-zh .brand{font-family:var(--zh);font-weight:800;letter-spacing:2px}
+.mark{color:var(--accent);margin-right:6px;font-size:.8em;vertical-align:.08em}
+.tag{color:var(--muted);font-size:13px;padding-bottom:10px;font-style:italic}
+.langs{display:flex;gap:4px}
+.langs a{font:500 13px var(--head);text-decoration:none;padding:4px 10px;border:1px solid var(--line);border-radius:999px}
+.langs a.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+main{padding:22px 16px 40px}
+.kick{display:block;font:500 12px/1.4 var(--head);text-transform:uppercase;letter-spacing:1.2px;color:var(--c,var(--accent))}
+.l-zh .kick{font-family:var(--zh);letter-spacing:1px;font-weight:700}
+.t-news{--c:var(--news)} .t-history{--c:var(--history)} .t-athlete_story{--c:var(--athlete_story)}
+.lead{display:block;text-decoration:none;border-bottom:1px solid var(--line);padding:6px 0 22px;margin-bottom:12px}
+.lead h1{font:700 clamp(30px,5vw,52px)/1.08 var(--head);margin:8px 0 10px;text-transform:none}
+.l-zh .lead h1,.l-zh .story h1{font-family:var(--zh);font-weight:800;line-height:1.3}
+.lead p{font-size:19px;color:var(--muted);max-width:60ch;margin:0}
+.lead:hover h1{color:var(--accent)}
+.sec{font:700 15px var(--head);text-transform:uppercase;letter-spacing:1.5px;border-top:2px solid var(--ink);padding-top:8px;margin:26px 0 14px}
+.l-zh .sec{font-family:var(--zh)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{display:flex;flex-direction:column;gap:6px;background:var(--card);border:1px solid var(--line);border-top:3px solid var(--c);padding:14px 16px;text-decoration:none;min-height:170px}
+.card h3{font:700 20px/1.25 var(--head);margin:0}
+.l-zh .card h3{font-family:var(--zh);font-weight:700;font-size:18px;line-height:1.45}
+.card p{margin:0;color:var(--muted);font-size:15px;line-height:1.5;flex:1}
+.card time{font:500 12px var(--head);color:var(--muted)}
+.card:hover h3{color:var(--accent)}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin:16px 0 0}
+.filters button{font:500 13px var(--head);background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer}
+.l-zh .filters button{font-family:var(--zh)}
+.filters button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.story{max-width:700px;margin:0 auto}
+.story h1{font:700 clamp(30px,5vw,46px)/1.12 var(--head);margin:10px 0 12px}
+.dek{font-size:20px;color:var(--muted);margin:0 0 14px;font-style:italic}
+.l-zh .dek{font-style:normal}
+.byline{font:500 13px var(--head);text-transform:uppercase;letter-spacing:1px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:8px 0;margin-bottom:22px}
+.prose p{margin:0 0 1.1em}
+.prose p:first-child::first-letter{font:700 3.3em/0.9 var(--head);float:left;margin:6px 8px 0 0;color:var(--accent)}
+.l-zh .prose p:first-child::first-letter{font:inherit;float:none;margin:0;color:inherit}
+.prose h2{font:700 24px/1.25 var(--head);margin:1.6em 0 .5em}
+.l-zh .prose h2{font-family:var(--zh)}
+.prose blockquote{margin:1.2em 0;padding-left:16px;border-left:4px solid var(--accent);font-style:italic}
+.sources{margin-top:34px;border-top:2px solid var(--ink);padding-top:10px;font-size:14px}
+.sources h4{font:700 13px var(--head);text-transform:uppercase;letter-spacing:1.2px;margin:0 0 6px}
+.sources ul{padding-left:18px;margin:0 0 10px} .sources a{word-break:break-word;color:var(--muted)}
+.ai{color:var(--muted);font-style:italic;font-size:13px}
+.more{max-width:1080px;margin:40px auto 0}
+.foot{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:14px;padding-bottom:30px;font-size:13px;color:var(--muted)}
+.empty{color:var(--muted);text-align:center;padding:80px 0;font-size:19px}
+.pick .wrap{min-height:90vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:28px}
+.brand.big{font-size:clamp(30px,6vw,56px)}
+.choose{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.choose a{font:600 18px var(--head);text-decoration:none;border:2px solid var(--ink);padding:10px 24px}
+.choose a:hover{background:var(--ink);color:var(--paper)}
+@media (max-width:600px){body{font-size:16.5px}.mast{position:static}}

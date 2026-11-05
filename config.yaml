@@ -1,0 +1,82 @@
+# ===========================================================
+#  Bang Sport Daily — main configuration
+# ===========================================================
+
+site:
+  name: "Bang Sport Daily"
+  name_zh: "棒体育日报"          # 棒 (bàng) = "awesome" — sounds like Bang
+  name_ru: "Bang Sport Daily"   # Latin brand name is common in Russian media; or "Бэнг Спорт"
+  tagline_en: "World sport, told with a human voice"
+  tagline_zh: "用有温度的文字讲述世界体育"
+  tagline_ru: "Мировой спорт с человеческим голосом"
+  author: "Mak"
+  timezone: "Asia/Phnom_Penh"
+  # Your GitHub Pages address, used for links, sitemap and RSS. Set it after enabling Pages.
+  url: "https://YOUR-GITHUB-USERNAME.github.io/bang-sport-daily"
+
+# ---------- Languages ----------
+# English is written first (in your voice); then adapted — not word-for-word translated — to the others.
+languages:
+  master: en
+  others: [zh, ru]
+  chinese_script: simplified     # simplified (Mainland/SEA/Malaysia/Singapore) | traditional (Taiwan/HK)
+
+# ---------- AI ----------
+ai:
+  provider: gemini        # gemini = FREE tier (Google AI Studio key) | claude = paid, best quality
+  gemini:
+    model: auto           # "auto" picks the newest stable Flash model your key can use
+    fallback_model: auto-lite   # used automatically when the main model hits the free quota (429)
+    google_search: true   # grounding with Google Search (free quota on Flash; verify in AI Studio)
+    pause_seconds: 8      # wait between calls so we stay under free-tier per-minute limits
+  claude:
+    model: "claude-sonnet-5-5"
+    web_search_max_uses: 4
+  max_output_tokens: 12000
+
+# ---------- What to produce each day ----------
+daily_plan:
+  news: 3            # biggest global sport stories of the last 24-36h
+  history: 1         # "On this day in sport"
+  athlete_story: 1   # life story of a legendary / rising athlete (rotates athletes.yaml)
+  max_per_sport: 1   # variety: no more than N news stories from the same sport per day
+
+# Sports the system watches. weight > 1 = more likely to be chosen; 0 = ignore that sport.
+sports:
+  football:   {weight: 1.5, keywords: ["football", "soccer", "premier league", "champions league", "la liga", "serie a", "bundesliga", "fifa", "uefa", "world cup", "足球", "中超", "футбол", "рпл"]}
+  basketball: {weight: 1.3, keywords: ["nba", "basketball", "euroleague", "篮球", "cba", "баскетбол"]}
+  tennis:     {weight: 1.0, keywords: ["tennis", "atp", "wta", "wimbledon", "us open", "roland garros", "australian open", "网球", "теннис"]}
+  combat:     {weight: 1.0, keywords: ["ufc", "mma", "boxing", "bout", "knockout", "拳击", "综合格斗", "бокс", "ммa", "мма"]}
+  motorsport: {weight: 0.8, keywords: ["formula 1", "f1", "grand prix", "motogp", "一级方程式", "формула-1", "формула 1"]}
+  olympic:    {weight: 1.0, keywords: ["olympic", "athletics", "swimming", "gymnastics", "figure skating", "table tennis", "badminton", "volleyball", "奥运", "乒乓", "羽毛球", "排球", "олимп", "фигурн", "хоккей"]}
+  hockey:     {weight: 0.8, keywords: ["nhl", "khl", "ice hockey", "冰球", "кхл", "нхл"]}
+  cricket:    {weight: 0.5, keywords: ["cricket", "ipl", "test match"]}
+
+# Extra score for the biggest events
+boost: ["world cup", "champions league final", "olympics", "nba finals", "grand slam", "wimbledon", "super bowl",
+        "ballon d'or", "record", "world record", "世界杯", "奥运", "чемпионат мира", "олимпиад"]
+block: ["betting tips", "odds", "casino", "fantasy picks", "live stream free", "прогноз на матч", "ставки", "博彩"]
+
+# ---------- Publishing ----------
+publish:
+  auto_publish: false      # false = drafts go to your private Telegram review chat + email; you approve
+  website: true            # public reader site on GitHub Pages (published stories only)
+  telegram: true           # one channel per language: TELEGRAM_CHANNEL_EN / _ZH / _RU
+  facebook: false          # optional: FB_PAGE_ID + FB_PAGE_TOKEN (posts the English version)
+  email_digest: true
+  markdown: true
+  docx: true
+  drafts_on_site: false    # true = adds docs/review.html with drafts (visible to anyone who finds it!)
+
+# ---------- News sources (free RSS) ----------
+# These feeds are used as SOURCES OF FACTS only. The AI writes original stories and credits them.
+# A feed that fails is skipped and logged — never fatal. Add or remove freely.
+feeds:
+  - {name: "BBC Sport",        url: "https://feeds.bbci.co.uk/sport/rss.xml", lang: en}
+  - {name: "The Guardian Sport", url: "https://www.theguardian.com/sport/rss", lang: en}
+  - {name: "ESPN",             url: "https://www.espn.com/espn/rss/news", lang: en}
+  - {name: "Sky Sports",       url: "https://www.skysports.com/rss/12040", lang: en}
+  - {name: "Google News – Sports (EN)", url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – 体育 (ZH)",   url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
+  - {name: "Google News – Спорт (RU)",  url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ru&gl=RU&ceid=RU:ru", lang: ru}
+  - {name: "Championat",       url: "https://www.championat.com/rss/news/", lang: ru}
