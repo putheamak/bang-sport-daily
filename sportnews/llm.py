@@ -141,8 +141,17 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
                 except Exception as e:  # noqa: BLE001
                     msg = str(e)
                     kind = _classify(msg)
-                    errors.append(f"{model}: {kind}: {msg[:200]}")
-                    log.warning("Gemini %s failed [%s]%s: %s", model, kind, " (with search)" if use_search else "", msg[:400])
+                    errors.append(f"{model}: {kind}{' +search' if use_search else ''}: {msg[:160]}")
+                    if not _STATE.get("logged_full"):
+                        _STATE["logged_full"] = True
+                        log.warning("First Gemini error in full: %s", msg[:3000])
+                    log.warning("Gemini %s failed [%s]%s: %s", model, kind, " (with search)" if use_search else "", msg[:200])
+                    if "429" in msg and use_search:
+                        # The Google Search grounding quota is separate and is often the one that is 0.
+                        log.warning("Retrying %s WITHOUT Google Search", model)
+                        _STATE["no_search"] = True
+                        use_search = False
+                        continue
                     if kind == "auth":
                         _STATE["broken"] = "API key rejected"
                         raise RuntimeError("Gemini API key rejected — check the GEMINI_API_KEY secret") from e
@@ -150,14 +159,17 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
                         _STATE["no_search"] = True
                         use_search = False
                         continue
-                    if kind == "dead" and use_search and "429" in msg:
-                        use_search = False      # the search quota may be the part that is 0 — try plain once
-                        continue
                     if kind == "dead":
                         _STATE["dead"].add(model)
                         break
-                    if kind in ("rate", "busy") and attempt == 0:
-                        time.sleep(40 if kind == "rate" else 20)
+                    if kind == "rate":
+                        _STATE["rate_fails"] = _STATE.get("rate_fails", 0) + 1
+                        if _STATE["rate_fails"] <= 2 and attempt < 2:
+                            time.sleep(35)        # per-minute limit: wait once or twice, then move on
+                            continue
+                        break
+                    if kind == "busy" and attempt == 0:
+                        time.sleep(20)
                         continue
                     if kind == "other" and use_search and attempt == 0:
                         use_search = False   # retry once without search

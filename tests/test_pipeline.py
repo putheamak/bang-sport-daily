@@ -137,7 +137,7 @@ def test_writer_with_fake_gemini(repo, monkeypatch):
                       candidates=[NS(grounding_metadata=NS(grounding_chunks=[chunk]))])
 
     monkeypatch.setattr(genai, "Client", lambda api_key: NS(models=Models()))
-    llm._STATE.update(chain=None, dead=set(), no_search=False, broken=None)
+    llm._STATE.clear(); llm._STATE.update(chain=None, dead=set(), no_search=False, broken=None)
     a = writer.write_article(cfg(), "history", {"title": "x"}, "2026-11-05")
     assert calls[0] == ("gemini-3.6-flash", True) and calls[1] == ("gemini-3.6-flash", False)  # search quota 0 -> plain
     assert calls[2][1] is False                                    # localization: no search
