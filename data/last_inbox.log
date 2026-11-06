@@ -1,53 +1,39 @@
-2026-11-06 14:42:48,113 INFO Updating story 2026-11-05-athl-26b539 from inbox
-2026-11-06 14:42:48,113 INFO Adapting to zh, ru ...
-2026-11-06 14:42:48,992 INFO Gemini models available: 24 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-06 14:42:52,119 WARNING First Gemini error in full: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-06 14:42:52,119 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-06 14:43:12,268 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:43:50,739 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-06 14:43:53,395 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-06 14:44:13,542 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:46:46,594 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-06 14:46:46,728 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:47:04,139 INFO Updating story 2026-11-05-hist-52bd88 from inbox
-2026-11-06 14:47:04,139 INFO Adapting to zh, ru ...
-2026-11-06 14:47:04,308 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:47:04,448 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:47:21,145 INFO Updating story 2026-11-05-news-1ffe06 from inbox
-2026-11-06 14:47:21,145 INFO Adapting to zh, ru ...
-2026-11-06 14:47:21,303 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:47:21,442 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:47:35,142 INFO Updating story 2026-11-05-news-70aff0 from inbox
-2026-11-06 14:47:35,142 INFO Adapting to zh, ru ...
-2026-11-06 14:48:16,648 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-06 14:48:36,822 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:48:36,969 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:48:51,892 INFO Updating story 2026-11-06-news-cc35df from inbox
-2026-11-06 14:48:51,892 INFO Adapting to zh, ru ...
-2026-11-06 14:48:52,052 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:48:52,173 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:11,062 INFO Updating story 2026-11-06-news-14a1b9 from inbox
-2026-11-06 14:49:11,062 INFO Adapting to zh, ru ...
-2026-11-06 14:49:11,221 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:11,349 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:25,805 INFO Updating story 2026-11-06-news-ce93b6 from inbox
-2026-11-06 14:49:25,805 INFO Adapting to zh, ru ...
-2026-11-06 14:49:25,952 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:26,089 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:39,961 INFO Updating story 2026-11-06-news-af8895 from inbox
-2026-11-06 14:49:39,961 INFO Adapting to zh, ru ...
-2026-11-06 14:49:40,101 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:40,230 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:54,842 INFO Updating story 2026-11-06-news-4d4479 from inbox
-2026-11-06 14:49:54,842 INFO Adapting to zh, ru ...
-2026-11-06 14:49:54,980 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:49:55,125 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:50:10,498 INFO Updating story 2026-11-06-news-017de6 from inbox
-2026-11-06 14:50:10,498 INFO Adapting to zh, ru ...
-2026-11-06 14:50:10,649 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:50:10,779 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
-2026-11-06 14:50:24,755 INFO Exported 10 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-06
-2026-11-06 14:50:24,873 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
-2026-11-06 14:50:24,873 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-06 14:50:24,938 INFO Website built: 10 published stories, 63 pages
-2026-11-06 14:50:24,938 INFO Imported 10 editor's article(s): 2026-11-05-athl-26b539, 2026-11-05-hist-52bd88, 2026-11-05-news-1ffe06, 2026-11-05-news-70aff0, 2026-11-06-news-cc35df, 2026-11-06-news-14a1b9, 2026-11-06-news-ce93b6, 2026-11-06-news-af8895, 2026-11-06-news-4d4479, 2026-11-06-news-017de6
+2026-11-06 15:57:32,093 INFO Added zh translation for 2026-11-06-news-017de6
+2026-11-06 15:57:32,093 INFO Added ru translation for 2026-11-06-news-017de6
+2026-11-06 15:57:32,096 INFO Added zh translation for 2026-11-06-news-ce93b6
+2026-11-06 15:57:32,096 INFO Added ru translation for 2026-11-06-news-ce93b6
+2026-11-06 15:57:32,112 INFO Adapting to zh, ru ...
+2026-11-06 15:57:32,969 INFO Gemini models available: 24 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-06 15:57:36,177 WARNING First Gemini error in full: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 15:57:36,177 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 15:59:54,753 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-06 15:59:54,891 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:00:30,341 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 16:00:30,568 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:00:46,619 INFO Translation retry for 2026-11-06-news-af8895: ['zh', 'ru']
+2026-11-06 16:00:46,619 INFO Adapting to zh, ru ...
+2026-11-06 16:00:46,805 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:01:21,975 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:01:22,106 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:01:37,611 INFO Translation retry for 2026-11-06-news-14a1b9: ['zh', 'ru']
+2026-11-06 16:01:37,611 INFO Adapting to zh, ru ...
+2026-11-06 16:02:37,870 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 16:02:58,027 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:02:58,147 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:03:16,677 INFO Translation retry for 2026-11-06-news-cc35df: ['zh', 'ru']
+2026-11-06 16:03:16,677 INFO Adapting to zh, ru ...
+2026-11-06 16:03:16,843 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:03:17,013 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:03:18,697 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 16:03:45,567 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 16:04:00,422 INFO Translation retry for 2026-11-06-news-4d4479: ['zh', 'ru']
+2026-11-06 16:04:00,422 INFO Adapting to zh, ru ...
+2026-11-06 16:04:00,571 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:04:00,661 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 16:04:08,755 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 16:04:46,327 INFO Translation retry for 2026-11-05-athl-26b539: ['zh', 'ru']
+2026-11-06 16:04:46,577 INFO Exported 10 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-06
+2026-11-06 16:04:46,697 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
+2026-11-06 16:04:46,697 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-06 16:04:46,738 INFO Website built: 10 published stories, 53 pages
+2026-11-06 16:04:46,738 INFO Imported 2 editor's article(s): 2026-11-06-news-017de6, 2026-11-06-news-ce93b6
