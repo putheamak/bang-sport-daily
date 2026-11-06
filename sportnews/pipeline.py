@@ -70,15 +70,23 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     musts = must_cover(raw_memo)
     items = C.collect(cfg) if (plan.get("news", 0) or musts) else []
     done_titles = []
+    from .writer import split_memo
+    assignment_memo = split_memo(raw_memo)[1]
+    covered = state.setdefault("must_covered", [])
     for topic, urls in musts:
+        if topic.lower() in covered:
+            log.info("Must cover %r: already written earlier — skipped", topic)
+            continue
         ctx = _must_context(topic, urls, items)
         if not ctx:
             log.error("Must cover %r: no source text found — add a 'Source: <link>' line to the memo", topic)
             continue
         log.info("Must cover: %s (%d source(s))", topic, len(ctx["source_links"]))
         try:
+            ctx["assignment_memo"] = assignment_memo
             new.append(write_article(cfg, "news", ctx, date))
             done_titles += [x["title"] for x in ctx.pop("_matched", [])]
+            covered.append(topic.lower())
         except Exception as e:  # noqa: BLE001
             log.error("Must-cover story failed (%s): %s", topic, e)
 
