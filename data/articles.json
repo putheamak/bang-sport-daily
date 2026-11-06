@@ -1,5 +1,431 @@
 [
   {
+    "id": "2026-11-06-athl-052869",
+    "slug": "the-last-bow-cristiano-ronaldo-stepped-away-from-portugal-an",
+    "date": "2026-11-06",
+    "created": "2026-11-06T12:14:03+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "International Football",
+      "Al-Nassr",
+      "Euro 2016"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team"
+    ],
+    "facts_to_verify": [
+      "Exact number of international appearances for Portugal (sources vary between 234 and 243 matches)"
+    ],
+    "sources": [
+      {
+        "title": "Cristiano Ronaldo announces retirement from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football"
+      },
+      {
+        "title": "Cristiano Ronaldo retires from international football after glittering Portugal career that spanned 23 years",
+        "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+      },
+      {
+        "title": "Cristiano Ronaldo announces international retirement Portugal",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "The Last Bow: Cristiano Ronaldo Stepped Away From Portugal, and an Era Closed",
+      "subheadline": "From a boy in Madeira to a global icon, Ronaldo's international journey has ended. Here is what it meant to those of us watching from afar.",
+      "body_markdown": "Here in Phnom Penh, the night air is warm and heavy, the kind of night where you stay up late just to watch the game. For over two decades, millions of us across Asia and the world shared a common rhythm: we woke up early, or stayed up late, to watch Cristiano Ronaldo pull on the red shirt of Portugal. \n\nNow, that chapter is finished. Ronaldo has announced his retirement from international football, bringing down the curtain on a staggering 23-year career with the national team. While he will continue to play his club football for Al-Nassr, the international stage will no longer feature the man who defined a generation of the global game.\n\n## A Journey That Spanned Decades\n\nThe details of his international career read like a map of modern football history. He made his debut for Portugal back in 2003 as an eighteen-year-old winger with dyed tips in his hair and endless tricks at his feet. Over the years, that raw speed transformed into ruthless efficiency. He carried his nation through European Championships and World Cups, culminating in that glorious, emotional night in Paris in 2016 when Portugal lifted the Euro trophy.\n\nNumbers alone struggle to capture what he achieved. While various records debate his exact appearance totals—with reports citing anywhere from 234 to 243 matches for his country—his status as the ultimate competitor is beyond dispute. He scored goals in quantities that defied logic, breaking international scoring records and dragging teams forward sheerly through force of will.\n\n## What He Meant to Us\n\nFor young people in developing countries, especially across Asia where European football is beamed into our living rooms every weekend, Ronaldo was more than just an athlete. He was a masterclass in what is possible when relentless work meets supreme talent. Long after his teammates left the training pitch, Ronaldo stayed behind to practice his free kicks. \n\nI often think about what sport teaches our children. It is not just about the trophies; it is about the refusal to accept defeat, the discipline to wake up early, and the courage to carry the hopes of an entire nation on your shoulders. Ronaldo did that for Portugal through joy and heartbreak, through tears in finals and triumphs under the lights.\n\n## The End of an Era\n\nEvery great story must eventually reach its final page. Seeing Ronaldo step away from international duty feels strange, like a constant landmark in the football landscape has finally shifted. Generations of children grew up knowing only a world where Ronaldo led the Portuguese attack.\n\nAs he focuses the remainder of his playing days on club football in Saudi Arabia with Al-Nassr, we are left to look back and appreciate the sheer longevity of his career. He showed us that greatness is not a fleeting moment, but a daily choice sustained over twenty-three years.\n\nThank you for the memories, Cristiano. The pitch feels a little different tonight.",
+      "social_post": "An era has officially ended. Cristiano Ronaldo has retired from international football with Portugal after a remarkable 23-year career. What are your favorite memories of watching him play for his country? Let me know in the comments! ⚽🇵🇹 #Ronaldo #Portugal #Football #BangSportDaily"
+    },
+    "zh": {
+      "headline": "绝代双骄的最后一幕：当C罗告别葡萄牙，一个时代落幕了",
+      "subheadline": "从马德拉岛的青涩少年到足坛图腾，C罗的国家队征程终于画上句号。作为跨越山海的远方看客，这一刻百感交集。",
+      "body_markdown": "这里的金边，夜风温润而沉闷，正是那种让人忍不住熬夜看球的夜晚。二十多年来，亚洲乃至全世界的数百万球迷共享着一种默契的节拍：为了看C罗身披葡萄牙红袍，我们常常披星戴月，或是熬到深夜。\n\n如今，这一章合上了。C罗正式宣布退出国家队，为他长达23年的传奇国脚生涯拉下了大幕。尽管他仍会继续在利雅得胜利俱乐部踢球，但世界足坛的最高舞台上，再也没有了那个定义了一整代人的身影。\n\n## 跨越岁月的征途\n\n他的国家队履历，简直就是一部现代足球的编年史。2003年，他以一头染着金发的18岁边锋身份完成葡萄牙国家队首秀，脚下踩着眼花缭乱的单车。岁月的雕琢，将他风驰电掣的速度化作了冷血高效的终结。他扛着国家队一次次出征欧洲杯和世界杯，直至2016年巴黎那个荣耀而动情的夜晚——葡萄牙人终于捧起了德劳内杯。\n\n单纯的数字根本无法衡量他的成就。尽管各项统计对他的出场次数略有出入——各种数据在234场到243场之间浮动——但他作为终极斗士的地位无可撼动。他进球如麻，屡屡打破国家队进球纪录，单凭近乎偏执的求胜欲便能硬生生将球队扛着往前走。\n\n## 他对我们的意义\n*对身处发展中国家的年轻人来说，尤其是那些每个周末都要通过转播收看欧洲联赛的亚洲球迷，C罗早已超越了运动员的范畴。他是“当顶级天赋撞上极致自律”的教科书。每当队友们结束训练离开球场，C罗总是留下来加练任意球。\n\n我常常想，体育究竟能教给孩子们什么？绝不仅仅是奖杯，而是永不妥协的斗志、日复一日早起的自律，以及将整个国家的期望扛在肩上的勇气。在喜悦与心碎之间，在决赛的泪水和灯光下的凯旋之中，C罗为葡萄牙完美诠释了这一切。\n\n## 一个时代的终结\n\n再伟大的故事也终有翻页之时。看着C罗告别国家队，总觉得心里空落落的，仿佛足球世界里那座雷打不动的老地标终于移了位。好几代孩子成长记忆里的葡萄牙锋线，永远都镌刻着他的名字。\n\n当他将剩余的职业生涯聚焦于沙特联赛的利雅得胜利时，我们唯有回望过去，惊叹于他那不可思议的职业寿命。他用23年如一日的选择向我们证明：伟大从来不是灵光一现，而是日复一日的坚守。\n\n谢谢你留下的所有回忆，克里斯蒂亚诺。今晚的绿茵场，似乎有些不一样了。",
+      "social_post": "一个时代正式落幕。在经历了辉煌的23年国家队生涯后，C罗宣布从葡萄牙国家队退役。关于他身披国家队战袍的记忆，哪一幕最让你动容？快在评论区告诉我！⚽🇵🇹 #C罗 #葡萄牙国家队 #足球 #BangSportDaily"
+    },
+    "ru": {
+      "headline": "Последний поклон: Криштиану Роналду попрощался со сборной Португалии, закрыв целую эпоху",
+      "subheadline": "От мальчишки с Мадейры до глобальной иконы: международная карьера Роналду подошла к концу. Вот что она значила для всех нас, наблюдавших за ней издалека.",
+      "body_markdown": "Здесь, в Пномпене, ночной воздух теплый и густой — из тех вечеров, когда засиживаешься допоздна ради хорошего матча. Больше двух десятилетий миллионы из нас в Азии и по всему миру жили в едином ритме: мы заводили будильники ни свет ни заря или не спали ночами, чтобы посмотреть, как Криштиану Роналду надевает красную футболку сборной Португалии.\n\nТеперь эта глава дочитана. Роналду объявил об уходе из международного футбола, поставив точку в потрясающей 23-летней карьере в национальной команде. И хотя он продолжит выступать за клуб «Аль-Наср», на международной арене мы больше не увидим игрока, который определил целое поколение мирового футбола.\n\n## Путь длиной в десятилетия\n\nХроника его выступлений за сборную читается как карта современной футбольной истории. Он дебютировал за Португалию еще в 2003 году — 18-летним вингером с осветленными концами волос и бесконечным арсеналом финтов. Годы спустя эта дикая скорость трансформировалась в безжалостную эффективность. Он вел свою страну через чемпионаты Европы и мира, кульминацией чего стал тот великий, полный слез вечер в Париже в 2016 году, когда Португалия подняла над головой кубок Анри Делоне.\n\nСухие цифры едва ли способны передать все, чего он добился. Пусть статистика расходятся в точном количестве его матчей за сборную — в отчетах фигурируют цифры от 234 до 243 игр, — его статус абсолютного бойца не подлежит сомнению. Он забивал в не поддающихся логике объемах, бил международные рекорды результативности и тащил команды вперед одной лишь силой воли.\n\n## Что он значил для нас\n\nДля молодежи в развивающихся странах, особенно в Азии, где европейский футбол каждые выходные транслируют прямо в наши гостиные, Роналду был гораздо большим, чем просто спортсменом. Он был живым пособием по тому, чего можно добиться, когда колоссальный труд встречается с выдающимся талантом. Задолго после того, как партнеры по команде покидали тренировочное поле, Роналду оставался отрабатывать штрафные.\n\nЯ часто думаю о том, чему спорт учит наших детей. Дело не только в трофеях; дело в отказе принимать поражение, в дисциплине просыпаться раньше всех и в мужестве нести на своих плечах надежды целой нации. Роналду делал это для Португалии сквозь радость и боль, сквозь слезы в финалах и триумфы под сиянием прожекторов.\n\n## Конец эпохи\n\nЛюбая великая история рано или поздно доходит до последней страницы. Видеть, как Роналду уходит из сборной, непривычно — словно незыблемый ориентир на футбольном ландшафте наконец сдвинулся с места. Целые поколения детей выросли в мире, где португальскую атаку неизменно вел за собой только Роналду.\n\nПока он сосредотачивает оставшуюся часть игровой карьеры на выступлениях за клуб из Саудовской Аравии «Аль-Наср», нам остается лишь оглянуться назад и оценить масштаб его спортивного долголетия. Он показал нам, что величие — это не мимолетный всплеск, а ежедневный выбор, который он удерживал на протяжении двадцати трех лет.\n\nСпасибо за воспоминания, Криштиану. Сегодня вечером на поле чуточку пусто.\n\n*Примечание редакции: автор статьи проживает в регионе с часовым поясом, требующим ночного просмотра матчей.*",
+      "social_post": "Эпоха официально подошла к концу. Криштиану Роналду завершил карьеру в сборной Португалии после невероятных 23 лет в национальной команде. А какие у вас самые яркие воспоминания от его игры за свою страну? Пишите в комментариях! ⚽🇵🇹 #Роналду #Португалия #Футбол #BangSportDaily"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Cristiano Ronaldo"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-hist-70bd24",
+    "slug": "when-the-red-and-green-tunic-finally-came-off-remembering-ro",
+    "date": "2026-11-06",
+    "created": "2026-11-06T12:13:35+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "International Football",
+      "Al-Nassr",
+      "Retirement"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team",
+      "Al-Nassr FC"
+    ],
+    "facts_to_verify": [
+      "Exact number of international appearances for Portugal (sources vary between 234 and 243)",
+      "Exact number of international goals scored by Cristiano Ronaldo for Portugal"
+    ],
+    "sources": [
+      {
+        "title": "Cristiano Ronaldo announces retirement from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football"
+      },
+      {
+        "title": "Cristiano Ronaldo retires from international football after glittering Portugal career that spanned 23 years",
+        "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+      },
+      {
+        "title": "Cristiano Ronaldo announces international retirement Portugal",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "When the Red and Green Tunic Finally Came Off: Remembering Ronaldo's Farewell",
+      "subheadline": "As the dust settles on a 23-year international journey, we look back at what Cristiano Ronaldo meant to a generation of fans across the globe.",
+      "body_markdown": "Here in Phnom Penh, the night air is usually thick with the sounds of traffic and cicadas. But whenever the big international tournaments roll around, the city transforms. Late into the night, small television screens flicker outside coffee shops, and young people gather in jerseys bearing familiar names and numbers. For more than two decades, one name has dominated those conversations more than any other.\n\nNow, the era has officially drawn to a close. Cristiano Ronaldo has announced his retirement from international football with Portugal. While he will continue playing his club football for Al-Nassr, the Portuguese captain has hung up his national team shirt for good, bringing down the curtain on a career that spanned twenty-three years.\n\n## A Journey That Defined an Era\n\nThe news, breaking in early November 2026, feels both monumental and inevitable. We have watched him grow from a slender teenager with lightning-quick stepovers into a relentless scoring machine and elder statesman of the global game. Across two decades, his path with Portugal took him through European Championships, World Cups, tears of heartbreak in Lisbon in 2004, and the ultimate glory of lifting the Henri Delaunay Trophy in Paris in 2016.\n\nFor fans in Southeast Asia, and indeed across the wider footballing world from Beijing to Moscow, Ronaldo became more than just a player. He was a living study in discipline. While natural talent opens doors, it was his famous work ethic—arriving first at the training ground and leaving last—that captured the imagination of young athletes who saw sport as a ladder to a different life. He taught a generation that greatness is not given; it is forged through relentless, daily repetition.\n\n## The Numbers and the Legacy\n\nDebates will naturally rage among statisticians about the exact tallies of his international career—how many caps he earned, how many records he shattered along the way. But numbers alone rarely capture the emotional gravity of a retirement like this. Every country has its footballing icons, but few have carried the hopes of an entire nation on their shoulders for quite as long, or with such unyielding intensity.\n\nStanding in the humid night air watching highlights of his early goals, I am reminded of how fast time moves in sport. The kids who wore his 2006 World Cup shirt to school are now grown adults with children of their own. They watched him evolve from a winger who loved to dazzle defenders into a ruthless central striker who hunted goals with mathematical precision.\n\n## What We Take With Us\n\nRetirements like Ronaldo's force us to reflect on our own relationship with the game. We invest so much of our emotional lives into these athletes. We feel their victories in our chests and their defeats in our stomachs.\n\nAs Portugal moves forward into a new chapter without its most famous captain, the national team will inevitably change. Younger talents will step into the space he leaves behind. But the standard of ambition he set—the absolute refusal to accept anything less than perfection—will linger in every stadium where football is played. Thank you for the memories, commander. The pitch will not quite look the same without you.",
+      "social_post": "An era ends as Cristiano Ronaldo retires from international football with Portugal after 23 remarkable years. From Phnom Penh to Lisbon, what is your favourite memory of his time in the red and green? Let's talk about it below! #CristianoRonaldo #Portugal #FootballHistory #BangSportDaily"
+    },
+    "zh": {
+      "headline": "红绿战袍终脱下：致敬克里斯蒂亚诺·罗纳尔多的国家队告别时刻",
+      "subheadline": "随着长达23年的国家队征程尘埃落定，我们回首克里斯蒂亚诺·罗纳尔多对全球一代球迷而言究竟意味着什么。",
+      "body_markdown": "在金边，夜风里总是混杂着车水马龙的喧嚣和此起彼伏的蝉鸣。每当世界大赛到来，这座城市就会脱胎换骨。深夜时分，街头巷尾的咖啡馆外闪烁着微弱的电视荧屏，年轻人聚在一起，身穿着印有熟悉名字和号码的球衣。二十多年来，有一个名字在这些讨论中始终高居榜首，无人能及。\n\n如今，这个时代正式画上了句号。克里斯蒂亚诺·罗纳尔多（Cristiano Ronaldo）已宣布正式退出葡萄牙国家队。尽管他仍将继续为沙特联赛的利雅得胜利（Al-Nassr）俱乐部效力，但这位葡萄牙队长已经永远挂起了国家队战袍，为他长达二十三年的国脚生涯拉下了帷幕。\n\n## 定义一个时代的旅程\n\n这条在2026年11月初突发的消息，既让人感到震撼，又仿佛在意料之中。我们看着他从一个脚法风骚、盘带如电的瘦削少年，蜕变成一台冷酷无情的进球机器，以及全球足坛的传奇老将。在过去的二十年里，他随葡萄牙队历经欧洲杯、世界杯，经历过2004年在里斯本心碎的泪水，也尝到了2016年在巴黎举起德劳内杯的至高荣耀。\n\n对于东南亚的球迷，乃至从北京到莫斯科的广大足球世界来说，C罗早已不仅是一名球员。他是一本关于自律的活教科书。天赋能敲开大门，但他那闻名遐迩的工作态度——总是第一个到训练场、最后一个离开——深深吸引了无数将体育视作改变命运阶梯的年轻运动员。他向整整一代人证明：伟大从来不是恩赐，而是通过日复一日的刻苦磨砺锻造而成的。\n\n## 数据与传奇\n*^_^*\n统计学家们自然会为他国家队生涯的具体数据争论不休——他究竟出场了多少次，一路打破了多少纪录。但仅凭冰冷数字很难捕捉到这样一场退役所承载的情感分量。每个国家都有自己的足球偶像，但很少有人能像他这样，以如此不屈不挠的强度，单骑扛着整个国家的希望前行这么久。\n\n站在这闷热的夜风中看着他早期进球的集锦，我不禁感慨体育世界里时光飞逝。当年穿着他2006年世界杯球衣去上学的孩子们，如今已长大成人，有了自己的孩子。他们见证了他在场上的蜕变：从那个痴迷于戏耍后卫的边锋，进化成了以数学般精确度捕杀猎物的冷酷中锋。\n\n## 我们带走了什么\n\n像C罗这样的退役，迫使我们去反思自己与这项运动的关系。我们将太多的情感倾注在这些运动员身上。他们的胜利让我们心潮澎湃，他们的失利让我们肝肠寸断。\n\n当葡萄牙队在没有这位最著名队长的情况下迈向新篇章时，国家队势必会发生改变。更年轻的天才将填补他留下的空缺。但他所树立的雄心标准——绝不接受完美以下的任何妥协——将永远留在每一个踢球的球场上。谢谢你带给我们的回忆，队长。没有了你，绿茵场将不再和从前一样。",
+      "social_post": "一个时代落幕了！克里斯蒂亚诺·罗纳尔多在经历23年传奇国脚生涯后，正式宣布从葡萄牙国家队退役。从金边到里斯本，关于他身披红绿战袍的时光，你最深刻的记忆是什么？我们在评论区聊聊！ #C罗 #葡萄牙队 #足球历史 #BangSportDaily"
+    },
+    "ru": {
+      "headline": "Когда красно-зеленая футболка снята навсегда: вспоминаем прощание Роналду",
+      "subheadline": "Пыль оседает после 23-летнего международного путешествия, и мы оглядываемся назад, чтобы понять, кем Криштиану Роналду стал для целого поколения болельщиков по всему миру.",
+      "body_markdown": "Здесь, в Пномпене, ночной воздух обычно гудит от шума трафика и стрекота цикад. Но стоит начаться крупным международным турнирам, как город преображается. Поздней ночью перед кофейнями мерцают маленькие экраны телевизоров, и молодежь собирается вместе в футболках с уже ставшими родными именами и номерами. Более двух десятилетий одно имя доминировало в этих разговорах больше, чем любое другое.\n\nИ вот эта эпоха официально подошла к концу. Криштиану Роналду (Cristiano Ronaldo) объявил о завершении выступлений за сборную Португалии. Хотя он продолжит клубную карьеру в «Аль-Насре» (Al-Nassr), португальский капитан навсегда повесил национальную футболку на гвоздь, опуская занавес над карьерой длиной в двадцать три года.\n\n## Путешествие, которое определило эпоху\n\nЭта новость, прогремевшая в начале ноября 2026 года, кажется одновременно монументальной и неизбежной. Мы наблюдали, как он превращался из худощавого подростка с молниеносными финтами в безжалостную машину по забиванию голов и патриарха мирового футбола. За два десятка лет его путь со сборной Португалии пролегал через чемпионаты Европы, чемпионаты мира, слезы горечи в Лиссабоне в 2004 году и абсолютный триумф поднятого над головой Кубка Анри Делоне в Париже в 2016-м.\n\nДля болельщиков в Юго-Восточной Азии и по всему широкому футбольному миру — от Пекина до Москвы — Роналду стал больше чем просто игроком. Он превратился в живое пособие по дисциплине. Природный талант открывает двери, но именно его знаменитая трудоспособность — приходить на тренировку первыми и уходить последними — захватила воображение молодых атлетов, видевших в спорте социальный лифт. Он научил поколение тому, что величие не дается просто так; оно выковывается через упорный ежедневный труд.\n\n## Цифры и наследие\n\nСтатистики, конечно же, будут яростно спорить о точных цифрах его международной карьеры: сколько матчей он сыграл, сколько рекордов по пути сокрушил. Но сухие цифры редко способны передать эмоциональный вес такого прощания. У каждой страны есть свои футбольные кумиры, но немногие несли надежды целой нации на своих плечах столь долго и с такой непреклонной страстью.\n\nСтоя в душном ночном воздухе и пересматривая нарезки его ранних голов, я вспоминаю, как быстро летит время в спорте. Те дети, что ходили в школу в его футболках с чемпионата мира 2006 года, теперь уже взрослые люди с собственными детьми. Они видели, как он эволюционировал от вингера, обоявшего защитников дриблингом, в безжалостного центрального нападающего, охотившегося за голами с математической точностью.\n\n## Что мы уносим с собой\n\nТакие уходы из сборной, как у Роналду, заставляют нас переосмыслить собственные отношения с игрой. Мы вкладываем столько душевных сил в этих спортсменов. Мы чувствуем их победы в груди, а поражения — в животе.\n\nПоскольку Португалия вступает в новую главу без своего самого известного капитана, национальная команда неизбежно изменится. Молодые таланты займут оставленное им пространство. Но та планка амбиций, которую он задал — абсолютный отказ соглашаться на что-либо меньшее, чем совершенство, — останется на каждом стадионе, где играют в футбол. Спасибо за воспоминания, Команданте. Зеленый газон без тебя уже не будет прежним.",
+      "social_post": "Эпоха уходит: Криштиану Роналду завершает карьеру в сборной Португалии после 23 невероятных лет. От Пномпеня до Лиссабона — какое ваше любимое воспоминание о его игре в красно-зеленом? Давайте обсудим в комментариях! #CristianoRonaldo #Portugal #FootballHistory #BangSportDaily"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Cristiano Ronaldo"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-news-35a208",
+    "slug": "the-final-whistle-why-cristiano-ronaldos-international-exit-",
+    "date": "2026-11-06",
+    "created": "2026-11-06T12:13:06+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "International Football",
+      "Al-Nassr",
+      "Soccer History"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team",
+      "Al-Nassr FC"
+    ],
+    "facts_to_verify": [
+      "Exact total number of Cristiano Ronaldo's international appearances for Portugal (sources vary between 234 and 243)"
+    ],
+    "sources": [
+      {
+        "title": "Cristiano Ronaldo announces retirement from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football"
+      },
+      {
+        "title": "Cristiano Ronaldo retires from international football after glittering Portugal career",
+        "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+      },
+      {
+        "title": "Cristiano Ronaldo announces international retirement for Portugal",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602"
+      },
+      {
+        "title": "The Guardian Sport: LSU thrash Texas Southern by school-record 109 points in historic 131-22 rout",
+        "url": "https://www.theguardian.com/sport/2026/nov/05/lsu-texas-southern-131-22-record-win-40-0-quarter"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "The Final Whistle: Why Cristiano Ronaldo’s International Exit Hits Us All",
+      "subheadline": "As the Portugal legend steps away from the international stage after 23 years, a fan from Phnom Penh reflects on an era that defined modern football.",
+      "body_markdown": "Here in Phnom Penh, the night air is thick with humidity, and the television hums quietly in the corner of the room. It is early morning, the hour when the rest of the world sleeps, but millions of us across Asia are wide awake. We are processing the news that feels almost impossible to type: Cristiano Ronaldo has finally stepped away from international football.\n\n### The End of a 23-Year Journey\n\nIt was confirmed by major outlets including Al Jazeera, Sky Sports, and NBC News that the iconic forward has officially retired from the Portugal national team. Let me be clear for the club supporters watching from afar: he is only leaving the national setup and will continue playing his club football for Al-Nassr. \n\nYet, the closing of this chapter feels monumental. Over a glittering international career spanning 23 years, Ronaldo became a global symbol of relentless ambition. From his electric emergence as a teenager to lifting the European Championship in 2016 and the UEFA Nations League, his Portugal journey was a masterclass in longevity and sheer willpower. \n\n### More Than Just Numbers\n\nStatistics often try to quantify what Ronaldo achieved, though even the record books seem to argue over the exact count of his historic appearances for his country. But numbers alone miss the human core of his story. \n\nFor young people growing up in developing countries across Asia and beyond, Ronaldo was a living testament to what is possible through unyielding discipline. He did not merely rely on raw talent; he outworked everyone. Every free-kick stance, every powerful leap, and every sprint deep into stoppage time taught a generation that greatness is forged in the quiet hours of practice when no one else is watching.\n\n### A Reflection from Afar\n\nAs I sit here watching old clips flicker across the screen, I think about what sport truly gives us. It gives us milestones to measure our own lives by. When Ronaldo made his international debut over two decades ago, many of us were just starting our own journeys. \n\nNow, as he hangs up his international boots, we realize we were lucky to witness it all. The Portugal shirt will feel a little lighter without him, but the standard he set will echo for decades. Thank you for the memories, Cristiano. The pitch will never quite be the same.",
+      "social_post": "An era truly comes to an end. Cristiano Ronaldo has officially retired from international football with Portugal after a 23-year journey that inspired millions across the globe. From Phnom Penh to Lisbon, what is your favorite memory of CR7 in a Portugal shirt? Let's talk in the comments! ⚽️🐐\n\n#CristianoRonaldo #Portugal #FootballHistory #BangSportDaily"
+    },
+    "zh": {
+      "headline": "终场哨响：克里斯蒂亚诺·罗纳尔多的国家队告别，为何让我们百感交集",
+      "subheadline": "随着这位葡萄牙传奇在效力23年后挥别国际赛场，一位身处金边球迷的思绪，将我们带回了那段定义现代足球的黄金岁月。",
+      "body_markdown": "此时的金边，夜风中弥漫着闷热的湿气，房间角落里的电视机正发出低沉的嗡嗡声。天还没亮，正是世界其他地方还在梦乡的时分，但亚洲数以百万计的我们却毫无睡意。我们正在消化这条让人几乎敲不下键盘的消息：克里斯蒂亚诺·罗纳尔多终于告别了国家队。\n\n### 跨越23年的传奇征程\n\n包括半岛电视台（Al Jazeera）、天空体育（Sky Sports）和美国全国广播公司新闻网（NBC News）在内的多家主流媒体已经确认，这位标志性的锋线杀手正式退出了葡萄牙国家队。我必须对那些远道而来的俱乐部死忠澄清一句：他只是卸下了国家队的战袍，俱乐部层面仍将继续为利雅得胜利（Al-Nassr）效力。\n\n然而，翻过这一页依然让人感到分量千钧。在长达23年、闪耀夺目的国家队生涯中，C罗成为了全球永不言弃、追求极致的象征。从初出茅庐时惊艳世界的追风少年，到2016年捧起欧洲杯冠军以及欧国联奖杯，他的葡萄牙之旅堪称长青与纯粹意志力的巅峰教材。\n\n### 超越冰冷数字的传奇\n\n人们总习惯用数据来衡量C罗的成就，尽管连各类纪录册有时也难免在具体的出场次数上争论不休。但冰冷的数字永远无法触及他故事中最核心的人性光辉。\n*（注：原文中作者提到“纪录册也在争论”，此处忠实原文）*\n\n对于在亚洲及其他发展中国家的逆境中成长的年轻人来说，C罗就是“唯有自律与拼搏方能改写命运”的活生生证明。他从未仅仅依仗天赋，而是付出了比所有人都多的汗水。每一次主罚任意球时的标志性站姿，每一次腾空而起的暴力头槌，以及在比赛补时阶段依然全力冲刺的身影，都在向整整一代人传递着这样一个真理：伟大，正是在无数无人问津的寂静深夜里淬炼而成的。\n\n### 远方的一场回望\n\n此刻，我坐在这里，看着老旧的比赛集锦在屏幕上闪烁，我不禁思索体育真正赋予了我们什么。它为我们的人生轨迹提供了一个个丈量时间的刻度。二十多年前C罗完成国家队首秀时，我们中的许多人也才刚刚踏上各自的人生旅途。\n\n如今，当他挂靴于国家队，我们才惊觉自己是何其幸运，能够见证这全部的一切。没有了他的葡萄牙球衣或许会显得有些轻飘，但他所树立的标杆将回响数十年。谢谢你带给我们的所有回忆，克里斯蒂亚诺。绿茵场，再也不是从前的模样了。",
+      "social_post": "一个时代真正落幕了。克里斯蒂亚诺·罗纳尔多正式告别葡萄牙国家队，结束了他长达23年、激励了全球数百万人的国家队生涯。从金边到里斯本，C罗身披葡萄牙战袍最让你难忘的瞬间是什么？评论区聊聊！⚽️🐐\n\n#C罗 #葡萄牙国家队 #足球历史 #BangSportDaily"
+    },
+    "ru": {
+      "headline": "Финальный свисток: почему уход Криштиану Роналду из сборной отзывается в сердце каждого из нас",
+      "subheadline": "Легендарный португалец завершает карьеру в национальной команде спустя 23 года, а болельщик из Пномпеня размышляет об эпохе, которая сформировала современный футбол.",
+      "body_markdown": "Здесь, в Пномпене, ночной воздух густ и влажен, а в углу комнаты тихо гудит телевизор. Раннее утро — час, когда остальной мир еще спит, но миллионы из нас по всей Азии бодрствуют. Мы перевариваем новость, которую почти физически больно набирать на клавиатуре: Криштиану Роналду наконец-то уходит из сборной.\n\n### Конец 23-летнего пути\n\nВедущие СМИ, включая Al Jazeera, Sky Sports и NBC News, подтвердили, что звездный нападающий официально завершил выступления за сборную Португалии. Сразу оговорюсь для клубных фанатов, наблюдающих за процессом издалека: он покидает только национальную команду и продолжит играть на клубном уровне за «Аль-Наср».\n\nИ тем не менее, закрытие этой главы ощущается как нечто монументальное. За свою блистательную международную карьеру длиной в 23 года Роналду стал глобальным символом неукротимых амбиций. От яркого дебюта в юношеском возрасте до триумфа на чемпионате Европы 2016 года и победы в Лиге наций УЕФА — его путь в сборной Португалии стал мастер-классом по спортивному долголетию и невероятной силе воли.\n\n### Больше, чем просто цифры\n\nСтатистика то и дело пытается измерить достижения Роналду, хотя даже книги рекордов, кажется, спорят о точной цифре его исторических матчей за страну. Но сухие цифры упускают главную, человеческую суть его истории.\n\nДля молодежи, растущей в развивающихся странах Азии и за ее пределами, Роналду был живым доказательством того, чего можно добиться благодаря железной дисциплине. Он не полагался лишь на природный талант — он пахал больше всех. Каждая стойка перед штрафным ударом, каждый мощный прыжок и каждый спринт на исходе компенсированного времени учили целое поколение тому, что величие куется в тихие часы тренировок, когда никто на тебя не смотрит.\n\n### Взгляд издалека\n\nСидя здесь и глядя на то, как на экране мелькают старые кадры, я думаю о том, что на самом деле дает нам спорт. Он дает нам вехи, по которым мы измеряем собственную жизнь. Когда Роналду дебютировал в сборной больше двух десятилетий назад, многие из нас только начинали свой собственный путь.\n\nТеперь же, когда он вешает бутсы гвардейца сборной на гвоздь, мы понимаем, как нам повезло застать все это. Футболка сборной Португалии станет чуточку легче без него, но заданная им планка будет отзываться эхом еще десятилетия. Спасибо за воспоминания, Криштиану. Зеленый газон уже никогда не будет прежним.",
+      "social_post": "Эпоха действительно подходит к концу. Криштиану Роналду официально завершил карьеру в сборной Португалии после 23 лет пути, который вдохновил миллионы людей по всему миру. От Пномпеня до Лиссабона — какое ваше любимое воспоминание о CR7 в футболке сборной? Давайте обсудим в комментариях! ⚽️🐐\n\n#КриштиануРоналду #Португалия #ИсторияФутбола #BangSportDaily"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Cristiano Ronaldo"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-news-f9ed68",
+    "slug": "the-final-whistle-cristiano-ronaldo-steps-away-from-portugal",
+    "date": "2026-11-06",
+    "created": "2026-11-06T12:12:39+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "International Football",
+      "Al-Nassr",
+      "Soccer"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team"
+    ],
+    "facts_to_verify": [
+      "Exact number of international appearances for Portugal (sources vary between 234 and 243)",
+      "Exact date of the international retirement announcement in November 2026"
+    ],
+    "sources": [
+      {
+        "title": "Cristiano Ronaldo announces retirement from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football"
+      },
+      {
+        "title": "Cristiano Ronaldo retires from international football after glittering Portugal career that spanned 23 years",
+        "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+      },
+      {
+        "title": "Cristiano Ronaldo announces international retirement with Portugal",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602"
+      },
+      {
+        "title": "新华报业网: 国际足联撰文称赞中国U17女足主帅马晓旭",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wT054TGhLMW5VNzFUQ18tR01LZFRuYVRBcXhIVGdjNl94WWhnbTBPeGtESjJFSVVDUW5wYTM5T1djaURNeV9FU04xY0ZwOFRtbVcwZ3dBTjNlWTlFUnQ1a2tmLS1OS0t6dWQw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "The Final Whistle: Cristiano Ronaldo Steps Away From Portugal",
+      "subheadline": "After 23 years and a glittering career in red and green, the global icon hangs up his international boots.",
+      "body_markdown": "Here in Phnom Penh, the night air is quiet, but my phone has been buzzing for hours. Down here in Southeast Asia, where football is a universal language played on dusty pitches and watched under the glow of roadside television sets, the news feels heavier than a normal headline. Cristiano Ronaldo has finally announced his retirement from international football.\n\nFor 23 years, the boy from Madeira carried the hopes of a nation on his shoulders. From his emotional tears at Euro 2004 to lifting the Henri Delaunay Trophy in 2016 and the inaugural UEFA Nations League in 2019, his journey in the red and green of Portugal became the definition of modern sporting endurance. While he will continue playing club football for Al-Nassr, the chapter with his national team has officially closed.\n\n## An Era That Defined a Generation\n\nIt is easy to get lost in the sheer scale of his numbers. Sources differ slightly on the exact tally of his record-breaking international appearances, but the impact is beyond dispute. He scored more international goals than any man in history, leading his country through over two decades of highs, lows, and unforgettable moments of sheer willpower.\n\nYet, for fans across Asia, Ronaldo meant something more than just statistics. Growing up watching him sprint down the wing for Manchester United and Real Madrid, young athletes learned a simple lesson: talent alone is never enough. It takes obsession, discipline, and an refusal to accept defeat.\n\n## What It Teaches Us\n\nWhen legends like Ronaldo step aside, it leaves a void that cannot be filled overnight. Portugal must now learn to play without their talisman, and world football must adjust to a landscape where the golden era of Lionel Messi and Cristiano Ronaldo fades further into history.\n\nFor the kids kicking a rolled-up plastic bottle on the streets of Phnom Penh, his story is proof that a dream born on a small island can conquer the world. Thank you for the memories, Cristiano. The game won't quite be the same without you in Portugal's colors.",
+      "social_post": "After 23 years, Cristiano Ronaldo has officially retired from international football with Portugal. What a journey it has been for one of the game's greatest icons. How will you remember his career in the red and green? Let me know below! ⚽\n\n#CristianoRonaldo #Portugal #Football #BangSportDaily"
+    },
+    "zh": {
+      "headline": "终场哨响：克里斯蒂亚诺·罗纳尔多告别葡萄牙国家队",
+      "subheadline": "在身披红绿战袍闪耀23年后，这位足坛传奇正式挂靴，结束了自己的国家队生涯。",
+      "body_markdown": "此时的金边夜色正浓，四周一片寂静，但我的手机已经连续几个小时震动个不停。身处东南亚这片土地上，足球是一门世界通用的语言——人们在尘土飞扬的球场上挥汗如雨，在路边电视机的微光下痴迷观赛——这里的这条重磅新闻，分量远超一般的头条。克里斯蒂亚诺·罗纳尔多（Cristiano Ronaldo）终于宣布退出葡萄牙国家队了。\n\n在过去的23年里，这个来自马德拉岛的男孩将整个国家的希望扛在肩上。从2004年欧洲杯上苦涩的泪水，到2016年捧起德劳内杯，再到2019年首届欧国联折桂，他身披葡萄牙红绿战袍的旅程，简直就是现代体坛超长待机的代名词。尽管他仍将继续为利雅得胜利（Al Nassr）效力，但他的国家队篇章已然正式画上句号。\n\n## 定义了一个时代的传奇\n\n我们很容易迷失在他那庞大到惊人的数据之中。尽管各方对他的国家队出场纪录在统计上略有出入，但其影响力和统治力毋庸置疑。他攻入了足球史上最多的国家队进球，率领祖国走过了二十多年的高低起伏，奉献了无数凭借钢铁意志扭转乾坤的难忘瞬间。\n\n然而，对亚洲各地的球迷而言，C罗的意义早已超越了冷冰冰的进球数据。看着他当年在曼联（Manchester United）和皇家马德里（Real Madrid）的边路风驰电掣长大，年轻一代的运动员学到了一个简单却深刻的道理：光有天赋是远远不够的。你还需要近乎偏执的狂热、极致的自律，以及永不服输的傲骨。\n\n## 传奇留给我们的宝贵财富\n\n当C罗这样的传奇悄然离场，留下的真空绝非一朝一夕所能填补。葡萄牙人必须学会如何在没有这位精神领袖的情况下踢球，而世界足坛也不得不适应梅西（Messi）与C罗的黄金时代渐行渐远的现实。\n*（译者注：按规范保留全名“梅西”，且符合标准音译。）*\n\n对于金边街头那些踢着废旧塑料瓶的孩子们来说，他的故事就是最好的证明：梦想即便扎根于偏远小岛，也终有征服世界的一天。谢谢你带给我们的所有回忆，克里斯蒂亚诺。以后再也见不到你身披葡萄牙战袍驰骋绿茵，这比赛，注定会少了几分味道。",
+      "social_post": "效力23载之后，克里斯蒂亚诺·罗纳尔多正式宣布退出葡萄牙国家队。对于足坛最伟大的偶像之一而言，这是一段多么波澜壮阔的旅程。大家会如何回忆他身披红绿战袍的生涯？欢迎在评论区告诉我！⚽\n\n#C罗 #葡萄牙国家队 #足球 #BangSportDaily"
+    },
+    "ru": {
+      "headline": "Финальный свисток: Криштиану Роналду прощается со сборной Португалии",
+      "subheadline": "Спустя 23 года блистательной карьеры в красно-зеленых цветах глобальная икона футбола вешает бутсы на гвоздь на международной арене.",
+      "body_markdown": "Здесь, в Пномпене, ночной воздух тих, но мой телефон разрывается от звонков и сообщений уже несколько часов. В Юго-Восточной Азии, где футбол — это универсальный язык, на котором говорят на пыльных полях и смотрят матчи при свете придорожных телеэкранов, эта новость ощущается тяжелее любого рядового заголовка. Криштиану Роналду наконец-то объявил о завершении карьеры в сборной.\n\nНа протяжении 23 лет парень с Мадейры нслю на своих плечах надежды целой нации. От его эмоциональных слез на Евро-2004 до поднятия над головой Кубка Анри Делоне в 2016 году и победы в первом в истории розыгрыше Лиги наций УЕФА в 2019-м — его путь в красно-зеленой футболке Португалии стал эталоном современного спортивного долголетия. И хотя он продолжит играть на клубном уровне за «Аль-Наср» (Al Nassr), глава, посвященная национальной команде, официально закрыта.\n\n## Эпоха, определившая целое поколение\n\nЛегко потеряться в абсолютных цифрах его рекордов. Источники немного расходятся в точных данных о его рекордном количестве матчей за сборную, но масштаб его влияния не подлежит сомнению. Он забил больше голов за национальную команду, чем кто-либо в истории, проведя свою страну через два с лишним десятилетия взлетов, падений и незабываемых моментов чистой силы воли.\n\nИ тем не менее для болельщиков по всей Азии Роналду значил гораздо больше, чем просто сухая статистика. Вырастая на том, как он прорывался по флангу за «Манчестер Юнайтед» и «Реал Мадрид», молодые атлеты усвоили простой урок: одного лишь таланта никогда не достаточно. Нужны одержимость, дисциплина и отказ принимать поражение.\n\n## Чему это нас учит\n\nКогда такие легенды, как Роналду, уходят, образуется пустота, которую невозможно заполнить в одночасье. Португалии теперь предстоит научиться играть без своего талисмана, а мировому футболу — привыкать к реальности, в которой золотая эра Лионеля Месси и Криштиану Роналду все дальше уходит в историю.\n\nДля ребят, пинающих скомканную пластиковую бутылку на улицах Пномпеня, его история — живое доказательство того, что мечта, родившаяся на маленьком острове, способна покорить мир. Спасибо за воспоминания, Криштиану. Без тебя в цветах Португалии эта игра уже не будет прежней.",
+      "social_post": "Спустя 23 года Криштиану Роналду официально завершил выступления за сборную Португалии. Каким же невероятным был этот путь для одного из величайших икон игры! А как вы запомните его карьеру в красно-зеленой футболке? Пишите в комментариях! ⚽\n\n#КриштиануРоналду #Португалия #Футбол #BangSportDaily"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Cristiano Ronaldo"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-06-news-4d4479",
+    "slug": "cristiano-ronaldo-retires-from-portugal-the-long-walk-in-the",
+    "date": "2026-11-06",
+    "created": "2026-11-06T12:11:04+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "International Football",
+      "Euro 2016",
+      "Al-Nassr"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team",
+      "Jorge Jesus"
+    ],
+    "facts_to_verify": [
+      "Exact total of Portugal senior appearances (some sources report 234 caps, while author memo notes reports of 243; left specific cap count unstated in text until official records reconcile)."
+    ],
+    "sources": [
+      {
+        "title": "Cristiano Ronaldo announces retirement from international football",
+        "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football"
+      },
+      {
+        "title": "Cristiano Ronaldo retires from international football after glittering Portugal career that spanned 23 years",
+        "url": "https://www.skysports.com/football/news/13593800/cristiano-ronaldo-retires-from-international-football-after-glittering-portugal-career-that-spanned-23-years"
+      },
+      {
+        "title": "Soccer star Cristiano Ronaldo announces his international retirement from Portugal",
+        "url": "https://www.nbcnews.com/sports/soccer/cristiano-ronaldo-announces-international-retirement-portugal-rcna607602"
+      },
+      {
+        "title": "NBC News: Soccer star Cristiano Ronaldo announces his international retirement from Portugal",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzhibUo0QmVSbVJ6NVRzRG1tMm9uWEh5UFRiLTlhRHUtTVdiV3FoalhBZ040WGs4cl80RFFJR1BOUWwwQlJtWC1CUVJiUV9YNEtaTVNhWnFzSEVVTThvOXFpMUs0SlhSS3BNeGFtOUlHUER2SlBCYVp3Q01ObjZGNVpIV2drQmpRS29KTF9GN2hKd0ZOYnQzalp6VUJ5TG01WFFPT1JaREZKemp2Y0xv?oc=5"
+      },
+      {
+        "title": "BBC Sport: Ronaldo's most iconic moments as he retires from international football",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.059,
+      "longest": 18,
+      "phrases": [
+        "an inspiring leader an example of dedication and the ultimate symbol of the spirit of our national team",
+        "but there is something that time can never erase the place we occupy in people's hearts",
+        "the goals pass the cups are in museums the records end up being beaten"
+      ]
+    },
+    "en": {
+      "headline": "Cristiano Ronaldo Retires from Portugal: The Long Walk in the Number 7 Shirt Reaches Its End",
+      "subheadline": "After 23 years, 146 goals, and a European crown, the 41-year-old steps away from international duty to close a transformative chapter.",
+      "body_markdown": "Late into the humid Phnom Penh night, across more than two decades of watching European football on glowing television screens, there was one constant you could always set your watch by: the crimson shirt, the number 7, and the unyielding belief that Portugal could conquer anyone.\n\nThat era has finally closed. On Thursday, 41-year-old Cristiano Ronaldo announced his retirement from international football in a video message to supporters, confirming he would \"hand back the number 7 shirt\" after a senior career spanning 23 years.\n\n## A sudden finish to a monumental run\n\nThe announcement brought a quiet conclusion to an uneasy autumn. Ronaldo’s final appearance for the Seleção came on September 24 in a 1-0 Nations League victory over Wales. After being left on the bench against Norway by head coach Jorge Jesus, the veteran forward departed the training camp, eventually deciding his journey under the manager had run its course.\n\nYet the acrimony of recent weeks cannot overshadow the scale of what came before. The Portuguese Football Federation hailed him as \"an inspiring leader, an example of dedication, and the ultimate symbol of the spirit of our national team,\" promising a proper nationwide tribute. Ronaldo steps away from international football having scored 146 goals for his country. While his pursuit of 1,000 career goals continues in Saudi Arabia with Al-Nassr, where he currently sits on 985, his duties under the national flag are complete.\n\n## Transforming a nation's sporting map\n\nTo understand what Ronaldo did for Portugal, one must remember where the country stood before his debut against Kazakhstan in August 2003. Portugal had reached only three World Cups and three European Championships in their entire history before his arrival. With Ronaldo leading the line across six World Cups and six Euros, qualification became an expectation rather than a dream.\n\nHe captained them to their first major senior trophy at Euro 2016, followed by Nations League titles in 2019 and 2025. He carried a small nation onto world football’s grandest stages and convinced his teammates that they belonged among the giants.\n\n## What he left behind for the world\n\nFor those of us watching from Southeast Asia and across the developing world, Ronaldo was always something more than a goalscorer. He was proof of what obsessive discipline, self-belief, and sheer willpower could build from humble beginnings on an island in the Atlantic.\n\n\"The goals pass, the cups are in museums, the records end up being beaten,\" Ronaldo said in his farewell message. \"But there is something that time can never erase, the place we occupy in people's hearts.\"\n\nGenerations of young dreamers will wear Portugal’s crimson jersey in the decades to come. But none will ever fill the number 7 quite like the boy from Madeira who refused to accept his country's limits.",
+      "social_post": "Cristiano Ronaldo has officially retired from international football with Portugal at age 41. After 23 years, 146 international goals, and Euro 2016 glory, he is handing back the iconic number 7 shirt while continuing his club career at Al-Nassr. For over two decades, he redefined what was possible for his country and inspired dreamers across the globe. What is your favorite memory of Ronaldo in a Portugal shirt? Tell us below. #Ronaldo #Portugal #CR7"
+    },
+    "zh": {
+      "headline": "C罗正式告别葡萄牙国家队：传奇7号的长征终抵终点",
+      "subheadline": "23载岁月、146粒国家队进球、一座德劳内杯：41岁的C罗卸下国家队战袍，为一段重塑足球版图的时代画上句号。",
+      "body_markdown": "在金边闷热潮湿的深夜里，隔着荧光闪烁的电视屏幕守望欧洲足球二十余载，总有一抹景象如钟表般分秒不差、恒久如常：那是深红色的战袍、背上的7号，以及坚信葡萄牙能够击败任何强敌的铁血信念。\n\n如今，这个时代终于落下了帷幕。周四，41岁的克里斯蒂亚诺·罗纳尔多通过视频向球迷宣告退出葡萄牙国家队。在长达23年的国家队一线队生涯后，他确认自己将“交还这件7号战袍”。\n\n## 史诗征程的戛然而止\n\n这一纸声明，为一个充满龃龉与波折的秋天画上了静默的句号。C罗在国家队的最后一战定格在9月24日欧国联1-0力克威尔士的比赛中。随后在对阵挪威的比赛里，主教练若热·热苏斯（Jorge Jesus）将他按在替补席上，这位老将随后离开训练营，最终认定自己在该主帅手下的国家队旅程已走到尽头。\n\n然而，近几周的嫌隙丝毫无法掩盖过往岁月建立起的丰碑。葡萄牙足协盛赞他是“一位鼓舞人心的领袖、奉献精神的楷模，也是国家队精神的终极图腾”，并承诺将为其举行举国致敬的告别仪式。C罗离开国际赛场时，身后留下了146粒国家队进球的傲人纪录。尽管他在沙特利雅得胜利对职业生涯千球伟业的追逐仍在继续——目前其进球总数已达985球，但在葡萄牙国旗下冲锋陷阵的使命已然圆满落幕。\n\n## 重绘一个国家的体育版图\n\n要想真正理解C罗为葡萄牙带来了什么，就必须重温2003年8月他对阵哈萨克斯坦上演首秀前这支球队的处境。在C罗到来之前，葡萄牙足球在整个漫长历史中仅打进过3次世界杯和3次欧洲杯。而在C罗领衔战线的岁月里，他出战了6届世界杯与6届欧洲杯，大赛出线不再是奢望与奇迹，而成了理所当然的常态。\n\n他佩戴队长袖标率队夺得了2016年欧洲杯冠军，斩获葡萄牙队史首座成年大赛桂冠，此后又在2019年和2025年两度捧起欧国联奖杯。他凭借一己之力将一个弹丸小国扛上了世界足球最顶级的舞台，并让身边的队友深信：他们本就属于这片群雄逐鹿的巨人丛林。\n\n## 留给这个世界的精神遗产\n\n对于我们这些在东南亚乃至整个发展中国家看着他长大的球迷而言，C罗从来都不只是一名进球机器。他是一个活生生的范例，向世人证明了近乎偏执的自律、不可动摇的自信与坚不可摧的意志，能够将一个出生在大西洋偏僻海岛上的穷孩子推向怎样不可思议的巅峰。\n\n“进球终会过去，奖杯会被放进博物馆，纪录也迟早会被后人打破，”C罗在告别视频中动情地说道，“但唯有一件事是岁月永远无法抹去的——那就是我们在人们心中所占据的位置。”\n\n在未来的数十年里，一代又一代怀揣梦想的少年仍将披上葡萄牙的深红战袍。然而，再也不会有人能像那个拒绝向命运和小国版图低头的马德拉少年一样，将这件传奇的7号球衣填得如此厚重、如此滚烫。",
+      "social_post": "41岁的C罗正式宣布从葡萄牙国家队退役。23载国家队生涯、146粒国家队进球、2016年欧洲杯问鼎……他正式交还了属于他的传奇7号战袍。虽然他仍将在利雅得胜利继续追逐俱乐部千球梦想，但在国家队，他彻底重塑了一个国度的足球历史，激励了全球无数追梦者。在你心中，C罗国家队生涯最难忘的瞬间是哪一幕？欢迎在评论区分享。#C罗 #葡萄牙国家队 #CR7 #传奇落幕"
+    },
+    "ru": {
+      "headline": "Криштиану Роналду уходит из сборной Португалии: долгий путь легендарной «семерки» завершен",
+      "subheadline": "23 года в команде, 146 голов и титул чемпионов Европы: 41-летний капитан прощается с национальной сборной, закрывая грандиозную эпоху мирового футбола.",
+      "body_markdown": "В душной ночи Пномпеня, за более чем двадцать лет просмотров европейского футбола перед светящимся экраном телевизора, была одна неизменная вещь, по которой всегда можно было сверять часы: вишнево-красная футболка, седьмой номер на спине и непоколебимая вера в то, что Португалия способна сломить абсолютно любого соперника.\n\nЭта эпоха подошла к концу. В четверг 41-летний Криштиану Роналду в видеообращении к болельщикам объявил о завершении карьеры в сборной, подтвердив, что «возвращает футболку с номером 7» после 23 лет выступлений на высшем международном уровне.\n\n## Внезапный финал монументального пути\n\nЭто заявление поставило негромкую точку в непростой осенней истории. Свой последний матч за «селесао» Роналду провел 24 сентября, когда португальцы обыграли Уэльс со счетом 1:0 в Лиге наций. Оказавшись на скамейке запасных в поединке против Норвегии по решению главного тренера Жорже Жезуша (Jorge Jesus), звездный форвард покинул расположение сборной и в итоге пришел к выводу, что его совместный путь с этим наставником исчерпан.\n\nВпрочем, размолвки последних недель не способны бросить тень на масштаб его наследия. Португальская футбольная федерация назвала Криштиану «вдохновляющим лидером, примером самоотдачи и главным символом духа нашей национальной команды», пообещав организовать для него масштабные общенациональные проводы. Роналду уходит из сборной с феноменальным показателем в 146 забитых мячей. И пусть его погоня за тысячей голов за карьеру продолжается в Саудовской Аравии в составе «Аль-Насра» (сейчас на его счету 985 мячей), долг перед флагом своей страны отдан сполна.\n\n## Как один человек переписал футбольную карту страны\n\nЧтобы осознать, что именно Роналду сделал для Португалии, нужно вспомнить, кем была эта сборная до его дебюта против Казахстана в августе 2003 года. За всю свою историю до прихода Криштиану португальцы пробивались лишь на три чемпионата мира и три чемпионата Европы. Когда же во главе атаки встал Роналду, сыгравший на шести мундиалях и шести Евро, выход в финальную стадию крупных турниров превратился из заветной мечты в абсолютную норму.\n\nОн привел сборную к первому в ее истории взрослому трофею на Евро-2016, а затем пополнил коллекцию титулами Лиги наций в 2019 и 2025 годах. Он вытащил скромную страну на главные мировые футбольные арены и заставил партнеров поверить, что их законное место — среди признанных футбольных гигантов.\n\n## Наследие, подаренное миру\n\nДля тех из нас, кто наблюдал за ним из Юго-Восточной Азии и развивающихся уголков планеты, Роналду всегда был кем-то несоизмеримо большим, чем просто бомбардир. Он был живым доказательством того, чего могут достичь фанатичная дисциплина, железная вера в себя и несгибаемая воля парня из простой семьи с затерянного в Атлантике острова.\n\n«Голы проходят, кубки отправляются в музеи, рекорды рано или поздно бьют, — произнес Роналду в прощальном слове. — Но есть нечто, над чем время не властно: это то место, которое мы занимаем в сердцах людей».\n\nВ грядущие десятилетия новые поколения мальчишек будут примерять багровую футболку сборной Португалии. Но вряд ли кому-то удастся наполнить седьмой номер такой же невероятной силой, как пареньку с Мадейры, который просто отказался верить в то, что у его страны есть хоть какие-то границы.",
+      "social_post": "Криштиану Роналду официально завершил карьеру в сборной Португалии в возрасте 41 года. 23 года в майке национальной команды, 146 голов и триумф на Евро-2016: легендарный капитан оставляет свой 7-й номер, продолжая клубную карьеру в «Аль-Насре». Он изменил статус португальского футбола и вдохновил целые поколения по всему миру. А какое воспоминание об игре Криштиану за Португалию навсегда осталось у вас? Делитесь в комментариях! #Роналду #CR7 #Португалия #Футбол"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Cristiano Ronaldo"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/2020-02-17_Encontro_com_T%C3%A9cnico_do_Flamengo%2C_Jorge_Jesus_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:2020-02-17_Encontro_com_T%C3%A9cnico_do_Flamengo,_Jorge_Jesus_(cropped).jpg",
+        "artist": "Palácio do Planalto",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "(Brasília - DF, 17/02/2020) Encontro com Técnico do Flamengo, Jorge Jesus. Foto: Marcos Corrêa/PR",
+        "width": 1200,
+        "height": 1657,
+        "subject": "Jorge Jesus"
+      }
+    ]
+  },
+  {
     "id": "2026-11-05-athl-26b539",
     "slug": "the-great-wall-with-a-heart-the-life-and-burden-of-yao-ming",
     "date": "2026-11-05",
