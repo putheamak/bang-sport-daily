@@ -1,6 +1,8 @@
 """Daily run: collect -> rank -> write (EN) -> adapt (ZH/RU) -> save -> export -> review/publish -> website."""
 from __future__ import annotations
 
+import re
+
 from . import collect as C
 from .common import (MEMOS, STATE, log_to_file, load_articles, load_athletes, load_config, log, read_json, read_text,
                      save_articles, slugify, today, write_json)
@@ -20,6 +22,41 @@ def _news_context(item: dict) -> dict:
     return {"title": item["title"], "sport": item.get("sport"), "sources": src, "source_links": links}
 
 
+def must_cover(memo: str) -> list[tuple[str, list[str]]]:
+    """Memo lines 'Must cover: <topic>' followed by optional 'Source: <url>' lines."""
+    out: list[tuple[str, list[str]]] = []
+    for line in memo.splitlines():
+        low = line.strip().lower()
+        if low.startswith("must cover:"):
+            out.append((line.split(":", 1)[1].strip(), []))
+        elif low.startswith("source:") and out:
+            url = line.split(":", 1)[1].strip()
+            if url.startswith("http"):
+                out[-1][1].append(url)
+    return [(t, u) for t, u in out if t]
+
+
+def _must_context(topic: str, urls: list[str], items: list[dict]) -> dict | None:
+    from rapidfuzz import fuzz
+    words = [w for w in re.findall(r"\w+", topic.lower()) if len(w) > 3]
+    matched = [i for i in items if fuzz.token_set_ratio(topic.lower(), i["title"].lower()) >= 60
+               or (words and sum(w in i["title"].lower() for w in words) >= max(2, len(words) // 2))][:4]
+    src, links = f"EDITOR'S ASSIGNMENT: {topic}\n", []
+    for i in matched:
+        src += f"\nHEADLINE: {i['title']}\nPUBLISHER: {i['source']}\nPUBLISHED: {i['published']}\nSUMMARY: {i['summary']}\n"
+        links.append({"title": f"{i['source']}: {i['title']}", "url": i["link"]})
+    got_text = False
+    for u in urls:
+        body = C.fetch_full_text(u)
+        if body:
+            got_text = True
+            src += f"\nARTICLE TEXT from {u} (for facts only, do not copy):\n{body}\n"
+        links.append({"title": u.split("/")[2], "url": u})
+    if not matched and not got_text:
+        return None
+    return {"title": topic, "sources": src, "source_links": links, "_matched": matched}
+
+
 def run_daily(publish_now: bool | None = None) -> list[dict]:
     log_to_file()
     cfg = load_config()
@@ -29,9 +66,26 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     memo = read_text(MEMOS / f"{date}.md").lower()
     new: list[dict] = []
 
+    raw_memo = read_text(MEMOS / f"{date}.md")
+    musts = must_cover(raw_memo)
+    items = C.collect(cfg) if (plan.get("news", 0) or musts) else []
+    done_titles = []
+    for topic, urls in musts:
+        ctx = _must_context(topic, urls, items)
+        if not ctx:
+            log.error("Must cover %r: no source text found — add a 'Source: <link>' line to the memo", topic)
+            continue
+        log.info("Must cover: %s (%d source(s))", topic, len(ctx["source_links"]))
+        try:
+            new.append(write_article(cfg, "news", ctx, date))
+            done_titles += [x["title"] for x in ctx.pop("_matched", [])]
+        except Exception as e:  # noqa: BLE001
+            log.error("Must-cover story failed (%s): %s", topic, e)
+
     if plan.get("news", 0) and "skip: news" not in memo:
-        picked = C.select(C.collect(cfg), plan["news"], plan.get("max_per_sport", 1))
-        done_titles = []
+        n_left = max(0, plan["news"] - len(new))
+        items = [i for i in items if i["title"] not in done_titles]
+        picked = C.select(items, n_left, plan.get("max_per_sport", 1)) if n_left else []
         for it in picked:
             log.info("Picked [%s %.1f] %s", it.get("sport"), it["score"], it["title"])
             try:
@@ -39,7 +93,8 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
                 done_titles.append(it["title"])
             except Exception as e:  # noqa: BLE001
                 log.error("News article failed (%s): %s", it["title"], e)
-        C.mark_seen(done_titles)   # failed stories stay available for the next run
+
+    C.mark_seen(done_titles)   # failed stories stay available for the next run
 
     if plan.get("history", 0) and "skip: history" not in memo:
         try:
