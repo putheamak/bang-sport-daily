@@ -24,6 +24,6 @@ jobs:
       - run: |
           git config user.name  "sportnews-bot"
           git config user.email "sportnews-bot@users.noreply.github.com"
-          git add docs
+          git add data docs
           git diff --cached --quiet || git commit -m "Rebuild website"
           git push
