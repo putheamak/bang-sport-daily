@@ -14,15 +14,26 @@ import urllib.request
 
 from .common import log
 
-UA = "BangSportDaily/1.0 (static sports site; https://github.com) python-urllib"
+UA = "BangSportDaily/1.1 (https://putheamak.github.io/bang-sport-daily/; sports news site) urllib"
 OK_LICENSE = re.compile(r"\b(CC|Creative Commons|Public domain|PD|GFDL|Attribution|No restrictions)\b", re.I)
 BAD_NAME = re.compile(r"(logo|flag|map|icon|crest|emblem|signature|badge|coat[_ ]of[_ ]arms|kit|diagram|\.svg$)", re.I)
 TAG_RE = re.compile(r"<[^>]+>")
 
 
+def _ua() -> str:
+    """Wikimedia requires a descriptive User-Agent with a contact URL (generic library agents get blocked)."""
+    import os
+    site = os.environ.get("SITE_URL") or ""
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if not site and repo:
+        owner, name = repo.split("/", 1)
+        site = f"https://{owner.lower()}.github.io/{name}/"
+    return f"BangSportDaily/1.1 (+{site or 'https://github.com'}; sports news site) urllib/3"
+
+
 def _get(api: str, params: dict) -> dict:
     url = api + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    req = urllib.request.Request(url, headers={"User-Agent": _ua(), "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.loads(r.read().decode())
 
@@ -95,9 +106,9 @@ def find_images(subjects: list[str], max_n: int = 3) -> list[dict]:
                 out.append(info)
                 log.info("Photo for %r: %s (%s, %s)", subj, name, info["artist"][:40], info["license"])
             else:
-                log.info("No free-licence photo for %r (%s)", subj, name)
+                log.warning("No free-licence photo for %r (%s)", subj, name)
         except Exception as e:  # noqa: BLE001
-            log.info("Photo lookup failed for %r: %s", subj, str(e)[:160])
+            log.warning("Photo lookup failed for %r: %s", subj, str(e)[:300])
     return out
 
 
@@ -114,7 +125,9 @@ def subjects_for(article: dict) -> list[str]:
 
 
 def attach_images(article: dict, max_n: int = 3) -> dict:
-    article["images"] = find_images(subjects_for(article), max_n)
+    subs = subjects_for(article)
+    log.info("Looking up photos for %s: %s", article.get("id"), subs[:6])
+    article["images"] = find_images(subs, max_n)
     return article
 
 

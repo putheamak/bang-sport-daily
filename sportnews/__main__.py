@@ -51,7 +51,8 @@ def main(argv=None):
         from .exporters import compile_book
         print(compile_book(cfg, a.month, "published" if a.published_only else None, a.lang))
     elif a.cmd == "site":
-        from .common import load_articles, save_articles
+        from .common import load_articles, log_to_file, save_articles
+        log_to_file("last_rebuild.log")
         from .site import build_site
         if cfg["publish"].get("photos", True):
             from .images import backfill
