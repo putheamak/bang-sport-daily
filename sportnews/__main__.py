@@ -51,7 +51,13 @@ def main(argv=None):
         from .exporters import compile_book
         print(compile_book(cfg, a.month, "published" if a.published_only else None, a.lang))
     elif a.cmd == "site":
+        from .common import load_articles, save_articles
         from .site import build_site
+        if cfg["publish"].get("photos", True):
+            from .images import backfill
+            arts = load_articles()
+            if backfill(arts):
+                save_articles(arts)
         build_site(cfg)
 
 

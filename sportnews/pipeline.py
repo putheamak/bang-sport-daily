@@ -61,7 +61,22 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
             log.error("Athlete story failed (%s): %s", a["name"], e)
 
     write_json(STATE, state)
+    if cfg["publish"].get("photos", True):
+        from .images import attach_images
+        for a in new:
+            try:
+                attach_images(a)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Photos failed for %s: %s", a["id"], e)
+    from .collect import save_wire
+    save_wire(cfg)
     articles = new + load_articles()
+    if cfg["publish"].get("photos", True):
+        from .images import backfill
+        try:
+            backfill(articles)           # older published stories that never had a photo lookup
+        except Exception as e:  # noqa: BLE001
+            log.warning("Photo backfill failed: %s", e)
     save_articles(articles)
     log.info("Wrote %d new articles for %s", len(new), date)
     if not new:

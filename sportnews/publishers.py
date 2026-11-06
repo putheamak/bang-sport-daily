@@ -67,7 +67,12 @@ def send_for_review(cfg: dict, items: list[dict]) -> None:
         langs = "/".join(l.upper() for l in LANGS if a.get(l))
         msg = (f"📝 DRAFT {a['type'].upper()} · {a.get('sport', '')} · {langs}\nID: {a['id']}\n\n"
                f"{en.get('headline', '')}\n\n{en.get('body_markdown', '')}\n\n⚠️ Check:\n{verify}\n\n"
-               f"Sources: {len(a.get('sources', []))}\nApprove → GitHub › Actions › Publish › Run workflow › ID")
+               f"Sources: {len(a.get('sources', []))} · Originality: "
+               f"{(1 - (a.get('originality') or {}).get('overlap', 0)):.0%} own words\n\n"
+               "Before approving (Google requires human fact-checking of AI text):\n"
+               "☐ Names, dates, scores and quotes match the sources\n☐ Source links open and say what the story says\n"
+               "☐ Headline is accurate, not clickbait\n☐ Nothing about private life, health, betting\n\n"
+               "Approve → GitHub › Actions › Publish › Run workflow › ID")
         try:
             telegram_send(chat, msg)
         except Exception as e:  # noqa: BLE001
@@ -96,6 +101,14 @@ def publish_articles(cfg: dict, ids: list[str]) -> list[str]:
     else:
         targets = _match(articles, ids)
     done = []
+    if cfg["publish"].get("photos", True):
+        from .images import attach_images
+        for a in targets:
+            if "images" not in a:
+                try:
+                    attach_images(a)
+                except Exception as e:  # noqa: BLE001
+                    log.warning("Photos failed for %s: %s", a["id"], e)
     for a in targets:
         if cfg["publish"].get("telegram"):
             for lang in LANGS:

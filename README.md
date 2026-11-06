@@ -63,6 +63,9 @@ Each month you can compile an ebook: `python -m sportnews book 2026-11 --publish
 - **Privacy:** on the free tier, Google may use what you send to improve its models. That's fine for public sport news, but don't put private information in your memos.
 - **Quality:** Flash is good but not the best for long, emotional stories. If the site grows, switch `ai.provider: claude` and add `ANTHROPIC_API_KEY`. That costs about $0.50–1 a day.
 
+## Compliance (Google, AdSense, privacy)
+See **COMPLIANCE.md** for what the system does and the checklist to finish before monetizing.
+
 ## Rules built in
 - Feeds are used as **sources of facts**, never copied. Every story lists its sources, and the AI is told never to invent quotes or scores.
 - Your memos are used only as **your** first-person view.

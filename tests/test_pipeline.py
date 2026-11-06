@@ -31,8 +31,10 @@ def repo(tmp_path, monkeypatch):
         monkeypatch.delenv(k, raising=False)
     import sportnews.common as c
     importlib.reload(c)
-    for m in ["llm", "collect", "writer", "exporters", "publishers", "site", "pipeline"]:
+    for m in ["llm", "collect", "images", "writer", "exporters", "publishers", "site", "pipeline"]:
         importlib.reload(importlib.import_module(f"sportnews.{m}"))
+    images = importlib.import_module("sportnews.images")
+    monkeypatch.setattr(images, "find_images", lambda subjects, max_n=3: [])   # no network in tests
     return tmp_path
 
 
@@ -150,3 +152,82 @@ def test_extract_json():
     from sportnews.writer import extract_json
     assert extract_json('x <article_json>{"a":1}</article_json>')["a"] == 1
     assert extract_json('```json\n{"a":2}\n```')["a"] == 2
+
+
+def test_wikimedia_photos(monkeypatch):
+    from sportnews import images
+    calls = []
+
+    def fake_get(api, params):
+        calls.append((api, params.get("titles") or params.get("srsearch")))
+        if "wikipedia" in api and params.get("prop") == "pageimages":
+            t = params["titles"]
+            img = {"Yao Ming": "Yao_Ming_2009.jpg", "Houston Rockets": "Houston_Rockets_logo.svg",
+                   "Toyota Center": "Toyota_Center_fair_use.jpg"}.get(t)
+            return {"query": {"pages": [{"title": t, "pageimage": img} if img else {"title": t, "missing": True}]}}
+        if "wikipedia" in api:
+            return {"query": {"search": []}}
+        name = params["titles"]
+        if "fair_use" in name:
+            return {"query": {"pages": [{"missing": True}]}}          # non-free files are not on Commons
+        return {"query": {"pages": [{"imageinfo": [{"thumburl": "https://upload.wikimedia.org/x/1200px-Yao.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yao_Ming_2009.jpg", "width": 2000, "height": 1500,
+            "thumbwidth": 1200, "thumbheight": 900,
+            "extmetadata": {"LicenseShortName": {"value": "CC BY-SA 2.0"}, "Artist": {"value": "<a href='x'>Keith Allison</a>"},
+                            "LicenseUrl": {"value": "https://creativecommons.org/licenses/by-sa/2.0"}}}]}]}}
+    monkeypatch.setattr(images, "_get", fake_get)
+    out = images.find_images(["Yao Ming", "Houston Rockets", "Toyota Center"])
+    assert len(out) == 1 and out[0]["artist"] == "Keith Allison" and out[0]["license"] == "CC BY-SA 2.0"
+    assert out[0]["subject"] == "Yao Ming"
+    assert not any("logo" in str(c[1]) for c in calls if "commons" in c[0])     # logos skipped before licence check
+
+
+def test_site_layout_with_photo(repo):
+    from sportnews import site
+    from sportnews.common import save_articles
+    a = {"id": "x1", "slug": "yao", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "athlete_story",
+         "status": "published", "model": "m", "sport": "Basketball", "tags": [], "athletes": [], "facts_to_verify": [],
+         "sources": [{"title": "S", "url": "https://s"}], "published_to": [],
+         "images": [{"url": "https://upload.wikimedia.org/a.jpg", "page": "https://commons.wikimedia.org/p", "artist": "Keith Allison",
+                     "license": "CC BY-SA 2.0", "license_url": "https://cc", "subject": "Yao Ming"}],
+         "en": {"headline": "Yao", "subheadline": "d", "body_markdown": "P1\n\n## H\nP2\n\nP3", "social_post": "p"}}
+    save_articles([a])
+    site.build_site(cfg())
+    page = (repo / "docs/en/yao.html").read_text()
+    assert "upload.wikimedia.org/a.jpg" in page and "Keith Allison" in page and "CC BY-SA 2.0" in page
+    assert "<h2>H</h2>\n<p>P2</p>" in page and "t.me/share/url" in page
+    # compliance: real author byline (no invented names), no Google Fonts, legal pages, author page
+    assert ">Mak<" in page and "Nadia Rennick" not in page and "reviewed by the author" in page
+    assert "fonts.googleapis.com" not in page and '"url": "https://me.github.io/gsd/en/author.html"' in page
+    for f in ("editorial", "privacy", "terms", "contact", "author", "about"):
+        assert (repo / f"docs/en/{f}.html").exists() and (repo / f"docs/ru/{f}.html").exists()
+    assert "pen name" not in (repo / "docs/en/about.html").read_text().lower()
+    assert 'name="robots" content="noindex' in (repo / "docs/en/section-tennis.html").read_text()   # empty section
+    assert 'hreflang="x-default"' in page and (repo / "docs/fonts/inter-latin-wght-normal.woff2").exists()
+    assert not (repo / "docs/ads.txt").exists() and not (repo / "docs/CNAME").exists()
+    home = (repo / "docs/en/index.html").read_text()
+    assert 'class="ticker"' in home and "section-athlete_story.html" in home
+    assert (repo / "docs/zh/section-football.html").exists()
+
+
+def test_pen_names_and_monetization_switches(repo, monkeypatch):
+    import yaml
+    from sportnews import site
+    from sportnews.common import save_articles, ROOT
+    c = yaml.safe_load(open(ROOT / "config.yaml"))
+    c["site"].update(bylines="pen_names", custom_domain="bangsportdaily.com", adsense_client="ca-pub-123", wire_box=False)
+    yaml.safe_dump(c, open(ROOT / "config.yaml", "w"), allow_unicode=True)
+    save_articles([{"id": "x", "slug": "x", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "athlete_story",
+                    "status": "published", "sources": [], "published_to": [], "en": {"headline": "H", "body_markdown": "B"}}])
+    site.build_site(cfg())
+    assert "Nadia Rennick" in (repo / "docs/en/x.html").read_text()
+    assert (repo / "docs/CNAME").read_text().strip() == "bangsportdaily.com"
+    assert (repo / "docs/ads.txt").read_text().startswith("google.com, pub-123, DIRECT")
+    assert "adsbygoogle.js?client=ca-pub-123" in (repo / "docs/en/index.html").read_text()
+
+
+def test_originality():
+    from sportnews.originality import check, too_close
+    src = "Alan Jones, the first driver to win a world title for Williams, has died at the age of 80 after a short illness."
+    assert too_close(check("Alan Jones, the first driver to win a world title for Williams, has died at the age of 80. Sad.", src))
+    assert not too_close(check("Williams' first world champion is gone. Jones, 80, passed away after a brief illness.", src))

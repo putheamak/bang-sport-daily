@@ -18,6 +18,8 @@ invent new personal experiences for the author.
 ACCURACY RULES (most important):
 - Use only facts from the SOURCE MATERIAL or your web search results. Never invent quotes, scores, dates,
   transfer fees, ages or statistics. Do not copy sentences from sources: write original prose.
+- Add real value the sources don't have: context, history, comparison, what it means for fans — not a rewording.
+- Direct quotes from people must be short, exact and attributed (e.g. "…," he told BBC Sport).
 - If something is unclear or sources disagree, say so or leave it out, and list it in "facts_to_verify".
 - No betting advice, no gossip about private life, health or relationships.
 
@@ -31,7 +33,10 @@ ACCURACY RULES (most important):
 
 OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing after it:
 {{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
-  "tags": [str], "athletes": [str], "facts_to_verify": [str], "sources_used": [{{"title": str, "url": str}}]}}
+  "tags": [str], "athletes": [str], "image_subjects": [str], "facts_to_verify": [str],
+  "sources_used": [{{"title": str, "url": str}}]}}
+- image_subjects: 2-4 exact English Wikipedia article titles for photos — the main people first, then teams,
+  venues or events (e.g. "Yao Ming", "Houston Rockets", "Toyota Center").
 - body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings.
 - social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
 """
@@ -122,6 +127,24 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
                                      style=read_text(VOICE / "style_profile.md"), memo=read_text(MEMOS / "general.md"))
         log.info("Writing %s (EN) ...", kind)
         en, cites, model = _ask_json(cfg, system, _write_prompt(kind, ctx, date), search=True)
+        # Originality: rewrite once if the story repeats the source text too closely
+        from .originality import check, too_close
+        orig = check(en.get("body_markdown", ""), ctx.get("sources", ""))
+        if too_close(orig):
+            log.warning("Story too close to its source (%.0f%% overlap, %d-word run) — rewriting", orig["overlap"] * 100, orig["longest"])
+            fix = (_write_prompt(kind, ctx, date) + "\n\nIMPORTANT: your previous draft copied these phrases from the source. "
+                   "Rewrite the whole story in completely your own words, keeping the facts:\n- " + "\n- ".join(orig["phrases"]))
+            try:
+                en2, cites2, model = _ask_json(cfg, system, fix, search=False)
+                orig2 = check(en2.get("body_markdown", ""), ctx.get("sources", ""))
+                if orig2["overlap"] <= orig["overlap"]:
+                    en, orig = en2, orig2
+                    cites = cites + cites2
+            except Exception as e:  # noqa: BLE001
+                log.warning("Rewrite failed: %s", e)
+        if too_close(orig):
+            en.setdefault("facts_to_verify", []).insert(
+                0, f"ORIGINALITY: {orig['overlap']:.0%} of the text repeats the source word-for-word — rewrite before publishing")
         loc = {}
         if langs:
             script = "Simplified" if cfg["languages"].get("chinese_script", "simplified") == "simplified" else "Traditional"
@@ -145,7 +168,9 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         "date": date, "created": now_iso(cfg), "type": kind, "status": "draft", "model": model,
         "sport": en.get("sport") or ctx.get("sport") or "",
         "tags": en.get("tags", []), "athletes": en.get("athletes", []),
+        "image_subjects": en.get("image_subjects", []),
         "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
+        "originality": locals().get("orig"),
         "en": {k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
     }
     for l in langs:

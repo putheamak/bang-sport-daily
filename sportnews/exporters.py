@@ -49,8 +49,11 @@ def _add_md(doc, md: str, lang: str) -> None:
         if not block:
             continue
         if block.startswith("#"):
-            _font(doc.add_heading(block.lstrip("#").strip(), level=2), lang)
-            continue
+            first, _, rest = block.partition("\n")
+            _font(doc.add_heading(first.lstrip("#").strip(), level=2), lang)
+            if not rest.strip():
+                continue
+            block = rest.strip()
         p = doc.add_paragraph()
         for part in re.split(r"(\*\*[^*]+\*\*|\*[^*]+\*)", block.replace("\n", " ")):
             if part:

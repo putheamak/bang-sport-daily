@@ -9,11 +9,29 @@ site:
   tagline_en: "World sport, told with a human voice"
   tagline_zh: "用有温度的文字讲述世界体育"
   tagline_ru: "Мировой спорт с человеческим голосом"
-  author: "Mak"
+  author: "Mak"                 # the real person who reviews and approves every story
+  # ---- Compliance (Google Search, AdSense, privacy laws) — see README "Compliance" ----
+  # bylines: "author"    = "By Mak" on every story (RECOMMENDED: real, accountable author)
+  #          "desk"      = "Bang Football Desk · edited by Mak" (no invented people)
+  #          "pen_names" = invented columnist names — NOT recommended: since Oct 2026 Google calls
+  #                        made-up author names "deceptive authorship" (hurts ranking and ad approval)
+  bylines: "author"
+  author_bio_en: "Mak is the founder and editor of Bang Sport Daily. Based in Phnom Penh, Cambodia, he has followed world sport for years and reviews every story before it is published."
+  author_bio_zh: "Mak 是棒体育日报的创办人兼主编，常驻柬埔寨金边，多年关注世界体育，每篇文章发布前均由他审核。"
+  author_bio_ru: "Mak — основатель и редактор Bang Sport Daily. Живёт в Пномпене (Камбоджа), много лет следит за мировым спортом и проверяет каждый материал перед публикацией."
+  contact_email: ""             # a dedicated address readers can write to (required for AdSense). e.g. "hello@yourdomain.com"
+  custom_domain: ""             # e.g. "bangsportdaily.com" — needed for AdSense; writes docs/CNAME
+  adsense_client: ""            # e.g. "ca-pub-1234567890123456" — only after AdSense approval; adds ads.txt
+  wire_box: true                # "Around the world" headlines from other outlets. Turn OFF before monetizing
+                                #   (some RSS feeds, e.g. BBC, allow non-commercial use only)
   timezone: "Asia/Phnom_Penh"
   # Your GitHub Pages address (used for links, sitemap, RSS). On GitHub Actions it is detected
   # automatically from the repo name, so it still works if you name the repo differently.
   url: "https://putheamak.github.io/bang-sport-daily"
+  # Your public Telegram channels (shown as "Follow us" buttons). Leave empty until they exist.
+  telegram_en: ""          # e.g. "bangsportdaily"  (without @)
+  telegram_zh: ""
+  telegram_ru: ""
 
 # ---------- Languages ----------
 # English is written first (in your voice); then adapted — not word-for-word translated — to the others.
@@ -67,6 +85,7 @@ publish:
   email_digest: true
   markdown: true
   docx: true
+  photos: true             # free-licence photos from Wikimedia Commons, with credits
   drafts_on_site: false    # true = adds docs/review.html with drafts (visible to anyone who finds it!)
 
 # ---------- News sources (free RSS) ----------

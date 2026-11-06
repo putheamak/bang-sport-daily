@@ -134,6 +134,22 @@ def fetch_full_text(url: str, limit: int = 6000) -> str:
         return ""
 
 
+_LAST: list[dict] = []
+
+
+def save_wire(cfg: dict, per_lang: int = 12) -> None:
+    """Save today's top headlines per language (links to the original outlets) for the 'Around the world' box."""
+    from .common import DATA
+    if not _LAST:
+        return
+    wire = {}
+    for lang in ("en", "zh", "ru"):
+        items = [i for i in _LAST if i["lang"] == lang][:per_lang]
+        wire[lang] = [{"title": i["title"], "source": i["source"], "link": i["link"], "sport": i.get("sport"),
+                       "published": i.get("published")} for i in items]
+    write_json(DATA / "wire.json", wire)
+
+
 def collect(cfg: dict) -> list[dict]:
     seen = read_json(SEEN, {"titles": []})
     items: list[dict] = []
@@ -144,6 +160,7 @@ def collect(cfg: dict) -> list[dict]:
         it["score"] = score(it, cfg)
     items = [i for i in items if i["score"] > 0]
     items.sort(key=lambda x: -x["score"])
+    _LAST[:] = items
     log.info("Candidate stories after clustering: %d", len(items))
     return items
 
