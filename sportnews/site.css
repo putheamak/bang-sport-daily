@@ -76,7 +76,7 @@ img{max-width:100%;display:block}
 
 /* ---- media / covers ---- */
 .media{position:relative;overflow:hidden;background:var(--soft);aspect-ratio:16/9;border-radius:var(--r)}
-.media .ph{width:100%;height:100%;object-fit:cover;object-position:50% 25%;transition:transform .4s}
+.media .ph{width:100%;height:100%;object-fit:cover;object-position:50% 18%;transition:transform .4s}
 a:hover .media .ph{transform:scale(1.03)}
 .cover{display:flex;align-items:flex-end;padding:12px 14px;color:#fff;font:700 clamp(18px,3vw,34px)/1 var(--head);text-transform:uppercase;letter-spacing:1px;
   background:linear-gradient(135deg,var(--kc,var(--k-default)) 0%,color-mix(in srgb,var(--kc,var(--k-default)) 55%,#000) 100%)}
@@ -188,7 +188,9 @@ a:hover .media .ph{transform:scale(1.03)}
 .share a,.share button{font:600 12.5px var(--ui);border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:6px 11px;border-radius:999px;cursor:pointer}
 .share a:hover,.share button:hover{border-color:var(--ink)}
 .hero-fig{margin:6px 0 22px}
-.hero-fig .heroimg{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:50% 25%;border-radius:var(--r)}
+.hero-fig{background:var(--soft);border-radius:var(--r);overflow:hidden}
+.hero-fig img.heroimg{display:block;width:auto;max-width:100%;max-height:440px;margin:0 auto;object-fit:contain}
+.hero-fig figcaption{background:var(--bg);padding:6px 0 0}
 .hero-fig .cover.heroimg{position:relative;font-size:clamp(28px,6vw,64px);padding:22px}
 figcaption{font-size:12.5px;color:var(--muted);padding-top:6px;line-height:1.45}
 figcaption a{text-decoration:underline}
@@ -201,8 +203,11 @@ figcaption a{text-decoration:underline}
 .l-zh .prose h2{font-family:var(--zh)}
 .prose blockquote{margin:1.4em 0;padding:4px 0 4px 18px;border-left:4px solid var(--red);font-style:italic;font-size:21px}
 .prose a{text-decoration:underline;text-underline-offset:3px}
-figure.inline{margin:1.6em 0}
-figure.inline img{width:100%;max-height:520px;object-fit:cover;border-radius:var(--r)}
+figure.inline{margin:.3em 0 1em 24px;float:right;width:min(42%,300px);clear:right}
+figure.inline img{width:100%;height:auto;max-height:380px;object-fit:contain;background:var(--soft);border-radius:var(--r)}
+figure.inline figcaption{font-size:11.5px}
+.prose h2{clear:both}
+@media (max-width:620px){figure.inline{float:none;width:auto;margin:1.2em 0}figure.inline img{max-height:340px;margin:0 auto;width:auto;max-width:100%}}
 .sources{margin-top:30px;border-top:4px solid var(--ink);padding-top:10px;font-size:14px}
 .sources h4{font:700 14px var(--head);text-transform:uppercase;letter-spacing:1px;margin:0 0 6px}
 .sources ul{padding-left:18px;margin:0 0 10px}.sources a{word-break:break-word;color:var(--ink2);text-decoration:underline}
