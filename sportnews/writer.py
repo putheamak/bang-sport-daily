@@ -89,11 +89,23 @@ def _ask_json(cfg, system, prompt, search):
         return extract_json(text), sources + s2, model
 
 
+def split_memo(memo: str) -> tuple[str, str]:
+    """(general part, assignment part). Everything from the first 'Must cover:' line on belongs to assignments."""
+    lines = (memo or "").splitlines()
+    for i, ln in enumerate(lines):
+        if ln.strip().lower().startswith("must cover:"):
+            return "\n".join(lines[:i]).strip(), "\n".join(lines[i:]).strip()
+    return (memo or "").strip(), ""
+
+
 def _write_prompt(kind: str, ctx: dict, date: str) -> str:
     parts = [TASKS[kind].format(date=date, month_day=date[5:], **ctx.get("fmt", {}))]
-    daily = read_text(MEMOS / f"{date}.md")
-    if daily:
-        parts.append(f"<todays_memo_from_author>\n{daily}\n</todays_memo_from_author>")
+    daily = split_memo(read_text(MEMOS / f"{date}.md"))
+    memo_part = ctx.get("assignment_memo") if ctx.get("assignment_memo") else daily[0]
+    if memo_part:
+        parts.append(f"<todays_memo_from_author>\n{memo_part}\n</todays_memo_from_author>\n"
+                     "The memo is background on the author's mood and views today. Stay strictly on the TASK topic "
+                     "above; never switch the story to a different subject mentioned in the memo.")
     if ctx.get("athlete_memo"):
         parts.append(f"<author_memo_about_this_athlete>\n{ctx['athlete_memo']}\n</author_memo_about_this_athlete>")
     if ctx.get("sources"):
