@@ -1,0 +1,17 @@
+2026-11-06 10:55:48,886 INFO Importing editor's article: 2026-11-06-acl-two-cambodian-clubs.md
+2026-11-06 10:55:48,887 INFO Adapting to zh, ru ...
+2026-11-06 10:55:49,762 INFO Gemini models available: 24 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-06 10:56:28,176 WARNING First Gemini error in full: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 10:56:28,176 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 10:57:07,492 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 10:58:14,560 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 11:02:32,775 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-06 11:02:32,926 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.
+2026-11-06 11:02:51,174 INFO Looking up photos for 2026-11-06-news-cc35df: ['Morodok Techo National Stadium', 'Olympic Stadium (Phnom Penh)', 'Preah Khan Reach Svay Rieng FC', 'Phnom Penh Crown FC']
+2026-11-06 11:02:51,316 INFO Photo for 'Morodok Techo National Stadium': Morodok_Techno_Stadium_in_2021.png (中国新闻社, CC BY-SA 3.0)
+2026-11-06 11:02:51,441 INFO Photo for 'Olympic Stadium (Phnom Penh)': Olympic_Stadium_Phnom_Penh_SG2023.png (EAKHFootball, CC BY 3.0)
+2026-11-06 11:02:52,294 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-06
+2026-11-06 11:02:52,421 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
+2026-11-06 11:02:52,421 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-06 11:02:52,470 INFO Website built: 5 published stories, 48 pages
+2026-11-06 11:02:52,470 INFO Imported 1 editor's article(s): 2026-11-06-news-cc35df
