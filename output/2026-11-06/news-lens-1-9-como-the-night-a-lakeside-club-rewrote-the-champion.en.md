@@ -1,4 +1,4 @@
-# Lens 1-9 Como: The Night a Lakeside Club Rewrote the Champions League Record Book
+# Lens 1-9 Como: Champions League Debutants Equal the Biggest Win in the Competition's History
 
 *In their first Champions League season, Como scored nine away from home, with a Tasos Douvikas hat-trick and two assists from Nico Paz, and moved up to fourth in the table.*
 
@@ -24,11 +24,11 @@ It was Como's third win in four games. They are **fourth in the table on nine po
 
 "It's a crazy night and a crazy result, but we can't get ahead of ourselves," Da Cunha said afterwards.
 
-## Why this one matters to me
+## A small club in the big league
 
-I watched this one in the early hours of the morning in Phnom Penh, and by the fifth goal I had stopped checking the time. Como is not a giant. It is a club from a lakeside town that most football fans in Asia could not have found on a map a few years ago. Now it is beating established clubs with fast, brave, attacking football.
+Como are not one of Europe's traditional powers. The club comes from a lakeside town in northern Italy and is playing its first Champions League campaign. After four matches, they have scored more goals than most of the established clubs in the competition.
 
-That is the beauty of this game. Money matters, history matters, but a well-built team with a clear idea can still shock everyone. Como are not in the knockout rounds yet. On Wednesday night, though, they gave every small club in the world a reason to dream.
+The league phase still has four rounds to go, and Como are not yet in the knockout places for certain. But a 9-1 away win in their debut season has already made them the surprise package of the competition.
 
 ---
 **Sources**

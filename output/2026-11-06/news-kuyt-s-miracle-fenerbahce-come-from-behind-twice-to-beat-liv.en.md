@@ -22,7 +22,7 @@ The winner came from a long throw. Brown headed it back across goal and **Vedat 
 
 The defeat drops Andoni Iraola's Liverpool to **eighth on nine points**, still in a good position but no longer perfect. Fenerbahçe climb to 19th on five points and back into the race for the play-off places.
 
-From Phnom Penh, where Liverpool and Turkish football both have passionate fans, this was one of those games that kept people up past three in the morning. It also had a lesson that every football fan recognises. You can dominate for long spells, but if you switch off at set pieces in a stadium like Fenerbahçe's, you will pay for it.
+Two of the five goals came from set pieces or long throws, and both decided the game in Fenerbahçe's favour: Greenwood's deflected free kick and Muriqi's winner from a long throw. For Liverpool, it was a lesson in how quickly a lead can disappear in Istanbul.
 
 For Kuyt, the man who used to run through walls for Liverpool, it was a perfect start. He will know better than anyone that one night does not make a season.
 

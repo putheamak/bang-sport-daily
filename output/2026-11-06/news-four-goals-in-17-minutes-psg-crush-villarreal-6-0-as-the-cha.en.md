@@ -18,9 +18,9 @@ Real Madrid's fourth win was much harder. In Athens on Wednesday, AEK led twice.
 
 Behind them are **Arsenal** on 10 points, then **Como** on 9 after their remarkable 9-1 win at Lens, and **Barcelona**, also on 9, after beating Aston Villa 3-0.
 
-## My view
+## Two ways to win
 
-Watching from Phnom Penh, what struck me about PSG was not just the six goals. It was the age of the team: young midfielders and forwards pressing like they never get tired, and passing with complete confidence (PSG completed 91% of their passes). This is a side built to run over opponents early, and Villarreal never got a chance to settle.
+PSG's performance was built on intensity and control. Their young midfielders and forwards pressed high from the start, and the team completed 91% of its passes. Villarreal never had a chance to settle.
 
 Real Madrid win differently. They are not always dominant, but they find a way, as they did in Athens. If the season goes to plan for both, these two may meet when it matters most. Four games into the league phase, they have set the standard everyone else has to chase.
 

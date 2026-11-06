@@ -4,7 +4,7 @@
 
 **News** · 2026-11-06
 
-Late into the humid Phnom Penh night, across more than two decades of watching European football on glowing television screens, there was one constant you could always set your watch by: the crimson shirt, the number 7, and the unyielding belief that Portugal could conquer anyone.
+For more than two decades, one thing in international football barely changed: Portugal's number 7 shirt belonged to Cristiano Ronaldo.
 
 That era has finally closed. On Thursday, 41-year-old Cristiano Ronaldo announced his retirement from international football in a video message to supporters, confirming he would "hand back the number 7 shirt" after a senior career spanning 23 years.
 
@@ -22,7 +22,7 @@ He captained them to their first major senior trophy at Euro 2016, followed by N
 
 ## What he left behind for the world
 
-For those of us watching from Southeast Asia and across the developing world, Ronaldo was always something more than a goalscorer. He was proof of what obsessive discipline, self-belief, and sheer willpower could build from humble beginnings on an island in the Atlantic.
+Far beyond Portugal, including across Asia, Ronaldo became a symbol of what discipline and self-belief can build, from humble beginnings on the Atlantic island of Madeira to the top of the world game.
 
 "The goals pass, the cups are in museums, the records end up being beaten," Ronaldo said in his farewell message. "But there is something that time can never erase, the place we occupy in people's hearts."
 

@@ -24,11 +24,11 @@ On 5 November, FIFA published an article saying Ma had made history again. She i
 
 "One important lesson has been to put myself in the players' shoes," Ma told FIFA. She described the run at the World Cup simply: "I had goosebumps all over."
 
-## Why this matters for Asia
+## A path from player to coach
 
-Watching from Phnom Penh, I find this story moving for a simple reason. It shows what happens when a country gives its former stars, and especially its women, a real path into coaching. Ma Xiaoxu knows how a young player thinks under pressure because she was one of the best young players in the world.
+Ma's rise reflects a wider push to bring former players, and especially women, into coaching. She has been through tournaments like this herself as a young player, at the highest level.
 
-Women's football is growing across Asia, including here in Cambodia. Programmes like FIFA's mentorship scheme, and coaches like Ma, show the next generation of girls that the game has a place for them on the pitch and on the bench. China's U-17s went home from Morocco without a trophy. They went home with something that may matter more in the long run: proof that they belong.
+Women's football is growing across Asia, and FIFA's mentorship programme is one of several schemes designed to increase the number of female coaches in the game. China's U-17s left Morocco without a trophy, but with the country's best result at this level and a coach who has now led two youth tournaments in her first year in charge.
 
 ---
 **Sources**

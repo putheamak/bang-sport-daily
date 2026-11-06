@@ -4,9 +4,9 @@
 
 **News** · 2026-11-06
 
-For years, Cambodian clubs travelled to Asian competitions hoping not to be embarrassed. This autumn they are travelling to win. Four matchdays into the 2026/27 AFC Champions League Two, both of our representatives are sitting in qualifying positions. Phnom Penh Crown sit on top of their group, and Preah Khan Reach Svay Rieng are second behind a Japanese side with a perfect record.
+For years, Cambodian clubs went into Asian competition as outsiders. This season they are among the group leaders. Four matchdays into the 2026/27 AFC Champions League Two, both Cambodian representatives are sitting in qualifying positions. Phnom Penh Crown sit on top of their group, and Preah Khan Reach Svay Rieng are second behind a Japanese side with a perfect record.
 
-I have watched Cambodian football from Phnom Penh long enough to know how unusual this is. So let me set out what has actually happened, game by game.
+Here is how it happened, game by game.
 
 ## Phnom Penh Crown: three wins, then a cruel night in Hong Kong
 
@@ -34,13 +34,13 @@ That gives Svay Rieng **7 points**, second in Group G and three clear of Shangha
 
 Zoom out and the pattern is striking. In the East region, Southeast Asian clubs now lead three of the four groups. Indonesia's Persib Bandung are unbeaten on 12 points after winning 2-1 in Melbourne. Singapore's Lion City Sailors top their group on 10 points after a 5-0 win over Adelaide United. And Phnom Penh Crown lead Group H.
 
-For those of us who grew up being told that our football was years behind Japan, Korea and China, this matters. It shows that investment in clubs, coaching and facilities in our region is starting to pay off on the pitch.
+For a region long seen as behind Japan, Korea and China at club level, the table is significant. It suggests that investment in clubs, coaching and facilities across Southeast Asia is starting to show on the pitch.
 
-## What I'll be watching
+## What to watch in the last two matchdays
 
-Two things. First, discipline: playing with ten men cost Phnom Penh Crown in Hong Kong, and margins are thin at this level. Second, the home crowds. If Cambodian fans fill the stands for Svay Rieng against Machida and for Phnom Penh Crown against Gangwon, the players will feel it.
+Discipline is one factor: playing with ten men cost Phnom Penh Crown in Hong Kong, and margins are thin at this level. Home support is another. Svay Rieng host Machida on 26 November, and Phnom Penh Crown host Gangwon on 3 December.
 
-Whatever happens in the last two matchdays, this group stage has already changed how Asia looks at Cambodian football. Now we have to keep proving it.
+Whatever happens next, both clubs have already shown they can compete with established sides from Korea, China and Singapore.
 
 ---
 **Sources**
