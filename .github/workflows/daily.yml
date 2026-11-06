@@ -2,7 +2,7 @@ name: Daily sport news
 
 on:
   schedule:
-    - cron: "7 23 * * *"     # 06:07 Cambodia time (UTC+7), every day
+    - cron: "37 8 * * *"     # 3:37 PM Cambodia time (UTC+7), every day
   workflow_dispatch:
     inputs:
       publish:
