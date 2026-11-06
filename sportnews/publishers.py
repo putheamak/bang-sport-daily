@@ -109,6 +109,8 @@ def publish_articles(cfg: dict, ids: list[str]) -> list[str]:
                     attach_images(a)
                 except Exception as e:  # noqa: BLE001
                     log.warning("Photos failed for %s: %s", a["id"], e)
+    from .images import apply_overrides, load_overrides
+    apply_overrides(articles, load_overrides())
     for a in targets:
         if cfg["publish"].get("telegram"):
             for lang in LANGS:

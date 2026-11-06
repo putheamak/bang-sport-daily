@@ -59,11 +59,12 @@ def main(argv=None):
         from .common import load_articles, log_to_file, save_articles
         log_to_file("last_rebuild.log")
         from .site import build_site
-        if cfg["publish"].get("photos", True):
-            from .images import backfill
-            arts = load_articles()
-            if backfill(arts):
-                save_articles(arts)
+        from .images import apply_overrides, backfill, load_overrides
+        arts = load_articles()
+        changed = backfill(arts) if cfg["publish"].get("photos", True) else 0
+        changed += apply_overrides(arts, load_overrides())
+        if changed:
+            save_articles(arts)
         build_site(cfg)
 
 

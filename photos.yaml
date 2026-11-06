@@ -1,0 +1,29 @@
+# Choose the photos for any published story. After editing, run "Rebuild website".
+# Story IDs are in the drafts (Telegram/email) or ask Claude.
+#
+# Two kinds of photo:
+#   1) Wikimedia Commons file — licence and author are read automatically:
+#        - commons: "File:Example photo.jpg"        (or the full commons.wikimedia.org link)
+#          caption: "What the photo shows"
+#   2) Your own photo (or one you have written permission / a free licence for):
+#        upload the image to the photos/ folder, then:
+#        - file: "pp-crown-celebration.jpg"
+#          caption: "Phnom Penh Crown players celebrate"
+#          credit: "Your name"                        # REQUIRED: who took it
+#          license: "© Bang Sport Daily"             # REQUIRED: e.g. "CC BY 4.0" or "Used with permission"
+#          source: "https://link-to-original"         # optional, recommended for licensed photos
+#
+# mode: replace  = use only these photos (first one is the large top photo)
+# mode: add      = put these first, keep the automatic ones after them
+#
+# Example (remove the # to use it):
+#
+# 2026-11-06-news-cc35df:
+#   mode: replace
+#   photos:
+#     - file: "pp-crown-team.jpg"
+#       caption: "Phnom Penh Crown players before their ACL Two match"
+#       credit: "Photographer name"
+#       license: "Used with permission"
+#     - commons: "File:Some free photo of Svay Rieng.jpg"
+#       caption: "Svay Rieng supporters"

@@ -140,3 +140,61 @@ def backfill(articles: list[dict], only_published: bool = True) -> int:
         attach_images(a)
         n += 1
     return n
+
+
+# ---------------------------------------------------------------- editor's photo choices (photos.yaml)
+def _override_entries(spec) -> tuple[str, list]:
+    if isinstance(spec, list):
+        return "replace", spec
+    return (spec or {}).get("mode", "replace"), (spec or {}).get("photos", [])
+
+
+def resolve_entry(e: dict) -> dict | None:
+    """One photos.yaml entry -> image dict. Either a Wikimedia Commons file (licence read automatically)
+    or your own uploaded file in photos/ with credit + licence written by you."""
+    if e.get("commons"):
+        name = e["commons"].split("File:")[-1].replace("_", " ").strip()
+        name = urllib.parse.unquote(name.split("/")[-1]) if name.startswith("http") else name
+        info = commons_info(name.replace(" ", "_"))
+        if not info:
+            log.warning("Commons file %r not usable (missing or not a free licence)", e["commons"])
+            return None
+        info["subject"] = e.get("caption") or info.get("description") or name
+        return info
+    if e.get("file"):
+        if not (e.get("credit") and e.get("license")):
+            log.warning("Photo %s skipped: 'credit' and 'license' are required for your own photos", e["file"])
+            return None
+        return {"url": f"../photos/{e['file']}", "page": e.get("source", ""), "artist": e["credit"],
+                "license": e["license"], "license_url": e.get("license_url", ""), "subject": e.get("caption", ""),
+                "via": e.get("via", "")}
+    return None
+
+
+def apply_overrides(articles: list[dict], overrides: dict) -> int:
+    """Apply photos.yaml choices. Each article is re-resolved only when its entry changes."""
+    n = 0
+    for a in articles:
+        spec = overrides.get(a["id"])
+        if spec is None:
+            continue
+        key = json.dumps(spec, sort_keys=True, ensure_ascii=False)
+        if a.get("photos_override") == key:
+            continue
+        mode, entries = _override_entries(spec)
+        chosen = [x for x in (resolve_entry(e) for e in entries if isinstance(e, dict)) if x]
+        base = [] if mode == "replace" else [i for i in (a.get("images") or []) if i.get("url") not in {c["url"] for c in chosen}]
+        a["images"] = (chosen + base)[:4]
+        a["photos_override"] = key
+        n += 1
+        log.info("Photos for %s set from photos.yaml (%d photo(s))", a["id"], len(a["images"]))
+    return n
+
+
+def load_overrides() -> dict:
+    import yaml
+    from .common import ROOT
+    p = ROOT / "photos.yaml"
+    if not p.exists():
+        return {}
+    return yaml.safe_load(p.read_text(encoding="utf-8")) or {}

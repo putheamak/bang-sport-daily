@@ -174,6 +174,8 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
             backfill(articles)           # older published stories that never had a photo lookup
         except Exception as e:  # noqa: BLE001
             log.warning("Photo backfill failed: %s", e)
+    from .images import apply_overrides, load_overrides
+    apply_overrides(articles, load_overrides())
     save_articles(articles)
     log.info("Wrote %d new articles for %s", len(new), date)
     if not new:

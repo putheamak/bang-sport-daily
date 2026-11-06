@@ -268,3 +268,27 @@ def test_inbox_import(repo):
     assert "Phnom Penh Crown" in new[0]["en"]["headline"] and len(new[0]["sources"]) == 7
     assert new[0]["image_subjects"][0] == "Morodok Techo National Stadium"
     assert pipeline.run_inbox() == []          # imported only once
+
+
+def test_photo_overrides(repo, monkeypatch):
+    from sportnews import images, site
+    from sportnews.common import save_articles, load_articles
+    (repo / "photos").mkdir()
+    (repo / "photos" / "team.jpg").write_bytes(b"jpg")
+    (repo / "photos.yaml").write_text(
+        "x1:\n  mode: replace\n  photos:\n    - file: team.jpg\n      caption: Phnom Penh Crown players\n"
+        "      credit: Mak\n      license: Used with permission\n    - file: nocredit.jpg\n    - commons: \"File:Free_photo.jpg\"\n")
+    monkeypatch.setattr(images, "commons_info", lambda name, width=1200: {"url": "https://upload.wikimedia.org/f.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Free_photo.jpg", "artist": "A", "license": "CC BY 4.0", "license_url": "", "description": "d"})
+    a = {"id": "x1", "slug": "s", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "news", "status": "published",
+         "sources": [], "published_to": [], "images": [{"url": "https://old.jpg", "page": "", "artist": "o", "license": "CC0"}],
+         "en": {"headline": "H", "body_markdown": "a\n\nb\n\nc\n\nd"}}
+    arts = [a]
+    assert images.apply_overrides(arts, images.load_overrides()) == 1
+    assert [i["url"] for i in a["images"]] == ["../photos/team.jpg", "https://upload.wikimedia.org/f.jpg"]   # no-credit photo skipped
+    assert images.apply_overrides(arts, images.load_overrides()) == 0        # unchanged -> not re-resolved
+    save_articles(arts)
+    site.build_site(cfg())
+    page = (repo / "docs/en/s.html").read_text()
+    assert "../photos/team.jpg" in page and "Used with permission" in page and "via Wikimedia" in page
+    assert (repo / "docs/photos/team.jpg").exists()

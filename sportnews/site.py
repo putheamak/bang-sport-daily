@@ -225,8 +225,11 @@ def _cover(cfg, a, lang, cls="ph") -> str:
 
 def _credit(im, lang) -> str:
     lic = f'<a href="{E(im["license_url"])}" rel="noopener nofollow" target="_blank">{E(im["license"])}</a>' if im.get("license_url") else E(im["license"])
-    return (f'{E(im.get("subject", ""))} · {UI2[lang]["photo"]}: <a href="{E(im["page"])}" rel="noopener nofollow" '
-            f'target="_blank">{E(im["artist"])}</a> / {lic} {UI2[lang]["via"]}')
+    who = (f'<a href="{E(im["page"])}" rel="noopener nofollow" target="_blank">{E(im["artist"])}</a>'
+           if im.get("page") else E(im["artist"]))
+    via = E(im["via"]) if im.get("via") else ("" if im.get("url", "").startswith("../photos/") else UI2[lang]["via"])
+    subj = f'{E(im["subject"])} · ' if im.get("subject") else ""
+    return f'{subj}{UI2[lang]["photo"]}: {who} / {lic} {via}'.rstrip()
 
 
 def _kicker(cfg, a, lang) -> str:
@@ -603,6 +606,9 @@ def build_site(cfg: dict) -> None:
     DOCS.mkdir(parents=True, exist_ok=True)
     shutil.copy(TEMPLATE_DIR / "site.css", DOCS / "style.css")
     shutil.copytree(TEMPLATE_DIR / "fonts", DOCS / "fonts", dirs_exist_ok=True)
+    from .common import ROOT
+    if (ROOT / "photos").is_dir():          # your own photos (see photos.yaml)
+        shutil.copytree(ROOT / "photos", DOCS / "photos", dirs_exist_ok=True)
     (DOCS / ".nojekyll").write_text("")
     dom = (cfg["site"].get("custom_domain") or "").strip()
     if dom:
