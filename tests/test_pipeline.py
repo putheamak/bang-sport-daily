@@ -328,3 +328,21 @@ def test_stale_translation_hidden(repo):
     site.build_site(cfg())
     assert not (repo / "docs/zh/a.html").exists() and (repo / "docs/en/a.html").exists()
     assert (repo / "docs/zh/b.html").exists()
+
+
+def test_ready_made_translations(repo):
+    from sportnews import pipeline, site
+    from sportnews.common import save_articles, load_articles
+    save_articles([{"id": "s1", "slug": "s1", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "news",
+                    "status": "published", "updated_at": "2026-11-06T21:00:00+07:00", "sources": [], "published_to": [],
+                    "en": {"headline": "E", "body_markdown": "x"}, "zh": {"headline": "旧", "body_markdown": "旧"},
+                    "ru": {"headline": "Старое", "body_markdown": "c"}}])
+    (repo / "inbox").mkdir()
+    (repo / "inbox" / "t.md").write_text("---\nupdate: s1\ntranslations:\n  zh: {headline: 新标题, subheadline: 副}\n"
+                                         "  ru: {headline: Новый}\n---\n=== zh ===\n新正文。\n\n## 小标题\n第二段。\n=== ru ===\nНовый текст.\n")
+    pipeline.run_inbox()
+    a = load_articles()[0]
+    assert a["zh"]["headline"] == "新标题" and a["zh"]["body_markdown"] == "新正文。\n\n## 小标题\n第二段。"
+    assert a["ru"]["body_markdown"] == "Новый текст." and a["en"]["body_markdown"] == "x"
+    assert not site.stale(a, "zh") and not site.stale(a, "ru")
+    assert (repo / "docs/zh/s1.html").exists() and (repo / "docs/ru/s1.html").exists()

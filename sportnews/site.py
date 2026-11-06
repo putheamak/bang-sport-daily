@@ -147,7 +147,10 @@ def sport_key(cfg, a) -> str:
 
 def stale(a, lang) -> bool:
     """A translation older than the latest English correction is hidden until it is re-translated."""
-    return lang != "en" and bool(a.get("updated_at")) and (a.get("translated_at") or "") < a["updated_at"]
+    if lang == "en" or not a.get("updated_at"):
+        return False
+    ts = (a.get("lang_updated") or {}).get(lang) or a.get("translated_at") or ""
+    return ts < a["updated_at"]
 
 
 def columnist(cfg, a) -> dict:

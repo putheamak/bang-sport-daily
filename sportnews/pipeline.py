@@ -82,6 +82,7 @@ def retry_translations(cfg: dict, articles: list[dict], limit: int = 5) -> int:
         if ok == len(langs):
             from .common import now_iso
             a["translated_at"] = now_iso(cfg)
+            a["lang_updated"] = {l: a["translated_at"] for l in langs}
         log.info("Translation retry for %s: %s", a["id"], [l for l in langs if a.get(l)])
         n += 1
     return n

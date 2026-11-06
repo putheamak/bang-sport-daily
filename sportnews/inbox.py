@@ -41,10 +41,16 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
         if f.name.lower() == "readme.md" or f.name in done:
             continue
         meta, body = parse(read_text(f))
-        if not meta.get("headline") or not body:
+        if (not meta.get("headline") and not meta.get("update")) or not body:
             log.warning("Inbox %s skipped: needs a 'headline' and a body", f.name)
             continue
         social = meta.get("social_post") or (meta.get("subheadline") or "")
+        if meta.get("update") and meta.get("translations"):
+            upd = _add_translations(cfg, meta, body)
+            if upd:
+                out.append(upd)
+                done.append(f.name)
+            continue
         if meta.get("update"):
             upd = _update_existing(cfg, meta, body, social)
             if upd:
@@ -100,5 +106,30 @@ def _update_existing(cfg: dict, meta: dict, body: str, social: str) -> dict | No
     a["updated_at"] = now_iso(cfg)
     if all(isinstance(loc.get(l), dict) and loc[l].get("headline") for l in cfg["languages"].get("others", ["zh", "ru"])):
         a["translated_at"] = a["updated_at"]
+    a["_update"] = True
+    return a
+
+
+def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:
+    """Ready-made translations for an existing story (no AI needed).
+    Header:  update: <id>   translations: {zh: {headline, subheadline, social_post}, ru: {...}}
+    Body:    === zh ===  <Chinese markdown>   === ru ===  <Russian markdown>"""
+    from .common import load_articles
+    old = next((a for a in load_articles() if a["id"] == str(meta["update"]).strip()), None)
+    if not old:
+        log.warning("Translations skipped: story %s not found", meta["update"])
+        return None
+    parts = dict((m.group(1), m.group(2).strip()) for m in
+                 re.finditer(r"^===\s*([a-z]{2})\s*===\s*\n(.*?)(?=^===\s*[a-z]{2}\s*===|\Z)", body, re.S | re.M))
+    a = dict(old)
+    stamps = dict(a.get("lang_updated") or {})
+    for lang, head in (meta.get("translations") or {}).items():
+        if lang not in cfg["languages"].get("others", ["zh", "ru"]) or not parts.get(lang) or not head.get("headline"):
+            continue
+        a[lang] = {"headline": head["headline"], "subheadline": head.get("subheadline", ""),
+                   "body_markdown": parts[lang], "social_post": head.get("social_post", "")}
+        stamps[lang] = now_iso(cfg)
+        log.info("Added %s translation for %s", lang, a["id"])
+    a["lang_updated"] = stamps
     a["_update"] = True
     return a
