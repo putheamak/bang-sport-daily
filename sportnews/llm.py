@@ -110,13 +110,19 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
     gcfg = cfg["ai"]["gemini"]
     if _STATE["broken"]:
         raise RuntimeError("Skipped — Gemini already failed on every model this run: " + _STATE["broken"])
-    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"))
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"),
+                          http_options=types.HttpOptions(timeout=int(gcfg.get("request_timeout", 120)) * 1000))
     errors = []
+    started = time.monotonic()
+    budget = gcfg.get("call_budget_seconds", 480)      # give up on one call after ~8 minutes
     for _round in range(2):
         chain = _chain(client, cfg)
         if not chain:
             break
         for model in chain:
+            if time.monotonic() - started > budget:
+                errors.append("time budget used up (Gemini overloaded)")
+                break
             use_search = search and gcfg.get("google_search", True) and not _STATE["no_search"]
             for attempt in range(3):
                 tools = [types.Tool(google_search=types.GoogleSearch())] if use_search else None
@@ -175,7 +181,7 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
                         use_search = False   # retry once without search
                         continue
                     break
-        if _round == 0:
+        if _round == 0 and time.monotonic() - started < budget:
             time.sleep(30)
     _STATE["broken"] = " | ".join(errors[-6:])
     raise RuntimeError("Gemini failed on every model: " + _STATE["broken"])

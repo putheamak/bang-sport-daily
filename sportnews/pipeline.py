@@ -57,6 +57,23 @@ def _must_context(topic: str, urls: list[str], items: list[dict]) -> dict | None
     return {"title": topic, "sources": src, "source_links": links, "_matched": matched}
 
 
+def retry_translations(cfg: dict, articles: list[dict], limit: int = 3) -> int:
+    """Stories saved in English only (AI was overloaded) get their Chinese/Russian versions on a later run."""
+    from .writer import localize
+    langs = cfg["languages"].get("others", ["zh", "ru"])
+    n = 0
+    for a in articles:
+        if n >= limit or a.get("status") == "rejected" or all(a.get(l) for l in langs):
+            continue
+        loc = localize(cfg, a["en"])
+        for l in langs:
+            if isinstance(loc.get(l), dict) and loc[l].get("headline"):
+                a[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+        log.info("Translation retry for %s: %s", a["id"], [l for l in langs if a.get(l)])
+        n += 1
+    return n
+
+
 def run_inbox() -> list[dict]:
     """Only import editor's articles from inbox/ (no AI news writing)."""
     log_to_file("last_inbox.log")
@@ -74,6 +91,7 @@ def run_inbox() -> list[dict]:
                 log.warning("Photos failed for %s: %s", a["id"], e)
     write_json(STATE, state)
     articles = new + load_articles()
+    retry_translations(cfg, [a for a in articles if a not in new])
     save_articles(articles)
     from .exporters import export_day
     export_day(cfg, date, [a for a in articles if a["date"] == date])
@@ -176,6 +194,7 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
             log.warning("Photo backfill failed: %s", e)
     from .images import apply_overrides, load_overrides
     apply_overrides(articles, load_overrides())
+    retry_translations(cfg, articles)
     save_articles(articles)
     log.info("Wrote %d new articles for %s", len(new), date)
     if not new:
