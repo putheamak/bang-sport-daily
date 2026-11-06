@@ -95,8 +95,10 @@ def _update_existing(cfg: dict, meta: dict, body: str, social: str) -> dict | No
     for lang in cfg["languages"].get("others", ["zh", "ru"]):
         if isinstance(loc.get(lang), dict) and loc[lang].get("headline"):
             a[lang] = {k: loc[lang].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
-        elif lang in a:
-            log.warning("Translation to %s failed — keeping the old %s text for now", lang, lang)
+        else:
+            log.warning("Translation to %s failed — the %s page is hidden until a later run re-translates it", lang, lang)
     a["updated_at"] = now_iso(cfg)
+    if all(isinstance(loc.get(l), dict) and loc[l].get("headline") for l in cfg["languages"].get("others", ["zh", "ru"])):
+        a["translated_at"] = a["updated_at"]
     a["_update"] = True
     return a

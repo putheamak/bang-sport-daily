@@ -145,6 +145,11 @@ def sport_key(cfg, a) -> str:
     return sport or "default"
 
 
+def stale(a, lang) -> bool:
+    """A translation older than the latest English correction is hidden until it is re-translated."""
+    return lang != "en" and bool(a.get("updated_at")) and (a.get("translated_at") or "") < a["updated_at"]
+
+
 def columnist(cfg, a) -> dict:
     """The pen-name columnist for a story (by section)."""
     cols = cfg.get("columnists") or {}
@@ -385,7 +390,7 @@ def _body_with_images(a, lang) -> str:
 def _article_page(cfg, a, lang, related, latest, wire):
     L = a[lang]
     key = sport_key(cfg, a)
-    alternates = {l: f"{l}/{a['slug']}.html" for l in LANGS if a.get(l)}
+    alternates = {l: f"{l}/{a['slug']}.html" for l in LANGS if a.get(l) and not stale(a, l)}
     src = "".join(f'<li><a href="{E(s["url"])}" rel="noopener nofollow" target="_blank">{E(s["title"])}</a></li>' for s in a.get("sources", []))
     rel = "".join(_card(cfg, r, lang) for r in related)
     name = byline_name(cfg, a, lang)
@@ -629,7 +634,7 @@ def build_site(cfg: dict) -> None:
     for lang in LANGS:
         d = DOCS / lang
         d.mkdir(parents=True, exist_ok=True)
-        items = [a for a in pub if a.get(lang)]
+        items = [a for a in pub if a.get(lang) and not stale(a, lang)]
         for a in items:
             key = sport_key(cfg, a)
             related = ([r for r in items if r is not a and sport_key(cfg, r) == key] + [r for r in items if r is not a])

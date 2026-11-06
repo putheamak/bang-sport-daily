@@ -315,3 +315,16 @@ def test_inbox_update_existing_story(repo):
     arts = load_articles()
     assert len(arts) == 1 and arts[0]["en"]["body_markdown"] == "Como won 9-1." and arts[0]["status"] == "published"
     assert arts[0]["slug"] == "keep-slug" and arts[0]["images"][0]["url"] == "u" and arts[0].get("updated_at")
+
+
+def test_stale_translation_hidden(repo):
+    from sportnews import site
+    from sportnews.common import save_articles
+    base = {"date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "news", "status": "published",
+            "sources": [], "published_to": [], "en": {"headline": "New EN", "body_markdown": "x"},
+            "zh": {"headline": "旧", "body_markdown": "旧文"}}
+    save_articles([dict(base, id="a", slug="a", updated_at="2026-11-06T20:00:00+07:00"),
+                   dict(base, id="b", slug="b", updated_at="2026-11-06T20:00:00+07:00", translated_at="2026-11-06T20:00:00+07:00")])
+    site.build_site(cfg())
+    assert not (repo / "docs/zh/a.html").exists() and (repo / "docs/en/a.html").exists()
+    assert (repo / "docs/zh/b.html").exists()
