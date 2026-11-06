@@ -31,7 +31,7 @@ def repo(tmp_path, monkeypatch):
         monkeypatch.delenv(k, raising=False)
     import sportnews.common as c
     importlib.reload(c)
-    for m in ["llm", "collect", "images", "writer", "exporters", "publishers", "site", "pipeline"]:
+    for m in ["llm", "collect", "images", "writer", "inbox", "exporters", "publishers", "site", "pipeline"]:
         importlib.reload(importlib.import_module(f"sportnews.{m}"))
     images = importlib.import_module("sportnews.images")
     monkeypatch.setattr(images, "find_images", lambda subjects, max_n=3: [])   # no network in tests
@@ -231,3 +231,40 @@ def test_originality():
     src = "Alan Jones, the first driver to win a world title for Williams, has died at the age of 80 after a short illness."
     assert too_close(check("Alan Jones, the first driver to win a world title for Williams, has died at the age of 80. Sad.", src))
     assert not too_close(check("Williams' first world champion is gone. Jones, 80, passed away after a brief illness.", src))
+
+
+def test_must_cover_memo(repo, monkeypatch):
+    from sportnews import collect as C, pipeline
+    (repo / "memos" / "2026-11-05.md").write_text(
+        "Focus: big news\nMust cover: Ronaldo retires from international football\nSource: https://example.com/ronaldo\n")
+    assert pipeline.must_cover((repo / "memos" / "2026-11-05.md").read_text()) == [
+        ("Ronaldo retires from international football", ["https://example.com/ronaldo"])]
+    monkeypatch.setattr(C, "parse_feed", lambda *a, **k: [])
+    monkeypatch.setattr(C, "fetch_full_text", lambda url: "Cristiano Ronaldo announced on Thursday he is retiring from Portugal duty." if "ronaldo" in url else "")
+    new = pipeline.run_daily(publish_now=False)
+    news = [a for a in new if a["type"] == "news"]
+    assert len(news) == 1 and "Ronaldo" in news[0]["en"]["headline"]
+    assert news[0]["sources"][0]["url"] == "https://example.com/ronaldo"
+
+
+def test_memo_assignment_does_not_leak(repo):
+    from sportnews.writer import _write_prompt, split_memo
+    memo = "I feel tired today.\nMust cover: Ronaldo retires\nSource: https://x\nAngle: Ronaldo in Asia"
+    (repo / "memos" / "2026-11-05.md").write_text(memo)
+    assert split_memo(memo) == ("I feel tired today.", "Must cover: Ronaldo retires\nSource: https://x\nAngle: Ronaldo in Asia")
+    other = _write_prompt("history", {"fmt": {}}, "2026-11-05")
+    assert "Ronaldo" not in other and "I feel tired today." in other and "Stay strictly on the TASK" in other
+    mine = _write_prompt("news", {"assignment_memo": split_memo(memo)[1]}, "2026-11-05")
+    assert "Ronaldo in Asia" in mine
+
+
+def test_inbox_import(repo):
+    import shutil
+    from sportnews import pipeline
+    (repo / "inbox").mkdir()
+    shutil.copy(SRC / "inbox" / "2026-11-06-acl-two-cambodian-clubs.md", repo / "inbox" / "a.md")
+    new = pipeline.run_inbox()
+    assert len(new) == 1 and new[0]["model"] == "editor" and new[0]["status"] == "draft"
+    assert "Phnom Penh Crown" in new[0]["en"]["headline"] and len(new[0]["sources"]) == 7
+    assert new[0]["image_subjects"][0] == "Morodok Techo National Stadium"
+    assert pipeline.run_inbox() == []          # imported only once

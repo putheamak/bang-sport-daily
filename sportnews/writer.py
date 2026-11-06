@@ -128,6 +128,24 @@ def _mock(kind, ctx, date, langs):
     return en, [], {k: v for k, v in loc.items() if k in langs}, "mock"
 
 
+def localize(cfg: dict, en: dict) -> dict:
+    """Adapt an English article into the other languages. Returns {lang: {...}} (empty on failure/mock)."""
+    langs = cfg["languages"].get("others", ["zh", "ru"])
+    if not langs or llm.provider(cfg) == "mock":
+        return {}
+    script = "Simplified" if cfg["languages"].get("chinese_script", "simplified") == "simplified" else "Traditional"
+    schema = ", ".join(f'"{l}": {{...}}' for l in langs)
+    lsys = LOCALIZE_SYSTEM.format(targets=" and ".join(LANG_NAMES[l] for l in langs), script=script, schema=schema)
+    src = json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}, ensure_ascii=False)
+    log.info("Adapting to %s ...", ", ".join(langs))
+    try:
+        loc, _, _ = _ask_json(cfg, lsys, f"<english_article>\n{src}\n</english_article>", search=False)
+        return loc
+    except Exception as e:  # noqa: BLE001
+        log.error("Localization failed (%s) — article kept in English only", e)
+        return {}
+
+
 def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
     site = cfg["site"]
     langs = cfg["languages"].get("others", ["zh", "ru"])
@@ -157,17 +175,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         if too_close(orig):
             en.setdefault("facts_to_verify", []).insert(
                 0, f"ORIGINALITY: {orig['overlap']:.0%} of the text repeats the source word-for-word — rewrite before publishing")
-        loc = {}
-        if langs:
-            script = "Simplified" if cfg["languages"].get("chinese_script", "simplified") == "simplified" else "Traditional"
-            schema = ", ".join(f'"{l}": {{...}}' for l in langs)
-            lsys = LOCALIZE_SYSTEM.format(targets=" and ".join(LANG_NAMES[l] for l in langs), script=script, schema=schema)
-            src = json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}, ensure_ascii=False)
-            log.info("Adapting to %s ...", ", ".join(langs))
-            try:
-                loc, _, _ = _ask_json(cfg, lsys, f"<english_article>\n{src}\n</english_article>", search=False)
-            except Exception as e:  # noqa: BLE001
-                log.error("Localization failed (%s) — article kept in English only", e)
+        loc = localize(cfg, en)
 
     sources, seen = [], set()
     for s in en.get("sources_used", []) + cites + ctx.get("source_links", []):

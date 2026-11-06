@@ -57,6 +57,37 @@ def _must_context(topic: str, urls: list[str], items: list[dict]) -> dict | None
     return {"title": topic, "sources": src, "source_links": links, "_matched": matched}
 
 
+def run_inbox() -> list[dict]:
+    """Only import editor's articles from inbox/ (no AI news writing)."""
+    log_to_file("last_inbox.log")
+    cfg = load_config()
+    date = today(cfg)
+    state = read_json(STATE, {})
+    from .inbox import import_inbox
+    new = import_inbox(cfg, date, state)
+    if cfg["publish"].get("photos", True):
+        from .images import attach_images
+        for a in new:
+            try:
+                attach_images(a)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Photos failed for %s: %s", a["id"], e)
+    write_json(STATE, state)
+    articles = new + load_articles()
+    save_articles(articles)
+    from .exporters import export_day
+    export_day(cfg, date, [a for a in articles if a["date"] == date])
+    from .publishers import send_digest, send_for_review
+    if new:
+        send_for_review(cfg, new)
+        if cfg["publish"].get("email_digest"):
+            send_digest(cfg, date, new)
+    from .site import build_site
+    build_site(cfg)
+    log.info("Imported %d editor's article(s): %s", len(new), ", ".join(a["id"] for a in new))
+    return new
+
+
 def run_daily(publish_now: bool | None = None) -> list[dict]:
     log_to_file()
     cfg = load_config()
@@ -65,6 +96,9 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     state = read_json(STATE, {})
     memo = read_text(MEMOS / f"{date}.md").lower()
     new: list[dict] = []
+
+    from .inbox import import_inbox
+    new += import_inbox(cfg, date, state)        # your own articles from inbox/
 
     raw_memo = read_text(MEMOS / f"{date}.md")
     musts = must_cover(raw_memo)

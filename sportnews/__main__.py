@@ -20,6 +20,7 @@ def main(argv=None):
     sub = ap.add_subparsers(dest="cmd", required=True)
     d = sub.add_parser("daily"); d.add_argument("--publish", action="store_true", help="publish immediately")
     sub.add_parser("collect")
+    sub.add_parser("inbox")
     sub.add_parser("build-style")
     p = sub.add_parser("publish"); p.add_argument("ids", nargs="+")
     r = sub.add_parser("reject"); r.add_argument("ids", nargs="+")
@@ -31,6 +32,10 @@ def main(argv=None):
     if a.cmd == "daily":
         from .pipeline import run_daily
         run_daily(publish_now=True if a.publish else None)
+    elif a.cmd == "inbox":
+        from .pipeline import run_inbox
+        for x in run_inbox():
+            print(x["id"], "|", x["en"]["headline"])
     elif a.cmd == "collect":
         from .collect import collect
         for it in collect(cfg):
