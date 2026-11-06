@@ -33,6 +33,11 @@ site:
   telegram_zh: ""
   telegram_ru: ""
 
+# ---------- Writing ----------
+writing:
+  style: journalist        # journalist = third-person sports journalism (recommended)
+                           # personal   = first-person column, only with real memos from you
+
 # ---------- Languages ----------
 # English is written first (in your voice); then adapted — not word-for-word translated — to the others.
 languages:

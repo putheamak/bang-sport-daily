@@ -9,11 +9,8 @@ from .common import MEMOS, VOICE, log, now_iso, read_text, short_hash, slugify
 
 LANG_NAMES = {"en": "English", "zh": "Chinese", "ru": "Russian"}
 
-WRITE_SYSTEM = """You are the ghost-writer for {author}, who publishes the daily column "{site}" about world sport.
-You write AS {author}, in their personal voice, exactly like the chapters of their ebook. The STYLE PROFILE
-describes that voice. The AUTHOR MEMO holds {author}'s own experiences and opinions: weave them in as
-first-person reflection where they fit naturally. Never present the memo as facts about other people and never
-invent new personal experiences for the author.
+WRITE_SYSTEM = """You are a professional sports journalist writing for "{site}", a world-sport news site edited by {author}.
+{voice_rules}
 
 ACCURACY RULES (most important):
 - Use only facts from the SOURCE MATERIAL or your web search results. Never invent quotes, scores, dates,
@@ -27,9 +24,11 @@ ACCURACY RULES (most important):
 {style}
 </style_profile>
 
-<author_memo>
+<editor_background>
 {memo}
-</author_memo>
+</editor_background>
+(Background on the editor's interests. Use it only to choose angles. Never quote it as personal experience
+unless the TASK explicitly includes an editor's memo for this story.)
 
 OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing after it:
 {{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
@@ -37,20 +36,37 @@ OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing 
   "sources_used": [{{"title": str, "url": str}}]}}
 - image_subjects: 2-4 exact English Wikipedia article titles for photos — the main people first, then teams,
   venues or events (e.g. "Yao Ming", "Houston Rockets", "Toyota Center").
-- body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings.
+- body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings written for THIS story
+  (never generic headings like "My view", "Why this matters to me", "A view from ...").
 - social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
 """
 
+VOICE_RULES = {
+    "journalist": """STYLE: sports journalism, third person.
+- Lead with the news: who, what, when, where, the result. Then context, key numbers, history and what comes next.
+- Analysis is welcome but must rest on facts and be phrased neutrally ("The result leaves...", "It was the first time...").
+- Do NOT write in the first person (no "I", "my", "we", "us") and do NOT mention where the writer lives or watches.
+- Never invent personal experiences, feelings, memories or anecdotes for anyone.
+- Exception: if the TASK contains an editor's memo with a real personal experience for this story, you may add ONE
+  short final paragraph headed "## Editor's note" that uses only what the memo says.
+- Vary openings and structure from story to story; avoid clichés ("end of an era", "rewrote the record books",
+  "proved the doubters wrong") unless genuinely apt.
+The STYLE PROFILE below guides rhythm and tone only (clear, warm, human) — not first-person voice.""",
+    "personal": """STYLE: personal column in the editor's own voice, as described in the STYLE PROFILE.
+Use first person only for experiences and opinions the editor actually stated in the memos. Never invent
+personal experiences, locations or anecdotes. Vary openings; do not repeat the same personal framing every day.""",
+}
+
 TASKS = {
     "news": """TASK: Write today's NEWS story ({date}). Report what happened accurately (who, what, when, where,
-result), then explain why it matters and add the author's perspective. Use web search to confirm the latest
+result), then explain why it matters with context and analysis. Use web search to confirm the latest
 details and find context. Prefer official and major outlets.""",
     "history": """TASK: Write today's "ON THIS DAY IN SPORT" story ({date}). Search for a famous, well-documented
 world sport moment that happened on this calendar date ({month_day}) in an earlier year — prefer moments that
 Chinese and Russian readers also care about. Tell it as a story: the era, the people, the drama, its legacy today.""",
     "athlete_story": """TASK: Write the LIFE STORY of {athlete} ({sport}). Research childhood and background, how
-they started, key turning points, struggles, greatest achievements and life today. Write it as a human story in
-the author's ebook style, not a list of results. Notes (verify, do not copy blindly): {notes}""",
+they started, key turning points, struggles, greatest achievements and life today. Write it as a human story,
+not a list of results. Notes (verify, do not copy blindly): {notes}""",
 }
 WORDS = {"news": "350-550", "history": "550-850", "athlete_story": "700-1000"}
 
@@ -128,6 +144,12 @@ def _mock(kind, ctx, date, langs):
     return en, [], {k: v for k, v in loc.items() if k in langs}, "mock"
 
 
+def first_person_count(text: str) -> int:
+    body = re.sub(r'"[^"]*"|“[^”]*”', "", text or "")          # ignore quotes from other people
+    # case-aware: "I" but not "i"; "us"/"Us" but not "US" (United States)
+    return len(re.findall(r"\bI\b|\b(?:[Mm]y|[Mm]e|[Ww]e|[Oo]ur)\b|\b(?:us|Us)\b", body))
+
+
 def localize(cfg: dict, en: dict) -> dict:
     """Adapt an English article into the other languages. Returns {lang: {...}} (empty on failure/mock)."""
     langs = cfg["languages"].get("others", ["zh", "ru"])
@@ -154,6 +176,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         en, cites, loc, model = _mock(kind, ctx, date, langs)
     else:
         system = WRITE_SYSTEM.format(author=site["author"], site=site["name"], words=WORDS[kind],
+                                     voice_rules=VOICE_RULES.get(cfg.get("writing", {}).get("style", "journalist"), VOICE_RULES["journalist"]),
                                      style=read_text(VOICE / "style_profile.md"), memo=read_text(MEMOS / "general.md"))
         log.info("Writing %s (EN) ...", kind)
         en, cites, model = _ask_json(cfg, system, _write_prompt(kind, ctx, date), search=True)
@@ -175,6 +198,11 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         if too_close(orig):
             en.setdefault("facts_to_verify", []).insert(
                 0, f"ORIGINALITY: {orig['overlap']:.0%} of the text repeats the source word-for-word — rewrite before publishing")
+        if cfg.get("writing", {}).get("style", "journalist") == "journalist":
+            fp = first_person_count(en.get("body_markdown", ""))
+            if fp >= 2 and "editor's note" not in en.get("body_markdown", "").lower():
+                en.setdefault("facts_to_verify", []).insert(
+                    0, f"STYLE: {fp} first-person words found ('I', 'my', 'we'). Remove personal lines you did not write yourself")
         loc = localize(cfg, en)
 
     sources, seen = [], set()

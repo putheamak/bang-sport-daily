@@ -1,8 +1,8 @@
-# My standing memo & experiences (used in every article)
+# Editor background (optional)
 
-The AI weaves these into stories as YOUR first-person view — never as facts about others.
-Replace the examples with your own.
+This file tells the AI which angles you care about. It is NOT written into stories as your
+personal experience. To add a real personal note to one story, put it in that day's memo
+(memos/YYYY-MM-DD.md) and it will appear as a short "Editor's note".
 
-- I write from Phnom Penh, Cambodia, and I watch most big matches at night or early morning Asia time.
-- I care about sport as a path for young people, especially in developing countries.
-- (Add: the first match you remember, athletes who inspired you, your view on money in sport, etc.)
+- Readers are in Asia, China and Russian-speaking countries, so explain Asian angles where relevant.
+- Interested in youth development, women's football and Southeast Asian clubs.

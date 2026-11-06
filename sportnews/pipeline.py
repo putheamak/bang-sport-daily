@@ -57,6 +57,13 @@ def _must_context(topic: str, urls: list[str], items: list[dict]) -> dict | None
     return {"title": topic, "sources": src, "source_links": links, "_matched": matched}
 
 
+def merge_articles(new: list[dict], existing: list[dict]) -> list[dict]:
+    """New stories first; an update replaces the story with the same ID in place."""
+    upd = {a["id"]: a for a in new if a.pop("_update", False)}
+    fresh = [a for a in new if a["id"] not in upd]
+    return fresh + [upd.get(a["id"], a) for a in existing]
+
+
 def retry_translations(cfg: dict, articles: list[dict], limit: int = 3) -> int:
     """Stories saved in English only (AI was overloaded) get their Chinese/Russian versions on a later run."""
     from .writer import localize
@@ -85,12 +92,14 @@ def run_inbox() -> list[dict]:
     if cfg["publish"].get("photos", True):
         from .images import attach_images
         for a in new:
+            if "images" in a:            # updates keep their photos
+                continue
             try:
                 attach_images(a)
             except Exception as e:  # noqa: BLE001
                 log.warning("Photos failed for %s: %s", a["id"], e)
     write_json(STATE, state)
-    articles = new + load_articles()
+    articles = merge_articles(new, load_articles())
     retry_translations(cfg, [a for a in articles if a not in new])
     save_articles(articles)
     from .exporters import export_day
@@ -179,13 +188,15 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     if cfg["publish"].get("photos", True):
         from .images import attach_images
         for a in new:
+            if "images" in a:
+                continue
             try:
                 attach_images(a)
             except Exception as e:  # noqa: BLE001
                 log.warning("Photos failed for %s: %s", a["id"], e)
     from .collect import save_wire
     save_wire(cfg)
-    articles = new + load_articles()
+    articles = merge_articles(new, load_articles())
     if cfg["publish"].get("photos", True):
         from .images import backfill
         try:

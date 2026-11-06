@@ -138,7 +138,7 @@ def test_writer_with_fake_gemini(repo, monkeypatch):
             return NS(text=f"<article_json>{json.dumps(data, ensure_ascii=False)}</article_json>",
                       candidates=[NS(grounding_metadata=NS(grounding_chunks=[chunk]))])
 
-    monkeypatch.setattr(genai, "Client", lambda api_key: NS(models=Models()))
+    monkeypatch.setattr(genai, "Client", lambda api_key, **kw: NS(models=Models()))
     llm._STATE.clear(); llm._STATE.update(chain=None, dead=set(), no_search=False, broken=None)
     a = writer.write_article(cfg(), "history", {"title": "x"}, "2026-11-05")
     assert calls[0] == ("gemini-3.6-flash", True) and calls[1] == ("gemini-3.6-flash", False)  # search quota 0 -> plain
@@ -292,3 +292,26 @@ def test_photo_overrides(repo, monkeypatch):
     page = (repo / "docs/en/s.html").read_text()
     assert "../photos/team.jpg" in page and "Used with permission" in page and "via Wikimedia" in page
     assert (repo / "docs/photos/team.jpg").exists()
+
+
+def test_journalist_style_rules(repo):
+    from sportnews.writer import VOICE_RULES, WRITE_SYSTEM, first_person_count
+    assert "third person" in VOICE_RULES["journalist"] and "Do NOT write in the first person" in VOICE_RULES["journalist"]
+    assert "{voice_rules}" in WRITE_SYSTEM and "ghost-writer" not in WRITE_SYSTEM
+    assert first_person_count('I watched it. My view: we were "I love this," he said.') == 3
+    assert first_person_count("Como won 9-1. The result leaves them fourth. China beat the US 3-2.") == 0
+
+
+def test_inbox_update_existing_story(repo):
+    from sportnews import pipeline
+    from sportnews.common import save_articles, load_articles
+    save_articles([{"id": "s1", "slug": "keep-slug", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00",
+                    "type": "news", "status": "published", "published_at": "2026-11-05T07:00:00+07:00", "sources": [],
+                    "published_to": [], "images": [{"url": "u", "artist": "a", "license": "CC0", "page": ""}],
+                    "en": {"headline": "Old", "body_markdown": "I watched it from Phnom Penh."}}])
+    (repo / "inbox").mkdir()
+    (repo / "inbox" / "fix.md").write_text("---\nupdate: s1\nheadline: New headline\n---\nComo won 9-1.\n")
+    pipeline.run_inbox()
+    arts = load_articles()
+    assert len(arts) == 1 and arts[0]["en"]["body_markdown"] == "Como won 9-1." and arts[0]["status"] == "published"
+    assert arts[0]["slug"] == "keep-slug" and arts[0]["images"][0]["url"] == "u" and arts[0].get("updated_at")

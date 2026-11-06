@@ -45,6 +45,12 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
             log.warning("Inbox %s skipped: needs a 'headline' and a body", f.name)
             continue
         social = meta.get("social_post") or (meta.get("subheadline") or "")
+        if meta.get("update"):
+            upd = _update_existing(cfg, meta, body, social)
+            if upd:
+                out.append(upd)
+                done.append(f.name)
+            continue
         en = {"headline": meta["headline"], "subheadline": meta.get("subheadline", ""),
               "body_markdown": body, "social_post": social}
         log.info("Importing editor's article: %s", f.name)
@@ -66,3 +72,31 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
         out.append(a)
         done.append(f.name)
     return out
+
+
+def _update_existing(cfg: dict, meta: dict, body: str, social: str) -> dict | None:
+    """'update: <story id>' in the header rewrites an existing story (keeps its ID, link, status and photos)."""
+    from .common import load_articles
+    old = next((a for a in load_articles() if a["id"] == str(meta["update"]).strip()), None)
+    if not old:
+        log.warning("Update skipped: story %s not found", meta["update"])
+        return None
+    a = dict(old)
+    a["en"] = {"headline": meta.get("headline") or old["en"].get("headline", ""),
+               "subheadline": meta.get("subheadline", old["en"].get("subheadline", "")),
+               "body_markdown": body, "social_post": social or old["en"].get("social_post", "")}
+    for k in ("facts_to_verify", "tags", "image_subjects"):
+        if k in meta:
+            a[k] = meta[k]
+    if meta.get("sources"):
+        a["sources"] = [x for x in meta["sources"] if isinstance(x, dict) and x.get("url")]
+    log.info("Updating story %s from inbox", a["id"])
+    loc = localize(cfg, a["en"])
+    for lang in cfg["languages"].get("others", ["zh", "ru"]):
+        if isinstance(loc.get(lang), dict) and loc[lang].get("headline"):
+            a[lang] = {k: loc[lang].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+        elif lang in a:
+            log.warning("Translation to %s failed — keeping the old %s text for now", lang, lang)
+    a["updated_at"] = now_iso(cfg)
+    a["_update"] = True
+    return a
