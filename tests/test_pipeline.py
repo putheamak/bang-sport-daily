@@ -409,3 +409,23 @@ def test_inbox_sources_only_fix(repo):
     a = load_articles()[0]
     assert a["sources"] == [{"title": "good", "url": "https://good.example/y"}] and a["en"]["body_markdown"] == "B"
     assert "updated_at" not in a
+
+
+def test_wire_box_hides_old_headlines():
+    from datetime import datetime, timedelta, timezone
+    from sportnews.site import _fresh_wire
+    now = datetime.now(timezone.utc)
+    items = [{"title": "new", "published": (now - timedelta(hours=3)).isoformat()},
+             {"title": "old", "published": (now - timedelta(days=3)).isoformat()}, {"title": "nodate"}]
+    assert [x["title"] for x in _fresh_wire(items)] == ["new"]
+
+
+def test_wire_mixes_major_sources():
+    from sportnews.collect import mix_sources
+    items = ([{"title": f"b{i}", "source": "BBC Sport"} for i in range(6)] +
+             [{"title": f"g{i}", "source": "The Guardian Sport"} for i in range(6)] +
+             [{"title": "r1", "source": "ProFootballRumors.com"}, {"title": "s1", "source": "Sky Sports"}])
+    out = mix_sources(items, 6)
+    srcs = [x["source"] for x in out]
+    assert srcs.count("BBC Sport") == 2 and srcs.count("The Guardian Sport") == 2 and "Sky Sports" in srcs
+    assert srcs[-1] == "ProFootballRumors.com"          # minor outlets only fill remaining places

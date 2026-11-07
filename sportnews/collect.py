@@ -137,14 +137,43 @@ def fetch_full_text(url: str, limit: int = 6000) -> str:
 _LAST: list[dict] = []
 
 
+MAJOR_MEDIA = re.compile(
+    r"bbc|guardian|sky sports|espn|reuters|associated press|\bap\b|al jazeera|nbc sports|cbs sports|cnn|the athletic|"
+    r"the independent|telegraph|the times|marca|as\.com|l'équipe|gazzetta|kicker|fifa|uefa|olympics|"
+    r"新华|央视|cctv|人民|新浪|腾讯|澎湃|中国新闻|体坛|懂球帝|"
+    r"чемпионат|спорт-экспресс|тасс|риа|матч|sports\.ru|советский спорт|рбк|коммерсант", re.I)
+
+
+def mix_sources(items: list[dict], n: int = 12, per_source: int = 2) -> list[dict]:
+    """Pick headlines from many different major outlets: major media first, at most `per_source` per outlet,
+    taken in turn (BBC, Guardian, Sky, ...) so no single outlet fills the box."""
+    def pick(pool, out, used):
+        groups: dict[str, list] = {}
+        for i in pool:
+            groups.setdefault(i.get("source", ""), []).append(i)
+        rnd = 0
+        while len(out) < n and any(len(g) > rnd for g in groups.values()):
+            for src, g in groups.items():
+                if len(out) >= n:
+                    break
+                if len(g) > rnd and used.get(src, 0) < per_source:
+                    out.append(g[rnd]); used[src] = used.get(src, 0) + 1
+            rnd += 1
+    out, used = [], {}
+    pick([i for i in items if MAJOR_MEDIA.search(i.get("source", ""))], out, used)
+    pick([i for i in items if not MAJOR_MEDIA.search(i.get("source", "")) and i not in out], out, used)
+    return out
+
+
 def save_wire(cfg: dict, per_lang: int = 12) -> None:
     """Save today's top headlines per language (links to the original outlets) for the 'Around the world' box."""
     from .common import DATA
     if not _LAST:
         return
-    wire = {}
+    from .standards import BETTING
+    wire = {"_updated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     for lang in ("en", "zh", "ru"):
-        items = [i for i in _LAST if i["lang"] == lang][:per_lang]
+        items = mix_sources([i for i in _LAST if i["lang"] == lang and not BETTING.search(i["title"])], per_lang)
         wire[lang] = [{"title": i["title"], "source": i["source"], "link": i["link"], "sport": i.get("sport"),
                        "published": i.get("published")} for i in items]
     write_json(DATA / "wire.json", wire)

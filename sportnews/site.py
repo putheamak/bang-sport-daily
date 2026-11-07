@@ -327,13 +327,27 @@ def _card(cfg, a, lang, size="std") -> str:
             + f'<span class="meta">{E(byline_name(cfg, a, lang))} · <time>{fmt_date(a["date"], lang)}</time></span></div></a>')
 
 
+def _fresh_wire(items: list, max_hours: int = 48) -> list:
+    """Only headlines from the last 2 days: an out-of-date box is hidden instead of shown."""
+    from datetime import datetime, timedelta, timezone
+    cut = datetime.now(timezone.utc) - timedelta(hours=max_hours)
+    out = []
+    for x in items:
+        try:
+            if datetime.fromisoformat(str(x.get("published"))) >= cut:
+                out.append(x)
+        except (TypeError, ValueError):
+            continue
+    return out
+
+
 def _rail(cfg, lang, wire, latest=None) -> str:
     parts = []
     if latest:
         parts.append(f'<section class="box"><h4 class="boxh">{UI2[lang]["latest_side"]}</h4><ol class="latest">'
                      + "".join(f'<li><a href="{a["slug"]}.html">{_kicker(cfg, a, lang)}<span>{E(a[lang]["headline"])}</span></a></li>' for a in latest)
                      + "</ol></section>")
-    w = ((wire or {}).get(lang) or []) if cfg["site"].get("wire_box", True) else []
+    w = _fresh_wire((wire or {}).get(lang) or []) if cfg["site"].get("wire_box", True) else []
     if w:
         parts.append(f'<section class="box"><h4 class="boxh">{UI2[lang]["world"]}</h4><p class="note">{UI2[lang]["world_note"]}</p><ol class="wire">'
                      + "".join(f'<li><a href="{E(x["link"])}" target="_blank" rel="noopener nofollow"><span>{E(x["title"])}</span>'

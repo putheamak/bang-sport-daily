@@ -7,6 +7,7 @@
   python -m sportnews reject ID [ID ...]    # mark drafts as rejected
   python -m sportnews book 2026-11 [--lang zh]  # compile a month into an ebook-style .docx
   python -m sportnews site                  # rebuild the website only
+  python -m sportnews headlines             # refresh the "Around the world" box (RSS only, no AI) + rebuild
   python -m sportnews audit [--no-links]    # standards audit of all stories -> data/audit.md
   python -m sportnews check ID              # standards check of one story
 """
@@ -31,6 +32,7 @@ def main(argv=None):
     r = sub.add_parser("reject"); r.add_argument("ids", nargs="+")
     b = sub.add_parser("book"); b.add_argument("month"); b.add_argument("--published-only", action="store_true"); b.add_argument("--lang", choices=["en", "zh", "ru"])
     sub.add_parser("site")
+    sub.add_parser("headlines")
     a = ap.parse_args(argv)
     cfg = load_config()
 
@@ -74,6 +76,14 @@ def main(argv=None):
     elif a.cmd == "book":
         from .exporters import compile_book
         print(compile_book(cfg, a.month, "published" if a.published_only else None, a.lang))
+    elif a.cmd == "headlines":
+        from .common import log_to_file
+        log_to_file("last_headlines.log")
+        from .collect import collect, save_wire
+        from .site import build_site
+        collect(cfg)
+        save_wire(cfg)
+        build_site(cfg)
     elif a.cmd == "site":
         from .common import load_articles, log_to_file, save_articles
         log_to_file("last_rebuild.log")
