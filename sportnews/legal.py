@@ -15,7 +15,9 @@ EDITORIAL = {
 <li><strong>Sources first.</strong> Each story starts from reports by established news outlets and official sources. Every story lists its sources at the end.</li>
 <li><strong>AI-assisted writing.</strong> Drafts are written with the help of artificial intelligence ({ai_name}) and adapted into Chinese and Russian. We say so on every story.</li>
 <li><strong>Human review.</strong> {author} reads every draft, checks the key facts (names, dates, scores, quotes) against the sources, and approves it before publication. Nothing is published automatically.</li>
-<li><strong>Original work.</strong> We do not copy articles. Stories are written in our own words, add context and the editor's perspective, and quote other outlets only briefly and with credit.</li>
+<li><strong>Original work.</strong> We do not copy articles. Stories are written in our own words, add context and factual analysis, and quote other outlets only briefly and with credit.</li>
+<li><strong>Up-to-date, credible sources.</strong> News stories rely on at least two sources, including a major or official outlet, published close to the event. Blogs and social media are never used as the only source. Every week we re-check all published stories and their source links, and update or correct them when facts change.</li>
+<li><strong>Journalism standards.</strong> Stories are written in the third person as news reporting. Every draft passes an automatic standards check (accuracy flags, sources, neutral language, no clickbait) before the editor can approve it.</li>
 <li><strong>Photos.</strong> We only use freely licensed photos from Wikimedia Commons, credited to their authors, or our own designed covers. We never use photos from news agencies without a licence, and we do not publish AI-generated images of real people.</li>
 </ul>
 <h2>What we don't do</h2>
@@ -30,7 +32,9 @@ EDITORIAL = {
 <li><strong>来源优先。</strong>每篇文章都以权威媒体和官方来源的报道为基础，并在文末列出来源。</li>
 <li><strong>AI 辅助写作。</strong>初稿在人工智能（Google Gemini）协助下撰写，并改写为中文和俄文。我们在每篇文章中注明这一点。</li>
 <li><strong>人工审核。</strong>{author} 阅读每篇初稿，对照来源核实关键事实（姓名、日期、比分、引语），批准后才会发布。没有任何内容自动发布。</li>
-<li><strong>原创内容。</strong>我们不抄袭文章，用自己的语言写作，补充背景和编辑观点，仅简短引用其他媒体并注明出处。</li>
+<li><strong>原创内容。</strong>我们不抄袭文章，用自己的语言写作，补充背景和基于事实的分析，仅简短引用其他媒体并注明出处。</li>
+<li><strong>及时、可信的来源。</strong>新闻至少依据两个来源，其中包括权威或官方媒体，且发布时间贴近事件本身。博客和社交媒体从不作为唯一来源。我们每周复查所有已发布文章及其来源链接，事实变化时及时更新或更正。</li>
+<li><strong>新闻专业标准。</strong>文章以第三人称新闻报道方式撰写。每篇初稿在编辑批准前都要通过自动标准检查（核实提示、来源、中立用语、拒绝标题党）。</li>
 <li><strong>图片。</strong>我们只使用维基共享资源中注明作者的自由授权图片，或自行设计的封面；不使用未经授权的通讯社图片，也不发布真实人物的 AI 生成图片。</li>
 </ul>
 <h2>我们不做的事</h2>
@@ -43,7 +47,9 @@ EDITORIAL = {
 <li><strong>Сначала источники.</strong> Каждый материал основан на сообщениях авторитетных СМИ и официальных источников; источники указаны в конце.</li>
 <li><strong>Помощь ИИ.</strong> Черновики пишутся с помощью искусственного интеллекта ({ai_name}) и адаптируются на китайский и русский. Мы указываем это в каждом материале.</li>
 <li><strong>Проверка человеком.</strong> {author} читает каждый черновик, сверяет ключевые факты (имена, даты, счёт, цитаты) с источниками и одобряет его перед публикацией. Ничего не публикуется автоматически.</li>
-<li><strong>Оригинальность.</strong> Мы не копируем статьи: пишем своими словами, добавляем контекст и взгляд редактора, цитируем другие СМИ кратко и со ссылкой.</li>
+<li><strong>Оригинальность.</strong> Мы не копируем статьи: пишем своими словами, добавляем контекст и фактический анализ, цитируем другие СМИ кратко и со ссылкой.</li>
+<li><strong>Актуальные и надёжные источники.</strong> Новости опираются минимум на два источника, включая крупное или официальное СМИ, опубликованные близко к событию. Блоги и соцсети никогда не бывают единственным источником. Каждую неделю мы перепроверяем все опубликованные материалы и ссылки на источники и обновляем или исправляем их, если факты меняются.</li>
+<li><strong>Журналистские стандарты.</strong> Материалы пишутся от третьего лица как новостные репортажи. Каждый черновик проходит автоматическую проверку стандартов (пометки для сверки фактов, источники, нейтральный язык, отсутствие кликбейта) до одобрения редактором.</li>
 <li><strong>Фото.</strong> Только свободно лицензированные фото с Викисклада с указанием авторов или наши собственные обложки. Мы не используем фото агентств без лицензии и не публикуем сгенерированные ИИ изображения реальных людей.</li>
 </ul>
 <h2>Чего мы не делаем</h2>

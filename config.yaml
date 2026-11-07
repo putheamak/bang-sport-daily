@@ -93,6 +93,20 @@ publish:
   photos: true             # free-licence photos from Wikimedia Commons, with credits
   drafts_on_site: false    # true = adds docs/review.html with drafts (visible to anyone who finds it!)
 
+# ---------- Editorial standards (ethics, professionalism, up-to-date sources) ----------
+# Every draft is checked automatically; problems appear in the review message.
+# BLOCK problems stop publishing (choose "publish-anyway" in the Publish workflow to override).
+# A weekly audit re-checks all published stories and their source links -> data/audit.md
+standards:
+  enabled: true
+  block_on_publish: true
+  min_sources_news: 2           # at least one must be a major or official outlet
+  max_source_age_days_news: 3   # newest source should be this close to the story date
+  max_story_age_days_news: 4    # older news drafts: update or reject
+  min_words: {news: 250, history: 400, athlete_story: 500}
+  max_headline_chars: 110
+  check_links: true
+
 # ---------- News sources (free RSS) ----------
 # These feeds are used as SOURCES OF FACTS only. The AI writes original stories and credits them.
 # A feed that fails is skipped and logged — never fatal. Add or remove freely.

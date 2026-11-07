@@ -59,3 +59,19 @@ Quality matters more than quantity.
 3. Correct mistakes quickly and note the correction.
 4. Keep the author bio truthful. Don't claim credentials you don't have.
 5. Re-read Google's Search Essentials and the AdSense Program policies every few months.
+
+## Editorial standards check (automatic)
+
+`sportnews/standards.py` checks every story for three things. The limits are in `config.yaml` under `standards:`.
+
+| Area | Examples of what is checked | Level |
+|---|---|---|
+| Ethics | betting content, first-person lines, opinion/sermon phrases ("Rest in peace", "watching from..."), private life, unconfirmed death dates | BLOCK / WARN |
+| Professionalism | clickbait or all-caps headlines, copied text, thin content, missing subheadline, "today/yesterday", clichés | BLOCK / WARN / INFO |
+| Up-to-date sources | no sources, blogs/social only, fewer than 2 sources for news, no major outlet, sources older than the story, old drafts, broken links | BLOCK / WARN |
+| Translations | Chinese/Russian older than an English correction | WARN |
+
+- Drafts: the result is in the Telegram/email review message.
+- Publishing: ⛔ BLOCK stops the Publish workflow. Fix the story, or choose `publish-anyway` after checking it yourself.
+- Weekly: the **Weekly standards audit** workflow (Mondays 08:17 Cambodia time) re-checks all stories, opens every source link and saves `data/audit.md`.
+- By hand: `python -m sportnews check <ID>` or Actions › Weekly standards audit › Run workflow.

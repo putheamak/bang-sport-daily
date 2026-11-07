@@ -63,7 +63,8 @@ def send_for_review(cfg: dict, items: list[dict]) -> None:
         return
     for a in items:
         en = a.get("en", {})
-        verify = "\n".join(f"• {f}" for f in a.get("facts_to_verify", [])) or "—"
+        from .standards import summary_lines
+        verify = "\n".join(summary_lines(a.get("standards") or [], 15)) or "\n".join(f"• {f}" for f in a.get("facts_to_verify", [])) or "✅ No problems found"
         langs = "/".join(l.upper() for l in LANGS if a.get(l))
         msg = (f"📝 DRAFT {a['type'].upper()} · {a.get('sport', '')} · {langs}\nID: {a['id']}\n\n"
                f"{en.get('headline', '')}\n\n{en.get('body_markdown', '')}\n\n⚠️ Check:\n{verify}\n\n"
@@ -92,14 +93,26 @@ def _match(articles: list[dict], ids: list[str]) -> list[dict]:
     return out
 
 
-def publish_articles(cfg: dict, ids: list[str]) -> list[str]:
-    """Publish by id (prefix ok) or 'today' / 'all-drafts'. Marks status=published so the website shows it."""
+def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str]:
+    """Publish by id (prefix ok) or 'today' / 'all-drafts'. Marks status=published so the website shows it.
+    Stories with a BLOCK standards problem are held back unless force=True ("publish-anyway")."""
     articles = load_articles()
     if ids in (["today"], ["all-drafts"]):
         d = today(cfg)
         targets = [a for a in articles if a["status"] == "draft" and (ids == ["all-drafts"] or a["date"] == d)]
     else:
         targets = _match(articles, ids)
+    from .standards import blocking, check_article, rules, summary_lines
+    held = []
+    for a in targets:
+        a["standards"] = check_article(cfg, a, today(cfg))
+        if blocking(a["standards"]) and rules(cfg).get("block_on_publish", True) and not force:
+            held.append(a)
+            log.error("NOT published %s: standards problems must be fixed first:\n  %s", a["id"],
+                      "\n  ".join(summary_lines(blocking(a["standards"]))))
+    targets = [a for a in targets if a not in held]
+    if held:
+        save_articles(articles)
     done = []
     if cfg["publish"].get("photos", True):
         from .images import attach_images
@@ -154,7 +167,8 @@ def send_digest(cfg: dict, date: str, items: list[dict], published: bool = False
     rows = []
     for a in items:
         en = a.get("en", {})
-        verify = "".join(f"<li>{f}</li>" for f in a.get("facts_to_verify", []))
+        from .standards import summary_lines
+        verify = "".join(f"<li>{f}</li>" for f in (summary_lines(a.get("standards") or [], 15) or a.get("facts_to_verify", [])))
         heads = "".join(f"<div style='color:#555'>{l.upper()}: {a[l]['headline']}</div>" for l in ("zh", "ru") if a.get(l))
         body = en.get("body_markdown", "").replace("\n\n", "</p><p>")
         rows.append(

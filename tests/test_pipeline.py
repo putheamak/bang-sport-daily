@@ -361,3 +361,36 @@ def test_ready_made_with_english(repo):
     a = load_articles()[0]
     assert a["en"]["body_markdown"] == "New text." and a["zh"]["headline"] == "新"
     assert not site.stale(a, "zh") and not site.stale(a, "ru")
+
+
+def test_standards_flags_and_publish_gate(repo):
+    from sportnews.common import load_config, load_articles, save_articles
+    from sportnews.standards import check_article, blocking
+    cfg = load_config()
+    good = {"id": "2026-11-05-news-aaaaaa", "type": "news", "date": "2026-11-05", "status": "draft",
+            "sources": [{"title": "BBC", "url": "https://www.bbc.co.uk/sport/2026/11/05/x"},
+                        {"title": "Guardian", "url": "https://www.theguardian.com/sport/2026/nov/05/y"}],
+            "en": {"headline": "Team wins the cup", "subheadline": "A 2-1 win in the final.",
+                   "body_markdown": " ".join(["The team won the final on Wednesday."] * 50), "social_post": "Who wins next? #Cup"}}
+    assert not blocking(check_article(cfg, good, "2026-11-05"))
+    bad = dict(good, sources=[{"title": "blog", "url": "https://x.blogspot.com/2026/10/01/a"}],
+               en=dict(good["en"], headline="SHOCKING! You won't believe this",
+                       body_markdown="Watching from Phnom Penh, I loved it. My view: bet365 odds of 2 look good. Rest in peace."))
+    issues = check_article(cfg, bad, "2026-11-05")
+    areas = {(i["level"], i["area"]) for i in issues}
+    assert ("BLOCK", "ethics") in areas and ("BLOCK", "professional") in areas and ("BLOCK", "sources") in areas
+    save_articles([bad])
+    from sportnews.publishers import publish_articles
+    publish_articles(cfg, [bad["id"]])
+    assert load_articles()[0]["status"] == "draft"          # held back
+    publish_articles(cfg, [bad["id"]], force=True)
+    assert load_articles()[0]["status"] == "published"
+
+
+def test_audit_report(repo):
+    from sportnews.common import load_config
+    from sportnews.standards import audit
+    a = {"id": "x1", "type": "news", "date": "2026-11-05", "status": "published", "sources": [],
+         "en": {"headline": "H", "subheadline": "", "body_markdown": "Today, short.", "social_post": ""}}
+    rep = audit(load_config(), [a], "2026-11-07", links=False)
+    assert "Standards audit" in rep and "No sources listed" in rep and a["standards"]

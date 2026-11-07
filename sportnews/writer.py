@@ -20,6 +20,16 @@ ACCURACY RULES (most important):
 - If something is unclear or sources disagree, say so or leave it out, and list it in "facts_to_verify".
 - No betting advice, no gossip about private life, health or relationships.
 
+SOURCE RULES:
+- News must rest on at least two sources, one of them a major or official outlet (BBC, Reuters, AP, ESPN,
+  the Guardian, FIFA/UEFA/AFC, the club, league or federation). Never rely only on blogs or social media.
+- Use the most recent reports. Search for later developments before writing; if the story has moved on
+  (new score, new statement, correction), report the latest position and say when it changed.
+- Write exact dates only when a source gives them. Avoid "today"/"yesterday": use the weekday or the date.
+- For deaths, injuries or legal matters, report only what is officially confirmed, neutrally, without tributes
+  or moral lessons ("Rest in peace", "there is a lesson for young athletes").
+- No clickbait or sensational words in headlines; the headline must match what the story proves.
+
 <style_profile>
 {style}
 </style_profile>

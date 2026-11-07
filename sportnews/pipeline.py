@@ -106,6 +106,8 @@ def run_inbox() -> list[dict]:
             except Exception as e:  # noqa: BLE001
                 log.warning("Photos failed for %s: %s", a["id"], e)
     write_json(STATE, state)
+    from .standards import stamp
+    stamp(cfg, new, date)              # ethics / professionalism / sources check, shown in the review message
     articles = merge_articles(new, load_articles())
     retry_translations(cfg, [a for a in articles if a not in new])
     save_articles(articles)
@@ -203,6 +205,8 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
                 log.warning("Photos failed for %s: %s", a["id"], e)
     from .collect import save_wire
     save_wire(cfg)
+    from .standards import stamp
+    stamp(cfg, new, date)              # ethics / professionalism / sources check, shown in the review message
     articles = merge_articles(new, load_articles())
     if cfg["publish"].get("photos", True):
         from .images import backfill
