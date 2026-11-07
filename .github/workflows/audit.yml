@@ -1,0 +1,35 @@
+name: Weekly standards audit
+
+# Re-checks every story for ethics, professionalism and up-to-date sources, and opens every source link.
+# Report: data/audit.md (open it on GitHub). No AI quota used.
+on:
+  schedule:
+    - cron: "17 1 * * 1"     # Mondays 08:17 Cambodia time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Audit
+        run: python -m sportnews audit >> "$GITHUB_STEP_SUMMARY"
+      - name: Save report
+        run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "standards audit"
+          git push
