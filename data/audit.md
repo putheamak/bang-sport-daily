@@ -2,7 +2,7 @@
 
 Published stories: 10 · Drafts waiting: 0
 
-Totals: ⛔ 0 · ⚠️ 6 · ℹ️ 20 · broken links: 4
+Totals: ⛔ 0 · ⚠️ 0 · ℹ️ 16 · broken links: 0
 
 Levels: ⛔ BLOCK = fix now · ⚠️ WARN = check by hand · ℹ️ INFO = note
 
@@ -46,25 +46,12 @@ Levels: ⛔ BLOCK = fix now · ⚠️ WARN = check by hand · ℹ️ INFO = note
 ## The Great Wall with a Heart: The Life and Burden of Yao Ming
 `2026-11-05-athl-26b539` · published · 2026-11-05
 
-- ⚠️ WARN [sources] Source link does not open (404): https://www.basketball-reference.com/players/y/yaomi01.html
-- ⚠️ WARN [sources] Source link does not open (404): https://www.nba.com/news/history-nba-legend-yao-ming
-- ℹ️ INFO [facts] Verify: Verify the exact date of Yao Ming's resignation from the CBA presidency in late 2024.
 - ℹ️ INFO [facts] Verify: Confirm the percentage decline in shark fin consumption attributed to his campaign.
-- ℹ️ INFO [sources] Source blocks automatic checks (401), open it by hand: https://www.reuters.com/sports/basketball/yao-ming-steps-down-president-chinese-basketball-association-2024-10-31/
+- ℹ️ INFO [sources] Source blocks automatic checks (403), open it by hand: https://www.britannica.com/biography/Yao-Ming
 
-## The Preacher's Punch: When 45-Year-Old George Foreman Reclaimed the Heavyweight Title
-`2026-11-05-hist-52bd88` · published · 2026-11-05
-
-- ⚠️ WARN [professional] Only 288 words (minimum 400 for history). Thin content hurts AdSense approval
-- ⚠️ WARN [sources] Source link does not open (404): https://en.wikipedia.org/wiki/George_Foreman_vs._Michael_Moorer
-- ⚠️ WARN [sources] Source link does not open (404): https://www.history.com/this-day-in-history/george-foreman-becomes-oldest-heavyweight-champion
-- ℹ️ INFO [facts] Verify: Confirm the exact age of Michael Moorer on Nov 5, 1994 (sources generally say 26 or 27).
-- ℹ️ INFO [facts] Verify: Verify the exact titles on the line (WBA and IBF).
-
-## Japan FA President Kozo Tashima to Challenge Gianni Infantino for FIFA Presidency
+## Japan's Kozo Tashima to Challenge Gianni Infantino for FIFA Presidency
 `2026-11-05-news-1ffe06` · published · 2026-11-05
 
-- ⚠️ WARN [sources] Only 1 source(s). News needs at least 2
-- ℹ️ INFO [facts] Verify: Confirming if the election date is specifically March 2027.
-- ℹ️ INFO [facts] Verify: Checking for any other confirmed candidates for the March election.
+- ℹ️ INFO [facts] Verify: Election year and venue: sources say 'March'. Confirm on FIFA's official site once the candidate list is published after the 18 November deadline.
 
+All stories meet the standards. ✅

@@ -1105,6 +1105,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Confirm the percentage decline in shark fin consumption attributed to his campaign."
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.britannica.com/biography/Yao-Ming"
       }
     ]
   },
