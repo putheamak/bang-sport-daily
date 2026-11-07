@@ -9,7 +9,7 @@ on:
       action:
         description: "What to do"
         type: choice
-        options: [publish, reject]
+        options: [publish, reject] to options: [publish, reject, publish-anyway]
         default: publish
 
 permissions:
