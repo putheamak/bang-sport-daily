@@ -28,10 +28,10 @@ INBOX = ROOT / "inbox"
 
 
 def parse(text: str) -> tuple[dict, str]:
-    m = re.match(r"^﻿?---\s*\n(.*?)\n---\s*\n(.*)$", text, re.S)
+    m = re.match(r"^﻿?---\s*\n(.*?)\n---[ \t]*(?:\n(.*))?$", text.rstrip() + "\n", re.S)
     if not m:
         return {}, text.strip()
-    return yaml.safe_load(m.group(1)) or {}, m.group(2).strip()
+    return yaml.safe_load(m.group(1)) or {}, (m.group(2) or "").strip()
 
 
 def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
@@ -41,6 +41,12 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
         if f.name.lower() == "readme.md" or f.name in done:
             continue
         meta, body = parse(read_text(f))
+        if meta.get("update") and not body and (meta.get("sources") or meta.get("facts_to_verify") is not None):
+            upd = _fix_details(meta)                 # sources / facts list only: no text change, no AI
+            if upd:
+                out.append(upd)
+                done.append(f.name)
+            continue
         if (not meta.get("headline") and not meta.get("update")) or not body:
             log.warning("Inbox %s skipped: needs a 'headline' and a body", f.name)
             continue
@@ -139,5 +145,28 @@ def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:
         stamps[lang] = stamp
         log.info("Added %s translation for %s", lang, a["id"])
     a["lang_updated"] = stamps
+    _apply_details(a, meta)
     a["_update"] = True
+    return a
+
+
+def _apply_details(a: dict, meta: dict) -> None:
+    if meta.get("sources"):
+        a["sources"] = [x for x in meta["sources"] if isinstance(x, dict) and x.get("url")]
+    if meta.get("facts_to_verify") is not None:
+        a["facts_to_verify"] = list(meta.get("facts_to_verify") or [])
+
+
+def _fix_details(meta: dict) -> dict | None:
+    """'update: <id>' with only 'sources:' and/or 'facts_to_verify:' (empty body): fixes source links
+    without touching the text, so no translation is needed and no page is hidden."""
+    from .common import load_articles
+    old = next((a for a in load_articles() if a["id"] == str(meta["update"]).strip()), None)
+    if not old:
+        log.warning("Source fix skipped: story %s not found", meta["update"])
+        return None
+    a = dict(old)
+    _apply_details(a, meta)
+    a["_update"] = True
+    log.info("Updated sources/notes for %s", a["id"])
     return a

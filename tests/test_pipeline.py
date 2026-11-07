@@ -394,3 +394,18 @@ def test_audit_report(repo):
          "en": {"headline": "H", "subheadline": "", "body_markdown": "Today, short.", "social_post": ""}}
     rep = audit(load_config(), [a], "2026-11-07", links=False)
     assert "Standards audit" in rep and "No sources listed" in rep and a["standards"]
+
+
+def test_inbox_sources_only_fix(repo):
+    from sportnews.common import ROOT, load_articles, save_articles
+    from sportnews.pipeline import run_inbox
+    save_articles([{"id": "2026-11-05-athl-zzzzzz", "type": "athlete_story", "date": "2026-11-05", "status": "published",
+                    "slug": "s", "created": "2026-11-05T10:00:00+07:00", "sources": [{"title": "bad", "url": "https://bad.example/x"}],
+                    "en": {"headline": "H", "subheadline": "S", "body_markdown": "B", "social_post": ""},
+                    "zh": {"headline": "H", "subheadline": "S", "body_markdown": "B", "social_post": ""}}])
+    (ROOT / "inbox").mkdir(exist_ok=True)
+    (ROOT / "inbox" / "fix.md").write_text("---\nupdate: 2026-11-05-athl-zzzzzz\nsources:\n  - {title: good, url: 'https://good.example/y'}\n---\n")
+    run_inbox()
+    a = load_articles()[0]
+    assert a["sources"] == [{"title": "good", "url": "https://good.example/y"}] and a["en"]["body_markdown"] == "B"
+    assert "updated_at" not in a
