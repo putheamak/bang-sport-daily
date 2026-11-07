@@ -20,7 +20,7 @@ Organizers immediately cut live audio from practice courts for the duration of t
 
 The controversy underscores long-standing unease among professional tennis players over how far broadcast cameras and directional microphones reach behind the scenes. Broadcasters have increasingly sought unfiltered, all-access content to engage younger digital audiences, but athletes have repeatedly argued that the encroachment compromises their working environment.
 
-Addressing the situation on ESPN, Pegula explained that she had been completely unaware of any active recording equipment. While acknowledging that behind-the-scenes glimpses appeal to spectators, the 32-year-old voiced frustration with excessive surveillance and expressed hope that the mishap would encourage tournament organizers to respect athlete boundaries.
+Pegula said she had been completely unaware of any active recording equipment. While acknowledging that behind-the-scenes glimpses appeal to spectators, the 32-year-old voiced frustration with excessive surveillance and expressed hope that the mishap would encourage tournament organizers to respect athlete boundaries.
 
 The debate has simmered throughout the season. In January, Coco Gauff raised similar objections when television feeds lingered on her venting frustration and breaking a racket in an off-court tunnel following a quarter-final loss at the Australian Open.
 
