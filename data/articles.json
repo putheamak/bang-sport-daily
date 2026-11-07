@@ -99,7 +99,19 @@
     "lang_updated": {
       "zh": "2026-11-06T22:57:32+07:00",
       "ru": "2026-11-06T22:57:32+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Table positions are from a third-party table after matchday 4 (PSG 12 pts, GD +15; Real Madrid 12; Arsenal 10; Como 9; Barcelona 9). Check the official UEFA table."
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
   },
   {
     "id": "2026-11-06-news-af8895",
@@ -173,7 +185,19 @@
     "lang_updated": {
       "zh": "2026-11-06T23:00:46+07:00",
       "ru": "2026-11-06T23:00:46+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The group-stage scores against Kenya (3-0) and Samoa (7-0) and the penalty shoot-out against France (4-3, with Niu Ziqi saving twice) come from Chinese media (Sina). The FIFA article confirms the wins over the USA and France and the 2-1 defeat by Brazil."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Wikipedia's U-17 team page still names Wang Hongliang as coach. FIFA and Chinese media say Ma Xiaoxu, appointed in January 2026."
+      }
+    ]
   },
   {
     "id": "2026-11-06-news-ce93b6",
@@ -276,7 +300,19 @@
     "lang_updated": {
       "zh": "2026-11-06T22:57:32+07:00",
       "ru": "2026-11-06T22:57:32+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The minute of Archie Brown's equaliser is not given in the sources (about 73 minutes, four minutes after Isak's goal)."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm Kuyt's appointment timing ('named last week' as of 5 Nov, per Al Jazeera)."
+      }
+    ]
   },
   {
     "id": "2026-11-06-news-14a1b9",
@@ -374,7 +410,24 @@
     "lang_updated": {
       "zh": "2026-11-06T23:01:37+07:00",
       "ru": "2026-11-06T23:01:37+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Match-centre data differs on the 47th-minute scorer: the live text says Lucas Da Cunha, one summary says Nico Paz. Check the official UEFA match report."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Records are as reported by Al Jazeera: equals the biggest winning margin in Champions League history; first team since 1971 to score nine away in the European Cup; only the second team after Bayern Munich to score nine in a Champions League match."
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
   },
   {
     "id": "2026-11-06-news-cc35df",
@@ -484,7 +537,24 @@
     "lang_updated": {
       "zh": "2026-11-06T23:03:16+07:00",
       "ru": "2026-11-06T23:03:16+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Spelling of the Svay Rieng striker: ESPN writes 'Tiago Alves', the AFC writes 'Thiago Alves'."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Format: confirm that the top two in each group reach the round of 16 (the AFC said Machida 'reached the Round of 16' with 12 points)."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Group H standings are worked out from the four results (PP Crown 9, Kitchee 5, Gangwon 4, Kuching 4). Check them against the official AFC table."
+      }
+    ]
   },
   {
     "id": "2026-11-06-athl-052869",
@@ -917,7 +987,14 @@
     "lang_updated": {
       "zh": "2026-11-06T23:04:00+07:00",
       "ru": "2026-11-06T23:04:00+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact total of Portugal senior appearances (some sources report 234 caps, while author memo notes reports of 243; left specific cap count unstated in text until official records reconcile)."
+      }
+    ]
   },
   {
     "id": "2026-11-05-athl-26b539",
@@ -1019,7 +1096,34 @@
     "lang_updated": {
       "zh": "2026-11-06T23:04:46+07:00",
       "ru": "2026-11-06T23:04:46+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify the exact date of Yao Ming's resignation from the CBA presidency in late 2024."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm the percentage decline in shark fin consumption attributed to his campaign."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.basketball-reference.com/players/y/yaomi01.html"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (401), open it by hand: https://www.reuters.com/sports/basketball/yao-ming-steps-down-president-chinese-basketball-association-2024-10-31/"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.nba.com/news/history-nba-legend-yao-ming"
+      }
+    ]
   },
   {
     "id": "2026-11-05-hist-52bd88",
@@ -1092,7 +1196,34 @@
     "lang_updated": {
       "zh": "2026-11-07T11:55:31+07:00",
       "ru": "2026-11-07T11:55:31+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 288 words (minimum 400 for history). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm the exact age of Michael Moorer on Nov 5, 1994 (sources generally say 26 or 27)."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify the exact titles on the line (WBA and IBF)."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://en.wikipedia.org/wiki/George_Foreman_vs._Michael_Moorer"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.history.com/this-day-in-history/george-foreman-becomes-oldest-heavyweight-champion"
+      }
+    ]
   },
   {
     "id": "2026-11-05-news-70aff0",
@@ -1190,7 +1321,8 @@
     "lang_updated": {
       "zh": "2026-11-07T11:55:31+07:00",
       "ru": "2026-11-07T11:55:31+07:00"
-    }
+    },
+    "standards": []
   },
   {
     "id": "2026-11-05-news-06b4b8",
@@ -1321,6 +1453,23 @@
     "lang_updated": {
       "zh": "2026-11-07T11:55:31+07:00",
       "ru": "2026-11-07T11:55:31+07:00"
-    }
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirming if the election date is specifically March 2027."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Checking for any other confirmed candidates for the March election."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Only 1 source(s). News needs at least 2"
+      }
+    ]
   }
 ]
