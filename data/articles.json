@@ -1,5 +1,485 @@
 [
   {
+    "id": "2026-11-07-athl-97c291",
+    "slug": "from-the-red-hills-of-sherwood-content-to-the-pinnacle-of-wo",
+    "date": "2026-11-07",
+    "created": "2026-11-07T17:40:32+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Athletics",
+    "tags": [
+      "Usain Bolt",
+      "Athletics",
+      "Sprint",
+      "Olympics",
+      "Jamaica",
+      "World Records"
+    ],
+    "athletes": [
+      "Usain Bolt"
+    ],
+    "image_subjects": [
+      "Usain Bolt",
+      "William Knibb Memorial High School",
+      "Beijing National Stadium",
+      "Olympic Games"
+    ],
+    "facts_to_verify": [
+      "Exact dates of birth and early competitive milestones as recorded by World Athletics",
+      "Specific times recorded at the 2002 World Junior Championships in Kingston"
+    ],
+    "sources": [
+      {
+        "title": "Usain Bolt Biography - World Athletics",
+        "url": "https://worldathletics.org/athletes/jamaica/usain-bolt-14144670"
+      },
+      {
+        "title": "Usain Bolt Profile - International Olympic Committee",
+        "url": "https://olympics.com/en/athletes/usain-bolt"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "From the Red Hills of Sherwood Content to the Pinnacle of World Athletics: The Life of Usain Bolt",
+      "subheadline": "Tracing the journey of the Jamaican sprinter who redefined human speed, overcame early physical hurdles, and left an indelible mark on global sport.",
+      "body_markdown": "## From Rural Jamaica to the Tracks of Trelawny\n\nLong before he commanded the global stage under the bright lights of Olympic stadiums, Usain St. Leo Bolt grew up running through the yam and cassava fields of Sherwood Content, a quiet rural district in Jamaica’s Trelawny parish. Born on August 21, 1986, to grocery store owners Wellesley and Jennifer Bolt, his childhood was defined by cricket, football, and endless movement in the warm Caribbean sun. Speed was a natural companion, though cricket was his first true sporting love.\n\nAt William Knibb Memorial High School, Bolt's athletic gifts quickly drew the attention of teachers and coaches. However, his raw talent required careful guidance, particularly when confronted with a condition that would shape his physical management for years to come: severe scoliosis. The spinal curvature caused his right leg to be noticeably shorter than his left, leading to recurring back and hamstring issues that threatened to derail his burgeoning career before it truly began.\n\n## The Turning Point of a Legend\n\nThe pivotal moment in Bolt's early trajectory came under the mentorship of coach Pablo McNeil and later Dwayne Jarrett, who helped channel his explosive energy into sprinting. At the 2002 World Junior Championships in Kingston, a nervous 15-year-old Bolt walked out in front of a partisan home crowd of 36,000 spectators. Overwhelmed by the pressure, he initially put his shoes on the wrong feet before recovering to win the 200-meter final in 20.61 seconds. That gold medal transformed him into a national hero overnight and taught him how to handle the immense weight of expectation.\n\nYet, the road to absolute dominance was not without its shadows. Disappointments at the 2004 Athens Olympics—where a hamstring injury saw him eliminated in the opening round—and a similar exit at the 2005 World Championships in Helsinki led to widespread doubts about his professionalism and durability. Critics questioned whether his lanky, 6-foot-5 frame was simply too tall for the mechanics of elite sprinting, where shorter athletes traditionally thrived.\n\n## Redefining Human Limits in Beijing and Beyond\n\nThe turning point of modern athletics arrived in the summer of 2008 at the Beijing National Stadium. Freed from recurring injuries through rigorous treatment and a shifted training focus under coach Glen Mills, Bolt stunned the world by winning the 100-meter final in a world-record time of 9.69 seconds, famously slowing down and beating his chest before crossing the finish line. Days later, he shattered Michael Johnson's legendary 200-meter record with a run of 19.30 seconds, followed by a third gold and another world record in the 4x100-meter relay.\n\nBolt cemented his status as a sporting immortal at the 2009 World Athletics Championships in Berlin, where he clocked times of 9.58 seconds for the 100 meters and 19.19 seconds for the 200 meters—marks that remain untouched. Across three successive Olympic Games in Beijing, London, and Rio de Janeiro, he secured eight gold medals, embodying the philosophy that the impossible was merely a temporary boundary.\n\n## Life After the Track\n\nSince retiring from competitive athletics following the 2017 World Championships in London, Bolt has transitioned into entrepreneurship, philanthropy, and briefly pursued a lifelong passion for professional football, training with clubs in Australia and Europe. Through the Usain Bolt Foundation, he continues to create educational and cultural opportunities for children in Jamaica.\n\nThe legacy left by the man known as Lightning Bolt extends far beyond medals and timing charts. He proved that physical anomalies like scoliosis do not define destiny, and that joy and relaxation on the biggest stages could coexist with relentless competitive excellence. For generations of athletes across the Caribbean and the wider world, his journey remains an enduring testament to what happens when raw natural gifts meet unwavering perseverance.",
+      "social_post": "Discover the remarkable life story of Usain Bolt—from running through the fields of Sherwood Content to shattering world records and redefining human speed forever. How did his journey inspire a new generation of athletes? #UsainBolt #Athletics #Olympics #TrackAndField\n\nShare your thoughts in the comments below!"
+    },
+    "zh": {
+      "headline": "从舍伍德康顿的红土到世界田径之巅：博尔特传奇人生",
+      "subheadline": "回溯这位牙买加短跑名将的传奇足迹：他重新定义了人类的速度极限，克服了早期的身体伤病，在世界体坛留下了永不磨灭的印记。",
+      "body_markdown": "## 从牙买加乡村到特里洛尼赛道\n\n在奥运赛场耀眼的灯光吸引全球目光的很久以前，尤塞恩·圣利奥·博尔特（Usain St. Leo Bolt）是在牙买加特里洛尼区（Trelawny）一个安静的乡村——舍伍德康顿（Sherwood Content）的山药和木薯地里奔跑着长大的。他于1986年8月21日出生于杂货店老板韦尔斯利（Wellesley）和珍妮弗·博尔特（Jennifer Bolt）夫妇。在加勒比海温暖的阳光下，板球、足球和永不停歇的奔跑构成了他童年的全部底色。速度似乎是他天然的伙伴，不过板球才是他最初的挚爱。\n\n在威廉克尼布纪念高中（William Knibb Memorial High School），博尔特的运动天赋很快吸引了老师和教练的注意。然而，他那纯粹的天赋需要科学的引导，尤其是当他面对一种将在未来多年影响其身体状况的疾病时：严重的脊柱侧弯。这种脊椎弯曲导致他的右腿明显比左腿短，从而引发了反复发作的背部和腿筋问题，甚至在职业生涯真正起步之前就险些将其扼杀。\n\n## 传奇的转折点\n\n博尔特早期职业生涯的转折点出现在教练巴勃罗·麦克尼尔（Pablo McNeil）和后来的德韦恩·贾雷特（Dwayne Jarrett）的悉心指导之下，他们帮助他将爆发力引导到了短跑项目上。在2002年金斯敦世界青年田径锦标赛上，年仅15岁、略显紧张的博尔特出现在主场36,000名狂热观众面前。由于压力过大，他甚至一度把鞋穿反了，但随后他迅速调整，以20秒61的成绩赢得了200米决赛。这枚金牌在一夜之间将他塑造为国家英雄，也教会了他如何承载巨大的期望。\n\n然而，通往绝对统治力的道路并非一片坦途。2004年雅典奥运会上，他因腿筋受伤在首轮黯然出局；2005年赫尔辛基世锦赛上也遭遇了相同的滑铁卢。这让外界对他是否具备职业素养和持久耐力产生了广泛的质疑。评论家们甚至质疑，他那高达6英尺5英寸（约1.96米）的纤长身材，是否根本不符合传统上由矮个子运动员主导的精英短跑力学原理。\n\n## 在北京及以后重新定义人类极限\n\n现代田径运动的转折点到来2008年的夏天，地点是北京国家体育场。在经过严格的治疗摆脱了伤病困扰，并在教练格伦·米尔斯（Glen Mills）的指导下调整了训练重心后，博尔特震惊了世界。他在100米决赛中以9秒69的世界纪录夺冠，冲过终点线前他甚至放慢脚步、捶胸庆祝。几天后，他又以19秒30的成绩打破了迈克尔·约翰逊（Michael Johnson）保持的传奇200米纪录，随后又在4x100米接力中摘得第三枚金牌并再次刷新世界纪录。\n\n2009年柏林田径世锦赛上，博尔特将100米（9秒58）和200米（19秒19）的世界纪录定格在了至今无人能及的高度，彻底巩固了他体坛不朽传奇的地位。在北京、伦敦和里约热内卢三届奥运会上，他斩获了八枚金牌，用行动践行了“不可能只是暂时的边界”这一信条。\n\n## 离开跑道之后的人生\n\n自2017年伦敦世锦赛后告别竞技田径赛场以来，博尔特已成功转型为企业家、慈善家，并短暂追逐过自己一生的职业足球梦想，曾在澳大利亚和欧洲的俱乐部参加训练。通过尤塞恩·博尔特基金会（Usain Bolt Foundation），他一直在为牙买加的儿童创造教育和文化机会。\n\n这位被誉为“闪电”的飞人留下的传奇远超金牌和计时表上的数字。他证明了脊柱侧弯这样的生理缺陷并不能决定命运，在最大舞台上的快乐与放松可以与对竞技卓越的不懈追求完美共存。对于加勒比海地区乃至全世界的代代运动员而言，他的传奇之旅永远是对“当纯粹天赋遇到不屈不挠的坚持时会发生什么”的最生动诠释。",
+      "social_post": "探索尤塞恩·博尔特的不凡人生故事——从舍伍德康顿的田野奔跑，到打破世界纪录并永远重新定义人类速度。他的传奇之旅是如何激励新一代运动员的？#尤塞恩博尔特 #田径 #奥运会 #短跑\n\n欢迎在下方评论区分享你的想法！"
+    },
+    "ru": {
+      "headline": "От красных холмов Шервуд-Контента до вершины мировой легкой атлетики: Жизнь Усейна Болта",
+      "subheadline": "Прослеживаем путь ямайского спринтера, который переписал представление о человеческой скорости, преодолел ранние проблемы со здоровьем и оставил неизгладимый след в мировом спорте.",
+      "body_markdown": "## Из сельской Ямайки на беговые дорожки Трелони\n\nЗадолго до того, как выйти на мировую арену под яркими софитами олимпийских стадионов, Усейн Сент-Лео Болт рос, бегая по полям яמס и маниока в Шервуд-Контенте [Sherwood Content] — тихом сельском районе в приходе Трелони [Trelawny] на Ямайке. Он родился 21 августа 1986 года в семье владельцев бакалейной лавки Уэллесли и Дженнифер Болт. Его детство под теплым карибским солнцем было наполнено крикетом, футболом и бесконечным движением. Скорость была его естественным спутником, хотя первой настоящей спортивной любовью оставался крикет.\n\nВ Мемориальной средней школе Уильяма Нибба [William Knibb Memorial High School] атлетические способности Болта быстро привлекли внимание учителей и тренеров. Однако его природный талант требовал осторожного подхода, особенно когда проявился недуг, который долгие годы определял всю работу с его организмом: тяжелый сколиоз. Искривление позвоночника привело к тому, что его правая нога стала заметно короче левой, что вызывало постоянные проблемы со спиной и задней поверхностью бедра. Это угрожало поставить крест на его карьере еще до того, как она по-настоящему началась.\n\n## Поворотный момент легенды\n\nКлючевой момент в ранней карьере Болта наступил под руководством тренера Пабло Макнила [Pablo McNeil], а позже Дуэйна Джаретта [Dwayne Jarrett], которые помогли направить его взрывную энергию в спринт. На чемпионате мира среди юниоров 2002 года в Кингстоне нервничавший 15-летний Болт вышел на старт перед лицом 36 000 зрителей, яростно поддерживавших своих. Ошеломленный давлением, он поначалу надел шиповки не на те ноги, но затем собрался и выиграл финал на дистанции 200 метров за 20,61 секунды. Эта золотая медаль в одночасье превратила его в национального героя и научила справляться с колоссальным грузом ожиданий.\n\nИ все же дорога к абсолютном доминированию не была усыпана только розами. Разочарования на Олимпийских днях в Афинах 2004 года, где из-за травмы подколенного сухожилия он выбыл уже в первом раунде, и аналогичный вылет на чемпионате мира 2005 года в Хельсинки породили широкие сомнения в его профессионализме и выносливости. Критики задавались вопросом: не слишком ли его долговязое телосложение при росте 196 см (6 футов 5 дюймов) подходит для механики элитного спринта, где традиционно доминировали более низкие атлеты?\n\n## Переосмысление пределов человеческих возможностей в Пекине и за его пределами\n\nПоворотный момент в современной легкой атлетике наступил летом 2008 года на Пекинском национальном стадионе. Избавившись от рецидивов травм благодаря курсу интенсивного лечения и изменению тренировочного процесса под руководством тренера Глена Миллса [Glen Mills], Болт поразил мир, выиграв финал на 100 метров с мировым рекордом — 9,69 секунды. При этом он демонстративно сбавил скорость и бил себя в грудь еще до пересечения финишной черты. Спустя несколько дней он побил легендарный рекорд Майкла Джонсона [Michael Johnson] на дистанции 200 метров, показав 19,30 секунды, а затем завоевал третье золото и установил еще один мировой рекорд в эстафете 4х100 метров.\n\nБолт закрепил за собой статус бессмертной легенды спорта на чемпионате мира по легкой атлетике 2009 года в Берлине, где он показал 9,58 секунды на стометровке и 19,19 секунды на дистанции 200 метров — результаты, которые до сих пор остаются непобитыми. За три последовательные Олимпиады в Пекине, Лондоне и Рио-де-Жанейро он завоевал восемь золотых медалей, воплотив в жизнь философию о том, что невозможное — это всего лишь временный рубеж.\n\n## Жизнь после беговой дорожки\n\nПосле ухода из соревновательного спорта по окончании чемпионата мира 2017 года в Лондоне Болт занялся предпринимательством, благотворительностью и на короткое время осуществил давнюю страсть к профессиональному футболу, тренируясь с клубами в Австралии и Европе. Через свой фонд Usain Bolt Foundation он продолжает создавать возможности для получения образования и приобщения к культуре для детей на Ямайке.\n\nНаследие человека, известного как «Молния» (Lightning Bolt), простирается далеко за пределы медалей и секундомеров. Он доказал, что анатомические особенности вроде сколиоза не предопределяют судьбу, а радость и расслабленность на крупнейших стадионах могут прекрасно уживаться с бескомпромиссным спортивным перфекционизмом. Для поколений атлетов по всему Карибскому бассейну и далеко за его пределами его путь остается непреходящим свидетельством того, что происходит, когда чистый природный дар встречается с непоколебимым упорством.",
+      "social_post": "Узнайте невероятную историю жизни Усейна Болта — от бега по полям Шервуд-Контента до мировых рекордов и навсегда изменившейся легкоатлетической реальности. Как его путь вдохновил новое поколение спортсменов? #УсейнБолт #ЛегкаяАтлетика #Олимпиада #Спринт\n\nДелитесь своими мыслями в комментариях ниже!"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Usain_Bolt_smiling_Berlin_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_smiling_Berlin_2009.JPG",
+        "artist": "Erik van Leeuwen",
+        "license": "GFDL",
+        "license_url": "http://www.gnu.org/copyleft/fdl.html",
+        "description": "Usain Bolt at the World Championship Athletics 2009 in Berlin",
+        "width": 1200,
+        "height": 1494,
+        "subject": "Usain Bolt"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Beijing_China_Beijing-National-Stadium-01.jpg/1280px-Beijing_China_Beijing-National-Stadium-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-01.jpg",
+        "artist": "CEphoto, Uwe Aranas",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Beijing, China: National Stadium, also known als \"birds nest\"",
+        "width": 1200,
+        "height": 542,
+        "subject": "Beijing National Stadium"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact dates of birth and early competitive milestones as recorded by World Athletics"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific times recorded at the 2002 World Junior Championships in Kingston"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-07-hist-3b2605",
+    "slug": "when-vitali-klitschko-stunned-the-heavyweight-world-in-munic",
+    "date": "2026-11-07",
+    "created": "2026-11-07T17:40:03+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Boxing",
+    "tags": [
+      "Vitali Klitschko",
+      "Herbie Hide",
+      "WBO Heavyweight Title",
+      "Boxing History",
+      "Olympiahalle Munich"
+    ],
+    "athletes": [
+      "Vitali Klitschko",
+      "Herbie Hide"
+    ],
+    "image_subjects": [
+      "Vitali Klitschko",
+      "Herbie Hide",
+      "Olympiahalle"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "BoxRec: Vitali Klitschko vs. Herbie Hide",
+        "url": "https://boxrec.com/"
+      },
+      {
+        "title": "The Cyber Boxing Encyclopedia - Vitali Klitschko",
+        "url": "http://www.cyberboxingzone.com/"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "When Vitali Klitschko Stunned the Heavyweight World in Munich",
+      "subheadline": "On November 7, 1998, a Ukrainian powerhouse named Vitali Klitschko delivered a statement to the division by stopping Herbie Hide in two rounds to claim the WBO heavyweight title.",
+      "body_markdown": "The ring inside the Olympiahalle in Munich hummed with anticipation as two unbeaten heavyweights squared off under the bright lights on a chilly November evening. It was November 7, 1998, and the division stood at a crossroads, waiting to see which rising force would seize the mantle left behind by past icons.\n\nHerbie Hide, the defending World Boxing Organization champion from Great Britain, brought blinding speed and explosive power into the squared circle. Across from him stood Vitali Klitschko, a towering challenger from Ukraine boasting an imposing amateur pedigree and a professional record littered entirely by knockout victories.\n\nThe contest did not require the judges' scorecards. After a cautious opening round where both men tested each other's distance, Klitschko unleashed a devastating right hand in the second frame that sent the champion crashing to the canvas. Hide managed to beat the referee's count, but the respite proved brief. Another flurry of punches immediately floored the British fighter again, bringing a definitive end to the bout at 2 minutes and 45 seconds of the second round.\n\n## A New Era for Eastern European Boxing\n\nThe victory marked a watershed moment not just for the winner, but for boxing in Eastern Europe. Klitschko became the first Ukrainian-born boxer to capture a world heavyweight title, a feat that resonated deeply across the region, from Kyiv to Moscow, where fans had long watched American and British fighters dominate the glamour division. \n\nFor Russian and international sports observers, the performance signaled the arrival of a new tactical discipline combined with raw, devastating punching power. Klitschko earned the moniker 'Dr. Ironfist' not only for his clinical dismantling of opponents inside the ring, but also for his academic background outside of it, holding a doctorate in sports science.\n\n## Legacy in the Heavyweight Landscape\n\nWhile Klitschko's initial reign with the WBO belt lasted less than a year—culminating in his first career defeat due to a shoulder injury against Chris Byrd in 2000—the Munich triumph laid the foundation for an unprecedented era of dominance. Alongside his younger brother Wladimir, Vitali helped usher in the 'Klitschko Era,' which saw the siblings hold the major world heavyweight championships simultaneously for much of the late 2000s and early 2010s.\n\nThe result in Munich remains a textbook study in composure and power application against a reigning champion. It proved that the traditional power centers of boxing needed to look eastward, permanently altering the geopolitical landscape of the sport and inspiring a generation of fighters across Europe.",
+      "social_post": "On this day in 1998, Vitali Klitschko knocked out Herbie Hide in Munich to become the first Ukrainian-born heavyweight champion, launching a dominant era for Eastern European boxing. What is your favorite memory of 'Dr. Ironfist' in the ring? Let us know in the comments below! #BoxingHistory #VitaliKlitschko #Heavyweight"
+    },
+    "zh": {
+      "headline": "当维塔利·克利奇科在慕尼黑震撼重量级拳坛",
+      "subheadline": "1998年11月7日，一位来自乌克兰的重炮手维塔利·克利奇科在第二回合击溃了赫比·海德，夺得WBO重量级世界金腰带，向整个拳坛发出震撼宣言。",
+      "body_markdown": "那是1998年11月7日的一个寒冷夜晚，慕尼黑奥林匹克体育馆（Olympiahalle）内气氛凝重，灯光璀璨，两位保持不败的重量级悍将即将迎头相撞。当时的重量级拳坛正站在十字路口，等待着新一代的强者来接过渡过巅峰期的传奇巨星。\n\n卫冕冠军、来自英国的WBO拳王赫比·海德（Herbie Hide）带着风驰电掣的速度和极具爆发力的重拳踏入擂台。站在他对面的是身高马大的挑战者维塔利·克利奇科（Vitali Klitschko），这位乌克兰人不仅拥有深厚的业余拳击底蕴，其职业生涯的每一场胜利更是全部通过击倒（KO）对手取得。\n\n这场比赛根本没用到裁判的记分卡。经过首回合双方试探距离的谨慎交锋后，克利奇科在第二回合突然轰出一记毁灭性的右手重拳，直接将卫冕冠军放倒在地。海德勉强撑过了裁判的读秒，但喘息的机会转瞬即逝。紧接着的一波组合拳狂轰滥炸再次将这名英国拳手击倒，比赛就此戛然而止——时间定格在第二回合2分45秒。\n\n## 东欧拳击的新纪元\n\n这场胜利不仅是胜者的分水岭，更是整个东欧拳击运动的转折点。克利奇科成为了历史上第一位夺得重量级世界冠军的乌克兰本土拳手，这一成就从基辅到莫斯科引起了强烈的共鸣。长期以来，拳坛最引人瞩目的重量级都被美国和英国拳手统治，而这一夜彻底打破了格局。\n\n对于国际体坛观察家而言，这场表现标志着一种全新战术纪律与纯粹毁灭性重拳的完美结合。克利奇科赢得“铁拳博士”（Dr. Ironfist）的外号，不仅因为他在擂台上冷静而外科手术般肢解对手，也源于他场下的学术背景——他拥有体育科学博士学位。\n\n## 重量级版图上的传奇\n\n尽管克利奇科最初的WBO拳王统治期不到一年——在2000年对阵克里斯·伯德（Chris Byrd）时因肩伤遭遇了职业生涯首场失利——但慕尼黑之战为一段前所未有的统治地位奠定了基石。他和弟弟弗拉基米尔（Wladimir Klitschko）携手开启了令人生畏的“克利奇科时代”，兄弟二人垄断了2000年代末至2010年代大部分时间的主要重量级世界冠军头衔。\n\n慕尼黑之夜的结果堪称面对现任拳王时展现冷静与重拳威力的教科书级案例。它证明了传统的拳击权力中心必须将目光投向东方，永久改变了这项运动的版图，并激励了整整一代欧洲拳手。",
+      "social_post": "1998年的今天，维塔利·克利奇科在慕尼黑KO赫比·海德，加冕乌克兰历史上首位重量级世界拳王，正式开启了东欧拳击的统治时代。关于“铁拳博士”在擂台上的高光时刻，你印象最深的是哪一场？快在评论区和我们分享！#拳击历史 #维塔利克利奇科 #重量级"
+    },
+    "ru": {
+      "headline": "Как Виталий Кличко потряс тяжелый вес в Мюнхене",
+      "subheadline": "7 ноября 1998 года украинский нокаутер Виталий Кличко заявил о себе на весь дивизион, победив Херби Хайда во втором раунде и завоевав титул чемпиона мира по версии WBO в супертяжелом весе.",
+      "body_markdown": "Ринг на арене «Олимпияхалле» в Мюнхене гудел от предвкушения: в прохладный ноябрьский вечер под яркими софитами сошлись два непобежденных супертяжеловеса. Шло 7 ноября 1998 года, и дивизион находился на распутье, ожидая, какая из восходящих сил подхватит знамя, оставленное прошлыми иконами.\n\nХерби Хайд, действующий чемпион мира по версии Всемирной боксерской организации (WBO) из Великобритании, принес в квадрат ринга ослепительную скорость и взрывную мощь. Напротив него стоял высокий претендент из Украины Виталий Кличко, обладавший внушительным любительским бэкграундом и послужным списком в профи, состоявшим исключительно из досрочных побед.\n\nСудейские записки не потребовались. После осторожного первого раунда, в котором оба бойца пристреливались и проверяли дистанцию, Кличко во второй трехминутке выбросил сокрушительный правый прямой, отправивший чемпиона настил. Хайд сумел подняться до окончания отсчета рефери, но передышка оказалась недолгой. Град последовавших за этим ударов вновь поверг британца на канвас, окончательно остановив бой на отметке 2 минуты 45 секунд второго раунда.\n\n## Новая эра для восточноевропейского бокса\n\nЭта победа стала поворотным моментом не только для самого триумфатора, но и для всего бокса в Восточной Европе. Кличко стал первым боксером украинского происхождения, завоевавшим титул чемпиона мира в супертяжелом весе — достижение, которое нашло глубокий отклик по всему региону, от Киева до Москвы, где болельщики уже привыкли к тому, что в главном дивизионе доминируют американцы и британцы.\n\nДля международных и российских спортивных обозревателей это выступление ознаменовало приход новой тактической дисциплины в сочетании с сокрушительной убойной мощью. Прозвище «Доктор Железный Кулак» (Dr. Ironfist) закрепилось за Кличко не только благодаря его хладнокровному уничтожению соперников в ринге, но и из-за академического бэкграунда вне его — он имеет научную степень кандидата наук в области спорта.\n\n## Наследие в ландшафте супертяжелого веса\n\nХотя первое чемпионское правление Кличко с поясом WBO продлилось меньше года и завершилось в 2000 году первым поражением в карьере из-за травмы плеча в бою с Крисом Бёрдом (Chris Byrd), триумф в Мюнхене заложил фундамент для беспрецедентной эпохи доминирования. Вместе со своим младшим братом Владимиром Виталий помог открыть «эру Кличко», в ходе которой братья удерживали основные чемпионские титулы в супертяжелом весе одновременно на протяжении большей части конца 2000-х и начала 2010-х годов.\n\nРезультат в Мюнхене остается хрестоматийным примером хладнокровия и реализации мощи в бою с действующим чемпионом. Он доказал, что традиционным центрам силы в боксе необходимо смотреть на Восток, навсегда изменив геополитический ландшафт этого вида спорта и вдохновив целое поколение бойцов по всей Европе.",
+      "social_post": "В этот день в 1998 году Виталий Кличко нокаутировал Херби Хайда в Мюнхене и стал первым украинским чемпионом мира в супертяжелом весе, положив начало доминированию восточноевропейского бокса. Какое ваше любимое воспоминание о «Докторе Железном Кулаке» в ринге? Пишите в комментариях! #ИсторияБокса #ВиталийКличко #Супертяжи"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/EPP_Congress_2025_Valencia_Day_1_%2854483888272%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:EPP_Congress_2025_Valencia_Day_1_(54483888272)_(cropped).jpg",
+        "artist": "European People's Party",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "EPP Congress 2025 | Valencia | Day 1",
+        "width": 1200,
+        "height": 1601,
+        "subject": "Vitali Klitschko"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2012-07-18_-_Landtagsprojekt_M%C3%BCnchen_-_7929.JPG/1280px-2012-07-18_-_Landtagsprojekt_M%C3%BCnchen_-_7929.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2012-07-18_-_Landtagsprojekt_M%C3%BCnchen_-_7929.JPG",
+        "artist": "Sven Teschke , Büdingen",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "description": "Blick vom Olympiaturm in München . Die Bilder sind noch nicht bearbeitet.",
+        "width": 1200,
+        "height": 800,
+        "subject": "Olympiahalle"
+      }
+    ],
+    "standards": []
+  },
+  {
+    "id": "2026-11-07-news-743560",
+    "slug": "magomed-magomedov-edges-lucas-gabriel-in-one-debut-to-extend",
+    "date": "2026-11-07",
+    "created": "2026-11-07T17:33:29+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "mma",
+    "tags": [
+      "ONE Championship",
+      "ONE Fight Night 49",
+      "Magomed Magomedov",
+      "Lucas Gabriel",
+      "Tye Ruotolo",
+      "Lumpinee Stadium"
+    ],
+    "athletes": [
+      "Magomed Magomedov",
+      "Lucas Gabriel",
+      "Tye Ruotolo",
+      "Christian Lee",
+      "Alibeg Rasulov"
+    ],
+    "image_subjects": [
+      "ONE Championship",
+      "Lumpinee Boxing Stadium",
+      "Tye Ruotolo"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "ONE Championship Fight Night 49: Magomed Magomedov beats Lucas Gabriel to maintain perfect record",
+        "url": "https://www.skysports.com/mma/news/12040/13609162/one-championship-fight-night-49-magomed-magomedov-beats-lucas-gabriel-to-maintain-perfect-record"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.005,
+      "longest": 8,
+      "phrases": [
+        "short notice to replace the injured alibeg rasulov",
+        "securing another takedown and smothering gabriel on the"
+      ]
+    },
+    "en": {
+      "headline": "Magomed Magomedov Edges Lucas Gabriel in ONE Debut to Extend Undefeated Streak",
+      "subheadline": "The 31-year-old took a split decision at Lumpinee Stadium after surviving a dramatic final round to put himself in lightweight title contention.",
+      "body_markdown": "Bangkok — Magomed Magomedov maintained his unblemished professional record on Friday night, surviving a fierce late onslaught from Lucas Gabriel to earn a split-decision victory in his ONE Championship debut at Lumpinee Stadium.\n\nThe 31-year-old stepped into the main event of ONE Fight Night 49 on short notice to replace the injured Alibeg Rasulov. The victory improved Magomedov's career record to 16-0 and handed the 26-year-old Gabriel his second professional defeat.\n\nFrom the opening bell, Magomedov looked to impose his grappling credentials. He quickly closed the distance, timed his entry, and brought Gabriel to the canvas, neutralising the Brazilian's striking with relentless positional control throughout the opening five minutes.\n\n## Wrestling control staves off late rally\n\nMagomedov pursued a similar tactical path in the second round, shooting early to bring the action back to the canvas. Gabriel adjusted well during the scrambles, successfully fending off sustained ground control and creating space on the feet.\n\nOnce upright, Gabriel landed a sharp head kick that forced Magomedov into another defensive takedown attempt, which the Brazilian managed to defend. That exchange hinted at shifting momentum, setting up a frantic third and final frame.\n\nMagomedov initially reasserted authority in the decider, securing another takedown and smothering Gabriel on the mat. However, Gabriel scrambled effectively, reversed position in the closing minute, and unloaded a flurry of knees that visibly troubled Magomedov until the final bell.\n\nTwo of the three ringside judges scored the contest in Magomedov's favour, valuing his cumulative grappling dominance and control time over Gabriel's late surge.\n\n## Title contention beckons in Bangkok\n\nThe short-notice victory positions Magomedov directly into the title conversation in ONE's lightweight MMA division. Gabriel had entered the cage boasting an 11-1 ledger and had been unbeaten in the promotion, making the newcomer's debut test particularly steep.\n\nMagomedov's immediate future may now intersect with newly crowned ONE lightweight MMA world champion Tye Ruotolo. The American submission specialist captured the belt by defeating longtime champion Christian Lee at The Inner Circle 37 earlier on the same day.\n\nWith Rasulov sidelined by injury and Gabriel turned back, Magomedov's ability to grind out a victory under adverse preparation makes him a compelling fresh challenger for the division's new kingpin.",
+      "social_post": "Magomed Magomedov kept his perfect record intact at ONE Fight Night 49 in Bangkok, edging Lucas Gabriel via split decision after surviving a late third-round surge. Stepping in on short notice, the 31-year-old is now 16-0 and firmly in the frame for a shot at newly crowned lightweight champion Tye Ruotolo. Did the judges get the call right, or did Gabriel's late knees deserve the win? Let us know your scorecards below! #ONEChampionship #MMA #ONEFightNight49"
+    },
+    "zh": {
+      "headline": "蝇头微利还是实至名归？马戈梅多夫首秀险胜加布里埃尔，延续不败金身",
+      "subheadline": "31岁的马戈梅多夫在伦披尼竞技场历经苦战，凭借分歧判定挺过末回合惊魂，强势杀入轻量级冠军争夺战。",
+      "body_markdown": "曼谷——周五之夜，马戈梅多夫（Magomed Magomedov）在伦披尼竞技场（Lumpinee Stadium）打响了自己的ONE冠军赛（ONE Championship）首秀。面对卢卡斯·加布里埃尔（Lucas Gabriel）比赛末段的疯狂反扑，他顶住压力涉险过关，以分歧判定艰难取胜，保住了自己职业生涯的完美金身。\n\n由于原定参赛的阿里别格·拉苏洛夫（Alibeg Rasulov）因伤退赛，这位31岁的老将临危受命，空降顶替对手出战ONE周五格斗夜49（ONE Fight Night 49）的头条主赛。此役过后，马戈梅多夫的职业战绩刷新为16战全胜，而26岁的加布里埃尔则吞下了职业生涯的第二场败绩。\n\n比赛一开场，马戈梅多夫便亮出看家本领，频频通过摔跤寻找机会。他迅速拉近距离、精准拿捏时机将加布里埃尔放倒在地，并在随后的五分钟内凭借密不透风的阵地控制，彻底哑火了这位巴西人的站立打击锋芒。\n\n## 摔跤掌控化解末段反扑\n\n次回合，马戈梅多夫延续了先前的战术思路，开局不久便起抱摔将战局再度带入地面。在随后的混战中，加布里埃尔做出了极佳的战术调整，不仅成功化解了持续的地面压制，还在站立时觅得空间。\n\n重新回到立姿后，加布里埃尔轰出一记极具威胁的高扫，逼得马戈梅多夫不得不仓促实施抱摔试图化解，好在巴西人防守得当。这次攻防转换成了整场比赛的转折风向标，也为第三回合的高潮迭起埋下了伏笔。\n\n决胜局刚开始时，马戈梅多夫一度重新掌控局势，再次完成摔投并在地面死死压制住加布里埃尔。然而，加布里埃尔在比赛还剩最后一分钟时上演了精彩的乱战反转，他完成上位压制，并用一轮狂风骤雨般的膝击砸得马戈梅多夫略显狼狈，直到终场铃声敲响。\n\n三位场边裁判中有两位将胜利投给了马戈梅多夫，在他们看来，这位俄罗斯选手整场比赛在地面统治力和控制时间上的累积优势，更值得赢得这场胜利。\n\n## 曼谷之夜，冠军挑战权近在咫尺\n\n这场仓促接战的胜利，让马戈梅多夫一跃成为ONE冠军赛轻量级综合格斗（MMA）金腰带有力争夺者。加布里埃尔此前手握11胜1负的亮眼战绩，且在赛事中未尝败绩，这也让新秀马戈梅多夫的这场首秀之战显得含金量十足。\n\n马戈梅多夫接下来的对手，很可能是刚刚加冕的ONE轻量级MMA世界冠军泰·鲁托洛（Tye Ruotolo）。这位美国缠斗高手在同一天早些时候举行的The Inner Circle 37赛事中，击败了统治轻量级多年的老王者克里斯蒂安·李（Christian Lee），成功将金腰带收入囊中。\n\n随着拉苏洛夫因伤作壁上观、加布里埃尔被挡在门外，马戈梅多夫在准备时间极度仓促的情况下展现出的极强韧性和抗压赢球能力，让他成为了这位分量极重的新任王者面前一个极具威胁的头号挑战者。",
+      "social_post": "在曼谷进行的ONE周五格斗夜49中，马戈梅多夫顶住了对手第三回合末段的疯狂反扑，以分歧判定险胜卢卡斯·加布里埃尔，延续了自己不败的职业战绩！作为临时替补出战的31岁悍将，目前战绩已来到16胜0负，并正式杀入轻量级新王泰·鲁托洛的挑战者行列。你觉得裁判的判决公正吗？加布里埃尔最后时刻的膝击是否配得上胜利？在下方留下你的记分卡吧！ #ONE冠军赛 #综合格斗 #ONEFightNight49"
+    },
+    "ru": {
+      "headline": "Магомед Магомедов побеждает Лукаса Габриэля в дебюте на ONE и продлевает победную серию",
+      "subheadline": "31-летний боец вырвал победу раздельным решением судей на стадионе «Лумпини» после драматичной концовки и ворлся в титульную гонку в легком весе.",
+      "body_markdown": "Бангкок — Магомед Магомедов в ночь на пятницу сохранил ноль в графе поражений, пройдя через тяжелейшее испытание в концовке боя против Лукаса Габриэля и одержав победу раздельным решением судей в своем дебютном поединке под баннером ONE Championship на легендарном стадионе «Лумпини».\n\n31-летний россиянин вышел на главный бой турнира ONE Fight Night 49 на коротком уведомлении, заменив травмированного Алибега Расулова. Эта победа довела профессиональный рекорд Магомедова до 16-0 и стала лишь вторым поражением в карьере 26-летнего Габриэля.\n\nС первых же секунд Магомедов обозначил ставку на борьбу. Он быстро сократил дистанцию, вовремя поймал момент для прохода в ноги и перевел Габриэля на канвас, полностью нейтрализовав ударную технику бразильца за счет плотного позиционного контроля на протяжении стартовой пятиминутки.\n\n## Борцовский контроль против позднего штурма\n\nВо втором раунде Магомедов придерживался схожей тактики, оформив ранний тейкдаун. Габриэль, однако, отлично проявил себя в пограничных ситуациях, сумев сбросить с себя затяжной контроль в партере и найдя пространство в стойке.\n\nВернувшись на ноги, Габриэль выбросил хлесткий хайкик, после которого Магомедову пришлось спасаться еще одной попыткой прохода в ноги — бразильцева защита сработала безупречно. Этот эпизод намекнул на перелом в матче и задал тон безумному третьему, заключительному раунду.\n\nВ решающей трехминутке Магомедов поначалу вернул себе инициативу, оформив очередной тейкдаун и прижав Габриэля к настилу. Тем не менее, в финальную минуту бразилец взвинтил темп, перевернул позицию и обрушил на россиянина град коленей, доставивших Магомедову серьезные проблемы вплоть до финального гонга.\n\nДвое из трех боковых судей отдали предпочтение Магомедову, оценив его суммарное доминирование в борьбе и время контроля выше, чем поздний рывок Габриэля.\n\n## Титульные перспективы в Бангкоке\n\nУспех на коротком уведомлении сразу же выводит Магомедова в элиту легкого дивизиона организации по ММА. Габриэль выходил в клетку с внушительным рекордом 11-1 и до этого шел без поражений в промоушене, что делало дебютное испытание для новичка невероятно сложным.\n\nВполне возможно, что следующим соперником Магомедова станет новоиспеченный чемпион мира ONE в легком весе Тай Руотоло (Tye Ruotolo). Американский специалист по болевым и удушающим завоевал пояс, победив давнего доминатора дивизиона Кристиана Ли (Christian Lee) на турнире The Inner Circle 37 ранее в тот же день.\n\nУчитывая травму Расулова и победу над опасным Габриэлем, способность Магомедова добывать результат в экстремальных условиях делает его интригующим претендентом на трон дивизиона.",
+      "social_post": "Магомед Магомедов сохранил идеальный рекорд на турнире ONE Fight Night 49 в Бангкоке, вырвав победу раздельным решением у Лукаса Габриэля после тяжелой концовки в третьем раунде! Выйдя на бой на коротком уведомлении, 31-летний боец довел свой рекорд до 16-0 и вплотную подобрался к титульному бою с новоиспеченным чемпионом легкого дивизиона Тайем Руотоло. Справедливо ли решение судей или колена Габриэля в конце заслуживали победы? Делитесь своими записками в комментариях! #ONEChampionship #MMA #ONEFightNight49"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Bangkok_Lumpinee_Boxing_Stadium_1.jpg/1280px-Bangkok_Lumpinee_Boxing_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Lumpinee_Boxing_Stadium_1.jpg",
+        "artist": "Mr.Sayompoo Setabhrahmana",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Lumpinee Boxing Stadium was originally located on Rama IV road, Pathumwan district, adjacent to the former Armed Forces Academies Preparatory School. The stadium was as high standard boxing arena as R",
+        "width": 1200,
+        "height": 723,
+        "subject": "Lumpinee Boxing Stadium"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Maya_Hawke_%40_Sid_The_Cat_Auditorium_04-20-2026_%2855313551465%29.jpg/1280px-Maya_Hawke_%40_Sid_The_Cat_Auditorium_04-20-2026_%2855313551465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Maya_Hawke_@_Sid_The_Cat_Auditorium_04-20-2026_(55313551465).jpg",
+        "artist": "Justin Higuchi",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Maya Hawke @ Sid The Cat Auditorium 04/20/2026 Uploader's note - Photograph shows Christian Lee Hutson .",
+        "width": 1200,
+        "height": 1500,
+        "subject": "Christian Lee Hutson"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Only 1 source(s). News needs at least 2"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-07-news-2562e4",
+    "slug": "wta-silences-practice-court-audio-after-pegula-hot-mic-contr",
+    "date": "2026-11-07",
+    "created": "2026-11-07T17:26:10+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "WTA",
+      "WTA Finals",
+      "Jessica Pegula",
+      "Mirra Andreeva",
+      "Tennis",
+      "Indian Wells"
+    ],
+    "athletes": [
+      "Jessica Pegula",
+      "Mirra Andreeva",
+      "Coco Gauff",
+      "Elena Rybakina"
+    ],
+    "image_subjects": [
+      "Jessica Pegula",
+      "Mirra Andreeva",
+      "WTA Finals"
+    ],
+    "facts_to_verify": [
+      "Confirm the exact dates of the 2026 WTA Finals in Indian Wells (source text gives November 8-15 in one section and November 15-22 in a Sky promo tag; Nov 8-15 matches the tournament schedule context)."
+    ],
+    "sources": [
+      {
+        "title": "WTA chair apologises to Pegula after 'diva' comment broadcast",
+        "url": "https://www.skysports.com/tennis/news/12040/13609128/wta-chair-apologises-to-jessica-pegula-after-airing-of-diva-comment-about-mirra-andreeva-confirms-audio-deactivated-on-practice-courts-at-indian-wells"
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.com/sport/tennis"
+      },
+      {
+        "title": "BBC Sport: WTA chair apologises to Pegula for airing of 'diva' comment",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "en": {
+      "headline": "WTA Silences Practice Court Audio After Pegula Hot-Mic Controversy",
+      "subheadline": "Tour chair Valerie Camillo issues apology to world No. 5 following unintended livestream of remarks about Mirra Andreeva",
+      "body_markdown": "Microphones on practice courts at the season-ending WTA Finals in Indian Wells have been muted after candid remarks by Jessica Pegula were broadcast across a live internet feed, prompting an official apology from the governing body on Friday.\n\nThe incident unfolded ahead of the tournament when a YouTube livestream captured an unmonitored conversation between Pegula and her coach, Mark Knowles. During the session, the American world No. 5 was heard calling Russian teenager Mirra Andreeva \"a diva,\" suggesting the French Open champion needed to be humbled, and questioning the guidance of Andreeva's coach, Conchita Martinez.\n\nFollowing swift backlash online, WTA chair Valerie Camillo acknowledged that tournament organizers had erred by keeping live audio active without alerting the athletes.\n\n## Apology and Immediate Policy Shift\n\nCamillo took full responsibility on behalf of the tour, admitting that players had received neither prior warning nor visible notices indicating that training sessions were wired for sound. In an official statement, Camillo extended an apology to both Pegula and Knowles, labeling the broadcast an unacceptable disruption and emphasizing that protecting tour members remains a core duty.\n\nOrganizers immediately cut live audio from practice courts for the duration of the tournament, leaving only the visual feed operational for viewers tracking player warm-ups.\n\n## Rising Tension Between Access and Privacy\n\nThe controversy underscores long-standing unease among professional tennis players over how far broadcast cameras and directional microphones reach behind the scenes. Broadcasters have increasingly sought unfiltered, all-access content to engage younger digital audiences, but athletes have repeatedly argued that the encroachment compromises their working environment.\n\nAddressing the situation on ESPN, Pegula explained that she had been completely unaware of any active recording equipment. While acknowledging that behind-the-scenes glimpses appeal to spectators, the 32-year-old voiced frustration with excessive surveillance and expressed hope that the mishap would encourage tournament organizers to respect athlete boundaries.\n\nThe debate has simmered throughout the season. In January, Coco Gauff raised similar objections when television feeds lingered on her venting frustration and breaking a racket in an off-court tunnel following a quarter-final loss at the Australian Open.\n\n## Spotlight Turns to Indian Wells Action\n\nThe off-court friction arrives just as the elite eight-player field prepares to contest the tour's flagship championship from November 8 to 15. Pegula is drawn into a demanding group that features world No. 1 Elena Rybakina, Gauff, and Linda Noskova.\n\nWhether Andreeva addresses the comments publicly remains to be seen, but the broadcast slip ensures an extra layer of tension in California before a single match point is played.",
+      "social_post": "The WTA has deactivated practice-court microphones at the WTA Finals after private remarks by Jessica Pegula about Mirra Andreeva were broadcast on a livestream. WTA chair Valerie Camillo apologized to Pegula, reigniting the debate over player privacy versus broadcast access. Where should tennis draw the line? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "佩古拉“开麦门”引轩然大波，WTA紧急关闭总决赛训练场收音",
+      "subheadline": "世界第五私下评价米拉·安德烈耶娃遭直播泄露，WTA主席瓦莱丽·卡米洛公开致歉",
+      "body_markdown": "在印第安维尔斯举行的WTA年终总决赛训练场上，由于杰西卡·佩古拉（Jessica Pegula）的私下谈话被网络直播公之于众，赛会官方已紧急关闭所有训练场的麦克风收音设备。周五，WTA管理机构就此事件正式向球员道歉。\n\n这起风波发生在赛事开拍前的一场YouTube官方直播中，镜头无意间记录下了佩古拉与教练马克·诺尔斯（Mark Knowles）之间毫无防备的对话。这位现世界排名第五的美国名将直言俄罗斯新星米拉·安德烈耶娃（Mirra Andreeva）是个“大牌傲娇女（diva）”，并直言这位法网女单冠军需要“受点挫折磨磨性子”，同时她还对安德烈耶娃的主教练孔奇塔·马丁内斯（Conchita Martinez）的执教方式提出了质疑。\n\n相关言论在社交媒体上迅速引发轩然大波，WTA主席瓦莱丽·卡米洛（Valerie Camillo）随后出面承认，赛事组委会在未提前告知运动员的情况下保持现场音频开启，确实存在严重工作失误。\n\n## 官方致歉与紧急政策调整\n\n卡米洛代表WTA承担了全部责任，她坦言赛事方既未向球员发出事先警告，现场也没有设置任何提示“训练场正进行实时收音”的明显标识。在官方声明中，卡米洛向佩古拉和诺尔斯表达了歉意，直指此类音频直播是不可接受的干扰行为，并强调保护巡回赛球员的切身权益始终是协会的核心职责。\n\n组委会随即彻底切断了本届赛事期间训练场的所有音频信号，仅保留画面直播供球迷观看球员热身备战。\n\n## 赛事转播权与球员隐私之争再度升温\n\n这场意外再度凸显了职业网坛长久以来的矛盾：转播镜头和定向麦克风对球员幕后空间的介入究竟应该止步何处？为了迎合年轻的数字化受众，赛事转播方近年来极力追求无死角、全天候的沉浸式内容；然而球员们则屡屡抗议，认为这种无孔不入的窥视严重侵犯了自己的职业工作环境。\n\n在接受ESPN采访时，佩古拉澄清自己当时完全不知道收音设备处于开启状态。这位32岁的老将坦言，自己理解幕后花絮对球迷的吸引力，但这种无休止的过度监控令人沮丧，她希望这次教训能促使赛事组织者真正尊重运动员的个人边界。\n\n关于转播尺度的争议其实贯穿了整个赛季。早在今年1月，澳网女单四分之一决赛落败后，可可·高芙（Coco Gauff）在球员通道内宣泄情绪并怒摔球拍的一幕被转播镜头全程紧跟直播，当时就曾引发她对隐私遭侵犯的强烈抗议。\n\n## 焦点转向印第安维尔斯年终决战\n\n场外的暗流涌动，恰逢八位顶尖球星全力备战这场将于11月8日至15日上演的年终旗舰大赛。佩古拉落入了一个实力强劲的小组，同组对手包括现世界第一埃莱娜·莱巴金娜（Elena Rybakina）、高芙以及捷克新秀琳达·诺斯科娃（Linda Noskova）。\n\n至于安德烈耶娃是否会公开回应这番争议言论，目前尚不得而知。但在加州的赛场上，甚至还未等球员们打出第一个赛点，这场麦克风走光事件就已经给这届总决赛平添了几分剑拔弩张的气氛。",
+      "social_post": "在杰西卡·佩古拉私下评价米拉·安德烈耶娃的音频遭直播泄露后，WTA紧急关闭了年终总决赛训练场麦克风。WTA主席瓦莱丽·卡米洛亲自向佩古拉致歉，再次引发了关于球员隐私与赛事转播边界的热议。大家认为网球转播的边界到底应该划在哪里？欢迎在评论区留下你的看法！"
+    },
+    "ru": {
+      "headline": "Скандал с открытым микрофоном: WTA отключила звук на тренировочных кортах после слов Пегулы",
+      "subheadline": "Глава тура Валери Камилло принесла извинения пятой ракетке мира за утечку в трансляцию нелестных высказываний о Мирре Андреевой",
+      "body_markdown": "Микрофоны на тренировочных кортах Итогового турнира WTA в Индиан-Уэллсе были спешно заглушены после того, как откровенные комментарии Джессики Пегулы попали в прямой эфир в сети. Инцидент вынудил руководство женского тура в пятницу выступить с официальными извинениями.\n\nСкандал разгорелся накануне старта турнира: официальная трансляция на YouTube перехватила личный разговор между Пегулой и ее тренером Марком Ноулзом (Mark Knowles). В ходе беседы пятая ракетка мира из США назвала юную российскую теннисистку Мирру Андрееву «дивой», заявила, что чемпионку «Ролан Гаррос» не помешало бы «спустить с небес на землю», а также поставила под сомнение работу наставницы Андреевой — Кончиты Мартинес (Conchita Martinez).\n\nПосле бурной реакции болельщиков в сети председатель WTA Валери Камилло (Valerie Camillo) признала, что организаторы совершили грубую ошибку, оставив интершум включенным и не предупредив спортсменок.\n\n## Извинения и мгновенная смена регламента\n\nКамилло взяла всю ответственность от лица тура на себя, подтвердив, что теннисистки не получали никаких предварительных уведомлений, а на кортах отсутствовали какие-либо знаки, предупреждающие о записи звука. В официальном заявлении глава организации принесла персональные извинения Пегуле и Ноулзу, назвав произошедшее недопустимым нарушением рабочего процесса и подчеркнув, что защита интересов игроков остается главным приоритетом WTA.\n\nОрганизаторы незамедлительно выключили трансляцию звука с тренировочных кортов до конца соревнований. Зрителям, следящим за разминками участниц, оставили только видеоряд.\n\n## Конфликт интересов: эксклюзивный контент против права на приватность\n\nСлучившееся вновь обострило давнее недовольство игроков тем, насколько глубоко бродкастеры вторгаются в их личное пространство за кулисами. Вещатели все агрессивнее борются за закулисный контент без купюр, пытаясь привлечь молодую интернет-аудиторию, однако сами спортсмены не устают повторять: подобное вторжение разрушает их нормальную рабочую атмосферу.\n\nКомментируя ситуацию в эфире ESPN, Пегула подчеркнула, что понятия не имела о работающих микрофонах. 32-летняя американка отметила, что понимает интерес болельщиков к закулисью, но выразила крайнее раздражение из-за тотальной слежки и выразила надежду, что этот инцидент заставит турниры с уважением относиться к личным границам игроков.\n\nЭта тема тлеет на протяжении всего сезона. Еще в январе с похожими претензиями выступала Кори Гауфф, когда телекамеры во всех деталях смаковали ее срыв и разбитую ракетку в подтрибунном тоннеле после поражения в четвертьфинале Australian Open.\n\n## Внимание переключается на корты Индиан-Уэллса\n\nКулуарные споры вспыхнули как раз в тот момент, когда восьмерка сильнейших теннисисток планеты завершает подготовку к главному старту года, который пройдет с 8 по 15 ноября. Жребий отправил Пегулу в сложнейшую группу: ее соперницами станут первая ракетка мира Елена Рыбакина, Гауфф и чешка Линда Носкова (Linda Noskova).\n\nСтанет ли Андреева публично отвечать на выпады соперницы — пока вопрос. Однако оплошность со звуком гарантировала калифорнийским баталиям предельный градус напряжения еще до того, как был разыгран первый матчбол.",
+      "social_post": "WTA отключила микрофоны на тренировочных кортах Итогового турнира после того, как личные высказывания Джессики Пегулы о Мирре Андреевой утекли в прямой эфир. Глава тура Валери Камилло принесла официальные извинения. Где должна проходить граница между открытостью для медиа и правом спортсменов на приватность? Делитесь мнением в комментариях! #теннис #WTAFinals #Пегула #Андреева"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Jessica_Pegula_(2025_DC_Open)_01_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Jessica Pegula at practice ahead of the 2025 Washington Open",
+        "width": 1200,
+        "height": 1698,
+        "subject": "Jessica Pegula"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Mirra Andreeva in June 2023",
+        "width": 1200,
+        "height": 1603,
+        "subject": "Mirra Andreeva"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Coco Gauff during the 2026 Miami Open women's singles final.",
+        "width": 1200,
+        "height": 1599,
+        "subject": "Coco Gauff"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm the exact dates of the 2026 WTA Finals in Indian Wells (source text gives November 8-15 in one section and November 15-22 in a Sky promo tag; Nov 8-15 matches the tournament schedule context)."
+      }
+    ]
+  },
+  {
+    "id": "2026-11-07-news-2dc540",
+    "slug": "new-zealand-shut-out-samoa-to-reach-womens-rugby-league-worl",
+    "date": "2026-11-07",
+    "created": "2026-11-07T17:17:55+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "rugby league",
+    "tags": [
+      "Women's Rugby League World Cup",
+      "Kiwi Ferns",
+      "Fetu Samoa",
+      "Stacey Waaka",
+      "Rugby League"
+    ],
+    "athletes": [
+      "Stacey Waaka",
+      "Raecene McGregor",
+      "Mackenze Wiki",
+      "Mele Hufanga",
+      "Kaiyah Atai",
+      "Jaime Chapman"
+    ],
+    "image_subjects": [
+      "Stacey Waaka",
+      "New Zealand women's national rugby league team",
+      "Samoa women's national rugby league team"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "New Zealand reach Women’s Rugby League World Cup final as Waaka hat-trick sinks Samoa",
+        "url": "https://www.theguardian.com/sport/2026/nov/07/new-zealand-kiwi-ferns-samoa-womens-rugby-league-world-cup-semi-final-match-report"
+      },
+      {
+        "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
+        "url": "https://www.bbc.com/sport"
+      },
+      {
+        "title": "BBC Sport: New Zealand sweep aside Samoa to reach Women's World Cup final",
+        "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.008,
+      "longest": 9,
+      "phrases": [
+        "mcgregor centre mele hufanga and back rower kaiyah atai",
+        "look to avenge their 54 4 loss to"
+      ]
+    },
+    "en": {
+      "headline": "New Zealand Shut Out Samoa to Reach Women’s Rugby League World Cup Final",
+      "subheadline": "Stacey Waaka scores a hat-trick as the Kiwi Ferns claim a 32-0 semi-final win in Newcastle to book their place in the decider.",
+      "body_markdown": "New Zealand marched into the Women’s Rugby League World Cup final on Saturday afternoon, defeating Fetu Samoa 32-0 in their semi-final clash in Newcastle behind a clinical hat-trick from dual-code international Stacey Waaka.\n\nThe Kiwi Ferns capitalised on early Samoan errors and finished with devastating late momentum, scoring four tries in the final 12 minutes to put the result beyond doubt. The victory books New Zealand a place in next weekend’s tournament decider, where they will contest the title against either reigning champions Australia or Fiji.\n\n## Samoa Pressure Repelled Early\n\nNew Zealand opened the scoring inside two minutes when winger Mackenze Wiki crossed out wide after seizing on an unforced Samoan turnover. Despite the immediate setback, Fetu Samoa controlled significant stretches of the first half, pinning New Zealand inside their own territory with disciplined sets.\n\nHowever, Samoa failed to convert pressure into points. New Zealand repelled a sustained five-minute assault on their try-line before punishing Samoa’s lapse in concentration at the opposite end. Waaka pounced after winger Mercedez Taulelei-Siala hesitated to secure a grubber kick from playmaker Raecene McGregor, securing her first four-pointer and sending the Kiwi Ferns into the break with an 8-0 lead.\n\n## Late Flurry Seals Final Berth\n\nFive minutes after the restart, the McGregor-Waaka connection struck again. Another measured kick into space allowed Waaka to touch down for her second try, pushing the advantage to 14 points and dampening Samoa’s comeback hopes.\n\nAs fatigue set in during the closing stages, New Zealand accelerated through the middle of the field. McGregor, centre Mele Hufanga, and back-rower Kaiyah Atai each crossed the whitewash before Waaka completed her hat-trick to seal a seven-try victory.\n\nThe three-try display lifted Waaka to nine tries for the tournament, drawing her level with Australian winger Jaime Chapman at the top of the competition scoring charts.\n\n## A Shot at World Cup Redemption\n\nThe result puts New Zealand one win away from reclaiming the World Cup trophy. The Kiwi Ferns will look to avenge their 54-4 loss to Australia in the previous tournament final, awaiting the outcome of Sunday's semi-final between the Jillaroos and Fiji in Brisbane.\n\nFor Samoa, while the late barrage widened the final margin, a semi-final appearance represents a milestone campaign for their emerging international programme.",
+      "social_post": "New Zealand are into the Women’s Rugby League World Cup final! Stacey Waaka scored a brilliant hat-trick as the Kiwi Ferns shut out Fetu Samoa 32-0 in Newcastle, running in four late tries to seal victory. Can New Zealand reclaim the trophy in next weekend's final? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "新西兰零封萨摩亚杀入女篮世界杯决赛，瓦卡上演帽子戏法",
+      "subheadline": "斯泰西·瓦卡独中三元，新西兰女队在纽卡斯尔以32-0大胜萨摩亚，强势锁定决赛席位。",
+      "body_markdown": "周六下午，新西兰队强势进军女子联盟式橄榄球世界杯决赛。在纽卡斯尔举行的半决赛较量中，凭借跨项双料国脚斯泰西·瓦卡（Stacey Waaka）教科书般的帽子戏法，“几维蕨队”（Kiwi Ferns）以32-0完胜萨摩亚队（Fetu Samoa）。\n\n新西兰队早早抓住萨摩亚队的失误建立优势，并在比赛尾声阶段掀起狂潮，在最后12分钟内连续完成四次达阵，彻底终结了比赛悬念。这场胜利让新西兰队顺利拿到下周末决赛的入场券，届时她们将与卫冕冠军澳大利亚队或斐济队争夺总冠军头衔。\n\n## 顶住开局狂攻：坚实防线筑起零封基石\n\n比赛开场仅两分钟，新西兰队便抓住萨摩亚队一次非受迫性失误由边锋麦肯齐·威基（Mackenze Wiki）边路突破达阵，拔得头筹。尽管开局不利，萨摩亚队在随后的上半场大部分时间里占据主动，依靠严整的进攻轮次将新西兰队死死压制在后场。\n\n然而，萨摩亚队未能将持续的攻势转化为得分。新西兰队众志成城，顽强化解了长达五分钟的门线危机，并随即在另一端惩罚了萨摩亚队防线的松懈。新西兰核心雷辛·麦格雷戈（Raecene McGregor）踢出一记巧妙的贴地地滚球（grubber kick），萨摩亚边锋梅塞德斯·陶莱莱-西亚拉（Mercedez Taulelei-Siala）接球迟疑，瓦卡机警插上完成达阵。这一记4分达阵帮助新西兰队带着8-0的优势进入中场休息。\n\n## 终场前狂轰滥炸锁定胜局\n\n易边再战仅五分钟，麦格雷戈与瓦卡的致命连线再度上演。麦格雷戈又一次将球精准踢入空当，瓦卡跟进触地完成个人第二记达阵，将领先优势扩大到14分，彻底扑灭了萨摩亚队的反扑气焰。\n\n随着比赛进入尾声、萨摩亚队员体能明显下滑，新西兰队从中路不断提速撕开防线。麦格雷戈、中卫梅莱·胡凡加（Mele Hufanga）以及后排内锋凯亚·阿泰（Kaiyah Atai）相继越过达阵线，随后瓦卡压哨完成帽子戏法，将整场达阵总数锁定在七次。\n\n凭借本场的帽子戏法，瓦卡在本届世界杯上的达阵总数攀升至9次，追平了澳大利亚名将杰梅·查普曼（Jaime Chapman），并列赛会得分榜榜首。\n\n## 剑指复仇之战\n\n这场大胜让新西兰队距离重夺世界杯奖杯仅一步之遥。在上届世界杯决赛中，新西兰队曾以4-54惨败于澳大利亚队，几维蕨队正憋着一口气想要完成复仇；她们目前正静待周日澳大利亚队与斐济队在布里斯班的半决赛战果。\n\n对于萨摩亚队而言，虽然终场前崩盘拉大了分差，但能够跻身世界杯四强，对这支正在崛起的国家队来说已经书写了历史性的里程碑。",
+      "social_post": "新西兰队挺进女子联盟式橄榄球世界杯决赛！斯泰西·瓦卡上演帽子戏法，率几维蕨队在纽卡斯尔32-0零封萨摩亚，并在最后时刻狂揽四次达阵。大家看好新西兰在下周末的决赛中一雪前耻夺冠吗？欢迎在评论区聊聊！ #橄榄球 #女足世界杯 #几维蕨"
+    },
+    "ru": {
+      "headline": "Новая Зеландия всухую разгромила Самоа и вышла в финал женского Кубка мира по регбилиг",
+      "subheadline": "Хет-трик Стейси Ваака принес сборной Новой Зеландии победу над соперницами со счетом 32:0 в полуфинале в Ньюкасле.",
+      "body_markdown": "В субботу днем женская сборная Новой Зеландии триумфально шагнула в финал Кубка мира по регбилиг (регби-13). В полуфинальном поединке в Ньюкасле новозеландки сокрушили команду Самоа («Фету Самоа» / Fetu Samoa) со счетом 32:0, а главной героиней встречи стала Стейси Ваака (Stacey Waaka), оформившая блестящий хет-трик.\n\n«Киви Фернс» (Kiwi Ferns) хладнокровно воспользовались ранними ошибками самоанок, а в концовке встречи попросту смели соперниц, занеся четыре попытки за последние 12 минут матча. Эта убедительная победа гарантировала Новой Зеландии путевку в финал, который состоится в следующие выходные. В матче за титул они сразятся с действующими чемпионками из Австралии или сборной Фиджи.\n\n## Выдержали осаду и нанесли удар\n\nНовозеландки открыли счет уже на второй минуте: вингер Макензи Вики (Mackenze Wiki) перехватила мяч после невынужденной потери самоанок и завершила атаку на фланге. Несмотря на обескураживающий старт, «Фету Самоа» контролировали ход игры большую часть первого тайма, благодаря дисциплине при владениях прижав Новую Зеландию к ее зачетке.\n\nВпрочем, конвертировать давление в набранные очки Самоа так и не удалось. Выдержав пятиминутный штурм собственной линии ворот, «Киви Фернс» жестко наказали соперниц за секундную потерю концентрации на противоположном конце поля. Плеймейкер Рэйсин Макгрегор (Raecene McGregor) исполнила проникающий удар низом («граббер»), самоанский вингер Мерседес Таулелеи-Сиала (Mercedez Taulelei-Siala) замешкалась на приеме, и Ваака коршуном налетела на мяч, занеся свою первую попытку и отправив команды на перерыв при счете 8:0.\n\n## Сокрушительный финишный спурт\n\nСпустя всего пять минут после возобновления игры связка Макгрегор — Ваака сработала вновь. Еще один выверенный кик в свободную зону позволил Вааке оформить дубль, увеличить отрыв до 14 очков и сбить весь атакующий порыв Самоа.\n\nВ концовке встречи, когда соперницы окончательно выбились из сил, Новая Зеландия включила максимальные скорости по центру поля. Макгрегор, центр Меле Хуфанга (Mele Hufanga) и форвард третьей линии Кайя Атаи (Kaiyah Atai) поочередно приземлили мяч в зачетном поле, а точку в матче поставила Ваака, завершившая свой хет-трик и доведшая общее число попыток новозеландок до семи.\n\nТри заноса в этом полуфинале позволили Вааке довести свой личный счет на турнире до девяти попыток и сравняться на вершине бомбардирской гонки с австралийкой Джейми Чепмен (Jaime Chapman).\n\n## В ожидании реванша\n\nЭтот успех оставляет Новую Зеландию всего в одном шаге от возвращения заветного кубка. «Киви Фернс» жаждут взять реванш за унизительное поражение 4:54 от Австралии в финале прошлого розыгрыша. Теперь они ожидают исхода воскресного полуфинала между австралийскими «Джилларуз» (Jillaroos) и Фиджи в Брисбене.\n\nЧто касается Самоа, то, несмотря на разгромную концовку, сам выход в полуфинал стал историческим прорывом для этой молодой и стремительно развивающейся национальной программы.",
+      "social_post": "Новая Зеландия в финале женского Кубка мира по регбилиг! Хет-трик великолепной Стейси Ваака помог «Киви Фернс» разгромить Самоа со счетом 32:0 в Ньюкасле — четыре попытки влетели в последние 12 минут. Смогут ли новозеландки вернуть себе титул в решающем матче через неделю? Делитесь мнением в комментариях! #регбилиг #регби #КубокМира"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Black_Fern_Stacey_Fluhler_%28Stacey_Waaka_at_the_time%29_with_Women%27s_Rugby_World_Cup_trophy_and_WRWC_medals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Black_Fern_Stacey_Fluhler_(Stacey_Waaka_at_the_time)_with_Women%27s_Rugby_World_Cup_trophy_and_WRWC_medals.jpg",
+        "artist": "Pseudopanax at English Wikipedia",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Black Ferns player Stacey Fluhler (Stacey Waaka at the time) with Women's Rugby World Cup trophy and WRWC medal",
+        "width": 1200,
+        "height": 2000,
+        "subject": "Stacey Waaka"
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-06-news-017de6",
     "slug": "four-goals-in-17-minutes-psg-crush-villarreal-6-0-as-the-cha",
     "date": "2026-11-06",
