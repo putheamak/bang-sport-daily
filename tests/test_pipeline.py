@@ -346,3 +346,18 @@ def test_ready_made_translations(repo):
     assert a["ru"]["body_markdown"] == "Новый текст." and a["en"]["body_markdown"] == "x"
     assert not site.stale(a, "zh") and not site.stale(a, "ru")
     assert (repo / "docs/zh/s1.html").exists() and (repo / "docs/ru/s1.html").exists()
+
+
+def test_ready_made_with_english(repo):
+    from sportnews import pipeline, site
+    from sportnews.common import save_articles, load_articles
+    save_articles([{"id": "s2", "slug": "s2", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "news",
+                    "status": "published", "updated_at": "2026-11-06T21:00:00+07:00", "sources": [], "published_to": [],
+                    "en": {"headline": "Old", "body_markdown": "old"}}])
+    (repo / "inbox").mkdir()
+    (repo / "inbox" / "t.md").write_text("---\nupdate: s2\ntranslations:\n  en: {headline: New}\n  zh: {headline: 新}\n  ru: {headline: Новый}\n---\n"
+                                         "=== en ===\nNew text.\n=== zh ===\n新。\n=== ru ===\nНовый.\n")
+    pipeline.run_inbox()
+    a = load_articles()[0]
+    assert a["en"]["body_markdown"] == "New text." and a["zh"]["headline"] == "新"
+    assert not site.stale(a, "zh") and not site.stale(a, "ru")

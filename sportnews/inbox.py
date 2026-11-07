@@ -123,12 +123,20 @@ def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:
                  re.finditer(r"^===\s*([a-z]{2})\s*===\s*\n(.*?)(?=^===\s*[a-z]{2}\s*===|\Z)", body, re.S | re.M))
     a = dict(old)
     stamps = dict(a.get("lang_updated") or {})
-    for lang, head in (meta.get("translations") or {}).items():
+    stamp = now_iso(cfg)
+    tr = meta.get("translations") or {}
+    if "en" in tr and parts.get("en") and tr["en"].get("headline"):
+        # corrected English supplied together with its translations: all versions share one timestamp
+        a["en"] = {"headline": tr["en"]["headline"], "subheadline": tr["en"].get("subheadline", ""),
+                   "body_markdown": parts["en"], "social_post": tr["en"].get("social_post", "")}
+        a["updated_at"] = stamp
+        log.info("Corrected English for %s", a["id"])
+    for lang, head in tr.items():
         if lang not in cfg["languages"].get("others", ["zh", "ru"]) or not parts.get(lang) or not head.get("headline"):
             continue
         a[lang] = {"headline": head["headline"], "subheadline": head.get("subheadline", ""),
                    "body_markdown": parts[lang], "social_post": head.get("social_post", "")}
-        stamps[lang] = now_iso(cfg)
+        stamps[lang] = stamp
         log.info("Added %s translation for %s", lang, a["id"])
     a["lang_updated"] = stamps
     a["_update"] = True
