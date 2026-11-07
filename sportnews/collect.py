@@ -137,11 +137,33 @@ def fetch_full_text(url: str, limit: int = 6000) -> str:
 _LAST: list[dict] = []
 
 
+WIRE_CLICKBAIT = re.compile(
+    r"[!！]|you won'?t believe|shocking|jaw[- ]dropping|insane|mind[- ]blowing|what happened next|"
+    r"шок|сенсаци|вы не поверите|невероятн|скандал|самородок|"
+    r"震惊|竟然|惊呆|万万没想到|太离谱|炸裂|重磅", re.I)
+
+
+def _src_key(name: str) -> str:
+    """One key per outlet, so 'Championat' and 'https://www.championat.ru/' count as the same source."""
+    k = re.sub(r"^https?://(www\.)?|/+$", "", (name or "").lower().strip())
+    k = re.sub(r"\.(ru|com|cn|com\.cn|co\.uk|net|org)$", "", k)
+    for brand in ("championat", "sport-express", "sports.ru", "ria", "bbc", "guardian", "sky sports", "espn",
+                  "新华", "人民", "中国新闻", "中新", "央视", "新浪"):
+        if brand in k:
+            return brand
+    return k
+
+
+def _src_name(name: str) -> str:
+    """Show a web address as a plain outlet name (https://www.championat.ru/ -> championat.ru)."""
+    return re.sub(r"^https?://(www\.)?|/+$", "", name or "") if (name or "").startswith("http") else name
+
+
 MAJOR_MEDIA = re.compile(
     r"bbc|guardian|sky sports|espn|reuters|associated press|\bap\b|al jazeera|nbc sports|cbs sports|cnn|the athletic|"
     r"the independent|telegraph|the times|marca|as\.com|l'équipe|gazzetta|kicker|fifa|uefa|olympics|"
-    r"新华|央视|cctv|人民|新浪|腾讯|澎湃|中国新闻|体坛|懂球帝|"
-    r"чемпионат|спорт-экспресс|тасс|риа|матч|sports\.ru|советский спорт|рбк|коммерсант", re.I)
+    r"新华|央视|cctv|人民|新浪|腾讯|澎湃|中国新闻|中新|体坛|懂球帝|olympic|"
+    r"championat|чемпионат|спорт-экспресс|sport-express|тасс|риа|матч|sports\.ru|советский спорт|рбк|коммерсант", re.I)
 
 
 def mix_sources(items: list[dict], n: int = 12, per_source: int = 2) -> list[dict]:
@@ -150,7 +172,7 @@ def mix_sources(items: list[dict], n: int = 12, per_source: int = 2) -> list[dic
     def pick(pool, out, used):
         groups: dict[str, list] = {}
         for i in pool:
-            groups.setdefault(i.get("source", ""), []).append(i)
+            groups.setdefault(_src_key(i.get("source", "")), []).append(i)
         rnd = 0
         while len(out) < n and any(len(g) > rnd for g in groups.values()):
             for src, g in groups.items():
@@ -173,8 +195,9 @@ def save_wire(cfg: dict, per_lang: int = 12) -> None:
     from .standards import BETTING
     wire = {"_updated": datetime.now(timezone.utc).isoformat(timespec="seconds")}
     for lang in ("en", "zh", "ru"):
-        items = mix_sources([i for i in _LAST if i["lang"] == lang and not BETTING.search(i["title"])], per_lang)
-        wire[lang] = [{"title": i["title"], "source": i["source"], "link": i["link"], "sport": i.get("sport"),
+        items = mix_sources([i for i in _LAST if i["lang"] == lang and not BETTING.search(i["title"])
+                             and not WIRE_CLICKBAIT.search(i["title"])], per_lang)
+        wire[lang] = [{"title": i["title"], "source": _src_name(i["source"]), "link": i["link"], "sport": i.get("sport"),
                        "published": i.get("published")} for i in items]
     write_json(DATA / "wire.json", wire)
 

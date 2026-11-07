@@ -429,3 +429,13 @@ def test_wire_mixes_major_sources():
     srcs = [x["source"] for x in out]
     assert srcs.count("BBC Sport") == 2 and srcs.count("The Guardian Sport") == 2 and "Sky Sports" in srcs
     assert srcs[-1] == "ProFootballRumors.com"          # minor outlets only fill remaining places
+
+
+def test_wire_drops_clickbait_and_merges_same_outlet():
+    from sportnews.collect import WIRE_CLICKBAIT, mix_sources, _src_name
+    assert WIRE_CLICKBAIT.search("Русский самородок готов забрать любимую награду Овечкина!")
+    assert WIRE_CLICKBAIT.search("震惊！他竟然这样做") and not WIRE_CLICKBAIT.search("中国杯世界花样滑冰大奖赛在深圳开赛")
+    items = [{"title": "a", "source": "Championat"}, {"title": "b", "source": "https://www.championat.ru/"},
+             {"title": "c", "source": "Championat"}, {"title": "d", "source": "Sports.ru"}]
+    assert [x["title"] for x in mix_sources(items, 4)] == ["a", "d", "b"]
+    assert _src_name("https://www.championat.ru/") == "championat.ru"

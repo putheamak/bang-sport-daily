@@ -119,6 +119,10 @@ feeds:
   - {name: "Google News – 体育 (ZH)",   url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
   - {name: "Google News – Спорт (RU)",  url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ru&gl=RU&ceid=RU:ru", lang: ru}
   - {name: "Championat",       url: "https://www.championat.com/rss/news/", lang: ru}
+  - {name: "Sports.ru",        url: "https://www.sports.ru/rss/all_news.xml", lang: ru}
+  - {name: "Спорт-Экспресс",   url: "https://www.sport-express.ru/services/materials/news/se/", lang: ru}
+  - {name: "РИА Новости Спорт", url: "https://ria.ru/export/sport/rss2/index.xml", lang: ru}
+  - {name: "中国新闻网 体育",   url: "https://www.chinanews.com.cn/rss/sports.xml", lang: zh}
 
 # ---------- Bylines: disclosed pen-name columnists ----------
 # Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:
