@@ -111,7 +111,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T17:40:03+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "Boxing",
     "tags": [
@@ -197,7 +197,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T17:33:29+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "mma",
     "tags": [
