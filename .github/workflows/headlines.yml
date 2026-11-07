@@ -1,0 +1,33 @@
+name: Refresh headlines
+
+# Updates the "Around the world" box from the news feeds every 4 hours (no AI quota used).
+on:
+  schedule:
+    - cron: "11 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  headlines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m sportnews headlines
+      - run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Refresh headlines"
+          git pull --rebase --autostash || true
+          git push
