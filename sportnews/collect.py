@@ -147,6 +147,8 @@ def _src_key(name: str) -> str:
     """One key per outlet, so 'Championat' and 'https://www.championat.ru/' count as the same source."""
     k = re.sub(r"^https?://(www\.)?|/+$", "", (name or "").lower().strip())
     k = re.sub(r"\.(ru|com|cn|com\.cn|co\.uk|net|org)$", "", k)
+    for cyr, lat in (("чемпионат", "championat"), ("спорт-экспресс", "sport-express"), ("риа новости", "ria")):
+        k = k.replace(cyr, lat)
     for brand in ("championat", "sport-express", "sports.ru", "ria", "bbc", "guardian", "sky sports", "espn",
                   "新华", "人民", "中国新闻", "中新", "央视", "新浪"):
         if brand in k:

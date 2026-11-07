@@ -439,3 +439,14 @@ def test_wire_drops_clickbait_and_merges_same_outlet():
              {"title": "c", "source": "Championat"}, {"title": "d", "source": "Sports.ru"}]
     assert [x["title"] for x in mix_sources(items, 4)] == ["a", "d", "b"]
     assert _src_name("https://www.championat.ru/") == "championat.ru"
+
+
+def test_homepage_sources_blocked(repo):
+    from sportnews.common import load_config
+    from sportnews.standards import check_article
+    a = {"id": "h", "type": "history", "date": "2026-11-07", "status": "draft",
+         "sources": [{"title": "BoxRec", "url": "https://boxrec.com/"}, {"title": "CBZ", "url": "http://www.cyberboxingzone.com/"}],
+         "en": {"headline": "H", "subheadline": "S", "body_markdown": "He won in his debut. " * 120, "social_post": ""}}
+    iss = check_article(load_config(), a)
+    assert any(i["level"] == "BLOCK" and "homepages" in i["msg"] for i in iss)
+    assert any("debut" in i["msg"] for i in iss)

@@ -36,6 +36,8 @@ CLICHES = [r"end of an era", r"rewrote the (?:record|history) books?", r"proved 
 VAGUE_TIME = re.compile(r"(?:^|[.!?]\s+)(Today|Yesterday|Tonight|This morning)\b,?", re.M)
 DEATH_DATE = re.compile(r"\b(?:on|On) (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}[^.]{0,80}\b(died|passed away|death)\b"
                         r"|\b(died|passed away)\b[^.]{0,40}\bon (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}", re.I)
+CLAIMS = re.compile(r"\b(debut|first[- ]ever|for the first time|first (?:man|woman|player|team|boxer|athlete) to|"
+                    r"world record|all-time record|unbeaten|undefeated|oldest|youngest)\b", re.I)
 URL_DATE = re.compile(r"/(20\d\d)[/-](\d{1,2})[/-](\d{1,2})(?:/|-|$)|/(20\d\d)/([a-z]{3})/(\d{1,2})/", re.I)
 MONTHS = {m: i for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
 WEAK_SOURCES = ("blogspot.", "wordpress.com", "medium.com", "nigfooty.", "reddit.com", "facebook.com",
@@ -125,6 +127,10 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
         out.append(_issue("WARN", "ethics", "Exact date of a death is stated. Make sure a source gives that exact date; "
                                             "otherwise write 'has died, it was announced on ...'"))
 
+    m = CLAIMS.search(plain)
+    if m:
+        out.append(_issue("INFO", "facts", f"Strong claim '{m.group(0)}': confirm it in a source before publishing"))
+
     # ---------------- PROFESSIONALISM
     if not head:
         out.append(_issue("BLOCK", "professional", "Missing headline"))
@@ -168,6 +174,13 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
         if not strong and not (kind != "news" and len(srcs) >= 2):
             out.append(_issue("WARN", "sources", "No major or official outlet among the sources (e.g. BBC, Reuters, AP, "
                                                  "ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"))
+        import urllib.parse as _up
+        home = [u for u in urls if _up.urlparse(u).path.strip("/") == ""]
+        if home and len(home) == len(urls):
+            out.append(_issue("BLOCK", "sources", "Sources are only website homepages, not articles. Link the exact "
+                                                  "report or record page that proves the facts"))
+        elif home:
+            out.append(_issue("WARN", "sources", f"{len(home)} source(s) are homepages, not articles: " + ", ".join(home[:3])))
         if weak and len(weak) == len(urls):
             out.append(_issue("BLOCK", "sources", "All sources are blogs or social media. Add a major or official source"))
         elif weak:
