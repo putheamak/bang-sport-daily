@@ -74,11 +74,20 @@ details and find context. Prefer official and major outlets.""",
     "history": """TASK: Write today's "ON THIS DAY IN SPORT" story ({date}). Search for a famous, well-documented
 world sport moment that happened on this calendar date ({month_day}) in an earlier year — prefer moments that
 Chinese and Russian readers also care about. Tell it as a story: the era, the people, the drama, its legacy today.""",
+    "history_event": """TASK: Write today's "ON THIS DAY IN SPORT" story ({date}) about this event, which happened
+on this calendar date ({month_day}) in {event_year}: "{event_text}".
+The date and the event are FIXED by the source (Wikipedia's dated 'On this day' list): do not move it to another
+date, place or year, and do not switch to a different event. Use the SOURCE MATERIAL as your fact base and web
+search (if available) only to confirm details. If a detail is not in the sources, leave it out.
+Tell it as a story: the era, the people, the drama, its legacy today. Report tragedies or controversies, if any,
+factually and respectfully.""",
     "athlete_story": """TASK: Write the LIFE STORY of {athlete} ({sport}). Research childhood and background, how
 they started, key turning points, struggles, greatest achievements and life today. Write it as a human story,
-not a list of results. Notes (verify, do not copy blindly): {notes}""",
+not a list of results. Notes (verify, do not copy blindly): {notes}
+Use the SOURCE MATERIAL (the athlete's Wikipedia article) as your fact base. Only include facts you find there or
+in web search results. Never invent childhood scenes, family details, quotes or feelings.""",
 }
-WORDS = {"news": "350-550", "history": "550-850", "athlete_story": "700-1000"}
+WORDS = {"news": "350-550", "history": "550-850", "history_event": "550-850", "athlete_story": "700-1000"}
 
 LOCALIZE_SYSTEM = """You are a team of senior sport editors who are native speakers of {targets}.
 Adapt the English article into each language so it reads as if originally written by a native sport columnist —
@@ -125,7 +134,11 @@ def split_memo(memo: str) -> tuple[str, str]:
 
 
 def _write_prompt(kind: str, ctx: dict, date: str) -> str:
-    parts = [TASKS[kind].format(date=date, month_day=date[5:], **ctx.get("fmt", {}))]
+    task = "history_event" if kind == "history" and ctx.get("event_text") else kind
+    fmt = dict(ctx.get("fmt", {}))
+    if task == "history_event":
+        fmt.update(event_year=ctx["event_year"], event_text=ctx["event_text"])
+    parts = [TASKS[task].format(date=date, month_day=date[5:], **fmt)]
     daily = split_memo(read_text(MEMOS / f"{date}.md"))
     memo_part = ctx.get("assignment_memo") if ctx.get("assignment_memo") else daily[0]
     if memo_part:
@@ -219,6 +232,9 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
                 en.setdefault("facts_to_verify", []).insert(
                     0, f"STYLE: {fp} first-person words found ('I', 'my', 'we'). Remove personal lines you did not write yourself")
         loc = localize(cfg, en)
+        if not cites and not ctx.get("source_links"):
+            en.setdefault("facts_to_verify", []).insert(
+                0, "NO SOURCES: written from AI memory without web search or source text. Do not publish unverified")
 
     sources, seen = [], set()
     for s in en.get("sources_used", []) + cites + ctx.get("source_links", []):
@@ -234,6 +250,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         "image_subjects": en.get("image_subjects", []),
         "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
         "originality": locals().get("orig"),
+        "grounded": bool(locals().get("cites")) or bool(ctx.get("source_links")),
         "en": {k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
     }
     for l in langs:

@@ -56,6 +56,7 @@ DEFAULTS = {
     "min_words": {"news": 250, "history": 400, "athlete_story": 500},
     "max_headline_chars": 110,
     "check_links": True,            # weekly audit opens every source link
+    "auto_reject": True,            # AI drafts with BLOCK problems, too few words or sources never reach review
 }
 
 
@@ -130,6 +131,10 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     m = CLAIMS.search(plain)
     if m:
         out.append(_issue("INFO", "facts", f"Strong claim '{m.group(0)}': confirm it in a source before publishing"))
+
+    if a.get("grounded") is False and a.get("model") not in ("editor", "mock"):
+        out.append(_issue("BLOCK", "facts", "Written from AI memory without web search or source text: facts "
+                                            "(dates, places, scores) are not checked"))
 
     # ---------------- PROFESSIONALISM
     if not head:
@@ -209,6 +214,23 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
         if t and re.search(r"\b(I|my|we)\b", t.get("body_markdown", "")):
             out.append(_issue("INFO", "translation", f"{lang.upper()} text contains English first-person words. Check it"))
     return out
+
+
+def auto_reject_reasons(cfg: dict, a: dict) -> list[str]:
+    """Why an AI draft should never reach the editor (empty list = keep it for review).
+    Editor-written stories (inbox) are never auto-rejected."""
+    r = rules(cfg)
+    if not r.get("auto_reject", True) or a.get("model") in ("editor", "mock") or a.get("origin"):
+        return []
+    issues = a.get("standards") or check_article(cfg, a)
+    reasons = [i["msg"] for i in issues if i["level"] == "BLOCK"]
+    words = len(re.findall(r"\w+", (a.get("en") or {}).get("body_markdown", "")))
+    need = r["min_words"].get(a.get("type", "news"), 250)
+    if words < need:
+        reasons.append(f"too short ({words} words, minimum {need})")
+    if a.get("type") == "news" and len([s for s in a.get("sources") or [] if s.get("url")]) < r["min_sources_news"]:
+        reasons.append(f"fewer than {r['min_sources_news']} sources")
+    return reasons
 
 
 def blocking(issues: list[dict]) -> list[dict]:

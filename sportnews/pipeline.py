@@ -181,17 +181,27 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
 
     from .regions import LABEL, article_region, counts, next_region
     win = (cfg.get("regions") or {}).get("window_days", 7)
-    if plan.get("history", 0) and "skip: history" not in memo:
+    do_history, do_athlete = plan.get("history", 0), plan.get("athlete_story", 0)
+    if plan.get("alternate_features"):       # one feature a day: history on even days, life story on odd days
+        from datetime import date as _D
+        even = _D.fromisoformat(date).toordinal() % 2 == 0
+        do_history, do_athlete = (do_history and even), (do_athlete and not even)
+    if do_history and "skip: history" not in memo:
         try:
             focus = next_region(cfg, counts(load_articles() + new, date, win))
-            art = write_article(cfg, "history", {"title": f"On this day: {date[5:]}", "region_focus": focus}, date)
-            art["region"] = article_region(art)
-            new.append(art)
+            from .factsource import history_context
+            hctx = history_context(date[5:], focus)
+            if not hctx:
+                log.warning("No dated sport event found for %s: no history story today (never written from memory)", date[5:])
+            else:
+                art = write_article(cfg, "history", hctx, date)
+                art["region"] = article_region(art) if article_region(art) != "global" else hctx.get("region_hint", "global")
+                new.append(art)
         except Exception as e:  # noqa: BLE001
             log.error("History article failed: %s", e)
 
     athletes = load_athletes()
-    if plan.get("athlete_story", 0) and athletes and "skip: athlete" not in memo:
+    if do_athlete and athletes and "skip: athlete" not in memo:
         idx = state.get("athlete_idx", 0) % len(athletes)
         focus = next_region(cfg, counts(load_articles() + new, date, win))
         order = [(idx + k) % len(athletes) for k in range(len(athletes))]
@@ -200,6 +210,8 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
         ctx = {"fmt": {"athlete": a["name"], "sport": a.get("sport", ""), "notes": a.get("notes", "")},
                "title": a["name"], "sport": a.get("sport", ""),
                "athlete_memo": read_text(MEMOS / "athletes" / f"{slugify(a['name'])}.md")}
+        from .factsource import athlete_context
+        ctx["sources"], ctx["source_links"] = athlete_context(a.get("wikipedia") or a["name"])
         try:
             art = write_article(cfg, "athlete_story", ctx, date)
             art["region"] = a.get("region") or article_region(art)
@@ -220,8 +232,15 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
                 log.warning("Photos failed for %s: %s", a["id"], e)
     from .collect import save_wire
     save_wire(cfg)
-    from .standards import stamp
+    from .standards import auto_reject_reasons, stamp
     stamp(cfg, new, date)              # ethics / professionalism / sources check, shown in the review message
+    for a in new:
+        why = auto_reject_reasons(cfg, a)
+        if why:                        # never reaches the editor: fails the site's standards
+            a["status"], a["auto_rejected"] = "rejected", why
+            log.warning("Auto-rejected %s (%s): %s", a["id"], a["en"].get("headline", "")[:60], "; ".join(why)[:300])
+    kept = [a for a in new if a["status"] != "rejected"]
+    log.info("Drafts for review: %d of %d (others auto-rejected by the standards check)", len(kept), len(new))
     articles = merge_articles(new, load_articles())
     if cfg["publish"].get("photos", True):
         from .images import backfill
@@ -242,13 +261,13 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
 
     from .publishers import publish_articles, send_digest, send_for_review
     auto = cfg["publish"].get("auto_publish", False) if publish_now is None else publish_now
-    if new:
+    if kept:
         if auto:
-            publish_articles(cfg, [a["id"] for a in new])
+            publish_articles(cfg, [a["id"] for a in kept])
         else:
-            send_for_review(cfg, new)
+            send_for_review(cfg, kept)
         if cfg["publish"].get("email_digest"):
-            send_digest(cfg, date, new, published=auto)
+            send_digest(cfg, date, kept, published=auto)
 
     from .site import build_site
     build_site(cfg)

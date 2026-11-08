@@ -60,9 +60,10 @@ ai:
 
 # ---------- What to produce each day ----------
 daily_plan:
-  news: 3            # biggest global sport stories of the last 24-36h
-  history: 1         # "On this day in sport"
-  athlete_story: 1   # life story of a legendary / rising athlete (rotates athletes.yaml)
+  news: 2            # best sport stories of the last 24-36h (regionally balanced)
+  history: 1         # "On this day in sport" (from Wikipedia's dated list, never from AI memory)
+  athlete_story: 1   # life story of a legendary / rising athlete (rotates athletes.yaml, from Wikipedia)
+  alternate_features: true   # 3 stories a day: 2 news + history OR life story (alternating days)
   max_per_sport: 1   # variety: no more than N news stories from the same sport per day
 
 # Sports the system watches. weight > 1 = more likely to be chosen; 0 = ignore that sport.
@@ -112,6 +113,7 @@ standards:
   min_words: {news: 250, history: 400, athlete_story: 500}
   max_headline_chars: 110
   check_links: true
+  auto_reject: true             # AI drafts that fail (BLOCK, too short, too few sources) never reach your review
 
 # ---------- Regional balance (share of all stories over the last 7 days) ----------
 # Each day the system writes from the region furthest behind its target, but only when that region has a

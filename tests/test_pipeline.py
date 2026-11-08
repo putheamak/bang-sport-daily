@@ -79,6 +79,13 @@ def test_daily_publish_site(repo, monkeypatch):
     real = C.parse_feed
     monkeypatch.setattr(C, "parse_feed", lambda f, c, **k: real(f, c, raw=_raw()) if f["name"] == GN["name"] else [])
     monkeypatch.setattr(C, "fetch_full_text", lambda url: "")
+    from sportnews import factsource
+    monkeypatch.setattr(factsource, "history_context", lambda md, focus: {
+        "title": "On this day", "event_year": 1994, "event_text": "Foreman beats Moorer", "region_hint": "global",
+        "sources": "EVENT: 1994 Foreman", "source_links": [{"title": "Wikipedia: Foreman", "url": "https://en.wikipedia.org/wiki/George_Foreman"}]})
+    monkeypatch.setattr(factsource, "athlete_context", lambda name: ("WIKIPEDIA: " + name, [{"title": name, "url": "https://en.wikipedia.org/wiki/X"}]))
+    cfgp = repo / "config.yaml"
+    cfgp.write_text(cfgp.read_text().replace("news: 2 ", "news: 3 ").replace("alternate_features: true", "alternate_features: false"))
     new = pipeline.run_daily(publish_now=False)
     assert [a["type"] for a in new] == ["news", "news", "news", "history", "athlete_story"]
     assert all(a.get("zh") and a.get("ru") for a in new)
@@ -469,3 +476,31 @@ def test_regions_classify_and_balance():
     assert got[0]["title"] == "Zenit beat Spartak"            # region behind target, good enough score
     assert all(i["title"] != "Vietnam win AFF match" for i in got)   # too weak (quality first)
     assert "Global 100%" in balance_line(cfg, c)
+
+
+def test_auto_reject_and_no_sources_block(repo):
+    from sportnews.common import load_config
+    from sportnews.standards import auto_reject_reasons, check_article
+    cfg = load_config()
+    a = {"id": "x", "type": "history", "date": "2026-11-08", "status": "draft", "model": "gemini-3.8-flash",
+         "grounded": False, "sources": [{"title": "W", "url": "https://en.wikipedia.org/wiki/A"}],
+         "en": {"headline": "H", "subheadline": "S", "body_markdown": "word " * 500, "social_post": ""}}
+    assert any("memory" in i["msg"] for i in check_article(cfg, a))
+    assert auto_reject_reasons(cfg, a)
+    news = dict(a, type="news", grounded=True, en=dict(a["en"], body_markdown="Short story."))
+    why = auto_reject_reasons(cfg, news)
+    assert any("too short" in w for w in why) and any("sources" in w for w in why)
+    assert auto_reject_reasons(cfg, dict(news, model="editor")) == []      # your own stories are never auto-rejected
+
+
+def test_on_this_day_picks_sport_not_tragedy(monkeypatch):
+    from sportnews import factsource
+    feed = {"events": [
+        {"year": 1958, "text": "Munich air disaster kills eight footballers", "pages": [{"titles": {"canonical": "Munich_air_disaster"}, "description": "football"}]},
+        {"year": 2014, "text": "Sorn Seavmey wins Cambodia's first Asian Games gold in taekwondo",
+         "pages": [{"titles": {"canonical": "Sorn_Seavmey", "normalized": "Sorn Seavmey"}, "description": "Cambodian taekwondo athlete"}]},
+        {"year": 1990, "text": "A new bridge opens", "pages": []}]}
+    monkeypatch.setattr(factsource, "_json", lambda url: feed)
+    monkeypatch.setattr(factsource, "wiki_extract", lambda t, chars=7000: ("Text about " + t, "https://en.wikipedia.org/wiki/" + t.replace(" ", "_")))
+    ev = factsource.on_this_day("09-30", "cambodia")
+    assert ev["year"] == 2014 and ev["region"] == "cambodia" and ev["pages"][0]["url"].endswith("Sorn_Seavmey")

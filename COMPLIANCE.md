@@ -75,3 +75,11 @@ Quality matters more than quantity.
 - Publishing: ⛔ BLOCK stops the Publish workflow. Fix the story, or choose `publish-anyway` after checking it yourself.
 - Weekly: the **Weekly standards audit** workflow (Mondays 08:17 Cambodia time) re-checks all stories, opens every source link and saves `data/audit.md`.
 - By hand: `python -m sportnews check <ID>` or Actions › Weekly standards audit › Run workflow.
+
+## Fact sources and auto-rejection (update 23)
+
+- **History ("On this day")** stories start from Wikipedia's dated "On this day" list, with the Wikipedia article(s) as sources. The date can't be guessed. Tragedies (deaths, disasters) are skipped for this feature. If no sport event is listed for the day, no history story is written.
+- **Life stories** start from the athlete's Wikipedia article. The AI may only use facts found there or in web search, and never invents childhood scenes, family details, quotes or feelings.
+- A story written **from AI memory alone** (no web search, no source text) is ⛔ blocked.
+- **Auto-reject**: AI drafts with a ⛔ problem, too few words, or (news) fewer than 2 sources are marked rejected and never sent for review. Your own inbox stories are never auto-rejected. Reasons are saved in the story's `auto_rejected` field and in the run log.
+- **3 stories a day**: 2 news + one feature (history and life story on alternating days).
