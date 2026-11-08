@@ -1,77 +1,83 @@
-2026-11-07 15:06:24,152 INFO BBC Sport                         26 items
-2026-11-07 15:06:24,408 INFO The Guardian Sport                26 items
-2026-11-07 15:06:24,519 INFO ESPN                               0 items
-2026-11-07 15:06:24,881 INFO Sky Sports                        18 items
-2026-11-07 15:06:25,327 INFO Google News – Sports (EN)         59 items
-2026-11-07 15:06:25,633 INFO Google News – 体育 (ZH)             51 items
-2026-11-07 15:06:25,970 INFO Google News – Спорт (RU)          45 items
-2026-11-07 15:06:26,889 INFO Championat                        30 items
-2026-11-07 15:06:28,050 INFO Sports.ru                         20 items
-2026-11-07 15:06:29,864 INFO Спорт-Экспресс                   545 items
-2026-11-07 15:06:30,913 INFO РИА Новости Спорт                 20 items
-2026-11-07 15:06:31,969 INFO 中国新闻网 体育                          23 items
-2026-11-07 15:06:32,649 INFO Candidate stories after clustering: 745
-2026-11-07 15:06:32,650 INFO Picked [olympic 4.6] 2026北京冰雪消费季推介会举行 推出17条冰雪旅游线路
-2026-11-07 15:06:32,650 INFO Writing news (EN) ...
-2026-11-07 15:06:33,295 INFO Gemini models available: 24 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-07 15:06:33,424 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
-2026-11-07 15:06:33,424 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:06:33,424 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
-2026-11-07 15:08:31,489 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-07 15:08:31,576 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:09:06,724 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:09:41,845 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:09:41,923 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:09:55,622 INFO Adapting to zh, ru ...
-2026-11-07 15:11:13,544 INFO Picked [football 4.5] England secure group top spot with Ireland win
-2026-11-07 15:11:13,798 INFO Writing news (EN) ...
-2026-11-07 15:11:27,623 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-07 15:11:47,786 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:13:46,460 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-07 15:14:06,603 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:14:17,486 INFO Adapting to zh, ru ...
-2026-11-07 15:14:17,680 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:16:16,219 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-07 15:16:36,366 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:16:51,872 INFO Picked [basketball 3.8] Knicks defend Taylor Swift after players name her 'fakest celebrity fan'
-2026-11-07 15:16:51,872 INFO Writing news (EN) ...
-2026-11-07 15:16:52,049 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:16:52,161 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:03,999 INFO Adapting to zh, ru ...
-2026-11-07 15:17:04,154 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:04,246 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:19,536 INFO Writing history (EN) ...
-2026-11-07 15:17:19,696 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:19,777 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:36,551 INFO Adapting to zh, ru ...
-2026-11-07 15:17:36,707 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:36,801 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:52,393 INFO Writing athlete_story (EN) ...
-2026-11-07 15:17:52,527 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:17:52,604 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:18:15,279 WARNING Model returned invalid JSON; asking again without search
-2026-11-07 15:18:15,429 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:19:17,998 INFO Adapting to zh, ru ...
-2026-11-07 15:19:18,142 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:19:18,219 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-07 15:19:35,862 INFO Looking up photos for 2026-11-07-news-4ee2d7: ['Beijing', 'National Speed Skating Oval', '2022 Winter Olympics', 'Ning Zhongyan', 'Gao Tingyu']
-2026-11-07 15:19:36,090 INFO Photo for 'Beijing': Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg (N509FZ, CC BY 4.0)
-2026-11-07 15:19:36,286 INFO Photo for 'National Speed Skating Oval': National_Speed_Skating_Oval_Beijing_2.jpg (Arne Müseler, CC BY-SA 3.0 de)
-2026-11-07 15:19:36,943 INFO Photo for 'Ning Zhongyan': 宁忠岩赛后采访.png (中国新闻社, CC BY 4.0)
-2026-11-07 15:19:36,943 INFO Looking up photos for 2026-11-07-news-4d776a: ['England national wheelchair rugby league team', 'Ireland national wheelchair rugby league team', 'Australia national wheelchair rugby league team', 'Rugby league wheelchair']
-2026-11-07 15:19:38,677 INFO Looking up photos for 2026-11-07-news-72308d: ['Taylor Swift', 'New York Knicks', 'Madison Square Garden', 'Miles McBride', 'Tyler Kolek']
-2026-11-07 15:19:38,880 INFO Photo for 'Taylor Swift': Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png (iHeartRadioCA, CC BY 3.0)
-2026-11-07 15:19:39,445 INFO Photo for 'Madison Square Garden': Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg (Ajay Suresh from New York, NY, USA, CC BY 2.0)
-2026-11-07 15:19:39,634 WARNING No free-licence photo for 'Miles McBride' (Deuce_McBride_interview,_2025_(01).png)
-2026-11-07 15:19:40,088 INFO Photo for 'Tyler Kolek': TylerKolek-byPhilipRomano.jpg (PhilipRomano, CC BY-SA 4.0)
-2026-11-07 15:19:40,088 INFO Looking up photos for 2026-11-07-hist-b4e3a9: ['Vitali Klitschko', 'Lennox Lewis', 'Mandalay Bay Events Center', 'Heavyweight boxing']
-2026-11-07 15:19:40,300 INFO Photo for 'Vitali Klitschko': EPP_Congress_2025_Valencia_Day_1_(54483888272)_(cropped).jpg (European People's Party, CC BY 2.0)
-2026-11-07 15:19:40,479 INFO Photo for 'Lennox Lewis': Lenox_Lewis_2010_cropped.jpg (-nikkon-, CC BY-SA 2.0)
-2026-11-07 15:19:40,679 INFO Photo for 'Mandalay Bay Events Center': Evo_2017_at_Mandalay_Bay_Events_Center.jpg (NeoChaosX, CC BY-SA 4.0)
-2026-11-07 15:19:40,679 INFO Looking up photos for 2026-11-07-athl-e0c0a0: ['Li Na', 'Jiang Shan']
-2026-11-07 15:19:40,889 INFO Photo for 'Li Na': Li_Na_January_2015.jpg (Tourism Victoria from Australia, CC BY 2.0)
-2026-11-07 15:19:41,326 INFO Wrote 5 new articles for 2026-11-07
-2026-11-07 15:19:41,583 INFO Exported 10 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-07
-2026-11-07 15:19:41,653 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
-2026-11-07 15:19:41,653 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-07 15:19:41,710 INFO Website built: 13 published stories, 75 pages
+2026-11-08 10:31:22,830 INFO BBC Sport                         58 items
+2026-11-08 10:31:22,944 INFO The Guardian Sport                22 items
+2026-11-08 10:31:23,033 INFO ESPN                               0 items
+2026-11-08 10:31:23,118 INFO Sky Sports                        15 items
+2026-11-08 10:31:23,273 INFO Google News – Sports (EN)         62 items
+2026-11-08 10:31:23,599 INFO Google News – 体育 (ZH)             41 items
+2026-11-08 10:31:24,084 INFO Google News – Спорт (RU)          50 items
+2026-11-08 10:31:25,048 INFO Championat                        30 items
+2026-11-08 10:31:25,818 INFO Sports.ru                         20 items
+2026-11-08 10:31:27,071 INFO Спорт-Экспресс                   507 items
+2026-11-08 10:31:27,894 INFO РИА Новости Спорт                 20 items
+2026-11-08 10:31:28,584 INFO 中国新闻网 体育                          28 items
+2026-11-08 10:31:28,885 INFO Google News – Cambodia sport       8 items
+2026-11-08 10:31:29,228 INFO Google News – Southeast Asia sport  22 items
+2026-11-08 10:31:29,821 INFO Candidate stories after clustering: 774
+2026-11-08 10:31:30,022 INFO Picked [russia football 4.5] «Спартак» — «Акрон»: онлайн-трансляция матча РПЛ начнётся в 16:15 мск
+2026-11-08 10:31:30,983 INFO Writing news (EN) ...
+2026-11-08 10:31:31,507 INFO Gemini models available: 24 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-08 10:31:31,658 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
+2026-11-08 10:31:31,658 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:31:31,658 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
+2026-11-08 10:33:29,696 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:35:27,753 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:37:45,807 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:37:45,943 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:37:56,638 INFO Adapting to zh, ru ...
+2026-11-08 10:39:54,720 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:42:12,841 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:42:24,898 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-08 10:44:43,019 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:44:54,662 INFO Picked [sea olympic 3.2] Tanvi Patri becomes first Indian woman to reach badminton semi-finals at Youth Olympics
+2026-11-08 10:44:54,662 INFO Writing news (EN) ...
+2026-11-08 10:44:54,789 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:45:29,947 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:46:05,117 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:46:05,235 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:46:16,226 INFO Adapting to zh, ru ...
+2026-11-08 10:46:16,355 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:48:14,470 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-08 10:48:36,635 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-08 10:48:48,908 INFO Picked [russia combat 4.0] Сборная России завоевала 21 золотую медаль на чемпионате мира по ММА в Тбилиси
+2026-11-08 10:48:49,579 INFO Writing news (EN) ...
+2026-11-08 10:48:49,723 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:48:49,842 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:00,286 INFO Adapting to zh, ru ...
+2026-11-08 10:49:00,443 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:00,618 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:12,400 INFO Writing history (EN) ...
+2026-11-08 10:49:12,546 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:12,669 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:24,174 INFO Adapting to zh, ru ...
+2026-11-08 10:49:24,324 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:24,449 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:38,488 INFO Writing athlete_story (EN) ...
+2026-11-08 10:49:38,637 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:38,765 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:51,164 INFO Adapting to zh, ru ...
+2026-11-08 10:49:51,300 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:49:51,426 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-08 10:50:06,413 INFO Looking up photos for 2026-11-08-news-a142ae: ['Spartak Moscow', 'Lukoil Arena', 'Russian Premier League']
+2026-11-08 10:50:06,849 INFO Photo for 'Lukoil Arena': Стадион_«Лукойл_Арена»_в_Москве_(08.01.2024)_01.jpg (Brateevsky, CC BY-SA 4.0)
+2026-11-08 10:50:07,180 INFO Looking up photos for 2026-11-08-news-572a7a: ['Tanvi Patri', 'Badminton', 'Youth Olympic Games']
+2026-11-08 10:50:07,507 INFO Photo for 'Badminton': Olympics_2012_Mixed_Doubles_Final.jpg (Peter, CC BY-SA 2.0)
+2026-11-08 10:50:07,553 WARNING No free-licence photo for 'Youth Olympic Games' (Youth_Olympic_Games_Logo_Third_Version.svg)
+2026-11-08 10:50:07,553 INFO Looking up photos for 2026-11-08-news-c27a54: ['Mixed martial arts', 'Tbilisi', 'International Mixed Martial Arts Federation']
+2026-11-08 10:50:07,640 INFO Photo for 'Mixed martial arts': UFC_131_Carwin_vs._JDS.jpg (Bad intentionz, CC BY-SA 3.0)
+2026-11-08 10:50:07,743 INFO Photo for 'Tbilisi': View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg (Alexey Komarov, CC BY-SA 4.0)
+2026-11-08 10:50:08,214 INFO Looking up photos for 2026-11-08-hist-d0bdce: ['Rajamangala Stadium', 'Thailand national football team', 'AFF Championship', 'Kiatisuk Senamuang', 'Theerathon Bunmathan', 'Charyl Chappuis']
+2026-11-08 10:50:08,313 INFO Photo for 'Rajamangala Stadium': Rajamangala_Stadium_in_Bangkok.jpg (AsianFC, CC BY 2.0)
+2026-11-08 10:50:08,835 WARNING No free-licence photo for 'AFF Championship' (2024_ASEAN_United_FC_logo.svg)
+2026-11-08 10:50:08,987 WARNING No free-licence photo for 'Kiatisuk Senamuang' (Kiatisuk_Senamuang_2017_(cropped).jpg)
+2026-11-08 10:50:09,095 INFO Photo for 'Theerathon Bunmathan': 250930_FC_서울_vs_부리람_(Theerathon_Bunmathan).jpg (Explicit, CC BY-SA 4.0)
+2026-11-08 10:50:09,299 INFO Photo for 'Charyl Chappuis': Chappuis_Charyl.jpg (www.thai-fussball.com, CC BY 3.0)
+2026-11-08 10:50:09,299 INFO Looking up photos for 2026-11-08-athl-c8fafa: ['Sorn Seavmey', 'Taekwondo', 'Asian Games', 'Phnom Penh']
+2026-11-08 10:50:09,394 INFO Photo for 'Sorn Seavmey': ស៊ន_សៀវម៉ី_(cropped).jpg (Hun Thnot, CC BY-SA 4.0)
+2026-11-08 10:50:09,472 INFO Photo for 'Taekwondo': Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg (Javid Nikpour/Tasnim, CC BY 4.0)
+2026-11-08 10:50:09,520 WARNING No free-licence photo for 'Asian Games' (Asian_Games_logo.svg)
+2026-11-08 10:50:09,603 INFO Photo for 'Phnom Penh': Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg (Looppty, CC BY-SA 4.0)
+2026-11-08 10:50:09,645 INFO Wrote 5 new articles for 2026-11-08
+2026-11-08 10:50:09,747 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-08
+2026-11-08 10:50:09,878 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
+2026-11-08 10:50:09,878 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-08 10:50:09,937 INFO Website built: 14 published stories, 78 pages
