@@ -1,5 +1,326 @@
 [
   {
+    "id": "2026-11-08-hist-057248",
+    "slug": "when-washington-redrew-the-gridiron-the-1966-antitrust-exemp",
+    "date": "2026-11-08",
+    "created": "2026-11-08T22:37:55+07:00",
+    "type": "history",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "American Football",
+    "tags": [
+      "NFL",
+      "AFL",
+      "Lyndon B. Johnson",
+      "Sports History",
+      "American Football"
+    ],
+    "athletes": [
+      "Lyndon B. Johnson"
+    ],
+    "image_subjects": [
+      "Lyndon B. Johnson",
+      "National Football League",
+      "American Football League"
+    ],
+    "facts_to_verify": [
+      "Exact wording of the legislation signed on November 8, 1966",
+      "Full list of congressional sponsors for the 1966 NFL-AFL antitrust exemption bill"
+    ],
+    "sources": [
+      {
+        "title": "Lyndon B. Johnson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+      },
+      {
+        "title": "Competition law - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Competition_law"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "When Washington Redrew the Gridiron: The 1966 Antitrust Exemption",
+      "subheadline": "On November 8, 1966, U.S. President Lyndon B. Johnson signed an antitrust exemption that cleared the path for the NFL and AFL to unite, reshaping professional football forever.",
+      "body_markdown": "On November 8, 1966, the landscape of American professional sports shifted permanently inside the Oval Office. U.S. President Lyndon B. Johnson signed into law a crucial antitrust exemption, paving the way for the National Football League and the upstart American Football League to merge into a single, unified juggernaut.\n\nThe stroke of the president's pen ended years of bitter financial warfare between the two rival leagues. Before the legislative intervention, the fierce competition for talent and stadium rights had driven player salaries to unsustainable heights and threatened to bankrupt multiple franchises on both sides. \n\n## The Legislative Path to Unity\n\nThe road to the November 8 legislation required delicate political maneuvering in Washington, D.C. The established NFL, operating under strict federal antitrust scrutiny, needed legal protection from the U.S. Department of Justice to absorb its aggressive young competitor without violating federal competition law.\n\nBy attaching the merger approval to an unrelated tax bill, congressional leaders and league executives secured the necessary votes. President Johnson, known for his formidable legislative prowess as a former Senate Majority Leader, signed the measure into law, effectively granting the combined entity a limited antitrust exemption specifically tailored to allow the absorption of AFL teams.\n\n## A New Era for the Sport\n\nThe agreement stipulated that the two leagues would maintain separate regular-season schedules before merging completely under the NFL banner in 1970. It also guaranteed the survival of all existing franchises, laying the groundwork for the modern conference structure that fans recognize today.\n\nThe result leaves a legacy that extends far beyond the boardroom battles of the 1960s. The merger directly enabled the creation of the common championship game—now known globally as the Super Bowl—and transformed professional football into the most commercially successful sports league in the United States, influencing sports broadcasting and entertainment economies worldwide.",
+      "social_post": "On this day in 1966, U.S. President Lyndon B. Johnson signed an antitrust exemption that united the NFL and AFL, creating the modern landscape of professional football. How did this historic merger shape the sport you watch today? Let us know your thoughts below! #NFL #AFL #AmericanFootball #SportsHistory"
+    },
+    "zh": {
+      "headline": "华盛顿如何重塑美式橄榄球版图：1966年反垄断豁免权背后的故事",
+      "subheadline": "1966年11月8日，美国总统林登·约翰逊签署了一项反垄断豁免法案，为NFL与AFL的合并扫清了道路，并永远改变了职业橄榄球的面貌。",
+      "body_markdown": "1966年11月8日，美国职业体育的格局在白宫椭圆形办公室里发生了永久性的改变。当时的美国总统林登·约翰逊（Lyndon B. Johnson）签署了一项至关重要的反垄断豁免法案，为国家橄榄球联盟（NFL）与来势汹汹的竞争对手美国橄榄球联盟（AFL）最终合二为一、打造一个巨无霸级别的单一联盟铺平了道路。\n\n总统落笔的那一刻，宣告了两大联盟多年来水火不容的财务之争正式画上句号。在国会介入之前，双方为了争夺球星和球场资源展开了惨烈竞争，导致球员薪资水涨船高，达到了不可持续的高度，甚至让双方阵营中的多家球队濒临破产。\n\n## 通往团结的立法之路\n\n11月8日这项法案的通过，离不开华盛顿特区微妙的政治运作。老牌的NFL一直受到联邦反垄断法的严格审查，要想在不违反联邦竞争法的前提下吞并这个气势汹汹的年轻对手，他们急需来自美国司法部的法律保护。\n\n通过将合并审批附在一条毫无关联的税收法案上，国会领袖与联盟高层终于凑够了所需的票数。约翰逊总统曾任参议院多数党领袖，以其强大的政治手腕闻名。他最终签署了该法案，等于变相授予了合并后的实体一项量身定制的有限反垄断豁免权，专为接纳AFL球队开绿灯。\n\n## 属于这项运动的新纪元\n\n协议规定，两个联盟在1970年正式以NFL的名义完全合流之前，将各自维持原有的常规赛赛程。同时，它也确保了所有现有球队得以存续，为球迷们如今熟知的现代分区结构打下了坚实基础。\n\n这一成果所留下的遗产，早已远远超出了20世纪60年代的董事会博弈。正是这场合并直接催生了共同的冠军赛——也就是如今享誉全球的超级碗（Super Bowl），并将职业橄榄球推上了美国商业最成功的体育联盟宝座，进而对全球的体育转播和娱乐经济产生了深远影响。",
+      "social_post": "1966年的今天，美国总统林登·约翰逊签署了一项反垄断豁免法案，促成了NFL和AFL的合并，奠定了现代职业橄榄球的格局。这场历史性的合并是如何塑造你今天看到的比赛的？快在评论区和我们聊聊！ #NFL #AFL #美式橄榄球 #体育历史"
+    },
+    "ru": {
+      "headline": "Как Вашингтон перекроил карту американского футбола: антимонопольное исключение 1966 года",
+      "subheadline": "8 ноября 1966 года президент США Линдон Джонсон подписал антимонопольный закон, открывший путь к слиянию НФЛ и АФЛ и навсегда изменивший ландшафт профессионального спорта.",
+      "body_markdown": "8 ноября 1966 года в Овальном кабинете навсегда изменился облик американского профессионального спорта. Президент США Линдон Джонсон подписал важнейший закон об антимонопольном исключении, проложивший путь к объединению Национальной футбольной лиги (НФЛ) и дерзкой молодой Американской футбольной лиги (АФЛ) в единого, мощного гиганта.\n\nросчерк президентского пера положил конец годам ожесточенной финансовой войны между двумя враждующими лигами. До этого вмешательства законодателей яростная борьба за звездных игроков и стадионы взвинчивала зарплаты футболистов до запредельных высот и грозила банкротством сразу нескольким франшизам с обеих сторон.\n\n## Законодательный путь к единству\n\nДорога к закону от 8 ноября потребовала тонких политических маневров в Вашингтоне. Стабильная НФЛ, действовавшая в условиях жесткого федерального антимонопольного контроля, нуждалась в правовой защите со стороны Министерства юстиции США, чтобы поглотить агрессивного молодого конкурента без нарушения антимонопольного законодательства.\n\nПривязав одобрение слияния к совершенно не связанному с ним налоговому законопроекту, лидеры Конгресса и функционеры лиги обеспечили необходимые голоса. Президент Джонсон, известный своим гроссмейстерским политическим искусством еще со времен работы лидером демократического большинства в Сенате, подписал документ, фактически предоставив объединенной структуре ограниченное антимонопольное исключение, специально созданное для поглощения клубов АФЛ.\n\n## Новая эра для этого вида спорта\n\nСоглашение предусматривало, что обе лиги сохранят раздельные расписания регулярного чемпионата, прежде чем окончательно объединиться под эгидой НФЛ в 1970 году. Оно также гарантировало выживание всех существовавших на тот момент клубов, заложив фундамент современной конферентной структуры, к которой так привыкли болельщики.\n\nЭто решение оставило наследие, далеко выходящее за рамки кулуарных баталий 1960-х. Именно слияние непосредственно позволило создать общую финальную игру — известную сегодня во всем мире как Супербоул (Super Bowl) — и превратило профессиональный футбол в самую коммерчески успешную спортивную лигу Соединенных Штатов, оказав огромное влияние на индустрию спортивных трансляций и всю мировую индустрию развлечений.",
+      "social_post": "В этот день в 1966 году президент США Линдон Джонсон подписал антимонопольное исключение, объединившее НФЛ и АФЛ и создавшее современный облик американского футбола. Как это историческое слияние повлияло на игру, которую вы смотрите сегодня? Делитесь мнением в комментариях! #НФЛ #АФЛ #АмериканскийФутбол #ИсторияСпорта"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_color_(3x4_cropped)(2).jpg",
+        "artist": "Arnold Newman",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Photo portrait of President Lyndon B. Johnson in the Oval Office, leaning on a chair.",
+        "width": 1200,
+        "height": 1584,
+        "subject": "Lyndon B. Johnson"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 306 words (minimum 400 for history). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact wording of the legislation signed on November 8, 1966"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Full list of congressional sponsors for the 1966 NFL-AFL antitrust exemption bill"
+      }
+    ],
+    "auto_rejected": [
+      "too short (306 words, minimum 400)"
+    ]
+  },
+  {
+    "id": "2026-11-08-news-475410",
+    "slug": "stepan-bortnik-claims-silver-for-russia-in-cycling-at-dakar-",
+    "date": "2026-11-08",
+    "created": "2026-11-08T22:37:08+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "olympic",
+    "tags": [
+      "Youth Olympic Games",
+      "Dakar 2026",
+      "Cycling",
+      "Stepan Bortnik",
+      "Road Cycling"
+    ],
+    "athletes": [
+      "Stepan Bortnik"
+    ],
+    "image_subjects": [
+      "Stepan Bortnik",
+      "Cycling",
+      "Youth Olympic Games",
+      "Dakar"
+    ],
+    "facts_to_verify": [
+      "Exact discipline details within road cycling (e.g., individual time trial or road race) if additional split results emerge."
+    ],
+    "sources": [
+      {
+        "title": "Российский велогонщик Бортник завоевал серебро юношеской Олимпиады в Дакаре - Спорт-Экспресс",
+        "url": "https://www.sport-express.ru/olympics/summer/cycling-road/news/rossiyskiy-velogonschik-bortnik-zavoeval-serebro-yunosheskoy-olimpiady-v-dakare-2472508/"
+      },
+      {
+        "title": "Бортник завоевал серебро юношеских Олимпийских игр в велоспорте на шоссе - РИА Новости Спорт",
+        "url": "https://rsport.ria.ru/"
+      },
+      {
+        "title": "РИА Новости Спорт: Бортник завоевал серебро юношеских Олимпийских игр в велоспорте на шоссе",
+        "url": "https://ria.ru/20261108/velosport-2130125469.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Stepan Bortnik Claims Silver for Russia in Cycling at Dakar 2026 Youth Olympic Games",
+      "subheadline": "The young cyclist secures a milestone podium finish on Saturday in Senegal, marking a prominent success for Russian competitors at the global youth gathering.",
+      "body_markdown": "Cyclist Stepan Bortnik earned the silver medal in the road cycling events at the Youth Olympic Games in Dakar, Senegal, on Saturday, November 8, 2026. The result delivers a significant international achievement for the young Russian athlete on one of multi-sport's grandest global stages.\n\nMajor domestic sports agencies, including Sport-Express and RIA Novosti Sport, confirmed the podium finish. Bortnik navigated the demanding road course against a competitive international field, securing second place and etching his name into the ongoing competitions in West Africa.\n\n## A Historic African Milestone\n\nThe 2026 Youth Olympic Games hold profound significance for the Olympic movement as the first-ever Olympic event hosted on the African continent. Dakar serves as the host city, welcoming thousands of elite teenage athletes across multiple disciplines. For road cycling competitors, the championship offers not only medals but invaluable experience in championship tactical racing under international federation supervision.\n\n## Looking Ahead\n\nAs the Dakar schedule continues, attention turns to the remaining disciplines and how emerging talents adapt to the Senegalese climate and course conditions. Bortnik's silver medal stands as a testament to rigorous preparation in youth sports development, setting a high standard for upcoming events on the international calendar.",
+      "social_post": "Russian cyclist Stepan Bortnik captured silver at the Dakar 2026 Youth Olympic Games on Saturday! A brilliant milestone for the young rider at the historic first African-hosted Olympics. What do you think of the competition in Senegal so far? Let us know below! #YouthOlympics #Dakar2026 #Cycling #TeamRussia"
+    },
+    "zh": {
+      "headline": "斯捷潘·博特尼克在2026年达喀尔青奥会为俄罗斯斩获自行车银牌",
+      "subheadline": "这位年轻的自行车手于周六在塞内加尔收获里程碑式的领奖台席位，这也是俄罗斯选手在世界青年体育盛会上取得的又一显赫佳绩。",
+      "body_markdown": "当地时间2026年11月8日星期六，在塞内加尔达喀尔进行的青年奥林匹克运动会公路自行车项目上，中国车迷口中的俄罗斯新星斯捷潘·博特尼克（Stepan Bortnik）表现出色，赢得了宝贵的银牌。这一战果不仅让这位年轻的俄罗斯运动员在世界最高级别的综合性体育舞台上实现了重大突破，也为国争光。\n\n包括《体育快报》（Sport-Express）和俄新社体育频道（RIA Novosti Sport）在内的俄罗斯主流体育媒体均证实了这一喜讯。面对实力强劲的国际顶尖好手，博特尼克顶住压力，沉着应对极具挑战性的公路赛道，最终将亚军奖牌收入囊中，在西非这片热土上刻下了自己的名字。\n\n## 具有历史意义的非洲首秀\n\n2026年达喀尔青奥会对奥林匹克运动而言具有深远的历史意义——这是奥林匹克历史上首次将赛事办到非洲大陆。达喀尔作为主办城市，迎来了来自全球各个项目、成千上万的精英青少年运动员。对公路自行车选手而言，这不仅是一场争夺奖牌的较量，更是在国际自行车联盟监督下积累大赛战术经验的绝佳契机。\n\n## 展望未来\n\n随着达喀尔青奥会赛程的深入，人们的目光开始转向接下来的各个项目，以及年轻新秀们将如何适应塞内加尔独特的气候与赛道条件。博特尼克这枚沉甸甸的银牌，正是俄罗斯青少年体育扎实备战的最佳印证，也为接下来的国际大赛树立了高标准。",
+      "social_post": "俄罗斯自行车手斯捷潘·博特尼克于周六在2026年达喀尔青奥会上勇夺银牌！对于这位年轻车手而言，在历史上首次于非洲举办的奥运会上斩获佳绩，堪称一座里程碑。大家觉得目前在塞内加尔进行的比赛怎么样？快在评论区告诉我们吧！#青奥会 #达喀尔2026 #自行车 #俄罗斯代表团"
+    },
+    "ru": {
+      "headline": "Степан Бортник завоевал серебро в велоспорте на юношеских Олимпийских играх в Дакаре в 2026 году",
+      "subheadline": "В субботу в Сенегале молодой велогонщик добился исторического успеха, поднявшись на пьедестал почета на глобальном молодежном форуме.",
+      "body_markdown": "В субботу, 8 ноября 2026 года, российский велогонщик Степан Бортник завоевал серебряную медаль в шоссейной гонке на юношеских Олимпийских играх в сенегальском Дакаре. Этот результат стал значимым международным достижением для молодого отечественного спортсмена на одной из крупнейших мировых мультиспортивных аренах.\n\nВедущие спортивные агентства страны, включая «Спорт-Экспресс» и «РИА Новости Спорт», подтвердили этот успех. Бортник успешно справился со сложной трассой в условиях жесткой конкуренции с сильнейшими международными соперниками, заняв второе место и вписав свое имя в историю соревнований в Западной Африке.\n\n## Исторический африканский рубеж\n\nЮношеские Олимпийские игры 2026 года имеют особое значение для олимпийского движения, поскольку они впервые в истории проходят на Африканском континенте. Дакар принял тысячи элитных спортсменов-подростков в различных дисциплинах. Для участников соревнований по шоссейному велоспорту это первенство дает не только медали, но и бесценный опыт тактической борьбы под эгидой международной федерации.\n\n## Взгляд в будущее\n\nПо мере продолжения соревновательной программы в Дакаре все внимание переключается на оставшиеся дисциплины и на то, как молодые таланты адаптируются к сенегальскому климату и особенностям трассы. Серебряная медаль Бортника служит наглядным подтверждением качества подготовки в системе юношеского спорта и задает высокую планку для предстоящих стартов на международном календаре.",
+      "social_post": "Российский велогонщик Степан Бортник завоевал серебро на юношеских Олимпийских играх 2026 года в Дакаре в эту субботу! Блестящее достижение для молодого спортсмена на исторической первой африканской Олимпиаде. Что думаете о соревнованиях в Сенегале? Пишите в комментариях! #ЮношескиеОИ #Дакар2026 #Велоспорт #КомандаРоссии"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cycliste_%C3%A0_place_d%27Italie-Paris_crop.jpg/1280px-Cycliste_%C3%A0_place_d%27Italie-Paris_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cycliste_%C3%A0_place_d%27Italie-Paris_crop.jpg",
+        "artist": "This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en] ) . Feel free to use my pictures, but please credit me a",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cycliste sur le pavé de la place d'Italie à Paris, un jour de neige.",
+        "width": 1200,
+        "height": 1000,
+        "subject": "Cycling"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dakar-Ind%C3%A9pendance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Dakar-Ind%C3%A9pendance.jpg",
+        "artist": "mostroneddo",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "La place de l'Indépendance à Dakar (Sénégal). En arrière-plan le port et Gorée.",
+        "width": 1200,
+        "height": 799,
+        "subject": "Dakar"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'first-ever': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 200 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact discipline details within road cycling (e.g., individual time trial or road race) if additional split results emerge."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://rsport.ria.ru/"
+      }
+    ],
+    "auto_rejected": [
+      "too short (200 words, minimum 250)"
+    ]
+  },
+  {
+    "id": "2026-11-08-news-e5a246",
+    "slug": "spartak-moscow-goalkeeper-aleksandr-maksimenko-receives-seco",
+    "date": "2026-11-08",
+    "created": "2026-11-08T22:36:02+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Aleksandr Maksimenko",
+      "Spartak Moscow",
+      "Akron Tolyatti",
+      "Russian Premier League",
+      "Football"
+    ],
+    "athletes": [
+      "Aleksandr Maksimenko"
+    ],
+    "image_subjects": [
+      "Aleksandr Maksimenko",
+      "FC Spartak Moscow",
+      "Russian Premier League"
+    ],
+    "facts_to_verify": [
+      "Exact minute of the red card incident against Akron",
+      "Final match score between Spartak Moscow and Akron on November 8, 2026",
+      "Length of the resulting suspension issued by the Russian Football Union"
+    ],
+    "sources": [
+      {
+        "title": "Александр Максименко получил вторую красную карточку в РПЛ сезона-2026/2027",
+        "url": "https://www.championat.com/football/news-6691278-aleksandr-maksimenko-poluchil-vtoruyu-krasnuyu-kartochku-v-rpl-sezona-2026-2027.html"
+      },
+      {
+        "title": "Александр Максименко получил вторую красную карточку в сезоне РПЛ",
+        "url": "https://rsport.ria.ru/"
+      },
+      {
+        "title": "РИА Новости Спорт: Александр Максименко получил вторую красную карточку в сезоне РПЛ",
+        "url": "https://ria.ru/20261108/spartak-2130153249.html"
+      },
+      {
+        "title": "Спорт-Экспресс: «Спартак» — «Акрон»: Максименко получил красную карточку",
+        "url": "https://www.sport-express.ru/football/rfpl/news/spartak-akron-maksimenko-udalen-na-83-y-minute-matcha-rpl-2472542/"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Spartak Moscow Goalkeeper Aleksandr Maksimenko Receives Second Red Card of Russian Premier League Season",
+      "subheadline": "The dismissal occurred during the league fixture against Akron, marking a notable disciplinary milestone for the veteran shot-stopper.",
+      "body_markdown": "Spartak Moscow goalkeeper Aleksandr Maksimenko was sent off during the Russian Premier League match against Akron on Saturday, November 8, 2026. The incident resulted in the second red card of the domestic league campaign for the 28-year-old custodian.\n\nWhile match officials and disciplinary committees review the full report to determine any subsequent suspension length, disciplinary interruptions for goalkeepers remain a rarity in top-flight Russian football. Maksimenko, a long-serving figure at Spartak, now faces a spell on the sidelines that will test the club's defensive depth as the winter break approaches.\n\n## Disciplinary Record in Focus\n\nReceiving multiple red cards in a single top-flight season is an unusual occurrence for a starting goalkeeper, drawing immediate attention from statisticians and analysts across the Russian Premier League. Teams typically rely on stability between the posts, making sudden suspensions a significant tactical hurdle for coaching staff.\n\n## Implications for Spartak Moscow\n\nFor Mak, Maksimenko's absence forces a reshuffle in the matchday squad as Spartak navigates a demanding stretch of fixtures. Backup options will need to step up immediately to maintain the club's league ambitions, while the coaching staff addresses defensive discipline on the training ground.",
+      "social_post": "Spartak Moscow goalkeeper Aleksandr Maksimenko has received his second red card of the 2026/2027 Russian Premier League season during the clash against Akron. How will this disciplinary setback affect Spartak's upcoming fixtures? Let us know your thoughts below! #SpartakMoscow #RPL #RussianFootball #FootballNews"
+    },
+    "zh": {
+      "headline": "莫斯科斯巴达门将马克西缅科吃到本赛季俄超第二张红牌",
+      "subheadline": "在对阵阿克伦的联赛中染红，这位经验丰富的门将迎来了职业生涯罕见的纪律危机。",
+      "body_markdown": "2026年11月8日星期六，在俄超联赛对阵阿克伦的比赛中，莫斯科斯巴达门将亚历山大·马克西缅科（Aleksandr Maksimenko）被红牌罚下。对于这位28岁的门将而言，这是他在本赛季国内联赛中吃到的第二张红牌。\n\n尽管裁判和纪律委员会目前正在审核完整报告以确定具体的禁赛场次，但在俄罗斯顶级联赛中，门将因纪律问题频繁受罚依然极其罕见。作为斯巴达的功勋老臣，马克西缅科如今将面临禁赛作壁上观的窘境，随着冬歇期临近，这也将考验俱乐部的防线阵容深度。\n\n## 纪律风波备受瞩目\n\n对于一名主力门将而言，在单赛季顶级联赛中多次染红是极不寻常的现象，这也迅速引起了俄超数据专家和分析人士的关注。球队通常极度依赖门前位置的稳定性，因此突如其来的停赛对教练组而言无疑是一大战术难题。\n*（注：“Mak”为马克西缅科的昵称）*\n\n## 对莫斯科斯巴达的影响\n\n对于「马克」来说，他的缺阵迫使球队在赛程密集之际不得不重新排兵布阵。随着斯巴达要应对一系列高难度的比赛，替补门将必须挺身而出以维系俱乐部的联赛争冠雄心，而教练组也急需在训练场上抓好防守纪律。",
+      "social_post": "莫斯科斯巴达门将亚历山大·马克西缅科在对阵阿克伦的比赛中，吃到了2026/2027赛季俄超联赛的个人第二张红牌。这次纪律危机将如何影响斯巴达接下来的一系列比赛？快在评论区留下你的看法！#莫斯科斯巴达 #俄超联赛 #俄罗斯足球 #足球新闻"
+    },
+    "ru": {
+      "headline": "Голкипер «Спартака» Александр Максименко получил вторую красную карточку в сезоне РПЛ",
+      "subheadline": "Удаление произошло в матче против «Акрона», став знаковым и редким дисциплинарным эпизодом для опытного стража ворот.",
+      "body_markdown": "В субботу, 8 ноября 2026 года, вратарь московского «Спартака» Александр Максименко был удален с поля в матче российской Премьер-лиги против «Акрона». Для 28-летнего голкипера это удаление стало уже вторым в нынешнем розыгрыше национального первенства.\n\nПока официальные лица и КДК изучают полный отчет, чтобы определить срок возможной дисквалификации, дисциплинарные санкции в отношении вратарей остаются большой редкостью в отечественном элитном футболе. Максименко, являющийся старожилом «красно-белых», теперь столкнулся с периодом вне игры, который проверит на прочность глубину состава команды в преддверии зимней паузы.\n\n## В центре внимания — дисциплина\n\nПолучение нескольких красных карточек за один сезон для основного вратаря — явление неординарное, сразу привлекшее внимание статистиков и аналитиков всей Российской Премьер-лиги. Команды традиционно рассчитывают на стабильность на последнем рубеже, поэтому внезапные дисквалификации создают серьезную тактическую головную боль для тренерского штаба.\n\n## Последствия для «Спартака»\n\nОтсутствие Макса вынуждает тренерский штаб перекраивать заявку на матчи в разгар тяжелейшего отрезка календаря. Бэкапам придется проявить себя незамедлительно, чтобы помочь клубу в решении турнирных задач, в то время как тренеры должны уделить особое внимание оборонительной дисциплине на тренировочной базе.",
+      "social_post": "Голкипер московского «Спартака» Александр Максименко схлопотал вторую красную карточку в сезоне РПЛ 2026/2027 в матче против «Акрона». Как эта потеря отразится на ближайших играх команды? Пишите свое мнение в комментариях! #СпартакМосква #РПЛ #РоссийскийФутбол #НовостиФутбола"
+    },
+    "region": "russia",
+    "images": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 197 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact minute of the red card incident against Akron"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Final match score between Spartak Moscow and Akron on November 8, 2026"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Length of the resulting suspension issued by the Russian Football Union"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://rsport.ria.ru/"
+      }
+    ],
+    "auto_rejected": [
+      "too short (197 words, minimum 250)"
+    ]
+  },
+  {
     "id": "2026-11-08-athl-c8fafa",
     "slug": "sorn-seavmey-and-the-kicks-that-put-cambodian-taekwondo-on-t",
     "date": "2026-11-08",
