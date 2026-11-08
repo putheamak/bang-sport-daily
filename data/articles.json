@@ -5,7 +5,7 @@
     "date": "2026-11-08",
     "created": "2026-11-08T17:50:06+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Taekwondo",
     "tags": [
@@ -114,7 +114,8 @@
     "lang_updated": {
       "zh": "2026-11-08T18:06:22+07:00",
       "ru": "2026-11-08T18:06:22+07:00"
-    }
+    },
+    "published_at": "2026-11-08T18:10:11+07:00"
   },
   {
     "id": "2026-11-08-hist-d0bdce",
