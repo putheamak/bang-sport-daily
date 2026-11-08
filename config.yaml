@@ -82,7 +82,10 @@ boost: ["world cup", "champions league final", "olympics", "nba finals", "grand 
 block: ["betting tips", "odds", "casino", "fantasy picks", "live stream free", "прогноз на матч", "ставки", "博彩",
         # gossip and non-sport (not news for this site)
         "net worth", "how rich", "girlfriend", "boyfriend", "is dating", "are dating", "divorce", "pregnant", "taylor swift",
-        "find husband", "find a wife", "tourism", "travel route", "旅游", "消费季", "绯闻", "恋情", "роман с", "развод"]
+        "find husband", "find a wife", "tourism", "travel route", "旅游", "消费季", "绯闻", "恋情", "роман с", "развод",
+        # previews / "where to watch" items (no result yet, nothing to report)
+        "how to watch", "where to watch", "live stream", "start time", "kick-off time", "prediction", "preview:",
+        "во сколько начало", "где смотреть", "онлайн-трансляция", "прямая трансляция", "прогноз", "直播", "前瞻"]
 
 # ---------- Publishing ----------
 publish:

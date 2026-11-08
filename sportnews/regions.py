@@ -76,9 +76,9 @@ def deficits(cfg: dict, c: dict, extra: int = 1) -> list[tuple[str, float]]:
 
 
 def pick_balanced(cfg: dict, items: list[dict], n: int, c: dict, max_per_sport: int = 1,
-                  min_share: float = 0.35) -> list[dict]:
+                  min_share: float = 0.6) -> list[dict]:
     """Choose n news items, each time from the region furthest behind its target that has a good candidate.
-    'Good' = score at least `min_share` of the best score available (quality first)."""
+    'Good' = score at least `min_share` (60%) of the best score available (quality first)."""
     c = dict(c)
     pool = sorted(items, key=lambda x: -x["score"])
     for it in pool:
