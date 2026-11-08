@@ -5,7 +5,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T22:19:35+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.7-flash",
     "sport": "Tennis",
     "tags": [
@@ -75,7 +75,8 @@
         "subject": "Li Na"
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-08T17:24:41+07:00"
   },
   {
     "id": "2026-11-07-hist-b4e3a9",
