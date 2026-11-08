@@ -10,20 +10,22 @@ Taekwondo entered her life almost by chance as she followed her older siblings i
 
 ## Making history in Incheon
 
-The defining turning point of her athletic life arrived at the 2014 Asian Games in Incheon, South Korea. Competing in the women's under-73kg category, the then-19-year-old fighter advanced through the rounds with remarkable composure against seasoned continental opponents. In the gold medal match, she faced Iran's Akram Khodabandeh, securing a disciplined victory that stunned the taekwondo establishment. 
+The defining turning point of her athletic life arrived at the 2014 Asian Games in Incheon, South Korea. Competing in the women's under-73kg category, the then-19-year-old fighter advanced through the rounds with remarkable composure against seasoned continental opponents. In the gold medal match she beat her Iranian opponent 7-4. 
 
-The result carried profound historical weight. When the referee raised her hand, Seavmey secured Cambodia's first-ever Asian Games gold medal in any sport, ending a drought that had persisted since the kingdom first participated in the continental multi-sport event in 1954. The triumph triggered spontaneous celebrations across Phnom Penh, where thousands of supporters greeted her return at the international airport.
+The result carried profound historical weight. When the referee raised her hand, Seavmey secured Cambodia's first-ever Asian Games gold medal in any sport, ending a drought that had persisted since the kingdom first participated in the continental multi-sport event in 1954. The triumph triggered spontaneous celebrations across Phnom Penh, where crowds of supporters greeted her return at the international airport.
 
 ## Overcoming adversity and carrying the flag
 
-Success on the continental stage brought intense public scrutiny and the heavy burden of expectation. Subsequent years tested her resilience through injuries and the rising standard of international competition. Despite the physical toll, Seavmey continued to represent Cambodia on the grandest stages, serving as the nation's flag bearer at the opening ceremony of the 2016 Olympic Games in Rio de Janeiro, where she competed as one of the country's premier medal hopes.
+Success on the continental stage brought intense public scrutiny and the heavy burden of expectation. Subsequent years tested her resilience through injuries and the rising standard of international competition. Despite the physical toll, Seavmey continued to represent Cambodia on the grandest stages, serving as the nation's flag bearer at the opening ceremony of the 2016 Olympic Games in Rio de Janeiro She competed in the women's +67kg division and lost in the round of 16 to Reshmie Oogink of the Netherlands. In Southeast Asia she won SEA Games gold four times: in 2013, 2017, 2019 and, on home soil in Phnom Penh, in 2023.
 
-The road to subsequent Olympic cycles was fraught with setbacks, including qualification hurdles and the disruptions of the global sporting calendar. Yet her presence at major championships remained a powerful symbol for youth development in Southeast Asia. Alongside her sisters, who also competed at high levels in martial arts, Seavmey helped establish taekwondo as one of the most accessible and successful Olympic disciplines for Cambodian athletes.
+The road to subsequent Olympic cycles was fraught with setbacks, including qualification hurdles and the disruptions of the global sporting calendar. Yet her presence at major championships remained a powerful symbol for youth development in Southeast Asia. Alongside her sister Sorn Davin and brother Sorn Elit, who also practise taekwondo, Seavmey helped establish taekwondo as one of the most accessible and successful Olympic disciplines for Cambodian athletes.
 
 Today, the legacy of Sorn Seavmey extends far beyond her medals and trophies. She remains a central figure in Cambodian sport, inspiring a new generation of girls and boys who lace up their protective gear in local clubs across the country. Her journey from the training halls of Phnom Penh to the highest podium in Incheon demonstrates how unwavering dedication can reshape the athletic identity of an entire nation.
 
 ---
 **Sources**
 
-- [Sorn Seavmey - Wikipedia](https://en.wikipedia.org/wiki/Sorn_Seavmey)
-- [Cambodia wins first-ever Asian Games gold - The Phnom Penh Post](https://www.phnompenhpost.com)
+- [Wikipedia: Sorn Seavmey](https://en.wikipedia.org/wiki/Sorn_Seavmey)
+- [Olympics.com: Sorn Seavmey, my life as Cambodia's golden girl](https://olympics.com/en/news/sorn-seavmey-cambodia-taekwondo-golden-girl-sea-games)
+- [Cambodia Daily: Taekwondo gold medal winner returns to hero's welcome](https://english.cambodiadaily.com/news/taekwondo-gold-medal-winner-returns-to-heros-welcome-69217/)
+- [Olympedia: Sorn Seavmey](https://www.olympedia.org/athletes/129395)
