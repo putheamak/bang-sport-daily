@@ -270,6 +270,8 @@ def audit(cfg: dict, articles: list[dict], today: str, links: bool | None = None
             continue
         lines += [f"## {a['en'].get('headline', a['id'])}", f"`{a['id']}` · {a.get('status')} · {a.get('date')}", ""]
         lines += [f"- {x}" for x in summary_lines(issues, 30)] + [""]
+    from .regions import balance_line, counts
+    lines.insert(4, "Regional balance (last 7 days): " + balance_line(cfg, counts(articles, today)))
     lines.insert(4, f"Totals: ⛔ {totals['BLOCK']} · ⚠️ {totals['WARN']} · ℹ️ {totals['INFO']} · broken links: {broken_total}")
     lines.insert(5, "")
     if totals["BLOCK"] == totals["WARN"] == 0:

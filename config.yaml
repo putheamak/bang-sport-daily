@@ -79,7 +79,10 @@ sports:
 # Extra score for the biggest events
 boost: ["world cup", "champions league final", "olympics", "nba finals", "grand slam", "wimbledon", "super bowl",
         "ballon d'or", "record", "world record", "世界杯", "奥运", "чемпионат мира", "олимпиад"]
-block: ["betting tips", "odds", "casino", "fantasy picks", "live stream free", "прогноз на матч", "ставки", "博彩"]
+block: ["betting tips", "odds", "casino", "fantasy picks", "live stream free", "прогноз на матч", "ставки", "博彩",
+        # gossip and non-sport (not news for this site)
+        "net worth", "how rich", "girlfriend", "boyfriend", "is dating", "are dating", "divorce", "pregnant", "taylor swift",
+        "find husband", "find a wife", "tourism", "travel route", "旅游", "消费季", "绯闻", "恋情", "роман с", "развод"]
 
 # ---------- Publishing ----------
 publish:
@@ -107,6 +110,17 @@ standards:
   max_headline_chars: 110
   check_links: true
 
+# ---------- Regional balance (share of all stories over the last 7 days) ----------
+# Each day the system writes from the region furthest behind its target, but only when that region has a
+# good story. Quality first: a weak story is never chosen just to fill a quota.
+regions:
+  global: 45       # Western, Asia and the rest of the world
+  china: 15
+  russia: 15
+  sea: 15          # Southeast Asia (Thailand, Vietnam, Indonesia, Malaysia, Philippines, Singapore, ...)
+  cambodia: 10     # Cambodian clubs, athletes and events, often in an Asian / ASEAN context
+  window_days: 7
+
 # ---------- News sources (free RSS) ----------
 # These feeds are used as SOURCES OF FACTS only. The AI writes original stories and credits them.
 # A feed that fails is skipped and logged — never fatal. Add or remove freely.
@@ -123,6 +137,8 @@ feeds:
   - {name: "Спорт-Экспресс",   url: "https://www.sport-express.ru/services/materials/news/se/", lang: ru}
   - {name: "РИА Новости Спорт", url: "https://ria.ru/export/sport/rss2/index.xml", lang: ru}
   - {name: "中国新闻网 体育",   url: "https://www.chinanews.com.cn/rss/sports.xml", lang: zh}
+  - {name: "Google News – Cambodia sport", url: "https://news.google.com/rss/search?q=(Cambodia+OR+Cambodian+OR+%22Phnom+Penh+Crown%22+OR+%22Svay+Rieng%22+OR+%22Boeung+Ket%22+OR+%22Visakha+FC%22)+(football+OR+sport+OR+%22SEA+Games%22+OR+boxing+OR+%22Kun+Khmer%22)+when:3d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Southeast Asia sport", url: "https://news.google.com/rss/search?q=(%22ASEAN+Championship%22+OR+%22SEA+Games%22+OR+Thailand+OR+Vietnam+OR+Indonesia+OR+Malaysia+OR+Philippines+OR+Singapore)+(football+OR+badminton+OR+boxing+OR+%22national+team%22)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
 
 # ---------- Bylines: disclosed pen-name columnists ----------
 # Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:

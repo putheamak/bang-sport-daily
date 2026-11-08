@@ -163,32 +163,47 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     if plan.get("news", 0) and "skip: news" not in memo:
         n_left = max(0, plan["news"] - len(new))
         items = [i for i in items if i["title"] not in done_titles]
-        picked = C.select(items, n_left, plan.get("max_per_sport", 1)) if n_left else []
+        from .regions import counts, pick_balanced
+        bal = counts(load_articles() + new, date, (cfg.get("regions") or {}).get("window_days", 7))
+        picked = pick_balanced(cfg, items, n_left, bal, plan.get("max_per_sport", 1)) if n_left else []
         for it in picked:
-            log.info("Picked [%s %.1f] %s", it.get("sport"), it["score"], it["title"])
+            log.info("Picked [%s %s %.1f] %s", it.get("region"), it.get("sport"), it["score"], it["title"])
             try:
-                new.append(write_article(cfg, "news", _news_context(it), date))
+                ctx = _news_context(it)
+                art = write_article(cfg, "news", ctx, date)
+                art["region"] = it.get("region") or art.get("region")
+                new.append(art)
                 done_titles.append(it["title"])
             except Exception as e:  # noqa: BLE001
                 log.error("News article failed (%s): %s", it["title"], e)
 
     C.mark_seen(done_titles)   # failed stories stay available for the next run
 
+    from .regions import LABEL, article_region, counts, next_region
+    win = (cfg.get("regions") or {}).get("window_days", 7)
     if plan.get("history", 0) and "skip: history" not in memo:
         try:
-            new.append(write_article(cfg, "history", {"title": f"On this day: {date[5:]}"}, date))
+            focus = next_region(cfg, counts(load_articles() + new, date, win))
+            art = write_article(cfg, "history", {"title": f"On this day: {date[5:]}", "region_focus": focus}, date)
+            art["region"] = article_region(art)
+            new.append(art)
         except Exception as e:  # noqa: BLE001
             log.error("History article failed: %s", e)
 
     athletes = load_athletes()
     if plan.get("athlete_story", 0) and athletes and "skip: athlete" not in memo:
         idx = state.get("athlete_idx", 0) % len(athletes)
+        focus = next_region(cfg, counts(load_articles() + new, date, win))
+        order = [(idx + k) % len(athletes) for k in range(len(athletes))]
+        idx = next((i for i in order if athletes[i].get("region", "global") == focus), idx)   # region behind target
         a = athletes[idx]
         ctx = {"fmt": {"athlete": a["name"], "sport": a.get("sport", ""), "notes": a.get("notes", "")},
                "title": a["name"], "sport": a.get("sport", ""),
                "athlete_memo": read_text(MEMOS / "athletes" / f"{slugify(a['name'])}.md")}
         try:
-            new.append(write_article(cfg, "athlete_story", ctx, date))
+            art = write_article(cfg, "athlete_story", ctx, date)
+            art["region"] = a.get("region") or article_region(art)
+            new.append(art)
             state["athlete_idx"] = idx + 1          # only move on when the story was written
         except Exception as e:  # noqa: BLE001
             log.error("Athlete story failed (%s): %s", a["name"], e)

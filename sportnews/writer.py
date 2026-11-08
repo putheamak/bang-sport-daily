@@ -132,6 +132,11 @@ def _write_prompt(kind: str, ctx: dict, date: str) -> str:
         parts.append(f"<todays_memo_from_author>\n{memo_part}\n</todays_memo_from_author>\n"
                      "The memo is background on the author's mood and views today. Stay strictly on the TASK topic "
                      "above; never switch the story to a different subject mentioned in the memo.")
+    if ctx.get("region_focus") and ctx["region_focus"] != "global":
+        from .regions import LABEL
+        parts.append(f"REGIONAL FOCUS: this site balances coverage across regions and is short of stories from "
+                     f"{LABEL[ctx['region_focus']]}. Choose a well-documented moment from {LABEL[ctx['region_focus']]} "
+                     "sport (its athletes, teams or events) if one fits this calendar date; otherwise any famous moment.")
     if ctx.get("athlete_memo"):
         parts.append(f"<author_memo_about_this_athlete>\n{ctx['athlete_memo']}\n</author_memo_about_this_athlete>")
     if ctx.get("sources"):

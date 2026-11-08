@@ -1,21 +1,28 @@
 # Athletes for the daily "life story" series. The system rotates through this list, researches each person
 # on the web (with sources) and writes their story in your voice. When the list runs out it starts again.
 # Mix legends with athletes popular with Chinese and Russian readers. Edit freely.
+# region: global | china | russia | sea | cambodia  -> used to keep the regional balance (config.yaml regions:).
 # memos/athletes/<slug>.md (e.g. memos/athletes/yao-ming.md) adds your own memories or angle.
 
-- {name: "Lionel Messi",        sport: "Football"}
-- {name: "Yao Ming",            sport: "Basketball", notes: "Very popular with Chinese readers."}
-- {name: "Maria Sharapova",     sport: "Tennis",     notes: "Popular with Russian readers."}
-- {name: "Usain Bolt",          sport: "Athletics"}
-- {name: "Li Na",               sport: "Tennis",     notes: "First Asian player to win a Grand Slam singles title."}
-- {name: "Khabib Nurmagomedov", sport: "MMA"}
-- {name: "Serena Williams",     sport: "Tennis"}
-- {name: "Alexander Ovechkin",  sport: "Ice hockey"}
-- {name: "Ma Long",             sport: "Table tennis"}
-- {name: "Cristiano Ronaldo",   sport: "Football"}
-- {name: "Michael Jordan",      sport: "Basketball"}
-- {name: "Yelena Isinbayeva",   sport: "Pole vault"}
-- {name: "Lin Dan",             sport: "Badminton"}
-- {name: "Simone Biles",        sport: "Gymnastics"}
-- {name: "Lewis Hamilton",      sport: "Formula 1"}
-- {name: "Su Bingtian",         sport: "Athletics (sprint)"}
+- {name: "Lionel Messi",        sport: "Football", region: global}
+- {name: "Yao Ming",            sport: "Basketball", notes: "Very popular with Chinese readers.", region: china}
+- {name: "Maria Sharapova",     sport: "Tennis",     notes: "Popular with Russian readers.", region: russia}
+- {name: "Usain Bolt",          sport: "Athletics", region: global}
+- {name: "Li Na",               sport: "Tennis",     notes: "First Asian player to win a Grand Slam singles title.", region: china}
+- {name: "Khabib Nurmagomedov", sport: "MMA", region: russia}
+- {name: "Serena Williams",     sport: "Tennis", region: global}
+- {name: "Alexander Ovechkin",  sport: "Ice hockey", region: russia}
+- {name: "Ma Long",             sport: "Table tennis", region: china}
+- {name: "Cristiano Ronaldo",   sport: "Football", region: global}
+- {name: "Michael Jordan",      sport: "Basketball", region: global}
+- {name: "Yelena Isinbayeva",   sport: "Pole vault", region: russia}
+- {name: "Lin Dan",             sport: "Badminton", region: china}
+- {name: "Simone Biles",        sport: "Gymnastics", region: global}
+- {name: "Lewis Hamilton",      sport: "Formula 1", region: global}
+- {name: "Su Bingtian",         sport: "Athletics (sprint)", region: china}
+- {name: "Lee Chong Wei",       sport: "Badminton",  region: sea, notes: "Malaysia; three-time Olympic silver medallist."}
+- {name: "Manny Pacquiao",      sport: "Boxing",     region: sea, notes: "Philippines; world titles in eight weight divisions."}
+- {name: "Ratchanok Intanon",   sport: "Badminton",  region: sea, notes: "Thailand; 2013 world champion."}
+- {name: "Hoang Xuan Vinh",     sport: "Shooting",   region: sea, notes: "Vietnam's first Olympic gold medallist (Rio 2016)."}
+- {name: "Joseph Schooling",    sport: "Swimming",   region: sea, notes: "Singapore's first Olympic gold medallist (Rio 2016, 100m butterfly)."}
+- {name: "Sorn Seavmey",        sport: "Taekwondo",  region: cambodia, notes: "Cambodia's first Asian Games gold medallist (Incheon 2014). Verify every fact."}

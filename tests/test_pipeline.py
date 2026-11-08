@@ -108,7 +108,7 @@ def test_daily_publish_site(repo, monkeypatch):
     new2 = pipeline.run_daily(publish_now=False)
     news2 = [a for a in new2 if a["type"] == "news"]
     assert len(news2) == 1 and "Arsenal" in news2[0]["en"]["headline"]   # only the story not used yesterday
-    assert json.loads((repo / "data/state.json").read_text())["athlete_idx"] == 2
+    assert json.loads((repo / "data/state.json").read_text())["athlete_idx"] >= 2   # rotation (region-balanced) advances
 
 
 def test_writer_with_fake_gemini(repo, monkeypatch):
@@ -450,3 +450,22 @@ def test_homepage_sources_blocked(repo):
     iss = check_article(load_config(), a)
     assert any(i["level"] == "BLOCK" and "homepages" in i["msg"] for i in iss)
     assert any("debut" in i["msg"] for i in iss)
+
+
+def test_regions_classify_and_balance():
+    from sportnews.regions import classify, counts, pick_balanced, balance_line
+    assert classify("Phnom Penh Crown beat Kitchee in ACL Two") == "cambodia"
+    assert classify("Vietnam reach ASEAN Championship final") == "sea"
+    assert classify("中超：上海申花2比1战胜北京国安") == "china"
+    assert classify("«Зенит» обыграл «Спартак» в РПЛ") == "russia"
+    assert classify("Arsenal beat Chelsea") == "global"
+    cfg = {"regions": {"global": 45, "china": 15, "russia": 15, "sea": 15, "cambodia": 10}}
+    arts = [{"date": "2026-11-07", "status": "published", "region": "global", "en": {}} for _ in range(9)]
+    c = counts(arts, "2026-11-08")
+    items = [{"title": "Arsenal beat Chelsea", "summary": "", "score": 5.0, "sport": "football"},
+             {"title": "Zenit beat Spartak", "summary": "", "score": 3.0, "sport": "ice"},
+             {"title": "Vietnam win AFF match", "summary": "", "score": 0.5, "sport": "badminton"}]
+    got = pick_balanced(cfg, items, 2, c)
+    assert got[0]["title"] == "Zenit beat Spartak"            # region behind target, good enough score
+    assert all(i["title"] != "Vietnam win AFF match" for i in got)   # too weak (quality first)
+    assert "Global 100%" in balance_line(cfg, c)
