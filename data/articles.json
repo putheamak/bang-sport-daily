@@ -84,7 +84,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T22:17:52+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "Boxing",
     "tags": [
@@ -201,7 +201,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T22:17:19+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "basketball",
     "tags": [
@@ -322,7 +322,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T22:16:51+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "rugby league",
     "tags": [
@@ -403,7 +403,7 @@
     "date": "2026-11-07",
     "created": "2026-11-07T22:11:13+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "olympical",
     "tags": [
