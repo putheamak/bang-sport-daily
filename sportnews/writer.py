@@ -223,6 +223,25 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
                     cites = cites + cites2
             except Exception as e:  # noqa: BLE001
                 log.warning("Rewrite failed: %s", e)
+        # Length: free models often stop short. Ask once to expand from the SAME sources (no new facts).
+        need = {"news": 300, "history": 450, "athlete_story": 550}.get(kind, 300)
+        words = len(re.findall(r"\w+", en.get("body_markdown", "")))
+        if words < need:
+            log.warning("Draft is only %d words (want %d+) — asking once to expand from the sources", words, need)
+            grow = (_write_prompt(kind, ctx, date) + f"\n\nYour previous draft was only {words} words:\n<draft>\n"
+                    + en.get("body_markdown", "") + f"\n</draft>\nRewrite it to {WORDS.get(kind, '400-600')} words. "
+                    "Add depth ONLY from the SOURCE MATERIAL and verified context: background, key numbers, earlier "
+                    "meetings or records, what happens next. Never pad with opinion, clichés or invented details. "
+                    "If the sources truly hold too little, keep it short; it will then be dropped.")
+            try:
+                en2, cites2, model = _ask_json(cfg, system, grow, search=False)
+                w2 = len(re.findall(r"\w+", en2.get("body_markdown", "")))
+                if w2 > words and en2.get("headline"):
+                    log.info("Expanded draft: %d -> %d words", words, w2)
+                    en, cites = en2, cites + cites2
+                    orig = check(en.get("body_markdown", ""), ctx.get("sources", ""))
+            except Exception as e:  # noqa: BLE001
+                log.warning("Expansion failed: %s", e)
         if too_close(orig):
             en.setdefault("facts_to_verify", []).insert(
                 0, f"ORIGINALITY: {orig['overlap']:.0%} of the text repeats the source word-for-word — rewrite before publishing")
