@@ -1,5 +1,314 @@
 [
   {
+    "id": "2026-11-09-athl-045bf1",
+    "slug": "maria-sharapova-from-a-cold-start-to-tennis-immortality",
+    "date": "2026-11-09",
+    "created": "2026-11-09T18:45:35+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Tennis",
+    "tags": [
+      "Maria Sharapova",
+      "Tennis",
+      "WTA",
+      "Wimbledon",
+      "Grand Slam",
+      "Hall of Fame"
+    ],
+    "athletes": [
+      "Maria Sharapova",
+      "Serena Williams",
+      "Martina Navratilova"
+    ],
+    "image_subjects": [
+      "Maria Sharapova",
+      "Wimbledon Championships",
+      "IMG Academy"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Maria Sharapova Wikipedia Article",
+        "url": "https://en.wikipedia.org/wiki/Maria_Sharapova"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.015,
+      "longest": 12,
+      "phrases": [
+        "the highest paid female athlete in the world for 11 consecutive years",
+        "maria yuryevna sharapova was born on april 19 1987 in nyagan",
+        "she won the eddie herr international junior tennis championships"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Maria Sharapova: From a Cold Start to Tennis Immortality",
+      "subheadline": "Tracing the remarkable journey of the Russian icon who conquered Wimbledon as a teenager, claimed the career Grand Slam, and left a lasting imprint on the sport.",
+      "body_markdown": "The journey began far away from the sun-drenched courts of the tennis tour, in the shadow of historical events. Maria Yuryevna Sharapova was born on April 19, 1987, in Nyagan, in the Soviet Union. Her parents had moved from Gomel just before her birth, seeking safety from the regional fallout of the 1986 Chernobyl nuclear disaster. By 1990, the family had relocated to Sochi, where a chance acquaintance would alter the course of tennis history. Aleksandr Kafelnikov, father of future Grand Slam champion Yevgeny, handed four-year-old Maria her first tennis racquet. What started as casual hitting in a local park quickly revealed a rare gift. Veteran coach Yuri Yutkin noticed her exceptional hand-eye coordination right away, setting the wheels in motion for an extraordinary path.\n\nThat path required immense sacrifice. In 1993, at just six years old, Sharapova attended a Moscow tennis clinic run by Martina Navratilova. The legendary champion recognized her potential and urged her father to seek professional training at the IMG Academy in Florida. Armed with $700 in savings and speaking no English, Yuri and his young daughter moved to the United States in 1994, separated from Sharapova's mother by visa restrictions for two years. Yuri took on low-paying jobs to fund her early lessons until IMG agreed to cover her academy tuition in 1995. It was a crucible of early independence and relentless work that forged a fierce competitive spirit.\n\n## The Meteoric Rise and Grand Slam Glory\n\nSharapova's transition from junior promise to global phenomenon happened at breathtaking speed. In November 2000, she won the Eddie Herr International Junior Tennis Championships at age 13, earning the tournament's Rising Star Award. She turned professional on her 14th birthday in 2001 and wasted little time making her presence felt on the senior tour. By the end of 2003, she had captured her first two WTA singles titles in Japan and Quebec City, earning the WTA Newcomer of the Year honor.\n\nThe defining moment of her early career arrived in the summer of 2004. Seeded 13th at Wimbledon at just 17 years old, Sharapova navigated the draw with growing confidence before facing two-time defending champion Serena Williams in the final. In a stunning display of power and composure, the teenager defeated the top seed in straight sets to capture her maiden Grand Slam title. She became the third-youngest woman to win Wimbledon, capturing the imagination of sports fans worldwide and ushering in a new era for Russian tennis. She followed that triumph by winning the WTA Tour Championships later that year and climbed to world No. 1 in August 2005.\n\n## Overcoming Obstacles and Completing the Slam\n\nOver the following seasons, Sharapova's career was a testament to resilience against physical adversity. Recurring injuries threatened to derail her momentum, leading to fluctuations in the rankings. Her long-standing quest to master clay courts—a surface that initially troubled her movement—culminated in a historic triumph at the 2002 French Open equivalent of years past, when she finally lifted the Coupe Suzanne Lenglen in 2012 by defeating Sara Errani in the final. That victory made her one of just ten women in tennis history to complete a career Grand Slam. Weeks later, she added an Olympic silver medal at the London Games, serving as Russia's flag bearer.\n\nThe later chapters of her career brought rigorous challenges. In 2016, a failed drug test for meldonium led to an initial suspension by the International Tennis Federation. Following an appeal, the Court of Arbitration for Sport reduced the ban after determining she had taken the substance in good faith based on a doctor's recommendation without significant fault. Sharapova returned to the tour in April 2017, competing until her retirement in 2020.\n\n## A Lasting Legacy\n\nBeyond her 36 WTA singles titles and five major championships, Sharapova built a formidable footprint outside the sport. Forbes named her the highest-paid female athlete in the world for 11 consecutive years, while her business ventures included launching a mentorship program for women entrepreneurs in 2018. She also served as a United Nations Development Programme Goodwill Ambassador, focusing on Chernobyl recovery efforts. Recognized by Tennis Channel and Time among the greatest players in history, her story came full circle in 2025 with her induction into the International Tennis Hall of Fame—cementing her place among the legends who transformed the modern game.",
+      "social_post": "From a young girl practicing in a Sochi park with a borrowed racquet to a five-time Grand Slam champion and Hall of Famer. Look back at the incredible journey, triumphs, and resilience of Maria Sharapova. What is your favorite memory of her career? Let us know below! #MariaSharapova #Tennis #WTA #HallOfFame"
+    },
+    "zh": {
+      "headline": "玛丽亚·莎拉波娃：从冰冷起点到网坛不朽",
+      "subheadline": "回溯这位俄罗斯传奇的非凡征程：年少温网一战成冠、实现全满贯伟业，并在网球历史上刻下永恒印记。",
+      "body_markdown": "这段旅程始于远离巡回赛阳光球场、笼罩在历史阴影之中的地方。1987年4月19日，玛丽亚·尤里耶夫娜·莎拉波娃（Maria Yuryevna Sharapova）出生于苏联下瓦尔托夫斯克地区的尼亚甘（Nyagan）。为了躲避1986年切尔诺贝利核灾难带来的区域性核辐射影响，她的父母在她出生前不久从戈梅利搬到了那里。到1990年，全家又迁往索契，而一次偶然的相识彻底改变了网球历史的走向。日后大满贯冠军叶夫根尼·卡费尔尼科夫的父亲亚历山大·卡费尔尼科夫，将第一支网球拍交到了四岁的玛丽亚手中。最初在当地公园里的随性击球，很快展现出她罕见的天赋。资深教练尤里·尤特金一眼便看出了她非凡的手眼协调能力，为她踏上这条非凡之路按下了启动键。\n\n这条道路需要巨大的牺牲。1993年，年仅六岁的莎拉波娃参加了由玛蒂娜·纳芙拉蒂诺娃在莫斯科举办的一个网球训练营。这位传奇巨星一眼认出了她的潜力，并极力劝说她的父亲前往美国佛罗里达州的IMG学院接受专业训练。1994年，尤里带着女儿揣着700美元的积蓄、一句英语都不会说便移居美国。由于签证限制，莎拉波娃的母亲与他们分离了两年之久。为了维持早期的网球课开销，尤里不得不打多份低薪零工，直到1995年IMG学院同意免除她的学费。正是这种早期的独立磨炼和不懈的奋斗，铸就了她极其顽强的竞争精神。\n\n## 迅猛崛起与大满贯荣耀\n\n莎拉波娃从备受瞩目的青少年选手蜕变为全球现象级球星的速度令人窒息。2000年11月，13岁的她在埃迪·赫尔国际青少年网球锦标赛（Eddie Herr International Junior Tennis Championships）上夺冠，并荣膺赛事新星奖。2001年，在她14岁生日当天，她正式转为职业选手，并在随后的成年组巡回赛中迅速崭露头角。到2003年底，她已经分别在日本和魁北克市斩获了职业生涯前两个WTA单打冠军，并当选WTA年度最佳新人。\n\n她早期职业生涯的决定性时刻出现在2004年的夏天。当时年仅17岁的莎拉波娃以赛会13号种子身份征战温网，一路顶住压力过关斩将，在决赛中迎战卫冕冠军、头号种子小威廉姆斯。在这场展现出惊人力量与绝对镇定的对决中，这位少女直落两盘击败强敌，夺得了个人首座大满贯冠军。她成为了温网历史上第三年轻的女单冠军，点燃了全球体育迷的想象力，也开启了俄罗斯网球的新时代。同年晚些时候，她又赢得了WTA年终总决赛冠军，并在2005年8月登顶世界第一。\n\n## 战胜逆境与成就全满贯\n\n在接下来的几个赛季里，莎拉波娃的职业生涯诠释了面对身体伤痛时的顽强抗争。反复无常的伤病曾几度威胁到她的上升势头，导致排名出现波动。她对红土场——这个最初让她感到步履维艰的场地——长期不懈的征服，最终在2012年迎来了历史性的爆发。她在2012年法网决赛中击败萨拉·埃拉尼，高高举起了苏珊·朗格伦杯。这场胜利让她成为网球史上仅有的十位实现全满贯（Career Grand Slam）的女球员之一。几周后，她在伦敦奥运会上作为俄罗斯代表团的旗手，为祖国添一枚宝贵的奥运银牌。\n\n职业生涯的后期带来了严峻的挑战。2016年，因服用米屈肼（meldonium）药检未过关，她遭到了国际网球联合会（ITF）的禁赛处罚。经上诉后，国际体育仲裁法庭（CAS）认定她在听从医生建议的前提下善意服用该物质且并无重大过失，从而缩短了禁赛期。莎拉波娃于2017年4月重返赛场，一直征战到2020年退役。\n\n## 永恒的传奇\n\n除了36个WTA单打冠军和5座大满贯奖杯外，莎拉波娃在球场之外也建立了自己的商业帝国。她连续11年被《福布斯》评为全球收入最高的女运动员，其商业版图包括在2018年创立的一个旨在扶持女性创业者的导师计划。她还担任过联合国开发计划署亲善大使，致力于切尔诺贝利灾后重建工作。正如网球频道（Tennis Channel）和《时代》杂志所认可的那样，她跻身历史最伟大球员之列。随着2025年正式入驻国际网球名人堂，她的网球传奇迎来了圆满的归宿，巩固了她作为重塑现代网球运动的传奇巨星地位。",
+      "social_post": "从索契公园里借球拍练习的小女孩，到五大满贯得主和名人堂成员。一同回顾玛丽亚·莎拉波娃不可思议的非凡征程、荣耀时刻与坚韧精神。你对她职业生涯最深刻的记忆是什么？在下方留言告诉我们！ #玛丽亚莎拉波娃 #网球 #WTA #网球名人堂"
+    },
+    "ru": {
+      "headline": "Мария Шарапова: от холодного старта до теннисного бессмертия",
+      "subheadline": "Вспоминаем удивительный путь российской иконы тенниса, которая выиграла Уимблдон еще подростком, собрала карьерный «Большой шлем» и навсегда вписала свое имя в историю спорта.",
+      "body_markdown": "Этот путь начался далеко от залитых солнцем кортов теннисного тура, в тени исторических потрясений. Мария Юрьевна Шарапова родилась 19 апреля 1987 года в Нягани, в Советском Союзе. Незадолго до ее рождения родители перебрались туда из Гомеля, спасаясь от региональных последствий чернобыльской катастрофы 1986 года. К 1990 году семья переехала в Сочи, где случайное знакомство круто изменило ход теннисной истории. Александр Кафельников, отец будущего победителя турниров «Большого шлема» Евгения, вручил четырехлетней Маше ее первую теннисную ракетку. То, что начиналось как простые удары по мячу в местном парке, быстро обнаружило редкий дар. Опытный тренер Юрий Юткин сразу разглядел ее исключительную координацию рук и глаз, дав старт невероятному пути.\n\nЭтот путь потребовал огромных жертв. В 1993 году, в возрасте всего шести лет, Шарапова побывала на теннисном сборе в Москве, которым руководила Мартина Навратилова. Легендарная чемпионка сразу распознала ее потенциал и посоветовала отцу заняться ее профессиональной подготовкой в Академии IMG во Флориде. Вооружившись 700 долларами сбережений и не зная ни слова по-английски, Юрий с маленькой дочерью перебрались в США в 1994 году; из-за визовых ограничений мать Шараповой смогла воссоединиться с ними лишь два года спустя. Юрий брался за любую низкооплачиваемую работу, чтобы оплачивать первые уроки, пока в 1995 году академия IMG не согласилась взять на себя расходы по ее обучению. Это был суровый период ранней самостоятельности и безжалостного труда, который закалил ее железный соревновательный характер.\n\n## Стремительный взлет и триумф на «Шлемах»\n\nПревращение Шараповой из подающей надежды юниорки в глобальную суперзвезду произошло с невероятной скоростью. В ноябре 2000 года в возрасте 13 лет она выиграла престижный международный юниорский турнир Eddie Herr International Junior Tennis Championships, получив награду Rising Star Award. В свой 14-й день рождения в 2001 году она перешла в профессионалы и почти сразу заявила о себе во взрослом туре. К концу 2003 года на ее счету уже были первые два титула WTA в одиночном разряде — в Японии и Квебеке, а также звание «Новичок года» по версии WTA.\n\nОпределяющий момент ее ранней карьеры наступил летом 2004 года. Получив 13-й номер посева на Уимблдоне в 17 лет, Шарапова уверенно продвигалась по сетке, пока в финале не встретилась с двукратной действующей чемпионкой Сереной Уильямс. Продемонстрировав потрясающую мощь и хладнокровие, юная теннисистка обыграла первую ракетку мира в двух сетах и завоевала свой первый титул на турнирах «Большого шлема». Она стала третьей среди самых молодых победительниц Уимблдона в истории, влюбив в себя спортивных фанатов по всему миру и открыв новую эру в российском теннисе. Закрепив этот успех победой на Итоговом турнире WTA в конце того же года, в августе 2005-го она поднялась на первую строчку мирового рейтинга.\n\n## Преодоление трудностей и карьерный «Шлем»\n\nВ последующие сезоны карьера Шараповой стала ярким свидетельством стойкости перед лицом физических невзгод. Рецидивирующие травмы грозили подорвать ее ход, что приводило к колебаниям в рейтинге. Долгое стремление покорить грунтовые корты — покрытие, поначалу вызывавшее у нее сложности при передвижении, — увенчалось историческим триумфом в 2012 году, когда она наконец подняла над головой Кубок Сюзанн Ленглен на «Ролан Гаррос», обыграв в финале Сару Эррани. Эта победа сделала ее одной из всего лишь десяти женщин в истории тенниса, собравших карьерный «Большой шлем». Несколько недель спустя она добавила в свою копилку серебряную медаль Олимпийских игр в Лондоне, где была знаменосцем сборной России.\n\nПоздние главы ее карьеры принесли серьезные испытания. В 2016 году положительный результат допинг-теста на мельдоний привел к временному отстранению со стороны Международной федерации тенниса. После апелляции Спортивный арбитражный суд (CAS) сократил дисквалификацию, установив, что она принимала препарат добросовестно по рекомендации врача и без существенной вины с ее стороны. Шарапова вернулась в тур в апреле 2017 года и выступала вплоть до завершения карьеры в 2020-м.\n\n## Прочное наследие\n\nПомимо 36 титулов WTA в одиночном разряде и пяти побед на мэйджорах, Шарапова создала мощное наследие за пределами спорта. Журнал Forbes 11 лет подряд называл ее самой высокооплачиваемой спортсменкой мира, а среди ее бизнес-проектов был запуск в 2018 году программы наставничества для женщин-предпринимательниц. Она также выступала в качестве Посла доброй воли Программы развития ООН, уделяя особое внимание ликвидации последствий чернобыльской катастрофы. Признанная Tennis Channel и Time одной из величайших игроков в истории, она замкнула круг своей невероятной истории в 2025 году, войдя в Международный зал теннисной славы — закрепив за собой место среди легенд, изменивших современную игру.",
+      "social_post": "От маленькой девочки, тренирующейся в парке Сочи с чужой ракеткой, до пятикратной чемпионки турниров «Большого шлема» и члена Зала славы. Вспоминаем невероятный путь, триумфы и стойкость Марии Шараповой. Какое ваше любимое воспоминание о ее карьере? Пишите в комментариях! #МарияШарапова #Теннис #WTA #ЗалСлавы"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg/1280px-Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Collision_2024_-_VR7_1035_(53801820852)_(cropped).jpg",
+        "artist": "Collision Conf",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "19 June 2024; Maria Sharapova, Entrepreneur & Tennis Legend; Backstage of Cente Stage during day two of Collision 2024 at the Enercare Centre in Toronto, Canada. Photo by Vaughn Ridley/Collision via S",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Maria Sharapova"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Serena-Smiling-2020.png/1280px-Serena-Smiling-2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Serena-Smiling-2020.png",
+        "artist": "AndrewHenkelman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Serena Williams smiling during her match with Maria Sakkari in the USTA Billie Jean King National Tennis Center's Arthur Ashe Stadium during the 2020 US Open",
+        "width": 1200,
+        "height": 1436,
+        "subject": "Serena Williams"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Martina_Navratilova_-_240422_183713_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Martina_Navratilova_-_240422_183713_(cropped).jpg",
+        "artist": "Barcex",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Martina Navratilova, the legendary tennis player renowned for her dominance in the 1980s, graced the red carpet at the 25th Laureus World Sports Awards.",
+        "width": 1200,
+        "height": 1598,
+        "subject": "Martina Navratilova"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'youngest': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-news-17c236",
+    "slug": "brazil-squad-arrives-in-singapore-for-final-international-wi",
+    "date": "2026-11-09",
+    "created": "2026-11-09T18:42:46+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Brazil national football team",
+      "Singapore",
+      "International football",
+      "2026"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Brazil national football team",
+      "Singapore"
+    ],
+    "facts_to_verify": [
+      "Specific opponents and match dates for Brazil in Singapore during the November 2026 window"
+    ],
+    "sources": [
+      {
+        "title": "Brazil squad begin arriving in Singapore for final international break of 2026",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGNMU1hDN2JJRWwtdGZsOHRRRmt6OUZEOWJFaFlodkhyNTlFUGNoUlR0VXNBWGRGLXJVQnZJeHFhLTRBVkMzcm5peENlalBtdVNRWmdYQXF4d3NVTzNzaWhQWEJFMDdxS2xwUk1GSzZVcEE0NlZ0NF9WQ1loVjEzMmQ5LWpic2pDcWk3dTZUSUG1R2NmRE9SbGhscFA4ZWEwTDlYMldOeFdKbHpqVHJaRkZpdWpVbjdYQmlxYg"
+      },
+      {
+        "title": "OneFootball: Brazil squad begin arriving in Singapore for final international break of 2026",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGNMU1hDN2JJRWwtdGZsOHRRRmt6OUZEOWJFaFlodkhyNTlFUGNoUlR0VXNBWGRGLXJVQnZJeHFhLTRBVkMzcm5peENlalBtdVNRWmdYQXF4d3NVTzNzaWhQWEJFMDdxS2xwUk1GSzZVcEE0NlZ0NF9WQ1loVjEzMmQ5LWpic2pDcWk3dTZUSUd1R2NmRE9SbGhscFA4ZWEwTDlYMldOeFdKbHpqVHJaRkZpdWpVbjdYQmlxYg?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: Brazil squad begin arriving in Singapore for final 2026 international break",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGFaczJHZ2Z6dEgxRV9BNnhYSENLUk1Oa3cxTjJrUUtfaHlxVTNMRnM4MFgyLVlJYVRYNFFDNmdpQkNxcTN1VlRqN0VlaWY0ZWZjU2pIeml0NDJsZ2ltUWZsempUX3lYVDlwdnYweXl6ZGNYYml6SGZ1NHIxZHVjYmotOFZpSTZEaG94SzJxQQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Brazil squad arrives in Singapore for final international window of 2026",
+      "subheadline": "The five-time World Cup champions touch down in Southeast Asia to wrap up their 2026 international match calendar.",
+      "body_markdown": "## Touchdown in Southeast Asia\n\nThe Brazil national football team delegation began arriving in Singapore on Sunday, November 8, 2026, marking the commencement of the final international break of the year. Players and coaching staff touched down at Changi Airport to prepare for their upcoming fixtures in the region, drawing significant attention from local supporters and international media outlets.\n\nAs the *Seleção* establishes its training camp in Singapore, upcoming sessions are scheduled to ramp up ahead of the week's matches. The squad's high-profile presence in Southeast Asia underscores the global footprint of South American football, providing regional fans with a rare opportunity to observe elite international talent up close on local training pitches.\n\n## Closing the 2026 Calendar\n\nThis trip represents the final chapter of the 2026 international match calendar for the five-time World Cup winners. With the global football schedule entering its last window of the year, national team selectors are utilizing these fixtures to evaluate player pools, fine-tune tactical approaches, and integrate emerging prospects into the senior setup following demanding domestic club campaigns in Europe and South America.\n\nFor Singapore, hosting a footballing powerhouse of Brazil's stature highlights the nation's ongoing capacity to serve as a premier hub for major international sporting events, training camps, and high-profile friendlies. The logistics involve careful management of travel fatigue and swift adaptation to the local climate as the full roster assembles behind closed doors.\n\n## What Comes Next\n\nPreparations will continue on local training grounds as the remaining members of the squad complete their travel. Coaching staff will assess fitness levels before final tactical alignments are locked in for the week's encounters.\n\nObservers across the continent will monitor how the squad navigates these final fixtures of 2026. These matches provide a definitive platform for squad members to solidify their standing within the national program before international competition pauses and resumes in the new year.",
+      "social_post": "The Brazil national team has arrived in Singapore for the final international break of 2026, setting the stage for a week of high-level training and matches in Southeast Asia. How will the Seleção wrap up their year? Read more on Bang Sport Daily. #Brazil #SingaporeFootball #Selecao #InternationalBreak"
+    },
+    "zh": {
+      "headline": "巴西国家队抵达新加坡，开启2026年收官之旅",
+      "subheadline": "五星巴西飞抵东南亚，正式开启2026年度最后一期国家队比赛窗口期。",
+      "body_markdown": "## 闪耀东南亚\n\n2026年11月8日星期日，巴西国家男子足球代表队的大部队开始抵达新加坡，这也标志着本年度最后一期国际比赛日的正式开启。球员与教练组顺利降落樟宜机场，准备迎接即将到来的东南亚之行，此举吸引了当地球迷和国际媒体的高度关注。\n\n随着「桑巴军团」（Seleção）在新加坡建立训练营，接下来的训练课将在本周比赛前全面提速。这支南美足坛劲旅在东南亚的高调亮相，彰显了南美足球遍布全球的影响力，也为当地球迷提供了一个在训练场近距离欣赏世界级球星风采的难得机会。\n\n## 2026收官之战\n\n对于这支五星巴西队而言，此访正是他们2026年国际赛历的最后一章。随着全球足坛迎来年度最后一个比赛窗口，在经历欧洲和南美高强度的俱乐部赛季后，教练组正利用这些比赛来考察球员储备、微调战术打通关节，并将年轻新秀融入成年国家队阵容。\n\n对新加坡而言，能够接待巴西这样底蕴深厚的足球豪门，再次证明了该国作为举办顶级国际体育赛事、训练营以及重量级热身赛的优质枢纽实力。随着完整大名单在封闭训练中集结，后勤保障团队正妥善应对长途飞行的疲劳，并帮助全队迅速适应当地的气候。\n\n## 展望未来\n\n随着剩余队员陆续归队，球队将在当地训练场继续紧锣密鼓的备战。教练组将评估球员的身体状态，随后在本周的比赛前敲定最终的战术部署。\n\n全亚洲的目光都将聚焦于这支传奇之师将如何完成2026年的收官之战。在国际比赛暂时告一段落、并于新年重燃战火之前，这些比赛为国脚们巩固自己在队中地位提供了一个绝佳的舞台。",
+      "social_post": "巴西国家队已抵达新加坡，开启2026年最后一期国际比赛日，为在东南亚的高强度训练和比赛拉开序幕。桑巴军团将如何为今年画上句号？快来 Bang Sport Daily 阅读详情。#巴西国家队 #新加坡足球 #桑巴军团 #国际比赛日"
+    },
+    "ru": {
+      "headline": "Сборная Бразилии прилетела в Сингапур на заключительный сбор 2026 года",
+      "subheadline": "Пятикратные чемпионы мира прибыли в Юго-Восточную Азию, чтобы закрыть календарь международных матчей 2026 года.",
+      "body_markdown": "## Десант в Юго-Восточной Азии\n\nДелегация национальной сборной Бразилии по футболу начала прибывать в Сингапур в воскресенье, 8 ноября 2026 года, ознаменовав тем самым старт последней в уходящем году международной паузы. Игроки и тренерский штаб приземлились в аэропорту Чанги для подготовки к предстоящим матчам в регионе, что вызвало огромный интерес у местных болельщиков и мировых СМИ.\n\nПоскольку «Селесао» (*Seleção*) разбивает свой тренировочный лагерь в Сингапуре, в ближайшие дни интенсивность занятий будет только расти в преддверии матчей недели. Звездный десант в Юго-Восточной Азии в очередной раз подчеркивает глобальный масштаб южноамериканского футбола, предоставляя местным фанатам редкую возможность вблизи понаблюдать за элитными мастерами на тренировочных полях.\n\n## Занавес над календарем 2026 года\n\nЭта поездка знаменует собой финальную главу в международном календаре пятикратных чемпионов мира на 2026 год. Поскольку мировой футбол вступает в последнее «окно» сезона, тренерский штаб сборной использует эти матчи для оценки кадрового потенциала, тонкой настройки тактических схем и интеграции молодых талантов в главную команду после изнурительных клубных сезонов в Европе и Южной Америке.\n\nДля Сингапура прием футбольного гиганта такого масштаба подтверждает статус страны как ведущего хаба для организации крупных международных спортивных событий, тренировочных сборов и выверенных товарищеских матчей. Логистика требует тщательного управления фактором усталости от перелетов и быстрой адаптации к местному климату по мере того, как полная заявка команды собирается за закрытыми дверями.\n\n## Что дальше\n\nПодготовка на местных полях продолжится, как только оставшиеся игроки завершат дорогу. Тренерский штаб оценит физические кондиции футболистов, после чего будут окончательно утверждены тактические построения на матчи этой недели.\n\nНаблюдатели по всему континенту будут следить за тем, как команда проведет заключительные матчи 2026 года. Эти игры предоставляют игрокам отличную платформу для укрепления своих позиций в национальной команде перед тем, как международный календарь уйдет на паузу и возобновится уже в новом году.",
+      "social_post": "Сборная Бразилии прибыла в Сингапур на последний международный перерыв 2026 года, дав старт неделе интенсивных тренировок и матчей в Юго-Восточной Азии. Как «Селесао» завершит этот год? Читайте подробности на Bang Sport Daily. #Бразилия #ФутболСингапура #Селесао #Сборные"
+    },
+    "region": "sea",
+    "images": [],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific opponents and match dates for Brazil in Singapore during the November 2026 window"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-09-news-f7495f",
+    "slug": "alexander-zhulin-backs-alexandra-trusova-for-world-champions",
+    "date": "2026-11-09",
+    "created": "2026-11-09T18:42:11+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "olympic",
+    "tags": [
+      "Alexandra Trusova",
+      "Alexander Zhulin",
+      "Mone Chiba",
+      "Figure Skating",
+      "Grand Prix Shenzhen",
+      "World Championships 2027"
+    ],
+    "athletes": [
+      "Alexandra Trusova",
+      "Alexander Zhulin",
+      "Mone Chiba"
+    ],
+    "image_subjects": [
+      "Alexandra Trusova",
+      "Figure skating",
+      "Grand Prix of Figure Skating"
+    ],
+    "facts_to_verify": [
+      "Exact date and venue of the Shenzhen Grand Prix finish in November 2026",
+      "Specific details of Mone Chiba's routine at the Shenzhen event"
+    ],
+    "sources": [
+      {
+        "title": "Александр Жулин: «Трусова скоро будет занимать первые места. На чемпионате мира она должна быть в тройке лучших»",
+        "url": "https://www.sports.ru/figure-skating/1117431690-aleksandr-zhulin-skoro-budet-zanimat-pervye-mesta-na-chempiona.html"
+      },
+      {
+        "title": "Sports.ru: Александр Жулин: «Трусова скоро будет занимать первые места. На чемпионате мира она должна быть в тройке лучших»",
+        "url": "https://www.sports.ru/figure-skating/1117431690-aleksandr-zhulin-trusova-skoro-budet-zanimat-pervye-mesta-na-chempiona.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Alexander Zhulin Backs Alexandra Trusova for World Championship Podium After Shenzhen Grand Prix",
+      "subheadline": "Following a silver-medal finish at the Grand Prix event in China, the veteran coach predicts further technical upgrades and global contention in Tampere.",
+      "body_markdown": "The international figure skating season delivered a compelling test of form over the weekend as the Grand Prix series stop in Shenzhen concluded on Sunday, November 9, 2026. Japanese skater Mone Chiba captured the gold medal after a closely contested field, while Russian competitor Alexandra Trusova secured the silver medal in a performance that drew widespread attention from the sport's coaching elite.\n\nFollowing the conclusion of the event in southern China, honoured Russian figure skating coach Alexander Zhulin offered a strong endorsement of Trusova's competitive trajectory. \"Magnificent skating, she is a great credit! Soon she will be taking first places,\" Zhulin told Russian media outlets, highlighting the quality of her programs on the international stage.\n\n## Shenzhen Podium and the Path to Finland\n\nThe Grand Prix circuit serves as a vital proving ground for athletes navigating international panels and pacing their physical peaks toward the global championships. Zhulin pointed out that continued adaptation to judging standards and potential technical additions will define the coming months. \"It seems to me that she will add another quadruple jump, improve in her skating, and the judges will get used to her,\" Zhulin said. Looking ahead to the major global gathering, he added, \"Regarding first place at the World Championships I do not know, but she should be in the top three.\"\n\nThe upcoming World Figure Skating Championships are scheduled to take place in March 2027 in the Finnish city of Tampere. The event will bring together the world's leading singles skaters to contest global titles on European ice.\n\n## Context on International Competition\n\nThe Shenzhen Grand Prix stop highlighted the intense competitive pressures present on the senior international circuit. Alongside the high-level technical displays on the ice, the event underscored the passionate engagement of global fanbases across digital platforms, reflecting the intense scrutiny top competitors face as the sport moves deeper into the 2026-2027 calendar.\n\nCoaches and analysts will closely monitor how athletes adjust their layout structures and jump content during the remaining Grand Prix assignments before domestic selection events and the spring championships in Tampere.",
+      "social_post": "Following her silver medal at the Grand Prix in Shenzhen, figure skating coach Alexander Zhulin has backed Alexandra Trusova to contend for a podium spot at the 2027 World Championships in Tampere. What are your expectations for the rest of the Grand Prix series? Share your thoughts below! #FigureSkating #GrandPrix #Tampere2027 #Trusova"
+    },
+    "zh": {
+      "headline": "亚历山大·茹林盛赞特鲁索娃深圳大奖赛表现：世锦赛绝对有实力站上领奖台",
+      "subheadline": "在夺得中国杯大奖赛银牌后，这位功勋教练预测特鲁索娃将进一步升级难度，并在芬兰向世界之巅发起强有力冲击。",
+      "body_markdown": "随着10月（注：原文时间为2026年11月9日，此处忠实原文）11月9日周日深圳大奖赛的落幕，国际花样滑冰赛季迎来了一场对竞技状态的严峻考验。在竞争激烈的各路高手较量中，日本选手千葉百音（Mone Chiba）摘得桂冠，而俄罗斯名将亚历山德拉·特鲁索娃（Alexandra Trusova）则收获银牌，其表现引发了花滑教练界的高度关注。\n\n在赛事结束后，俄罗斯功勋花滑教练亚历山大·茹林（Alexander Zhulin）对特鲁索娃的竞技走势给予了高度肯定。「滑得太棒了，她真为国争光！相信不久之后她就能拿冠军了，」茹林在接受俄罗斯媒体采访时表示，并对她在国际赛场上的节目质量赞不绝口。\n\n## 深圳领奖台与通往芬兰之路\n\n大奖赛分站赛是运动员适应国际裁判打分标准、并将竞技状态调整到世锦赛巅峰的重要练兵场。茹林指出，未来几个月关键在于继续适应裁判的评判尺度以及可能加入的新技术动作。「在我看来，她还会再加一个四周跳，滑行表现也会进一步提升，裁判们也会逐渐习惯她的风格，」茹林说道。展望明年三月的大赛，他补充道：「至于世锦赛冠军我目前不敢说，但她绝对有实力跻身前三。」\n\n2027年世界花样滑冰锦标赛定于明年3月在芬兰城市坦佩雷（Tampere）举行。届时，全球顶尖单人滑选手将汇聚一世，在欧洲的冰面上争夺世界冠军的荣耀。\n\n## 国际竞争大背景\n\n深圳大奖赛的落幕彰显了成年组国际赛场上白热化的竞争压力。除了冰面上高水平的技术呈现，赛事也折射出全球冰迷在各大数字平台上倾注的热情，展现了顶级选手在2026-2027赛季深入推进之际所承受的高强度审视。\n\n随着剩余大奖赛分站赛的推进，以及国内选拔赛和春季坦佩雷世锦赛的临近，教练员和分析人士将密切关注各位选手将如何调整节目编排与跳跃配置。",
+      "social_post": "在特鲁索娃夺得深圳大奖赛银牌后，教练亚历山大·茹林发声力挺她剑指2027年坦佩雷世锦赛领奖台！大家对接下来的大奖赛分站赛有什么期待？快来评论区聊聊吧！#花样滑冰 #花滑大奖赛 #坦佩雷2027 #特鲁索娃"
+    },
+    "ru": {
+      "headline": "Александр Жулин предсказал Александре Трусовой борьбу за медали чемпионата мира после Гран-при в Шэньчжэне",
+      "subheadline": "После серебряного выступления на этапе в Китае именитый тренер ждет от фигуристки усложнения контента и борьбы за самые высокие места в Тампере.",
+      "body_markdown": "Международный сезон по фигурному катанию подарил болельщикам очередную интригу: в воскресенье, 9 ноября 2026 года, завершился этап серии Гран-при в Шэньчжэне. Победу в упорной борьбе одержала японская фигуристка Моне Чиба (Mone Chiba), а россиянка Александра Трусова завоевала серебряную медаль, показав прокат, который привлек пристальное внимание элиты тренерского цеха.\n\nПо окончании соревнований на юге Китая заслуженный тренер России Александр Жулин дал высокую оценку соревновательной траектории Трусовой. «Великолепное катание, она большой молодец! Скоро будет занимать первые места», — заявил Жулин в интервью российским СМИ, подчеркнув высокое качество ее программ на международной арене.\n\n## Шэньчжэньский подиум и дорога в Финляндию\n\nЭтапы Гран-при служат важнейшей площадкой для проверки сил, где спортсмены привыкают к судейским панелям и выводят пик своей физической формы к главным стартам сезона. Жулин отметил, что дальнейшая адаптация к критериям арбитров и возможные технические новинки станут определяющими в ближайшие месяцы. «Мне кажется, она добавит еще один четверной прыжок, прибавит в скольжении, и судьи к ней привыкнут», — сказал тренер. Говоря о предстоящем чемпионате мира, он добавит: «Насчет первого места на чемпионате мира не знаю, но в тройке она должна быть».\n\nЧемпионат мира по фигурному катанию пройдет в марте 2027 года в финском Тампере. Главный турнир года соберет сильнейших одиночников планеты, которые разыграют мировые титулы на европейском льду.\n\n## Контекст международной борьбы\n\nЭтап в Шэньчжэне обнажил высокий уровень конкурентного давления на взрослой международной арене. Помимо сложнейших технических элементов на льду, турнир продемонстрировал страстную поддержку болельщиков по всему миру в цифровом пространстве, отражая колоссальное внимание к топ-спортсменам по мере развития сезона 2026–2027 годов.\n\nТренеры и аналитики будут внимательно следить за тем, как фигуристы станут корректировать свой контент и расстановку прыжков на оставшихся этапах Гран-при перед национальными отборами и весенним первенством в Тампере.",
+      "social_post": "После серебра на Гран-при в Шэньчжэне тренер Александр Жулин поддержал Александру Трусову и предрек ей борьбу за подиум на чемпионате мира 2027 года в Тампере. Аковы ваши ожидания от оставшейся серии Гран-при? Делитесь мнением в комментариях! #ФигурноеКатание #ГранПри #Тампере2027 #Трусова"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alexandra_Ignatova_2026-04-04_3.jpg/1280px-Alexandra_Ignatova_2026-04-04_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Alexandra_Ignatova_2026-04-04_3.jpg",
+        "artist": "Divmel ic",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Alexandra Ignatova (Trusova) at the Russian Challenge 2026 in Saint Peresburg",
+        "width": 1200,
+        "height": 1501,
+        "subject": "Alexandra Ignatova"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg/1280px-Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg",
+        "artist": "Quejaytee",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Team Les Supreme Free Skate at the 2026 ISU Synchronized Skating World Championships",
+        "width": 1200,
+        "height": 800,
+        "subject": "Figure skating"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mone_Chiba_performing_her_free_skate_at_the_2024-25_Grand_Prix_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mone_Chiba_performing_her_free_skate_at_the_2024-25_Grand_Prix_Final.jpg",
+        "artist": "Phantom Kabocha",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Mone Chiba performing her free skate at the 2024-25 Grand Prix Final",
+        "width": 1200,
+        "height": 1101,
+        "subject": "Mone Chiba"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact date and venue of the Shenzhen Grand Prix finish in November 2026"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific details of Mone Chiba's routine at the Shenzhen event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-08-hist-057248",
     "slug": "when-washington-redrew-the-gridiron-the-1966-antitrust-exemp",
     "date": "2026-11-08",
