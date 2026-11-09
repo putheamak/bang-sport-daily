@@ -429,6 +429,16 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'first-ever': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://olympics.com/en/news/sorn-seavmey-cambodia-taekwondo-golden-girl-sea-games"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://english.cambodiadaily.com/news/taekwondo-gold-medal-winner-returns-to-heros-welcome-69217/"
       }
     ],
     "updated_at": "2026-11-08T18:06:22+07:00",
@@ -912,7 +922,13 @@
         "subject": "Li Na"
       }
     ],
-    "standards": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.bbc.com/sport/tennis/29272370"
+      }
+    ],
     "published_at": "2026-11-08T17:24:41+07:00"
   },
   {
@@ -1448,6 +1464,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Specific times recorded at the 2002 World Junior Championships in Kingston"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://olympics.com/en/athletes/usain-bolt"
       }
     ],
     "updated_at": "2026-11-07T18:15:39+07:00",
@@ -2026,6 +2047,11 @@
       {
         "level": "INFO",
         "area": "facts",
+        "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
         "msg": "Verify: The group-stage scores against Kenya (3-0) and Samoa (7-0) and the penalty shoot-out against France (4-3, with Niu Ziqi saving twice) come from Chinese media (Sina). The FIFA article confirms the wins over the USA and France and the 2-1 defeat by Brazil."
       },
       {
@@ -2251,6 +2277,11 @@
       {
         "level": "INFO",
         "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
         "msg": "Verify: Match-centre data differs on the 47th-minute scorer: the live text says Lucas Da Cunha, one summary says Nico Paz. Check the official UEFA match report."
       },
       {
@@ -2375,6 +2406,11 @@
       "ru": "2026-11-06T23:03:16+07:00"
     },
     "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      },
       {
         "level": "INFO",
         "area": "facts",
@@ -2828,6 +2864,11 @@
       {
         "level": "INFO",
         "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
         "msg": "Verify: Exact total of Portugal senior appearances (some sources report 234 caps, while author memo notes reports of 243; left specific cap count unstated in text until official records reconcile)."
       }
     ]
@@ -3022,7 +3063,13 @@
       "zh": "2026-11-07T12:45:53+07:00",
       "ru": "2026-11-07T12:45:53+07:00"
     },
-    "standards": []
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      }
+    ]
   },
   {
     "id": "2026-11-05-news-70aff0",
