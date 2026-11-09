@@ -1,11 +1,7 @@
-2026-11-09 13:44:12,147 INFO Corrected English for 2026-11-09-athl-045bf1
-2026-11-09 13:44:12,147 INFO Added zh translation for 2026-11-09-athl-045bf1
-2026-11-09 13:44:12,147 INFO Added ru translation for 2026-11-09-athl-045bf1
-2026-11-09 13:44:12,153 INFO Corrected English for 2026-11-09-news-17c236
-2026-11-09 13:44:12,154 INFO Added zh translation for 2026-11-09-news-17c236
-2026-11-09 13:44:12,154 INFO Added ru translation for 2026-11-09-news-17c236
-2026-11-09 13:44:12,363 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-09
-2026-11-09 13:44:12,697 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
-2026-11-09 13:44:12,697 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-09 13:44:12,897 INFO Website built: 15 published stories, 81 pages
-2026-11-09 13:44:12,898 INFO Imported 2 editor's article(s): 2026-11-09-athl-045bf1, 2026-11-09-news-17c236
+2026-11-09 16:01:39,622 INFO Importing editor's article: 2026-11-10-southeast-asia-football-decade.md
+2026-11-09 16:01:40,001 WARNING No free-licence lead photo for Wikipedia article 'Gelora Bung Karno Main Stadium'
+2026-11-09 16:01:41,800 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-09
+2026-11-09 16:01:41,953 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
+2026-11-09 16:01:41,953 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-09 16:01:42,026 INFO Website built: 17 published stories, 87 pages
+2026-11-09 16:01:42,026 INFO Imported 1 editor's article(s): 2026-11-09-news-41548e

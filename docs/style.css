@@ -259,3 +259,9 @@ figure.inline figcaption{font-size:11.5px}
 .authorbox p{margin:4px 0 8px;font-size:14px;color:var(--ink2);line-height:1.5}
 .sechero .mono{margin-right:4px}
 .about ul{padding-left:20px}.about li{margin-bottom:.5em}
+/* data tables in articles (scroll sideways on phones) */
+.prose .tablewrap{overflow-x:auto;margin:1.4em 0;-webkit-overflow-scrolling:touch}
+.prose table{border-collapse:collapse;width:100%;font-family:var(--sans,Inter,system-ui,sans-serif);font-size:.86em;line-height:1.35}
+.prose th{background:#111;color:#fff;text-align:left;padding:8px 10px;font-weight:600;white-space:nowrap}
+.prose td{padding:7px 10px;border-bottom:1px solid #e3e3e3;vertical-align:top}
+.prose tbody tr:nth-child(even) td{background:#f6f6f4}
