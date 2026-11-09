@@ -194,7 +194,7 @@
     "date": "2026-11-09",
     "created": "2026-11-09T18:42:11+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "olympic",
     "tags": [
