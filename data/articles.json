@@ -181,7 +181,52 @@
       "social_post": "Бразилия в Сингапуре. Команда Карло Анчелотти с Винисиусом, Рафиньей и 15 игроками не старше 23 лет сыграет с Японией 14 ноября и с Сингапуром 17 ноября на Национальном стадионе. Сможет ли сборная Сингапура достойно выступить против пятикратных чемпионов мира? #Бразилия #Сингапур #KallangFootballSeries"
     },
     "region": "sea",
-    "images": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Singapore_%28SG%29%2C_National_Stadium_--_2019_--_4721.jpg/1280px-Singapore_%28SG%29%2C_National_Stadium_--_2019_--_4721.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Singapore_(SG),_National_Stadium_--_2019_--_4721.jpg",
+        "artist": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "National Stadium , Singapore Note: The photo was taken from the observation deck „ Marina Bay Sands SkyPark“ of the Marina Bay Sands Hotel.",
+        "width": 1200,
+        "height": 675,
+        "subject": "The National Stadium in Kallang, Singapore, venue of Brazil's matches against Japan and Singapore"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg/1280px-Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg",
+        "artist": "CEphoto, Uwe Aranas",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Singapore: Singapore Sports Hub with the National Stadium, seen from Marina Bay Sands top observation deck",
+        "width": 1200,
+        "height": 692,
+        "subject": "Singapore's National Stadium"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/1280px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Vinícius Júnior during Brazil v Morocco on 13 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1799,
+        "subject": "Vinícius Júnior, one of the senior players in Brazil's squad"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg/1280px-Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Carlo Ancelotti during Brazil v Morocco on 13 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1800,
+        "subject": "Brazil head coach Carlo Ancelotti"
+      }
+    ],
     "standards": [
       {
         "level": "WARN",
@@ -194,7 +239,8 @@
       "zh": "2026-11-09T20:44:12+07:00",
       "ru": "2026-11-09T20:44:12+07:00"
     },
-    "published_at": "2026-11-09T20:44:35+07:00"
+    "published_at": "2026-11-09T20:44:35+07:00",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Stadium in Kallang, Singapore, venue of Brazil's matches against Japan and Singapore\", \"commons\": \"Singapore (SG), National Stadium -- 2019 -- 4721.jpg\"}, {\"caption\": \"Singapore's National Stadium\", \"wikipedia\": \"National Stadium, Singapore\"}, {\"caption\": \"Vinícius Júnior, one of the senior players in Brazil's squad\", \"wikipedia\": \"Vinícius Júnior\"}, {\"caption\": \"Brazil head coach Carlo Ancelotti\", \"wikipedia\": \"Carlo Ancelotti\"}]}"
   },
   {
     "id": "2026-11-09-news-f7495f",
