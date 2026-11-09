@@ -5,7 +5,7 @@
     "date": "2026-11-09",
     "created": "2026-11-09T23:01:39+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -315,7 +315,8 @@
         "area": "sources",
         "msg": "Newest source is 236 days older than the story (2026-03-18). Check for later developments before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-09T23:06:46+07:00"
   },
   {
     "id": "2026-11-09-athl-045bf1",
