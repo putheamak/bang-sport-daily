@@ -514,3 +514,12 @@ def test_photos_yaml_wikipedia_entry(monkeypatch):
     assert got["url"].endswith("Ancelotti.jpg") and got["subject"] == "Brazil head coach"
     monkeypatch.setattr(images, "commons_info", lambda n, width=1200: None)
     assert images.resolve_entry({"wikipedia": "Some logo page"}) is None
+
+
+def test_inline_image_markers():
+    from sportnews.site import _body_with_images
+    a = {"images": [{"url": "a.png", "subject": "A", "artist": "x", "license": "y", "ref": "hero"},
+                    {"url": "b.png", "subject": "B", "artist": "x", "license": "y", "ref": "chart"}],
+         "en": {"body_markdown": "Intro.\n\n[[img:chart]]\n\nMore.\n\n[[img:missing]]\n\nEnd."}}
+    html = _body_with_images(a, "en")
+    assert "b.png" in html and "a.png" not in html and "[[img" not in html

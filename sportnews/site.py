@@ -49,6 +49,12 @@ def md_to_html(md: str) -> str:
         elif re.match(r"^[-*] ", b):
             lis = [_inline(re.sub(r"^[-*]\s*", "", ln)) for ln in b.splitlines()]
             out.append("<ul>" + "".join("<li>" + x + "</li>" for x in lis) + "</ul>")
+        elif b.startswith("|") and len(b.splitlines()) >= 2 and re.match(r"^\|?\s*:?-{3,}", b.splitlines()[1]):
+            rows = [[c.strip() for c in ln.strip().strip("|").split("|")] for ln in b.splitlines() if ln.strip()]
+            head, body = rows[0], rows[2:]
+            out.append('<div class="tablewrap"><table><thead><tr>' + "".join(f"<th>{_inline(c)}</th>" for c in head)
+                       + "</tr></thead><tbody>" + "".join("<tr>" + "".join(f"<td>{_inline(c)}</td>" for c in r) + "</tr>"
+                                                         for r in body) + "</tbody></table></div>")
         elif b.startswith(">"):
             quote = _inline(re.sub(r"^>\s?", "", b, flags=re.M))
             out.append("<blockquote>" + quote + "</blockquote>")
@@ -65,7 +71,8 @@ def _inline(s: str) -> str:
 
 
 def _plain(md: str, n: int = 160) -> str:
-    t = re.sub(r"[#*>\[\]]|\(https?://[^)]+\)", "", md or "")
+    t = re.sub(r"\[\[img:[\w-]+\]\]", "", md or "")
+    t = re.sub(r"[#*>\[\]|]|\(https?://[^)]+\)|-{3,}", "", t)
     t = re.sub(r"\s+", " ", t).strip()
     return t[:n] + ("…" if len(t) > n else "")
 
@@ -389,9 +396,25 @@ def _share(cfg, a, lang) -> str:
             f'<button type="button" data-copy data-done="{UI2[lang]["copied"]}">{UI2[lang]["copy"]}</button></div>')
 
 
+def _figure(im, lang) -> str:
+    return (f'<figure class="inline"><img src="{E(im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
+            f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
+
+
 def _body_with_images(a, lang) -> str:
     html_body = md_to_html(a[lang].get("body_markdown", ""))
-    imgs = (a.get("images") or [])[1:3]
+    all_imgs = a.get("images") or []
+    if "[[img:" in html_body:          # editor placed photos/charts: [[img:2]] = the 2nd photo of the story
+        def put(m):
+            key = m.group(1)
+            im = next((x for x in all_imgs if x.get("ref") == key), None)
+            if im is None and key.isdigit() and 0 < int(key) <= len(all_imgs):
+                im = all_imgs[int(key) - 1]
+            if im is None or (all_imgs and im is all_imgs[0]):
+                return ""                                # missing photo, or already shown as the top photo
+            return _figure(im, lang)
+        return re.sub(r"<p>\[\[img:([\w-]+)\]\]</p>", put, html_body)
+    imgs = all_imgs[1:3]
     if not imgs:
         return html_body
     paras = html_body.split("\n")

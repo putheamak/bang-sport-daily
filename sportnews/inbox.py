@@ -63,10 +63,17 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
                 out.append(upd)
                 done.append(f.name)
             continue
+        tr = meta.get("translations") or {}
+        parts = _split_langs(body) if tr else {}
         en = {"headline": meta["headline"], "subheadline": meta.get("subheadline", ""),
-              "body_markdown": body, "social_post": social}
+              "body_markdown": parts.get("en", body), "social_post": social}
         log.info("Importing editor's article: %s", f.name)
-        loc = localize(cfg, en)
+        if tr and parts:                       # ready-made translations: no AI needed
+            loc = {l: {"headline": h.get("headline", ""), "subheadline": h.get("subheadline", ""),
+                       "body_markdown": parts.get(l, ""), "social_post": h.get("social_post", "")}
+                   for l, h in tr.items() if isinstance(h, dict) and parts.get(l)}
+        else:
+            loc = localize(cfg, en)
         kind = meta.get("type", "news")
         a = {
             "id": f"{date}-{kind[:4]}-{short_hash(en['headline'] + now_iso())[:6]}",
@@ -78,6 +85,22 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
             "sources": [s for s in meta.get("sources", []) if isinstance(s, dict) and s.get("url")],
             "published_to": [], "en": en, "origin": f"inbox/{f.name}",
         }
+        if meta.get("region"):
+            a["region"] = meta["region"]
+        if meta.get("photos"):               # your own charts/photos (photos/ folder) or Commons files
+            from .images import resolve_entry
+            imgs = []
+            for e in meta["photos"]:
+                try:
+                    im = resolve_entry(e) if isinstance(e, dict) else None
+                except Exception as ex:  # noqa: BLE001  (a photo lookup must never stop the import)
+                    log.warning("Photo %s skipped: %s", e.get("id") or e, str(ex)[:200])
+                    im = None
+                if im:
+                    if e.get("id"):
+                        im["ref"] = str(e["id"])      # lets the text place it with [[img:<id>]]
+                    imgs.append(im)
+            a["images"] = imgs[:10]
         for lang in cfg["languages"].get("others", ["zh", "ru"]):
             if isinstance(loc.get(lang), dict) and loc[lang].get("headline"):
                 a[lang] = {k: loc[lang].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
@@ -114,6 +137,11 @@ def _update_existing(cfg: dict, meta: dict, body: str, social: str) -> dict | No
         a["translated_at"] = a["updated_at"]
     a["_update"] = True
     return a
+
+
+def _split_langs(body: str) -> dict:
+    return dict((m.group(1), m.group(2).strip()) for m in
+                re.finditer(r"^===\s*([a-z]{2})\s*===\s*\n(.*?)(?=^===\s*[a-z]{2}\s*===|\Z)", body, re.S | re.M))
 
 
 def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:

@@ -24,7 +24,7 @@ def article_markdown(a: dict, lang: str) -> str:
     out = [f"# {L.get('headline', '')}", ""]
     if L.get("subheadline"):
         out += [f"*{L['subheadline']}*", ""]
-    out += [f"**{label(a['type'], lang)}** · {a['date']}", "", L.get("body_markdown", ""), ""]
+    out += [f"**{label(a['type'], lang)}** · {a['date']}", "", re.sub(r"\[\[img:[\w-]+\]\]\n?", "", L.get("body_markdown", "")), ""]
     if a.get("sources"):
         out += ["---", f"**{SOURCES[lang]}**", ""] + [f"- [{s['title']}]({s['url']})" for s in a["sources"]]
     return "\n".join(out).strip() + "\n"
@@ -84,7 +84,7 @@ def build_docx(path: Path, title: str, subtitle: str, items: list[dict], langs=L
                 p.add_run(L["subheadline"]).italic = True
                 _font(p, lang)
             _font(doc.add_paragraph(f"{label(a['type'], lang)} · {a['date']}"), lang)
-            _add_md(doc, L.get("body_markdown", ""), lang)
+            _add_md(doc, re.sub(r"\[\[img:[\w-]+\]\]\n?", "", L.get("body_markdown", "")), lang)
         if a.get("sources"):
             doc.add_paragraph("Sources / 来源 / Источники:")
             for s in a["sources"]:
