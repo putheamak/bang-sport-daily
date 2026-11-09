@@ -504,3 +504,13 @@ def test_on_this_day_picks_sport_not_tragedy(monkeypatch):
     monkeypatch.setattr(factsource, "wiki_extract", lambda t, chars=7000: ("Text about " + t, "https://en.wikipedia.org/wiki/" + t.replace(" ", "_")))
     ev = factsource.on_this_day("09-30", "cambodia")
     assert ev["year"] == 2014 and ev["region"] == "cambodia" and ev["pages"][0]["url"].endswith("Sorn_Seavmey")
+
+
+def test_photos_yaml_wikipedia_entry(monkeypatch):
+    from sportnews import images
+    monkeypatch.setattr(images, "page_image_name", lambda t, wiki="en": ("Ancelotti.jpg", "Carlo Ancelotti"))
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: {"url": "https://u/" + n, "artist": "A", "license": "CC BY-SA 4.0"})
+    got = images.resolve_entry({"wikipedia": "Carlo Ancelotti", "caption": "Brazil head coach"})
+    assert got["url"].endswith("Ancelotti.jpg") and got["subject"] == "Brazil head coach"
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: None)
+    assert images.resolve_entry({"wikipedia": "Some logo page"}) is None

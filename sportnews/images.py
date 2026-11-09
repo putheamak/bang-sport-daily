@@ -161,6 +161,15 @@ def resolve_entry(e: dict) -> dict | None:
             return None
         info["subject"] = e.get("caption") or info.get("description") or name
         return info
+    if e.get("wikipedia"):
+        # lead photo of a Wikipedia article (e.g. a player or a stadium), licence checked like any Commons file
+        name, title = page_image_name(e["wikipedia"])
+        info = commons_info(name) if name else None
+        if not info:
+            log.warning("No free-licence lead photo for Wikipedia article %r", e["wikipedia"])
+            return None
+        info["subject"] = e.get("caption") or title or e["wikipedia"]
+        return info
     if e.get("file"):
         if not (e.get("credit") and e.get("license")):
             log.warning("Photo %s skipped: 'credit' and 'license' are required for your own photos", e["file"])

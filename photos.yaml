@@ -30,3 +30,16 @@
 2026-11-06-news-af8895:
   mode: replace
   photos: []
+
+# Brazil in Singapore (Kallang Football Series, Nov 2026): free-licence photos only (Wikimedia Commons)
+2026-11-09-news-17c236:
+  mode: replace
+  photos:
+    - commons: "Singapore (SG), National Stadium -- 2019 -- 4721.jpg"
+      caption: "The National Stadium in Kallang, Singapore, venue of Brazil's matches against Japan and Singapore"
+    - wikipedia: "National Stadium, Singapore"
+      caption: "Singapore's National Stadium"
+    - wikipedia: "Vinícius Júnior"
+      caption: "Vinícius Júnior, one of the senior players in Brazil's squad"
+    - wikipedia: "Carlo Ancelotti"
+      caption: "Brazil head coach Carlo Ancelotti"
