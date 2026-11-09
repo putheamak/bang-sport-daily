@@ -198,6 +198,18 @@
         "subject": "Vietnam football team saluting before the match with Thailand in the second-tier AFF Cup 2008 final, December 28, 2008, at My Dinh National Stadium"
       },
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
+        "artist": "中国新闻社",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Morodok Techno Stadium in 2021",
+        "width": 1200,
+        "height": 706,
+        "subject": "Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium",
+        "ref": "morodok"
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vi%E1%BB%87t_Nam_v%C3%B4_%C4%91%E1%BB%8Bch_AFF_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "page": "https://commons.wikimedia.org/wiki/File:Vi%E1%BB%87t_Nam_v%C3%B4_%C4%91%E1%BB%8Bch_AFF_2008.jpg",
         "artist": "haithanh",
@@ -327,7 +339,7 @@
       }
     ],
     "published_at": "2026-11-09T23:06:46+07:00",
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"commons\": \"Stadion Pakansari AFF 2016 Final.jpg\"}, {\"commons\": \"Vietnam football team My Dinh AFF Cup 2008.jpg\"}, {\"commons\": \"U23 Vietnam vs U23 Indonesia.jpg\"}, {\"commons\": \"Việt Nam vô địch AFF 2008.jpg\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"commons\": \"Vietnam football team My Dinh AFF Cup 2008.jpg\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium\", \"id\": \"morodok\", \"wikipedia\": \"Morodok Techo National Stadium\"}]}"
   },
   {
     "id": "2026-11-09-athl-045bf1",
