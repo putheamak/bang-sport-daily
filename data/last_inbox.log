@@ -1,8 +1,11 @@
-2026-11-08 11:06:22,492 INFO Corrected English for 2026-11-08-athl-c8fafa
-2026-11-08 11:06:22,492 INFO Added zh translation for 2026-11-08-athl-c8fafa
-2026-11-08 11:06:22,492 INFO Added ru translation for 2026-11-08-athl-c8fafa
-2026-11-08 11:06:22,636 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-08
-2026-11-08 11:06:22,691 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
-2026-11-08 11:06:22,691 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-08 11:06:22,738 INFO Website built: 14 published stories, 78 pages
-2026-11-08 11:06:22,738 INFO Imported 1 editor's article(s): 2026-11-08-athl-c8fafa
+2026-11-09 13:44:12,147 INFO Corrected English for 2026-11-09-athl-045bf1
+2026-11-09 13:44:12,147 INFO Added zh translation for 2026-11-09-athl-045bf1
+2026-11-09 13:44:12,147 INFO Added ru translation for 2026-11-09-athl-045bf1
+2026-11-09 13:44:12,153 INFO Corrected English for 2026-11-09-news-17c236
+2026-11-09 13:44:12,154 INFO Added zh translation for 2026-11-09-news-17c236
+2026-11-09 13:44:12,154 INFO Added ru translation for 2026-11-09-news-17c236
+2026-11-09 13:44:12,363 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-09
+2026-11-09 13:44:12,697 INFO Telegram review skipped (TELEGRAM_REVIEW_CHAT not set)
+2026-11-09 13:44:12,697 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-09 13:44:12,897 INFO Website built: 15 published stories, 81 pages
+2026-11-09 13:44:12,898 INFO Imported 2 editor's article(s): 2026-11-09-athl-045bf1, 2026-11-09-news-17c236

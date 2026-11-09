@@ -18,7 +18,7 @@
 
 在接下来的几个赛季里，莎拉波娃的职业生涯诠释了面对身体伤痛时的顽强抗争。反复无常的伤病曾几度威胁到她的上升势头，导致排名出现波动。她对红土场——这个最初让她感到步履维艰的场地——长期不懈的征服，最终在2012年迎来了历史性的爆发。她在2012年法网决赛中击败萨拉·埃拉尼，高高举起了苏珊·朗格伦杯。这场胜利让她成为网球史上仅有的十位实现全满贯（Career Grand Slam）的女球员之一。几周后，她在伦敦奥运会上作为俄罗斯代表团的旗手，为祖国添一枚宝贵的奥运银牌。
 
-职业生涯的后期带来了严峻的挑战。2016年，因服用米屈肼（meldonium）药检未过关，她遭到了国际网球联合会（ITF）的禁赛处罚。经上诉后，国际体育仲裁法庭（CAS）认定她在听从医生建议的前提下善意服用该物质且并无重大过失，从而缩短了禁赛期。莎拉波娃于2017年4月重返赛场，一直征战到2020年退役。
+职业生涯的后期带来了严峻的挑战。2016年，因服用米屈肼（meldonium）药检未过关，她遭到了国际网球联合会（ITF）的禁赛处罚。经上诉后，国际体育仲裁法庭（CAS）认定她在听从医生建议的前提下善意服用该物质且并无重大过失，从而将禁赛期由两年缩短为15个月。莎拉波娃于2017年4月重返赛场，一直征战到2020年退役。
 
 ## 永恒的传奇
 
@@ -27,4 +27,6 @@
 ---
 **来源**
 
-- [Maria Sharapova Wikipedia Article](https://en.wikipedia.org/wiki/Maria_Sharapova)
+- [Wikipedia: Maria Sharapova](https://en.wikipedia.org/wiki/Maria_Sharapova)
+- [WTA: Maria Sharapova player profile](https://www.wtatennis.com/legends/310137/maria-sharapova)
+- [International Tennis Hall of Fame: Maria Sharapova](https://tennisfame.com/maria-sharapova)

@@ -16,9 +16,9 @@ The defining moment of her early career arrived in the summer of 2004. Seeded 13
 
 ## Overcoming Obstacles and Completing the Slam
 
-Over the following seasons, Sharapova's career was a testament to resilience against physical adversity. Recurring injuries threatened to derail her momentum, leading to fluctuations in the rankings. Her long-standing quest to master clay courts—a surface that initially troubled her movement—culminated in a historic triumph at the 2002 French Open equivalent of years past, when she finally lifted the Coupe Suzanne Lenglen in 2012 by defeating Sara Errani in the final. That victory made her one of just ten women in tennis history to complete a career Grand Slam. Weeks later, she added an Olympic silver medal at the London Games, serving as Russia's flag bearer.
+Over the following seasons, Sharapova's career was a testament to resilience against physical adversity. Recurring injuries threatened to derail her momentum, leading to fluctuations in the rankings. Her long quest to master clay, a surface that once troubled her movement, ended in triumph at the 2012 French Open, where she beat Sara Errani in the final to lift the Coupe Suzanne Lenglen. That victory made her one of just ten women in tennis history to complete a career Grand Slam. Weeks later, she added an Olympic silver medal at the London Games, serving as Russia's flag bearer.
 
-The later chapters of her career brought rigorous challenges. In 2016, a failed drug test for meldonium led to an initial suspension by the International Tennis Federation. Following an appeal, the Court of Arbitration for Sport reduced the ban after determining she had taken the substance in good faith based on a doctor's recommendation without significant fault. Sharapova returned to the tour in April 2017, competing until her retirement in 2020.
+The later chapters of her career brought rigorous challenges. In 2016, a failed drug test for meldonium led to an initial suspension by the International Tennis Federation. Following an appeal, the Court of Arbitration for Sport reduced the ban from two years to 15 months, finding that she had not intended to cheat and had taken the substance on a doctor's recommendation. Sharapova returned to the tour in April 2017, competing until her retirement in 2020.
 
 ## A Lasting Legacy
 
@@ -27,4 +27,6 @@ Beyond her 36 WTA singles titles and five major championships, Sharapova built a
 ---
 **Sources**
 
-- [Maria Sharapova Wikipedia Article](https://en.wikipedia.org/wiki/Maria_Sharapova)
+- [Wikipedia: Maria Sharapova](https://en.wikipedia.org/wiki/Maria_Sharapova)
+- [WTA: Maria Sharapova player profile](https://www.wtatennis.com/legends/310137/maria-sharapova)
+- [International Tennis Hall of Fame: Maria Sharapova](https://tennisfame.com/maria-sharapova)

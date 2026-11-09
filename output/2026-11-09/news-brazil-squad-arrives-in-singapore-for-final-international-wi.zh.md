@@ -1,30 +1,36 @@
-# 巴西国家队抵达新加坡，开启2026年收官之旅
+# 巴西队抵达新加坡，年内最后两场比赛将对阵日本和新加坡
 
-*五星巴西飞抵东南亚，正式开启2026年度最后一期国家队比赛窗口期。*
+*安切洛蒂率领的年轻阵容将在新加坡国家体育场参加“加冷足球系列赛”的两场友谊赛，11月14日首战日本，重演世界杯32强之战。*
 
 **新闻** · 2026-11-09
 
-## 闪耀东南亚
+巴西国家队球员于上周末陆续抵达新加坡，参加2026年最后一个国际比赛窗口的两场友谊赛。比赛将在新加坡国家体育场举行，属于“瑞穗蓝色挑战赛——加冷足球系列赛”（Mizuho Blue Challenge – The Kallang Football Series）。
 
-2026年11月8日星期日，巴西国家男子足球代表队的大部队开始抵达新加坡，这也标志着本年度最后一期国际比赛日的正式开启。球员与教练组顺利降落樟宜机场，准备迎接即将到来的东南亚之行，此举吸引了当地球迷和国际媒体的高度关注。
+五届世界杯冠军巴西队将于11月14日（周六）对阵日本，11月17日（周二）对阵新加坡。这项四队系列赛于11月13日以新加坡对巴拉圭的比赛揭幕，11月17日在巴西对阵东道主之后，以日本对巴拉圭的比赛收官。
 
-随着「桑巴军团」（Seleção）在新加坡建立训练营，接下来的训练课将在本周比赛前全面提速。这支南美足坛劲旅在东南亚的高调亮相，彰显了南美足球遍布全球的影响力，也为当地球迷提供了一个在训练场近距离欣赏世界级球星风采的难得机会。
+## 首战重演世界杯对决
 
-## 2026收官之战
+据《星报》报道，巴西与日本的比赛是双方本届世界杯32强赛的重演，当时巴西以2比1获胜。日本队已成为亚洲最稳定的球队之一，这场比赛很可能是巴西此行最艰难的考验。
 
-对于这支五星巴西队而言，此访正是他们2026年国际赛历的最后一章。随着全球足坛迎来年度最后一个比赛窗口，在经历欧洲和南美高强度的俱乐部赛季后，教练组正利用这些比赛来考察球员储备、微调战术打通关节，并将年轻新秀融入成年国家队阵容。
+第二场比赛对新加坡来说机会难得。新加坡“狮子军团”将在国家体育场迎战巴西——巴西足协（CBF）在9月宣布这次亚洲之行时就已确定了这一场地。
 
-对新加坡而言，能够接待巴西这样底蕴深厚的足球豪门，再次证明了该国作为举办顶级国际体育赛事、训练营以及重量级热身赛的优质枢纽实力。随着完整大名单在封闭训练中集结，后勤保障团队正妥善应对长途飞行的疲劳，并帮助全队迅速适应当地的气候。
+## 安切洛蒂着眼新一代
 
-## 展望未来
+主教练卡洛·安切洛蒂于10月29日公布了26人大名单，既有成名球星，也有年轻球员：其中15人年龄在23岁及以下。
 
-随着剩余队员陆续归队，球队将在当地训练场继续紧锣密鼓的备战。教练组将评估球员的身体状态，随后在本周的比赛前敲定最终的战术部署。
+经验丰富的核心球员包括皇家马德里前锋维尼修斯、巴塞罗那的拉菲尼亚，以及阿森纳的加布里埃尔·马加良斯和布鲁诺·吉马良斯。年轻球员中有19岁的切尔西边锋埃斯特旺，以及皇家马德里前锋恩德里克。
 
-全亚洲的目光都将聚焦于这支传奇之师将如何完成2026年的收官之战。在国际比赛暂时告一段落、并于新年重燃战火之前，这些比赛为国脚们巩固自己在队中地位提供了一个绝佳的舞台。
+由于明年之前没有正式比赛，这两场友谊赛让安切洛蒂有机会在新赛季开始前，用来自亚洲和南美的强队检验这些年轻球员。
+
+## 新加坡足球的重要一周
+
+对新加坡来说，这项系列赛在五天之内把来自亚洲和南美的两支世界杯参赛球队，以及世界杯历史上最成功的球队带到了加冷。据《星报》报道，门票通过加冷体育城官网销售，新加坡对巴拉圭的票价28新元起，巴西对日本的票价98新元起。
+
+对新加坡队而言，与巴拉圭和巴西的比赛是检验自身与南美球队差距的标尺；对巴西队而言，这是球员们在2026年争取安切洛蒂麾下主力位置的最后机会。
 
 ---
 **来源**
 
-- [Brazil squad begin arriving in Singapore for final international break of 2026](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGNMU1hDN2JJRWwtdGZsOHRRRmt6OUZEOWJFaFlodkhyNTlFUGNoUlR0VXNBWGRGLXJVQnZJeHFhLTRBVkMzcm5peENlalBtdVNRWmdYQXF4d3NVTzNzaWhQWEJFMDdxS2xwUk1GSzZVcEE0NlZ0NF9WQ1loVjEzMmQ5LWpic2pDcWk3dTZUSUG1R2NmRE9SbGhscFA4ZWEwTDlYMldOeFdKbHpqVHJaRkZpdWpVbjdYQmlxYg)
-- [OneFootball: Brazil squad begin arriving in Singapore for final international break of 2026](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGNMU1hDN2JJRWwtdGZsOHRRRmt6OUZEOWJFaFlodkhyNTlFUGNoUlR0VXNBWGRGLXJVQnZJeHFhLTRBVkMzcm5peENlalBtdVNRWmdYQXF4d3NVTzNzaWhQWEJFMDdxS2xwUk1GSzZVcEE0NlZ0NF9WQ1loVjEzMmQ5LWpic2pDcWk3dTZUSUd1R2NmRE9SbGhscFA4ZWEwTDlYMldOeFdKbHpqVHJaRkZpdWpVbjdYQmlxYg?oc=5)
-- [Yahoo Sports: Brazil squad begin arriving in Singapore for final 2026 international break](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGFaczJHZ2Z6dEgxRV9BNnhYSENLUk1Oa3cxTjJrUUtfaHlxVTNMRnM4MFgyLVlJYVRYNFFDNmdpQkNxcTN1VlRqN0VlaWY0ZWZjU2pIeml0NDJsZ2ltUWZsempUX3lYVDlwdnYweXl6ZGNYYml6SGZ1NHIxZHVjYmotOFZpSTZEaG94SzJxQQ?oc=5)
+- [The Star: Vinicius Jr, Gabriel, Raphinha among Brazil stars set to play friendlies in Singapore](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/football-fest-in-singapore---vinicius-jr-gabriel-raphinha-among-brazil-stars-set-to-play-in-friendlies-on-the-island)
+- [Inside World Football: CBF announces Brazil friendlies with Japan and Singapore](https://www.insideworldfootball.com/2026/09/03/cbf-announces-brazil-friendlies-japan-singapore/)
+- [Mothership: Singapore to play Brazil at the National Stadium](https://mothership.sg/2026/09/singapore-brazil-football-friendly-national-stadium/)
