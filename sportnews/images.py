@@ -193,7 +193,7 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         mode, entries = _override_entries(spec)
         chosen = [x for x in (resolve_entry(e) for e in entries if isinstance(e, dict)) if x]
         base = [] if mode == "replace" else [i for i in (a.get("images") or []) if i.get("url") not in {c["url"] for c in chosen}]
-        a["images"] = (chosen + base)[:4]
+        a["images"] = (chosen + base)[:10]
         a["photos_override"] = key
         n += 1
         log.info("Photos for %s set from photos.yaml (%d photo(s))", a["id"], len(a["images"]))

@@ -43,3 +43,13 @@
       caption: "Vinícius Júnior, one of the senior players in Brazil's squad"
     - wikipedia: "Carlo Ancelotti"
       caption: "Brazil head coach Carlo Ancelotti"
+
+# Southeast Asia analysis: cover photo of a regional match (added in front of the charts; the first
+# free-licence photo found becomes the cover, the charts stay inside the text)
+2026-11-09-news-41548e:
+  mode: add
+  photos:
+    - commons: "Stadion Pakansari AFF 2016 Final.jpg"
+    - commons: "Vietnam football team My Dinh AFF Cup 2008.jpg"
+    - commons: "U23 Vietnam vs U23 Indonesia.jpg"
+    - commons: "Việt Nam vô địch AFF 2008.jpg"
