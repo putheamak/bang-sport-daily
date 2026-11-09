@@ -5,7 +5,7 @@
     "date": "2026-11-09",
     "created": "2026-11-09T18:45:35+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Tennis",
     "tags": [
@@ -117,7 +117,8 @@
     "lang_updated": {
       "zh": "2026-11-09T20:44:12+07:00",
       "ru": "2026-11-09T20:44:12+07:00"
-    }
+    },
+    "published_at": "2026-11-09T20:44:35+07:00"
   },
   {
     "id": "2026-11-09-news-17c236",
@@ -125,7 +126,7 @@
     "date": "2026-11-09",
     "created": "2026-11-09T18:42:46+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "football",
     "tags": [
@@ -192,7 +193,8 @@
     "lang_updated": {
       "zh": "2026-11-09T20:44:12+07:00",
       "ru": "2026-11-09T20:44:12+07:00"
-    }
+    },
+    "published_at": "2026-11-09T20:44:35+07:00"
   },
   {
     "id": "2026-11-09-news-f7495f",
