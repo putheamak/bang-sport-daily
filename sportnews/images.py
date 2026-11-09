@@ -191,9 +191,17 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         if a.get("photos_override") == key:
             continue
         mode, entries = _override_entries(spec)
-        chosen = [x for x in (resolve_entry(e) for e in entries if isinstance(e, dict)) if x]
-        base = [] if mode == "replace" else [i for i in (a.get("images") or []) if i.get("url") not in {c["url"] for c in chosen}]
-        a["images"] = (chosen + base)[:10]
+        chosen = []
+        for e in entries:
+            im = resolve_entry(e) if isinstance(e, dict) else None
+            if im:
+                if e.get("id"):
+                    im["ref"] = str(e["id"])          # can be placed in the text with [[img:<id>]]
+                chosen.append(im)
+        refs = {c.get("ref") for c in chosen if c.get("ref")}
+        base = [] if mode == "replace" else [i for i in (a.get("images") or [])
+                                             if i.get("url") not in {c["url"] for c in chosen} and i.get("ref") not in refs]
+        a["images"] = (chosen + base)[:12]
         a["photos_override"] = key
         n += 1
         log.info("Photos for %s set from photos.yaml (%d photo(s))", a["id"], len(a["images"]))

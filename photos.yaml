@@ -49,7 +49,7 @@
 2026-11-09-news-41548e:
   mode: add
   photos:
-    - commons: "Stadion Pakansari AFF 2016 Final.jpg"
     - commons: "Vietnam football team My Dinh AFF Cup 2008.jpg"
-    - commons: "U23 Vietnam vs U23 Indonesia.jpg"
-    - commons: "Việt Nam vô địch AFF 2008.jpg"
+    - id: morodok
+      wikipedia: "Morodok Techo National Stadium"
+      caption: "Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium"
