@@ -5,7 +5,7 @@
     "date": "2026-11-10",
     "created": "2026-11-10T17:01:28+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Multi-Sport",
     "tags": [
@@ -38,7 +38,20 @@
         "url": "https://en.wikipedia.org/wiki/Lausanne"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-10T17:50:56+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-10T17:50:57+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-10T17:50:57+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.012,
       "longest": 13,
@@ -101,7 +114,8 @@
         "subject": "Court of Arbitration for Sport"
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-10T17:50:57+07:00"
   },
   {
     "id": "2026-11-10-news-5d76b6",
