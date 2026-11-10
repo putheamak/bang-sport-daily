@@ -120,7 +120,7 @@ def confirm(items: list[dict], cfg: dict, top: int = 25, max_searches: int = 12,
         if POLITICS.search(f"{it['title']} {it.get('summary', '')}"):
             log.info("Skipped (politics): %s", it["title"][:100])
             continue
-        if any(it.get("lang") == o.get("lang") and same_story(it, o) for o in out):
+        if any(it.get("lang") == o.get("lang") and same_story(it, o, title_only=True) for o in out):
             log.info("Skipped (same event as a stronger story): %s", it["title"][:100])
             merged.add(id(it))
             continue
@@ -130,7 +130,7 @@ def confirm(items: list[dict], cfg: dict, top: int = 25, max_searches: int = 12,
                     continue
                 if other is it or id(other) in merged or other.get("lang") != it.get("lang") or not _recent(it, other):
                     continue
-                if not (outlets(other) - outlets(it)) or not same_story(it, other):
+                if not (outlets(other) - outlets(it)) or not same_story(it, other, title_only=True):
                     continue
                 _add(it, other)
                 for o in other.get("also_reported_by", []):

@@ -677,3 +677,16 @@ def test_trending_reply_and_write(repo, monkeypatch):
     new = T.write_selected(cfg(), T.parse_choice("k:" + keys[0]))
     assert len(new) == 1 and new[0]["format"] == "explainer" and len(new[0]["sources"]) == 2
     assert T.write_selected(cfg(), [1]) == []                               # same story is never written twice
+
+
+def test_trending_does_not_group_by_bundled_summaries(repo):
+    """10 Nov 2026: Google News summaries list other headlines, so Pochettino was grouped with NFL stories."""
+    from sportnews import trending as T
+    lead = _t("Pochettino's U.S. Soccer contract buyout revealed with Man Utd expected to consider him", "The New York Times",
+              score=5, summary="Man United turn to Pochettino ESPN Carrick expected to be sacked BBC Cardinals Wilson season")
+    items = [lead, _t("Cardinals lose Michael Wilson for season", "NBC Sports"),
+             _t("Wilcox and Berrada to tell Ratcliffe that Carrick should be sacked", "The Guardian Sport")]
+    items += [_t(f"Football Team News Round {i}", f"Outlet {i}") for i in range(30)]      # common words everywhere
+    top = T.rank(cfg(), items)
+    assert not any("Pochettino" in s["title"] for s in top)                # one outlet for that exact story
+    assert not any(s["outlets"] > 2 for s in top)

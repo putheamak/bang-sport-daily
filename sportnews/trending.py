@@ -34,13 +34,36 @@ def _key(it: dict) -> str:
     return short_hash(it.get("lang", "") + "|" + (base or it["title"].lower()))[:10]
 
 
+def _rare(items: list[dict]):
+    """Name stems that identify a story. Words in many headlines ('Football', 'Team', 'NFL', 'Cup') do not:
+    English headlines are written in Title Case, so capital letters alone cannot tell names from ordinary words."""
+    from collections import Counter
+    from .corroborate import _stems
+    df = Counter(st for it in items for st in _stems(it["title"]))
+    limit = max(4, int(len(items) * 0.03))
+    return lambda title: {st for st in _stems(title) if df[st] <= limit}
+
+
+def _same(a: dict, b: dict, rare) -> bool:
+    """Same story? Headlines only: Google News summaries bundle other outlets' headlines, which made unrelated
+    stories look alike (10 Nov 2026: Pochettino grouped with NFL and college football)."""
+    from .corroborate import CJK, _bigrams
+    if a.get("lang") != b.get("lang"):
+        return False
+    if a.get("sport") and b.get("sport") and a["sport"] != b["sport"]:
+        return False
+    if a.get("lang") == "zh" or CJK.search(a["title"]):
+        return len(_bigrams(a["title"]) & _bigrams(b["title"])) >= 4
+    return len(rare(a["title"]) & rare(b["title"])) >= 2
+
+
 def _group(items: list[dict]) -> list[dict]:
     """Group the same story from different outlets (same language), counting independent outlets."""
     from .collect import _src_key
-    from .corroborate import same_story
+    rare = _rare(items)
     groups: list[dict] = []
     for it in sorted(items, key=lambda x: -x.get("score", 0)):
-        g = next((g for g in groups if g["lang"] == it["lang"] and same_story(g["lead"], it)), None)
+        g = next((g for g in groups if _same(g["lead"], it, rare)), None)
         refs = [{"source": it["source"], "link": it["link"], "title": it["title"]}] + list(it.get("also_reported_by", []))
         if g is None:
             g = {"lead": it, "lang": it["lang"], "refs": [], "outlets": set()}
@@ -74,7 +97,8 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
         n = len(g["outlets"])
         if n < tcfg.get("min_outlets", 2):
             continue
-        why_blocked = _blocked(f"{it['title']} {it.get('summary', '')}")
+        why_blocked = _blocked(f"{it['title']} {it.get('summary', '')}") or (
+            "not our audience" if re.search(tcfg.get("skip", SKIP), it["title"], re.I) else None)
         if why_blocked:
             log.info("Trending skipped (%s): %s", why_blocked, it["title"][:90])
             continue
@@ -95,7 +119,7 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
     picked, per_lang, per_sport = [], {}, {}
     for s in out:
         sp = s["sport"] or "other"
-        if per_lang.get(s["lang"], 0) >= tcfg.get("max_per_language", 3) or per_sport.get(sp, 0) >= 2:
+        if per_lang.get(s["lang"], 0) >= tcfg.get("max_per_language", 3) or (s["sport"] and per_sport.get(sp, 0) >= 2):
             continue
         picked.append(s)
         per_lang[s["lang"]] = per_lang.get(s["lang"], 0) + 1
@@ -104,6 +128,9 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
             break
     return picked
 
+
+SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|MLB|NHL trade|waiver wire|"
+        r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies)\b")
 
 FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺"}
 
@@ -259,6 +286,15 @@ def _context(s: dict) -> dict:
     return {"title": s["title"], "sport": s.get("sport"), "sources": src, "source_links": links, "task": "explainer"}
 
 
+def _notify(text: str) -> None:
+    chat = os.environ.get("TELEGRAM_REVIEW_CHAT")
+    if chat and os.environ.get("TELEGRAM_BOT_TOKEN"):
+        try:
+            _tg("sendMessage", {"chat_id": chat, "text": text})
+        except Exception as e:  # noqa: BLE001
+            log.warning("Telegram message failed: %s", e)
+
+
 def write_selected(cfg: dict, numbers: list) -> list[dict]:
     from .common import load_articles, save_articles, today
     from .pipeline import merge_articles
@@ -283,6 +319,21 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
         else:
             log.warning("Talking point %s does not exist (list has %d)", n, len(pool))
             continue
+        from .collect import _src_key
+        from .corroborate import same_story
+        lead = {"title": s["title"], "lang": s.get("lang"), "sport": s.get("sport")}
+        refs, seen_o = [], set()
+        for r in s["refs"]:
+            o = _src_key(r.get("source", ""))
+            if o not in seen_o and (not refs or same_story(lead, {"title": r.get("title", ""), "lang": s.get("lang")},
+                                                            title_only=True)):
+                refs.append(r)
+                seen_o.add(o)
+        if len(refs) < 2:
+            log.warning("Talking point %s skipped: fewer than 2 outlets report this exact story: %s", n, s["title"][:80])
+            _notify(f"⚠️ Not written (only 1 outlet reports this exact story): {s['title']}")
+            continue
+        s = dict(s, refs=refs, outlets=len(refs))
         if s["key"] in set(data.get("written", [])):
             log.info("Talking point %s already written: %s", n, s["title"][:80])
             continue
