@@ -8,6 +8,8 @@
   python -m sportnews book 2026-11 [--lang zh]  # compile a month into an ebook-style .docx
   python -m sportnews site                  # rebuild the website only
   python -m sportnews headlines             # refresh the "Around the world" box (RSS only, no AI) + rebuild
+  python -m sportnews trending              # talking points: scan feeds, send top 5 to Telegram (no AI)
+  python -m sportnews write-trending 1 3    # write talking points 1 and 3 as short explainers (drafts)
   python -m sportnews audit [--no-links]    # standards audit of all stories -> data/audit.md
   python -m sportnews check ID              # standards check of one story
 """
@@ -33,6 +35,8 @@ def main(argv=None):
     b = sub.add_parser("book"); b.add_argument("month"); b.add_argument("--published-only", action="store_true"); b.add_argument("--lang", choices=["en", "zh", "ru"])
     sub.add_parser("site")
     sub.add_parser("headlines")
+    sub.add_parser("trending")
+    sub.add_parser("write-trending").add_argument("numbers", nargs="*")
     a = ap.parse_args(argv)
     cfg = load_config()
 
@@ -84,6 +88,19 @@ def main(argv=None):
         collect(cfg)
         save_wire(cfg)
         build_site(cfg)
+    elif a.cmd == "trending":
+        from .common import log_to_file
+        log_to_file("last_trending.log")
+        from .trending import dispatch_write, read_replies, scan
+        asked = read_replies()               # "write 1 3" replies refer to the list sent BEFORE this scan
+        if asked:
+            dispatch_write(asked)
+        scan(cfg)
+    elif a.cmd == "write-trending":
+        from .common import log_to_file
+        log_to_file("last_trending_write.log")
+        from .trending import parse_choice, write_selected
+        write_selected(cfg, parse_choice(" ".join(a.numbers)))
     elif a.cmd == "site":
         from .common import load_articles, log_to_file, save_articles
         log_to_file("last_rebuild.log")

@@ -620,3 +620,60 @@ def test_old_cover_photo_warning(repo):
     assert any(i["area"] == "photos" and "2008" in i["msg"] for i in standards.check_article(cfg(), a))
     a["images"][0]["year"] = 2025
     assert not any(i["area"] == "photos" for i in standards.check_article(cfg(), a))
+
+
+def _t(title, source, lang="en", sport="football", score=3.0, summary=""):
+    return {"title": title, "summary": summary, "source": source, "link": "https://x/" + source.replace(" ", ""),
+            "lang": lang, "sport": sport, "score": score, "published": datetime.now(timezone.utc).isoformat()}
+
+
+def test_trending_rank_groups_outlets_and_skips_politics(repo):
+    from sportnews import trending as T
+    items = [_t("Messi named on FIFPRO World 11 shortlist, Harry Kane left out", "BBC Sport", score=5),
+             _t("Harry Kane misses FIFPRO shortlist as Messi makes the cut", "ESPN"),
+             _t("FIFPRO shortlist: why Kane was left out and Messi was not", "The Guardian"),
+             _t("Lakers beat Celtics in overtime", "ESPN", sport="basketball"),
+             _t("Putin comments on Russian football ban", "Reuters", lang="en"),
+             _t("Putin talks about football", "AP", lang="en"),
+             _t("Мишина и Галлямов выиграли этап Гран-при", "Sports.ru", lang="ru", sport="figure skating"),
+             _t("Галлямов и Мишина взяли золото Гран-при", "Чемпионат", lang="ru", sport="figure skating")]
+    top = T.rank(cfg(), items)
+    assert top[0]["outlets"] == 3 and "Messi" in top[0]["title"]          # 3 outlets grouped as one story
+    assert any(s["lang"] == "ru" for s in top)                             # Russian story with 2 outlets included
+    assert not any("Putin" in s["title"] for s in top)                     # politics never suggested
+    assert not any("Lakers" in s["title"] for s in top)                    # one outlet only
+    again = T.rank(cfg(), items + [_t("Kane left off FIFPRO list while Messi in", "Sky Sports")], {"stories": top})
+    assert again[0]["outlets"] == 4 and again[0]["growth"] == 1            # growth since the last scan
+    msg = T.message(top)
+    assert msg.startswith("🔥") and "1. 🇬🇧" in msg and "write 1 3" in msg
+
+
+def test_trending_reply_and_write(repo, monkeypatch):
+    from sportnews import trending as T, common
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "t")
+    monkeypatch.setenv("TELEGRAM_REVIEW_CHAT", "42")
+    items = [_t("Messi named on FIFPRO World 11 shortlist, Harry Kane left out", "BBC Sport", score=5),
+             _t("Harry Kane misses FIFPRO shortlist as Messi makes the cut", "ESPN")]
+    sent = []
+    from sportnews import publishers
+    monkeypatch.setattr(publishers, "_post", lambda url, data: sent.append(data) or {})
+    monkeypatch.setattr(T, "datetime", type("D", (), {"now": staticmethod(lambda tz=None: datetime(2026, 11, 10, 5, tzinfo=timezone.utc)),
+                                                      "fromisoformat": staticmethod(datetime.fromisoformat)}))
+    data = T.scan(cfg(), items)
+    assert sent and "Messi" in sent[0]["text"] and data["sent"][0]["key"] in data["known"]
+    calls = []
+
+    def fake_tg(method, params):
+        calls.append((method, params))
+        if method == "getUpdates":
+            return {"result": [{"update_id": 7, "message": {"chat": {"id": 42}, "text": "write 1"}},
+                               {"update_id": 8, "message": {"chat": {"id": 99}, "text": "write 1"}}]}  # stranger: ignored
+        return {}
+    monkeypatch.setattr(T, "_tg", fake_tg)
+    keys = T.read_replies()
+    assert keys == [data["sent"][0]["key"]] and common.read_json(T.TRENDING, {})["tg_offset"] == 9
+    assert calls[-1][0] == "sendMessage" and "Messi" in calls[-1][1]["text"]
+    monkeypatch.setattr("sportnews.collect.fetch_full_text", lambda url, limit=6000: "")
+    new = T.write_selected(cfg(), T.parse_choice("k:" + keys[0]))
+    assert len(new) == 1 and new[0]["format"] == "explainer" and len(new[0]["sources"]) == 2
+    assert T.write_selected(cfg(), [1]) == []                               # same story is never written twice

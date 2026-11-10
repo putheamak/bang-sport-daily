@@ -71,6 +71,15 @@ TASKS = {
     "news": """TASK: Write today's NEWS story ({date}). Report what happened accurately (who, what, when, where,
 result), then explain why it matters with context and analysis. Use web search to confirm the latest
 details and find context. Prefer official and major outlets.""",
+    "explainer": """TASK: Write a short EXPLAINER ({date}) about a sport story that many outlets are covering right
+now: "{title}". Readers have seen the headline; tell them WHY it matters. Use exactly these ## headings:
+## What happened
+## Why it is being talked about
+## Key facts and numbers
+## What happens next
+Report only what the SOURCE MATERIAL (and web search, if available) confirms. Check the date of every fact: never
+mix last year's list, season or result with this year's. If outlets disagree, say so plainly or leave the point out.
+Neutral and factual: no opinion, no speculation presented as fact, no politics.""",
     "history": """TASK: Write today's "ON THIS DAY IN SPORT" story ({date}). Search for a famous, well-documented
 world sport moment that happened on this calendar date ({month_day}) in an earlier year — prefer moments that
 Chinese and Russian readers also care about. Tell it as a story: the era, the people, the drama, its legacy today.""",
@@ -87,7 +96,7 @@ not a list of results. Notes (verify, do not copy blindly): {notes}
 Use the SOURCE MATERIAL (the athlete's Wikipedia article) as your fact base. Only include facts you find there or
 in web search results. Never invent childhood scenes, family details, quotes or feelings.""",
 }
-WORDS = {"news": "350-550", "history": "550-850", "history_event": "550-850", "athlete_story": "700-1000"}
+WORDS = {"explainer": "300-450", "news": "350-550", "history": "550-850", "history_event": "550-850", "athlete_story": "700-1000"}
 
 LOCALIZE_SYSTEM = """You are a team of senior sport editors who are native speakers of {targets}.
 Adapt the English article into each language so it reads as if originally written by a native sport columnist —
@@ -134,8 +143,10 @@ def split_memo(memo: str) -> tuple[str, str]:
 
 
 def _write_prompt(kind: str, ctx: dict, date: str) -> str:
-    task = "history_event" if kind == "history" and ctx.get("event_text") else kind
+    task = "history_event" if kind == "history" and ctx.get("event_text") else ctx.get("task") or kind
     fmt = dict(ctx.get("fmt", {}))
+    if task == "explainer":
+        fmt.setdefault("title", ctx.get("title", ""))
     if task == "history_event":
         fmt.update(event_year=ctx["event_year"], event_text=ctx["event_text"])
     parts = [TASKS[task].format(date=date, month_day=date[5:], **fmt)]
@@ -203,7 +214,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         log.warning("No AI key (or SPORTNEWS_MOCK=1): writing mock %s article", kind)
         en, cites, loc, model = _mock(kind, ctx, date, langs)
     else:
-        system = WRITE_SYSTEM.format(author=site["author"], site=site["name"], words=WORDS[kind],
+        system = WRITE_SYSTEM.format(author=site["author"], site=site["name"], words=WORDS[ctx.get("task") or kind],
                                      voice_rules=VOICE_RULES.get(cfg.get("writing", {}).get("style", "journalist"), VOICE_RULES["journalist"]),
                                      style=read_text(VOICE / "style_profile.md"), memo=read_text(MEMOS / "general.md"))
         log.info("Writing %s (EN) ...", kind)

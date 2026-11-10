@@ -59,6 +59,16 @@ ai:
   max_output_tokens: 12000
 
 # ---------- What to produce each day ----------
+# Talking points: stories many outlets cover right now (no AI). Top 5 go to your Telegram review chat;
+# reply "write 1 3" there (or run "Write trending stories") to get short explainers as drafts.
+trending:
+  top: 5
+  min_outlets: 2            # a story must be covered by at least this many independent outlets
+  notify_every_hours: 8     # send a new list at most this often (sooner if a big story appears: 5+ outlets)
+  quiet_until: 7            # no messages between 23:00 and 07:00 Cambodia time
+  quiet_from: 23
+  max_per_language: 3       # keeps room for Chinese and Russian stories
+
 daily_plan:
   news: 2            # best sport stories of the last 24-36h (regionally balanced)
   history: 1         # "On this day in sport" (from Wikipedia's dated list, never from AI memory)
