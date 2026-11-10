@@ -86,7 +86,17 @@ def commons_info(filename: str, width: int = 1200) -> dict | None:
         "description": _clean(meta.get("ImageDescription", {}).get("value", ""), 200),
         "width": ii.get("thumbwidth") or ii.get("width"),
         "height": ii.get("thumbheight") or ii.get("height"),
+        "year": photo_year(meta),
     }
+
+
+def photo_year(meta: dict) -> int | None:
+    """Year the photo was taken (or uploaded, if the date taken is missing). Used by the 'latest photo' rule."""
+    for k in ("DateTimeOriginal", "DateTime"):
+        m = re.search(r"\b(19[5-9]\d|20[0-4]\d)\b", _clean((meta.get(k) or {}).get("value", ""), 200))
+        if m:
+            return int(m.group(1))
+    return None
 
 
 def find_images(subjects: list[str], max_n: int = 3) -> list[dict]:
@@ -152,6 +162,8 @@ def _override_entries(spec) -> tuple[str, list]:
 def resolve_entry(e: dict) -> dict | None:
     """One photos.yaml entry -> image dict. Either a Wikimedia Commons file (licence read automatically)
     or your own uploaded file in photos/ with credit + licence written by you."""
+    if e.get("combine"):
+        return combine_entry(e)
     if e.get("commons"):
         name = e["commons"].split("File:")[-1].replace("_", " ").strip()
         name = urllib.parse.unquote(name.split("/")[-1]) if name.startswith("http") else name
@@ -178,6 +190,49 @@ def resolve_entry(e: dict) -> dict | None:
                 "license": e["license"], "license_url": e.get("license_url", ""), "subject": e.get("caption", ""),
                 "via": e.get("via", "")}
     return None
+
+
+def _download(url: str) -> bytes:
+    req = urllib.request.Request(url, headers={"User-Agent": _ua()})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read()
+
+
+def combine_entry(e: dict) -> dict | None:
+    """Two or more licence-checked photos side by side as ONE image (e.g. a cover showing two champions).
+    Each part keeps its own author and licence in the credit line. If any part is not free-licensed,
+    nothing is combined. The file is saved in docs/photos/ so it is published with the site."""
+    import io
+    from PIL import Image
+    from .common import ROOT, short_hash
+    subs = [x for x in e.get("combine") or [] if isinstance(x, dict)]
+    parts = [resolve_entry(x) for x in subs]
+    if len(parts) < 2 or not all(parts):
+        log.warning("Combined photo skipped: every part must be a free-licence photo (%s)", e.get("caption", ""))
+        return None
+    name = e.get("name") or f"combined-{short_hash(json.dumps(subs, sort_keys=True))}.jpg"
+    out = ROOT / "docs" / "photos" / name
+    if not out.exists():
+        imgs = [Image.open(io.BytesIO(_download(p["url"]))).convert("RGB") for p in parts]
+        h = min(800, min(i.height for i in imgs))
+        imgs = [i.resize((max(1, round(i.width * h / i.height)), h), Image.LANCZOS) for i in imgs]
+        gap = 8
+        canvas = Image.new("RGB", (sum(i.width for i in imgs) + gap * (len(imgs) - 1), h), "white")
+        x = 0
+        for i in imgs:
+            canvas.paste(i, (x, 0))
+            x += i.width + gap
+        out.parent.mkdir(parents=True, exist_ok=True)
+        canvas.save(out, "JPEG", quality=86, optimize=True)
+        log.info("Combined photo saved: %s (%dx%d)", name, canvas.width, h)
+    default = ["left", "right"] if len(parts) == 2 else [f"photo {n + 1}" for n in range(len(parts))]
+    credits = [{"label": x.get("label") or default[n], "artist": p["artist"], "page": p.get("page", ""),
+                "license": p["license"], "license_url": p.get("license_url", "")} for n, (x, p) in enumerate(zip(subs, parts))]
+    years = [p.get("year") for p in parts if p.get("year")]
+    return {"url": f"../photos/{name}", "page": parts[0].get("page", ""), "subject": e.get("caption", ""),
+            "artist": "; ".join(f"{c['label']}: {c['artist']}" for c in credits),
+            "license": " / ".join(dict.fromkeys(c["license"] for c in credits)), "license_url": "",
+            "parts": credits, "via": "", "year": min(years) if years else None}
 
 
 def apply_overrides(articles: list[dict], overrides: dict) -> int:

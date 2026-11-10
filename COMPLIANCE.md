@@ -34,7 +34,7 @@ Quality matters more than quantity.
 ## 3. Copyright
 
 - **Text.** Stories are original writing. Quotes are short, exact and attributed. Never paste whole articles.
-- **Photos.** Only Wikimedia Commons files with free licences (CC, public domain). Logos, flags and "fair use" files are skipped automatically. Each photo shows its author, licence and source link, as the licences require. Never add photos from Getty, Reuters, AP or club websites.
+- **Photos.** Only Wikimedia Commons files with free licences (CC, public domain). Logos, flags and "fair use" files are skipped automatically. Each photo shows its author, licence and source link, as the licences require. Never add photos from Getty, Reuters, AP or club websites. Use the most recent free photo available, even if it is not from the exact event (the standards check warns when a news cover photo is more than 3 years older than the story).
 - **No AI images of real people.** They can mislead readers and break platform rules.
 - **Fonts.** Self-hosted under the SIL Open Font License (the licences are in `sportnews/fonts/`).
 - **Takedown requests.** Answer them quickly through the contact address, and remove the item if the request is valid.

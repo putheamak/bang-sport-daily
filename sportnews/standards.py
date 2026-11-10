@@ -50,6 +50,7 @@ STRONG_SOURCES = ("bbc.", "reuters.", "apnews.", "theguardian.", "skysports.", "
 DEFAULTS = {
     "enabled": True,
     "block_on_publish": True,       # BLOCK problems stop the Publish workflow (use "publish-anyway" to override)
+    "max_cover_photo_age_years": 3, # news cover photo older than this -> warning: use the latest free photo
     "min_sources_news": 2,          # news needs at least this many sources (one must be a major outlet)
     "max_source_age_days_news": 3,  # a news story's sources should be this fresh (judged from dates in links)
     "max_story_age_days_news": 4,   # news drafts older than this should be updated or rejected before publishing
@@ -105,6 +106,13 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     text = "\n".join([head, sub, body])
     plain = _strip_quotes(text)
     kind = a.get("type", "news")
+
+    # ---------------- PHOTOS: use the most recent free photo available (editor's rule, 10 Nov 2026)
+    cover = (a.get("images") or [{}])[0]
+    yr, story_yr = cover.get("year"), int(str(a.get("date") or "0000")[:4] or 0)
+    if kind == "news" and yr and story_yr and story_yr - yr > r.get("max_cover_photo_age_years", 3):
+        out.append(_issue("WARN", "photos", f"Cover photo is from {yr}. Use the most recent free photo available "
+                                            "(for example the latest title celebration), even if it is not from this event"))
 
     # ---------------- ETHICS
     if BETTING.search(text + " " + social):

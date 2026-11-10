@@ -585,3 +585,36 @@ def test_inline_image_markers():
          "en": {"body_markdown": "Intro.\n\n[[img:chart]]\n\nMore.\n\n[[img:missing]]\n\nEnd."}}
     html = _body_with_images(a, "en")
     assert "b.png" in html and "a.png" not in html and "[[img" not in html
+
+
+def test_combined_cover_photo(repo, monkeypatch):
+    """Editor asked (10 Nov 2026) for Vietnam's and Indonesia's photos side by side as one cover, each credited."""
+    import io
+    from PIL import Image
+    from sportnews import images, site
+    info = {"Vn.png": {"url": "https://u/vn", "page": "https://c/vn", "artist": "VN author", "license": "CC BY 3.0",
+                       "license_url": "https://l/by", "year": 2025},
+            "Id.jpg": {"url": "https://u/id", "page": "https://c/id", "artist": "BPMI", "license": "Public domain", "year": 2025}}
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: dict(info[n.replace("_", " ")]))
+
+    def png(w, h):
+        b = io.BytesIO(); Image.new("RGB", (w, h), "red").save(b, "PNG"); return b.getvalue()
+    monkeypatch.setattr(images, "_download", lambda url: png(1200, 500) if url.endswith("vn") else png(900, 600))
+    im = images.resolve_entry({"combine": [{"commons": "Vn.png", "label": "Vietnam"}, {"commons": "Id.jpg", "label": "Indonesia"}],
+                               "caption": "Two champions", "name": "two.jpg"})
+    out = Image.open(repo / "docs" / "photos" / "two.jpg")
+    assert out.height == 500 and out.width == 1200 + 750 + 8
+    assert im["url"] == "../photos/two.jpg" and im["year"] == 2025
+    credit = site._credit(im, "en")
+    assert "Vietnam: <a href=\"https://c/vn\"" in credit and "Indonesia:" in credit and "Public domain" in credit
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: None if "Id" in n else dict(info["Vn.png"]))
+    assert images.resolve_entry({"combine": [{"commons": "Vn.png"}, {"commons": "Id.jpg"}]}) is None   # not free -> nothing
+
+
+def test_old_cover_photo_warning(repo):
+    from sportnews import standards
+    a = {"type": "news", "date": "2026-11-09", "en": {"headline": "H", "body_markdown": "Text."}, "sources": [],
+         "images": [{"url": "x", "license": "CC BY-SA 2.0", "year": 2008}]}
+    assert any(i["area"] == "photos" and "2008" in i["msg"] for i in standards.check_article(cfg(), a))
+    a["images"][0]["year"] = 2025
+    assert not any(i["area"] == "photos" for i in standards.check_article(cfg(), a))

@@ -239,6 +239,16 @@ def _cover(cfg, a, lang, cls="ph") -> str:
 
 
 def _credit(im, lang) -> str:
+    if im.get("parts"):             # combined photo: each part keeps its own author and licence
+        bits = []
+        for c in im["parts"]:
+            lic = (f'<a href="{E(c["license_url"])}" rel="noopener nofollow" target="_blank">{E(c["license"])}</a>'
+                   if c.get("license_url") else E(c["license"]))
+            who = (f'<a href="{E(c["page"])}" rel="noopener nofollow" target="_blank">{E(c["artist"])}</a>'
+                   if c.get("page") else E(c["artist"]))
+            bits.append(f'{E(c.get("label", ""))}: {who} / {lic}')
+        subj = f'{E(im["subject"])} · ' if im.get("subject") else ""
+        return f'{subj}{UI2[lang]["photo"]}: {"; ".join(bits)} {UI2[lang]["via"]}'.rstrip()
     lic = f'<a href="{E(im["license_url"])}" rel="noopener nofollow" target="_blank">{E(im["license"])}</a>' if im.get("license_url") else E(im["license"])
     who = (f'<a href="{E(im["page"])}" rel="noopener nofollow" target="_blank">{E(im["artist"])}</a>'
            if im.get("page") else E(im["artist"]))

@@ -13,6 +13,18 @@
 #          license: "© Bang Sport Daily"             # REQUIRED: e.g. "CC BY 4.0" or "Used with permission"
 #          source: "https://link-to-original"         # optional, recommended for licensed photos
 #
+#   3) Two (or more) free photos side by side as ONE image (e.g. a cover with two champions):
+#        - combine:
+#            - {commons: "File A.jpg", label: "Vietnam"}
+#            - {commons: "File B.jpg", label: "Indonesia"}
+#          caption: "What the combined photo shows"
+#          name: "short-file-name.jpg"                # optional
+#        Each part is licence-checked and credited separately. If one part is not free, nothing is combined.
+#
+# RULE (editor, Nov 2026): always use the MOST RECENT free photo available, even if it is not from this exact
+# event (e.g. the latest title celebration rather than a photo from 2008). The standards check warns when a
+# news cover photo is more than 3 years older than the story.
+#
 # mode: replace  = use only these photos (first one is the large top photo)
 # mode: add      = put these first, keep the automatic ones after them
 #
@@ -49,7 +61,11 @@
 2026-11-09-news-41548e:
   mode: add
   photos:
-    - commons: "Vietnam football team My Dinh AFF Cup 2008.jpg"
+    - combine:
+        - {commons: "Vietnam celebrating 2024 ASEAN Championship title.png", label: "Vietnam"}
+        - {commons: "Group photo of Indonesia national football team.jpg", label: "Indonesia"}
+      name: "sea-champions-vietnam-indonesia.jpg"
+      caption: "Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025"
     - id: morodok
       wikipedia: "Morodok Techo National Stadium"
       caption: "Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium"
