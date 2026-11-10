@@ -198,6 +198,18 @@ def _download(url: str) -> bytes:
         return r.read()
 
 
+def _crop_to(img, ratio: float):
+    """Centre-crop to width/height = ratio (a little higher than centre when cutting height: faces are near the top)."""
+    w, h = img.size
+    if w / h > ratio:
+        nw = max(1, round(h * ratio))
+        x = (w - nw) // 2
+        return img.crop((x, 0, x + nw, h))
+    nh = max(1, round(w / ratio))
+    y = int((h - nh) * 0.25)
+    return img.crop((0, y, w, y + nh))
+
+
 def combine_entry(e: dict) -> dict | None:
     """Two or more licence-checked photos side by side as ONE image (e.g. a cover showing two champions).
     Each part keeps its own author and licence in the credit line. If any part is not free-licensed,
@@ -217,6 +229,10 @@ def combine_entry(e: dict) -> dict | None:
         h = min(800, min(i.height for i in imgs))
         imgs = [i.resize((max(1, round(i.width * h / i.height)), h), Image.LANCZOS) for i in imgs]
         gap = 8
+        aspect = e.get("aspect", 2.0)      # whole picture width:height. 2.0 keeps both halves visible on the
+        if aspect:                         # 16:9 / 4:3 story cards; use "aspect: 0" to keep the photos uncropped
+            part_r = (float(aspect) * h - gap * (len(imgs) - 1)) / len(imgs) / h
+            imgs = [_crop_to(i, part_r) for i in imgs]
         canvas = Image.new("RGB", (sum(i.width for i in imgs) + gap * (len(imgs) - 1), h), "white")
         x = 0
         for i in imgs:

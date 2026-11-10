@@ -602,8 +602,10 @@ def test_combined_cover_photo(repo, monkeypatch):
     monkeypatch.setattr(images, "_download", lambda url: png(1200, 500) if url.endswith("vn") else png(900, 600))
     im = images.resolve_entry({"combine": [{"commons": "Vn.png", "label": "Vietnam"}, {"commons": "Id.jpg", "label": "Indonesia"}],
                                "caption": "Two champions", "name": "two.jpg"})
+    wide = images.resolve_entry({"combine": [{"commons": "Vn.png"}, {"commons": "Id.jpg"}], "name": "w.jpg", "aspect": 0})
+    assert Image.open(repo / "docs" / "photos" / "w.jpg").width == 1200 + 750 + 8 and wide
     out = Image.open(repo / "docs" / "photos" / "two.jpg")
-    assert out.height == 500 and out.width == 1200 + 750 + 8
+    assert out.height == 500 and out.width == 1000             # cropped to 2:1 so both halves show on cards
     assert im["url"] == "../photos/two.jpg" and im["year"] == 2025
     credit = site._credit(im, "en")
     assert "Vietnam: <a href=\"https://c/vn\"" in credit and "Indonesia:" in credit and "Public domain" in credit
