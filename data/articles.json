@@ -1,5 +1,345 @@
 [
   {
+    "id": "2026-11-10-hist-e31f76",
+    "slug": "a-turning-point-for-fair-play-the-birth-of-the-world-anti-do",
+    "date": "2026-11-10",
+    "created": "2026-11-10T17:01:28+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Multi-Sport",
+    "tags": [
+      "WADA",
+      "Lausanne",
+      "IOC",
+      "World Anti-Doping Code",
+      "On This Day"
+    ],
+    "athletes": [
+      "Witold Bańka",
+      "Yang Yang",
+      "Grigory Rodchenkov",
+      "Richard McLaren"
+    ],
+    "image_subjects": [
+      "World Anti-Doping Agency",
+      "Lausanne",
+      "International Olympic Committee",
+      "Court of Arbitration for Sport"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "World Anti-Doping Agency Wikipedia Article",
+        "url": "https://en.wikipedia.org/wiki/World_Anti-Doping_Agency"
+      },
+      {
+        "title": "Lausanne Wikipedia Article",
+        "url": "https://en.wikipedia.org/wiki/Lausanne"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.012,
+      "longest": 13,
+      "phrases": [
+        "over 30 sports had been involved in or benefited from state sponsored doping"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "A Turning Point for Fair Play: The Birth of the World Anti-Doping Agency in Lausanne",
+      "subheadline": "Established on November 10, 1999, the international body united governments and the Olympic movement to safeguard the integrity of sport.",
+      "body_markdown": "## A New Horizon in the Olympic Capital\n\nOn November 10, 1999, the global sports landscape underwent a fundamental transformation. In Lausanne, Switzerland—hailed widely as the Olympic Capital—delegates from more than 140 national governments joined forces with the International Olympic Committee to officially establish the World Anti-Doping Agency.\n\nThe creation of the agency followed mounting concern over drug use in elite competitions, stemming from discussions that birthed the 'Declaration of Lausanne' nearly a year prior. Headquartered initially in the Swiss city before relocating its main operations to Montreal, Quebec, Canada, in 2002, the organization was designed to serve as an independent international body dedicated to promoting, coordinating, and monitoring the fight against performance-enhancing substances in sports.\n\nLausanne, situated on the shores of Lake Geneva and recognized officially as the Olympic Capital since 1994, provided a fitting backdrop for the milestone. While the city's Lausanne office transitioned into a regional hub for Europe, WADA expanded its footprint globally, establishing other regional offices across Africa, Asia/Oceania, and Latin America.\n\n## Structure and Evolution of the World Anti-Doping Code\n\nFrom its inception, WADA was built on a unique partnership model. Funded equally by the IOC and various national governments, its 38-member Foundation Board and 16-member executive committee balance perspectives from public authorities and the sports movement alike, including active and retired athletes. As of April 2024, Witold Bańka serves as president, with Yang Yang holding the position of vice-president.\n\nThe agency's regulatory cornerstone, the World Anti-Doping Code, harmonized disparate rules across international federations and national organizations. Adopted unanimously by more than 600 sports organisations at a global conference in November 2007 and updated periodically—most notably in 2015 and through a review process initiated in November 2017 that led to a 2021 update—the Code established standardized protocols for testing, scientific research, and educational initiatives. Supported by around 30 accredited laboratories worldwide, WADA cemented the Court of Arbitration for Sport as the ultimate judicial authority for doping disputes.\n\n## Navigating Controversy and Looking Forward\n\nAs the organization matured into the 21st century, its resolve faced immense institutional challenges. In 2016, academic Richard McLaren, acting as an independent investigator commissioned by WADA, published reports detailing that more than 1,000 Russian athletes across over 30 sports had been involved in or benefited from state-sponsored doping between 2011 and 2015. The findings led to significant international sanctions, including many Russian athletes being barred from the 2018 Winter Olympics. Subsequent decisions by WADA to lift certain bans generated intense debate and criticism from whistleblowers and legal representatives.\n\nMore than two decades after its founding convention in Lausanne, WADA oversees approximately 700 sports organization signatories bound by the World Anti-Doping Code. The organization continues to adapt through specialized panels like the Nominations Committee—established in September 2019 with independent figures such as Diane Smith-Gander as inaugural chair—and the Athlete Committee, striving to preserve the foundational right of competitors to participate in a fair and transparent sporting environment.",
+      "social_post": "On this day in 1999, the World Anti-Doping Agency was formed in Lausanne, uniting over 140 nations and the IOC to protect clean sport. How far has the global fight against doping come since then? Share your thoughts below! #WADA #AntiDoping #OlympicCapital #SportsIntegrity"
+    },
+    "zh": {
+      "headline": "体坛纯洁性的分水岭：世界反兴奋剂机构在洛桑诞生",
+      "subheadline": "这个成立于1999年11月10日的国际组织，将各国政府与奥林匹克运动紧密联结，共同捍卫体育赛事的公正底线。",
+      "body_markdown": "## 奥林匹克之都的新地平线\n\n1999年11月10日，全球体育版图迎来了根本性的变革。在被誉为“奥林匹克之都”的瑞士洛桑，来自140多个国家政府的代表与国际奥林匹克委员会携手并肩，正式宣告世界反兴奋剂机构（WADA）的成立。\n\n该机构的诞生源于各方对精英赛场禁药泛滥日益加剧的担忧，其根基可以追溯到近一年前促成《洛桑宣言》的密集磋商。WADA总部最初设在这座瑞士城市，后于2002年将主要运营业务迁至加拿大魁北克省蒙特利尔。作为独立且国际化的权威机构，WADA自成立起便肩负起推动、协调并监督全球反兴奋剂斗争的核心使命。\n\n洛桑坐落于莱芒湖畔，自1994年起正式获得“奥林匹克之都”的美誉，为这一里程碑时刻提供了再合适不过的背景。尽管最初的洛桑办公室后来转型为辐射欧洲的区域枢纽，但WADA的足迹已迅速走向全球，陆续在非洲、亚洲/大洋洲以及拉丁美洲设立了其他区域办事处。\n\n## 《世界反兴奋剂条例》的架构与演进\n\n自创立之日起，WADA便建立在一种独特的伙伴关系模式之上。由国际奥委会与各国政府对等资助，其由38名成员组成的基金会董事会和16名成员组成的执委会，平衡了来自公共管理部门和体育界（包括现役与退役运动员）的多元视角。截至2024年4月，维托尔德·班卡（Witold Bańka）担任主席，杨扬则出任副主席一职。\n\nWADA的监管基石——《世界反兴奋剂条例》，彻底统一了各大国际单项体育联合会与国家级组织原本光怪陆离的规章制度。2007年11月，在一次全球会议上，该《条例》获得了600多家体育组织的无条件一致通过，并经历了数次周期性修订——其中最引人注目的是2015年的更新，以及2017年11月启动、最终促成2021年版本生效的全面审议。《条例》为兴奋剂检测、科学研究和教育倡议确立了标准化的操作规程。在全球约30家认证实验室的支持下，WADA进一步确立了国际体育仲裁法庭（CAS）作为处理兴奋剂纠纷的最高司法裁决权威。\n\n## 穿越风雨，面向未来\n\n随着该组织迈入21世纪并走向成熟，其坚定立场也面临着巨大的体制挑战。2016年，受WADA委托的独立调查员、学术专家理查德·麦克拉伦（Richard McLaren）公开发布报告，详细披露了2011年至2015年期间，跨越30多个运动项目的1000多名俄罗斯运动员曾参与或受益于国家主导的兴奋剂计划。这一调查结果引发了严厉的国际制裁，包括大批俄罗斯运动员被禁止参加2018年平昌冬奥会。随后，WADA解除部分禁令的决定在举报人和法律界代表中引发了激烈的争论与批评。\n\n在洛桑创立二十多年后，WADA如今已监管着约700个受《世界反兴奋剂条例》约束的体育组织签约方。通过2019年9月成立的提名委员会（由戴安娜·史密斯-甘德等独立人士出任首任主席）以及运动员委员会等专业专门小组，该组织不断自我调整，竭力维护竞争者在公平透明的体育环境中公平竞技的基本权利。",
+      "social_post": "1999年的今天，世界反兴奋剂机构在洛桑宣告成立，140多个国家与国际奥委会携手捍卫纯洁体育。自那时起，全球反兴奋剂事业究竟取得了多大进展？欢迎在下方留下你的看法！ #WADA #反兴奋剂 #奥林匹克之都 #体育精神"
+    },
+    "ru": {
+      "headline": "Поворотный момент для честной игры: рождение Всемирного антидопингового агентства в Лозанне",
+      "subheadline": "Созданная 10 ноября 1999 года международная структура объединила правительства и олимпийское движение ради защиты честности спорта.",
+      "body_markdown": "## Новые горизонты в олимпийской столице\n\n10 ноября 1999 года ландшафт мирового спорта претерпел фундаментальные изменения. В Лозанне (Швейцария), широко известной как олимпийская столица, делегаты более чем 140 национальных правительств объединили усилия с Международным олимпийским комитетом, чтобы официально учредить Всемирное антидопинговое агентство.\n\nСоздание организации стало ответом на нарастающую озабоченность по поводу применения допинг-препаратов в элитном спорте, выросшую из дискуссий, которые почти за год до этого привели к принятию «Лозаннской декларации». Штаб-квартира организации первоначально располагалась в этом швейцарском городе, а в 2002 году основные операционные мощности переехали в канадский Монреаль (провинция Квебек). Задуманное как независимый международный орган, агентство было призвано продвигать, координировать и контролировать борьбу с запрещенными в спорте субстанциями, повышающими результаты.\n\nЛозанна, расположенная на берегах Женевского озера и официально признанная олимпийской столицей с 1994 года, стала идеальным фоном для этого эпохального события. Хотя лозаннский офис организации со временем превратился в региональный хаб для Европы, ВАДА расширило свое глобальное присутствие, открыв другие региональные представительства в Африке, Азии/Океании и Латинской Америке.\n\n## Структура и эволюция Всемирного антидопингового кодекса\n\nС самого момента своего зарождения ВАДА строилось на уникальной модели партнерства. Финансируемое на паритетной основе МОК и различными национальными правительствами, его правление (состоящее из 38 человек) и исполнительный комитет (из 16 человек) объединяют точки зрения как государственных органов, так и спортивного движения, включая действующих и завершивших карьеру атлетов. По состоянию на апрель 2024 года пост президента занимает Витольд Банька, а должность вице-президента удерживает Ян Ян (Yang Yang).\n\nНормативным краеугольным камнем агентства стал Всемирный антидопинговый кодекс, который гармонизировал разрозненные правила международных федераций и национальных организаций. Единогласно принятый более чем 600 спортивными структурами на глобальной конференции в ноябре 2007 года и периодически обновляемый — наиболее заметно в 2015-м и в ходе запущенного в ноябре 2017 года процесса пересмотра, приведшего к обновлению 2021 года, — Кодекс закрепил стандартизированные протоколы тестирования, научных исследований и образовательных инициатив. Опираясь на сеть примерно из 30 аккредитованных по всему миру лабораторий, ВАДА утвердило Спортивный арбитражный суд в качестве высшей судебной инстанции по допинговым спорам.\n\n## Преодолевая противоречия и глядя в будущее\n\nПо мере того как организация взрослела в XXI веке, ее решимость сталкивалась с колоссальными институциональными вызовами. В 2016 году академик Ричард Макларен (Richard McLaren), выступавший в качестве независимого следователя по поручению ВАДА, опубликовал доклады, в которых детально утверждалось, что с 2011 по 2015 год более 1000 российских атлетов из более чем 30 видов спорта были вовлечены в государственную систему допинга или получали от нее выгоду. Эти выводы привели к серьезным международным санкциям, включая отстранение многих российских спортсменов от зимних Олимпийских игр 2018 года. Последующие решения ВАДА о снятии определенных запретов вызывали ожесточенные дебаты и критику со стороны информаторов и юридических представителей.\n\nСпустя более чем два десятилетия после своей учредительной конференции в Лозанне ВАДА осуществляет надзор примерно за 700 спортивными организациями-подписантами, связанными обязательствами по Всемирному антидопинговому кодексу. Организация продолжает адаптироваться через специализированные комитеты, такие как Комитет по назначениям, созданный в сентябре 2019 года, первым председателем которого стала независимый деятель Дайан Смит-Гандер (Diane Smith-Gander), и Комиссия атлетов, неизменно стремясь защитить фундаментальное право соревнующихся выступать в справедливой и прозрачной спортивной среде.",
+      "social_post": "Ровно в этот день в 1999 году в Лозанне было создано Всемирное антидопинговое агентство, объединившее более 140 государств и МОК ради защиты чистого спорта. Как далеко продвинулась глобальная борьба с допингом с тех пор? Делитесь своими мыслями в комментариях! #WADA #AntiDoping #OlympicCapital #SportsIntegrity"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lausanne_Wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Lausanne_Wiki.jpg",
+        "artist": "File:Musee olympique.jpg : Arnaud Gaillard (arnaud () amarys.com) File:Cathédrale de Lausanne depuis le Champ de l'Air.J",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Montage de plusieurs images sur la ville de Lausanne : Musée olympique, Cathédrale depuis le Champ de l'Air, Tribunal Fédéral et vue aérienne.",
+        "width": 1200,
+        "height": 1496,
+        "subject": "Lausanne"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Si%C3%A8ge_CIO_2020_%281%29.jpg/1280px-Si%C3%A8ge_CIO_2020_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_CIO_2020_(1).jpg",
+        "artist": "Gzzz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "The IOC headquarters, in Lausanne (Switzerland).",
+        "width": 1200,
+        "height": 800,
+        "subject": "International Olympic Committee"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Court_of_Arbitration_for_Sport_-_Lausanne.jpg/1280px-Court_of_Arbitration_for_Sport_-_Lausanne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Court_of_Arbitration_for_Sport_-_Lausanne.jpg",
+        "artist": "Fanny Schertzer",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "The Castle of Béthusy, headquarters of the Court of Arbitration for Sport in Lausanne, Switzerland.",
+        "width": 1200,
+        "height": 800,
+        "subject": "Court of Arbitration for Sport"
+      }
+    ],
+    "standards": []
+  },
+  {
+    "id": "2026-11-10-news-5d76b6",
+    "slug": "roman-rotenberg-responds-to-wayne-gretzky-s-remarks-on-2027-",
+    "date": "2026-11-10",
+    "created": "2026-11-10T16:59:36+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Ice Hockey",
+    "tags": [
+      "Roman Rotenberg",
+      "Wayne Gretzky",
+      "World Junior Ice Hockey Championship",
+      "Russian Ice Hockey Federation",
+      "Canada"
+    ],
+    "athletes": [
+      "Roman Rotenberg",
+      "Wayne Gretzky"
+    ],
+    "image_subjects": [
+      "Wayne Gretzky",
+      "Roman Rotenberg",
+      "World Junior Ice Hockey Championships",
+      "Ice hockey"
+    ],
+    "facts_to_verify": [
+      "Statements by Roman Rotenberg published on Sports.ru on November 10, 2026",
+      "Canadian government policy regarding visa issuance for Russian and Belarusian athletes for the 2027 World Junior Championship"
+    ],
+    "sources": [
+      {
+        "title": "Ротенберг о словах Гретцки против допуска России на МЧМ: «Он соблюдает политес. Уэйн обязан говорить такие вещи, чтобы сохранять себя в сообществе, в котором он находится»",
+        "url": "https://www.sports.ru/hockey/1117432442-rotenberg-o-slovax-gretczki-protiv-dopuska-rossii-na-mchm-on-soblyudae.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Roman Rotenberg Responds to Wayne Gretzky's Remarks on 2027 World Junior Championship",
+      "subheadline": "Russian Ice Hockey Federation official comments on Canadian policy and hockey legend's public stance.",
+      "body_markdown": "## Public Remarks on International Restrictions\n\nOn November 10, 2026, Roman Rotenberg, the First Vice-President of the Russian Ice Hockey Federation, publicly addressed recent statements made by hockey legend Wayne Gretzky regarding the 2027 World Junior Ice Hockey Championship. Gretzky had publicly supported the stance of Canadian leadership regarding the exclusion of Russian and Belarusian athletes from entering Canada for international tournaments.\n\nCanadian authorities previously indicated that entry visas would not be issued to athletes representing Russia and Belarus for competitions hosted within the country. When asked about these restrictions, Gretzky publicly endorsed the approach, stating that many Canadian citizens and players shared the perspective.\n\n## Rotenberg's Assessment of the Situation\n\nReacting to the remarks, Rotenberg pointed to Gretzky's heritage, noting his Belarusian grandfather and upbringing within a family familiar with the sport's traditions. However, Rotenberg attributed the public stance to diplomatic necessity rather than personal conviction, suggesting external pressures shape such commentary.\n\n\"He is observing politeness, is friends with the prime minister of Canada, and is friends with Donald Trump. He needs to maintain a neutral position,\" Rotenberg stated, as reported by Sports.ru. He added that the hockey legend operates within a specific social and political environment in North America, suggesting that public figures often align their statements with local expectations to maintain their standing within that community.\n\n## Wider Context of International Competitions\n\nThe discussion surrounds preparations for the 2027 World Junior Championship and the ongoing restrictions impacting youth and senior international ice hockey tournaments. International sports federations and host governments continue to navigate complex geopolitical landscapes regarding the participation of athletes from specific nations.\n\nWhile public debates persist among former players, administrators, and political leaders, sports organizations face ongoing challenges in balancing international competition rules with national immigration policies. The latest remarks highlight the intersection of sports diplomacy and geopolitical pressures affecting upcoming global tournaments, as federations and host nations address visa requirements and entry permissions for scheduled international events.",
+      "social_post": "Roman Rotenberg has responded to Wayne Gretzky's recent public statements concerning the exclusion of Russian and Belarusian teams from the 2027 World Junior Ice Hockey Championship in Canada. Read the latest on sports diplomacy and international tournament preparations. #IceHockey #WorldJuniors #SportsNews #HockeyDiplomacy. Share your thoughts below!"
+    },
+    "zh": {
+      "headline": "罗曼·罗滕贝格回应韦恩·格雷茨基关于2027年世青赛言论",
+      "subheadline": "俄罗斯冰协官员就加拿大政策及这位冰球传奇的公开表态发表评论。",
+      "body_markdown": "## 针对国际限制的公开表态\n\n2026年11月10日，俄罗斯冰球联合会第一副主席罗曼·罗滕贝格（Roman Rotenberg）公开回应了冰球传奇人物韦恩·格雷茨基（Wayne Gretzky）近期关于2027年世界青年冰球锦标赛的言论。此前，格雷茨基曾公开支持加拿大领导层的立场，即拒绝俄罗斯和白俄罗斯运动员入境加拿大参加国际赛事。\n\n加拿大当局此前明确表示，不会向代表俄罗斯和白俄罗斯参赛的运动员发放入境签证。当被问及这些限制措施时，格雷茨基公开表示赞同，并称许多加拿大公民和球员也持相同看法。\n\n## 罗滕贝格对局势的评价\n\n针对这些言论，罗滕贝格提到了格雷茨基的血统，指出他的祖父是白俄罗斯人，且在一个熟悉冰球传统的家庭中长大。不过，罗滕贝格认为格雷茨基的公开表态更多是出于外交层面的必要性，而非其个人真实意愿，暗示外部压力塑造了这样的言论。\n\n「他很懂礼貌，与加拿大总理是朋友，也和唐纳德·特朗普是朋友。他需要保持中立立场，」据Sports.ru报道，罗滕贝格这样说道。他补充称，这位冰球传奇生活在北美特定的社会与政治环境之中，并暗示公众人物往往会为了维持在当地社群中的地位而迎合主流预期。\n\n## 国际赛事的更广泛背景\n\n这场讨论围绕着2027年世青赛的筹备工作，以及持续影响青年和成年国际冰球赛事的种种限制展开。在涉及特定国家运动员参赛的问题上，国际体育联合会与主办国政府仍在复杂的政治地缘环境中艰难抉择。\n\n尽管前球员、管理人员和政治领袖之间的公开争论仍在继续，但体育组织在平衡国际竞赛规则与国家移民政策时，依然面临着重重挑战。最新的言论凸显了体育外交与地缘政治压力对即将到来的全球赛事的影响，各体育联合会与主办国正共同应对既定国际赛事的签证与入境许可要求。",
+      "social_post": "罗曼·罗滕贝格就韦恩·格雷茨基近期关于俄罗斯与白俄罗斯无缘2027年加拿大世青赛的公开言论作出回应。点击阅读体育外交与国际赛事筹备的最新动态。#冰球 #世青赛 #体育新闻 #冰球外交。欢迎在下方分享您的看法！"
+    },
+    "ru": {
+      "headline": "Роман Ротенберг ответил на слова Уэйна Гретцки о МЧМ-2027",
+      "subheadline": "Первый вице-президент ФХР прокомментировал позицию Канады и высказывания легендарного хоккеиста.",
+      "body_markdown": "## Публичные заявления об международных ограничениях\n\n10 ноября 2026 года первый вице-президент Федерации хоккея России Роман Ротенберг публично отреагировал на недавние высказывания легенды хоккея Уэйна Гретцки (Wayne Gretzky), касающиеся молодежного чемпионата мира по хоккею 2027 года. Гретцки открыто поддержал позицию руководства Канады в отношении недопуска российских и белорусских спортсменов на территорию страны для участия в международных турнирах.\n\nРанее власти Канады дали понять, что въездные визы спортсменам, представляющим Россию и Беларусь, на соревнования, проводимые внутри страны, выдаваться не будут. Отвечая на вопросы об этих ограничениях, Гретцки публично поддержал такой подход, заявив, что многие канадские граждане и игроки разделяют эту точку зрения.\n\n## Оценка ситуации от Ротенберга\n\nРеагируя на эти слова, Ротенберг напомнил о происхождении Гретцки, отметив, что у него белорусский дедушка и что он воспитывался в семье, знакомой с традициями этого вида спорта. Тем не менее, Ротенберг объяснил подобную публичную позицию дипломатической необходимостью, а не личными убеждениями, намекнув, что на такие комментарии влияют внешние факторы.\n\n«Он соблюдает политкорректность, дружит с премьер-министром Канады и с Дональдом Трампом. Ему нужно сохранять нейтральную позицию», — заявил Ротенберг, как сообщает Sports.ru. Он добавил, что хоккейная легенда функционирует в определенной социально-политической среде Северной Америки, предположив, что общественные деятели часто подстраивают свои высказывания под местные ожидания ради сохранения своего статуса в этом сообществе.\n\n## Более широкий контекст международных соревнований\n\nДискуссия разворачивается на фоне подготовки к молодежному чемпионату мира 2027 года и продолжающихся ограничений, затрагивающих как молодежные, так и взрослые международные хоккейные турниры. Международные спортивные федерации и правительства принимающих стран продолжают лавировать в сложных геополитических реалиях, когда речь заходит об участии атлетов из конкретных государств.\n\nПока между бывшими игроками, функционерами и политическими лидерами продолжаются публичные дебаты, спортивные организации сталкиваются с постоянными трудностями в поиске баланса между правилами международных соревнований и национальной иммиграционной политикой. Последние заявления ярко иллюстрируют пересечение спортивной дипломатии и геополитического давления, влияющих на предстоящие глобальные турниры, в то время как федерации и принимающие страны решают вопросы с визами и разрешениями на въезд на запланированные международные мероприятия.",
+      "social_post": "Роман Ротенберг отреагировал на недавние публичные заявления Уэйна Гретцки касательно недопуска российских и белорусских команд на молодежный чемпионат мира по хоккею 2027 года в Канаде. Читайте подробности о спортивной дипломатии и подготовке к международным турнирам. #Хоккей #МЧМ #СпортивныеНовости #ХоккейнаяДипломатия. Делитесь своими мыслями в комментариях!"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Roman_Borisovich_Rotenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Roman_Borisovich_Rotenberg.jpg",
+        "artist": "Петр Малышев",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Роман Борисович Ротенберг",
+        "width": 1200,
+        "height": 1600,
+        "subject": "Roman Rotenberg"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/1280px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Pittsburgh_Penguins,_Washington_Capitals,_Bryan_Rust_(33744033514).jpg",
+        "artist": "Keith Allison from Hanover, MD, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Bryan Rust of the Pittsburgh Penguins scores a goal against the Washington Capitals in Game Seven of the Eastern Conference Second Round during the 2017 NHL Stanley Cup Playoffs at Verizon Center on M",
+        "width": 1200,
+        "height": 869,
+        "subject": "Ice hockey"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Statements by Roman Rotenberg published on Sports.ru on November 10, 2026"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Canadian government policy regarding visa issuance for Russian and Belarusian athletes for the 2027 World Junior Championship"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Only 1 source(s). News needs at least 2"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ],
+    "auto_rejected": [
+      "fewer than 2 sources"
+    ]
+  },
+  {
+    "id": "2026-11-10-news-b57d9e",
+    "slug": "mishina-and-galliamov-seal-triumphant-return-with-gold-at-gr",
+    "date": "2026-11-10",
+    "created": "2026-11-10T16:44:42+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "figure skating",
+    "tags": [
+      "Anastasia Mishina",
+      "Aleksandr Galliamov",
+      "Betina Popova",
+      "Grand Prix of China",
+      "Figure Skating"
+    ],
+    "athletes": [
+      "Anastasia Mishina",
+      "Aleksandr Galliamov",
+      "Betina Popova"
+    ],
+    "image_subjects": [
+      "Anastasia Mishina",
+      "Aleksandr Galliamov",
+      "Grand Prix of Figure Skating",
+      "Figure skating"
+    ],
+    "facts_to_verify": [
+      "Exact scores of Anastasia Mishina and Aleksandr Galliamov at the 2026 Grand Prix of China",
+      "Dates and location details of the specific Grand Prix of China event"
+    ],
+    "sources": [
+      {
+        "title": "Бетина Попова: «Золото Мишиной и Галлямова – невероятно радостное событие»",
+        "url": "https://www.sports.ru/figure-skating/1117432473-betina-popova-zoloto-mishinoj-i-gallyamova-neveroyatno-radostnoe-sobyt.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Mishina and Galliamov seal triumphant return with gold at Grand Prix of China",
+      "subheadline": "Anastasia Mishina and Aleksandr Galliamov captured the pairs title in China, reaffirming their status among the world's elite after a long absence from international competition.",
+      "body_markdown": "Anastasia Mishina and Aleksandr Galliamov secured the gold medal in pairs figure skating at the ISU Grand Prix of China, delivering a commanding performance upon their return to major international competition. The victory marks a significant milestone for the accomplished duo, who had previously claimed the world championship title before international sports bans suspended participation by Russian athletes.\n\n## A Seamless Return to the Top\n\nReflecting on the victory, choreographer and coach Betina Popova praised the pair's execution under pressure. \"Our guys showed the maximum,\" Popova told Sports.ru, emphasizing that their return reestablishes them firmly on the position of the best. \"Do ostraneniya rossijskih sportsmenov ot mezhdunarodnyh startov kak raz-taki Anastasiya s Aleksandrom vyigrali chempionat mira, i vot oni vernulis' i vse tak zhe na pozitsii luchshih, kak eto i dolzhno byt',\" she added, noting the emotional significance of the triumph.\n\n## The Broader Competitive Landscape\n\nPopova also highlighted the wider state of disciplines such as men's and pairs skating, suggesting that intense domestic competition during the period of international isolation helped skaters maintain rigorous technical standards. According to analysts, the depth of talent within these categories has allowed athletes to deliver clean, polished routines capable of capturing high scores upon returning to the global circuit.\n\n## Looking Ahead on the Grand Prix Circuit\n\nAs the ISU Grand Prix series continues, attention turns to subsequent stages and how returning competitors will measure against emerging international challengers. For Mishina and Galliamov, claiming the top step of the podium in China validates years of consistent training regimes and sets a clear benchmark for the remainder of the season.",
+      "social_post": "Anastasia Mishina and Aleksandr Galliamov made a triumphant return to international competition, claiming gold in pairs figure skating at the Grand Prix of China. How will this victory shape the rest of the Grand Prix series? Let us know your thoughts below! #FigureSkating #GrandPrixOfChina #MishinaGalliamov #ISU"
+    },
+    "zh": {
+      "headline": "米申娜与加利亚莫夫中国杯强势夺金，完美回归国际大舞台",
+      "subheadline": "在缺席国际赛场许久之后，阿纳斯塔西娅·米申娜与亚历山大·加利亚莫夫在中国杯双人滑中折桂，用实力再度宣誓了他们世界顶尖的王者地位。",
+      "body_markdown": "在国际滑联（ISU）花样滑冰大奖赛中国杯的双人滑较量中，阿纳斯塔西娅·米申娜（Anastasia Mishina）与亚历山大·加利亚莫夫（Aleksandr Galliamov）以一场极具统治力的表现摘得金牌，宣告重返国际顶级赛场。对于这对曾登顶世界之巅、却因俄罗斯运动员遭国际禁赛而被迫远离国际赛事的顶尖组合而言，这场胜利无疑具有里程碑式的意义。\n\n## 完美回归，重登巅峰\n\n谈及这场胜利，编导兼教练贝蒂娜·波波娃对这对组合在巨大压力下的完美发挥赞不绝口。「我们的队员展现出了百分之百的实力，」波波娃在接受Sports.ru采访时强调，这次回归让所有人再次看到他们依然稳居世界之巅，「在俄罗斯运动员被禁赛前，正是不娜（Anastasia）和萨沙（Aleksandr）赢得了世锦赛冠军；如今他们王者归来，依然稳坐最佳宝座，这本该就是他们应有的位置。」她同时坦言，这场胜利背后蕴含着难以言喻的情感分量。\n\n## 审视更广阔的竞争格局\n\n波波娃还谈到了男单和双人滑等项目的整体现状，她指出，在国际孤立期内，国内高强度的白热化竞争帮助运动员们维持了严苛的技术标准。据业内分析人士称，这些项目深厚的人才储备，使得选手们在重返国际巡回赛时，能够拿出足够干净、成熟且极具冲击高分潜力的成套节目。\n\n## 展望大奖赛后续赛程\n\n随着ISU大奖赛激战正酣，人们的目光自然转向了接下来的分站赛，以及回归的顶尖选手将如何与崭露头角的国际新秀一较高下。对米申娜和加利亚莫夫而言，中国杯的最高领奖台不仅是对多年如一日刻苦训练的最好回报，也为他们接下来的整个赛季树立了无可争议的标杆。",
+      "social_post": "阿纳斯塔西娅·米申娜与亚历山大·加利亚莫夫强势回归国际赛场，斩获花样滑冰大奖赛中国杯双人滑金牌！你认为这场胜利会如何影响接下来大奖赛的走向？欢迎在评论区留下你的看法！#花样滑冰 #中国杯大奖赛 #米申娜加利亚莫夫 #国际滑联"
+    },
+    "ru": {
+      "headline": "Мишина и Галлямов триумфально вернулись на международную арену, забрав золото Гран-при Китая",
+      "subheadline": "Анастасия Мишина и Александр Галлямов стали победителями соревнований спортивных пар в Китае, вновь подтвердив свой элитный статус после долгого отсутствия на международной арене.",
+      "body_markdown": "Анастасия Мишина и Александр Галлямов завоевали золотые медали в парном катании на этапе Гран-при ISU в Китае, выдав мощнейший прокат в своем первом за долгое время международном турнире. Эта победа стала важнейшей вехой для титулованного дуэта, который ранее уже выигрывал чемпионат мира, после чего российские спортсмены были отстранены от международных стартов.\n\n## Безупречное возвращение на вершину\n\nОценивая этот триумф, хореограф и тренер Бетина Попова похвалила фигуристов за идеальное исполнение программ под колоссальным давлением. «Наши ребята показали максимум», — заявила Попова в интервью Sports.ru, подчеркнув, что их возвращение четко закрепляет за ними статус сильнейших. «До отстранения российских спортсменов от международных стартов как раз-таки Анастасия с Александром выиграли чемпионат мира, и вот они вернулись и все так же на позиции лучших, как это и должно быть», — добавила она, отметив эмоциональную значимость этой победы.\n\n## Общий контекст конкуренции\n\nПопова также высказалась о текущем состоянии дел в таких дисциплинах, как мужское одиночное и парное катание, предположив, что острейшая внутренняя конкуренция в период международной изоляции помогла спортсменам сохранить жесткие технические стандарты. По мнению аналитиков, глубина состава в этих видах позволяет атлетам исполнять чистые, отточенные программы, способные приносить высокие баллы сразу по возвращении на мировую арену.\n\n## Взгляд в будущее серии Гран-при\n\nПо мере того как серия Гран-при ISU набирает обороты, всеобщее внимание переключается на следующие этапы и на то, как вернувшиеся лидеры будут смотреться на фоне новых зарубежных соперников. Для Мишиной и Галлямова победа на высшую ступень пьедестала в Китае подтверждает правильность многолетних тренировок и задает четкую планку на оставшуюся часть сезона.",
+      "social_post": "Анастасия Мишина и Александр Галлямов триумфально вернулись на международную арену, завоевав золото в парном катании на Гран-при Китая. Как эта победа повлияет на расклад сил в серии Гран-при? Делитесь своими мыслями в комментариях! #ФигурноеКатание #ГранПриКитая #МишинаГаллямов #ISU"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2019_Internationaux_de_France_Sunday_Final_8D9A0730.jpg/1280px-2019_Internationaux_de_France_Sunday_Final_8D9A0730.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2019_Internationaux_de_France_Sunday_Final_8D9A0730.jpg",
+        "artist": "Aude Mugnier",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Internationaux de France 2019",
+        "width": 1200,
+        "height": 1600,
+        "subject": "Anastasia Mishina"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Aleksandr_Galliamov_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Aleksandr_Galliamov_in_2022_(cropped).jpg",
+        "artist": "Kremlin.ru",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Vladimir Putin, Aleksandr Galliamov in 2022",
+        "width": 1200,
+        "height": 1800,
+        "subject": "Aleksandr Galliamov"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg/1280px-Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg",
+        "artist": "Quejaytee",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Team Les Supreme Free Skate at the 2026 ISU Synchronized Skating World Championships",
+        "width": 1200,
+        "height": 800,
+        "subject": "Figure skating"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact scores of Anastasia Mishina and Aleksandr Galliamov at the 2026 Grand Prix of China"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Dates and location details of the specific Grand Prix of China event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Only 1 source(s). News needs at least 2"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ],
+    "auto_rejected": [
+      "fewer than 2 sources"
+    ]
+  },
+  {
     "id": "2026-11-10-hist-0d8f26",
     "slug": "on-this-day-in-1975-un-general-assembly-passes-resolution-33",
     "date": "2026-11-10",
