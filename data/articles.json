@@ -901,7 +901,7 @@
     "region": "sea",
     "images": [
       {
-        "url": "../photos/sea-champions-vietnam-indonesia.jpg",
+        "url": "../photos/sea-champions-vietnam-indonesia-v2.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Vietnam_celebrating_2024_ASEAN_Championship_title.png",
         "subject": "Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025",
         "artist": "Vietnam: Sao Thể Thao; Indonesia: BPMI Sekretariat Presiden/Muchlis Jr",
@@ -938,6 +938,32 @@
         "year": 2021,
         "subject": "Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium",
         "ref": "morodok"
+      },
+      {
+        "url": "../photos/sea-champions-vietnam-indonesia.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Vietnam_celebrating_2024_ASEAN_Championship_title.png",
+        "subject": "Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025",
+        "artist": "Vietnam: Sao Thể Thao; Indonesia: BPMI Sekretariat Presiden/Muchlis Jr",
+        "license": "CC BY-SA 3.0 / Public domain",
+        "license_url": "",
+        "parts": [
+          {
+            "label": "Vietnam",
+            "artist": "Sao Thể Thao",
+            "page": "https://commons.wikimedia.org/wiki/File:Vietnam_celebrating_2024_ASEAN_Championship_title.png",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+          },
+          {
+            "label": "Indonesia",
+            "artist": "BPMI Sekretariat Presiden/Muchlis Jr",
+            "page": "https://commons.wikimedia.org/wiki/File:Group_photo_of_Indonesia_national_football_team.jpg",
+            "license": "Public domain",
+            "license_url": ""
+          }
+        ],
+        "via": "",
+        "year": 2024
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Vietnam_football_team_My_Dinh_AFF_Cup_2008.jpg/1280px-Vietnam_football_team_My_Dinh_AFF_Cup_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1038,16 +1064,6 @@
         "height": 662,
         "subject": "Sultan Ibrahim Stadium, Johor Darul Ta'zim's 40,000-seat home, opened in 2020",
         "ref": "jdt"
-      },
-      {
-        "url": "../photos/sea-clubs-vs-national-team-2026.png",
-        "page": "",
-        "artist": "Bang Sport Daily (chart)",
-        "license": "Own work",
-        "license_url": "",
-        "subject": "Club strength compared with national-team ranking, 2026",
-        "via": "",
-        "ref": "clubs"
       }
     ],
     "zh": {
@@ -1080,7 +1096,7 @@
       }
     ],
     "published_at": "2026-11-09T23:06:46+07:00",
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025\", \"combine\": [{\"commons\": \"Vietnam celebrating 2024 ASEAN Championship title.png\", \"label\": \"Vietnam\"}, {\"commons\": \"Group photo of Indonesia national football team.jpg\", \"label\": \"Indonesia\"}], \"name\": \"sea-champions-vietnam-indonesia.jpg\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium\", \"id\": \"morodok\", \"wikipedia\": \"Morodok Techo National Stadium\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025\", \"combine\": [{\"commons\": \"Vietnam celebrating 2024 ASEAN Championship title.png\", \"label\": \"Vietnam\"}, {\"commons\": \"Group photo of Indonesia national football team.jpg\", \"label\": \"Indonesia\"}], \"name\": \"sea-champions-vietnam-indonesia-v2.jpg\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium\", \"id\": \"morodok\", \"wikipedia\": \"Morodok Techo National Stadium\"}]}"
   },
   {
     "id": "2026-11-09-athl-045bf1",
