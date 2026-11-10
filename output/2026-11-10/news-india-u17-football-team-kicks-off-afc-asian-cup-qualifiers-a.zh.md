@@ -1,0 +1,26 @@
+# 印度U17男足亮相亚少赛预选赛，首战对阵新加坡
+
+*随着印度队在揭幕战中迎战新加坡，2027年U17亚洲杯的晋级征程正式拉开帷幕。*
+
+**新闻** · 2026-11-10
+
+## 赛事概况
+2026年11月11日星期三，吉隆坡足球场（Kuala Lumpur Football Stadium），印度U17男子足球队迎来了2027年U17亚洲杯预选赛的首秀，首场比赛的对手是新加坡队。
+
+## 焦点所在
+亚少赛历来是亚洲青训发展的核心舞台。对这支印度青年军而言，本届赛事是检验战术纪律、衡量技术进步的绝佳试金石。与此同时，新加坡队也渴望在小组赛中证明自己，这让这场揭幕战对双方而言都成了一场容不得半点闪失的硬仗。
+
+## 关键数据与事实
+*   **赛事名称：** 2027年U17亚洲杯预选赛。
+*   **对阵双方：** 印度U17 vs 新加坡U17。
+*   **E组格局：** 同组对手包括东道主马来西亚、巴勒斯坦以及关岛；只有小组头名才能晋级将于2027年5月12日至29日在乌兹别克斯坦举行的2027年U17亚洲杯正赛。
+*   **赛事背景：** 本次预选赛汇集了全亚洲的青年劲旅，各队分小组展开厮杀，唯有表现最顶尖的队伍才能突围晋级。
+
+## 接下来如何
+在与新加坡的首战之后，印度队将继续进行小组赛的其余较量。这些比赛的战绩将直接决定他们的正赛席位。这个预选赛周期的表现，也将为印度队在2027年亚洲正赛上的整体走势定下基调。
+
+---
+**来源**
+
+- [India U17 Football Team Kicks Off AFC Asian Cup Qualifiers Against Singapore](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdU9IUmdNVGF2UmRPazU0ZUdISndySlBfYkcxazNCcXZIZmxmblowQkZMQ2NsekRIWWNOcVhVZFFmWXlaeFNrckR1X1RnUDY4Tmktb1d0V1hla1pyTF9UWlZ1UGx1TThVZVBJa2M2dFBvSDRDRXc5VEduUlk1cWdUM0NoWi1PZDFrUGt6N0NaN0FfLVRMdVpWcThoUC1TZHNoUHo2dkxvZGJjdWl2MlRrU2RkT0pDV0JxT0p2QWlERUfSAcYBQVVfeXFMTmVRWnpFSmxUcHUza0dnOUdacE1Jb1pBbzVXY0xkUFRkY2Z4RmVjbWJJV05rWTNsOWsxOW0xc0NYa3N5OGkzdUFZaFgtTmE4Tm55NGhxNjRVTHRkMEMzWXJoR1BUM1RjVFFlaWFLSGJpeXNaS2NUaDZFcUNKMUw0QjBDVmJnLVBjODVBSDJiQW0wZHcxcHNRSnU4Qk5QMlJmcllZWUlId21vRHY2RGlzNjYwZk5sSlpXQVdoaDdya0NTZmUzbUF3?oc=5)
+- [India U17 Football Team Set for AFC Qualifiers Against Singapore](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak5vZ1lnMWJCVEhLRFpFaVRQSnZFUWd2Ukp2d2RNY1dXSHhfUFhEeWlXOWV6WDNHYkQ4S0lWRzRhVkVYWFh5dU5fejFnQXhLZFZMUzd0MVhVVnRKOGZzb0MwZzJUUF9CWGFiekUtU1JwYlhVWXhMZlltWXhXakp1MERVbUVVbF9rVndRR0p4ZDk4ODNDSW1yR2F5eGhjTjE4OXVYb3JOZjBLdVZ3LVVGWVdWU2pUaE9BWUZXUWlLY0NXUdIBxwFBVV95cUxNdWgtMlFvZl8wVEZoM0lFNUxuX3NPNkdfNDFyTEZOVjQzZm8yS1ptaF9WR0VyM0N2ci1BRzVhdURDM2U0SjRlNmJzV3R5UG5xRk5FWE43cm9ZZEtnc1ZrNERCNVJENWZrYjM5UkNPMmFWYmJSQUlNMmk5a2E2OHAzT21wVzgydURHZDcyVkY0MEkzSk5WTFhhVUhidzdub2xQd2NmTGZYQ3gtVGwyQk1GUnBsQ2xWNUJXd1h6SE1zRlBMOHRHYUZF?oc=5)
