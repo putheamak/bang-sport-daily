@@ -14,9 +14,9 @@
 
 ## 《世界反兴奋剂条例》的架构与演进
 
-自创立之日起，WADA便建立在一种独特的伙伴关系模式之上。由国际奥委会与各国政府对等资助，其由38名成员组成的基金会董事会和16名成员组成的执委会，平衡了来自公共管理部门和体育界（包括现役与退役运动员）的多元视角。截至2024年4月，维托尔德·班卡（Witold Bańka）担任主席，杨扬则出任副主席一职。
+自创立之日起，WADA便建立在一种独特的伙伴关系模式之上。由国际奥委会与各国政府对等资助，其由38名成员组成的基金会董事会和16名成员组成的执委会，平衡了来自公共管理部门和体育界（包括现役与退役运动员）的多元视角。2025年5月，维托尔德·班卡（Witold Bańka）和杨扬再次当选主席和副主席，开始第三个、也是最后一个三年任期。
 
-WADA的监管基石——《世界反兴奋剂条例》，彻底统一了各大国际单项体育联合会与国家级组织原本光怪陆离的规章制度。2007年11月，在一次全球会议上，该《条例》获得了600多家体育组织的无条件一致通过，并经历了数次周期性修订——其中最引人注目的是2015年的更新，以及2017年11月启动、最终促成2021年版本生效的全面审议。《条例》为兴奋剂检测、科学研究和教育倡议确立了标准化的操作规程。在全球约30家认证实验室的支持下，WADA进一步确立了国际体育仲裁法庭（CAS）作为处理兴奋剂纠纷的最高司法裁决权威。
+WADA的监管基石——《世界反兴奋剂条例》，彻底统一了各大国际单项体育联合会与国家级组织原本光怪陆离的规章制度。该《条例》于2003年在哥本哈根首次通过，2007年11月在马德里世界反兴奋剂大会上修订，此后又于2015年和2021年更新。《条例》为兴奋剂检测、科学研究和教育倡议确立了标准化的操作规程。在全球约30家认证实验室的支持下，WADA进一步确立了国际体育仲裁法庭（CAS）作为处理兴奋剂纠纷的最高司法裁决权威。
 
 ## 穿越风雨，面向未来
 
@@ -29,3 +29,5 @@ WADA的监管基石——《世界反兴奋剂条例》，彻底统一了各大�
 
 - [World Anti-Doping Agency Wikipedia Article](https://en.wikipedia.org/wiki/World_Anti-Doping_Agency)
 - [Lausanne Wikipedia Article](https://en.wikipedia.org/wiki/Lausanne)
+- [Swimming World: World Anti-Doping Agency re-elects President Witold Bańka](https://www.swimmingworldmagazine.com/news/world-anti-doping-agency-re-elects-president-witold-banka)
+- [NADA Germany: World Anti-Doping Code](https://www.nada.de/en/legal-matters/wadc)

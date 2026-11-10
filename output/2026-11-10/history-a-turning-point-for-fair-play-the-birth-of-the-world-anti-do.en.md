@@ -14,9 +14,9 @@ Lausanne, situated on the shores of Lake Geneva and recognized officially as the
 
 ## Structure and Evolution of the World Anti-Doping Code
 
-From its inception, WADA was built on a unique partnership model. Funded equally by the IOC and various national governments, its 38-member Foundation Board and 16-member executive committee balance perspectives from public authorities and the sports movement alike, including active and retired athletes. As of April 2024, Witold Bańka serves as president, with Yang Yang holding the position of vice-president.
+From its inception, WADA was built on a unique partnership model. Funded equally by the IOC and various national governments, its 38-member Foundation Board and 16-member executive committee balance perspectives from public authorities and the sports movement alike, including active and retired athletes. Witold Bańka and Yang Yang were re-elected president and vice-president in May 2025 for a third and final three-year term.
 
-The agency's regulatory cornerstone, the World Anti-Doping Code, harmonized disparate rules across international federations and national organizations. Adopted unanimously by more than 600 sports organisations at a global conference in November 2007 and updated periodically—most notably in 2015 and through a review process initiated in November 2017 that led to a 2021 update—the Code established standardized protocols for testing, scientific research, and educational initiatives. Supported by around 30 accredited laboratories worldwide, WADA cemented the Court of Arbitration for Sport as the ultimate judicial authority for doping disputes.
+The agency's regulatory cornerstone, the World Anti-Doping Code, harmonized disparate rules across international federations and national organizations. First adopted in Copenhagen in 2003, revised at the World Conference on Doping in Sport in Madrid in November 2007 and updated again in 2015 and 2021, the Code established standardized protocols for testing, scientific research, and educational initiatives. Supported by around 30 accredited laboratories worldwide, WADA cemented the Court of Arbitration for Sport as the ultimate judicial authority for doping disputes.
 
 ## Navigating Controversy and Looking Forward
 
@@ -29,3 +29,5 @@ More than two decades after its founding convention in Lausanne, WADA oversees a
 
 - [World Anti-Doping Agency Wikipedia Article](https://en.wikipedia.org/wiki/World_Anti-Doping_Agency)
 - [Lausanne Wikipedia Article](https://en.wikipedia.org/wiki/Lausanne)
+- [Swimming World: World Anti-Doping Agency re-elects President Witold Bańka](https://www.swimmingworldmagazine.com/news/world-anti-doping-agency-re-elects-president-witold-banka)
+- [NADA Germany: World Anti-Doping Code](https://www.nada.de/en/legal-matters/wadc)
