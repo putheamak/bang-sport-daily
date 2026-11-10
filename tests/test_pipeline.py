@@ -79,6 +79,8 @@ def test_daily_publish_site(repo, monkeypatch):
     real = C.parse_feed
     monkeypatch.setattr(C, "parse_feed", lambda f, c, **k: real(f, c, raw=_raw()) if f["name"] == GN["name"] else [])
     monkeypatch.setattr(C, "fetch_full_text", lambda url: "")
+    from sportnews import corroborate
+    monkeypatch.setattr(corroborate, "confirm", lambda items, c, **k: items)   # tested separately below
     from sportnews import factsource
     monkeypatch.setattr(factsource, "history_context", lambda md, focus: {
         "title": "On this day", "event_year": 1994, "event_text": "Foreman beats Moorer", "region_hint": "global",
@@ -104,6 +106,8 @@ def test_daily_publish_site(repo, monkeypatch):
     done = publishers.publish_articles(cfg(), [new[0]["id"]])
     assert len(done) == 1 and {d["chat_id"] for d in sent} == {"@cEN", "@cZH", "@cRU"}
     assert any("阅读全文: https://me.github.io/gsd/zh/" in d["text"] for d in sent)
+    n_sent = len(sent)
+    assert publishers.publish_articles(cfg(), [new[0]["id"]]) == [new[0]["id"]] and len(sent) == n_sent   # no double post
 
     importlib.import_module("sportnews.site").build_site(cfg())
     slug = new[0]["slug"]
@@ -522,6 +526,46 @@ def test_on_this_day_skips_politics(monkeypatch):
     monkeypatch.setattr(factsource, "wiki_extract", lambda t, chars=7000: ("Text about " + t, "https://en.wikipedia.org/wiki/" + t))
     ev = factsource.on_this_day("11-10", "global")
     assert ev["year"] == 1999
+
+
+def _it(title, source, summary="", sport=None, lang="ru", score=3.0):
+    return {"title": title, "summary": summary, "source": source, "link": "https://x/" + source, "lang": lang,
+            "sport": sport, "score": score, "published": "2026-11-10T09:00:00+00:00"}
+
+
+def test_corroborate_matches_russian_names_across_outlets(monkeypatch):
+    """10 Nov 2026: quote-led sports.ru headline about Mishina/Galliamov was written with 1 source, then auto-rejected."""
+    from sportnews import corroborate as K
+    monkeypatch.setenv("SPORTNEWS_MOCK", "1")      # no web search in tests
+    a = _it("Бетина Попова: «Золото Мишиной и Галлямова – невероятно радостное событие»", "Sports.ru", sport="figure skating", score=4)
+    b = _it("Мишина и Галлямов выиграли этап Гран-при в Китае", "Чемпионат", sport="figure skating", score=2)
+    c = _it("Лейкерс обыграли Бостон", "Sports.ru", sport="basketball", score=3.5)
+    got = K.confirm([a, b, c], {})
+    assert got == [a] and len(K.outlets(a)) == 2          # b merged into a; c has one outlet only -> skipped
+
+
+def test_corroborate_search_and_politics(monkeypatch):
+    from sportnews import corroborate as K
+    monkeypatch.delenv("SPORTNEWS_MOCK", raising=False)
+    a = _it("Sinner beats Alcaraz in ATP Finals semi-final", "BBC Sport", lang="en", sport="tennis", score=4)
+    p = _it("Rotenberg on Gretzky: «Он соблюдает политес»", "Sports.ru", sport="ice hockey", score=5)
+    calls = []
+    monkeypatch.setattr(K, "search_google_news", lambda it, cfg: calls.append(it["title"]) or [
+        _it("Alcaraz loses to Sinner at ATP Finals", "Reuters", lang="en"),
+        _it("Unrelated football story", "ESPN", lang="en")])
+    got = K.confirm([a, p], {})
+    assert got == [a] and [o["source"] for o in a["also_reported_by"]] == ["Reuters"]
+    assert calls == [a["title"]]                           # politics item never searched or written
+
+
+def test_corroborate_drops_second_copy_of_same_event(monkeypatch):
+    from sportnews import corroborate as K
+    monkeypatch.setenv("SPORTNEWS_MOCK", "1")
+    a = _it("Real Madrid beat Liverpool", "BBC", lang="en", sport="football", score=5)
+    a["also_reported_by"] = [{"source": "ESPN", "link": "https://e", "title": "t"}]
+    b = _it("Liverpool lose to Real Madrid at Anfield", "Sky Sports", lang="en", sport="football", score=4)
+    b["also_reported_by"] = [{"source": "Guardian", "link": "https://g", "title": "t"}]
+    assert K.confirm([a, b], {}) == [a]
 
 
 def test_photos_yaml_wikipedia_entry(monkeypatch):

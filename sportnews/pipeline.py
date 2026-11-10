@@ -165,15 +165,29 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
         items = [i for i in items if i["title"] not in done_titles]
         from .regions import counts, pick_balanced
         bal = counts(load_articles() + new, date, (cfg.get("regions") or {}).get("window_days", 7))
-        picked = pick_balanced(cfg, items, n_left, bal, plan.get("max_per_sport", 1)) if n_left else []
+        if n_left:
+            from .corroborate import confirm
+            items = confirm(items, cfg)            # 2+ independent outlets, no politics: before any AI is spent
+        spare = (cfg.get("corroborate") or {}).get("spare_attempts", 2)
+        picked = pick_balanced(cfg, items, n_left + spare, bal, plan.get("max_per_sport", 1)) if n_left else []
+        from .standards import auto_reject_reasons
+        good = 0
         for it in picked:
-            log.info("Picked [%s %s %.1f] %s", it.get("region"), it.get("sport"), it["score"], it["title"])
+            if good >= n_left:
+                break
+            log.info("Picked [%s %s %.1f · %d outlets] %s", it.get("region"), it.get("sport"), it["score"],
+                     1 + len(it.get("also_reported_by", [])), it["title"])
             try:
                 ctx = _news_context(it)
                 art = write_article(cfg, "news", ctx, date)
                 art["region"] = it.get("region") or art.get("region")
                 new.append(art)
                 done_titles.append(it["title"])
+                why = auto_reject_reasons(cfg, art)
+                if why:
+                    log.warning("Draft will be auto-rejected (%s); trying the next story", "; ".join(why))
+                else:
+                    good += 1
             except Exception as e:  # noqa: BLE001
                 log.error("News article failed (%s): %s", it["title"], e)
 

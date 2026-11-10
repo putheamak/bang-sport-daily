@@ -125,24 +125,28 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
     from .images import apply_overrides, load_overrides
     apply_overrides(articles, load_overrides())
     for a in targets:
+        posted = {p.get("channel") for p in a.get("published_to") or []}   # re-publishing a correction never posts twice
         if cfg["publish"].get("telegram"):
             for lang in LANGS:
                 chat = os.environ.get(f"TELEGRAM_CHANNEL_{lang.upper()}")
-                if not (chat and a.get(lang)):
+                if not (chat and a.get(lang)) or f"telegram-{lang}" in posted:
                     continue
                 try:
                     telegram_send(chat, social_text(cfg, a, lang))
                     a["published_to"].append({"channel": f"telegram-{lang}", "at": now_iso(cfg)})
                 except Exception as e:  # noqa: BLE001
                     log.error("Telegram %s failed for %s: %s", lang, a["id"], e)
-        if cfg["publish"].get("facebook"):
+        if cfg["publish"].get("facebook") and "facebook" not in posted:
             try:
                 fid = facebook_post(social_text(cfg, a, "en"), article_url(cfg, a, "en"))
                 a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
             except Exception as e:  # noqa: BLE001
                 log.error("Facebook failed for %s: %s", a["id"], e)
+        if a.get("status") == "published" and a.get("published_at"):
+            a["republished_at"] = now_iso(cfg)      # a correction keeps its original publication time
+        else:
+            a["published_at"] = now_iso(cfg)
         a["status"] = "published"
-        a["published_at"] = now_iso(cfg)
         done.append(a["id"])
     save_articles(articles)
     log.info("Published %d article(s)", len(done))
