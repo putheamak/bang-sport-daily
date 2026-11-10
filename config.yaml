@@ -29,9 +29,9 @@ site:
   # automatically from the repo name, so it still works if you name the repo differently.
   url: "https://putheamak.github.io/bang-sport-daily"
   # Your public Telegram channels (shown as "Follow us" buttons). Leave empty until they exist.
-  telegram_en: ""          # e.g. "bangsportdaily"  (without @)
-  telegram_zh: ""
-  telegram_ru: ""
+  telegram_en: "bangsportdaily"        # e.g. "bangsportdaily"  (without @)
+  telegram_zh: "bangsportdaily_zh"
+  telegram_ru: "bangsportdaily_ru"
 
 # ---------- Writing ----------
 writing:
