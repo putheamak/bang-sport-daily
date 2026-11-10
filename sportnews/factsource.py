@@ -19,6 +19,24 @@ SPORT = re.compile(
     r"sea games|commonwealth games|world record|race|tournament|championship|cup final|grandmaster|jockey|derby)\b", re.I)
 TRAGEDY = re.compile(r"\b(killed|kills|dies|died|death|disaster|crash|crushed|massacre|terror|bomb|riot|stampede|"
                      r"murder|shot dead|assassinat)\w*", re.I)
+# Politics, war and diplomacy are never "On this day in sport", even when a linked article mentions a sport word.
+POLITICS = re.compile(r"\b(united nations|resolution|general assembly|security council|conflict|war|invasion|invades|"
+                      r"treaty|coup|election|elected|president|prime minister|parliament|independence|revolution|"
+                      r"sanction|annex|protest|referendum|constitution|military|army|troops|zionism|apartheid regime)\b",
+                      re.I)
+NOT_SPORT_RACE = re.compile(r"\b(arms race|space race|race relations|racial|racism)\b", re.I)
+
+
+def _is_sport_event(ev: dict) -> bool:
+    """Decide from the event line and the short page descriptions only. The long article extracts
+    mention all sorts of things (a political article can say 'tournament' or 'race'), so they must not
+    make a non-sport event look like sport."""
+    text = ev.get("text", "")
+    if TRAGEDY.search(text) or POLITICS.search(text):
+        return False
+    descs = " ".join(p.get("description") or "" for p in ev.get("pages") or [])
+    head = NOT_SPORT_RACE.sub(" ", text + " " + descs)
+    return bool(SPORT.search(head))
 
 
 def _json(url: str) -> dict:
@@ -64,7 +82,7 @@ def on_this_day(month_day: str, focus: str = "global") -> dict | None:
             pages = ev.get("pages") or []
             blob = ev.get("text", "") + " " + " ".join((p.get("description") or "") + " " + (p.get("extract") or "")[:300]
                                                      for p in pages)
-            if not SPORT.search(blob) or TRAGEDY.search(ev.get("text", "")):
+            if not _is_sport_event(ev):
                 continue
             region = classify(blob)
             score = 2 if region == focus and focus != "global" else 0

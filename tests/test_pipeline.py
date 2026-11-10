@@ -506,6 +506,24 @@ def test_on_this_day_picks_sport_not_tragedy(monkeypatch):
     assert ev["year"] == 2014 and ev["region"] == "cambodia" and ev["pages"][0]["url"].endswith("Sorn_Seavmey")
 
 
+def test_on_this_day_skips_politics(monkeypatch):
+    """9 Nov 2026 run picked UN Resolution 3379 because a linked article's long extract had a sport word."""
+    from sportnews import factsource
+    feed = {"selected": [
+        {"year": 1975, "text": "Israeli-Palestinian conflict: the United Nations General Assembly passes Resolution 3379",
+         "pages": [{"titles": {"canonical": "Resolution_3379"}, "description": "UN resolution",
+                    "extract": "... the 1976 Olympic tournament and a world record race ..."}]},
+        {"year": 1965, "text": "The space race continues as Gemini 7 is announced", "pages": [{"titles": {"canonical": "Gemini_7"},
+                    "description": "Crewed spaceflight"}]}],
+        "events": [
+        {"year": 1999, "text": "Manchester United win the Intercontinental Cup",
+         "pages": [{"titles": {"canonical": "1999_Intercontinental_Cup"}, "description": "Association football match"}]}]}
+    monkeypatch.setattr(factsource, "_json", lambda url: feed)
+    monkeypatch.setattr(factsource, "wiki_extract", lambda t, chars=7000: ("Text about " + t, "https://en.wikipedia.org/wiki/" + t))
+    ev = factsource.on_this_day("11-10", "global")
+    assert ev["year"] == 1999
+
+
 def test_photos_yaml_wikipedia_entry(monkeypatch):
     from sportnews import images
     monkeypatch.setattr(images, "page_image_name", lambda t, wiki="en": ("Ancelotti.jpg", "Carlo Ancelotti"))
