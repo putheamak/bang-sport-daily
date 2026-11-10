@@ -9,6 +9,7 @@
   python -m sportnews site                  # rebuild the website only
   python -m sportnews headlines             # refresh the "Around the world" box (RSS only, no AI) + rebuild
   python -m sportnews trending              # talking points: scan feeds, send top 5 to Telegram (no AI)
+  python -m sportnews replies               # act on your Telegram replies (write / publish / reject), hourly
   python -m sportnews write-trending 1 3    # write talking points 1 and 3 as short explainers (drafts)
   python -m sportnews audit [--no-links]    # standards audit of all stories -> data/audit.md
   python -m sportnews check ID              # standards check of one story
@@ -36,6 +37,7 @@ def main(argv=None):
     sub.add_parser("site")
     sub.add_parser("headlines")
     sub.add_parser("trending")
+    sub.add_parser("replies")
     sub.add_parser("write-trending").add_argument("numbers", nargs="*")
     a = ap.parse_args(argv)
     cfg = load_config()
@@ -91,11 +93,14 @@ def main(argv=None):
     elif a.cmd == "trending":
         from .common import log_to_file
         log_to_file("last_trending.log")
-        from .trending import dispatch_write, read_replies, scan
-        asked = read_replies()               # "write 1 3" replies refer to the list sent BEFORE this scan
-        if asked:
-            dispatch_write(asked)
+        from .trending import handle_commands, scan
+        handle_commands()                    # your Telegram replies first: they refer to the list sent BEFORE this scan
         scan(cfg)
+    elif a.cmd == "replies":
+        from .common import log_to_file
+        log_to_file("last_replies.log")
+        from .trending import handle_commands
+        handle_commands()
     elif a.cmd == "write-trending":
         from .common import log_to_file
         log_to_file("last_trending_write.log")

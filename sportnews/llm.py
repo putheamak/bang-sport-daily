@@ -103,7 +103,7 @@ def _classify(msg: str) -> str:
     return "other"
 
 
-def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, list[dict], str]:
+def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> tuple[str, list[dict], str]:
     from google import genai
     from google.genai import types
 
@@ -127,8 +127,9 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
             for attempt in range(3):
                 tools = [types.Tool(google_search=types.GoogleSearch())] if use_search else None
                 try:
+                    contents = ([prompt] + [types.Part.from_bytes(data=b, mime_type=m) for b, m in images]) if images else prompt
                     resp = client.models.generate_content(
-                        model=model, contents=prompt,
+                        model=model, contents=contents,
                         config=types.GenerateContentConfig(system_instruction=system, tools=tools, temperature=0.7,
                                                            max_output_tokens=cfg["ai"].get("max_output_tokens", 12000)))
                     text = resp.text or ""
@@ -215,10 +216,11 @@ def _claude(cfg: dict, system: str, prompt: str, search: bool) -> tuple[str, lis
     return text, sources, c["model"]
 
 
-def generate(cfg: dict, system: str, prompt: str, search: bool = False) -> tuple[str, list[dict], str]:
+def generate(cfg: dict, system: str, prompt: str, search: bool = False, images=None) -> tuple[str, list[dict], str]:
+    """images: optional [(bytes, mime type)], e.g. the editor's screenshots (Gemini reads them)."""
     p = provider(cfg)
     if p == "gemini":
-        return _gemini(cfg, system, prompt, search)
+        return _gemini(cfg, system, prompt, search, images)
     if p == "claude":
         return _claude(cfg, system, prompt, search)
     raise RuntimeError("mock provider has no generate(); writer handles mock mode")

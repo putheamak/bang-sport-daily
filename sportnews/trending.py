@@ -97,7 +97,7 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
         n = len(g["outlets"])
         if n < tcfg.get("min_outlets", 2):
             continue
-        why_blocked = _blocked(f"{it['title']} {it.get('summary', '')}") or (
+        why_blocked = _blocked(it["title"].replace("!", "").replace("！", "")) or (
             "not our audience" if re.search(tcfg.get("skip", SKIP), it["title"], re.I) else None)
         if why_blocked:
             log.info("Trending skipped (%s): %s", why_blocked, it["title"][:90])
@@ -130,6 +130,7 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
 
 
 SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|MLB|NHL trade|waiver wire|"
+        r"school|schools|schoolboys|grassroots|amateur|8U|U8|U10|U12|7s|"
         r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies)\b")
 
 FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺"}
@@ -210,43 +211,202 @@ def parse_numbers(text: str) -> list[int]:
 
 
 def parse_choice(text: str) -> list:
-    """'1 3' -> [1, 3] (numbers of the last list sent); 'k:abc k:def' -> story keys (from a Telegram reply)."""
+    """'1 3' -> [1, 3] (numbers of the last list sent); 'k:abc k:def' -> story keys (from a Telegram reply);
+    'rev:<data>' -> a revision request {id, notes, photos}."""
+    if (text or "").strip().startswith("rev:"):
+        import base64
+        return [json.loads(base64.urlsafe_b64decode(text.strip()[4:].encode()).decode())]
     keys = re.findall(r"k:([0-9a-f]{6,})", text or "")
     return keys if keys else parse_numbers(text)
 
 
-def read_replies() -> list[str]:
-    """Stories the editor asked for since the last check ('write 1 3' in the private chat; nobody else counts).
-    Numbers are turned into story keys of the list the editor SAW, so a newer list can never change the choice."""
+PUB_CMD = re.compile(r"^\s*/?(publish-anyway|publish|reject)\s+(.+)$", re.I)
+HELP = ("Commands (reply here):\n"
+        "• write 1 3 — write talking points 1 and 3 as explainers\n"
+        "• publish <ID> — publish a draft (several IDs: separate with spaces)\n"
+        "• reject <ID> — reject a draft\n"
+        "• publish-anyway <ID> — publish despite a standards warning (use with care)\n"
+        "• Reply to a draft message with: publish / reject — or with notes and/or a screenshot to have it revised\n"
+        "  (or: fix <ID> your notes)\n"
+        "Replies are read every hour, so allow up to an hour (sometimes more) before the work starts.")
+
+
+FIX_CMD = re.compile(r"^\s*/?(?:fix|revise|edit)\s+([0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z]{4}-[0-9a-f]{6})\s*[:\-]?\s*(.*)$",
+                     re.I | re.S)
+ID_RE = re.compile(r"\bID:\s*([0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z]{4}-[0-9a-f]{6})")
+
+
+def _draft_id(text: str | None) -> str | None:
+    """The story ID inside one of the bot's draft messages ('ID: 2026-11-10-news-abc123')."""
+    m = ID_RE.search(text or "")
+    return m.group(1) if m else None
+
+
+def usable_refs(s: dict) -> list[dict]:
+    """Outlets whose own headline is about this exact story (one per outlet)."""
+    from .collect import _src_key
+    from .corroborate import same_story
+    lead = {"title": s["title"], "lang": s.get("lang"), "sport": s.get("sport")}
+    refs, seen = [], set()
+    for r in s.get("refs", []):
+        o = _src_key(r.get("source", ""))
+        if o in seen:
+            continue
+        if refs and not same_story(lead, {"title": r.get("title", ""), "lang": s.get("lang")}, title_only=True):
+            continue
+        refs.append(r)
+        seen.add(o)
+    return refs
+
+
+def read_commands() -> dict:
+    """Commands from the editor's private chat since the last check (nobody else is obeyed):
+    'write 1 3', 'publish <ID>', 'reject <ID>', 'publish-anyway <ID>', 'help'.
+    Talking-point numbers become story keys of the list the editor SAW, so a newer list never changes the choice."""
+    out = {"write": [], "publish": [], "reject": [], "publish-anyway": [], "revise": []}
     chat = str(os.environ.get("TELEGRAM_REVIEW_CHAT", ""))
     if not (chat and os.environ.get("TELEGRAM_BOT_TOKEN")):
-        return []
+        return out
     data = read_json(TRENDING, {})
     try:
         res = _tg("getUpdates", {"offset": data.get("tg_offset", 0), "timeout": 0, "allowed_updates": ["message"]})
     except Exception as e:  # noqa: BLE001
         log.warning("Could not read Telegram replies: %s", e)
-        return []
+        return out
     nums: list[int] = []
+    ids: dict[str, list[str]] = {"publish": [], "reject": [], "publish-anyway": []}
+    revs: dict[str, dict] = {}
+    want_help = False
     for u in res.get("result", []):
         data["tg_offset"] = u["update_id"] + 1
         m = u.get("message") or {}
         if str((m.get("chat") or {}).get("id")) != chat:
             continue
-        hit = WRITE_CMD.match(m.get("text") or "")
-        if hit:
-            nums += parse_numbers(hit.group(1))
-    sent = data.get("sent") or []
-    keys = [sent[n - 1]["key"] for n in sorted(set(nums)) if 1 <= n <= len(sent)]
+        text = (m.get("text") or m.get("caption") or "").strip()
+        photo = (m.get("photo") or [{}])[-1].get("file_id")               # largest size of a screenshot
+        target = _draft_id((m.get("reply_to_message") or {}).get("text") or (m.get("reply_to_message") or {}).get("caption"))
+        short = text.lower().strip(" .!/")
+        if target and short in ("publish", "reject", "publish-anyway", "approve", "ok"):
+            ids["reject" if short == "reject" else "publish-anyway" if short == "publish-anyway" else "publish"].append(target)
+            continue
+        fix = FIX_CMD.match(text)
+        if fix or (target and not (WRITE_CMD.match(text) or PUB_CMD.match(text)) and (text or photo)):
+            rid = fix.group(1) if fix else target
+            notes = fix.group(2) if fix else text
+            r = revs.setdefault(rid, {"id": rid, "notes": [], "photos": []})
+            if notes.strip():
+                r["notes"].append(notes.strip())
+            if photo:
+                r["photos"].append(photo)
+            continue
+        for line in text.splitlines():
+            w, p = WRITE_CMD.match(line), PUB_CMD.match(line)
+            if w:
+                nums += parse_numbers(w.group(1))
+            elif p:
+                ids[p.group(1).lower()] += re.findall(r"[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z]{4}-[0-9a-f]{6}|[\w-]{6,}", p.group(2))
+            elif line.lower().lstrip("/") in ("help", "start", "?"):
+                want_help = True
     write_json(TRENDING, data)
+    replies = []
+    for action in ("publish", "publish-anyway"):          # never publish a draft that is being revised right now
+        held = [i for i in ids[action] if i in revs]
+        if held:
+            ids[action] = [i for i in ids[action] if i not in revs]
+            replies.append("⏸ Not published yet: " + ", ".join(held) + " is being revised. Reply publish to the "
+                           "revised draft when it arrives.")
+    if want_help:
+        replies.append(HELP)
     if nums:
-        names = "\n".join(f"• {sent[n - 1]['title']}" for n in sorted(set(nums)) if 1 <= n <= len(sent))
+        sent = data.get("sent") or []
+        ok, skipped = [], []
+        for n in sorted(set(nums)):
+            if not 1 <= n <= len(sent):
+                skipped.append(f"• {n}: no such number in the last list")
+            elif len(usable_refs(sent[n - 1])) < 2:
+                skipped.append(f"• {sent[n - 1]['title']} (only 1 outlet reports this exact story)")
+            else:
+                ok.append(sent[n - 1])
+        out["write"] = [s["key"] for s in ok]
+        if ok:
+            replies.append("✍️ Writing explainers (drafts in about 10–30 minutes):\n" + "\n".join(f"• {s['title']}" for s in ok))
+        if skipped:
+            replies.append("⚠️ Not written:\n" + "\n".join(skipped))
+    if any(ids.values()):
+        from .common import load_articles
+        from .publishers import _match
+        arts = load_articles()
+        for action, wanted in ids.items():
+            if not wanted:
+                continue
+            found = _match(arts, wanted)
+            missing = [w for w in wanted if not _match(arts, [w])]
+            out[action] = [a["id"] for a in found]
+            if found:
+                verb = {"publish": "📢 Publishing", "reject": "🗑 Rejecting", "publish-anyway": "📢 Publishing (anyway)"}[action]
+                replies.append(f"{verb} (in a few minutes):\n" + "\n".join(f"• {a['id']}: {a['en'].get('headline', '')[:90]}"
+                                                                         for a in found))
+            if missing:
+                replies.append("❓ Not found (check the ID): " + ", ".join(missing))
+    if revs:
+        from .common import load_articles
+        arts = {a["id"]: a for a in load_articles()}
+        for rid, r in revs.items():
+            a = arts.get(rid)
+            if not a:
+                replies.append(f"❓ Draft {rid} not found")
+            elif a.get("status") == "published":
+                replies.append(f"ℹ️ {rid} is already published. Send corrections for published stories through the inbox "
+                               "(or ask Claude); only drafts are revised from Telegram.")
+            else:
+                out["revise"].append({"id": rid, "notes": "\n".join(r["notes"]), "photos": r["photos"][:3]})
+                what = (f"{len(r['notes'])} note(s)" if r["notes"] else "") + (
+                    f"{' + ' if r['notes'] else ''}{len(r['photos'])} screenshot(s)" if r["photos"] else "")
+                replies.append(f"✏️ Revising {rid} with your {what}. The revised draft comes back here in about 10–30 minutes.")
+    for r in replies:
         try:
-            _tg("sendMessage", {"chat_id": chat, "text": ("✍️ Writing explainers (drafts in about 10–30 minutes):\n" + names)
-                                if keys else "No such numbers in the last list. Reply like: write 1 3"})
+            _tg("sendMessage", {"chat_id": chat, "text": r})
         except Exception as e:  # noqa: BLE001
-            log.warning("Telegram acknowledgement failed: %s", e)
-    return keys
+            log.warning("Telegram reply failed: %s", e)
+    return out
+
+
+def read_replies() -> list[str]:
+    """Kept for older callers: only the 'write' part."""
+    return read_commands()["write"]
+
+
+def dispatch(workflow: str, inputs: dict) -> bool:
+    """Start a workflow (GitHub allows this from a workflow that has 'actions: write')."""
+    token = os.environ.get("GITHUB_TOKEN")
+    if not token:
+        log.error("GITHUB_TOKEN missing: cannot start %s", workflow)
+        return False
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{REPO}/actions/workflows/{workflow}/dispatches",
+        data=json.dumps({"ref": "main", "inputs": inputs}).encode(),
+        headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=30):
+            pass
+        log.info("Started %s with %s", workflow, inputs)
+        return True
+    except Exception as e:  # noqa: BLE001
+        log.error("Could not start %s: %s", workflow, e)
+        return False
+
+
+def handle_commands() -> dict:
+    cmds = read_commands()
+    if cmds["write"]:
+        dispatch_write(cmds["write"])
+    for r in cmds["revise"]:
+        import base64
+        dispatch(WRITE_WORKFLOW, {"numbers": "rev:" + base64.urlsafe_b64encode(json.dumps(r).encode()).decode()})
+    for action in ("publish", "reject", "publish-anyway"):
+        if cmds[action]:
+            dispatch("publish.yml", {"ids": ",".join(cmds[action]), "action": action})
+    return cmds
 
 
 def dispatch_write(numbers: list) -> bool:
@@ -295,6 +455,50 @@ def _notify(text: str) -> None:
             log.warning("Telegram message failed: %s", e)
 
 
+def _photo_bytes(file_id: str):
+    f = _tg("getFile", {"file_id": file_id})["result"]["file_path"]
+    req = urllib.request.Request(f"https://api.telegram.org/file/bot{os.environ['TELEGRAM_BOT_TOKEN']}/{f}")
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read(), "image/png" if f.lower().endswith(".png") else "image/jpeg"
+
+
+def revise_draft(cfg: dict, req: dict) -> dict | None:
+    """Revise a draft with the editor's Telegram notes/screenshots and send it back for review."""
+    from .common import load_articles, save_articles, today
+    from .publishers import send_for_review
+    from .site import build_site
+    from .standards import stamp
+    from .writer import revise_article
+    arts = load_articles()
+    a = next((x for x in arts if x["id"] == req["id"]), None)
+    if not a or a.get("status") == "published":
+        log.warning("Revision skipped: %s not found or already published", req["id"])
+        return None
+    images = []
+    for fid in req.get("photos") or []:
+        try:
+            images.append(_photo_bytes(fid))
+        except Exception as e:  # noqa: BLE001
+            log.warning("Screenshot download failed: %s", e)
+    try:
+        b = revise_article(cfg, a, req.get("notes", ""), images)
+    except Exception as e:  # noqa: BLE001
+        log.error("Revision of %s failed: %s", a["id"], e)
+        _notify(f"⚠️ Revision of {a['id']} failed (AI busy?). Send your note again later. ({str(e)[:120]})")
+        return None
+    b["status"] = "draft"
+    b.pop("auto_rejected", None)
+    stamp(cfg, [b], today(cfg))
+    save_articles([b if x["id"] == b["id"] else x for x in arts])
+    ch = (b.get("revisions") or [{}])[-1].get("changes") or []
+    if ch:
+        _notify("✏️ Revised. Changes:\n" + "\n".join(f"• {c}" for c in ch[:8]))
+    send_for_review(cfg, [b])
+    build_site(cfg)
+    log.info("Revised %s: %s", b["id"], ch)
+    return b
+
+
 def write_selected(cfg: dict, numbers: list) -> list[dict]:
     from .common import load_articles, save_articles, today
     from .pipeline import merge_articles
@@ -308,6 +512,11 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
     date = today(cfg)
     new = []
     known = data.get("known") or {}
+    revs = [n for n in numbers if isinstance(n, dict)]
+    numbers = [n for n in numbers if not isinstance(n, dict)]
+    revised = [b for b in (revise_draft(cfg, r) for r in revs) if b]
+    if revs and not numbers:
+        return revised
     for n in numbers:
         if isinstance(n, str):
             s = known.get(n)
@@ -319,22 +528,13 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
         else:
             log.warning("Talking point %s does not exist (list has %d)", n, len(pool))
             continue
-        from .collect import _src_key
-        from .corroborate import same_story
-        lead = {"title": s["title"], "lang": s.get("lang"), "sport": s.get("sport")}
-        refs, seen_o = [], set()
-        for r in s["refs"]:
-            o = _src_key(r.get("source", ""))
-            if o not in seen_o and (not refs or same_story(lead, {"title": r.get("title", ""), "lang": s.get("lang")},
-                                                            title_only=True)):
-                refs.append(r)
-                seen_o.add(o)
+        refs = usable_refs(s)
         if len(refs) < 2:
             log.warning("Talking point %s skipped: fewer than 2 outlets report this exact story: %s", n, s["title"][:80])
             _notify(f"⚠️ Not written (only 1 outlet reports this exact story): {s['title']}")
             continue
         s = dict(s, refs=refs, outlets=len(refs))
-        if s["key"] in set(data.get("written", [])):
+        if s["key"] in set(data.get("written", [])) or any(a.get("trending_key") == s["key"] for a in load_articles()):
             log.info("Talking point %s already written: %s", n, s["title"][:80])
             continue
         log.info("Writing explainer %s: %s", n, s["title"])
@@ -346,7 +546,7 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
         art["format"] = "explainer"
         art["region"] = classify(f"{s['title']} {s.get('summary', '')}", s.get("lang", "en"))
         new.append(art)
-        data.setdefault("written", []).append(s["key"])
+        art["trending_key"] = s["key"]          # remembered in the story itself, not in trending.json
     if cfg["publish"].get("photos", True):
         from .images import attach_images
         for a in new:
@@ -360,8 +560,9 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
         if why:
             a["status"], a["auto_rejected"] = "rejected", why
             log.warning("Auto-rejected %s: %s", a["id"], "; ".join(why))
+    # The radar job also saves data/trending.json; writing it here too made the two jobs' saves clash on
+    # 10 Nov 2026 (the first explainer reached Telegram but was never saved). This job only saves stories.
     save_articles(merge_articles(new, load_articles()))
-    write_json(TRENDING, data)
     kept = [a for a in new if a["status"] != "rejected"]
     if kept:
         send_for_review(cfg, kept)

@@ -287,3 +287,43 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         if isinstance(loc.get(l), dict) and loc[l].get("headline"):
             article[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
     return article
+
+
+REVISE_SYSTEM = """You are the senior sport editor of {site}. Revise the draft below using the EDITOR'S NOTES and any
+attached screenshots (they show facts from a source the editor checked).
+Rules:
+- Add or correct exactly the facts the editor gives (dates, places, teams, numbers). Put them where they belong.
+- If a note contradicts the draft, the editor's note wins; remove the wrong statement.
+- Keep everything else: structure, ## headings, neutral third-person style, length within about 20%.
+- Never invent facts that are neither in the draft, the notes nor the screenshots.
+OUTPUT: one JSON object inside <article_json> ... </article_json> with keys
+"headline", "subheadline", "body_markdown", "social_post", "facts_added" (list of short strings: what you changed)."""
+
+
+def revise_article(cfg: dict, a: dict, notes: str, images=None) -> dict:
+    """Return a revised copy of story `a` following the editor's notes (+ screenshots). Translations are redone."""
+    en = a.get("en") or {}
+    if llm.provider(cfg) == "mock":
+        new_en = dict(en, body_markdown=en.get("body_markdown", "") + "\n\n" + notes)
+        changes = [notes]
+    else:
+        prompt = ("<draft>\n" + json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
+                                           ensure_ascii=False) + "\n</draft>\n\n<editors_notes>\n" + (notes or "(see screenshots)")
+                  + "\n</editors_notes>")
+        text, _src, _m = llm.generate(cfg, REVISE_SYSTEM.format(site=cfg["site"]["name"]), prompt, False, images)
+        out = extract_json(text)
+        new_en = {k: out.get(k) or en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+        changes = [str(x) for x in out.get("facts_added") or []]
+    b = dict(a)
+    b["en"] = new_en
+    loc = localize(cfg, new_en)
+    others = cfg["languages"].get("others", ["zh", "ru"])
+    for l in others:
+        if isinstance(loc.get(l), dict) and loc[l].get("headline"):
+            b[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+    b["revisions"] = (a.get("revisions") or []) + [{"at": now_iso(cfg), "notes": notes[:1000], "changes": changes[:10],
+                                                   "screenshots": len(images or [])}]
+    b["updated_at"] = now_iso(cfg)
+    if llm.provider(cfg) == "mock" or all(isinstance(loc.get(l), dict) and loc[l].get("headline") for l in others):
+        b["translated_at"] = b["updated_at"]      # otherwise the old ZH/RU text stays hidden until re-translated
+    return b

@@ -73,7 +73,7 @@ def send_for_review(cfg: dict, items: list[dict]) -> None:
                "Before approving (Google requires human fact-checking of AI text):\n"
                "☐ Names, dates, scores and quotes match the sources\n☐ Source links open and say what the story says\n"
                "☐ Headline is accurate, not clickbait\n☐ Nothing about private life, health, betting\n\n"
-               "Approve → GitHub › Actions › Publish › Run workflow › ID")
+               f"Reply here:  publish {a['id']}   or   reject {a['id']}")
         try:
             telegram_send(chat, msg)
         except Exception as e:  # noqa: BLE001

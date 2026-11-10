@@ -690,3 +690,65 @@ def test_trending_does_not_group_by_bundled_summaries(repo):
     top = T.rank(cfg(), items)
     assert not any("Pochettino" in s["title"] for s in top)                # one outlet for that exact story
     assert not any(s["outlets"] > 2 for s in top)
+
+
+def test_telegram_publish_reject_commands(repo, monkeypatch):
+    from sportnews import trending as T, common
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "t")
+    monkeypatch.setenv("TELEGRAM_REVIEW_CHAT", "42")
+    common.save_articles([{"id": "2026-11-10-news-aaaaaa", "status": "draft", "en": {"headline": "Draft A"}},
+                          {"id": "2026-11-10-hist-bbbbbb", "status": "draft", "en": {"headline": "Draft B"}}])
+    said, started = [], []
+
+    def fake_tg(method, params):
+        if method == "getUpdates":
+            return {"result": [
+                {"update_id": 1, "message": {"chat": {"id": 42}, "text": "publish 2026-11-10-news-aaaaaa"}},
+                {"update_id": 2, "message": {"chat": {"id": 42}, "text": "Reject 2026-11-10-hist-bbbbbb\nhelp"}},
+                {"update_id": 3, "message": {"chat": {"id": 42}, "text": "publish 2026-11-10-news-zzzzzz"}},
+                {"update_id": 4, "message": {"chat": {"id": 7}, "text": "publish 2026-11-10-hist-bbbbbb"}}]}   # stranger
+        said.append(params["text"])
+        return {}
+    monkeypatch.setattr(T, "_tg", fake_tg)
+    monkeypatch.setattr(T, "dispatch", lambda wf, inputs: started.append((wf, inputs)) or True)
+    cmds = T.handle_commands()
+    assert cmds["publish"] == ["2026-11-10-news-aaaaaa"] and cmds["reject"] == ["2026-11-10-hist-bbbbbb"]
+    assert ("publish.yml", {"ids": "2026-11-10-news-aaaaaa", "action": "publish"}) in started
+    assert ("publish.yml", {"ids": "2026-11-10-hist-bbbbbb", "action": "reject"}) in started and len(started) == 2
+    assert any(t.startswith("Commands") for t in said) and any("Not found" in t and "zzzzzz" in t for t in said)
+    assert common.read_json(T.TRENDING, {})["tg_offset"] == 5
+
+
+def test_telegram_reply_to_draft_revises_it(repo, monkeypatch):
+    """10 Nov 2026: the editor replied to a draft with a screenshot (match date, group teams). That must revise it."""
+    from sportnews import trending as T, common
+    monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "t")
+    monkeypatch.setenv("TELEGRAM_REVIEW_CHAT", "42")
+    common.save_articles([{"id": "2026-11-10-news-c0ffee", "status": "draft", "type": "news", "date": "2026-11-10",
+                           "en": {"headline": "India U17 start qualifiers", "body_markdown": "India play Singapore."},
+                           "sources": [{"url": "https://a"}, {"url": "https://b"}]}])
+    draft_msg = {"text": "📝 DRAFT NEWS · football\nID: 2026-11-10-news-c0ffee\n\nIndia U17 start qualifiers"}
+    said, started = [], []
+
+    def fake_tg(method, params):
+        if method == "getUpdates":
+            return {"result": [
+                {"update_id": 10, "message": {"chat": {"id": 42}, "reply_to_message": draft_msg,
+                                              "photo": [{"file_id": "small"}, {"file_id": "big"}],
+                                              "caption": "Match is Wednesday 11 November 2026 in Kuala Lumpur; group: Malaysia, Palestine, Guam"}},
+                {"update_id": 11, "message": {"chat": {"id": 42}, "reply_to_message": draft_msg, "text": "publish"}}]}
+        if method == "getFile":
+            return {"result": {"file_path": "photos/x.jpg"}}
+        said.append(params.get("text", ""))
+        return {}
+    monkeypatch.setattr(T, "_tg", fake_tg)
+    monkeypatch.setattr(T, "dispatch", lambda wf, inputs: started.append((wf, inputs)) or True)
+    cmds = T.handle_commands()
+    assert cmds["revise"][0]["photos"] == ["big"] and "Palestine" in cmds["revise"][0]["notes"]
+    assert cmds["publish"] == [] and any(t.startswith("⏸") for t in said)   # never published while being revised
+    rev = [i for w, i in started if w == T.WRITE_WORKFLOW][0]["numbers"]
+    assert rev.startswith("rev:") and any(s.startswith("✏️ Revising") for s in said)
+    monkeypatch.setattr(T, "_photo_bytes", lambda fid: (b"img", "image/jpeg"))
+    out = T.write_selected(cfg(), T.parse_choice(rev))
+    a = common.load_articles()[0]
+    assert out and "Palestine" in a["en"]["body_markdown"] and a["revisions"][0]["screenshots"] == 1 and a["status"] == "draft"
