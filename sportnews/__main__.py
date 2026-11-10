@@ -94,7 +94,8 @@ def main(argv=None):
         from .common import log_to_file
         log_to_file("last_trending.log")
         from .trending import handle_commands, scan
-        handle_commands()                    # your Telegram replies first: they refer to the list sent BEFORE this scan
+        if (cfg.get("trending") or {}).get("read_replies", False):
+            handle_commands()                # your Telegram replies first: they refer to the list sent BEFORE this scan
         scan(cfg)
     elif a.cmd == "replies":
         from .common import log_to_file

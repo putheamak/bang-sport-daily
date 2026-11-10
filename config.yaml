@@ -68,6 +68,8 @@ trending:
   quiet_until: 7            # no messages between 23:00 and 07:00 Cambodia time
   quiet_from: 23
   max_per_language: 3       # keeps room for Chinese and Russian stories
+  read_replies: false       # true = the radar also acts on your Telegram replies (write / publish / reject).
+                            # false = Telegram is read-only; write and publish on GitHub instead.
 
 daily_plan:
   news: 2            # best sport stories of the last 24-36h (regionally balanced)

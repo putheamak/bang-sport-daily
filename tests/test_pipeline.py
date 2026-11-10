@@ -752,3 +752,19 @@ def test_telegram_reply_to_draft_revises_it(repo, monkeypatch):
     out = T.write_selected(cfg(), T.parse_choice(rev))
     a = common.load_articles()[0]
     assert out and "Palestine" in a["en"]["body_markdown"] and a["revisions"][0]["screenshots"] == 1 and a["status"] == "draft"
+
+
+def test_history_not_repeated_same_day(repo, monkeypatch):
+    """10 Nov 2026: a second daily run wrote the WADA 'On this day' story again."""
+    from sportnews import collect as C, pipeline, factsource, common
+    monkeypatch.setattr(C, "parse_feed", lambda f, c, **k: [])
+    calls = []
+    monkeypatch.setattr(factsource, "history_context", lambda md, focus: calls.append(md) or None)
+    cfgp = repo / "config.yaml"
+    cfgp.write_text(cfgp.read_text().replace("alternate_features: true", "alternate_features: false")
+                    .replace("athlete_story: 1 ", "athlete_story: 0 "))
+    common.save_articles([{"id": "2026-11-05-hist-aaaaaa", "type": "history", "status": "published", "date": "2026-11-05",
+                           "slug": "wada", "created": "2026-11-05T10:00:00+07:00", "sources": [], "tags": [],
+                           "published_to": [], "images": [], "en": {"headline": "WADA", "body_markdown": "Text."}}])
+    pipeline.run_daily(publish_now=False)
+    assert calls == []                                         # no second history story for the same date
