@@ -1,5 +1,138 @@
 [
   {
+    "id": "2026-11-11-news-7ff971",
+    "slug": "formula-1-confirms-middle-east-season-finale-as-imola-standb",
+    "date": "2026-11-11",
+    "created": "2026-11-11T10:20:51+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Formula One",
+    "tags": [
+      "Formula One",
+      "Qatar Grand Prix",
+      "Abu Dhabi Grand Prix",
+      "Imola",
+      "FIA"
+    ],
+    "athletes": [
+      "Mohammed Ben Sulayem"
+    ],
+    "image_subjects": [
+      "Autodromo Internazionale Enzo e Dino Ferrari",
+      "Losail International Circuit",
+      "Yas Marina Circuit",
+      "Formula One"
+    ],
+    "facts_to_verify": [
+      "Exact dates of the stakeholder meeting on Tuesday",
+      "Specific details of the Audi and McLaren ownership structures mentioned by sources"
+    ],
+    "sources": [
+      {
+        "title": "F1 presses ahead with plan to hold season finale in Middle East despite safety concerns",
+        "url": "https://www.theguardian.com/sport/2026/nov/10/f1-season-finale-middle-east-conflict-formula-one-abu-dhabi-imola-qatar"
+      },
+      {
+        "title": "Formula 1 to finish season in Middle East",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "F1 planning to finish season in Middle East as Imola deadline passes",
+        "url": "https://www.skysports.com/f1/news/12040/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.029,
+      "longest": 12,
+      "phrases": [
+        "to prepare for a potential grand prix on the abu dhabi dates",
+        "was eventually held at malaysia's sepang circuit in october",
+        "the target of attacks from houthi rebels in yemen",
+        "will not be required as a back up",
+        "imola was asked on tuesday to stand down"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Formula 1 confirms Middle East season finale as Imola standby plan ends",
+      "subheadline": "F1 proceeds with Qatar and Abu Dhabi rounds after standing down Italian circuit, while maintaining that safety remains the ultimate priority.",
+      "body_markdown": "## What happened\nFormula One management has officially informed the Imola circuit in Italy that its services will not be required as a back-up venue for the end of the 2026 season. F1 is pressing ahead with its scheduled double-header in the Middle East, with the Qatar Grand Prix slated for November 27–29 and the Abu Dhabi Grand Prix concluding the campaign on December 4–6. \n\nThe Italian venue, located 20 miles from Bologna, had been asked earlier to prepare for a potential grand prix on the Abu Dhabi dates should travel to the region become untenable due to security concerns.\n\n## Why it is being talked about\nThe decision to proceed follows months of uncertainty stemming from the regional conflict involving the United States, Israel, and Iran. Earlier in the year, the war disrupted the early calendar, forcing the cancellation of the April race in Saudi Arabia and the rescheduling of the Bahrain Grand Prix, which was eventually held at Malaysia's Sepang circuit in October. \n\nWhile government travel advice currently allows travel and insurance remains valid, senior figures in the paddock have voiced unease over proximity to the Strait of Hormuz, where missile strikes continue. Furthermore, Saudi Arabia remains the target of attacks from Houthi rebels in Yemen, leading to cancellations or postponements of several events in the country in recent weeks. \n\nDespite these anxieties, F1 management and teams noted that the situation in Qatar and the United Arab Emirates has stabilized in recent months. Business has returned to normal levels, and both nations hold significant financial and ownership ties within the sport, including Qatari sovereign investment in the Audi team and Abu Dhabi's stake in McLaren.\n\n## Key facts and numbers\nImola was asked on Tuesday to stand down its preparations as the deadline passed. Key stakeholders, including team representatives, met to discuss contingency plans and seek assurances should an escalation occur during the race weeks. \n\nFIA President Mohammed Ben Sulayem issued a statement on Instagram affirming full commitment to delivering the final two grands prix. Additionally, MotoGP successfully staged a grand prix in Qatar the previous weekend. F1 teams have consistently expressed confidence in the governing body and management to make appropriate scheduling decisions.\n\n## What happens next\nLogistical and freight preparations for Qatar and Abu Dhabi will proceed as planned. Formula One management maintains that safety is the absolute priority, emphasizing that the sport remains ready to cancel or alter the events if the security situation deteriorates before the race weekends.",
+      "social_post": "Formula 1 has confirmed its season finale will take place in Qatar and Abu Dhabi after standing down Imola as a back-up venue. With safety remaining the top priority, how do you view F1's return to the Middle East? #F1 #QatarGP #AbuDhabiGP #Motorsport"
+    },
+    "zh": {
+      "headline": "F1确认赛季收官战照常登陆中东 效力备用的伊莫拉赛道正式解除待命",
+      "subheadline": "在取消意大利赛道的备用计划后，F1将按原计划推进卡塔尔与阿布扎比两站比赛，并强调安全始终是重中之重。",
+      "body_markdown": "## 发生了什么\n一级方程式管理公司（Formula One Management）已正式通知位于意大利的伊莫拉赛道（Imola），确认无需其在2026赛季末担任备用办赛场地。F1将全力推进在中东背靠背举行的收官赛程：卡塔尔大奖赛定于11月27日至29日开战，而阿布扎比大奖赛则于12月4日至6日为整个赛季落下帷幕。\n\n这座距离博洛尼亚20英里的意大利赛道此前曾接到备战通知，一旦该地区因安全隐患导致出行受阻，伊莫拉将顶上空缺，承办原本属于阿布扎比档期的比赛。\n\n## 为什么引发热议\n这项决定的出台，是在经历数月由美国、以色列和伊朗地区冲突引发的不确定性之后做出的。今年早些时候，战事曾打乱赛季初的赛历，导致4月份的沙特阿拉伯大奖赛被迫取消，巴林大奖赛则经历调整，最终于10月移师马来西亚的雪邦赛道（Sepang）举行。\n\n尽管目前的政府旅游建议仍允许出行且保险依然有效，但围场内的多位高层人士仍对毗邻霍尔木兹海峡（Strait of Hormuz）——那里的导弹袭击仍在继续——感到隐隐不安。此外，沙特阿拉伯依然是也门胡塞武装袭击的目标，导致该国近几周有多项体育赛事被迫取消或延期。\n\n尽管存在这些焦虑，F1管理层和各车队指出，卡塔尔和阿拉伯联合酋长国的局势在近几个月已经趋于稳定。商业活动已恢复正常水平，且这两个国家与这项运动有着深厚的财务和股权联系，例如卡塔尔主权基金对奥迪车队的投资，以及阿布扎比对迈凯伦车队的持股。\n\n## 核心事实与数字\n随着最后期限的过去，伊莫拉赛道于周二接到通知，暂停了相关筹备工作。各方核心利益相关者（包括车队代表）此前曾举行会议，就应急计划进行讨论，并要求在比赛周期间若局势升级时获得安全保障。\n\n国际汽联（FIA）主席穆罕默德·本·苏拉耶姆（Mohammed Ben Sulayem）在社交媒体Instagram上发表声明，重申了全力办好最后两站大奖赛的坚定承诺。此外，MotoGP（世界摩托车锦标赛）上周末刚刚在卡塔尔成功举办了一站大奖赛。F1各车队也一直对管理机构和赛事运营方做出恰当赛程决策的能力表示信任。\n\n## 接下来如何\n前往卡塔尔和阿布扎比的物流与货运筹备工作将按计划推进。F1管理层坚称安全绝对是重中之重，并强调如果比赛周末前安全形势恶化，这项运动随时准备取消或调整相关赛事。",
+      "social_post": "F1官方已确认赛季收官战将如期在卡塔尔和阿布扎比举行，伊莫拉的备用计划正式解除。安全永远是第一位的，你如何看待F1重返中东？ #F1 #卡塔尔大奖赛 #阿布扎比大奖赛 #赛车运动"
+    },
+    "ru": {
+      "headline": "Формула-1 подтвердила проведение финала сезона на Ближнем Востоке: план с Имолой отменен",
+      "subheadline": "Руководство чемпионата подтвердило этапы в Катаре и Абу-Даби после отказа от услуг итальянского автодрома, подчеркнув, что безопасность остается безусловным приоритетом.",
+      "body_markdown": "## Что произошло\nРуководство Формулы-1 официально уведомило автодром Имола в Италии, что его услуги в качестве запасной площадки на конец сезона 2026 года больше не требуются. Ф1 продолжает реализацию запланированного дуплета гонок на Ближнем Востоке: Гран-при Катара пройдет с 27 по 29 ноября, а Гран-при Абу-Даби закроет сезон 4–6 декабря.\n\nРанее итальянской трассе, расположенной в 20 милях от Болоньи, было поручено готовиться к возможному проведению этапа в даты Абу-Даби на случай, если поездки в этот регион станут невозможными из-за соображений безопасности.\n\n## Почему об этом говорят\nРешение было принято после нескольких месяцев неопределенности, вызванной региональным конфликтом с участием США, Израиля и Ирана. Ранее в этом году боевые действия уже нарушили первоначальный календарь, вынудив отменить апрельскую гонку в Саудовской Аравии и перенести Гран-при Бахрейна, который в итоге прошел в октябре на малайзийском Сепанге (Sepang).\n\nХотя текущие рекомендации правительств разрешают поездки, а страховка остается действительной, ключевые фигуры в паддоке выражали беспокойство из-за близости к Ормузскому проливу (Strait of Hormuz), где продолжаются ракетные удары. Кроме того, Саудовская Аравия остается мишенью для атак хуситов из Йемена, что привело к отмене или переносу нескольких мероприятий в стране за последние недели.\n\nНесмотря на эти тревоги, руководство Ф1 и команды отметили, что ситуация в Катаре и Объединенных Арабских Эмиратах в последние месяцы стабилизировалась. Бизнес-активность вернулась к нормальному уровню, а обе страны имеют серьезные финансовые и владельческие связи с чемпионатом, включая инвестиции Катара в команду Audi и долю Абу-Даби в McLaren.\n*Заметим, что в оригинальном тексте упоминается Audi, которая официально дебютирует в 2026 году.*\n\n## Ключевые факты и цифры\nВо вторник, с истечением установленного срока, Имоле было предписано свернуть подготовительные работы. Ключевые заинтересованные стороны, включая представителей команд, встречались для обсуждения плана на случай непредвиденных обстоятельств и получения гарантий безопасности на случай эскалации во время гоночных недель.\n\nПрезидент FIA Мохаммед бен Сулайем (Mohammed Ben Sulayem) опубликовал в Instagram заявление, в котором подтвердил твердую приверженность проведению двух финальных Гран-при. Кроме того, в предыдущие выходные MotoGP с успехом провел этап в Катаре. Команды Ф1 неизменно выражают доверие руководству и управляющей компании в вопросах принятия решений по календарю.\n\n## Что будет дальше\nЛогистическая подготовка и отправка грузов в Катар и Абу-Даби пойдут по плану. Руководство Формулы-1 настаивает, что безопасность является абсолютным приоритетом, подчеркивая: чемпионат по-прежнему готов отменить или изменить расписание этапов, если ситуация с безопасностью ухудшится перед началом гоночных уик-эндов.",
+      "social_post": "Формула-1 подтвердила, что финал сезона пройдет в Катаре и Абу-Даби, а Имола снимается с роли резервной трассы. Безопасность — превыше всего, но что вы думаете о возвращении Ф1 на Ближний Восток? #F1 #QatarGP #AbuDhabiGP #Motorsport"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "0767c33e5f",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/1280px-Yas_Marina_Circuit.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Yas_Marina_Circuit.png",
+        "artist": "Anthony Alessio Tralongo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Layout of the Yas Marina Circuit",
+        "width": 1200,
+        "height": 662,
+        "year": 2021,
+        "subject": "Yas Marina Circuit"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/1280px-2010_Malaysian_GP_opening_lap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2010_Malaysian_GP_opening_lap.jpg",
+        "artist": "Morio",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Formula One 2010 Rd.3 Malaysian GP: opening lap",
+        "width": 1200,
+        "height": 574,
+        "year": 2010,
+        "subject": "Formula One"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mohammed_Ben_Sulayem_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mohammed_Ben_Sulayem_2024.jpg",
+        "artist": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "description": "",
+        "width": 1200,
+        "height": 1542,
+        "year": 2024,
+        "subject": "Mohammed Ben Sulayem"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact dates of the stakeholder meeting on Tuesday"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific details of the Audi and McLaren ownership structures mentioned by sources"
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-hist-e056af",
     "slug": "on-this-day-in-1999-world-anti-doping-agency-formed-in-lausa",
     "date": "2026-11-10",
