@@ -1,0 +1,77 @@
+name: Daily sport news
+
+on:
+  schedule:
+    # Three chances a day (Cambodia time 3:37 PM, 6:37 PM, 9:37 PM). GitHub often starts scheduled jobs late,
+    # skips them, or cancels a waiting one; the first run that gets through writes the stories, the others stop.
+    - cron: "37 8 * * *"
+    - cron: "37 11 * * *"
+    - cron: "37 14 * * *"
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Publish immediately to Telegram/Facebook (skip review)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Write today's stories
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_REVIEW_CHAT: ${{ secrets.TELEGRAM_REVIEW_CHAT }}
+          TELEGRAM_CHANNEL_EN: ${{ secrets.TELEGRAM_CHANNEL_EN }}
+          TELEGRAM_CHANNEL_ZH: ${{ secrets.TELEGRAM_CHANNEL_ZH }}
+          TELEGRAM_CHANNEL_RU: ${{ secrets.TELEGRAM_CHANNEL_RU }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python -m sportnews daily --once
+          elif [ "${{ inputs.publish }}" = "true" ]; then
+            python -m sportnews daily --publish
+          else
+            python -m sportnews daily
+          fi
+
+      - name: Save results to the repo (website updates via GitHub Pages)
+        run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          mkdir -p data output && touch data/.gitkeep output/.gitkeep
+          git add data docs output
+          git diff --cached --quiet || git commit -m "Daily stories $(TZ=Asia/Phnom_Penh date +%F)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done
+
+      - name: Keep generated files for download
+        uses: actions/upload-artifact@v4
+        with:
+          name: stories-${{ github.run_id }}
+          path: output/
+          retention-days: 30
