@@ -5,7 +5,7 @@
     "date": "2026-11-11",
     "created": "2026-11-11T15:40:11+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Tennis",
     "tags": [
@@ -51,7 +51,20 @@
         "url": "https://www.aljazeera.com/amp/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-11T15:46:46+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-11T15:46:47+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-11T15:46:47+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -133,7 +146,8 @@
     "lang_updated": {
       "zh": "2026-11-11T15:46:09+07:00",
       "ru": "2026-11-11T15:46:09+07:00"
-    }
+    },
+    "published_at": "2026-11-11T15:46:47+07:00"
   },
   {
     "id": "2026-11-11-news-7ff971",
