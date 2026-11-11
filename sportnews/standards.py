@@ -33,6 +33,10 @@ CLICKBAIT = re.compile(r"(you won'?t believe|shocking|jaw[- ]dropping|insane|min
                        r"!!|\?\!|\bOMG\b)", re.I)
 CLICHES = [r"end of an era", r"rewrote the (?:record|history) books?", r"proved the doubters wrong",
            r"took the world by storm", r"needs no introduction"]
+FILLER = [r"high-stakes (?:encounter|clash|affair)", r"tactical discipline", r"vital stepping stone",
+          r"(?:observers|fans|coaches)(?: and \w+)? will be watching closely", r"dictate the trajectory",
+          r"underscores? the importance", r"serves? as (?:a|an) (?:essential|vital|crucial) (?:platform|stepping stone)",
+          r"remains to be seen", r"only time will tell", r"in the fray"]
 VAGUE_TIME = re.compile(r"(?:^|[.!?]\s+)(Today|Yesterday|Tonight|This morning)\b,?", re.M)
 DEATH_DATE = re.compile(r"\b(?:on|On) (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}[^.]{0,80}\b(died|passed away|death)\b"
                         r"|\b(died|passed away)\b[^.]{0,40}\bon (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}", re.I)
@@ -165,6 +169,10 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     for c in CLICHES:
         if re.search(c, body, re.I):
             out.append(_issue("INFO", "professional", f"Cliché: '{c}'"))
+    fill = [m.group(0) for f in FILLER for m in [re.search(f, body, re.I)] if m]
+    if fill:
+        out.append(_issue("WARN", "professional", "Filler without facts: '" + "', '".join(fill[:4])
+                                                  + "'. Cut these lines or replace them with facts from the sources"))
     if kind == "news":
         m = VAGUE_TIME.search(body)
         if m:

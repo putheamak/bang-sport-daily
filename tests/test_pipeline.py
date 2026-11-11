@@ -790,3 +790,12 @@ def test_rename_slug_keeps_old_link_and_ria_dates(repo):
     site.build_site(cfg())
     assert (repo / "docs/en/linda-noskova-beats-coco-gauff.html").exists()
     assert 'url=linda-noskova-beats-coco-gauff.html' in (repo / "docs/en/old-headline.html").read_text()
+
+
+def test_daily_once_and_filler_warning(repo, monkeypatch):
+    from sportnews import pipeline, common, standards
+    common.write_json(common.STATE, {"daily_done": "2026-11-05"})
+    assert pipeline.run_daily(publish_now=False, once=True) == []           # second scheduled run of the day: no work
+    a = {"type": "news", "date": "2026-11-05", "sources": [],
+         "en": {"headline": "H", "body_markdown": "It was a high-stakes encounter and observers will be watching closely."}}
+    assert any(i["area"] == "professional" and "Filler" in i["msg"] for i in standards.check_article(cfg(), a))

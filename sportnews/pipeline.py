@@ -124,12 +124,18 @@ def run_inbox() -> list[dict]:
     return new
 
 
-def run_daily(publish_now: bool | None = None) -> list[dict]:
-    log_to_file()
+def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]:
+    """once=True (the scheduled runs): do nothing if today's stories were already written. The daily job is
+    scheduled 3 times because GitHub often starts scheduled jobs late, skips them, or a newer job in the same
+    queue cancels a waiting one; the first run that gets through does the work, the others stop at once."""
     cfg = load_config()
     date = today(cfg)
-    plan = cfg.get("daily_plan", {})
     state = read_json(STATE, {})
+    if once and state.get("daily_done") == date:
+        print(f"Today's stories ({date}) are already written: nothing to do.")
+        return []
+    log_to_file()
+    plan = cfg.get("daily_plan", {})
     memo = read_text(MEMOS / f"{date}.md").lower()
     new: list[dict] = []
 
@@ -271,6 +277,10 @@ def run_daily(publish_now: bool | None = None) -> list[dict]:
     retry_translations(cfg, articles)
     save_articles(articles)
     log.info("Wrote %d new articles for %s", len(new), date)
+    if new:                                  # an all-failed run (AI down) may try again at the next scheduled time
+        st = read_json(STATE, {})
+        st["daily_done"] = date
+        write_json(STATE, st)
     if not new:
         log.error("No articles were written today — see the warnings above (data/last_run.log)")
 

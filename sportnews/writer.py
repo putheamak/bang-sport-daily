@@ -61,6 +61,10 @@ VOICE_RULES = {
   short final paragraph headed "## Editor's note" that uses only what the memo says.
 - Vary openings and structure from story to story; avoid clichés ("end of an era", "rewrote the record books",
   "proved the doubters wrong") unless genuinely apt.
+- Every sentence must carry a fact from the sources (a name, number, date, place, result or quote). Cut generic
+  filler that could fit any story, e.g. "a high-stakes encounter", "tactical discipline", "a vital stepping stone",
+  "observers will be watching closely", "will dictate the trajectory", "underscores the importance".
+  A shorter story with only facts is better than a longer one padded with filler.
 The STYLE PROFILE below guides rhythm and tone only (clear, warm, human) — not first-person voice.""",
     "personal": """STYLE: personal column in the editor's own voice, as described in the STYLE PROFILE.
 Use first person only for experiences and opinions the editor actually stated in the memos. Never invent

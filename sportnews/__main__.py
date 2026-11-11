@@ -25,6 +25,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser(prog="sportnews", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     d = sub.add_parser("daily"); d.add_argument("--publish", action="store_true", help="publish immediately")
+    d.add_argument("--once", action="store_true", help="skip if today's stories are already written (scheduled runs)")
     sub.add_parser("collect")
     sub.add_parser("inbox")
     sub.add_parser("build-style")
@@ -44,7 +45,7 @@ def main(argv=None):
 
     if a.cmd == "daily":
         from .pipeline import run_daily
-        run_daily(publish_now=True if a.publish else None)
+        run_daily(publish_now=True if a.publish else None, once=a.once)
     elif a.cmd == "inbox":
         from .pipeline import run_inbox
         for x in run_inbox():
