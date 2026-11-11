@@ -1,5 +1,7 @@
-2026-11-11 10:35:46,089 INFO Updated sources/notes for 2026-11-11-news-d82427
-2026-11-11 10:35:46,283 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-11
-2026-11-11 10:35:47,170 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-11 10:35:47,272 INFO Website built: 22 published stories, 105 pages
-2026-11-11 10:35:47,272 INFO Imported 1 editor's article(s): 2026-11-11-news-d82427
+2026-11-11 10:52:44,827 INFO Corrected English for 2026-11-11-news-758b2e
+2026-11-11 10:52:44,827 INFO Added zh translation for 2026-11-11-news-758b2e
+2026-11-11 10:52:44,827 INFO Added ru translation for 2026-11-11-news-758b2e
+2026-11-11 10:52:45,064 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-11
+2026-11-11 10:52:45,815 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-11 10:52:45,922 INFO Website built: 23 published stories, 108 pages
+2026-11-11 10:52:45,923 INFO Imported 1 editor's article(s): 2026-11-11-news-758b2e
