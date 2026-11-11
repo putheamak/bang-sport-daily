@@ -277,8 +277,8 @@ def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]
     retry_translations(cfg, articles)
     save_articles(articles)
     log.info("Wrote %d new articles for %s", len(new), date)
-    if new:                                  # an all-failed run (AI down) may try again at the next scheduled time
-        st = read_json(STATE, {})
+    if kept:                                 # only a run with real drafts counts; if the AI failed or every draft
+        st = read_json(STATE, {})            # was auto-rejected, the next scheduled time tries again
         st["daily_done"] = date
         write_json(STATE, st)
     if not new:
