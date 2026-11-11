@@ -1,7 +1,7 @@
 [
   {
     "id": "2026-11-11-news-7ad1a0",
-    "slug": "linda-noskova-secures-wta-finals-semifinal-spot-after-defeat",
+    "slug": "linda-noskova-beats-coco-gauff-to-become-first-semi-finalist",
     "date": "2026-11-11",
     "created": "2026-11-11T15:40:11+07:00",
     "type": "news",
@@ -123,11 +123,6 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Newest source is 123 days older than the story (2026-07-11). Check for later developments before publishing"
       }
     ],
     "updated_at": "2026-11-11T15:46:09+07:00",
@@ -147,7 +142,10 @@
       "zh": "2026-11-11T15:46:09+07:00",
       "ru": "2026-11-11T15:46:09+07:00"
     },
-    "published_at": "2026-11-11T15:46:47+07:00"
+    "published_at": "2026-11-11T15:46:47+07:00",
+    "old_slugs": [
+      "linda-noskova-secures-wta-finals-semifinal-spot-after-defeat"
+    ]
   },
   {
     "id": "2026-11-11-news-7ff971",
