@@ -5,7 +5,7 @@
     "date": "2026-11-11",
     "created": "2026-11-11T17:26:59+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -39,7 +39,20 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3R0XzJrWVZ2YjVCYS1ZbFd6THYtU2JPbmR3cFhPQ0wydHMxQm80OXBYZTRlaDJiVVhaNEtWaFJmVmppTkY0WGhHX1RyNXNoMi1sYzlPb2ZfOEktZG5yQm9uMUFadUhVWDRIbzZyV2dSdWhzb2Y2bVZhWG40aDZWOGxkYkdvT0JmWnI5S2JvdUZtUnpkRHdsT2twTkx6WmxaUlRTdEUwTXY0ZnJlb0J1YzVvOU5Vb0ljd1JiMWJ1NFVJdC1kOFM5MXdBcWE?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-11T17:36:13+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-11T17:36:13+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-11T17:36:14+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.006,
       "longest": 9,
@@ -106,7 +119,8 @@
         "area": "facts",
         "msg": "Verify: The official outcome of the Manchester United board meeting scheduled for Wednesday regarding Michael Carrick."
       }
-    ]
+    ],
+    "published_at": "2026-11-11T17:36:14+07:00"
   },
   {
     "id": "2026-11-11-news-7ad1a0",
