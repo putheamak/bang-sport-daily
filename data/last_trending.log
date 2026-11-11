@@ -1,26 +1,28 @@
-2026-11-11 09:49:39,242 INFO BBC Sport                         41 items
-2026-11-11 09:49:39,640 INFO The Guardian Sport                25 items
-2026-11-11 09:49:39,689 INFO ESPN                               0 items
-2026-11-11 09:49:39,922 INFO Sky Sports                        20 items
-2026-11-11 09:49:40,512 INFO Google News – Sports (EN)         52 items
-2026-11-11 09:49:41,055 INFO Google News – 体育 (ZH)             39 items
-2026-11-11 09:49:41,553 INFO Google News – Спорт (RU)          44 items
-2026-11-11 09:49:42,874 INFO Championat                        31 items
-2026-11-11 09:49:43,766 INFO Sports.ru                         18 items
-2026-11-11 09:49:45,565 INFO Спорт-Экспресс                   405 items
-2026-11-11 09:49:46,381 INFO РИА Новости Спорт                 20 items
-2026-11-11 09:49:47,054 INFO 中国新闻网 体育                          21 items
-2026-11-11 09:49:47,574 INFO Google News – Cambodia sport      21 items
-2026-11-11 09:49:48,174 INFO Google News – Southeast Asia sport  37 items
-2026-11-11 09:49:48,831 INFO Candidate stories after clustering: 734
-2026-11-11 09:49:50,566 INFO Trending skipped (not our audience): Bills wear out Vikings’ NFL-leading defense, sloppy Wentz to improve to 7-1
-2026-11-11 09:49:50,566 INFO Trending skipped (not our audience): NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super 
-2026-11-11 09:49:50,567 INFO Trending skipped (not our audience): Fernando Mendoza named Raiders' starting quarterback
-2026-11-11 09:49:50,567 INFO Trending skipped (not our audience): Oregon makes a big leap in latest College Football Playoff rankings
-2026-11-11 09:49:50,568 INFO Trending skipped (not our audience): Josh Downs Traded to Chiefs: Fantasy Football Fallout For Kansas City, Tyler Warren, Danie
-2026-11-11 09:49:50,571 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-11 09:49:50,571 INFO   1. [en 8 outlets, heat 18.8] The Philippine Under-17 Men’s National Football Team (PMNFT U17) will go for a second straight win w
-2026-11-11 09:49:50,571 INFO   2. [ru 3 outlets, heat 9.0] «Немного медленно вошла в игру». Гауфф — о поражении от Носковой на Итоговом турнире WTA
-2026-11-11 09:49:50,571 INFO   3. [ru 3 outlets, heat 8.8] Казинс потерял сознание после силового приема Чикрана в матче «Оттава» — «Вашингтон»
-2026-11-11 09:49:50,571 INFO   4. [en 3 outlets, heat 8.8] Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate
-2026-11-11 09:49:50,571 INFO   5. [en 3 outlets, heat 8.2] Brilliant Noskova dismantles Gauff to reach WTA Finals last four
+2026-11-11 17:28:11,306 INFO BBC Sport                         46 items
+2026-11-11 17:28:11,495 INFO The Guardian Sport                25 items
+2026-11-11 17:28:11,543 INFO ESPN                               0 items
+2026-11-11 17:28:11,876 INFO Sky Sports                        19 items
+2026-11-11 17:28:12,112 INFO Google News – Sports (EN)         58 items
+2026-11-11 17:28:12,477 INFO Google News – 体育 (ZH)             35 items
+2026-11-11 17:28:13,287 INFO Google News – Спорт (RU)          62 items
+2026-11-11 17:28:14,321 INFO Championat                        30 items
+2026-11-11 17:28:15,321 INFO Sports.ru                         17 items
+2026-11-11 17:28:16,667 INFO Спорт-Экспресс                   490 items
+2026-11-11 17:28:18,695 INFO РИА Новости Спорт                 20 items
+2026-11-11 17:28:19,982 INFO 中国新闻网 体育                          20 items
+2026-11-11 17:28:20,559 INFO Google News – Cambodia sport      23 items
+2026-11-11 17:28:21,200 INFO Google News – Southeast Asia sport  34 items
+2026-11-11 17:28:22,113 INFO Candidate stories after clustering: 837
+2026-11-11 17:28:24,044 INFO Trending skipped (not our audience): 2026 NFL Midseason Report: First-Half Surprises, Second-Half Storylines and Super Bowl Pic
+2026-11-11 17:28:24,045 INFO Trending skipped (politics): Канада не допустит россиян на МЧМ, игроки с канадскими визами тоже не смогут сыграть – даж
+2026-11-11 17:28:24,045 INFO Trending skipped (not our audience): NFL trade deadline winners, losers: Vikings find QB, Jags go all-in, Jonathan Taylor stran
+2026-11-11 17:28:24,046 INFO Trending skipped (not our audience): College Football Playoff tiers: Where every Power Four team sits entering Week 11
+2026-11-11 17:28:24,047 INFO Trending skipped (politics): В Госдуме объяснили, почему Трусова и Валиева обошли Овечкина
+2026-11-11 17:28:24,048 INFO Trending skipped (politics): Польша не выдаст визы российским прыгунам с трамплина на Кубок мира
+2026-11-11 17:28:24,048 INFO Trending skipped (not our audience): Kirk Cousins' Trade to Vikings From Raiders Detailed in New NFL Rumors After Deadline Day 
+2026-11-11 17:28:24,050 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-11 17:28:24,050 INFO   1. [en 10 outlets, heat 25.0] The Philippine Under-17 Men’s National Football Team (PMNFT U17) will go for a second straight win w
+2026-11-11 17:28:24,050 INFO   2. [ru 4 outlets, heat 11.0] Двалишвили заявил, что его избили Усман Нурмагомедов и его команда
+2026-11-11 17:28:24,050 INFO   3. [ru 4 outlets, heat 10.9] Карпин о невызове Соболева в сборную: «Хотите докопаться до грязи. У него есть проблема, это медицин
+2026-11-11 17:28:24,050 INFO   4. [en 4 outlets, heat 10.3] South Africa’s most successful Olympian Tatjana Smith reveals she’s switching to the Netherlands
+2026-11-11 17:28:24,050 INFO   5. [ru 2 outlets, heat 6.9] Олимпийская чемпионка Шурочкина остается в реанимации после пожара
