@@ -1,5 +1,301 @@
 [
   {
+    "id": "2026-11-12-hist-4f230f",
+    "slug": "the-500-gamble-how-pudge-heffelfinger-became-footballs-first",
+    "date": "2026-11-12",
+    "created": "2026-11-12T02:02:32+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "American Football",
+    "tags": [
+      "American Football",
+      "Pudge Heffelfinger",
+      "History",
+      "Pro Football Hall of Fame"
+    ],
+    "athletes": [
+      "Pudge Heffelfinger"
+    ],
+    "image_subjects": [
+      "Pudge Heffelfinger",
+      "Yale Bulldogs football",
+      "Pittsburgh Steelers"
+    ],
+    "facts_to_verify": [
+      "Confirm if the historical marker mentioned in the source is still present at the North Side site."
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia: Pudge Heffelfinger",
+        "url": "https://en.wikipedia.org/wiki/Pudge_Heffelfinger"
+      },
+      {
+        "title": "Wikipedia: Allegheny Athletic Association",
+        "url": "https://en.wikipedia.org/wiki/Allegheny_Athletic_Association"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.041,
+      "longest": 17,
+      "phrases": [
+        "the university of california in 1893 lehigh university in 1894 and the university of minnesota in 1895",
+        "he was inducted into the college football hall of fame as",
+        "game performance bonus to w heffelfinger for playing cash 500",
+        "at recreation park in the city of allegheny now",
+        "ledger prepared by allegheny manager o d thompson"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "The $500 Gamble: How Pudge Heffelfinger Became Football’s First Professional",
+      "subheadline": "On November 12, 1892, a secret transaction in Pennsylvania forever altered the landscape of American sport.",
+      "body_markdown": "In the autumn of 1892, the burgeoning sport of American football was strictly an amateur pursuit, governed by codes of gentlemanly conduct and university pride. Yet, in the industrial heart of Pennsylvania, a heated rivalry between the Allegheny Athletic Association (the 3As) and the Pittsburgh Athletic Club was about to break those conventions. On November 12, 1892, that tension culminated in a transaction that changed the game forever: William Walter \"Pudge\" Heffelfinger was paid $500 to play for the 3As.\n\n## A Secret Payment\nHeffelfinger, a towering 6-foot-3, 210-pound guard who had earned three consecutive consensus All-American honors at Yale, was already widely regarded as the finest lineman of his era. As the Allegheny Athletic Association sought a decisive advantage for their upcoming match against the Pittsburgh Athletic Club, they turned to the Yale alumnus. While the Pittsburgh club reportedly offered him $250, Heffelfinger deemed the sum insufficient to risk his amateur status. The 3As doubled the offer, securing his services for $500—an amount equivalent to roughly $17,917 today.\n\nThe game, held at Recreation Park in the city of Allegheny, now Pittsburgh’s North Side, ended in a 4–0 victory for the 3As. Heffelfinger scored the match’s only touchdown, which, under the rules of the time, was valued at four points. Although the payment was kept strictly confidential at the time to preserve the facade of amateurism, the move sparked immediate controversy, as the Pittsburgh club protested the presence of the Chicago-based ringers in the Allegheny lineup.\n\n## The Discovery of a Landmark\nFor decades, the origins of professional football remained shrouded in rumor and local lore. The truth only emerged in the 1960s when a man identified as Nelson Ross presented Art Rooney, then-president of the Pittsburgh Steelers, with a 49-page manuscript detailing the early history of the sport. This evidence, combined with the later discovery of an 1892 account ledger by the Pro Football Hall of Fame, confirmed the transaction. The ledger, prepared by Allegheny manager O. D. Thompson, included a line item for a \"game performance bonus to W. Heffelfinger for playing (cash) $500.\"\n\n## A Legacy of Coaching\nFollowing his brief but historic turn as a professional player, Heffelfinger transitioned into coaching. He served as the head coach for the University of California in 1893, Lehigh University in 1894, and the University of Minnesota in 1895, finishing his coaching career with a record of 17–13–1. His influence on the sport was solidified in 1951, when he was inducted into the College Football Hall of Fame as part of its inaugural class.\n\nToday, a historical marker stands just blocks from the site of that 1892 game, commemorating the day a single ledger entry signaled the birth of modern professional football. What began as a clandestine attempt by a regional club to secure a win against their rivals eventually evolved into the professional industry that dominates the American sports landscape today.",
+      "social_post": "On this day in 1892, William 'Pudge' Heffelfinger changed sports history by accepting $500 to play for the Allegheny Athletic Association. It was the first time a player was paid for American football, marking the birth of the professional game. How much has the sport changed since that $500 bonus? #NFL #FootballHistory #OnThisDay #SportsHistory"
+    },
+    "zh": {
+      "headline": "500美元的豪赌：帕奇·赫弗芬格如何成为美式橄榄球历史上首位职业球员",
+      "subheadline": "1892年11月12日，宾夕法尼亚州的一场秘密交易，永远改变了美国体育的版图。",
+      "body_markdown": "在1892年的秋天，蓬勃发展的美式橄榄球还是一项纯粹的业余运动，受制于绅士风度和大学荣誉的准则。然而，在宾夕法尼亚州的工业腹地，阿勒格尼竞技协会（Allegheny Athletic Association，简称3As）与匹兹堡竞技俱乐部（Pittsburgh Athletic Club）之间激烈的死敌之争，即将打破这些常规。1892年11月12日，这种紧张关系最终促成了一笔永远改变这项运动的交易：威廉·沃尔特·“帕奇”·赫弗芬格（William Walter \"Pudge\" Heffelfinger）收到了500美元的报酬，为3As队出场比赛。\n\n## 一笔秘密的报酬\n赫弗芬格身高6英尺3英寸、体重达210磅，身材高大，曾在耶鲁大学连续三次当选全美最佳阵容（All-American），被广泛视为那个时代最出色的前锋。正当阿勒格尼竞技协会为了即将对阵匹兹堡竞技俱乐部的比赛寻求决定性优势时，他们将目光投向了这位耶鲁校友。据报道，匹兹堡俱乐部曾向他开出250美元的价码，但赫弗芬格认为这个金额不足以冒着失去业余球员身份的风险。3As队直接将报价翻倍，以500美元将其招致麾下——这笔钱相当于今天的约17,917美元。\n\n这场比赛在阿勒格尼市（即如今匹兹堡的北侧）的娱乐公园（Recreation Park）举行，最终3As以4比0取得胜利。赫弗芬格攻入了全场唯一的达阵，根据当时的规则，该达阵价值4分。尽管这笔报酬当时被严格保密，以维持业余体育的表象，但此举立刻引发了争议，匹兹堡俱乐部抗议阿勒格尼阵容中出现了来自芝加哥的雇佣兵。\n\n## 划时代证据的浮现\n几十年来，职业美式橄榄球的起源一直笼罩在传言和地方传说中。直到20世纪60年代，真相才浮出水面：一位名叫纳尔逊·罗斯（Nelson Ross）的人向时任匹兹堡钢人队（Pittsburgh Steelers）老板阿特·鲁尼（Art Rooney）呈递了一份长达49页的手稿，详细记录了这项运动的早期历史。这一证据，加上后来职业足球名人堂（Pro Football Hall of Fame）发现的一本1892年记账簿，最终证实了这笔交易。这本由阿勒格尼经理O·D·汤普森（O. D. Thompson）编制的账簿中，有一条明确的记账：“支付给W·赫弗芬格的出场表现奖金，用于参赛（现金）500美元。”\n\n## 执教传奇\n在经历了他短暂而又具有历史意义的职业球员生涯后，赫弗芬格转型成为一名教练。他于1893年担任加利福尼亚大学主教练，1894年执教利哈伊大学，1895年执教明尼苏达大学，以17胜13负1平的教练生涯战绩收官。他在1951年入选大学橄榄球名人堂（College Football Hall of Fame）首批创始成员，从而巩固了他对这项运动深远影响的地位。\n\n如今，在1892年那场比赛的旧址几个街区之外，矗立着一块历史纪念牌，纪念那个单条账簿记录标志着现代职业美式橄榄球诞生的日子。当初一家地区性俱乐部为战胜死敌而进行的一次秘密尝试，最终演变成了如今主导美国体育版图的庞大职业产业。",
+      "social_post": "历史上的今天（1892年），威廉·“帕奇”·赫弗芬格接受了500美元的报酬，代表阿勒格尼竞技协会出战，彻底改变了体育史。这是美式橄榄球历史上首次向球员支付薪水，标志着职业橄榄球的诞生。自那笔500美元的奖金以来，这项运动已经发生了多大的变化？ #NFL #橄榄球历史 #历史上的今天 #体育历史"
+    },
+    "ru": {
+      "headline": "Гамбит на 500 долларов: как Падж Хеффelfinger стал первым профессиональным игроком в американский футбол",
+      "subheadline": "12 ноября 1892 года тайная сделка в Пенсильвании навсегда изменила ландшафт американского спорта.",
+      "body_markdown": "Осенью 1892 года зарождающийся американский футбол был сугубо любительским занятием, подчинявшимся кодексам джентльменского поведения и университетской гордости. Однако в промышленном сердце Пенсильвании яростное соперничество между Атлетической ассоциацией Аллегейни (3As) и Атлетическим клубом Питтсбурга было готово разрушить эти условности. 12 ноября 1892 года это напряжение вылилось в сделку, которая навсегда изменила игру: Уильяму Уолтеру «Паджу» Хеффelfinger (William Walter \"Pudge\" Heffelfinger) заплатили 500 долларов за выступление в составе 3As.\n\n## Тайная выплата\nХеффelfinger — мощный линейный ростом 6 футов 3 дюйма (около 190 см) и весом 210 фунтов (95 кг), трижды подряд входивший в символическую всеамериканскую сборную (All-American) в составе Йеля, — уже тогда считался сильнейшим линейным своей эпохи. Когда Атлетическая ассоциация Аллегейни искала решающее преимущество для предстоящего матча против Питтсбургского атлетического клуба, они обратились к выпускнику Йеля. Сообщалось, что питсбургский клуб предлагал ему 250 долларов, но Хеффelfinger посчитал эту сумму недостаточной, чтобы рисковать своим любительским статусом. Команда 3As удвоила ставку, обеспечив его услуги за 500 долларов — сумму, эквивалентную примерно 17 917 долларам по сегодняшнему курсу.\n\nМатч, проходивший на арене «Рекриэйшн Парк» (Recreation Park) в городе Аллегейни (ныне — северный район Питтсбурга), завершился победой 3As со счетом 4:0. Хеффelfinger занес единственный тачдаун в матче, который по правилам того времени оценивался в четыре очка. Хотя выплата держалась в строжайшем секрете, чтобы сохранить видимость любительского спорта, этот шаг вызвал немедленные споры: питсбургский клуб выразил протест против присутствия в составе Аллегейни наемных игроков из Чикаго.\n\n## Обнаружение исторического документа\nДесятилетиями истоки профессионального футбола были окутаны слухами и местными легендами. Истина всплыла лишь в 1960-х годах, когда некий Нельсон Росс (Nelson Ross) передал Арту Руни (Art Rooney), тогдашнему президенту «Питтсбург Стилерз» («Pittsburgh Steelers»), 49-страничную рукопись с подробным описанием ранней истории спорта. Это свидетельство в сочетании с обнаруженной позже Залом славы профессионального футбола бухгалтерской книгой за 1892 год подтвердило факт сделки. В гроссбухе, составленном менеджером Аллегейни О. Д. Томпсоном (O. D. Thompson), значилась строка: «Бонус за выступление в матче В. Хеффelfinger за игру (наличные) — 500 долларов».\n\n## Тренерское наследие\nПосле своего короткого, но исторического выступления в качестве профессионального игрока Хеффelfinger перешел на тренерскую работу. Он возглавлял команду Калифорнийского университета в 1893 году, Университет Лихай в 1894 году и Университет Миннесоты в 1895 году, завершив тренерскую карьеру с общим балансом побед и поражений 17–13–1. Его влияние на вид спорта было закреплено в 1951 году, когда он вошел в первый класс Зала славы студенческого футбола (College Football Hall of Fame).\n\nСегодня исторический знак стоит всего в нескольких кварталах от места проведения того матча 1892 года, увековечивая день, когда одна-единственная запись в бухгалтерской книге ознаменовала рождение современного профессионального американского футбола. То, что начиналось как тайная попытка регионального клуба добиться победы над принципиальным соперником, со временем превратилось в профессиональную индустрию, доминирующую в американском спортивном ландшафте сегодня.",
+      "social_post": "В этот день в 1892 году Уильям «Падж» Хеффelfinger навсегда изменил историю спорта, согласившись получить 500 долларов за игру за Атлетическую ассоциацию Аллегейни. Это был первый случай, когда игроку заплатили за американский футбол, что ознаменовало рождение профессиональной игры. Как сильно изменился спорт с тех пор, как был выписан тот бонус в 500 долларов? #NFL #ИсторияФутбола #ЭтотДеньВИстории #ИсторияСпорта"
+    },
+    "region": "global",
+    "images": [],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm if the historical marker mentioned in the source is still present at the North Side site."
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-news-416d11",
+    "slug": "aleksandr-golovin-and-nail-umyarov-sidelined-for-russias-nov",
+    "date": "2026-11-12",
+    "created": "2026-11-12T01:59:17+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "Football",
+    "tags": [
+      "Russia",
+      "Aleksandr Golovin",
+      "Nail Umyarov",
+      "Valery Karpin",
+      "Football"
+    ],
+    "athletes": [
+      "Aleksandr Golovin",
+      "Nail Umyarov",
+      "Valery Karpin"
+    ],
+    "image_subjects": [
+      "Aleksandr Golovin",
+      "Nail Umyarov",
+      "Valery Karpin",
+      "Russia national football team"
+    ],
+    "facts_to_verify": [
+      "Verify the specific opponent and exact match dates for the November fixtures in Tashkent.",
+      "Confirm if Golovin has been officially ruled out of all matches or if he remains a game-time decision."
+    ],
+    "sources": [
+      {
+        "title": "Головин и Умяров не принимают участия в тренировке сборной России",
+        "url": "https://fanat1k.ru/news-365287-golovin-i-umyarov-ne-prinimayut-uchastiya-v-trenirovke-sbornoy-rossii.php"
+      },
+      {
+        "title": "Карпин сообщил о травме Умярова",
+        "url": "https://rsport.ria.ru/20261111/umyarov-1981123456.html"
+      },
+      {
+        "title": "Fanat1k.ru: Головин и Умяров не принимают участия в тренировке сборной России/Футболист Спартака Умяров пропустит матчи сборной России в ноябре / Карпин сообщил о травме Умярова",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlp5MGEzU3I4RFJEYVN3a1UwQml4Z19uOWtrTkd5TC1BU1JUS09HX0h5SWlMUXdxSWVSeGVPN2FSanhnWUVodFRtTXRHOHRNNWlVOFlBbEQtRFd3ZkZVcFAtRnExN3lrSHJyZkJqcEZ2M2RiRm5PUlRxbDdUN3ZuUW5vQzVGNWhhc0xmR01tUzJpOUxyeTBjU3llRGcwOFhlaE5OYXdtTQ?oc=5"
+      },
+      {
+        "title": "РИА Новости Спорт: Карпин сообщил о травме Умярова",
+        "url": "https://ria.ru/20261111/karpin-2130969185.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Aleksandr Golovin and Nail Umyarov Sidelined for Russia’s November Fixtures",
+      "subheadline": "Head coach Valery Karpin confirms injury concerns as the national team prepares for upcoming friendly matches in Tashkent.",
+      "body_markdown": "The Russian national football team faces significant personnel challenges ahead of their November international schedule, as key midfielders Aleksandr Golovin and Nail Umyarov have been ruled out of training sessions in Tashkent.\n\nHead coach Valery Karpin confirmed on November 11 that Umyarov sustained an injury during the team’s preparation camp. The Spartak Moscow midfielder will miss the entirety of the November fixtures. Golovin, who plays for AS Monaco, also did not participate in the squad's latest pre-match training, leaving his availability for the upcoming friendlies in doubt.\n\n## Impact on the Midfield Setup\n\nThe absence of Umyarov, a consistent presence in the defensive midfield role for Spartak, forces a tactical adjustment for Karpin. Since his debut, Umyarov has been viewed as a primary option for building play from the back. His forced withdrawal requires the coaching staff to look toward alternative personnel to balance the team’s transition play against their upcoming international opponents.\n\nGolovin’s status remains a focal point for supporters. As one of the few Russian players currently active in a top-five European league, his involvement is central to the team’s offensive structure. The team is currently based in Tashkent, where they are finalizing preparations for a series of exhibition matches intended to maintain squad cohesion despite the ongoing suspension of Russian clubs and the national team from FIFA and UEFA competitions.\n\n## Context of the November Camp\n\nThese matches serve as a critical opportunity for the Russian Football Union (RFU) to integrate younger talent and assess depth in the absence of competitive qualifiers. The loss of two established starters complicates the objective of maintaining consistent performance levels. The medical staff is expected to provide further clarity on Golovin’s recovery timeline following the conclusion of the training camp.\n\nFor the Russian side, the focus shifts to testing players who have seen limited minutes in previous gatherings. With the squad already operating in a restricted international environment, the ability to adapt to injuries has become a recurring theme for Karpin’s tenure. The team continues its training program in Uzbekistan, with the coaching staff monitoring the fitness of the remaining squad members ahead of the scheduled matches.",
+      "social_post": "Bad news for the Russian national team in Tashkent: Aleksandr Golovin and Nail Umyarov are sidelined for the November fixtures. Valery Karpin confirms Umyarov is out with an injury, while Golovin's status remains uncertain. How will this impact the team's performance in their upcoming friendlies? Let us know your thoughts below! #RussiaFootball #Golovin #Umyarov #ValeryKarpin #FootballNews"
+    },
+    "zh": {
+      "headline": "戈洛温与乌梅亚罗夫无缘俄罗斯队11月热身赛",
+      "subheadline": "主帅瓦列里·卡尔平确认伤病隐患，国家队目前正在塔什干备战即将到来的友谊赛。",
+      "body_markdown": "随着11月国际比赛日的临近，俄罗斯国家足球队遭遇了严峻的人员危机，中场核心亚历山大·戈洛温（Aleksandr Golovin）与奈尔·乌梅亚罗夫（Nail Umyarov）双双无缘在塔什干的合练。\n\n主教练瓦列里·卡尔平（Valery Karpin）于11月11日证实，乌梅亚罗夫在国家队集训期间受伤。这位莫斯科斯巴达克的中场大将确定将缺席11月的全部比赛。效力于法甲摩纳哥队的戈洛温同样缺席了球队最近的一次赛前训练，这让他在接下来的热身赛中能否出场打上了大大的问号。\n\n## 对中场布局的影响\n\n乌梅亚罗夫一直是莫斯科斯巴达克防守型中场的常规人选，他的缺阵迫使卡尔平不得不对战术进行调整。自上演国家队首秀以来，乌梅亚罗夫就被视为从后场发起进攻的重要棋子。他的因伤退出，要求教练组必须寻找替代人选，以平衡球队在对阵国际对手时的攻防转换。\n\n戈洛温的身体状况依然是球迷关注的焦点。作为少数几位目前在欧洲五大联赛效力的俄罗斯球员，他的参与对球队的进攻体系至关重要。目前全队正驻扎在塔什干，全力备战一系列热身赛。在俄罗斯俱乐部和国家队遭到国际足联（FIFA）和欧足联（UEFA）持续禁赛的背景下，这些比赛对于维持球队的凝聚力至关重要。\n\n## 11月集训的背景\n\n在缺乏正式预选赛的情况下，这些比赛为俄罗斯足协（RFU）提供了一个考察年轻天才和评估阵容深度的关键契机。失去两名主力球员，让保持稳定竞技状态的目标变得更加复杂。预计医疗团队将在本次集训结束后，对戈洛温的康复周期给出更明确的说法。\n* \n对俄罗斯队而言，当务之急是考察此前出场时间不多的球员。在国家队已经处于受限的国际比赛环境中的背景下，适应伤病困扰已成为卡尔平执教期间的一个常态。球队在乌兹别克斯坦的训练仍在继续，教练组正密切监控剩余队员的身体状况，以迎接即将到来的比赛。",
+      "social_post": "俄罗斯队塔什干集训遭遇坏消息：戈洛温与乌梅亚罗夫将缺席11月热身赛。主帅卡尔平确认乌梅亚罗夫因伤伤退，戈洛温的前景也充满不确定性。这会如何影响球队在即将到来的友谊赛中的表现？快在评论区留下你的看法！#俄罗斯足球 #戈洛温 #乌梅亚罗夫 #卡尔平 #足球新闻"
+    },
+    "ru": {
+      "headline": "Александр Головин и Наиль Умяров пропускают ноябрьский сбор сборной России",
+      "subheadline": "Главный тренер Валерий Карпин подтвердил кадровые проблемы: национальная команда готовится к товарищеским матчам в Ташкенте.",
+      "body_markdown": "Сборная России по футболу столкнулась с серьезными кадровыми трудностями в преддверии ноябрьского международной паузы — ключевые полузащитники Александр Головин и Наиль Умяров не смогут принять участие в тренировочном процессе в Ташкенте.\n\nГлавный тренер национальной команды Валерий Карпин 11 ноября подтвердил, что Умяров получил повреждение в расположении сборной. Хавбек московского «Спартака» пропустит все ноябрьские матчи. Головин, выступающий за «Монако», также не занимался в общей группе на последней предыгровой тренировке, из-за чего его участие в предстоящих спаррингах находится под вопросом.\n\n## Влияние на расстановку в центре поля\n\nОтсутствие Умярова, стабильно закрывавшего опорную зону в «Спартаке», заставляет Карпина вносить тактические коррективы. С момента своего дебюта Умяров рассматривался как один из главных вариантов для начала атак из глубины. Его вынужденный уход из состава заставляет тренерский штаб искать альтернативные кадры, чтобы сбалансировать переходные фазы игры в матчах с предстоящими соперниками.\n\nСтатус Головина остается главным объектом внимания болельщиков. Будучи одним из немногих россиян, выступающих в топ-5 европейских чемпионатов, он играет ключевую роль в созидательной структуре команды. Сейчас сборная базируется в Ташкенте, где завершает подготовку к серии товарищеских матчей, которые призваны сохранить командный тонус на фоне продолжающегося отстранения российских клубов и сборной от турниров под эгидой ФИФА и УЕФА.\n\n## Контекст ноябрьского сбора\n\nЭти матчи служат отличной возможностью для Российского футбольного союза (РФС) проверить ближайший резерв и оценить глубину состава в условиях отсутствия официальных отборочных матчей. Потеря двух твердых игроков основы усложняет задачу по поддержанию стабильного уровня игры. Ожидается, что медицинский штаб предоставит более точную информацию о сроках восстановления Головина после завершения сбора.\n\nДля нашей команды фокус смещается на проверку футболистов, получавших мало игрового времени в предыдущих созывах. Учитывая изолированность в текущем международном календаре, умение адаптироваться к кадровым потерям стало привычным делом за время работы Карпина. Команда продолжает тренировочную программу в Узбекистане, а тренерский штаб следит за кондициями оставшихся в строю игроков перед намеченными поединками.",
+      "social_post": "Неприятные новости из стана сборной России в Ташкенте: Александр Головин и Наиль Умяров пропустят ноябрьские матчи. Валерий Карpин подтвердил травму Умярова, а участие Головина остается под вопросом. Как это повлияет на игру команды в предстоящих товарищеских матчах? Делитесь мнением в комментариях! #СборнаяРоссии #Головин #Умяров #ВалерийКарпин #Футбол"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nail_Umyarov_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Nail_Umyarov_2022.jpg",
+        "artist": "Антон Зайцев",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Николсон в центре внимания и аргентинский фанат. «Спартак» победил «Кубань»",
+        "width": 1200,
+        "height": 1773,
+        "year": 2022,
+        "subject": "Nail Umyarov"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Valery_Karpin_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Valery_Karpin_in_2022.jpg",
+        "artist": "Артем Гусев",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Указания от Карпина, приз для Уткина и хитрый удар Байрамяна. «Ростов» одолел «Химки»",
+        "width": 1200,
+        "height": 1853,
+        "year": 2022,
+        "subject": "Valery Karpin"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2022. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify the specific opponent and exact match dates for the November fixtures in Tashkent."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm if Golovin has been officially ruled out of all matches or if he remains a game-time decision."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-12-news-502f2f",
+    "slug": "olympic-champions-dialogue-with-red-army-soldiers-in-ganzi-f",
+    "date": "2026-11-12",
+    "created": "2026-11-12T01:55:47+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "olympic",
+    "tags": [
+      "Olympic Games",
+      "Ganzi Tibetan Autonomous Prefecture",
+      "Dadu River",
+      "China News Service",
+      "Long March"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Ganzi Tibetan Autonomous Prefecture",
+      "Dadu River",
+      "Olympic Games"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "奥运冠军隔空对话红军战士 “中华体育精神颂”四川甘孜站活动举行",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PUlIteDgybnhYNEFpd1JoeGtib1dzVjNaa2RaY1dSdDRsWWI1QVF6aXNzNFJ1M3hXcG50OXd2Z24tTnFNWWc0bEdvYzBKeXJ4bnUxZjdyam1hRjJmQVZuc05IbkJiWkpF?oc=5"
+      },
+      {
+        "title": "中国新闻网 体育: 奥运冠军隔空对话红军战士 “中华体育精神颂”四川甘孜站活动举行",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-11/10729945.shtml"
+      },
+      {
+        "title": "Sohu: 长征精神与中华体育精神在大渡河畔交响",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmZ2bzlzZVZWZUt2eXlad01HR2RxdjcxM1RJaGNXbjBub3FaaGdFX3JLODhQOFpKSjZLazJ4VVZ1WG1SaE12TkpqWXV1VUV0M3FUMFg4a2lYYWtUdUFPNVFyU2xSZVFOMno4bDNGVDZDRm54SEFndWNGQmVLNUxjN1ZiZ1VrVWRPalViXw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Olympic champions dialogue with Red Army soldiers in Ganzi for Chinese Sports Spirit tour",
+      "subheadline": "The 'Ode to Chinese Sports Spirit' campaign arrived in Sichuan's Ganzi Tibetan Autonomous Prefecture on November 11, 2026, linking modern athletic achievement with historical endurance near the Dadu River.",
+      "body_markdown": "Olympic champions gathered in Sichuan province on November 11, 2026, to engage in a symbolic dialogue with historical Red Army soldiers as part of the nationwide 'Ode to Chinese Sports Spirit' campaign. Hosted in Ganzi Tibetan Autonomous Prefecture, the event brought together elite athletes, local youth, and sports administrators near the historic Dadu River.\n\n## Bridging History and Sport Along the Dadu River\n\nThe programme, reported by China News Service, placed contemporary athletic achievement against the backdrop of the Long March. Organizers designed the Ganzi stop to connect the physical endurance required by competitive athletes with the historical sacrifices commemorated in the region. Participants discussed how the perseverance demonstrated on Olympic podiums echoes the resilience of past generations who traversed the challenging terrain of western China.\n\nThe Dadu River carries profound historical weight in Chinese history due to the Ganzi region's central role during the Long March. By placing Olympic medalists in dialogue with the memory of Red Army soldiers, the Ministry of Sport and regional organizers sought to frame competitive sporting grit as a direct continuation of historical national perseverance. Similar stops on the nationwide tour have consistently paired modern training discipline with local revolutionary history.\n\n## Youth Engagement and Regional Development\n\nBeyond the main commemorative forum, visiting athletes interacted with student-athletes and local schools across the prefecture. The initiative forms part of a broader push by sports authorities to promote physical education and cultural values in remote and ethnic minority regions of western China. Local education bureaus facilitated workshops where young participants learned about training methodologies and goal-setting directly from national team representatives.\n\nThe event leaves the Ganzi prefecture as one of the key regional stops for the ongoing sports spirit tour, which travels across Chinese provinces to document the intersection of athletic excellence and national heritage. Future legs of the campaign are scheduled to visit additional historical landmarks across other provinces to expand youth sports outreach in underserved areas.",
+      "social_post": "Olympic champions traveled to Sichuan's Ganzi Tibetan Autonomous Prefecture on November 11, 2026, for the 'Ode to Chinese Sports Spirit' campaign near the Dadu River. Athletes connected modern competitive resilience with the history of the Long March. What role do you think sports history plays in inspiring young athletes today? Share your thoughts below! #OlimpicSpirit #Ganzi #LongMarch #ChinaSports"
+    },
+    "zh": {
+      "headline": "奥运冠军走进甘孜红军长征旧址，纵论中华体育精神",
+      "subheadline": "11月11日，「中华体育精神颂」巡展活动抵达四川甘孜藏族自治州。当顶尖体育健儿的身影出现在大渡河畔，现代竞技的高光时刻与历史长河中的坚忍不拔在此交相辉映。",
+      "body_markdown": "11月11日，多位奥运冠军齐聚四川，在全国「中华体育精神颂」巡展活动中，与长征红军的历史记忆展开了一场跨越时空的精神对话。这场活动在甘孜藏族自治州举行，将顶尖运动员、当地青少年及体育工作者紧密凝聚在大渡河畔。\n\n## 寻踪大渡河：让历史与体育同频共振\n\n据中国新闻社报道，本次活动将当代中国体育健儿的奋斗足迹，置于伟大的长征精神背景之下。主办方特意将甘孜站设在此处，旨在将竞技体育所需的超凡毅力，与这片土地上镌刻的历史牺牲紧密相连。参与活动的嘉宾们深入探讨了奥运赛场上展现出的不屈不挠，如何与当年红军将士征服中国西部崇山峻岭的顽强意志形成精神共鸣。\n\n大渡河流域在中国近现代史上承载着厚重的历史记忆，甘孜更在红军长征途中扮演了关键角色。通过让奥运奖牌得主与红军先辈的精神对话，国家体育总局及地方主办方力图向外界传递这样一个信号：赛场上挥洒汗水的拼搏精神，正是中华民族历代顽强坚守的延续。此前，该全国巡展的多站活动也一直致力于将现代体育训练的严苛纪律，同地方红色革命历史深度融合。\n\n## 赋能青少体育，助力区域发展\n\n除了核心的主题纪念论坛，来访的运动员们还走访了自治州内的多所学校，与当地师生及青年运动员亲切互动。作为体育部门推动中国西部边远及少数民族地区体教融合与文化建设的重要举措，该项目得到了当地教育部门的大力支持。在一场场别开生面的交流工作坊中，国家队代表们亲自向青少年传授训练方法，分享如何设定并实现人生目标。\n\n随着甘孜站行程的圆满落幕，这里已然成为「中华体育精神颂」全国巡展版图中的关键一站。这项活动足迹遍布大江南北，生动诠释了竞技体育卓越成就与国家宝贵精神财富的交融。未来，该巡展还将奔赴其他省份的更多历史地标，进一步拓展体教融合的广度，将体育之光带给更多偏远地区的青少年。",
+      "social_post": "11月11日，奥运冠军们来到四川甘孜藏族自治州的大渡河畔，开启「中华体育精神颂」巡展活动。在这里，现代竞技的韧性与红军长征的记忆交织共鸣。在你看来，体育历史对于激励今天的年轻运动员究竟有着怎样的意义？快在评论区分享你的看法吧！ #中华体育精神 #甘孜行 #长征精神 #中国体育"
+    },
+    "ru": {
+      "headline": "Олимпийские чемпионы встретились с памятью бойцов Красной армии в Ганьцзи в рамках тура «Оды китайскому спортивному духу»",
+      "subheadline": "11 ноября 2026 года кампания «Ода китайскому спортивному духу» добралась до Ганьцзи-Тибетского автономного округа в провинции Сычуань, связав современные спортивные достижения с исторической стойкостью у реки Дадухэ.",
+      "body_markdown": "11 ноября 2026 года олимпийские чемпионы собрались в провинции Сычуань, чтобы провести символичный диалог с историческими бойцами Красной армии в рамках общенациональной кампании «Ода китайскому спортивному духу». Мероприятие, прошедшее в Ганьцзи-Тибетском автономном округе, объединило элитных атлетов, местную молодежь и спортивных функционеров у берегов исторической реки Дадухэ.\n\n## Связующая нить истории и спорта у реки Дадухэ\n\nКак сообщает Служба новостей Китая (China News Service), программа сопоставила современные спортивные триумфы с эпохой Великого похода. Организаторы намеренно выбрали Ганьцзи для этой остановки, чтобы соединить физическую выносливость, необходимую профессиональным атлетам, с историческими жертвами, увековеченными в этом регионе. Участники обсудили, как упорство, демонстрируемое на олимпийских пьедесталах, перекликается со стойкостью прошлых поколений, преодолевавших суровый ландшафт западного Китая.\n\nРека Дадухэ имеет глубочайшее историческое значение для Китая благодаря ключевой роли региона Ганьцзи во время Великого похода. Сведя олимпийских медалистов в мысленном диалоге с бойцами Красной армии, Министерство спорта и региональные организаторы постарались представить спортивную закалку как прямое продолжение исторической национальной стойкости. Аналогичные этапы общенационального тура неизменно связывают современную тренировочную дисциплину с местной революционной историей.\n\n## Работа с молодежью и региональное развитие\n\nПомимо главного памятного форума, приглашенные атлеты пообщались со школьниками и молодыми спортсменами по всему округу. Эта инициатива стала частью более масштабного курса спортивных властей на продвижение физического воспитания и культурных ценностей в отдаленных регионах и районах проживания национальных меньшинств на западе Китая. Местные органы образования организовали мастер-классы, на которых юные участники узнали о методиках тренировок и постановке целей напрямую от представителей национальной сборной.\n\nГаньцзи стал одной из ключевых региональных точек проходящего спортивного тура, который колесит по китайским провинциям, исследуя пересечение спортивных достижений и национального наследия. В планах кампании — посещение других исторических достопримечательностей в прочих провинциях для расширения спортивного охвата молодежи в недостаточно обеспеченных регионах.",
+      "social_post": "11 ноября 2026 года олимпийские чемпионы отправились в Ганьцзи-Тибетский автономный округ (провинция Сычуань) на реку Дадухэ в рамках кампании «Ода китайскому спортивному духу». Атлеты связали современную соревновательную стойкость с историей Великого похода. Какую роль, по вашему мнению, спортивная история играет в вдохновении молодых атлетов сегодня? Делитесь мнением в комментариях! #ОлимпийскийДух #Ганьцзи #ВеликийПоход #КитайскийСпорт"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dadu_River.jpg/1280px-Dadu_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Dadu_River.jpg",
+        "artist": "rduta",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "The Dadu River in a beautiful canyon, with a road along the right side. In Sichuan — southern China. A tributary of the Yangtze River (Chang Jiang) .",
+        "width": 1200,
+        "height": 900,
+        "year": 2008,
+        "subject": "Dadu River"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2008. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-news-9e908e",
     "slug": "ska-forward-vasily-glotov-sets-sights-on-russian-national-te",
     "date": "2026-11-11",
