@@ -768,3 +768,25 @@ def test_history_not_repeated_same_day(repo, monkeypatch):
                            "published_to": [], "images": [], "en": {"headline": "WADA", "body_markdown": "Text."}}])
     pipeline.run_daily(publish_now=False)
     assert calls == []                                         # no second history story for the same date
+
+
+def test_rename_slug_keeps_old_link_and_ria_dates(repo):
+    """11 Nov 2026: a corrected headline should get a matching web address; old links must keep working."""
+    from sportnews import inbox, standards, site, common
+    assert standards._url_date("https://ria.ru/20261111/wta-2130779357.html").isoformat() == "2026-11-11"
+    common.save_articles([{"id": "2026-11-11-news-7ad1a0", "status": "published", "type": "news", "date": "2026-11-11",
+                           "slug": "old-headline", "created": "2026-11-11T10:00:00+07:00", "published_at": "2026-11-11T15:46:00+07:00",
+                           "sources": [{"title": "RIA", "url": "https://ria.ru/20261111/x.html"}, {"title": "AJ", "url": "https://www.aljazeera.com/sports/2026/7/11/y"}],
+                           "tags": [], "published_to": [], "images": [],
+                           "en": {"headline": "Linda Noskova Beats Coco Gauff", "subheadline": "", "body_markdown": "Text."}}])
+    a = common.load_articles()[0]
+    assert not any("older than the story" in i["msg"] for i in standards.check_article(cfg(), a, "2026-11-11"))
+    (repo / "inbox").mkdir(exist_ok=True)
+    (repo / "inbox" / "rename.md").write_text("---\nupdate: 2026-11-11-news-7ad1a0\nslug: headline\n---\n")
+    new = inbox.import_inbox(cfg(), "2026-11-11", {})
+    assert new[0]["slug"] == "linda-noskova-beats-coco-gauff" and new[0]["old_slugs"] == ["old-headline"]
+    from sportnews.pipeline import merge_articles
+    common.save_articles(merge_articles(new, common.load_articles()))
+    site.build_site(cfg())
+    assert (repo / "docs/en/linda-noskova-beats-coco-gauff.html").exists()
+    assert 'url=linda-noskova-beats-coco-gauff.html' in (repo / "docs/en/old-headline.html").read_text()

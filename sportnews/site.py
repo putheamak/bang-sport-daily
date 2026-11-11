@@ -653,6 +653,14 @@ ROOT_INDEX = """<!doctype html><html><head><meta charset="utf-8"><meta name="vie
 if(!sessionStorage.getItem('picked')){{sessionStorage.setItem('picked','1');location.replace(m+'/index.html')}}}}catch(e){{}}</script></body></html>"""
 
 
+def _redirect_page(slug: str) -> str:
+    t = E(slug)
+    return (f'<!doctype html><html><head><meta charset="utf-8"><title>Moved</title>'
+            f'<link rel="canonical" href="{t}.html"><meta name="robots" content="noindex">'
+            f'<meta http-equiv="refresh" content="0; url={t}.html"></head>'
+            f'<body><p>This story has moved: <a href="{t}.html">continue reading</a>.</p></body></html>')
+
+
 def build_site(cfg: dict) -> None:
     if not cfg["publish"].get("website", True):
         return
@@ -696,6 +704,9 @@ def build_site(cfg: dict) -> None:
             latest = [r for r in items if r is not a][:5]
             (d / f"{a['slug']}.html").write_text(_article_page(cfg, a, lang, rel[:3], latest, wire), encoding="utf-8")
             urls.append(f"{lang}/{a['slug']}.html")
+            for o in a.get("old_slugs") or []:          # renamed story: old links (Telegram, shares) still work
+                if o != a["slug"]:
+                    (d / f"{o}.html").write_text(_redirect_page(a["slug"]), encoding="utf-8")
         (d / "index.html").write_text(_home_page(cfg, lang, items[:60], wire), encoding="utf-8")
         for k in NAV_ORDER:
             if k in (cfg.get("columnists") or {}):

@@ -41,7 +41,8 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
         if f.name.lower() == "readme.md" or f.name in done:
             continue
         meta, body = parse(read_text(f))
-        if meta.get("update") and not body and (meta.get("sources") or meta.get("facts_to_verify") is not None):
+        if meta.get("update") and not body and (meta.get("sources") or meta.get("facts_to_verify") is not None
+                                                or meta.get("slug")):
             upd = _fix_details(meta)                 # sources / facts list only: no text change, no AI
             if upd:
                 out.append(upd)
@@ -179,6 +180,15 @@ def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:
 
 
 def _apply_details(a: dict, meta: dict) -> None:
+    if meta.get("slug"):
+        # 'slug: headline' = new web address from the current English headline (or give the address itself).
+        # The old address keeps working: it becomes a redirect to the new one.
+        new = slugify(a["en"]["headline"]) if str(meta["slug"]).strip().lower() in ("headline", "auto", "true") \
+            else slugify(str(meta["slug"]))
+        if new and new != a.get("slug"):
+            a["old_slugs"] = list(dict.fromkeys((a.get("old_slugs") or []) + [a["slug"]]))
+            a["slug"] = new
+            log.info("New web address for %s: %s (old one redirects)", a["id"], new)
     if meta.get("sources"):
         a["sources"] = [x for x in meta["sources"] if isinstance(x, dict) and x.get("url")]
     if meta.get("facts_to_verify") is not None:

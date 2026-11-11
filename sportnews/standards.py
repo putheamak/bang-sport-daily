@@ -38,7 +38,8 @@ DEATH_DATE = re.compile(r"\b(?:on|On) (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}[^.]{0,
                         r"|\b(died|passed away)\b[^.]{0,40}\bon (?:\d{1,2} \w+|\w+ \d{1,2}),? \d{4}", re.I)
 CLAIMS = re.compile(r"\b(debut|first[- ]ever|for the first time|first (?:man|woman|player|team|boxer|athlete) to|"
                     r"world record|all-time record|unbeaten|undefeated|oldest|youngest)\b", re.I)
-URL_DATE = re.compile(r"/(20\d\d)[/-](\d{1,2})[/-](\d{1,2})(?:/|-|$)|/(20\d\d)/([a-z]{3})/(\d{1,2})/", re.I)
+URL_DATE = re.compile(r"/(20\d\d)[/-](\d{1,2})[/-](\d{1,2})(?:/|-|$)|/(20\d\d)/([a-z]{3})/(\d{1,2})/"
+                      r"|/(20\d\d)(\d\d)(\d\d)/", re.I)      # last form: ria.ru/20261111/...
 MONTHS = {m: i for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
 WEAK_SOURCES = ("blogspot.", "wordpress.com", "medium.com", "nigfooty.", "reddit.com", "facebook.com",
                 "x.com/", "twitter.com", "tiktok.com", "youtube.com")
@@ -78,6 +79,8 @@ def _url_date(url: str) -> Date | None:
     try:
         if m.group(1):
             return Date(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        if m.group(7):
+            return Date(int(m.group(7)), int(m.group(8)), int(m.group(9)))
         return Date(int(m.group(4)), MONTHS[m.group(5).lower()], int(m.group(6)))
     except (ValueError, KeyError):
         return None
