@@ -341,7 +341,7 @@ def _card(cfg, a, lang, size="std") -> str:
             f'<div class="media">{_cover(cfg, a, lang)}</div>'
             f'<div class="txt">{_kicker(cfg, a, lang)}<h3>{E(L["headline"])}</h3>'
             + (f'<p>{E(dek)}</p>' if size != "mini" else "")
-            + f'<span class="meta">{E(byline_name(cfg, a, lang))} · <time>{fmt_date(a["date"], lang)}</time></span></div></a>')
+            + f'<span class="meta"><time>{fmt_date(a["date"], lang)}</time></span></div></a>')
 
 
 def _fresh_wire(items: list, max_hours: int = 48) -> list:
@@ -502,7 +502,7 @@ def _home_page(cfg, lang, items, wire):
             return (f'<a class="fcard" href="{a["slug"]}.html"><div class="media">{_cover(cfg, a, lang)}</div>'
                     f'<div class="txt">{_kicker(cfg, a, lang)}<h3>{E(a[lang]["headline"])}</h3>'
                     f'<p>{E(a[lang].get("subheadline") or _plain(a[lang].get("body_markdown", ""), 160))}</p>'
-                    f'<span class="meta">{E(byline_name(cfg, a, lang))}</span></div></a>')
+                    f'<span class="meta"><time>{fmt_date(a["date"], lang)}</time></span></div></a>')
         feat = (f'<section class="band"><div class="wrap"><h2 class="sech light"><span>{UI2[lang]["features"]}</span></h2>'
                 f'<div class="fgrid2">{"".join(fcard(a) for a in (athlete, history) if a)}</div></div></section>')
     by_sec: dict[str, list] = {}
@@ -520,7 +520,7 @@ def _home_page(cfg, lang, items, wire):
     <div class="media">{_cover(cfg, lead, lang, "ph")}</div>
     <div class="txt">{_kicker(cfg, lead, lang)}<h1>{E(L['headline'])}</h1>
       <p>{E(L.get('subheadline') or _plain(L.get('body_markdown', ''), 220))}</p>
-      <span class="meta">{E(byline_name(cfg, lead, lang))} · <time>{fmt_date(lead['date'], lang)}</time> · {read_minutes(L, lang)} {UI2[lang]['read']}</span></div>
+      <span class="meta"><time>{fmt_date(lead['date'], lang)}</time> · {read_minutes(L, lang)} {UI2[lang]['read']}</span></div>
   </a>
   <div class="side">{"".join(_card(cfg, a, lang, "row") for a in side)}</div>
 </section>
