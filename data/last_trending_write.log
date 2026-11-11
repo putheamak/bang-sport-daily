@@ -1,13 +1,14 @@
-2026-11-11 10:25:50,654 INFO Writing explainer 556ec7dff1: Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate
-2026-11-11 10:25:51,104 INFO Writing news (EN) ...
-2026-11-11 10:25:51,751 INFO Gemini models available: 25 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-11 10:25:51,921 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
-2026-11-11 10:25:51,921 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-11 10:25:51,921 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
-2026-11-11 10:26:13,988 INFO Adapting to zh, ru ...
-2026-11-11 10:26:59,680 INFO Looking up photos for 2026-11-11-news-d82427: ['Mauricio Pochettino', 'Michael Carrick', 'Manchester United F.C.', 'Old Trafford']
-2026-11-11 10:26:59,813 INFO Photo for 'Mauricio Pochettino': Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg (Bryan Berlin, CC BY-SA 4.0)
-2026-11-11 10:26:59,897 WARNING No free-licence photo for 'Michael Carrick' (Michael_Carrick_12042025_(5)_(cropped).jpg)
-2026-11-11 10:27:00,363 INFO Photo for 'Old Trafford': 2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg (Arne Müseler from Salzburg, AT, CC BY-SA 2.0)
-2026-11-11 10:27:01,033 INFO Website built: 22 published stories, 105 pages
-2026-11-11 10:27:01,033 INFO Explainers written: 1 (1 kept for review)
+2026-11-11 10:40:31,458 INFO Writing explainer e86e7492f6: Fujino’s double sparks WCL comeback win for Manchester City against Inter
+2026-11-11 10:40:32,090 INFO Writing news (EN) ...
+2026-11-11 10:40:32,841 INFO Gemini models available: 25 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-11 10:40:33,009 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
+2026-11-11 10:40:33,009 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-11 10:40:33,009 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
+2026-11-11 10:41:32,306 INFO Adapting to zh, ru ...
+2026-11-11 10:42:44,301 INFO Looking up photos for 2026-11-11-news-758b2e: ['Aoba Fujino', 'Manchester City W.F.C.', 'Inter Milan (women)', 'Kerstin Casparij', 'Grace Clinton', 'Ayaka Yamashita']
+2026-11-11 10:42:45,255 WARNING No free-licence photo for 'Inter Milan (women)' (FC_Internazionale_Milano_2021.svg)
+2026-11-11 10:42:45,462 INFO Photo for 'Kerstin Casparij': 20250905-Kerstin_Casparij.jpg (Katie Chan, CC BY-SA 4.0)
+2026-11-11 10:42:45,664 INFO Photo for 'Grace Clinton': Lewes_FC_Women_0_Bristol_City_Women_1_Conti_Cup_18_01_2023-516_(52636858877)_(cropped).jpg (James Boyes from UK, CC BY 2.0)
+2026-11-11 10:42:46,173 INFO Photo for 'Ayaka Yamashita': 20250905-Ayaka_Yamashita.jpg (Katie Chan, CC BY-SA 4.0)
+2026-11-11 10:42:46,857 INFO Website built: 23 published stories, 108 pages
+2026-11-11 10:42:46,858 INFO Explainers written: 1 (1 kept for review)

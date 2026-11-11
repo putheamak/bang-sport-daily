@@ -1,5 +1,118 @@
 [
   {
+    "id": "2026-11-11-news-758b2e",
+    "slug": "aoba-fujino-double-sparks-manchester-city-comeback-in-monza-",
+    "date": "2026-11-11",
+    "created": "2026-11-11T17:42:44+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "Women's Champions League",
+      "Manchester City WFC",
+      "Inter Milan Women",
+      "Aoba Fujino",
+      "Women's Football"
+    ],
+    "athletes": [
+      "Aoba Fujino",
+      "Kerstin Casparij",
+      "Grace Clinton",
+      "Ayaka Yamashita",
+      "Khadija Shaw"
+    ],
+    "image_subjects": [
+      "Aoba Fujino",
+      "Manchester City W.F.C.",
+      "Inter Milan (women)"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+        "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report"
+      },
+      {
+        "title": "Man City thrash Inter to claim first CL win of season",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "City claim first win of European campaign in Inter thrashing",
+        "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.008,
+      "longest": 10,
+      "phrases": [
+        "draws against bayern munich real madrid and paris saint germain"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Aoba Fujino Double Sparks Manchester City Comeback in Monza for First European Win",
+      "subheadline": "Andrée Jeglertz's side overturn an early deficit against Inter to secure a 4-1 victory in the Women's Champions League while resting key starters.",
+      "body_markdown": "## What happened\n\nManchester City secured their first Women's Champions League win of the season on Tuesday night, coming from behind to defeat Inter 4-1 at the Stadio Brianteo in Monza. \n\nThe Italian hosts took the lead when Elisa Bartoli headed in a cross from Ivana Andrés. Inter entered the fixture without having conceded a goal in their opening six Serie A matches, but City responded before the break. Japan forward Aoba Fujino equalised by latching onto Laura Blindkilde Brown's through ball, then gave City the lead in the 44th minute by converting a rebound after Mary Fowler's initial effort was parried.\n\nCity maintained control throughout the second half. Kerstin Casparij finished into the bottom corner from Sam Coffey’s pass to make it 3-1, before substitute Lauren Hemp crossed for Grace Clinton to volley in a fourth from a tight angle. Goalkeeper Ayaka Yamashita preserved the advantage with sharp saves against Haley Bugeja and Michela Cambiaghi.\n\n## Why it is being talked about\n\nThe result revitalised City's continental campaign after three consecutive draws against Bayern Munich, Real Madrid, and Paris Saint-Germain left them in need of momentum. \n\nManager Andrée Jeglertz accomplished the victory despite heavily rotating his starting lineup ahead of a critical domestic fixture. Leading goalscorer Khadija Shaw remained an unused substitute, while regular starters Lauren Hemp and Yui Hasegawa were held out of the starting eleven. The display demonstrated City's squad depth against an Italian side that had been defensively spotless domestically.\n\n## Key facts and numbers\n\n- **4**: Goals scored by Manchester City, marking Inter's first goals conceded across all competitions this season after six clean sheets in Serie A.\n- **6**: Points held by Manchester City in the Women's Champions League table after doubling their tally with their first victory.\n- **2**: Goals scored by 22-year-old Japan international Aoba Fujino, who spearheaded the first-half turnaround.\n- **0**: Minutes played by City's top scorer Khadija Shaw, granting her complete rest before the weekend.\n\n## What happens next\n\nManchester City travel to London on Saturday to face Women's Super League title rivals Chelsea at Stamford Bridge. In Europe, the win lifts City's qualification hopes ahead of the final rounds of the group stage.",
+      "social_post": "Aoba Fujino scored twice as Manchester City fought back from a goal down to beat Inter 4-1 in Monza, claiming their first Women's Champions League win of the season. Manager Andrée Jeglertz rested Khadija Shaw entirely ahead of Saturday's clash against Chelsea. How far can City go in Europe this season? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "藤野青叶梅开二度导演逆转！曼城客场4-1大胜国米斩获欧冠首胜",
+      "subheadline": "安德烈·耶格勒茨在多名主力轮休的情况下客场破局，逆转击溃此前意甲零封的国米女足。",
+      "body_markdown": "## 赛况速递\n\n周二晚间，曼城女足终于迎来了本赛季女足欧冠的首场胜利。在蒙扎的布里安特奥球场（Stadio Brianteo），蓝月军团在先失一球的不利局面下奋起反击，最终以4-1客场大胜国际米兰女足。\n\n主场作战的意甲劲旅率先发难，埃莉萨·巴尔托利（Elisa Bartoli）接伊万娜·安德烈斯（Ivana Andrés）的传中头槌破门。要知道，国米在本场比赛前保持着本赛季意甲前六轮零失球的傲人纪录。然而，曼城在上半场便给出了强势回应。日本国脚前锋藤野青叶反越位接劳拉·布林德基尔德·布朗（Laura Blindkilde Brown）的直塞推射扳平；半场结束前的第44分钟，玛丽·福勒（Mary Fowler）的攻门被对方门将扑出，藤野青叶机敏补射得手，帮助曼城反超比分。\n\n易边再战，曼城牢牢掌控了场上局势。萨姆·科菲（Sam Coffey）送出妙传，克斯汀·卡斯帕赖（Kerstin Casparij）低射入死角将比分扩大为3-1。随后替补登场的劳伦·亨普（Lauren Hemp）送出精准传中，格蕾丝·克林顿（Grace Clinton）在极小角度凌空扫射破门锁定胜局。防守端，门将山下杏也加发挥稳健，先后化解了海莉·布杰加（Haley Bugeja）和米凯拉·坎比亚吉（Michela Cambiaghi）的威胁攻门，力保胜利果实。\n\n## 焦点解析\n\n这场大胜彻底盘活了曼城的欧战出线形势。此前连续战平拜仁慕尼黑、皇家马德里和巴黎圣日耳曼遭遇三连平后，球队极度渴望一场胜利来提振士气。\n\n更令人刮目相看的是，主帅安德烈·耶格勒茨（Andrée Jeglertz）是在对首发阵容进行了大幅轮换的前提下交出这份答卷的——毕竟周末还有一场至关重要的联赛硬仗。头号得分手哈迪贾·肖（Khadija Shaw）整场比赛坐在替补席上待命，劳伦·亨普和长谷川唯等核心也均未首发。面对国内防线固若金汤的国米，曼城用一场酣畅淋漓的逆转展现出了惊人的阵容厚度。\n\n## 核心数据\n\n- **4**：曼城本场打入4球，打破了国米本赛季各项赛事的金身——蓝黑军团此前在意甲豪取六连零封。\n- **6**：凭借这场首胜，曼城在女足欧冠积分榜上的积分直接翻倍，来到6分。\n- **2**：22岁的日本新星藤野青叶独中两元，成为上半场逆转局面的头号功臣。\n- **0**：队内头号射手哈迪贾·肖本场出场时间为0分钟，在周末大战前得到了充分的休整。\n\n## 下一步动向\n\n曼城将在本周六奔赴伦敦，在斯坦福桥球场与英女超争冠死敌切尔西展开直接对话。而在欧战赛场，这场大捷也让蓝月军团在小组赛收官阶段重新掌握了出线主动权。",
+      "social_post": "藤野青叶双响建功，曼城女足客场4-1逆转击溃国际米兰，斩获本赛季女足欧冠首胜！主帅耶格勒茨在主力射手肖打满替补席的前提下大轮换取胜，为周六客战切尔西的争冠天王山留足了后手。你认为本赛季曼城女足能在欧冠走多远？欢迎在评论区畅所欲言！#女足欧冠 #曼城女足 #藤野青叶"
+    },
+    "ru": {
+      "headline": "Дубль Фудзино вдохновил «Манчестер Сити» на волевой разгром в Монце и первую победу в Лиге чемпионов",
+      "subheadline": "Команда Андре Йеглерца пропустила первой, но забила четыре мяча «Интеру», дав передышку лидерам перед суперматчем чемпионата.",
+      "body_markdown": "## Как развивались события\n\nВо вторник вечером женская команда «Манчестер Сити» наконец открыла счет победам в нынешней Лиге чемпионов. На стадионе «Бриантео» в Монце «горожанки» проявили характер и уверенно переломили ход встречи с миланским «Интером», разгромив хозяек со счетом 4:1.\n\nИтальянки вышли вперед первыми: Элиза Бартоли (Elisa Bartoli) замкнула головой подачу Иваны Андрес (Ivana Andrés). К слову, к этой встрече «Интер» подошел с феноменальной статистикой — ни одного пропущенного мяча за шесть стартовых туров Серии А. Однако «Сити» не дрогнул и перевернул игру еще до перерыва. Японский форвард Аоба Фудзино сначала восстановила равновесие, открывшись под разрезающую передачу Лауры Блиндкильде Браун (Laura Blindkilde Brown), а на 44-й минуте оформила дубль, оказавшись первой на добивании после сэйва на Мэри Фаулер (Mary Fowler).\n\nВторой тайм прошел под диктовку англичанок. Керстин Каспарий (Kerstin Casparij) с передачи Сэм Коффи (Sam Coffey) ювелирно уложила мяч в нижний угол, сделав счет 3:1. Чуть позже вышедшая на замену Лорен Хемп (Lauren Hemp) навесила на Грейс Клинтон (Grace Clinton), и та с острейшего угла вколотила четвертый мяч с лета. А на последнем рубеже надежность закрепила вратарь Аяка Ямасита, парировав опаснейшие удары Хейли Буджеи (Haley Bugeja) и Микелы Камбьяги (Michela Cambiaghi).\n\n## В фокусе внимания\n\nЭтот успех стал для «Сити» глотком свежего воздуха на европейской арене. После трех ничьих подряд — с «Баварией», «Реалом» и «Пари Сен-Жермен» — команде кровь из носу требовался перелом.\n\nОсобый вес результату придает смелая ротация от Андре Йеглерца (Andrée Jeglertz). Наставник «горожанок» пошел на глубокую перестановку состава в преддверии важнейшей битвы во внутреннем первенстве: главный бомбардир Хадиджа Шоу (Khadija Shaw) провела все 90 минут на скамейке, а системообразующие Лорен Хемп и Юи Хасэгава не попали в стартовый протокол. Тем не менее «Сити» в пух и прах разнес оборону соперниц, не знавших осечек в Италии, доказав колоссальную глубину своей обоймы.\n\n## Цифры и факты\n\n- **4** — столько мячей влетит в ворота «Интера», для которого эти голы стали первыми пропущенными во всех турнирах сезона после шести сухих матчей в Серии А.\n- **6** — очков теперь в активе «Манчестер Сити» в турнирной таблице; первая победа удвоила багаж команды.\n- **2** — гола забила 22-летняя нападающая сборной Японии Аоба Фудзино, ставшая главным мотором перелома в первом тайме.\n- **0** — минут сыграла лучший снайпер клуба Хадиджа Шоу, получившая полноценный отдых перед уик-эндом.\n\n## Что дальше?\n\nВ субботу «Манчестер Сити» отправляется в Лондон на «Стэмфорд Бридж» — в гости к главному конкуренту в борьбе за титул Суперлиги, «Челси». Что касается Лиги чемпионов, то эта виктория резко повышает шансы команды на выход в плей-офф на финишной прямой группового раунда.",
+      "social_post": "Дубль Аобы Фудзино принес «Манчестер Сити» яркую волевую победу над «Интером» (4:1) и первые три очка в женской Лиге чемпионов! Андре Йеглерц приберег Хадиджу Шоу перед субботней битвой с «Челси» — и ротация сработала идеально. Как думаете, далеко зайдут «горожанки» в этой еврокубковой кампании? Делитесь в комментариях! #UWCL #ЖенскаяЛЧ #МанчестерСити"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "e86e7492f6",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/20250905-Kerstin_Casparij.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:20250905-Kerstin_Casparij.jpg",
+        "artist": "Katie Chan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Kerstin Casparij arriving for the Barclays Women's Super League football match between Chelsea and Manchester City at Stamford Bridge stadium on 5 September 2025.",
+        "width": 1200,
+        "height": 1801,
+        "year": 2025,
+        "subject": "Kerstin Casparij"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Lewes_FC_Women_0_Bristol_City_Women_1_Conti_Cup_18_01_2023-516_%2852636858877%29_%28cropped%29.jpg/1280px-Lewes_FC_Women_0_Bristol_City_Women_1_Conti_Cup_18_01_2023-516_%2852636858877%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Lewes_FC_Women_0_Bristol_City_Women_1_Conti_Cup_18_01_2023-516_(52636858877)_(cropped).jpg",
+        "artist": "James Boyes from UK",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Lewes FC Women 0 Bristol City Women 1 Conti Cup 18 01 2023-516.jpg",
+        "width": 1200,
+        "height": 1545,
+        "year": 2023,
+        "subject": "Grace Clinton"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/20250905-Ayaka_Yamashita.jpg/1280px-20250905-Ayaka_Yamashita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:20250905-Ayaka_Yamashita.jpg",
+        "artist": "Katie Chan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Ayaka Yamashita arriving for the Barclays Women's Super League football match between Chelsea and Manchester City at Stamford Bridge stadium on 5 September 2025.",
+        "width": 1200,
+        "height": 1800,
+        "year": 2025,
+        "subject": "Ayaka Yamashita (footballer)"
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-11-news-d82427",
     "slug": "manchester-united-pursue-mauricio-pochettino-as-michael-carr",
     "date": "2026-11-11",
