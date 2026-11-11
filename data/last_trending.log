@@ -1,28 +1,23 @@
-2026-11-11 17:28:11,306 INFO BBC Sport                         46 items
-2026-11-11 17:28:11,495 INFO The Guardian Sport                25 items
-2026-11-11 17:28:11,543 INFO ESPN                               0 items
-2026-11-11 17:28:11,876 INFO Sky Sports                        19 items
-2026-11-11 17:28:12,112 INFO Google News – Sports (EN)         58 items
-2026-11-11 17:28:12,477 INFO Google News – 体育 (ZH)             35 items
-2026-11-11 17:28:13,287 INFO Google News – Спорт (RU)          62 items
-2026-11-11 17:28:14,321 INFO Championat                        30 items
-2026-11-11 17:28:15,321 INFO Sports.ru                         17 items
-2026-11-11 17:28:16,667 INFO Спорт-Экспресс                   490 items
-2026-11-11 17:28:18,695 INFO РИА Новости Спорт                 20 items
-2026-11-11 17:28:19,982 INFO 中国新闻网 体育                          20 items
-2026-11-11 17:28:20,559 INFO Google News – Cambodia sport      23 items
-2026-11-11 17:28:21,200 INFO Google News – Southeast Asia sport  34 items
-2026-11-11 17:28:22,113 INFO Candidate stories after clustering: 837
-2026-11-11 17:28:24,044 INFO Trending skipped (not our audience): 2026 NFL Midseason Report: First-Half Surprises, Second-Half Storylines and Super Bowl Pic
-2026-11-11 17:28:24,045 INFO Trending skipped (politics): Канада не допустит россиян на МЧМ, игроки с канадскими визами тоже не смогут сыграть – даж
-2026-11-11 17:28:24,045 INFO Trending skipped (not our audience): NFL trade deadline winners, losers: Vikings find QB, Jags go all-in, Jonathan Taylor stran
-2026-11-11 17:28:24,046 INFO Trending skipped (not our audience): College Football Playoff tiers: Where every Power Four team sits entering Week 11
-2026-11-11 17:28:24,047 INFO Trending skipped (politics): В Госдуме объяснили, почему Трусова и Валиева обошли Овечкина
-2026-11-11 17:28:24,048 INFO Trending skipped (politics): Польша не выдаст визы российским прыгунам с трамплина на Кубок мира
-2026-11-11 17:28:24,048 INFO Trending skipped (not our audience): Kirk Cousins' Trade to Vikings From Raiders Detailed in New NFL Rumors After Deadline Day 
-2026-11-11 17:28:24,050 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-11 17:28:24,050 INFO   1. [en 10 outlets, heat 25.0] The Philippine Under-17 Men’s National Football Team (PMNFT U17) will go for a second straight win w
-2026-11-11 17:28:24,050 INFO   2. [ru 4 outlets, heat 11.0] Двалишвили заявил, что его избили Усман Нурмагомедов и его команда
-2026-11-11 17:28:24,050 INFO   3. [ru 4 outlets, heat 10.9] Карпин о невызове Соболева в сборную: «Хотите докопаться до грязи. У него есть проблема, это медицин
-2026-11-11 17:28:24,050 INFO   4. [en 4 outlets, heat 10.3] South Africa’s most successful Olympian Tatjana Smith reveals she’s switching to the Netherlands
-2026-11-11 17:28:24,050 INFO   5. [ru 2 outlets, heat 6.9] Олимпийская чемпионка Шурочкина остается в реанимации после пожара
+2026-11-11 23:42:58,337 INFO BBC Sport                         41 items
+2026-11-11 23:42:58,412 INFO The Guardian Sport                22 items
+2026-11-11 23:42:58,436 INFO ESPN                               0 items
+2026-11-11 23:42:58,747 INFO Sky Sports                        18 items
+2026-11-11 23:42:59,035 INFO Google News – Sports (EN)         60 items
+2026-11-11 23:42:59,618 INFO Google News – 体育 (ZH)             36 items
+2026-11-11 23:42:59,903 INFO Google News – Спорт (RU)          53 items
+2026-11-11 23:43:00,630 INFO Championat                        31 items
+2026-11-11 23:43:01,453 INFO Sports.ru                         19 items
+2026-11-11 23:43:02,827 INFO Спорт-Экспресс                   473 items
+2026-11-11 23:43:03,745 INFO РИА Новости Спорт                 20 items
+2026-11-11 23:43:04,565 INFO 中国新闻网 体育                          13 items
+2026-11-11 23:43:04,944 INFO Google News – Cambodia sport      22 items
+2026-11-11 23:43:05,408 INFO Google News – Southeast Asia sport  34 items
+2026-11-11 23:43:06,250 INFO Candidate stories after clustering: 797
+2026-11-11 23:43:08,488 INFO Trending skipped (not our audience): NFL trade deadline winners and losers: Vikings go full dadcore with Kirk Cousins in Super 
+2026-11-11 23:43:08,491 INFO Trending skipped (not our audience): Cardinals to start rookie QB Carson Beck against Rams
+2026-11-11 23:43:08,493 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-11 23:43:08,493 INFO   1. [en 7 outlets, heat 15.4] The Philippine Under-17 Men’s National Football Team (PMNFT U17) will go for a second straight win w
+2026-11-11 23:43:08,493 INFO   2. [ru 5 outlets, heat 12.9] Махачев высказался в защиту Нурмагомедова после драки Усмана с Двалишвили
+2026-11-11 23:43:08,493 INFO   3. [ru 4 outlets, heat 11.2] Свитолина победила в матче Итогового турнира впервые с 2019 года
+2026-11-11 23:43:08,493 INFO   4. [ru 4 outlets, heat 10.3] Московское «Динамо» без Леонида Тамбиева победило СКА в овертайме: Новости
+2026-11-11 23:43:08,493 INFO   5. [en 3 outlets, heat 8.7] Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova
