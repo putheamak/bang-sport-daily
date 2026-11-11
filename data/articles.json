@@ -1,5 +1,118 @@
 [
   {
+    "id": "2026-11-11-news-d82427",
+    "slug": "manchester-united-pursue-mauricio-pochettino-as-michael-carr",
+    "date": "2026-11-11",
+    "created": "2026-11-11T17:26:59+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "Manchester United",
+      "Mauricio Pochettino",
+      "Michael Carrick",
+      "Premier League",
+      "USMNT"
+    ],
+    "athletes": [
+      "Mauricio Pochettino",
+      "Michael Carrick"
+    ],
+    "image_subjects": [
+      "Mauricio Pochettino",
+      "Michael Carrick",
+      "Manchester United F.C.",
+      "Old Trafford"
+    ],
+    "facts_to_verify": [
+      "The exact compensation figure agreed between Manchester United and the United States Soccer Federation if Pochettino departs.",
+      "The official outcome of the Manchester United board meeting scheduled for Wednesday regarding Michael Carrick."
+    ],
+    "sources": [
+      {
+        "title": "Manchester United close on Mauricio Pochettino deal before settling Carrick’s fate",
+        "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick"
+      },
+      {
+        "title": "Manchester United finalising agreement to appoint Mauricio Pochettino",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3R0XzJrWVZ2YjVCYS1ZbFd6THYtU2JPbmR3cFhPQ0wydHMxQm80OXBYZTRlaDJiVVhaNEtWaFJmVmppTkY0WGhHX1RyNXNoMi1sYzlPb2ZfOEktZG5yQm9uMUFadUhVWDRIbzZyV2dSdWhzb2Y2bVZhWG40aDZWOGxkYkdvT0JmWnI5S2JvdUZtUnpkRHdsT2twTkx6WmxaUlRTdEUwTXY0ZnJlb0J1YzVvOU5Vb0ljd1JiMWJ1NFVJdC1kOFM5MXdBcWE?oc=5"
+      },
+      {
+        "title": "The Sun Malaysia: The Ultimate Manchester United Dream: Malaysia Airlines opens the door to an exclusive Old Trafford experience",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFRzaG8tcHNkcjFoS0pSTmczcnVNdzNVMGJCV3hRRlZsT3htSGZSUXQ3c3BwWUVXNy1BTFIzam0wVHBWZVZyak1YRmg4VlJPQ0pmMEEya29YNHBoQi1BdXVHSnVXMjVVSG1IQlV6NU5pMXVMemJBXy1FZmt2SVVJWF9UV19zQ2MyclJHamxFVjAyaDdNSFAtbHJ4aGNUSlhaemtGeWFZZU05S1VKV0toVGtGUng2MzRfSzVNbUFsZFpKQnc5b0JqQk40akh6UjhoZ1JKZXNGRWVQeVBY?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.006,
+      "longest": 9,
+      "phrases": [
+        "in concacaf nations league matches against haiti on saturday"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Manchester United Pursue Mauricio Pochettino as Michael Carrick Faces Dismissal",
+      "subheadline": "Club executives recommend a managerial change with United sitting 18th in the Premier League table.",
+      "body_markdown": "## What happened\nManchester United are working towards an agreement to appoint Mauricio Pochettino as their new head coach, moving for the Argentine before formally concluding the tenure of Michael Carrick. \n\nUnited’s director of football, Jason Wilcox, and chief executive, Omar Berrada, traveled to Monaco to recommend Carrick’s dismissal to minority owner Sir Jim Ratcliffe, who oversees the club's sporting operations. A full board meeting involving representatives of the majority-owning Glazer family is scheduled for Wednesday, where the decision to dismiss Carrick is expected to be ratified.\n\n## Why it is being talked about\nPochettino currently serves as head coach of the United States men’s national team, having taken the position to lead the program through competitive cycles. However, sources report he is keen to take over at Old Trafford if Carrick departs. Any move would require United to buy out his international contract, interrupting the United States' preparations just as their Concacaf Nations League campaign begins.\n\nFor United, the development underscores an alarming start to the campaign. Carrick, 45, has struggled to find consistency, leaving the squad languishing in the relegation zone and prompting the executive team to seek experienced Premier League leadership. Pochettino previously managed Southampton, Tottenham Hotspur and Chelsea.\n\n## Key facts and numbers\n- **18th position:** Manchester United currently sit in the Premier League relegation zone.\n- **1 league win:** Carrick has managed just one league victory this season, against Ipswich in August, alongside three wins across all competitions.\n- **Carabao Cup exit:** United were eliminated from the competition by Brighton in September.\n- **$10 million (£7.5 million):** The approximate buyout clause in Pochettino’s contract with the United States, with total compensation expected to rise if longtime assistant Jesús Pérez and backroom staff follow.\n- **16 years:** The length of time assistant Jesús Pérez has worked alongside Pochettino.\n\n## What happens next\nThe United board meets on Wednesday, where club leadership expects Carrick’s departure to be confirmed and announced. Meanwhile, Pochettino remains scheduled to oversee the United States in Concacaf Nations League matches against Haiti on Saturday in Miami and the following Wednesday in Cincinnati. If negotiations between United, Pochettino and the US federation progress swiftly, United will aim to finalize the appointment before domestic league play resumes.",
+      "social_post": "Manchester United are closing in on a deal to appoint Mauricio Pochettino, with club executives recommending the dismissal of Michael Carrick following a dismal start that leaves United 18th in the Premier League. Will Pochettino be the right manager to turn United's season around? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "卡里克下课已成定局？曼联火速敲定波切蒂诺接掌帅印",
+      "subheadline": "红魔深陷英超降级区排在第18位，俱乐部高层已正式提议换帅。",
+      "body_markdown": "## 突发事件\n曼联目前正全力推进聘请毛里西奥·波切蒂诺出任新任主帅的协议谈判。在尚未正式官宣迈克尔·卡里克离任之前，红魔就已经对这位阿根廷名帅展开了实质性攻势。\n\n曼联足球总监杰森·威尔考克斯（Jason Wilcox）与首席执行官奥马尔·贝拉达（Omar Berrada）专程前往摩纳哥，当面向负责俱乐部体育运营事务的小股东吉姆·拉特克利夫爵士提议解雇卡里克。此外，包含俱乐部控股方格雷泽家族代表在内的董事会全体会议定于本周三召开，届时预计将正式批准解雇卡里克的决定。\n\n## 焦点解析\n波切蒂诺目前正担任美国男足国家队主教练，原本肩负着带队征战各项大赛的重任。不过据多方消息透露，只要卡里克离职，阿根廷人非常渴望能够入主老特拉福德。曼联若想成行，就必须出资买断他与美国足协的国家队合同，而这无疑会在中北美及加勒比海国家联赛（Concacaf Nations League）大幕拉开之际，彻底打乱美国队的备战节奏。\n\n对曼联而言，这一换帅动向折射出球队本赛季糟糕透顶的开局。现年45岁的卡里克始终无法让球队建立起稳定的表现，导致红魔一路滑落至降级区，迫使高层不得不转向寻找拥有丰富英超履历的顶级名帅。波切蒂诺此前曾在英超先后执教过南安普顿、托特纳姆热刺以及切尔西。\n\n## 关键事实与核心数据\n- **英超第18位：** 曼联目前深陷英超降级区，保级警报已经拉响。\n- **仅取1场联赛胜利：** 本赛季卡里克在英超仅仅带队赢下一场球——即8月份击败伊普斯维奇，各项赛事加起来也仅录得3场胜利。\n- **联赛杯惨遭淘汰：** 曼联在9月份的英格兰联赛杯中被布莱顿淘汰出局。\n- **1000万美元（约合750万英镑）：** 这是波切蒂诺与美国国家队合同中的大致解约金数额；如果其合作多年的助教赫苏斯·佩雷斯（Jesús Pérez）及教练组随行，曼联所需支付的补偿金总额还将进一步上升。\n- **16载并肩作战：** 助教赫苏斯·佩雷斯与波切蒂诺的共事时间已长达16年之久。\n\n## 后续进展\n曼联董事会定于本周三举行会议，管理层预计届时将正式确认并对外公布卡里克下课的消息。与此同时，波切蒂诺原定仍将率领美国队出战接下来的中北美及加勒比海国家联赛：周六在迈阿密对阵海地，随后在下周三移师辛辛那提迎来次回合。如果曼联、波切蒂诺以及美国足协之间的谈判进展神速，红魔高层希望能在联赛重新开打之前彻底敲定新帅任命。",
+      "social_post": "曼联正全力推进签下波切蒂诺的谈判！由于带队战绩惨淡、球队滑落至英超第18位，俱乐部高层已正式提议解雇卡里克。大家觉得波切蒂诺是扭转红魔颓势的真命天子吗？欢迎在评论区留下你的看法！#曼联 #波切蒂诺 #英超 #卡里克"
+    },
+    "ru": {
+      "headline": "«Манчестер Юнайтед» переманивает Маурисио Почеттино на фоне неизбежного увольнения Майкла Каррика",
+      "subheadline": "Боссы манкунианцев настаивают на смене главного тренера: команда опустилась на 18-е место в АПЛ.",
+      "body_markdown": "## Что произошло\n«Манчестер Юнайтед» вплотную приблизился к договоренности о назначении Маурисио Почеттино новым главным тренером. Клуб предпринял решительные шаги по приглашению аргентинца еще до того, как формально поставил точку в работе Майкла Каррика.\n\nФутбольный директор «Юнайтед» Джейсон Уилкокс (Jason Wilcox) и исполнительный директор Омар Беррада (Omar Berrada) лично отправились в Монако, чтобы рекомендовать отставку Каррика совладельцу клуба сэру Джиму Рэтклиффу, курирующему спортивный сектор. На среду запланировано заседание совета директоров с участием представителей мажоритарных владельцев — семейства Глейзеров, где решение об увольнении Каррика должно быть официально ратифицировано.\n\n## В чем суть проблемы\nНа данный момент Почеттино возглавляет мужскую сборную США, куда он пришел ради подготовки команды к крупным международным турнирам. Однако, по информации источников, аргентинский специалист горит желанием перебраться на «Олд Траффорд», как только Каррик покинет свой пост. Для оформления сделки «МЮ» придется выплатить солидную неустойку за разрыв его действующего контракта, что спутает все карты американцам прямо на старте их кампании в Лиге наций КОНКАКАФ.\n\nДля «Юнайтед» столь резкие движения — вынужденная реакция на кошмарный старт сезона. 45-летнему Каррику так и не удалось наладить стабильную игру: команда застряла в зоне вылета, и руководству потребовался опытный наставник, знающий Премьер-лигу как свои пять пальцев. За плечами Почеттино — успешная работа в «Саутгемптоне», «Тоттенхэме» и «Челси».\n\n## Цифры и ключевые факты\n- **18-е место:** именно на этой строчке в зоне вылета АПЛ сейчас располагается «Манчестер Юнайтед».\n- **1 победа в чемпионате:** при Каррике команда выиграла в Премьер-лиге лишь однажды — в августе у «Ипсвича». Всего во всех турнирах одержано лишь 3 победы.\n- **Вылет из Кубка лиги:** в сентябре «красные дьяволы» досрочно сошли с дистанции, уступив «Брайтону».\n- **10 миллионов долларов (7,5 миллиона фунтов стерлингов):** ориентировочная сумма отступных за расторжение контракта Почеттино со сборной США. Она наверняка вырастет, если вслед за аргентинцем в клуб перейдет его многолетний ассистент Хесус Перес (Jesús Pérez) и остальной штаб.\n- **16 лет:** именно столько времени Перес работает плечом к плечу с Почеттино.\n\n## Что дальше\nВ среду состоится заседание совета директоров «Юнайтед», по итогам которого руководство рассчитывает официально утвердить и объявить об уходе Каррика. Пока же Почеттино по-прежнему должен руководить сборной США в матчах Лиги наций КОНКАКАФ против Гаити — в субботу в Майами и в следующую среду в Цинциннати. Если трехсторонние переговоры между «МЮ», аргентинцем и Федерацией футбола США пойдут без задержек, манкунианцы постараются закрыть сделку до возобновления матчей внутреннего первенства.",
+      "social_post": "«Манчестер Юнайтед» близок к назначению Маурисио Почеттино! Руководство клуба уже рекомендовало отправить Майкла Каррика в отставку — команда сенсационно идет 18-й в АПЛ. Как считаете, Почеттино — тот самый человек, который спасет сезон для «красных дьяволов»? Делитесь мнением в комментариях! #МанчестерЮнайтед #МЮ #АПЛ #Почеттино #Каррик"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "556ec7dff1",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg/1280px-Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia",
+        "width": 1200,
+        "height": 1600,
+        "year": 2026,
+        "subject": "Mauricio Pochettino"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/1280px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg",
+        "artist": "Arne Müseler from Salzburg, AT",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Photo: Arne Müseler",
+        "width": 1200,
+        "height": 899,
+        "year": 2023,
+        "subject": "Old Trafford"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The exact compensation figure agreed between Manchester United and the United States Soccer Federation if Pochettino departs."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The official outcome of the Manchester United board meeting scheduled for Wednesday regarding Michael Carrick."
+      }
+    ]
+  },
+  {
     "id": "2026-11-11-news-7ad1a0",
     "slug": "linda-noskova-beats-coco-gauff-to-become-first-semi-finalist",
     "date": "2026-11-11",
