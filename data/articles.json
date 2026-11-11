@@ -5,7 +5,7 @@
     "date": "2026-11-11",
     "created": "2026-11-11T10:20:51+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Formula One",
     "tags": [
@@ -42,7 +42,20 @@
         "url": "https://www.skysports.com/f1/news/12040/13610302/formula-1-proceeding-with-plans-to-finish-2026-season-in-middle-east-as-deadline-to-hold-race-at-imola-passes"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-11T10:31:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-11T10:31:39+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-11T10:31:40+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.029,
       "longest": 12,
@@ -130,7 +143,8 @@
         "area": "facts",
         "msg": "Verify: Specific details of the Audi and McLaren ownership structures mentioned by sources"
       }
-    ]
+    ],
+    "published_at": "2026-11-11T10:31:40+07:00"
   },
   {
     "id": "2026-11-10-hist-e056af",
