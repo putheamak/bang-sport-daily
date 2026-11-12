@@ -1,5 +1,8 @@
-2026-11-12 08:00:33,234 INFO Importing editor's article: 2026-11-12-india-u17-beat-singapore.md
-2026-11-12 08:00:34,259 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-12
-2026-11-12 08:00:35,165 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-12 08:00:35,270 INFO Website built: 26 published stories, 117 pages
-2026-11-12 08:00:35,270 INFO Imported 1 editor's article(s): 2026-11-12-news-4a97bf
+2026-11-12 09:29:34,469 INFO Importing editor's article: 2026-11-12-andreeva-beats-sabalenka.md
+2026-11-12 09:29:34,472 INFO Looking up photos for 2026-11-12-news-9a12db: ['Mirra Andreeva', 'Aryna Sabalenka']
+2026-11-12 09:29:34,950 INFO Photo for 'Mirra Andreeva': Mirra_Andreeva_WMQ23_(cropped).jpg (si.robi, CC BY-SA 2.0)
+2026-11-12 09:29:35,259 INFO Photo for 'Aryna Sabalenka': Aryna_Sabalenka_Miami_Open_Final.jpg (Rick Munroe, CC BY-SA 4.0)
+2026-11-12 09:29:35,393 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-12
+2026-11-12 09:29:36,198 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-12 09:29:36,276 INFO Website built: 27 published stories, 120 pages
+2026-11-12 09:29:36,276 INFO Imported 1 editor's article(s): 2026-11-12-news-9a12db
