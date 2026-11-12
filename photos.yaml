@@ -77,3 +77,14 @@
   photos:
     - wikipedia: "Pudge Heffelfinger"
       caption: "William \"Pudge\" Heffelfinger, Yale guard and the first known professional football player"
+
+# Crystal Palace sack Pierre Sage (Nov 2026): photos of the people in the story (an earlier Palace coach was picked automatically)
+2026-11-12-news-3dbf6d:
+  mode: replace
+  photos:
+    - wikipedia: "Pierre Sage"
+      caption: "Pierre Sage, dismissed by Crystal Palace after 16 matches"
+    - wikipedia: "Thomas Frank"
+      caption: "Thomas Frank, in advanced talks to become Crystal Palace manager"
+    - wikipedia: "Selhurst Park"
+      caption: "Selhurst Park, Crystal Palace's home ground"
