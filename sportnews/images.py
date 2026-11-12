@@ -60,22 +60,31 @@ def page_image_name(title: str, wiki: str = "en") -> tuple[str | None, str | Non
     return (pages[0].get("pageimage"), t) if pages and not pages[0].get("missing") else (None, None)
 
 
-def commons_info(filename: str, width: int = 1200) -> dict | None:
-    """Licence-checked info for a file. Files that are not on Commons (non-free 'fair use') are rejected."""
+def commons_info(filename: str, width: int = 1200, min_width: int = 400) -> dict | None:
+    """Licence-checked info for a file. Non-free ('fair use') files are rejected.
+    Old public-domain photos are sometimes kept on English Wikipedia instead of Commons: those are accepted
+    too, but only with a public-domain licence (never fair use)."""
     if BAD_NAME.search(filename):
         return None
-    d = _get("https://commons.wikimedia.org/w/api.php",
-             {"action": "query", "titles": "File:" + filename, "prop": "imageinfo",
-              "iiprop": "url|extmetadata|size", "iiurlwidth": width})
+    params = {"action": "query", "titles": "File:" + filename, "prop": "imageinfo",
+              "iiprop": "url|extmetadata|size", "iiurlwidth": width}
+    d = _get("https://commons.wikimedia.org/w/api.php", params)
     pages = d.get("query", {}).get("pages", [])
+    local = False
     if not pages or pages[0].get("missing") or not pages[0].get("imageinfo"):
+        d = _get("https://en.wikipedia.org/w/api.php", params)
+        pages = d.get("query", {}).get("pages", [])
+        local = True
+    if not pages or not pages[0].get("imageinfo"):
         return None
     ii = pages[0]["imageinfo"][0]
     meta = ii.get("extmetadata", {})
     lic = _clean(meta.get("LicenseShortName", {}).get("value", ""), 60)
     if not lic or not OK_LICENSE.search(lic) or meta.get("NonFree", {}).get("value") in ("true", True):
         return None
-    if ii.get("width", 0) < 400:
+    if local and not re.search(r"public domain|\bPD\b", lic, re.I):
+        return None
+    if ii.get("width", 0) < min_width:
         return None
     return {
         "url": ii.get("thumburl") or ii.get("url"),
@@ -167,7 +176,7 @@ def resolve_entry(e: dict) -> dict | None:
     if e.get("commons"):
         name = e["commons"].split("File:")[-1].replace("_", " ").strip()
         name = urllib.parse.unquote(name.split("/")[-1]) if name.startswith("http") else name
-        info = commons_info(name.replace(" ", "_"))
+        info = commons_info(name.replace(" ", "_"), min_width=200)
         if not info:
             log.warning("Commons file %r not usable (missing or not a free licence)", e["commons"])
             return None
@@ -176,7 +185,7 @@ def resolve_entry(e: dict) -> dict | None:
     if e.get("wikipedia"):
         # lead photo of a Wikipedia article (e.g. a player or a stadium), licence checked like any Commons file
         name, title = page_image_name(e["wikipedia"])
-        info = commons_info(name) if name else None
+        info = commons_info(name, min_width=200) if name else None
         if not info:
             log.warning("No free-licence lead photo for Wikipedia article %r", e["wikipedia"])
             return None

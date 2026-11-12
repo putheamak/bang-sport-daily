@@ -289,7 +289,7 @@ def test_photo_overrides(repo, monkeypatch):
     (repo / "photos.yaml").write_text(
         "x1:\n  mode: replace\n  photos:\n    - file: team.jpg\n      caption: Phnom Penh Crown players\n"
         "      credit: Mak\n      license: Used with permission\n    - file: nocredit.jpg\n    - commons: \"File:Free_photo.jpg\"\n")
-    monkeypatch.setattr(images, "commons_info", lambda name, width=1200: {"url": "https://upload.wikimedia.org/f.jpg",
+    monkeypatch.setattr(images, "commons_info", lambda name, width=1200, **k: {"url": "https://upload.wikimedia.org/f.jpg",
         "page": "https://commons.wikimedia.org/wiki/File:Free_photo.jpg", "artist": "A", "license": "CC BY 4.0", "license_url": "", "description": "d"})
     a = {"id": "x1", "slug": "s", "date": "2026-11-05", "created": "2026-11-05T06:00:00+07:00", "type": "news", "status": "published",
          "sources": [], "published_to": [], "images": [{"url": "https://old.jpg", "page": "", "artist": "o", "license": "CC0"}],
@@ -571,10 +571,10 @@ def test_corroborate_drops_second_copy_of_same_event(monkeypatch):
 def test_photos_yaml_wikipedia_entry(monkeypatch):
     from sportnews import images
     monkeypatch.setattr(images, "page_image_name", lambda t, wiki="en": ("Ancelotti.jpg", "Carlo Ancelotti"))
-    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: {"url": "https://u/" + n, "artist": "A", "license": "CC BY-SA 4.0"})
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200, **k: {"url": "https://u/" + n, "artist": "A", "license": "CC BY-SA 4.0"})
     got = images.resolve_entry({"wikipedia": "Carlo Ancelotti", "caption": "Brazil head coach"})
     assert got["url"].endswith("Ancelotti.jpg") and got["subject"] == "Brazil head coach"
-    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: None)
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200, **k: None)
     assert images.resolve_entry({"wikipedia": "Some logo page"}) is None
 
 
@@ -595,7 +595,7 @@ def test_combined_cover_photo(repo, monkeypatch):
     info = {"Vn.png": {"url": "https://u/vn", "page": "https://c/vn", "artist": "VN author", "license": "CC BY 3.0",
                        "license_url": "https://l/by", "year": 2025},
             "Id.jpg": {"url": "https://u/id", "page": "https://c/id", "artist": "BPMI", "license": "Public domain", "year": 2025}}
-    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: dict(info[n.replace("_", " ")]))
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200, **k: dict(info[n.replace("_", " ")]))
 
     def png(w, h):
         b = io.BytesIO(); Image.new("RGB", (w, h), "red").save(b, "PNG"); return b.getvalue()
@@ -609,7 +609,7 @@ def test_combined_cover_photo(repo, monkeypatch):
     assert im["url"] == "../photos/two.jpg" and im["year"] == 2025
     credit = site._credit(im, "en")
     assert "Vietnam: <a href=\"https://c/vn\"" in credit and "Indonesia:" in credit and "Public domain" in credit
-    monkeypatch.setattr(images, "commons_info", lambda n, width=1200: None if "Id" in n else dict(info["Vn.png"]))
+    monkeypatch.setattr(images, "commons_info", lambda n, width=1200, **k: None if "Id" in n else dict(info["Vn.png"]))
     assert images.resolve_entry({"combine": [{"commons": "Vn.png"}, {"commons": "Id.jpg"}]}) is None   # not free -> nothing
 
 
