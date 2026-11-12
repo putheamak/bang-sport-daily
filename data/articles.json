@@ -80,7 +80,20 @@
       "social_post": "В этот день в 1892 году Уильям «Падж» Хеффelfinger навсегда изменил историю спорта, согласившись получить 500 долларов за игру за Атлетическую ассоциацию Аллегейни. Это был первый случай, когда игроку заплатили за американский футбол, что ознаменовало рождение профессиональной игры. Как сильно изменился спорт с тех пор, как был выписан тот бонус в 500 долларов? #NFL #ИсторияФутбола #ЭтотДеньВИстории #ИсторияСпорта"
     },
     "region": "global",
-    "images": [],
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pudge_heffelfinger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Pudge_heffelfinger.jpg",
+        "artist": "Unknown author",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "en:William Heffelfinger in his en:Yale university football photograph, 1888-1891.",
+        "width": 1200,
+        "height": 1638,
+        "year": 2014,
+        "subject": "William \"Pudge\" Heffelfinger, Yale guard and the first known professional football player"
+      }
+    ],
     "standards": [
       {
         "level": "INFO",
@@ -89,7 +102,8 @@
       }
     ],
     "published_at": "2026-11-12T13:20:58+07:00",
-    "republished_at": "2026-11-12T13:22:10+07:00"
+    "republished_at": "2026-11-12T13:22:10+07:00",
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"William \\\"Pudge\\\" Heffelfinger, Yale guard and the first known professional football player\", \"wikipedia\": \"Pudge Heffelfinger\"}]}"
   },
   {
     "id": "2026-11-12-news-416d11",
