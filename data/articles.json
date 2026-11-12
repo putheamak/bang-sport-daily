@@ -5,7 +5,7 @@
     "date": "2026-11-12",
     "created": "2026-11-12T15:00:33+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -40,7 +40,20 @@
         "url": "https://www.outlookindia.com/sports/football/india-vs-iran-match-report-afc-under-17-asian-cup-2026-qualifiers-ahmedabad"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-12T15:02:58+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-12T15:02:59+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-12T15:02:59+07:00"
+      }
+    ],
     "en": {
       "headline": "Gangte Hat-Trick Gives India U17 a 4-2 Comeback Win Over Singapore in Asian Cup Qualifying",
       "subheadline": "The captain scored three times in Kuala Lumpur as India came from behind to open their Group E campaign for the 2027 AFC U17 Asian Cup.",
@@ -81,7 +94,8 @@
         "area": "photos",
         "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "published_at": "2026-11-12T15:02:59+07:00"
   },
   {
     "id": "2026-11-12-news-c53bfd",
