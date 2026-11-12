@@ -5,7 +5,7 @@
     "date": "2026-11-12",
     "created": "2026-11-12T02:02:32+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.1-flash-lite",
     "sport": "American Football",
     "tags": [
@@ -35,7 +35,20 @@
         "url": "https://en.wikipedia.org/wiki/Allegheny_Athletic_Association"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-12T13:20:56+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-12T13:20:57+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-12T13:20:58+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.041,
       "longest": 17,
@@ -74,7 +87,8 @@
         "area": "facts",
         "msg": "Verify: Confirm if the historical marker mentioned in the source is still present at the North Side site."
       }
-    ]
+    ],
+    "published_at": "2026-11-12T13:20:58+07:00"
   },
   {
     "id": "2026-11-12-news-416d11",
@@ -82,7 +96,7 @@
     "date": "2026-11-12",
     "created": "2026-11-12T01:59:17+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.1-flash-lite",
     "sport": "Football",
     "tags": [
@@ -125,7 +139,20 @@
         "url": "https://ria.ru/20261111/karpin-2130969185.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-12T13:20:58+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-12T13:20:59+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-12T13:21:00+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -203,7 +230,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-12T13:21:00+07:00"
   },
   {
     "id": "2026-11-12-news-502f2f",
