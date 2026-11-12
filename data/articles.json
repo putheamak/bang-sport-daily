@@ -5,7 +5,7 @@
     "date": "2026-11-12",
     "created": "2026-11-12T22:25:45+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Football",
     "tags": [
@@ -45,7 +45,20 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-12T22:34:34+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-12T22:34:35+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-12T22:34:36+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.009,
       "longest": 10,
@@ -86,7 +99,7 @@
         "width": 1200,
         "height": 1648,
         "year": 2024,
-        "subject": "Pierre Sage"
+        "subject": "Pierre Sage, dismissed by Crystal Palace after 16 matches"
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg/1280px-2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -98,19 +111,7 @@
         "width": 1200,
         "height": 899,
         "year": 2023,
-        "subject": "Selhurst Park"
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_%28cropped%29.jpg/1280px-2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_(cropped).jpg",
-        "artist": "Sven Mandel",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "during Fussball Eintracht Frankfurt vs Borussia Mönchengladbach at Waldstadion, Frankfurt, Hessen, Germany on 2022-05-08, Photo: Sven Mandel",
-        "width": 1200,
-        "height": 1492,
-        "year": 2022,
-        "subject": "Oliver Glasner"
+        "subject": "Selhurst Park, Crystal Palace's home ground"
       }
     ],
     "standards": [
@@ -124,7 +125,9 @@
         "area": "facts",
         "msg": "Verify: Total compensation settlement figure between Crystal Palace and Pierre Sage"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Pierre Sage, dismissed by Crystal Palace after 16 matches\", \"wikipedia\": \"Pierre Sage\"}, {\"caption\": \"Thomas Frank, in advanced talks to become Crystal Palace manager\", \"wikipedia\": \"Thomas Frank\"}, {\"caption\": \"Selhurst Park, Crystal Palace's home ground\", \"wikipedia\": \"Selhurst Park\"}]}",
+    "published_at": "2026-11-12T22:34:36+07:00"
   },
   {
     "id": "2026-11-12-news-9a12db",
