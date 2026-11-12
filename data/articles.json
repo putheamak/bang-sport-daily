@@ -1,5 +1,487 @@
 [
   {
+    "id": "2026-11-13-athl-12aaf2",
+    "slug": "sorn-seavmey-the-path-of-cambodia-s-taekwondo-pioneer",
+    "date": "2026-11-13",
+    "created": "2026-11-13T00:26:46+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "Taekwondo",
+    "tags": [
+      "Sorn Seavmey",
+      "Taekwondo",
+      "Cambodia",
+      "Asian Games",
+      "SEA Games"
+    ],
+    "athletes": [
+      "Sorn Seavmey",
+      "Sorn Elit",
+      "Sorn Davin",
+      "Reshmie Oogink",
+      "Sirimanotham Sonesavnh"
+    ],
+    "image_subjects": [
+      "Sorn Seavmey",
+      "Taekwondo",
+      "Asian Games"
+    ],
+    "facts_to_verify": [
+      "Verify specific date of the 2023 SEA Games final match.",
+      "Confirm current training status with siblings Sorn Elit and Sorn Davin."
+    ],
+    "sources": [
+      {
+        "title": "Sorn Seavmey Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sorn_Seavmey"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.011,
+      "longest": 10,
+      "phrases": [
+        "the flag bearer for cambodia during the parade of nations",
+        "democratic republic with a score of 2 0 this",
+        "her brother sorn elit and sister sorn davin"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Sorn Seavmey: The Path of Cambodia's Taekwondo Pioneer",
+      "subheadline": "From a family of martial artists to the top of the Asian Games podium, Sorn Seavmey has defined a new era for Cambodian sport.",
+      "body_markdown": "Born on September 14, 1995, Sorn Seavmey emerged from a family deeply embedded in the martial arts landscape of Cambodia. Alongside her brother, Sorn Elit, and sister, Sorn Davin, Seavmey developed her craft within a household that prioritized the discipline and rigorous physical demands of taekwondo. Standing 183 cm tall, her physical stature provided an initial advantage, but it was the technical consistency honed through years of training with her siblings that allowed her to transition from a domestic practitioner to an international competitor.\n\n## The Incheon Breakthrough\n\nThe defining moment of her career occurred during the 2014 Asian Games in Incheon, South Korea. Entering the women’s under-73 kg division, Seavmey faced a high-pressure environment representing a nation that had not secured an Asian Games gold medal since its first participation in 1954. Her journey through the tournament was marked by decisive performance shifts. In the opening round, she dominated her opponent from Uzbekistan with a score of 29–7. \n\nAdvancing to the semi-final, she faced a significantly closer contest against an opponent from the Philippines, narrowly prevailing 6–5. The final match against her Iranian opponent concluded with a 7–4 victory. This result secured the first Asian Games gold medal in Cambodian history, transforming Seavmey into a national icon and establishing a new benchmark for Cambodian participation in continental multi-sport events.\n\n## Olympic Representation and Regional Consistency\n\nFollowing her success in Incheon, Seavmey continued to navigate the elite international circuit. She qualified for the 2016 Summer Olympics in Rio de Janeiro, where she competed in the women’s +67 kg division. Her role in the Olympic movement extended beyond the mat; she was selected as the flag bearer for Cambodia during the Parade of Nations. While her Olympic run ended in the round of 16 following a defeat by Reshmie Oogink of the Netherlands, her qualification itself represented a major milestone for Cambodian taekwondo.\n\nHer ability to maintain form over multiple years was most evident in the Southeast Asian (SEA) Games. She secured gold medals in 2013 in Myanmar and again in 2017 in Malaysia. These victories reinforced her standing as a dominant force in the regional weight categories. Her leadership role within the Cambodian delegation continued into 2018, when she again served as the flag bearer for the opening ceremony of the Asian Games.\n\n## Continued Success on Home Soil\n\nNearly a decade after her breakthrough in Incheon, Seavmey demonstrated her enduring competitive longevity during the 2023 SEA Games, which were hosted in Cambodia. Competing in the women’s over 73 kg division, she secured another gold medal by defeating Sirimanotham Sonesavnh of the Lao People’s Democratic Republic with a score of 2–0. \n\nThis victory on home soil underscored a career trajectory that spans from her early development with her siblings to her status as a veteran of the sport. Throughout her career, Seavmey has remained a central figure in the National Olympic Committee of Cambodia’s efforts to develop elite-level martial arts talent. Her legacy is defined not only by the medals collected across three different SEA Games and the Asian Games but also by her consistent presence at the forefront of the nation's international sporting efforts.",
+      "social_post": "Sorn Seavmey changed the history of Cambodian sport forever with her 2014 Asian Games gold. From her training roots with her siblings to her recent success at the 2023 SEA Games, we look back at the career of a true pioneer of taekwondo. #SornSeavmey #Taekwondo #CambodiaSport #AsianGames #SEAGames. Share your thoughts on her impact below!"
+    },
+    "zh": {
+      "headline": "宋·谢梅：柬埔寨跆拳道的开拓之路",
+      "subheadline": "从武术世家到亚运会最高领奖台，宋·谢梅开启了柬埔寨体育的新纪元。",
+      "body_markdown": "1995年9月14日，宋·谢梅（Sorn Seavmey）出生于柬埔寨的一个武术世家。在哥哥宋·埃利特（Sorn Elit）和姐姐宋·达文（Sorn Davin）的熏陶下，谢梅从小就在一个极其重视纪律与高强度体能训练的跆拳道家庭中磨炼技艺。183厘米的身高固然是她的先天优势，但真正让她从一名国内选手蜕变为国际级选手的，是她与兄弟姐妹多年来切磋磨练出的技术稳定性。\n\n## 仁川的突破\n\n她职业生涯的决定性时刻发生在2014年韩国仁川亚运会。当时，谢梅参加女子73公斤级比赛，肩负着为自1954年首次参赛以来从未获得过亚运会金牌的祖国争光的重任。她在赛场上的表现极其抢眼：首轮比赛，她以29比7的比分横扫乌兹别克斯坦选手；半决赛中，她与菲律宾选手展开了一场激烈的拉锯战，最终以6比5险胜；随后的决赛，她以7比4击败伊朗选手。这枚金牌不仅是柬埔寨历史上的首枚亚运金牌，更让谢梅成为了国民偶像，为柬埔寨在洲际综合运动会上的表现树立了新的标杆。\n\n## 奥运征程与区域霸主\n\n仁川夺冠后，谢梅继续活跃在精英国际赛场。她成功入围2016年里约奥运会，参加女子67公斤以上级比赛。除了在赛场上拼搏，她还担任了柬埔寨代表团的旗手。尽管在16强赛中不敌荷兰选手蕾什米·奥金克（Reshmie Oogink），但能够获得奥运参赛资格本身，就是柬埔寨跆拳道的一座里程碑。\n\n她多年来始终保持着高水平的竞技状态，这一点在东南亚运动会（SEA Games）中体现得尤为明显：她分别在2013年缅甸和2017年马来西亚的比赛中斩获金牌，巩固了她在该区域重量级比赛中的统治地位。2018年，她再次担任亚运会开幕式柬埔寨代表团旗手，彰显了她在队内的领袖气质。\n\n## 主场续写辉煌\n\n在仁川突破近十年后，谢梅在2023年柬埔寨本土举办的东南亚运动会上，依然展现出老将的坚韧。她在女子73公斤以上级比赛中以2比0击败老挝选手西里马诺瑟姆·索内萨夫（Sirimanotham Sonesavnh），再添一金。\n\n这次主场胜利再次印证了她从家庭习武到成为赛场老将的职业轨迹。纵观其职业生涯，谢梅始终是柬埔寨国家奥委会培养顶尖武术人才的核心人物。她的传奇不仅在于那几枚在三届东南亚运动会和亚运会上夺得的金牌，更在于她始终站在柬埔寨国际体育事业的最前沿。",
+      "social_post": "宋·谢梅凭借2014年亚运会金牌彻底改写了柬埔寨体育史。从与兄弟姐妹共同训练的起步，到2023年东南亚运动会的辉煌，让我们一同回顾这位跆拳道先驱的奋斗历程。#宋谢梅 #跆拳道 #柬埔寨体育 #亚运会 #东南亚运动会。欢迎在评论区分享你的看法！"
+    },
+    "ru": {
+      "headline": "Сорн Сеавмей: путь первопроходца камбоджийского тхэквондо",
+      "subheadline": "От семьи мастеров боевых искусств до вершины пьедестала Азиатских игр: Сорн Сеавмей открыла новую эру в спортивной истории Камбоджи.",
+      "body_markdown": "Сорн Сеавмей (Sorn Seavmey), родившаяся 14 сентября 1995 года, выросла в семье, глубоко укоренившейся в мире камбоджийских боевых искусств. Вместе с братом Сорн Элитом (Sorn Elit) и сестрой Сорн Давин (Sorn Davin) она оттачивала мастерство в атмосфере, где дисциплина и суровые физические нагрузки в тхэквондо были нормой жизни. Рост 183 см дал ей преимущество на старте, но именно техническая стабильность, выработанная годами тренировок с близкими, позволила ей вырасти из локального бойца в атлета международного уровня.\n\n## Прорыв в Инчхоне\n\nМомент истины наступил на Азиатских играх 2014 года в корейском Инчхоне. Выступая в весовой категории до 73 кг, Сеавмей оказалась под огромным давлением: Камбоджа не выигрывала золото Азиады с момента своего первого участия в 1954 году. Ее путь к победе был отмечен яркими выступлениями. В первом раунде она разгромила соперницу из Узбекистана со счетом 29–7. \n\nВ полуфинале ее ждал упорный бой против филиппинки, завершившийся минимальной победой — 6–5. В финале она одолела соперницу из Ирана со счетом 7–4. Этот результат принес Камбодже первое золото Азиатских игр в истории, превратил Сеавмей в национальный символ и установил новую планку для участия страны в континентальных мультиспортивных форумах.\n\n## Олимпийские игры и стабильность в регионе\n\nПосле успеха в Инчхоне Сеавмей продолжила выступать на элитном международном уровне. Она отобралась на летние Олимпийские игры 2016 года в Рио-де-Жанейро, где соревновалась в категории свыше 67 кг. Ее роль в олимпийском движении вышла за пределы татами: она была выбрана знаменосцем сборной Камбоджи на церемонии открытия. И хотя ее олимпийский путь завершился в 1/8 финала после поражения от нидерландки Решми Огинк (Reshmie Oogink), сам факт квалификации стал важной вехой для камбоджийского тхэквондо.\n\nСпособность удерживать форму на протяжении многих лет ярче всего проявилась на Играх Юго-Восточной Азии (SEA Games). Она завоевала золото в 2013 году в Мьянме и повторила успех в 2017 году в Малайзии, подтвердив статус доминирующей силы в своей весовой категории. Ее лидерская роль в делегации Камбоджи сохранилась и в 2018 году, когда она вновь стала знаменосцем на церемонии открытия Азиатских игр.\n\n## Успех на родной земле\n\nСпустя почти десять лет после прорыва в Инчхоне Сеавмей продемонстрировала невероятное спортивное долголетие на Играх Юго-Восточной Азии 2023 года, которые проходили в Камбодже. Выступая в категории свыше 73 кг, она добавила в свою копилку еще одно золото, победив Сириманотхам Сонесавн (Sirimanotham Sonesavnh) из Лаосской Народно-Демократической Республики со счетом 2–0.\n\nЭта победа на домашней арене подчеркнула путь, пройденный от первых тренировок с братом и сестрой до статуса ветерана спорта. На протяжении всей карьеры Сеавмей остается ключевой фигурой в работе Национального олимпийского комитета Камбоджи по развитию талантов в единоборствах. Ее наследие — это не только медали трех Игр Юго-Восточной Азии и Азиады, но и неизменное присутствие на авангарде международных спортивных достижений своей страны.",
+      "social_post": "Сорн Сеавмей навсегда изменила историю спорта Камбоджи, завоевав золото Азиатских игр 2014 года. Вспоминаем путь легенды тхэквондо — от первых тренировок с семьей до триумфа на Играх Юго-Восточной Азии 2023 года. #СорнСеавмей #Тхэквондо #СпортКамбоджи #АзиатскиеИгры #SEAGames. Делитесь своим мнением о ее вкладе в комментариях!"
+    },
+    "region": "cambodia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%E1%9E%9F%E1%9F%8A%E1%9E%93_%E1%9E%9F%E1%9F%80%E1%9E%9C%E1%9E%98%E1%9F%89%E1%9E%B8_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:%E1%9E%9F%E1%9F%8A%E1%9E%93_%E1%9E%9F%E1%9F%80%E1%9E%9C%E1%9E%98%E1%9F%89%E1%9E%B8_(cropped).jpg",
+        "artist": "Hun Thnot",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "កីឡាការិនីតៃក្វាន់ដូ",
+        "width": 1200,
+        "height": 1588,
+        "year": 2016,
+        "subject": "Sorn Seavmey"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg",
+        "artist": "Javid Nikpour/Tasnim",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Milad Kharchegani and Khodabakhshi at the 2016 Summer Olympics",
+        "width": 1200,
+        "height": 948,
+        "year": 2016,
+        "subject": "Taekwondo"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Davin_Sorn_vs_Mar%C3%ADa_Espinoza_at_the_2012_Olympic_games.jpg/1280px-Davin_Sorn_vs_Mar%C3%ADa_Espinoza_at_the_2012_Olympic_games.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Davin_Sorn_vs_Mar%C3%ADa_Espinoza_at_the_2012_Olympic_games.jpg",
+        "artist": "Gbrumfiel",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Sorn Davin vs María Espinoza at the 2012 Olympic games. Sorn lost to Espinoza 2-3 in the first round.",
+        "width": 1200,
+        "height": 900,
+        "year": 2012,
+        "subject": "Sorn Davin"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify specific date of the 2023 SEA Games final match."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm current training status with siblings Sorn Elit and Sorn Davin."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-13-news-fb4a92",
+    "slug": "speed-skating-world-cup-returns-to-beijings-ice-ribbon",
+    "date": "2026-11-13",
+    "created": "2026-11-13T00:21:50+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "Speed Skating",
+    "tags": [
+      "Speed Skating",
+      "Beijing",
+      "Ning Zhongyan",
+      "Gao Tingyu",
+      "ISU World Cup"
+    ],
+    "athletes": [
+      "Ning Zhongyan",
+      "Gao Tingyu"
+    ],
+    "image_subjects": [
+      "National Speed Skating Oval",
+      "Speed skating",
+      "Ning Zhongyan",
+      "Gao Tingyu"
+    ],
+    "facts_to_verify": [
+      "Confirm the exact end date of the Beijing leg (Sunday vs Monday).",
+      "Verify if any other specific records were broken by the domestic ice team in test events prior to the World Cup."
+    ],
+    "sources": [
+      {
+        "title": "速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wYzdBWTZ4amVsVWpvOVFJTk5KM3NtZzVZa0x4X2xnTURmNnE5czJzT0hKM1pQbFpUR0lpWllJc3BnVVdQNlIyWk9HQ2MydGl5LTVmZTJxN3F3aDByMjVGZGR6RmJZZkFL?oc=5"
+      },
+      {
+        "title": "中国新闻网 体育: 速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731131.shtml"
+      },
+      {
+        "title": "Sohu: 速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHdtZ2tBY3loVzQ0cUduVmV5SDhzXy1JeWM5dV9uZ285WHlxcE92R0xCenZEeDVXQ0VPWWRyaDNUM3NYa25YU29hRFZ0WWUzMzhNZFFwRFJkdjY5TXdESW5aaEQ2cDA2RXpqQWF0NGNWbDdBanVVYmZFWG5LMGR5UU1rUGlwV1dMX0dnVQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Speed Skating World Cup Returns to Beijing’s 'Ice Ribbon'",
+      "subheadline": "Olympic gold medalists Ning Zhongyan and Gao Tingyu headline the ISU World Cup season opener as local technicians take charge of ice production.",
+      "body_markdown": "The National Speed Skating Oval in Beijing hosts the opening leg of the 2026-2027 International Skating Union (ISU) Speed Skating World Cup, with competition beginning on Thursday, November 13. The event marks the return of elite international speed skating to the venue famously dubbed the \"Ice Ribbon,\" which served as the centerpiece for the 2022 Winter Olympic Games.\n\nLeading the host nation's squad are Olympic gold medalist Gao Tingyu and world-class contender Ning Zhongyan. Both athletes enter this season—the first full cycle since the 2026 Milano Cortina preparations intensified—with a focus on recalibrating their form. According to reports from state media outlets including China News Service and The Beijing News, both skaters have emphasized a \"relaxed\" approach to this opening weekend, aiming to establish their racing rhythm rather than chasing immediate peak performances.\n\n## Domestic Technical Milestone\n\nBeyond the performances on the track, this year’s competition marks a significant operational shift for the venue. For the first time since its construction, the National Speed Skating Oval has utilized an entirely domestic ice-making team to prepare the rink. Organizers confirmed that the surface underwent specific upgrades to maintain the high-speed conditions that allowed for multiple Olympic records during the 2022 Games. The goal remains to preserve the venue's reputation as one of the fastest ice surfaces in the world while demonstrating the technical proficiency of China's independent facility management teams.\n\n## Building Toward Future Milestones\n\nFor Ning Zhongyan, the Beijing leg serves as a critical opportunity to test recent training adjustments under competitive pressure. Ning, who has consistently ranked among the world’s top skaters in the 1000m and 1500m distances, noted in recent interviews that he is currently \"finding his rhythm within a state of relaxation.\" Meanwhile, Gao Tingyu, the 500m champion from the 2022 Winter Olympics, continues his transition into the new quadrennial, with local fans showing high interest in his return to the track where he secured his historic gold medal.\n\nThe Beijing event is the first of several high-profile stops on the ISU World Cup calendar. Following the conclusion of the races on Sunday, the circuit will move to subsequent international venues as athletes continue to accrue points necessary for World Championship qualification. Public ticket sales for the Beijing event opened earlier this week, with organizers reporting sustained interest from local spectators eager to witness the return of international speed skating to the capital city.",
+      "social_post": "The ISU Speed Skating World Cup is back at the 'Ice Ribbon' in Beijing! ⛸️ Olympic champions Gao Tingyu and Ning Zhongyan are set to compete as the season kicks off today. This year also marks a milestone with a domestic team managing the ice production. Will the 'fastest ice' see new records this weekend? Follow the action and share your thoughts on the season opener! #SpeedSkating #Beijing2026 #WinterSports #ISUWorldCup"
+    },
+    "zh": {
+      "headline": "速度滑冰世界杯重返北京“冰丝带”",
+      "subheadline": "奥运冠军宁忠岩与高亭宇领衔国际滑冰联盟（ISU）世界杯赛季揭幕战，本土制冰团队首次全面主导制冰工作。",
+      "body_markdown": "国家速滑馆“冰丝带”——这座曾作为2022年北京冬奥会标志性场馆的场馆，即将在11月13日（星期四）迎来2026-2027赛季国际滑冰联盟（ISU）速度滑冰世界杯首站比赛。这也宣告着顶级国际速度滑冰赛事时隔多时再度回到这片奥运福地。\n\n出战本站比赛的中国队阵容星光熠熠，由奥运冠军高亭宇和世界级名将宁忠岩领衔。随着2026年米兰-科尔蒂纳丹佩佐冬奥会备战周期的深入，两位王牌选手都在利用本赛季的揭幕战来重新调整竞技状态。据中新社、《新京报》等国内主流媒体报道，两人在赛前均表示将以一颗“放松”的心态迎接首个周末的比赛，现阶段的首要任务是找回比赛节奏，而非过分追求巅峰成绩。\n\n## 本土制冰技术迎来里程碑\n\n除了赛道上的巅峰对决，今年的赛事对于场馆运营而言也具有重要的转折意义。自国家速滑馆建成以来，这是首次由全中国本土制冰团队独立完成赛场冰面的打造。据组委会透露，为了延续2022年冬奥会期间屡破奥运纪录的高速条件，冰面团队近期进行了针对性的升级改造。此举旨在保持该场馆作为“全世界最快冰面”之一的美誉，同时全面展现中国自主场馆管理团队的硬核技术实力。\n\n## 稳扎稳打迈向未来新目标\n\n对宁忠岩而言，北京站无疑是检验近期高强度训练成果、在实战压力下进行自我微调的绝佳契机。长期稳居男子1000米和1500米世界顶尖行列的宁忠岩在近期采访中坦言，他目前正在“松弛的状态中寻找自己的节奏”。与此同时，2022年北京冬奥会男子500米金牌得主高亭宇也正稳步开启全新四年周期，主场冰迷们对这位昔日缔造历史的冠军重返福地表现出了极高的热情。\n\n作为ISU世界杯赛历中的首个重磅分站赛，北京站打响了新赛季的第一枪。在周日各项比赛落幕后，赛历将转战其他海外分站，运动员们将继续为争夺世锦赛参赛资格积分奋力拼搏。本站比赛的公开门票已于本周早些时候开售，组委会表示，广大冰迷对国际顶尖速滑赛事的回归展现出了持续高涨的热情。",
+      "social_post": "速度滑冰世界杯重返北京“冰丝带”！⛸️ 奥运冠军高亭宇、宁忠岩蓄势待发，新赛季揭幕战今日正式打响。今年更迎来了历史性的一刻——纯本土制冰团队首度掌舵！号称“最快的冰”能否在本周末见证新纪录的诞生？快来关注比赛，在评论区留下你对新赛季的期待吧！#速度滑冰 #北京冬奥 #冬季运动 #ISU世界杯"
+    },
+    "ru": {
+      "headline": "Кубок мира по конькобежному спорту возвращается на пекинскую «Ледовую ленту»",
+      "subheadline": "Олимпийские чемпионы Нин Чжунянь и Гао Тинюй возглавляют заявку на первый этап Кубка мира ISU, а за подготовку льда впервые отвечает полностью отечественная бригада техников.",
+      "body_markdown": "Национальный овальный каток для конькобежного спорта в Пекине принимает стартовый этап Кубка мира Международного союза конькобежцев (ISU) сезона 2026/2027. Соревнования стартуют в четверг, 13 ноября, и знаменуют собой возвращение элиты мирового конькобежного спорта на арену, получившую известность как «Ледовая лента» и бывшую сердцем зимних Олимпийских игр 2022 года.\n\nВозглавляют сборную хозяев льда олимпийский чемпион Гао Тинюй и претендент на самые высокие места на мировой арене Нин Чжунянь. Оба спортсмена подходят к этому сезону — первому полноценному циклу после активизации подготовки к Играм в Милане и Кортина-д’Ампеццо в 2026 году — с акцентом на перезагрузку формы. Как сообщают государственные СМИ, включая China News Service и The Beijing News, оба конькобежца подчеркивают, что подходят к стартовому уик-энду «раскованно», нацеливаясь прежде всего на обретение гоночного ритма, а не на немедленный выход на пик формы.\n\n## Отечественный технический рубеж\n\nПомимо борьбы на дорожке, нынешний турнир знаменует собой важный операционный сдвиг для самой арены. Впервые с момента постройки Национального овального катка подготовкой льда занималась исключительно отечественная команда ледоваров. Организаторы подтвердили, что покрытие прошло специальную модернизацию, чтобы сохранить те самые высокоскоростные условия, которые позволили установить множество олимпийских рекордов во время Игр 2022 года. Главная цель — поддержать репутацию катка как одного из самых быстрых ледовых покрытий в мире, одновременно продемонстрировав высокий технический потенциал независимых китайских команд по управлению спортивными объектами.\n\n## Взгляд в будущее\n\nДля Нина Чжуняня пекинский этап служит критически важной возможностью проверить недавние тренировочные сдвиги в условиях соревновательного давления. Нин, который стабильно входит в число сильнейших конькобежцев мира на дистанциях 1000 и 1500 метров, в недавних интервью отмечал, что сейчас он «нащупывает свой ритм в состоянии расслабленности». Тем временем Гао Тинюй, чемпион на дистанции 500 метров зимней Олимпиады 2022 года, продолжает свой переход в новый четырехлетний цикл, а местные болельщики проявляют огромный интерес к его возвращению на дорожку, где он завоевал свое историческое золото.\n\nПекинский этап — первая из нескольких громких остановок в календаре Кубка мира ISU. По окончании соревнований в воскресенье караван переместится на следующие международные площадки, а атлеты продолжат борьбу за очки, необходимые для квалификации на чемпионат мира. Продажа билетов на пекинский этап открылась в начале недели, и, по словам организаторов, местные зрители, истосковавшиеся по международному конькобежному спорту в столице, проявляют к нему стабильный интерес.",
+      "social_post": "Кубок мира ISU по конькобежному спорту снова на «Ледовой ленте» в Пекине! ⛸️ Олимпийские чемпионы Гао Тинюй и Нин Чжунянь готовы к бою — сезон стартует уже сегодня. В этом году нас ждет исторический момент: за подготовку льда отвечает отечественная команда. Увидим ли мы новые рекорды на «самом быстром льду» в эти выходные? Следите за событиями и делитесь мыслями о старте сезона! #SpeedSkating #Beijing2026 #WinterSports #ISUWorldCup"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/National_Speed_Skating_Oval_Beijing_2.jpg/1280px-National_Speed_Skating_Oval_Beijing_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:National_Speed_Skating_Oval_Beijing_2.jpg",
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "description": "National Speed Skating Oval, Beijing, China",
+        "width": 1200,
+        "height": 800,
+        "year": 2019,
+        "subject": "Beijing National Speed Skating Oval"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Paulien_van_Deutekom_%2808-12-2007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Paulien_van_Deutekom_(08-12-2007).jpg",
+        "artist": "McSmit",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Paulien van Deutekom (NED) in action at a World Cup Speedskating in Heerenveen, the Netherlands.",
+        "width": 1200,
+        "height": 880,
+        "year": 2007,
+        "subject": "Speed skating"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF.png",
+        "artist": "中国新闻社",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "​宁忠岩赛后采访",
+        "width": 1200,
+        "height": 1597,
+        "year": 2026,
+        "subject": "Ning Zhongyan"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'For the first time': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm the exact end date of the Beijing leg (Sunday vs Monday)."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify if any other specific records were broken by the domestic ice team in test events prior to the World Cup."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-13-news-9dd16e",
+    "slug": "china-drawn-with-north-korea-and-south-korea-in-2028-olympic",
+    "date": "2026-11-13",
+    "created": "2026-11-13T00:18:48+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "China women's national football team",
+      "North Korea women's national football team",
+      "South Korea women's national football team",
+      "2028 Summer Olympics",
+      "Asian Football Confederation"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "China women's national football team",
+      "North Korea women's national football team",
+      "South Korea women's national football team",
+      "Asian Football Confederation"
+    ],
+    "facts_to_verify": [
+      "Exact match dates and host cities for the group stage fixtures in the Asian qualifiers."
+    ],
+    "sources": [
+      {
+        "title": "洛杉矶奥运会亚预赛抽签中国女足与朝、韩同组",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YVEtGenFxaUlxYng3V1NtLUtIYXZ0YWlxcTBjaUpKVkhOWTIzeHNWdmljTExqSmZDQlFENi1PQWRSQnFBdmkzcThlTC1PT0xxZ1E?oc=5"
+      },
+      {
+        "title": "中国新闻网 体育: 洛杉矶奥运会女足亚预赛抽签揭晓 中国女足与朝鲜、韩国队同组",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10731145.shtml"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "China Drawn With North Korea and South Korea in 2028 Olympic Qualifiers",
+      "subheadline": "The Asian Football Confederation reveals the group stage lineup for the road to the Los Angeles Olympic Games.",
+      "body_markdown": "China's women's national football team has landed in a demanding group alongside North Korea and South Korea for the Asian qualifiers of the 2028 Los Angeles Olympic Games. Outlets including Zigong News and China News Service reported the official draw results on November 12, 2026, setting up a high-stakes regional showdown for the continental tournament.\n\n## A Heavyweight East Asian Group\n\nThe grouping brings together three of the most competitive programs in Asian women's football. Matches involving China, North Korea, and South Korea carry deep historical rivalries and intense tactical battles within regional competitions. The presence of both Korean national teams alongside China eliminates any margin for error during the opening phase of the qualification campaign.\n\n## The Road to Los Angeles\n\nParticipants in this qualification cycle are competing for a direct path to the 2028 Olympic Games in Los Angeles, California. The Asian Football Confederation structures these qualifiers to test regional contenders through demanding group fixtures before advancing to decisive knockout rounds. Teams must navigate this initial triangular pressure cooker to keep their Olympic ambitions alive.\n\n## Next Steps for the Squad\n\nFurther details regarding exact match schedules, specific host venues, and complete group rosters will be released by the Asian Football Confederation in the coming weeks. Coaching staffs from China, North Korea, and South Korea will use the intervening period to finalize preparations as the tournament kickoff approaches.",
+      "social_post": "China's women's national team faces North Korea and South Korea in a tough group for the 2028 Los Angeles Olympic qualifiers, following the official draw announced on November 12, 2026. How do you see this group unfolding? #ChinaPR #WomensFootball #LA28 #AsianQualifiers"
+    },
+    "zh": {
+      "headline": "2028奥运预选赛抽签出炉：中国女足与朝鲜、韩国同组",
+      "subheadline": "亚足联正式公布通往洛杉矶奥运会之路的小组赛分组情况。",
+      "body_markdown": "中国女足在2028年洛杉矶奥运会亚洲区预选赛中签运不佳，被分入了一个极具挑战的小组，同组对手包括朝鲜队和韩国队。据自贡新闻、中国新闻社等多家媒体于2026年11月12日报道，此次抽签结果尘埃落定，一场关乎洲际晋级名额的东亚强强对话已然拉开帷幕。\n\n## 东亚强权的巅峰碰撞\n\n这一分组将亚洲女足最具竞争力的三支队伍聚在了一起。中国队、朝鲜队与韩国队之间的较量，不仅承载着深厚的历史渊源，更是区域内战术博弈的最高水准体现。两支韩国球队同时入组，意味着中国女足在预选赛首阶段必须保持零失误，没有任何犯错的空间。\n\n## 通往洛杉矶之路\n\n本届预选赛的参赛队伍将为直通2028年加州洛杉矶奥运会展开激烈争夺。亚足联通过严苛的小组赛赛制来考验各路豪强，随后才是决定性的淘汰赛阶段。各队必须从这一残酷的“死亡之组”中突围，才能保留冲击奥运正赛的希望。\n\n## 球队的后续安排\n\n亚足联将在未来几周内陆续公布具体的赛程安排、比赛场地以及完整的参赛名单。中、朝、韩三队的教练组目前正利用这段时间进行最后备战，全力以赴迎接即将到来的开赛时刻。",
+      "social_post": "2026年11月12日，2028年洛杉矶奥运会女足预选赛抽签结果公布，中国女足与朝鲜、韩国同组，面临严峻挑战。大家如何看待这个小组的出线形势？#中国女足 #女足 #洛杉矶2028 #奥运预选赛"
+    },
+    "ru": {
+      "headline": "Женская сборная Китая сыграет с КНДР и Южной Кореей в отборе на Олимпиаду-2028",
+      "subheadline": "Азиатская футбольная конфедерация объявила состав групп на пути к Олимпийским играм в Лос-Анджелесе.",
+      "body_markdown": "Женская сборная Китая по футболу попала в крайне сложную группу в рамках азиатского отборочного турнира к Олимпийским играм 2028 года в Лос-Анджелесе: соперницами китаянок стали сборные КНДР и Южной Кореи. Как сообщили 12 ноября 2026 года такие издания, как Zigong News и China News Service, официальные результаты жеребьевки ознаменовали начало бескомпромиссной борьбы за путевку на континентальный турнир.\n\n## Тяжеловесы восточноазиатского футбола\n\nЭтот жребий свел вместе три самые конкурентоспособные команды азиатского женского футбола. Матчи между Китаем, КНДР и Южной Кореей — это всегда не только глубокое историческое соперничество, но и напряженные тактические дуэли. Присутствие обеих корейских сборных в одной группе с Китаем исключает право на любую ошибку уже на стартовом этапе квалификации.\n\n## Дорога в Лос-Анджелес\n\nУчастницы этого отборочного цикла сражаются за прямую путевку на Олимпийские игры 2028 года в Лос-Анджелесе, штат Калифорния. Азиатская футбольная конфедерация выстроила структуру отбора так, чтобы проверить готовность региональных претендентов через жесткий групповой этап, прежде чем команды перейдут к решающим раундам плей-офф. Чтобы сохранить олимпийские амбиции, сборным необходимо пройти через это «жерло вулкана» в самом начале пути.\n\n## Следующие шаги\n\nВ ближайшие недели Азиатская футбольная конфедерация представит подробное расписание матчей, конкретные места проведения игр и окончательные составы групп. Тренерские штабы Китая, КНДР и Южной Кореи используют оставшееся время для завершающей подготовки к старту турнира.",
+      "social_post": "Женская сборная Китая попала в «группу смерти» с КНДР и Южной Кореей в отборе на Олимпиаду-2028 в Лос-Анджелесе. Итоги жеребьевки от 12 ноября 2026 года обещают нам невероятное напряжение. Как вы оцениваете шансы нашей команды? #Китай #ЖенскийФутбол #ЛА28 #ОлимпийскийОтбор"
+    },
+    "region": "china",
+    "images": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 231 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact match dates and host cities for the group stage fixtures in the Asian qualifiers."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ],
+    "auto_rejected": [
+      "too short (231 words, minimum 250)"
+    ]
+  },
+  {
+    "id": "2026-11-13-news-f260e3",
+    "slug": "2026-china-international-boxing-open-concludes-in-zunyi",
+    "date": "2026-11-13",
+    "created": "2026-11-13T00:09:33+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "Boxing",
+    "tags": [
+      "China",
+      "Boxing",
+      "Zunyi",
+      "Alvarez Borges"
+    ],
+    "athletes": [
+      "Alvarez Borges"
+    ],
+    "image_subjects": [
+      "Boxing",
+      "Zunyi",
+      "Guizhou"
+    ],
+    "facts_to_verify": [
+      "Confirm full name and nationality of 'Alvarez Borges' to ensure accurate spelling and context (the source refers to him as a generic Olympic champion).",
+      "Verify the official closing date of the tournament (reports indicate it concluded on November 11/12)."
+    ],
+    "sources": [
+      {
+        "title": "2026年中国国际拳击公开赛在贵州遵义收官",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbnFSazlZMENycDNhZ0FPMDlRakFGdnVFekJqa096UXpTRkpBR1duOVVaMFBjT2lJbGFUbTdmd3RONG83ekJxZjZuZnI0T1JwU2J2MlQxWXJQRUFFcUJZ?oc=5"
+      },
+      {
+        "title": "中国国际拳击公开赛｜奥运冠军阿尔瓦雷斯・博尔赫斯 ：贵州具备国际化拳击视野",
+        "url": "https://www.sohu.com"
+      },
+      {
+        "title": "中国新闻网 体育: 2026年中国国际拳击公开赛在贵州遵义收官",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-12/10730676.shtml"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "2026 China International Boxing Open Concludes in Zunyi",
+      "subheadline": "International athletes and domestic competitors gather in Guizhou for multi-day tournament",
+      "body_markdown": "The 2026 China International Boxing Open concluded on Wednesday, November 11, in Zunyi, Guizhou Province. The multi-day competition brought together an international field of boxers to compete across various weight categories, marking a significant addition to the regional sports calendar in southwest China.\n\n## Global Participation and Technical Standards\n\nThe tournament served as a platform for both established international talent and emerging domestic prospects. Among the notable participants was Olympic champion Alvarez Borges, who competed and participated in promotional activities throughout the event. Following his bouts, Borges remarked on the quality of the facilities and the organization, telling state media that Guizhou demonstrates an increasingly international vision for the sport of boxing. \n\nOrganizers emphasized that the event was designed to meet international technical standards, providing a venue for athletes to gain ranking points and competitive experience. The presence of high-profile international figures like Borges is intended to elevate the profile of local training programs and encourage cross-border knowledge exchange between coaching staffs.\n\n## Strategic Growth in Guizhou\n\nZunyi’s selection as the host city aligns with a broader national strategy to decentralize major sporting events. Historically, international-level combat sports fixtures in China were concentrated in coastal hubs such as Beijing, Shanghai, or Guangzhou. By hosting the Open in Zunyi, local officials aim to leverage the city’s developing sports infrastructure to foster a regional hub for boxing.\n\nThis event follows a series of recent investments in Guizhou’s sports facilities, aimed at hosting both national and international tournaments. For local athletes, the proximity of an international-standard competition reduces travel costs and provides exposure to diverse fighting styles that are typically unavailable outside of major international circuits. The tournament concluded with a series of final bouts that determined the podium positions across the weight classes, with local authorities confirming that the event successfully met its attendance and performance targets.\n\n## Looking Ahead\n\nThe successful staging of the 2026 Open is expected to influence the scheduling of future combat sports events in the province. The Chinese Boxing Association has indicated that hosting international fixtures in inland provinces is a priority for the 2027 season, as the country continues to expand its boxing talent pool. Details regarding the next iteration of the tournament, including potential dates and expanded weight categories, are expected to be announced by the national governing body in early 2027.",
+      "social_post": "The 2026 China International Boxing Open has wrapped up in Zunyi, Guizhou! With Olympic champion Alvarez Borges in attendance, the tournament highlighted the growing international ambitions of boxing in southwest China. A major step for regional sports development and cross-cultural competition. Did you follow the final bouts? Let us know what you think of the rising boxing scene in Guizhou. #Boxing #ChinaSports #Zunyi #CombatSports #OlympicBoxing"
+    },
+    "zh": {
+      "headline": "2026年中国国际拳击公开赛在遵义圆满落幕",
+      "subheadline": "国内外拳手齐聚贵州，共赴这场为期数日的搏击盛宴",
+      "body_markdown": "2026年中国国际拳击公开赛于11月11日（周三）在贵州省遵义市落下帷幕。本次赛事汇聚了来自全球的拳击好手，在多个级别展开激烈角逐，为中国西南地区的体育日程增添了浓墨重彩的一笔。\n\n## 全球参与与技术水准\n\n本次公开赛不仅是成名已久的国际顶尖拳手展示实力的舞台，也为国内新秀提供了宝贵的历练机会。奥运冠军阿尔瓦雷斯·博尔赫斯（Alvarez Borges）不仅亲自参赛，还积极参与了赛事推广活动。赛后，博尔赫斯在接受官方媒体采访时对场馆设施及赛事组织工作给予了高度评价，他表示，贵州在推动拳击运动发展方面展现出了愈发国际化的视野。\n\n赛事主办方强调，本次比赛严格遵循国际技术标准，旨在为运动员提供获取排名积分和实战经验的平台。像博尔赫斯这样重量级选手的加盟，不仅提升了赛事规格，也进一步促进了本地教练团队与国际先进训练体系的交流与融合。\n\n## 贵州的战略布局\n\n将遵义选定为举办城市，符合国家推动大型体育赛事下沉的战略布局。过去，中国的高水平搏击赛事多集中在北京、上海或广州等沿海城市。通过在遵义举办此次公开赛，地方当局旨在利用当地日益完善的体育基础设施，将该市打造为区域性的拳击运动中心。\n\n此次赛事是贵州近期一系列体育设施投入的成果，旨在承接更多高规格的国家级及国际级赛事。对于当地运动员而言，在家门口参加符合国际标准的赛事，不仅大幅降低了参赛成本，还让他们有机会接触到以往在大型国际巡回赛之外难以见识到的多元化打法。随着各级别决赛的落幕，赛事圆满收官。据地方政府确认，本次比赛在观赛人数和竞赛水平等方面均达到了预期目标。\n\n## 未来展望\n\n2026年公开赛的成功举办，预计将对贵州省未来的搏击赛事排期产生深远影响。中国拳击协会已明确表示，将把在内陆省份举办国际赛事作为2027赛季的工作重点，以持续扩大国内拳击人才库。关于下届赛事的具体细节，包括举办日期及是否增设级别，预计将于2027年初由国家体育主管部门正式对外公布。",
+      "social_post": "2026年中国国际拳击公开赛在贵州遵义圆满落幕！奥运冠军博尔赫斯亲临现场，见证了中国西南地区拳击运动的国际化雄心。这是区域体育发展与跨文化交流的重要一步。你关注这次决赛了吗？对于贵州日益兴起的拳击氛围，你有什么看法？ #拳击 #中国体育 #遵义 #搏击运动 #奥运拳击"
+    },
+    "ru": {
+      "headline": "В Цзуньи завершился Международный открытый турнир по боксу 2026 года",
+      "subheadline": "Спортсмены со всего мира и местные атлеты собрались в Гуйчжоу на многодневные соревнования",
+      "body_markdown": "В среду, 11 ноября 2026 года, в городе Цзуньи (провинция Гуйчжоу) завершился Международный открытый турнир по боксу. Эти многодневные соревнования собрали представительный состав иностранных участников, которые боролись за медали в различных весовых категориях, что стало важным событием в спортивном календаре юго-западного Китая.\n\n## Международное участие и технические стандарты\n\nТурнир стал площадкой как для признанных мировых звезд, так и для перспективных местных талантов. Одним из почетных гостей и участников стал олимпийский чемпион Альварес Борхес (Alvarez Borges), который не только провел поединки, но и принял участие в промо-акциях. После своих выступлений Борхес отметил высокое качество инфраструктуры и уровень организации, заявив государственным СМИ, что Гуйчжоу демонстрирует растущие международные амбиции в мире бокса.\n\nОрганизаторы подчеркнули, что турнир был проведен в соответствии с международными техническими стандартами, что позволило спортсменам заработать рейтинговые очки и получить ценный соревновательный опыт. Присутствие таких высококлассных атлетов, как Борхес, призвано повысить авторитет местных тренировочных программ и способствовать обмену опытом между тренерскими штабами разных стран.\n\n## Стратегическое развитие Гуйчжоу\n\nВыбор Цзуньи в качестве города-организатора соответствует стратегии децентрализации крупных спортивных событий в Китае. Исторически турниры по единоборствам международного уровня концентрировались в прибрежных мегаполисах, таких как Пекин, Шанхай или Гуанчжоу. Проводя турнир в Цзуньи, местные власти стремятся использовать развивающуюся спортивную инфраструктуру города для создания регионального центра бокса.\n\nЭто мероприятие стало результатом недавних инвестиций в спортивные объекты Гуйчжоу, направленных на проведение турниров национального и международного масштабов. Для местных спортсменов близость соревнований такого уровня означает снижение расходов на поездки и возможность изучить разнообразные стили ведения боя, которые редко встречаются за пределами крупных международных серий. Турнир завершился финальными поединками, определившими призеров во всех весовых категориях, а власти подтвердили, что цели по посещаемости и уровню выступлений были успешно достигнуты.\n\n## Взгляд в будущее\n\nУспешное проведение открытого турнира 2026 года, как ожидается, повлияет на график будущих соревнований по единоборствам в провинции. Китайская ассоциация бокса обозначила проведение международных турниров во внутренних провинциях как приоритет на сезон 2027 года, поскольку страна продолжает расширять свою базу боксерских талантов. Подробная информация о следующем турнире, включая потенциальные даты и возможные изменения в весовых категориях, будет объявлена национальной федерацией в начале 2027 года.",
+      "social_post": "Международный открытый турнир по боксу 2026 года завершился в Цзуньи, Гуйчжоу! Участие олимпийского чемпиона Альвареса Борхеса подчеркнуло растущие международные амбиции бокса на юго-западе Китая. Важный шаг для развития регионального спорта и международного обмена. Следили за финальными боями? Что думаете о развитии бокса в Гуйчжоу? #Бокс #Китай #Цзуньи #Единоборства #ОлимпийскийБокс"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Boxing_Tournament_in_Aid_of_King_George%27s_Fund_For_Sailors_at_the_Royal_Naval_Air_Station,_Henstridge,_Somerset,_July_1945_A29806.jpg",
+        "artist": "Royal Navy official photographer",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Boxing Tournament in Aid of King George's Fund For Sailors at the Royal Naval Air Station, Henstridge, Somerset, July 1945 Air Mechanic (A) Ronny Clayton (left) of Royal Naval Air Station Worthy Down,",
+        "width": 1200,
+        "height": 1072,
+        "year": 2016,
+        "subject": "Boxing"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/%E6%B0%91%E4%B8%BB%E8%B7%AF_7007.jpg/1280px-%E6%B0%91%E4%B8%BB%E8%B7%AF_7007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%E6%B0%91%E4%B8%BB%E8%B7%AF_7007.jpg",
+        "artist": "Augusthaiho",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "​民主路步行街",
+        "width": 1200,
+        "height": 800,
+        "year": 2019,
+        "subject": "Zunyi"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Huangguoshu_Waterfall_in_October_2020%2C_Picture12.jpg/1280px-Huangguoshu_Waterfall_in_October_2020%2C_Picture12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Huangguoshu_Waterfall_in_October_2020,_Picture12.jpg",
+        "artist": "Huangdan2060",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Huangguoshu Waterfall in the town of Huangguoshu, Zhenning Buyei and Miao Autonomous County, Guizhou, China.",
+        "width": 1200,
+        "height": 900,
+        "year": 2020,
+        "subject": "Guizhou"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2016. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirm full name and nationality of 'Alvarez Borges' to ensure accurate spelling and context (the source refers to him as a generic Olympic champion)."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Verify the official closing date of the tournament (reports indicate it concluded on November 11/12)."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://www.sohu.com"
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-news-3dbf6d",
     "slug": "crystal-palace-sack-pierre-sage-after-16-matches",
     "date": "2026-11-12",
