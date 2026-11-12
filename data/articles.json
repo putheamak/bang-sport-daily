@@ -1,5 +1,132 @@
 [
   {
+    "id": "2026-11-12-news-3dbf6d",
+    "slug": "crystal-palace-sack-pierre-sage-after-16-matches",
+    "date": "2026-11-12",
+    "created": "2026-11-12T22:25:45+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Football",
+    "tags": [
+      "Crystal Palace",
+      "Pierre Sage",
+      "Thomas Frank",
+      "Premier League",
+      "Football Manager"
+    ],
+    "athletes": [
+      "Pierre Sage",
+      "Thomas Frank",
+      "Oliver Glasner",
+      "Sean Dyche"
+    ],
+    "image_subjects": [
+      "Crystal Palace F.C.",
+      "Pierre Sage",
+      "Thomas Frank",
+      "Selhurst Park"
+    ],
+    "facts_to_verify": [
+      "Exact date of Thomas Frank's potential appointment relative to Coventry fixture",
+      "Total compensation settlement figure between Crystal Palace and Pierre Sage"
+    ],
+    "sources": [
+      {
+        "title": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/12040/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches"
+      },
+      {
+        "title": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank"
+      },
+      {
+        "title": "BBC Sport: Palace sack Sage after 16 games with Frank in advanced talks",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.009,
+      "longest": 10,
+      "phrases": [
+        "coaching staff jamal alioui damien della santa and sandy guichard"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Crystal Palace Sack Pierre Sage After 16 Matches",
+      "subheadline": "The Premier League club sit bottom of the table and are in advanced talks with Thomas Frank.",
+      "body_markdown": "## What happened\nCrystal Palace dismissed manager Pierre Sage on Thursday, November 12, 2026, after just 16 matches in charge. An 81-word club statement confirmed the departure alongside three members of his coaching staff: Jamal Alioui, Damien Della Santa, and Sandy Guichard. The dismissal follows a 3-1 home defeat to Liverpool on Sunday, which left the Eagles bottom of the Premier League standings. Negotiations regarding compensation for the remainder of Sage's three-year contract delayed the official announcement.\n\n## Why it is being talked about\nThe swift departure marks a dramatic reversal for Sage, who was named French manager of the year last summer after winning the Coupe de France and qualifying for the Champions League with Lens. Palace are already in advanced talks with Thomas Frank to succeed him. Frank has been unemployed since his dismissal by Tottenham in February 2026. Complicating matters further, Sage has emerged as a leading candidate to return to his previous club, Lens, following their dismissal of Yannick Cahuzac on Tuesday, November 10, 2026, which could potentially offset Palace's compensation costs after they paid more than £4m to secure Sage in June.\n\n## Key facts and numbers\nPalace earned only seven points from their opening 10 Premier League matches under Sage, securing victories solely against Fulham and Nottingham Forest. The team holds the worst defensive record in the division, conceding 24 goals, and sits 21st in the 36-team Europa League table. Sage's tenure was also impacted by squad departures, including the summer exits of Maxence Lacroix and Daniel Munoz, alongside January's departure of Marc Guéhi to Manchester City. Palace were the lowest spenders in the Premier League during the summer transfer window.\n\n## What happens next\nPalace hope to install Thomas Frank before their fixture against Coventry on Saturday, November 21, 2026. Alternatives previously considered by the club included Sean Dyche and Vítor Pereira. Meanwhile, Palace stated that an update on the permanent managerial appointment will be provided in due course.",
+      "social_post": "Crystal Palace have sacked manager Pierre Sage after 16 matches with the club bottom of the Premier League. Former Tottenham and Brentford boss Thomas Frank is in advanced talks to take over. What do you think went wrong for Sage in south London? #CrystalPalace #PremierLeague #ThomasFrank #Football"
+    },
+    "zh": {
+      "headline": "执教仅16场，水晶宫官宣解雇皮埃尔·萨热",
+      "subheadline": "目前球队在英超积分榜垫底，俱乐部正与托马斯·弗兰克进行深入谈判。",
+      "body_markdown": "## 发生了什么\n2026年11月12日周四，水晶宫俱乐部宣布解雇主教练皮埃尔·萨热（Pierre Sage），此时距离他上任仅过去了16场比赛。俱乐部发布了一份81字的官方声明，确认萨热及其三名教练组成员——贾马尔·阿利乌伊（Jamal Alioui）、达米安·德拉·桑塔（Damien Della Santa）和桑迪·吉夏尔（Sandy Guichard）同时离任。此前，球队在周日的英超主场比赛中1-3不敌利物浦，这导致“老鹰”跌至积分榜榜尾。由于萨热签署的是一份为期三年的合同，双方关于剩余薪资赔偿的谈判延误了官方公告的发布。\n\n## 为何引发热议\n这次“闪电下课”对萨热而言是一次剧烈的反转。去年夏天，他凭借率领朗斯夺得法国杯并打进欧冠的优异表现，被评为法国年度最佳教练。目前，水晶宫已与托马斯·弗兰克（Thomas Frank）进入深入谈判，希望由他接任帅位。弗兰克自2026年2月被热刺解雇后一直赋闲在家。局势更加复杂的是，萨热已成为老东家朗斯的新帅热门人选——朗斯在2026年11月10日周二解雇了雅尼克·卡于扎克（Yannick Cahuzac）。如果萨热重返朗斯，可能会抵消水晶宫此前为聘请他而支付的超过400万英镑的违约金。\n\n## 关键事实与数据\n在萨热执教的10场英超比赛中，水晶宫仅拿到7分，仅有的两场胜利分别来自对阵富勒姆和诺丁汉森林。球队目前拥有联赛中最差的防守记录，失球数高达24个，在拥有36支球队的欧联杯积分榜上也仅排在第21位。萨热的执教期还受到阵容流失的影响，包括夏天马桑斯·拉克鲁瓦（Maxence Lacroix）和丹尼尔·穆尼奥斯（Daniel Munoz）的离队，以及1月马克·格伊（Marc Guéhi）转投曼城。水晶宫是今年夏季转会窗英超投入最少的球队。\n\n## 接下来会发生什么\n水晶宫希望在11月21日周六对阵考文垂的比赛前敲定托马斯·弗兰克。此前，俱乐部考虑过的替代人选还包括肖恩·戴奇（Sean Dyche）和维托尔·佩雷拉（Vítor Pereira）。同时，水晶宫方面表示，关于正式主帅任命的进一步消息将在适当时候公布。",
+      "social_post": "执教仅16场，水晶宫官宣解雇皮埃尔·萨热，球队目前在英超积分榜垫底。前热刺主帅托马斯·弗兰克正与俱乐部进行深入谈判。你认为萨热在南伦敦的执教为何失败？ #水晶宫 #英超 #托马斯弗兰克 #足球"
+    },
+    "ru": {
+      "headline": "«Кристал Пэлас» уволил Пьера Сажа после 16 матчей",
+      "subheadline": "Команда замыкает турнирную таблицу АПЛ, а руководство клуба ведет переговоры с Томасом Франком.",
+      "body_markdown": "## Что произошло\nВ четверг, 12 ноября 2026 года, «Кристал Пэлас» объявил об увольнении главного тренера Пьера Сажа (Pierre Sage) спустя всего 16 матчей у руля команды. В официальном заявлении клуба, состоящем из 81 слова, подтверждается уход специалиста вместе с тремя членами его штаба: Джамалем Алиуи (Jamal Alioui), Дамьеном Делла Сантой (Damien Della Santa) и Сэнди Гишаром (Sandy Guichard). Отставка последовала за воскресным домашним поражением от «Ливерпуля» (1:3), после которого «орлы» опустились на самое дно турнирной таблицы Премьер-лиги. Официальное объявление задерживалось из-за переговоров о компенсации за досрочное расторжение трехлетнего контракта Сажа.\n\n## Почему это обсуждают\nСтоль стремительный уход стал болезненным поворотом для Сажа, который прошлым летом был признан лучшим тренером Франции после победы в Кубке страны и выхода в Лигу чемпионов с «Лансом». «Кристал Пэлас» уже ведет продвинутые переговоры с Томасом Франком (Thomas Frank), который может стать его преемником. Франк остается без работы с февраля 2026 года, когда его уволил «Тоттенхэм». Ситуация осложняется тем, что Саж стал главным кандидатом на возвращение в свой бывший клуб, «Ланс», который во вторник, 10 ноября 2026 года, расстался с Янником Каюзаком (Yannick Cahuzac). Это потенциально может помочь «Пэлас» компенсировать часть затрат: напомним, в июне лондонцы заплатили за переход Сажа более 4 млн фунтов.\n\n## Ключевые факты и цифры\nПод руководством Сажа «Кристал Пэлас» набрал лишь семь очков в 10 стартовых турах АПЛ, одержав победы только над «Фулхэмом» и «Ноттингем Форест». У команды худшая оборона в лиге — 24 пропущенных мяча, а в таблице Лиги Европы, состоящей из 36 клубов, команда занимает 21-е место. На работу Сажа сильно повлияли кадровые потери: летом ушли Максанс Лакруа (Maxence Lacroix) и Даниэль Муньос (Daniel Munoz), а в январе Марк Гехи (Marc Guéhi) перебрался в «Манчестер Сити». Этим летом «Пэлас» потратил на трансферы меньше всех клубов АПЛ.\n\n## Что дальше\nВ клубе надеются назначить Томаса Франка до матча против «Ковентри», который состоится в субботу, 21 ноября 2026 года. Среди других кандидатов, которых рассматривало руководство, были Шон Дайч (Sean Dyche) и Витор Перейра (Vítor Pereira). В «Кристал Пэлас» пообещали предоставить обновленную информацию о назначении постоянного главного тренера в ближайшее время.",
+      "social_post": "«Кристал Пэлас» уволил Пьера Сажа после 16 матчей — команда идет на последнем месте в АПЛ. Бывший наставник «Тоттенхэма» и «Брентфорда» Томас Франк близок к назначению. Как вы считаете, что пошло не так у Сажа в Лондоне? #КристалПэлас #АПЛ #ТомасФранк #Футбол"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "85feac9464",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pierre_Sage_en_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Pierre_Sage_en_2024.jpg",
+        "artist": "Zz42",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Pierre Sage lors d’un entraînement ouvert au public, le 21 mai 2024.",
+        "width": 1200,
+        "height": 1648,
+        "year": 2024,
+        "subject": "Pierre Sage"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg/1280px-2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_(53283239217).jpg",
+        "artist": "Arne Müseler from Salzburg, AT",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Foto: Arne Müseler",
+        "width": 1200,
+        "height": 899,
+        "year": 2023,
+        "subject": "Selhurst Park"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_%28cropped%29.jpg/1280px-2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2022128173931_2022-05-08_Fussball_Eintracht_Frankfurt_vs_Borussia_M%C3%B6nchengladbach_-_Sven_-_1D_X_MK_II_-_2395_-_B70I8506_(cropped).jpg",
+        "artist": "Sven Mandel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "during Fussball Eintracht Frankfurt vs Borussia Mönchengladbach at Waldstadion, Frankfurt, Hessen, Germany on 2022-05-08, Photo: Sven Mandel",
+        "width": 1200,
+        "height": 1492,
+        "year": 2022,
+        "subject": "Oliver Glasner"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact date of Thomas Frank's potential appointment relative to Coventry fixture"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Total compensation settlement figure between Crystal Palace and Pierre Sage"
+      }
+    ]
+  },
+  {
     "id": "2026-11-12-news-9a12db",
     "slug": "andreeva-wins-11-games-in-a-row-to-beat-sabalenka-and-reach-",
     "date": "2026-11-12",
