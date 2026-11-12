@@ -1,5 +1,126 @@
 [
   {
+    "id": "2026-11-12-news-c53bfd",
+    "slug": "why-mirra-andreeva-s-wta-finals-milestone-matters-for-russia",
+    "date": "2026-11-12",
+    "created": "2026-11-12T14:06:22+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Tennis",
+    "tags": [
+      "Mirra Andreeva",
+      "WTA Finals",
+      "Tennis",
+      "Aryna Sabalenka"
+    ],
+    "athletes": [
+      "Mirra Andreeva",
+      "Aryna Sabalenka"
+    ],
+    "image_subjects": [
+      "Mirra Andreeva",
+      "WTA Finals"
+    ],
+    "facts_to_verify": [
+      "Exact year of the previous Russian player reaching the WTA Finals semi-finals (reported as 2016 by sources)",
+      "Match scores from Andreeva's group stage matches"
+    ],
+    "sources": [
+      {
+        "title": "Андреева стала первой россиянкой за десять лет, вышедшей из группы на Итоговом турнире",
+        "url": "https://www.sport-express.ru/tennis/wta/news/andreeva-stala-pervoy-rossiyankoy-za-desyat-let-vyshedshey-iz-gruppy-na-itogovom-turnire-2473938/"
+      },
+      {
+        "title": "Мирра Андреева стала первой за 10 лет россиянкой, вышедшей в полуфинал Итогового турнира",
+        "url": "https://www.championat.com/tennis/news-6695940-mirra-andreeva-stala-pervoj-za-10-let-rossiyankoj-vyshedshej-v-polufinal-itogovogo-turnira.html"
+      },
+      {
+        "title": "Андреева просто машина. Порвала саму Соболенко на Итоговом турнире WTA",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1J2WVRKRy1kbFczd19lWEhMRkU0ZVNhZkN1QUgwbG1vSWdHNmE5NHBQSzlEbU5Tb2NkTFNNUkdiTVFsalFGOVlEWEx2blFVWWswbnV1QnZIUHduYXhCemRvNk84LVRWVlgyWUhFOVhRVzloclduMFJzSVRnMnYtM28zYjI2XzRyQXdkX3JwR1V0RVFjOE40WFJEOVRXd2FPN20wUnhQZ3J6ZjdDejhVNmhJcWNzM0VKaHpEaGNSQTU1TlRMcWN6WEdwcndZUQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Why Mirra Andreeva's WTA Finals Milestone Matters for Russian Tennis",
+      "subheadline": "An explainer on the numbers and history behind Andreeva reaching the semi-finals at the season-ending championship.",
+      "body_markdown": "## What happened\n\nAt the WTA Finals, Mirra Andreeva advanced from her round-robin group in the singles tournament, securing a place in the semi-finals. Major sports outlets including Sport-Экспресс, Championat, and Sportbox reported on the milestone achievement following the conclusion of the group matches.\n\n## Why it is being talked about\n\nAndreeva's progression marks the first time a Russian singles player has reached this stage of the season-ending championship in a decade. Coverage from Championat noted that she secured a spot in the tournament's semi-finals, ending a ten-year drought for Russian tennis at the elite eight-player event. The achievement places her alongside the historic performances of previous Russian competitors who last contested the tournament's latter stages in 2016.\n\n## Key facts and numbers\n\nReporting from Sport-Экспресс and Championat confirmed the ten-year timeline, establishing 2016 as the last year a Russian singles player advanced past the group stage at the WTA Finals. Sportbox detailed her performance within the tournament group, highlighting a notable victory against Aryna Sabalenka that contributed to propelling her forward in the competition.\n\n## What happens next\n\nWith the group stage concluded, Andreeva moves forward into the semi-finals of the WTA Finals to face the remaining contenders in the year-end bracket for a chance to play in the championship match.",
+      "social_post": "Mirra Andreeva has ended a ten-year wait for Russian singles players at the WTA Finals by reaching the semi-finals. Read our explainer on the numbers behind her breakthrough week. What do you make of her season? #WTAFinals #Tennis #MirraAndreeva #WTA"
+    },
+    "zh": {
+      "headline": "米拉·安德烈娃闯入WTA年终总决赛四强，对俄罗斯网球意味着什么",
+      "subheadline": "深度解析安德烈娃杀入赛季收官战半决赛背后的数据与历史突破。",
+      "body_markdown": "## 发生了什么\n\n在WTA年终总决赛单打小组赛中，米拉·安德烈娃（Mirra Andreeva）成功突围，锁定了一个半决赛席位。包括《体育快报》（Sport-Экспресс）、Championat以及Sportbox在内的各大体育媒体，都在小组赛结束后续报了这一里程碑式的成就。\n\n## 为什么引发热议\n\n安德烈娃的晋级，标志着整整十年以来首次有俄罗斯单打球员闯入这项赛季收官大戏的四强。Championat的报道指出，她成功挺进女单半决赛，终结了俄罗斯网球在八人巅峰对决中长达十年的荒。这一成就让她比肩了前辈们的历史高光——俄罗斯球员上一次在该赛事的后半程亮相，还要追溯到2016年。\n\n## 关键事实与数据\n\n来自《体育快报》和Championat的报道均证实了这十年的时间跨度，将2016年定格为俄罗斯单打选手上一次在WTA总决赛小组赛出线的年份。Sportbox则详细回顾了她在小组赛阶段的发挥，特别提及了她战胜阿里娜·萨巴伦卡（Aryna Sabalenka）的那场关键胜利，正是这场胜局助她拿到了晋级门票。\n\n## 接下来的看点\n\n随着小组赛尘埃落定，安德烈娃将昂首挺进WTA总决赛半决赛，在争冠序列中迎战余下的顶尖高手，向决赛门票发起冲击。",
+      "social_post": "米拉·安德烈娃杀入WTA年终总决赛半决赛，终结了俄罗斯单打球员在总决赛上长达十年的等待。快来阅读我们的深度解析，看看她这突破性的一周背后有哪些数据支撑。你如何看待她本赛季的表现？ #WTAFinals #网球 #米拉安德烈娃 #WTA"
+    },
+    "ru": {
+      "headline": "Почему выход Мирры Андреевой в полуфинал Итогового турнира WTA — исторический момент для нашего тенниса",
+      "subheadline": "Разбираем цифры и контекст прорыва Андреевой в плей-офф главного турнира сезона.",
+      "body_markdown": "## Что произошло\n\nНа Итоговом турнире WTA Мирра Андрееве удалось преодолеть барьер группового этапа в одиночном разряде и пробиться в полуфинал. Ведущие спортивные издания, включая «Спорт-Экспресс», «Чемпионат» и Sportbox, подробно осветили это достижение по окончании матчей в группе.\n\n## Почему об этом говорят\n\nУспех Андреевой ознаменовал собой первый за десять лет случай, когда российская одиночница добралась до этой стадии на итоговом чемпионате сезона. Как отмечает «Чемпионат», она забронировала путевку в полуфинал, прервав десятилетнюю засуху для российского тенниса на турнире сильнейшей восьмерки. Это достижение ставит ее в один ряд с нашими топ-теннисистками прошлого, которые в последний раз играли в решающей стадии турнира в 2016 году.\n\n## Главные факты и цифры\n\nМатериалы «Спорт-Экспресса» и «Чемпионата» подтверждают десятилетний таймлайн: 2016-й оставался последним годом, когда россиянка выходила из группы на Итоговом турнире WTA. Sportbox подробно разобрал ее матчи на групповой стадии, выделив яркую победу над Ариной Соболенко, которая во многом и помогла ей пробиться дальше.\n\n## Что дальше\n\nПосле завершения группового этапа Андреева шагает в полуфинал Итогового турнира WTA, где ей предстоит сразиться с сильнейшими соперницами за право сыграть в решающем матче за титул.",
+      "social_post": "Мирра Андреева прервала десятилетнее ожидание для российских теннисисток на Итоговом турнире WTA, выйдя в полуфинал. Читайте наш разбор цифр и фактов этой прорывной недели. А как вы оцениваете ее сезон? #WTAFinals #Теннис #МирраАндреева #WTA"
+    },
+    "format": "explainer",
+    "region": "russia",
+    "trending_key": "12a073983c",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Mirra Andreeva in June 2023",
+        "width": 1200,
+        "height": 1603,
+        "year": 2023,
+        "subject": "Mirra Andreeva"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aryna_Sabalenka_Miami_Open_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Aryna_Sabalenka_Miami_Open_Final.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Aryna Sabalenka smiles after winning the 2026 Miami Open.",
+        "width": 1200,
+        "height": 1598,
+        "year": 2026,
+        "subject": "Aryna Sabalenka"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
+      },
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 222 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact year of the previous Russian player reaching the WTA Finals semi-finals (reported as 2016 by sources)"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Match scores from Andreeva's group stage matches"
+      }
+    ],
+    "auto_rejected": [
+      "too short (222 words, minimum 250)"
+    ]
+  },
+  {
     "id": "2026-11-12-hist-4f230f",
     "slug": "the-500-gamble-how-pudge-heffelfinger-became-footballs-first",
     "date": "2026-11-12",
