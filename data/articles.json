@@ -5,7 +5,7 @@
     "date": "2026-11-12",
     "created": "2026-11-12T16:29:34+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "tennis",
     "tags": [
@@ -39,7 +39,20 @@
         "url": "https://www.sport-express.ru/tennis/wta/news/andreeva-stala-pervoy-rossiyankoy-za-desyat-let-vyshedshey-iz-gruppy-na-itogovom-turnire-2473938/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-12T16:33:33+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-12T16:33:33+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-12T16:33:34+07:00"
+      }
+    ],
     "en": {
       "headline": "Andreeva Wins 11 Games in a Row to Beat Sabalenka and Reach the WTA Finals Semi-Finals",
       "subheadline": "The 19-year-old won 6-4, 6-0 in Indian Wells to top Group 2 on her debut, becoming the first Russian to advance from the group stage since Svetlana Kuznetsova in 2016.",
@@ -92,7 +105,8 @@
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-12T16:33:34+07:00"
   },
   {
     "id": "2026-11-12-news-4a97bf",
