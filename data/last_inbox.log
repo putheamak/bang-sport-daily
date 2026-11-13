@@ -1,20 +1,6 @@
-2026-11-13 08:21:27,072 INFO Match card added to 2026-11-11-news-758b2e
-2026-11-13 08:21:27,072 INFO Updated sources/notes for 2026-11-11-news-758b2e
-2026-11-13 08:21:27,114 INFO Match card added to 2026-11-11-news-7ad1a0
-2026-11-13 08:21:27,114 INFO Updated sources/notes for 2026-11-11-news-7ad1a0
-2026-11-13 08:21:27,169 INFO Match card added to 2026-11-12-news-4a97bf
-2026-11-13 08:21:27,170 INFO Updated sources/notes for 2026-11-12-news-4a97bf
-2026-11-13 08:21:27,212 INFO Match card added to 2026-11-12-news-9a12db
-2026-11-13 08:21:27,213 INFO Updated sources/notes for 2026-11-12-news-9a12db
-2026-11-13 08:21:27,258 INFO Match card added to 2026-11-13-news-211d3b
-2026-11-13 08:21:27,258 INFO Updated sources/notes for 2026-11-13-news-211d3b
-2026-11-13 08:21:27,299 INFO Match card added to 2026-11-13-news-a068e9
-2026-11-13 08:21:27,299 INFO Updated sources/notes for 2026-11-13-news-a068e9
-2026-11-13 08:21:27,345 INFO Match card added to 2026-11-13-news-b6bee9
-2026-11-13 08:21:27,345 INFO Updated sources/notes for 2026-11-13-news-b6bee9
-2026-11-13 08:21:27,397 INFO Match card added to 2026-11-13-news-da03de
-2026-11-13 08:21:27,397 INFO Updated sources/notes for 2026-11-13-news-da03de
-2026-11-13 08:21:27,581 INFO Exported 8 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-13
-2026-11-13 08:21:32,474 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-13 08:21:32,581 INFO Website built: 33 published stories, 141 pages
-2026-11-13 08:21:32,581 INFO Imported 8 editor's article(s): 2026-11-11-news-758b2e, 2026-11-11-news-7ad1a0, 2026-11-12-news-4a97bf, 2026-11-12-news-9a12db, 2026-11-13-news-211d3b, 2026-11-13-news-a068e9, 2026-11-13-news-b6bee9, 2026-11-13-news-da03de
+2026-11-13 14:44:51,929 INFO Importing editor's article: 2026-11-13-pochettino-appointed.md
+2026-11-13 14:44:52,985 WARNING No free-licence lead photo for Wikipedia article 'Michael Carrick'
+2026-11-13 14:44:53,232 INFO Exported 9 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-13
+2026-11-13 14:44:54,082 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-13 14:44:54,196 INFO Website built: 33 published stories, 141 pages
+2026-11-13 14:44:54,197 INFO Imported 1 editor's article(s): 2026-11-13-news-25365d
