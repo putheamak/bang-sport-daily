@@ -1,25 +1,24 @@
-2026-11-13 09:46:23,193 INFO BBC Sport                         40 items
-2026-11-13 09:46:23,425 INFO The Guardian Sport                27 items
-2026-11-13 09:46:23,546 INFO ESPN                               0 items
-2026-11-13 09:46:23,727 INFO Sky Sports                        17 items
-2026-11-13 09:46:24,031 INFO Google News – Sports (EN)         56 items
-2026-11-13 09:46:24,255 INFO Google News – 体育 (ZH)             31 items
-2026-11-13 09:46:24,974 INFO Google News – Спорт (RU)          43 items
-2026-11-13 09:46:26,006 INFO Championat                        30 items
-2026-11-13 09:46:27,281 INFO Sports.ru                         19 items
-2026-11-13 09:46:28,488 INFO Спорт-Экспресс                   409 items
-2026-11-13 09:46:29,476 INFO РИА Новости Спорт                 20 items
-2026-11-13 09:46:30,553 INFO 中国新闻网 体育                          14 items
-2026-11-13 09:46:30,884 INFO Google News – Cambodia sport      16 items
-2026-11-13 09:46:31,283 INFO Google News – Southeast Asia sport  30 items
-2026-11-13 09:46:31,686 INFO Candidate stories after clustering: 678
-2026-11-13 09:46:32,488 INFO Trending skipped (politics): WBC сохранил санкции в отношении российских и белорусских боксеров
-2026-11-13 09:46:32,490 INFO Trending skipped (politics): Education Minister to Represent PM Hun Manet at ASEAN Summit in Philippines
-2026-11-13 09:46:32,490 INFO Trending skipped (not our audience): Vikings 'hyped' to welcome back 'leader' Cousins on 1st day of practice
-2026-11-13 09:46:32,491 INFO Trending skipped (not our audience): 49ers pivoted to Keenan Allen trade after initially focusing on Josh Downs
-2026-11-13 09:46:32,491 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-13 09:46:32,491 INFO   1. [en 5 outlets, heat 12.4] Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On?
-2026-11-13 09:46:32,491 INFO   2. [en 4 outlets, heat 10.6] Pegula saves match point to beat Noskova & reach WTA Finals last four
-2026-11-13 09:46:32,491 INFO   3. [ru 3 outlets, heat 9.3] Дзепка снялась с этапа в Омске, но выступит в Финале Гран-при ISU
-2026-11-13 09:46:32,491 INFO   4. [ru 3 outlets, heat 8.9] Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA
-2026-11-13 09:46:32,491 INFO   5. [en 3 outlets, heat 8.9] England thrashed by Australia in first ODI
+2026-11-13 14:39:49,712 INFO BBC Sport                         43 items
+2026-11-13 14:39:50,014 INFO The Guardian Sport                28 items
+2026-11-13 14:39:50,088 INFO ESPN                               0 items
+2026-11-13 14:39:50,253 INFO Sky Sports                        18 items
+2026-11-13 14:39:50,521 INFO Google News – Sports (EN)         55 items
+2026-11-13 14:39:51,270 INFO Google News – 体育 (ZH)             31 items
+2026-11-13 14:39:51,965 INFO Google News – Спорт (RU)          41 items
+2026-11-13 14:39:53,233 INFO Championat                        29 items
+2026-11-13 14:39:54,175 INFO Sports.ru                         19 items
+2026-11-13 14:39:55,958 INFO Спорт-Экспресс                   501 items
+2026-11-13 14:39:57,602 INFO РИА Новости Спорт                 20 items
+2026-11-13 14:39:58,652 INFO 中国新闻网 体育                          20 items
+2026-11-13 14:39:59,042 INFO Google News – Cambodia sport      20 items
+2026-11-13 14:39:59,548 INFO Google News – Southeast Asia sport  34 items
+2026-11-13 14:40:00,352 INFO Candidate stories after clustering: 774
+2026-11-13 14:40:01,998 INFO Trending skipped (clickbait): Андреева и Пегула после скандала сыграют в полуфинале Итогового турнира
+2026-11-13 14:40:01,999 INFO Trending skipped (politics): Here's how bad the College Football Playoff's selection committee rankings actually are | 
+2026-11-13 14:40:02,001 INFO Trending skipped (politics): Education Minister to Represent PM Hun Manet at ASEAN Summit in Philippines
+2026-11-13 14:40:02,823 INFO Talking points sent to Telegram (5 stories)
+2026-11-13 14:40:02,823 INFO   1. [en 5 outlets, heat 10.9] Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On?
+2026-11-13 14:40:02,823 INFO   2. [ru 3 outlets, heat 9.3] Сборная России заняла третье место в медальном зачёте на ЮОИ-2026 в Дакаре
+2026-11-13 14:40:02,823 INFO   3. [ru 3 outlets, heat 8.7] ТАСС: Усман Нурмагомедов продолжает находиться под стражей в ОАЭ
+2026-11-13 14:40:02,823 INFO   4. [ru 3 outlets, heat 8.4] «Манчестер Юнайтед» объявил о назначении Почеттино главным тренером с 18 ноября
+2026-11-13 14:40:02,823 INFO   5. [en 3 outlets, heat 8.1] Pegula saves match point to beat Noskova & reach WTA Finals last four
