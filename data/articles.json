@@ -75,6 +75,30 @@
     },
     "images": [
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_by_Tasnim_03.jpg",
+        "artist": "Hadi Abyar",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Zinedine Zidane, Real Madrid manager in press conference before match against Al-Jazira in FIFA Club World Cup",
+        "width": 1200,
+        "height": 1592,
+        "year": 2017,
+        "subject": "France coach Zinedine Zidane, beaten for the first time in charge"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg/1280px-Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Senegal_16_June_2026-307_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Michael Olise during France v Senegal on 16 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Michael Olise, scorer of France's goal"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Stadio_Meazza_2021_3.jpg/1280px-Stadio_Meazza_2021_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Stadio_Meazza_2021_3.jpg",
         "artist": "Prelvini",
@@ -129,7 +153,8 @@
         "Olise 10'"
       ],
       "note": "Italy top Group A1 on head-to-head"
-    }
+    },
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Francesco Pio Esposito, who scored twice against France\", \"wikipedia\": \"Francesco Pio Esposito\"}, {\"caption\": \"France coach Zinedine Zidane, beaten for the first time in charge\", \"wikipedia\": \"Zinedine Zidane\"}, {\"caption\": \"Michael Olise, scorer of France's goal\", \"wikipedia\": \"Michael Olise\"}]}"
   },
   {
     "id": "2026-11-13-news-da03de",
@@ -5390,6 +5415,18 @@
     },
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Paris_Court_Philippe-Chatrier.jpg/1280px-Paris_Court_Philippe-Chatrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Paris_Court_Philippe-Chatrier.jpg",
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "description": "Court Philippe Chatrier, Paris, France",
+        "width": 1200,
+        "height": 899,
+        "year": 2022,
+        "subject": "Roland Garros in Paris, where Li Na won Asia's first Grand Slam singles title in 2011"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Li_Na_January_2015.jpg/960px-Li_Na_January_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Li_Na_January_2015.jpg",
         "artist": "Tourism Victoria from Australia",
@@ -5408,7 +5445,8 @@
         "msg": "Source link does not open (404): https://www.bbc.com/sport/tennis/29272370"
       }
     ],
-    "published_at": "2026-11-08T17:24:41+07:00"
+    "published_at": "2026-11-08T17:24:41+07:00",
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Roland Garros in Paris, where Li Na won Asia's first Grand Slam singles title in 2011\", \"wikipedia\": \"Stade Roland Garros\"}]}"
   },
   {
     "id": "2026-11-07-hist-b4e3a9",
@@ -7548,7 +7586,8 @@
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"George Foreman, heavyweight champion again at 45\", \"wikipedia\": \"George Foreman\"}]}"
   },
   {
     "id": "2026-11-05-news-70aff0",
