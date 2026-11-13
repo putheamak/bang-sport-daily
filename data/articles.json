@@ -85,6 +85,19 @@
         "height": 800,
         "year": 2021,
         "subject": "San Siro"
+      },
+      {
+        "url": "../photos/card-2026-11-13-news-b6bee9.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Italy 3 - 1 France · UEFA Nations League · Group A1",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
@@ -99,7 +112,24 @@
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
     ],
-    "published_at": "2026-11-13T14:40:31+07:00"
+    "published_at": "2026-11-13T14:40:31+07:00",
+    "match": {
+      "competition": "UEFA Nations League · Group A1",
+      "date": "12 November 2026",
+      "home": "Italy",
+      "away": "France",
+      "home_score": 3,
+      "away_score": 1,
+      "home_scorers": [
+        "Pio Esposito 26'",
+        "Frattesi",
+        "Pio Esposito (pen)"
+      ],
+      "away_scorers": [
+        "Olise 10'"
+      ],
+      "note": "Italy top Group A1 on head-to-head"
+    }
   },
   {
     "id": "2026-11-13-news-da03de",
@@ -198,6 +228,19 @@
         "height": 675,
         "year": 2026,
         "subject": "Prudential Center"
+      },
+      {
+        "url": "../photos/card-2026-11-13-news-da03de.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "New Jersey Devils 5 - 2 Washington Capitals · NHL",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
@@ -207,7 +250,27 @@
         "msg": "Cover photo is from 2020. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
     ],
-    "published_at": "2026-11-13T14:40:33+07:00"
+    "published_at": "2026-11-13T14:40:33+07:00",
+    "match": {
+      "competition": "NHL",
+      "date": "12 November 2026",
+      "home": "New Jersey Devils",
+      "away": "Washington Capitals",
+      "home_score": 5,
+      "away_score": 2,
+      "home_scorers": [
+        "Rodrigues",
+        "Hameenaho",
+        "Kolyachonok",
+        "Noesen",
+        "Hughes (empty net)"
+      ],
+      "away_scorers": [
+        "Leonard",
+        "Dubois"
+      ],
+      "note": "Ovechkin goalless for a 12th straight game"
+    }
   },
   {
     "id": "2026-11-13-news-211d3b",
@@ -290,6 +353,19 @@
         "height": 816,
         "year": 2019,
         "subject": "Pleiku Stadium"
+      },
+      {
+        "url": "../photos/card-2026-11-13-news-211d3b.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Vietnam U23 1 - 0 Singapore U23 · Gia Lai VTV Cup 2026 · U23",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
@@ -299,7 +375,20 @@
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
     ],
-    "published_at": "2026-11-13T14:40:34+07:00"
+    "published_at": "2026-11-13T14:40:34+07:00",
+    "match": {
+      "competition": "Gia Lai VTV Cup 2026 · U23",
+      "date": "12 November 2026",
+      "home": "Vietnam U23",
+      "away": "Singapore U23",
+      "home_score": 1,
+      "away_score": 0,
+      "home_scorers": [
+        "Bao Long 70'"
+      ],
+      "away_scorers": [],
+      "note": "A draw against Qatar will win Vietnam the title"
+    }
   },
   {
     "id": "2026-11-13-news-a068e9",
@@ -425,6 +514,19 @@
         "height": 1599,
         "year": 2026,
         "subject": "Coco Gauff"
+      },
+      {
+        "url": "../photos/card-2026-11-13-news-a068e9.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Jessica Pegula 2 - 1 Linda Noskova · WTA Finals · Group 1",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [],
@@ -433,7 +535,18 @@
       "zh": "2026-11-13T13:51:55+07:00",
       "ru": "2026-11-13T13:51:55+07:00"
     },
-    "published_at": "2026-11-13T14:40:36+07:00"
+    "published_at": "2026-11-13T14:40:36+07:00",
+    "match": {
+      "competition": "WTA Finals · Group 1",
+      "date": "12 November 2026",
+      "home": "Jessica Pegula",
+      "away": "Linda Noskova",
+      "home_score": 2,
+      "away_score": 1,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Sets: 7-6 (7-2), 4-6, 7-5"
+    }
   },
   {
     "id": "2026-11-13-athl-12aaf2",
@@ -1145,6 +1258,19 @@
         "height": 1598,
         "year": 2026,
         "subject": "Aryna Sabalenka"
+      },
+      {
+        "url": "../photos/card-2026-11-12-news-9a12db.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Mirra Andreeva 2 - 0 Aryna Sabalenka · WTA Finals · Group 2",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
@@ -1154,7 +1280,18 @@
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
     ],
-    "published_at": "2026-11-12T16:33:34+07:00"
+    "published_at": "2026-11-12T16:33:34+07:00",
+    "match": {
+      "competition": "WTA Finals · Group 2",
+      "date": "11 November 2026",
+      "home": "Mirra Andreeva",
+      "away": "Aryna Sabalenka",
+      "home_score": 2,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Sets: 6-4, 6-0"
+    }
   },
   {
     "id": "2026-11-12-news-4a97bf",
@@ -1231,6 +1368,19 @@
         "height": 684,
         "year": 2021,
         "subject": "Kuala Lumpur Football Stadium, venue of the Group E qualifiers"
+      },
+      {
+        "url": "../photos/card-2026-11-12-news-4a97bf.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Singapore U17 2 - 4 India U17 · AFC U17 Asian Cup 2027 Qualifiers · Group E",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "zh": {
@@ -1252,7 +1402,26 @@
         "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
     ],
-    "published_at": "2026-11-12T15:02:59+07:00"
+    "published_at": "2026-11-12T15:02:59+07:00",
+    "match": {
+      "competition": "AFC U17 Asian Cup 2027 Qualifiers · Group E",
+      "date": "11 November 2026",
+      "home": "Singapore U17",
+      "away": "India U17",
+      "home_score": 2,
+      "away_score": 4,
+      "home_scorers": [
+        "Izzan Farid 27'",
+        "Izzan Farid 65'"
+      ],
+      "away_scorers": [
+        "Gangte 29'",
+        "Gangte 61' (pen)",
+        "Gangte 82'",
+        "Maity 88'"
+      ],
+      "note": "Captain Dallalmuon Gangte scores a hat-trick"
+    }
   },
   {
     "id": "2026-11-12-news-c53bfd",
@@ -1914,6 +2083,19 @@
         "height": 1800,
         "year": 2025,
         "subject": "Ayaka Yamashita (footballer)"
+      },
+      {
+        "url": "../photos/card-2026-11-11-news-758b2e.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Inter 1 - 4 Manchester City · UEFA Women's Champions League",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [],
@@ -1922,7 +2104,25 @@
       "zh": "2026-11-11T17:52:44+07:00",
       "ru": "2026-11-11T17:52:44+07:00"
     },
-    "published_at": "2026-11-11T17:58:30+07:00"
+    "published_at": "2026-11-11T17:58:30+07:00",
+    "match": {
+      "competition": "UEFA Women's Champions League",
+      "date": "10 November 2026",
+      "home": "Inter",
+      "away": "Manchester City",
+      "home_score": 1,
+      "away_score": 4,
+      "home_scorers": [
+        "Bartoli"
+      ],
+      "away_scorers": [
+        "Fujino",
+        "Fujino 44'",
+        "Casparij",
+        "Clinton"
+      ],
+      "note": "City's first win of the campaign"
+    }
   },
   {
     "id": "2026-11-11-news-d82427",
@@ -2164,6 +2364,19 @@
         "height": 1698,
         "year": 2025,
         "subject": "Jessica Pegula"
+      },
+      {
+        "url": "../photos/card-2026-11-11-news-7ad1a0.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Linda Noskova 2 - 0 Coco Gauff · WTA Finals · Group 1",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
@@ -2193,7 +2406,18 @@
     "published_at": "2026-11-11T15:46:47+07:00",
     "old_slugs": [
       "linda-noskova-secures-wta-finals-semifinal-spot-after-defeat"
-    ]
+    ],
+    "match": {
+      "competition": "WTA Finals · Group 1",
+      "date": "11 November 2026",
+      "home": "Linda Noskova",
+      "away": "Coco Gauff",
+      "home_score": 2,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Sets: 6-3, 6-3"
+    }
   },
   {
     "id": "2026-11-11-news-7ff971",
