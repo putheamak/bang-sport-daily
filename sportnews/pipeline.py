@@ -176,6 +176,8 @@ def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]
             items = confirm(items, cfg)            # 2+ independent outlets, no politics: before any AI is spent
         spare = (cfg.get("corroborate") or {}).get("spare_attempts", 2)
         picked = pick_balanced(cfg, items, n_left + spare, bal, plan.get("max_per_sport", 1)) if n_left else []
+        from .regions import ensure_asia
+        picked = ensure_asia(items, picked, n_left, plan.get("min_asia_news", 1), plan.get("asia_min_share", 0.3))
         from .standards import auto_reject_reasons
         good = 0
         for it in picked:
@@ -229,7 +231,17 @@ def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]
         idx = state.get("athlete_idx", 0) % len(athletes)
         focus = next_region(cfg, counts(load_articles() + new, date, win))
         order = [(idx + k) % len(athletes) for k in range(len(athletes))]
-        idx = next((i for i in order if athletes[i].get("region", "global") == focus), idx)   # region behind target
+        # never repeat an athlete written about in the last 6 months (13 Nov 2026: Sorn Seavmey came up twice)
+        from datetime import date as _D, timedelta as _TD
+        since = (_D.fromisoformat(date) - _TD(days=180)).isoformat()
+        recent = [x for x in load_articles() + new if x.get("type") == "athlete_story" and x.get("status") != "rejected"
+                  and str(x.get("date", "")) >= since]
+        def _done(ath):
+            nm = ath["name"].lower()
+            return any(nm in (x.get("en") or {}).get("headline", "").lower()
+                       or nm in [str(t).lower() for t in x.get("athletes") or []] for x in recent)
+        fresh = [i for i in order if not _done(athletes[i])] or order
+        idx = next((i for i in fresh if athletes[i].get("region", "global") == focus), fresh[0])  # region behind target
         a = athletes[idx]
         ctx = {"fmt": {"athlete": a["name"], "sport": a.get("sport", ""), "notes": a.get("notes", "")},
                "title": a["name"], "sport": a.get("sport", ""),

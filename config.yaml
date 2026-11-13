@@ -77,6 +77,8 @@ daily_plan:
   athlete_story: 1   # life story of a legendary / rising athlete (rotates athletes.yaml, from Wikipedia)
   alternate_features: true   # 3 stories a day: 2 news + history OR life story (alternating days)
   max_per_sport: 1   # variety: no more than N news stories from the same sport per day
+  min_asia_news: 1   # at least 1 daily news story from Asia (Cambodia, Southeast Asia or China) when a confirmed one exists
+  asia_min_share: 0.3  # ...and it is at least 30% as strong as the day's best story (Asian news has fewer outlets)
 
 # Sports the system watches. weight > 1 = more likely to be chosen; 0 = ignore that sport.
 sports:

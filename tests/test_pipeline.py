@@ -840,3 +840,15 @@ def test_two_pictures_blocks_new_stories(repo):
     assert not any("picture" in r for r in standards.auto_reject_reasons(cfg(), a))   # fixable: never auto-rejected
     a["date"] = "2026-11-12"                                   # older stories: warning only
     assert not any(i["level"] == "BLOCK" and i["area"] == "photos" for i in standards.check_article(cfg(), a))
+
+
+def test_at_least_one_asian_story(repo):
+    from sportnews.regions import ensure_asia
+    g1 = {"title": "A", "region": "global", "score": 10}
+    g2 = {"title": "B", "region": "russia", "score": 8}
+    g3 = {"title": "C", "region": "global", "score": 7}
+    sea = {"title": "D", "region": "sea", "score": 3.5}
+    weak = {"title": "E", "region": "cambodia", "score": 1}
+    picked = ensure_asia([g1, g2, g3, sea, weak], [g1, g2, g3], 2)
+    assert picked[:2] == [g1, sea] and g2 in picked[2:]                  # weakest non-Asian story becomes a spare
+    assert ensure_asia([g1, g2, weak], [g1, g2], 2)[:2] == [g1, g2]     # too weak (under 30% of best): no forced pick

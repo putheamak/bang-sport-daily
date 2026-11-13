@@ -102,6 +102,35 @@ def pick_balanced(cfg: dict, items: list[dict], n: int, c: dict, max_per_sport: 
     return picked
 
 
+ASIA = ("cambodia", "sea", "china")
+
+
+def ensure_asia(items: list[dict], picked: list[dict], n: int, min_asia: int = 1, share: float = 0.3) -> list[dict]:
+    """Editor's rule (13 Nov 2026): every day at least `min_asia` of the n news stories come from Asia
+    (Cambodia, Southeast Asia or China), as long as a confirmed Asian story is at least `share` (30%) as strong as the
+    day's best. Asian stories have fewer English outlets, so the bar is lower than for the normal balance."""
+    if min_asia <= 0 or not picked:
+        return picked
+    head, tail = list(picked[:n]), list(picked[n:])
+    have = sum(1 for i in head if i.get("region") in ASIA)
+    if have >= min_asia:
+        return picked
+    best = max(i.get("score", 0) for i in items) if items else 0
+    pool = [i for i in sorted(items, key=lambda x: -x.get("score", 0))
+            if i.get("region") in ASIA and i not in head and i.get("score", 0) >= best * share]
+    for cand in pool:
+        if have >= min_asia:
+            break
+        # replace the weakest non-Asian story among today's picks; it becomes a spare
+        weakest = min((i for i in head if i.get("region") not in ASIA), key=lambda x: x.get("score", 0), default=None)
+        if weakest is None:
+            break
+        head[head.index(weakest)] = cand
+        tail = [weakest] + [t for t in tail if t is not cand]
+        have += 1
+    return head + tail
+
+
 def next_region(cfg: dict, c: dict) -> str:
     return deficits(cfg, c)[0][0]
 
