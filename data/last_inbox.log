@@ -1,8 +1,18 @@
-2026-11-12 09:29:34,469 INFO Importing editor's article: 2026-11-12-andreeva-beats-sabalenka.md
-2026-11-12 09:29:34,472 INFO Looking up photos for 2026-11-12-news-9a12db: ['Mirra Andreeva', 'Aryna Sabalenka']
-2026-11-12 09:29:34,950 INFO Photo for 'Mirra Andreeva': Mirra_Andreeva_WMQ23_(cropped).jpg (si.robi, CC BY-SA 2.0)
-2026-11-12 09:29:35,259 INFO Photo for 'Aryna Sabalenka': Aryna_Sabalenka_Miami_Open_Final.jpg (Rick Munroe, CC BY-SA 4.0)
-2026-11-12 09:29:35,393 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-12
-2026-11-12 09:29:36,198 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-12 09:29:36,276 INFO Website built: 27 published stories, 120 pages
-2026-11-12 09:29:36,276 INFO Imported 1 editor's article(s): 2026-11-12-news-9a12db
+2026-11-13 06:51:55,924 INFO Importing editor's article: 2026-11-13-italy-beat-france.md
+2026-11-13 06:51:55,936 INFO Corrected English for 2026-11-13-news-a068e9
+2026-11-13 06:51:55,936 INFO Added zh translation for 2026-11-13-news-a068e9
+2026-11-13 06:51:55,936 INFO Added ru translation for 2026-11-13-news-a068e9
+2026-11-13 06:51:55,939 INFO Importing editor's article: 2026-11-13-ovechkin-drought.md
+2026-11-13 06:51:55,941 INFO Importing editor's article: 2026-11-13-vietnam-u23-beat-singapore.md
+2026-11-13 06:51:55,945 INFO Looking up photos for 2026-11-13-news-b6bee9: ['Francesco Pio Esposito', 'San Siro']
+2026-11-13 06:51:56,118 WARNING No free-licence photo for 'Francesco Pio Esposito' (Francesco_Pio_Esposito_a_La_Spezia_(cropped).jpg)
+2026-11-13 06:51:56,237 INFO Photo for 'San Siro': Stadio_Meazza_2021_3.jpg (Prelvini, CC BY-SA 4.0)
+2026-11-13 06:51:56,237 INFO Looking up photos for 2026-11-13-news-da03de: ['Alexander Ovechkin', 'Prudential Center']
+2026-11-13 06:51:56,362 INFO Photo for 'Alexander Ovechkin': Alexander_Ovechkin_(49479646361)_(1).jpg (All-Pro Reels from District of Columbia,, CC BY-SA 2.0)
+2026-11-13 06:51:56,466 INFO Photo for 'Prudential Center': Prudential_Center_(55183935068).jpg (ajay_suresh, CC BY 4.0)
+2026-11-13 06:51:56,466 INFO Looking up photos for 2026-11-13-news-211d3b: ['Pleiku Stadium']
+2026-11-13 06:51:56,597 INFO Photo for 'Pleiku Stadium': Pleiku_stadium.jpg (Cyberdemon313, CC BY-SA 4.0)
+2026-11-13 06:51:56,826 INFO Exported 8 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-13
+2026-11-13 06:51:58,905 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-13 06:51:59,137 INFO Website built: 29 published stories, 126 pages
+2026-11-13 06:51:59,138 INFO Imported 4 editor's article(s): 2026-11-13-news-b6bee9, 2026-11-13-news-a068e9, 2026-11-13-news-da03de, 2026-11-13-news-211d3b
