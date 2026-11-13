@@ -1,64 +1,97 @@
 {
-  "updated": "2026-11-12T17:45:45+00:00",
+  "updated": "2026-11-13T06:33:01+00:00",
   "stories": [
     {
-      "key": "87f5b9a9d8",
-      "title": "Буше о победе над «Металлургом»: «Авангард» не заслуживал 1:3 после двух периодов. Но то, что заслужил, забрал в конце матча. Мы с блеском вышли из неприятностей»",
-      "summary": "Главный тренер « Авангарда » Ги Буше высказался о победе над « Металлургом » в регулярном сезоне FONBET КХЛ (4:3 ОТ). «Начали встречу хорошо, не заслуживали 1:3 после двух периодов. Но то, что заслужили, забрали в конце матча. У нас была похожая игра с ЦСКА, сейчас у нас снова достойная игра с лидером сезона, мы с блеском вышли из неприятностей. Только сейчас мы начинаем работать с оптимальным сос",
+      "key": "e0541de97b",
+      "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
+      "summary": "Российская теннисистка Мирра Андреева встретится с американкой Джессикой Пегулой в полуфинале Итогового турнира WTA в Индиан-Уэллсе (США).",
       "lang": "ru",
-      "sport": "hockey",
+      "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.64,
-      "published": "2026-11-12T17:15:00+00:00",
+      "heat": 11.51,
+      "published": "2026-11-13T05:10:00+00:00",
       "refs": [
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117434746-bushe-o-pobede-nad-metallurgom-avangard-ne-zasluzhival-13-posle-dvux-p.html",
-          "title": "Буше о победе над «Металлургом»: «Авангард» не заслуживал 1:3 после двух периодов. Но то, что заслужил, забрал в конце матча. Мы с блеском вышли из неприятностей»"
-        },
-        {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-12-noyabrya-2026-metallurg-mg-avangard-salavat-yulaev-ak-bars-spartak-amur-vse-matchi-2473923/",
-          "title": "КХЛ, расписание и результаты 12 ноября: «Металлург» уступил «Авангарду», «Спартак» — «Амур». Все матчи"
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
+          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
         },
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6696802-bushe-o-problemah-s-nastroem-avangarda-uzhe-kak-chirlider-vystupayu-no-eto-natura-lyudej.html",
-          "title": "Буше — о проблемах с настроем «Авангарда»: уже как чирлидер выступаю, но это натура людей"
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/wta-2131258060.html",
+          "title": "Пегула сыграет с Андреевой в полуфинале итогового турнира WTA"
         },
         {
-          "source": "KHL",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWE8zblUtM3lpeEdGMjB3T0VQc2xJSFVwZ3lyMjJvYzVmSW1aRW92RXhUMm81MFJkS2dNSTd1TndsN1UzSVlLWnotZnVCR0JhS0lTY2VLV3paQQ?oc=5",
-          "title": "«Зелёное дерби» в Уфе, «Металлург» против «Авангарда». Превью 12 ноября: Новости"
+          "source": "Новости спорта",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzRnTzV1elh4NF9YeGtjOV90NTUxOTNOM1hQaldTX04zWENQLXhpTVZnUDRoZ19kZVh1V1piWTc1ajZ4NVpPMWFUS1Y4MS1FUEU4cWdNNTg4SGpuVzFJX3Z1UkdheEpjYW5QSnVvSURfMXNmVVNTcnV5UmUySzZSem1XMHphSmV3TmdUa01RcVpHal9sSmlrVTZnODFhaTl6dGFjdERYaGoyMm9RdWltUDlfLWNjSmFkMkp2eDRuaElfYWR1OVo3cGRZY20wbjFYdGtNWTZTNklTaW43QTU2SEJB?oc=5",
+          "title": "Пегула победила Носкову и сыграет с Андреевой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVRncHQwT2xlWDd3RjY5UVJRQl9TZVZEdnJEdC1iSnU5dk5NSW84bUdabFA4b2dWZnJkWUdMY0ZnU3pRRlpKOEZaNTV2R3U2cW54ZUVJWGh5VDdFWXptVmVsOGRENlZxMHRubHl2aUYxOFFfeDhPWVhkSEhVWV9lQVJrVUo2VjZGTDdGR2dsSFEtTDZONFhvX21YSFhITkl1NkFmdk9xSVlwOXdBbzlNWWRJYnBWbDNwdmxUa2N2NDFvNkdBQ3lFU2NJVm5IcTVHLVlV?oc=5",
+          "title": "Мирра Андреева обратилась к болельщикам после выхода в полуфинал Итогового турнира WTA"
         }
       ]
     },
     {
-      "key": "8928d5dee9",
-      "title": "Мазепин заявил, что готов договориться о проведении чемпионатов мира и Европы по водным видам спорта в России",
-      "summary": "Председатель Федерации водных видов спорта России (ФВВСР) Дмитрий Мазепин заявил о готовности договориться о проведении чемпионатов мира и Европы по водным видам спорта в России. Сегодня прошло заседание Совета по физической культуре и спорту при президенте РФ Владимире Путине. «В 2018 году, все мы помним, был чемпионат мира по футболу. Вами было принято решение, одобрена программа, когда по Росси",
+      "key": "8c9914a762",
+      "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру",
+      "summary": "У нападающего «Вашингтона» Александра Овечкина — вторая по продолжительности безголевая серия за всю карьеру в НХЛ, дубль форварда Франческо Эспозито помог сборной Италии обыграть Францию в Лиге наций, Федерация бокса России объявила об отказе от участия сборной в первенстве Европы.",
       "lang": "ru",
-      "sport": "football",
-      "outlets": 3,
+      "sport": "combat",
+      "outlets": 4,
       "growth": 0,
-      "heat": 10.24,
-      "published": "2026-11-12T17:38:00+00:00",
+      "heat": 10.64,
+      "published": "2026-11-13T05:30:04+00:00",
       "refs": [
         {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6697282-13-noyabrya-glavnye-novosti-sporta-futbol-hokkej-nhl-khl-rezultaty-basketbol-nba-boks-tennis-itogovyj-turnir-wta.html",
+          "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру"
+        },
+        {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/aquatics/1117434777-mazepin-zayavil-chto-gotov-dogovoritsya-o-provedenii-chempionatov-mira.html",
-          "title": "Мазепин заявил, что готов договориться о проведении чемпионатов мира и Европы по водным видам спорта в России"
+          "link": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html",
+          "title": "Камбьяги про 3:1 с Францией: «Этот матч должен стать отправной точкой для Италии. Мы никогда не сдаемся, нужно продолжать в том же духе. Я рад, что смог внести свой вклад»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/swimming/news/mazepin-zayavil-chto-gotov-dogovoritsya-o-provedenii-v-rossii-chempionata-mira-po-vodnym-vidam-sporta-2474166/",
-          "title": "Мазепин заявил, что готов договориться о проведении в России чемпионата мира по водным видам спорта"
+          "link": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-27-raspisanie-rezultaty-vseh-matchey-5-tura-italiya-franciya-angliya-horvatiya-portugaliya-daniya-12-14-noyabrya-2473925/",
+          "title": "Лига наций, расписание и результаты 5-го тура: Италия обыграла Францию, Англия победила Хорватию, Португалия — Дания. Все матчи 12-14 ноября"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261112/mazepin-2131208584.html",
-          "title": "Мазепин: мы договоримся о проведении в России ЧМ по водным видам спорта"
+          "link": "https://ria.ru/20261113/italiya-2131242683.html",
+          "title": "Италия обыграла Францию и возглавила таблицу группы в Лиге наций"
+        }
+      ]
+    },
+    {
+      "key": "eec2c347e4",
+      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+      "lang": "en",
+      "sport": "tennis",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.97,
+      "published": "2026-11-13T01:23:06+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+        },
+        {
+          "source": "Athlon Sports",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
+          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
         }
       ]
     },
@@ -70,7 +103,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.18,
+      "heat": 8.9,
       "published": "2026-11-12T06:16:07+00:00",
       "refs": [
         {
@@ -84,70 +117,42 @@
           "title": "Football match schedule today, November 12, 2026: Vietnam U23 vs Singapore U23"
         },
         {
+          "source": "JFA",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SnNoSnNHVTRFZ1JvUWtFLUhYYkJsSVJfbng2dTA0Vnl5RnJvN3JROXQ1VGhqSHd5bFl3ZjFIZmROXzNmZjhhdzBkVWJhZw?oc=5",
+          "title": "【Scouting Report】Brazil Look to the Next Generation as Ancelotti Begins New Chapter – MIZUHO BLUE CHALLENGE THE KALLANG FOOTBALL SERIES SINGAPORE"
+        },
+        {
           "source": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QLTdQLWRnTXoxYUtsVTM3QTJ5SzNCakRRMTY1dkE3M29VcEhxRWNHWmRtLXRWNC1aUnhmT3I3ZEh1Q1I5azB4ampOeEN2dlRPazBBY2wwREJNaGNTWjdtM3Q4eWpQbXd0LTNSelpELTZyYnZOeHJiZVVpa0Y?oc=5",
           "title": "CFA Team China Panda Cup International Youth Football Tournament: China U-19 vs. Vietnam U-19"
-        },
-        {
-          "source": "TOD",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTBhWEw3TEN0TUZsTVhGR2gyaG9NWFZNeGx3X1BJeHhxMnN3dFJCcVdxN195eWZVWExicjBiQmc1anFQbWF2c2phWGlCSGhKS3ZZSWg0Z2ZoSE0tQjBTYk9qTXdUUFkyekg4WGJOTUVfLU5aYWRBLVNDSFo1VXItWlZNZDBUZG14S1FWYlZVaHNSU1VjT19yVFFhTUU2Tk90eUNoRw?oc=5",
-          "title": "Vietnam vs Japan - Football Women's"
         }
       ]
     },
     {
-      "key": "44e9bafbc5",
-      "title": "Звезда НБА Стефен Карри пропустит минимум две недели из-за разрыва мышцы",
-      "summary": "Четырёхкратный чемпион Национальной баскетбольной ассоциации (НБА) в составе «Голден Стэйт Уорриорз» американец Стефен Карри пропустит минимум следующие две недели из-за разрыва косой мышцы живота.",
+      "key": "a89548bc01",
+      "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»",
+      "summary": "Продолжается регулярный чемпионат НХЛ. « Сиэтл » потерпел поражение от « Каролины » (1:4) в Хельсинки, « Нью-Джерси » обыграл « Вашингтон » (5:2), « Коламбус » уступил « Тампе » (1:3), « Миннесота » победил « Торонто » (5:2) в гостях, «Виннипег» разгромил «Даллас» (8:3). НХЛ ПРИМЕЧАНИЕ : время начала матчей – московское Таблица НХЛ Статистика НХЛ",
       "lang": "ru",
-      "sport": "basketball",
+      "sport": "hockey",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.19,
-      "published": "2026-11-12T17:20:27+00:00",
+      "heat": 8.88,
+      "published": "2026-11-13T06:00:00+00:00",
       "refs": [
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/basketball/news-6696808-zvezda-nba-stefen-karri-propustit-minimum-dve-nedeli-iz-za-razryva-myshcy.html",
-          "title": "Звезда НБА Стефен Карри пропустит минимум две недели из-за разрыва мышцы"
-        },
-        {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/basketball/1117434749-stefen-karri-propustit-kak-minimum-dve-nedeli-iz-za-razryva-myshczy-zh.html",
-          "title": "Стефен Карри пропустит как минимум две недели из-за разрыва мышцы живота"
+          "link": "https://www.sports.ru/hockey/1117434409-nxl-sietl-i-karolina-sygrayut-vashington-v-gostyax-u-nyu-dzhersi.html",
+          "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/basketball/nba/news/stefen-karri-poluchil-travmu-zhivota-v-matche-s-hyustonom-2473978/",
-          "title": "Стефен Карри получил травму живота в матче с «Хьюстоном»"
-        }
-      ]
-    },
-    {
-      "key": "f91a14f9ba",
-      "title": "Lindblad and Lawson to continue at Racing Bulls",
-      "summary": "Arvid Lindblad and Liam Lawson will continue as the drivers for Red Bull's second team Racing Bulls in 2027.",
-      "lang": "en",
-      "sport": "motorsport",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.75,
-      "published": "2026-11-12T16:02:16+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cw24epe29566o?at_medium=RSS&at_campaign=rss",
-          "title": "Lindblad and Lawson to continue at Racing Bulls"
+          "link": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-goda-2474281/",
+          "title": "«Вашингтон» проиграл «Нью-Джерси», у Овечкина «-1»"
         },
         {
-          "source": "Formula 1",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN3RKX2Q3V096ZHBKbm40S2RTUjNHVjlQY2JYSU5oZTZxX04yOE1sZ2xzUVNpQWE0LXpIa2FOX2ZfRWRLTmNXR0JsYkJXTFczdDJTc01vdkNNUkl6bzVPdklNRmU0MEdBV0E0MWtGTkJhNGxXZjk2dFFKT0ZkeXF4RXlEREg3Um9vT1JvX1A0RWlrb2FoTEZpRVNiUEc0ZzBvNUcyUThjMjMyeHk5d3JDemFLWG9tSlc5Sm1Jd1o4RGZQVUt1WVU5bEozbkh2N0J2Tlo4VXU2dlI2Z1lzNHBPUnFES0JSa1otMkE?oc=5",
-          "title": "Lawson and Lindblad to remain at Racing Bulls for 2027 as team confirm unchanged line-up"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/f1/news/12040/13610206/racing-bulls-confirm-liam-lawson-and-arvid-lindblad-as-2027-formula-1-driver-line-up",
-          "title": "Racing Bulls confirm 2027 line-up"
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/khokkey-2131254044.html",
+          "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
         }
       ]
     }
@@ -1222,7 +1227,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.18,
+      "heat": 8.9,
       "published": "2026-11-12T06:16:07+00:00",
       "refs": [
         {
@@ -1236,14 +1241,14 @@
           "title": "Football match schedule today, November 12, 2026: Vietnam U23 vs Singapore U23"
         },
         {
+          "source": "JFA",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SnNoSnNHVTRFZ1JvUWtFLUhYYkJsSVJfbng2dTA0Vnl5RnJvN3JROXQ1VGhqSHd5bFl3ZjFIZmROXzNmZjhhdzBkVWJhZw?oc=5",
+          "title": "【Scouting Report】Brazil Look to the Next Generation as Ancelotti Begins New Chapter – MIZUHO BLUE CHALLENGE THE KALLANG FOOTBALL SERIES SINGAPORE"
+        },
+        {
           "source": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QLTdQLWRnTXoxYUtsVTM3QTJ5SzNCakRRMTY1dkE3M29VcEhxRWNHWmRtLXRWNC1aUnhmT3I3ZEh1Q1I5azB4ampOeEN2dlRPazBBY2wwREJNaGNTWjdtM3Q4eWpQbXd0LTNSelpELTZyYnZOeHJiZVVpa0Y?oc=5",
           "title": "CFA Team China Panda Cup International Youth Football Tournament: China U-19 vs. Vietnam U-19"
-        },
-        {
-          "source": "TOD",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTBhWEw3TEN0TUZsTVhGR2gyaG9NWFZNeGx3X1BJeHhxMnN3dFJCcVdxN195eWZVWExicjBiQmc1anFQbWF2c2phWGlCSGhKS3ZZSWg0Z2ZoSE0tQjBTYk9qTXdUUFkyekg4WGJOTUVfLU5aYWRBLVNDSFo1VXItWlZNZDBUZG14S1FWYlZVaHNSU1VjT19yVFFhTUU2Tk90eUNoRw?oc=5",
-          "title": "Vietnam vs Japan - Football Women's"
         }
       ]
     },
@@ -1653,9 +1658,225 @@
           "title": "Racing Bulls confirm 2027 line-up"
         }
       ]
+    },
+    "e0541de97b": {
+      "key": "e0541de97b",
+      "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
+      "summary": "Российская теннисистка Мирра Андреева встретится с американкой Джессикой Пегулой в полуфинале Итогового турнира WTA в Индиан-Уэллсе (США).",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.51,
+      "published": "2026-11-13T05:10:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
+          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/wta-2131258060.html",
+          "title": "Пегула сыграет с Андреевой в полуфинале итогового турнира WTA"
+        },
+        {
+          "source": "Новости спорта",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzRnTzV1elh4NF9YeGtjOV90NTUxOTNOM1hQaldTX04zWENQLXhpTVZnUDRoZ19kZVh1V1piWTc1ajZ4NVpPMWFUS1Y4MS1FUEU4cWdNNTg4SGpuVzFJX3Z1UkdheEpjYW5QSnVvSURfMXNmVVNTcnV5UmUySzZSem1XMHphSmV3TmdUa01RcVpHal9sSmlrVTZnODFhaTl6dGFjdERYaGoyMm9RdWltUDlfLWNjSmFkMkp2eDRuaElfYWR1OVo3cGRZY20wbjFYdGtNWTZTNklTaW43QTU2SEJB?oc=5",
+          "title": "Пегула победила Носкову и сыграет с Андреевой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVRncHQwT2xlWDd3RjY5UVJRQl9TZVZEdnJEdC1iSnU5dk5NSW84bUdabFA4b2dWZnJkWUdMY0ZnU3pRRlpKOEZaNTV2R3U2cW54ZUVJWGh5VDdFWXptVmVsOGRENlZxMHRubHl2aUYxOFFfeDhPWVhkSEhVWV9lQVJrVUo2VjZGTDdGR2dsSFEtTDZONFhvX21YSFhITkl1NkFmdk9xSVlwOXdBbzlNWWRJYnBWbDNwdmxUa2N2NDFvNkdBQ3lFU2NJVm5IcTVHLVlV?oc=5",
+          "title": "Мирра Андреева обратилась к болельщикам после выхода в полуфинал Итогового турнира WTA"
+        }
+      ]
+    },
+    "8c9914a762": {
+      "key": "8c9914a762",
+      "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру",
+      "summary": "У нападающего «Вашингтона» Александра Овечкина — вторая по продолжительности безголевая серия за всю карьеру в НХЛ, дубль форварда Франческо Эспозито помог сборной Италии обыграть Францию в Лиге наций, Федерация бокса России объявила об отказе от участия сборной в первенстве Европы.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.64,
+      "published": "2026-11-13T05:30:04+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6697282-13-noyabrya-glavnye-novosti-sporta-futbol-hokkej-nhl-khl-rezultaty-basketbol-nba-boks-tennis-itogovyj-turnir-wta.html",
+          "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html",
+          "title": "Камбьяги про 3:1 с Францией: «Этот матч должен стать отправной точкой для Италии. Мы никогда не сдаемся, нужно продолжать в том же духе. Я рад, что смог внести свой вклад»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-27-raspisanie-rezultaty-vseh-matchey-5-tura-italiya-franciya-angliya-horvatiya-portugaliya-daniya-12-14-noyabrya-2473925/",
+          "title": "Лига наций, расписание и результаты 5-го тура: Италия обыграла Францию, Англия победила Хорватию, Португалия — Дания. Все матчи 12-14 ноября"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/italiya-2131242683.html",
+          "title": "Италия обыграла Францию и возглавила таблицу группы в Лиге наций"
+        }
+      ]
+    },
+    "eec2c347e4": {
+      "key": "eec2c347e4",
+      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+      "lang": "en",
+      "sport": "tennis",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.97,
+      "published": "2026-11-13T01:23:06+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+        },
+        {
+          "source": "Athlon Sports",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
+          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+        }
+      ]
+    },
+    "a89548bc01": {
+      "key": "a89548bc01",
+      "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»",
+      "summary": "Продолжается регулярный чемпионат НХЛ. « Сиэтл » потерпел поражение от « Каролины » (1:4) в Хельсинки, « Нью-Джерси » обыграл « Вашингтон » (5:2), « Коламбус » уступил « Тампе » (1:3), « Миннесота » победил « Торонто » (5:2) в гостях, «Виннипег» разгромил «Даллас» (8:3). НХЛ ПРИМЕЧАНИЕ : время начала матчей – московское Таблица НХЛ Статистика НХЛ",
+      "lang": "ru",
+      "sport": "hockey",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.88,
+      "published": "2026-11-13T06:00:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117434409-nxl-sietl-i-karolina-sygrayut-vashington-v-gostyax-u-nyu-dzhersi.html",
+          "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-goda-2474281/",
+          "title": "«Вашингтон» проиграл «Нью-Джерси», у Овечкина «-1»"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/khokkey-2131254044.html",
+          "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
+        }
+      ]
     }
   },
   "sent": [
+    {
+      "key": "e0541de97b",
+      "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
+      "summary": "Российская теннисистка Мирра Андреева встретится с американкой Джессикой Пегулой в полуфинале Итогового турнира WTA в Индиан-Уэллсе (США).",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.51,
+      "published": "2026-11-13T05:10:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
+          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/wta-2131258060.html",
+          "title": "Пегула сыграет с Андреевой в полуфинале итогового турнира WTA"
+        },
+        {
+          "source": "Новости спорта",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzRnTzV1elh4NF9YeGtjOV90NTUxOTNOM1hQaldTX04zWENQLXhpTVZnUDRoZ19kZVh1V1piWTc1ajZ4NVpPMWFUS1Y4MS1FUEU4cWdNNTg4SGpuVzFJX3Z1UkdheEpjYW5QSnVvSURfMXNmVVNTcnV5UmUySzZSem1XMHphSmV3TmdUa01RcVpHal9sSmlrVTZnODFhaTl6dGFjdERYaGoyMm9RdWltUDlfLWNjSmFkMkp2eDRuaElfYWR1OVo3cGRZY20wbjFYdGtNWTZTNklTaW43QTU2SEJB?oc=5",
+          "title": "Пегула победила Носкову и сыграет с Андреевой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVRncHQwT2xlWDd3RjY5UVJRQl9TZVZEdnJEdC1iSnU5dk5NSW84bUdabFA4b2dWZnJkWUdMY0ZnU3pRRlpKOEZaNTV2R3U2cW54ZUVJWGh5VDdFWXptVmVsOGRENlZxMHRubHl2aUYxOFFfeDhPWVhkSEhVWV9lQVJrVUo2VjZGTDdGR2dsSFEtTDZONFhvX21YSFhITkl1NkFmdk9xSVlwOXdBbzlNWWRJYnBWbDNwdmxUa2N2NDFvNkdBQ3lFU2NJVm5IcTVHLVlV?oc=5",
+          "title": "Мирра Андреева обратилась к болельщикам после выхода в полуфинал Итогового турнира WTA"
+        }
+      ]
+    },
+    {
+      "key": "8c9914a762",
+      "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру",
+      "summary": "У нападающего «Вашингтона» Александра Овечкина — вторая по продолжительности безголевая серия за всю карьеру в НХЛ, дубль форварда Франческо Эспозито помог сборной Италии обыграть Францию в Лиге наций, Федерация бокса России объявила об отказе от участия сборной в первенстве Европы.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.64,
+      "published": "2026-11-13T05:30:04+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6697282-13-noyabrya-glavnye-novosti-sporta-futbol-hokkej-nhl-khl-rezultaty-basketbol-nba-boks-tennis-itogovyj-turnir-wta.html",
+          "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html",
+          "title": "Камбьяги про 3:1 с Францией: «Этот матч должен стать отправной точкой для Италии. Мы никогда не сдаемся, нужно продолжать в том же духе. Я рад, что смог внести свой вклад»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-27-raspisanie-rezultaty-vseh-matchey-5-tura-italiya-franciya-angliya-horvatiya-portugaliya-daniya-12-14-noyabrya-2473925/",
+          "title": "Лига наций, расписание и результаты 5-го тура: Италия обыграла Францию, Англия победила Хорватию, Португалия — Дания. Все матчи 12-14 ноября"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/italiya-2131242683.html",
+          "title": "Италия обыграла Францию и возглавила таблицу группы в Лиге наций"
+        }
+      ]
+    },
+    {
+      "key": "eec2c347e4",
+      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+      "lang": "en",
+      "sport": "tennis",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.97,
+      "published": "2026-11-13T01:23:06+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+        },
+        {
+          "source": "Athlon Sports",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
+          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+        }
+      ]
+    },
     {
       "key": "5e6bcd98bb",
       "title": "Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On?",
@@ -1663,8 +1884,8 @@
       "lang": "en",
       "sport": "football",
       "outlets": 4,
-      "growth": -1,
-      "heat": 10.43,
+      "growth": 0,
+      "heat": 8.9,
       "published": "2026-11-12T06:16:07+00:00",
       "refs": [
         {
@@ -1678,130 +1899,46 @@
           "title": "Football match schedule today, November 12, 2026: Vietnam U23 vs Singapore U23"
         },
         {
+          "source": "JFA",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SnNoSnNHVTRFZ1JvUWtFLUhYYkJsSVJfbng2dTA0Vnl5RnJvN3JROXQ1VGhqSHd5bFl3ZjFIZmROXzNmZjhhdzBkVWJhZw?oc=5",
+          "title": "【Scouting Report】Brazil Look to the Next Generation as Ancelotti Begins New Chapter – MIZUHO BLUE CHALLENGE THE KALLANG FOOTBALL SERIES SINGAPORE"
+        },
+        {
           "source": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QLTdQLWRnTXoxYUtsVTM3QTJ5SzNCakRRMTY1dkE3M29VcEhxRWNHWmRtLXRWNC1aUnhmT3I3ZEh1Q1I5azB4ampOeEN2dlRPazBBY2wwREJNaGNTWjdtM3Q4eWpQbXd0LTNSelpELTZyYnZOeHJiZVVpa0Y?oc=5",
           "title": "CFA Team China Panda Cup International Youth Football Tournament: China U-19 vs. Vietnam U-19"
-        },
-        {
-          "source": "TOD",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTBhWEw3TEN0TUZsTVhGR2gyaG9NWFZNeGx3X1BJeHhxMnN3dFJCcVdxN195eWZVWExicjBiQmc1anFQbWF2c2phWGlCSGhKS3ZZSWg0Z2ZoSE0tQjBTYk9qTXdUUFkyekg4WGJOTUVfLU5aYWRBLVNDSFo1VXItWlZNZDBUZG14S1FWYlZVaHNSU1VjT19yVFFhTUU2Tk90eUNoRw?oc=5",
-          "title": "Vietnam vs Japan - Football Women's"
         }
       ]
     },
     {
-      "key": "85feac9464",
-      "title": "Crystal Palace sack Sage",
-      "summary": "Crystal Palace have sacked manager Pierre Sage after just 16 matches.",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.97,
-      "published": "2026-11-12T12:30:00+00:00",
-      "refs": [
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/news/12040/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches",
-          "title": "Crystal Palace sack Sage"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
-          "title": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank"
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-          "title": "Palace sack Sage after 16 games with Frank in advanced talks"
-        }
-      ]
-    },
-    {
-      "key": "fe1465531e",
-      "title": "Россиянка Дарья Семьянова завоевала бронзу в трапе на чемпионате мира по стрельбе",
-      "summary": "Россиянка Дарья Семьянова завоевала бронзу в дисциплине «трап» на чемпионате мира по пулевой и стендовой стрельбе в Дохе. В финале спортсменка поразила 19 мишеней. Победила итальянка Джессика Росси с результатом 27 попаданий, серебряным призером стала представительница Гватемалы Адриана Руано Олива, поразившая 26 мишеней. Чемпионат мира проходит с 1 по 14 ноября. Россияне допущены к соревнованиям ",
+      "key": "a89548bc01",
+      "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»",
+      "summary": "Продолжается регулярный чемпионат НХЛ. « Сиэтл » потерпел поражение от « Каролины » (1:4) в Хельсинки, « Нью-Джерси » обыграл « Вашингтон » (5:2), « Коламбус » уступил « Тампе » (1:3), « Миннесота » победил « Торонто » (5:2) в гостях, «Виннипег» разгромил «Даллас» (8:3). НХЛ ПРИМЕЧАНИЕ : время начала матчей – московское Таблица НХЛ Статистика НХЛ",
       "lang": "ru",
-      "sport": "olympic",
+      "sport": "hockey",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.75,
-      "published": "2026-11-12T14:49:00+00:00",
+      "heat": 8.88,
+      "published": "2026-11-13T06:00:00+00:00",
       "refs": [
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/shooting/1117434567-rossiyanka-darya-semyanova-zavoevala-bronzu-v-trape-na-chempionate-mir.html",
-          "title": "Россиянка Дарья Семьянова завоевала бронзу в трапе на чемпионате мира по стрельбе"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261112/semjanova-2131116141.html",
-          "title": "Семьянова завоевала бронзу чемпионата мира по стендовой стрельбе в трапе"
+          "link": "https://www.sports.ru/hockey/1117434409-nxl-sietl-i-karolina-sygrayut-vashington-v-gostyax-u-nyu-dzhersi.html",
+          "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/shooting/news/semyanova-stala-tretey-na-chempionate-mira-po-strelbe-i-zavoevala-kvotu-na-olimpiadu-2474047/",
-          "title": "Семьянова стала третьей на чемпионате мира по стрельбе и завоевала квоту на Олимпиаду"
-        }
-      ]
-    },
-    {
-      "key": "5d02734468",
-      "title": "Финляндия с 16 ноября введет ограничения на въезд российских спортсменов",
-      "summary": "Финляндия с 16 ноября введет ограничения на въезд российских спортсменов Sportbox Финляндия ужесточит правила въезда для российских спортсменов с 16 ноября Спорт Mail В ISU запросили дополнительные разъяснения у Федерации фигурного катания Финляндии по ситуации с участием российских спортсменов Sportbox В России ответили на решение Финляндии ужесточить правила въезда россиян RTVI Финляндия, где пр",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.25,
-      "published": "2026-11-12T14:15:37+00:00",
-      "refs": [
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmEzdXhwS2t5ZnJST05BTjJ6R0pyc0k0T24xVHRYV2pjdG85bm9xQ3pqT1pwZE94clJwOHVBSWRqV2RKLWl5SE1tTE9YSnVYV1pZekdTcV9JN0M4NXh3ZV9EMkZoT1VERFpsNkJIekpsQUJXZmNuZVNMRWFPM0ZUZVd5dXdhcEhkLV8wVjJUNTlHMklaaDI0aV9TRFFfYjJCTDNjZ1lXbm5wLXJ5bUV4MktzT2gyVmtfQm1HaG5CMFY2SzVsOXlsWnJLTmRTT2NINV9tZA?oc=5",
-          "title": "Финляндия с 16 ноября введет ограничения на въезд российских спортсменов"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/finlyandiya-s-16-noyabrya-ogranichivaet-vezd-rossiyskih-sportsmenov-2474066/",
-          "title": "Финляндия с 16 ноября ограничивает въезд российских спортсменов"
+          "link": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-goda-2474281/",
+          "title": "«Вашингтон» проиграл «Нью-Джерси», у Овечкина «-1»"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261112/finlyandiya-2131119717.html",
-          "title": "Финляндия вводит новые ограничения на въезд россиян, включая спортсменов"
-        }
-      ]
-    },
-    {
-      "key": "a109a6c599",
-      "title": "Медведев попал в группу с Алькарасом, Коболли и Тиафо на Итоговом турнире ATP",
-      "summary": "Медведев попал в группу с Алькарасом, Коболли и Тиафо на Итоговом турнире ATP Sportbox Определились соперники Медведева на Итоговом турнире ATP Forbes.ru Определились соперники Даниила Медведева в группе на Итоговом турнире ATP Советский спорт Медведев попал в группу к Алькарасу! Там же сыграют Коболли и Тиафо. Жеребьёвка Итогового https://www.championat.ru/ Ольховский оценил жеребьёвку Итогового ",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.18,
-      "published": "2026-11-12T13:39:11+00:00",
-      "refs": [
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNEZIdlNTM0dnekdUTUNuUXdEWHJmZnFpNHJrWk53UlFvTzVIcDFIWU4zTWRWcnktb2ZEWjc3aEVoQm05dk5lNGhTTEFNRzBDR2JrRWtqVHQ3ZmZRQXNQUFVObkFjYjVtbHROazRiWXRGQWRQWnFhd2YtQVRsU3NMRE9zMUQ5RFBjZEg2ZHNtMXhLZzBKb3VJR2lyRFBxMTFOVy1JQ1RmckM4Qm5yVEQ2eUtrUHBoelhmOEM2SHNNOE9LVXhzNmhTNUoxUWhJdUM4dW1ORFdrbXQ?oc=5",
-          "title": "Медведев попал в группу с Алькарасом, Коболли и Тиафо на Итоговом турнире ATP"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/atp/news/itogovyy-turnir-atr-medvedev-sygraet-v-gruppe-s-alkarasom-i-drugie-itogi-rezultaty-zherebevki-12-noyabrya-2026-2474059/",
-          "title": "Медведев сыграет в группе с Алькарасом на Итоговом турнире"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261112/medvedev-2131123104.html",
-          "title": "Медведев сыграет с Алькарасом на Итоговом турнире ATP"
+          "link": "https://ria.ru/20261113/khokkey-2131254044.html",
+          "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
         }
       ]
     }
   ],
-  "sent_at": "2026-11-12T15:16:33+00:00",
+  "sent_at": "2026-11-13T06:33:01+00:00",
   "tg_offset": 360028013
 }
