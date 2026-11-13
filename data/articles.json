@@ -1,5 +1,124 @@
 [
   {
+    "id": "2026-11-13-news-a068e9",
+    "slug": "pegula-saves-match-point-to-beat-noskova-and-reach-wta-final",
+    "date": "2026-11-13",
+    "created": "2026-11-13T13:42:35+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Tennis",
+    "tags": [
+      "WTA Finals",
+      "Jessica Pegula",
+      "Linda Noskova",
+      "Coco Gauff",
+      "Mirra Andreeva",
+      "Marta Kostyuk",
+      "Indian Wells"
+    ],
+    "athletes": [
+      "Jessica Pegula",
+      "Linda Noskova",
+      "Coco Gauff",
+      "Mirra Andreeva",
+      "Marta Kostyuk",
+      "Elena Rybakina",
+      "Elina Svitolina",
+      "Aryna Sabalenka"
+    ],
+    "image_subjects": [
+      "Jessica Pegula",
+      "Linda Noskova",
+      "Coco Gauff",
+      "WTA Finals"
+    ],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits",
+        "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells"
+      },
+      {
+        "title": "Athlon Sports: What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.003,
+      "longest": 8,
+      "phrases": [
+        "7 6 7 2 4 6 7 5"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Pegula Saves Match Point to Beat Noskova and Reach WTA Finals Last Four",
+      "subheadline": "American veteran overcomes a match point in a fluctuating contest to knock out Coco Gauff and set up a semi-final clash with Mirra Andreeva.",
+      "body_markdown": "## What happened\nJessica Pegula secured her place in the WTA Finals semi-finals on Thursday by saving a match point to defeat Wimbledon champion Linda Noskova 7-6 (7-2), 4-6, 7-5. Pegula entered the court knowing only a victory would keep her tournament alive following Coco Gauff's earlier win over Marta Kostyuk. The American displayed strong mental resilience across a two-hour and 45-minute battle in the California desert, ultimately eliminating Gauff on set differentials after three players finished the round-robin stage with 2-1 records.\n\n## Why it is being talked about\nThe group stage concluded with Noskova, Pegula, and Gauff all tied at 2-1, requiring set counts to determine advancement. Noskova topped the group with a 5-2 set record, while Pegula advanced in second place at 5-3, leaving Gauff's 4-3 record short of qualification. The dramatic finish also sets up an anticipated semi-final meeting between Pegula and French Open champion Mirra Andreeva. Prior to the tournament, Pegula accidentally had private practice remarks about Andreeva livestreamed, though she later apologized and praised her upcoming opponent.\n\n## Key facts and numbers\nPegula struck a career-high 16 aces during the match—the most she has ever produced in a WTA Tour fixture—while overcoming Noskova's aggressive third-set break and match point at 5-4. Conversely, Noskova struggled with her delivery, committing 15 double faults against nine aces. The tournament is being held at Indian Wells after being relocated from Riyadh. Earlier in the day, world number four Gauff overcame a lower back injury and a 5-1 deficit in the second set to defeat alternate Marta Kostyuk 6-4, 7-5. Kostyuk finished her campaign 0-3 after replacing the withdrawn Elena Rybakina while managing a wrist injury.\n\n## What happens next\nNoskova advances to face either Elina Svitolina or Aryna Sabalenka in Saturday's semi-finals. Pegula moves on to face Mirra Andreeva in what will be the first career singles meeting between the two players.",
+      "social_post": "Jessica Pegula saves a match point to defeat Linda Noskova 7-6 (7-2), 4-6, 7-5, reaching the WTA Finals semi-finals and eliminating Coco Gauff. She now faces Mirra Andreeva on Saturday. What are your predictions for the last four? #WTAFinals #Tennis #JessicaPegula #MirraAndreeva"
+    },
+    "zh": {
+      "headline": "挽救赛点险胜诺斯科娃，佩古拉挺进WTA年终总决赛四强",
+      "subheadline": "美国老将在局势跌宕起伏的鏖战中化解赛点，力压高芙晋级，半决赛将迎战米拉·安德烈娃。",
+      "body_markdown": "## 战况回顾\n周四，杰西卡·佩古拉（Jessica Pegula）在WTA年终总决赛中上演惊险好戏，她挽救了一个赛点，以7-6 (7-2)、4-6、7-5力克温网冠军琳达·诺斯科娃（Linda Noskova），锁定一个四强席位。在此之前，高芙已经击败了玛尔塔·科斯秋克，这意味着佩古拉唯有取胜才能将晋级悬念延续。这场在加州沙漠进行的对决长达2小时45分钟，美国老将展现出了钢铁般的意志，最终在三人同为2胜1负的小组赛后，凭借净胜盘优势将高芙挤出局。\n\n## 焦点所在\n小组赛战罢，诺斯科娃、佩古拉和高芙的战绩同为2胜1负，只能通过计算净胜盘来决定出线归属。诺斯科娃以5胜2负的盘分高居小组头名，佩古拉则以5胜3负惊险以小组第二晋级，高芙4胜3负遗憾出局。戏剧性的结局也为接下来的半决赛埋下了伏笔——佩古拉将对阵法网冠军米拉·安德烈娃（Mirra Andreeva）。值得一提的是，本届赛事开打前，佩古拉曾因直播泄露了私下对安德烈娃的训练评价而引发小插曲，事后她已公开道歉并对这位年轻对手赞不绝口。\n\n## 关键数据\n本场比赛中，佩古拉轰出了职业生涯单场新高的16记ACE球，这也是她WTA巡回赛历史上单场发球直接得分纪录的巅峰。面对诺斯科娃在决胜盘凶猛的破发以及第5局（5-4时）的赛点，她顶住压力完成了逆转。相比之下，诺斯科娃的发球状态起伏不定，全场送出15个双误，仅有9记ACE。本届总决赛在移师印第安维尔斯后举办（注：原定利雅得）。而在早些时候的比赛中，世界排名第四的高芙克服了腰部伤势，并在第二盘1-5落后的绝境下上演大翻盘，以6-4、7-5击败替补出战的科斯秋克。由于 Елена Рыбаkina（叶莲娜·莱巴金娜）退赛，带伤作战的科斯秋克最终以0胜3负结束了本次总决赛之旅。\n\n## 下一步看点\n诺斯科娃将在周六的半决赛中对阵埃莉娜·斯维托丽娜（Elina Svitolina）与阿瑞娜·萨巴伦卡（Aryna Sabalenka）之间的胜者。而佩古拉则将与米拉·安德烈娃狭路相逢，这将是两人职业生涯在单打赛场上的首次直接对话。",
+      "social_post": "杰西卡·佩古拉挽救赛点，以7-6 (7-2)、4-6、7-5击败琳达·诺斯科娃，杀入WTA年终总决赛四强并淘汰了高芙。她将在周六对阵米拉·安德烈娃。你看好谁能突围？#WTA年终总决赛 #网球 #杰西卡·佩古拉 #米拉·安德烈娃"
+    },
+    "ru": {
+      "headline": "Пегула отыграла матчбол у Носковой и вышла в полуфинал Итогового турнира WTA",
+      "subheadline": "Американская ветеранка вырвала победу в драматичном матче, оставила за бортом плей-офф Коко Гауфф и теперь встретится с Миррой Андреевой.",
+      "body_markdown": "## Как развивались события\nВ четверг Джессика Пегула пробилась в полуфинал Итогового турнира WTA, отыграв матчбол и победив чемпионку Уимблдона Линду Носкову со счетом 7:6 (7:2), 4:6, 7:5. Пегула выходила на корт, зная, что только победа сохранит ей шансы на продолжение борьбы — ранее Коко Гауфф переиграла Марту Костюк. Америкалка проявила железную выдержку в 2-часовом и 45-минутном сражении в калифорнийской пустыне и в итоге обошла Гауфф по разнице сетов после того, как сразу три теннисистки завершили групповой этап с балансом 2-1.\n\n## Главные интриги\nГруппа завершилась тройным равенством (2-1 у Носковой, Пегулы и Гауфф), так что судьбу путевок решали дополнительные показатели. Носкова стала первой в квартете с разницей сетов 5-2, Пегула прошла со второго места (5-3), а 4-3 Гауфф не хватило для выхода из группы. Такая развязка подарила болельщикам долгожданный полуфинал между Пегулой и чемпионкой «Ролан Гаррос» Миррой Андреевой. Напомним, перед началом турнира в сеть случайно попали частные высказывания Пегулы об Андреевой с тренировки, за которые американка позже извинилась, попутно расхвалив будущую соперницу.\n\n## Цифры и факты\nПегула выполнила 16 эйсов — это ее личный карьерный рекорд за один матч на уровне WTA. По ходу решающего сета она отыграла брейк и матчбол при счете 5:4 в пользу Носковой. Сама же чешка испытывала проблемы на собственной подаче, совершив 15 двойных ошибок при 9 эйсах. Турнир проходит в Индиан-Уэллсе после переноса из Эр-Рияда. Ранее в тот же день четвертая ракетка мира Коко Гауфф преодолела последствия травмы поясницы и отыгралась со счета 1:5 во втором сете в матче против запасной Марты Костюк — 6:4, 7:5. Костюк завершила выступление с балансом 0-3, заменив снявшуюся с турнира Елену Рыбакину и параллельно залечивая травму запястья.\n\n## Что дальше\nВ полуфинале в субботу Носкова сыграет против победительницы матча между Элиной Свитолиной и Ариной Соболенко. Пегула же сразится с Миррой Андреевой в первом очном поединке в одиночном разряде за всю карьеру обеих теннисисток.",
+      "social_post": "Джессика Пегула отыгрывает матчбол у Линды Носковой (7:6, 4:6, 7:5), выходит в полуфинал WTA Finals и выбивает Коко Гауфф! В субботу ее ждет встреча с Миррой Андреевой. Ваши прогнозы на финалисток? #WTAFinals #Tennis #JessicaPegula #MirraAndreeva"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "eec2c347e4",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Jessica_Pegula_(2025_DC_Open)_01_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Jessica Pegula at practice ahead of the 2025 Washington Open",
+        "width": 1200,
+        "height": 1698,
+        "year": 2025,
+        "subject": "Jessica Pegula"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Linda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg/1280px-Linda_Noskov%C3%A1_%282023_US_Open%29_01_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Linda_Noskov%C3%A1_(2023_US_Open)_01_(cropped2).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Linda Nosková playing in the first round of the 2023 US Open",
+        "width": 1200,
+        "height": 1600,
+        "year": 2023,
+        "subject": "Linda Nosková"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Coco Gauff during the 2026 Miami Open women's singles final.",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Coco Gauff"
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-13-athl-12aaf2",
     "slug": "sorn-seavmey-the-path-of-cambodia-s-taekwondo-pioneer",
     "date": "2026-11-13",
