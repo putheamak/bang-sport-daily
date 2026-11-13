@@ -5,7 +5,7 @@
     "date": "2026-11-13",
     "created": "2026-11-13T13:51:55+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -39,7 +39,20 @@
         "url": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-13T14:40:30+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-13T14:40:31+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-13T14:40:31+07:00"
+      }
+    ],
     "en": {
       "headline": "Pio Esposito Double Helps Italy Beat France 3-1 and Hand Zidane His First Defeat",
       "subheadline": "Italy came from behind at San Siro to go top of Nations League Group A1 on head-to-head, with one round of group matches left.",
@@ -85,7 +98,8 @@
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-13T14:40:31+07:00"
   },
   {
     "id": "2026-11-13-news-da03de",
@@ -93,7 +107,7 @@
     "date": "2026-11-13",
     "created": "2026-11-13T13:51:55+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "ice hockey",
     "tags": [
@@ -126,7 +140,20 @@
         "url": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-13T14:40:32+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-13T14:40:32+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-13T14:40:33+07:00"
+      }
+    ],
     "en": {
       "headline": "Ovechkin's Goal Drought Reaches 12 Games as Devils Beat Capitals 5-2",
       "subheadline": "In his announced final season, the NHL's all-time leading goalscorer has one goal in 17 games, close to the longest drought of his career.",
@@ -179,7 +206,8 @@
         "area": "photos",
         "msg": "Cover photo is from 2020. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "published_at": "2026-11-13T14:40:33+07:00"
   },
   {
     "id": "2026-11-13-news-211d3b",
@@ -187,7 +215,7 @@
     "date": "2026-11-13",
     "created": "2026-11-13T13:51:55+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -216,7 +244,20 @@
         "url": "https://dantri.com.vn/the-thao/u23-viet-nam-0-0-u23-singapore-het-hiep-1-chua-the-co-ban-thang-20261112180724381.htm"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-13T14:40:33+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-13T14:40:34+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-13T14:40:34+07:00"
+      }
+    ],
     "en": {
       "headline": "Substitute Bao Long Sends Vietnam U23 Past Singapore and to the Brink of the VTV Cup Title",
       "subheadline": "Vietnam won 1-0 in Pleiku for a second straight win and need only a draw against Qatar on Saturday to lift the trophy.",
@@ -257,7 +298,8 @@
         "area": "photos",
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "published_at": "2026-11-13T14:40:34+07:00"
   },
   {
     "id": "2026-11-13-news-a068e9",
@@ -265,7 +307,7 @@
     "date": "2026-11-13",
     "created": "2026-11-13T13:42:35+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Tennis",
     "tags": [
@@ -304,7 +346,20 @@
         "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-13T14:40:35+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-13T14:40:35+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-13T14:40:36+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.003,
       "longest": 8,
@@ -377,7 +432,8 @@
     "lang_updated": {
       "zh": "2026-11-13T13:51:55+07:00",
       "ru": "2026-11-13T13:51:55+07:00"
-    }
+    },
+    "published_at": "2026-11-13T14:40:36+07:00"
   },
   {
     "id": "2026-11-13-athl-12aaf2",
