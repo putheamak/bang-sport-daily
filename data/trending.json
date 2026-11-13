@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-13T06:33:01+00:00",
+  "updated": "2026-11-13T08:46:41+00:00",
   "stories": [
+    {
+      "key": "eec2c347e4",
+      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+      "lang": "en",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 1,
+      "heat": 12.25,
+      "published": "2026-11-13T01:23:06+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/tennis/news/12040/13611773/wta-finals-jessica-pegula-saves-match-8204point-in-stunning-win-over-linda-noskova-to-send-coco-gauff-out-and-set-up-mirra-andreeva-clash",
+          "title": "'It's the match people wanted' - Pegula to face Andreeva at WTA Finals"
+        },
+        {
+          "source": "Athlon Sports",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
+          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+        }
+      ]
+    },
     {
       "key": "e0541de97b",
       "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
@@ -9,7 +42,7 @@
       "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.51,
+      "heat": 11.28,
       "published": "2026-11-13T05:10:00+00:00",
       "refs": [
         {
@@ -35,63 +68,58 @@
       ]
     },
     {
-      "key": "8c9914a762",
-      "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру",
-      "summary": "У нападающего «Вашингтона» Александра Овечкина — вторая по продолжительности безголевая серия за всю карьеру в НХЛ, дубль форварда Франческо Эспозито помог сборной Италии обыграть Францию в Лиге наций, Федерация бокса России объявила об отказе от участия сборной в первенстве Европы.",
+      "key": "8254ff27f1",
+      "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»",
+      "summary": "Бывший нападающий сборной России Максим Сушинский в разговоре с «СЭ» отреагировал на информацию о решении правительства Канады не допускать сборную России на молодежный чемпионат мира 2027 года. Турнир пройдет в Эдмонтоне и Ред-Дире (провинция Альберта, Канада).",
       "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
+      "sport": null,
+      "outlets": 3,
       "growth": 0,
-      "heat": 10.64,
-      "published": "2026-11-13T05:30:04+00:00",
+      "heat": 9.0,
+      "published": "2026-11-13T08:35:00+00:00",
       "refs": [
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6697282-13-noyabrya-glavnye-novosti-sporta-futbol-hokkej-nhl-khl-rezultaty-basketbol-nba-boks-tennis-itogovyj-turnir-wta.html",
-          "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/world-u20/news/maksim-sushinskiy-zhestko-otreagiroval-na-otkaz-kanady-dopuskat-rossiyu-na-mchm-2027-zdravyy-smysl-u-lyudey-ne-poyavilsya-2474382/",
+          "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»"
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html",
-          "title": "Камбьяги про 3:1 с Францией: «Этот матч должен стать отправной точкой для Италии. Мы никогда не сдаемся, нужно продолжать в том же духе. Я рад, что смог внести свой вклад»"
+          "link": "https://www.sports.ru/hockey/1117435269-sushinskij-pro-mchm-2027-v-rossiyu-nado-perenosit-turnir-u-nas-mnogo-n.html",
+          "title": "Сушинский про МЧМ-2027: «В Россию надо переносить турнир, у нас много новых дворцов. Приедут сборные, никуда не денутся. Пофиг на всех, кто захочет – сыграет»"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-27-raspisanie-rezultaty-vseh-matchey-5-tura-italiya-franciya-angliya-horvatiya-portugaliya-daniya-12-14-noyabrya-2473925/",
-          "title": "Лига наций, расписание и результаты 5-го тура: Италия обыграла Францию, Англия победила Хорватию, Португалия — Дания. Все матчи 12-14 ноября"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/italiya-2131242683.html",
-          "title": "Италия обыграла Францию и возглавила таблицу группы в Лиге наций"
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeFlnTGsyYUp1T3ktR1EyWjFjUUFYYTNyOHF0VUY4T3c4NUtnN3NzdTJ3bGcyNEhTbUNUR2ZZWkp0c1ZQOUsxM3J6RHN3eW42ai1VaDE5aTFOMGY0SnN6MDFiU08?oc=5",
+          "title": "Министр спорта Канады объяснил запрет на въезд российских хоккеистов на МЧМ-2027"
         }
       ]
     },
     {
-      "key": "eec2c347e4",
-      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
-      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
-      "lang": "en",
-      "sport": "tennis",
+      "key": "5fa8da45a8",
+      "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»",
+      "summary": "Глава UFC Дана Уайт раскритиковал участников драки между российским бойцом ММА Усманом Нурмагомедовым и грузином Мерабом Двалишвили, произошедшей в Абу-Даби.",
+      "lang": "ru",
+      "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.97,
-      "published": "2026-11-13T01:23:06+00:00",
+      "heat": 8.91,
+      "published": "2026-11-13T07:22:00+00:00",
       "refs": [
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
-          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/glava-ufc-uayt-nazval-uchastnikov-draki-nurmagomedova-i-dvalishvili-idiotami-2474349/",
+          "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»"
         },
         {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
-          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/draka-2131276365.html",
+          "title": "\"Кучка идиотов\". Глава UFC высказался о драке Нурмагомедова с Двалишвили"
         },
         {
-          "source": "Athlon Sports",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
-          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTZna2dUbl9rRkJPVkFlb083NG45eEdWX25rOXBnY3piYjROdHhqaEt6Nm5FTXNIcGt4RVBVeGExVC01ZGQxTXFFWk5idDJzODU1MzdPT0p6MnZVTGVqR3pJcDRiSC1aZ05mekgxRUdGTTdNZVJaTjMtdG5wNW1oWUI3V1VRbjdTX3UtRHBqQ2drZzdQRTRiWnNGQi1KVXdnbEJNeFQ0X201LW52dlllVm1ocC1VaWF3T21HN3B0MG1wYXczX3o0enlqM2xLelZfeFNB?oc=5",
+          "title": "Менеджер Усмана Нурмагомедова высказался о будущем бойца после драки с Двалишвили"
         }
       ]
     },
@@ -125,34 +153,6 @@
           "source": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QLTdQLWRnTXoxYUtsVTM3QTJ5SzNCakRRMTY1dkE3M29VcEhxRWNHWmRtLXRWNC1aUnhmT3I3ZEh1Q1I5azB4ampOeEN2dlRPazBBY2wwREJNaGNTWjdtM3Q4eWpQbXd0LTNSelpELTZyYnZOeHJiZVVpa0Y?oc=5",
           "title": "CFA Team China Panda Cup International Youth Football Tournament: China U-19 vs. Vietnam U-19"
-        }
-      ]
-    },
-    {
-      "key": "a89548bc01",
-      "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»",
-      "summary": "Продолжается регулярный чемпионат НХЛ. « Сиэтл » потерпел поражение от « Каролины » (1:4) в Хельсинки, « Нью-Джерси » обыграл « Вашингтон » (5:2), « Коламбус » уступил « Тампе » (1:3), « Миннесота » победил « Торонто » (5:2) в гостях, «Виннипег» разгромил «Даллас» (8:3). НХЛ ПРИМЕЧАНИЕ : время начала матчей – московское Таблица НХЛ Статистика НХЛ",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.88,
-      "published": "2026-11-13T06:00:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117434409-nxl-sietl-i-karolina-sygrayut-vashington-v-gostyax-u-nyu-dzhersi.html",
-          "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-goda-2474281/",
-          "title": "«Вашингтон» проиграл «Нью-Джерси», у Овечкина «-1»"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/khokkey-2131254044.html",
-          "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
         }
       ]
     }
@@ -1667,7 +1667,7 @@
       "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.51,
+      "heat": 11.28,
       "published": "2026-11-13T05:10:00+00:00",
       "refs": [
         {
@@ -1731,9 +1731,9 @@
       "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
       "lang": "en",
       "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.97,
+      "outlets": 4,
+      "growth": 1,
+      "heat": 12.25,
       "published": "2026-11-13T01:23:06+00:00",
       "refs": [
         {
@@ -1745,6 +1745,11 @@
           "source": "The Guardian Sport",
           "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
           "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/tennis/news/12040/13611773/wta-finals-jessica-pegula-saves-match-8204point-in-stunning-win-over-linda-noskova-to-send-coco-gauff-out-and-set-up-mirra-andreeva-clash",
+          "title": "'It's the match people wanted' - Pegula to face Andreeva at WTA Finals"
         },
         {
           "source": "Athlon Sports",
@@ -1778,6 +1783,62 @@
           "source": "РИА Новости Спорт",
           "link": "https://ria.ru/20261113/khokkey-2131254044.html",
           "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
+        }
+      ]
+    },
+    "8254ff27f1": {
+      "key": "8254ff27f1",
+      "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»",
+      "summary": "Бывший нападающий сборной России Максим Сушинский в разговоре с «СЭ» отреагировал на информацию о решении правительства Канады не допускать сборную России на молодежный чемпионат мира 2027 года. Турнир пройдет в Эдмонтоне и Ред-Дире (провинция Альберта, Канада).",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.0,
+      "published": "2026-11-13T08:35:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/world-u20/news/maksim-sushinskiy-zhestko-otreagiroval-na-otkaz-kanady-dopuskat-rossiyu-na-mchm-2027-zdravyy-smysl-u-lyudey-ne-poyavilsya-2474382/",
+          "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117435269-sushinskij-pro-mchm-2027-v-rossiyu-nado-perenosit-turnir-u-nas-mnogo-n.html",
+          "title": "Сушинский про МЧМ-2027: «В Россию надо переносить турнир, у нас много новых дворцов. Приедут сборные, никуда не денутся. Пофиг на всех, кто захочет – сыграет»"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeFlnTGsyYUp1T3ktR1EyWjFjUUFYYTNyOHF0VUY4T3c4NUtnN3NzdTJ3bGcyNEhTbUNUR2ZZWkp0c1ZQOUsxM3J6RHN3eW42ai1VaDE5aTFOMGY0SnN6MDFiU08?oc=5",
+          "title": "Министр спорта Канады объяснил запрет на въезд российских хоккеистов на МЧМ-2027"
+        }
+      ]
+    },
+    "5fa8da45a8": {
+      "key": "5fa8da45a8",
+      "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»",
+      "summary": "Глава UFC Дана Уайт раскритиковал участников драки между российским бойцом ММА Усманом Нурмагомедовым и грузином Мерабом Двалишвили, произошедшей в Абу-Даби.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.91,
+      "published": "2026-11-13T07:22:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/glava-ufc-uayt-nazval-uchastnikov-draki-nurmagomedova-i-dvalishvili-idiotami-2474349/",
+          "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261113/draka-2131276365.html",
+          "title": "\"Кучка идиотов\". Глава UFC высказался о драке Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTZna2dUbl9rRkJPVkFlb083NG45eEdWX25rOXBnY3piYjROdHhqaEt6Nm5FTXNIcGt4RVBVeGExVC01ZGQxTXFFWk5idDJzODU1MzdPT0p6MnZVTGVqR3pJcDRiSC1aZ05mekgxRUdGTTdNZVJaTjMtdG5wNW1oWUI3V1VRbjdTX3UtRHBqQ2drZzdQRTRiWnNGQi1KVXdnbEJNeFQ0X201LW52dlllVm1ocC1VaWF3T21HN3B0MG1wYXczX3o0enlqM2xLelZfeFNB?oc=5",
+          "title": "Менеджер Усмана Нурмагомедова высказался о будущем бойца после драки с Двалишвили"
         }
       ]
     }
