@@ -1,5 +1,359 @@
 [
   {
+    "id": "2026-11-14-hist-fa32a8",
+    "slug": "on-this-day-in-2010-sebastian-vettel-wins-first-f1-title-to-",
+    "date": "2026-11-14",
+    "created": "2026-11-14T01:57:45+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Formula One",
+    "tags": [
+      "Sebastian Vettel",
+      "Red Bull Racing",
+      "Abu Dhabi Grand Prix",
+      "Formula One",
+      "Motorsport History"
+    ],
+    "athletes": [
+      "Sebastian Vettel",
+      "Fernando Alonso",
+      "Max Verstappen",
+      "Jenson Button",
+      "Michael Schumacher"
+    ],
+    "image_subjects": [
+      "Sebastian Vettel",
+      "Red Bull Racing",
+      "Yas Marina Circuit",
+      "Christian Horner"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Wikipedia: Sebastian Vettel",
+        "url": "https://en.wikipedia.org/wiki/Sebastian_Vettel"
+      },
+      {
+        "title": "Wikipedia: Red Bull Racing",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.045,
+      "longest": 16,
+      "phrases": [
+        "italian grand prix to become the then youngest driver to win a formula one grand prix",
+        "the nations' cup six consecutive times from 2007 to 2012 representing germany alongside michael schumacher",
+        "set the fastest time in the second friday free practice",
+        "the first austrian team to win the title"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "On This Day in 2010: Sebastian Vettel wins first F1 title to become youngest champion",
+      "subheadline": "Red Bull Racing's German star secured the Drivers' Championship at the Abu Dhabi Grand Prix, launching a four-year era of dominance for the team.",
+      "body_markdown": "On 14 November 2010, Sebastian Vettel cemented his status as one of motorsport's rising prodigies by winning the Abu Dhabi Grand Prix at the Yas Marina Circuit. The victory secured his first World Drivers' Championship and crowned him the youngest champion in Formula One history at the age of 23. Driving for Red Bull Racing, the German driver entered the final round of the 2010 season facing a tight championship battle against rival contenders. By converting his pole position into a commanding race victory, Vettel bypassed championship leader Fernando Alonso in the standings, capturing the title that launched an era of dominance for the Austrian-licensed, English-based team.\n\n## The Rise of a Prodigy\n\nVettel's journey to the 2010 crown began within the Red Bull Junior Team, which he accepted an invitation to join in 1998 during his karting years. After dominating junior categories, including 18 victories from 20 races in the 2004 Formula BMW ADAC championship, he made his Formula One weekend debut as a test driver with BMW Sauber in 2006 at the Turkish Grand Prix, where he set the fastest time in the second Friday free practice at 19 years and 53 days old. He later transitioned to Red Bull's sister team, Toro Rosso, where he secured his maiden victory at the 2008 Italian Grand Prix to become the then-youngest driver to win a Formula One Grand Prix.\n\nPromoted to the senior Red Bull Racing squad in 2009 alongside Adrian Newey's technical department, Vettel finished runner-up to Jenson Button before breaking through for his maiden world title a year later. The triumph marked the first of four consecutive Drivers' and Constructors' Championship titles for Red Bull between 2010 and 2013, achieved during their partnership with Renault engines and establishing the first Austrian team to win the title. Red Bull had previously purchased Jaguar Racing on 15 November 2004 for a symbolic US$1 with a commitment to invest US$400 million over three seasons, installing Christian Horner as team boss.\n\n## A Lasting Legacy in the Sport\n\nWhen Vettel retired from Formula One at the end of the 2022 season following stints with BMW Sauber, Toro Rosso, Red Bull, Ferrari, and Aston Martin, he left behind statistics that placed him among the sport's all-time greats. Across 16 seasons, he accumulated 53 Grand Prix victories, 57 pole positions, 38 fastest laps, and 122 podium finishes. He also won the Race of Champions in 2015 and the Nations' Cup six consecutive times from 2007 to 2012 representing Germany alongside Michael Schumacher.\n\nThe historic night at the Yas Marina Circuit remains a defining milestone for Red Bull Racing as well, establishing the team as a powerhouse before subsequent championship eras led by Max Verstappen. Vettel's record-breaking achievement in 2010 continues to stand as a benchmark for young drivers breaking into the pinnacle of motorsport.",
+      "social_post": "On this day in 2010, Sebastian Vettel won the Abu Dhabi Grand Prix to claim his first World Drivers' Championship, becoming the youngest champion in F1 history at age 23. Relive the milestone that launched Red Bull's golden era. #F1 #SebastianVettel #RedBullRacing #OnThisDay"
+    },
+    "zh": {
+      "headline": "体坛历史上的今天：2010年维特尔首夺F1世界冠军，创下最年轻总冠军纪录",
+      "subheadline": "红牛车队的德国新星在阿布扎比大奖赛加冕车手总冠军，由此开启了车队为期四年的统治时代。",
+      "body_markdown": "2010年11月14日，塞巴斯蒂安·维特尔（Sebastian Vettel）在亚斯 Marina 赛道（注：Yas Marina Circuit）赢下阿布扎比大奖赛，彻底巩固了他作为赛车界超级新星的地位。这场胜利不仅为他赢得了职业生涯首座F1车手世界冠军，更以23岁的年纪加冕F1历史上最年轻的世界冠军。当时效力于红牛车队（Red Bull Racing）的这位德国车手，在2010赛季的收官之战中面临着异常胶着的争冠形势。凭借杆位发车的绝对优势，维特尔一路领跑拿下一场酣畅淋漓的胜利，在积分榜上实现惊险反超，力压原本领跑的费尔南多·阿隆索（Fernando Alonso），斩获了这座开启红牛王朝的至高荣誉——这支拥有奥地利背景、总部设在英国的车队，就此迎来了属于他们的统治时代。\n\n## 天才车手的崛起之路\n\n维特尔的2010年登顶之路，要从他1998年卡丁车时期接受红牛少年车队（Red Bull Junior Team）的邀请说起。在横扫各项低级别赛事后（包括在2004年宝马方程式ADAC锦标赛中创造20战18胜的统治级表现），他在2006年的土耳其大奖赛上迎来个人F1周末首秀，当时他作为宝马索伯车队（BMW Sauber）的测试车手，在周五第二场自由练习赛中刷出全场最快圈速，彼时他年仅19岁零53天。随后，他转投红牛的姊妹车队红牛二队（Toro Rosso），并在2008年的意大利大奖赛上夺得个人F1首胜，刷新了当时F1分站赛最年轻冠军的纪录。\n\n2009年，维特尔被提拔至红牛一队，与阿德里安·纽伊（Adrian Newey）领衔的技术团队并肩作战。在夺得年度亚军后，他在一年后实现了世界冠军的突破。这次胜利是红牛车队在2010至2013年间连续四年包揽车手与车队双料冠军的开端。当时他们搭载着雷诺（Renault）发动机，成为了历史上首支赢得F1世界冠军的奥地利车队。回溯过往，红牛于2004年11月15日以象征性的1美元收购了美洲虎车队（Jaguar Racing），并承诺在三个赛季内投资4亿美元，同时任命克里斯蒂安·霍纳（Christian Horner）担任车队领队。\n\n## 赛车运动的不朽传奇\n\n2022赛季结束后，维特尔先后效力过宝马索伯、红牛二队、红牛、法拉利（Ferrari）和阿斯顿·马丁（Aston Martin）后选择退役。他留下的辉煌数据足以让他跻身这项运动的历史最伟大车手之列。在征战F1的16个赛季里，他共斩获53场分站赛冠军、57次杆位、38次单场最快圈速以及122次登上领奖台。此外，他还在2015年赢得过王中王争霸赛（Race of Champions）冠军，并于2007年至2012年间搭档迈克尔·舒马赫（Michael Schumacher）代表德国队连续六次夺得国家杯（Nations' Cup）。\n\n对于红牛车队而言，亚斯 Marina 赛道那个历史性的夜晚同样具有决定性意义，它为车队在日后由马克斯·维斯塔潘（Max Verstappen）引领的另一个统治时代奠定了坚实的基础。维特尔在2010年创造的破纪录壮举，至今仍是年轻车手冲击赛车运动巅峰的最高标杆。",
+      "social_post": "体坛历史上的今天：2010年的今天，塞巴斯蒂安·维特尔在阿布扎比大奖赛夺冠，斩获职业生涯首个F1车手世界冠军，以23岁之龄创下F1最年轻冠军纪录。重温这一开启红牛黄金时代的伟大里程碑！#F1 #SebastianVettel #RedBullRacing #OnThisDay"
+    },
+    "ru": {
+      "headline": "В этот день в 2010 году: Себастьян Феттель завоевал первый титул в Формуле-1 и стал самым молодымчемпионом",
+      "subheadline": "Немецкая звезда Red Bull Racing оформила чемпионство на Гран-при Абу-Даби, положив начало четырехлетней эре доминирования команды.",
+      "body_markdown": "14 ноября 2010 года Себастьян Феттель (Sebastian Vettel) укрепил свой статус одного из главных вундеркиндов в автоспорте, выиграв Гран-при Абу-Даби на трассе «Яс-Марина» (Yas Marina Circuit). Эта победа принесла ему первый титул чемпиона мира в личном зачете и сделала самым молодым чемпионом в истории Формулы-1 в возрасте 23 лет. Выступая за Red Bull Racing, немецкий гонщик подошел к финалу сезона-2010 в условиях плотной борьбы за титул с основными соперниками. Превратив поул-позицию в уверенную победу в гонке, Феттель обошел лидера общего зачета Фернандо Алонсо (Fernando Alonso) и завоевал титул, который положил начало эре доминирования австрийской команды с британской пропиской.\n\n## Путь вундеркинда к вершине\n\nПуть Феттеля к триумфу 2010 года начался в молодежной программе Red Bull Junior Team, приглашение в которую он принял в 1998 году еще во времена выступлений в картинге. Доминируя в юниорских сериях — включая 18 побед в 20 гонках чемпионата Formula BMW ADAC 2004 года, — он дебютировал гоночным уик-эндом в Формуле-1 в качестве тест-пилота BMW Sauber на Гран-при Турции 2006 года, где показал лучшее время во второй пятничной свободной практике в возрасте 19 лет и 53 дней. Позже он перешел в дочернюю команду Red Bull — Toro Rosso, где одержал свою первую победу на Гран-при Италии 2008 года, став на тот момент самым молодым победителем Гран-при в истории Формулы-1.\n\nПереведенный в основной состав Red Bull Racing в 2009 году для работы в тандеме с техническим отделом Эдриана Ньюи (Adrian Newey), Феттель стал вице-чемпионом позади Дженсона Баттона, а год спустя завоевал свой первый мировой титул. Этот успех стал первым из четырех подряд чемпионских титулов в личном зачете и Кубке конструкторов, завоеванных Red Bull в период с 2010 по 2013 год в партнерстве с двигателями Renault. Это сделало их первой австрийской командой, выигравшей титул. Ранее, 15 ноября 2004 года, компания Red Bull приобрела Jaguar Racing за символический 1 доллар США с обязательством инвестировать 400 миллионов долларов в течение трех сезонов и назначила Кристиана Хорнера (Christian Horner) руководителем команды.\n\n## Нестираемый след в истории спорта\n\nКогда Феттель завершил карьеру в Формуле-1 по окончании сезона 2022 года после выступлений за BMW Sauber, Toro Rosso, Red Bull, Ferrari и Aston Martin, он оставил после себя статистику, поставившую его в один ряд с величайшими гонщиками всех времен. За 16 сезонов он записал на свой счет 53 победы на Гран-при, 57 поул-позиций, 38 быстрых кругов и 122 подиума. Кроме того, он выиграл «Гонку чемпионов» (Race of Champions) в 2015 году и шесть раз подряд завоевывал «Кубок наций» (Nations' Cup) с 2007 по 2012 год, представляя Германию в паре с Михаэлем Шумахером (Michael Schumacher).\n\nИсторический вечер на трассе «Яс-Марина» по-прежнему остается определяющей вехой для Red Bull Racing, закрепившей за командой статус гранда еще до наступления эры доминирования Макса Ферстаппена (Max Verstappen). Рекордное достижение Феттеля в 2010 году до сих пор служит эталоном для молодых гонщиков, пробивающихся на вершину автоспорта.",
+      "social_post": "В этот день в 2010 году Себастьян Феттель выиграл Гран-при Абу-Даби и завоевал свой первый титул чемпиона мира, став в 23 года самым молодым чемпионом в истории Ф-1. Вспоминаем исторический момент, положивший начало золотой эре Red Bull. #F1 #SebastianVettel #RedBullRacing #OnThisDay"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sebastian_Vettel_at_the_2026_Italian_Grand_Prix_%28cropped%29.jpg/1280px-Sebastian_Vettel_at_the_2026_Italian_Grand_Prix_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_at_the_2026_Italian_Grand_Prix_(cropped).jpg",
+        "artist": "Andrea Diodato",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Sebastian Vettel just before driving Michael Schumacher's Ferrari F2002.",
+        "width": 1200,
+        "height": 1584,
+        "year": 2026,
+        "subject": "Sebastian Vettel"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/1280px-Yas_Marina_Circuit.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Yas_Marina_Circuit.png",
+        "artist": "Anthony Alessio Tralongo",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Layout of the Yas Marina Circuit",
+        "width": 1200,
+        "height": 662,
+        "year": 2021,
+        "subject": "Yas Marina Circuit"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Horner_at_F1_Live_in_London_02.jpg/1280px-Horner_at_F1_Live_in_London_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Horner_at_F1_Live_in_London_02.jpg",
+        "artist": "Ben Sutherland",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Red Bull F1 boss Christian Horner and Mercedes F1 head Toto Wolff at F1 Live in Trafalgar Square, London.",
+        "width": 1200,
+        "height": 1717,
+        "year": 2017,
+        "subject": "Christian Horner"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'youngest': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-14-news-d24ea8",
+    "slug": "ning-zhongyan-breaks-track-record-to-win-1-000m-at-beijing-s",
+    "date": "2026-11-14",
+    "created": "2026-11-14T01:56:20+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Speed Skating",
+    "tags": [
+      "Ning Zhongyan",
+      "Han Mei",
+      "Speed Skating World Cup",
+      "Beijing",
+      "National Speed Skating Oval"
+    ],
+    "athletes": [
+      "Ning Zhongyan",
+      "Han Mei"
+    ],
+    "image_subjects": [
+      "Ning Zhongyan",
+      "National Speed Skating Oval"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZU8wZjJ1LUtGZEhaQ0d1NHFHRi1STkppc2lFWmF2WEF4alo1TGl1MzJmY0lXTTNCS3R6OFJTS204ZDhoQXYtTUhGRmNiUnp3NVpCVi1NalB2LUFGRXI0S3M3RFRSN2pU?oc=5"
+      },
+      {
+        "title": "中国新闻网 体育: 速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml"
+      },
+      {
+        "title": "手机搜狐网: 冬奥会后首秀！速度滑冰世界杯北京站：宁忠岩破纪录夺1000米冠军",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnBpVnl0bV9taFdvcXdjaFhjNXA4LUNiT1hqMHNTVjFodWY1LWc0MFBWSjhGVDNxQXZ1MDRSUjdzTjllMDBhYnIyZTZsLTRyVFVlMGxWeDBDOHRnUGZXSWtUcUdSeTN4S2tuMWNqdTRSdkpZZHR4U1FqWG9xc2pmRGZZSVYxbllf?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Ning Zhongyan Breaks Track Record to Win 1,000m at Beijing Speed Skating World Cup",
+      "subheadline": "The Olympic champion delivers a dominant home-ice victory on opening day at the Ice Ribbon.",
+      "body_markdown": "## A Record-Breaking Season Opener in Beijing\n\nSpeed skater Ning Zhongyan claimed the men's 1,000-meter gold medal while breaking the venue track record at the ISU Speed Skating World Cup opener in Beijing on November 13, 2026. Competing at the National Speed Skating Oval, widely known as the Ice Ribbon, Ning delivered a commanding performance in his first international appearance of the new season.\n\nThe victory gave the host nation an immediate highlight on the opening day of competition. Alongside teammate Han Mei, who also featured in the national squad's opening-day entries, Ning entered the Beijing leg aiming to establish early-season momentum on home ice. The performance delighted local spectators who packed the stands of the capital venue to witness the world-class races.\n\n## Building on Olympic Heritage\n\nThe triumph at the Ice Ribbon reinforces Ning's status among the elite competitors on the global speed skating circuit. Having established his reputation through previous international campaigns and Olympic success, the Chinese star approached the new season with clear ambitions to perform at his highest level in familiar surroundings.\n\nSports analysts and national coaching staff noted that opening a competitive campaign with a venue record demonstrates exceptional physical preparation during the off-season. The National Speed Skating Oval, constructed for the 2022 Winter Olympics, continues to yield fast times and competitive racing fields during major international events.\n\n## Next Stops on the World Cup Circuit\n\nFollowing the conclusion of the opening weekend in Beijing, athletes on the speed skating circuit turn their attention to subsequent rounds of the international calendar. Skaters will travel to upcoming World Cup stops across different global venues as they accumulate qualifying points and test their speed against world-class rivals ahead of continental and global championships later in the season.",
+      "social_post": "Ning Zhongyan shines on home ice, breaking the track record to win the men's 1,000m gold at the ISU Speed Skating World Cup opener in Beijing! How will the Chinese squad fare in the remaining events at the Ice Ribbon? Share your thoughts below. #SpeedSkating #Beijing2026 #NingZhongyan #WinterSports"
+    },
+    "zh": {
+      "headline": "宁忠岩打破场地纪录！北京速滑世界杯男子1000米强势夺金",
+      "subheadline": "这位奥运冠军在“冰丝带”开赛首日奉献了一场统治级的本土主场大捷。",
+      "body_markdown": "## 北京赛季揭幕战打破纪录\n\n2026年11月13日，国际滑联速度滑冰世界杯北京站迎来首个比赛日。中国名将宁忠岩在男子1000米决赛中摘得金牌，并一举打破了该场地的赛会纪录。这场比赛在国家速滑联盟赛场——也就是为人熟知的“冰丝带”上演，这也是宁忠岩在新赛季的首场国际正式亮相，他用一场无可挑剔的完胜展现了极佳状态。\n\n这场胜利为主场作战的中国代表团在开赛首日就迎来了最高潮。此役，中国队多位好手悉数登场，其中包括同样备受瞩目的女将韩梅。宁忠岩此番主场出征，志在为主管的赛季开局打下坚实的基础。现场座无虚席，山呼海啸般的助威声让首都冰迷大饱眼福，尽情领略了顶级冰上竞速的魅力。\n\n## 延续冬奥荣耀与底蕴\n\n在“冰丝带”的这枚金牌，再次巩固了宁忠岩在世界速滑顶尖行列中的地位。凭借过往国际大赛的历练和奥运赛场的辉煌，这位中国王牌带着明确的目标开启了新赛季，力求在熟悉的冰面上展现出最高竞技水准。\n\n业内分析人士与国家队教练组指出，能在赛季首秀就打破场地纪录，足见其在休赛期极其出色的体能储备。国家速滑馆这座2022年北京冬奥会的标志性遗产，在各项国际重大赛事中频频见证名将飙出惊人速度，继续闪耀着它的光芒。\n\n## 转战世界杯后续赛程\n\n随着北京站首个周末争夺的落幕，速滑健儿们即将把目光投向漫长赛历中的下一站。接下来，各路高手将转战全球各地的世界杯分站赛，全力争夺积分，在赛季中后期的各大洲际与世锦赛前继续检验状态、迎战强敌。",
+      "social_post": "宁忠岩主场闪耀！在速滑世界杯北京站男子1000米比赛中破纪录夺金！大家觉得中国队接下来在“冰丝带”还会有怎样的惊艳表现？快来评论区聊聊！#速度滑冰 #北京2026 #宁忠岩 #冰雪运动"
+    },
+    "ru": {
+      "headline": "Нин Чжунян бьет рекорд катка и берет золото на дистанции 1000 м на этапе Кубка мира по конькобежному спорту в Пекине",
+      "subheadline": "Олимпийский чемпион одержал убедительную победу на домашнем льду «Ледовой ленты» в первый же соревновательный день.",
+      "body_markdown": "## Рекордное открытие сезона в Пекине\n\nКонькобежец Нин Чжунян завоевал золотую медаль на мужской дистанции 1000 метров, попутно обновив рекорд арены на открытии этапа Кубка мира по конькобежному спорту под эгидой ISU в Пекине 13 ноября 2026 года. Выступая на Национальном конькобежном стадионе, широко известном как «Ледовая лента», Нин выдал доминирующее выступление в своем первом международном старте нового сезона.\n\nЭта победа принесла сборной хозяев турнира мгновенный повод для триумфа в первый день соревнований. Наряду с партнершей по команде Хань Мэй (Han Mei), также вошедшей в заявочный лист национальной сборной на первый день, Нин приехал на пекинский этап сцелью создать задел на сезон на домашнем льду. Выступление привело в восторг местных болельщиков, до отказа заполнивших трибуны столичной арены, чтобы воочию увидеть гонки мирового уровня.\n\n## Продолжая олимпийские традиции\n\nТриумф на «Ледовой ленте» укрепляет статус Нина среди элитных участников мировой конькобежной серии. Заслужив репутацию благодаря прошлым выступлениям на международной арене и олимпийским успехам, китайская звезда подошла к новому сезону с четкими амбициями показать свой максимум в привычной обстановке.\n\nСпортивные аналитики и тренерский штаб сборной отметили, что начало соревновательного сезона с рекорда катка свидетельствует об исключительном физическом состоянии спортсмена в межсезонье. Национальный конькобежный стадион, построенный к зимней Олимпиаде 2022 года, продолжает радовать быстрыми секундами и высокой конкуренцией на крупнейших международных стартах.\n\n## Следующие остановки в календаре Кубка мира\n\nПо завершении стартового уик-энда в Пекине атлеты конькобежного пелотона переводят внимание на следующие раунды международного календаря. Конькобежцы отправятся на предстоящие этапы Кубка мира по всему миру, чтобы набирать квалификационные очки и проверять свою скорость в борьбе с соперниками экстра-класса в преддверии континентальных и мировых чемпионатов.",
+      "social_post": "Нин Чжунян блистает на домашнем льду, побив рекорд катка ради золота на 1000 м на открытии Кубка мира по конькобежному спорту в Пекине! Как выступит китайская сборная в остальных дисциплинах на «Ледовой ленте»? Пишите в комментариях. #КонькобежныйСпорт #Пекин2026 #НинЧжунян #ЗимниеВиды"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF.png",
+        "artist": "中国新闻社",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "​宁忠岩赛后采访",
+        "width": 1200,
+        "height": 1597,
+        "year": 2026,
+        "subject": "Ning Zhongyan"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/National_Speed_Skating_Oval_Beijing_2.jpg/1280px-National_Speed_Skating_Oval_Beijing_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:National_Speed_Skating_Oval_Beijing_2.jpg",
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "description": "National Speed Skating Oval, Beijing, China",
+        "width": 1200,
+        "height": 800,
+        "year": 2019,
+        "subject": "Beijing National Speed Skating Oval"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-14-news-e91653",
+    "slug": "portugal-to-honor-cristiano-ronaldo-with-special-number-seve",
+    "date": "2026-11-14",
+    "created": "2026-11-14T01:48:29+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Cristiano Ronaldo",
+      "Portugal",
+      "Denmark",
+      "UEFA Nations League",
+      "Jorge Jesus",
+      "Pedro Proenca"
+    ],
+    "athletes": [
+      "Cristiano Ronaldo",
+      "Bernardo Silva",
+      "Ruben Dias",
+      "Bruno Fernandes",
+      "Jorge Jesus",
+      "Pedro Proenca"
+    ],
+    "image_subjects": [
+      "Cristiano Ronaldo",
+      "Portugal national football team",
+      "Denmark national football team",
+      "UEFA Nations League"
+    ],
+    "match": {
+      "competition": "UEFA Nations League",
+      "date": "14 November 2026",
+      "home": "Portugal",
+      "away": "Denmark",
+      "home_score": 0,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Penultimate round of the group stage"
+    },
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "СМИ: игроки сборной Португалии выйдут на поле в футболках с номером Роналду",
+        "url": "https://ria.ru/20261113/ronaldu-2131441884.html"
+      },
+      {
+        "title": "Спорт-Экспресс: Игроки сборной Португалии выйдут на матч с Данией в футболках с 7-м номером в честь Роналду",
+        "url": "https://www.sport-express.ru/football/nation-league/news/igroki-sbornoy-portugalii-vyydut-na-match-s-daniey-v-futbolkah-s-7-m-nomerom-v-chest-ronaldu-2474549/"
+      },
+      {
+        "title": "Новости спорта: Игроки сборной Португалии выйдут на матч с Данией в футболках с седьмым номером в честь Роналду",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSFlZTHdvYlcwa3hIdUt1MDBpUXB0ekRrcVZTNlpwX09LUURRNlVCNVdwZFRiTDhyTDFHajJVN1I2bHJxd25GSlBabkFwbHU2bWVYTjNfXzJtU0xHb3RFVjdydW9EM2NlV2sza0tLQm9XTlFRSXh4WUJoVDhWNjV2RHpobUZpTm1wVnNSX0NBNmpzYUZNNmdGNmpGRXhZbGhyQjJTTnBKb0c5SXlnVmxLMGtuQmNzMEpjUFc4cGVtV2IzRHJFSi1NNnVHRnEyZVBrY1lvUFpWUFZmODNuakJQLW9LUURSalYxUFByOXY3ZEtqZGlMU3BpQ3lHNHF1QjhVX2IzMWlZbw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Portugal to Honor Cristiano Ronaldo with Special Number Seven Shirts Against Denmark",
+      "subheadline": "Every starting player will wear the iconic jersey in a UEFA Nations League tribute following the forward's international retirement.",
+      "body_markdown": "## A Unified Gesture in Lisbon\n\nWhen Portugal host Denmark on Saturday, 14 November 2026, every starting player for the home side will take to the pitch wearing the number seven shirt. According to reports from *A Bola* and Russian agency RIA Novosti, the tribute is designed to honour Cristiano Ronaldo, who announced the end of his international career on 5 November 2026.\n\nThe initiative was finalized during a Thursday meeting between Portuguese Football Federation (FPF) president Pedro Proença, national team coach Jorge Jesus, and senior players Bernardo Silva, Rúben Dias, and Bruno Fernandes. In addition to the pre-match shirt tribute, UEFA has approved a planned symbolic pause on the seventh minute of the match. Furthermore, the squad decided to leave the room traditionally occupied by Ronaldo at the team's training camp empty throughout the November international window.\n\n## Context and Recent Tensions\n\nSaturday's fixture marks the penultimate round of the UEFA Nations League group stage, with kickoff scheduled for 22:45 Moscow time. The decision to honour the veteran forward arrives after a turbulent period for the national setup. In late September, Ronaldo spent the entirety of a 2-1 victory over Norway on the substitutes' bench. He subsequently departed the team's camp following a press conference held by coach Jorge Jesus, during which the manager indicated the forward would not feature in the immediate plans.\n\nRonaldo later cited a breakdown in trust with the coaching staff while issuing an apology to his teammates and supporters. Although the FPF initially explored plans for an official farewell match, subsequent reports indicated that the player declined a dedicated send-off appearance. The unusual pre-match tribute and the seventh-minute applause underline the complicated yet monumental legacy he leaves behind in the red and green shirt as Portugal navigate the crucial closing stages of their group campaign.",
+      "social_post": "Portugal's players will all wear the number seven shirt against Denmark on Saturday in a special tribute to Cristiano Ronaldo, following his international retirement. UEFA has also approved a symbolic pause on the seventh minute in Lisbon. What do you think of this gesture? #NationsLeague #Portugal #CristianoRonaldo #Football"
+    },
+    "zh": {
+      "headline": "葡萄牙对阵丹麦将集体身披7号战袍，向C罗致敬",
+      "subheadline": "在这场欧国联的比赛中，葡萄牙队首发十一人将全员穿上印有传奇7号的球衣，以此向这位宣布退役的锋线巨星致敬。",
+      "body_markdown": "## 里斯本的集体致敬\n\n2026年11月14日星期六，当葡萄牙主场迎战丹麦时，主队的所有首发球员都将身穿7号球衣登场。根据《球报》（*A Bola*）和俄罗斯俄新社（RIA Novosti）的报道，此举旨在致敬克里斯蒂亚诺·罗纳尔多（Cristiano Ronaldo），他于2026年11月5日正式宣布结束自己的国家队生涯。\n\n这一倡议是在周四举行的闭门会议上最终敲定的，与会者包括葡萄牙足协（FPF）主席佩德罗·普罗恩萨（Pedro Proença）、国家队主教练若热·热苏斯（Jorge Jesus），以及队内核心伯纳尔多·席尔瓦、鲁本·迪亚斯和布鲁诺·费尔南德斯。除了赛前的球衣致敬外，欧足联（UEFA）还批准了在比赛第7分钟进行一次象征性暂停的计划。不仅如此，全队还决定在11月的国际比赛日期间，将国家队训练基地里C罗生前惯常使用的房间保持空置，以此寄托哀思。\n\n## 背景与近期风波\n\n这场定于莫斯科时间22:45开球的周六之战，是欧国联小组赛的倒数第二轮较量。在葡萄牙国家队经历了一段动荡期后，足协最终做出了致敬这位功勋老将的决定。9月下旬对阵挪威的比赛中，C罗在替补席上坐满了全场，目睹球队以2-1取胜。随后，在主帅热苏斯召开新闻发布会暗示这位前锋不在近期战术计划中之后，C罗便离开了国家队训练营。\n\n此后，C罗在向队友和球迷致歉的同时，也坦言自己与教练组之间的信任已经破裂。尽管葡萄牙足协最初曾探讨过为其举办一场官方告别赛的方案，但随后的报道表明，球员本人婉拒了专属的告别出场。这场别出心裁的赛前致敬以及第7分钟的掌声，凸显了这位身披红绿战袍的传奇球星所留下的复杂而又伟大的历史遗产，而此时葡萄牙正朝着小组赛的出线目标全力冲刺。",
+      "social_post": "本周六对阵丹麦的比赛中，葡萄牙全体球员将身披7号球衣登场，向宣布退役的克里斯蒂亚诺·罗纳尔多致敬。欧国联官方也已批准在里斯本的比赛进行到第7分钟时进行象征性暂停。你如何看待这一致敬举动？#欧国联 #葡萄牙 #C罗 #足球"
+    },
+    "ru": {
+      "headline": "Сборная Португалии сыграет с Данией в футболках под седьмым номером в честь Криштиану Роналду",
+      "subheadline": "В рамках Лиги наций УЕФА все игроки стартового состава выйдут на поле в легендарных майках в знак уважения к форварду, завершившему карьеру в сборной.",
+      "body_markdown": "## Коллективный жест в Лиссабоне\n\nВ субботу, 14 ноября 2026 года, когда Португалия примет дома Данию, все игроки стартового состава хозяев появятся на поле под седьмым номером. Как сообщают издание *A Bola* и российское агентство «РИА Новости», эта акция призвана почтить Криштиану Роналду (Cristiano Ronaldo), который объявил о завершении международной карьеры 5 ноября 2026 года.\n\nДанная инициатива была окончательно утверждена в четверг на встрече президента Португальской футбольной федерации (FPF) Педру Проенсы (Pedro Proença), главного тренера сборной Жорже Жезуша (Jorge Jesus), а также ведущих игроков команды — Бернарду Силвы, Рубена Диаша и Бруну Фернандеша. Помимо предматчевого перформанса с футболками, УЕФА одобрил запланированную символическую паузу на седьмой минуте встречи. Кроме того, команда решила оставить пустой комнату, которую традиционно занимал Роналду на тренировочной базе сборной на протяжении всего ноябрьского международного сбора.\n\n## Контекст и недавние разногласия\n\nСубботний матч станет предпоследним туром группового этапа Лиги наций УЕФА, стартовый свисток прозвучит в 22:45 по московскому времени. Решение отдать дань уважения звездному ветерану принято после непростого периода в стане национальной команды. В конце сентября Роналду провёл на скамейке запасных весь победный матч против Норвегии (2:1). Позже он покинул расположение сборной вслед за пресс-конференцией главного тренера Жорже Жезуша, на которой тот дал понять, что форвард не входит в ближайшие планы тренерского штаба.\n\nВпоследствии Роналду заявил об утрате доверия к тренерскому штабу, одновременно принеся извинения партнерам по команде и болельщикам. И хотя ФПФ изначально прорабатывала варианты организации официального прощального матча, дальнейшие отчеты показали, что сам игрок отказался от специальной церемонии проводов. Необычная предматчевая акция и аплодисменты на седьмой минуте подчеркивают сложное, но поистине монументальное наследие, которое он оставляет после себя в красно-зеленой футболке, пока Португалия преодолевает важнейший финишный отрезок группового этапа.",
+      "social_post": "В субботнем матче против Дании игроки сборной Португалии выйдут на поле под седьмым номером в знак особой дани уважения Криштиану Роналду после его ухода из национальной команды. УЕФА также одобрил символическую паузу на седьмой минуте в Лиссабоне. Что вы думаете об этом жесте? #ЛигаНаций #Португалия #КриштиануРоналду #Футбол"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1799,
+        "year": 2026,
+        "subject": "Cristiano Ronaldo"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg/1280px-Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Bernardo Silva during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Bernardo Silva"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_%28cropped%29.jpg/1280px-Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ruben_Dias_Croatia_v_Portugal_2_July_2026-228_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Ruben Dias during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Rúben Dias"
+      },
+      {
+        "url": "../photos/card-2026-11-14-news-e91653.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Portugal 0 - 0 Denmark · UEFA Nations League",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-13-news-25365d",
     "slug": "manchester-united-appoint-mauricio-pochettino-after-sacking-",
     "date": "2026-11-13",
