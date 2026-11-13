@@ -55,6 +55,7 @@ STRONG_SOURCES = ("bbc.", "reuters.", "apnews.", "theguardian.", "skysports.", "
 DEFAULTS = {
     "enabled": True,
     "block_on_publish": True,       # BLOCK problems stop the Publish workflow (use "publish-anyway" to override)
+    "min_pictures": 2,              # each story needs at least this many relevant pictures (free licence or own work)
     "max_cover_photo_age_years": 3, # news cover photo older than this -> warning: use the latest free photo
     "min_sources_news": 2,          # news needs at least this many sources (one must be a major outlet)
     "max_source_age_days_news": 3,  # a news story's sources should be this fresh (judged from dates in links)
@@ -114,6 +115,11 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     plain = _strip_quotes(text)
     kind = a.get("type", "news")
 
+    # ---------------- PHOTOS: at least 2 relevant pictures per story (editor's rule, 13 Nov 2026)
+    n_img = len([i for i in a.get("images") or [] if i.get("url")])
+    if "images" in a and n_img < r.get("min_pictures", 2):
+        out.append(_issue("WARN", "photos", f"Only {n_img} picture(s). Rule: at least {r.get('min_pictures', 2)} relevant "
+                                            "pictures (people in the story, venue, match card). Add free photos in photos.yaml"))
     # ---------------- PHOTOS: use the most recent free photo available (editor's rule, 10 Nov 2026)
     cover = (a.get("images") or [{}])[0]
     yr, story_yr = cover.get("year"), int(str(a.get("date") or "0000")[:4] or 0)

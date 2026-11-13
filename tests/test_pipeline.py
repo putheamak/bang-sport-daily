@@ -619,7 +619,7 @@ def test_old_cover_photo_warning(repo):
          "images": [{"url": "x", "license": "CC BY-SA 2.0", "year": 2008}]}
     assert any(i["area"] == "photos" and "2008" in i["msg"] for i in standards.check_article(cfg(), a))
     a["images"][0]["year"] = 2025
-    assert not any(i["area"] == "photos" for i in standards.check_article(cfg(), a))
+    assert not any("Cover photo" in i["msg"] for i in standards.check_article(cfg(), a))
 
 
 def _t(title, source, lang="en", sport="football", score=3.0, summary=""):
@@ -799,3 +799,33 @@ def test_daily_once_and_filler_warning(repo, monkeypatch):
     a = {"type": "news", "date": "2026-11-05", "sources": [],
          "en": {"headline": "H", "body_markdown": "It was a high-stakes encounter and observers will be watching closely."}}
     assert any(i["area"] == "professional" and "Filler" in i["msg"] for i in standards.check_article(cfg(), a))
+
+
+def test_match_card_and_two_picture_rule(repo):
+    """13 Nov 2026: every story needs 2+ relevant pictures; results get our own match card (always legal)."""
+    from sportnews import images, standards
+    a = {"id": "2026-11-13-news-b6bee9", "type": "news", "date": "2026-11-13", "sources": [],
+         "en": {"headline": "Italy beat France", "body_markdown": "Text."},
+         "images": [{"url": "https://u/sansiro.jpg", "license": "CC BY-SA 4.0", "year": 2024}],
+         "match": {"competition": "UEFA Nations League, Group A1", "date": "12 November 2026", "home": "Italy",
+                   "away": "France", "home_score": 3, "away_score": 1,
+                   "home_scorers": ["Pio Esposito 26'", "Frattesi 63'", "Pio Esposito (pen)"], "away_scorers": ["Olise 10'"],
+                   "note": "Italy top Group A1 on head-to-head"}}
+    assert any("Only 1 picture" in i["msg"] for i in standards.check_article(cfg(), a))
+    assert images.ensure_match_card(a) and not images.ensure_match_card(a)        # added once, never twice
+    assert a["images"][0]["url"].endswith("sansiro.jpg") and a["images"][1]["card"]  # a photo stays the cover
+    assert (repo / "docs/photos/card-2026-11-13-news-b6bee9.png").exists()
+    assert not any(i["area"] == "photos" and "picture" in i["msg"] for i in standards.check_article(cfg(), a))
+    assert not images.ensure_match_card({"id": "x", "images": [], "match": {"home": "A", "away": "B"}})  # no score: no card
+
+
+def test_inbox_adds_match_card_to_existing_story(repo):
+    from sportnews import inbox, common
+    common.save_articles([{"id": "2026-11-13-news-211d3b", "status": "published", "type": "news", "date": "2026-11-13",
+                           "slug": "s", "sources": [], "images": [{"url": "https://u/p.jpg"}],
+                           "en": {"headline": "Vietnam U23 beat Singapore", "body_markdown": "Text."}}])
+    (repo / "inbox").mkdir(exist_ok=True)
+    (repo / "inbox" / "card.md").write_text("---\nupdate: 2026-11-13-news-211d3b\nmatch: {competition: Gia Lai VTV Cup 2026, "
+                                             "home: Vietnam U23, away: Singapore U23, home_score: 1, away_score: 0}\n---\n")
+    new = inbox.import_inbox(cfg(), "2026-11-13", {})
+    assert new and new[0]["images"][-1]["card"] and len(new[0]["images"]) == 2

@@ -147,6 +147,7 @@ def attach_images(article: dict, max_n: int = 3) -> dict:
     subs = subjects_for(article)
     log.info("Looking up photos for %s: %s", article.get("id"), subs[:6])
     article["images"] = find_images(subs, max_n)
+    ensure_match_card(article)
     return article
 
 
@@ -281,7 +282,8 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         refs = {c.get("ref") for c in chosen if c.get("ref")}
         base = [] if mode == "replace" else [i for i in (a.get("images") or [])
                                              if i.get("url") not in {c["url"] for c in chosen} and i.get("ref") not in refs]
-        a["images"] = (chosen + base)[:12]
+        a["images"] = [i for i in (chosen + base) if not i.get("card")][:12]
+        ensure_match_card(a)                          # an editor's photo choice never drops the match card
         a["photos_override"] = key
         n += 1
         log.info("Photos for %s set from photos.yaml (%d photo(s))", a["id"], len(a["images"]))
@@ -295,3 +297,89 @@ def load_overrides() -> dict:
     if not p.exists():
         return {}
     return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+
+
+# ---------------------------------------------------------------- our own match card (always legal, always current)
+def _font(size: int, bold: bool = True):
+    from PIL import ImageFont
+    for p in ("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" if bold else "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+              "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", "DejaVuSans-Bold.ttf"):
+        try:
+            return ImageFont.truetype(p, size)
+        except OSError:
+            continue
+    return ImageFont.load_default()
+
+
+def valid_match(m) -> bool:
+    try:
+        return bool(m and m.get("home") and m.get("away") and str(m.get("home_score", "")).strip() != ""
+                    and str(m.get("away_score", "")).strip() != "")
+    except AttributeError:
+        return False
+
+
+def match_card(a: dict) -> dict | None:
+    """A 1200x675 result graphic (competition, date, score, scorers) made from the story's own facts.
+    It is our own work, so it is always free to use and always about this exact match."""
+    m = a.get("match")
+    if not valid_match(m):
+        return None
+    from PIL import Image, ImageDraw
+    from .common import ROOT
+    W, H = 1200, 675
+    img = Image.new("RGB", (W, H), (17, 20, 26))
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, W, 12], fill=(220, 30, 40))
+    def center(text, y, font, fill=(255, 255, 255), x0=0, x1=W):
+        w = d.textlength(text, font=font)
+        d.text((x0 + (x1 - x0 - w) / 2, y), text, font=font, fill=fill)
+    def fit(text, size, maxw):
+        f = _font(size)
+        while d.textlength(text, font=f) > maxw and size > 20:
+            size -= 2
+            f = _font(size)
+        return f
+    comp = str(m.get("competition") or "").upper()
+    center(comp, 50, fit(comp, 34, 1100), (200, 200, 205))
+    if m.get("date"):
+        center(str(m["date"]), 98, _font(26, False), (150, 150, 160))
+    home, away = str(m["home"]), str(m["away"])
+    center(home, 220, fit(home, 48, 400), x0=0, x1=440)
+    center(away, 220, fit(away, 48, 400), x0=760, x1=W)
+    score = f'{m["home_score"]} - {m["away_score"]}'
+    center(score, 180, _font(120), (255, 255, 255), 440, 760)
+    sf = _font(24, False)
+    for side, x0, x1 in (("home_scorers", 0, 440), ("away_scorers", 760, W)):
+        y = 300
+        for s in (m.get(side) or [])[:6]:
+            center(str(s), y, fit(str(s), 24, 400) if d.textlength(str(s), font=sf) > 400 else sf, (190, 190, 200), x0, x1)
+            y += 36
+    if m.get("note"):
+        center(str(m["note"]), 560, fit(str(m["note"]), 26, 1100), (230, 230, 235))
+    d.text((40, H - 50), "BANG SPORT DAILY", font=_font(22), fill=(220, 30, 40))
+    name = f"card-{a['id']}.png"
+    out = ROOT / "docs" / "photos" / name
+    out.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out, "PNG", optimize=True)
+    from datetime import date as _D
+    return {"url": f"../photos/{name}", "page": "", "artist": "Bang Sport Daily (graphic)", "license": "Own work",
+            "license_url": "", "subject": f"{home} {score} {away}" + (f" · {m.get('competition')}" if m.get("competition") else ""),
+            "via": "", "card": True, "year": _D.today().year, "width": W, "height": H}
+
+
+def ensure_match_card(a: dict) -> bool:
+    """Add the match card after the photos (a photo stays the cover) if the story is about one finished match."""
+    imgs = a.get("images") or []
+    if any(i.get("card") for i in imgs) or not valid_match(a.get("match")):
+        return False
+    try:
+        card = match_card(a)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Match card failed for %s: %s", a.get("id"), e)
+        return False
+    if card:
+        a["images"] = imgs + [card]
+        log.info("Match card added to %s", a.get("id"))
+        return True
+    return False

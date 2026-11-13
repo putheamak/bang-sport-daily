@@ -124,6 +124,9 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                     log.warning("Photos failed for %s: %s", a["id"], e)
     from .images import apply_overrides, load_overrides
     apply_overrides(articles, load_overrides())
+    from .images import ensure_match_card
+    for a in targets:
+        ensure_match_card(a)
     for a in targets:
         posted = {p.get("channel") for p in a.get("published_to") or []}   # re-publishing a correction never posts twice
         if cfg["publish"].get("telegram"):

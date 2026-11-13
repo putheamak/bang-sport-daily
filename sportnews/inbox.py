@@ -42,7 +42,7 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
             continue
         meta, body = parse(read_text(f))
         if meta.get("update") and not body and (meta.get("sources") or meta.get("facts_to_verify") is not None
-                                                or meta.get("slug")):
+                                                or meta.get("slug") or meta.get("match")):
             upd = _fix_details(meta)                 # sources / facts list only: no text change, no AI
             if upd:
                 out.append(upd)
@@ -88,6 +88,8 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
         }
         if meta.get("region"):
             a["region"] = meta["region"]
+        if isinstance(meta.get("match"), dict):          # result card: home, away, home_score, away_score, ...
+            a["match"] = meta["match"]
         if meta.get("photos"):               # your own charts/photos (photos/ folder) or Commons files
             from .images import resolve_entry
             imgs = []
@@ -102,6 +104,8 @@ def import_inbox(cfg: dict, date: str, state: dict) -> list[dict]:
                         im["ref"] = str(e["id"])      # lets the text place it with [[img:<id>]]
                     imgs.append(im)
             a["images"] = imgs[:10]
+            from .images import ensure_match_card
+            ensure_match_card(a)
         for lang in cfg["languages"].get("others", ["zh", "ru"]):
             if isinstance(loc.get(lang), dict) and loc[lang].get("headline"):
                 a[lang] = {k: loc[lang].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
@@ -180,6 +184,11 @@ def _add_translations(cfg: dict, meta: dict, body: str) -> dict | None:
 
 
 def _apply_details(a: dict, meta: dict) -> None:
+    if isinstance(meta.get("match"), dict):          # add a result card to an existing story
+        from .images import ensure_match_card
+        a["match"] = meta["match"]
+        a["images"] = [i for i in a.get("images") or [] if not i.get("card")]
+        ensure_match_card(a)
     if meta.get("slug"):
         # 'slug: headline' = new web address from the current English headline (or give the address itself).
         # The old address keeps working: it becomes a redirect to the new one.

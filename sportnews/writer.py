@@ -43,9 +43,15 @@ unless the TASK explicitly includes an editor's memo for this story.)
 OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing after it:
 {{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
   "tags": [str], "athletes": [str], "image_subjects": [str], "facts_to_verify": [str],
-  "sources_used": [{{"title": str, "url": str}}]}}
-- image_subjects: 2-4 exact English Wikipedia article titles for photos — the main people first, then teams,
-  venues or events (e.g. "Yao Ming", "Houston Rockets", "Toyota Center").
+  "sources_used": [{{"title": str, "url": str}}], "match": null or {{"competition": str, "date": "D Month YYYY",
+  "home": str, "away": str, "home_score": int, "away_score": int, "home_scorers": [str], "away_scorers": [str],
+  "note": str}}}}
+- match: ONLY when the story is about one finished match or game with a final score confirmed by the sources;
+  otherwise null. Scorers like "Esposito 26'" or "Esposito 61' (pen)"; leave lists empty if the sources do not
+  name scorers. note: one short line such as "Italy top Group A1". Never guess a score.
+- image_subjects: 3-4 exact English Wikipedia article titles for photos of what the story is about: the people
+  who decided it first (scorers, winners, coaches, the athlete), then teams, then the venue (e.g. "Yao Ming",
+  "Houston Rockets", "Toyota Center"). Never a person who is not in the story.
 - body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings written for THIS story
   (never generic headings like "My view", "Why this matters to me", "A view from ...").
 - social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
@@ -282,6 +288,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         "sport": en.get("sport") or ctx.get("sport") or "",
         "tags": en.get("tags", []), "athletes": en.get("athletes", []),
         "image_subjects": en.get("image_subjects", []),
+        "match": en.get("match") if isinstance(en.get("match"), dict) else None,
         "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
         "originality": locals().get("orig"),
         "grounded": bool(locals().get("cites")) or bool(ctx.get("source_links")),

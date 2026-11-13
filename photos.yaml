@@ -88,3 +88,24 @@
       caption: "Thomas Frank, in advanced talks to become Crystal Palace manager"
     - wikipedia: "Selhurst Park"
       caption: "Selhurst Park, Crystal Palace's home ground"
+
+# 13 Nov 2026 rule: at least 2 relevant pictures per story (people in the story first). Added for older stories.
+2026-11-13-news-b6bee9:
+  mode: add
+  photos:
+    - wikipedia: "Francesco Pio Esposito"
+      caption: "Francesco Pio Esposito, who scored twice against France"
+    - wikipedia: "Zinedine Zidane"
+      caption: "France coach Zinedine Zidane, beaten for the first time in charge"
+    - wikipedia: "Michael Olise"
+      caption: "Michael Olise, scorer of France's goal"
+2026-11-05-hist-52bd88:
+  mode: add
+  photos:
+    - wikipedia: "George Foreman"
+      caption: "George Foreman, heavyweight champion again at 45"
+2026-11-07-athl-e0c0a0:
+  mode: add
+  photos:
+    - wikipedia: "Stade Roland Garros"
+      caption: "Roland Garros in Paris, where Li Na won Asia's first Grand Slam singles title in 2011"
