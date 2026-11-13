@@ -1,105 +1,59 @@
 {
-  "updated": "2026-11-13T17:23:49+00:00",
+  "updated": "2026-11-13T22:53:15+00:00",
   "stories": [
     {
-      "key": "bc457fdab1",
-      "title": "СМИ: игроки сборной Португалии выйдут на поле в футболках с номером Роналду",
-      "summary": "",
+      "key": "9122200f55",
+      "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA",
+      "summary": "Чемпионка «Ролан Гаррос» — 2026, третья ракетка мира российская теннисистка Мирра Андреева стала первым игроком с 2018 года, которому удалось выиграть три первых матча на Итоговом турнире WTA в карьере.",
       "lang": "ru",
-      "sport": "football",
-      "outlets": 3,
+      "sport": "tennis",
+      "outlets": 4,
       "growth": 0,
-      "heat": 9.66,
-      "published": "2026-11-13T15:59:43+00:00",
+      "heat": 10.94,
+      "published": "2026-11-13T21:50:30+00:00",
       "refs": [
         {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6698436-andreeva-povtorila-rezultat-stivens-8-letnej-davnosti-v-ramkah-itogovogo-turnira-wta.html",
+          "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA"
+        },
+        {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/ronaldu-2131441884.html",
-          "title": "СМИ: игроки сборной Португалии выйдут на поле в футболках с номером Роналду"
+          "link": "https://ria.ru/20261114/andreeva-2131475475.html",
+          "title": "Андреева обыграла Шнайдер в матче итогового турнира WTA"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/igroki-sbornoy-portugalii-vyydut-na-match-s-daniey-v-futbolkah-s-7-m-nomerom-v-chest-ronaldu-2474549/",
-          "title": "Игроки сборной Португалии выйдут на матч с Данией в футболках с 7-м номером в честь Роналду"
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
+          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
         },
         {
           "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tM3FUakZrcFVSblRTYkpBLWE1Y2lVX3BVSEZybWVBckVjb1l5VXZfY3VLdE0yZUctdTFrX2dnZWoyYThJOGpYWVRtMlF4YTBYclRLdQ?oc=5",
-          "title": "Игроки Португалии выйдут на поле в футболках с 7-м номером в честь Роналду перед матчем с Данией. Комнату Криштиану в расположении сборной решили оставить пустой"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kOWMxNGFBY2Q5T0ZtdGJrTjZGSDhaaGY1R3Nac2I4b3FKc3ZBU0Npc3dJWlFDMzhkTXpqc19EbXBidDltTVBkN0lPWmo2SDJ1OUlDUEpCUWM?oc=5",
+          "title": "Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA: подробнолсти"
         }
       ]
     },
     {
-      "key": "1759fb3942",
-      "title": "Тейлор Фриц обыграл Лоренцо Музетти и вышел в финал турнира в Стокгольме",
-      "summary": "10-я ракетка мира американский теннисист Тейлор Фриц вышел в финал турнира категории ATP-250 в Стокгольме, Швеция.",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.34,
-      "published": "2026-11-13T17:18:17+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/tennis/news-6698112-tejlor-fric-lorenco-muzetti-rezultaty-matcha-13-noyabrya-2026-schyot-2-0-1-2-finala-atp-250.html",
-          "title": "Тейлор Фриц обыграл Лоренцо Музетти и вышел в финал турнира в Стокгольме"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/atp/news/teylor-fritc-lorenco-muzetti-schet-i-rezultat-polufinala-turnira-v-stokgolme-13-noyabrya-2026-2474598/",
-          "title": "Фритц победил Музетти и вышел в финал турнира в Стокгольме"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/tennis/1117435801-fricz-vyshel-v-25-j-final-v-karere.html",
-          "title": "Фриц вышел в 25-й финал в карьере"
-        }
-      ]
-    },
-    {
-      "key": "95acff5780",
-      "title": "Большунов обратится в CAS для получения нейтрального статуса от FIS",
-      "summary": "Генеральный секретарь Федерации лыжного спорта и сноуборда России Екатерина Галкина заявила, что лыжник Александр Большунов обратится в Спортивный арбитражный суд (CAS), чтобы добиться предоставления нейтрального статуса для участия в международных турнирах.",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.28,
-      "published": "2026-11-13T16:42:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/skiing/news/bolshunov-obratitsya-v-cas-dlya-polucheniya-neytralnogo-statusa-ot-fis-2474589/",
-          "title": "Большунов обратится в CAS для получения нейтрального статуса от FIS"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/bolshunov-2131449399.html",
-          "title": "Большунов обжалует в CAS отказ FIS в предоставлении нейтрального статуса"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/skiing/news-6698060-aleksandr-bolshunov-obratitsya-v-cas-s-iskom-protiv-resheniya-fis-po-nejtralnomu-statusu.html",
-          "title": "Александр Большунов обратится в CAS с иском против решения FIS по нейтральному статусу"
-        }
-      ]
-    },
-    {
-      "key": "a8aeaea9a5",
-      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
-      "summary": "Pochettino speaks in emotional press conference Today’s fixtures | Follow us on TikTok | Mail Dominic Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the ballon from its stone in Arthurian fashion, ",
+      "key": "226281c0dd",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened",
+      "summary": "Mauricio Pochettino gave an emotional press conference after his appointment as Michael Carrick’s successor at Manchester United was confirmed Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the bal",
       "lang": "en",
       "sport": "football",
-      "outlets": 3,
+      "outlets": 4,
       "growth": 0,
-      "heat": 8.87,
-      "published": "2026-11-13T17:05:32+00:00",
+      "heat": 10.91,
+      "published": "2026-11-13T18:37:09+00:00",
       "refs": [
         {
           "source": "The Guardian Sport",
           "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
-          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live"
+          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened"
+        },
+        {
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGdGYUhsWm5DT0h2S0E0cUN2THM2RzN1RmgxSFhZVGdEcnY4QzhiLTRwR0g2c2dYRENseGRURHlKby03S1ZobG42RlJ1d2lJWF9EakRzU3VJTUFNQkNuak5YaGJCQm8wSzhncUllNHhobFBKRTRoQUs5b0dpZ1FzUkl4TDd1dFhId2w4X3FVeFFqUQ?oc=5",
+          "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United"
         },
         {
           "source": "BBC Sport",
@@ -114,30 +68,86 @@
       ]
     },
     {
-      "key": "eec2c347e4",
-      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
-      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
-      "lang": "en",
-      "sport": "tennis",
+      "key": "7449dd062c",
+      "title": "Нидерланды — Греция: видеообзор матча Лиги наций",
+      "summary": "Сборная Нидерландов разгромила сборную Греции в матче группового турнира Лиги наций — 7:0.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.67,
+      "published": "2026-11-13T22:43:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/niderlandy-greciya-videoobzor-matcha-ligi-naciy-i-luchshie-momenty-igry-13-noyabrya-2026-goda-2474663/",
+          "title": "Нидерланды — Греция: видеообзор матча Лиги наций"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/liga-natsiy-2131477574.html",
+          "title": "Нидерланды разгромили Грецию в матче Лиги наций"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117436069-u-xavi-v-sbornoj-niderlandov-3-pobedy-2-nichix-raznicza-golov-145-koma.html",
+          "title": "У Хави в сборной Нидерландов 3 победы, 2 ничьих, разница голов – 14:5. Команда лидирует в группе Лиги наций"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6698396-niderlandy-greciya-rezultat-matcha-13-noyabrya-schet-7-0-liga-nacij-uefa-2026-2027.html",
+          "title": "Сборная Нидерландов забила семь безответных мячей команде Греции в Лиге наций УЕФА"
+        }
+      ]
+    },
+    {
+      "key": "2183c46c8d",
+      "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»",
+      "summary": "Главный тренер сборной Германии Юрген Клопп подвел итоги игры с Сербией (3:1) в Лиге наций. «Команда провела замечательный матч. Нам нужно привыкнуть к тому, что мы можем быть очень хороши. Конечно, мы могли забить больше голов, но сейчас мне это совершенно безразлично. Нельзя говорить о развитии и при этом требовать всего и сразу. Комбинации выглядели великолепно, во владении мячом мы доминировал",
+      "lang": "ru",
+      "sport": null,
       "outlets": 3,
       "growth": 0,
-      "heat": 7.87,
-      "published": "2026-11-13T01:23:06+00:00",
+      "heat": 8.54,
+      "published": "2026-11-13T22:36:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117436082-klopp-pro-31-s-serbiej-germaniya-mogla-zabit-bolshe-no-nelzya-govorit-.html",
+          "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6698408-serbiya-germaniya-rezultat-matcha-13-noyabrya-schet-3-1-liga-nacij-uefa-2026-2027.html",
+          "title": "Германия переиграла Сербию в матче Лиги наций УЕФА с автоголом и двумя удалениями"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/serbiya-germaniya-1-3-rezultat-matcha-ligi-naciy-13-noyabrya-2026-goda-2474652/",
+          "title": "Сербия проиграла Германии, у Бабича гол и автогол"
+        }
+      ]
+    },
+    {
+      "key": "686674c776",
+      "title": "France hold nerve to edge past South Africa in thriller",
+      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+      "lang": "en",
+      "sport": null,
+      "outlets": 2,
+      "growth": 0,
+      "heat": 6.56,
+      "published": "2026-11-13T22:47:44+00:00",
       "refs": [
         {
           "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
-          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+          "title": "France hold nerve to edge past South Africa in thriller"
         },
         {
           "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
-          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
-        },
-        {
-          "source": "Athlon Sports",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
-          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+          "link": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report",
+          "title": "France cling on for furious victory against South Africa after Dupont sizzles"
         }
       ]
     }
@@ -2104,6 +2114,156 @@
           "source": "Sky Sports",
           "link": "https://www.skysports.com/football/news/12040/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career",
           "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'"
+        }
+      ]
+    },
+    "9122200f55": {
+      "key": "9122200f55",
+      "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA",
+      "summary": "Чемпионка «Ролан Гаррос» — 2026, третья ракетка мира российская теннисистка Мирра Андреева стала первым игроком с 2018 года, которому удалось выиграть три первых матча на Итоговом турнире WTA в карьере.",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.94,
+      "published": "2026-11-13T21:50:30+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6698436-andreeva-povtorila-rezultat-stivens-8-letnej-davnosti-v-ramkah-itogovogo-turnira-wta.html",
+          "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/andreeva-2131475475.html",
+          "title": "Андреева обыграла Шнайдер в матче итогового турнира WTA"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
+          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kOWMxNGFBY2Q5T0ZtdGJrTjZGSDhaaGY1R3Nac2I4b3FKc3ZBU0Npc3dJWlFDMzhkTXpqc19EbXBidDltTVBkN0lPWmo2SDJ1OUlDUEpCUWM?oc=5",
+          "title": "Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA: подробнолсти"
+        }
+      ]
+    },
+    "226281c0dd": {
+      "key": "226281c0dd",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened",
+      "summary": "Mauricio Pochettino gave an emotional press conference after his appointment as Michael Carrick’s successor at Manchester United was confirmed Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the bal",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.91,
+      "published": "2026-11-13T18:37:09+00:00",
+      "refs": [
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened"
+        },
+        {
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGdGYUhsWm5DT0h2S0E0cUN2THM2RzN1RmgxSFhZVGdEcnY4QzhiLTRwR0g2c2dYRENseGRURHlKby03S1ZobG42RlJ1d2lJWF9EakRzU3VJTUFNQkNuak5YaGJCQm8wSzhncUllNHhobFBKRTRoQUs5b0dpZ1FzUkl4TDd1dFhId2w4X3FVeFFqUQ?oc=5",
+          "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/football/news/12040/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career",
+          "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'"
+        }
+      ]
+    },
+    "7449dd062c": {
+      "key": "7449dd062c",
+      "title": "Нидерланды — Греция: видеообзор матча Лиги наций",
+      "summary": "Сборная Нидерландов разгромила сборную Греции в матче группового турнира Лиги наций — 7:0.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.67,
+      "published": "2026-11-13T22:43:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/niderlandy-greciya-videoobzor-matcha-ligi-naciy-i-luchshie-momenty-igry-13-noyabrya-2026-goda-2474663/",
+          "title": "Нидерланды — Греция: видеообзор матча Лиги наций"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/liga-natsiy-2131477574.html",
+          "title": "Нидерланды разгромили Грецию в матче Лиги наций"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117436069-u-xavi-v-sbornoj-niderlandov-3-pobedy-2-nichix-raznicza-golov-145-koma.html",
+          "title": "У Хави в сборной Нидерландов 3 победы, 2 ничьих, разница голов – 14:5. Команда лидирует в группе Лиги наций"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6698396-niderlandy-greciya-rezultat-matcha-13-noyabrya-schet-7-0-liga-nacij-uefa-2026-2027.html",
+          "title": "Сборная Нидерландов забила семь безответных мячей команде Греции в Лиге наций УЕФА"
+        }
+      ]
+    },
+    "2183c46c8d": {
+      "key": "2183c46c8d",
+      "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»",
+      "summary": "Главный тренер сборной Германии Юрген Клопп подвел итоги игры с Сербией (3:1) в Лиге наций. «Команда провела замечательный матч. Нам нужно привыкнуть к тому, что мы можем быть очень хороши. Конечно, мы могли забить больше голов, но сейчас мне это совершенно безразлично. Нельзя говорить о развитии и при этом требовать всего и сразу. Комбинации выглядели великолепно, во владении мячом мы доминировал",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.54,
+      "published": "2026-11-13T22:36:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117436082-klopp-pro-31-s-serbiej-germaniya-mogla-zabit-bolshe-no-nelzya-govorit-.html",
+          "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6698408-serbiya-germaniya-rezultat-matcha-13-noyabrya-schet-3-1-liga-nacij-uefa-2026-2027.html",
+          "title": "Германия переиграла Сербию в матче Лиги наций УЕФА с автоголом и двумя удалениями"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/nation-league/news/serbiya-germaniya-1-3-rezultat-matcha-ligi-naciy-13-noyabrya-2026-goda-2474652/",
+          "title": "Сербия проиграла Германии, у Бабича гол и автогол"
+        }
+      ]
+    },
+    "686674c776": {
+      "key": "686674c776",
+      "title": "France hold nerve to edge past South Africa in thriller",
+      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+      "lang": "en",
+      "sport": null,
+      "outlets": 2,
+      "growth": 0,
+      "heat": 6.56,
+      "published": "2026-11-13T22:47:44+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+          "title": "France hold nerve to edge past South Africa in thriller"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report",
+          "title": "France cling on for furious victory against South Africa after Dupont sizzles"
         }
       ]
     }
