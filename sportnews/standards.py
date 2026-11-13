@@ -56,6 +56,7 @@ DEFAULTS = {
     "enabled": True,
     "block_on_publish": True,       # BLOCK problems stop the Publish workflow (use "publish-anyway" to override)
     "min_pictures": 2,              # each story needs at least this many relevant pictures (free licence or own work)
+    "min_pictures_from": "2026-11-14",  # stories from this date with fewer pictures cannot be published (BLOCK)
     "max_cover_photo_age_years": 3, # news cover photo older than this -> warning: use the latest free photo
     "min_sources_news": 2,          # news needs at least this many sources (one must be a major outlet)
     "max_source_age_days_news": 3,  # a news story's sources should be this fresh (judged from dates in links)
@@ -118,8 +119,11 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     # ---------------- PHOTOS: at least 2 relevant pictures per story (editor's rule, 13 Nov 2026)
     n_img = len([i for i in a.get("images") or [] if i.get("url")])
     if "images" in a and n_img < r.get("min_pictures", 2):
-        out.append(_issue("WARN", "photos", f"Only {n_img} picture(s). Rule: at least {r.get('min_pictures', 2)} relevant "
-                                            "pictures (people in the story, venue, match card). Add free photos in photos.yaml"))
+        # A rule from 14 Nov 2026: new stories cannot be published with fewer pictures (older ones only get a warning).
+        level = "BLOCK" if str(a.get("date", "")) >= r.get("min_pictures_from", "2026-11-14") else "WARN"
+        out.append(_issue(level, "photos", f"Only {n_img} picture(s). Rule: at least {r.get('min_pictures', 2)} relevant "
+                                           "pictures (people in the story, venue, match card). Add free photos in photos.yaml, "
+                                           "or use publish-anyway if no free photo exists"))
     # ---------------- PHOTOS: use the most recent free photo available (editor's rule, 10 Nov 2026)
     cover = (a.get("images") or [{}])[0]
     yr, story_yr = cover.get("year"), int(str(a.get("date") or "0000")[:4] or 0)
@@ -248,7 +252,7 @@ def auto_reject_reasons(cfg: dict, a: dict) -> list[str]:
     if not r.get("auto_reject", True) or a.get("model") in ("editor", "mock") or a.get("origin"):
         return []
     issues = a.get("standards") or check_article(cfg, a)
-    reasons = [i["msg"] for i in issues if i["level"] == "BLOCK"]
+    reasons = [i["msg"] for i in issues if i["level"] == "BLOCK" and i["area"] != "photos"]   # photos can be added later
     words = len(re.findall(r"\w+", (a.get("en") or {}).get("body_markdown", "")))
     need = r["min_words"].get(a.get("type", "news"), 250)
     if words < need:

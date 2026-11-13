@@ -829,3 +829,14 @@ def test_inbox_adds_match_card_to_existing_story(repo):
                                              "home: Vietnam U23, away: Singapore U23, home_score: 1, away_score: 0}\n---\n")
     new = inbox.import_inbox(cfg(), "2026-11-13", {})
     assert new and new[0]["images"][-1]["card"] and len(new[0]["images"]) == 2
+
+
+def test_two_pictures_blocks_new_stories(repo):
+    from sportnews import standards
+    a = {"type": "news", "date": "2026-11-14", "sources": [], "en": {"headline": "H", "body_markdown": "Text."},
+         "images": [{"url": "https://u/a.jpg"}]}
+    assert any(i["level"] == "BLOCK" and i["area"] == "photos" for i in standards.check_article(cfg(), a))
+    a.update(model="gemini", en={"headline": "H", "body_markdown": "word " * 400}, sources=[{"url": "https://a"}])
+    assert not any("picture" in r for r in standards.auto_reject_reasons(cfg(), a))   # fixable: never auto-rejected
+    a["date"] = "2026-11-12"                                   # older stories: warning only
+    assert not any(i["level"] == "BLOCK" and i["area"] == "photos" for i in standards.check_article(cfg(), a))
