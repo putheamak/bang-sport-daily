@@ -62,7 +62,7 @@ PRIVACY = {
 <p><em>Last updated: {updated}</em></p>
 <p>This policy explains what happens to your data when you visit Bang Sport Daily ("we"). The site is run by {author}.</p>
 <h2>What we collect</h2>
-<p>We do not ask you to create an account and we do not collect your name or email through this site. We do not use our own cookies or analytics at the moment.</p>
+<p>We do not ask you to create an account and we do not collect your name or email through this site. We do not use cookies. To count visits we use Cloudflare Web Analytics, which does not use cookies, does not track you across websites and does not store your IP address; it records only basic page-view data such as the page, the browser type and the country.</p>
 <h2>Services that receive technical data</h2>
 <ul>
 <li><strong>Hosting:</strong> the site is hosted by {host}. Like any web server, the host processes your IP address and browser information to deliver pages and keep them secure.</li>
@@ -78,7 +78,7 @@ PRIVACY = {
     "zh": ("隐私政策", """
 <p><em>最后更新：{updated}</em></p>
 <p>本政策说明您访问棒体育日报时数据如何处理。本站由 {author} 运营。</p>
-<h2>我们收集的信息</h2><p>本站不要求注册，也不通过网站收集您的姓名或邮箱。目前我们不使用自有 Cookie 或统计工具。</p>
+<h2>我们收集的信息</h2><p>本站不要求注册，也不通过网站收集您的姓名或邮箱。本站不使用 Cookie。我们使用 Cloudflare Web Analytics 统计访问量：它不使用 Cookie、不跨网站追踪您，也不保存您的 IP 地址，只记录页面、浏览器类型和国家等基本浏览数据。</p>
 <h2>接收技术数据的服务</h2>
 <ul><li><strong>托管：</strong>本站由 {host} 托管，服务器会处理您的 IP 地址和浏览器信息以提供页面并保障安全。</li>
 <li><strong>图片：</strong>图片从维基共享资源（upload.wikimedia.org）加载，加载时对方会收到您的 IP 地址。</li>
@@ -89,7 +89,7 @@ PRIVACY = {
     "ru": ("Политика конфиденциальности", """
 <p><em>Обновлено: {updated}</em></p>
 <p>Здесь описано, что происходит с вашими данными при посещении Bang Sport Daily. Сайт ведёт {author}.</p>
-<h2>Что мы собираем</h2><p>Регистрация не требуется; мы не собираем имя или e-mail через сайт и пока не используем собственные cookie и аналитику.</p>
+<h2>Что мы собираем</h2><p>Регистрация не требуется; мы не собираем имя или e-mail через сайт и не используем cookie. Для подсчёта посещений мы используем Cloudflare Web Analytics: этот сервис не использует cookie, не отслеживает вас на других сайтах и не сохраняет ваш IP-адрес, а записывает только базовые данные о просмотре — страницу, тип браузера и страну.</p>
 <h2>Сервисы, получающие технические данные</h2>
 <ul><li><strong>Хостинг:</strong> сайт размещён на {host}; сервер обрабатывает IP-адрес и данные браузера для показа страниц и защиты.</li>
 <li><strong>Фото:</strong> загружаются с Викисклада (upload.wikimedia.org), который получает ваш IP-адрес.</li>
