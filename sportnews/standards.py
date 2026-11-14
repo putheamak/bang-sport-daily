@@ -50,7 +50,10 @@ WEAK_SOURCES = ("blogspot.", "wordpress.com", "medium.com", "nigfooty.", "reddit
 STRONG_SOURCES = ("bbc.", "reuters.", "apnews.", "theguardian.", "skysports.", "espn.", "aljazeera.", "fifa.com",
                   "uefa.com", "olympics.com", "afc.com", "the-afc.com", "nba.com", "formula1.com", "nytimes.",
                   "xinhuanet.", "sina.", "sport-express.", "championat.", "tass.", "kyodonews.", "nikkansports.",
-                  "sponichi.", "atptour.", "britannica.com", "history.com", "boxrec.com", "olympedia.org", "thestar.com.my", "straitstimes.", "bangkokpost.", "khmertimeskh.", "phnompenhpost.", "vnexpress.", "insideworldfootball.", "the-afc.com", "aseanfootball.", "wtatennis.", "icc-cricket.", "worldathletics.", "fiba.basketball")
+                  "sponichi.", "atptour.", "britannica.com", "history.com", "boxrec.com", "olympedia.org", "thestar.com.my", "straitstimes.", "bangkokpost.", "khmertimeskh.", "phnompenhpost.", "vnexpress.", "insideworldfootball.", "the-afc.com", "aseanfootball.", "wtatennis.", "icc-cricket.", "worldathletics.", "fiba.basketball",
+                  "ufc.com", "onefc.com", "glorykickboxing.com", "rizinff.com", "k-1.co.jp", "bkfc.com", "pflmma.com",
+                  "rajadamnern", "wbcboxing.com", "ibf-usba-boxing.com", "wbo-int.com", "wbaboxing.com", "ringmagazine.com",
+                  "akp.gov.kh", "cambodianess.com", "mmafighting.com", "mmajunkie.", "sherdog.com", "boxingscene.com")
 
 DEFAULTS = {
     "enabled": True,

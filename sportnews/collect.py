@@ -30,11 +30,28 @@ def _published(entry) -> datetime | None:
     return None
 
 
+# Combat promotions and styles (case matters for GLORY and ONE, which are also ordinary words).
+COMBAT_RX = re.compile(
+    r"\b(UFC|MMA|GLORY \d+|GLORY Collision|GLORY kickboxing|RIZIN|K-1|ONE Championship|ONE Friday Fights|"
+    r"ONE Fight Night|ONE \d{2,3}\b|Rajadamnern|Lumpinee|BKFC|bare[- ]knuckle|PFL|Bellator|Kun Khmer|Bokator|"
+    r"Muay Thai|kickboxing|kickboxer)|(?i:\bkun khmer\b|\bmuay thai\b|\bkickbox)|"
+    r"(泰拳|踢拳|综合格斗|ONE冠军赛|武林风|昆仑决|кикбоксинг|тайский бокс|муай-тай|голые кулаки|голых кулаках)")
+
+
+def _hit(k: str, text: str) -> bool:
+    """Keyword match. Latin/Cyrillic keywords must start a word ('bout' must not match 'about')."""
+    if re.search(r"[\u4e00-\u9fff]", k):
+        return k in text
+    return re.search(r"(?<![\w])" + re.escape(k), text) is not None
+
+
 def detect_sport(text: str, sports: dict) -> str | None:
+    if "combat" in sports and COMBAT_RX.search(text or ""):
+        return "combat"
     text = text.lower()
     best, hits = None, 0
     for name, spec in sports.items():
-        n = sum(1 for k in spec.get("keywords", []) if k in text)
+        n = sum(1 for k in spec.get("keywords", []) if _hit(k, text))
         if n > hits:
             best, hits = name, n
     return best
@@ -208,7 +225,7 @@ def collect(cfg: dict) -> list[dict]:
     seen = read_json(SEEN, {"titles": []})
     items: list[dict] = []
     for feed in cfg.get("feeds", []):
-        items.extend(parse_feed(feed, cfg))
+        items.extend(parse_feed(feed, cfg, max_age_hours=feed.get("max_age_hours", 36)))
     items = cluster(items, seen["titles"][-2000:])
     for it in items:
         it["score"] = score(it, cfg)

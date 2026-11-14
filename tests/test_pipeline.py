@@ -852,3 +852,32 @@ def test_at_least_one_asian_story(repo):
     picked = ensure_asia([g1, g2, g3, sea, weak], [g1, g2, g3], 2)
     assert picked[:2] == [g1, sea] and g2 in picked[2:]                  # weakest non-Asian story becomes a spare
     assert ensure_asia([g1, g2, weak], [g1, g2], 2)[:2] == [g1, g2]     # too weak (under 30% of best): no forced pick
+
+
+def test_combat_watch_lists_kun_khmer_and_c_numbers(repo):
+    from sportnews import trending as T
+    from sportnews.collect import detect_sport
+    from sportnews.common import write_json
+    c = cfg()
+    assert detect_sport("Talk about the weekend in Premier League", c["sports"]) == "football"   # 'bout' in 'about'
+    assert detect_sport("GLORY 105: Rico Verhoeven wins", c["sports"]) == "combat"
+    assert detect_sport("Glory for Arsenal in the derby", c["sports"]) != "combat"
+    now = datetime.now(timezone.utc).isoformat()
+    def it(t, src, sport="combat"):
+        return {"title": t, "summary": "", "lang": "en", "sport": sport, "source": src, "link": "https://x/" + src,
+                "published": now, "score": 1.0}
+    items = [it("Islam Makhachev defends UFC title in Las Vegas", "ESPN"),
+             it("Islam Makhachev beats Tsarukyan to keep UFC title", "BBC"),
+             it("Prum Samnang wins Kun Khmer title in Phnom Penh", "Khmer Times"),
+             it("Rodri injured before Spain match", "Sky", "football"),
+             it("Rodri injury blow for Spain", "BBC", "football")]
+    combat = T.rank_combat(c, items)
+    titles = [s["title"] for s in combat]
+    assert any("Kun Khmer" in t for t in titles) and any("Makhachev" in t for t in titles)
+    assert not any("Rodri" in t for t in titles)
+    kun = next(s for s in combat if s["kun_khmer"])
+    assert kun["needs_source"] and combat[0] is kun          # Kun Khmer first, flagged for a 2nd source
+    msg = T.message([], combat)
+    assert "COMBAT WATCH" in msg and "C1." in msg and "needs a 2nd source" in msg
+    write_json(T.TRENDING, {"combat": combat})
+    assert T.parse_choice("1 C2") == [1, combat[1]["key"]]

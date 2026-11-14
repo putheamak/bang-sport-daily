@@ -129,6 +129,45 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
     return picked
 
 
+
+def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[dict]:
+    """Combat watch: the top combat-sport stories (MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle).
+    Kun Khmer stories are always listed, even with one outlet (marked: needs a 2nd source before writing)."""
+    from .collect import COMBAT_RX
+    cw = cfg.get("combat_watch") or {}
+    if not cw.get("enabled", True):
+        return []
+    always = [a.lower() for a in cw.get("always_include", ["kun khmer"])]
+    need = cw.get("min_outlets", 2)
+    pool = [it for it in items if it.get("sport") == "combat" or COMBAT_RX.search(it.get("title", ""))]
+    prev_n = {s["key"]: s["outlets"] for s in (prev or {}).get("combat", [])}
+    now = datetime.now(timezone.utc)
+    out = []
+    for g in _group(pool):
+        it = g["lead"]
+        n = len(g["outlets"])
+        text = f"{it['title']} {it.get('summary', '')}".lower()
+        kun = any(a in text for a in always)
+        if n < need and not kun:
+            continue
+        if _blocked(it["title"].replace("!", "").replace("！", "")):
+            continue
+        key = _key(it)
+        growth = n - prev_n.get(key, n)
+        age_h = 24.0
+        if it.get("published"):
+            try:
+                age_h = (now - datetime.fromisoformat(it["published"])).total_seconds() / 3600
+            except ValueError:
+                pass
+        heat = round(n * 2 + max(growth, 0) * 1.5 + max(0.0, 2 - age_h / 12) + it.get("score", 0) * 0.3
+                     + (6 if kun else 0), 2)
+        out.append({"key": key, "title": it["title"], "summary": (it.get("summary") or "")[:400], "lang": it["lang"],
+                    "sport": "combat", "outlets": n, "growth": growth, "heat": heat, "kun_khmer": kun,
+                    "needs_source": n < need, "published": it.get("published"), "refs": g["refs"][:8]})
+    out.sort(key=lambda s: -s["heat"])
+    return out[:cw.get("top", 5)]
+
 SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|MLB|NHL trade|waiver wire|"
         r"school|schools|schoolboys|grassroots|amateur|8U|U8|U10|U12|7s|"
         r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies)\b")
@@ -136,14 +175,21 @@ SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|
 FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺"}
 
 
-def message(stories: list[dict]) -> str:
+def message(stories: list[dict], combat: list[dict] | None = None) -> str:
     lines = ["🔥 TALKING POINTS (stories many outlets are covering now)", ""]
     for i, s in enumerate(stories, 1):
         rise = f", +{s['growth']} since last scan" if s.get("growth", 0) > 0 else ""
         names = ", ".join(r["source"] for r in s["refs"][:4])
         lines += [f"{i}. {FLAG.get(s['lang'], '')} {s['title']}",
                   f"   {s['outlets']} outlets{rise} · {s.get('sport') or 'sport'} · {names}", ""]
-    lines += ["To write short explainers, reply for example:", "write 1 3",
+    if combat:
+        lines += ["🥊 COMBAT WATCH (MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle)", ""]
+        for i, s in enumerate(combat, 1):
+            names = ", ".join(r["source"] for r in s["refs"][:4])
+            tag = " 🇰🇭" if s.get("kun_khmer") else ""
+            need = " · needs a 2nd source" if s.get("needs_source") else ""
+            lines += [f"C{i}. {FLAG.get(s['lang'], '')}{tag} {s['title']}", f"   {s['outlets']} outlet(s){need} · {names}", ""]
+    lines += ["To write short explainers, reply for example:", "write 1 3" + (" C1" if combat else ""),
               f"(or GitHub › Actions › Write trending stories: https://github.com/{REPO}/actions/workflows/{WRITE_WORKFLOW})",
               "They arrive as drafts for your review."]
     return "\n".join(lines)
@@ -156,6 +202,14 @@ def save_md(data: dict) -> None:
     for i, s in enumerate(data.get("sent") or data.get("stories") or [], 1):
         rows.append(f"{i}. **{s['title']}** ({s['lang']}, {s['outlets']} outlets)")
         rows += [f"   - [{r['source']}]({r['link']})" for r in s["refs"][:5]]
+    combat = data.get("combat_sent") or data.get("combat") or []
+    if combat:
+        rows += ["", "## Combat watch", "",
+                 "MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle. Write with C-numbers, e.g. `C1 C3`.", ""]
+        for i, s in enumerate(combat, 1):
+            need = ", needs a 2nd source" if s.get("needs_source") else ""
+            rows.append(f"C{i}. **{s['title']}** ({s['lang']}, {s['outlets']} outlet(s){need})")
+            rows += [f"   - [{r['source']}]({r['link']})" for r in s["refs"][:5]]
     (DATA / "trending.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
@@ -166,10 +220,11 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
     data = read_json(TRENDING, {})
     items = collect(cfg) if items is None else items
     stories = rank(cfg, items, data, tcfg.get("top", 5))
+    combat = rank_combat(cfg, items, data)
     now = datetime.now(timezone.utc)
-    data.update(updated=now.isoformat(timespec="seconds"), stories=stories)
+    data.update(updated=now.isoformat(timespec="seconds"), stories=stories, combat=combat)
     known = data.setdefault("known", {})
-    for st in stories:
+    for st in stories + combat:
         known[st["key"]] = st
     for k in list(known)[:-80]:                          # keep the newest 80
         known.pop(k, None)
@@ -183,8 +238,8 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
     if notify and stories and chat and os.environ.get("TELEGRAM_BOT_TOKEN") and not quiet and (due or new_top and
                                                                                               stories[0]["outlets"] >= 5):
         try:
-            telegram_send(chat, message(stories))
-            data.update(sent=stories, sent_at=now.isoformat(timespec="seconds"))
+            telegram_send(chat, message(stories, combat))
+            data.update(sent=stories, combat_sent=combat, sent_at=now.isoformat(timespec="seconds"))
             log.info("Talking points sent to Telegram (%d stories)", len(stories))
         except Exception as e:  # noqa: BLE001
             log.error("Talking points message failed: %s", e)
@@ -192,6 +247,8 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
         log.info("Talking points: %d stories (not sent now: due=%s quiet=%s)", len(stories), due, quiet)
     for i, s in enumerate(stories, 1):
         log.info("  %d. [%s %d outlets, heat %.1f] %s", i, s["lang"], s["outlets"], s["heat"], s["title"][:100])
+    for i, s in enumerate(combat, 1):
+        log.info("  C%d. [%s %d outlets, heat %.1f] %s", i, s["lang"], s["outlets"], s["heat"], s["title"][:100])
     write_json(TRENDING, data)
     save_md(data)
     return data
@@ -217,7 +274,23 @@ def parse_choice(text: str) -> list:
         import base64
         return [json.loads(base64.urlsafe_b64decode(text.strip()[4:].encode()).decode())]
     keys = re.findall(r"k:([0-9a-f]{6,})", text or "")
-    return keys if keys else parse_numbers(text)
+    if keys:
+        return keys
+    out: list = []
+    combat = None
+    for tok in re.findall(r"[cC]\s?\d+|\d+", text or ""):
+        if tok[0] in "cC":
+            if combat is None:
+                d = read_json(TRENDING, {})
+                combat = d.get("combat_sent") or d.get("combat") or []
+            i = int(tok[1:].strip())
+            if 1 <= i <= len(combat):
+                out.append(combat[i - 1]["key"])
+            else:
+                log.warning("Combat story C%d does not exist (list has %d)", i, len(combat))
+        else:
+            out.append(int(tok))
+    return out
 
 
 PUB_CMD = re.compile(r"^\s*/?(publish-anyway|publish|reject)\s+(.+)$", re.I)
@@ -499,6 +572,25 @@ def revise_draft(cfg: dict, req: dict) -> dict | None:
     return b
 
 
+def _more_refs(cfg: dict, s: dict, refs: list[dict]) -> list[dict]:
+    """One outlet only (often Kun Khmer): search Google News once for another outlet with the same story."""
+    from .collect import _src_key
+    from .corroborate import same_story, search_google_news
+    try:
+        found = search_google_news({"title": s["title"], "summary": s.get("summary", ""), "lang": s.get("lang", "en")}, cfg)
+    except Exception as e:  # noqa: BLE001
+        log.info("Second-source search failed: %s", e)
+        return refs
+    have = {_src_key(r.get("source", "")) for r in refs}
+    lead = {"title": s["title"], "lang": s.get("lang"), "sport": s.get("sport")}
+    for f in found:
+        k = _src_key(f.get("source", ""))
+        if k not in have and same_story(lead, {"title": f["title"], "lang": s.get("lang")}, title_only=True):
+            refs = refs + [{"source": f["source"], "link": f["link"], "title": f["title"]}]
+            have.add(k)
+    return refs
+
+
 def write_selected(cfg: dict, numbers: list) -> list[dict]:
     from .common import load_articles, save_articles, today
     from .pipeline import merge_articles
@@ -529,6 +621,8 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
             log.warning("Talking point %s does not exist (list has %d)", n, len(pool))
             continue
         refs = usable_refs(s)
+        if len(refs) < 2:
+            refs = _more_refs(cfg, s, refs)
         if len(refs) < 2:
             log.warning("Talking point %s skipped: fewer than 2 outlets report this exact story: %s", n, s["title"][:80])
             _notify(f"⚠️ Not written (only 1 outlet reports this exact story): {s['title']}")

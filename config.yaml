@@ -71,6 +71,14 @@ trending:
   read_replies: false       # true = the radar also acts on your Telegram replies (write / publish / reject).
                             # false = Telegram is read-only; write and publish on GitHub instead.
 
+# Combat watch: a second list in the radar, only combat sports (MMA, kickboxing, Muay Thai, Kun Khmer, boxing,
+# bare-knuckle). Numbered C1, C2 ... — write one with the "Write trending stories" workflow: C1 C3
+combat_watch:
+  enabled: true
+  top: 5
+  min_outlets: 2            # 2 outlets needed to write; Kun Khmer stories are LISTED even with 1 (marked "needs a 2nd source")
+  always_include: ["kun khmer", "khmer boxing", "bokator", "cambodian fighter", "cambodian boxer", "គុនខ្មែរ"]
+
 daily_plan:
   news: 2            # best sport stories of the last 24-36h (regionally balanced)
   history: 1         # "On this day in sport" (from Wikipedia's dated list, never from AI memory)
@@ -85,7 +93,11 @@ sports:
   football:   {weight: 1.5, keywords: ["football", "soccer", "premier league", "champions league", "la liga", "serie a", "bundesliga", "fifa", "uefa", "world cup", "足球", "中超", "футбол", "рпл"]}
   basketball: {weight: 1.3, keywords: ["nba", "basketball", "euroleague", "篮球", "cba", "баскетбол"]}
   tennis:     {weight: 1.0, keywords: ["tennis", "atp", "wta", "wimbledon", "us open", "roland garros", "australian open", "网球", "теннис"]}
-  combat:     {weight: 1.0, keywords: ["ufc", "mma", "boxing", "bout", "knockout", "拳击", "综合格斗", "бокс", "ммa", "мма"]}
+  combat:     {weight: 1.0, keywords: ["ufc", "mma", "boxing", "boxer", "bout", "knockout", "kickbox", "muay thai", "kun khmer",
+                                      "bokator", "rizin", "k-1", "one championship", "one friday fights", "rajadamnern",
+                                      "lumpinee", "bare knuckle", "bare-knuckle", "bkfc", "pfl", "bellator", "wbc", "wba",
+                                      "ibf", "wbo", "undisputed", "拳击", "综合格斗", "泰拳", "踢拳", "格斗", "武林风", "昆仑决",
+                                      "бокс", "мма", "кикбоксинг", "тайский бокс", "муай-тай", "голые кулаки", "нокаут", "юфс"]}
   motorsport: {weight: 0.8, keywords: ["formula 1", "f1", "grand prix", "motogp", "一级方程式", "формула-1", "формула 1"]}
   olympic:    {weight: 1.0, keywords: ["olympic", "athletics", "swimming", "gymnastics", "figure skating", "table tennis", "badminton", "volleyball", "奥运", "乒乓", "羽毛球", "排球", "олимп", "фигурн", "хоккей"]}
   hockey:     {weight: 0.8, keywords: ["nhl", "khl", "ice hockey", "冰球", "кхл", "нхл"]}
@@ -158,6 +170,14 @@ feeds:
   - {name: "中国新闻网 体育",   url: "https://www.chinanews.com.cn/rss/sports.xml", lang: zh}
   - {name: "Google News – Cambodia sport", url: "https://news.google.com/rss/search?q=(Cambodia+OR+Cambodian+OR+%22Phnom+Penh+Crown%22+OR+%22Svay+Rieng%22+OR+%22Boeung+Ket%22+OR+%22Visakha+FC%22)+(football+OR+sport+OR+%22SEA+Games%22+OR+boxing+OR+%22Kun+Khmer%22)+when:3d&hl=en-US&gl=US&ceid=US:en", lang: en}
   - {name: "Google News – Southeast Asia sport", url: "https://news.google.com/rss/search?q=(%22ASEAN+Championship%22+OR+%22SEA+Games%22+OR+Thailand+OR+Vietnam+OR+Indonesia+OR+Malaysia+OR+Philippines+OR+Singapore)+(football+OR+badminton+OR+boxing+OR+%22national+team%22)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  # Combat sports: MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle (feeds the daily run and the Combat watch)
+  - {name: "Google News – Combat promotions", url: "https://news.google.com/rss/search?q=(UFC+OR+%22ONE+Championship%22+OR+%22ONE+Friday+Fights%22+OR+%22GLORY+kickboxing%22+OR+RIZIN+OR+%22K-1%22+OR+Rajadamnern+OR+BKFC+OR+%22bare+knuckle%22+OR+PFL)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Boxing", url: "https://news.google.com/rss/search?q=boxing+(WBC+OR+WBA+OR+IBF+OR+WBO+OR+%22world+title%22+OR+undisputed)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Kun Khmer", url: "https://news.google.com/rss/search?q=(%22Kun+Khmer%22+OR+%22Khmer+boxing%22+OR+%22Cambodian+fighter%22+OR+%22Cambodian+boxer%22+OR+Bokator)+when:4d&hl=en-US&gl=US&ceid=US:en", lang: en, max_age_hours: 96}
+  - {name: "Google News – Единоборства (RU)", url: "https://news.google.com/rss/search?q=(UFC+OR+%D0%B1%D0%BE%D0%BA%D1%81+OR+%D0%9C%D0%9C%D0%90+OR+%D0%BA%D0%B8%D0%BA%D0%B1%D0%BE%D0%BA%D1%81%D0%B8%D0%BD%D0%B3+OR+%22%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B1%D0%BE%D0%BA%D1%81%22+OR+%22%D0%B3%D0%BE%D0%BB%D1%8B%D0%B5+%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D0%B8%22)+when:2d&hl=ru&gl=RU&ceid=RU:ru", lang: ru}
+  - {name: "Google News – 格斗 (ZH)", url: "https://news.google.com/rss/search?q=(UFC+OR+%E6%8B%B3%E5%87%BB+OR+%E7%BB%BC%E5%90%88%E6%A0%BC%E6%96%97+OR+%E6%B3%B0%E6%8B%B3+OR+%E8%B8%A2%E6%8B%B3+OR+ONE%E5%86%A0%E5%86%9B%E8%B5%9B)+when:2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
+  - {name: "MMA Fighting", url: "https://www.mmafighting.com/rss/current.xml", lang: en}
+  - {name: "Khmer Times Sport", url: "https://www.khmertimeskh.com/category/sport/feed/", lang: en}
 
 # ---------- Bylines: disclosed pen-name columnists ----------
 # Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:
