@@ -297,6 +297,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" href="feed.xml" title="RSS">
 <link rel="preload" href="../fonts/oswald-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="icon" href="../favicon.ico" sizes="32x32"><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon.png">
 <link rel="stylesheet" href="../style.css">{robots}{adsense}
 {extra_head}
 </head>
@@ -646,7 +647,7 @@ def _rss(cfg, lang, items):
 
 
 ROOT_INDEX = """<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{name}</title><link rel="stylesheet" href="style.css"></head><body class="pick">
+<title>{name}</title><link rel="icon" href="favicon.ico" sizes="32x32"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" href="style.css"></head><body class="pick">
 <main class="wrap"><h1 class="brand big"><b>BANG</b><span>SPORT</span><i>DAILY</i></h1>
 <div class="choose"><a href="en/index.html">English</a><a href="zh/index.html">中文</a><a href="ru/index.html">Русский</a></div></main>
 <script>try{{var l=(navigator.language||'en').slice(0,2);var m={{zh:'zh',ru:'ru',uk:'ru',be:'ru',kk:'ru'}}[l]||'en';
@@ -669,6 +670,8 @@ def build_site(cfg: dict) -> None:
     DOCS.mkdir(parents=True, exist_ok=True)
     shutil.copy(TEMPLATE_DIR / "site.css", DOCS / "style.css")
     shutil.copytree(TEMPLATE_DIR / "fonts", DOCS / "fonts", dirs_exist_ok=True)
+    for icon in (TEMPLATE_DIR / "brand").glob("*"):                 # tab icon (favicon) and phone home-screen icons
+        shutil.copy(icon, DOCS / icon.name)
     from .common import ROOT
     if (ROOT / "photos").is_dir():          # your own photos (see photos.yaml)
         shutil.copytree(ROOT / "photos", DOCS / "photos", dirs_exist_ok=True)

@@ -943,3 +943,11 @@ def test_site_url_uses_custom_domain(repo, monkeypatch):
     monkeypatch.setenv("GITHUB_REPOSITORY", "putheamak/bang-sport-daily")
     assert site_url({"site": {"custom_domain": "bangsportdaily.com"}}) == "https://bangsportdaily.com"
     assert site_url({"site": {"custom_domain": ""}}) == "https://putheamak.github.io/bang-sport-daily"
+
+
+def test_site_has_tab_icon(repo):
+    from sportnews.site import build_site
+    build_site(cfg())
+    for f in ("favicon.ico", "favicon.svg", "apple-touch-icon.png", "icon-192.png", "icon-512.png"):
+        assert (repo / "docs" / f).exists()
+    assert 'href="../favicon.ico"' in (repo / "docs/en/index.html").read_text()
