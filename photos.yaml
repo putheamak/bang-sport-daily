@@ -109,3 +109,10 @@
   photos:
     - wikipedia: "Stade Roland Garros"
       caption: "Roland Garros in Paris, where Li Na won Asia's first Grand Slam singles title in 2011"
+
+# Vietnam U23 win the VTV Cup: the "Pleiku" city article has the same lead photo as the stadium, so keep it once
+2026-11-14-news-ba849b:
+  mode: replace
+  photos:
+    - wikipedia: "Pleiku Stadium"
+      caption: "Pleiku Stadium, venue of the Gia Lai VTV Cup 2026"
