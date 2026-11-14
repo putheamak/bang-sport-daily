@@ -215,7 +215,8 @@ def test_site_layout_with_photo(repo):
     assert "pen name" not in (repo / "docs/en/about.html").read_text().lower()
     assert 'name="robots" content="noindex' in (repo / "docs/en/section-tennis.html").read_text()   # empty section
     assert 'hreflang="x-default"' in page and (repo / "docs/fonts/inter-latin-wght-normal.woff2").exists()
-    assert not (repo / "docs/ads.txt").exists() and not (repo / "docs/CNAME").exists()
+    assert not (repo / "docs/ads.txt").exists()
+    assert (repo / "docs/CNAME").read_text().strip() == "bangsportdaily.com"
     home = (repo / "docs/en/index.html").read_text()
     assert 'class="ticker"' in home and "section-athlete_story.html" in home
     assert (repo / "docs/zh/section-football.html").exists()
@@ -934,3 +935,11 @@ def test_combat_watch_ignores_nba_punch_and_ahead_of(repo):
              it("Fans worry about Kayla Harrison ahead of Amanda Nunes fight", "MMA Sucka", "en"),
              it("Kayla Harrison weight concern ahead of Amanda Nunes fight", "Yahoo", "en")]
     assert T.rank_combat(cfg(), items) == []
+
+
+def test_site_url_uses_custom_domain(repo, monkeypatch):
+    from sportnews.common import site_url
+    monkeypatch.delenv("SITE_URL", raising=False)
+    monkeypatch.setenv("GITHUB_REPOSITORY", "putheamak/bang-sport-daily")
+    assert site_url({"site": {"custom_domain": "bangsportdaily.com"}}) == "https://bangsportdaily.com"
+    assert site_url({"site": {"custom_domain": ""}}) == "https://putheamak.github.io/bang-sport-daily"

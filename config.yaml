@@ -20,14 +20,14 @@ site:
   author_bio_zh: "Mak 是棒体育日报的创办人兼主编，常驻柬埔寨金边，多年关注世界体育，每篇文章发布前均由他审核。"
   author_bio_ru: "Mak — основатель и редактор Bang Sport Daily. Живёт в Пномпене (Камбоджа), много лет следит за мировым спортом и проверяет каждый материал перед публикацией."
   contact_email: "bangsportdaily@gmail.com"             # a dedicated address readers can write to (required for AdSense). e.g. "hello@yourdomain.com"
-  custom_domain: ""             # e.g. "bangsportdaily.com" — needed for AdSense; writes docs/CNAME
+  custom_domain: "bangsportdaily.com"   # own domain, hosted on Cloudflare Pages; writes docs/CNAME
   adsense_client: ""            # e.g. "ca-pub-1234567890123456" — only after AdSense approval; adds ads.txt
   wire_box: true                # "Around the world" headlines from other outlets. Turn OFF before monetizing
                                 #   (some RSS feeds, e.g. BBC, allow non-commercial use only)
   timezone: "Asia/Phnom_Penh"
   # Your GitHub Pages address (used for links, sitemap, RSS). On GitHub Actions it is detected
   # automatically from the repo name, so it still works if you name the repo differently.
-  url: "https://putheamak.github.io/bang-sport-daily"
+  url: "https://bangsportdaily.com"
   # Your public Telegram channels (shown as "Follow us" buttons). Leave empty until they exist.
   telegram_en: "bangsportdaily"        # e.g. "bangsportdaily"  (without @)
   telegram_zh: "bangsportdaily_zh"

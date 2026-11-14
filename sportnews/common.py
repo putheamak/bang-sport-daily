@@ -104,8 +104,12 @@ def save_articles(items: list[dict]) -> None:
 
 
 def site_url(cfg: dict) -> str:
-    """SITE_URL env > GitHub repo (owner.github.io/repo) when running in Actions > config site.url."""
+    """SITE_URL env > custom domain > GitHub repo (owner.github.io/repo) when running in Actions > config site.url.
+    The custom domain wins over the repo address so every workflow (also those without SITE_URL) links to it."""
     u = os.environ.get("SITE_URL", "").strip()
+    dom = (cfg.get("site", {}).get("custom_domain") or "").strip().strip("/")
+    if not u and dom:
+        u = dom if dom.startswith("http") else f"https://{dom}"
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     if not u and repo and "/" in repo:
         owner, name = repo.split("/", 1)
