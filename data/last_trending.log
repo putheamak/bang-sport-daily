@@ -1,38 +1,43 @@
-2026-11-14 08:00:42,298 INFO BBC Sport                         41 items
-2026-11-14 08:00:42,425 INFO The Guardian Sport                24 items
-2026-11-14 08:00:42,516 INFO ESPN                               0 items
-2026-11-14 08:00:42,617 INFO Sky Sports                        17 items
-2026-11-14 08:00:42,890 INFO Google News – Sports (EN)         53 items
-2026-11-14 08:00:43,060 INFO Google News – 体育 (ZH)             29 items
-2026-11-14 08:00:43,650 INFO Google News – Спорт (RU)          42 items
-2026-11-14 08:00:44,365 INFO Championat                        25 items
-2026-11-14 08:00:45,354 INFO Sports.ru                         19 items
-2026-11-14 08:00:46,983 INFO Спорт-Экспресс                   432 items
-2026-11-14 08:00:47,903 INFO РИА Новости Спорт                 20 items
-2026-11-14 08:00:48,776 INFO 中国新闻网 体育                          22 items
-2026-11-14 08:00:49,144 INFO Google News – Cambodia sport      19 items
-2026-11-14 08:00:49,534 INFO Google News – Southeast Asia sport  31 items
-2026-11-14 08:00:50,153 INFO Google News – Combat promotions   80 items
-2026-11-14 08:00:50,526 INFO Google News – Boxing              41 items
-2026-11-14 08:00:50,778 INFO Google News – Kun Khmer            5 items
-2026-11-14 08:00:51,034 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-14 08:00:51,565 INFO Google News – Единоборства (RU)   94 items
-2026-11-14 08:00:52,054 INFO Google News – 格斗 (ZH)             74 items
-2026-11-14 08:00:52,203 INFO MMA Fighting                       9 items
-2026-11-14 08:00:52,441 INFO Google News – Khmer Times sport    4 items
-2026-11-14 08:00:53,401 INFO Candidate stories after clustering: 931
-2026-11-14 08:00:55,664 INFO Trending skipped (politics): Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна
-2026-11-14 08:00:55,666 INFO Trending skipped (politics): Министр спорта Республики Башкортостан: Уфа готова провести МЧМ-2027 вместо Канады
-2026-11-14 08:00:55,670 INFO Trending skipped (politics): Всемирный боксерский совет сохранил санкции в отношении российских спортсменов
-2026-11-14 08:00:55,672 INFO Trending skipped (politics): The WBC has maintained its sanctions against Russian and Belarusian boxers
-2026-11-14 08:00:55,833 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-14 08:00:55,833 INFO   1. [zh 9 outlets, heat 22.5] NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场
-2026-11-14 08:00:55,833 INFO   2. [ru 8 outlets, heat 17.5] Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с 
-2026-11-14 08:00:55,833 INFO   3. [en 6 outlets, heat 15.2] UFC 334: Gane vs. Hokit Live Fight Coverage
-2026-11-14 08:00:55,833 INFO   4. [ru 5 outlets, heat 14.2] Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового т
-2026-11-14 08:00:55,833 INFO   5. [en 4 outlets, heat 10.4] Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and 
-2026-11-14 08:00:55,833 INFO   C1. [ru 4 outlets, heat 11.3] Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC
-2026-11-14 08:00:55,833 INFO   C2. [en 4 outlets, heat 10.5] Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG
-2026-11-14 08:00:55,833 INFO   C3. [en 3 outlets, heat 8.7] Adames fights Warburton as Bentley targets 2027 bout with champion
-2026-11-14 08:00:55,833 INFO   C4. [en 1 outlets, heat 8.3] KF Arena Season 2 x KOMBAT 26: Phnom Penh
-2026-11-14 08:00:55,833 INFO   C5. [en 1 outlets, heat 8.3] KIF plans to expand workshops across South America
+2026-11-14 16:07:34,546 INFO BBC Sport                         35 items
+2026-11-14 16:07:34,687 INFO The Guardian Sport                24 items
+2026-11-14 16:07:34,727 INFO ESPN                               0 items
+2026-11-14 16:07:34,902 INFO Sky Sports                        19 items
+2026-11-14 16:07:35,092 INFO Google News – Sports (EN)         48 items
+2026-11-14 16:07:35,515 INFO Google News – 体育 (ZH)             21 items
+2026-11-14 16:07:35,749 INFO Google News – Спорт (RU)          44 items
+2026-11-14 16:07:36,595 INFO Championat                        29 items
+2026-11-14 16:07:37,327 INFO Sports.ru                         15 items
+2026-11-14 16:07:38,623 INFO Спорт-Экспресс                   444 items
+2026-11-14 16:07:39,667 INFO РИА Новости Спорт                 20 items
+2026-11-14 16:07:40,932 INFO 中国新闻网 体育                          24 items
+2026-11-14 16:07:41,283 INFO Google News – Cambodia sport      18 items
+2026-11-14 16:07:41,719 INFO Google News – Southeast Asia sport  52 items
+2026-11-14 16:07:42,241 INFO Google News – Combat promotions   62 items
+2026-11-14 16:07:42,605 INFO Google News – Boxing              41 items
+2026-11-14 16:07:42,842 INFO Google News – Kun Khmer            5 items
+2026-11-14 16:07:43,049 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-14 16:07:43,584 INFO Google News – Единоборства (RU)   89 items
+2026-11-14 16:07:44,074 INFO Google News – 格斗 (ZH)             56 items
+2026-11-14 16:07:44,265 INFO MMA Fighting                       9 items
+2026-11-14 16:07:44,542 INFO Google News – Khmer Times sport    7 items
+2026-11-14 16:07:45,344 INFO Candidate stories after clustering: 946
+2026-11-14 16:07:47,087 INFO Trending skipped (not our audience): ‍‍‍++[WATCHLIVE]NCAA!] PFL Dubai Nemkov vs. Bilostenniy Fight Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈ
+2026-11-14 16:07:47,088 INFO Trending skipped (politics): Роднину не удивил отказ FIS в нейтральном статусе Большунову
+2026-11-14 16:07:47,089 INFO Trending skipped (not our audience): 28 Goals, No Defeats: Brighton College (Singapore)’s U13 Boys Win the Straits Football 7s 
+2026-11-14 16:07:47,090 INFO Trending skipped (politics): Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334
+2026-11-14 16:07:47,090 INFO Trending skipped (politics): WBC Maintains Sanctions Against Belarusian Boxers
+2026-11-14 16:07:47,091 INFO Trending skipped (politics): Сборная России отказалась от участия в ЧЕ по боксу без флага и гимна
+2026-11-14 16:07:47,091 INFO Trending skipped (politics): Министр спорта Башкортостана: Уфа готова провести МЧМ-2027 вместо Канады
+2026-11-14 16:07:47,092 INFO Trending skipped (not our audience): Giants’ Cam Skattebo threw up a pretzel-wrapped hot dog in 2-touchdown effort vs. Commande
+2026-11-14 16:07:47,092 INFO Trending skipped (politics): Indonesia had ample time to appeal SEA Games sports selection, says OCM
+2026-11-14 16:07:47,192 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-14 16:07:47,192 INFO   1. [en 6 outlets, heat 15.2] LIVE UFC 334: Gane vs. Hokit Results & Highlights
+2026-11-14 16:07:47,192 INFO   2. [en 6 outlets, heat 15.0] Japan avenge World Cup loss with 3-2 win over Brazil amid late red-card drama in Singapore
+2026-11-14 16:07:47,192 INFO   3. [en 6 outlets, heat 14.2] Joe Rogan Identifies Major Problem Kayla Harrison Faces Against Amanda Nunes at UFC 334
+2026-11-14 16:07:47,192 INFO   4. [ru 4 outlets, heat 10.7] «Авангард» обыграл «Нефтехимик» в Нижнекамске, «Автомобилист» победил «Ак Барс»: Новости
+2026-11-14 16:07:47,192 INFO   5. [ru 3 outlets, heat 9.2] Щербинина и Петров лидируют после короткой программы на этапе Гран-при России в Омске
+2026-11-14 16:07:47,192 INFO   C1. [ru 5 outlets, heat 12.9] Сергей Павлович и Алекс Перейра провели дуэль взглядов
+2026-11-14 16:07:47,192 INFO   C2. [en 5 outlets, heat 12.2] Joe Rogan Identifies Major Problem Kayla Harrison Faces Against Amanda Nunes at UFC 334
+2026-11-14 16:07:47,192 INFO   C3. [ru 3 outlets, heat 9.3] Гольцов нокаутировал Джанту Нана в первом раунде на турнире PFL в Дубае
+2026-11-14 16:07:47,192 INFO   C4. [ru 3 outlets, heat 9.0] «Не прячься! Я отправлю Ислама в отставку из ММА». Карлос Пратес обратился к Махачеву
+2026-11-14 16:07:47,192 INFO   C5. [en 3 outlets, heat 8.4] We’re picking title fight upsets at UFC 334 at Madison Square Garden
