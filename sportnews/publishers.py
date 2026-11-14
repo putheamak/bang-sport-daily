@@ -127,6 +127,8 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
     from .images import ensure_match_card
     for a in targets:
         ensure_match_card(a)
+    from .images import unique_covers
+    unique_covers(articles, only=targets)          # every story has its own cover photo
     for a in targets:
         posted = {p.get("channel") for p in a.get("published_to") or []}   # re-publishing a correction never posts twice
         if cfg["publish"].get("telegram"):

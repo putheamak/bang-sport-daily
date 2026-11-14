@@ -116,6 +116,8 @@ def main(argv=None):
         arts = load_articles()
         changed = backfill(arts) if cfg["publish"].get("photos", True) else 0
         changed += apply_overrides(arts, load_overrides())
+        from .images import unique_covers
+        changed += unique_covers(arts)               # every story has its own cover photo
         if changed:
             save_articles(arts)
         build_site(cfg)

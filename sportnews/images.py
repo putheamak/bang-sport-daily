@@ -383,3 +383,63 @@ def ensure_match_card(a: dict) -> bool:
         log.info("Match card added to %s", a.get("id"))
         return True
     return False
+
+
+# ---------------------------------------------------------------- one cover photo per story (editor's rule, 14 Nov 2026)
+def photo_key(im: dict) -> str:
+    """Identity of a picture: its Commons page, or its address for our own files."""
+    url = im.get("url") or ""
+    if url.startswith("../photos/"):                 # our own files (combined covers, charts, match cards)
+        return url.lower()
+    return (im.get("page") or url).split("?")[0].strip().lower()
+
+
+def _story_time(a: dict) -> tuple:
+    return (str(a.get("date", "")), str(a.get("published_at") or a.get("created") or ""))
+
+
+def covers_in_use(articles: list[dict], a: dict, days: int = 60) -> set[str]:
+    """Cover photos of the OTHER stories from the `days` before this story (rejected stories do not count)."""
+    from datetime import date as Date, timedelta
+    try:
+        start = (Date.fromisoformat(str(a.get("date", ""))[:10]) - timedelta(days=days)).isoformat()
+    except ValueError:
+        start = ""
+    me = _story_time(a)
+    return {photo_key(o["images"][0]) for o in articles
+            if o is not a and o.get("id") != a.get("id") and o.get("status") != "rejected" and o.get("images")
+            and start <= str(o.get("date", "")) and _story_time(o) < me}
+
+
+def unique_covers(articles: list[dict], only: list[dict] | None = None, days: int = 60) -> int:
+    """No two stories may show the same cover photo. For each story (oldest first, so the earlier story keeps
+    its cover): drop a picture that appears twice inside the story, and if the cover is already another recent
+    story's cover, move the story's next unused picture (a person, a venue or the match card) to the front.
+    Returns how many stories changed. `only` limits the changes to those stories."""
+    changed = 0
+    todo = sorted([a for a in (only if only is not None else articles) if a.get("images") and a.get("status") != "rejected"],
+                  key=_story_time)
+    for a in todo:
+        before = [photo_key(i) for i in a["images"]]
+        seen, imgs = set(), []
+        for im in a["images"]:
+            k = photo_key(im)
+            if k and k in seen:
+                continue
+            seen.add(k)
+            imgs.append(im)
+        used = covers_in_use(articles, a, days)
+        if imgs and photo_key(imgs[0]) in used:
+            story_year = int(str(a.get("date") or "0")[:4] or 0)
+            free = [i for i in imgs[1:] if photo_key(i) not in used]
+            real = [i for i in free if not i.get("card")]           # a real photo (player, team, coach, venue) first;
+            recent = [i for i in real if not i.get("year") or story_year - i["year"] <= 3]
+            pick = (recent or real or free or [None])[0]            # the match card only when nothing else is left
+            if pick is not None:
+                imgs.remove(pick)
+                imgs.insert(0, pick)
+        a["images"] = imgs
+        if [photo_key(i) for i in imgs] != before:
+            changed += 1
+            log.info("Cover photo of %s changed: another story already uses that picture", a.get("id"))
+    return changed

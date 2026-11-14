@@ -116,3 +116,10 @@
   photos:
     - wikipedia: "Pleiku Stadium"
       caption: "Pleiku Stadium, venue of the Gia Lai VTV Cup 2026"
+
+# Pegula beats Noskova: the Pegula portrait is already the cover of the 7 Nov story, so the venue leads here
+2026-11-13-news-a068e9:
+  mode: add
+  photos:
+    - wikipedia: "Indian Wells Tennis Garden"
+      caption: "Indian Wells Tennis Garden, host of the 2026 WTA Finals"

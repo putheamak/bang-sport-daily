@@ -976,3 +976,27 @@ def test_indexnow_waits_one_run_then_submits(repo, monkeypatch):
     arts[0]["republished_at"] = "2026-11-14T15:00:00+07:00"                    # a correction is submitted again
     IN.run(c, arts, now=t0 + timedelta(hours=3), post=post)
     assert len(IN.run(c, arts, now=t0 + timedelta(hours=4), post=post)) == 3
+
+
+def test_every_story_has_its_own_cover(repo):
+    from sportnews.images import unique_covers
+    from sportnews.standards import check_article
+    from sportnews.common import save_articles
+    def im(page, **k):
+        return dict({"url": "https://upload.wikimedia.org/x.jpg", "page": page, "license": "CC BY 4.0", "year": 2025}, **k)
+    card = {"url": "../photos/card-b.png", "page": "", "card": True, "year": 2026}
+    a = {"id": "2026-11-13-news-aaaaaa", "date": "2026-11-13", "created": "1", "status": "published", "type": "news",
+         "images": [im("commons/File:Stadium.jpg")]}
+    b = {"id": "2026-11-14-news-bbbbbb", "date": "2026-11-14", "created": "2", "status": "draft", "type": "news",
+         "images": [im("commons/File:Stadium.jpg"), im("commons/File:Stadium.jpg"), dict(card), im("commons/File:Coach.jpg")]}
+    c = {"id": "2026-11-15-news-cccccc", "date": "2026-11-15", "created": "3", "status": "draft", "type": "news",
+         "images": [im("commons/File:Stadium.jpg")], "en": {"headline": "H", "body_markdown": "x"}}
+    arts = [a, b, c]
+    assert unique_covers(arts) == 1
+    assert a["images"][0]["page"].endswith("Stadium.jpg")                       # the earlier story keeps its cover
+    assert [i["page"] for i in b["images"]] == ["commons/File:Coach.jpg", "commons/File:Stadium.jpg", ""]   # real photo
+    #   first, the duplicate inside the story removed, the match card only as a last resort
+    save_articles([dict(x) for x in arts])
+    probs = check_article(cfg(), c, "2026-11-15")
+    assert any(p["level"] == "BLOCK" and "cover" in p["msg"].lower() for p in probs)   # no other picture: blocked
+    assert not any("cover of another" in p["msg"] for p in check_article(cfg(), dict(b, en={"headline": "H"}), "2026-11-15"))

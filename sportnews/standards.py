@@ -61,6 +61,8 @@ DEFAULTS = {
     "min_pictures": 2,              # each story needs at least this many relevant pictures (free licence or own work)
     "min_pictures_from": "2026-11-14",  # stories from this date with fewer pictures cannot be published (BLOCK)
     "max_cover_photo_age_years": 3, # news cover photo older than this -> warning: use the latest free photo
+    "cover_unique_days": 60,        # a story's cover photo must not be the cover of another story from the last N days
+    "cover_unique_from": "2026-11-15",  # stories from this date with a repeated cover cannot be published (BLOCK)
     "min_sources_news": 2,          # news needs at least this many sources (one must be a major outlet)
     "max_source_age_days_news": 3,  # a news story's sources should be this fresh (judged from dates in links)
     "max_story_age_days_news": 4,   # news drafts older than this should be updated or rejected before publishing
@@ -133,6 +135,16 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     if kind == "news" and yr and story_yr and story_yr - yr > r.get("max_cover_photo_age_years", 3):
         out.append(_issue("WARN", "photos", f"Cover photo is from {yr}. Use the most recent free photo available "
                                             "(for example the latest title celebration), even if it is not from this event"))
+
+    # ---------------- PHOTOS: every story has its own cover photo (editor's rule, 14 Nov 2026)
+    if cover.get("url"):
+        from .common import load_articles
+        from .images import covers_in_use, photo_key
+        if photo_key(cover) in covers_in_use(load_articles(), a, r.get("cover_unique_days", 60)):
+            level = "BLOCK" if str(a.get("date", "")) >= r.get("cover_unique_from", "2026-11-15") else "WARN"
+            out.append(_issue(level, "photos", "The cover photo is already the cover of another recent story. Choose a "
+                                               "different free photo in photos.yaml (a person in the story, another view of "
+                                               "the venue), or use publish-anyway if none exists"))
 
     # ---------------- ETHICS
     if BETTING.search(text + " " + social):
@@ -277,6 +289,13 @@ def summary_lines(issues: list[dict], limit: int = 12) -> list[str]:
 
 def stamp(cfg: dict, articles: list[dict], today: str | None = None) -> None:
     """Store the current check result on each story (shown in review messages and the audit)."""
+    try:                               # give each new story its own cover before it is checked
+        from .common import load_articles
+        from .images import unique_covers
+        ids = {a.get("id") for a in articles}
+        unique_covers(list(articles) + [o for o in load_articles() if o.get("id") not in ids], only=list(articles))
+    except Exception as e:  # noqa: BLE001
+        log.warning("Cover check skipped: %s", str(e)[:200])
     for a in articles:
         a["standards"] = check_article(cfg, a, today)
 
