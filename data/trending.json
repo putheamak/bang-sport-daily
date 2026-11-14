@@ -1,68 +1,15 @@
 {
-  "updated": "2026-11-14T07:32:22+00:00",
+  "updated": "2026-11-14T08:00:55+00:00",
   "stories": [
-    {
-      "key": "4db939060d",
-      "title": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили",
-      "summary": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили Meduza",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 10,
-      "growth": -1,
-      "heat": 21.58,
-      "published": "2026-11-13T14:12:00+00:00",
-      "refs": [
-        {
-          "source": "Meduza",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR1oxX0RDaDE4ZzRqMEVoYVJ1aXhlMVhLUUcwQ3BabFNxaG04RUhjTmZ1T3BuLXMtZXEyV25yZklkc0Fod2NYcWpLekN5X3oxUWJzdXpiM3U4cTJ1Um1zVlYyNmJwZFI1WFZRSzNubEZzU3J6UG1nZUsxZDBWWWJoYmFQR0JyZE9CREVfV18xS09qbGIteTBGdWlablRMWnBCRmxhMm1aVGFGSDh0LWVoUFpQaUh0M2dFb3pJaDdhU2I1YUlpNUZOeE5iUlBIbV9yaFpOMS0zaG1kVDZMOXhGcndVTTF5UjFWVDhLX3JpbzBvN0hrNGFxX2VsVWk2R2FLck9LRkstYkhrUdIBjwJBVV95cUxQdFh4MzBMdXhVaWNJRE9RdUZBSVFMYWhKazNsYXZQR3ctWm8wZzRaVzhlWXllbXpxTlZwcjU2OXZ1UFRKa1RJeWc5U3V0aHJiZzdQMU1xb1V2QldEdXFVVHhtaU1QSEJMWi1pMlRKblNSekI4djBDLXlUcC1UYTFJaGVYSHB0OUk3OHM2aU15dGF2XzZLd0FkcHhxZkJfZldFYWlkbGZ4MXpsaEJNWVJ6Rk9ONFF6cGM0Qnd3c2dDZjJZZ2xZeFZIWkNuREpRTDhDRG9tQ0JwUk1acXJ5a2tmUTh6a0dNUU13eEFtcWEzREptYXVvWGxpZlk4VGNfTENqQkRyTi1aRUtPTkJtbDBz?oc=5",
-          "title": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили"
-        },
-        {
-          "source": "Телеканал «Дождь»",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTBtQ1hxSGxPdUwxaDNlSUthZTJEZXVwMUtmLVV4cVVUNFE2YURQelNzcElPUkoyekVSQ0hxdW1wejQ0Vy1oVXlnZUFVNmw4MVBRdVQ5ck1Yb3RLTzY3MkdnM0Y5U1BheDJERHJLZm1vQ2RMRGx5dm9qY0xSdEFsbzlFX2hJVElIX0lKTUQ2TXI0c1dvZ0RFR0ZEcFdxMWJXaWxvZkRzYWNSb2t2T2RndF9vaG5pMDFuZ2VYdTZQNHUyeEhxaEtyZ3ZyWWRpUdIBQ0FVX3lxTE9WNFJSZURmSDZBTnRUUTlfdnd6RWlKZVN0VzRzV2czQWFuQjBlUHNaRzMtQ1FzdnJ5dEt5NTJySmJVMGM?oc=5",
-          "title": "В ОАЭ на полгода арестовали российского бойца ММА Усмана Нурмагомедова за драку с Мерабом Двалишвили"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usmana-nurmagomedova-arestovali-na-shest-mesyacev-v-oae-2474479/",
-          "title": "ТАСС: Усмана Нурмагомедова арестовали на шесть месяцев в ОАЭ"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcDRPVHUyNElJVXlrMVhnelJETVlmVXAxamFaTU83Sm9TRldodVh4ZVN2cXFpX2xBekxSVmtiR0staXBnU0duYmF3dndyUUdpOVJhM3RVMFhFbHhyOGdFelBlOERFaERVRXBzSkhBU0hBTW44cFRiWTk1RnhDbGdWU2R4X1RJa0tjc1U2ZlBjZEdpYjdtbjJpVndrN2M0NlJyMUNBVmVWQlFVVGhwOG4ta1oxSlZkRkhnQVphWGNfZXMyMTcwb1hCSnFveHRyUXN5NmpqOXRUcWs4U3dRWUE1WDRId2hnMHVNaDBDRFNIV0RWeDBZeWFhNVVDaHpuNUZ4MXFfWTlFZw?oc=5",
-          "title": "«Везде, где появляется команда Хабиба, обычно происходят драки». Глава UFC — о потасовке Усмана Нурмагомедова и Двалишвили"
-        },
-        {
-          "source": "АмурПолит.Ру",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzctakVPYy1BQm1uR1A5U2ZOR1Z0bmF3RWNqYTVPOGgxbGdXSXdaeUkxQkpfaFZ4dGtZcFBVWlhzRG4tYUlVclZWaXJyRWZ1cElUbGdWbGIxbk02dFVjVDdCOVNaUnhRWmhwT2NUcWUzTFkwZDJHMVpfZ0VxZVZseklrR0VJdlZSVWlDVHJ5dGNJejVibVNBbjJOUlVJYU4wbXc0TG1ENkJ0MmcwSzN3NDM5Yw?oc=5",
-          "title": "Борец Садулаев прошел по скандалу с бойцом UFC Мерабом Двалишвили в Абу-Даби"
-        },
-        {
-          "source": "ТВ Mail",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GR0R0eTRxR1pEaEktT3BmY3Y3TmdqVUFkdENZR3pOd2FpYUJMNmxwemdDdVpqSWtoYTU1b3JGRHZrU2VJQmM1OTE0Y2JxWUFxR0xQeXZjT0VfTDJKWXE4dmZhMjNuMWZ3VWhr?oc=5",
-          "title": "«Смешанные единоборства. UFC 316. Мераб Двалишвили против Шона О’Мэлли. Джулианна Пенья против Кайлы Харрисон. Трансляция из США» — расписание на ТВ Mail"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObm9EdmlJTDNoVXBUYW40ZkprdnM0TS04Qm5YOWlHYnVBV1FadUtyRm9OTU1uLWU3bUJwbDBGSTAxT1daVWtKZGJTOVYzWm1pUGVhck9FVWw3R0d1UHZvNFFtN0w2bUpwbDNTVjVxbmh0dThvMlBkdDY0QTVpREs0UTRpVlFSV0s0V1FMNWNBVll5UDNuZ3V0VGR6MkVFZzk5ajVfM3FSekRJWnpiVl9MQk5qZi1qNU14X1FBb2k0NjhQdmwtTXBJOW1ySFpxMnN6dHAzMC03YnJTcmvSAeABQVVfeXFMUGsxNzY5SUFDYVFkU0ZHb2pYekVvTXpaYjE3RVhXX1d6dmNQSlk2M3kzTTlYbDhpcmVxVllWTEVfU2N6Z19ReHUtOHo2X0xBMldJVW82akQ4aFpMWmZSdXFnV0NZM1pHcTlYQThWcmFxWHdKOGt4UFRBUFFicmhFajZ6cDFEMGxrT3d3SFZlWmN5THp0R3NLaWVtNFlpdUNqWm5rcmQtRWdEWWpwZUNVamJFTUdPbjZSYkxKcWFlTVB0Q2FfVE5qTXBTYWpjMmxkRjhrenhkUnF2QjV3LXFObjY?oc=5",
-          "title": "Экс-чемпион UFC осудил драку с участием Двалишвили и Нурмагомедова: «Мы сами виноваты, что это продается»"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkYycmxNMHZSOTc4WGdfeGFVUTFzUElSeXBSVDZISHBVdzlERTFUQVNseENOMFEzd0JlOGtQdXdxa3RXa0hHajRxUzNXVHRYaVZ5QTdJUlgycHV1QllEZE9lQXhVbWJOQ1BmU2owMWJWTGxfdk9MUEZRS1o4SVp3ZmRqb3BReXZfd0dSSU1mUVpnWk1kMnpjRDhBRUZZMjNIbTU5WGZpTEtYcXlObTdGeHFvTFFKVmM?oc=5",
-          "title": "Глава UFC впервые прокомментировал нападение Нурмагомедова на Двалишвили"
-        }
-      ]
-    },
     {
       "key": "f6df43b4c3",
       "title": "NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场",
       "summary": "NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场 Sohu",
       "lang": "zh",
       "sport": "basketball",
-      "outlets": 8,
-      "growth": 0,
-      "heat": 19.02,
+      "outlets": 9,
+      "growth": 1,
+      "heat": 22.47,
       "published": "2026-11-14T05:27:13+00:00",
       "refs": [
         {
@@ -81,6 +28,21 @@
           "title": "NBA官方：斯马特因挥拳击打对手面部被罚停薪+禁赛3场-yeeyi"
         },
         {
+          "source": "虎扑",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZlNmcDRQeEUtRlVkMTRVcEs2cTRjemFlVUpFOURIdHVkdVc0c3VHdkdtTkhMU0tkc2hFWEJKSmh0am1QRVhfdHFpVQ?oc=5",
+          "title": "[流言板]NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
+        },
+        {
+          "source": "QQ News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUFdYUXB2SlpOZHlxNUxsSHRLeVl6Q2trVkVnT3o0QWVSbDc4VHBSaXpjdHpMSkZCaHNvQm1OcEdMZFpuOGhVSmM3UE9UT0F1a3pyQmlB?oc=5",
+          "title": "NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
+        },
+        {
+          "source": "企鹅体育",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYN3d4TEwtNzNaZzFmVm1pYmlvZ1hVM2JlcEFVYnE2bXhpbDA1bzRKb3ZMY1Y1SlU0QnRlQ2c3bEZ0RWVFS3c3QnhEU0hlYkJ0WmZGc1FaM0c?oc=5",
+          "title": "NBA官宣：斯马特挥拳击中巴锡面部无薪禁赛3场 从对阵爵士开始执行"
+        },
+        {
           "source": "7M体育",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GalB1MlAwcGtYZFItYi1ERFlTWVU1T2RWM1VRRnpBajJWQmRXWE1WTDRHM2s1aDY5eDVaYlNtRzZLejNsQjBqajRFTGVVUWZDNEEyTEVTTVhPdTg?oc=5",
           "title": "NBA官方:斯玛特挥拳击打贝西 将停薪禁赛三场"
@@ -89,39 +51,82 @@
           "source": "懂球帝",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16aGFiMXRQbW9qNmtYRXN6Ti1HWjlyN2FXcVM3X0ZOZkNZcW85b0NrVENYRjVTMHdKSWZib0N2RkQ3eVUwTW1lMWpWUG02cEFCVUNVMFRVUQ?oc=5",
           "title": "NBA官方：挥拳击中勇士球员巴锡面部，斯马特被禁赛停薪三场"
-        },
-        {
-          "source": "新浪网",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUtTYmlzaG14eDFVSC0xaEoxaE5QWWJGU2d6cFlVX1VkajRRSHVPeVppTGF5SjVvUHBPSWZFdFB5aXBXX0pfWEJaN0ZDV1ZoSkQxdjhYUExHajBHOTlvRTRvZmhIWHoyck05eVpaYVkyZ2ZhaUdSbzJjakRwYTZkOTJFdmk?oc=5",
-          "title": "💥严惩！NBA官方：斯玛特因挥拳击中贝西面部 停薪禁赛三场！"
-        },
-        {
-          "source": "虎扑",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZlNmcDRQeEUtRlVkMTRVcEs2cTRjemFlVUpFOURIdHVkdVc0c3VHdkdtTkhMU0tkc2hFWEJKSmh0am1QRVhfdHFpVQ?oc=5",
-          "title": "[流言板]NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
-        },
-        {
-          "source": "企鹅体育",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ES09rMEtadGhxbHpkMXg5UlNRSTZBNXFCa0UyS1FlSlViX19hRDlSczNuTi1KU0daN0psVjRMelo0MU9HT2JDbXFtMlNwZXpGS3hsSXdzdTdfLVR3ZlZydA?oc=5",
-          "title": "NBA官宣：斯马特挥拳击中巴锡面部无薪禁赛3场 从对阵爵士开始执行"
         }
       ]
     },
     {
-      "key": "552ef2bef6",
-      "title": "Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334",
-      "summary": "Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334 Yahoo Sports",
-      "lang": "en",
+      "key": "4db939060d",
+      "title": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили",
+      "summary": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили Meduza",
+      "lang": "ru",
       "sport": "combat",
-      "outlets": 7,
-      "growth": 0,
-      "heat": 17.11,
-      "published": "2026-11-14T05:09:04+00:00",
+      "outlets": 8,
+      "growth": -2,
+      "heat": 17.53,
+      "published": "2026-11-13T14:12:00+00:00",
       "refs": [
         {
+          "source": "Meduza",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR1oxX0RDaDE4ZzRqMEVoYVJ1aXhlMVhLUUcwQ3BabFNxaG04RUhjTmZ1T3BuLXMtZXEyV25yZklkc0Fod2NYcWpLekN5X3oxUWJzdXpiM3U4cTJ1Um1zVlYyNmJwZFI1WFZRSzNubEZzU3J6UG1nZUsxZDBWWWJoYmFQR0JyZE9CREVfV18xS09qbGIteTBGdWlablRMWnBCRmxhMm1aVGFGSDh0LWVoUFpQaUh0M2dFb3pJaDdhU2I1YUlpNUZOeE5iUlBIbV9yaFpOMS0zaG1kVDZMOXhGcndVTTF5UjFWVDhLX3JpbzBvN0hrNGFxX2VsVWk2R2FLck9LRkstYkhrUdIBjwJBVV95cUxQdFh4MzBMdXhVaWNJRE9RdUZBSVFMYWhKazNsYXZQR3ctWm8wZzRaVzhlWXllbXpxTlZwcjU2OXZ1UFRKa1RJeWc5U3V0aHJiZzdQMU1xb1V2QldEdXFVVHhtaU1QSEJMWi1pMlRKblNSekI4djBDLXlUcC1UYTFJaGVYSHB0OUk3OHM2aU15dGF2XzZLd0FkcHhxZkJfZldFYWlkbGZ4MXpsaEJNWVJ6Rk9ONFF6cGM0Qnd3c2dDZjJZZ2xZeFZIWkNuREpRTDhDRG9tQ0JwUk1acXJ5a2tmUTh6a0dNUU13eEFtcWEzREptYXVvWGxpZlk4VGNfTENqQkRyTi1aRUtPTkJtbDBz?oc=5",
+          "title": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили"
+        },
+        {
+          "source": "Телеканал «Дождь»",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTBtQ1hxSGxPdUwxaDNlSUthZTJEZXVwMUtmLVV4cVVUNFE2YURQelNzcElPUkoyekVSQ0hxdW1wejQ0Vy1oVXlnZUFVNmw4MVBRdVQ5ck1Yb3RLTzY3MkdnM0Y5U1BheDJERHJLZm1vQ2RMRGx5dm9qY0xSdEFsbzlFX2hJVElIX0lKTUQ2TXI0c1dvZ0RFR0ZEcFdxMWJXaWxvZkRzYWNSb2t2T2RndF9vaG5pMDFuZ2VYdTZQNHUyeEhxaEtyZ3ZyWWRpUdIBQ0FVX3lxTE9WNFJSZURmSDZBTnRUUTlfdnd6RWlKZVN0VzRzV2czQWFuQjBlUHNaRzMtQ1FzdnJ5dEt5NTJySmJVMGM?oc=5",
+          "title": "В ОАЭ на полгода арестовали российского бойца ММА Усмана Нурмагомедова за драку с Мерабом Двалишвили"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usmana-nurmagomedova-arestovali-na-shest-mesyacev-v-oae-2474479/",
+          "title": "ТАСС: Усмана Нурмагомедова арестовали на шесть месяцев в ОАЭ"
+        },
+        {
+          "source": "АмурПолит.Ру",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzctakVPYy1BQm1uR1A5U2ZOR1Z0bmF3RWNqYTVPOGgxbGdXSXdaeUkxQkpfaFZ4dGtZcFBVWlhzRG4tYUlVclZWaXJyRWZ1cElUbGdWbGIxbk02dFVjVDdCOVNaUnhRWmhwT2NUcWUzTFkwZDJHMVpfZ0VxZVZseklrR0VJdlZSVWlDVHJ5dGNJejVibVNBbjJOUlVJYU4wbXc0TG1ENkJ0MmcwSzN3NDM5Yw?oc=5",
+          "title": "Борец Садулаев прошел по скандалу с бойцом UFC Мерабом Двалишвили в Абу-Даби"
+        },
+        {
+          "source": "ТВ Mail",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GR0R0eTRxR1pEaEktT3BmY3Y3TmdqVUFkdENZR3pOd2FpYUJMNmxwemdDdVpqSWtoYTU1b3JGRHZrU2VJQmM1OTE0Y2JxWUFxR0xQeXZjT0VfTDJKWXE4dmZhMjNuMWZ3VWhr?oc=5",
+          "title": "«Смешанные единоборства. UFC 316. Мераб Двалишвили против Шона О’Мэлли. Джулианна Пенья против Кайлы Харрисон. Трансляция из США» — расписание на ТВ Mail"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcDRPVHUyNElJVXlrMVhnelJETVlmVXAxamFaTU83Sm9TRldodVh4ZVN2cXFpX2xBekxSVmtiR0staXBnU0duYmF3dndyUUdpOVJhM3RVMFhFbHhyOGdFelBlOERFaERVRXBzSkhBU0hBTW44cFRiWTk1RnhDbGdWU2R4X1RJa0tjc1U2ZlBjZEdpYjdtbjJpVndrN2M0NlJyMUNBVmVWQlFVVGhwOG4ta1oxSlZkRkhnQVphWGNfZXMyMTcwb1hCSnFveHRyUXN5NmpqOXRUcWs4U3dRWUE1WDRId2hnMHVNaDBDRFNIV0RWeDBZeWFhNVVDaHpuNUZ4MXFfWTlFZw?oc=5",
+          "title": "«Везде, где появляется команда Хабиба, обычно происходят драки». Глава UFC — о потасовке Усмана Нурмагомедова и Двалишвили"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObm9EdmlJTDNoVXBUYW40ZkprdnM0TS04Qm5YOWlHYnVBV1FadUtyRm9OTU1uLWU3bUJwbDBGSTAxT1daVWtKZGJTOVYzWm1pUGVhck9FVWw3R0d1UHZvNFFtN0w2bUpwbDNTVjVxbmh0dThvMlBkdDY0QTVpREs0UTRpVlFSV0s0V1FMNWNBVll5UDNuZ3V0VGR6MkVFZzk5ajVfM3FSekRJWnpiVl9MQk5qZi1qNU14X1FBb2k0NjhQdmwtTXBJOW1ySFpxMnN6dHAzMC03YnJTcmvSAeABQVVfeXFMUGsxNzY5SUFDYVFkU0ZHb2pYekVvTXpaYjE3RVhXX1d6dmNQSlk2M3kzTTlYbDhpcmVxVllWTEVfU2N6Z19ReHUtOHo2X0xBMldJVW82akQ4aFpMWmZSdXFnV0NZM1pHcTlYQThWcmFxWHdKOGt4UFRBUFFicmhFajZ6cDFEMGxrT3d3SFZlWmN5THp0R3NLaWVtNFlpdUNqWm5rcmQtRWdEWWpwZUNVamJFTUdPbjZSYkxKcWFlTVB0Q2FfVE5qTXBTYWpjMmxkRjhrenhkUnF2QjV3LXFObjY?oc=5",
+          "title": "Экс-чемпион UFC осудил драку с участием Двалишвили и Нурмагомедова: «Мы сами виноваты, что это продается»"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkYycmxNMHZSOTc4WGdfeGFVUTFzUElSeXBSVDZISHBVdzlERTFUQVNseENOMFEzd0JlOGtQdXdxa3RXa0hHajRxUzNXVHRYaVZ5QTdJUlgycHV1QllEZE9lQXhVbWJOQ1BmU2owMWJWTGxfdk9MUEZRS1o4SVp3ZmRqb3BReXZfd0dSSU1mUVpnWk1kMnpjRDhBRUZZMjNIbTU5WGZpTEtYcXlObTdGeHFvTFFKVmM?oc=5",
+          "title": "Глава UFC впервые прокомментировал нападение Нурмагомедова на Двалишвили"
+        }
+      ]
+    },
+    {
+      "key": "fabb887605",
+      "title": "UFC 334: Gane vs. Hokit Live Fight Coverage",
+      "summary": "UFC 334: Gane vs. Hokit Live Fight Coverage ESPN",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.25,
+      "published": "2026-11-14T07:03:51+00:00",
+      "refs": [
+        {
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNHFNNnQ5d3NUNnMtLVh4dE9HbHBmd2d0NzdKV1BOWXpxeGlDZlFVQ1ZTS3BRNHV0ZWlhcnNSS1RQcVBUekdaYWVacXpsTG8zcVdtMVRzcVEwbXJDeFl4eFdzcGUtV1o2VkpTZ2p0Yw?oc=5",
+          "title": "UFC 334: Gane vs. Hokit Live Fight Coverage"
+        },
+        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmxGdTlxRGhOeWhHdU9EUVhJODFoblNqMFExcjZGY0ltZzgwY2pKVktFQWk3Mk9oQXpfVWdjMFVJalFUSUdXbTg4RERUc0lYQlhVTjdQblFtZjJWQmVGVlktR3ZMajdxcXdZUVNXZzgzcXZiOC00SHh5SXV3ZUlmd1RtWTBKdw?oc=5",
-          "title": "Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oXzVRWURvMDVzRHhwS3hvUHAwdGpGdUVPc01BRTZPUDVmWGlRM1pnUFFiTjJOT2phMUllejRWR1dfREotTUswNmo0emhqeklfRnRuc1lZUHdpN0JBZ0F0dnZ5bjYtNTlTaWVCT2JNbTNKMzJST0ZIWVIxRVA?oc=5",
+          "title": "UFC 334 Results: Gane vs. Hokit"
         },
         {
           "source": "MMA Fighting",
@@ -134,19 +139,9 @@
           "title": "UFC 334 video: Ciryl Gane vs. Josh Hokit final faceoff for title fight"
         },
         {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNHFNNnQ5d3NUNnMtLVh4dE9HbHBmd2d0NzdKV1BOWXpxeGlDZlFVQ1ZTS3BRNHV0ZWlhcnNSS1RQcVBUekdaYWVacXpsTG8zcVdtMVRzcVEwbXJDeFl4eFdzcGUtV1o2VkpTZ2p0Yw?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Live Fight Coverage"
-        },
-        {
           "source": "UFC.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hRE8ycHpHYjg1REtnSEJwUlBoT0gwRzVRTUd0U3lWUm1iRVNGcU4zQzV1NTh0M19hclAzQ1Z1MVRRMmNEMVlR?oc=5",
           "title": "Faceoffs | Polymarket UFC 334: Gane vs Hokit"
-        },
-        {
-          "source": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnpzcFNrR1BxWm1LZExZREUxZk1DaXcyd1VpcWR0UUpmeWg5RmxoQmtXTGdWV3lCTUFmU2Q2Y0ktMmJKUkFwaFFZX0JzWUNvdTVoSWx3QmtXczY4dVQ5RXJmSmM0dXN5dTBnUVc5a0VjOEdPVnNXUS1PMlFGTU9jcUpNVHliUW9hM25mNm9Wc25sWWZnQTNraXotZEVjUQ?oc=5",
-          "title": "Exclusive | Josh Hokit’s UFC legend could be born at the Garden: Jon Anik"
         },
         {
           "source": "Orange County Register",
@@ -161,9 +156,9 @@
       "summary": "Российская теннисистка Мирра Андреева попросила американских болельщиков поддержать ее в полуфинальном матче итогового турнира WTA против представительницы США Джессики Пегулы.",
       "lang": "ru",
       "sport": "tennis",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.71,
+      "outlets": 5,
+      "growth": 1,
+      "heat": 14.16,
       "published": "2026-11-14T04:14:00+00:00",
       "refs": [
         {
@@ -178,8 +173,13 @@
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/tennis/1117436210-andreeva-bolelshhikam-pered-matchem-s-peguloj-skoree-vsego-podderzhka-.html",
-          "title": "Андреева – болельщикам перед матчем с Пегулой: «Скорее всего, поддержка будет 80 на 20. Но отлично, если вы сможете сделать 60 на 40»"
+          "link": "https://www.sports.ru/tennis/1117436239-itogovyj-turnir-wta-2026-rezultaty-1-2-finala.html",
+          "title": "Итоговый турнир WTA. 1/2 финала. Андреева сыграет с Пегулой в 23:00 мск, Носкова встретится со Свитолиной"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6698770-mirra-andreeva-zapisala-videoobraschenie-pered-polufinalom-itogovogo-turnira-wta.html",
+          "title": "Мирра Андреева записала видеообращение перед полуфиналом Итогового турнира WTA"
         },
         {
           "source": "Sport.ru",
@@ -196,7 +196,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.42,
+      "heat": 10.37,
       "published": "2026-11-14T02:48:45+00:00",
       "refs": [
         {
@@ -223,110 +223,6 @@
     }
   ],
   "known": {
-    "757149e04f": {
-      "key": "757149e04f",
-      "title": "Top 3 Singapore U-17 players to watch out for against India U-17 in 2027 AFC U-17 Asian Cup Qualifiers",
-      "summary": "Top 3 Singapore U-17 players to watch out for against India U-17 in 2027 AFC U-17 Asian Cup Qualifiers Khel Now",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 7,
-      "growth": 0,
-      "heat": 17.77,
-      "published": "2026-11-10T17:53:00+00:00",
-      "refs": [
-        {
-          "source": "Khel Now",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWjV3VmFqeUExZVBoTGY4OTVKTkZybVV3Mml3dmRwb3ZsUWNiT1JRZUZ1a2JfUUJ5SWNNNUN5RWpaSUZybjlDd3ZvdjA2VGlCWWFUQmRVeFZ4NnJrT3ByUXpVc0FFNWlSVGt0N0ZoLXh2QWFfbWJ0aFhLbFJrOEFEbVJnQjRHNW96OXBrVDU0eFI5RlFpbWJxcmQtcFN4Q0tKY2JZWjZ4cWdjWXlTOF9TS3VRWFlfUndKNUZsUDN1ZmcwOGRtV0hmejU3alZPSUk?oc=5",
-          "title": "Top 3 Singapore U-17 players to watch out for against India U-17 in 2027 AFC U-17 Asian Cup Qualifiers"
-        },
-        {
-          "source": "The Hawk",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU1ETE1kN0M4ZC1sWElwMXN1R2NDRlRnamM0R2VTM09VNXNuQ092ellwaDZhWTlSbkc0Wm5rZV9qbTJkQm1pSEZFN1lLZjdObzBJMjRqQ3JBdFV4R2xlMVlvX3VsMDR5MFZDelh3RExITEVZU2UyNlIyb203Qm5DYTAyS0Z3cHNYNmdza29sWGRicUhfZU9IdHVQX3ZuN3RCR21BaEJCVXhZVDVHdVJ0SXV4a0dMNFB5VTlhbUM3dzVMWDZ5SmZ1UThDd3NITjI5NmZDbXVxdXFBelhteUR5dTNfTQ?oc=5",
-          "title": "India to begin AFC U17 Asian Cup Qualifiers against Singapore in a bid to secure back-to-back appearances"
-        },
-        {
-          "source": "Lokmat Times",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdU9IUmdNVGF2UmRPazU0ZUdISndySlBfYkcxazNCcXZIZmxmblowQkZMQ2NsekRIWWNOcVhVZFFmWXlaeFNrckR1X1RnUDY4Tmktb1d0V1hla1pyTF9UWlZ1UGx1TThVZVBJa2M2dFBvSDRDRXc5VEduUlk1cWdUM0NoWi1PZDFrUGt6N0NaN0FfLVRMdVpWcThoUC1TZHNoUHo2dkxvZGJjdWl2MlRrU2RkT0pDV0JxT0p2QWlERUfSAcYBQVVfeXFMTmVRWnpFSmxUcHUza0dnOUdacE1Jb1pBbzVXY0xkUFRkY2Z4RmVjbWJJV05rWTNsOWsxOW0xc0NYa3N5OGkzdUFZaFgtTmE4Tm55NGhxNjRVTHRkMEMzWXJoR1BUM1RjVFFlaWFLSGJpeXNaS2NUaDZFcUNKMUw0QjBDVmJnLVBjODVBSDJiQW0wZHcxcHNRSnU4Qk5QMlJmcllZWUlId21vRHY2RGlzNjYwZk5sSlpXQVdoaDdya0NTZmUzbUF3?oc=5",
-          "title": "India U17 Football Team Kicks Off AFC Asian Cup Qualifiers Against Singapore"
-        },
-        {
-          "source": "Asianet Newsable",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak5vZ1lnMWJCVEhLRFpFaVRQSnZFUWd2Ukp2d2RNY1dXSHhfUFhEeWlXOWV6WDNHYkQ4S0lWRzRhVkVYWFh5dU5fejFnQXhLZFZMUzd0MVhVVnRKOGZzb0MwZzJUUF9CWGFiekUtU1JwYlhVWXhMZlltWXhXakp1MERVbUVVbF9rVndRR0p4ZDk4ODNDSW1yR2F5eGhjTjE4OXVYb3JOZjBLdVZ3LVVGWVdWU2pUaE9BWUZXUWlLY0NXUdIBxwFBVV95cUxNdWgtMlFvZl8wVEZoM0lFNUxuX3NPNkdfNDFyTEZOVjQzZm8yS1ptaF9WR0VyM0N2ci1BRzVhdURDM2U0SjRlNmJzV3R5UG5xRk5FWE43cm9ZZEtnc1ZrNERCNVJENWZrYjM5UkNPMmFWYmJSQUlNMmk5a2E2OHAzT21wVzgydURHZDcyVkY0MEkzSk5WTFhhVUhidzdub2xQd2NmTGZYQ3gtVGwyQk1GUnBsQ2xWNUJXd1h6SE1zRlBMOHRHYUZF?oc=5",
-          "title": "India U17 Football Team Set for AFC Qualifiers Against Singapore"
-        },
-        {
-          "source": "BusinessWorld Online",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaEVhbGh3Tzk3Sk12T2E0UEdCM1dTR0g1VkhxVFZYYTFJd0VvU0ZMeDM0VjFUZUM5c3pGeWhlQmFZVXE2Skk1eTZBdUJHZTlIN3c0aFl1TzNwY1pIUVI0dF8wLWxIQTVfNm9ld0g3RHhtS0k5MHM5N2VXc2d5RjQwWEE5ZFNLM25hdDR6Sk5jUDZvaUp0S0ZDNkNkbkctN3V6S05RSjhwWC13bjFOeUNBQ1U3U1luc1BmVEtpLVdaSm9JVDhGdGlRa0ljOFhRUlZwNzI5R0dVRlhZeDVN?oc=5",
-          "title": "Philippine U17 men’s national football team off to 2027 AFC Asian Cup Qualifiers winning start"
-        },
-        {
-          "source": "Esports Charts",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmUtWmlvMW5WZlZ2OVF3S2QtaENzb3pqNkxQcEhYaHgzQTdQSk1sRE1pUnFIUWc3LUxfX0laMk4zWUZJcHp1dk1NWXRHSHlTVTBCYzlHcXQ1WUotbEJOYWNxd04tTDRPdUJHS3Y3bHhtMUs3ZTZmMWdKYklxYXdjQjhQNHEwYWJ6elg4bTh3SXppeGp1QUYwa2U2OFBmaEEyR1pzUF9WSHRUX0VpdU1fUVVmN3RvZw?oc=5",
-          "title": "2026 Asian Games Esports Events Mobile Legends: Bang Bang Qualifiers - MLBB - Viewership, Overview, Prize Pool"
-        },
-        {
-          "source": "Aktualita.co",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSklXaUFLVlNZMUcwZkZsMjR4TTNMOTk4bXNEcEY1bTJhaHU1WlVqbjdNXy15dGJtT19jRXU5RTVFVkJuNVM0VUpkY1VOdHBQRUp4WUM2aDk4VzZ0NlFJZUY4VFZrMVpZMk9jWDVmaGdXdjNmdUhJWHBuM29DZGJTb0NOeVY4NnM0bUYzODNqNVZOcWlwc0xMQ08yMW1NVmJsbmxmTzBMVDZnNHR5S3hjelNFQU15V2hkYTFKYmxFNjRoSjBQR1BwYzZZMnBwM1ktOUlrb2hZZ2FsZ0tXR1E?oc=5",
-          "title": "2027 AFC U-17 Asian Cup Qualifiers: Group A Results, Indonesia Schedule, and Qualification Requirements"
-        }
-      ]
-    },
-    "3014cb5a5a": {
-      "key": "3014cb5a5a",
-      "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
-      "summary": "Midfielder was in hospital before Haiti match ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign against Haiti in June. At the time McTominay’s absence from training was put down to a stomach complaint. It emerged in August that the Napoli midf",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.98,
-      "published": "2026-11-10T19:54:51+00:00",
-      "refs": [
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-          "title": "McTominay reveals heart treatment two days before Scotland’s World Cup opener"
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-          "title": "McTominay reveals heart treatment at World Cup"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/news/12040/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
-          "title": "McTominay had heart 'shocked' two days before Scotland's World Cup opener"
-        }
-      ]
-    },
-    "4ad6d5908f": {
-      "key": "4ad6d5908f",
-      "title": "«Приятная цифра». Игорь Гришин оценил 500-ю победу «Нефтехимика» в КХЛ",
-      "summary": "Главный тренер «Нефтехимика» Игорь Гришин оценил победу над «Салаватом Юлаевым» (4:3 Б), которая стала юбилейной, 500-й для нижнекамского клуба в КХЛ.",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.73,
-      "published": "2026-11-10T20:35:04+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6694416-priyatnaya-cifra-igor-grishin-ocenil-500-yu-pobedu-neftehimika-v-khl.html",
-          "title": "«Приятная цифра». Игорь Гришин оценил 500-ю победу «Нефтехимика» в КХЛ"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/grishin-o-500-y-pobede-neftehimika-v-khl-priyatnaya-cifra-zdorovo-2473435/",
-          "title": "Гришин — о 500-й победе «Нефтехимика» в КХЛ: «Приятная цифра, здорово!»"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117433054-grishin-posle-43-s-salavatom-500-pobed-priyatnaya-czifra.html",
-          "title": "Гришин после 4:3 с «Салаватом»: «Быстрая, равная игра. 500-я победа «Нефтехимика» наконец-то наступила – приятная цифра»"
-        }
-      ]
-    },
     "3779704b31": {
       "key": "3779704b31",
       "title": "Брылин о 4:0 «Динамо» Минск с «Авангардом»: «Ребята бились до конца. Фукале – профессионал, большая часть нашей команды»",
@@ -2039,9 +1935,9 @@
       "summary": "Российская теннисистка Мирра Андреева попросила американских болельщиков поддержать ее в полуфинальном матче итогового турнира WTA против представительницы США Джессики Пегулы.",
       "lang": "ru",
       "sport": "tennis",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.71,
+      "outlets": 5,
+      "growth": 1,
+      "heat": 14.16,
       "published": "2026-11-14T04:14:00+00:00",
       "refs": [
         {
@@ -2056,8 +1952,13 @@
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/tennis/1117436210-andreeva-bolelshhikam-pered-matchem-s-peguloj-skoree-vsego-podderzhka-.html",
-          "title": "Андреева – болельщикам перед матчем с Пегулой: «Скорее всего, поддержка будет 80 на 20. Но отлично, если вы сможете сделать 60 на 40»"
+          "link": "https://www.sports.ru/tennis/1117436239-itogovyj-turnir-wta-2026-rezultaty-1-2-finala.html",
+          "title": "Итоговый турнир WTA. 1/2 финала. Андреева сыграет с Пегулой в 23:00 мск, Носкова встретится со Свитолиной"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6698770-mirra-andreeva-zapisala-videoobraschenie-pered-polufinalom-itogovogo-turnira-wta.html",
+          "title": "Мирра Андреева записала видеообращение перед полуфиналом Итогового турнира WTA"
         },
         {
           "source": "Sport.ru",
@@ -2074,7 +1975,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.42,
+      "heat": 10.37,
       "published": "2026-11-14T02:48:45+00:00",
       "refs": [
         {
@@ -2133,9 +2034,9 @@
       "summary": "Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили Meduza",
       "lang": "ru",
       "sport": "combat",
-      "outlets": 10,
-      "growth": -1,
-      "heat": 21.58,
+      "outlets": 8,
+      "growth": -2,
+      "heat": 17.53,
       "published": "2026-11-13T14:12:00+00:00",
       "refs": [
         {
@@ -2154,11 +2055,6 @@
           "title": "ТАСС: Усмана Нурмагомедова арестовали на шесть месяцев в ОАЭ"
         },
         {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcDRPVHUyNElJVXlrMVhnelJETVlmVXAxamFaTU83Sm9TRldodVh4ZVN2cXFpX2xBekxSVmtiR0staXBnU0duYmF3dndyUUdpOVJhM3RVMFhFbHhyOGdFelBlOERFaERVRXBzSkhBU0hBTW44cFRiWTk1RnhDbGdWU2R4X1RJa0tjc1U2ZlBjZEdpYjdtbjJpVndrN2M0NlJyMUNBVmVWQlFVVGhwOG4ta1oxSlZkRkhnQVphWGNfZXMyMTcwb1hCSnFveHRyUXN5NmpqOXRUcWs4U3dRWUE1WDRId2hnMHVNaDBDRFNIV0RWeDBZeWFhNVVDaHpuNUZ4MXFfWTlFZw?oc=5",
-          "title": "«Везде, где появляется команда Хабиба, обычно происходят драки». Глава UFC — о потасовке Усмана Нурмагомедова и Двалишвили"
-        },
-        {
           "source": "АмурПолит.Ру",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzctakVPYy1BQm1uR1A5U2ZOR1Z0bmF3RWNqYTVPOGgxbGdXSXdaeUkxQkpfaFZ4dGtZcFBVWlhzRG4tYUlVclZWaXJyRWZ1cElUbGdWbGIxbk02dFVjVDdCOVNaUnhRWmhwT2NUcWUzTFkwZDJHMVpfZ0VxZVZseklrR0VJdlZSVWlDVHJ5dGNJejVibVNBbjJOUlVJYU4wbXc0TG1ENkJ0MmcwSzN3NDM5Yw?oc=5",
           "title": "Борец Садулаев прошел по скандалу с бойцом UFC Мерабом Двалишвили в Абу-Даби"
@@ -2167,6 +2063,11 @@
           "source": "ТВ Mail",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GR0R0eTRxR1pEaEktT3BmY3Y3TmdqVUFkdENZR3pOd2FpYUJMNmxwemdDdVpqSWtoYTU1b3JGRHZrU2VJQmM1OTE0Y2JxWUFxR0xQeXZjT0VfTDJKWXE4dmZhMjNuMWZ3VWhr?oc=5",
           "title": "«Смешанные единоборства. UFC 316. Мераб Двалишвили против Шона О’Мэлли. Джулианна Пенья против Кайлы Харрисон. Трансляция из США» — расписание на ТВ Mail"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcDRPVHUyNElJVXlrMVhnelJETVlmVXAxamFaTU83Sm9TRldodVh4ZVN2cXFpX2xBekxSVmtiR0staXBnU0duYmF3dndyUUdpOVJhM3RVMFhFbHhyOGdFelBlOERFaERVRXBzSkhBU0hBTW44cFRiWTk1RnhDbGdWU2R4X1RJa0tjc1U2ZlBjZEdpYjdtbjJpVndrN2M0NlJyMUNBVmVWQlFVVGhwOG4ta1oxSlZkRkhnQVphWGNfZXMyMTcwb1hCSnFveHRyUXN5NmpqOXRUcWs4U3dRWUE1WDRId2hnMHVNaDBDRFNIV0RWeDBZeWFhNVVDaHpuNUZ4MXFfWTlFZw?oc=5",
+          "title": "«Везде, где появляется команда Хабиба, обычно происходят драки». Глава UFC — о потасовке Усмана Нурмагомедова и Двалишвили"
         },
         {
           "source": "Sport24.ru",
@@ -2186,9 +2087,9 @@
       "summary": "NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场 Sohu",
       "lang": "zh",
       "sport": "basketball",
-      "outlets": 8,
-      "growth": 0,
-      "heat": 19.02,
+      "outlets": 9,
+      "growth": 1,
+      "heat": 22.47,
       "published": "2026-11-14T05:27:13+00:00",
       "refs": [
         {
@@ -2207,6 +2108,21 @@
           "title": "NBA官方：斯马特因挥拳击打对手面部被罚停薪+禁赛3场-yeeyi"
         },
         {
+          "source": "虎扑",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZlNmcDRQeEUtRlVkMTRVcEs2cTRjemFlVUpFOURIdHVkdVc0c3VHdkdtTkhMU0tkc2hFWEJKSmh0am1QRVhfdHFpVQ?oc=5",
+          "title": "[流言板]NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
+        },
+        {
+          "source": "QQ News",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUFdYUXB2SlpOZHlxNUxsSHRLeVl6Q2trVkVnT3o0QWVSbDc4VHBSaXpjdHpMSkZCaHNvQm1OcEdMZFpuOGhVSmM3UE9UT0F1a3pyQmlB?oc=5",
+          "title": "NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
+        },
+        {
+          "source": "企鹅体育",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYN3d4TEwtNzNaZzFmVm1pYmlvZ1hVM2JlcEFVYnE2bXhpbDA1bzRKb3ZMY1Y1SlU0QnRlQ2c3bEZ0RWVFS3c3QnhEU0hlYkJ0WmZGc1FaM0c?oc=5",
+          "title": "NBA官宣：斯马特挥拳击中巴锡面部无薪禁赛3场 从对阵爵士开始执行"
+        },
+        {
           "source": "7M体育",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GalB1MlAwcGtYZFItYi1ERFlTWVU1T2RWM1VRRnpBajJWQmRXWE1WTDRHM2s1aDY5eDVaYlNtRzZLejNsQjBqajRFTGVVUWZDNEEyTEVTTVhPdTg?oc=5",
           "title": "NBA官方:斯玛特挥拳击打贝西 将停薪禁赛三场"
@@ -2215,21 +2131,6 @@
           "source": "懂球帝",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16aGFiMXRQbW9qNmtYRXN6Ti1HWjlyN2FXcVM3X0ZOZkNZcW85b0NrVENYRjVTMHdKSWZib0N2RkQ3eVUwTW1lMWpWUG02cEFCVUNVMFRVUQ?oc=5",
           "title": "NBA官方：挥拳击中勇士球员巴锡面部，斯马特被禁赛停薪三场"
-        },
-        {
-          "source": "新浪网",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUtTYmlzaG14eDFVSC0xaEoxaE5QWWJGU2d6cFlVX1VkajRRSHVPeVppTGF5SjVvUHBPSWZFdFB5aXBXX0pfWEJaN0ZDV1ZoSkQxdjhYUExHajBHOTlvRTRvZmhIWHoyck05eVpaYVkyZ2ZhaUdSbzJjakRwYTZkOTJFdmk?oc=5",
-          "title": "💥严惩！NBA官方：斯玛特因挥拳击中贝西面部 停薪禁赛三场！"
-        },
-        {
-          "source": "虎扑",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQZlNmcDRQeEUtRlVkMTRVcEs2cTRjemFlVUpFOURIdHVkdVc0c3VHdkdtTkhMU0tkc2hFWEJKSmh0am1QRVhfdHFpVQ?oc=5",
-          "title": "[流言板]NBA官方：火箭球员斯马特挥拳击中巴锡面部，被禁赛&停薪3场"
-        },
-        {
-          "source": "企鹅体育",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ES09rMEtadGhxbHpkMXg5UlNRSTZBNXFCa0UyS1FlSlViX19hRDlSczNuTi1KU0daN0psVjRMelo0MU9HT2JDbXFtMlNwZXpGS3hsSXdzdTdfLVR3ZlZydA?oc=5",
-          "title": "NBA官宣：斯马特挥拳击中巴锡面部无薪禁赛3场 从对阵爵士开始执行"
         }
       ]
     },
@@ -2361,22 +2262,17 @@
     },
     "8306b4acd8": {
       "key": "8306b4acd8",
-      "title": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334",
-      "summary": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334 MMA Sucka",
+      "title": "Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG",
+      "summary": "Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG New York Post",
       "lang": "en",
       "sport": "combat",
-      "outlets": 5,
-      "growth": 1,
-      "heat": 14.25,
+      "outlets": 4,
+      "growth": -1,
+      "heat": 10.46,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-14T07:31:28+00:00",
+      "published": "2026-11-14T05:11:00+00:00",
       "refs": [
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMElDNlEwQjA0X1BqUWdYMXFqYVlPTDhZeVV3RVVLOVBTREVTOVpvYUNFZkN0ckJVUjBJWWdPYXVxeVJwczFGdVVoS09WTWJGVGtiTzRQSExuUWlNNThzODZsd0pjZzJSVWZQSU9PQlY2QjNJajZ4ZnR0ZlNKWWpYY0J3OXhoQnRNYjBzRFJNeVQ0V3MtLXJ4Y0J2VUNxQ21PZVlnT0REYXJxMEpKa3VoOWVCeUJUcjk1d0Fob3BjZ1V5bTROTXc?oc=5",
-          "title": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334"
-        },
         {
           "source": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUlxWVZZdFVwc3BWVlFmUTBkcWVxLWhJNXBqTWpSQ2pwbG4tQzlaY09maEdPdGJTSTd2ZkJ1S2hyeGpLZzVveFNiMXhGODQySnR5WE5ZMUNTMFk0Tzk1RC1jeEVrS3ZHazlOaDBuUExyWlp3a01rOUR4UEhHNWtlQTBVeGVCaHI1RUdidzZkVFJ2dElmMmpOdTlNRi1NcWJGYlFlSWd4bw?oc=5",
@@ -2503,12 +2399,10 @@
       "summary": "UFC 334: Gane vs. Hokit Live Fight Coverage ESPN",
       "lang": "en",
       "sport": "combat",
-      "outlets": 4,
+      "outlets": 6,
       "growth": 0,
-      "heat": 10.71,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T04:04:21+00:00",
+      "heat": 15.25,
+      "published": "2026-11-14T07:03:51+00:00",
       "refs": [
         {
           "source": "ESPN",
@@ -2516,19 +2410,29 @@
           "title": "UFC 334: Gane vs. Hokit Live Fight Coverage"
         },
         {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oXzVRWURvMDVzRHhwS3hvUHAwdGpGdUVPc01BRTZPUDVmWGlRM1pnUFFiTjJOT2phMUllejRWR1dfREotTUswNmo0emhqeklfRnRuc1lZUHdpN0JBZ0F0dnZ5bjYtNTlTaWVCT2JNbTNKMzJST0ZIWVIxRVA?oc=5",
+          "title": "UFC 334 Results: Gane vs. Hokit"
+        },
+        {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTJ2NTFvZkZ4UWJDMTk3VF9OR2JfSEl5ZnJkcFM2OU1kQWVkMnpwY1djMlpaakVGbmYwb2ZTTGh1azJhdkg2YU1GT3J1ZzBncWtVYmtveUtnZy1iTlFwSlhsZ0lNLXRQeXp6SmtkeExiQTZmUnlkcmdJSzB4eFU2dA?oc=5",
-          "title": "UFC 334 weigh-in video: Gane vs. Hokit"
+          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
+          "title": "UFC 334 Results: Gane vs. Hokit"
+        },
+        {
+          "source": "Central Oregon Daily",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSUtraEJjMGVKbGZTUlk3UlFVN2JRSU50alppb1p5TmNoX25PN3VTcXM4ZnZwRGc0ajVZVVhmeE03Q0dudFFubTlDOWFjTFpaZzR6MFhGdk0ySnRwRWFqazlqcHk0bkdCOXdlQzlmaDVvRTY0Wkh2eUtDX0p1R19LSXNoYXFkVUxLTG1QUDlDdXppMTNoVEpkUTdDdlJEVUJRbUFwUC1kbEdObVhfOHdqZ1RNbGU0dE9NRGpLeVQ2M2xES09GQkFNUjJJVWtkdU1iUFBJTkxtWXhIazdqSHNqUGpnckxybzJNd2NLYThiQTgwQQ?oc=5",
+          "title": "UFC 334 video: Ciryl Gane vs. Josh Hokit final faceoff for title fight"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hRE8ycHpHYjg1REtnSEJwUlBoT0gwRzVRTUd0U3lWUm1iRVNGcU4zQzV1NTh0M19hclAzQ1Z1MVRRMmNEMVlR?oc=5",
+          "title": "Faceoffs | Polymarket UFC 334: Gane vs Hokit"
         },
         {
           "source": "Orange County Register",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZll6RzE2akUwLUJYcGZBcFVqbWRqZk5OUmlaVmlObGpXLWdEdGp5TmhtdWpVRlFJSDZYeW82RmY3RC1lUXBaQ0MtVHZFcVU4QW9fZWF1N3c2TTIzSG1CU0tmU3BkdE5NUnM3elpKLTZ4WVJIUnQtNTExYVhlbnBESnVoNXNEdHVUWVozTWNXSmRCbjBUT0hORXdubmhta2VWTEFSN1pPUWFzMVBnSUlz?oc=5",
           "title": "UFC 334: Polarizing Josh Hokit takes on Ciryl Gane for heavyweight title"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0JIX1NTWllCeHRmNXNVS0hBUU9ZTGxrWll0R3Nxb1BFUlNtd1ZVZkkycFNWMEJ4Q0s3cUs5bXVpUDl2QzdUYmF5cGo0VUwtODJyamt0eTlzVTctcGRKZ1pnMmdJUzdpa2hyYjNjRF8wUWIwYnJucExEYjYzRVhmTjRZR3I?oc=5",
-          "title": "LIVE! Watch UFC 334 Ceremonial Weigh Ins Video | Gane Vs. Hokit"
         }
       ]
     },
@@ -2685,7 +2589,7 @@
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.7,
+      "heat": 8.65,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-14T07:00:00+00:00",
@@ -2734,6 +2638,81 @@
           "source": "虎扑",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MdFl4dVRIcGE1WlpBaHAzeFBJdVlLUmlGS3N5ZFNBUUltdmpnX0FmWFM2OE1WR1JQY3dOd0Jib1lBTzJEaHB6V2xxT2pIUQ?oc=5",
           "title": "Shams：斯玛特因拳击巴锡被NBA禁赛三场！"
+        }
+      ]
+    },
+    "4f378e685f": {
+      "key": "4f378e685f",
+      "title": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC",
+      "summary": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC Советский спорт",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-14T07:40:00+00:00",
+      "refs": [
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXBYQW1mLWthR1NWS3dWeWR1YUtaSS04QzFfcElJZXdmWGxuREZjUWFfeURybDViejRtOXVrX1p3NlpVTm1rb3lLMTNEMkk4ai1FZUxVaGxuYkxld1EzamNBZEJScFpiVGRaUlUzdndfQWlQMFoxMWRzNzNwajBYU1FrSV9CNG1BWEwyMmxNV1lGM0trSWNVQU1maklIWmpXbGhxNQ?oc=5",
+          "title": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/boxing/news-6698726-dana-uajt-nazval-boi-svoej-mechty-v-ufc.html",
+          "title": "Дана Уайт назвал бои своей мечты в UFC"
+        },
+        {
+          "source": "https://saomos.news/",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmtfSFdkZ0FDUnFwZjRWOW5RSW5zbWtPT2dWaEdRcVQ4VnZTU2VtTDl4dFcwb2JpN3VzTV9YeXJhczNocGJWT3BlSTlvNHV1Y1kwazFIN0RTa003YkRGS1JWckRiVDR1REwtYXZIOVNLZ2E2b3RBWS1iOW9GNElEb0dIZlFvb1praFlUMzRjZGw0bkNVRXdJbmpLd05ieHVUaUVSUC1CcHZrYnBwTEZkaVgxUQ?oc=5",
+          "title": "Президент UFC Дана Уайт осудил массовую драку с участием Усмана Нурмагомедова"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dana-uayt-gde-by-ni-poyavlyalas-komanda-habiba-tam-obychno-proishodyat-draki-2474564/",
+          "title": "Дана Уайт: «Где бы ни появлялась команда Хабиба, там обычно происходят драки»"
+        }
+      ]
+    },
+    "17eee1e2e4": {
+      "key": "17eee1e2e4",
+      "title": "KF Arena Season 2 x KOMBAT 26: Phnom Penh",
+      "summary": "KF Arena Season 2 x KOMBAT 26: Phnom Penh FightBook MMA",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 1,
+      "growth": 0,
+      "heat": 8.3,
+      "kun_khmer": true,
+      "needs_source": true,
+      "published": "2026-11-11T22:37:34+00:00",
+      "refs": [
+        {
+          "source": "FightBook MMA",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDBMU2M5UWIyVVc0V201TXFHUVc5QV9zQTdWT05IdlU2T01KMWs2a1UwTHNXU3ZuZHM2Y3VLNU1kMkg4cW1Pd0lQcWYyRUtxbm1CVEpIaEhWTENXdWlqYkxVT3gwUTZhRzJPUEgwYVVLM2dWQTVWZHlTSlBYMGxhVGdqNXdtOTg?oc=5",
+          "title": "KF Arena Season 2 x KOMBAT 26: Phnom Penh"
+        }
+      ]
+    },
+    "afafea0bf8": {
+      "key": "afafea0bf8",
+      "title": "KIF plans to expand workshops across South America",
+      "summary": "KIF plans to expand workshops across South America Khmer Times",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 1,
+      "growth": 0,
+      "heat": 8.3,
+      "kun_khmer": true,
+      "needs_source": true,
+      "published": "2026-11-10T17:08:09+00:00",
+      "refs": [
+        {
+          "source": "Khmer Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMENGYV81Nk9teUZPcEptaWkzV3BTZXdBcWxZdE8wRWctUktWcFZTT1RCX0xZQWQtRHRpUFNFbTM0bUxSMy1CaUQ2YzR3ZUQ1cVd6Sy1rbXE3b1V0Nl81ZTVmWjlVZUdCU0UtZlZtMk1Yby1xWHFhdUptNkZEajlvMlFWZEExRWpsRkhnWF9nTUZDTlJ0?oc=5",
+          "title": "KIF plans to expand workshops across South America"
         }
       ]
     }
@@ -2964,23 +2943,53 @@
   "tg_offset": 360028013,
   "combat": [
     {
-      "key": "8306b4acd8",
-      "title": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334",
-      "summary": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334 MMA Sucka",
-      "lang": "en",
+      "key": "4f378e685f",
+      "title": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC",
+      "summary": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC Советский спорт",
+      "lang": "ru",
       "sport": "combat",
-      "outlets": 5,
-      "growth": 1,
-      "heat": 14.25,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.31,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-14T07:31:28+00:00",
+      "published": "2026-11-14T07:40:00+00:00",
       "refs": [
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMElDNlEwQjA0X1BqUWdYMXFqYVlPTDhZeVV3RVVLOVBTREVTOVpvYUNFZkN0ckJVUjBJWWdPYXVxeVJwczFGdVVoS09WTWJGVGtiTzRQSExuUWlNNThzODZsd0pjZzJSVWZQSU9PQlY2QjNJajZ4ZnR0ZlNKWWpYY0J3OXhoQnRNYjBzRFJNeVQ0V3MtLXJ4Y0J2VUNxQ21PZVlnT0REYXJxMEpKa3VoOWVCeUJUcjk1d0Fob3BjZ1V5bTROTXc?oc=5",
-          "title": "UFC fans raise concerns over Kayla Harrison’s drained appearance ahead of Amanda Nunes fight at UFC 334"
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXBYQW1mLWthR1NWS3dWeWR1YUtaSS04QzFfcElJZXdmWGxuREZjUWFfeURybDViejRtOXVrX1p3NlpVTm1rb3lLMTNEMkk4ai1FZUxVaGxuYkxld1EzamNBZEJScFpiVGRaUlUzdndfQWlQMFoxMWRzNzNwajBYU1FrSV9CNG1BWEwyMmxNV1lGM0trSWNVQU1maklIWmpXbGhxNQ?oc=5",
+          "title": "Дана Уайт назвал Петра Яна в числе бойцов для идеального карда UFC"
         },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/boxing/news-6698726-dana-uajt-nazval-boi-svoej-mechty-v-ufc.html",
+          "title": "Дана Уайт назвал бои своей мечты в UFC"
+        },
+        {
+          "source": "https://saomos.news/",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmtfSFdkZ0FDUnFwZjRWOW5RSW5zbWtPT2dWaEdRcVQ4VnZTU2VtTDl4dFcwb2JpN3VzTV9YeXJhczNocGJWT3BlSTlvNHV1Y1kwazFIN0RTa003YkRGS1JWckRiVDR1REwtYXZIOVNLZ2E2b3RBWS1iOW9GNElEb0dIZlFvb1praFlUMzRjZGw0bkNVRXdJbmpLd05ieHVUaUVSUC1CcHZrYnBwTEZkaVgxUQ?oc=5",
+          "title": "Президент UFC Дана Уайт осудил массовую драку с участием Усмана Нурмагомедова"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dana-uayt-gde-by-ni-poyavlyalas-komanda-habiba-tam-obychno-proishodyat-draki-2474564/",
+          "title": "Дана Уайт: «Где бы ни появлялась команда Хабиба, там обычно происходят драки»"
+        }
+      ]
+    },
+    {
+      "key": "8306b4acd8",
+      "title": "Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG",
+      "summary": "Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG New York Post",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": -1,
+      "heat": 10.46,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-14T05:11:00+00:00",
+      "refs": [
         {
           "source": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUlxWVZZdFVwc3BWVlFmUTBkcWVxLWhJNXBqTWpSQ2pwbG4tQzlaY09maEdPdGJTSTd2ZkJ1S2hyeGpLZzVveFNiMXhGODQySnR5WE5ZMUNTMFk0Tzk1RC1jeEVrS3ZHazlOaDBuUExyWlp3a01rOUR4UEhHNWtlQTBVeGVCaHI1RUdidzZkVFJ2dElmMmpOdTlNRi1NcWJGYlFlSWd4bw?oc=5",
@@ -3004,66 +3013,6 @@
       ]
     },
     {
-      "key": "91551296f8",
-      "title": "Дана Уайт назвал бои своей мечты в UFC",
-      "summary": "Президент UFC Дана Уайт перечислил поединки, которые хотел бы видеть в рамках карда идеального турнира, сообщает аккаунт Home of Fight в социальной сети Х.",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.0,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T07:04:20+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/boxing/news-6698726-dana-uajt-nazval-boi-svoej-mechty-v-ufc.html",
-          "title": "Дана Уайт назвал бои своей мечты в UFC"
-        },
-        {
-          "source": "https://saomos.news/",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmtfSFdkZ0FDUnFwZjRWOW5RSW5zbWtPT2dWaEdRcVQ4VnZTU2VtTDl4dFcwb2JpN3VzTV9YeXJhczNocGJWT3BlSTlvNHV1Y1kwazFIN0RTa003YkRGS1JWckRiVDR1REwtYXZIOVNLZ2E2b3RBWS1iOW9GNElEb0dIZlFvb1praFlUMzRjZGw0bkNVRXdJbmpLd05ieHVUaUVSUC1CcHZrYnBwTEZkaVgxUQ?oc=5",
-          "title": "Президент UFC Дана Уайт осудил массовую драку с участием Усмана Нурмагомедова"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dana-uayt-gde-by-ni-poyavlyalas-komanda-habiba-tam-obychno-proishodyat-draki-2474564/",
-          "title": "Дана Уайт: «Где бы ни появлялась команда Хабиба, там обычно происходят драки»"
-        }
-      ]
-    },
-    {
-      "key": "b675838a29",
-      "title": "Боец ММА Аманда Нуньес вернется в UFC для боя с Харрисон — BBC Sport",
-      "summary": "Боец ММА Аманда Нуньес вернется в UFC для боя с Харрисон — BBC Sport UA.NEWS",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.73,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T07:18:45+00:00",
-      "refs": [
-        {
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0o3OHhGMERpYUZIblNWLWNGQXpNdVlwUVJLX1VCTGZEazhoYjJQWjV2Tmo3QmVPTWlLZTVhZENrdnJzQTVpUGZMNHV3emF1MFJVZ19MdHh1dkhFUjJWQmFtbGFfLXpOWXlVS0dkWEM4LWExRXUtTHVNSDc4eU5nbU02RHlaeVl3SzA3djQ4NXAzRVZfRm8tcHpXQUtSU3VyVC1GVkF4cWhDNmVGNkE?oc=5",
-          "title": "Боец ММА Аманда Нуньес вернется в UFC для боя с Харрисон — BBC Sport"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcFdSV05HN1pIZWhoZHlxM1RPblhaV045S1hlYVBWTFBQOWJhVmZSM3pRVU41N2dORzN4QjNfRUgyeVctbWdLeUpVc2gySUVzemhpR092RWJTQUNJamF6cWF5d185SUhZVnpjU01ETzg5Qk5uTGZtT2pTQ2JLYnhoUngtbk12eEtkWXFmenVKU25IdmFBRk4tcFNqX3E5eHNLWTVkRXFoc2VYS2V2RklwV1l0cEF2LXZmTEdERGN6aVhLNkxmTHFRV0JrUEtxQVRm?oc=5",
-          "title": "Кайла Харрисон и Аманда Нуньес показали одинаковый вес в преддверии боя за пояс UFC"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpVcEdRTzlpeTFQMlZ1ZHBSY09RMW5FakNSV0RJSDJSbURBaFNxQ3NpbHVNeUNJYmh5R1hvQ2kzcVE5Vm5tM3BkQV9PcV82N01OZWQzN0kwQm04amNta3I2dnA0dGhkbmZDSjJCYnhpU1dIbHNNOHRCWld0MnVCd3kzbUlhbnJVQTJMN0dRRHU3cDNtVXdUT1B2bThPN2RNeGNfZUpDbw?oc=5",
-          "title": "Харрисон и Нуньес показали одинаковый вес перед турниром UFC 334"
-        }
-      ]
-    },
-    {
       "key": "862d271a5a",
       "title": "Adames fights Warburton as Bentley targets 2027 bout with champion",
       "summary": "WBC world champion Carlos Adames fights Wales’ Gerome Warburton on Saturday, live on Sky Sports Mix from 4pm.",
@@ -3071,7 +3020,7 @@
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.7,
+      "heat": 8.65,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-14T07:00:00+00:00",
@@ -3094,32 +3043,42 @@
       ]
     },
     {
-      "key": "1a66cb59ae",
-      "title": "联盟宣布：火箭后卫斯马特因拳击勇士巴锡面部被禁赛三场",
-      "summary": "联盟宣布：火箭后卫斯马特因拳击勇士巴锡面部被禁赛三场 Sohu",
-      "lang": "zh",
+      "key": "17eee1e2e4",
+      "title": "KF Arena Season 2 x KOMBAT 26: Phnom Penh",
+      "summary": "KF Arena Season 2 x KOMBAT 26: Phnom Penh FightBook MMA",
+      "lang": "en",
       "sport": "combat",
-      "outlets": 3,
+      "outlets": 1,
       "growth": 0,
-      "heat": 8.64,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T06:25:02+00:00",
+      "heat": 8.3,
+      "kun_khmer": true,
+      "needs_source": true,
+      "published": "2026-11-11T22:37:34+00:00",
       "refs": [
         {
-          "source": "Sohu",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1lXMHk3WkV0a3ZMelFTelVHSk45LXdraGlIa1h0NkkyeEF3Q2xMdUl1Q0huUzROZDVGU045aExyMVFBMFoyV3h5WVVpVzZwT3BJcFVnTzg1d3lmdHBXT2VZV3lab0pQakt0SXVTaUxPdWpqdDN2VDFxWWNpN2s1ZkRZbmdKS0pudWZzdA?oc=5",
-          "title": "联盟宣布：火箭后卫斯马特因拳击勇士巴锡面部被禁赛三场"
-        },
+          "source": "FightBook MMA",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDBMU2M5UWIyVVc0V201TXFHUVc5QV9zQTdWT05IdlU2T01KMWs2a1UwTHNXU3ZuZHM2Y3VLNU1kMkg4cW1Pd0lQcWYyRUtxbm1CVEpIaEhWTENXdWlqYkxVT3gwUTZhRzJPUEgwYVVLM2dWQTVWZHlTSlBYMGxhVGdqNXdtOTg?oc=5",
+          "title": "KF Arena Season 2 x KOMBAT 26: Phnom Penh"
+        }
+      ]
+    },
+    {
+      "key": "afafea0bf8",
+      "title": "KIF plans to expand workshops across South America",
+      "summary": "KIF plans to expand workshops across South America Khmer Times",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 1,
+      "growth": 0,
+      "heat": 8.3,
+      "kun_khmer": true,
+      "needs_source": true,
+      "published": "2026-11-10T17:08:09+00:00",
+      "refs": [
         {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGE5RW96M1FiS0pZYU9DbGtrMjJYVzgwT1Y1OWN3UG5mcVphbWJCZjg5eWhlcGtDUS15dGpPNGRFUWZUWGxvZkI1VjJvWkN3SDgyMTNqSnlKN0x1b2tYSEtjVEthazlkVXZSdEFuamw5eDNQZDhRSHlVcHFkRWZhU3JES3RkS2M3MjJtUzZEZ3JlZlpuV1B6dGEwMTlsZllZVE9ObW9aYktkLUlYVkYxazdhM21VZDgzb1k2VDJUb1VvNzlHWnJtWmxqMmZRUFdMX01YaG1kVFEzNFg0U0hlTA?oc=5",
-          "title": "火勇大战爆发冲突！斯马特拳击巴锡面部领到二级恶意犯规 直接被驱逐！"
-        },
-        {
-          "source": "虎扑",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MdFl4dVRIcGE1WlpBaHAzeFBJdVlLUmlGS3N5ZFNBUUltdmpnX0FmWFM2OE1WR1JQY3dOd0Jib1lBTzJEaHB6V2xxT2pIUQ?oc=5",
-          "title": "Shams：斯玛特因拳击巴锡被NBA禁赛三场！"
+          "source": "Khmer Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMENGYV81Nk9teUZPcEptaWkzV3BTZXdBcWxZdE8wRWctUktWcFZTT1RCX0xZQWQtRHRpUFNFbTM0bUxSMy1CaUQ2YzR3ZUQ1cVd6Sy1rbXE3b1V0Nl81ZTVmWjlVZUdCU0UtZlZtMk1Yby1xWHFhdUptNkZEajlvMlFWZEExRWpsRkhnWF9nTUZDTlJ0?oc=5",
+          "title": "KIF plans to expand workshops across South America"
         }
       ]
     }
