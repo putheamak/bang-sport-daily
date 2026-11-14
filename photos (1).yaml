@@ -1,0 +1,118 @@
+# Choose the photos for any published story. After editing, run "Rebuild website".
+# Story IDs are in the drafts (Telegram/email) or ask Claude.
+#
+# Two kinds of photo:
+#   1) Wikimedia Commons file — licence and author are read automatically:
+#        - commons: "File:Example photo.jpg"        (or the full commons.wikimedia.org link)
+#          caption: "What the photo shows"
+#   2) Your own photo (or one you have written permission / a free licence for):
+#        upload the image to the photos/ folder, then:
+#        - file: "pp-crown-celebration.jpg"
+#          caption: "Phnom Penh Crown players celebrate"
+#          credit: "Your name"                        # REQUIRED: who took it
+#          license: "© Bang Sport Daily"             # REQUIRED: e.g. "CC BY 4.0" or "Used with permission"
+#          source: "https://link-to-original"         # optional, recommended for licensed photos
+#
+#   3) Two (or more) free photos side by side as ONE image (e.g. a cover with two champions):
+#        - combine:
+#            - {commons: "File A.jpg", label: "Vietnam"}
+#            - {commons: "File B.jpg", label: "Indonesia"}
+#          caption: "What the combined photo shows"
+#          name: "short-file-name.jpg"                # optional (change it to make a new version)
+#          aspect: 2                                  # optional: width:height of the result (0 = no cropping)
+#        Each part is licence-checked and credited separately. If one part is not free, nothing is combined.
+#
+# RULE (editor, Nov 2026): always use the MOST RECENT free photo available, even if it is not from this exact
+# event (e.g. the latest title celebration rather than a photo from 2008). The standards check warns when a
+# news cover photo is more than 3 years older than the story.
+#
+# mode: replace  = use only these photos (first one is the large top photo)
+# mode: add      = put these first, keep the automatic ones after them
+#
+# Example (remove the # to use it):
+#
+# 2026-11-06-news-cc35df:
+#   mode: replace
+#   photos:
+#     - file: "pp-crown-team.jpg"
+#       caption: "Phnom Penh Crown players before their ACL Two match"
+#       credit: "Photographer name"
+#       license: "Used with permission"
+#     - commons: "File:Some free photo of Svay Rieng.jpg"
+#       caption: "Svay Rieng supporters"
+2026-11-06-news-af8895:
+  mode: replace
+  photos: []
+
+# Brazil in Singapore (Kallang Football Series, Nov 2026): free-licence photos only (Wikimedia Commons)
+2026-11-09-news-17c236:
+  mode: replace
+  photos:
+    - commons: "Singapore (SG), National Stadium -- 2019 -- 4721.jpg"
+      caption: "The National Stadium in Kallang, Singapore, venue of Brazil's matches against Japan and Singapore"
+    - wikipedia: "National Stadium, Singapore"
+      caption: "Singapore's National Stadium"
+    - wikipedia: "Vinícius Júnior"
+      caption: "Vinícius Júnior, one of the senior players in Brazil's squad"
+    - wikipedia: "Carlo Ancelotti"
+      caption: "Brazil head coach Carlo Ancelotti"
+
+# Southeast Asia analysis: cover photo of a regional match (added in front of the charts; the first
+# free-licence photo found becomes the cover, the charts stay inside the text)
+2026-11-09-news-41548e:
+  mode: add
+  photos:
+    - combine:
+        - {commons: "Vietnam celebrating 2024 ASEAN Championship title.png", label: "Vietnam"}
+        - {commons: "Group photo of Indonesia national football team.jpg", label: "Indonesia"}
+      name: "sea-champions-vietnam-indonesia-v2.jpg"
+      caption: "Southeast Asia's 2026 champions: Vietnam retained the ASEAN Championship in August and Indonesia won the first FIFA ASEAN Cup in October. Left: Vietnam celebrate their 2024 ASEAN Championship title. Right: Indonesia's squad after beating China in 2026 World Cup qualifying, June 2025"
+    - id: morodok
+      wikipedia: "Morodok Techo National Stadium"
+      caption: "Morodok Techo National Stadium in Phnom Penh, Cambodia's 60,000-seat national stadium"
+
+# On this day 1892: Pudge Heffelfinger (his Wikipedia lead photo, public domain if allowed; checked automatically)
+2026-11-12-hist-4f230f:
+  mode: add
+  photos:
+    - wikipedia: "Pudge Heffelfinger"
+      caption: "William \"Pudge\" Heffelfinger, Yale guard and the first known professional football player"
+
+# Crystal Palace sack Pierre Sage (Nov 2026): photos of the people in the story (an earlier Palace coach was picked automatically)
+2026-11-12-news-3dbf6d:
+  mode: replace
+  photos:
+    - wikipedia: "Pierre Sage"
+      caption: "Pierre Sage, dismissed by Crystal Palace after 16 matches"
+    - wikipedia: "Thomas Frank"
+      caption: "Thomas Frank, in advanced talks to become Crystal Palace manager"
+    - wikipedia: "Selhurst Park"
+      caption: "Selhurst Park, Crystal Palace's home ground"
+
+# 13 Nov 2026 rule: at least 2 relevant pictures per story (people in the story first). Added for older stories.
+2026-11-13-news-b6bee9:
+  mode: add
+  photos:
+    - wikipedia: "Francesco Pio Esposito"
+      caption: "Francesco Pio Esposito, who scored twice against France"
+    - wikipedia: "Zinedine Zidane"
+      caption: "France coach Zinedine Zidane, beaten for the first time in charge"
+    - wikipedia: "Michael Olise"
+      caption: "Michael Olise, scorer of France's goal"
+2026-11-05-hist-52bd88:
+  mode: add
+  photos:
+    - wikipedia: "George Foreman"
+      caption: "George Foreman, heavyweight champion again at 45"
+2026-11-07-athl-e0c0a0:
+  mode: add
+  photos:
+    - wikipedia: "Stade Roland Garros"
+      caption: "Roland Garros in Paris, where Li Na won Asia's first Grand Slam singles title in 2011"
+
+# Vietnam U23 win the VTV Cup: the "Pleiku" city article has the same lead photo as the stadium, so keep it once
+2026-11-14-news-ba849b:
+  mode: replace
+  photos:
+    - wikipedia: "Pleiku Stadium"
+      caption: "Pleiku Stadium, venue of the Gia Lai VTV Cup 2026"
