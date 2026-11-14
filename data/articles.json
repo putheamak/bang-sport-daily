@@ -234,7 +234,7 @@
     "date": "2026-11-14",
     "created": "2026-11-14T01:56:20+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "Speed Skating",
     "tags": [
@@ -334,7 +334,7 @@
     "date": "2026-11-14",
     "created": "2026-11-14T01:48:29+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "football",
     "tags": [
