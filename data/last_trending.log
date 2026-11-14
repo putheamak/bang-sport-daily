@@ -1,36 +1,37 @@
-2026-11-14 07:08:13,465 INFO BBC Sport                         40 items
-2026-11-14 07:08:13,741 INFO The Guardian Sport                24 items
-2026-11-14 07:08:13,769 INFO ESPN                               0 items
-2026-11-14 07:08:13,821 INFO Sky Sports                        17 items
-2026-11-14 07:08:14,127 INFO Google News – Sports (EN)         54 items
-2026-11-14 07:08:14,620 INFO Google News – 体育 (ZH)             27 items
-2026-11-14 07:08:15,189 INFO Google News – Спорт (RU)          43 items
-2026-11-14 07:08:16,236 INFO Championat                        25 items
-2026-11-14 07:08:17,141 INFO Sports.ru                         16 items
-2026-11-14 07:08:18,848 INFO Спорт-Экспресс                   439 items
-2026-11-14 07:08:20,173 INFO РИА Новости Спорт                 20 items
-2026-11-14 07:08:22,323 INFO 中国新闻网 体育                          20 items
-2026-11-14 07:08:22,673 INFO Google News – Cambodia sport      19 items
-2026-11-14 07:08:23,081 INFO Google News – Southeast Asia sport  32 items
-2026-11-14 07:08:23,627 INFO Google News – Combat promotions   80 items
-2026-11-14 07:08:24,035 INFO Google News – Boxing              44 items
-2026-11-14 07:08:24,252 INFO Google News – Kun Khmer            4 items
-2026-11-14 07:08:24,896 INFO Google News – Единоборства (RU)   93 items
-2026-11-14 07:08:25,407 INFO Google News – 格斗 (ZH)             73 items
-2026-11-14 07:08:25,595 INFO MMA Fighting                       9 items
-2026-11-14 07:08:25,678 WARNING Feed unreadable Khmer Times Sport: <unknown>:2:1326: not well-formed (invalid token)
-2026-11-14 07:08:26,634 INFO Candidate stories after clustering: 929
-2026-11-14 07:08:28,833 INFO Trending skipped (politics): World Boxing Council maintains sanctions against Russia and Belarus
-2026-11-14 07:08:28,835 INFO Trending skipped (politics): Всемирный боксерский совет сохранил санкции в отношении российских спортсменов
-2026-11-14 07:08:28,835 INFO Trending skipped (not our audience): Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 10 lineup advice
-2026-11-14 07:08:29,720 INFO Talking points sent to Telegram (5 stories)
-2026-11-14 07:08:29,720 INFO   1. [ru 15 outlets, heat 31.6] Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с 
-2026-11-14 07:08:29,720 INFO   2. [zh 8 outlets, heat 19.1] NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场
-2026-11-14 07:08:29,720 INFO   3. [en 7 outlets, heat 17.1] Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334
-2026-11-14 07:08:29,720 INFO   4. [ru 4 outlets, heat 11.7] Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США
-2026-11-14 07:08:29,721 INFO   5. [ru 4 outlets, heat 11.0] Гран-при России в Омске, спортивные пары: расписание и результаты короткой программы 14 ноября
-2026-11-14 07:08:29,721 INFO   C1. [ru 6 outlets, heat 14.0] Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна
-2026-11-14 07:08:29,721 INFO   C2. [en 5 outlets, heat 12.6] Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG
-2026-11-14 07:08:29,721 INFO   C3. [en 4 outlets, heat 11.2] Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334
-2026-11-14 07:08:29,721 INFO   C4. [ru 4 outlets, heat 10.9] Сергей Павлович и Алекс Перейра провели первую битву взглядов перед боем на UFC 335
-2026-11-14 07:08:29,721 INFO   C5. [en 3 outlets, heat 9.1] Video replay: UFC 335 & UFC 336 press conference
+2026-11-14 07:26:40,000 INFO BBC Sport                         41 items
+2026-11-14 07:26:40,528 INFO The Guardian Sport                24 items
+2026-11-14 07:26:40,556 INFO ESPN                               0 items
+2026-11-14 07:26:40,660 INFO Sky Sports                        17 items
+2026-11-14 07:26:41,069 INFO Google News – Sports (EN)         53 items
+2026-11-14 07:26:41,219 INFO Google News – 体育 (ZH)             25 items
+2026-11-14 07:26:41,971 INFO Google News – Спорт (RU)          40 items
+2026-11-14 07:26:43,341 INFO Championat                        26 items
+2026-11-14 07:26:44,074 INFO Sports.ru                         16 items
+2026-11-14 07:26:46,341 INFO Спорт-Экспресс                   434 items
+2026-11-14 07:26:47,621 INFO РИА Новости Спорт                 20 items
+2026-11-14 07:26:48,539 INFO 中国新闻网 体育                          21 items
+2026-11-14 07:26:48,856 INFO Google News – Cambodia sport      19 items
+2026-11-14 07:26:49,243 INFO Google News – Southeast Asia sport  32 items
+2026-11-14 07:26:49,809 INFO Google News – Combat promotions   79 items
+2026-11-14 07:26:50,189 INFO Google News – Boxing              43 items
+2026-11-14 07:26:50,438 INFO Google News – Kun Khmer            5 items
+2026-11-14 07:26:50,997 INFO Google News – Единоборства (RU)   93 items
+2026-11-14 07:26:51,448 INFO Google News – 格斗 (ZH)             72 items
+2026-11-14 07:26:51,627 INFO MMA Fighting                       9 items
+2026-11-14 07:26:51,895 INFO Google News – Khmer Times sport    4 items
+2026-11-14 07:26:52,853 INFO Candidate stories after clustering: 925
+2026-11-14 07:26:55,016 INFO Trending skipped (politics): Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна
+2026-11-14 07:26:55,018 INFO Trending skipped (politics): Министр спорта Республики Башкортостан: Уфа готова провести МЧМ-2027 вместо Канады
+2026-11-14 07:26:55,019 INFO Trending skipped (politics): World Boxing Council maintains sanctions against Russia and Belarus
+2026-11-14 07:26:55,022 INFO Trending skipped (politics): Всемирный боксерский совет сохранил санкции в отношении российских спортсменов
+2026-11-14 07:26:55,167 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
+2026-11-14 07:26:55,167 INFO   1. [ru 11 outlets, heat 23.6] Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с 
+2026-11-14 07:26:55,167 INFO   2. [zh 8 outlets, heat 19.0] NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场
+2026-11-14 07:26:55,167 INFO   3. [en 7 outlets, heat 17.1] Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334
+2026-11-14 07:26:55,167 INFO   4. [ru 4 outlets, heat 10.9] Хазе и Володин лидируют после короткой программы на Гран-при Skate America
+2026-11-14 07:26:55,167 INFO   5. [ru 4 outlets, heat 10.7] Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового т
+2026-11-14 07:26:55,168 INFO   C1. [en 4 outlets, heat 10.7] UFC 334: Gane vs. Hokit Live Fight Coverage
+2026-11-14 07:26:55,168 INFO   C2. [en 1 outlets, heat 10.7] Siolim’s Aarav Harmalkar Wins Four Medals at Two Kickboxing Championships
+2026-11-14 07:26:55,168 INFO   C3. [en 4 outlets, heat 10.5] Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG
+2026-11-14 07:26:55,168 INFO   C4. [ru 4 outlets, heat 9.0] Федерация бокса России отказалась от участия в молодёжном чемпионате Европы в Хорватии
+2026-11-14 07:26:55,168 INFO   C5. [en 3 outlets, heat 8.8] Midnight Mania! Platinum Perry Announces UFC Return
