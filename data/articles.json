@@ -1338,16 +1338,17 @@
     "trending_key": "eec2c347e4",
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
-        "artist": "Rick Munroe",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Coco Gauff during the 2026 Miami Open women's singles final.",
-        "width": 1200,
-        "height": 1599,
+        "url": "../photos/card-2026-11-13-news-a068e9.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Jessica Pegula 2 - 1 Linda Noskova · WTA Finals · Group 1",
+        "via": "",
+        "card": true,
         "year": 2026,
-        "subject": "Coco Gauff"
+        "width": 1200,
+        "height": 675
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1372,19 +1373,6 @@
         "height": 1600,
         "year": 2023,
         "subject": "Linda Nosková"
-      },
-      {
-        "url": "../photos/card-2026-11-13-news-a068e9.png",
-        "page": "",
-        "artist": "Bang Sport Daily (graphic)",
-        "license": "Own work",
-        "license_url": "",
-        "subject": "Jessica Pegula 2 - 1 Linda Noskova · WTA Finals · Group 1",
-        "via": "",
-        "card": true,
-        "year": 2026,
-        "width": 1200,
-        "height": 675
       }
     ],
     "standards": [],
@@ -1405,7 +1393,7 @@
       "away_scorers": [],
       "note": "Sets: 7-6 (7-2), 4-6, 7-5"
     },
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Indian Wells Tennis Garden, host of the 2026 WTA Finals\", \"wikipedia\": \"Indian Wells Tennis Garden\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Jessica Pegula\", \"wikipedia\": \"Jessica Pegula\"}, {\"caption\": \"Linda Nosková\", \"wikipedia\": \"Linda Nosková\"}]}"
   },
   {
     "id": "2026-11-13-athl-12aaf2",
