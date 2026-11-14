@@ -921,3 +921,16 @@ def test_combat_watch_khmer_language_and_true_kun_khmer_only(repo):
     combat = T.rank_combat(cfg(), items)
     assert combat[0]["lang"] == "km" and combat[0]["outlets"] == 2 and not combat[0]["needs_source"]
     assert not any("Croatia" in s["title"] or "flag" in s["title"] for s in combat)     # politics via any outlet
+
+
+def test_combat_watch_ignores_nba_punch_and_ahead_of(repo):
+    from sportnews import trending as T
+    now = datetime.now(timezone.utc).isoformat()
+    def it(t, src, lang="zh"):
+        return {"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src, "link": "https://x/" + src,
+                "published": now, "score": 1.0}
+    items = [it("联盟宣布：火箭后卫斯马特因拳击勇士巴锡面部被禁赛三场", "Sohu"),
+             it("Shams：斯玛特因拳击巴锡被火箭队友劝阻 NBA禁赛三场", "虎扑"),
+             it("Fans worry about Kayla Harrison ahead of Amanda Nunes fight", "MMA Sucka", "en"),
+             it("Kayla Harrison weight concern ahead of Amanda Nunes fight", "Yahoo", "en")]
+    assert T.rank_combat(cfg(), items) == []

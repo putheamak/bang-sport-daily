@@ -32,7 +32,7 @@ STOP = {
     "россия", "россии", "матч", "лига", "клуб", "сборная", "сборной", "тренер", "игрок", "чемпионат", "золото",
     "победа", "сезон", "финал", "новости", "спорт", "сегодня",
 }
-GN_LANG = {"km": "hl=km&gl=KH&ceid=KH:km", "en": "hl=en-US&gl=US&ceid=US:en", "ru": "hl=ru&gl=RU&ceid=RU:ru", "zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
+GN_LANG = {"km": "hl=en-US&gl=US&ceid=US:en", "en": "hl=en-US&gl=US&ceid=US:en", "ru": "hl=ru&gl=RU&ceid=RU:ru", "zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
 CAP = re.compile(r"[A-ZА-ЯЁ][\w'’-]{3,}")
 CJK = re.compile(r"[一-鿿\u1780-\u17ff]")      # Chinese and Khmer: no capital letters, match by characters
 KHM = re.compile(r"[\u1780-\u17ff]")

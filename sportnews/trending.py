@@ -57,8 +57,10 @@ def _same(a: dict, b: dict, rare) -> bool:
     return len(rare(a["title"]) & rare(b["title"])) >= 2
 
 
+NOT_COMBAT = re.compile(r"(\bNBA\b|basketball|篮球|篮板|火箭|勇士|湖人|баскетбол|\bНБА\b)", re.I)   # a punch in an NBA game
 BET_SOURCE = re.compile(r"(stavk|prognoz|ставк|прогноз|букмек|betting|sportsbook|odds)", re.I)
 COMBAT_PREVIEW = (r"(face-?off|weigh-?in|press conference|presser|warning|predict|preview|odds|what time|how to watch|"
+                  r"ahead of|in the lead-?up|build-?up|в преддверии|накануне|"
                   r"live fight coverage|live coverage|live updates|live blog|live results|^live\b|midnight mania|"
                   r"онлайн|прямая трансляция|"
                   r"битв\w* взглядов|взвешивани|пресс-конференц|прогноз|перед боем|перед турниром|"
@@ -152,7 +154,7 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[
     need = cw.get("min_outlets", 2)
     skip = re.compile(cw.get("skip", COMBAT_PREVIEW), re.I)
     pool = [it for it in items if (it.get("sport") == "combat" or COMBAT_RX.search(it.get("title", "")))
-            and not skip.search(it.get("title", ""))]       # previews out BEFORE grouping, so a result is not
+            and not skip.search(it.get("title", "")) and not NOT_COMBAT.search(f"{it['title']} {it.get('summary', '')}")]       # previews out BEFORE grouping, so a result is not
                                                             # swallowed by a preview of the same fight
     prev_n = {s["key"]: s["outlets"] for s in (prev or {}).get("combat", [])}
     now = datetime.now(timezone.utc)
