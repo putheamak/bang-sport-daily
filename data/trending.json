@@ -1,36 +1,102 @@
 {
-  "updated": "2026-11-13T22:53:15+00:00",
+  "updated": "2026-11-14T06:29:32+00:00",
   "stories": [
     {
-      "key": "9122200f55",
-      "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA",
-      "summary": "Чемпионка «Ролан Гаррос» — 2026, третья ракетка мира российская теннисистка Мирра Андреева стала первым игроком с 2018 года, которому удалось выиграть три первых матча на Итоговом турнире WTA в карьере.",
+      "key": "9d6208f808",
+      "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США",
+      "summary": "Бронзовые призёры Олимпиады-2026, чемпионы мира немецкие фигуристы Минерва Фабьенне Хазе и Никита Володин, выступающие в парном катании, лидируют после короткой программы на этапе Гран-при ISU в США.",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.47,
+      "published": "2026-11-14T06:09:32+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6698670-sportivnaya-para-haze-volodin-vyigrala-korotkuyu-programmu-na-etape-gran-pri-isu-v-ssha.html",
+          "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-ssha-rezultat-korotkoy-programmy-muzhchin-14-noyabrya-2026-2474707/",
+          "title": "Малинин выиграл короткую программу Гран-при США"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/figuristy-2131505612.html",
+          "title": "Хазе и Володин лидируют после короткой программы на Гран-при Skate America"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlJGTzBzM01zZzZIQVNKSzE2SGh1SHBGNVl5UVcwX3hSNHZrQ1lTTWc0aFRsLXRPZ3E2NkNYcld6RVpka3h6Yy1EVkRKckM2SUV5SWZnaFdBOS1sajBpbGowNHUtZGZZRlhLVERUbjM3eVNUaU9VczlXa1dzRDl4bDF0WVo4TURvd0VmNm05TnpvcHhJa254UzBVdkZ3c2RZTkZwMTRwcVVqOE9teERBaXV3UVVQeUo0QllObnlKWXdpLUMxd001a3VtR2hLeEZRWEFEcFhpUUYyaHltSWs3OFhkaEpmcVVxSVhQSTRHVVhKTUxHV1dndk5qNjliNlUtbWIzTDVwMlItbnZreVI3TkwxaktuZ9IBmwJBVV95cUxPQ2s4WEQwTkJKeldYMUdtSDllLVQ5NjNocEZ6eDdJdF9XSmhXT0poZ1RZdHY5WnF1b0RoN250MS14bXZUYUpSaXVrcGE1WExqbHNPQnNVNVhIQmYzamJyai1LMjU5aEUxOUdEYUVYUVFmSkNtdnEtd1BEX3lCOGlWZjNJemI3MkRYQzlfSTZ6WTNLcFZMQlhkTm9fUXBEb1JHZ0VDcmNkRk5TVTVOZlRpaGlqLTM1NzY0N19aQl9zb3FiNTlCSEVLOFNWZlFmeklCRUVhdjN1MXpWS19RdjlyaVhjRUh5aGE3SjRxXzIzOUNnc1dja3hrWTJrdlBpV3BlMEhCREwyNHEwZ2ZZc0dxRHFuVWRFbFFqU21N?oc=5",
+          "title": "Live: Бог Квадов Малинин начинает сезон дома, русский немец Володин заочно против наших. Старт Гран-при США"
+        }
+      ]
+    },
+    {
+      "key": "63fc14dc15",
+      "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира",
+      "summary": "Российская теннисистка Мирра Андреева попросила американских болельщиков поддержать ее в полуфинальном матче итогового турнира WTA против представительницы США Джессики Пегулы.",
       "lang": "ru",
       "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.94,
-      "published": "2026-11-13T21:50:30+00:00",
+      "heat": 10.82,
+      "published": "2026-11-14T04:14:00+00:00",
       "refs": [
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/tennis/news-6698436-andreeva-povtorila-rezultat-stivens-8-letnej-davnosti-v-ramkah-itogovogo-turnira-wta.html",
-          "title": "Андреева повторила результат Стивенс восьмилетней давности в рамках Итогового турнира WTA"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/andreeva-poprosila-amerikanskih-bolelschikov-podderzhat-ee-v-matche-s-peguloy-v-polufinale-itogovogo-turnira-2474703/",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261114/andreeva-2131475475.html",
-          "title": "Андреева обыграла Шнайдер в матче итогового турнира WTA"
+          "link": "https://ria.ru/20261114/tennis-2131481351.html",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
-          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1JsbzlMbU9ReUpDcVNnQnJPZlNGUXRjX0tHZVFEN2pZTFp6ZW9tQWVXbFdJRDhnX2t5SVpiTngxZkl3UW1KWmdWYXlLUlJhRkNReHlKT3ZZcm90T2JxQWs2dHlzZG1VTEptZHV6eDZzY0ptLU1XbWt2N3lSNUpPa25FaHVsLUdmRGtnTlU1Rnc0eVdtdnlnY3FMSjRXNTV3U0ZuVXh6Y2tzZk9kd0RlYzlVSWJxUmpWQlRadw?oc=5",
+          "title": "Пегула высказалась о разрешении конфликта с Андреевой на Итоговом турнире WTA"
         },
         {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kOWMxNGFBY2Q5T0ZtdGJrTjZGSDhaaGY1R3Nac2I4b3FKc3ZBU0Npc3dJWlFDMzhkTXpqc19EbXBidDltTVBkN0lPWmo2SDJ1OUlDUEpCUWM?oc=5",
-          "title": "Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA: подробнолсти"
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJzb1pVZndnUkRxdjJJdklQWUtjdlVhRU9Td3ptTDVHS1ZKSm1FUk1CalFfd3JiUXQtVm9VR3M0bWJBaFA3NXAzRUhxbUNLWmtGd09ZbjNlMnpnRFp0cU1IYm5mb1dBNndZX2tRSTNYWm5QaTdtT096bHJ2eE5OQ1ljMHFwV2V6RHN3eDRXYjZPMm1oUDFZdnFic0RKeGVsQ3VZNGtONjFKUW9MREZ0NWVwU2I0a0FLWVdEazZVZEV5NTA?oc=5",
+          "title": "Мирра Андреева побила рекорд Серены Уильямс в рамках Итогового турнира WTA"
+        }
+      ]
+    },
+    {
+      "key": "b33d9df1af",
+      "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal",
+      "summary": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal Aktualita.co",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.52,
+      "published": "2026-11-14T02:48:45+00:00",
+      "refs": [
+        {
+          "source": "Aktualita.co",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkNOQUw1eURfc3c5QlhZbWNlQXNscURIdnBKRUhvYUstR1pMdVVlUFlwcnE2NndLT0Q5SmF0NTNJcWpYQmw0U0V4TWFTWDVXQzh6bk83QVhGUnJyMktITjFXZm9HRzVkZWEwWjZUNGpCSjREUWFjYklUTUR1a0pmRkg3LVc5OG1DY0JuOWQ2dUl1bFRkSmNXLU9rUHdzQ0h0eXZvdHJJMF9WSFlYa2Ezbi1mNHdMVlB3RHQtRjRwZUl6TGRvZ3lHNDh2UEw1MjA?oc=5",
+          "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal"
+        },
+        {
+          "source": "Japan Wire by Kyodo News",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYXhJV0FMMDJpTzN6ZEhzZjcyUlliZko1dE1sWURfdVNhWlhjUzdxM3phc0JBQ2JYYkZnZmttSzE4ZVFhTlNlQXpTeWZBaW9kY1lCSUhrVmlFQQ?oc=5",
+          "title": "Football: Japan in another Brazil test as Moriyasu's reign nears end"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUpadUpjRHRaWks5UkVYVjBmend6cVZOOWJUM3B2NDBGZ2l2MDZPZnFob2dCOXlLeWNoVlBDcFcwb3M4TjhxR0hGdlYxYVYwM0tBVGIwWVduMzlqUi1GcGQxUzZNRVdJSHhYMnBUMk9KRGNsNXZYbkl2MnhDWXpSWUhyRQ?oc=5",
+          "title": "Brazil XI vs Japan – Predicted lineup and team news"
+        },
+        {
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWDNMZDBQdzJhLUZ5X1M4U0NHU25sbUx0c29BZHNLTHVhSHdya0o5VS1BMG9rUzI2b0FVS3BiZWwzWkpicFNtbkRQZWNiS3RWaDdwVlBIeng0b2toeDAwM1dZbDJLQWYwUGFkdUlMUXdGZHg2M2diUGJ3OHpWTWJTa3I0eUJyVDViZUEyWmpxZEFGNEEySnE0S2FwZ0FOdWJxTXppR1ZxWTU5VzkxbGdmbDh5M0lJU255cG1lUFA3bHB1NG8zZjRvRjluNkg5VVU?oc=5",
+          "title": "National Sports Congress: Awaiting the first gold medals from Vovinam; No one in Ronaldo's room at the Portuguese national team."
         }
       ]
     },
@@ -42,7 +108,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.91,
+      "heat": 10.14,
       "published": "2026-11-13T18:37:09+00:00",
       "refs": [
         {
@@ -56,9 +122,9 @@
           "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United"
         },
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd"
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMHZpR2VjR1JfVXVKdlVoRFhfR0FWcHZDbUpGdG1Xa19fWEpEd3NGeE5xb2xyQUxyakxQVlVWOVctd0lZQTZPTFBaY3FpbEZFcjFGd0N0V1QtdzYya201bFlRTXpMNTVI?oc=5",
+          "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?"
         },
         {
           "source": "Sky Sports",
@@ -68,86 +134,30 @@
       ]
     },
     {
-      "key": "7449dd062c",
-      "title": "Нидерланды — Греция: видеообзор матча Лиги наций",
-      "summary": "Сборная Нидерландов разгромила сборную Греции в матче группового турнира Лиги наций — 7:0.",
+      "key": "5328924050",
+      "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября",
+      "summary": "В субботу, 14 ноября, на пятом этапе Гран-при России по фигурному катанию сезона-2026/27 в Омске мужчины представят короткие программы. Соревнования пройдут в рамках турнира «Сердце Сибири» на «G-Drive Арене».",
       "lang": "ru",
-      "sport": null,
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.67,
-      "published": "2026-11-13T22:43:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/niderlandy-greciya-videoobzor-matcha-ligi-naciy-i-luchshie-momenty-igry-13-noyabrya-2026-goda-2474663/",
-          "title": "Нидерланды — Греция: видеообзор матча Лиги наций"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261114/liga-natsiy-2131477574.html",
-          "title": "Нидерланды разгромили Грецию в матче Лиги наций"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117436069-u-xavi-v-sbornoj-niderlandov-3-pobedy-2-nichix-raznicza-golov-145-koma.html",
-          "title": "У Хави в сборной Нидерландов 3 победы, 2 ничьих, разница голов – 14:5. Команда лидирует в группе Лиги наций"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/football/news-6698396-niderlandy-greciya-rezultat-matcha-13-noyabrya-schet-7-0-liga-nacij-uefa-2026-2027.html",
-          "title": "Сборная Нидерландов забила семь безответных мячей команде Греции в Лиге наций УЕФА"
-        }
-      ]
-    },
-    {
-      "key": "2183c46c8d",
-      "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»",
-      "summary": "Главный тренер сборной Германии Юрген Клопп подвел итоги игры с Сербией (3:1) в Лиге наций. «Команда провела замечательный матч. Нам нужно привыкнуть к тому, что мы можем быть очень хороши. Конечно, мы могли забить больше голов, но сейчас мне это совершенно безразлично. Нельзя говорить о развитии и при этом требовать всего и сразу. Комбинации выглядели великолепно, во владении мячом мы доминировал",
-      "lang": "ru",
-      "sport": null,
+      "sport": "olympic",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.54,
-      "published": "2026-11-13T22:36:00+00:00",
+      "heat": 9.04,
+      "published": "2026-11-14T06:25:00+00:00",
       "refs": [
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117436082-klopp-pro-31-s-serbiej-germaniya-mogla-zabit-bolshe-no-nelzya-govorit-.html",
-          "title": "Клопп про 3:1 с Сербией: «Германия могла забить больше, но нельзя говорить о развитии и при этом требовать всего и сразу. Нам нужно привыкнуть к тому, что мы можем быть очень хороши»"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/gran-pri-rossii-v-omske-raspisanie-korotkoy-programmy-i-spisok-uchastnikov-muzhskogo-turnira-14-noyabrya-2026-onlayn-2474718/",
+          "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября"
         },
         {
           "source": "Championat",
-          "link": "https://www.championat.com/football/news-6698408-serbiya-germaniya-rezultat-matcha-13-noyabrya-schet-3-1-liga-nacij-uefa-2026-2027.html",
-          "title": "Германия переиграла Сербию в матче Лиги наций УЕФА с автоголом и двумя удалениями"
+          "link": "https://www.championat.com/basketball/news-6698678-rezultaty-matchej-nba-2026-2027-14-noyabrya.html",
+          "title": "НБА: результаты игр 14 ноября"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/serbiya-germaniya-1-3-rezultat-matcha-ligi-naciy-13-noyabrya-2026-goda-2474652/",
-          "title": "Сербия проиграла Германии, у Бабича гол и автогол"
-        }
-      ]
-    },
-    {
-      "key": "686674c776",
-      "title": "France hold nerve to edge past South Africa in thriller",
-      "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
-      "lang": "en",
-      "sport": null,
-      "outlets": 2,
-      "growth": 0,
-      "heat": 6.56,
-      "published": "2026-11-13T22:47:44+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
-          "title": "France hold nerve to edge past South Africa in thriller"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report",
-          "title": "France cling on for furious victory against South Africa after Dupont sizzles"
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVYxVjA2TWxhSGZqYmJfaUw0aXVCS2hiZTJYRS0yaFhhN29XTzR4MVF1SFBqdkJXVDlFdEhjSzZSOThUS0pvMHh3WnVqbUVreUlDSVh0TGFIMGFLTmZ6UW9ydTVEWDZ1X25VZFg2ejkxc1haanZncEV0RVNBd04tSDd3VHFTWXFFdldIVlQ2RTBOaWJacExiLTJCSG9EQUZpXzRZVUFJcThRUGNWbTNqeVllSEMzd0xLVUkzdVhqYjRaZDB4c2pMNHl6MNIB0AFBVV95cUxNRG1NWlpjdm5XbXJHSG5UUUVzSE55eWV5aEZXUEJKWkFJVUlvM1ZpNnlsajhuSVR6UWFmNmd6b3NXVXhRbGlha2NYZm5JOHFmNkE0aUNSOUsxdDVsYlVtcVFhOWxSbVR0bTFUdVBKeExhbGdpY0N0N0hiUXlCTEdVY0pQbW9uZXdyeDZnajlKbHVRUDNEU2lVU0c2MkNIa0VINFhlRGt2bGlEOXg5cXFGbEhvNDZzWGpJV0xEMk5PV1JuMXpoZVpFQVVQelFtOTNq?oc=5",
+          "title": "Тренер Дзепки подтвердила причину снятия фигуристки с этапа Гран-при России в Омске"
         }
       ]
     }
@@ -2158,7 +2168,7 @@
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.91,
+      "heat": 10.14,
       "published": "2026-11-13T18:37:09+00:00",
       "refs": [
         {
@@ -2172,9 +2182,9 @@
           "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United"
         },
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd"
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMHZpR2VjR1JfVXVKdlVoRFhfR0FWcHZDbUpGdG1Xa19fWEpEd3NGeE5xb2xyQUxyakxQVlVWOVctd0lZQTZPTFBaY3FpbEZFcjFGd0N0V1QtdzYya201bFlRTXpMNTVI?oc=5",
+          "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?"
         },
         {
           "source": "Sky Sports",
@@ -2266,160 +2276,297 @@
           "title": "France cling on for furious victory against South Africa after Dupont sizzles"
         }
       ]
-    }
-  },
-  "sent": [
-    {
-      "key": "5e6bcd98bb",
-      "title": "Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On?",
-      "summary": "Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On? Aktualita.co",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 5,
+    },
+    "9d6208f808": {
+      "key": "9d6208f808",
+      "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США",
+      "summary": "Бронзовые призёры Олимпиады-2026, чемпионы мира немецкие фигуристы Минерва Фабьенне Хазе и Никита Володин, выступающие в парном катании, лидируют после короткой программы на этапе Гран-при ISU в США.",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
       "growth": 0,
-      "heat": 10.9,
-      "published": "2026-11-12T06:16:07+00:00",
+      "heat": 11.47,
+      "published": "2026-11-14T06:09:32+00:00",
       "refs": [
         {
-          "source": "Aktualita.co",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTk8ySEF1MTBCV2FOb19CZUdpWV9kbHVpbGIzck9pcTVEdDlQSE1ZQU45RDZhSFUtdHVJa0VLWDJvWDFiaHFaLXNzZ08yTEVMeG1BUm5pd2w4aG9tdmV4TUFNLTJKNzhoOFVNRXN5RGdMX0JSM1lYRzNsUks3ZmpGX1Q2QnR5TGpUblJ2a29ySFdRMS1TYnJBeG0xcmt4YzVUSFdwU0NZWTY4NmRkQnNQcVVnY0g0WXFucnVvUVBn?oc=5",
-          "title": "Football Schedule Today, November 12, 2026: Vietnam U-23 vs Singapore U-23, What Time Is It On?"
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6698670-sportivnaya-para-haze-volodin-vyigrala-korotkuyu-programmu-na-etape-gran-pri-isu-v-ssha.html",
+          "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США"
         },
         {
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGhneVcxVjV1d0lmdTFpUGYxeTloY0RlZjhGZEg3eFUzT1RQSEFRUmpnaUt4dzA1Z1gwYk1hNTZrNnhqMlUzUjBtUDJORXJrT3Y4Ykh6ZjQxdXp5NHg3VVFKSjVTQXlhMzBWSTZPTTFMcUN6QlpIbFplakRTSzFUYlpPUDhGSTlPM3dsMTFPeFF0R3ZCMmpuSVA0dGU?oc=5",
-          "title": "Football match schedule today, November 12, 2026: Vietnam U23 vs Singapore U23"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-ssha-rezultat-korotkoy-programmy-muzhchin-14-noyabrya-2026-2474707/",
+          "title": "Малинин выиграл короткую программу Гран-при США"
         },
         {
-          "source": "日本取引所グループ",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMzdrMXNaVmlIS19MS0E0eHhyTmJHeUhfVVBDcVpRR2V1NlA3UGtPY0dIZF9Sa0dRQlZta25HOUM3dmxhbFZ2SGFyTXNxVHhWLVl3Z0plMU5ScUtVSVRBUUdyOXMzVWFQSkVEQ0FjXzRkTFN2YW9fRUI3bXMxMjFGNVhIdWp6VkJsdUNCT2RYMERIdTE3WUlHUU5xSExSNERXTnEyREpBU19ScnpzazQyTTlLckdZT3Fvak9MSDBFMWMxbG5LWnZmSU1mQlZHc0lZaGRESkgwRTB3T2k2a0ZaaVphVy1Pc0lKcWJsSmh0eTdmLWpRQ2ZjTGRmcUdlYU9tenpUam1nR2hueUtBZlprZVVSeHdGNDlqYTZfQ2Qyazd2X1NaVnh0b0V4WlZnZFlLUXpjV203MWFrWDQ?oc=5",
-          "title": "[LIVE.𝐒𝐭𝐫𝐞𝐚𝐦𝐬]^* Singapore vs Paraguay LIVE Football 2026 Games Center Free Today"
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/figuristy-2131505612.html",
+          "title": "Хазе и Володин лидируют после короткой программы на Гран-при Skate America"
         },
         {
-          "source": "The Manila Times",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTHhBYjV2V3VzdTFFUmNZSjhNUXgwazZGdlZEUFg3c0JraWNhdldZYnQ3eXZ5a0dvV3NjUkpmR0FmT3Q1RmhnRW8wSlZkUmp6T2pZT01XSFJUNVJzV2R2UUFTTzUzWndGb0tZTi1PTUt2TW13TTl2SHVxWUxVSmlCM3hzRzVBQ3czUlV2SEM1cFdsWDhpQlJlSFVJZTZXSC12eE95dGNuM1RGTGgxT1NYX3hHNU9FekpnZzNVMzVUbEJBZFE0OUhoUHUtX2RkWnJ3VHpIN2wyeUlPUS1kYVRYNjhDNDE3VjVpQV9lUEdXVUJSVjBmTzY0d3I0dXBHaERx0gGGAkFVX3lxTE9SM1E5U252aG5hSFFpcDQ2ZUt6eGpoUVZ4ckhjbEM3OGNSTHB1aThnU0dVS1B5UEZ4QVBYT0tqeWNZeEVGQV9Wd2xCRTlCQ0M3SUFacTlZM3p2czhFMnhDcm9uTzB5WXVORjh5WF9fSDdXR2lUZnBkM1dkbkRWNEdoV3lBVTJMOUFOeTJveUdKTW0tMmR4b3dnT3lqdloxbXZpRWZUbkJWRlpPLWNXc1B0alBJUTNBVHUzbS1KTjNLakFWR2NVaDZUZVFMUTdSZ2Z4SGJiZ09EMnVJZjRmTjhZalBmRlo5WHdTZkQ5RVF4b0RXeTZFeTVZcDNqNlY2TVlLbnNBMHc?oc=5",
-          "title": "ANESSA Sunshine Project Champions Children's Well-Being Through Football and Sun Safety in Singapore"
-        },
-        {
-          "source": "JFA",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2SnNoSnNHVTRFZ1JvUWtFLUhYYkJsSVJfbng2dTA0Vnl5RnJvN3JROXQ1VGhqSHd5bFl3ZjFIZmROXzNmZjhhdzBkVWJhZw?oc=5",
-          "title": "【Scouting Report】Brazil Look to the Next Generation as Ancelotti Begins New Chapter – MIZUHO BLUE CHALLENGE THE KALLANG FOOTBALL SERIES SINGAPORE"
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlJGTzBzM01zZzZIQVNKSzE2SGh1SHBGNVl5UVcwX3hSNHZrQ1lTTWc0aFRsLXRPZ3E2NkNYcld6RVpka3h6Yy1EVkRKckM2SUV5SWZnaFdBOS1sajBpbGowNHUtZGZZRlhLVERUbjM3eVNUaU9VczlXa1dzRDl4bDF0WVo4TURvd0VmNm05TnpvcHhJa254UzBVdkZ3c2RZTkZwMTRwcVVqOE9teERBaXV3UVVQeUo0QllObnlKWXdpLUMxd001a3VtR2hLeEZRWEFEcFhpUUYyaHltSWs3OFhkaEpmcVVxSVhQSTRHVVhKTUxHV1dndk5qNjliNlUtbWIzTDVwMlItbnZreVI3TkwxaktuZ9IBmwJBVV95cUxPQ2s4WEQwTkJKeldYMUdtSDllLVQ5NjNocEZ6eDdJdF9XSmhXT0poZ1RZdHY5WnF1b0RoN250MS14bXZUYUpSaXVrcGE1WExqbHNPQnNVNVhIQmYzamJyai1LMjU5aEUxOUdEYUVYUVFmSkNtdnEtd1BEX3lCOGlWZjNJemI3MkRYQzlfSTZ6WTNLcFZMQlhkTm9fUXBEb1JHZ0VDcmNkRk5TVTVOZlRpaGlqLTM1NzY0N19aQl9zb3FiNTlCSEVLOFNWZlFmeklCRUVhdjN1MXpWS19RdjlyaVhjRUh5aGE3SjRxXzIzOUNnc1dja3hrWTJrdlBpV3BlMEhCREwyNHEwZ2ZZc0dxRHFuVWRFbFFqU21N?oc=5",
+          "title": "Live: Бог Квадов Малинин начинает сезон дома, русский немец Володин заочно против наших. Старт Гран-при США"
         }
       ]
     },
-    {
-      "key": "871b50a29c",
-      "title": "Сборная России заняла третье место в медальном зачёте на ЮОИ-2026 в Дакаре",
-      "summary": "Сборная России заняла третье место в медальном зачёте на юношеских Олимпийских играх – 2026 в Дакаре, Сенегал.",
+    "63fc14dc15": {
+      "key": "63fc14dc15",
+      "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира",
+      "summary": "Российская теннисистка Мирра Андреева попросила американских болельщиков поддержать ее в полуфинальном матче итогового турнира WTA против представительницы США Джессики Пегулы.",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.82,
+      "published": "2026-11-14T04:14:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/andreeva-poprosila-amerikanskih-bolelschikov-podderzhat-ee-v-matche-s-peguloy-v-polufinale-itogovogo-turnira-2474703/",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/tennis-2131481351.html",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1JsbzlMbU9ReUpDcVNnQnJPZlNGUXRjX0tHZVFEN2pZTFp6ZW9tQWVXbFdJRDhnX2t5SVpiTngxZkl3UW1KWmdWYXlLUlJhRkNReHlKT3ZZcm90T2JxQWs2dHlzZG1VTEptZHV6eDZzY0ptLU1XbWt2N3lSNUpPa25FaHVsLUdmRGtnTlU1Rnc0eVdtdnlnY3FMSjRXNTV3U0ZuVXh6Y2tzZk9kd0RlYzlVSWJxUmpWQlRadw?oc=5",
+          "title": "Пегула высказалась о разрешении конфликта с Андреевой на Итоговом турнире WTA"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJzb1pVZndnUkRxdjJJdklQWUtjdlVhRU9Td3ptTDVHS1ZKSm1FUk1CalFfd3JiUXQtVm9VR3M0bWJBaFA3NXAzRUhxbUNLWmtGd09ZbjNlMnpnRFp0cU1IYm5mb1dBNndZX2tRSTNYWm5QaTdtT096bHJ2eE5OQ1ljMHFwV2V6RHN3eDRXYjZPMm1oUDFZdnFic0RKeGVsQ3VZNGtONjFKUW9MREZ0NWVwU2I0a0FLWVdEazZVZEV5NTA?oc=5",
+          "title": "Мирра Андреева побила рекорд Серены Уильямс в рамках Итогового турнира WTA"
+        }
+      ]
+    },
+    "b33d9df1af": {
+      "key": "b33d9df1af",
+      "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal",
+      "summary": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal Aktualita.co",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.52,
+      "published": "2026-11-14T02:48:45+00:00",
+      "refs": [
+        {
+          "source": "Aktualita.co",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkNOQUw1eURfc3c5QlhZbWNlQXNscURIdnBKRUhvYUstR1pMdVVlUFlwcnE2NndLT0Q5SmF0NTNJcWpYQmw0U0V4TWFTWDVXQzh6bk83QVhGUnJyMktITjFXZm9HRzVkZWEwWjZUNGpCSjREUWFjYklUTUR1a0pmRkg3LVc5OG1DY0JuOWQ2dUl1bFRkSmNXLU9rUHdzQ0h0eXZvdHJJMF9WSFlYa2Ezbi1mNHdMVlB3RHQtRjRwZUl6TGRvZ3lHNDh2UEw1MjA?oc=5",
+          "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal"
+        },
+        {
+          "source": "Japan Wire by Kyodo News",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYXhJV0FMMDJpTzN6ZEhzZjcyUlliZko1dE1sWURfdVNhWlhjUzdxM3phc0JBQ2JYYkZnZmttSzE4ZVFhTlNlQXpTeWZBaW9kY1lCSUhrVmlFQQ?oc=5",
+          "title": "Football: Japan in another Brazil test as Moriyasu's reign nears end"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUpadUpjRHRaWks5UkVYVjBmend6cVZOOWJUM3B2NDBGZ2l2MDZPZnFob2dCOXlLeWNoVlBDcFcwb3M4TjhxR0hGdlYxYVYwM0tBVGIwWVduMzlqUi1GcGQxUzZNRVdJSHhYMnBUMk9KRGNsNXZYbkl2MnhDWXpSWUhyRQ?oc=5",
+          "title": "Brazil XI vs Japan – Predicted lineup and team news"
+        },
+        {
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWDNMZDBQdzJhLUZ5X1M4U0NHU25sbUx0c29BZHNLTHVhSHdya0o5VS1BMG9rUzI2b0FVS3BiZWwzWkpicFNtbkRQZWNiS3RWaDdwVlBIeng0b2toeDAwM1dZbDJLQWYwUGFkdUlMUXdGZHg2M2diUGJ3OHpWTWJTa3I0eUJyVDViZUEyWmpxZEFGNEEySnE0S2FwZ0FOdWJxTXppR1ZxWTU5VzkxbGdmbDh5M0lJU255cG1lUFA3bHB1NG8zZjRvRjluNkg5VVU?oc=5",
+          "title": "National Sports Congress: Awaiting the first gold medals from Vovinam; No one in Ronaldo's room at the Portuguese national team."
+        }
+      ]
+    },
+    "5328924050": {
+      "key": "5328924050",
+      "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября",
+      "summary": "В субботу, 14 ноября, на пятом этапе Гран-при России по фигурному катанию сезона-2026/27 в Омске мужчины представят короткие программы. Соревнования пройдут в рамках турнира «Сердце Сибири» на «G-Drive Арене».",
       "lang": "ru",
       "sport": "olympic",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.34,
-      "published": "2026-11-13T14:34:19+00:00",
+      "heat": 9.04,
+      "published": "2026-11-14T06:25:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/gran-pri-rossii-v-omske-raspisanie-korotkoy-programmy-i-spisok-uchastnikov-muzhskogo-turnira-14-noyabrya-2026-onlayn-2474718/",
+          "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/basketball/news-6698678-rezultaty-matchej-nba-2026-2027-14-noyabrya.html",
+          "title": "НБА: результаты игр 14 ноября"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVYxVjA2TWxhSGZqYmJfaUw0aXVCS2hiZTJYRS0yaFhhN29XTzR4MVF1SFBqdkJXVDlFdEhjSzZSOThUS0pvMHh3WnVqbUVreUlDSVh0TGFIMGFLTmZ6UW9ydTVEWDZ1X25VZFg2ejkxc1haanZncEV0RVNBd04tSDd3VHFTWXFFdldIVlQ2RTBOaWJacExiLTJCSG9EQUZpXzRZVUFJcThRUGNWbTNqeVllSEMzd0xLVUkzdVhqYjRaZDB4c2pMNHl6MNIB0AFBVV95cUxNRG1NWlpjdm5XbXJHSG5UUUVzSE55eWV5aEZXUEJKWkFJVUlvM1ZpNnlsajhuSVR6UWFmNmd6b3NXVXhRbGlha2NYZm5JOHFmNkE0aUNSOUsxdDVsYlVtcVFhOWxSbVR0bTFUdVBKeExhbGdpY0N0N0hiUXlCTEdVY0pQbW9uZXdyeDZnajlKbHVRUDNEU2lVU0c2MkNIa0VINFhlRGt2bGlEOXg5cXFGbEhvNDZzWGpJV0xEMk5PV1JuMXpoZVpFQVVQelFtOTNq?oc=5",
+          "title": "Тренер Дзепки подтвердила причину снятия фигуристки с этапа Гран-при России в Омске"
+        }
+      ]
+    }
+  },
+  "sent": [
+    {
+      "key": "9d6208f808",
+      "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США",
+      "summary": "Бронзовые призёры Олимпиады-2026, чемпионы мира немецкие фигуристы Минерва Фабьенне Хазе и Никита Володин, выступающие в парном катании, лидируют после короткой программы на этапе Гран-при ISU в США.",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.47,
+      "published": "2026-11-14T06:09:32+00:00",
       "refs": [
         {
           "source": "Championat",
-          "link": "https://www.championat.com/other/news-6697936-sbornaya-rossii-zanyala-trete-mesto-v-medalnom-zachyote-na-yuoi-2026-v-dakare.html",
-          "title": "Сборная России заняла третье место в медальном зачёте на ЮОИ-2026 в Дакаре"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/rossijane-2131381640.html",
-          "title": "Сборная России заняла третье место в медальном зачете юношеской Олимпиады"
+          "link": "https://www.championat.com/figureskating/news-6698670-sportivnaya-para-haze-volodin-vyigrala-korotkuyu-programmu-na-etape-gran-pri-isu-v-ssha.html",
+          "title": "Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/olympics/news/rossiya-zanyala-trete-mesto-v-medalnom-zachete-yunosheskih-olimpiyskih-igr-v-dakare-2474485/",
-          "title": "Россия заняла третье место в медальном зачете юношеских Олимпийских игр в Дакаре"
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-ssha-rezultat-korotkoy-programmy-muzhchin-14-noyabrya-2026-2474707/",
+          "title": "Малинин выиграл короткую программу Гран-при США"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/figuristy-2131505612.html",
+          "title": "Хазе и Володин лидируют после короткой программы на Гран-при Skate America"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlJGTzBzM01zZzZIQVNKSzE2SGh1SHBGNVl5UVcwX3hSNHZrQ1lTTWc0aFRsLXRPZ3E2NkNYcld6RVpka3h6Yy1EVkRKckM2SUV5SWZnaFdBOS1sajBpbGowNHUtZGZZRlhLVERUbjM3eVNUaU9VczlXa1dzRDl4bDF0WVo4TURvd0VmNm05TnpvcHhJa254UzBVdkZ3c2RZTkZwMTRwcVVqOE9teERBaXV3UVVQeUo0QllObnlKWXdpLUMxd001a3VtR2hLeEZRWEFEcFhpUUYyaHltSWs3OFhkaEpmcVVxSVhQSTRHVVhKTUxHV1dndk5qNjliNlUtbWIzTDVwMlItbnZreVI3TkwxaktuZ9IBmwJBVV95cUxPQ2s4WEQwTkJKeldYMUdtSDllLVQ5NjNocEZ6eDdJdF9XSmhXT0poZ1RZdHY5WnF1b0RoN250MS14bXZUYUpSaXVrcGE1WExqbHNPQnNVNVhIQmYzamJyai1LMjU5aEUxOUdEYUVYUVFmSkNtdnEtd1BEX3lCOGlWZjNJemI3MkRYQzlfSTZ6WTNLcFZMQlhkTm9fUXBEb1JHZ0VDcmNkRk5TVTVOZlRpaGlqLTM1NzY0N19aQl9zb3FiNTlCSEVLOFNWZlFmeklCRUVhdjN1MXpWS19RdjlyaVhjRUh5aGE3SjRxXzIzOUNnc1dja3hrWTJrdlBpV3BlMEhCREwyNHEwZ2ZZc0dxRHFuVWRFbFFqU21N?oc=5",
+          "title": "Live: Бог Квадов Малинин начинает сезон дома, русский немец Володин заочно против наших. Старт Гран-при США"
         }
       ]
     },
     {
-      "key": "9b2a46cca6",
-      "title": "ТАСС: Усман Нурмагомедов продолжает находиться под стражей в ОАЭ",
-      "summary": "ТАСС: Усман Нурмагомедов продолжает находиться под стражей в ОАЭ Спорт Mail Бойца Усмана Нурмагомедова (младшего брата Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с бывшим чемпионом UFC Мерабом Двалишвили Meduza Усмана Нурмагомедова могут отпустить под залог после ареста в ОАЭ, считает юрист Матч ТВ Усман Нурмагомедов и еще девять человек получили сроки в ОАЭ после драки Спорт Mail Бо",
+      "key": "63fc14dc15",
+      "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира",
+      "summary": "Российская теннисистка Мирра Андреева попросила американских болельщиков поддержать ее в полуфинальном матче итогового турнира WTA против представительницы США Джессики Пегулы.",
       "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.66,
-      "published": "2026-11-13T10:52:45+00:00",
-      "refs": [
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80SzJUeF9vdlFpTDVPVmdSN05nN3NRUlJMdU9fLTdtVmNyUXFTVVQzaUdsbjVhb2txeEhLS0JOWFV4Y3p1aUY2aXRWY2E3bXVU?oc=5",
-          "title": "ТАСС: Усман Нурмагомедов продолжает находиться под стражей в ОАЭ"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-nurmagomedov-bolee-12-chasov-nahoditsya-pod-strazhey-v-abu-dabi-2473972/",
-          "title": "ТАСС: Усман Нурмагомедов более 12 часов находится под стражей в Абу-Даби"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/oae-2131377662.html",
-          "title": "Мераба Двалишвили освободили из-под стражи в ОАЭ"
-        }
-      ]
-    },
-    {
-      "key": "f380a0d191",
-      "title": "«Манчестер Юнайтед» объявил о назначении Почеттино главным тренером с 18 ноября",
-      "summary": "«Манчестер Юнайтед» объявил о назначении Почеттино главным тренером с 18 ноября Новости спорта Канчельскис: «Все хотим и надеемся, чтобы у Почеттино получилось в «Манчестер Юнайтед». В «Тоттенхэме» он проделал хорошую работу» Матч ТВ «Манчестер Юнайтед» назначил Почеттино новым главным тренером Forbes.ru Amazon получил неожиданный сюжет для фильма о «Манчестер Юнайтед» Спорт Mail Прощание с Каррик",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.44,
-      "published": "2026-11-13T12:13:03+00:00",
-      "refs": [
-        {
-          "source": "Новости спорта",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNT3dtNFo3czcydjdIYW1mbWdyNTRORF91czFUQVBLV3hnN2FiaFJyaUxHa21qUVNlX3RIVVBVUE5SS0RsZ3ZETTd4bmx0UjVVNlM2eXZUNHo5aTBNRlVBdDFaalgybkdPM3A3QV9xeFc2MGlJVWdsNmFiWWVNSjJKclRmMy1LSmJ4UTBCRHE3TmFneTUyM3ZXdTBlQWZKTGxRY05IWWt1R0JWWXVkbUtKZWpUUV9lNFRaZFN2UDJIVzhEeXVqR2N2b045ellON0twNUNuYW9BRHNpN1dUVUF5OUNwbEluRkRLMVRQN21NeVY3Rks1UmRSMWdHZHBPWmItMFlKTHZ2OA?oc=5",
-          "title": "«Манчестер Юнайтед» объявил о назначении Почеттино главным тренером с 18 ноября"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/england/news/manchester-yunayted-obyavil-o-naznachenii-pochettino-glavnym-trenerom-2474471/",
-          "title": "«Манчестер Юнайтед» объявил о назначении Почеттино главным тренером"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/manchester-2131364048.html",
-          "title": "Почеттино возглавит \"Манчестер Юнайтед\""
-        }
-      ]
-    },
-    {
-      "key": "eec2c347e4",
-      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
-      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
-      "lang": "en",
       "sport": "tennis",
-      "outlets": 3,
-      "growth": -1,
-      "heat": 8.14,
-      "published": "2026-11-13T01:23:06+00:00",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.82,
+      "published": "2026-11-14T04:14:00+00:00",
       "refs": [
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
-          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/andreeva-poprosila-amerikanskih-bolelschikov-podderzhat-ee-v-matche-s-peguloy-v-polufinale-itogovogo-turnira-2474703/",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового турнира"
         },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261114/tennis-2131481351.html",
+          "title": "Андреева попросила американских болельщиков поддержать ее в матче с Пегулой"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1JsbzlMbU9ReUpDcVNnQnJPZlNGUXRjX0tHZVFEN2pZTFp6ZW9tQWVXbFdJRDhnX2t5SVpiTngxZkl3UW1KWmdWYXlLUlJhRkNReHlKT3ZZcm90T2JxQWs2dHlzZG1VTEptZHV6eDZzY0ptLU1XbWt2N3lSNUpPa25FaHVsLUdmRGtnTlU1Rnc0eVdtdnlnY3FMSjRXNTV3U0ZuVXh6Y2tzZk9kd0RlYzlVSWJxUmpWQlRadw?oc=5",
+          "title": "Пегула высказалась о разрешении конфликта с Андреевой на Итоговом турнире WTA"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJzb1pVZndnUkRxdjJJdklQWUtjdlVhRU9Td3ptTDVHS1ZKSm1FUk1CalFfd3JiUXQtVm9VR3M0bWJBaFA3NXAzRUhxbUNLWmtGd09ZbjNlMnpnRFp0cU1IYm5mb1dBNndZX2tRSTNYWm5QaTdtT096bHJ2eE5OQ1ljMHFwV2V6RHN3eDRXYjZPMm1oUDFZdnFic0RKeGVsQ3VZNGtONjFKUW9MREZ0NWVwU2I0a0FLWVdEazZVZEV5NTA?oc=5",
+          "title": "Мирра Андреева побила рекорд Серены Уильямс в рамках Итогового турнира WTA"
+        }
+      ]
+    },
+    {
+      "key": "b33d9df1af",
+      "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal",
+      "summary": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal Aktualita.co",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.52,
+      "published": "2026-11-14T02:48:45+00:00",
+      "refs": [
+        {
+          "source": "Aktualita.co",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkNOQUw1eURfc3c5QlhZbWNlQXNscURIdnBKRUhvYUstR1pMdVVlUFlwcnE2NndLT0Q5SmF0NTNJcWpYQmw0U0V4TWFTWDVXQzh6bk83QVhGUnJyMktITjFXZm9HRzVkZWEwWjZUNGpCSjREUWFjYklUTUR1a0pmRkg3LVc5OG1DY0JuOWQ2dUl1bFRkSmNXLU9rUHdzQ0h0eXZvdHJJMF9WSFlYa2Ezbi1mNHdMVlB3RHQtRjRwZUl6TGRvZ3lHNDh2UEw1MjA?oc=5",
+          "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal"
+        },
+        {
+          "source": "Japan Wire by Kyodo News",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYXhJV0FMMDJpTzN6ZEhzZjcyUlliZko1dE1sWURfdVNhWlhjUzdxM3phc0JBQ2JYYkZnZmttSzE4ZVFhTlNlQXpTeWZBaW9kY1lCSUhrVmlFQQ?oc=5",
+          "title": "Football: Japan in another Brazil test as Moriyasu's reign nears end"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUpadUpjRHRaWks5UkVYVjBmend6cVZOOWJUM3B2NDBGZ2l2MDZPZnFob2dCOXlLeWNoVlBDcFcwb3M4TjhxR0hGdlYxYVYwM0tBVGIwWVduMzlqUi1GcGQxUzZNRVdJSHhYMnBUMk9KRGNsNXZYbkl2MnhDWXpSWUhyRQ?oc=5",
+          "title": "Brazil XI vs Japan – Predicted lineup and team news"
+        },
+        {
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWDNMZDBQdzJhLUZ5X1M4U0NHU25sbUx0c29BZHNLTHVhSHdya0o5VS1BMG9rUzI2b0FVS3BiZWwzWkpicFNtbkRQZWNiS3RWaDdwVlBIeng0b2toeDAwM1dZbDJLQWYwUGFkdUlMUXdGZHg2M2diUGJ3OHpWTWJTa3I0eUJyVDViZUEyWmpxZEFGNEEySnE0S2FwZ0FOdWJxTXppR1ZxWTU5VzkxbGdmbDh5M0lJU255cG1lUFA3bHB1NG8zZjRvRjluNkg5VVU?oc=5",
+          "title": "National Sports Congress: Awaiting the first gold medals from Vovinam; No one in Ronaldo's room at the Portuguese national team."
+        }
+      ]
+    },
+    {
+      "key": "226281c0dd",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened",
+      "summary": "Mauricio Pochettino gave an emotional press conference after his appointment as Michael Carrick’s successor at Manchester United was confirmed Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the bal",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.14,
+      "published": "2026-11-13T18:37:09+00:00",
+      "refs": [
         {
           "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
-          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
+          "link": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+          "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened"
         },
         {
-          "source": "Athlon Sports",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
-          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGdGYUhsWm5DT0h2S0E0cUN2THM2RzN1RmgxSFhZVGdEcnY4QzhiLTRwR0g2c2dYRENseGRURHlKby03S1ZobG42RlJ1d2lJWF9EakRzU3VJTUFNQkNuak5YaGJCQm8wSzhncUllNHhobFBKRTRoQUs5b0dpZ1FzUkl4TDd1dFhId2w4X3FVeFFqUQ?oc=5",
+          "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United"
+        },
+        {
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMHZpR2VjR1JfVXVKdlVoRFhfR0FWcHZDbUpGdG1Xa19fWEpEd3NGeE5xb2xyQUxyakxQVlVWOVctd0lZQTZPTFBaY3FpbEZFcjFGd0N0V1QtdzYya201bFlRTXpMNTVI?oc=5",
+          "title": "Mauricio Pochettino: What can Manchester United fans expect from new boss?"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/football/news/12040/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career",
+          "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'"
+        }
+      ]
+    },
+    {
+      "key": "5328924050",
+      "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября",
+      "summary": "В субботу, 14 ноября, на пятом этапе Гран-при России по фигурному катанию сезона-2026/27 в Омске мужчины представят короткие программы. Соревнования пройдут в рамках турнира «Сердце Сибири» на «G-Drive Арене».",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.04,
+      "published": "2026-11-14T06:25:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/gran-pri-rossii-v-omske-raspisanie-korotkoy-programmy-i-spisok-uchastnikov-muzhskogo-turnira-14-noyabrya-2026-onlayn-2474718/",
+          "title": "Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/basketball/news-6698678-rezultaty-matchej-nba-2026-2027-14-noyabrya.html",
+          "title": "НБА: результаты игр 14 ноября"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVYxVjA2TWxhSGZqYmJfaUw0aXVCS2hiZTJYRS0yaFhhN29XTzR4MVF1SFBqdkJXVDlFdEhjSzZSOThUS0pvMHh3WnVqbUVreUlDSVh0TGFIMGFLTmZ6UW9ydTVEWDZ1X25VZFg2ejkxc1haanZncEV0RVNBd04tSDd3VHFTWXFFdldIVlQ2RTBOaWJacExiLTJCSG9EQUZpXzRZVUFJcThRUGNWbTNqeVllSEMzd0xLVUkzdVhqYjRaZDB4c2pMNHl6MNIB0AFBVV95cUxNRG1NWlpjdm5XbXJHSG5UUUVzSE55eWV5aEZXUEJKWkFJVUlvM1ZpNnlsajhuSVR6UWFmNmd6b3NXVXhRbGlha2NYZm5JOHFmNkE0aUNSOUsxdDVsYlVtcVFhOWxSbVR0bTFUdVBKeExhbGdpY0N0N0hiUXlCTEdVY0pQbW9uZXdyeDZnajlKbHVRUDNEU2lVU0c2MkNIa0VINFhlRGt2bGlEOXg5cXFGbEhvNDZzWGpJV0xEMk5PV1JuMXpoZVpFQVVQelFtOTNq?oc=5",
+          "title": "Тренер Дзепки подтвердила причину снятия фигуристки с этапа Гран-при России в Омске"
         }
       ]
     }
   ],
-  "sent_at": "2026-11-13T14:40:02+00:00",
+  "sent_at": "2026-11-14T06:29:32+00:00",
   "tg_offset": 360028013
 }
