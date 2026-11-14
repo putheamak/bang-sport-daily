@@ -1,5 +1,331 @@
 [
   {
+    "id": "2026-11-15-athl-27025b",
+    "slug": "the-dragon-of-table-tennis-the-life-and-legacy-of-ma-long",
+    "date": "2026-11-15",
+    "created": "2026-11-15T00:47:21+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Table Tennis",
+    "tags": [
+      "Ma Long",
+      "Table Tennis",
+      "Olympics",
+      "China",
+      "Sports History"
+    ],
+    "athletes": [
+      "Ma Long",
+      "Zhang Jike",
+      "Wang Hao",
+      "Fan Zhendong"
+    ],
+    "image_subjects": [
+      "Ma Long",
+      "Zhang Jike",
+      "Wang Hao",
+      "China men's national table tennis team"
+    ],
+    "match": null,
+    "facts_to_verify": [
+      "Exact birth city details beyond Anshan",
+      "Specific win-loss breakdown of later career matches past 2016"
+    ],
+    "sources": [
+      {
+        "title": "Ma Long Wikipedia Article",
+        "url": "https://en.wikipedia.org/wiki/Ma_Long"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.015,
+      "longest": 9,
+      "phrases": [
+        "the youngest world champion at the age of 17",
+        "the victor barna award as the tournament's best player",
+        "ittf world tour singles titles by a chinese player",
+        "lee sang su at the 2012 korea open",
+        "14 12 11 5 11 4 11 4"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "The Dragon of Table Tennis: The Life and Legacy of Ma Long",
+      "subheadline": "From a prodigious junior talent in Anshan to the most decorated Olympic table tennis player in history, explore the journey of the undisputed GOAT.",
+      "body_markdown": "## The Early Rise of a Prodigy\n\nBorn on 20 October 1988 in Anshan, Liaoning, Ma Long began a journey that would redefine the sport of table tennis. Named in the zodiac year of the dragon, he displayed an exceptional aptitude for the game from a young age. After securing both the Asian and World Junior Championships, he etched his name into the record books by becoming the youngest world champion at the age of 17, following his participation in the 2006 Bremen World Team Championship. His early development was guided by coaches Wang Hao and Ma Kai Xuan before he began training under Qin Zhijian.\n\nBefore turning 22, Ma demonstrated remarkable dominance on the ITTF World Tour, reaching the finals of 11 tournaments and winning eight of them. He also claimed two Asian Cup titles and two World Tour Grand Finals trophies. However, the path to greatness was not without severe roadblocks. Despite holding the world number one ranking for extended stretches between 2010 and 2014, he suffered a temporary dip in form following a 560-day win streak. A loss to Japan's Koki Niwa at the Asian Olympic Qualification Tournament and a defeat against Lee Sang-su at the 2012 Korea Open contributed to his omission from China's singles squad for the London Olympics.\n\n## Overcoming Mental Hurdles and Breaking Through\n\nNational team coach Liu Guoliang publicly noted that while Ma possessed all the physical tools, he occasionally lacked the mental toughness required under intense pressure at major events. This scrutiny intensified after successive semifinal losses at the World Championships in 2009, 2011, and 2013, all against compatriot Wang Hao. While his rival Zhang Jike swiftly completed a career Grand Slam, Ma faced persistent questions regarding his ability to perform on the biggest stages.\n\nEverything shifted during the 2013–2015 period. Following his third defeat to Wang Hao, Ma responded by capturing the China Open at two different venues, his third Asian Championships crown, and a grueling China National Games title against Fan Zhendong. In 2014, he dominated the World Team Table Tennis Championships in Tokyo without dropping a single game, earning the Victor Barna Award as the tournament's best player after defeating Timo Boll and Dimitrij Ovtcharov. The ultimate breakthrough arrived at the 2015 World Table Tennis Championships in Suzhou, where Ma triumphed over tournament sensation Fang Bo in six games to capture his first major singles world title outside of the World Cup.\n\n## Immortalizing His Name in Rio and Beyond\n\nBy 2016, Ma reached the pinnacle of his sport. After securing the Qatar Open to break Wang Liqin's record for ITTF World Tour singles titles by a Chinese player, he secured his qualification for the 2016 Rio Olympics. In Brazil, after overcoming a scare against South Korea's Jeoung Young-sik and defeating Nigeria's Quadri Aruna and Japan's Jun Mizutani, Ma advanced to the singles final.\n\nIn a historic showdown against reigning Olympic champion Zhang Jike, Ma delivered a dominant 4–0 victory (14–12, 11–5, 11–4, 11–4) to claim the gold medal. The triumph made him the fifth male player to complete a career Grand Slam. Over his illustrious career, Ma held the world number one ranking for a total of 64 months—including a staggering 34 consecutive months starting in March 2015—establishing himself as a defining figure in global table tennis.",
+      "social_post": "Discover the incredible journey of Ma Long, the undisputed greatest table tennis player of all time. From early setbacks to historic Olympic dominance, read about the legacy of 'The Dragon'. #MaLong #TableTennis #Olympics #SportsHistory"
+    },
+    "zh": {
+      "headline": "乒坛真龙：马龙的传奇生涯与不朽传承",
+      "subheadline": "从鞍山走出的乒乓神童，到史上荣誉最多的奥运乒乓球选手，一同回顾这位公认历史最佳（GOAT）的巅峰之路。",
+      "body_markdown": "## 天才少年的闪耀初章\n\n1988年10月20日，马龙出生于辽宁鞍山，一段注定要重新定义乒乓球运动的传奇就此拉开序幕。属龙的他在很小便展现出了对这项运动的极高天赋。在包揽亚洲及世界青年锦标赛冠军后，他在2006年不来梅世乒赛上随队夺冠，以17岁之龄成为当时最年轻的世界冠军，将自己的名字镌刻进史册。在他的早期成长道路上，曾先后接受王皓和马凯旋的指导，随后师从秦志戬。\n\n在不到22岁的时候，马龙就在国际乒联世界巡回赛上展现出惊人的统治力，11次闯入单打决赛并斩获8冠。此外，他还两度加冕亚洲杯，并两次捧起世巡赛总决赛的冠军奖杯。然而，通往伟大之路并非一帆风顺。尽管在2010至2014年间曾长时间占据世界第一的宝座，但在经历了一波560天的连胜纪录后，他的状态遭遇了短暂起伏。在亚洲奥运资格赛中不敌日本选手丹羽孝希（Koki Niwa），以及在2012年韩国公开赛上负于韩国选手李尚洙（Lee Sang-su），最终导致他无单打资格入选中国队的伦敦奥运会阵容。\n\n## 跨越心理关隘，迎来破茧成蝶\n\n国家队主教练刘国梁曾公开指出，马龙虽然技术毫无短板，但在重大赛事的高压之下，偶尔会缺乏足够的心理韧性。随着他在2009年、2011年和2013年世乒赛上连续三次止步半决赛（且皆负于队友王皓），这种审视与质疑也达到了顶峰。当他的宿敌张继科迅速完成生涯大满贯壮举时，外界对马龙在顶级大舞台上抗压能力的质疑声也从未停歇。\n\n转折点发生在2013至2015年间。在遭遇对王皓的第三场世乒赛失利后，马龙强势回应，先后在两座不同城市的中国公开赛上夺冠、摘得第三座亚洲锦标赛桂冠，并在全运会男单决赛中经受住与樊振东的苦战，艰难登顶。2014年，他在东京世乒赛团体赛中发挥神勇，保持全胜且未失一局，击败了波尔（Timo Boll）和奥恰洛夫（Dimitrij Ovtcharov）等名将，荣膺赛事最佳球员并获得维克托·巴尔纳奖（Victor Barna Award）。最终的蜕变发生在2015年苏州世乒赛上，马龙在男单决赛中以4比2战胜赛事黑马方博，夺得除世界杯外个人的首个重量级单打世界冠军头衔。\n\n## 里约加冕与不朽传奇\n\n到了2016年，马龙已经站上了这项运动的巅峰。在夺得卡塔尔公开赛冠军、打破王励勤保持的中国球员国际乒联巡回赛单打冠军纪录后，他顺利拿到了里约奥运会的参赛门票。在桑巴军团的主场，马龙在顶住韩国选手郑荣植（Jeoung Young-sik）的强力冲击、击败尼日利亚选手阿鲁纳（Quadri Aruna）和日本选手水谷隼（Jun Mizutani）后，昂首挺进男单决赛。\n\n在与卫冕冠军张继科的历史性巅峰对决中，马龙以一场压倒性的4比0（14-12、11-5、11-4、11-4）完胜，摘得金牌。这场胜利让他成为历史上第五位男子大满贯得主。在他辉煌的职业生涯中，马龙累计有64个月排名世界第一——其中包括从2015年3月开始、令人震撼的连续34个月登顶——从而彻底确立了他作为全球乒乓球界标志性人物的历史地位。",
+      "social_post": "带你走近“六边形战士”马龙不可思议的传奇生涯，感受公认历史最佳的非凡魅力。从早期的挫折到奥运赛场的历史级统治，一起来读读“龙队”的传奇故事。#马龙 #乒乓球 #奥运会 #体育历史"
+    },
+    "ru": {
+      "headline": "Дракон настольного тенниса: жизнь и наследие Ма龙",
+      "subheadline": "От вундеркинда из Аньшаня до самого титулованного игрока в истории олимпийского настольного тенниса: путь признанного величайшего спортсмена всех времен (GOAT).",
+      "body_markdown": "## Ранний взлет вундеркинда\n\nРодившийся 20 октября 1988 года в Аньшане, провинция Ляонин, Ма Лон (Ma Long) начал путь, который навсегда изменил облик настольного тенниса. Родившись в год Дракона по восточному календарю, он с малых лет проявлял исключительные способности к этой игре. Выиграв чемпионат Азии и юниорский чемпионат мира, он вписал свое имя в историю, став в 17 лет самым молодым чемпионом мира после победы на командном первенстве планеты 2006 года в Бремене. Его становление проходило под руководством тренеров Ван Хао (Wang Hao) и Ма Кайсюаня (Ma Kai Xuan), после чего он начал тренироваться у Цинь Чжицзяня (Qin Zhijian).\n\nЕще до достижения 22-летнего возраста Ма продемонстрировал невероятное доминирование в мировом туре ITTF, дойдя до финала 11 турниров и выиграв восемь из них. В его активе также появились два титула Кубка Азии и два трофея Гранд-финала Мирового тура. Однако путь к величию был усеян серьезными препятствиями. Несмотря на то, что в период с 2010 по 2014 год он долгое время удерживал первую строчку мирового рейтинга, после 560-дневной победной серии у него начался временный спад. Поражения от японца Коки Нивы (Koki Niwa) на Азиатском олимпийском квалификационном турнире и от Ли Сан Су (Lee Sang-su) на Open Кореи 2012 года привели к тому, что он не попал в одиночный состав сборной Китая на Олимпийские игры в Лондоне.\n\n## Преодоление психологических барьеров и прорыв\n\nГлавный тренер национальной сборной Лю Голян (Liu Guoliang) публично отмечал, что при всем техническом совершенстве Ма временами не хватало психологической устойчивости, необходимой под колоссальным давлением на главных турнирах. Эта критика только усилилась после поражений в полуфиналах чемпионатов мира 2009, 2011 и 2013 годов — каждый раз соотечественнику Ван Хао. В то время как его принципиальный соперник Чжан Цзикэ (Zhang Jike) стремительно оформил карьерный Большой шлем, Ма постоянно сталкивался с вопросами о своей способности показывать результат на крупнейших аренах.\n\nВсе изменилось в период с 2013 по 2015 год. После третьего поражения от Ван Хао Ма ответил победами на турнирах China Open в двух разных городах, завоеванием своего третьего титула чемпиона Азии и тяжелейшей победой в финале Национальных игр Китая против Фань Чжэньдуна (Fan Zhendong). В 2014 году он доминировал на командном чемпионате мира в Токио, не отдав соперникам ни единой партии, и получил премию Виктора Барны (Victor Barna Award) как лучший игрок турнира после побед над Тимо Боллем (Timo Boll) и Димитром Овчаровым (Dimitrij Ovtcharov). Окончательный прорыв произошел на чемпионате мира 2015 года в Сучжоу, где Ма в шести сетах одолел сенсацию турнира Фан Бо (Fang Bo), завоевав свой первый крупный титул чемпиона мира в одиночном разряде за пределами Кубка мира.\n\n## Триумф в Рио и статус живой легенды\n\nК 2016 году Ма достиг вершины своего вида спорта. Выиграв Qatar Open и поблав рекорд Вана Лициня (Wang Liqin) по количеству побед на этапах Мирового тура ITTF в одиночном разряде среди китайских игроков, он гарантировал себе путевку на Олимпиаду 2016 года в Рио. В Бразилии, преодолев непростое сопротивление южнокорейца Чон Ён Сика (Jeoung Young-sik) и переиграв нигерийца Квадри Аруну (Quadri Aruna) и японца Дзюна Мидзутани (Jun Mizutani), Ма вышел в финал в одиночном разряде.\n\nВ историческом противостоянии с действующим олимпийским чемпионом Чжан Цзикэ Ма одержал убедительную победу со счетом 4:0 (14:12, 11:5, 11:4, 11:4) и завоевал золотую медаль. Этот триумф сделал его пятым игроком в мужском теннисе, собравшим карьерный Большой шлем. За свою блестящую карьеру Ма в общей сложности провел на первой строчке мирового рейтинга 64 месяца, включая ошеломляющую серию из 34 месяцев подряд, начавшуюся в марте 2015 года, и навсегда вписал свое имя в историю мирового спорта.",
+      "social_post": "Узнайте об increíble пути Ма Лонга — бесспорно величайшего игрока в истории настольного тенниса. От ранних неудач до исторического доминирования на Олимпиаде: читайте о наследии «Дракона». #MaLong #НастольныйТеннис #Олимпиада #ИсторияСпорта"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Ma_Long_ATTC2017_29.jpeg/1280px-Ma_Long_ATTC2017_29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ma_Long_ATTC2017_29.jpeg",
+        "artist": "XIAOYU TANG",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "_K0K8660",
+        "width": 1200,
+        "height": 1800,
+        "year": 2017,
+        "subject": "Ma Long"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mondial_Ping_-_Men%27s_Singles_-_Final_-_Zhang_Jike_vs_Wang_Hao_-_40.jpg/1280px-Mondial_Ping_-_Men%27s_Singles_-_Final_-_Zhang_Jike_vs_Wang_Hao_-_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mondial_Ping_-_Men%27s_Singles_-_Final_-_Zhang_Jike_vs_Wang_Hao_-_40.jpg",
+        "artist": "Pierre-Yves Beaudouin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "2013 World Table Tennis Championships, Paris.",
+        "width": 1200,
+        "height": 1200,
+        "year": 2013,
+        "subject": "Zhang Jike"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/ITTF_World_Tour_2017_German_Open_Fan_Zhendong_03.jpg/1280px-ITTF_World_Tour_2017_German_Open_Fan_Zhendong_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:ITTF_World_Tour_2017_German_Open_Fan_Zhendong_03.jpg",
+        "artist": "Peter Porai-Koshits",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "ITTF World Tour 2017 German Open, Magdeburg, Germany, 7 Nov 2017 - 12 Nov 2017, Fan Zhendong",
+        "width": 1200,
+        "height": 1200,
+        "year": 2017,
+        "subject": "Fan Zhendong"
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'youngest': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact birth city details beyond Anshan"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific win-loss breakdown of later career matches past 2016"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-15-news-912169",
+    "slug": "merab-dvalishvili-defeats-marlon-moraes-at-raf-14-in-abu-dha",
+    "date": "2026-11-15",
+    "created": "2026-11-15T00:42:08+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "combat",
+    "tags": [
+      "Merab Dvalishvili",
+      "Marlon Moraes",
+      "RAF 14",
+      "Abu Dhabi",
+      "Freestyle Wrestling"
+    ],
+    "athletes": [
+      "Merab Dvalishvili",
+      "Marlon Moraes"
+    ],
+    "image_subjects": [
+      "Merab Dvalishvili",
+      "Marlon Moraes",
+      "Abu Dhabi"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Мераб Двалишвили победил Марлона Мораеса в схватке на турнире RAF",
+        "url": "https://www.championat.com/boxing/news-6699412-merab-dvalishvili-pobedil-marlona-moraesa-v-shvatke-na-turnire-raf.html"
+      },
+      {
+        "title": "Спорт-Экспресс: Двалишвили победил Мораеса на турнире RAF в Абу-Даби",
+        "url": "https://www.sport-express.ru/martial/wrestling/freestyle/news/merab-dvalishvili-marlon-moraes-rezultat-shvatki-na-turnire-raf-v-abu-dabi-14-noyabrya-2026-2474864/"
+      },
+      {
+        "title": "Meta MMA: Двалишвили победил Мораеса на турнире RAF в Абу-Даби",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGlzOEpTOFdnS0dlaXZfcmpETlg2QUhIcW1vdklJd3JkZVZ0UlVEV3hFTzVMVXNEUktMV2RKbXRIQWhMbkd3c3RibXhicWEyTzN2Y2U1YTJMWTItV0NKUm1ydmpNZms1NzB1OXJEc3UwaXZpdU9LRzBQWmx3Z3ZhbFNWM3JRdFdBb1RjT050Ung4ZTNNWWh5VQ?oc=5"
+      },
+      {
+        "title": "Sports.ru: Мераб Двалишвили победил Марлона Мораеса на турнире RAF в Абу-Даби",
+        "url": "https://www.sports.ru/boxing/1117436805-merab-dvalishvili-pobedil-marlona-moraesa-na-turnire-raf-v-abu-dabi.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Merab Dvalishvili defeats Marlon Moraes at RAF 14 in Abu Dhabi",
+      "subheadline": "The former UFC bantamweight champion secured a victory by fall in a freestyle wrestling match against the Brazilian veteran.",
+      "body_markdown": "## A Clash in Abu Dhabi\n\nFormer UFC bantamweight champion Merab Dvalishvili secured a victory by fall against former UFC fighter Marlon Moraes in a freestyle wrestling match. The encounter took place on 14 November 2026 at the RAF 14 tournament in Abu Dhabi, bringing two notable MMA veterans onto the wrestling mats.\n\nDvalishvili entered the fixture carrying the reputation of a dominant grappler within the Ultimate Fighting Championship's 61-kilogram division. His opponent, Moraes, previously challenged for the UFC bantamweight title and brought extensive mixed martial arts experience to the specialized grappling ruleset in the United Arab Emirates.\n\n## Background of the Competitors\n\nBoth athletes built significant careers inside the world's premier mixed martial arts promotion before stepping into the RAF 14 tournament. Dvalishvili's background in wrestling has consistently defined his competitive approach, allowing him to control opponents through relentless pacing and takedowns. Moraes, known historically for his striking prowess and explosive power during his peak bantamweight run, tested his grappling defense against one of the sport's most active wrestlers.\n\nOrganized under the RAF banner, the fixture provided a platform for established fighters to compete under specific martial arts disciplines outside of their standard mixed martial arts schedules. The result adds another grappling victory to Dvalishvili's resume while giving Abu Dhabi combat sports fans a high-profile stylistic matchup between two veterans.\n\n## Looking Ahead\n\nEvents like RAF 14 continue to attract prominent MMA names seeking alternative competition formats. For Dvalishvili, the victory in Abu Dhabi demonstrates his ongoing commitment to testing his core discipline on the mats. Meanwhile, Moraes adds another chapter to his long career in international combat sports as the organization looks toward future cards later in the calendar year.",
+      "social_post": "Former UFC bantamweight champion Merab Dvalishvili defeated Marlon Moraes by fall in a freestyle wrestling match at RAF 14 in Abu Dhabi on 14 November 2026. How do you view wrestlers transitioning to special grappling events? Join the discussion! #MerabDvalishvili #MarlonMoraes #RAF14 #Wrestling"
+    },
+    "zh": {
+      "headline": "Merab Dvalishvili 在阿布扎比 RAF 14 赛事中击败 Marlon Moraes",
+      "subheadline": "这位前 UFC 雏量级冠军在一场自由式摔跤对决中，以压制（fall）方式战胜了这位巴西老将。",
+      "body_markdown": "## 阿布扎比巅峰对决\n\n前 UFC 雏量级冠军 Merab Dvalishvili 在自由式摔跤较量中，以压制方式击败了前 UFC 选手 Marlon Moraes。这场备受瞩目的较量于 2026 年 11 月 14 日在阿布扎比举行的 RAF 14 赛事中上演，将两位成名已久的 MMA 老将带上了摔跤垫。\n\nDvalishvili 带着自己在终极格斗冠军赛（UFC）61 公斤级中极具统治力的缠斗名声踏入赛场。他的对手 Moraes 曾向 UFC 雏量级金腰带发起过冲击，携带着丰富的综合格斗经验转战阿拉伯联合酋长国的专项缠斗规则赛场。\n\n## 选手背景介绍\n\n这两位运动员在踏上 RAF 14 的擂台之前，都在世界顶级综合格斗赛事中书写了辉煌的职业生涯。Dvalishvili 深厚的摔跤背景一直定义着他的竞争风格，使他能够通过窒息的节奏和不间断的抱摔掌控对手。Moraes 在其雏量级巅峰期则以标志性的站立打击技和爆发力闻名，此番他在专项缠斗规则下，对阵这项运动中最活跃的摔跤手之一，对其地面防守能力进行了严峻考验。\n\n该赛事在 RAF 旗号下组织，为成名拳手提供了一个在常规综合格斗赛程之外、专注于特定武术流派的竞技平台。这场胜利为 Dvalishvili 的履历再添一座缠斗胜绩，同时也为阿布扎比的搏击迷们奉献了一场汇聚两位老将的高规格风格对决。\n\n## 展望未来\n\n像 RAF 14 这样的赛事正持续吸引着渴望寻求多元化竞技形式的 MMA 名将。对 Dvalishvili 而言，这场在阿布扎比的胜利彰显了他对在垫上检验自身核心摔跤技术的坚定承诺。与此同时，随着该组织正筹备本年度接下来的赛事，Moraes 也为自己漫长的国际搏击生涯再添新篇。",
+      "social_post": "前 UFC 雏量级冠军 Merab Dvalishvili 于 2026 年 11 月 14 日在阿布扎比举行的 RAF 14 赛事中，通过压制击败了 Marlon Moraes。你如何看待 MMA 选手跨界参加专项缠斗赛事？快来参与讨论吧！ #MerabDvalishvili #MarlonMoraes #RAF14 #Wrestling"
+    },
+    "ru": {
+      "headline": "Мераб Двалишвили победил Марлона Мораеса на турнире RAF 14 в Абу-Даби",
+      "subheadline": "Бывший чемпион UFC в легчайшем весе одержал победу туше в схватке по вольной борьбе против бразильского ветерана.",
+      "body_markdown": "## Противостояние в Абу-Даби\n\nБывший чемпион UFC в легчайшем весе Мераб Двалишвили одержал победу туше над экс-бойцом UFC Марлоном Мораесом в схватке по вольной борьбе. Поединок состоялся 14 ноября 2026 года в рамках турнира RAF 14 в Абу-Даби, сведя на борцовском ковре двух известных ветеранов ММА.\n\nDvalishвили выходил на схватку в статусе доминирующего грэпплера дивизиона Ultimate Fighting Championship с лимитом 61 килограмм. Его соперник, Мораес, в прошлом претендовавший на титул чемпиона UFC в легчайшем весе, привез в ОАЭ огромный багаж опыта выступлений по смешанным единоборствам, адаптированный под специализированные правила борьбы.\n\n## Бэкграунд участников\n\nОба атлета построили впечатляющие карьеры в ведущем мировом промоушене смешанных единоборств, прежде чем выйти на турнир RAF 14. Борцовская база Двалишвили всегда определяла его соревновательный почерк, позволяя контролировать соперников за счет бешеного темпа и переводов в партер. Мораес, исторически славившийся своей ударной техникой и взрывной мощью в период расцвета в легчайшем весе, проверил свою защиту от переводов в противостоянии с одним из самых активных борцов этого вида спорта.\n\nТурнир под эгидой RAF предоставляет известным бойцам платформу для выступлений в рамках отдельных дисциплин вне их привычного графического расписания в ММА. Этот результат пополняет копилку грэпплерских побед Двалишвили и дарит фанатам единоборств в Абу-Даби статусное стилистическое противостояние двух ветеранов.\n\n## Взгляд в будущее\n\nПодобные турниру RAF 14 ивенты продолжают привлекать звезд ММА, ищущих альтернативные соревновательные форматы. Для Двалишвили победа в Абу-Даби стала подтверждением его неизменной приверженности проверке своих базовых навыков на борцовском ковре. Мораес же вписывает еще одну главу в свою долгою карьеру в международных единоборствах, в то время как организация уже строит планы на будущие турниры текущего календарного года.",
+      "social_post": "Бывший чемпион UFC в легчайшем весе Мераб Двалишвили победил Марлона Мораеса туше в схватке по вольной борьбе на RAF 14 в Абу-Даби 14 ноября 2026 года. Как вы относитесь к переходу бойцов ММА в специализированные грэпплинг-турниры? Присоединяйтесь к дискуссии! #MerabDvalishvili #MarlonMoraes #RAF14 #Wrestling"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Merab_Dvalishvili_at_UFC_316_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Merab_Dvalishvili_at_UFC_316_(cropped).jpg",
+        "artist": "Margo Martin",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "UFC 316! 💪🏼",
+        "width": 1200,
+        "height": 1723,
+        "year": 2025,
+        "subject": "Merab Dvalishvili"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Marlon_Moraes.jpg/1280px-Marlon_Moraes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Marlon_Moraes.jpg",
+        "artist": "Sambo1096",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Marlon Moraes in 2017",
+        "width": 1200,
+        "height": 1200,
+        "year": 2025,
+        "subject": "Marlon Moraes"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1280px-Abu_dhabi_skylines_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg",
+        "artist": "Wadiia",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Abu Dhabi's skyline in December 2014",
+        "width": 1200,
+        "height": 659,
+        "year": 2014,
+        "subject": "Abu Dhabi"
+      }
+    ],
+    "standards": []
+  },
+  {
+    "id": "2026-11-15-news-b17b26",
+    "slug": "filipinas-drawn-against-north-korea-south-korea-and-china-in",
+    "date": "2026-11-15",
+    "created": "2026-11-15T00:28:16+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Philippines women's national football team",
+      "Philippine Football Federation",
+      "2028 Summer Olympics",
+      "Women's Football"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Philippine Football Federation",
+      "China women's national football team",
+      "South Korea women's national football team",
+      "North Korea women's national football team"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "The Filipinas will face North Korea, South Korea, and China in Group B of the Asian qualifiers for the 2028 Los Angeles Olympics",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVBjajF0R2dabXR6a3lMQkdna2dlck5FT01UekJDZENrdlQ5VGZ1UnFOdHZKNzZ0cnlZMkUwajRnVHg5d3FCSkQtWFR5eWlhZGJsRm1HVUVZUEJhVnZ0NkhsTGNwU1VocGxfa2F0NUNKTXZkNjRhTUNGQXF1S2FfLWlOWHJGYnpBQl95RkRMTTUya1lFaFU1YnUxc3dIUkowM2lrTWg3aGFWQmdqalkzVDl0elNuc29qMGhvdGR5VGNnb3g2M0Rvb3F1dS1CQkY3SnNZeUhEWGtlZnctYXc?oc=5"
+      },
+      {
+        "title": "Filipinas take on Asia’s best on road to Olympics and World Cup",
+        "url": "https://pff.org.ph/"
+      },
+      {
+        "title": "Philippine Football Federation: Filipinas take on Asia’s best on road to Olympics and World Cup",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWmM5MDI2bDluVXp6NkZRS0NiRnRmRVhIQTl6cWhpU1VJX2FFVG5wV2E3R1hHUjZUNWstUzl5eDFYSzdrUTZrV0c4eDRrVkx4NWZzazFOUnVhUDdMekl6cGc2UlhJeXlLWVRYTkNsMzVSamZUOGo2N094MHczd3Z2QTVkeFpHRGNOa0E?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Filipinas Drawn Against North Korea, South Korea and China in Olympic Qualifiers",
+      "subheadline": "The Philippine women's national football team faces a rigorous six-match campaign in Group B for a place at the 2028 Los Angeles Olympics.",
+      "body_markdown": "The Philippine women's national football team has learned its path to the 2028 Los Angeles Olympics after being placed in Group B of the Asian qualifiers. Revealed by the Philippine Football Federation, the draw sets up six fixtures against three of the most formidable programs in the Asian Football Confederation: North Korea, South Korea, and China.\n\nThe grouping pairs the squad with traditional powerhouses of the continental game. North Korea, South Korea, and China boast decades of international experience, multiple World Cup appearances, and consistent high rankings within the region. For the Philippines, the round-robin schedule within Group B represents an exacting test of depth and tactical organisation as the team targets a historic Olympic appearance in the United States.\n\n## The Scale of the Group B Test\n\nNavigating Group B requires contesting home-and-away style fixtures against opponents who have long shaped women's football in Asia. China remains a multi-time Asian champion and a global competitor, while both North Korea and South Korea possess rigorous youth structures and professional leagues that consistently feed talent into their senior national setups. The six matches will demand sustained physical and mental resilience from the Philippine squad across the qualification window.\n\n## Dual Horizons for Philippine Football\n\nThe Olympic qualification campaign unfolds alongside broader competitive targets mapped out by the Philippine Football Federation. Alongside the pursuit of a berth at the 2028 Los Angeles Games, the national programme continues preparations for upcoming major international tournaments. These fixtures serve as both a measure of the team's rapid development over recent years and a definitive step toward establishing the country as a competitive force in elite Asian football.",
+      "social_post": "The Filipinas have been drawn into Group B alongside North Korea, South Korea, and China for the 2028 Los Angeles Olympics Asian qualifiers. Six massive matches await on the road to the US. How will the team fare against Asia's best? Let us know in the comments. #Filipinas #OlympicQualifiers #AsianFootball #OnePinas"
+    },
+    "zh": {
+      "headline": "菲律宾女足冲击洛杉矶奥运会：小组赛遭遇朝鲜、韩国与中国重围",
+      "subheadline": "在2028年洛杉矶奥运会亚洲区预选赛B组中，菲律宾国家女子足球队将面临六场硬仗的严峻考验。",
+      "body_markdown": "随着亚洲区预选赛分组抽签揭晓，菲律宾国家女子足球队通往2028年洛杉矶奥运会的征程已经明朗。据菲律宾足协透露，球队在B组中抽到了三支亚洲足坛最具实力的劲旅：朝鲜队、韩国队和中国队。\n\n这一小组汇集了亚洲足坛的传统豪强。朝鲜队、韩国队和中国队不仅拥有数十年的国际大赛经验、多次世界杯参赛履历，在亚洲乃至世界足坛也始终保持着高居不下的排名。对于志在历史性闯入美国奥运会决赛圈的菲律宾队而言，B组的主客场循环赛无疑是对球队阵容深度与战术素养的一次终极考验。\n\n## B组考验的分量\n\n想要突围B组，就必须在主客场对阵这些长期主导亚洲女足格局的对手。中国队作为亚洲传统多冠王，在世界舞台上也极具竞争力；朝鲜队和韩国队则拥有完善的青训体系和职业联赛，源源不断地为成年国家队输送青年才俊。在整个预选赛周期中，这六场比赛将对菲律宾全队的体能与心理韧性提出极高的要求。\n\n## 菲律宾足球的双重征途\n\n本次奥运会预选赛与菲律宾足协制定的更广泛竞技目标并行推进。在全力争夺2028年洛杉矶奥运会入场券的同时，国家队也在为接下来的一系列国际大赛积极备战。这些硬仗既是对球队近年来迅猛发展成果的一次全方位检验，也是让菲律宾在亚洲顶级女足行列中站稳脚跟的关键一步。",
+      "social_post": "菲律宾女足在2028年洛杉矶奥运会亚洲区预选赛中与朝鲜、韩国和中国队一同分入B组。通往美国的征程上，六场超级硬仗正等待着我们。大家觉得球队对阵亚洲顶尖高手能有怎样的表现？欢迎在评论区留言讨论。#Filipinas #奥运预选赛 #亚洲足球 #OnePinas"
+    },
+    "ru": {
+      "headline": "«Филипинас» попали в одну группу с Северной Кореей, Южной Кореей и Китаем в отборе на Олимпиаду",
+      "subheadline": "Женской сборной Филиппин по футболу предстоит тяжелейшая шестиматчевая борьба в группе B за путевку на Олимпийские игры 2028 года в Лос-Анджелесе.",
+      "body_markdown": "Женская сборная Филиппин по футболу узнала свой путь к Олимпийским играм 2028 года в Лос-Анджелесе после жеребьевки азиатского отборочного турнира, где команда оказалась в группе B. Согласно заявлению Филиппинской футбольной федерации, этот жребий принес команде шесть матчей против трех самых грозных сборных Азиатской футбольной конфедерации: Северной Кореи, Южной Кореи и Китая.\n\nВ этой группе наша команда сойдется с традиционными тяжеловесами континентального футбола. Северная Корея, Южная Корея и Китай могут похвастаться десятилетиями международного опыта, регулярными выступлениями на чемпионатах мира и стабильно высокими позициями в региональном рейтинге. Для Филиппин круговой турнир в группе B станет суровой проверкой глубины состава и тактической организации на пути к историческому выходу на Олимпиаду в США.\n\n## Масштаб испытания в группе B\n\nБорьба в группе B требует проведения матчей дома и на выезде против соперниц, которые на протяжении долгого времени формируют лицо женского футбола в Азии. Китай остается многократным чемпионом Азии и глобальным конкурентом, в то время как Северная Корея и Южная Корея располагают отлаженными системами молодежного футбола и профессиональными лигами, которые стабильно поставляют таланты в главные сборные. Эти шесть матчей потребуют от филиппинок предельной физической и ментальной стойкости на протяжении всего отборочного цикла.\n\n## Двойные горизонты филиппинского футбола\n\nКампания по отбору на Олимпиаду разворачивается параллельно с более широкими спортивными задачами, намеченными Филиппинской футбольной федерацией. Помимо погони за путевкой на Игры-2028 в Лос-Анджелесе, национальная программа продолжает подготовку к предстоящим крупным международным турнирам. Эти матчи послужат одновременно и мерилом стремительного прогресса команды за последние годы, и решительным шагом к тому, чтобы закрепить за страной статус конкурентоспособной силы в элите азиатского футбола.",
+      "social_post": "Женская сборная Филиппин попала в группу B вместе с Северной Кореей, Южной Кореей и Китаем в азиатском отборе на Олимпиаду-2028 в Лос-Анджелесе. На пути в США нас ждут шесть грандиозных матчей. Как команда проявит себя против лучших в Азии? Пишите в комментариях! #Filipinas #OlympicQualifiers #AsianFootball #OnePinas"
+    },
+    "region": "china",
+    "images": [],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://pff.org.ph/"
+      }
+    ]
+  },
+  {
     "id": "2026-11-14-news-ba849b",
     "slug": "vietnam-u23-draw-1-1-with-qatar-to-win-the-gia-lai-vtv-cup-u",
     "date": "2026-11-14",
