@@ -1,24 +1,36 @@
-2026-11-14 06:29:24,853 INFO BBC Sport                         39 items
-2026-11-14 06:29:25,009 INFO The Guardian Sport                24 items
-2026-11-14 06:29:25,106 INFO ESPN                               0 items
-2026-11-14 06:29:25,222 INFO Sky Sports                        17 items
-2026-11-14 06:29:25,398 INFO Google News – Sports (EN)         56 items
-2026-11-14 06:29:25,781 INFO Google News – 体育 (ZH)             27 items
-2026-11-14 06:29:26,340 INFO Google News – Спорт (RU)          43 items
-2026-11-14 06:29:27,269 INFO Championat                        25 items
-2026-11-14 06:29:28,127 INFO Sports.ru                         20 items
-2026-11-14 06:29:29,435 INFO Спорт-Экспресс                   446 items
-2026-11-14 06:29:30,346 INFO РИА Новости Спорт                 20 items
-2026-11-14 06:29:30,811 INFO 中国新闻网 体育                          20 items
-2026-11-14 06:29:31,146 INFO Google News – Cambodia sport      19 items
-2026-11-14 06:29:31,555 INFO Google News – Southeast Asia sport  31 items
-2026-11-14 06:29:31,973 INFO Candidate stories after clustering: 714
-2026-11-14 06:29:32,861 INFO Trending skipped (not our audience): Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 10 lineup advice
-2026-11-14 06:29:32,861 INFO Trending skipped (not our audience): Vikings to start reacquired QB Kirk Cousins vs. Packers
-2026-11-14 06:29:32,862 INFO Trending skipped (not our audience): Late Diggs touchdown earns Commanders win at Giants
-2026-11-14 06:29:34,035 INFO Talking points sent to Telegram (5 stories)
-2026-11-14 06:29:34,035 INFO   1. [ru 4 outlets, heat 11.5] Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США
-2026-11-14 06:29:34,035 INFO   2. [ru 4 outlets, heat 10.8] Андреева попросила американских болельщиков поддержать ее в матче с Пегулой в полуфинале Итогового т
-2026-11-14 06:29:34,035 INFO   3. [en 4 outlets, heat 10.5] Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and 
-2026-11-14 06:29:34,035 INFO   4. [en 4 outlets, heat 10.1] Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: footb
-2026-11-14 06:29:34,035 INFO   5. [ru 3 outlets, heat 9.0] Гран-при России в Омске, мужчины: расписание и результаты короткой программы онлайн 14 ноября
+2026-11-14 07:08:13,465 INFO BBC Sport                         40 items
+2026-11-14 07:08:13,741 INFO The Guardian Sport                24 items
+2026-11-14 07:08:13,769 INFO ESPN                               0 items
+2026-11-14 07:08:13,821 INFO Sky Sports                        17 items
+2026-11-14 07:08:14,127 INFO Google News – Sports (EN)         54 items
+2026-11-14 07:08:14,620 INFO Google News – 体育 (ZH)             27 items
+2026-11-14 07:08:15,189 INFO Google News – Спорт (RU)          43 items
+2026-11-14 07:08:16,236 INFO Championat                        25 items
+2026-11-14 07:08:17,141 INFO Sports.ru                         16 items
+2026-11-14 07:08:18,848 INFO Спорт-Экспресс                   439 items
+2026-11-14 07:08:20,173 INFO РИА Новости Спорт                 20 items
+2026-11-14 07:08:22,323 INFO 中国新闻网 体育                          20 items
+2026-11-14 07:08:22,673 INFO Google News – Cambodia sport      19 items
+2026-11-14 07:08:23,081 INFO Google News – Southeast Asia sport  32 items
+2026-11-14 07:08:23,627 INFO Google News – Combat promotions   80 items
+2026-11-14 07:08:24,035 INFO Google News – Boxing              44 items
+2026-11-14 07:08:24,252 INFO Google News – Kun Khmer            4 items
+2026-11-14 07:08:24,896 INFO Google News – Единоборства (RU)   93 items
+2026-11-14 07:08:25,407 INFO Google News – 格斗 (ZH)             73 items
+2026-11-14 07:08:25,595 INFO MMA Fighting                       9 items
+2026-11-14 07:08:25,678 WARNING Feed unreadable Khmer Times Sport: <unknown>:2:1326: not well-formed (invalid token)
+2026-11-14 07:08:26,634 INFO Candidate stories after clustering: 929
+2026-11-14 07:08:28,833 INFO Trending skipped (politics): World Boxing Council maintains sanctions against Russia and Belarus
+2026-11-14 07:08:28,835 INFO Trending skipped (politics): Всемирный боксерский совет сохранил санкции в отношении российских спортсменов
+2026-11-14 07:08:28,835 INFO Trending skipped (not our audience): Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 10 lineup advice
+2026-11-14 07:08:29,720 INFO Talking points sent to Telegram (5 stories)
+2026-11-14 07:08:29,720 INFO   1. [ru 15 outlets, heat 31.6] Бойца Усмана Нурмагомедова (родственника Хабиба) арестовали на полгода в ОАЭ. Он подрался в отеле с 
+2026-11-14 07:08:29,720 INFO   2. [zh 8 outlets, heat 19.1] NBA官方开出罚单：斯玛特因挥拳击中巴锡面部 遭停薪禁赛三场
+2026-11-14 07:08:29,720 INFO   3. [en 7 outlets, heat 17.1] Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334
+2026-11-14 07:08:29,720 INFO   4. [ru 4 outlets, heat 11.7] Спортивная пара Хазе/Володин выиграла короткую программу на этапе Гран-при ISU в США
+2026-11-14 07:08:29,721 INFO   5. [ru 4 outlets, heat 11.0] Гран-при России в Омске, спортивные пары: расписание и результаты короткой программы 14 ноября
+2026-11-14 07:08:29,721 INFO   C1. [ru 6 outlets, heat 14.0] Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна
+2026-11-14 07:08:29,721 INFO   C2. [en 5 outlets, heat 12.6] Kayla Harrison, Amanda Nunes feel weight of historic UFC 334 showdown at MSG
+2026-11-14 07:08:29,721 INFO   C3. [en 4 outlets, heat 11.2] Josh Hokit Sends Final Warning to Ciryl Gane Before UFC 334
+2026-11-14 07:08:29,721 INFO   C4. [ru 4 outlets, heat 10.9] Сергей Павлович и Алекс Перейра провели первую битву взглядов перед боем на UFC 335
+2026-11-14 07:08:29,721 INFO   C5. [en 3 outlets, heat 9.1] Video replay: UFC 335 & UFC 336 press conference
