@@ -102,7 +102,7 @@
     "date": "2026-11-14",
     "created": "2026-11-14T01:57:45+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Formula One",
     "tags": [
@@ -137,7 +137,20 @@
         "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-14T17:59:59+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-14T18:00:00+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-14T18:00:00+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.045,
       "longest": 16,
@@ -212,7 +225,8 @@
         "area": "facts",
         "msg": "Strong claim 'youngest': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-14T18:00:00+07:00"
   },
   {
     "id": "2026-11-14-news-d24ea8",
