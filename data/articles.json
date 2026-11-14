@@ -5,7 +5,7 @@
     "date": "2026-11-14",
     "created": "2026-11-14T22:54:48+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -32,7 +32,20 @@
         "url": "https://hanoimoi.vn/gia-lai-vtv-cup-2026-u23-viet-nam-len-ngoi-vo-dich-sau-tran-hoa-qatar-1765969.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-14T22:59:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-14T22:59:28+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-14T22:59:29+07:00"
+      }
+    ],
     "en": {
       "headline": "Vietnam U23 Draw 1-1 With Qatar to Win the Gia Lai VTV Cup Unbeaten",
       "subheadline": "Nguyen Minh Tam equalised just after half-time in Pleiku, giving the hosts the point they needed for the title.",
@@ -123,7 +136,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-14T22:59:29+07:00"
   },
   {
     "id": "2026-11-14-news-1a1837",
@@ -131,7 +145,7 @@
     "date": "2026-11-14",
     "created": "2026-11-14T22:54:47+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -158,7 +172,20 @@
         "url": "https://khelnow.com/football/indian-football-afc-u-17-asian-cup-qualifiers-india-vs-guam-report"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-14T22:59:26+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-14T22:59:26+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-14T22:59:27+07:00"
+      }
+    ],
     "en": {
       "headline": "India U17 Beat Guam 12-0 to Go Top of Their Asian Cup Qualifying Group",
       "subheadline": "Captain Dallalmuon Gangte scored a first-half hat-trick in Kuala Lumpur; India now meet Palestine, who also have six points.",
@@ -244,7 +271,8 @@
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-14T22:59:27+07:00"
   },
   {
     "id": "2026-11-14-news-2b064b",
