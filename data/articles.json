@@ -71,18 +71,6 @@
     },
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pleiku_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Pleiku_stadium.jpg",
-        "artist": "Cyberdemon313",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "HAGL Pleiku Stadium, Vietnam",
-        "width": 1200,
-        "height": 816,
-        "year": 2019,
-        "subject": "Pleiku Stadium, venue of the Gia Lai VTV Cup 2026"
-      },
-      {
         "url": "../photos/card-2026-11-14-news-ba849b.png",
         "page": "",
         "artist": "Bang Sport Daily (graphic)",
@@ -94,6 +82,18 @@
         "year": 2026,
         "width": 1200,
         "height": 675
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pleiku_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Pleiku_stadium.jpg",
+        "artist": "Cyberdemon313",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "HAGL Pleiku Stadium, Vietnam",
+        "width": 1200,
+        "height": 816,
+        "year": 2019,
+        "subject": "Pleiku Stadium, venue of the Gia Lai VTV Cup 2026"
       }
     ],
     "zh": {
@@ -200,18 +200,6 @@
     },
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Aerial_View_of_Kuala_Lumpur_Stadium.png/1280px-Aerial_View_of_Kuala_Lumpur_Stadium.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Kuala_Lumpur_Stadium.png",
-        "artist": "flyviz",
-        "license": "CC BY 3.0",
-        "license_url": "https://creativecommons.org/licenses/by/3.0",
-        "description": "Kuala Lumpur Stadium in 2021",
-        "width": 1200,
-        "height": 684,
-        "year": 2021,
-        "subject": "Kuala Lumpur Football Stadium, venue of the Group E qualifiers"
-      },
-      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Wadoo.JPG/1280px-Wadoo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Wadoo.JPG",
         "artist": "Aneek Biswas",
@@ -222,6 +210,18 @@
         "height": 1805,
         "year": 2010,
         "subject": "Mehrajuddin Wadoo, head coach of India U17"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Aerial_View_of_Kuala_Lumpur_Stadium.png/1280px-Aerial_View_of_Kuala_Lumpur_Stadium.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Kuala_Lumpur_Stadium.png",
+        "artist": "flyviz",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Kuala Lumpur Stadium in 2021",
+        "width": 1200,
+        "height": 684,
+        "year": 2021,
+        "subject": "Kuala Lumpur Football Stadium, venue of the Group E qualifiers"
       },
       {
         "url": "../photos/card-2026-11-14-news-1a1837.png",
@@ -793,18 +793,6 @@
     "region": "global",
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg/1280px-Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg",
-        "artist": "Bryan Berlin",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia",
-        "width": 1200,
-        "height": 1600,
-        "year": 2026,
-        "subject": "Mauricio Pochettino, Manchester United's new head coach"
-      },
-      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/1280px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg",
         "artist": "Arne Müseler from Salzburg, AT",
@@ -815,6 +803,18 @@
         "height": 899,
         "year": 2023,
         "subject": "Old Trafford, Manchester United's home ground"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg/1280px-Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia",
+        "width": 1200,
+        "height": 1600,
+        "year": 2026,
+        "subject": "Mauricio Pochettino, Manchester United's new head coach"
       }
     ],
     "zh": {
@@ -1338,6 +1338,18 @@
     "trending_key": "eec2c347e4",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Coco Gauff during the 2026 Miami Open women's singles final.",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Coco Gauff"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Jessica_Pegula_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Jessica_Pegula_(2025_DC_Open)_01_(cropped).jpg",
         "artist": "Hameltion",
@@ -1360,18 +1372,6 @@
         "height": 1600,
         "year": 2023,
         "subject": "Linda Nosková"
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Coco_Gauff_Miami_Open.jpg/1280px-Coco_Gauff_Miami_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Coco_Gauff_Miami_Open.jpg",
-        "artist": "Rick Munroe",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Coco Gauff during the 2026 Miami Open women's singles final.",
-        "width": 1200,
-        "height": 1599,
-        "year": 2026,
-        "subject": "Coco Gauff"
       },
       {
         "url": "../photos/card-2026-11-13-news-a068e9.png",
@@ -1404,7 +1404,8 @@
       "home_scorers": [],
       "away_scorers": [],
       "note": "Sets: 7-6 (7-2), 4-6, 7-5"
-    }
+    },
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Indian Wells Tennis Garden, host of the 2026 WTA Finals\", \"wikipedia\": \"Indian Wells Tennis Garden\"}]}"
   },
   {
     "id": "2026-11-13-athl-12aaf2",
