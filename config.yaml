@@ -21,6 +21,7 @@ site:
   author_bio_ru: "Mak — основатель и редактор Bang Sport Daily. Живёт в Пномпене (Камбоджа), много лет следит за мировым спортом и проверяет каждый материал перед публикацией."
   contact_email: "hello@bangsportdaily.com"             # forwards to bangsportdaily@gmail.com (Cloudflare Email Routing)
   custom_domain: "bangsportdaily.com"   # own domain, hosted on Cloudflare Pages; writes docs/CNAME
+  indexnow_key: "85250d2c43b02d290e75698570dc8362"   # public key for IndexNow (tells Bing about new stories); also written to docs/<key>.txt
   adsense_client: ""            # e.g. "ca-pub-1234567890123456" — only after AdSense approval; adds ads.txt
   wire_box: true                # "Around the world" headlines from other outlets. Turn OFF before monetizing
                                 #   (some RSS feeds, e.g. BBC, allow non-commercial use only)

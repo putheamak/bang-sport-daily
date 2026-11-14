@@ -687,6 +687,11 @@ def build_site(cfg: dict) -> None:
     else:
         (DOCS / "ads.txt").unlink(missing_ok=True)
     all_articles = load_articles()
+    try:
+        from .indexnow import run as indexnow
+        indexnow(cfg, all_articles)                 # tell Bing about stories published in an earlier run
+    except Exception as e:  # noqa: BLE001
+        log.warning("IndexNow step skipped: %s", str(e)[:200])
     from .common import DATA, read_json
     wire = read_json(DATA / "wire.json", {})
     pub = [a for a in all_articles if a["status"] == "published"]

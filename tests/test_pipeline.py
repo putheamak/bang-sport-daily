@@ -951,3 +951,28 @@ def test_site_has_tab_icon(repo):
     for f in ("favicon.ico", "favicon.svg", "apple-touch-icon.png", "icon-192.png", "icon-512.png"):
         assert (repo / "docs" / f).exists()
     assert 'href="../favicon.ico"' in (repo / "docs/en/index.html").read_text()
+
+
+def test_indexnow_waits_one_run_then_submits(repo, monkeypatch):
+    from datetime import timedelta
+    from sportnews import indexnow as IN
+    monkeypatch.delenv("SITE_URL", raising=False)
+    c = cfg()
+    arts = [{"id": "a1", "slug": "story-one", "status": "published", "published_at": "2026-11-14T10:00:00+07:00",
+             "en": {"headline": "h"}, "zh": {"headline": "h"}, "ru": {"headline": "h"}},
+            {"id": "a2", "slug": "draft-two", "status": "draft", "en": {"headline": "h"}}]
+    calls = []
+    post = lambda payload: calls.append(payload) or 200
+    t0 = datetime.now(timezone.utc)
+    assert IN.run(c, arts, now=t0, post=post) == [] and not calls            # first run: only put on the waiting list
+    key = c["site"]["indexnow_key"]
+    assert (repo / "docs" / f"{key}.txt").read_text() == key
+    done = IN.run(c, arts, now=t0 + timedelta(hours=1), post=post)             # next run: submitted
+    assert len(done) == 3 and all("story-one" in u for u in done)
+    assert calls[0]["host"] == "bangsportdaily.com" and calls[0]["keyLocation"].endswith(f"/{key}.txt")
+    assert "https://bangsportdaily.com/en/index.html" in calls[0]["urlList"]
+    assert not any("draft-two" in u for u in calls[0]["urlList"])
+    assert IN.run(c, arts, now=t0 + timedelta(hours=2), post=post) == [] and len(calls) == 1   # nothing new: no call
+    arts[0]["republished_at"] = "2026-11-14T15:00:00+07:00"                    # a correction is submitted again
+    IN.run(c, arts, now=t0 + timedelta(hours=3), post=post)
+    assert len(IN.run(c, arts, now=t0 + timedelta(hours=4), post=post)) == 3
