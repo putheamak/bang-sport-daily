@@ -47,18 +47,20 @@ def _rare(items: list[dict]):
 def _same(a: dict, b: dict, rare) -> bool:
     """Same story? Headlines only: Google News summaries bundle other outlets' headlines, which made unrelated
     stories look alike (10 Nov 2026: Pochettino grouped with NFL and college football)."""
-    from .corroborate import CJK, _bigrams
+    from .corroborate import CJK, cjk_same
     if a.get("lang") != b.get("lang"):
         return False
     if a.get("sport") and b.get("sport") and a["sport"] != b["sport"]:
         return False
     if a.get("lang") == "zh" or CJK.search(a["title"]):
-        return len(_bigrams(a["title"]) & _bigrams(b["title"])) >= 4
+        return cjk_same(a["title"], b["title"])
     return len(rare(a["title"]) & rare(b["title"])) >= 2
 
 
 BET_SOURCE = re.compile(r"(stavk|prognoz|ставк|прогноз|букмек|betting|sportsbook|odds)", re.I)
 COMBAT_PREVIEW = (r"(face-?off|weigh-?in|press conference|presser|warning|predict|preview|odds|what time|how to watch|"
+                  r"live fight coverage|live coverage|live updates|live blog|live results|^live\b|midnight mania|"
+                  r"онлайн|прямая трансляция|"
                   r"битв\w* взглядов|взвешивани|пресс-конференц|прогноз|перед боем|перед турниром|"
                   r"称重|对视|发布会|前瞻)")
 
@@ -162,8 +164,8 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[
         kun = g.get("kun") or any(a in text for a in always)
         if n < need and not kun:
             continue
-        if _blocked(it["title"].replace("!", "").replace("！", "")):
-            continue
+        if any(_blocked(r.get("title", "").replace("!", "").replace("！", "")) for r in [it] + g["refs"]):
+            continue                                    # one outlet calling it politics is enough to skip
         key = _key(it)
         growth = n - prev_n.get(key, n)
         age_h = 24.0
@@ -184,7 +186,7 @@ SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|
         r"school|schools|schoolboys|grassroots|amateur|8U|U8|U10|U12|7s|"
         r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies)\b")
 
-FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺"}
+FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺", "km": "🇰🇭"}
 
 
 def message(stories: list[dict], combat: list[dict] | None = None) -> str:

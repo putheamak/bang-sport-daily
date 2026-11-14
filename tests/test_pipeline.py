@@ -903,3 +903,21 @@ def test_combat_watch_skips_previews_politics_and_betting_sources(repo):
     win = next(s for s in combat if "Gane" in s["title"])
     assert not any("Stavki" in r["source"] for r in win["refs"])
     assert combat[0]["title"] == "Sok Thy wins in Phnom Penh" and combat[0]["kun_khmer"]
+
+
+def test_combat_watch_khmer_language_and_true_kun_khmer_only(repo):
+    from sportnews import trending as T
+    from sportnews.collect import KUN_RX
+    assert not KUN_RX.search("Siolim's Aarav Harmalkar Wins Four Medals at Two Kickboxing Championships")
+    assert KUN_RX.search("Cambodian fighter wins in Bangkok") and KUN_RX.search("គុនខ្មែរ")
+    now = datetime.now(timezone.utc).isoformat()
+    def it(t, src, lang="km", **k):
+        return dict({"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src,
+                     "link": "https://x/" + src, "published": now, "score": 1.0}, **k)
+    items = [it("ឯ ភូថង ឈ្នះ​ដាច់​លើ​គូប្រកួត​ថៃ ក្នុង​កម្មវិធី​គុនខ្មែរ", "Fresh News", kun=True),
+             it("ឯ ភូថង ឈ្នះ​ដាច់​គូប្រកួត​ថៃ ក្នុង​កម្មវិធី​គុនខ្មែរ​ យប់​នេះ", "Kampuchea Thmey", kun=True),
+             it("Russia's boxers withdraw from European youth championship in Croatia", "Match TV", "en"),
+             it("Russia's boxers withdraw from European youth championship without flag and anthem", "Championat", "en")]
+    combat = T.rank_combat(cfg(), items)
+    assert combat[0]["lang"] == "km" and combat[0]["outlets"] == 2 and not combat[0]["needs_source"]
+    assert not any("Croatia" in s["title"] or "flag" in s["title"] for s in combat)     # politics via any outlet

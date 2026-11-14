@@ -32,9 +32,10 @@ STOP = {
     "россия", "россии", "матч", "лига", "клуб", "сборная", "сборной", "тренер", "игрок", "чемпионат", "золото",
     "победа", "сезон", "финал", "новости", "спорт", "сегодня",
 }
-GN_LANG = {"en": "hl=en-US&gl=US&ceid=US:en", "ru": "hl=ru&gl=RU&ceid=RU:ru", "zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
+GN_LANG = {"km": "hl=km&gl=KH&ceid=KH:km", "en": "hl=en-US&gl=US&ceid=US:en", "ru": "hl=ru&gl=RU&ceid=RU:ru", "zh": "hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
 CAP = re.compile(r"[A-ZА-ЯЁ][\w'’-]{3,}")
-CJK = re.compile(r"[一-鿿]")
+CJK = re.compile(r"[一-鿿\u1780-\u17ff]")      # Chinese and Khmer: no capital letters, match by characters
+KHM = re.compile(r"[\u1780-\u17ff]")
 
 
 GENERIC_FIRST = re.compile(r"(ого|ему|ый|ий|ая|ое|ые|ских|ский|ская|ю|ли|ла|ло)$", re.I)   # Двукратного, Думаю
@@ -63,6 +64,17 @@ def _bigrams(text: str) -> set[str]:
     return {chars[i:i + 2] for i in range(len(chars) - 1)}
 
 
+def cjk_same(ta: str, tb: str) -> bool:
+    """Same story for Chinese (character pairs) or Khmer headlines (character triples: Khmer letters
+    combine, so pairs are too common)."""
+    if KHM.search(ta) and KHM.search(tb):
+        ca, cb = "".join(KHM.findall(ta)), "".join(KHM.findall(tb))
+        ga, gb = {ca[i:i + 3] for i in range(len(ca) - 2)}, {cb[i:i + 3] for i in range(len(cb) - 2)}
+        common = len(ga & gb)
+        return common >= 10 and common >= 0.35 * min(len(ga), len(gb))
+    return len(_bigrams(ta) & _bigrams(tb)) >= 4
+
+
 def same_story(a: dict, b: dict, title_only: bool = False) -> bool:
     """True when two items are very probably about the same event."""
     if a.get("sport") and b.get("sport") and a["sport"] != b["sport"]:
@@ -70,7 +82,7 @@ def same_story(a: dict, b: dict, title_only: bool = False) -> bool:
     ta = a["title"] if title_only else f"{a['title']} {a.get('summary', '')}"
     tb = b["title"] if title_only else f"{b['title']} {b.get('summary', '')}"
     if a.get("lang") == "zh" or CJK.search(a["title"]):
-        return len(_bigrams(a["title"]) & _bigrams(b["title"])) >= 4
+        return cjk_same(a["title"], b["title"])
     return len(_stems(ta) & _stems(tb)) >= 2
 
 
@@ -89,7 +101,7 @@ def search_google_news(item: dict, cfg: dict) -> list[dict]:
     from .collect import parse_feed
     lang = item.get("lang", "en")
     if lang == "zh" or CJK.search(item["title"]):
-        q = re.sub(r"[^\w一-鿿]+", " ", item["title"])[:30]
+        q = re.sub(r"[^\w一-鿿\u1780-\u17ff]+", " ", item["title"])[:40]
     else:
         seen, names = set(), []
         for w in _words(item["title"]) + _words(item.get("summary", "")):

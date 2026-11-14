@@ -38,6 +38,9 @@ COMBAT_RX = re.compile(
     r"(泰拳|踢拳|综合格斗|ONE冠军赛|武林风|昆仑决|кикбоксинг|тайский бокс|муай-тай|голые кулаки|голых кулаках)")
 
 
+KUN_RX = re.compile(r"(kun khmer|khmer|cambodia|bokator|phnom penh|kun lbokator|[\u1780-\u17ff])", re.I)
+
+
 def _hit(k: str, text: str) -> bool:
     """Keyword match. Latin/Cyrillic keywords must start a word ('bout' must not match 'about')."""
     if re.search(r"[\u4e00-\u9fff]", k):
@@ -89,8 +92,8 @@ def parse_feed(feed: dict, cfg: dict, max_age_hours: int = 36, raw: bytes | str 
             "published": pub.isoformat() if pub else None,
             "sport": feed.get("sport") or detect_sport(text, cfg.get("sports", {})),
         })
-        if feed.get("kun_khmer"):
-            items[-1]["kun"] = True        # every item of the Kun Khmer search counts as Kun Khmer
+        if feed.get("kun_khmer") and KUN_RX.search(f"{title} {summary}"):
+            items[-1]["kun"] = True        # Kun Khmer search results that are really about Cambodia / Kun Khmer
     log.info("%-32s %3d items", feed["name"], len(items))
     return items
 
