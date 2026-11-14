@@ -87,8 +87,10 @@ def parse_feed(feed: dict, cfg: dict, max_age_hours: int = 36, raw: bytes | str 
             "title": title, "summary": summary, "link": e.get("link", ""),
             "source": source, "feed": feed["name"], "lang": feed.get("lang", "en"),
             "published": pub.isoformat() if pub else None,
-            "sport": detect_sport(text, cfg.get("sports", {})),
+            "sport": feed.get("sport") or detect_sport(text, cfg.get("sports", {})),
         })
+        if feed.get("kun_khmer"):
+            items[-1]["kun"] = True        # every item of the Kun Khmer search counts as Kun Khmer
     log.info("%-32s %3d items", feed["name"], len(items))
     return items
 
@@ -105,6 +107,7 @@ def cluster(items: list[dict], seen_titles: list[str], threshold: int = 72) -> l
             if it["source"] != dup["source"] and all(r["source"] != it["source"] for r in dup.get("also_reported_by", [])):
                 dup.setdefault("also_reported_by", []).append({"source": it["source"], "link": it["link"], "title": it["title"]})
             dup["sport"] = dup["sport"] or it["sport"]
+            dup["kun"] = dup.get("kun") or it.get("kun", False)
             continue
         out.append(dict(it))
     return out

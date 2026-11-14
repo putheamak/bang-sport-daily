@@ -17,7 +17,8 @@ from .common import log
 
 POLITICS = re.compile(
     r"(politic|sanction|kremlin|putin|trump|parliament|\bminister|government|election|senator|"
-    r"полит|санкци|кремл|путин|трамп|госдум|депутат|министр|правительств|выборы|выборах|"
+    r"flag and anthem|without (?:a |their )?flag|neutral athletes?|neutral status|"
+    r"без флага|нейтральн\w* статус|полит|санкци|кремл|путин|трамп|госдум|депутат|министр|правительств|выборы|выборах|"
     r"政治|外交部|制裁|普京|特朗普|议员)", re.I)
 
 # Capitalised words that start sentences or are too generic to identify a story.

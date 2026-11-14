@@ -173,11 +173,11 @@ feeds:
   # Combat sports: MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle (feeds the daily run and the Combat watch)
   - {name: "Google News – Combat promotions", url: "https://news.google.com/rss/search?q=(UFC+OR+%22ONE+Championship%22+OR+%22ONE+Friday+Fights%22+OR+%22GLORY+kickboxing%22+OR+RIZIN+OR+%22K-1%22+OR+Rajadamnern+OR+BKFC+OR+%22bare+knuckle%22+OR+PFL)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
   - {name: "Google News – Boxing", url: "https://news.google.com/rss/search?q=boxing+(WBC+OR+WBA+OR+IBF+OR+WBO+OR+%22world+title%22+OR+undisputed)+when:2d&hl=en-US&gl=US&ceid=US:en", lang: en}
-  - {name: "Google News – Kun Khmer", url: "https://news.google.com/rss/search?q=(%22Kun+Khmer%22+OR+%22Khmer+boxing%22+OR+%22Cambodian+fighter%22+OR+%22Cambodian+boxer%22+OR+Bokator)+when:4d&hl=en-US&gl=US&ceid=US:en", lang: en, max_age_hours: 96}
+  - {name: "Google News – Kun Khmer", url: "https://news.google.com/rss/search?q=(%22Kun+Khmer%22+OR+%22Khmer+boxing%22+OR+%22Cambodian+fighter%22+OR+%22Cambodian+boxer%22+OR+Bokator)+when:4d&hl=en-US&gl=US&ceid=US:en", lang: en, max_age_hours: 96, sport: combat, kun_khmer: true}
   - {name: "Google News – Единоборства (RU)", url: "https://news.google.com/rss/search?q=(UFC+OR+%D0%B1%D0%BE%D0%BA%D1%81+OR+%D0%9C%D0%9C%D0%90+OR+%D0%BA%D0%B8%D0%BA%D0%B1%D0%BE%D0%BA%D1%81%D0%B8%D0%BD%D0%B3+OR+%22%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B1%D0%BE%D0%BA%D1%81%22+OR+%22%D0%B3%D0%BE%D0%BB%D1%8B%D0%B5+%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D0%B8%22)+when:2d&hl=ru&gl=RU&ceid=RU:ru", lang: ru}
   - {name: "Google News – 格斗 (ZH)", url: "https://news.google.com/rss/search?q=(UFC+OR+%E6%8B%B3%E5%87%BB+OR+%E7%BB%BC%E5%90%88%E6%A0%BC%E6%96%97+OR+%E6%B3%B0%E6%8B%B3+OR+%E8%B8%A2%E6%8B%B3+OR+ONE%E5%86%A0%E5%86%9B%E8%B5%9B)+when:2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
   - {name: "MMA Fighting", url: "https://www.mmafighting.com/rss/current.xml", lang: en}
-  - {name: "Khmer Times Sport", url: "https://www.khmertimeskh.com/category/sport/feed/", lang: en}
+  - {name: "Google News – Khmer Times sport", url: "https://news.google.com/rss/search?q=site:khmertimeskh.com+(sport+OR+football+OR+boxing+OR+%22Kun+Khmer%22)+when:3d&hl=en-US&gl=US&ceid=US:en", lang: en}   # direct feed is malformed XML
 
 # ---------- Bylines: disclosed pen-name columnists ----------
 # Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:

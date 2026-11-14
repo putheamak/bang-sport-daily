@@ -57,6 +57,12 @@ def _same(a: dict, b: dict, rare) -> bool:
     return len(rare(a["title"]) & rare(b["title"])) >= 2
 
 
+BET_SOURCE = re.compile(r"(stavk|prognoz|ставк|прогноз|букмек|betting|sportsbook|odds)", re.I)
+COMBAT_PREVIEW = (r"(face-?off|weigh-?in|press conference|presser|warning|predict|preview|odds|what time|how to watch|"
+                  r"битв\w* взглядов|взвешивани|пресс-конференц|прогноз|перед боем|перед турниром|"
+                  r"称重|对视|发布会|前瞻)")
+
+
 def _group(items: list[dict]) -> list[dict]:
     """Group the same story from different outlets (same language), counting independent outlets."""
     from .collect import _src_key
@@ -68,7 +74,10 @@ def _group(items: list[dict]) -> list[dict]:
         if g is None:
             g = {"lead": it, "lang": it["lang"], "refs": [], "outlets": set()}
             groups.append(g)
+        g["kun"] = g.get("kun") or bool(it.get("kun"))
         for r in refs:
+            if BET_SOURCE.search(r.get("source", "")):        # betting sites are never a source
+                continue
             k = _src_key(r.get("source", ""))
             if k not in g["outlets"]:
                 g["outlets"].add(k)
@@ -139,7 +148,10 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[
         return []
     always = [a.lower() for a in cw.get("always_include", ["kun khmer"])]
     need = cw.get("min_outlets", 2)
-    pool = [it for it in items if it.get("sport") == "combat" or COMBAT_RX.search(it.get("title", ""))]
+    skip = re.compile(cw.get("skip", COMBAT_PREVIEW), re.I)
+    pool = [it for it in items if (it.get("sport") == "combat" or COMBAT_RX.search(it.get("title", "")))
+            and not skip.search(it.get("title", ""))]       # previews out BEFORE grouping, so a result is not
+                                                            # swallowed by a preview of the same fight
     prev_n = {s["key"]: s["outlets"] for s in (prev or {}).get("combat", [])}
     now = datetime.now(timezone.utc)
     out = []
@@ -147,7 +159,7 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[
         it = g["lead"]
         n = len(g["outlets"])
         text = f"{it['title']} {it.get('summary', '')}".lower()
-        kun = any(a in text for a in always)
+        kun = g.get("kun") or any(a in text for a in always)
         if n < need and not kun:
             continue
         if _blocked(it["title"].replace("!", "").replace("！", "")):
@@ -638,7 +650,7 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
             log.error("Explainer %s failed: %s", n, e)
             continue
         art["format"] = "explainer"
-        art["region"] = classify(f"{s['title']} {s.get('summary', '')}", s.get("lang", "en"))
+        art["region"] = "cambodia" if s.get("kun_khmer") else classify(f"{s['title']} {s.get('summary', '')}", s.get("lang", "en"))
         new.append(art)
         art["trending_key"] = s["key"]          # remembered in the story itself, not in trending.json
     if cfg["publish"].get("photos", True):

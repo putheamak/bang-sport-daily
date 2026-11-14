@@ -881,3 +881,25 @@ def test_combat_watch_lists_kun_khmer_and_c_numbers(repo):
     assert "COMBAT WATCH" in msg and "C1." in msg and "needs a 2nd source" in msg
     write_json(T.TRENDING, {"combat": combat})
     assert T.parse_choice("1 C2") == [1, combat[1]["key"]]
+
+
+def test_combat_watch_skips_previews_politics_and_betting_sources(repo):
+    from sportnews import trending as T
+    now = datetime.now(timezone.utc).isoformat()
+    def it(t, src, lang="en", **k):
+        return dict({"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src,
+                     "link": "https://x/" + src, "published": now, "score": 1.0}, **k)
+    items = [it("Josh Hokit sends final warning before UFC 334", "Yahoo"),
+             it("Watch the final faceoff before UFC 334", "MMA Fighting"),
+             it("Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна", "Спорт-Экспресс", "ru"),
+             it("Сборная России отказалась от ЧЕ по боксу без флага и гимна", "Championat", "ru"),
+             it("Ciryl Gane knocks out Josh Hokit to win UFC 334 title", "ESPN"),
+             it("Gane stops Hokit, wins UFC 334 heavyweight title", "StavkiPrognozy.ru"),
+             it("Gane stops Hokit to claim UFC 334 heavyweight title", "BBC"),
+             it("Sok Thy wins in Phnom Penh", "Cambodianess", kun=True)]
+    combat = T.rank_combat(cfg(), items)
+    titles = " | ".join(s["title"] for s in combat)
+    assert "warning" not in titles and "faceoff" not in titles and "флага" not in titles
+    win = next(s for s in combat if "Gane" in s["title"])
+    assert not any("Stavki" in r["source"] for r in win["refs"])
+    assert combat[0]["title"] == "Sok Thy wins in Phnom Penh" and combat[0]["kun_khmer"]
