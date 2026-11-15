@@ -1000,3 +1000,24 @@ def test_every_story_has_its_own_cover(repo):
     probs = check_article(cfg(), c, "2026-11-15")
     assert any(p["level"] == "BLOCK" and "cover" in p["msg"].lower() for p in probs)   # no other picture: blocked
     assert not any("cover of another" in p["msg"] for p in check_article(cfg(), dict(b, en={"headline": "H"}), "2026-11-15"))
+
+
+def test_article_photos_checks_every_file(repo, monkeypatch):
+    from sportnews import images as I
+    def fake_get(api, params):
+        if params.get("prop") == "images":
+            return {"query": {"pages": [{"images": [{"title": "File:Flag of Cambodia.svg"}, {"title": "File:Portrait.jpg"},
+                                                      {"title": "File:With coach.jpg"}]}]}}
+        name = params["titles"]
+        if "commons" in api and "Portrait" in name:
+            return {"query": {"pages": [{"missing": True}]}}
+        lic = "Fair use" if "Portrait" in name else "CC BY-SA 4.0"
+        return {"query": {"pages": [{"imageinfo": [{"url": "https://u/" + name, "width": 600, "height": 800,
+                 "descriptionurl": "https://commons/" + name,
+                 "extmetadata": {"LicenseShortName": {"value": lic}, "Artist": {"value": "Someone"}}}]}]}}
+    monkeypatch.setattr(I, "_get", fake_get)
+    got = I.article_photos("Eh Phouthong")
+    assert [g["page"] for g in got] == ["https://commons/File:With_coach.jpg"]      # fair-use portrait refused, flag skipped
+    a = {"id": "x1", "images": []}
+    I.apply_overrides([a], {"x1": {"mode": "replace", "photos": [{"wikipedia_all": "Eh Phouthong", "caption": "Eh Phouthong"}]}})
+    assert len(a["images"]) == 1 and a["images"][0]["subject"] == "Eh Phouthong"

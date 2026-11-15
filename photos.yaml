@@ -127,11 +127,15 @@
     - wikipedia: "Linda Nosková"
       caption: "Linda Nosková"
 
-# Eh Phouthong life story: no free portrait exists; the stadium leads, with a Kun Khmer bout inside
-# (replaces the Koh Kong beach photo, which looked like tourism)
+# Eh Phouthong life story: use the free photos of his Wikipedia article (portrait, with coach Chhit Sarim) if their
+# licence allows it; the log (data/last_rebuild.log) says for each file whether it was accepted and why.
+# The stadium and a Kun Khmer bout follow, so the story keeps 2+ pictures either way.
 2026-11-15-athl-5534d0:
   mode: replace
   photos:
+    - wikipedia_all: "Eh Phouthong"
+      max: 2
+      caption: "Eh Phouthong"
     - wikipedia: "National Olympic Stadium (Cambodia)"
       caption: "The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008"
     - wikipedia: "Kun Khmer"

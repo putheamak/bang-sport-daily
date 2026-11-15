@@ -76,16 +76,25 @@ def commons_info(filename: str, width: int = 1200, min_width: int = 400) -> dict
         pages = d.get("query", {}).get("pages", [])
         local = True
     if not pages or not pages[0].get("imageinfo"):
+        log.info("Photo check %s: file not found", filename)
         return None
     ii = pages[0]["imageinfo"][0]
     meta = ii.get("extmetadata", {})
     lic = _clean(meta.get("LicenseShortName", {}).get("value", ""), 60)
+    where = "English Wikipedia only" if local else "Wikimedia Commons"
+    size = f"{ii.get('width', 0)}x{ii.get('height', 0)}"
     if not lic or not OK_LICENSE.search(lic) or meta.get("NonFree", {}).get("value") in ("true", True):
+        log.info("Photo check %s (%s, %s): REFUSED, licence %r is not a free licence", filename, where, size, lic or "none")
         return None
     if local and not re.search(r"public domain|\bPD\b", lic, re.I):
+        log.info("Photo check %s (%s, %s): REFUSED, licence %r (a file kept only on Wikipedia must be public domain)",
+                 filename, where, size, lic)
         return None
     if ii.get("width", 0) < min_width:
+        log.info("Photo check %s (%s, %s): REFUSED, smaller than %d px wide (licence %r is fine)",
+                 filename, where, size, min_width, lic)
         return None
+    log.info("Photo check %s (%s, %s): OK, licence %r", filename, where, size, lic)
     return {
         "url": ii.get("thumburl") or ii.get("url"),
         "page": ii.get("descriptionurl", ""),
@@ -97,6 +106,26 @@ def commons_info(filename: str, width: int = 1200, min_width: int = 400) -> dict
         "height": ii.get("thumbheight") or ii.get("height"),
         "year": photo_year(meta),
     }
+
+
+def article_photos(title: str, max_n: int = 4, min_width: int = 200) -> list[dict]:
+    """Every free-licence photo used in a Wikipedia article (not only its lead photo), in page order.
+    Each file's licence is checked and the result is written to the log, so a refusal can be explained."""
+    api = "https://en.wikipedia.org/w/api.php"
+    d = _get(api, {"action": "query", "prop": "images", "titles": title, "imlimit": 50, "redirects": 1})
+    pages = d.get("query", {}).get("pages", [])
+    names = [i.get("title", "").split(":", 1)[-1] for i in (pages[0].get("images") or [])] if pages else []
+    out = []
+    for name in names:
+        if not re.search(r"\.(jpe?g|png|webp)$", name, re.I) or BAD_NAME.search(name):
+            continue                                    # icons, flags, logos, svg drawings
+        info = commons_info(name.replace(" ", "_"), min_width=min_width)
+        if info:
+            out.append(info)
+        if len(out) >= max_n:
+            break
+    log.info("Wikipedia article %r: %d file(s) listed, %d free photo(s) usable", title, len(names), len(out))
+    return out
 
 
 def photo_year(meta: dict) -> int | None:
@@ -274,6 +303,14 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         mode, entries = _override_entries(spec)
         chosen = []
         for e in entries:
+            if isinstance(e, dict) and e.get("wikipedia_all"):   # all free photos of one Wikipedia article
+                try:
+                    for im in article_photos(e["wikipedia_all"], max_n=int(e.get("max", 4))):
+                        im["subject"] = e.get("caption") or im.get("description") or e["wikipedia_all"]
+                        chosen.append(im)
+                except Exception as ex:  # noqa: BLE001
+                    log.warning("Photos of article %r failed: %s", e["wikipedia_all"], str(ex)[:200])
+                continue
             im = resolve_entry(e) if isinstance(e, dict) else None
             if im:
                 if e.get("id"):
