@@ -5,7 +5,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T13:34:21+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "combat",
     "tags": [
@@ -34,7 +34,20 @@
         "url": "https://sports.yahoo.com/mma/live/ufc-334-live-results-gane-vs-hokit-updates-round-by-round-scoring-for-tonights-title-doubleheader-191500505.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-15T13:39:57+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-15T13:39:58+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-15T13:39:58+07:00"
+      }
+    ],
     "en": {
       "headline": "Gane Hands Hokit His First Defeat and Harrison Submits Nunes at UFC 334",
       "subheadline": "Both champions kept their titles at Madison Square Garden: Ciryl Gane on three 48-47 scorecards, Kayla Harrison by rear-naked choke in the fourth round.",
@@ -104,7 +117,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-15T13:39:58+07:00"
   },
   {
     "id": "2026-11-15-news-ef5147",
@@ -112,7 +126,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T13:34:20+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -141,7 +155,20 @@
         "url": "https://www.washingtonpost.com/sports/soccer/2026/11/14/japan-brazil-ancelotti-raphinha/50c7a92e-e037-11f1-912c-4fbb80d73f7f_story.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-15T13:39:59+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-15T13:40:00+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-15T13:40:00+07:00"
+      }
+    ],
     "en": {
       "headline": "Japan Beat Brazil 3-2 in Singapore With a Stoppage-Time Winner",
       "subheadline": "Tatsuhiro Sakamoto scored in the 91st minute after a Vinicius Junior double had brought Brazil level; Carlo Ancelotti and Raphinha were sent off.",
@@ -236,7 +263,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-15T13:40:00+07:00"
   },
   {
     "id": "2026-11-15-athl-27025b",
@@ -244,7 +272,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T00:47:21+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Table Tennis",
     "tags": [
@@ -277,7 +305,20 @@
         "url": "https://en.wikipedia.org/wiki/Ma_Long"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-15T13:40:01+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-15T13:40:02+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-15T13:40:03+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.015,
       "longest": 9,
@@ -371,7 +412,8 @@
     },
     "old_slugs": [
       "the-dragon-of-table-tennis-the-life-and-legacy-of-ma-long"
-    ]
+    ],
+    "published_at": "2026-11-15T13:40:03+07:00"
   },
   {
     "id": "2026-11-15-news-912169",
