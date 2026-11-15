@@ -1,89 +1,141 @@
-2026-11-15 17:57:24,878 INFO BBC Sport                         45 items
-2026-11-15 17:57:25,139 INFO The Guardian Sport                26 items
-2026-11-15 17:57:25,250 INFO ESPN                               0 items
-2026-11-15 17:57:25,512 INFO Sky Sports                        20 items
-2026-11-15 17:57:26,474 INFO Google News – Sports (EN)         56 items
-2026-11-15 17:57:27,268 INFO Google News – 体育 (ZH)             32 items
-2026-11-15 17:57:28,107 INFO Google News – Спорт (RU)          60 items
-2026-11-15 17:57:29,795 INFO Championat                        30 items
-2026-11-15 17:57:30,910 INFO Sports.ru                         17 items
-2026-11-15 17:57:32,920 INFO Спорт-Экспресс                   437 items
-2026-11-15 17:57:34,981 INFO РИА Новости Спорт                 20 items
-2026-11-15 17:57:36,180 INFO 中国新闻网 体育                          26 items
-2026-11-15 17:57:36,569 INFO Google News – Cambodia sport      18 items
-2026-11-15 17:57:37,081 INFO Google News – Southeast Asia sport  54 items
-2026-11-15 17:57:37,789 INFO Google News – Combat promotions   98 items
-2026-11-15 17:57:38,120 INFO Google News – Boxing              28 items
-2026-11-15 17:57:38,409 INFO Google News – Kun Khmer            4 items
-2026-11-15 17:57:38,611 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-15 17:57:39,207 INFO Google News – Единоборства (RU)   99 items
-2026-11-15 17:57:39,799 INFO Google News – 格斗 (ZH)             24 items
-2026-11-15 17:57:40,135 INFO MMA Fighting                      10 items
-2026-11-15 17:57:40,424 INFO Google News – Khmer Times sport   14 items
-2026-11-15 17:57:41,493 INFO Candidate stories after clustering: 952
-2026-11-15 17:57:41,924 INFO Google News search                 9 items
-2026-11-15 17:57:41,925 INFO Skipped (only 1 outlet): Four in a row - Australia win women's rugby league World Cup again
-2026-11-15 17:57:42,267 INFO Google News search                20 items
-2026-11-15 17:57:42,527 INFO Google News search                 1 items
-2026-11-15 17:57:42,527 INFO Skipped (only 1 outlet): AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership
-2026-11-15 17:57:42,528 INFO Skipped (same event as a stronger story): Jon Jones Applauds Ciryl Gane and Snubs Josh Hokit Following UFC 334
-2026-11-15 17:57:42,528 INFO Skipped (same event as a stronger story): 'Free Money,' Kayla Harrison Names Ronda Rousey for Dream Fight After UFC 334 Win vs. Amanda Nunes
-2026-11-15 17:57:43,213 INFO Google News search                98 items
-2026-11-15 17:57:43,216 INFO Skipped (only 1 outlet): 'They reign supreme!' - Australia beat NZ to lift World Cup again
-2026-11-15 17:57:43,645 INFO Google News search                20 items
-2026-11-15 17:57:43,646 INFO Skipped (same event as a stronger story): Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes
-2026-11-15 17:57:43,994 INFO Google News search                11 items
-2026-11-15 17:57:43,994 INFO Skipped (politics): PSSI extends its warmest congratulations to H.E. Major General Khiev Sameth on his re-election as Pr
-2026-11-15 17:57:44,427 INFO Google News search                23 items
-2026-11-15 17:57:44,429 INFO Skipped (same event as a stronger story): Australia brush off New Zealand to win fourth straight Rugby League World Cup
-2026-11-15 17:57:44,823 INFO Google News search                30 items
-2026-11-15 17:57:45,101 INFO Google News search                 6 items
-2026-11-15 17:57:45,101 INFO Confirmed by 2+ outlets: 16 of 25 candidates (9 searches)
-2026-11-15 17:57:45,113 INFO Picked [global combat 7.3 · 6 outlets] UFC 334: Gane vs. Hokit Fight Results
-2026-11-15 17:57:45,114 INFO Writing news (EN) ...
-2026-11-15 17:57:45,839 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-15 17:57:46,094 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
-2026-11-15 17:57:46,094 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-15 17:57:46,094 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
-2026-11-15 17:59:44,172 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:01:42,215 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:03:59,874 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-15 18:03:59,991 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-15 18:04:10,497 WARNING Draft is only 142 words (want 300+) — asking once to expand from the sources
-2026-11-15 18:06:09,104 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:08:27,323 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:08:29,986 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-15 18:10:48,238 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:10:59,224 INFO Expanded draft: 142 -> 233 words
-2026-11-15 18:10:59,225 INFO Adapting to zh, ru ...
-2026-11-15 18:12:57,560 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:15:16,118 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:16:53,958 WARNING Draft will be auto-rejected (too short (233 words, minimum 250)); trying the next story
-2026-11-15 18:16:53,958 INFO Picked [china football 4.2 · 2 outlets] 辽宁女足夺得2026赛季中国女超冠军
-2026-11-15 18:16:55,311 INFO Writing news (EN) ...
-2026-11-15 18:18:53,442 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:21:11,558 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:23:11,230 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:25:29,621 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-15 18:25:29,621 ERROR News article failed (辽宁女足夺得2026赛季中国女超冠军): Gemini failed on every model: gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | time budget used up (Gemini overloaded) | time budget used up (Gemini overloaded)
-2026-11-15 18:25:29,621 INFO Picked [global basketball 3.9 · 2 outlets] Carmelo Anthony shares what he’s heard caused the Jayson Tatum vs. Jaylen Brown feud
-2026-11-15 18:25:29,622 INFO Writing news (EN) ...
-2026-11-15 18:25:29,622 ERROR News article failed (Carmelo Anthony shares what he’s heard caused the Jayson Tatum vs. Jaylen Brown feud): Skipped — Gemini already failed on every model this run: gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | time budget used up (Gemini overloaded) | time budget used up (Gemini overloaded)
-2026-11-15 18:25:33,419 INFO On this day 11-16: 2005 – Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for t (global)
-2026-11-15 18:25:33,420 INFO Writing history (EN) ...
-2026-11-15 18:25:33,421 ERROR History article failed: Skipped — Gemini already failed on every model this run: gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.8-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | gemini-3.7-flash: busy: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}} | time budget used up (Gemini overloaded) | time budget used up (Gemini overloaded)
-2026-11-15 18:25:33,428 INFO Looking up photos for 2026-11-16-news-ccd145: ['Ciryl Gane', 'Dana White', 'Ultimate Fighting Championship', 'T-Mobile Arena', 'Rob Hokit']
-2026-11-15 18:25:33,782 INFO Photo check UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg (Wikimedia Commons, 1290x1814): OK, licence 'Public domain'
-2026-11-15 18:25:33,782 INFO Photo for 'Ciryl Gane': UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg (The White House, Public domain)
-2026-11-15 18:25:34,095 INFO Photo check Ilham_Aliyev_received_Dana_White,_June_2025_(3x4_cropped_and_rotated_on_White).jpg (Wikimedia Commons, 801x1068): OK, licence 'CC BY 4.0'
-2026-11-15 18:25:34,096 INFO Photo for 'Dana White': Ilham_Aliyev_received_Dana_White,_June_2025_(3x4_cropped_and_rotated_on_White).jpg (Press Service of the President of the Re, CC BY 4.0)
-2026-11-15 18:25:34,319 WARNING No free-licence photo for 'Ultimate Fighting Championship' (UFC_Logo.svg)
-2026-11-15 18:25:34,639 INFO Photo check T_Mobile_Arena_The_Strip_Las_Vegas_(29798246202).jpg (Wikimedia Commons, 2048x1122): OK, licence 'CC BY-SA 2.0'
-2026-11-15 18:25:34,639 INFO Photo for 'T-Mobile Arena': T_Mobile_Arena_The_Strip_Las_Vegas_(29798246202).jpg (Tomás Del Coro from Las Vegas, Nevada, U, CC BY-SA 2.0)
-2026-11-15 18:25:34,675 INFO Cover photo of 2026-11-16-news-ccd145 changed: another story already uses that picture
-2026-11-15 18:25:34,690 WARNING Auto-rejected 2026-11-16-news-ccd145 (Ciryl Gane Claims Victory at UFC 334 Against Rob Hokit): too short (233 words, minimum 250)
-2026-11-15 18:25:34,690 INFO Drafts for review: 0 of 1 (others auto-rejected by the standards check)
-2026-11-15 18:25:34,740 INFO Wrote 1 new articles for 2026-11-16
-2026-11-15 18:25:34,838 INFO Exported 1 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-16
-2026-11-15 18:25:35,414 INFO IndexNow: 3 page(s) submitted (HTTP 200)
-2026-11-15 18:25:37,562 INFO Website built: 43 published stories, 174 pages
+2026-11-15 19:55:21,897 INFO BBC Sport                         45 items
+2026-11-15 19:55:22,140 INFO The Guardian Sport                26 items
+2026-11-15 19:55:22,184 INFO ESPN                               0 items
+2026-11-15 19:55:22,349 INFO Sky Sports                        20 items
+2026-11-15 19:55:23,393 INFO Google News – Sports (EN)         57 items
+2026-11-15 19:55:24,183 INFO Google News – 体育 (ZH)             32 items
+2026-11-15 19:55:25,105 INFO Google News – Спорт (RU)          57 items
+2026-11-15 19:55:26,092 INFO Championat                        30 items
+2026-11-15 19:55:27,006 INFO Sports.ru                         15 items
+2026-11-15 19:55:28,910 INFO Спорт-Экспресс                   446 items
+2026-11-15 19:55:29,908 INFO РИА Новости Спорт                 20 items
+2026-11-15 19:55:31,305 INFO 中国新闻网 体育                          24 items
+2026-11-15 19:55:31,762 INFO Google News – Cambodia sport      17 items
+2026-11-15 19:55:32,304 INFO Google News – Southeast Asia sport  53 items
+2026-11-15 19:55:32,936 INFO Google News – Combat promotions   98 items
+2026-11-15 19:55:33,327 INFO Google News – Boxing              25 items
+2026-11-15 19:55:33,650 INFO Google News – Kun Khmer            3 items
+2026-11-15 19:55:33,910 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-15 19:55:34,580 INFO Google News – Единоборства (RU)   99 items
+2026-11-15 19:55:35,015 INFO Google News – 格斗 (ZH)             22 items
+2026-11-15 19:55:35,167 INFO MMA Fighting                      10 items
+2026-11-15 19:55:35,525 INFO Google News – Khmer Times sport   18 items
+2026-11-15 19:55:36,609 INFO Candidate stories after clustering: 960
+2026-11-15 19:55:37,020 INFO Google News search                 9 items
+2026-11-15 19:55:37,021 INFO Skipped (only 1 outlet): Four in a row - Australia win women's rugby league World Cup again
+2026-11-15 19:55:37,446 INFO Google News search                22 items
+2026-11-15 19:55:37,770 INFO Google News search                 1 items
+2026-11-15 19:55:37,771 INFO Skipped (only 1 outlet): AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership
+2026-11-15 19:55:38,225 INFO Google News search                10 items
+2026-11-15 19:55:38,225 INFO Skipped (same event as a stronger story): Jon Jones Applauds Ciryl Gane and Snubs Josh Hokit Following UFC 334
+2026-11-15 19:55:38,843 INFO Google News search                99 items
+2026-11-15 19:55:38,846 INFO Skipped (only 1 outlet): 'They reign supreme!' - Australia beat NZ to lift World Cup again
+2026-11-15 19:55:39,215 INFO Google News search                21 items
+2026-11-15 19:55:39,216 INFO Skipped (same event as a stronger story): Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes
+2026-11-15 19:55:39,620 INFO Google News search                11 items
+2026-11-15 19:55:39,621 INFO Skipped (politics): PSSI extends its warmest congratulations to H.E. Major General Khiev Sameth on his re-election as Pr
+2026-11-15 19:55:39,960 INFO Google News search                 6 items
+2026-11-15 19:55:40,393 INFO Google News search                22 items
+2026-11-15 19:55:41,062 INFO Google News search                93 items
+2026-11-15 19:55:41,478 INFO Google News search                29 items
+2026-11-15 19:55:41,479 INFO Skipped (only 1 outlet): В Петербурге пройдет Всероссийская Спартакиада Специальной Олимпиады
+2026-11-15 19:55:41,479 INFO Confirmed by 2+ outlets: 17 of 25 candidates (11 searches)
+2026-11-15 19:55:41,492 INFO Picked [global combat 8.7 · 8 outlets] Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе
+2026-11-15 19:55:41,493 INFO Writing news (EN) ...
+2026-11-15 19:55:42,174 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-15 19:55:42,321 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
+2026-11-15 19:55:42,321 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 19:55:42,321 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
+2026-11-15 19:55:43,779 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-15 19:57:41,856 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:00:00,029 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:00:00,157 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:00:10,448 WARNING Draft is only 156 words (want 300+) — asking once to expand from the sources
+2026-11-15 20:02:08,591 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:03:10,644 INFO Expanded draft: 156 -> 361 words
+2026-11-15 20:03:10,645 INFO Adapting to zh, ru ...
+2026-11-15 20:05:08,829 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:05:28,962 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:08:02,099 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:09:48,274 INFO Picked [china football 4.1 · 3 outlets] 辽宁女足夺得2026赛季中国女超冠军
+2026-11-15 20:09:48,275 INFO Writing news (EN) ...
+2026-11-15 20:09:48,427 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:10:23,582 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:12:21,908 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:12:42,074 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:12:52,476 WARNING Draft is only 158 words (want 300+) — asking once to expand from the sources
+2026-11-15 20:12:52,613 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:12:52,710 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:13:03,005 INFO Expanded draft: 158 -> 218 words
+2026-11-15 20:13:03,006 INFO Adapting to zh, ru ...
+2026-11-15 20:15:01,239 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:15:21,388 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:15:21,498 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:15:33,154 WARNING Draft will be auto-rejected (too short (218 words, minimum 250)); trying the next story
+2026-11-15 20:15:33,154 INFO Picked [global tennis 4.3 · 3 outlets] Анна Калинская объявила о помолвке с аргентинским бизнесменом Феррари
+2026-11-15 20:15:35,085 INFO Writing news (EN) ...
+2026-11-15 20:15:35,244 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:17:33,755 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:17:53,931 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:18:04,302 WARNING Draft is only 225 words (want 300+) — asking once to expand from the sources
+2026-11-15 20:18:04,452 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:18:05,542 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-15 20:18:25,677 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:18:35,709 INFO Expanded draft: 225 -> 236 words
+2026-11-15 20:18:35,710 INFO Adapting to zh, ru ...
+2026-11-15 20:20:33,853 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:20:53,979 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:20:54,081 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:21:06,571 WARNING Draft will be auto-rejected (too short (236 words, minimum 250)); trying the next story
+2026-11-15 20:21:07,060 INFO On this day 11-16: 2005 – Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for t (global)
+2026-11-15 20:21:07,062 INFO Writing history (EN) ...
+2026-11-15 20:21:07,218 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:21:22,183 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-15 20:21:42,326 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:21:53,716 WARNING Draft is only 325 words (want 450+) — asking once to expand from the sources
+2026-11-15 20:21:53,872 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:23:52,009 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:24:12,177 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:24:23,534 INFO Expanded draft: 325 -> 439 words
+2026-11-15 20:24:23,536 INFO Adapting to zh, ru ...
+2026-11-15 20:26:21,623 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-15 20:26:41,762 WARNING Gemini gemini-3.8-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:26:41,850 WARNING Gemini gemini-3.7-flash failed [rate]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-15 20:26:56,157 INFO Looking up photos for 2026-11-16-news-a91290: ['Ciryl Gane', 'Josh Hokit', 'UFC', 'Madison Square Garden']
+2026-11-15 20:26:56,433 INFO Photo check UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg (Wikimedia Commons, 1290x1814): OK, licence 'Public domain'
+2026-11-15 20:26:56,433 INFO Photo for 'Ciryl Gane': UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg (The White House, Public domain)
+2026-11-15 20:26:56,628 INFO Photo check UFC_Freedom_250_Press_Conference_(9747953)_(cropped).jpg (Wikimedia Commons, 623x963): OK, licence 'Public domain'
+2026-11-15 20:26:56,628 INFO Photo for 'Josh Hokit': UFC_Freedom_250_Press_Conference_(9747953)_(cropped).jpg (U.S. Army photo by Sgt. 1st Class Britta, Public domain)
+2026-11-15 20:26:56,721 WARNING No free-licence photo for 'UFC' (UFC_Logo.svg)
+2026-11-15 20:26:56,907 INFO Photo check Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg (Wikimedia Commons, 5411x3044): OK, licence 'CC BY 2.0'
+2026-11-15 20:26:56,907 INFO Photo for 'Madison Square Garden': Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg (Ajay Suresh from New York, NY, USA, CC BY 2.0)
+2026-11-15 20:26:56,907 INFO Looking up photos for 2026-11-16-news-5fd807: ["Chinese Women's Super League", 'Association football', 'Beijing']
+2026-11-15 20:26:57,559 INFO Photo check Football_in_Bloomington,_Indiana,_1995.jpg (Wikimedia Commons, 3420x2328): OK, licence 'CC BY-SA 3.0'
+2026-11-15 20:26:57,560 INFO Photo for 'Association football': Football_in_Bloomington,_Indiana,_1995.jpg (Rick Dikeman, CC BY-SA 3.0)
+2026-11-15 20:26:57,765 INFO Photo check Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg (Wikimedia Commons, 6787x4525): OK, licence 'CC BY 4.0'
+2026-11-15 20:26:57,765 INFO Photo for 'Beijing': Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg (N509FZ, CC BY 4.0)
+2026-11-15 20:26:57,839 INFO Match card added to 2026-11-16-news-5fd807
+2026-11-15 20:26:57,839 INFO Looking up photos for 2026-11-16-news-57ee4f: ['Anna Kalinskaya', 'WTA', 'Tennis', 'Tomas Ferrari', 'Jannik Sinner']
+2026-11-15 20:26:58,016 INFO Photo check Anna_Kalinskaya_(2025_DC_Open)_01_(cropped).jpg (Wikimedia Commons, 1831x2479): OK, licence 'CC BY-SA 4.0'
+2026-11-15 20:26:58,016 INFO Photo for 'Anna Kalinskaya': Anna_Kalinskaya_(2025_DC_Open)_01_(cropped).jpg (Hameltion, CC BY-SA 4.0)
+2026-11-15 20:26:58,549 INFO Photo check 2013_Australian_Open_-_Guillaume_Rufin.jpg (Wikimedia Commons, 2510x3765): OK, licence 'CC BY-SA 3.0'
+2026-11-15 20:26:58,550 INFO Photo for 'Tennis': 2013_Australian_Open_-_Guillaume_Rufin.jpg (Brendan Dennis, CC BY-SA 3.0)
+2026-11-15 20:26:59,061 INFO Photo check Tomas_Enge_2007.jpg (Wikimedia Commons, 3884x2600): OK, licence 'CC BY-SA 2.0'
+2026-11-15 20:26:59,061 INFO Photo for 'Tomas Ferrari': Tomas_Enge_2007.jpg (Christian Madden from Beverly, MA, CC BY-SA 2.0)
+2026-11-15 20:26:59,061 INFO Looking up photos for 2026-11-16-hist-6ea114: ['Guus Hiddink', "Australia men's national soccer team", 'Uruguay national football team', 'Stadium Australia', 'Mark Bresciano']
+2026-11-15 20:26:59,249 INFO Photo check Guus_Hiddink_2012.jpg (Wikimedia Commons, 540x568): OK, licence 'CC BY-SA 3.0'
+2026-11-15 20:26:59,249 INFO Photo for 'Guus Hiddink': Guus_Hiddink_2012.jpg (Степиньш Ольга, CC BY-SA 3.0)
+2026-11-15 20:26:59,333 WARNING No free-licence photo for "Australia men's national soccer team" (Australia_national_football_team_badge.svg)
+2026-11-15 20:27:00,041 INFO Photo check 2022_NRLGF_stadium.jpg (Wikimedia Commons, 4032x2268): OK, licence 'CC BY-SA 4.0'
+2026-11-15 20:27:00,041 INFO Photo for 'Stadium Australia': 2022_NRLGF_stadium.jpg (Storm machine, CC BY-SA 4.0)
+2026-11-15 20:27:00,225 INFO Photo check Mark_Bresciano.jpg (Wikimedia Commons, 406x657): OK, licence 'CC BY 2.0'
+2026-11-15 20:27:00,225 INFO Photo for 'Mark Bresciano': Mark_Bresciano.jpg (Amy O'Brien from Brisbane, CC BY 2.0)
+2026-11-15 20:27:00,289 INFO Match card added to 2026-11-16-hist-6ea114
+2026-11-15 20:27:00,322 INFO Cover photo of 2026-11-16-news-a91290 changed: another story already uses that picture
+2026-11-15 20:27:00,365 WARNING Auto-rejected 2026-11-16-news-5fd807 (Liaoning Women's Football Team Secures 2026 Chinese Women's ): too short (218 words, minimum 250)
+2026-11-15 20:27:00,365 WARNING Auto-rejected 2026-11-16-news-57ee4f (Russian Tennis Player Anna Kalinskaya Announces Engagement t): too short (236 words, minimum 250)
+2026-11-15 20:27:00,377 INFO Drafts for review: 2 of 4 (others auto-rejected by the standards check)
+2026-11-15 20:27:00,426 INFO Wrote 4 new articles for 2026-11-16
+2026-11-15 20:27:00,585 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-16
+2026-11-15 20:27:01,834 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-15 20:27:04,030 INFO Website built: 43 published stories, 174 pages

@@ -1,5 +1,562 @@
 [
   {
+    "id": "2026-11-16-hist-6ea114",
+    "slug": "on-this-day-in-2005-australia-ends-31-year-wait-to-qualify-f",
+    "date": "2026-11-16",
+    "created": "2026-11-16T03:26:56+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "Association football",
+    "tags": [
+      "Australia",
+      "Uruguay",
+      "World Cup 2006",
+      "Guus Hiddink",
+      "Mark Bresciano",
+      "Stadium Australia"
+    ],
+    "athletes": [
+      "Mark Bresciano",
+      "Guus Hiddink"
+    ],
+    "image_subjects": [
+      "Guus Hiddink",
+      "Australia men's national soccer team",
+      "Uruguay national football team",
+      "Stadium Australia"
+    ],
+    "match": {
+      "competition": "2006 FIFA World Cup qualification (Intercontinental play-off)",
+      "date": "16 November 2005",
+      "home": "Australia",
+      "away": "Uruguay",
+      "home_score": 1,
+      "away_score": 0,
+      "home_scorers": [
+        "Mark Bresciano"
+      ],
+      "away_scorers": [],
+      "note": "Australia won 4–2 on penalties after 1–1 aggregate draw"
+    },
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Australia men's national soccer team",
+        "url": "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team"
+      },
+      {
+        "title": "Uruguay national football team",
+        "url": "https://en.wikipedia.org/wiki/Uruguay_national_football_team"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.028,
+      "longest": 13,
+      "phrases": [
+        "uruguay in a penalty shootout to qualify for the 2006 fifa world cup",
+        "executive committee made a unanimous decision to invite australia to join the afc"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "On This Day in 2005: Australia Ends 31-Year Wait to Qualify for World Cup",
+      "subheadline": "The Socceroos defeated Uruguay in a dramatic penalty shootout at Stadium Australia to reach the 2006 FIFA World Cup.",
+      "body_markdown": "## Breaking Decades of Qualification Heartbreak\n\nOn 16 November 2005, the Australia men's national soccer team ended a 31-year absence from the global stage by defeating Uruguay in a penalty shootout to qualify for the 2006 FIFA World Cup. Played in front of a massive crowd of 82,698 spectators at Stadium Australia, the second leg of the intercontinental playoff delivered the breakthrough the nation had chased for over three decades.\n\nAustralia entered the match facing a 1–0 deficit from the first leg played in Montevideo four days prior. Under the guidance of newly appointed coach Guus Hiddink—who took charge after Frank Farina stood down following a dismal showing at the 2005 FIFA Confederations Cup—the 49th-ranked Socceroos leveled the aggregate score. Mark Bresciano scored in the first half to put Australia 1–0 ahead on the night.\n\nWith the aggregate tied 1–1 after regulation time and two scoreless periods of extra time, the fixture proceeded to a penalty shootout. Australia won the shootout, sealing their first World Cup qualification since 1974.\n\n## A History of Near-Misses\n\nPrior to the 2005 triumph in Sydney, Australia's sole appearance at a FIFA World Cup had occurred at the 1974 tournament in West Germany, where an amateur-heavy squad exited in the first round without scoring a goal. Over the subsequent four decades, the program suffered a series of agonizing qualification eliminations in intercontinental playoffs.\n\nBefore facing Uruguay, Australia had fallen short in playoffs against North Korea in 1966, Israel in 1970, Scotland in 1986, Argentina in 1994, Iran in 1998, and Uruguay four years earlier in the 2002 qualification campaign. The 2005 victory served as sweet revenge against the Sky Blues, whom Australia had previously beaten 1–0 in the semi-finals of the 1997 FIFA Confederations Cup before Uruguay gained the upper hand in the 2002 World Cup playoff.\n\n## Transition to the Asian Football Confederation\n\nThe historic night in Sydney unfolded during a period of massive structural change for Australian soccer. Earlier in 2005, Football Australia pursued a move away from the Oceania Football Confederation, hindered historically by Oceania's single qualification berth requiring an intercontinental playoff.\n\nOn 13 March 2005, the Asian Football Confederation executive committee made a unanimous decision to invite Australia to join the AFC. Following endorsement from Oceania and formal approval by FIFA on 30 June 2005, the switch took effect on 1 January 2006. The victory over Uruguay marked the final chapter of Australia's era competing as a member of Oceania, setting the stage for an unbroken run of World Cup qualifications from within Asia in subsequent years.",
+      "social_post": "On this day in 2005, Australia ended a 31-year wait by beating Uruguay on penalties to reach the 2006 World Cup in front of 82,698 fans at Stadium Australia! Relive the historic playoff night. What are your memories of the golden generation? #Socceroos #WorldCup #OnThisDay #FootballHistory"
+    },
+    "zh": {
+      "headline": "历史上的今天（2005年）：澳大利亚苦等31年，点球大战击败乌拉圭重返世界杯",
+      "subheadline": "在澳大利亚体育场，袋鼠军团在惊心动魄的点球大战中淘汰乌拉圭，昂首挺进2006年德国世界杯。",
+      "body_markdown": "## 终结数十年的世预赛苦旅\n\n2005年11月16日，澳大利亚男足在附加赛中通过点球大战击败乌拉圭队，打破了长达31年的世界杯决赛圈荒，成功晋级2006年德国世界杯。当晚的澳大利亚体育场座无虚席，多达82,698名球迷见证了这场全国上下企盼了三十多年的历史性突破。\n\n四天前，澳大利亚队在蒙得维的亚客场以0比1不敌乌拉圭，带着一球劣势回到主场。新帅希丁克（Guus Hiddink）接替了因2005年联合会杯战绩惨淡而卸任的弗兰克·法里纳（Frank Farina）。在这位名帅的调教下，当时世界排名第49位的袋鼠军团吹响了反击号角。布雷西亚诺在上半场破门，帮助澳大利亚在当晚将总比分扳平。\n\n在常规时间战罢以及随后的两个加时赛颗粒无收后，总比分定格在1比1，比赛残酷地进入点球大战。最终，澳大利亚笑到最后，赢得了这场胜利，也拿到了自1974年以来的首张世界杯入场券。\n\n## 梦魇与擦肩而过的历史\n\n在2005年悉尼之夜扬眉吐气之前，澳大利亚唯一一次亮相世界杯还要追溯到1974年的西德世界杯，当时那支以业余球员为主的队伍在小组赛阶段一球未进便黯然出局。在此后的三十多年里，这支球队在洲际附加赛中遭遇了一次又一次令人心碎的失利。\n\n在遭遇乌拉圭之前，澳大利亚曾在附加赛中屡屡倒下：1966年对阵朝鲜、1970年对阵以色列、1986年对阵苏格兰、1994年对阵阿根廷、1998年对阵伊朗，以及四年前在2002年世界杯预选赛中再次输给乌拉圭。2005年的这场胜利可谓对“天蓝军团”的完美复仇。澳大利亚曾在1997年联合会杯半决赛中以1比0击败过乌拉圭，但随后在2002年的世预赛附加赛中被对方复仇。\n\n## 迈向亚洲足球联合会的新篇章\n\n悉尼的这个历史之夜，正值澳大利亚足球经历翻天覆地结构变革的时期。2005年初，澳大利亚足协积极谋求离开大洋洲足球联合会，因为大洋洲历史上仅有半个直接晋级名额、必须通过残酷的洲际附加赛才能争夺出线权的困境，极大地制约了球队的发展。\n\n2005年3月13日，亚足联执行委员会做出一致决定，正式邀请澳大利亚加入亚足联。在大洋洲足联的认可和国际足联于2005年6月30日的正式批准下，这一变更于2006年1月1日正式生效。击败乌拉圭的这场胜利，成为了澳大利亚作为大洋洲成员参赛时代的完美收官之作，也为日后他们从亚洲赛区突围、连续杀入世界杯奠定了坚实的基础。",
+      "social_post": "历史上的今天（2005年），澳大利亚在澳大利亚体育场面对82,698名疯狂球迷，点球大战击败乌拉圭，结束了长达31年的世界杯等待！重温那个激情燃烧的附加赛之夜，你对当年的黄金一代还有什么记忆？#Socceroos #WorldCup #OnThisDay #FootballHistory"
+    },
+    "ru": {
+      "headline": "В этот день в 2005 году: Австралия прервала 31-летнее ожидание и вышла на чемпионат мира",
+      "subheadline": "«Соккеруз» в драматичной серии пенальти одолели сборную Уругвая на « Stadium Australia» и завоевали путевку на ЧМ-2006.",
+      "body_markdown": "## Конец десятилетиям кубковых разочарований\n\n16 ноября 2005 года мужская сборная Австралии по футболу завершила 31-летнее отсутствие на мировой арене, победив Уругвай в серии пенальти и пробившись на чемпионат мира 2006 года. Ответный матч межконтинентального плей-офф, прошедший при чудовищной поддержке 82 698 зрителей на стадионе «Stadium Australia», принес тот самый прорыв, к которому нация шла более трех десятилетий.\n\nК этой встрече Австралия подходила, уступая в счете 0:1 после первой игры в Монтевидео, состоявшейся четырьмя днями ранее. Под руководством недавно назначенного тренера Гууса Хиддинка (Guus Hiddink), принявшего команду после отставки Фрэнка Фарины (Frank Farina) из-за провального выступления на Кубке конфедераций 2005 года, «соккеруз», занимавшие 49-е место в рейтинге, смогли выровнять положение по сумме двух встреч. Марк Брешиано забил в первом тайме, выведя Австралию вперед в матче — 1:0.\n\nПоскольку по итогам основного и двух безголевых экстра-таймов общий счет остался ничейным (1:1), судьба путевки решалась в серии пенальти. Австралия оказалась точнее, оформив свой первый выход на мундиали с 1974 года.\n\n## Хроника упущенных возможностей\n\nДо триумфа 2005 года в Сиднее единственным участием Австралии в чемпионатах мира под эгидой ФИФА был турнир 1974 года в ФРГ, где команда, состоявшая преимущественно из любителей, вылетела уже на групповом этапе, не забив ни одного мяча. В последующие четыре десятилетия сборная пережила череду мучительных вылетов в межконтинентальных стыковых матчах.\n\nДо встречи с Уругваем австралийцы терпели неудачи в плей-офф против Северной Кореи в 1966 году, Израиля в 1970-м, Шотландии в 1986-м, Аргентины в 1994-м, Ирана в 1998-м и того же Уругвая четырьмя годами ранее в отборе на ЧМ-2002. Победа в 2005-м стала сладким реваншем над «небесно-голубыми», которым Австралия уступила в плей-офф отбора к ЧМ-2002, хотя ранее обыгрывала их со счетом 1:0 в полуфинале Кубка конфедераций 1997 года.\n\n## Переход в Азиатскую конфедерацию футбола\n\nИсторический вечер в Сиднее разворачивался на фоне масштабных структурных перемен в австралийском футболе. В начале 2005 года Федерация футбола Австралии взяла курс на выход из Конфедерации футбола Океании, развитие которой исторически тормозилось из-за того, что Океании выделялась лишь одна путевка, требовавшая обязательного прохождения стыковых матчей.\n\n13 марта 2005 года исполнительный комитет Азиатской конфедерации футбола единогласно проголосовал за приглашение Австралии в АФК. После одобрения со стороны Океании и официального утверждения ФИФА 30 июня 2005 года, переход вступил в силу 1 января 2006 года. Победа над Уругваем стала финальной главой эпохи выступлений Австралии в качестве члена Океании, подготовив почву для беспрерывной серии выходов на чемпионаты мира уже через азиатскую зону в последующие годы.",
+      "social_post": "В этот день в 2005 году Австралия прервала 31-летнее ожидание, обыграв Уругвай по пенальти и выйдя на ЧМ-2006 при 82 698 болельщиках на «Stadium Australia»! Вспоминаем ту историческую ночь плей-офф. Каковы ваши воспоминания о золотом поколении? #Socceroos #WorldCup #OnThisDay #FootballHistory"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Guus_Hiddink_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Guus_Hiddink_2012.jpg",
+        "artist": "Степиньш Ольга",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "HINDIDINHO.",
+        "width": 1200,
+        "height": 1262,
+        "year": 2012,
+        "subject": "Guus Hiddink"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2022_NRLGF_stadium.jpg/1280px-2022_NRLGF_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2022_NRLGF_stadium.jpg",
+        "artist": "Storm machine",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "View of Stadium Australia before the kickoff to the 2022 NRL Grand Final",
+        "width": 1200,
+        "height": 675,
+        "year": 2022,
+        "subject": "Stadium Australia"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mark_Bresciano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mark_Bresciano.jpg",
+        "artist": "Amy O'Brien from Brisbane",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "It's a walk in the park for Bresciano and Cahill",
+        "width": 1200,
+        "height": 1942,
+        "year": 2006,
+        "subject": "Mark Bresciano"
+      },
+      {
+        "url": "../photos/card-2026-11-16-hist-6ea114.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Australia 1 - 0 Uruguay · 2006 FIFA World Cup qualification (Intercontinental play-off)",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": []
+  },
+  {
+    "id": "2026-11-16-news-57ee4f",
+    "slug": "russian-tennis-player-anna-kalinskaya-announces-engagement-t",
+    "date": "2026-11-16",
+    "created": "2026-11-16T03:21:06+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "tennis",
+    "tags": [
+      "Anna Kalinskaya",
+      "Tomas Ferrari",
+      "WTA",
+      "Tennis"
+    ],
+    "athletes": [
+      "Anna Kalinskaya",
+      "Tomas Ferrari",
+      "Jannik Sinner"
+    ],
+    "image_subjects": [
+      "Anna Kalinskaya",
+      "WTA",
+      "Tennis"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Анна Калинская объявила о помолвке с аргентинским бизнесменом Феррари",
+        "url": "https://ria.ru/20261115/kalinskaya-2131719199.html"
+      },
+      {
+        "title": "Спорт Mail: Анна Калинская объявила о помолвке с Томасом Феррари: подробности",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTERQSkhzSlZnMWFoeDg3bkJNNUhrUkdoNjUtOGdSZmhvcFBzQnpnMTNMbWpLeG1xenNMVTBRdHBad25YbGptWjh0STVicV9RNWZPNF9XTGg?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Теннисистка Калинская объявила о помолвке",
+        "url": "https://www.sport-express.ru/tennis/wta/news/tennisistka-kalinskaya-obyavila-o-pomolvke-2475251/"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Russian Tennis Player Anna Kalinskaya Announces Engagement to Tomas Ferrari",
+      "subheadline": "The world number 26 shared the news on social media alongside Argentinian financier Tomas Ferrari.",
+      "body_markdown": "## A New Chapter for the WTA Star\n\nRussian tennis player Anna Kalinskaya announced her engagement to Argentinian businessman and financier Tomas Ferrari on Saturday, November 15, 2026. The 27-year-old athlete shared the personal news with her followers on Instagram, posting a joint photograph accompanied by an engagement ring emoji and the caption, \"I can't wait for our next chapter.\"\n\nMedia reports indicate that Kalinskaya and Ferrari previously dated in 2021 before parting ways. The couple renewed their relationship in 2025, following the conclusion of Kalinskaya's high-profile relationship with Italian tennis player and former world number one Jannik Sinner. In recent months, Ferrari has been a frequent presence at international tennis tournaments, regularly supporting Kalinskaya from the stadium stands and players' boxes during her tour matches.\n\n## Professional Standing and Circuit Context\n\nKalinskaya currently occupies the 26th position in the Women's Tennis Association (WTA) singles rankings. The engagement announcement arrives during the professional tennis off-season, a period when athletes pause their demanding tournament schedules to rest and prepare for the upcoming year's circuit calendar.\n\nThroughout her career on the international tour, Kalinskaya has maintained a consistent presence among the top tier of women's tennis, securing notable victories against elite opponents and navigating the rigorous travel demands of the global tennis circuit. The personal milestone comes as the Russian competitor looks ahead to her preparations for the next competitive season.",
+      "social_post": "Russian tennis player Anna Kalinskaya has announced her engagement to Argentinian financier Tomas Ferrari. The world number 26 shared the news on social media following their renewed relationship. What are your thoughts on this off-season announcement? Let us know below! #AnnaKalinskaya #WTA #TennisNews #SportsUpdates"
+    },
+    "zh": {
+      "headline": "俄罗斯网球名将安娜·卡林斯卡娅宣布与阿根廷金融家托马斯·法拉利订婚",
+      "subheadline": "这位世界排名第26位的选手通过社交媒体官宣了这一喜讯，携手阿根廷金融才俊开启人生新阶段。",
+      "body_markdown": "## WTA球星迎来人生新篇章\n\n当地时间2026年11月15日（周六），俄罗斯网球选手安娜·卡林斯卡娅（Anna Kalinskaya）在个人社交媒体上向广大球迷宣布了自己与阿根廷商人兼金融家托马斯·法拉利（Tomas Ferrari）订婚的喜讯。现年27岁的卡林斯卡娅在Instagram上晒出了两人的合影，配上了钻戒的表情符号，并深情写道：「等不及开启我们的下一篇章了。」\n\n据相关媒体报道，卡林斯卡娅与法拉利曾在2021年有过一段恋情，随后分道扬镳。在卡林斯卡娅与意大利网球名将、前世界第一扬尼克·辛纳（Jannik Sinner）的高调恋情画上句号后，两人于2025年旧情复燃。过去几个月里，法拉利频频现身国际网球赛场，在看台和球员包厢里默默支持着征战巡回赛的卡林斯卡娅。\n\n## 职业生涯与巡回赛现状\n\n目前，卡林斯卡娅在WTA女子单打世界排名中位列第26位。正值职业网球休赛期，球员们得以从密集的赛程中抽身，利用这段宝贵的时间休整，并为新一年的巡回赛蓄力。\n\n回顾国际赛场的征程，卡林斯卡娅始终稳居女子网坛顶尖行列。她曾多次击败顶尖高手，并从容应对全球网球巡回赛高强度的奔波考验。随着人生迈入新阶段，这位俄罗斯名将正全力备战即将到来的全新赛季。",
+      "social_post": "俄罗斯网球名将安娜·卡林斯卡娅官宣与阿根廷金融家托马斯·法拉利订婚！这位世界排名第26位的姑娘在休赛期迎来了感情的新归宿。大家怎么看这个浪漫的喜讯？快来评论区聊聊吧！ #安娜卡林斯卡娅 #WTA #网球新闻 #体坛速递"
+    },
+    "ru": {
+      "headline": "Российская теннисистка Анна Калинская объявила о помолвке с Томасом Феррари",
+      "subheadline": "26-я ракетка мира поделилась радостной новостью в соцсетях, опубликовав фото с аргентинским финансистом.",
+      "body_markdown": "## Новая глава в жизни звезды WTA\n\nВ субботу, 15 ноября 2026 года, российская теннисистка Анна Калинская объявила о своей помолвке с аргентинским бизнесменом и финансистом Томасом Феррари. 27-летняя спортсменка поделилась личной новостью с подписчиками в Instagram, выложив совместное фото, которое сопроводила эмодзи с обручальным кольцом и подписью: «С нетерпением жду нашей следующей главы».\n\nКак отмечают СМИ, Калинская и Феррари уже встречались в 2021 году, но тогда расстались. Пара возобновила отношения в 2025 году, после завершения громкого романа Анны с итальянским теннисистом и бывшей первой ракеткой мира Янником Синнером. В последние месяцы Феррари регулярно появлялся на международных теннисных турнирах, поддерживая Калинскую с трибун и из ложи игроков во время матчей.\n\n## Позиции в рейтинге и контекст межсезонья\n\nНа данный момент Калинская занимает 26-ю строчку в одиночном рейтинге Женской теннисной ассоциации (WTA). Объявление о помолвке прозвучало во время профессионального межсезонья — периода, когда атлеты берут паузу в изнурительном турнирном графике, чтобы отдохнуть и подготовиться к календарю следующего года.\n\nЗа время выступлений на международной арене Калинская прочно закрепилась в элите женского тенниса, одержав немало ярких побед над грозными соперницами и справляясь с тяжелейшим логистическим режимом мирового тура. Этот важный личный рубеж покорился россиянке в преддверии подготовки к новому соревновательному сезону.",
+      "social_post": "Российская теннисистка Анна Калинская объявила о помолвке с аргентинским финансистом Томасом Феррари. 26-я ракетка мира поделилась новостью в соцсетях после возобновления их отношений. Что думаете об этой новости в межсезонье? Пишите в комментариях! #АннаКалинская #WTA #НовостиТенниса #Спорт"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Anna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Anna_Kalinskaya_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Anna_Kalinskaya_(2025_DC_Open)_01_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Anna Kalinskaya playing in the first round of the 2025 Washington Open",
+        "width": 1200,
+        "height": 1625,
+        "year": 2025,
+        "subject": "Anna Kalinskaya"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2013_Australian_Open_-_Guillaume_Rufin.jpg/1280px-2013_Australian_Open_-_Guillaume_Rufin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2013_Australian_Open_-_Guillaume_Rufin.jpg",
+        "artist": "Brendan Dennis",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Guillaume Rufin serves to Tomas Berdych at Rod Laver Arena in the 2nd round of the 2013 Australian Open",
+        "width": 1200,
+        "height": 1800,
+        "year": 2013,
+        "subject": "Tennis"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tomas_Enge_2007.jpg/1280px-Tomas_Enge_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Tomas_Enge_2007.jpg",
+        "artist": "Christian Madden from Beverly, MA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Tomáš Enge in 2007.",
+        "width": 1200,
+        "height": 803,
+        "year": 2007,
+        "subject": "Tomáš Enge"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 236 words (minimum 250 for news). Thin content hurts AdSense approval"
+      }
+    ],
+    "auto_rejected": [
+      "too short (236 words, minimum 250)"
+    ]
+  },
+  {
+    "id": "2026-11-16-news-5fd807",
+    "slug": "liaoning-women-s-football-team-secures-2026-chinese-women-s-",
+    "date": "2026-11-16",
+    "created": "2026-11-16T03:15:33+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Chinese Women's Super League",
+      "Liaoning women's football team",
+      "Beijing Construction Engineering",
+      "women's football"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Chinese Women's Super League",
+      "Association football",
+      "Beijing"
+    ],
+    "match": {
+      "competition": "Chinese Women's Super League",
+      "date": "15 November 2026",
+      "home": "Liaoning",
+      "away": "Beijing Construction Engineering",
+      "home_score": 0,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Liaoning secure the 2026 Chinese Women's Super League title with a match to spare."
+    },
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "辽宁女足夺得2026赛季中国女超冠军",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80RkZETmFyNjV5bDljYldINURBemJvZmgyN0hXanVnblhpLUc3bmFEQWpnWnlPMlcxTFlTemg3UXFsam5icWxhdG9sa1p4U3haa0tLZHJfTWR1R3BrZEp4ZXFqcnk2SUtq?oc=5"
+      },
+      {
+        "title": "中国新闻网 体育: 辽宁女足夺得2026赛季中国女超冠军",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732491.shtml"
+      },
+      {
+        "title": "京报网: 辽宁女足获2026赛季女超冠军",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16U2tHMEVaNmViMHJ5bW1IYkUtVVpHUFFKM3MtX1RkNE9CSG9uNjVnbWRybjFyZmM4ODlwTGtnanBpZmtOZXlCdUZ1QUFobEdHTTJ5aFRjc205VVNMTWptVlh5bnZhRkpPaVhGWW5MN200QQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Liaoning Women's Football Team Secures 2026 Chinese Women's Super League Title",
+      "subheadline": "A crucial draw against Beijing allows Liaoning to claim their maiden top-flight league crown with a match to spare.",
+      "body_markdown": "On Saturday, 15 November 2026, the Liaoning women's football team clinched the 2026 Chinese Women's Super League championship. Playing against Beijing Construction Engineering, the Liaoning side secured the required result to unseat their rivals with a match to spare in the domestic calendar, ending the penultimate round of the season at the summit of the standings.\n\n## A Historic First Crown for Liaoning\n\nThe championship marks the first-ever Chinese Women's Super League title in the history of the Liaoning club. Beijing entered the fixture needing a victory to keep their championship hopes alive and claim the trophy for themselves, but the eventual draw allowed Liaoning to maintain an unassailable lead at the top of the table before the final round of matches.\n\nBeijing Construction Engineering were left to reflect on missed opportunities in the title race, having watched the Liaoning squad celebrate the trophy presentation on the penultimate matchday of the season after failing to secure the win they required.\n\n## League Implications and What Follows\n\nWith the title secured with a game remaining, Liaoning will finish their 2026 campaign at the top of the table as domestic champions. The final round of fixtures will serve to conclude the calendar, while Liaoning celebrates a breakthrough achievement in the history of the Chinese Women's Super League.",
+      "social_post": "Liaoning has won the 2026 Chinese Women's Super League title for the first time in club history after a decisive draw against Beijing on Saturday, 15 November 2026! What does this milestone mean for the future of Liaoning football? Join the discussion below! #ChineseWomensSuperLeague #Liaoning #WomensFootball #Football"
+    },
+    "zh": {
+      "headline": "辽宁女足提前一轮加冕2026赛季女超联赛冠军",
+      "subheadline": "在与北京队的比赛中顽强逼平对手，辽宁队以不败优势提前锁定队史首座中国女子足球超级联赛桂冠。",
+      "body_markdown": "2026年11月15日星期六，辽宁女子足球队在客场/主场（注：原文未指定主客场）顶住压力，成功加冕2026赛季中国女子足球超级联赛（女超）冠军。本轮面对北京建工队，辽宁姑娘们拿到了争冠所需的关键分数，在联赛还剩最后一轮的情况下提前登顶，彻底粉碎了对手的争冠希望。\n\n## 队史首冠，辽宁足球迎来历史性突破\n\n这座沉甸甸的奖杯是辽宁俱乐部历史上首个女超联赛冠军。赛前，北京队唯有取胜才能延续争冠悬念并将奖杯收入囊中；然而最终的平局让辽宁队在积分榜上保持了不可撼动的领先优势，提前一轮将联赛桂冠收入帐中。\n\n对于北京建工队而言，未能全取三分意味着他们只能接受与冠军失之交臂的苦涩。在倒数第二轮的终场哨响之后，他们只能眼睁睁地看着辽宁将士们在球场上尽情庆祝冠军的诞生。\n\n## 荣耀收官与未来展望\n\n随着冠军悬念尘埃落定，辽宁女足已经锁定了2026赛季联赛榜首的至高荣誉。接下来的最后一轮联赛将成为她们的夺冠庆典，而这座历史性的奖杯，必将开启辽宁女足乃至中国女超联赛全新的竞争格局。",
+      "social_post": "太燃了！2026年11月15日星期六，辽宁女足在与北京队的焦点战中战平对手，队史第一次捧起中国女子足球超级联赛冠军奖杯！提前一轮加冕，辽宁足球迎来了属于自己的高光时刻。大家觉得这座里程碑对辽宁女足的未来意味着什么？快来评论区聊聊！#女超联赛 #辽宁女足 #中国女足 #女子足球"
+    },
+    "ru": {
+      "headline": "Женская футбольная команда «Ляонин» впервые в истории выиграла чемпионат Китая",
+      "subheadline": "Ключевая ничья в матче против Пекина позволила «Ляонину» досрочно завоевать дебютный титул в высшем дивизионе за тур до конца.",
+      "body_markdown": "В субботу, 15 ноября 2026 года, женская футбольная команда «Ляонин» оформила чемпионство в Китайской женской суперлиге 2026 года. Сыграв вничью с «Пекин Строукшн Инжиниринг» [Beijing Construction Engineering], футболистки «Ляонина» добились нужного результата, который позволил им опередить соперниц и за тур до окончания национального первенства гарантировать себе первое место в турнирной таблице.\n\n## Исторический дебютный титул для «Ляонина»\n\nЭтот триумф стал первой в истории клуба победой в женской суперлиге Китая. «Пекин» подходил к этой встрече с пониманием того, что для сохранения шансов на золото и завоевания трофея им необходима только победа, однако итоговая ничья позволила «Ляонину» удержать недосягаемый отрыв на вершине таблицы перед заключительным туром.\n\nКоманде из Пекина теперь остается лишь сожалеть об упущенных возможностях в чемпионской гонке: не сумев добыть столь необходимую победу, футболистки столичного клуба были вынуждены наблюдать за празднованием соперниц в предпоследнем туре сезона.\n\n## Итоги турнира и что ждет команду дальше\n\nЗавоевав титул за матч до финиша, «Ляонин» завершит кампанию 2026 года на первой строчке в статусе чемпионок страны. Матчи заключительного тура станут лишь формальным завершением календаря, в то время как «Ляонин» празднует прорывное достижение в своей истории выступлений в высшем дивизионе китайского женского футбола.",
+      "social_post": "«Ляонин» впервые в истории клуба выиграл женскую суперлигу Китая 2026 года благодаря волевой ничьей с «Пекином» в субботу, 15 ноября 2026-го! Что этот исторический рубеж значит для будущего ляонинского футбола? Присоединяйтесь к обсуждению в комментариях! #ЖенскаяСуперлигаКитая #Ляонин #ЖенскийФутбол #Футбол"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/1280px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+        "artist": "Rick Dikeman",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "Association football (soccer) , Bloomington, Indiana. The offensive player (in red) is Chris Klein of the Indiana Hoosiers. He has sprinted past two defenders (in white) and is about to shoot the ball",
+        "width": 1200,
+        "height": 817,
+        "year": 1995,
+        "subject": "Association football"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/1280px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg",
+        "artist": "N509FZ",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "B-5906 was flying CA112 (from Hong Kong) at that time.",
+        "width": 1200,
+        "height": 800,
+        "year": 2021,
+        "subject": "Beijing"
+      },
+      {
+        "url": "../photos/card-2026-11-16-news-5fd807.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Liaoning 0 - 0 Beijing Construction Engineering · Chinese Women's Super League",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 1995. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'first-ever': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 218 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ],
+    "auto_rejected": [
+      "too short (218 words, minimum 250)"
+    ]
+  },
+  {
+    "id": "2026-11-16-news-a91290",
+    "slug": "ciryl-gane-defeats-josh-hokit-at-ufc-334-to-retain-heavyweig",
+    "date": "2026-11-16",
+    "created": "2026-11-16T03:09:48+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "UFC",
+      "Ciryl Gane",
+      "Josh Hokit",
+      "MMA",
+      "UFC 334",
+      "Heavyweight"
+    ],
+    "athletes": [
+      "Ciryl Gane",
+      "Josh Hokit"
+    ],
+    "image_subjects": [
+      "Ciryl Gane",
+      "Josh Hokit",
+      "UFC",
+      "Madison Square Garden"
+    ],
+    "match": null,
+    "facts_to_verify": [
+      "Official method of finish (KO/TKO, submission, or decision) and round for Gane vs. Hokit at UFC 334",
+      "Official attendance and venue within New York (e.g. Madison Square Garden or Barclays Center)"
+    ],
+    "sources": [
+      {
+        "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9ST0NFazQ3Q2o3S0QwUTBRQ0djVHlpVkRxWFlqaUhqcVBiWm5haWdWZWZqWXp3dldKR2pYSTBkbTAxRkluZWRCWHBpTVlCaWVRUjNqMFFHMExxMzVUWUxZTnlRbE01eDJteUZ4bEEzNnhOQktTOXIteHpXTUtWaVNISFZKeExLek1oRlRPcDdPZGs5M21Bdi1ZSTNzcFRIYTd5RDFmOEFaVmpwaVBmMm1pOA?oc=5"
+      },
+      {
+        "title": "Сириль Ган впервые защитил титул чемпиона UFC в тяжёлом весе",
+        "url": "https://www.championat.ru/"
+      },
+      {
+        "title": "Сириль Ган победил Джоша Хокита в Нью-Йорке и защитил пояс UFC в тяжёлом весе",
+        "url": "https://sportarena.kz/"
+      },
+      {
+        "title": "Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC в тяжелом весе",
+        "url": "https://matchtv.ru/"
+      },
+      {
+        "title": "https://www.championat.ru/: Сириль Ган впервые защитил титул чемпиона UFC в тяжёлом весе",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1lUWG1UbE80ZUNwdTQ3VGZCcnRzd29heUZkeVVhRGZBVEl0QzczLTh5QTEtaWNKdFozYldyUkhzX1E2YnFadUhqRVl5cHZpUlJWS1RLOFQ3MFpoZGpONi16ZUJRMjJTT2NBa0V1VGY0NktNazZUYUxBZ3ZvRTZxWUlvbXF2ZXBpZmRPN2JVOG1PWGo3R0RHb2F3QlVlaUIycllJU19RaGk5dUw2M1dIa2xnWGtvS3c?oc=5"
+      },
+      {
+        "title": "Sport.ru: Ган победил Хокита и защитил титул UFC в тяжёлом весе",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmFxbnp0NnZfWHRHb0Y4MzQ1Q01PY1RHb3YzeHJDRTJoUUpCeU1qVFBOQkR0V096M2ItcVhTc0g2MjNIWG55Vm9CeGdpZTVjN21XWEViWlBwdkJXTHBqYWwxR3RPODJNWkV0NzgtOGxjdXFfTXJYMzJiOUVXQkZEM1MyQVpEVkNkVUVvN015N3JWdTdTVnpNTGpaTzZQd1Vm?oc=5"
+      },
+      {
+        "title": "Sportarena.kz: Сириль Ган победил Джоша Хокита в Нью-Йорке и защитил пояс UFC в тяжёлом весе",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1k5Qzl0Y2RURVNEQnFyODJZZjZrQU5OZjhSZV9CZ0dGVnRzbHoxRUZIS05ieUh4cHQ2aUgtNThtWUtmR2ZfMy1yQXpSd3RVQkhpQ1M4bVB4UmVsTENnTFVCNHNRR20tYlZ6SGdFNUFjVFRMZVdHTVNrLUhwOEx5X0lYXzFoajVyV1l5d3Y1U2JpMHhTQnhxMUpQRXRtRkx3UGpCbHI1US03QzZBckVjTkpwalNjQlhESFUyNnJ0YkNIQlVn0gHKAUFVX3lxTFBiZk03VFV1OUt1cktlZ005T0pFdVo3Qi1WLXRHeVVvODdSTnRIeUVpQ01sQ0Q5a0VTUDExUUlETktMTEo0VXczaUtoWkk5blFJRDhKeEdYUEdIcWtnMDdNdVljd0o5MHR0LWk1YlFvSFFPSE13OWg1ckRJNkFoZHRURldLbW1UZG9YOTNiajRkZE40MHVzYXdXYzdMTlZaUUNUTHVlYTJrVzRZT29FeGtVa0VnOGU4N05md3g3dTFLaWE5RFdpTjV6cHc?oc=5"
+      },
+      {
+        "title": "Матч ТВ: Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC в тяжелом весе",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUgyQ0xrcEJBZXFWakxoRWRyYjdMc3oxQ1U3LVpzaC1rUFk3R2VITkh0aGdSNHlxdk01aFZGUG94ZFBaNzdsVEJabWRNaEVsSFN2OWxNYmFOVFBLR0pVOVJ5cXFWRzlIN1ZOUUxtR1JMQjJRQ1JrbUNCZW5QQmU2aHZYWGlSR0swQzVWX2k4LVVvZmVPcG9JZ2hYSVZvanR6N1E2Ri1KM1VKRDA1UjdvTm5KVHRmaXZjQ2NBN3pvMkdGLVA1VGxBSjFPdHNQN3VB?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC",
+        "url": "https://www.sport-express.ru/martial/mma/ufc/news/siril-gan-dzhosh-hokit-rezultat-boya-za-titul-chempiona-v-tyazhelom-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475052/"
+      },
+      {
+        "title": "sport-express.ru: Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkFYSnhWUEc0RldVZjh5bUpHLVJQMTk2cVZLdnU2RzVvTE1qcFpTcHN1eHg2Y09BT2xGS1dNeklBQkJzZFhkOVNlemhpaWZNcXJoekVxUXpfc1cxSlBVOVZVSG5PNHhhN2puYW5ZM1ZTLXNpcEh2Rks0M0RaN3MtTXRPRFVwMGhUMEtWQUQ5SU5NMEthUXNHWGp2TTFxUmxRTWtyeWg1eUNsTjFlR3hORlIwVUxSN0p0SkZBSnQzOUFLTGdsU2t3WU9meG03ZzJmcFRGQXVkWkhDVEZYQmRVVEc3QlhvMHlOWXJPSHNYT1A3a2NTcE0zWEJmcXZVbDZ4LVE?oc=5"
+      },
+      {
+        "title": "Meta MMA: Сирил Ган победил Джоша Хокита и защитил титул UFC в тяжелом весе",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzlkOExYN0wyMlltVHdSSWRCNVExQUVQNGFqdEJlWGRzZFJHMHVwRUdLMzhGeVBMampDNWt2OEZsS1d3Wm5HbmRteVZ4amJsemdvU3RCcG95cnJsd3YtUERadXd2cnZHZktQU3B6YkZpWUlyNjYtYlQ0U1BkbEU5dEpuVTROdS10akNVdEtmN1FGeXlNZzhTRWlVcGREZGxxTExjM2tCRFV1cEQxMmFEdg?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Ciryl Gane Defeats Josh Hokit at UFC 334 to Retain Heavyweight Title",
+      "subheadline": "The French champion secured his first title defense in New York against the former collegiate wrestling standout.",
+      "body_markdown": "Ciryl Gane completed the first successful defense of his UFC heavyweight championship on November 15, 2026, defeating American challenger Josh Hokit at UFC 334 in New York. The outcome was reported across sports outlets including Match TV, Sport-Express, and Championat, keeping the undisputed heavyweight belt in France.\n\n## Heavyweight Defense in New York\n\nThe bout was staged as part of the UFC's November schedule in New York, a fixture on the promotion's calendar dating back to UFC 205 at Madison Square Garden in November 2016. According to Sportarena.kz and ВФокусе Mail, the contest marked Gane's first official defense since securing the undisputed division crown.\n\nFacing Hokit, Gane turned back a challenger whose athletic foundation developed in collegiate wrestling. The victory extends Gane's tenure atop the division following several years competing in headline bouts across North America and Europe.\n\n## Gane's Path to Championship Retention\n\nGane, who trains at the MMA Factory in Paris under head coach Fernand Lopez, transitioned to mixed martial arts following an undefeated professional Muay Thai career. The French heavyweight entered the UFC in August 2019, earning three consecutive finishes to open his promotional run.\n\nAt UFC 265 in August 2021, Gane won the interim UFC heavyweight championship in Houston, Texas, by defeating Derrick Lewis via third-round technical knockout. Gane previously contested undisputed championship bouts against Francis Ngannou at UFC 270 in January 2022 and Jon Jones at UFC 285 in March 2023, later rebounding with a second-round stoppage of Serghei Spivac in Paris in September 2023.\n\n## Hokit's Background and Division Outlook\n\nHokit entered the championship clash at UFC 334 with a background from California State University, Fresno. Competing for the Fresno State Bulldogs, Hokit earned NCAA Division I All-American wrestling honors at 197 pounds in 2019 while also playing running back for the school's football team before focusing entirely on mixed martial arts.\n\nInitial dispatches from Match TV and Meta MMA confirmed Gane's victory but did not specify the round or method of finish. With the championship retained in New York, Gane solidifies his standing as champion as the UFC prepares its heavyweight schedule for 2027.",
+      "social_post": "Ciryl Gane has successfully retained his UFC heavyweight title, defeating Josh Hokit at UFC 334 in New York to record his first championship defense. The French striker turned back the former Fresno State wrestling standout to keep the belt at MMA Factory in Paris. Who should Gane face next in his second title defense? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "UFC 334：盖恩力克霍基特，成功卫冕重量级金腰带",
+      "subheadline": "法国冠军在纽约终结全美摔跤悍将的挑战，迎来个人职业生涯首次成功卫冕战。",
+      "body_markdown": "2026年11月15日，在纽约举行的UFC 334主赛中，西里尔·盖恩（Ciryl Gane）击败美国挑战者乔什·霍基特（Josh Hokit），职业生涯首次成功卫冕UFC重量级冠军头衔。包括Match TV、《体育快报》（Sport-Express）以及Championat在内的多家体育媒体均对赛果进行了报道，这座无可争议的重量级冠军金腰带将继续留在法国。\n\n## 纽约之夜的重量级卫冕战\n\n本场对决是UFC深秋纽约赛历的重要组成部分。这一传统最早可追溯至2016年11月在麦迪逊广场花园上演的历史性赛事UFC 205。据哈萨克斯坦媒体Sportarena.kz与ВФокусе Mail报道，这是盖恩自问鼎无可争议的重量级冠军头衔以来，进行的第一场正式卫冕战。\n\n面对霍基特，盖恩成功阻击了一位拥有深厚大学摔跤功底的强劲对手。在北美与欧洲多地领衔头条主赛征战数载之后，这场胜利进一步巩固了盖恩在重量级顶端的统治地位。\n\n## 盖恩的冠军与卫冕之路\n\n盖恩在巴黎MMA Factory拳馆受训，师从功勋主教练费尔南多·洛佩兹（Fernand Lopez）。在以全胜战绩结束职业泰拳生涯后，他转型进入综合格斗界。这位法国重量级巨星于2019年8月踏入八角笼，在加盟UFC之初便以一波三连终结迅速打响名号。\n\n2021年8月的UFC 265上，盖恩在德克萨斯州休斯敦于第三回合TKO击败“黑色野兽”德里克·刘易斯（Derrick Lewis），斩获UFC重量级临时冠军。此前，他曾在2022年1月的UFC 270和2023年3月的UFC 285中先后挑战弗朗西斯·纳干诺（Francis Ngannou）与乔恩·琼斯（Jon Jones）的无可争议冠军头衔，随后在2023年9月的巴黎主场第二回合终结谢尔盖·斯皮瓦克（Serghei Spivac），强势重返胜利轨道。\n\n## 霍基特的履历与量级展望\n\n挑战者霍基特带着加利福尼亚州立大学弗雷斯诺分校（Fresno State）的亮眼背景走上UFC 334的冠军舞台。在效力于弗雷斯诺州立斗牛犬队期间，霍基特曾于2019年荣获NCAA一级摔跤全美最佳选手（197磅级）殊荣；在全身心投入综合格斗之前，他还是校美式橄榄球队的跑卫。\n\nMatch TV与Meta MMA的先期报道确认了盖恩的胜利，但尚未详细披露具体的终结回合与终结方式。随着盖恩在纽约成功捍卫王座，这位法国名将在UFC紧锣密鼓规划2027年重量级战局之际，牢牢坐稳了统治者宝座。",
+      "social_post": "西里尔·盖恩在纽约UFC 334击败乔什·霍基特，成功完成个人首次UFC重量级冠军卫冕！法国顶尖打击手挡住了这位前NCAA摔跤悍将的强力冲击，将金腰带稳稳留在了巴黎MMA Factory。大家认为盖恩的下一场卫冕战该打谁？欢迎在评论区留下你的看法！#UFC334 #盖恩 #UFC重量级 #格斗"
+    },
+    "ru": {
+      "headline": "Сирил Ган победил Джоша Хокита на UFC 334 и сохранил чемпионский пояс в тяжелом весе",
+      "subheadline": "Французский чемпион провел первую защиту титула в Нью-Йорке, остановив бывшего борца первого дивизиона NCAA.",
+      "body_markdown": "15 ноября 2026 года Сирил Ган (Ciryl Gane) успешно провел первую защиту титула чемпиона UFC в тяжелом весе, одержав победу над американским претендентом Джошем Хокитом (Josh Hokit) на турнире UFC 334 в Нью-Йорке. Об исходе поединка сообщили ведущие спортивные издания, включая «Матч ТВ», «Спорт-Экспресс» и «Чемпионат»; пояс бесспорного чемпиона дивизиона остается во Франции.\n\n## Защита в тяжелом весе на арене Нью-Йорка\n\nЭтот поединок стал центральным событием традиционного ноябрьского турнира UFC в Нью-Йорке — серии, история которой берет начало с легендарного UFC 205 в «Мэдисон-сквер-гарден» в ноябре 2016 года. Как отмечают Sportarena.kz и «ВФокусе Mail», бой стал для Гана первой официальной защитой с момента завоевания бесспорного чемпионского пояса дивизиона.\n\nВ лице Хокита француз встретил оппонента, чья база была заложена в студенческой борьбе США. Победа позволила Гану укрепить свои позиции на самой вершине категории после долгих лет выступлений в главных боях вечера на аренах Северной Америки и Европы.\n\n## Путь Гана к сохранению чемпионского титула\n\nГан, тренирующийся в парижском зале MMA Factory под руководством Фернана Лопеса (Fernand Lopez), перешел в смешанные единоборства непобежденным профессионалом муай-тай. Французский тяж дебютировал в UFC в августе 2019 года, выдав на старте яркую серию из трех досрочных побед подряд.\n\nВ августе 2021 года на UFC 265 в Хьюстоне (штат Техас) Ган завоевал титул временного чемпиона UFC в тяжелом весе, победив Деррика Льюиса (Derrick Lewis) техническим нокаутом в третьем раунде. Ранее француз дважды дрался за бесспорный пояс — против Франсиса Нганну (Francis Ngannou) на UFC 270 в январе 2022 года и Джона Джонса (Jon Jones) на UFC 285 в марте 2023-го, после чего вернулся на победную тропу, остановив Сергея Спивака (Serghei Spivac) во втором раунде парижского турнира в сентябре 2023 года.\n\n## Бэкграунд Хокита и перспективы дивизиона\n\nХокит подошел к титульному бою на UFC 334 с внушительным резюме выступлений за Университет штата Калифорния во Фресно (Fresno State). Защищая цвета местной команды «Бульдогс», Хокит в 2019 году удостоился статуса All-American первого дивизиона NCAA по вольной борьбе в категории до 197 фунтов (около 89,4 кг), а также играл на позиции раннинбека за университетскую команду по американскому футболу, прежде чем полностью переключиться на ММА.\n\nПервые сообщения «Матч ТВ» и Meta MMA подтвердили викторию Гана, но не содержали точной информации о раунде и способе остановки боя. Сохранив пояс в Нью-Йорке, Ган закрепил за собой статус неоспоримого лидера тяжелого веса в преддверии формирования расписания промоушена на 2027 год.",
+      "social_post": "Сирил Ган победил Джоша Хокита на UFC 334 в Нью-Йорке и впервые защитил пояс чемпиона в тяжелом весе! Французский ударник справился с борцовской мощью экс-звезды NCAA, сохранив пояс в парижском MMA Factory. Кто должен стать следующим соперником Гана во второй защите титула? Делитесь мнением в комментариях! #UFC334 #СирилГан #UFC #ММА #ТяжелыйВес"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/UFC_Freedom_250_Press_Conference_%289747953%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_Freedom_250_Press_Conference_(9747953)_(cropped).jpg",
+        "artist": "U.S. Army photo by Sgt. 1st Class Brittany Primavera",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "UFC fighter Josh Hokit descends the steps of the Lincoln Memorial as The Armed Forces Full Honor Cordon stands in formation during the UFC Freedom 250 Press Conference in Washington, D.C., on June 12,",
+        "width": 1200,
+        "height": 1855,
+        "year": 2026,
+        "subject": "Josh Hokit"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/UFC_Freedom_250%2C_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship%2C_Sunday%2C_June_14%2C_2026%2C_in_the_Grand_Foyer_of_the_White_House_-_64%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg",
+        "artist": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "UFC Freedom 250, the mixed martial arts event produced by the Ultimate Fighting Championship, Sunday, June 14, 2026, in the Grand Foyer of the White House",
+        "width": 1200,
+        "height": 1687,
+        "year": 2026,
+        "subject": "Ciryl Gane"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/1280px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg",
+        "artist": "Ajay Suresh from New York, NY, USA",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Madison Square Garden, Midtown Manhattan, NYC",
+        "width": 1200,
+        "height": 675,
+        "year": 2019,
+        "subject": "Madison Square Garden"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Official method of finish (KO/TKO, submission, or decision) and round for Gane vs. Hokit at UFC 334"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Official attendance and venue within New York (e.g. Madison Square Garden or Barclays Center)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://www.championat.ru/, https://sportarena.kz/, https://matchtv.ru/"
+      }
+    ]
+  },
+  {
     "id": "2026-11-16-news-ccd145",
     "slug": "ciryl-gane-claims-victory-at-ufc-334-against-rob-hokit",
     "date": "2026-11-16",
