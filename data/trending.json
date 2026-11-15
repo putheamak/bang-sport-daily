@@ -1,128 +1,118 @@
 {
-  "updated": "2026-11-15T16:37:24+00:00",
+  "updated": "2026-11-15T22:05:52+00:00",
   "stories": [
     {
-      "key": "8306b4acd8",
-      "title": "Harrison shocks Nunes on UFC return to retain title",
-      "summary": "Kayla Harrison shocks returning great Amanda Nunes by submitting the former double champion to retain her bantamweight title at UFC 334 in New York.",
+      "key": "d5f0f4a1be",
+      "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes",
+      "summary": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes KTVN",
       "lang": "en",
       "sport": "combat",
-      "outlets": 14,
+      "outlets": 15,
       "growth": 0,
-      "heat": 31.07,
-      "published": "2026-11-15T08:02:48+00:00",
+      "heat": 33.56,
+      "published": "2026-11-15T21:15:13+00:00",
       "refs": [
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5742819x9n3o?at_medium=RSS&at_campaign=rss",
-          "title": "Harrison shocks Nunes on UFC return to retain title"
+          "source": "KTVN",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMk5QTHF6cXRieEI5aFhEMjg1LTV1NldXVEFjS0F0d1oxTHBsTnZKODhST0JwOWVVa0Vjcm1JWm1OSUhZdk16RmJhcHJjd19JWTFsc29UYndibHBaQlNDOVU0TUdObm82clhtb0JhRXc4aEgweDdhY3FJeWYwTm93cTEtcnFyazBxVGl2em1QcTB2VVA0bzdKRmFJdW1xdlJoTm9BLVdEc3dfNzM2S2NPT1B6QkNZVmRaZ0dzbGZuV1laMldEM3RGTTZhSnF2dXNKSTdib3R6UDlQYmhfWmFTQWE5LWd1bzZiZVp4cVY5LW42UnM?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
         },
         {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWt2X2V2cjZpZFlxa1BscGNQb1ppdG9UREllVnpMQ19WMlFXbFRvSzZJMlVmVmtxUlBhTFkzTW96WFJmZXl2OGdRSjV6c2otRy00aUh5U3J5akc2M19Pb0txQUJzSEFZT2RsOHBkblQ3UGxxSXQ2d0dQZEVubmhub1Z2ZmZJd3hSOXJ1V0VrX2F3X2R3bkpBd0syTE5tWGxlRnAwT0FB?oc=5",
-          "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG"
+          "source": "Oskaloosa Herald",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdVJjUml1LUZWSnZtZHpBV2JuRnA3bk9Ualk4MWVmeHRmWDhCZC1QZ05VaW92VllfQjFyTjNheGFDZjlsZzluUnlsZGE2RFlCZTloZUY4U1Utcmc0TGkxdjh1ZXJ3QUJZSzNZUGNBNUFpSEV3Rk4yVEg3a1BoS1RTa2F3Q0xtUnQ4MERJYmJYZGhKOEFxODVuSXQwUW1oRVZWc3d0Y0g2aXFkTUZfQVg3XzRiYlEtR3dBWU9PTWJxTEQ4SFdWbW80TE5XWXNWcEJkZEZYWWNmMW9RVkZHS3VnUjIzaTRCOUJPck8tZjNmQk9ZenY1Y0ZDQkFzZ2VIRXZKYzc0a0dWWWZhQnUybjYw?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "The Sun Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk9BeVFXV2hRdWZqLUdQUl9nb25lZGJBX1c0N1l0VENDSWFraVFDLTA2alZIaWNKLUJUbnZxaDBUd1BLWE1BVEJqRi15Y1FEVU5pVDM0SFlnTnVJS2V5VjJQWUFLaUJwRnFXbEtTTEJTcmdPdHpNZ1FHNG4wVm90LUhzbmRpVS1XUGZvNnN4VzBRcHVTRmJROC1iMUtRQWlmZ2FGbmhmYkFMOWpTcTN2RFFWcHdtVkwyVnNyTzFxS2RHVWp1SldCbVdvdjFmUzhQZERHMGVpTVhUdGM0eVRabDQxb1BQRzJHRDczUGpjTF9Fd2U4aUNtbEc3ek1VSWFsbnc?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "Bozeman Daily Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVmlIZXZnZDA0YllfbHhZQURYQWhNTmtFNUZiTWVBOWtsT0NNRTlKcUktQmlkd3NMWVd5Q25idXVFaGcxV2NjSVQ1Q1lId3V0OWZLTXVfWG5kYmE4ZVYzcXZOdERsQ2VOQ3RhUEdtNXlCNWRlM1F2QnFaaUl2YU5RU0pRNUR4enkxdU5nZFlyejhZRW1zenhVTFJNVm41aE4tRUVDODV4b2tiSWNqVjlfLWVERU9FbVV6WVFnS3FOaHNOeUNJRjBINjM2clJ5V2VWNXJqWnpfOC15SHFlVE9mR0lwbkFsYmxUcmRRRVNoS3loNUR3c3lZS2R0cDBxbzdQWWt1TDVDb2w4dw?oc=5",
+          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "POST Wrestling",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd21NNjM4cWR4dnE4VjVXbU5jOTJodUF5VE9sRW44MzhuejVtclEwMTQxWEVRTTFMcGhRRHNwaHR4ZTRkQXFtZm5rQ3NSZ3lPLVFHMnRWRzZHMDlrV0EwQ3FadEhsckROMnRXRXZXYWMxSzhzZzFzQjFmNFRhaGFFUzYzajU4bXBoR0FIaF94ODZDZ05lV3FxWWUwRklFa2pPdzVjNHBIOFFCR25jY0JJNFpB?oc=5",
+          "title": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes"
         },
         {
           "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0piRENDOVZULXk5TmlFbm5aZjlfWmRjRDBqYTVHem0wOVVhQm1xclBRNDRUZzdQaU1YQmV6dzVUaUUwUUZNdkF6VUlvTi1jSzFrLVp4Q2ozVG9kV3Z5SFdKYUdJN2xOZ1g2Q2RkdW4wOXJ3LTByMGdGb3FsOXNDUDQ3clBPVXNibEE?oc=5",
-          "title": "UFC 334 results: Kayla Harrison survives early surge, snatches late sub to retain title vs. Amanda Nunes"
-        },
-        {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNhdVZMLW1SZy15Qkt2WmYzeFkwUmVfb2ZGd25nVklTVDc3VWVPNXpubzRiUzNZQVhLN3p3c1VxNnJ2YjdYeUcwRS1ZRTM1LU1ST3Y2TFh4NjVxQ0FpWE9CaWRFVVBnQldqY0xKRE4yTTRRT05UaTVvNG9naW4yRWcwZld6NEIxeDhFdEdWdGJyd3BtZjBHd0Vvbng1MHNkR255OHAtb19tMnBTT2JF?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZlU4ZVIxSHRPbWNPN3JNTG9VdUJGUF9GRFR1THhEN2lyRXFGMlB2aW1uTm9HbVkxSjh0dkxQVlMyQnpVQTNFUkpVQ1lESWE4OFBtQ21YRWFpcG5FZ0g2UVBFRDFMX1lwVFc2bTNRSHdJclZUWDM3WmNRNF9LMFk?oc=5",
-          "title": "UFC 334: Kayla Harrison down for Amanda Nunes or Ronda Rousey next"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWtEVjVPLUVEdXNFOTNwamdxYzVab3R0cHc2Q3FRaXlnREc4Y01sV2IzZ0pRZlZGcU0xT29UOTFxMjJpYXdVR0JQUkR0STJ3c3VZYUZWY0NwT0VRdGtpYmFVTVppLUMzVFBoNzhPNzN3eWw3UlpXY2EwLXExRFI3R0hEQlpWd1RzU2xkWkpqVmg?oc=5",
-          "title": "UFC 334 live blog: Kayla Harrison vs. Amanda Nunes"
-        },
-        {
-          "source": "WSLS",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3lBUWQ5d1FWQ2xDVjZ2aDkyVmdDT0FkamVZNmZlbGdUSUE1OXdGUjJxb2ZJa3Zmd09hWF9NMjh4bl92SFpSNkJWOUhHYjhJZ3Y4YXBkVktPTkR1RkxpSWRHQ1RuSV9UMTlHcWZtTkt4bERGX1dvbDg5NFhWdGdDSTVoQWo3YS04MmxDSjFZeHlERFdUZjdZU2hwTDhJbFlKOHVPMElWN0htMi1rYm1temxUMHhYZnJmTzdJQ1NZc1hjdlI3aVl6MmVVVjBnOVpUb2hPMA?oc=5",
-          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
-        },
-        {
-          "source": "morning-times.com",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOXhMYk9MeUxqc3hzSjNLWHJiZEFkVzBVb0RBY3c2b0xkXzBrd01ZZmRmbHNfcTlQTXl5YWNsM2RwSVQxS0FWQkt1Y1pmMnN1YTNTcjk1V3V3S3hJQkJkSmEtVHZJX0dKMm91Qlg3Z2ZwZXNIN0MwbENNV1FMVkh0MVRoQ3hfa3A4Yk1sUFoxeFV4LWtaQzBZNnc0cV9zWVhuTnNQWlJ1ak5ROEhRbHFTZ09tZTFaTnMyY0RmSmRYX0JDUkRINmdKdFlHb1Q3VmFaMHVWd3M1U3ZqTjVad3VmZ1BLczhva1d1YXoyXzhWVnF3cmNaSW5idHdNQW0?oc=5",
-          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
-        }
-      ]
-    },
-    {
-      "key": "7ce00d92ec",
-      "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit",
-      "summary": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit Sportsnet.ca",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 10,
-      "growth": -3,
-      "heat": 23.42,
-      "published": "2026-11-15T14:24:00+00:00",
-      "refs": [
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
-          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
-        },
-        {
-          "source": "www.thenationalnews.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQlZ6N1JiVEFYSUZkU2xlMGZDMFltVHdhY0xTUy1PWUxUejl0RVZBVml6VGk3LTZxUEdILXVPWjkyanR5c0xtMTlVdjRzMXdEVHhiQWVrMWlQeHFTbFVBckRXQUdCTWh4RlVJNG5aemFuN1k5STY4WGU2Z1N1dXhxOXhZT3lwcW9PZml5UmpIUTJlbmJKZDRXOW9PWkVicHkxTllLX3o5VDVsdDN0SUh0blZHRUpuNWdKMFVQU0dubi1POUh5aDhXcEIwb1ppS3NKd0hiSHc4Q2RlckJFNnB4V2QzR080M1RDNS1oQmR5RQ?oc=5",
-          "title": "Ciryl Gane next fight: Three options for UFC heavyweight champion after victory over Josh Hokit"
-        },
-        {
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaE11Q3V1dFRCQ2htZjA2SXA1blJnU1RTNG0waC1yUks0UjNMbUlWSmozS3BFMTV0VEZFVkd4YnZQSG5kS3h2Y2dHVWVHeGI4UDNjUTdURkg4QmpaSFBCU25mMm1rMjdES1BQU3pQNzVTdDZYc2dCOWhIYmVWb0I3SjVtM3R3VXJOSHdUaFlkN3ZJN0FiMGVuR25ZcXltMjlmNTd3bW4zOC14QQ?oc=5",
-          "title": "Ciryl Gane sweeps Josh Hokit on the scorecards to retain heavyweight title at UFC 334 at MSG"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/521233/ufc-334-live-blog-ciryl-gane-vs-josh-hokit",
-          "title": "UFC 334 live blog: Ciryl Gane vs. Josh Hokit"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmZ5N2dMUERyUThFVUU1UkllX255dXlPcHg5S3pWWXFfNGgtVzNMaGVYOHRYZlF3OW85Q1lSeVFDU0M2RFlvZzhtV0hTQTJoQTlPSkRvaXlfMVprTFJJSU4tOTBqbVp3ZzNET1JiTEtESHRmU0VXR0t6Q004U3c1QjRFV210X0VNSk9PVTRxWlNVQWw5WXNTalBDeXozLWp6RVZ3cjB3?oc=5",
-          "title": "Ciryl Gane survives early onslaught, edges Josh Hokit in UFC 334 main event"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGYtaGR6RTFsNW9LYTllTTRBUllORzh6ajc2SV9EeDBEb3EyS1c0Mk1qS281UWlHS2JRTzN1enJ0MEU0a3V0SHV1XzZyNy1jV0MtZ2lZcjVhYnJkVGZhcFdRWDJ2WXpfdzRiemZydXc3X01yMVR5Z2xrc2JrM1BZSmNfNHFPT1U3cjFUbUlwb05pY25PVkJTRVY1TnVzUHRkdmo4?oc=5",
-          "title": "UFC 334: How Ciryl Gane overcame Josh Hokit's pressure"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lb0w2Q1ZLcm1tdGJBazZ0c2Q1cDZJRjlGcnIzeHR6Y0lNeW8xS0RYaDc1amFaQ3pzSW1oWm1mRWkyVExZU3hXNkl4QjdqTXlRQV82dUk3STBoemZZTUQwbi1VV1N5eXNxeTlOSWpBaEdTUUhzZ2tKN0hKOEhMVU0?oc=5",
-          "title": "Josh Hokit Wins Over Dana White After UFC 334 War, Immediately Demands Ciryl Gane Rematch"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVB3SnNWX0loZkdaaGtNc1duQm9DX1dGcWVrWEpFQzhjdy1xYzdiOTJxbGk4S2RZR0pvRXY0VlNIMm9qdi13d1FPZktFR0pRdXlpbEUxc3hfNEx4Q2JPeTU3ZlVoVlRzTkpVMVc4dWZQZ3h3Ny1UVjN6Q1ZELUZITkFQWU9zY21tdFEwVDNXNGJxV0R1ekN1WF9ROFdPNzE5bEJnYWJsckY1Zw?oc=5",
+          "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday"
         },
         {
           "source": "UFC.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONk5iQzRWRmdMRGM1OWc2bmZwWjFLWHJpZ3JzS1JZOGlSOGRCMmFNWDc4Y3B3WHA0emtJMU9XZmlXaG9GNl8zOGJTZTE5algxelk2Yk5rak9YUWNNSlB3ZFFMZ0xmUTVERW55TWJkT21xY2otZi1TOHJHTlhZSGtKTWhQZzRLSWs4V1IyVjBZYUZLVFV0VUE?oc=5",
           "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFI4ekJtOUNFY3RCaXNZdFdQalNjM2FCZGwxUFNReGxuaURIMUI0SkNUdmVWUHJpaUpHZFVfdFRYS3VWSFZKelNxdU5XUmY3Z0FZV0lMNHFiNmgzQXJQRXlVdUNwRVQ0d0JwMXJMalBmdnZxTHdRTjJaaHJZd1dfdndILW1RNnFY?oc=5",
+          "title": "UFC 334 live blog: Ciryl Gane vs. Josh Hokit"
         }
       ]
     },
     {
-      "key": "e9e82d1c6d",
-      "title": "Japan stun Brazil 3-2 in Singapore",
-      "summary": "Japan stun Brazil 3-2 in Singapore NST Online",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 6,
-      "growth": -1,
-      "heat": 13.94,
-      "published": "2026-11-14T22:22:15+00:00",
+      "key": "b4b433c524",
+      "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC",
+      "summary": "Американка Кайла Харрисон победила бразильянку Аманду Нуньес и впервые защитила титул чемпионки UFC в легчайшем весе. Поединок прошел на турнире UFC 334 в Нью-Йорке.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 15.64,
+      "published": "2026-11-15T05:18:00+00:00",
       "refs": [
         {
-          "source": "NST Online",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTB6QVZjUkMzcDV3QlZkNlRZUlFIOGJUVDN0STA0TlRmdVRiWlVKWERJbUpjZV9JWUN1TlRGcmlwenBiSU9ZQllIamg2UzlmYnhpQ2otM3RRdEJteGl5MHoydjd4S0lEWVZqaldUdEFlNmlBTUNBQ1R4a2hxc29tdTJRRURyQm5EX24ybkhTMNIBlAFBVV95cUxPQkw3T1FGUWtNdXhxREprYUpCY3g5N2FLaHhUVEVZY1F0bi1EM2JfbDhDblVIcDJDS1dmX1ZVTnFiSlZHWFcwSnFsRVQwQXhQVmRoSE16TG1CZ2gtOEVoVUUwbTlKTER1MlZRZWhRUFhDYWwxLTRpU01saTBVd3ZXY3dLMmNDY2NJRjdfNTUyclJaUjdu?oc=5",
-          "title": "Japan stun Brazil 3-2 in Singapore"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
+          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
         },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
+          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9NeUo2aG9YdVJLVlE5N2p6RmowV2c0SkUxSThqeFU1S1JXeVo5LVVFcFdBcW1DcERWRmRjVkNpT01IVDJseHAyQWRPQ0tZQUk3a2JCVzVxOEJPakdMcUN2Q0dvTGVuWU43WjRvbUhqLV82dmFNVzFfSkdqMVZtaFM5aEJqUkotdEhhQ213SGY5VFVkaVZRaU9LaHVYbnItZjlaN0NfMTNvaDJjZmZRVjNjWFc4U1VESzlqbjFxaUVKNVdOdG9n?oc=5",
+          "title": "Кайла Харрисон впервые защитила титул чемпионки UFC"
+        },
+        {
+          "source": "vRINGe.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoU3J5VzRXMGx5eW9OVWVhTmxyR3BHS0UtTURIOXFkVU9YdVZ2M1JkbjliOUpRY1g2TGwyaWRpTDdkcENYX3puRG93Q3hXUTBtVDVpRVlmZDllTnpSMWpPQnlHeERyMkExX2o5b3k5T1Q3cEFwc1d2bkxPQVI?oc=5",
+          "title": "Харрисон победила Нуньес удушением: итоги боя UFC 334"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNampWdlQzWWtRdGJMeUpZUWJ4Z0pKZVBic2MyVF9RelUzSFFJZWVSWUNST3ByNTNpSUFfYjlBY1RFZnJYWkZIQUtrbE9GMEF0emtMWmNvYTdTSVhZM1hXM1VDQTctbGJmTURqTGU0M3kzUE5reWR5aW9NSF9QZVhGb2s5ZUtUTE5PYWFRZ2l1R2lHREp1OWpMTjYxM2lkNUNsTUo5MQ?oc=5",
+          "title": "Шевченко поздравила Харрисон с победой над Нуньес на UFC 334"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmZHbm1Vbnk5LVNrY3pYeG1nWUpLR25TamFESUZVa25RZG52NEpmWi1tSFFzSXFFXzlfTHRuQ3E0T05QQVM2a3RUbHo2dVI4UTFUM2VVU3BUT3E5aWs5ODlTc1JlcC0ycUxMM2hweGo4X204MnotcjdyN3pEUUg2T29qSXJBTHFNdFNtT3ozcklYQURuenYxNkFPSDUxdFFKT0ZXZlZab3VtNmFPbkZQUkN4NmtSUERnSFE?oc=5",
+          "title": "Кайла Харрисон и Аманда Нуньес могут провести реванш в более тяжелой весовой категории"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0h1alFnZ1ItaHktVzJHbkJ6RzZ1X1lvZkdwYmhXWm1jUE96enp1aDJLbk5YNndQTkhMYTdOa3E2cjB1NndOUVZwWkVILUh5NE1LZGtUcFFrYjZyTHNNa2Riek5XbUxNNXdWbGRIcHIyOV9nXzB2bEgwVXpKdEpMcGphSEJkcFJ4bzcyeHdYWEV3cXhseHFNZF9rZkhWeTA?oc=5",
+          "title": "Харрисон задушила Нуньес и сохранила титул UFC в легчайшем весе"
+        }
+      ]
+    },
+    {
+      "key": "5cda5c165a",
+      "title": "Japan earn small measure of World Cup revenge with Brazil defeat in Singapore",
+      "summary": "Japan earn small measure of World Cup revenge with Brazil defeat in Singapore South China Morning Post",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 14.9,
+      "published": "2026-11-14T14:29:28+00:00",
+      "refs": [
         {
           "source": "South China Morning Post",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONU12dVZiX1ZkV21sb2pQOEd5NklQX2dtNWcwVzVLTmtqc2dydUtHa3lBTzEyek1ydklUelZBRk92VUVpeVYwb0t5RUlrcjdNMllERDVHWVZhUU9obmdkSjV4ckRMOVFiX1k1bEgxTkh3OXpNZGZIbldobmw0Y2FTdURid2VobW41bmJfZmtwZ2J6ZmJUUll4RkJ4NEZUZGpkdWZQOV8wcHRfbWVLYTh2N0xaWTkybUt6TWfSAboBQVVfeXFMTzE5SVdjZTlGZHlmNlRNOFFKZFA1S2p6ZWJpalZBcDdEWjNTZjZnVWNqYWJGQ1dsTGUxUHJKTFRQQTVqaXFyZWY1dF84ZjB4clVwREF3UFlYU20zY2F4VVNwTzJxZEZOQ0R4dXdid0NEMzBUanFabVNmMEVjZ1JJVERpUlNtbWExTlA4WmxhVTRNLWFaaUx4TVFXeDdvOFlfY04tQmtPVFdXa1Z3eExqQXpVaHM5ZmRBem13?oc=5",
@@ -134,14 +124,24 @@
           "title": "Japan avenge World Cup loss with 3-2 win over Brazil amid late red-card drama in Singapore"
         },
         {
-          "source": "The Straits Times",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2g5WV9PdklqV0pEQnRLUHM1S29mcTZqY0pCOW9YeVcycnVFM1hGbnZubWxUV0VGRW5MS2xWQ2Z5ZkpVLXVlZGZYdGc1NXlIYUx3VGFRTFpVVXVhMTFZOHU2czhMblduVURJRWVCWVpyS0hwZ2pMZEtaWGJibnhfMjNXVW03RVBhN0tlUkJxX0VkU25Xa2xhdjlqX2JDc3ZqUXNTaU5UMDkwMUtZVTNFZUw3TjdiaWN2d2ZPYmZmRXhNZ2RBVEE?oc=5",
-          "title": "S’pore ref Jansen Foo comes under fire from Ancelotti, Brazil after 3-2 loss to Japan"
+          "source": "Forza Football",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ09ZQWxROER0bXZzYWpqUXpIOWJBMkR0QXAxTFNOS0dBRE80YkxMWmxkZE1pb1A3MU5GcjlYN1NqTkVCSlhhb0RCNjdTZDk0OGJzWUpSbHhMSng4SzB6b3llWGF2THRPem5PR2l0S1lPdGFQM2VraWpJOFZLMjhBT051eEJzX1IwcUpUOGstb21vMlZNWGc?oc=5",
+          "title": "Brazil return to training ahead of Singapore clash, CBF"
         },
         {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkMzMTBPSWhDcEp1VXgxVm5oSWsxd1RuV0dkU2VOSFIxYUNsSy16R3JBNGNGVDZjMW5aZ1ZGZ2F1anl1LTJsZ3NlMjhkNndjTXR5VFhZYlBKa3c5YnZPWW9EV1RtaF8tU2pudTctc2tUUFZiRV8tTGpIdC1RZXU1TUE2eU45MkdpVUtZTUQzTndsNjdLT3JJaVRWNzRYclJQSlotN091Z2RKU2NnWlE?oc=5",
-          "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat"
+          "source": "Khmer Times",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTZjWFBTRE1od1h0OG50VnR6R0ozLTJ1MXMtOW9wYUExeDljQzBKNmxkZnptYlhPTzVFMThXU2tUX0hpTmZpcEwtdUNNREdNd3Bma2FnZWRRU1ozc09iak9wMzFhN1NHX0hoMTMxNkpicUNEUnRrTlozYk5fQjBOc2NqcUNBMmV6NXo3QkpPTnJIYnV3ODdabA?oc=5",
+          "title": "Japan edge Brazil 3-2 in thrilling Singapore friendly"
+        },
+        {
+          "source": "NST Online",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTB6QVZjUkMzcDV3QlZkNlRZUlFIOGJUVDN0STA0TlRmdVRiWlVKWERJbUpjZV9JWUN1TlRGcmlwenBiSU9ZQllIamg2UzlmYnhpQ2otM3RRdEJteGl5MHoydjd4S0lEWVZqaldUdEFlNmlBTUNBQ1R4a2hxc29tdTJRRURyQm5EX24ybkhTMNIBlAFBVV95cUxPQkw3T1FGUWtNdXhxREprYUpCY3g5N2FLaHhUVEVZY1F0bi1EM2JfbDhDblVIcDJDS1dmX1ZVTnFiSlZHWFcwSnFsRVQwQXhQVmRoSE16TG1CZ2gtOEVoVUUwbTlKTER1MlZRZWhRUFhDYWwxLTRpU01saTBVd3ZXY3dLMmNDY2NJRjdfNTUyclJaUjdu?oc=5",
+          "title": "Japan stun Brazil 3-2 in Singapore"
+        },
+        {
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2g5WV9PdklqV0pEQnRLUHM1S29mcTZqY0pCOW9YeVcycnVFM1hGbnZubWxUV0VGRW5MS2xWQ2Z5ZkpVLXVlZGZYdGc1NXlIYUx3VGFRTFpVVXVhMTFZOHU2czhMblduVURJRWVCWVpyS0hwZ2pMZEtaWGJibnhfMjNXVW03RVBhN0tlUkJxX0VkU25Xa2xhdjlqX2JDc3ZqUXNTaU5UMDkwMUtZVTNFZUw3TjdiaWN2d2ZPYmZmRXhNZ2RBVEE?oc=5",
+          "title": "S’pore ref Jansen Foo comes under fire from Ancelotti, Brazil after Japan friendly"
         },
         {
           "source": "Goal.com",
@@ -151,307 +151,73 @@
       ]
     },
     {
-      "key": "7d9f7dfe10",
-      "title": "«Выиграть было очень важно для меня». Лазарев — о победе на этапе Гран-при России в Омске",
-      "summary": "Чемпион двух юниорских этапов Гран-при ISU фигурист Лев Лазарев высказался о победе на взрослом этапе Гран-при России в Омске.",
+      "key": "92604fead7",
+      "title": "Андреева выиграла дебютный итоговый турнир WTA",
+      "summary": "",
       "lang": "ru",
-      "sport": "olympic",
+      "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.33,
-      "published": "2026-11-15T16:24:25+00:00",
+      "heat": 11.65,
+      "published": "2026-11-15T22:04:48+00:00",
       "refs": [
         {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261116/andreeva-2131741050.html",
+          "title": "Андреева выиграла дебютный итоговый турнир WTA"
+        },
+        {
           "source": "Championat",
-          "link": "https://www.championat.com/figureskating/news-6700682-vyigrat-bylo-ochen-vazhno-dlya-menya-lazarev-o-pobede-na-etape-gran-pri-rossii-v-omske.html",
-          "title": "«Выиграть было очень важно для меня». Лазарев — о победе на этапе Гран-при России в Омске"
+          "link": "https://www.championat.com/tennis/news-6701032-mirra-andreeva-vyigrala-itogovyj-turnir-wta-2026-odolev-v-finale-elinu-svitolinu.html",
+          "title": "Мирра Андреева выиграла Итоговый турнир WTA — 2026, одолев в финале Элину Свитолину"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/gran-pri-rossii-po-figurnomu-kataniyu-v-omske-15-noyabrya-2026-rezultaty-muzhchin-pobeda-lazareva-2475184/",
-          "title": "Лазарев выиграл этап Гран-при России в Омске"
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-elina-svitolina-rezultat-finala-itogovogo-turnira-wta-15-noyabrya-2026-2475320/",
+          "title": "Андреева победила Свитолину в двух сетах и впервые в карьере выиграла Итоговый турнир WTA"
         },
         {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/lazarev-2131689251.html",
-          "title": "Лазарев стал победителем этапа Гран-при России в Омске"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPam1SMFBQLXVaQVRYZmZ2b0FrMzV4ckJIdEhHeWRmMGowOVVnYk43VTBtbEZMNXdDVUdkWHBCMFlDZkVLdnNCQWk5WkdRd2JkMFRNLThoUGZrVE5Ia29QUGhJMEZIZm9iRm9rRGliV0gzeGdnNGl3d3UtX2lmMGNjS2I0ekM0VjlBRnB4VGt1VTJKMy1fQUVhS3l0dVgtWWdmVzN0N3U2eFQtdHR6R0htLWJIMHpCR21qM2RPcW45RWZtaEd1SzlwdWMxZy1qbHVuSUZz?oc=5",
-          "title": "Фигурист Лазарев выиграл Гран‑при России в Омске, Кондратюк — второй"
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/tennis/1117437326-itogovyj-turnir-wta-2026-rezultaty-finala.html",
+          "title": "Итоговый турнир WTA. Финал. Андреева обыграла Свитолину"
         }
       ]
     },
     {
-      "key": "29cf62178e",
-      "title": "Хет-трик Бэйли помог \"Барысу\" обыграть \"Металлург\"",
-      "summary": "",
+      "key": "3f61893ae7",
+      "title": "Шелтон обыграл Фиса в матче Итогового турнира ATP",
+      "summary": "Американский теннисист Бен Шелтон победил француза Артюра Фиса в матче групповой стадии Итогового турнира ATP в Турине (Италия) — 6:2, 3:6, 6:3.",
       "lang": "ru",
-      "sport": "hockey",
+      "sport": "tennis",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.72,
-      "published": "2026-11-15T14:35:56+00:00",
+      "heat": 11.33,
+      "published": "2026-11-15T21:55:00+00:00",
       "refs": [
         {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/kkhl-2131706120.html",
-          "title": "Хет-трик Бэйли помог \"Барысу\" обыграть \"Металлург\""
-        },
-        {
-          "source": "Allhockey.ru",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVFyYmlmXzFNSmx2ODhpcUs0aG9YM0dOaU5tUnFJTG5LaEVXd2ZRQVlxTE9JcjRfb3FfT0MtWHlKUHZzajNlanlsd0VTanZhYUoyUWtpRjZoZWFCYi1fdjFzRzFia0F3TlpBOGZkX01mbHZ5ektEQnA2aUhLTlZEQzJaamMzYVZaQk9EUF9SNENNSFJMV2VvdDd4bmhRdzdocHVmdtIBowFBVV95cUxPVTJXMS16Uk9zS29hcW1yNUtmcE9MMWpYVVMyVlV0b3NxcmJlRFlHTy0zRGNqa04tcEk1VVBWanRwRUJtUmdwYlJMWG5FU0tjaV83bm14NTktU1Izbk5qVXVuZUU3R1RIbVdXbU5Bb1AwNmc1QkRqektka1E2VUdzSm4zbC1YMkdvNGtxQmFOakMtNkFwMWU3VE53VXJjN0ZOb2pj?oc=5",
-          "title": "\"Барыс\" одержал победу над \"Металлургом\" благодаря хет-трику Бэйли"
-        },
-        {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-15-noyabrya-2026-sibir-dinamo-barys-metallurg-ska-traktor-2475047/",
-          "title": "КХЛ, результаты и видео голов 15 ноября: СКА уступил «Трактору», «Барыс» победил «Металлург»"
+          "link": "https://www.sport-express.ru/tennis/atp/news/ben-shelton-artyur-fis-schet-i-rezultat-matcha-itogovogo-turnira-atp-15-noyabrya-2026-2475319/",
+          "title": "Шелтон обыграл Фиса в матче Итогового турнира ATP"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6701008-ben-shelton-artyur-fis-rezultat-matcha-15-noyabrya-2026-schyot-2-1-gruppovoj-etap-itogovogo-turnira-atp.html",
+          "title": "Бен Шелтон в трёх сетах обыграл Артюра Фиса на старте Итогового турнира ATP — 2026"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MT1dXbFFEd3lkVnMycW1IcDdGT1VsMXNGRFJ6a3ZJQmZVUzdBUGV6R1RkeTVtVG56WUE1OVNQbDBURmpheDhNTnM1a3JiSV9TWnVPUg?oc=5",
+          "title": "Зверев обыграл Ходара на старте Итогового турнира ATP"
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117437214-fonbet-chempionat-kxl-sibir-primet-dinamo-moskva-metallurg-v-gostyax-u.html",
-          "title": "Фонбет Чемпионат КХЛ. «Сибирь» уступила «Динамо» Москва, «Металлург» проиграл «Барысу», СКА встречается с «Трактором», «Торпедо» одолело «Динамо» Минск"
+          "link": "https://www.sports.ru/tennis/1117437362-itogovyj-turnir-atp-2026-rezultaty-gruppovogo-etapa.html",
+          "title": "Итоговый турнир ATP. Групповой этап. 1-й тур. Шелтон обыграл Фиса, Зверев победил Ходара"
         }
       ]
     }
   ],
   "known": {
-    "e0541de97b": {
-      "key": "e0541de97b",
-      "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
-      "summary": "Российская теннисистка Мирра Андреева встретится с американкой Джессикой Пегулой в полуфинале Итогового турнира WTA в Индиан-Уэллсе (США).",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.28,
-      "published": "2026-11-13T05:10:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
-          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/wta-2131258060.html",
-          "title": "Пегула сыграет с Андреевой в полуфинале итогового турнира WTA"
-        },
-        {
-          "source": "Новости спорта",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdzRnTzV1elh4NF9YeGtjOV90NTUxOTNOM1hQaldTX04zWENQLXhpTVZnUDRoZ19kZVh1V1piWTc1ajZ4NVpPMWFUS1Y4MS1FUEU4cWdNNTg4SGpuVzFJX3Z1UkdheEpjYW5QSnVvSURfMXNmVVNTcnV5UmUySzZSem1XMHphSmV3TmdUa01RcVpHal9sSmlrVTZnODFhaTl6dGFjdERYaGoyMm9RdWltUDlfLWNjSmFkMkp2eDRuaElfYWR1OVo3cGRZY20wbjFYdGtNWTZTNklTaW43QTU2SEJB?oc=5",
-          "title": "Пегула победила Носкову и сыграет с Андреевой в полуфинале Итогового турнира WTA"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVRncHQwT2xlWDd3RjY5UVJRQl9TZVZEdnJEdC1iSnU5dk5NSW84bUdabFA4b2dWZnJkWUdMY0ZnU3pRRlpKOEZaNTV2R3U2cW54ZUVJWGh5VDdFWXptVmVsOGRENlZxMHRubHl2aUYxOFFfeDhPWVhkSEhVWV9lQVJrVUo2VjZGTDdGR2dsSFEtTDZONFhvX21YSFhITkl1NkFmdk9xSVlwOXdBbzlNWWRJYnBWbDNwdmxUa2N2NDFvNkdBQ3lFU2NJVm5IcTVHLVlV?oc=5",
-          "title": "Мирра Андреева обратилась к болельщикам после выхода в полуфинал Итогового турнира WTA"
-        }
-      ]
-    },
-    "8c9914a762": {
-      "key": "8c9914a762",
-      "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру",
-      "summary": "У нападающего «Вашингтона» Александра Овечкина — вторая по продолжительности безголевая серия за всю карьеру в НХЛ, дубль форварда Франческо Эспозито помог сборной Италии обыграть Францию в Лиге наций, Федерация бокса России объявила об отказе от участия сборной в первенстве Европы.",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.64,
-      "published": "2026-11-13T05:30:04+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6697282-13-noyabrya-glavnye-novosti-sporta-futbol-hokkej-nhl-khl-rezultaty-basketbol-nba-boks-tennis-itogovyj-turnir-wta.html",
-          "title": "Вторая худшая серия Овечкина за всю карьеру в НХЛ, Италия победила Францию. Главное к утру"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117435188-kambyagi-pro-31-s-francziej-etot-match-dolzhen-stat-otpravnoj-tochkoj-.html",
-          "title": "Камбьяги про 3:1 с Францией: «Этот матч должен стать отправной точкой для Италии. Мы никогда не сдаемся, нужно продолжать в том же духе. Я рад, что смог внести свой вклад»"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-27-raspisanie-rezultaty-vseh-matchey-5-tura-italiya-franciya-angliya-horvatiya-portugaliya-daniya-12-14-noyabrya-2473925/",
-          "title": "Лига наций, расписание и результаты 5-го тура: Италия обыграла Францию, Англия победила Хорватию, Португалия — Дания. Все матчи 12-14 ноября"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/italiya-2131242683.html",
-          "title": "Италия обыграла Францию и возглавила таблицу группы в Лиге наций"
-        }
-      ]
-    },
-    "eec2c347e4": {
-      "key": "eec2c347e4",
-      "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
-      "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
-      "lang": "en",
-      "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 7.87,
-      "published": "2026-11-13T01:23:06+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
-          "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
-          "title": "Pegula saves match point to reach WTA Finals semi-finals as Gauff exits"
-        },
-        {
-          "source": "Athlon Sports",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa09jQWFKZ0xfVWFqY3FHWnpIVlBFT2dJcFZfMkRiUDQ5U25DeWFvMFZxU1pUVzUtX09MTUFMeFlFU3BWWHdNdXlMUWtweUZuLTd0SENmcktuRjRxWXNYalFiOE9OM1ZDVHd5eDY1Q2NNc09vWndBYkQxZzJYa3UtY2VRbFNGMWZHWVByTkRLUnp5SXlPUHVLY2FHUFB1TU0?oc=5",
-          "title": "What Happens If Jessica Pegula Wins or Loses Against Linda Noskova? WTA Finals Semifinal Qualification Explained"
-        }
-      ]
-    },
-    "a89548bc01": {
-      "key": "a89548bc01",
-      "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»",
-      "summary": "Продолжается регулярный чемпионат НХЛ. « Сиэтл » потерпел поражение от « Каролины » (1:4) в Хельсинки, « Нью-Джерси » обыграл « Вашингтон » (5:2), « Коламбус » уступил « Тампе » (1:3), « Миннесота » победил « Торонто » (5:2) в гостях, «Виннипег» разгромил «Даллас» (8:3). НХЛ ПРИМЕЧАНИЕ : время начала матчей – московское Таблица НХЛ Статистика НХЛ",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.88,
-      "published": "2026-11-13T06:00:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117434409-nxl-sietl-i-karolina-sygrayut-vashington-v-gostyax-u-nyu-dzhersi.html",
-          "title": "НХЛ. «Виннипег» забросил 8 шайб «Далласу», «Вашингтон» пропустил 5 голов от «Нью-Джерси», «Коламбус» уступил «Тампе», «Торонто» проиграл «Миннесоте»"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-goda-2474281/",
-          "title": "«Вашингтон» проиграл «Нью-Джерси», у Овечкина «-1»"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/khokkey-2131254044.html",
-          "title": "Три ассиста Капризова и гол Юрова принесли \"Миннесоте\" победу над \"Торонто\""
-        }
-      ]
-    },
-    "8254ff27f1": {
-      "key": "8254ff27f1",
-      "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»",
-      "summary": "Бывший нападающий сборной России Максим Сушинский в разговоре с «СЭ» отреагировал на информацию о решении правительства Канады не допускать сборную России на молодежный чемпионат мира 2027 года. Турнир пройдет в Эдмонтоне и Ред-Дире (провинция Альберта, Канада).",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.0,
-      "published": "2026-11-13T08:35:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/world-u20/news/maksim-sushinskiy-zhestko-otreagiroval-na-otkaz-kanady-dopuskat-rossiyu-na-mchm-2027-zdravyy-smysl-u-lyudey-ne-poyavilsya-2474382/",
-          "title": "Сушинский жестко отреагировал на отказ Канады допускать Россию на МЧМ-2027: «Здравый смысл у людей не появился»"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117435269-sushinskij-pro-mchm-2027-v-rossiyu-nado-perenosit-turnir-u-nas-mnogo-n.html",
-          "title": "Сушинский про МЧМ-2027: «В Россию надо переносить турнир, у нас много новых дворцов. Приедут сборные, никуда не денутся. Пофиг на всех, кто захочет – сыграет»"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xeFlnTGsyYUp1T3ktR1EyWjFjUUFYYTNyOHF0VUY4T3c4NUtnN3NzdTJ3bGcyNEhTbUNUR2ZZWkp0c1ZQOUsxM3J6RHN3eW42ai1VaDE5aTFOMGY0SnN6MDFiU08?oc=5",
-          "title": "Министр спорта Канады объяснил запрет на въезд российских хоккеистов на МЧМ-2027"
-        }
-      ]
-    },
-    "5fa8da45a8": {
-      "key": "5fa8da45a8",
-      "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»",
-      "summary": "Глава UFC Дана Уайт раскритиковал участников драки между российским бойцом ММА Усманом Нурмагомедовым и грузином Мерабом Двалишвили, произошедшей в Абу-Даби.",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.91,
-      "published": "2026-11-13T07:22:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/glava-ufc-uayt-nazval-uchastnikov-draki-nurmagomedova-i-dvalishvili-idiotami-2474349/",
-          "title": "Глава UFC Уайт о драке Нурмагомедова с Двалишвили: «Кучка идиотов»"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/draka-2131276365.html",
-          "title": "\"Кучка идиотов\". Глава UFC высказался о драке Нурмагомедова с Двалишвили"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTZna2dUbl9rRkJPVkFlb083NG45eEdWX25rOXBnY3piYjROdHhqaEt6Nm5FTXNIcGt4RVBVeGExVC01ZGQxTXFFWk5idDJzODU1MzdPT0p6MnZVTGVqR3pJcDRiSC1aZ05mekgxRUdGTTdNZVJaTjMtdG5wNW1oWUI3V1VRbjdTX3UtRHBqQ2drZzdQRTRiWnNGQi1KVXdnbEJNeFQ0X201LW52dlllVm1ocC1VaWF3T21HN3B0MG1wYXczX3o0enlqM2xLelZfeFNB?oc=5",
-          "title": "Менеджер Усмана Нурмагомедова высказался о будущем бойца после драки с Двалишвили"
-        }
-      ]
-    },
-    "c1f5c37b9a": {
-      "key": "c1f5c37b9a",
-      "title": "Дзепка снялась с этапа в Омске, но выступит в Финале Гран-при ISU",
-      "summary": "",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.34,
-      "published": "2026-11-13T09:40:31+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261113/dzepka-2131310820.html",
-          "title": "Дзепка снялась с этапа в Омске, но выступит в Финале Гран-при ISU"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/figuristka-dzepka-snyalas-s-etapa-gran-pri-rossii-v-omske-2474338/",
-          "title": "Фигуристка Дзепка снялась с этапа Гран-при России в Омске"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanlKSjdTLWxEMFNTcXUwRk9BU3JLbVdIam5NSnJNY243MUdLam9XYlF0MHFhNzNVbFhlaXZSLWxWVHUtaDE1Q2VfRTZidWFPUnFOcVQ0MnZ2ZUZnRl95SVhISnNYekViamJzRHdHVzVGblpxWGNUYU8yT3dCcUdYU0FTd25hdl9MaWN1d1dkNlhITDBKNjl6aE9NX2xycUJBdFBKa1kyRzRGbXJqVzJJTA?oc=5",
-          "title": "София Дзепка снялась с этапа Гран-при России в Омске"
-        }
-      ]
-    },
-    "9572ee7cd1": {
-      "key": "9572ee7cd1",
-      "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA",
-      "summary": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA Sport24.ru «Это именно то, чего все хотели». Пегула — о матче с Андреевой Спорт Mail Пегула победила Носкову на Итоговом и сразится с Миррой! А Гауфф обыграла украинку https://www.championat.ru/ Пегула победила Носкову и сыграет с Андреевой в полуфинале Итогового турнира WTA Новости спорта Обзор Пегула Дж - Носкова Л (Счет 2:1), 1",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.9,
-      "published": "2026-11-13T05:20:03+00:00",
-      "refs": [
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmo2N0h0MkhoNnpoMjNUUjRqSWJvMWRvYWFOMzhnaHo5cEQxN1hCa0J2RlFGWlU0ZWtEVHRPeVptQTk3MFBsZDd0dnRIMzFra2hLcUtQb3c4b1lQVlNsNlAycTk5S1N2NHBzektMcDhxVGthNGdYdUVwbVdCVTY3QmNWR3lFa2I2eXJxNmxfTzNMdDRhTlJWUk9yRzFiUVBWTDQwRkRvbFVIeWvSAbABQVVfeXFMTm1FaEU4MFJ2ZmlTcDdPZnU3ZmtMUmF2Y2Jxd2ZRaXRHODdIUGhaOUlVRkZJV09RN1VOUGdzLW5TeTlZV1NzQ2pDbVFLRmtCTzBqLWNWcWJfSjZUSmlVbXRVM1FkLXJIYlNqejVFN1hzWTc4NGg2YXRuSlFVYm51WW1idlg1YkNWWmtVMkN5SWZqZkFibEhCUlpFR0VhYWE2MUJ5eDdYMWJTSVB5andrTWo?oc=5",
-          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-sygraet-s-peguloy-v-polufinale-itogovogo-turnira-wta-2474316/",
-          "title": "Мирра Андреева сыграет с Пегулой в полуфинале Итогового турнира WTA"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVRncHQwT2xlWDd3RjY5UVJRQl9TZVZEdnJEdC1iSnU5dk5NSW84bUdabFA4b2dWZnJkWUdMY0ZnU3pRRlpKOEZaNTV2R3U2cW54ZUVJWGh5VDdFWXptVmVsOGRENlZxMHRubHl2aUYxOFFfeDhPWVhkSEhVWV9lQVJrVUo2VjZGTDdGR2dsSFEtTDZONFhvX21YSFhITkl1NkFmdk9xSVlwOXdBbzlNWWRJYnBWbDNwdmxUa2N2NDFvNkdBQ3lFU2NJVm5IcTVHLVlV?oc=5",
-          "title": "Мирра Андреева обратилась к болельщикам после выхода в полуфинал Итогового турнира WTA"
-        }
-      ]
-    },
     "1a3fd7fdfd": {
       "key": "1a3fd7fdfd",
       "title": "England thrashed by Australia in first ODI",
@@ -1982,9 +1748,9 @@
       "summary": "Japan earn small measure of World Cup revenge with Brazil defeat in Singapore South China Morning Post",
       "lang": "en",
       "sport": "football",
-      "outlets": 8,
+      "outlets": 7,
       "growth": 0,
-      "heat": 18.62,
+      "heat": 14.9,
       "published": "2026-11-14T14:29:28+00:00",
       "refs": [
         {
@@ -1998,34 +1764,29 @@
           "title": "Japan avenge World Cup loss with 3-2 win over Brazil amid late red-card drama in Singapore"
         },
         {
-          "source": "Japan Wire by Kyodo News",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90TXRvY1Z1YkVIQmJaTWJXRHhSZUVjZS05RUFTOEtUdVY1MnZYajRjZnBDU3VHeFRoUXZyNHZRdVdpVGZlOEdyME8yQnZpNmNEQmk1UDBfcWtHZw?oc=5",
-          "title": "Football: Sakamoto goal sends Japan past Brazil for 2nd straight friendly"
+          "source": "Forza Football",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ09ZQWxROER0bXZzYWpqUXpIOWJBMkR0QXAxTFNOS0dBRE80YkxMWmxkZE1pb1A3MU5GcjlYN1NqTkVCSlhhb0RCNjdTZDk0OGJzWUpSbHhMSng4SzB6b3llWGF2THRPem5PR2l0S1lPdGFQM2VraWpJOFZLMjhBT051eEJzX1IwcUpUOGstb21vMlZNWGc?oc=5",
+          "title": "Brazil return to training ahead of Singapore clash, CBF"
         },
         {
-          "source": "Aktualita.co",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkNOQUw1eURfc3c5QlhZbWNlQXNscURIdnBKRUhvYUstR1pMdVVlUFlwcnE2NndLT0Q5SmF0NTNJcWpYQmw0U0V4TWFTWDVXQzh6bk83QVhGUnJyMktITjFXZm9HRzVkZWEwWjZUNGpCSjREUWFjYklUTUR1a0pmRkg3LVc5OG1DY0JuOWQ2dUl1bFRkSmNXLU9rUHdzQ0h0eXZvdHJJMF9WSFlYa2Ezbi1mNHdMVlB3RHQtRjRwZUl6TGRvZ3lHNDh2UEw1MjA?oc=5",
-          "title": "Live Football Broadcast Schedule Today, November 14, 2026: U-17 National Team, Japan vs Brazil, and Portugal"
+          "source": "Khmer Times",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTZjWFBTRE1od1h0OG50VnR6R0ozLTJ1MXMtOW9wYUExeDljQzBKNmxkZnptYlhPTzVFMThXU2tUX0hpTmZpcEwtdUNNREdNd3Bma2FnZWRRU1ozc09iak9wMzFhN1NHX0hoMTMxNkpicUNEUnRrTlozYk5fQjBOc2NqcUNBMmV6NXo3QkpPTnJIYnV3ODdabA?oc=5",
+          "title": "Japan edge Brazil 3-2 in thrilling Singapore friendly"
         },
         {
-          "source": "Prothom Alo English",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ORFdOTjU3NE1XdTNTM3JYY0VqMHF6b0N5a1ZqT21yUlRJR3pOZHFSWWIzZ1NnY1ZPZnl1Nk9XUTNiY3hCeklvS1dCRmt5S25DX3lzM0tJRXRMeWM4cktodTRn0gFvQVVfeXFMTzYyWmVPVEFQUUJ5SlBMMjBjdzV3YVdudkFDYi1uRkM3a3pic3J1TnF5SzVEeTMtNG9rM2ZTdU5xclBKS05jR0k4eDdoNlRDU0lfZXc3VU5HbTJGZGM2aDRuSlBNdEhvVmttSWpfdFdv?oc=5",
-          "title": "Japan score in injury time to stun Brazil 3-2 in Singapore"
+          "source": "NST Online",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTB6QVZjUkMzcDV3QlZkNlRZUlFIOGJUVDN0STA0TlRmdVRiWlVKWERJbUpjZV9JWUN1TlRGcmlwenBiSU9ZQllIamg2UzlmYnhpQ2otM3RRdEJteGl5MHoydjd4S0lEWVZqaldUdEFlNmlBTUNBQ1R4a2hxc29tdTJRRURyQm5EX24ybkhTMNIBlAFBVV95cUxPQkw3T1FGUWtNdXhxREprYUpCY3g5N2FLaHhUVEVZY1F0bi1EM2JfbDhDblVIcDJDS1dmX1ZVTnFiSlZHWFcwSnFsRVQwQXhQVmRoSE16TG1CZ2gtOEVoVUUwbTlKTER1MlZRZWhRUFhDYWwxLTRpU01saTBVd3ZXY3dLMmNDY2NJRjdfNTUyclJaUjdu?oc=5",
+          "title": "Japan stun Brazil 3-2 in Singapore"
         },
         {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-          "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat"
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2g5WV9PdklqV0pEQnRLUHM1S29mcTZqY0pCOW9YeVcycnVFM1hGbnZubWxUV0VGRW5MS2xWQ2Z5ZkpVLXVlZGZYdGc1NXlIYUx3VGFRTFpVVXVhMTFZOHU2czhMblduVURJRWVCWVpyS0hwZ2pMZEtaWGJibnhfMjNXVW03RVBhN0tlUkJxX0VkU25Xa2xhdjlqX2JDc3ZqUXNTaU5UMDkwMUtZVTNFZUw3TjdiaWN2d2ZPYmZmRXhNZ2RBVEE?oc=5",
+          "title": "S’pore ref Jansen Foo comes under fire from Ancelotti, Brazil after Japan friendly"
         },
         {
-          "source": "Barca Blaugranes",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTXFCWUF4TXhkRzdMelF3MHZTY18ycU94Zno4NnlXRzBTdEtSV3RHbTFUS1BseU42ZllGSEhRMXo1dTdLMVBUam5lZDJFWVlfRmJLYVlKelNFVzNSbkVIcHI5MkZsVS1tWndaRm5tcExpZ05QdWQta2o0ZzR1Qmc4djhOOTdZcUotSDg2ejBHRnFpYUV0bVFTc2Y0amY0WWg4c05GT0x0V0ZBZGtlbkxqNTh2eWpyZ1VMOGJLN1o4WURheklVaUptLXVrbjdWenJ3VlU1eA?oc=5",
-          "title": "‘Unacceptable’ - Raphinha apologizes for red card but blasts referee after Brazil lose to Japan"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUUpadUpjRHRaWks5UkVYVjBmend6cVZOOWJUM3B2NDBGZ2l2MDZPZnFob2dCOXlLeWNoVlBDcFcwb3M4TjhxR0hGdlYxYVYwM0tBVGIwWVduMzlqUi1GcGQxUzZNRVdJSHhYMnBUMk9KRGNsNXZYbkl2MnhDWXpSWUhyRQ?oc=5",
-          "title": "Brazil XI vs Japan – Predicted lineup and team news"
+          "source": "Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVFOVXFYMWo4YlVaNEhQTDhGZGNCcVZRNGtPdVFwUFVwOG1Ka0dnUk5zQmNzNFQ2NGI2VjUtaXQtOEZydDRnbnVtei1LcEJJZ2wzcXFOdjFZNmxuTi1jMVI1OUN0S0ttZUdWcy1kUU52RjhRWDd5UlNuYmtnNWhVdUl4TzJyUXF5a3dsUFN3?oc=5",
+          "title": "Furious Carlo Ancelotti slams referee and explains bizarre red card after Brazil suffer shock stoppage-time defeat to Japan"
         }
       ]
     },
@@ -2982,6 +2743,300 @@
           "title": "Кайла Харрисон впервые защитила титул чемпионки UFC"
         }
       ]
+    },
+    "d5f0f4a1be": {
+      "key": "d5f0f4a1be",
+      "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes",
+      "summary": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes KTVN",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.56,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T21:15:13+00:00",
+      "refs": [
+        {
+          "source": "KTVN",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMk5QTHF6cXRieEI5aFhEMjg1LTV1NldXVEFjS0F0d1oxTHBsTnZKODhST0JwOWVVa0Vjcm1JWm1OSUhZdk16RmJhcHJjd19JWTFsc29UYndibHBaQlNDOVU0TUdObm82clhtb0JhRXc4aEgweDdhY3FJeWYwTm93cTEtcnFyazBxVGl2em1QcTB2VVA0bzdKRmFJdW1xdlJoTm9BLVdEc3dfNzM2S2NPT1B6QkNZVmRaZ0dzbGZuV1laMldEM3RGTTZhSnF2dXNKSTdib3R6UDlQYmhfWmFTQWE5LWd1bzZiZVp4cVY5LW42UnM?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "Oskaloosa Herald",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdVJjUml1LUZWSnZtZHpBV2JuRnA3bk9Ualk4MWVmeHRmWDhCZC1QZ05VaW92VllfQjFyTjNheGFDZjlsZzluUnlsZGE2RFlCZTloZUY4U1Utcmc0TGkxdjh1ZXJ3QUJZSzNZUGNBNUFpSEV3Rk4yVEg3a1BoS1RTa2F3Q0xtUnQ4MERJYmJYZGhKOEFxODVuSXQwUW1oRVZWc3d0Y0g2aXFkTUZfQVg3XzRiYlEtR3dBWU9PTWJxTEQ4SFdWbW80TE5XWXNWcEJkZEZYWWNmMW9RVkZHS3VnUjIzaTRCOUJPck8tZjNmQk9ZenY1Y0ZDQkFzZ2VIRXZKYzc0a0dWWWZhQnUybjYw?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "The Sun Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk9BeVFXV2hRdWZqLUdQUl9nb25lZGJBX1c0N1l0VENDSWFraVFDLTA2alZIaWNKLUJUbnZxaDBUd1BLWE1BVEJqRi15Y1FEVU5pVDM0SFlnTnVJS2V5VjJQWUFLaUJwRnFXbEtTTEJTcmdPdHpNZ1FHNG4wVm90LUhzbmRpVS1XUGZvNnN4VzBRcHVTRmJROC1iMUtRQWlmZ2FGbmhmYkFMOWpTcTN2RFFWcHdtVkwyVnNyTzFxS2RHVWp1SldCbVdvdjFmUzhQZERHMGVpTVhUdGM0eVRabDQxb1BQRzJHRDczUGpjTF9Fd2U4aUNtbEc3ek1VSWFsbnc?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "Bozeman Daily Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVmlIZXZnZDA0YllfbHhZQURYQWhNTmtFNUZiTWVBOWtsT0NNRTlKcUktQmlkd3NMWVd5Q25idXVFaGcxV2NjSVQ1Q1lId3V0OWZLTXVfWG5kYmE4ZVYzcXZOdERsQ2VOQ3RhUEdtNXlCNWRlM1F2QnFaaUl2YU5RU0pRNUR4enkxdU5nZFlyejhZRW1zenhVTFJNVm41aE4tRUVDODV4b2tiSWNqVjlfLWVERU9FbVV6WVFnS3FOaHNOeUNJRjBINjM2clJ5V2VWNXJqWnpfOC15SHFlVE9mR0lwbkFsYmxUcmRRRVNoS3loNUR3c3lZS2R0cDBxbzdQWWt1TDVDb2w4dw?oc=5",
+          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
+        }
+      ]
+    },
+    "b4b433c524": {
+      "key": "b4b433c524",
+      "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC",
+      "summary": "Американка Кайла Харрисон победила бразильянку Аманду Нуньес и впервые защитила титул чемпионки UFC в легчайшем весе. Поединок прошел на турнире UFC 334 в Нью-Йорке.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 15.64,
+      "published": "2026-11-15T05:18:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
+          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
+          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9NeUo2aG9YdVJLVlE5N2p6RmowV2c0SkUxSThqeFU1S1JXeVo5LVVFcFdBcW1DcERWRmRjVkNpT01IVDJseHAyQWRPQ0tZQUk3a2JCVzVxOEJPakdMcUN2Q0dvTGVuWU43WjRvbUhqLV82dmFNVzFfSkdqMVZtaFM5aEJqUkotdEhhQ213SGY5VFVkaVZRaU9LaHVYbnItZjlaN0NfMTNvaDJjZmZRVjNjWFc4U1VESzlqbjFxaUVKNVdOdG9n?oc=5",
+          "title": "Кайла Харрисон впервые защитила титул чемпионки UFC"
+        },
+        {
+          "source": "vRINGe.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoU3J5VzRXMGx5eW9OVWVhTmxyR3BHS0UtTURIOXFkVU9YdVZ2M1JkbjliOUpRY1g2TGwyaWRpTDdkcENYX3puRG93Q3hXUTBtVDVpRVlmZDllTnpSMWpPQnlHeERyMkExX2o5b3k5T1Q3cEFwc1d2bkxPQVI?oc=5",
+          "title": "Харрисон победила Нуньес удушением: итоги боя UFC 334"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNampWdlQzWWtRdGJMeUpZUWJ4Z0pKZVBic2MyVF9RelUzSFFJZWVSWUNST3ByNTNpSUFfYjlBY1RFZnJYWkZIQUtrbE9GMEF0emtMWmNvYTdTSVhZM1hXM1VDQTctbGJmTURqTGU0M3kzUE5reWR5aW9NSF9QZVhGb2s5ZUtUTE5PYWFRZ2l1R2lHREp1OWpMTjYxM2lkNUNsTUo5MQ?oc=5",
+          "title": "Шевченко поздравила Харрисон с победой над Нуньес на UFC 334"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmZHbm1Vbnk5LVNrY3pYeG1nWUpLR25TamFESUZVa25RZG52NEpmWi1tSFFzSXFFXzlfTHRuQ3E0T05QQVM2a3RUbHo2dVI4UTFUM2VVU3BUT3E5aWs5ODlTc1JlcC0ycUxMM2hweGo4X204MnotcjdyN3pEUUg2T29qSXJBTHFNdFNtT3ozcklYQURuenYxNkFPSDUxdFFKT0ZXZlZab3VtNmFPbkZQUkN4NmtSUERnSFE?oc=5",
+          "title": "Кайла Харрисон и Аманда Нуньес могут провести реванш в более тяжелой весовой категории"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0h1alFnZ1ItaHktVzJHbkJ6RzZ1X1lvZkdwYmhXWm1jUE96enp1aDJLbk5YNndQTkhMYTdOa3E2cjB1NndOUVZwWkVILUh5NE1LZGtUcFFrYjZyTHNNa2Riek5XbUxNNXdWbGRIcHIyOV9nXzB2bEgwVXpKdEpMcGphSEJkcFJ4bzcyeHdYWEV3cXhseHFNZF9rZkhWeTA?oc=5",
+          "title": "Харрисон задушила Нуньес и сохранила титул UFC в легчайшем весе"
+        }
+      ]
+    },
+    "92604fead7": {
+      "key": "92604fead7",
+      "title": "Андреева выиграла дебютный итоговый турнир WTA",
+      "summary": "",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.65,
+      "published": "2026-11-15T22:04:48+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261116/andreeva-2131741050.html",
+          "title": "Андреева выиграла дебютный итоговый турнир WTA"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6701032-mirra-andreeva-vyigrala-itogovyj-turnir-wta-2026-odolev-v-finale-elinu-svitolinu.html",
+          "title": "Мирра Андреева выиграла Итоговый турнир WTA — 2026, одолев в финале Элину Свитолину"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-elina-svitolina-rezultat-finala-itogovogo-turnira-wta-15-noyabrya-2026-2475320/",
+          "title": "Андреева победила Свитолину в двух сетах и впервые в карьере выиграла Итоговый турнир WTA"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/tennis/1117437326-itogovyj-turnir-wta-2026-rezultaty-finala.html",
+          "title": "Итоговый турнир WTA. Финал. Андреева обыграла Свитолину"
+        }
+      ]
+    },
+    "3f61893ae7": {
+      "key": "3f61893ae7",
+      "title": "Шелтон обыграл Фиса в матче Итогового турнира ATP",
+      "summary": "Американский теннисист Бен Шелтон победил француза Артюра Фиса в матче групповой стадии Итогового турнира ATP в Турине (Италия) — 6:2, 3:6, 6:3.",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.33,
+      "published": "2026-11-15T21:55:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/atp/news/ben-shelton-artyur-fis-schet-i-rezultat-matcha-itogovogo-turnira-atp-15-noyabrya-2026-2475319/",
+          "title": "Шелтон обыграл Фиса в матче Итогового турнира ATP"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/tennis/news-6701008-ben-shelton-artyur-fis-rezultat-matcha-15-noyabrya-2026-schyot-2-1-gruppovoj-etap-itogovogo-turnira-atp.html",
+          "title": "Бен Шелтон в трёх сетах обыграл Артюра Фиса на старте Итогового турнира ATP — 2026"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MT1dXbFFEd3lkVnMycW1IcDdGT1VsMXNGRFJ6a3ZJQmZVUzdBUGV6R1RkeTVtVG56WUE1OVNQbDBURmpheDhNTnM1a3JiSV9TWnVPUg?oc=5",
+          "title": "Зверев обыграл Ходара на старте Итогового турнира ATP"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/tennis/1117437362-itogovyj-turnir-atp-2026-rezultaty-gruppovogo-etapa.html",
+          "title": "Итоговый турнир ATP. Групповой этап. 1-й тур. Шелтон обыграл Фиса, Зверев победил Ходара"
+        }
+      ]
+    },
+    "872afc5d77": {
+      "key": "872afc5d77",
+      "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’",
+      "summary": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’ MMA Fighting",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.63,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T18:00:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDExeU5ubWZUbTVLTndtWTUyWWxqMGJELVdSNGNqdWE1S1drYm5faGFDeDZlS2w5ZTJGUHVGY3ctQlVBbTlDU05FQlc2VW9LWEN6RklDOHF1VEpaWlIxcTZmZURNMUVqd1ZKSzJDQUFMNC1ib1Bic1Zxc0IzU0NJdVRMa0N0c1JVclZ2aVJiLWEzYTBfSk82am9HeEI2blpZVGFibkZONmE2RWtOd1hxc0QyYXJfU3dXQ0t3M2YwSlpmNDJzSGFNWXRvODRNaWg0YTlYd3pWNC1MNjlWd3diMWJnb3Q0NjBuQ1FyWjlqdEpVejFoNWpudFhR?oc=5",
+          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjBpVUw3YW5UNEJKdERsNXY1Uy1fM0Q3T2RGUDFpTHc3SW9uX0pGX1R1VUJIWjluSDNlVEFISE9OYnA5R1Y3UG5YX0NqRjVQSlp3RFRPckNyZnEwaGhHd05la2x0REs5Ti0tQTNmXzZjNjMxN2VWQ2FrU3BWSWdzSmxybkx3MFFwWlJFVFItUlRITzVO?oc=5",
+          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOUc5NWJvenp0dFZkVDdYYWkzV3R4ZGhvamRpMFJZem5UNjJ1NFEtN0h2dEpFZzBLOEE1N2MwcnBNV3ZhaUVRR0xLYndWQnZ2c0dVNTN6dlFlRUM0RmREQW9YZWxrMlZYOFlmbDVCYTFCejkwUUUwX1FLb0RfYjYxcWNuczlKVG1SZDZz?oc=5",
+          "title": "Stephen “Wonderboy” Thompson: Goodbye To One Of The Good Guys"
+        },
+        {
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmF0ZnN5U2p2NGdVVW5yUzNaQnBOZmZNeFI5NTRjWXZOUzByOFlMZ01GbGVhdEhUb1NMQnVQWmdJUk1fRTRMS0Y4em9od0VGYUNiVVROY2x2cmhxZUxBMVI3LTFPVUNYZUVoVWdvdmtqYmllRVMtR3BNRmFHZUNfZENQTnZ3UjRMQ1BsU1hVcG5oT1hTR2liNkNMNmxETEE?oc=5",
+          "title": "Stephen Thompson scores spinning-kick knockout in retirement bout at UFC 334"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWpCdHJITzExSlpSZElTRkRYdWFsZ3JrYUlleUxoOGVzVzhqZjAxUU44YVpTVUZBai1PcldzaEhvWWl0ZHdmdTdDR1ItMUhsb05zenE4UmpaQmJURjlXaHMxWTU5RG50dnlpdEFJdXplUTQxd2tYcWJ1RzItU2QxTU9kc1prUnJ3amkxVEEzSTlncGJ0RGpubmtDLTU1RkJjcWwzMF9PeHRhS3gw?oc=5",
+          "title": "Joe Rogan cries as Stephen Thompson retires after spinning wheel kick KO at UFC 334"
+        }
+      ]
+    },
+    "8c5f748e0b": {
+      "key": "8c5f748e0b",
+      "title": "Сириль Ган победил Джоша Хокита в главном поединке турнира UFC 334",
+      "summary": "Сириль Ган победил Джоша Хокита в главном поединке турнира UFC 334 Рейтинг Букмекеров",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.18,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T07:40:26+00:00",
+      "refs": [
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZ1dtVnN0QzhVYXlnbU4tMXdiRllCWkFDdGdVTGZPR0tuV19xVFdDXzBGV295eTZoZldhU01BSG1HQnpsbVo0dnFBRzlsWlZJY3Fkbg?oc=5",
+          "title": "Сирил Ган победил Джоша Хокита на UFC 334 и защитил пояс"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWtQWWpLem4wcFBlMDZJenlmdkZVUlZwTWpEWW9OMGhfejJIaDJ5bzJaTEVwOFk2N2kzYllxeUdYZjdvWW1qZjlpc2ZxZlRfS24tLVBRUEkyZmdGem5yVjlrQjVrQWc0UnlyeXBfZlRKOGRpV0hJX1JHcGdFelB3b2h3ckVZR0xRZ3dCTzBXM3BxcEZSdFY0?oc=5",
+          "title": "Ган победил Хокита в поединке за титул UFC в тяжёлом весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjdxTnE5NlBGaXBHNVI2S3FYVUQyTkNKT2t5NU81YVdGdXVlU1FENkhCRTVQc1ljWWxCbzItazFvV2ZqamEzUVNSckxRTTc4cTI0aF8yQUo4UGV5V05VcUIzN3hQZ3ZIZXd0UjhSMndFeERnUDRZR0t5MFBqNnNtR0RJemxYbzNMNDd5ZDBfTkF2SVV6bjlfdHdkVEZab3lKQ0F1ajJkQWlOSnlfTHZXdF9VSU43VUhDdHZIZk1BOU8?oc=5",
+          "title": "Сириль Ган победил Джоша Хокита и защитил пояс UFC в тяжёлом весе"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0VCR0ZUTlhnenoxLTdjZGdJRV93aVN5Nk5oR2g4TFA5RVhLNmh3MGVCd2ZGUmd6U09wWC1UMl9PY0tlSDlrM2F3eGVlejdBakFIRTQtSVFldkx4Qi1zNV9kRGhpU2xUYTl3WDV2aDhpVTRXR1N6dG1ZSmRQU0h0Z3plTnRJNlNpMk9OcDE4Y0VXbG5pQVNpSXlSQ0ZucU5SLVN1Y09mX1VOX3BPQTdNRElDQ1pfVkE?oc=5",
+          "title": "Интервью Сирила Гана и Джоша Хокита (видео). UFC 334"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzJlTDhGYVpYcHZfSnQ3ZmVMeWJBb0hFdkswRGdJMnJhMXAyVUVjdm83WkpoaTBWVzdWS2NreUstNVlGTmVGcHQ1VTh6cHM5bWVOc1JJNnYyS29RZ1BlZHF4ODlCaW1PdnJELVFsd2lfZzRzX29Dbi03cUhhRGI0dmZLamc1UF91aVowVVNwS1lfU1lQdGZNdVg5a3ZuRHVhdU51RFlGNzI0el9GYkJzQzJwcWRWVUJE?oc=5",
+          "title": "Интервью Сирила Гана и Джоша Хокита (видео). UFC 334"
+        }
+      ]
+    },
+    "1ce865be09": {
+      "key": "1ce865be09",
+      "title": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes",
+      "summary": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes POST Wrestling",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.49,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T20:31:07+00:00",
+      "refs": [
+        {
+          "source": "POST Wrestling",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd21NNjM4cWR4dnE4VjVXbU5jOTJodUF5VE9sRW44MzhuejVtclEwMTQxWEVRTTFMcGhRRHNwaHR4ZTRkQXFtZm5rQ3NSZ3lPLVFHMnRWRzZHMDlrV0EwQ3FadEhsckROMnRXRXZXYWMxSzhzZzFzQjFmNFRhaGFFUzYzajU4bXBoR0FIaF94ODZDZ05lV3FxWWUwRklFa2pPdzVjNHBIOFFCR25jY0JJNFpB?oc=5",
+          "title": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes"
+        },
+        {
+          "source": "CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVB3SnNWX0loZkdaaGtNc1duQm9DX1dGcWVrWEpFQzhjdy1xYzdiOTJxbGk4S2RZR0pvRXY0VlNIMm9qdi13d1FPZktFR0pRdXlpbEUxc3hfNEx4Q2JPeTU3ZlVoVlRzTkpVMVc4dWZQZ3h3Ny1UVjN6Q1ZELUZITkFQWU9zY21tdFEwVDNXNGJxV0R1ekN1WF9ROFdPNzE5bEJnYWJsckY1Zw?oc=5",
+          "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONk5iQzRWRmdMRGM1OWc2bmZwWjFLWHJpZ3JzS1JZOGlSOGRCMmFNWDc4Y3B3WHA0emtJMU9XZmlXaG9GNl8zOGJTZTE5algxelk2Yk5rak9YUWNNSlB3ZFFMZ0xmUTVERW55TWJkT21xY2otZi1TOHJHTlhZSGtKTWhQZzRLSWs4V1IyVjBZYUZLVFV0VUE?oc=5",
+          "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFI4ekJtOUNFY3RCaXNZdFdQalNjM2FCZGwxUFNReGxuaURIMUI0SkNUdmVWUHJpaUpHZFVfdFRYS3VWSFZKelNxdU5XUmY3Z0FZV0lMNHFiNmgzQXJQRXlVdUNwRVQ0d0JwMXJMalBmdnZxTHdRTjJaaHJZd1dfdndILW1RNnFY?oc=5",
+          "title": "UFC 334 live blog: Ciryl Gane vs. Josh Hokit"
+        }
+      ]
+    },
+    "66c55038fe": {
+      "key": "66c55038fe",
+      "title": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров",
+      "summary": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров Newsroom24",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.92,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T17:51:08+00:00",
+      "refs": [
+        {
+          "source": "Newsroom24",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JblRWUHFXUldaUGk5SHR1RmJEelVOZzlfbEtMS0o1WEpZcDVMVi1lTjRtbFB0MEVrcW1XODFUdWVoVU9mWERkc1AtdVFJSE0xWU5xSDMxT1dmdGlRVHJTNDctb2s?oc=5",
+          "title": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров"
+        },
+        {
+          "source": "Вечерний Санкт-Петербург",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmxSa01obm1BYkFOYVdWSXNKNVNzQ2ZnbHZTUnlXZ1duNmFNUExRdG9hZm9CRmpkN3p2cDVPMU5BZ2Y4eDRLLXZ3a2VmTXhvMW5ZMThyclRUUFdvQjVVOC05NmRCSkk3ZTR4ams0YUlpUkxCQ25ZYU5UdmM4VmUtQTdkZXF4WkIxUWduR0cySDltV1RHUUFuaGFxem5KU01tdnBGMjR3X3N3R1NrcmR1eVRzZjIyOWs1QjBmQ1VLWGF6dHlzaVE?oc=5",
+          "title": "Всероссийские соревнования по боксу на Кубок Н. А. Никифорова-Денисова стартовали в Петербурге"
+        },
+        {
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tTb2RDWlZPaV9BTW9SQjNwLUtwUXpZc0RmU0llVUdHT1NEQ2tRSkNmY1RkOVM1WmxSOE9SV3o1dV9ER3l0MHItbFNOQUxvZ2FDZFgxN0Z0c3Z0NUZWUVZQYjJCN1dDdEE4MDYySVZMMUhEb3ppOVl3cEI3dHB5TEVIZEhXMy02ZDlYQXZvTC1wbU1LUDgyQ1Bhb0I3U20ybTZQRmNDYjFjekthUXhtUkJvY21KWGZWd0E?oc=5",
+          "title": "В Петербурге стартовал всероссийский турнир по боксу памяти Никифорова-Денисова"
+        }
+      ]
     }
   },
   "sent": [
@@ -3200,202 +3255,182 @@
   "tg_offset": 360028013,
   "combat": [
     {
-      "key": "2703fd17b6",
-      "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе",
-      "summary": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе ВФокусе Mail",
-      "lang": "ru",
+      "key": "872afc5d77",
+      "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’",
+      "summary": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’ MMA Fighting",
+      "lang": "en",
       "sport": "combat",
-      "outlets": 7,
+      "outlets": 5,
       "growth": 0,
-      "heat": 17.53,
+      "heat": 12.63,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-15T06:40:23+00:00",
+      "published": "2026-11-15T18:00:00+00:00",
       "refs": [
         {
-          "source": "ВФокусе Mail",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9ST0NFazQ3Q2o3S0QwUTBRQ0djVHlpVkRxWFlqaUhqcVBiWm5haWdWZWZqWXp3dldKR2pYSTBkbTAxRkluZWRCWHBpTVlCaWVRUjNqMFFHMExxMzVUWUxZTnlRbE01eDJteUZ4bEEzNnhOQktTOXIteHpXTUtWaVNISFZKeExLek1oRlRPcDdPZGs5M21Bdi1ZSTNzcFRIYTd5RDFmOEFaVmpwaVBmMm1pOA?oc=5",
-          "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе"
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDExeU5ubWZUbTVLTndtWTUyWWxqMGJELVdSNGNqdWE1S1drYm5faGFDeDZlS2w5ZTJGUHVGY3ctQlVBbTlDU05FQlc2VW9LWEN6RklDOHF1VEpaWlIxcTZmZURNMUVqd1ZKSzJDQUFMNC1ib1Bic1Zxc0IzU0NJdVRMa0N0c1JVclZ2aVJiLWEzYTBfSk82am9HeEI2blpZVGFibkZONmE2RWtOd1hxc0QyYXJfU3dXQ0t3M2YwSlpmNDJzSGFNWXRvODRNaWg0YTlYd3pWNC1MNjlWd3diMWJnb3Q0NjBuQ1FyWjlqdEpVejFoNWpudFhR?oc=5",
+          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
         },
         {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1lUWG1UbE80ZUNwdTQ3VGZCcnRzd29heUZkeVVhRGZBVEl0QzczLTh5QTEtaWNKdFozYldyUkhzX1E2YnFadUhqRVl5cHZpUlJWS1RLOFQ3MFpoZGpONi16ZUJRMjJTT2NBa0V1VGY0NktNazZUYUxBZ3ZvRTZxWUlvbXF2ZXBpZmRPN2JVOG1PWGo3R0RHb2F3QlVlaUIycllJU19RaGk5dUw2M1dIa2xnWGtvS3c?oc=5",
-          "title": "Сириль Ган впервые защитил титул чемпиона UFC в тяжёлом весе"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjBpVUw3YW5UNEJKdERsNXY1Uy1fM0Q3T2RGUDFpTHc3SW9uX0pGX1R1VUJIWjluSDNlVEFISE9OYnA5R1Y3UG5YX0NqRjVQSlp3RFRPckNyZnEwaGhHd05la2x0REs5Ti0tQTNmXzZjNjMxN2VWQ2FrU3BWSWdzSmxybkx3MFFwWlJFVFItUlRITzVO?oc=5",
+          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
         },
         {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmFxbnp0NnZfWHRHb0Y4MzQ1Q01PY1RHb3YzeHJDRTJoUUpCeU1qVFBOQkR0V096M2ItcVhTc0g2MjNIWG55Vm9CeGdpZTVjN21XWEViWlBwdkJXTHBqYWwxR3RPODJNWkV0NzgtOGxjdXFfTXJYMzJiOUVXQkZEM1MyQVpEVkNkVUVvN015N3JWdTdTVnpNTGpaTzZQd1Vm?oc=5",
-          "title": "Ган победил Хокита и защитил титул UFC в тяжёлом весе"
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOUc5NWJvenp0dFZkVDdYYWkzV3R4ZGhvamRpMFJZem5UNjJ1NFEtN0h2dEpFZzBLOEE1N2MwcnBNV3ZhaUVRR0xLYndWQnZ2c0dVNTN6dlFlRUM0RmREQW9YZWxrMlZYOFlmbDVCYTFCejkwUUUwX1FLb0RfYjYxcWNuczlKVG1SZDZz?oc=5",
+          "title": "Stephen “Wonderboy” Thompson: Goodbye To One Of The Good Guys"
         },
         {
-          "source": "Sportarena.kz",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1k5Qzl0Y2RURVNEQnFyODJZZjZrQU5OZjhSZV9CZ0dGVnRzbHoxRUZIS05ieUh4cHQ2aUgtNThtWUtmR2ZfMy1yQXpSd3RVQkhpQ1M4bVB4UmVsTENnTFVCNHNRR20tYlZ6SGdFNUFjVFRMZVdHTVNrLUhwOEx5X0lYXzFoajVyV1l5d3Y1U2JpMHhTQnhxMUpQRXRtRkx3UGpCbHI1US03QzZBckVjTkpwalNjQlhESFUyNnJ0YkNIQlVn0gHKAUFVX3lxTFBiZk03VFV1OUt1cktlZ005T0pFdVo3Qi1WLXRHeVVvODdSTnRIeUVpQ01sQ0Q5a0VTUDExUUlETktMTEo0VXczaUtoWkk5blFJRDhKeEdYUEdIcWtnMDdNdVljd0o5MHR0LWk1YlFvSFFPSE13OWg1ckRJNkFoZHRURldLbW1UZG9YOTNiajRkZE40MHVzYXdXYzdMTlZaUUNUTHVlYTJrVzRZT29FeGtVa0VnOGU4N05md3g3dTFLaWE5RFdpTjV6cHc?oc=5",
-          "title": "Сириль Ган победил Джоша Хокита в Нью-Йорке и защитил пояс UFC в тяжёлом весе"
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmF0ZnN5U2p2NGdVVW5yUzNaQnBOZmZNeFI5NTRjWXZOUzByOFlMZ01GbGVhdEhUb1NMQnVQWmdJUk1fRTRMS0Y4em9od0VGYUNiVVROY2x2cmhxZUxBMVI3LTFPVUNYZUVoVWdvdmtqYmllRVMtR3BNRmFHZUNfZENQTnZ3UjRMQ1BsU1hVcG5oT1hTR2liNkNMNmxETEE?oc=5",
+          "title": "Stephen Thompson scores spinning-kick knockout in retirement bout at UFC 334"
         },
         {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUgyQ0xrcEJBZXFWakxoRWRyYjdMc3oxQ1U3LVpzaC1rUFk3R2VITkh0aGdSNHlxdk01aFZGUG94ZFBaNzdsVEJabWRNaEVsSFN2OWxNYmFOVFBLR0pVOVJ5cXFWRzlIN1ZOUUxtR1JMQjJRQ1JrbUNCZW5QQmU2aHZYWGlSR0swQzVWX2k4LVVvZmVPcG9JZ2hYSVZvanR6N1E2Ri1KM1VKRDA1UjdvTm5KVHRmaXZjQ2NBN3pvMkdGLVA1VGxBSjFPdHNQN3VB?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC в тяжелом весе"
-        },
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTWpCdHJITzExSlpSZElTRkRYdWFsZ3JrYUlleUxoOGVzVzhqZjAxUU44YVpTVUZBai1PcldzaEhvWWl0ZHdmdTdDR1ItMUhsb05zenE4UmpaQmJURjlXaHMxWTU5RG50dnlpdEFJdXplUTQxd2tYcWJ1RzItU2QxTU9kc1prUnJ3amkxVEEzSTlncGJ0RGpubmtDLTU1RkJjcWwzMF9PeHRhS3gw?oc=5",
+          "title": "Joe Rogan cries as Stephen Thompson retires after spinning wheel kick KO at UFC 334"
+        }
+      ]
+    },
+    {
+      "key": "8c5f748e0b",
+      "title": "Сириль Ган победил Джоша Хокита в главном поединке турнира UFC 334",
+      "summary": "Сириль Ган победил Джоша Хокита в главном поединке турнира UFC 334 Рейтинг Букмекеров",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.18,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T07:40:26+00:00",
+      "refs": [
         {
           "source": "Спорт Mail",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZ1dtVnN0QzhVYXlnbU4tMXdiRllCWkFDdGdVTGZPR0tuV19xVFdDXzBGV295eTZoZldhU01BSG1HQnpsbVo0dnFBRzlsWlZJY3Fkbg?oc=5",
           "title": "Сирил Ган победил Джоша Хокита на UFC 334 и защитил пояс"
         },
         {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzlkOExYN0wyMlltVHdSSWRCNVExQUVQNGFqdEJlWGRzZFJHMHVwRUdLMzhGeVBMampDNWt2OEZsS1d3Wm5HbmRteVZ4amJsemdvU3RCcG95cnJsd3YtUERadXd2cnZHZktQU3B6YkZpWUlyNjYtYlQ0U1BkbEU5dEpuVTROdS10akNVdEtmN1FGeXlNZzhTRWlVcGREZGxxTExjM2tCRFV1cEQxMmFEdg?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул UFC в тяжелом весе"
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWtQWWpLem4wcFBlMDZJenlmdkZVUlZwTWpEWW9OMGhfejJIaDJ5bzJaTEVwOFk2N2kzYllxeUdYZjdvWW1qZjlpc2ZxZlRfS24tLVBRUEkyZmdGem5yVjlrQjVrQWc0UnlyeXBfZlRKOGRpV0hJX1JHcGdFelB3b2h3ckVZR0xRZ3dCTzBXM3BxcEZSdFY0?oc=5",
+          "title": "Ган победил Хокита в поединке за титул UFC в тяжёлом весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjdxTnE5NlBGaXBHNVI2S3FYVUQyTkNKT2t5NU81YVdGdXVlU1FENkhCRTVQc1ljWWxCbzItazFvV2ZqamEzUVNSckxRTTc4cTI0aF8yQUo4UGV5V05VcUIzN3hQZ3ZIZXd0UjhSMndFeERnUDRZR0t5MFBqNnNtR0RJemxYbzNMNDd5ZDBfTkF2SVV6bjlfdHdkVEZab3lKQ0F1ajJkQWlOSnlfTHZXdF9VSU43VUhDdHZIZk1BOU8?oc=5",
+          "title": "Сириль Ган победил Джоша Хокита и защитил пояс UFC в тяжёлом весе"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0VCR0ZUTlhnenoxLTdjZGdJRV93aVN5Nk5oR2g4TFA5RVhLNmh3MGVCd2ZGUmd6U09wWC1UMl9PY0tlSDlrM2F3eGVlejdBakFIRTQtSVFldkx4Qi1zNV9kRGhpU2xUYTl3WDV2aDhpVTRXR1N6dG1ZSmRQU0h0Z3plTnRJNlNpMk9OcDE4Y0VXbG5pQVNpSXlSQ0ZucU5SLVN1Y09mX1VOX3BPQTdNRElDQ1pfVkE?oc=5",
+          "title": "Интервью Сирила Гана и Джоша Хокита (видео). UFC 334"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzJlTDhGYVpYcHZfSnQ3ZmVMeWJBb0hFdkswRGdJMnJhMXAyVUVjdm83WkpoaTBWVzdWS2NreUstNVlGTmVGcHQ1VTh6cHM5bWVOc1JJNnYyS29RZ1BlZHF4ODlCaW1PdnJELVFsd2lfZzRzX29Dbi03cUhhRGI0dmZLamc1UF91aVowVVNwS1lfU1lQdGZNdVg5a3ZuRHVhdU51RFlGNzI0el9GYkJzQzJwcWRWVUJE?oc=5",
+          "title": "Интервью Сирила Гана и Джоша Хокита (видео). UFC 334"
         }
       ]
     },
     {
-      "key": "5d30634cb0",
-      "title": "UFC 334: Gane vs. Hokit Fight Results",
-      "summary": "UFC 334: Gane vs. Hokit Fight Results ESPN",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 16.0,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T14:11:30+00:00",
-      "refs": [
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TSk5fQnoxbUFqTE4yS2doZHgxeW1NNnhVbEVOTnZNRUZ0d1pqeU4wcnBuSUdLN0xVRU5NVFF5Z05icTh4Z1Fid0d0RnJVTEF0eGFxZmJTZkRXbVpseXp0NDVoZFVEczNGX2gzb0FpZDgwZFU?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Fight Results"
-        },
-        {
-          "source": "sports.betmgm.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9RX1pXaFotN25TZ2RjMWxCQ0ZlVmVLZ2VzRG5BeTlZMGIyMnhmT1hydnZ6QlVRY2NMd0ZhVEdPUEFXTTZoeVVpZHdnektUWk00bHVXaDd6WXpXWTVIdmtVeW0wNEluRlpOV3pYYkZSbF9DTDVJRDB4Ni1obTBCTE5EUy1YRWs2VG1KZg?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Payouts & Fighters’ Salaries"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVROVjlIYl9BYkxEVE5qS240WWEzTkM0MHQyRGlKLUNKdEJsT0tmVFlIWERfUTYtN3JqMm92Q1BqRUtpRVNXamdqTHcwTlY5cEtPbG14aEVNZmZxX2lYZ1RpclppMTMwcDVZMk1lc0wyN19ZSGxLUFZUaDVCS043VFl2X1NvOTNsNFE5alRyZXpoMGpaZjQxOXFCSWhwZHJzNlUwMA?oc=5",
-          "title": "3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUZIX2xxNE1ZeFhGLUxCWFR3WWJDdklsc0ItTmltbXQ4MVJjdzlZbnZzbUJCNHZaNmIwVGlGM2Qwa2d1RzU4N0hWNWtiUDg4U3pXX2JIanNxMXBlQm9zVEgyOUM4eVVuLXREc2RjNXdLNXpZQi16NWctUXh5a0NuODAweWxPcEdaYU1kUkcybUVyckhlLUFSOHFSZw?oc=5",
-          "title": "UFC 334 results: Sooo … About last night | Gane vs. Hokit"
-        },
-        {
-          "source": "theScore",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS19vVGhxRUNVVkZkbEs5XzE5WVNxN3dtMzBSTmphZ0txaTJIcVFEWDZFaGtUOFg5VFR2S29YbkZnZHExUVB5V2tzTWR5WEtieEhIcU9JN0JmaW0zekxwYnBlZEdxb0xxdEZmTmJqUnk5cl96VmFqbTNPWnZJa0pwNmFfWWNHNms?oc=5",
-          "title": "UFC 334: Gane vs. Hokit results, analysis"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
-          "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit"
-        }
-      ]
-    },
-    {
-      "key": "7ce00d92ec",
-      "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit",
-      "summary": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit Sportsnet.ca",
+      "key": "d5f0f4a1be",
+      "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes",
+      "summary": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes KTVN",
       "lang": "en",
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.42,
+      "heat": 11.56,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-15T14:24:00+00:00",
+      "published": "2026-11-15T21:15:13+00:00",
       "refs": [
         {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
-          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
+          "source": "KTVN",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMk5QTHF6cXRieEI5aFhEMjg1LTV1NldXVEFjS0F0d1oxTHBsTnZKODhST0JwOWVVa0Vjcm1JWm1OSUhZdk16RmJhcHJjd19JWTFsc29UYndibHBaQlNDOVU0TUdObm82clhtb0JhRXc4aEgweDdhY3FJeWYwTm93cTEtcnFyazBxVGl2em1QcTB2VVA0bzdKRmFJdW1xdlJoTm9BLVdEc3dfNzM2S2NPT1B6QkNZVmRaZ0dzbGZuV1laMldEM3RGTTZhSnF2dXNKSTdib3R6UDlQYmhfWmFTQWE5LWd1bzZiZVp4cVY5LW42UnM?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
         },
         {
-          "source": "www.thenationalnews.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQlZ6N1JiVEFYSUZkU2xlMGZDMFltVHdhY0xTUy1PWUxUejl0RVZBVml6VGk3LTZxUEdILXVPWjkyanR5c0xtMTlVdjRzMXdEVHhiQWVrMWlQeHFTbFVBckRXQUdCTWh4RlVJNG5aemFuN1k5STY4WGU2Z1N1dXhxOXhZT3lwcW9PZml5UmpIUTJlbmJKZDRXOW9PWkVicHkxTllLX3o5VDVsdDN0SUh0blZHRUpuNWdKMFVQU0dubi1POUh5aDhXcEIwb1ppS3NKd0hiSHc4Q2RlckJFNnB4V2QzR080M1RDNS1oQmR5RQ?oc=5",
-          "title": "Ciryl Gane next fight: Three options for UFC heavyweight champion after victory over Josh Hokit"
+          "source": "Oskaloosa Herald",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdVJjUml1LUZWSnZtZHpBV2JuRnA3bk9Ualk4MWVmeHRmWDhCZC1QZ05VaW92VllfQjFyTjNheGFDZjlsZzluUnlsZGE2RFlCZTloZUY4U1Utcmc0TGkxdjh1ZXJ3QUJZSzNZUGNBNUFpSEV3Rk4yVEg3a1BoS1RTa2F3Q0xtUnQ4MERJYmJYZGhKOEFxODVuSXQwUW1oRVZWc3d0Y0g2aXFkTUZfQVg3XzRiYlEtR3dBWU9PTWJxTEQ4SFdWbW80TE5XWXNWcEJkZEZYWWNmMW9RVkZHS3VnUjIzaTRCOUJPck8tZjNmQk9ZenY1Y0ZDQkFzZ2VIRXZKYzc0a0dWWWZhQnUybjYw?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
         },
         {
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaE11Q3V1dFRCQ2htZjA2SXA1blJnU1RTNG0waC1yUks0UjNMbUlWSmozS3BFMTV0VEZFVkd4YnZQSG5kS3h2Y2dHVWVHeGI4UDNjUTdURkg4QmpaSFBCU25mMm1rMjdES1BQU3pQNzVTdDZYc2dCOWhIYmVWb0I3SjVtM3R3VXJOSHdUaFlkN3ZJN0FiMGVuR25ZcXltMjlmNTd3bW4zOC14QQ?oc=5",
-          "title": "Ciryl Gane sweeps Josh Hokit on the scorecards to retain heavyweight title at UFC 334 at MSG"
+          "source": "The Sun Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk9BeVFXV2hRdWZqLUdQUl9nb25lZGJBX1c0N1l0VENDSWFraVFDLTA2alZIaWNKLUJUbnZxaDBUd1BLWE1BVEJqRi15Y1FEVU5pVDM0SFlnTnVJS2V5VjJQWUFLaUJwRnFXbEtTTEJTcmdPdHpNZ1FHNG4wVm90LUhzbmRpVS1XUGZvNnN4VzBRcHVTRmJROC1iMUtRQWlmZ2FGbmhmYkFMOWpTcTN2RFFWcHdtVkwyVnNyTzFxS2RHVWp1SldCbVdvdjFmUzhQZERHMGVpTVhUdGM0eVRabDQxb1BQRzJHRDczUGpjTF9Fd2U4aUNtbEc3ek1VSWFsbnc?oc=5",
+          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
+        },
+        {
+          "source": "Bozeman Daily Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVmlIZXZnZDA0YllfbHhZQURYQWhNTmtFNUZiTWVBOWtsT0NNRTlKcUktQmlkd3NMWVd5Q25idXVFaGcxV2NjSVQ1Q1lId3V0OWZLTXVfWG5kYmE4ZVYzcXZOdERsQ2VOQ3RhUEdtNXlCNWRlM1F2QnFaaUl2YU5RU0pRNUR4enkxdU5nZFlyejhZRW1zenhVTFJNVm41aE4tRUVDODV4b2tiSWNqVjlfLWVERU9FbVV6WVFnS3FOaHNOeUNJRjBINjM2clJ5V2VWNXJqWnpfOC15SHFlVE9mR0lwbkFsYmxUcmRRRVNoS3loNUR3c3lZS2R0cDBxbzdQWWt1TDVDb2w4dw?oc=5",
+          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
+        }
+      ]
+    },
+    {
+      "key": "1ce865be09",
+      "title": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes",
+      "summary": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes POST Wrestling",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.49,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-15T20:31:07+00:00",
+      "refs": [
+        {
+          "source": "POST Wrestling",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd21NNjM4cWR4dnE4VjVXbU5jOTJodUF5VE9sRW44MzhuejVtclEwMTQxWEVRTTFMcGhRRHNwaHR4ZTRkQXFtZm5rQ3NSZ3lPLVFHMnRWRzZHMDlrV0EwQ3FadEhsckROMnRXRXZXYWMxSzhzZzFzQjFmNFRhaGFFUzYzajU4bXBoR0FIaF94ODZDZ05lV3FxWWUwRklFa2pPdzVjNHBIOFFCR25jY0JJNFpB?oc=5",
+          "title": "UFC 334 Review: Ciryl Gane vs. Josh Hokit, Kayla Harrison vs. Amanda Nunes"
+        },
+        {
+          "source": "CBS Sports",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVB3SnNWX0loZkdaaGtNc1duQm9DX1dGcWVrWEpFQzhjdy1xYzdiOTJxbGk4S2RZR0pvRXY0VlNIMm9qdi13d1FPZktFR0pRdXlpbEUxc3hfNEx4Q2JPeTU3ZlVoVlRzTkpVMVc4dWZQZ3h3Ny1UVjN6Q1ZELUZITkFQWU9zY21tdFEwVDNXNGJxV0R1ekN1WF9ROFdPNzE5bEJnYWJsckY1Zw?oc=5",
+          "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONk5iQzRWRmdMRGM1OWc2bmZwWjFLWHJpZ3JzS1JZOGlSOGRCMmFNWDc4Y3B3WHA0emtJMU9XZmlXaG9GNl8zOGJTZTE5algxelk2Yk5rak9YUWNNSlB3ZFFMZ0xmUTVERW55TWJkT21xY2otZi1TOHJHTlhZSGtKTWhQZzRLSWs4V1IyVjBZYUZLVFV0VUE?oc=5",
+          "title": "Dana White On Polymarket UFC 334, Ciryl Gane, Josh Hokit, Kayla Harrison & More"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/521233/ufc-334-live-blog-ciryl-gane-vs-josh-hokit",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFI4ekJtOUNFY3RCaXNZdFdQalNjM2FCZGwxUFNReGxuaURIMUI0SkNUdmVWUHJpaUpHZFVfdFRYS3VWSFZKelNxdU5XUmY3Z0FZV0lMNHFiNmgzQXJQRXlVdUNwRVQ0d0JwMXJMalBmdnZxTHdRTjJaaHJZd1dfdndILW1RNnFY?oc=5",
           "title": "UFC 334 live blog: Ciryl Gane vs. Josh Hokit"
         }
       ]
     },
     {
-      "key": "3051e70f87",
-      "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey",
-      "summary": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey Cageside Press",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.25,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T15:39:51+00:00",
-      "refs": [
-        {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNhdVZMLW1SZy15Qkt2WmYzeFkwUmVfb2ZGd25nVklTVDc3VWVPNXpubzRiUzNZQVhLN3p3c1VxNnJ2YjdYeUcwRS1ZRTM1LU1ST3Y2TFh4NjVxQ0FpWE9CaWRFVVBnQldqY0xKRE4yTTRRT05UaTVvNG9naW4yRWcwZld6NEIxeDhFdEdWdGJyd3BtZjBHd0Vvbng1MHNkR255OHAtb19tMnBTT2JF?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZlU4ZVIxSHRPbWNPN3JNTG9VdUJGUF9GRFR1THhEN2lyRXFGMlB2aW1uTm9HbVkxSjh0dkxQVlMyQnpVQTNFUkpVQ1lESWE4OFBtQ21YRWFpcG5FZ0g2UVBFRDFMX1lwVFc2bTNRSHdJclZUWDM3WmNRNF9LMFk?oc=5",
-          "title": "UFC 334: Kayla Harrison down for Amanda Nunes or Ronda Rousey next"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWtEVjVPLUVEdXNFOTNwamdxYzVab3R0cHc2Q3FRaXlnREc4Y01sV2IzZ0pRZlZGcU0xT29UOTFxMjJpYXdVR0JQUkR0STJ3c3VZYUZWY0NwT0VRdGtpYmFVTVppLUMzVFBoNzhPNzN3eWw3UlpXY2EwLXExRFI3R0hEQlpWd1RzU2xkWkpqVmg?oc=5",
-          "title": "UFC 334 live blog: Kayla Harrison vs. Amanda Nunes"
-        },
-        {
-          "source": "Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2VLT0FfV2dQTHdQRjlNcktUbzBWdWFPSEN4cUFQRUdnZTdjWHZkY3RzQjd1SDUzS3lnWjdFX1RuVmo1UEx0cnhYZ0lWd1lSTWZoVDhKRkZjUDV6b201LW5vTGI0dlZaYXNVYllVWHBSQk92RXBrbVRuYnI0MExBT3J5azFoZnlkYWE1amppMGJaYzNLOGZnVTd5cU9MUDBpaW12Wk1aRHNVUjZNNk5rTGVfenFLUTJQM0s3LVFQRmt6b0VjTFZNcnFKSDJjQQ?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes, Judges' Scorecards, Prize Money, Stats & Highlights from UFC 334"
-        }
-      ]
-    },
-    {
-      "key": "77a8c54291",
-      "title": "Харрисон впервые защитила титул UFC в бою с Нуньес",
-      "summary": "Харрисон впервые защитила титул UFC в бою с Нуньес ГИПОРТ",
+      "key": "66c55038fe",
+      "title": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров",
+      "summary": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров Newsroom24",
       "lang": "ru",
       "sport": "combat",
-      "outlets": 4,
+      "outlets": 3,
       "growth": 0,
-      "heat": 10.5,
+      "heat": 8.92,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-15T05:20:58+00:00",
+      "published": "2026-11-15T17:51:08+00:00",
       "refs": [
         {
-          "source": "ГИПОРТ",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxKUWxpTU1kNy1GdTM5MG8xSm12c0x4bUhrNC1pejNoT1gxTWFYcEFGNkI2bHBQOU1UMmttN3VYVDJFUUZmLVJubjM0cnJnTnFpNUNISVNPQlR6Q2twbENXeVo4VjNHeE9RbUMzSnBDWVlrUkNWQ25PYktkOW1UZUtRamFja2Roc2tUeHBCNy1QejNN?oc=5",
-          "title": "Харрисон впервые защитила титул UFC в бою с Нуньес"
+          "source": "Newsroom24",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JblRWUHFXUldaUGk5SHR1RmJEelVOZzlfbEtMS0o1WEpZcDVMVi1lTjRtbFB0MEVrcW1XODFUdWVoVU9mWERkc1AtdVFJSE0xWU5xSDMxT1dmdGlRVHJTNDctb2s?oc=5",
+          "title": "В Петербурге разыграют Кубок Никифорова-Денисова по боксу среди юниоров"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
+          "source": "Вечерний Санкт-Петербург",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmxSa01obm1BYkFOYVdWSXNKNVNzQ2ZnbHZTUnlXZ1duNmFNUExRdG9hZm9CRmpkN3p2cDVPMU5BZ2Y4eDRLLXZ3a2VmTXhvMW5ZMThyclRUUFdvQjVVOC05NmRCSkk3ZTR4ams0YUlpUkxCQ25ZYU5UdmM4VmUtQTdkZXF4WkIxUWduR0cySDltV1RHUUFuaGFxem5KU01tdnBGMjR3X3N3R1NrcmR1eVRzZjIyOWs1QjBmQ1VLWGF6dHlzaVE?oc=5",
+          "title": "Всероссийские соревнования по боксу на Кубок Н. А. Никифорова-Денисова стартовали в Петербурге"
         },
         {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9NeUo2aG9YdVJLVlE5N2p6RmowV2c0SkUxSThqeFU1S1JXeVo5LVVFcFdBcW1DcERWRmRjVkNpT01IVDJseHAyQWRPQ0tZQUk3a2JCVzVxOEJPakdMcUN2Q0dvTGVuWU43WjRvbUhqLV82dmFNVzFfSkdqMVZtaFM5aEJqUkotdEhhQ213SGY5VFVkaVZRaU9LaHVYbnItZjlaN0NfMTNvaDJjZmZRVjNjWFc4U1VESzlqbjFxaUVKNVdOdG9n?oc=5",
-          "title": "Кайла Харрисон впервые защитила титул чемпионки UFC"
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tTb2RDWlZPaV9BTW9SQjNwLUtwUXpZc0RmU0llVUdHT1NEQ2tRSkNmY1RkOVM1WmxSOE9SV3o1dV9ER3l0MHItbFNOQUxvZ2FDZFgxN0Z0c3Z0NUZWUVZQYjJCN1dDdEE4MDYySVZMMUhEb3ppOVl3cEI3dHB5TEVIZEhXMy02ZDlYQXZvTC1wbU1LUDgyQ1Bhb0I3U20ybTZQRmNDYjFjekthUXhtUkJvY21KWGZWd0E?oc=5",
+          "title": "В Петербурге стартовал всероссийский турнир по боксу памяти Никифорова-Денисова"
         }
       ]
     }
