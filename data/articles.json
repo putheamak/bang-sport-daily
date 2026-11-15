@@ -5,7 +5,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T13:59:10+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "combat",
     "tags": [
@@ -34,7 +34,20 @@
         "url": "https://mykunkhmer.com/eh-phouthong/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-15T14:04:08+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-15T14:04:09+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-15T14:04:09+07:00"
+      }
+    ],
     "en": {
       "headline": "Eh Phouthong: The Koh Kong Fighter Who Became the Face of Kun Khmer",
       "subheadline": "A national champion across several weight classes, he beat international opponents in Phnom Penh, taught street children for free and now coaches Cambodia's next champions.",
@@ -57,16 +70,16 @@
         "subject": "The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008"
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2015_0319_174425_KohKongIsland_Strandidylle.jpg/1280px-2015_0319_174425_KohKongIsland_Strandidylle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:2015_0319_174425_KohKongIsland_Strandidylle.jpg",
-        "artist": "Christiane Bender",
-        "license": "CC BY 2.0",
-        "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "description": "Koh Kong Island Resort, Koh Kong Island, Cambodia",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kneestrike_kun_khmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Kneestrike_kun_khmer.jpg",
+        "artist": "AlexaForward",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "A knee strike in a pradal serey(Kun Khmer boxing) match. Khim Bora(right) uses a knee strike against Pich Sambath(left).",
         "width": 1200,
-        "height": 800,
-        "year": 2015,
-        "subject": "Koh Kong province, where Eh Phouthong was born"
+        "height": 751,
+        "year": 2023,
+        "subject": "A Kun Khmer bout, the martial art in which Eh Phouthong was national champion"
       }
     ],
     "zh": {
@@ -87,7 +100,9 @@
         "area": "sources",
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
+    "published_at": "2026-11-15T14:04:09+07:00"
   },
   {
     "id": "2026-11-15-news-e91063",
