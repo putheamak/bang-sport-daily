@@ -1,4 +1,8 @@
-2026-11-14 16:27:55,730 INFO Match card added to 2026-11-13-news-a068e9
-2026-11-14 16:27:55,730 INFO Photos for 2026-11-13-news-a068e9 set from photos.yaml (3 photo(s))
-2026-11-14 16:27:55,731 INFO Cover photo of 2026-11-13-news-a068e9 changed: another story already uses that picture
-2026-11-14 16:27:57,015 INFO Website built: 38 published stories, 159 pages
+2026-11-15 07:19:43,244 INFO Photo check Chhitsarimehphouthong.jpg (Wikimedia Commons, 515x723): REFUSED, licence 'CC0' is not a free licence
+2026-11-15 07:19:43,289 INFO Photo check EhPhouthong_pradalserey.jpg (Wikimedia Commons, 729x687): REFUSED, licence 'CC0' is not a free licence
+2026-11-15 07:19:43,290 INFO Wikipedia article 'Eh Phouthong': 16 file(s) listed, 0 free photo(s) usable
+2026-11-15 07:19:43,629 INFO Photo check Olympic_Stadium_Phnom_Penh_SG2023.png (Wikimedia Commons, 1920x1080): OK, licence 'CC BY 3.0'
+2026-11-15 07:19:43,745 INFO Photo check Kneestrike_kun_khmer.jpg (Wikimedia Commons, 1267x793): OK, licence 'CC BY-SA 4.0'
+2026-11-15 07:19:43,746 INFO Photos for 2026-11-15-athl-5534d0 set from photos.yaml (2 photo(s))
+2026-11-15 07:19:44,423 INFO IndexNow: 3 page(s) submitted (HTTP 200)
+2026-11-15 07:19:46,563 INFO Website built: 42 published stories, 171 pages

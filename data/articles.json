@@ -101,7 +101,7 @@
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Eh Phouthong\", \"max\": 2, \"wikipedia_all\": \"Eh Phouthong\"}, {\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
     "published_at": "2026-11-15T14:04:09+07:00"
   },
   {
