@@ -1,5 +1,163 @@
 [
   {
+    "id": "2026-11-16-news-ccd145",
+    "slug": "ciryl-gane-claims-victory-at-ufc-334-against-rob-hokit",
+    "date": "2026-11-16",
+    "created": "2026-11-16T01:16:53+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "combat",
+    "tags": [
+      "UFC 334",
+      "Ciryl Gane",
+      "Rob Hokit",
+      "Dana White",
+      "UFC",
+      "Mixed Martial Arts"
+    ],
+    "athletes": [
+      "Ciryl Gane",
+      "Rob Hokit",
+      "Dana White"
+    ],
+    "image_subjects": [
+      "Ciryl Gane",
+      "Dana White",
+      "Ultimate Fighting Championship",
+      "T-Mobile Arena"
+    ],
+    "match": null,
+    "facts_to_verify": [
+      "Specific round and method of victory for Gane vs. Hokit",
+      "Exact monetary figures for UFC 334 fighter payouts"
+    ],
+    "sources": [
+      {
+        "title": "UFC 334: Gane vs. Hokit Fight Results",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TSk5fQnoxbUFqTE4yS2doZHgxeW1NNnhVbEVOTnZNRUZ0d1pqeU4wcnBuSUdLN0xVRU5NVFF5Z05icTh4Z1Fid0d0RnJVTEF0eGFxZmJTZkRXbVpseXp0NDVoZFVEczNGX2gzb0FpZDgwZFU?oc=5"
+      },
+      {
+        "title": "3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit",
+        "url": "https://www.si.com"
+      },
+      {
+        "title": "sports.betmgm.com: UFC 334: Gane vs. Hokit Payouts & Fighters’ Salaries",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9RX1pXaFotN25TZ2RjMWxCQ0ZlVmVLZ2VzRG5BeTlZMGIyMnhmT1hydnZ6QlVRY2NMd0ZhVEdPUEFXTTZoeVVpZHdnektUWk00bHVXaDd6WXpXWTVIdmtVeW0wNEluRlpOV3pYYkZSbF9DTDVJRDB4Ni1obTBCTE5EUy1YRWs2VG1KZg?oc=5"
+      },
+      {
+        "title": "Sports Illustrated: 3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVROVjlIYl9BYkxEVE5qS240WWEzTkM0MHQyRGlKLUNKdEJsT0tmVFlIWERfUTYtN3JqMm92Q1BqRUtpRVNXamdqTHcwTlY5cEtPbG14aEVNZmZxX2lYZ1RpclppMTMwcDVZMk1lc0wyN19ZSGxLUFZUaDVCS043VFl2X1NvOTNsNFE5alRyZXpoMGpaZjQxOXFCSWhwZHJzNlUwMA?oc=5"
+      },
+      {
+        "title": "MMA Mania: UFC 334 results: Sooo … About last night | Gane vs. Hokit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUZIX2xxNE1ZeFhGLUxCWFR3WWJDdklsc0ItTmltbXQ4MVJjdzlZbnZzbUJCNHZaNmIwVGlGM2Qwa2d1RzU4N0hWNWtiUDg4U3pXX2JIanNxMXBlQm9zVEgyOUM4eVVuLXREc2RjNXdLNXpZQi16NWctUXh5a0NuODAweWxPcEdaYU1kUkcybUVyckhlLUFSOHFSZw?oc=5"
+      },
+      {
+        "title": "theScore: UFC 334: Gane vs. Hokit results, analysis",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS19vVGhxRUNVVkZkbEs5XzE5WVNxN3dtMzBSTmphZ0txaTJIcVFEWDZFaGtUOFg5VFR2S29YbkZnZHExUVB5V2tzTWR5WEtieEhIcU9JN0JmaW0zekxwYnBlZEdxb0xxdEZmTmJqUnk5cl96VmFqbTNPWnZJa0pwNmFfWWNHNms?oc=5"
+      },
+      {
+        "title": "UFC.com: Main Card Results | Polymarket UFC 334: Gane vs Hokit",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Ciryl Gane Claims Victory at UFC 334 Against Rob Hokit",
+      "subheadline": "The heavyweight contender secured the main event win on November 15, 2026, as promotion executives outlined future plans.",
+      "body_markdown": "## Heavyweight Headliner at UFC 334\n\nCiryl Gane secured a headline victory at UFC 334, defeating Rob Hokit in the main event on November 15, 2026. ESPN, theScore, and MMA Mania tracked the card from the opening preliminary bout to the final championship-level exchange.\n\nThe event drew widespread attention across combat sports media platforms, recording the performances of fighters competing on the main card and preliminary bouts. Promotional officials documented the outcomes across multiple weight classes as athletes maneuvered for divisional positioning.\n\n## Post-Event Announcements from Dana White\n\nFollowing the conclusion of the event, UFC Chief Executive Officer Dana White addressed media members during the post-event press conference. Sports Illustrated reported that White outlined three notable updates regarding the promotion's immediate schedule and athlete contracts.\n\nThe press conference also addressed fighter compensation figures and bonuses distributed following the bouts. Outlets including SportsBetting.com analyzed the reported payouts and fighter salaries stemming from the UFC 334 fight card.\n\n## Division Rankings and Next Steps\n\nGane's victory alters the landscape of the heavyweight division as contenders position themselves for upcoming championship opportunities. The promotion evaluates next steps for the division's top competitors following the results recorded on November 15, 2026.\n\nFighters return to training camps as matchmakers review the divisional rankings. Analysts from theScore and MMA Mania noted that the results from UFC 334 will influence upcoming booking decisions for early 2027.",
+      "social_post": "Ciryl Gane secured a headline victory at UFC 334, defeating Rob Hokit on November 15, 2026. What does this result mean for the heavyweight division? Let us know in the comments! #UFC334 #CirylGane #RobHokit #MMA"
+    },
+    "zh": {
+      "headline": "UFC 334头条大战落幕：西里尔·盖恩击败罗伯·霍基特斩获关键胜局",
+      "subheadline": "这位重量级顶尖挑战者在2026年11月15日的头条主赛中笑到最后，赛事高层同步披露未来规划。",
+      "body_markdown": "## UFC 334重量级头条对决\n\n2026年11月15日，西里尔·盖恩（Ciryl Gane）在UFC 334的压轴大戏中击败罗伯·霍基特（Rob Hokit），强势揽下一场头条主赛的胜利。从最初的副赛揭幕战到最终冠军级别的巅峰交锋，ESPN、theScore以及MMA Mania等权威体育媒体对整期战卡进行了全程追踪报道。\n\n本场赛事吸引了搏击媒体圈的广泛关注，详细记录了主赛与副赛选手的擂台表现。随着多位名将为各量级的排位展开激烈争夺，UFC官方也完整梳理并公布了各大级别的战果。\n\n## 白大拿赛后新闻发布会定调未来\n\n赛事战罢，UFC首席执行官白大拿（Dana White）出席了赛后新闻发布会并接受媒体提问。《体育画报》（Sports Illustrated）报道称，白大拿在会上就赛事近期的赛程安排以及选手合同问题做出了三项重要通报。\n\n发布会还对外通报了本期赛事的出场薪酬与花红发放情况。包括SportsBetting.com在内的多家媒体，对UFC 334战卡的官方薪资明细与选手收入进行了深度解析。\n\n## 量级排名重组与后续走向\n\n盖恩的胜利直接改写了重量级目前的竞争版图，各大顶级竞争者也在借此调整身位，全力冲击接下来的冠军争夺资格。基于2026年11月15日打出的战果，UFC赛事方正在全面评估该级别领跑阵营的下一步对阵规划。\n\n随着赛事编排团队重新审视各级别排名，选手们也已陆续重返训练营备战。theScore和MMA Mania的分析专栏指出，UFC 334的最终赛果，势必将对2027年初的重大对阵敲定产生深远影响。",
+      "social_post": "西里尔·盖恩在2026年11月15日的UFC 334头条主赛中击败罗伯·霍基特，强势带走胜利！这场胜利将给重量级带来怎样的风暴？快来评论区聊聊你的看法！ #UFC334 #盖恩 #MMA #综合格斗"
+    },
+    "ru": {
+      "headline": "UFC 334: Сирил Ган празднует победу над Робом Хокитом",
+      "subheadline": "Французский тяжеловес забрал главный бой вечера 15 ноября 2026 года, а руководство промоушена озвучило планы на будущее.",
+      "body_markdown": "## Хедлайнеры тяжелого веса на UFC 334\n\n15 ноября 2026 года Сирил Ган (Ciryl Gane) оформил важную победу в главном поединке турнира UFC 334, одолев Роба Хокита (Rob Hokit). Ведущие спортивные издания — ESPN, theScore и MMA Mania — подробно освещали турнир с первого боя ранних прелимов до решающих разменов в финале уровня чемпионского противостояния.\n\nИвент привлек колоссальное внимание профильных СМИ: обозреватели фиксировали каждое действие бойцов как в основном карде, так и в предварительных схватках. Руководство промоушена подвело официальные итоги в нескольких весовых категориях, где атлеты вели ожесточенную борьбу за позиции в рейтингах.\n\n## Заявления Даны Уайта на пресс-конференции\n\nСразу после завершения турнира генеральный директор UFC Дана Уайт ответил на вопросы журналистов на традиционной послематчевой пресс-конференции. Как сообщает Sports Illustrated, глава лиги озвучил три ключевые новости, касающиеся ближайшего расписания промоушена и контрактных обязательств бойцов.\n\nКроме того, на пресс-конференции затронули тему выплат и распределения бонусов по итогам турнира. Порталы уровня SportsBetting.com проанализировали представленные финансовые отчеты и гонорары участников UFC 334.\n\n## Расклады в дивизионе и дальнейшие шаги\n\nУспех Гана вносит серьезные коррективы в расстановку сил среди тяжеловесов — контендеры продолжают выстраиваться в очередь за титульными шансами. Руководство лиги уже оценивает следующие шаги для лидеров дивизиона с учетом результатов, зафиксированных 15 ноября 2026 года.\n\nПока матчмейкеры пересматривают обновленные табели о рангах, бойцы возвращаются в тренировочные лагеря. Аналитики theScore и MMA Mania подчеркивают, что итоги UFC 334 окажут прямое влияние на организацию ключевых поединков в начале 2027 года.",
+      "social_post": "Сирил Ган забирает главный бой турнира UFC 334, одолев Роба Хокита 15 ноября 2026 года! Что эта победа значит для тяжелого дивизиона? Делитесь мнением в комментариях! #UFC334 #СирилГан #РобХокит #MMA #UFC"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_received_Dana_White,_June_2025_(3x4_cropped_and_rotated_on_White).jpg",
+        "artist": "Press Service of the President of the Republic of Azerbaijan",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Ilham Aliyev received Dana White, President of the Ultimate Fighting Championship (UFC)",
+        "width": 1200,
+        "height": 1600,
+        "year": 2025,
+        "subject": "Dana White"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/UFC_Freedom_250%2C_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship%2C_Sunday%2C_June_14%2C_2026%2C_in_the_Grand_Foyer_of_the_White_House_-_64%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg",
+        "artist": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "UFC Freedom 250, the mixed martial arts event produced by the Ultimate Fighting Championship, Sunday, June 14, 2026, in the Grand Foyer of the White House",
+        "width": 1200,
+        "height": 1687,
+        "year": 2026,
+        "subject": "Ciryl Gane"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg/1280px-T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:T_Mobile_Arena_The_Strip_Las_Vegas_(29798246202).jpg",
+        "artist": "Tomás Del Coro from Las Vegas, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "TDelCoro September 24, 2016",
+        "width": 1200,
+        "height": 657,
+        "year": 2016,
+        "subject": "T-Mobile Arena"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 233 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Specific round and method of victory for Gane vs. Hokit"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact monetary figures for UFC 334 fighter payouts"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://www.si.com"
+      }
+    ],
+    "auto_rejected": [
+      "too short (233 words, minimum 250)"
+    ]
+  },
+  {
     "id": "2026-11-15-news-3c99ee",
     "slug": "china-win-four-golds-at-beijing-speed-skating-world-cup-as-n",
     "date": "2026-11-15",
