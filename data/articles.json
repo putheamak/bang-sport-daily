@@ -1,7 +1,246 @@
 [
   {
+    "id": "2026-11-15-news-e91063",
+    "slug": "gane-hands-hokit-his-first-defeat-and-harrison-submits-nunes",
+    "date": "2026-11-15",
+    "created": "2026-11-15T13:34:21+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "combat",
+    "tags": [
+      "UFC",
+      "UFC 334",
+      "Ciryl Gane",
+      "Josh Hokit",
+      "Kayla Harrison",
+      "Amanda Nunes",
+      "MMA"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Heavy: Ciryl Gane retains title after war with Josh Hokit",
+        "url": "https://heavy.com/sports/ufc/ciryl-gane-retains-title-josh-hokit/"
+      },
+      {
+        "title": "Khel Now: UFC 334 full results",
+        "url": "https://khelnow.com/ufc/ufc-334-full-results-202611"
+      },
+      {
+        "title": "Yahoo Sports: UFC 334 results: Gane vs. Hokit",
+        "url": "https://sports.yahoo.com/mma/live/ufc-334-live-results-gane-vs-hokit-updates-round-by-round-scoring-for-tonights-title-doubleheader-191500505.html"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Gane Hands Hokit His First Defeat and Harrison Submits Nunes at UFC 334",
+      "subheadline": "Both champions kept their titles at Madison Square Garden: Ciryl Gane on three 48-47 scorecards, Kayla Harrison by rear-naked choke in the fourth round.",
+      "body_markdown": "## What happened\n\nCiryl Gane and Kayla Harrison both kept their titles at UFC 334 at Madison Square Garden in New York on Saturday 14 November 2026.\n\nIn the main event, heavyweight champion Gane beat Josh Hokit by unanimous decision after five rounds. All three judges scored the fight 48-47. It was Gane's first defence of the title and Hokit's first defeat as a professional.\n\nIn the co-main event, Harrison beat Amanda Nunes by rear-naked choke at 1 minute 29 seconds of the fourth round to remain women's bantamweight champion.\n\n## How the fights went\n\nHokit pressed forward from the start and went for early takedowns, many of which Gane stopped, Heavy reported. The Frenchman answered with jabs, knees to the body and a high kick that Hokit blocked. Hokit tired in the fifth round and pressed less. Three scores of 48-47 mean each judge gave Gane three rounds and Hokit two.\n\nHokit, a 28-year-old former NFL player, came into the fight with a 10-0 record. He made his UFC debut in late 2025 and had won four fights in the promotion, including wins over Curtis Blaydes and Derrick Lewis, according to Yahoo Sports.\n\nNunes, a former two-division champion and UFC Hall of Fame member, was returning after a layoff. She chose to grapple with Harrison, and Harrison finished the fight after a single mistake, Khel Now reported.\n\n## Key facts and numbers\n\n- **Heavyweight title:** Ciryl Gane beat Josh Hokit by unanimous decision (48-47, 48-47, 48-47).\n- **Women's bantamweight title:** Kayla Harrison beat Amanda Nunes by submission (rear-naked choke), round 4, 1:29.\n- **Records before the event:** Gane 14-2, Hokit 10-0, Harrison 19-1, Nunes 23-5.\n- **Main card:** Caio Borralho beat Yousri Belgaroui by unanimous decision; Uros Medic and Kevin Holland fought to a majority draw; Luis Gurule beat Bilal Hasan by split decision.\n- **Farewell:** Stephen Thompson won his retirement fight on the preliminary card, stopping Charles Radtke with a spinning wheel kick.",
+      "social_post": "UFC 334 at Madison Square Garden: Ciryl Gane beat Josh Hokit on three 48-47 scorecards to keep the heavyweight title, Hokit's first professional defeat. Kayla Harrison submitted Amanda Nunes in round 4 to stay bantamweight champion. #UFC334 #MMA"
+    },
+    "origin": "inbox/2026-11-15-ufc-334-gane-harrison.md",
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/UFC_Freedom_250%2C_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship%2C_Sunday%2C_June_14%2C_2026%2C_in_the_Grand_Foyer_of_the_White_House_-_64%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_Freedom_250,_the_mixed_martial_arts_event_produced_by_the_Ultimate_Fighting_Championship,_Sunday,_June_14,_2026,_in_the_Grand_Foyer_of_the_White_House_-_64(cropped).jpg",
+        "artist": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "UFC Freedom 250, the mixed martial arts event produced by the Ultimate Fighting Championship, Sunday, June 14, 2026, in the Grand Foyer of the White House",
+        "width": 1200,
+        "height": 1687,
+        "year": 2026,
+        "subject": "Ciryl Gane, UFC heavyweight champion"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/President_Donald_Trump_congratulates_Kayla_Harrison_after_her_victory_during_UFC_316_%2854577590491%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_congratulates_Kayla_Harrison_after_her_victory_during_UFC_316_(54577590491)_(cropped).jpg",
+        "artist": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "President Donald Trump congratulates Kayla Harrison after her victory during UFC 316 at the Prudential Center in Newark, NJ., June 7, 2025. (Official White House Photo by Daniel Torok)",
+        "width": 1200,
+        "height": 1718,
+        "year": 2025,
+        "subject": "Kayla Harrison, UFC women's bantamweight champion"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/1280px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg",
+        "artist": "Ajay Suresh from New York, NY, USA",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Madison Square Garden, Midtown Manhattan, NYC",
+        "width": 1200,
+        "height": 675,
+        "year": 2019,
+        "subject": "Madison Square Garden in New York, venue of UFC 334"
+      }
+    ],
+    "zh": {
+      "headline": "UFC 334：加内让霍基特首尝败绩 哈里森降服努涅斯",
+      "subheadline": "两位冠军在麦迪逊广场花园双双卫冕：西里尔·加内以三张48比47的记分卡获胜，凯拉·哈里森第四回合以裸绞取胜。",
+      "body_markdown": "## 发生了什么\n\n2026年11月14日（周六），UFC 334在纽约麦迪逊广场花园举行，西里尔·加内（Ciryl Gane）和凯拉·哈里森（Kayla Harrison）双双卫冕成功。\n\n头条主赛中，重量级冠军加内在五回合战罢后以一致判定击败乔什·霍基特（Josh Hokit），三位裁判的记分均为48比47。这是加内的首次卫冕，也是霍基特职业生涯的首场失利。\n\n联合主赛中，哈里森在第四回合1分29秒以裸绞降服阿曼达·努涅斯（Amanda Nunes），保住了女子雏量级冠军头衔。\n\n## 比赛经过\n\n据Heavy报道，霍基特开场就不断前压，并早早尝试抱摔，但多次被加内化解。这位法国选手以刺拳、膝击腹部和一记被对手挡住的高扫还击。第五回合霍基特体力下降，压迫减少。三张48比47的记分卡意味着每位裁判都判加内赢下三个回合、霍基特赢下两个回合。\n\n28岁的霍基特曾是NFL球员，赛前战绩为10胜0负。据雅虎体育报道，他在2025年底完成UFC首秀，此前在UFC取得四连胜，其中包括击败柯蒂斯·布莱兹（Curtis Blaydes）和德里克·刘易斯（Derrick Lewis）。\n\n努涅斯是前双量级冠军、UFC名人堂成员，此役是她久疏战阵后的复出之战。据Khel Now报道，她选择与哈里森进行缠斗，哈里森在她出现一次失误后终结了比赛。\n\n## 关键数据\n\n- **重量级冠军战：** 西里尔·加内一致判定击败乔什·霍基特（48比47、48比47、48比47）。\n- **女子雏量级冠军战：** 凯拉·哈里森第四回合1分29秒以裸绞降服阿曼达·努涅斯。\n- **赛前战绩：** 加内14胜2负，霍基特10胜0负，哈里森19胜1负，努涅斯23胜5负。\n- **主赛其他结果：** 卡约·博拉略（Caio Borralho）一致判定击败尤斯里·贝尔加鲁伊（Yousri Belgaroui）；乌罗什·梅迪奇（Uros Medic）与凯文·霍兰德（Kevin Holland）战成多数平局；路易斯·古鲁莱（Luis Gurule）分歧判定击败比拉尔·哈桑（Bilal Hasan）。\n- **告别战：** 斯蒂芬·汤普森（Stephen Thompson）在副赛中赢下自己的退役之战，以一记转身轮踢终结查尔斯·拉德克（Charles Radtke）。",
+      "social_post": "UFC 334在麦迪逊广场花园举行：西里尔·加内以三张48比47的记分卡击败乔什·霍基特，卫冕重量级冠军，霍基特遭遇职业生涯首败。凯拉·哈里森第四回合降服阿曼达·努涅斯，卫冕雏量级冠军。#UFC334 #综合格斗"
+    },
+    "ru": {
+      "headline": "UFC 334: Ган нанёс Хокиту первое поражение, Харрисон заставила сдаться Нуньес",
+      "subheadline": "Оба чемпиона сохранили титулы в «Мэдисон Сквер Гарден»: Сирил Ган — с тремя судейскими записками 48:47, Кайла Харрисон — удушающим приёмом сзади в четвёртом раунде.",
+      "body_markdown": "## Что произошло\n\nСирил Ган и Кайла Харрисон сохранили чемпионские пояса на турнире UFC 334, который прошёл в субботу, 14 ноября 2026 года, в «Мэдисон Сквер Гарден» в Нью-Йорке.\n\nВ главном бою чемпион в тяжёлом весе Ган победил Джоша Хокита единогласным решением судей после пяти раундов. Все трое судей выставили 48:47. Для Гана это первая защита титула, для Хокита — первое поражение в профессиональной карьере.\n\nВо втором главном бою Харрисон победила Аманду Нуньес удушающим приёмом сзади на отметке 1:29 четвёртого раунда и осталась чемпионкой в легчайшем весе.\n\n## Как прошли бои\n\nХокит с первых секунд шёл вперёд и пытался перевести бой в партер, но Ган останавливал многие проходы, пишет Heavy. Француз отвечал джебами, коленями по корпусу и хай-киком, который соперник заблокировал. В пятом раунде Хокит устал и стал давить меньше. Три записки 48:47 означают, что каждый судья отдал Гану три раунда, а Хокиту — два.\n\n28-летний Хокит, бывший игрок НФЛ, подошёл к бою с рекордом 10-0. По данным Yahoo Sports, он дебютировал в UFC в конце 2025 года и выиграл в организации четыре боя, в том числе у Кёртиса Блейдса и Деррика Льюиса.\n\nНуньес, бывшая чемпионка в двух весовых категориях и член Зала славы UFC, возвращалась после перерыва. Она решила бороться с Харрисон, и та завершила бой после единственной ошибки соперницы, сообщает Khel Now.\n\n## Главные факты и цифры\n\n- **Титул в тяжёлом весе:** Сирил Ган победил Джоша Хокита единогласным решением (48:47, 48:47, 48:47).\n- **Титул в женском легчайшем весе:** Кайла Харрисон победила Аманду Нуньес удушающим приёмом сзади, 4-й раунд, 1:29.\n- **Рекорды до турнира:** Ган — 14-2, Хокит — 10-0, Харрисон — 19-1, Нуньес — 23-5.\n- **Основной кард:** Кайо Борральо победил Юсри Белгаруи единогласным решением; Урош Медич и Кевин Холланд завершили бой вничью решением большинства; Луис Гуруле победил Билала Хасана раздельным решением.\n- **Прощальный бой:** Стивен Томпсон выиграл последний бой в карьере в предварительном карде, остановив Чарльза Радтке ударом ногой с разворота.",
+      "social_post": "UFC 334 в «Мэдисон Сквер Гарден»: Сирил Ган победил Джоша Хокита (48:47 у всех трёх судей) и сохранил титул в тяжёлом весе — это первое поражение Хокита в карьере. Кайла Харрисон в четвёртом раунде заставила сдаться Аманду Нуньес и осталась чемпионкой. #UFC334 #ММА"
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-15-news-ef5147",
+    "slug": "japan-beat-brazil-3-2-in-singapore-with-a-stoppage-time-winn",
+    "date": "2026-11-15",
+    "created": "2026-11-15T13:34:20+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "football",
+    "tags": [
+      "Japan",
+      "Brazil",
+      "Singapore",
+      "Takefusa Kubo",
+      "Vinicius Junior",
+      "Carlo Ancelotti",
+      "International friendly"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "AP via Fox Sports: Brazil loses 3-2 to Japan despite Vinicius brace with red cards for Ancelotti and Raphinha",
+        "url": "https://www.foxsports.com/articles/soccer/brazil-loses-32-to-japan-despite-vinicius-brace-with-red-cards-for-ancelotti-and-raphinha"
+      },
+      {
+        "title": "NBC Sports: Japan 3-2 Brazil: Vinicius scores stunners while Ancelotti, Raphinha sent off",
+        "url": "https://www.nbcsports.com/soccer/news/japan-beat-brazil-in-thriller-as-vinicius-scores-stunners-while-ancelotti-raphinha-sent-off"
+      },
+      {
+        "title": "AP via The Washington Post: Brazil loses 3-2 to Japan",
+        "url": "https://www.washingtonpost.com/sports/soccer/2026/11/14/japan-brazil-ancelotti-raphinha/50c7a92e-e037-11f1-912c-4fbb80d73f7f_story.html"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Japan Beat Brazil 3-2 in Singapore With a Stoppage-Time Winner",
+      "subheadline": "Tatsuhiro Sakamoto scored in the 91st minute after a Vinicius Junior double had brought Brazil level; Carlo Ancelotti and Raphinha were sent off.",
+      "body_markdown": "## What happened\n\nJapan beat Brazil 3-2 in an international friendly in Singapore on Saturday 14 November 2026. Tatsuhiro Sakamoto scored the winner in the first minute of stoppage time, after Brazil had come back from two goals down.\n\nJapan led 2-0 inside 20 minutes. Takefusa Kubo opened the scoring in the 15th minute with a low shot from the halfway line that beat goalkeeper Pedro Morisco, the Associated Press reported. Keito Nakamura added the second about four minutes later from a Shuto Nakano cross.\n\nVinicius Junior brought Brazil back. Shortly after the half-hour he shot into the top corner from a Bruno Guimaraes pass. With 15 minutes left he equalised from long range: the ball hit the inside of one post, then the other, and crossed the line. Endrick also hit the crossbar for Brazil.\n\nIn the 91st minute Japan won the ball back and Sakamoto finished from close range.\n\n## The red cards\n\nBrazil's players and bench protested that Bruno Guimaraes had been fouled before the winning goal. Coach Carlo Ancelotti was sent off, and so was captain Raphinha, who had already been substituted and was on the sideline.\n\n## Why it matters\n\nThe match was a rematch of the 2026 World Cup round of 32 in June, which Brazil won 2-1 with a late comeback, NBC Sports reported. According to the AP, this is Japan's second win over Brazil in 13 months and their first away from home soil. Their first win over Brazil came in Tokyo in October 2025, also 3-2.\n\nNBC Sports wrote that the defeat adds pressure on Ancelotti after Brazil's World Cup.\n\n## Key facts\n\n- **Score:** Japan 3-2 Brazil.\n- **Japan goals:** Kubo 15', Nakamura, Sakamoto 90+1'.\n- **Brazil goals:** Vinicius Junior (two).\n- **Sent off:** Carlo Ancelotti (coach) and Raphinha, both after the final goal.\n- **Coaches:** Hajime Moriyasu (Japan), Carlo Ancelotti (Brazil).",
+      "social_post": "Japan beat Brazil 3-2 in Singapore. Kubo and Nakamura put Japan 2-0 up inside 20 minutes, Vinicius Junior scored twice to level, and Tatsuhiro Sakamoto won it in the 91st minute. Carlo Ancelotti and Raphinha were sent off. #Japan #Brazil"
+    },
+    "origin": "inbox/2026-11-15-japan-beat-brazil.md",
+    "region": "sea",
+    "match": {
+      "competition": "International friendly",
+      "date": "14 November 2026",
+      "home": "Japan",
+      "away": "Brazil",
+      "home_score": 3,
+      "away_score": 2,
+      "home_scorers": [
+        "Kubo 15'",
+        "Nakamura",
+        "Sakamoto 90+1'"
+      ],
+      "away_scorers": [
+        "Vinicius Jr (2)"
+      ],
+      "note": "Japan's second win over Brazil in 13 months"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Takefusa_Kubo.jpg/1280px-Takefusa_Kubo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Takefusa_Kubo.jpg",
+        "artist": "Ali Mohammed Mahdi",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "تاكيفوسا كوبو",
+        "width": 1200,
+        "height": 1620,
+        "year": 2026,
+        "subject": "Takefusa Kubo, who opened the scoring for Japan"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/1280px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Vinícius Júnior during Brazil v Morocco on 13 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1799,
+        "year": 2026,
+        "subject": "Vinicius Junior, scorer of both Brazil goals"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg/1280px-Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Carlo Ancelotti during Brazil v Morocco on 13 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Brazil coach Carlo Ancelotti, sent off after Japan's winner"
+      },
+      {
+        "url": "../photos/card-2026-11-15-news-ef5147.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Japan 3 - 2 Brazil · International friendly",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "zh": {
+      "headline": "日本队补时绝杀 在新加坡3比2击败巴西",
+      "subheadline": "维尼修斯梅开二度帮助巴西扳平后，坂元达裕第91分钟打入制胜球；安切洛蒂和拉菲尼亚被罚下。",
+      "body_markdown": "## 发生了什么\n\n2026年11月14日（周六），日本队在新加坡举行的一场国际友谊赛中3比2击败巴西。在巴西追平两球落后的局面后，坂元达裕在补时第1分钟打入制胜球。\n\n日本队开场20分钟内就2比0领先。据美联社报道，久保建英第15分钟在中线附近低射，攻破门将佩德罗·莫里斯科（Pedro Morisco）把守的球门。大约四分钟后，中村敬斗接中野就斗的传中再下一城。\n\n维尼修斯帮助巴西扳回局面。半小时刚过，他接布鲁诺·吉马良斯的传球射入球门上角。比赛还剩15分钟时，他远射扳平：皮球先击中一侧门柱内侧，再弹到另一侧门柱后越过门线。恩德里克还有一脚射门击中横梁。\n\n第91分钟，日本队断球后，坂元达裕近距离破门。\n\n## 红牌\n\n巴西球员和替补席抗议称，制胜球之前布鲁诺·吉马良斯被犯规。主教练卡洛·安切洛蒂被罚下，队长拉菲尼亚同样被罚下——他此前已被换下，当时正在场边观战。\n\n## 为何重要\n\n据NBC体育报道，这场比赛是今年6月世界杯32强战的重演，当时巴西在比赛后段逆转，2比1获胜。美联社称，这是日本队13个月内第二次击败巴西，也是首次在本土以外取胜。日本队第一次战胜巴西是在2025年10月的东京，比分同样是3比2。\n\nNBC体育写道，这场失利让世界杯后的安切洛蒂承受更大压力。\n\n## 关键数据\n\n- **比分：** 日本3比2巴西。\n- **日本队进球：** 久保建英（第15分钟）、中村敬斗、坂元达裕（第90+1分钟）。\n- **巴西队进球：** 维尼修斯（两球）。\n- **红牌：** 主教练安切洛蒂和拉菲尼亚，均在最后一个进球之后。\n- **主教练：** 森保一（日本），卡洛·安切洛蒂（巴西）。",
+      "social_post": "日本队在新加坡3比2击败巴西。久保建英和中村敬斗在开场20分钟内帮助日本2比0领先，维尼修斯梅开二度扳平，坂元达裕第91分钟绝杀。安切洛蒂和拉菲尼亚被罚下。#日本 #巴西"
+    },
+    "ru": {
+      "headline": "Япония обыграла Бразилию 3:2 в Сингапуре, забив победный гол в добавленное время",
+      "subheadline": "Тацухиро Сакамото забил на 91-й минуте после того, как дубль Винисиуса Жуниора позволил Бразилии сравнять счёт; Карло Анчелотти и Рафинья были удалены.",
+      "body_markdown": "## Что произошло\n\nСборная Японии обыграла Бразилию 3:2 в товарищеском матче в Сингапуре в субботу, 14 ноября 2026 года. Тацухиро Сакамото забил победный мяч на первой добавленной минуте — уже после того, как Бразилия отыгралась с 0:2.\n\nЯпония вела 2:0 уже к 20-й минуте. Такэфуса Кубо открыл счёт на 15-й минуте низким ударом от центральной линии, переиграв вратаря Педро Мориско, сообщило агентство Associated Press. Примерно через четыре минуты Кэйто Накамура удвоил счёт после подачи Сюто Накано.\n\nВинисиус Жуниор вернул Бразилию в игру. Вскоре после 30-й минуты он пробил в верхний угол после паса Бруно Гимарайнса. За 15 минут до конца он сравнял счёт дальним ударом: мяч попал во внутреннюю сторону одной штанги, затем в другую и пересёк линию ворот. Эндрик ещё попал в перекладину.\n\nНа 91-й минуте японцы перехватили мяч, и Сакамото забил с близкого расстояния.\n\n## Удаления\n\nИгроки и скамейка Бразилии протестовали: по их мнению, перед победным голом на Бруно Гимарайнсе нарушили правила. Главный тренер Карло Анчелотти был удалён, как и капитан Рафинья, которого к тому моменту уже заменили, — он наблюдал за игрой у бровки.\n\n## Почему это важно\n\nМатч стал повторением встречи 1/16 финала чемпионата мира 2026 года: в июне Бразилия выиграла 2:1, отыгравшись в концовке, напоминает NBC Sports. По данным AP, это вторая победа Японии над Бразилией за 13 месяцев и первая за пределами своей страны. Первую победу над бразильцами японцы одержали в Токио в октябре 2025 года — тоже 3:2.\n\nNBC Sports пишет, что поражение усиливает давление на Анчелотти после чемпионата мира.\n\n## Главные факты\n\n- **Счёт:** Япония — Бразилия 3:2.\n- **Голы Японии:** Кубо (15-я минута), Накамура, Сакамото (90+1).\n- **Голы Бразилии:** Винисиус Жуниор (два мяча).\n- **Удаления:** тренер Карло Анчелотти и Рафинья — оба после последнего гола.\n- **Тренеры:** Хадзимэ Мориясу (Япония), Карло Анчелотти (Бразилия).",
+      "social_post": "Япония обыграла Бразилию 3:2 в Сингапуре. Кубо и Накамура забили в первые 20 минут, Винисиус Жуниор дублем сравнял счёт, а Тацухиро Сакамото принёс победу на 91-й минуте. Карло Анчелотти и Рафинья были удалены. #Япония #Бразилия"
+    },
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-15-athl-27025b",
-    "slug": "the-dragon-of-table-tennis-the-life-and-legacy-of-ma-long",
+    "slug": "ma-long-from-anshan-prodigy-to-six-olympic-gold-medals",
     "date": "2026-11-15",
     "created": "2026-11-15T00:47:21+07:00",
     "type": "athlete_story",
@@ -34,7 +273,7 @@
     ],
     "sources": [
       {
-        "title": "Ma Long Wikipedia Article",
+        "title": "Wikipedia: Ma Long",
         "url": "https://en.wikipedia.org/wiki/Ma_Long"
       }
     ],
@@ -52,22 +291,22 @@
     },
     "grounded": true,
     "en": {
-      "headline": "The Dragon of Table Tennis: The Life and Legacy of Ma Long",
-      "subheadline": "From a prodigious junior talent in Anshan to the most decorated Olympic table tennis player in history, explore the journey of the undisputed GOAT.",
-      "body_markdown": "## The Early Rise of a Prodigy\n\nBorn on 20 October 1988 in Anshan, Liaoning, Ma Long began a journey that would redefine the sport of table tennis. Named in the zodiac year of the dragon, he displayed an exceptional aptitude for the game from a young age. After securing both the Asian and World Junior Championships, he etched his name into the record books by becoming the youngest world champion at the age of 17, following his participation in the 2006 Bremen World Team Championship. His early development was guided by coaches Wang Hao and Ma Kai Xuan before he began training under Qin Zhijian.\n\nBefore turning 22, Ma demonstrated remarkable dominance on the ITTF World Tour, reaching the finals of 11 tournaments and winning eight of them. He also claimed two Asian Cup titles and two World Tour Grand Finals trophies. However, the path to greatness was not without severe roadblocks. Despite holding the world number one ranking for extended stretches between 2010 and 2014, he suffered a temporary dip in form following a 560-day win streak. A loss to Japan's Koki Niwa at the Asian Olympic Qualification Tournament and a defeat against Lee Sang-su at the 2012 Korea Open contributed to his omission from China's singles squad for the London Olympics.\n\n## Overcoming Mental Hurdles and Breaking Through\n\nNational team coach Liu Guoliang publicly noted that while Ma possessed all the physical tools, he occasionally lacked the mental toughness required under intense pressure at major events. This scrutiny intensified after successive semifinal losses at the World Championships in 2009, 2011, and 2013, all against compatriot Wang Hao. While his rival Zhang Jike swiftly completed a career Grand Slam, Ma faced persistent questions regarding his ability to perform on the biggest stages.\n\nEverything shifted during the 2013–2015 period. Following his third defeat to Wang Hao, Ma responded by capturing the China Open at two different venues, his third Asian Championships crown, and a grueling China National Games title against Fan Zhendong. In 2014, he dominated the World Team Table Tennis Championships in Tokyo without dropping a single game, earning the Victor Barna Award as the tournament's best player after defeating Timo Boll and Dimitrij Ovtcharov. The ultimate breakthrough arrived at the 2015 World Table Tennis Championships in Suzhou, where Ma triumphed over tournament sensation Fang Bo in six games to capture his first major singles world title outside of the World Cup.\n\n## Immortalizing His Name in Rio and Beyond\n\nBy 2016, Ma reached the pinnacle of his sport. After securing the Qatar Open to break Wang Liqin's record for ITTF World Tour singles titles by a Chinese player, he secured his qualification for the 2016 Rio Olympics. In Brazil, after overcoming a scare against South Korea's Jeoung Young-sik and defeating Nigeria's Quadri Aruna and Japan's Jun Mizutani, Ma advanced to the singles final.\n\nIn a historic showdown against reigning Olympic champion Zhang Jike, Ma delivered a dominant 4–0 victory (14–12, 11–5, 11–4, 11–4) to claim the gold medal. The triumph made him the fifth male player to complete a career Grand Slam. Over his illustrious career, Ma held the world number one ranking for a total of 64 months—including a staggering 34 consecutive months starting in March 2015—establishing himself as a defining figure in global table tennis.",
-      "social_post": "Discover the incredible journey of Ma Long, the undisputed greatest table tennis player of all time. From early setbacks to historic Olympic dominance, read about the legacy of 'The Dragon'. #MaLong #TableTennis #Olympics #SportsHistory"
+      "headline": "Ma Long: From Anshan Prodigy to Six Olympic Gold Medals",
+      "subheadline": "He was left out of China's singles team for London 2012, then won back-to-back Olympic singles titles and three straight world championships.",
+      "body_markdown": "## The early rise\n\nMa Long was born on 20 October 1988 in Anshan, in China's Liaoning province. He won both the Asian and the World Junior Championships, and at 17 he became a world champion as a member of China's team at the 2006 World Team Championships in Bremen. His early coaches included Ma Kai Xuan, a former national team coach, and he later trained under Qin Zhijian.\n\nBefore he turned 22, Ma had reached 11 finals on the ITTF World Tour and won eight of them. He also won two Asian Cup titles and two World Tour Grand Finals.\n\n## The setbacks\n\nMa held the world number one ranking for long periods between 2010 and 2014, but the biggest singles titles kept escaping him. He lost in the semi-finals of the World Championships in 2009, 2011 and 2013, each time to his compatriot Wang Hao. National team coach Liu Guoliang said publicly that Ma had all the tools but sometimes lacked mental toughness at major events.\n\nIn 2012, after a 560-day winning streak, his form dipped. He lost to Japan's Koki Niwa at the Asian Olympic Qualification Tournament and to Lee Sang-su at the Korea Open. China did not select him for the singles at the London Olympics, where he won gold in the team event. Meanwhile his rival Zhang Jike completed a career Grand Slam.\n\n## The breakthrough\n\nAfter his third defeat to Wang Hao in 2013, Ma won the China Open, a third Asian Championships title and the China National Games, beating Fan Zhendong in the final. At the 2014 World Team Championships in Tokyo he did not lose a game, and he received the Victor Barna Award as the tournament's best player.\n\nHis first world singles title came in Suzhou in 2015, when he beat Fang Bo in six games. He won the title again in Düsseldorf in 2017, beating Fan Zhendong in a seventh game, and in Budapest in 2019, beating Sweden's Mattias Falck 4-1.\n\n## Olympic champion, twice\n\nAt the 2016 Rio Olympics, Ma beat defending champion Zhang Jike 4-0 (14-12, 11-5, 11-4, 11-4) in the singles final. The gold medal made him the fifth male player to complete the career Grand Slam of Olympic, World Championships and World Cup singles titles. He also won team gold in Rio.\n\nFive years later in Tokyo, he beat Fan Zhendong 4-2 in the final to win the Olympic singles title for a second time, and added another team gold. He is the only male player to have completed the career Grand Slam twice.\n\n## Six golds and a new role\n\nAt the 2024 Paris Olympics, Ma was one of China's flag bearers at the opening ceremony and won a fourth team gold. His six Olympic gold medals, two in singles and four in team events, are the most won by any table tennis player and the most won by a Chinese athlete.\n\nHe was ranked world number one for a total of 64 months, including 34 months in a row from March 2015. He also won the World Cup three times, in 2012, 2015 and 2024.\n\nMa withdrew from the ITTF world rankings on 31 December 2024. In April 2025 he was appointed a vice-president of the Chinese Table Tennis Association.",
+      "social_post": "Ma Long was left out of China's singles team for the 2012 Olympics. He went on to win two Olympic singles golds, four team golds and three straight world titles. The life story of table tennis's most decorated Olympian. #MaLong #TableTennis"
     },
     "zh": {
-      "headline": "乒坛真龙：马龙的传奇生涯与不朽传承",
-      "subheadline": "从鞍山走出的乒乓神童，到史上荣誉最多的奥运乒乓球选手，一同回顾这位公认历史最佳（GOAT）的巅峰之路。",
-      "body_markdown": "## 天才少年的闪耀初章\n\n1988年10月20日，马龙出生于辽宁鞍山，一段注定要重新定义乒乓球运动的传奇就此拉开序幕。属龙的他在很小便展现出了对这项运动的极高天赋。在包揽亚洲及世界青年锦标赛冠军后，他在2006年不来梅世乒赛上随队夺冠，以17岁之龄成为当时最年轻的世界冠军，将自己的名字镌刻进史册。在他的早期成长道路上，曾先后接受王皓和马凯旋的指导，随后师从秦志戬。\n\n在不到22岁的时候，马龙就在国际乒联世界巡回赛上展现出惊人的统治力，11次闯入单打决赛并斩获8冠。此外，他还两度加冕亚洲杯，并两次捧起世巡赛总决赛的冠军奖杯。然而，通往伟大之路并非一帆风顺。尽管在2010至2014年间曾长时间占据世界第一的宝座，但在经历了一波560天的连胜纪录后，他的状态遭遇了短暂起伏。在亚洲奥运资格赛中不敌日本选手丹羽孝希（Koki Niwa），以及在2012年韩国公开赛上负于韩国选手李尚洙（Lee Sang-su），最终导致他无单打资格入选中国队的伦敦奥运会阵容。\n\n## 跨越心理关隘，迎来破茧成蝶\n\n国家队主教练刘国梁曾公开指出，马龙虽然技术毫无短板，但在重大赛事的高压之下，偶尔会缺乏足够的心理韧性。随着他在2009年、2011年和2013年世乒赛上连续三次止步半决赛（且皆负于队友王皓），这种审视与质疑也达到了顶峰。当他的宿敌张继科迅速完成生涯大满贯壮举时，外界对马龙在顶级大舞台上抗压能力的质疑声也从未停歇。\n\n转折点发生在2013至2015年间。在遭遇对王皓的第三场世乒赛失利后，马龙强势回应，先后在两座不同城市的中国公开赛上夺冠、摘得第三座亚洲锦标赛桂冠，并在全运会男单决赛中经受住与樊振东的苦战，艰难登顶。2014年，他在东京世乒赛团体赛中发挥神勇，保持全胜且未失一局，击败了波尔（Timo Boll）和奥恰洛夫（Dimitrij Ovtcharov）等名将，荣膺赛事最佳球员并获得维克托·巴尔纳奖（Victor Barna Award）。最终的蜕变发生在2015年苏州世乒赛上，马龙在男单决赛中以4比2战胜赛事黑马方博，夺得除世界杯外个人的首个重量级单打世界冠军头衔。\n\n## 里约加冕与不朽传奇\n\n到了2016年，马龙已经站上了这项运动的巅峰。在夺得卡塔尔公开赛冠军、打破王励勤保持的中国球员国际乒联巡回赛单打冠军纪录后，他顺利拿到了里约奥运会的参赛门票。在桑巴军团的主场，马龙在顶住韩国选手郑荣植（Jeoung Young-sik）的强力冲击、击败尼日利亚选手阿鲁纳（Quadri Aruna）和日本选手水谷隼（Jun Mizutani）后，昂首挺进男单决赛。\n\n在与卫冕冠军张继科的历史性巅峰对决中，马龙以一场压倒性的4比0（14-12、11-5、11-4、11-4）完胜，摘得金牌。这场胜利让他成为历史上第五位男子大满贯得主。在他辉煌的职业生涯中，马龙累计有64个月排名世界第一——其中包括从2015年3月开始、令人震撼的连续34个月登顶——从而彻底确立了他作为全球乒乓球界标志性人物的历史地位。",
-      "social_post": "带你走近“六边形战士”马龙不可思议的传奇生涯，感受公认历史最佳的非凡魅力。从早期的挫折到奥运赛场的历史级统治，一起来读读“龙队”的传奇故事。#马龙 #乒乓球 #奥运会 #体育历史"
+      "headline": "马龙：从鞍山少年到六枚奥运金牌",
+      "subheadline": "他曾无缘2012年伦敦奥运会男单阵容，此后蝉联奥运男单冠军，并实现世乒赛男单三连冠。",
+      "body_markdown": "## 少年成名\n\n马龙1988年10月20日出生于辽宁省鞍山市。他先后夺得亚洲青年锦标赛和世界青年锦标赛冠军，17岁时随中国队出战2006年不来梅世乒赛团体赛，成为世界冠军。他早期的教练包括前国家队教练马凯旋，之后师从秦志戬。\n\n22岁之前，马龙已在国际乒联巡回赛中11次打进决赛，8次夺冠，还拿到两个亚洲杯冠军和两个巡回赛总决赛冠军。\n\n## 挫折\n\n2010年至2014年间，马龙长期排名世界第一，但最重要的单打冠军一直与他无缘。2009年、2011年和2013年世乒赛，他三次止步男单半决赛，每次都输给队友王皓。国家队主教练刘国梁曾公开表示，马龙具备所有条件，但在大赛中有时缺乏足够的心理韧性。\n\n2012年，在560天不败之后，他的状态出现下滑：在亚洲区奥运预选赛上输给日本选手丹羽孝希，又在韩国公开赛上不敌李尚洙。中国队没有让他参加伦敦奥运会男单比赛，他在那届奥运会上拿到了男团金牌。与此同时，他的对手张继科完成了大满贯。\n\n## 突破\n\n2013年第三次输给王皓后，马龙赢得中国公开赛冠军、第三个亚锦赛冠军，并在全运会决赛中击败樊振东夺冠。2014年东京世乒赛团体赛，他一局未失，获得授予赛事最佳球员的维克多·巴纳奖。\n\n2015年苏州世乒赛，他六局击败方博，首次夺得世乒赛男单冠军。2017年在杜塞尔多夫，他与樊振东战至决胜局后卫冕；2019年在布达佩斯，他4比1击败瑞典选手马蒂亚斯·法尔克，实现三连冠。\n\n## 两届奥运男单冠军\n\n2016年里约奥运会男单决赛，马龙4比0（14比12、11比5、11比4、11比4）击败卫冕冠军张继科。这枚金牌让他成为第五位完成大满贯（奥运会、世乒赛、世界杯男单冠军）的男子选手。他在里约还拿到了男团金牌。\n\n五年后的东京奥运会，他在决赛中4比2击败樊振东，第二次夺得奥运男单金牌，并再添一枚男团金牌。他是唯一一位完成“双圈大满贯”的男子选手。\n\n## 六枚金牌与新角色\n\n2024年巴黎奥运会，马龙担任中国代表团开幕式旗手之一，并拿到个人第四枚男团金牌。他共获得六枚奥运金牌（两枚单打、四枚团体），是乒乓球历史上奥运金牌最多的运动员，也是获得奥运金牌最多的中国运动员。\n\n他累计排名世界第一64个月，其中从2015年3月起连续34个月位居榜首。他还三次夺得世界杯男单冠军（2012年、2015年和2024年）。\n\n2024年12月31日，马龙退出国际乒联世界排名。2025年4月，他出任中国乒乓球协会副主席。",
+      "social_post": "马龙曾落选2012年奥运会男单阵容，此后他拿下两枚奥运男单金牌、四枚团体金牌和世乒赛男单三连冠。这是乒乓球历史上奥运金牌最多的运动员的故事。#马龙 #乒乓球"
     },
     "ru": {
-      "headline": "Дракон настольного тенниса: жизнь и наследие Ма龙",
-      "subheadline": "От вундеркинда из Аньшаня до самого титулованного игрока в истории олимпийского настольного тенниса: путь признанного величайшего спортсмена всех времен (GOAT).",
-      "body_markdown": "## Ранний взлет вундеркинда\n\nРодившийся 20 октября 1988 года в Аньшане, провинция Ляонин, Ма Лон (Ma Long) начал путь, который навсегда изменил облик настольного тенниса. Родившись в год Дракона по восточному календарю, он с малых лет проявлял исключительные способности к этой игре. Выиграв чемпионат Азии и юниорский чемпионат мира, он вписал свое имя в историю, став в 17 лет самым молодым чемпионом мира после победы на командном первенстве планеты 2006 года в Бремене. Его становление проходило под руководством тренеров Ван Хао (Wang Hao) и Ма Кайсюаня (Ma Kai Xuan), после чего он начал тренироваться у Цинь Чжицзяня (Qin Zhijian).\n\nЕще до достижения 22-летнего возраста Ма продемонстрировал невероятное доминирование в мировом туре ITTF, дойдя до финала 11 турниров и выиграв восемь из них. В его активе также появились два титула Кубка Азии и два трофея Гранд-финала Мирового тура. Однако путь к величию был усеян серьезными препятствиями. Несмотря на то, что в период с 2010 по 2014 год он долгое время удерживал первую строчку мирового рейтинга, после 560-дневной победной серии у него начался временный спад. Поражения от японца Коки Нивы (Koki Niwa) на Азиатском олимпийском квалификационном турнире и от Ли Сан Су (Lee Sang-su) на Open Кореи 2012 года привели к тому, что он не попал в одиночный состав сборной Китая на Олимпийские игры в Лондоне.\n\n## Преодоление психологических барьеров и прорыв\n\nГлавный тренер национальной сборной Лю Голян (Liu Guoliang) публично отмечал, что при всем техническом совершенстве Ма временами не хватало психологической устойчивости, необходимой под колоссальным давлением на главных турнирах. Эта критика только усилилась после поражений в полуфиналах чемпионатов мира 2009, 2011 и 2013 годов — каждый раз соотечественнику Ван Хао. В то время как его принципиальный соперник Чжан Цзикэ (Zhang Jike) стремительно оформил карьерный Большой шлем, Ма постоянно сталкивался с вопросами о своей способности показывать результат на крупнейших аренах.\n\nВсе изменилось в период с 2013 по 2015 год. После третьего поражения от Ван Хао Ма ответил победами на турнирах China Open в двух разных городах, завоеванием своего третьего титула чемпиона Азии и тяжелейшей победой в финале Национальных игр Китая против Фань Чжэньдуна (Fan Zhendong). В 2014 году он доминировал на командном чемпионате мира в Токио, не отдав соперникам ни единой партии, и получил премию Виктора Барны (Victor Barna Award) как лучший игрок турнира после побед над Тимо Боллем (Timo Boll) и Димитром Овчаровым (Dimitrij Ovtcharov). Окончательный прорыв произошел на чемпионате мира 2015 года в Сучжоу, где Ма в шести сетах одолел сенсацию турнира Фан Бо (Fang Bo), завоевав свой первый крупный титул чемпиона мира в одиночном разряде за пределами Кубка мира.\n\n## Триумф в Рио и статус живой легенды\n\nК 2016 году Ма достиг вершины своего вида спорта. Выиграв Qatar Open и поблав рекорд Вана Лициня (Wang Liqin) по количеству побед на этапах Мирового тура ITTF в одиночном разряде среди китайских игроков, он гарантировал себе путевку на Олимпиаду 2016 года в Рио. В Бразилии, преодолев непростое сопротивление южнокорейца Чон Ён Сика (Jeoung Young-sik) и переиграв нигерийца Квадри Аруну (Quadri Aruna) и японца Дзюна Мидзутани (Jun Mizutani), Ма вышел в финал в одиночном разряде.\n\nВ историческом противостоянии с действующим олимпийским чемпионом Чжан Цзикэ Ма одержал убедительную победу со счетом 4:0 (14:12, 11:5, 11:4, 11:4) и завоевал золотую медаль. Этот триумф сделал его пятым игроком в мужском теннисе, собравшим карьерный Большой шлем. За свою блестящую карьеру Ма в общей сложности провел на первой строчке мирового рейтинга 64 месяца, включая ошеломляющую серию из 34 месяцев подряд, начавшуюся в марте 2015 года, и навсегда вписал свое имя в историю мирового спорта.",
-      "social_post": "Узнайте об increíble пути Ма Лонга — бесспорно величайшего игрока в истории настольного тенниса. От ранних неудач до исторического доминирования на Олимпиаде: читайте о наследии «Дракона». #MaLong #НастольныйТеннис #Олимпиада #ИсторияСпорта"
+      "headline": "Ма Лун: от вундеркинда из Аньшаня до шести олимпийских золотых медалей",
+      "subheadline": "Его не включили в одиночный разряд сборной Китая на Играх-2012 в Лондоне, а затем он дважды подряд выиграл олимпийский одиночный турнир и три чемпионата мира подряд.",
+      "body_markdown": "## Ранний взлёт\n\nМа Лун родился 20 октября 1988 года в Аньшане, в китайской провинции Ляонин. Он выиграл юниорские чемпионаты Азии и мира, а в 17 лет стал чемпионом мира в составе сборной Китая на командном чемпионате мира 2006 года в Бремене. Среди его первых тренеров был бывший тренер национальной сборной Ма Кайсюань, позже он работал с Цинь Чжицзянем.\n\nДо 22 лет Ма 11 раз выходил в финал турниров Мирового тура ITTF и выиграл восемь из них. Он также дважды побеждал на Кубке Азии и дважды — в Гранд-финале Мирового тура.\n\n## Неудачи\n\nС 2010 по 2014 год Ма подолгу занимал первое место в мировом рейтинге, но главные титулы в одиночном разряде ему не давались. На чемпионатах мира 2009, 2011 и 2013 годов он проигрывал в полуфинале, каждый раз — соотечественнику Ван Хао. Главный тренер сборной Лю Голян публично говорил, что у Ма есть всё необходимое, но на крупных турнирах ему иногда не хватает психологической устойчивости.\n\nВ 2012 году, после 560 дней без поражений, он сбавил: проиграл японцу Коки Ниве на азиатском олимпийском отборочном турнире и Ли Сан Су на Открытом чемпионате Кореи. Китай не заявил его в одиночный разряд на Олимпиаду в Лондоне, где он выиграл золото в командном турнире. Тем временем его соперник Чжан Цзикэ собрал карьерный «Большой шлем».\n\n## Прорыв\n\nПосле третьего поражения от Ван Хао в 2013 году Ма выиграл Открытый чемпионат Китая, третий титул чемпиона Азии и Национальные игры Китая, победив в финале Фань Чжэньдуна. На командном чемпионате мира 2014 года в Токио он не проиграл ни одной партии и получил приз Виктора Барны как лучший игрок турнира.\n\nПервый титул чемпиона мира в одиночном разряде он завоевал в 2015 году в Сучжоу, обыграв Фан Бо в шести партиях. В 2017 году в Дюссельдорфе он победил Фань Чжэньдуна в седьмой партии, а в 2019-м в Будапеште — шведа Маттиаса Фалька со счётом 4:1.\n\n## Дважды олимпийский чемпион\n\nНа Олимпиаде 2016 года в Рио Ма обыграл в финале действующего чемпиона Чжан Цзикэ 4:0 (14:12, 11:5, 11:4, 11:4). Это золото сделало его пятым мужчиной, собравшим карьерный «Большой шлем» — победы в одиночном разряде на Олимпиаде, чемпионате мира и Кубке мира. В Рио он выиграл и командное золото.\n\nЧерез пять лет в Токио он победил в финале Фань Чжэньдуна 4:2, во второй раз стал олимпийским чемпионом в одиночном разряде и добавил ещё одно командное золото. Он единственный мужчина, собравший карьерный «Большой шлем» дважды.\n\n## Шесть золотых медалей и новая роль\n\nНа Олимпиаде 2024 года в Париже Ма был одним из знаменосцев сборной Китая на церемонии открытия и выиграл четвёртое командное золото. Шесть его олимпийских золотых медалей — две в одиночном разряде и четыре в командном — рекорд для настольного тенниса и для китайских спортсменов.\n\nВ общей сложности он был первой ракеткой мира 64 месяца, в том числе 34 месяца подряд с марта 2015 года. Он также трижды выигрывал Кубок мира — в 2012, 2015 и 2024 годах.\n\n31 декабря 2024 года Ма вышел из мирового рейтинга ITTF. В апреле 2025 года его назначили вице-президентом Ассоциации настольного тенниса Китая.",
+      "social_post": "Ма Луна не взяли в одиночный разряд на Олимпиаду-2012. Затем он выиграл два олимпийских золота в одиночке, четыре в команде и три чемпионата мира подряд. История самого титулованного олимпийца в настольном теннисе. #МаЛун #НастольныйТеннис"
     },
     "region": "china",
     "images": [
@@ -112,11 +351,6 @@
       {
         "level": "INFO",
         "area": "facts",
-        "msg": "Strong claim 'youngest': confirm it in a source before publishing"
-      },
-      {
-        "level": "INFO",
-        "area": "facts",
         "msg": "Verify: Exact birth city details beyond Anshan"
       },
       {
@@ -129,6 +363,14 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
+    ],
+    "updated_at": "2026-11-15T13:34:20+07:00",
+    "lang_updated": {
+      "zh": "2026-11-15T13:34:20+07:00",
+      "ru": "2026-11-15T13:34:20+07:00"
+    },
+    "old_slugs": [
+      "the-dragon-of-table-tennis-the-life-and-legacy-of-ma-long"
     ]
   },
   {
