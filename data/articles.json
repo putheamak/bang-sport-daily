@@ -159,6 +159,30 @@
     "region": "cambodia",
     "images": [
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/EhPhouthong_pradalserey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:EhPhouthong_pradalserey.jpg",
+        "artist": "EastIndies1750",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Pradal Serey athlete, Eh Phouthong",
+        "width": 1200,
+        "height": 1131,
+        "year": 2004,
+        "subject": "Eh Phouthong"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Chhitsarimehphouthong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Chhitsarimehphouthong.jpg",
+        "artist": "Yhwach3000",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Grandmaster Chhit Sarim(left) with his student, Eh Phouthong(right)",
+        "width": 1200,
+        "height": 1685,
+        "year": 2018,
+        "subject": "Eh Phouthong (right) with his coach, Chhit Sarim"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png",
         "artist": "EAKHFootball",
@@ -202,7 +226,7 @@
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Eh Phouthong\", \"max\": 2, \"wikipedia_all\": \"Eh Phouthong\"}, {\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Eh Phouthong\", \"commons\": \"EhPhouthong_pradalserey.jpg\"}, {\"caption\": \"Eh Phouthong (right) with his coach, Chhit Sarim\", \"commons\": \"Chhitsarimehphouthong.jpg\"}, {\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
     "published_at": "2026-11-15T14:04:09+07:00"
   },
   {
