@@ -379,7 +379,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T00:42:08+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "combat",
     "tags": [
@@ -490,7 +490,7 @@
     "date": "2026-11-15",
     "created": "2026-11-15T00:28:16+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.5-flash-lite",
     "sport": "football",
     "tags": [
