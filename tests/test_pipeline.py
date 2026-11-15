@@ -1021,3 +1021,8 @@ def test_article_photos_checks_every_file(repo, monkeypatch):
     a = {"id": "x1", "images": []}
     I.apply_overrides([a], {"x1": {"mode": "replace", "photos": [{"wikipedia_all": "Eh Phouthong", "caption": "Eh Phouthong"}]}})
     assert len(a["images"]) == 1 and a["images"][0]["subject"] == "Eh Phouthong"
+
+
+def test_cc0_is_a_free_licence():
+    from sportnews.images import OK_LICENSE
+    assert OK_LICENSE.search("CC0") and OK_LICENSE.search("CC BY 4.0") and not OK_LICENSE.search("Fair use")

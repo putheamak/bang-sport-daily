@@ -15,7 +15,7 @@ import urllib.request
 from .common import log
 
 UA = "BangSportDaily/1.1 (https://bangsportdaily.com/; sports news site) urllib"
-OK_LICENSE = re.compile(r"\b(CC|Creative Commons|Public domain|PD|GFDL|Attribution|No restrictions)\b", re.I)
+OK_LICENSE = re.compile(r"\b(CC0|CC|Creative Commons|Public domain|PD|GFDL|Attribution|No restrictions)\b", re.I)   # CC0 = public-domain dedication
 BAD_NAME = re.compile(r"(logo|flag|map|icon|crest|emblem|signature|badge|coat[_ ]of[_ ]arms|kit|diagram|\.svg$)", re.I)
 TAG_RE = re.compile(r"<[^>]+>")
 
