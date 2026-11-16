@@ -1,7 +1,12 @@
-2026-11-16 14:36:24,085 INFO Corrected English for 2026-11-16-news-051329
-2026-11-16 14:36:24,085 INFO Added zh translation for 2026-11-16-news-051329
-2026-11-16 14:36:24,085 INFO Added ru translation for 2026-11-16-news-051329
-2026-11-16 14:36:24,266 INFO Exported 7 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-16
-2026-11-16 14:36:25,160 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-16 14:36:26,685 INFO Website built: 46 published stories, 183 pages
-2026-11-16 14:36:26,686 INFO Imported 1 editor's article(s): 2026-11-16-news-051329
+2026-11-16 15:44:00,004 INFO Importing editor's article: 2026-11-16-ignatova-skate-america.md
+2026-11-16 15:44:00,339 INFO Photo check Alexandra_Ignatova_2026-04-04_3.jpg (Wikimedia Commons, 2047x2560): OK, licence 'CC BY-SA 4.0'
+2026-11-16 15:44:00,530 INFO Photo check Ami_NAKAI_of_Japan_at_the_2026_Winter_Olympics_by_YantsImages_04_(cropped_2).jpg (Wikimedia Commons, 2366x3872): OK, licence 'CC BY-SA 4.0'
+2026-11-16 15:44:00,723 INFO Photo check Comcast_Arena_01.jpg (Wikimedia Commons, 3264x2448): OK, licence 'CC BY-SA 3.0'
+2026-11-16 15:44:00,726 INFO Importing editor's article: 2026-11-16-wonderboy-thompson-retires.md
+2026-11-16 15:44:00,919 INFO Photo check From_cancer_to_company_commander_130802-M-AR522-306_(cropped).jpg (Wikimedia Commons, 744x1109): OK, licence 'Public domain'
+2026-11-16 15:44:01,097 INFO Photo check Ilham_Aliyev_received_Dana_White,_June_2025_(3x4_cropped_and_rotated_on_White).jpg (Wikimedia Commons, 801x1068): OK, licence 'CC BY 4.0'
+2026-11-16 15:44:01,316 INFO Photo check Madison_Square_Garden_(MSG)_-_Full_(48124330357).jpg (Wikimedia Commons, 5411x3044): OK, licence 'CC BY 2.0'
+2026-11-16 15:44:01,690 INFO Exported 12 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-16
+2026-11-16 15:44:02,913 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-16 15:44:05,334 INFO Website built: 46 published stories, 183 pages
+2026-11-16 15:44:05,334 INFO Imported 2 editor's article(s): 2026-11-16-news-33cc67, 2026-11-16-news-542102
