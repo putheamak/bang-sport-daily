@@ -33,7 +33,7 @@ site:
   telegram_en: "bangsportdaily"        # e.g. "bangsportdaily"  (without @)
   telegram_zh: "bangsportdaily_zh"
   telegram_ru: "bangsportdaily_ru"
-  facebook_url: "https://www.facebook.com/profile.php?id=61596340124117"   # change to facebook.com/<username> once the page has a username
+  facebook_url: "https://www.facebook.com/bangsportdaily"
 
 # ---------- Writing ----------
 writing:
