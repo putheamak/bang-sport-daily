@@ -5,7 +5,7 @@
     "date": "2026-11-16",
     "created": "2026-11-16T22:44:00+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "olympic",
     "tags": [
@@ -40,7 +40,20 @@
         "url": "https://isu-skating.com/en/news/isu-grand-prix-202627-stop-3-four-storylines-to-follow-at-cup-of-china-in-shenzhen/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-16T22:52:26+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-16T22:52:26+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-16T22:52:27+07:00"
+      }
+    ],
     "en": {
       "headline": "Ignatova, Formerly Trusova, Takes a Second Grand Prix Silver and Closes In on the Final in China",
       "subheadline": "The 2022 Olympic silver medallist finished second at Skate America a week after second place at the Cup of China, and is second in the standings with two events left.",
@@ -110,7 +123,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-16T22:52:27+07:00"
   },
   {
     "id": "2026-11-16-news-542102",
@@ -118,7 +132,7 @@
     "date": "2026-11-16",
     "created": "2026-11-16T22:44:00+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "combat",
     "tags": [
@@ -147,7 +161,20 @@
         "url": "https://sports.yahoo.com/articles/dana-white-confirms-stephen-thompson-120000198.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-16T22:52:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-16T22:52:29+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-16T22:52:29+07:00"
+      }
+    ],
     "en": {
       "headline": "Stephen Thompson Retires With a Spinning-Kick Knockout at UFC 334",
       "subheadline": "The 43-year-old ended a 16-year MMA career by stopping Charles Radtke in the third round at Madison Square Garden. Dana White said the UFC will test him for a commentary role.",
@@ -217,7 +244,8 @@
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-16T22:52:29+07:00"
   },
   {
     "id": "2026-11-16-news-e04443",
