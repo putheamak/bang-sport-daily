@@ -249,7 +249,7 @@
     "date": "2026-11-16",
     "created": "2026-11-16T03:26:56+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.5-flash-lite",
     "sport": "Association football",
     "tags": [
@@ -294,7 +294,20 @@
         "url": "https://en.wikipedia.org/wiki/Uruguay_national_football_team"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-16T15:19:20+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-16T15:19:20+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-16T15:19:21+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.028,
       "longest": 13,
@@ -374,7 +387,8 @@
         "height": 675
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-16T15:19:21+07:00"
   },
   {
     "id": "2026-11-16-news-57ee4f",
