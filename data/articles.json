@@ -553,6 +553,11 @@
         "level": "WARN",
         "area": "sources",
         "msg": "3 source(s) are homepages, not articles: https://www.championat.ru/, https://sportarena.kz/, https://matchtv.ru/"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (URLError): https://sportarena.kz/"
       }
     ]
   },
@@ -953,6 +958,11 @@
         "level": "INFO",
         "area": "sources",
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (429), open it by hand: https://ki-media.blogspot.com/2011/10/cambodias-muhammad-ali-fights-for.html"
       }
     ],
     "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Eh Phouthong\", \"commons\": \"EhPhouthong_pradalserey.jpg\"}, {\"caption\": \"Eh Phouthong (right) with his coach, Chhit Sarim\", \"commons\": \"Chhitsarimehphouthong.jpg\"}, {\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
@@ -1221,6 +1231,11 @@
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://www.washingtonpost.com/sports/soccer/2026/11/14/japan-brazil-ancelotti-raphinha/50c7a92e-e037-11f1-912c-4fbb80d73f7f_story.html"
       }
     ],
     "published_at": "2026-11-15T13:40:00+07:00"
@@ -1679,11 +1694,6 @@
     },
     "standards": [
       {
-        "level": "WARN",
-        "area": "photos",
-        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'Unbeaten': confirm it in a source before publishing"
@@ -1822,7 +1832,7 @@
       {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+        "msg": "Cover photo is from 2010. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "INFO",
@@ -1926,7 +1936,23 @@
       "body_markdown": "## Что произошло\n\nМеждународная федерация кун-кхмера (KIF) планирует новые тренировочные семинары в Южной Америке после первой программы в Чили, в которой приняли участие 65 тренеров, специалистов и спортсменов. Как сообщила Khmer Times, трёхдневный южноамериканский семинар по кун-кхмеру прошёл в Сантьяго с 30 октября по 1 ноября. Участники из разных единоборств познакомились с техникой и традициями национального боевого искусства Камбоджи.\n\nПо данным Khmer Times, занятия вёл Альберт Вира Чей — камбоджиец, живущий во Франции и возглавляющий клуб The Temple Kun Khmer в Бордо; его направила федерация. В октябрьском анонсе KIF называла ведущими семинаров в Чили и Бразилии своих мастеров-инструкторов Рит Чеа и Лао Сината, а семинар в Бразилии был запланирован на 8–13 ноября.\n\n## Что говорят в федерации\n\nГенеральный секретарь KIF и президент Федерации кун-кхмера Камбоджи Ков Чхай в заявлении на своей официальной странице в Facebook назвал программу в Чили важной вехой в международном продвижении кун-кхмера. Он поблагодарил чилийских организаторов Хуана Марсело Гальярдо Сильву и Вальдемара Мардонеса, а также президента Kombat Global Рика Шина.\n\n## Почему это важно\n\nСеминар продолжает шаг, сделанный в июне. На церемонии в Сан-Паулу 5 июня федерация официально признала представителей кун-кхмера в восьми странах и территориях: Бразилии, Аргентине, Уругвае, Парагвае, Чили, Венесуэле, Боливии и Гваделупе, писала Phnom Penh Post. Ков Чхай назвал это признание «новой главой в истории кун-кхмера».\n\nОктябрьская программа включала историю и культурное значение кун-кхмера, технику, методику тренировок, подготовку спортсменов, правила соревнований и требования безопасности. Федерация также хочет поддержать сертификацию инструкторов и создание тренировочных центров в регионе.\n\n## Что дальше\n\nKIF планирует провести тренинги в Бразилии, Аргентине, Уругвае, Парагвае, Боливии и других странах Южной Америки. В долгосрочных планах — подготовка тренеров, открытие новых клубов и проведение международных турниров; конечная цель — включение кун-кхмера в программу Олимпийских игр.",
       "social_post": "65 тренеров, специалистов и спортсменов приняли участие в первом южноамериканском семинаре по кун-кхмеру в Сантьяго (Чили) с 30 октября по 1 ноября. Дальше Международная федерация кун-кхмера планирует тренинги в Бразилии, Аргентине, Уругвае, Парагвае и Боливии. #КунКхмер #Камбоджа"
     },
-    "standards": [],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.khmertimeskh.com/502054440/kif-plans-to-expand-workshops-across-south-america"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.khmertimeskh.com/502040254/kun-khmer-masters-expand-martial-art-to-south-america"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://phnompenhpost.com/national/south-american-kun-khmer-federations-expand-cambodian-martial-arts-global-reach/"
+      }
+    ],
     "published_at": "2026-11-14T17:57:36+07:00"
   },
   {
@@ -2398,7 +2424,13 @@
       "body_markdown": "## Что произошло\n\nВ пятницу, 13 ноября 2026 года, «Манчестер Юнайтед» объявил, что новым главным тренером команды стал Маурисио Почеттино. 54-летний аргентинец подписал контракт до лета 2029 года и приступит к работе 18 ноября. Он сменил Майкла Каррика, уволенного в четверг после худшего старта «Юнайтед» в истории Премьер-лиги: после 10 туров команда находится в зоне вылета.\n\nСначала Почеттино должен завершить работу главным тренером сборной США, которая в субботу и во вторник дважды сыграет с Гаити. По данным Sky Sports News, «Юнайтед» заплатит около 7,4 млн фунтов, чтобы выкупить его контракт с федерацией футбола США.\n\n## Почему об этом говорят\n\nНазначение произошло быстро. За два дня до этого спортивный директор «Юнайтед» Джейсон Уилкокс и исполнительный директор Омар Беррада встретились в Монако с совладельцем клуба сэром Джимом Рэтклиффом и рекомендовали уволить Каррика. По данным RTÉ, Почеттино был единственным тренером, к которому обратился клуб, и его единогласно поддержало руководство. Он станет восьмым постоянным тренером «Юнайтед» после ухода сэра Алекса Фергюсона в 2013 году.\n\nУ Почеттино большой опыт в Премьер-лиге: он работал в «Саутгемптоне», «Тоттенхэме» и «Челси». С «Тоттенхэмом» он дошёл до финала Лиги чемпионов 2019 года, а с «Пари Сен-Жермен» выиграл чемпионат и Кубок Франции. Ранее в 2026 году он вывел сборную США в 1/8 финала чемпионата мира, который страна принимала совместно с соседями.\n\n## Ключевые факты и цифры\n\n- **Контракт:** до лета 2029 года; начало работы — 18 ноября.\n- **Отступные федерации США:** около 7,4 млн фунтов (Sky Sports News).\n- **Каррик:** уволен 12 ноября, команда в зоне вылета.\n- **Первый матч:** 22 ноября, на выезде с «Ливерпулем».\n\n## Что дальше\n\nПосле «Ливерпуля» «Юнайтед» 25 ноября сыграет со «Спортингом» в Лиге чемпионов, а 28 ноября примет «Брентфорд». Федерация футбола США начала поиск постоянного преемника Почеттино.",
       "social_post": "Официально: Маурисио Почеттино — новый главный тренер «Манчестер Юнайтед». Контракт до 2029 года, к работе он приступит 18 ноября, после матчей сборной США с Гаити, — через день после увольнения Майкла Каррика. Первый матч — 22 ноября на выезде с «Ливерпулем». #МЮ #Почеттино"
     },
-    "standards": [],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/football/england/news/manchester-yunayted-obyavil-o-naznachenii-pochettino-glavnym-trenerom-2474471/"
+      }
+    ],
     "published_at": "2026-11-13T21:47:19+07:00"
   },
   {
@@ -2530,7 +2562,7 @@
       {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+        "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "INFO",
@@ -2675,6 +2707,11 @@
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2020. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/hockey/nhl/news/nyu-dzhersi-vashington-schet-5-2-rezultat-matcha-regulyarnogo-chempionata-nhl-13-noyabrya-2026-"
       }
     ],
     "published_at": "2026-11-13T14:40:33+07:00",
@@ -2800,6 +2837,11 @@
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://vnexpress.net/truc-tiep-viet-nam-vs-singapore-5144002-tong-thuat.html"
       }
     ],
     "published_at": "2026-11-13T14:40:34+07:00",
@@ -3694,6 +3736,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/tennis/wta/news/andreeva-stala-pervoy-rossiyankoy-za-desyat-let-vyshedshey-iz-gruppy-na-itogovom-turnire-2473938/"
       }
     ],
     "published_at": "2026-11-12T16:33:34+07:00",
@@ -3816,6 +3863,11 @@
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-guam-0-5-palestine-singapore-2-4-india"
       }
     ],
     "published_at": "2026-11-12T15:02:59+07:00",
@@ -4057,6 +4109,11 @@
     ],
     "standards": [
       {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Confirm if the historical marker mentioned in the source is still present at the North Side site."
@@ -4205,6 +4262,16 @@
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (URLError): https://fanat1k.ru/news-365287-golovin-i-umyarov-ne-prinimayut-uchastiya-v-trenirovke-sbornoy-rossii.php"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://rsport.ria.ru/20261111/umyarov-1981123456.html"
       }
     ],
     "published_at": "2026-11-12T13:21:00+07:00",
@@ -4800,6 +4867,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/tennis/wta/news/linda-noskova-koko-gauff-rezultat-matcha-itogovogo-turnira-wta-11-noyabrya-2026-goda-2473459/"
       }
     ],
     "updated_at": "2026-11-11T15:46:09+07:00",
@@ -5324,8 +5396,18 @@
       },
       {
         "level": "WARN",
+        "area": "professional",
+        "msg": "Filler without facts: 'vital stepping stone', 'Observers and coaches will be watching closely', 'serve as a vital stepping stone'. Cut these lines or replace them with facts from the sources"
+      },
+      {
+        "level": "WARN",
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: https://matchtv.ru/"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/olympics/news/pobeditel-yunosheskoy-olimpiady-smirnov-zayavil-chto-sovsem-ne-nervnichal-v-finale-lichnogo-mnogoborya-2473349/"
       }
     ],
     "published_at": "2026-11-11T00:06:38+07:00"
@@ -6526,6 +6608,16 @@
         "level": "WARN",
         "area": "sources",
         "msg": "Newest source is 236 days older than the story (2026-03-18). Check for later developments before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://assets.the-afc.com/downloads/tournament-regulations/AFC-Club-Competitions-2026-27-Slot-Allocation.pdf"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.theborneopost.com/2021/09/13/china-gifts-new-150-million-national-stadium-to-cambodia/"
       }
     ],
     "published_at": "2026-11-09T23:06:46+07:00",
@@ -8669,7 +8761,13 @@
         "subject": "Coco Gauff"
       }
     ],
-    "standards": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Filler without facts: 'remains to be seen'. Cut these lines or replace them with facts from the sources"
+      }
+    ],
     "updated_at": "2026-11-07T18:15:39+07:00",
     "lang_updated": {
       "zh": "2026-11-07T18:15:39+07:00",
@@ -8761,7 +8859,13 @@
         "subject": "Stacey Waaka"
       }
     ],
-    "standards": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      }
+    ],
     "published_at": "2026-11-07T18:21:35+07:00"
   },
   {
@@ -8952,6 +9056,11 @@
       "ru": "2026-11-06T23:00:46+07:00"
     },
     "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
       {
         "level": "INFO",
         "area": "facts",
@@ -9972,6 +10081,11 @@
       "ru": "2026-11-07T12:45:53+07:00"
     },
     "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
       {
         "level": "INFO",
         "area": "facts",
