@@ -39,6 +39,8 @@ img{max-width:100%;display:block}
 .langs a{padding:3px 9px;border-radius:999px;color:#c9d1d9}
 .langs a.on{background:#fff;color:#000;font-weight:600}
 .tg{background:#229ed9;color:#fff;padding:3px 10px;border-radius:999px;font-weight:600}
+.fb{background:#1877f2;color:#fff;padding:3px 10px;border-radius:999px;font-weight:600;margin-left:6px}
+.cta .fbbtn{background:#1877f2;color:#fff;margin-top:8px}
 
 /* ---- masthead ---- */
 .masthead{background:var(--bg);border-bottom:1px solid var(--line)}

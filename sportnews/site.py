@@ -313,7 +313,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
 <div class="topbar"><div class="wrap">
   <span class="today" data-lang="{lang}"></span>
   <nav class="langs" aria-label="Language">{switch}</nav>
-  {f'<a class="tg" href="https://t.me/{E(tg)}" target="_blank" rel="noopener">Telegram</a>' if tg else ''}
+  {f'<a class="tg" href="https://t.me/{E(tg)}" target="_blank" rel="noopener">Telegram</a>' if tg else ''}{f' <a class="fb" href="{E(cfg["site"]["facebook_url"])}" target="_blank" rel="noopener">Facebook</a>' if cfg["site"].get("facebook_url") else ''}
 </div></div>
 <header class="masthead"><div class="wrap">
   <a class="brand" href="index.html"><b>BANG</b><span>SPORT</span><i>DAILY</i></a>
@@ -379,7 +379,9 @@ def _rail(cfg, lang, wire, latest=None) -> str:
                                f'<em>{E(x["source"])} ↗</em></a></li>' for x in w[:10]) + "</ol></section>")
     tg = cfg["site"].get(f"telegram_{lang}")
     if tg:
-        parts.append(f'<section class="box cta"><h4>{UI2[lang]["follow"]}</h4><a class="btn" href="https://t.me/{E(tg)}" target="_blank" rel="noopener">{UI2[lang]["follow_btn"]} →</a></section>')
+        fbu = cfg["site"].get("facebook_url") or ""
+        fbb = f' <a class="btn fbbtn" href="{E(fbu)}" target="_blank" rel="noopener">Facebook →</a>' if fbu else ""
+        parts.append(f'<section class="box cta"><h4>{UI2[lang]["follow"]}</h4><a class="btn" href="https://t.me/{E(tg)}" target="_blank" rel="noopener">{UI2[lang]["follow_btn"]} →</a>{fbb}</section>')
     if byline_mode(cfg) != "pen_names":
         bio = cfg["site"].get(f"author_bio_{lang}") or cfg["site"].get("author_bio_en", "")
         parts.append(f'<section class="box"><h4 class="boxh">{AUTHOR_T[lang]}</h4><div class="authorbox">'
