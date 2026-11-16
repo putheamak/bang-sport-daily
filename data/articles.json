@@ -1,5 +1,249 @@
 [
   {
+    "id": "2026-11-16-news-051329",
+    "slug": "liaoning-win-first-chinese-women-s-super-league-title-with-a",
+    "date": "2026-11-16",
+    "created": "2026-11-16T15:12:45+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "football",
+    "tags": [
+      "Liaoning",
+      "Chinese Women's Super League",
+      "Beijing",
+      "Women's football",
+      "China"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "China News Service: Liaoning women's team win the 2026 Chinese Women's Super League title",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732491.shtml"
+      },
+      {
+        "title": "Xinhua via Sina: Liaoning women's team win 2026 Women's Super League title",
+        "url": "https://news.sina.cn/2026-11-15/detail-iniyvesc3140759.d.html"
+      },
+      {
+        "title": "Sohu: Liaoning women's team win first Super League title at home, a year after losing it 0-4 on the final day",
+        "url": "https://www.sohu.com/a/1101932766_122290832"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Liaoning Win First Chinese Women's Super League Title With a Round to Spare",
+      "subheadline": "A 1-1 draw at home to Beijing in Shenyang settled the title, a year after Liaoning lost it on the final day to the same opponents.",
+      "body_markdown": "## What happened\n\nLiaoning Shenbei Hefeng won the Chinese Women's Super League for the first time on Saturday 15 November 2026, drawing 1-1 at home to Beijing in Shenyang with one round of the season left. China News Service reported that it is the club's first title in the women's top division.\n\nLiaoning went ahead in the 51st minute when Sun Wenwen scored at the far post after a corner from Zhang Xin was flicked on by Yang Man, Chinese media reported. Beijing equalised in the 86th minute through Sarratu Traore, but the draw was enough: Liaoning had started the round four points clear of Beijing in second place.\n\n## A year after the final-day defeat\n\nThe title ends a story that began badly a year ago. In 2025 Liaoning, newly promoted after winning the second-tier Division A in 2024, went into the last round needing only a draw away to Beijing. They lost 0-4 and Beijing took the title, China News Service reported.\n\nThis season Liaoning led the table from the regular season onward. The team is coached by Ma Lin, according to Chinese media reports.\n\n## Why it matters\n\nThe title gives Liaoning province both of China's top football league titles in 2026. A week earlier Dalian Yingbo, also from Liaoning, won the men's Chinese Super League by beating Tianjin Jinmen Tiger 3-1. China News Service wrote that no province had held both top-flight titles in the same season in the professional era. As champions, Liaoning also earn a place in next season's AFC Women's Champions League.\n\n## Key facts\n\n- **Score:** Liaoning 1-1 Beijing.\n- **Goals:** Sun Wenwen 51' (Liaoning); Sarratu Traore 86' (Beijing).\n- **Title decided:** with one round to play.\n- **Previous season:** Liaoning lost 0-4 to Beijing on the final day and finished second.",
+      "social_post": "Liaoning are champions of the Chinese Women's Super League for the first time. A 1-1 draw at home to Beijing on Sunday sealed the title with a round to spare, a year after they lost it 0-4 to Beijing on the final day. #WomensFootball #China"
+    },
+    "origin": "inbox/2026-11-16-liaoning-women-super-league.md",
+    "region": "china",
+    "match": {
+      "competition": "Chinese Women's Super League 2026",
+      "date": "15 November 2026",
+      "home": "Liaoning",
+      "away": "Beijing",
+      "home_score": 1,
+      "away_score": 1,
+      "home_scorers": [
+        "Sun Wenwen 51'"
+      ],
+      "away_scorers": [
+        "Traore 86'"
+      ],
+      "note": "Liaoning win the title with one round left"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/%E6%B2%88%E9%98%B3%E9%9D%92%E5%B9%B4%E5%85%AC%E5%9B%AD.jpg/1280px-%E6%B2%88%E9%98%B3%E9%9D%92%E5%B9%B4%E5%85%AC%E5%9B%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%E6%B2%88%E9%98%B3%E9%9D%92%E5%B9%B4%E5%85%AC%E5%9B%AD.jpg",
+        "artist": "E2568",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "​沈阳青年公园",
+        "width": 1200,
+        "height": 900,
+        "year": 2024,
+        "subject": "Shenyang, home of Liaoning Shenbei Hefeng women's team"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Shenyang_Olympic_Sports_Center_Stadium_drone_view_1.jpg/1280px-Shenyang_Olympic_Sports_Center_Stadium_drone_view_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Shenyang_Olympic_Sports_Center_Stadium_drone_view_1.jpg",
+        "artist": "Techyan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Drone view of the Shenyang Olympic Sports Center Stadium.",
+        "width": 1200,
+        "height": 675,
+        "year": 2020,
+        "subject": "Shenyang Olympic Sports Centre Stadium in Shenyang"
+      },
+      {
+        "url": "../photos/card-2026-11-16-news-051329.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Liaoning 1 - 1 Beijing · Chinese Women's Super League 2026",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "zh": {
+      "headline": "辽宁女足提前一轮首夺中国女超联赛冠军",
+      "subheadline": "在沈阳主场1比1战平北京队后锁定冠军，一年前辽宁队正是在最后一轮输给同一对手而丢冠。",
+      "body_markdown": "## 发生了什么\n\n2026年11月15日（周六），辽宁沈北禾丰女足在沈阳主场1比1战平北京队，提前一轮首次夺得中国女超联赛冠军。中新网报道，这是该队首次获得女超冠军。\n\n据国内媒体报道，第51分钟，张鑫开出角球，杨曼头球摆渡，孙文文在后点破门，辽宁队取得领先。第86分钟，北京队的萨拉图·特劳雷扳平比分。不过平局已经足够：本轮开始前，辽宁队领先排名第二的北京队4分。\n\n## 一年前的最后一轮\n\n这个冠军为一年前的遗憾画上了句号。辽宁队在2024年夺得女甲冠军升入女超，2025赛季最后一轮客场挑战北京队，只需战平就能夺冠，结果0比4落败，北京队夺得冠军，中新网报道。\n\n本赛季，辽宁队从常规赛开始就一直排名榜首。据国内媒体报道，球队主教练是马琳。\n\n## 为何重要\n\n这个冠军让辽宁省包揽了2026年中国足球男女顶级联赛冠军。一周前，同样来自辽宁的大连英博3比1击败天津津门虎，夺得中超冠军。中新网写道，这是职业联赛时代首次有一个省份在同一赛季包揽男女顶级联赛冠军。作为冠军，辽宁女足还获得了下赛季亚足联女子冠军联赛的参赛资格。\n\n## 关键数据\n\n- **比分：** 辽宁1比1北京。\n- **进球：** 孙文文 第51分钟（辽宁）；萨拉图·特劳雷 第86分钟（北京）。\n- **夺冠时间：** 联赛还剩一轮。\n- **上赛季：** 辽宁队最后一轮0比4负于北京队，屈居亚军。",
+      "social_post": "辽宁女足首次夺得中国女超联赛冠军！周日主场1比1战平北京队，提前一轮锁定冠军。一年前，她们在最后一轮0比4负于北京队而与冠军失之交臂。#女足 #中国足球"
+    },
+    "ru": {
+      "headline": "«Ляонин» впервые выиграл женскую Суперлигу Китая за тур до конца",
+      "subheadline": "Ничья 1:1 с «Пекином» дома в Шэньяне принесла титул — через год после того, как «Ляонин» упустил его в последнем туре в матче с тем же соперником.",
+      "body_markdown": "## Что произошло\n\nЖенская команда «Ляонин Шэньбэй Хэфэн» впервые выиграла женскую Суперлигу Китая: в субботу, 15 ноября 2026 года, она сыграла дома в Шэньяне вничью 1:1 с «Пекином» за тур до конца сезона. По данным агентства «Чайна ньюс», это первый титул клуба в высшем женском дивизионе.\n\n«Ляонин» повёл на 51-й минуте: после углового Чжан Синь мяч головой скинула Ян Мань, и Сунь Вэньвэнь забила у дальней штанги, сообщили китайские СМИ. «Пекин» сравнял счёт на 86-й минуте — забила Саррату Траоре, но ничьей хватило: перед туром «Ляонин» опережал шедший вторым «Пекин» на четыре очка.\n\n## Через год после поражения в последнем туре\n\nГод назад эта история закончилась для «Ляонина» неудачей. Команда, вышедшая в Суперлигу после победы во втором дивизионе в 2024 году, перед последним туром сезона-2025 нуждалась лишь в ничьей в гостях у «Пекина». Она проиграла 0:4, и титул достался «Пекину», напоминает «Чайна ньюс».\n\nВ этом сезоне «Ляонин» лидировал с регулярного чемпионата. Команду тренирует Ма Линь, сообщают китайские СМИ.\n\n## Почему это важно\n\nЭтот титул означает, что провинция Ляонин выиграла оба главных футбольных чемпионата Китая в 2026 году. Неделей ранее «Далянь Инбо», тоже из Ляонина, стал чемпионом мужской Суперлиги, обыграв «Тяньцзинь Цзиньмэнь Тайгер» 3:1. «Чайна ньюс» пишет, что в эпоху профессионального футбола ни одна провинция ещё не выигрывала оба высших дивизиона в одном сезоне. Как чемпион «Ляонин» также получает место в женской Лиге чемпионов АФК следующего сезона.\n\n## Главные факты\n\n- **Счёт:** «Ляонин» — «Пекин» 1:1.\n- **Голы:** Сунь Вэньвэнь, 51-я минута («Ляонин»); Саррату Траоре, 86-я («Пекин»).\n- **Титул:** оформлен за тур до конца.\n- **Прошлый сезон:** «Ляонин» проиграл «Пекину» 0:4 в последнем туре и стал вторым.",
+      "social_post": "«Ляонин» впервые стал чемпионом женской Суперлиги Китая. Домашняя ничья 1:1 с «Пекином» в воскресенье принесла титул за тур до конца — через год после поражения 0:4 от «Пекина» в решающем последнем туре. #ЖенскийФутбол #Китай"
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-16-news-22a44c",
+    "slug": "ten-man-england-beat-spain-3-2-in-madrid-to-top-their-nation",
+    "date": "2026-11-16",
+    "created": "2026-11-16T15:12:44+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "football",
+    "tags": [
+      "England",
+      "Spain",
+      "UEFA Nations League",
+      "Harry Kane",
+      "Thomas Tuchel",
+      "Elliot Anderson"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Sky Sports: Spain 2-3 England: Three Lions hold on for famous win after Elliot Anderson red card",
+        "url": "https://www.skysports.com/football/news/13611877/spain-2-3-england-three-lions-hold-on-for-famous-win-after-elliot-anderson-red-card-to-top-nations-league-group-a3"
+      },
+      {
+        "title": "PA via TheJournal.ie: 10-man England beat world champions Spain in Madrid to end host's 43-game unbeaten run",
+        "url": "https://www.thejournal.ie/england-beat-spain-nations-league-2-7227367-Nov2026/"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Ten-Man England Beat Spain 3-2 in Madrid to Top Their Nations League Group",
+      "subheadline": "Kane, Konsa and White scored before Elliot Anderson's red card, and England held on to end Spain's 43-match unbeaten run.",
+      "body_markdown": "## What happened\n\nEngland beat Spain 3-2 at the Metropolitano in Madrid on Sunday 15 November 2026 to finish top of Group A3 in the UEFA Nations League. The result ended the world champions' unbeaten run of 43 matches, the Press Association reported.\n\nHarry Kane gave England the lead in first-half stoppage time from the penalty spot, after Pau Cubarsi fouled him in the area. Early in the second half, Ezri Konsa headed in Declan Rice's corner in the 53rd minute and Ben White made it 3-0 four minutes later from a Morgan Rogers pass.\n\nEngland played the last half hour with ten men. In the 63rd minute Elliot Anderson was sent off for bringing down Lamine Yamal when he was the last defender. Mikel Oyarzabal scored the resulting penalty two minutes later, and substitute Nico Williams turned in a Yamal cross in the 75th minute.\n\n## How England held on\n\nGoalkeeper James Trafford, picked ahead of Jordan Pickford, made several saves in the closing stages, Sky Sports reported, including a double save from Fermín López and Oyarzabal in stoppage time.\n\n## Why it matters\n\nThe win puts Thomas Tuchel's England through to the Nations League quarter-finals as group winners, which means they will be seeded in the draw. According to Sky Sports, the draw takes place on Friday 20 November, and the quarter-finals are played over two legs in late March 2027.\n\n## Key facts\n\n- **Score:** Spain 2-3 England.\n- **England goals:** Kane 45' (penalty), Konsa 53', White 57'.\n- **Spain goals:** Oyarzabal 65' (penalty), Nico Williams 75'.\n- **Red card:** Elliot Anderson (England), 63'.\n- **Venue:** Metropolitano, Madrid.",
+      "social_post": "England won 3-2 in Madrid with ten men, ending Spain's 43-match unbeaten run. Kane (pen), Konsa and White scored before Elliot Anderson was sent off; Oyarzabal and Nico Williams hit back. England top Nations League Group A3. #ESPENG #NationsLeague"
+    },
+    "origin": "inbox/2026-11-16-england-beat-spain.md",
+    "region": "global",
+    "match": {
+      "competition": "UEFA Nations League · Group A3",
+      "date": "15 November 2026",
+      "home": "Spain",
+      "away": "England",
+      "home_score": 2,
+      "away_score": 3,
+      "home_scorers": [
+        "Oyarzabal 65' (pen)",
+        "N. Williams 75'"
+      ],
+      "away_scorers": [
+        "Kane 45' (pen)",
+        "Konsa 53'",
+        "White 57'"
+      ],
+      "note": "England top Group A3; Anderson sent off 63'"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ezri_Konsa_England_v_Panama_27_June_26-259_%28cropped%29.jpg/1280px-Ezri_Konsa_England_v_Panama_27_June_26-259_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ezri_Konsa_England_v_Panama_27_June_26-259_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Ezri Konsa during England v Panama on 27 June 2026 at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1669,
+        "year": 2026,
+        "subject": "Ezri Konsa, scorer of England's second goal"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg/1280px-Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Nico_Williams_Argentina_v_Spain_19_July_2026-196_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Nico Williams during Argentina vs Spain at the 2026 FIFA World Cup Final",
+        "width": 1200,
+        "height": 1994,
+        "year": 2026,
+        "subject": "Nico Williams, who scored Spain's second goal"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Atleti_vs_Villarreal_-_September_2025.jpg/1280px-Atleti_vs_Villarreal_-_September_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg",
+        "artist": "Elwin594",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Atleti vs Villarreal - September 13",
+        "width": 1200,
+        "height": 824,
+        "year": 2025,
+        "subject": "The Metropolitano in Madrid"
+      },
+      {
+        "url": "../photos/card-2026-11-16-news-22a44c.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Spain 2 - 3 England · UEFA Nations League · Group A3",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "zh": {
+      "headline": "英格兰十人作战 3比2客胜西班牙 力压对手获欧国联小组第一",
+      "subheadline": "凯恩、孔萨和本·怀特先后破门，埃利奥特·安德森随后被罚下，英格兰顶住反扑，终结西班牙43场不败。",
+      "body_markdown": "## 发生了什么\n\n2026年11月15日（周日），英格兰在马德里大都会球场3比2击败西班牙，以欧国联A3组第一的身份结束小组赛。据英国报业协会报道，这场失利终结了世界冠军西班牙队43场不败的纪录。\n\n上半场补时阶段，凯恩在禁区内被保·库巴西犯规，随后亲自主罚点球命中，帮助英格兰领先。下半场开始后，孔萨第53分钟头球攻入赖斯开出的角球，四分钟后本·怀特接摩根·罗杰斯的传球把比分改写为3比0。\n\n最后半小时英格兰少一人作战。第63分钟，埃利奥特·安德森作为最后一名防守球员放倒拉明·亚马尔，被直接红牌罚下。两分钟后，奥亚萨瓦尔主罚点球命中；第75分钟，替补登场的尼科·威廉斯将亚马尔的传中送入网窝。\n\n## 英格兰如何守住胜利\n\n据天空体育报道，首发出场、顶替皮克福德的门将詹姆斯·特拉福德在比赛最后阶段多次扑救，包括补时阶段连续扑出费尔明·洛佩斯和奥亚萨瓦尔的射门。\n\n## 为何重要\n\n这场胜利让图赫尔执教的英格兰以小组第一身份晋级欧国联八强，并将在抽签中成为种子队。据天空体育报道，抽签将于11月20日（周五）举行，八强赛将于2027年3月下旬进行两回合较量。\n\n## 关键数据\n\n- **比分：** 西班牙2比3英格兰。\n- **英格兰进球：** 凯恩 第45分钟（点球），孔萨 第53分钟，本·怀特 第57分钟。\n- **西班牙进球：** 奥亚萨瓦尔 第65分钟（点球），尼科·威廉斯 第75分钟。\n- **红牌：** 埃利奥特·安德森（英格兰），第63分钟。\n- **球场：** 马德里大都会球场。",
+      "social_post": "英格兰在马德里少一人作战3比2击败西班牙，终结对手43场不败。凯恩（点球）、孔萨和本·怀特进球后，埃利奥特·安德森被罚下；奥亚萨瓦尔和尼科·威廉斯扳回两球。英格兰获得欧国联A3组第一。#西班牙英格兰 #欧国联"
+    },
+    "ru": {
+      "headline": "Англия вдесятером обыграла Испанию 3:2 в Мадриде и заняла первое место в группе Лиги наций",
+      "subheadline": "Кейн, Конса и Уайт забили до удаления Эллиота Андерсона, и англичане удержали победу, прервав 43-матчевую беспроигрышную серию Испании.",
+      "body_markdown": "## Что произошло\n\nСборная Англии обыграла Испанию 3:2 на «Метрополитано» в Мадриде в воскресенье, 15 ноября 2026 года, и заняла первое место в группе A3 Лиги наций УЕФА. Поражение прервало беспроигрышную серию чемпионов мира из 43 матчей, сообщило агентство Press Association.\n\nГарри Кейн вывел Англию вперёд в компенсированное время первого тайма, реализовав пенальти после фола Пау Кубарси. В начале второго тайма Эзри Конса на 53-й минуте замкнул головой угловой Деклана Райса, а через четыре минуты Бен Уайт после передачи Моргана Роджерса сделал счёт 3:0.\n\nПоследние полчаса англичане играли вдесятером. На 63-й минуте Эллиот Андерсон был удалён за фол на Ламине Ямале в положении последнего защитника. Через две минуты Микель Ойарсабаль реализовал пенальти, а на 75-й минуте вышедший на замену Нико Уильямс замкнул передачу Ямаля.\n\n## Как Англия удержала победу\n\nВратарь Джеймс Траффорд, которому отдали предпочтение перед Джорданом Пикфордом, в концовке сделал несколько сейвов, сообщает Sky Sports, в том числе двойной сейв после ударов Фермина Лопеса и Ойарсабаля в добавленное время.\n\n## Почему это важно\n\nПобеда выводит сборную Англии Томаса Тухеля в четвертьфинал Лиги наций с первого места в группе, поэтому при жеребьёвке она будет посеяна. По данным Sky Sports, жеребьёвка пройдёт в пятницу, 20 ноября, а двухматчевые четвертьфиналы состоятся в конце марта 2027 года.\n\n## Главные факты\n\n- **Счёт:** Испания — Англия 2:3.\n- **Голы Англии:** Кейн, 45-я минута (пенальти); Конса, 53-я; Уайт, 57-я.\n- **Голы Испании:** Ойарсабаль, 65-я (пенальти); Нико Уильямс, 75-я.\n- **Удаление:** Эллиот Андерсон (Англия), 63-я минута.\n- **Стадион:** «Метрополитано», Мадрид.",
+      "social_post": "Англия вдесятером выиграла в Мадриде 3:2 и прервала беспроигрышную серию Испании из 43 матчей. Кейн (пенальти), Конса и Уайт забили до удаления Эллиота Андерсона; Ойарсабаль и Нико Уильямс отыграли два мяча. Англия — первая в группе A3 Лиги наций. #ИспанияАнглия #ЛигаНаций"
+    },
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
     "id": "2026-11-16-hist-6ea114",
     "slug": "on-this-day-in-2005-australia-ends-31-year-wait-to-qualify-f",
     "date": "2026-11-16",
