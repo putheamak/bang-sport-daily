@@ -1,39 +1,40 @@
-2026-11-16 08:36:20,394 INFO BBC Sport                         47 items
-2026-11-16 08:36:20,584 INFO The Guardian Sport                26 items
-2026-11-16 08:36:20,667 INFO ESPN                               0 items
-2026-11-16 08:36:20,823 INFO Sky Sports                        20 items
-2026-11-16 08:36:21,231 INFO Google News – Sports (EN)         58 items
-2026-11-16 08:36:22,068 INFO Google News – 体育 (ZH)             29 items
-2026-11-16 08:36:22,902 INFO Google News – Спорт (RU)          50 items
-2026-11-16 08:36:24,049 INFO Championat                        30 items
-2026-11-16 08:36:25,077 INFO Sports.ru                         20 items
-2026-11-16 08:36:26,702 INFO Спорт-Экспресс                   373 items
-2026-11-16 08:36:27,662 INFO РИА Новости Спорт                 20 items
-2026-11-16 08:36:28,391 INFO 中国新闻网 体育                          27 items
-2026-11-16 08:36:28,743 INFO Google News – Cambodia sport      17 items
-2026-11-16 08:36:29,171 INFO Google News – Southeast Asia sport  46 items
-2026-11-16 08:36:29,736 INFO Google News – Combat promotions  100 items
-2026-11-16 08:36:30,049 INFO Google News – Boxing              22 items
-2026-11-16 08:36:30,326 INFO Google News – Kun Khmer            2 items
-2026-11-16 08:36:30,559 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-16 08:36:31,065 INFO Google News – Единоборства (RU)   97 items
-2026-11-16 08:36:31,382 INFO Google News – 格斗 (ZH)             21 items
-2026-11-16 08:36:31,653 INFO MMA Fighting                      10 items
-2026-11-16 08:36:31,954 INFO Google News – Khmer Times sport   20 items
-2026-11-16 08:36:32,591 INFO Candidate stories after clustering: 894
-2026-11-16 08:36:33,603 INFO Trending skipped (not our audience): NFL Week 10 grades: Packers fail in showdown with Vikings, Patrick Mahomes catches fire
-2026-11-16 08:36:33,604 INFO Trending skipped (politics): PSSI extends its warmest congratulations to H.E. Major General Khiev Sameth on his re-elec
-2026-11-16 08:36:33,606 INFO Trending skipped (not our audience): Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027
-2026-11-16 08:36:33,607 INFO Trending skipped (politics): Carney says Canada could turn to Chinese automakers if Trump trade talks fail
-2026-11-16 08:36:33,607 INFO Trending skipped (clickbait): Невероятный хоккей в Астане: хет-трик Бэйли, девять шайб на двоих и победа «Барыса» над «М
-2026-11-16 08:36:33,708 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-16 08:36:33,709 INFO   1. [en 10 outlets, heat 22.7] Dana White Reacts to Stephen Thompson’s UFC Retirement
-2026-11-16 08:36:33,709 INFO   2. [en 9 outlets, heat 22.1] The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen
-2026-11-16 08:36:33,709 INFO   3. [ru 4 outlets, heat 12.1] Зидан — о победе Франции над Турцией: «Я был недоволен, как и футболисты»
-2026-11-16 08:36:33,709 INFO   4. [ru 5 outlets, heat 11.2] Познер оценил возвращение Трусовой после родов: выступление на этапе Гран-при в Китае
-2026-11-16 08:36:33,709 INFO   5. [en 4 outlets, heat 10.2] Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy.
-2026-11-16 08:36:33,709 INFO   C1. [ru 4 outlets, heat 11.9] UFC может провести турнир в России в 2027 году
-2026-11-16 08:36:33,709 INFO   C2. [en 4 outlets, heat 11.6] Bruce Buffer Reacts to Hokit’s Middle Finger at UFC 334
-2026-11-16 08:36:33,709 INFO   C3. [en 3 outlets, heat 9.1] UFC 334: Ciryl Gane beats Josh Hokit, keeps heavyweight title
-2026-11-16 08:36:33,709 INFO   C4. [en 3 outlets, heat 9.0] Yair Rodriguez Fights Steve Garcia in Dallas Jan. 16
-2026-11-16 08:36:33,709 INFO   C5. [ru 3 outlets, heat 8.9] Шара Буллет раскрыл подробности предложения сдать бой в UFC за 100 млн
+2026-11-16 19:51:55,947 INFO BBC Sport                         46 items
+2026-11-16 19:51:56,063 INFO The Guardian Sport                21 items
+2026-11-16 19:51:56,133 INFO ESPN                               0 items
+2026-11-16 19:51:56,300 INFO Sky Sports                        20 items
+2026-11-16 19:51:56,620 INFO Google News – Sports (EN)         58 items
+2026-11-16 19:51:57,500 INFO Google News – 体育 (ZH)             29 items
+2026-11-16 19:51:58,217 INFO Google News – Спорт (RU)          45 items
+2026-11-16 19:51:59,521 INFO Championat                        29 items
+2026-11-16 19:52:00,859 INFO Sports.ru                         20 items
+2026-11-16 19:52:02,702 INFO Спорт-Экспресс                   420 items
+2026-11-16 19:52:03,913 INFO РИА Новости Спорт                 20 items
+2026-11-16 19:52:05,161 INFO 中国新闻网 体育                          26 items
+2026-11-16 19:52:05,532 INFO Google News – Cambodia sport      17 items
+2026-11-16 19:52:06,029 INFO Google News – Southeast Asia sport  54 items
+2026-11-16 19:52:06,580 INFO Google News – Combat promotions   94 items
+2026-11-16 19:52:06,930 INFO Google News – Boxing              20 items
+2026-11-16 19:52:07,191 INFO Google News – Kun Khmer            2 items
+2026-11-16 19:52:07,576 WARNING Feed unreadable Google News – គុនខ្មែរ (Khmer): <unknown>:2:252: not well-formed (invalid token)
+2026-11-16 19:52:08,266 INFO Google News – Единоборства (RU)   84 items
+2026-11-16 19:52:08,692 INFO Google News – 格斗 (ZH)             26 items
+2026-11-16 19:52:08,910 INFO MMA Fighting                      10 items
+2026-11-16 19:52:09,174 WARNING Feed unreadable Google News – Khmer Times sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-16 19:52:10,037 INFO Candidate stories after clustering: 951
+2026-11-16 19:52:11,752 INFO Trending skipped (politics): Путин поздравил Мирру Андрееву с победой на Итоговом турнире WTA
+2026-11-16 19:52:11,753 INFO Trending skipped (politics): PSSI extends its warmest congratulations to H.E. Major General Khiev Sameth on his re-elec
+2026-11-16 19:52:11,755 INFO Trending skipped (politics): ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event
+2026-11-16 19:52:11,757 INFO Trending skipped (not our audience): Kirk Cousins’ return revives Vikings, and other NFL trade deadline ripple effects: Pick Si
+2026-11-16 19:52:11,758 INFO Trending skipped (politics): Журова назвала политическим решение Канады о недопуске России на МЧМ
+2026-11-16 19:52:11,759 INFO Trending skipped (not our audience): Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks
+2026-11-16 19:52:11,874 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-16 19:52:11,874 INFO   1. [en 11 outlets, heat 25.0] UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane
+2026-11-16 19:52:11,874 INFO   2. [en 6 outlets, heat 14.7] MMA pound-for-pound rankings (Nov. 2026): Kayla Harrison slays the GOAT to become new No. 1
+2026-11-16 19:52:11,874 INFO   3. [ru 4 outlets, heat 10.9] Роналду показал жестом букву M и заинтриговал фанатов. Это первый пост Криштиану после перформанса в
+2026-11-16 19:52:11,874 INFO   4. [en 3 outlets, heat 9.2] Switzerland vs Scotland LIVE!
+2026-11-16 19:52:11,874 INFO   5. [ru 3 outlets, heat 8.9] Президент ИИХФ объяснил недопуск России на молодёжный чемпионат мира — 2027
+2026-11-16 19:52:11,874 INFO   C1. [en 5 outlets, heat 12.3] Stephen Thompson reflects on rare fairy-tale ending at UFC 334
+2026-11-16 19:52:11,875 INFO   C2. [en 3 outlets, heat 8.7] UFC 6 Has Revealed The Official PRIDE FC Expansion
+2026-11-16 19:52:11,875 INFO   C3. [ru 3 outlets, heat 8.7] Друг Двалишвили — о драке против команды Усмана Нурмагомедова в Абу-Даби: «Мы всегда стоим за своих 
+2026-11-16 19:52:11,875 INFO   C4. [ru 3 outlets, heat 8.6] Шара Буллет ответил на слова Царукяна о том, что никогда не станет чемпионом UFC
+2026-11-16 19:52:11,875 INFO   C5. [en 2 outlets, heat 7.0] UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane
