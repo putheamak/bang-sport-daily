@@ -480,3 +480,47 @@ def unique_covers(articles: list[dict], only: list[dict] | None = None, days: in
             changed += 1
             log.info("Cover photo of %s changed: another story already uses that picture", a.get("id"))
     return changed
+
+
+# ---------------------------------------------------------------- our own copy of each photo (16 Nov 2026)
+def local_copies(articles: list[dict], max_new: int = 250) -> int:
+    """Keep a copy of every free-licence photo on our own site (docs/photos/c/), so pages load where Wikimedia
+    is blocked (mainland China) and faster everywhere. The licence allows copies as long as the credit stays,
+    and the credit line is unchanged. Each image gets 'local' = its address on our site; the original stays
+    in 'url'. Returns how many new copies were made. A failed download simply keeps the Wikimedia address."""
+    import hashlib
+    import io
+    import os
+    from PIL import Image
+    from .common import ROOT
+    folder = ROOT / "docs" / "photos" / "c"
+    offline = os.environ.get("SPORTNEWS_MOCK") == "1"
+    made = 0
+    for a in articles:
+        for im in a.get("images") or []:
+            url = im.get("url") or ""
+            if not url.startswith("http"):
+                continue
+            name = hashlib.sha1(url.encode()).hexdigest()[:16] + ".jpg"
+            out = folder / name
+            if not out.exists():
+                if offline or made >= max_new:
+                    continue
+                try:
+                    img = Image.open(io.BytesIO(_download(url)))
+                    if img.mode not in ("RGB", "L"):
+                        bg = Image.new("RGB", img.size, "white")
+                        bg.paste(img, mask=img.convert("RGBA").split()[3])
+                        img = bg
+                    img = img.convert("RGB")
+                    img.thumbnail((1200, 1200), Image.LANCZOS)
+                    folder.mkdir(parents=True, exist_ok=True)
+                    img.save(out, "JPEG", quality=82, optimize=True, progressive=True)
+                    made += 1
+                except Exception as e:  # noqa: BLE001
+                    log.warning("Photo copy failed (Wikimedia address kept): %s: %s", url[:90], str(e)[:120])
+                    continue
+            im["local"] = f"../photos/c/{name}"
+    if made:
+        log.info("Photo copies: %d new photo(s) saved on our own site", made)
+    return made

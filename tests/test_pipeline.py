@@ -1041,3 +1041,34 @@ def test_clean_addresses_everywhere(repo):
     assert 'href="about"' in home and 'href="../ru/"' in home and "../style.css" in home
     sm = (repo / "docs/sitemap.xml").read_text()
     assert ".html<" not in sm and "/en/</loc>" in sm
+
+
+def test_photo_copies_and_news_sitemap(repo, monkeypatch):
+    import io
+    from datetime import timedelta
+    from PIL import Image
+    from sportnews import images as I
+    from sportnews.common import save_articles
+    from sportnews.site import build_site
+    buf = io.BytesIO()
+    Image.new("RGBA", (2000, 1000), (200, 0, 0, 255)).save(buf, "PNG")
+    monkeypatch.setattr(I, "_download", lambda url: buf.getvalue())
+    monkeypatch.delenv("SPORTNEWS_MOCK", raising=False)
+    now = datetime.now(timezone.utc)
+    im = {"url": "https://upload.wikimedia.org/x/Player.jpg?utm=1", "page": "https://commons.wikimedia.org/wiki/File:Player.jpg",
+          "artist": "Someone", "license": "CC BY-SA 4.0", "subject": "A player"}
+    a = {"id": "2026-11-16-news-aaaaaa", "slug": "fresh-story", "date": "2026-11-16", "created": now.isoformat(),
+         "published_at": now.isoformat(), "status": "published", "type": "news", "sport": "football", "tags": [],
+         "images": [dict(im)], "en": {"headline": "Fresh story", "subheadline": "s", "body_markdown": "Text."}}
+    old = dict(a, id="2026-11-10-news-bbbbbb", slug="old-story", published_at=(now - timedelta(days=5)).isoformat(),
+               images=[], en={"headline": "Old story", "subheadline": "s", "body_markdown": "Text."})
+    save_articles([a, old])
+    build_site(cfg())
+    copies = list((repo / "docs/photos/c").glob("*.jpg"))
+    assert len(copies) == 1 and Image.open(copies[0]).size == (1200, 600)        # resized, RGB jpeg
+    page = (repo / "docs/en/fresh-story.html").read_text()
+    assert f'src="../photos/c/{copies[0].name}"' in page and "Wikimedia Commons" in page   # credit unchanged
+    assert 'og:image" content="https://me.github.io/gsd/photos/c/' not in page             # og keeps the original
+    news = (repo / "docs/news-sitemap.xml").read_text()
+    assert "/en/fresh-story</loc>" in news and "old-story" not in news and "<news:language>en<" in news
+    assert "news-sitemap.xml" in (repo / "docs/robots.txt").read_text()

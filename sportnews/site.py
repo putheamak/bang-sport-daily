@@ -82,6 +82,13 @@ def _base(cfg) -> str:
     return site_url(cfg)
 
 
+def _abs(cfg, url: str) -> str:
+    """Full address for a picture (social previews need one): '../photos/x.png' -> 'https://site/photos/x.png'."""
+    if url.startswith("../") and _base(cfg):
+        return f"{_base(cfg)}/{url[3:]}"
+    return url
+
+
 def _site_name(cfg, lang):
     s = cfg["site"]
     return {"en": s["name"], "zh": s.get("name_zh", s["name"]), "ru": s.get("name_ru", s["name"])}[lang]
@@ -224,7 +231,7 @@ def _img(a, i=0, cls="ph", size="") -> str:
     imgs = a.get("images") or []
     if i < len(imgs):
         im = imgs[i]
-        return (f'<img class="{cls}" src="{E(im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
+        return (f'<img class="{cls}" src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
                 f'decoding="async" referrerpolicy="no-referrer">')
     return ""
 
@@ -285,7 +292,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
                 f'<div class="tviewport"><div class="ttrack">{items}{items}</div></div></div></div>')
     cols = cfg.get("columnists") or {}
     foot_sections = "".join(f'<li><a href="{section_file(k)}">{E(section_name(cfg, k, lang))}</a></li>' for k in NAV_ORDER if k in cols)
-    og = f'<meta property="og:image" content="{E(og_image)}">' if og_image else ""
+    og = f'<meta property="og:image" content="{E(_abs(cfg, og_image))}">' if og_image else ""
     return f"""<!doctype html>
 <html lang="{HTML_LANG[lang]}">
 <head>
@@ -408,7 +415,7 @@ def _share(cfg, a, lang) -> str:
 
 
 def _figure(im, lang) -> str:
-    return (f'<figure class="inline"><img src="{E(im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
+    return (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
             f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
 
 
@@ -432,7 +439,7 @@ def _body_with_images(a, lang) -> str:
     slots = [3, 7]
     for im, pos in reversed(list(zip(imgs, slots))):
         if pos < len(paras):
-            fig = (f'<figure class="inline"><img src="{E(im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
+            fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
                    f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
             paras.insert(pos, fig)
     return "\n".join(paras)
@@ -450,7 +457,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
             if imgs else f'<figure class="hero-fig">{_cover(cfg, a, lang, "heroimg")}</figure>')
     ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": L["headline"][:110],
                      "datePublished": a.get("published_at") or a["created"], "inLanguage": HTML_LANG[lang],
-                     "image": [imgs[0]["url"]] if imgs else [],
+                     "image": [_abs(cfg, imgs[0]["url"])] if imgs else [],
                      "dateModified": a.get("updated_at") or a.get("published_at") or a["created"],
                      "author": ({"@type": "Person", "name": cfg["site"]["author"], "url": f"{_base(cfg)}/{lang}/author"}
                                 if byline_mode(cfg) != "pen_names" else
@@ -695,6 +702,11 @@ def build_site(cfg: dict) -> None:
     from .common import DATA, read_json
     wire = read_json(DATA / "wire.json", {})
     pub = [a for a in all_articles if a["status"] == "published"]
+    try:                                            # our own copy of each photo (works where Wikimedia is blocked)
+        from .images import local_copies
+        local_copies(pub)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Photo copies skipped: %s", str(e)[:200])
     pub.sort(key=lambda a: a.get("published_at") or a["created"], reverse=True)
     urls = []
     for lang in LANGS:
@@ -743,7 +755,9 @@ def build_site(cfg: dict) -> None:
     if base:
         (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                           + "".join(f"<url><loc>{base}/{pretty_path(u)}</loc></url>" for u in urls) + "</urlset>", encoding="utf-8")
-        (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
+        (DOCS / "news-sitemap.xml").write_text(_news_sitemap(cfg, pub, base), encoding="utf-8")
+        (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n"
+                                         f"Sitemap: {base}/news-sitemap.xml\n")
     # Review page with drafts — OFF by default because a GitHub Pages site is public.
     if cfg["publish"].get("drafts_on_site", False):
         shutil.copy(TEMPLATE_DIR / "dashboard.html", DOCS / "review.html")
@@ -756,6 +770,36 @@ def build_site(cfg: dict) -> None:
             (DOCS / f).unlink(missing_ok=True)
     _clean_links()
     log.info("Website built: %d published stories, %d pages", len(pub), len(urls))
+
+
+NEWS_LANG = {"en": "en", "zh": "zh-cn", "ru": "ru"}
+
+
+def _news_sitemap(cfg, pub: list[dict], base: str, hours: int = 48) -> str:
+    """Google News sitemap: news stories published in the last 48 hours, in every language they exist in."""
+    from datetime import timedelta, timezone
+    now = datetime.now(timezone.utc)
+    rows = []
+    for a in pub:
+        if a.get("type", "news") != "news":
+            continue
+        try:
+            when = datetime.fromisoformat(a.get("published_at") or a["created"])
+        except (ValueError, KeyError):
+            continue
+        if when.tzinfo is None:
+            when = when.replace(tzinfo=timezone.utc)
+        if now - when > timedelta(hours=hours):
+            continue
+        for lang in LANGS:
+            if not a.get(lang) or stale(a, lang):
+                continue
+            rows.append(f"<url><loc>{base}/{lang}/{a['slug']}</loc><news:news><news:publication>"
+                        f"<news:name>{E(_site_name(cfg, lang))}</news:name><news:language>{NEWS_LANG[lang]}</news:language>"
+                        f"</news:publication><news:publication_date>{when.isoformat(timespec='seconds')}</news:publication_date>"
+                        f"<news:title>{E(a[lang]['headline'])}</news:title></news:news></url>")
+    return ('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+            'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">' + "".join(rows[:1000]) + "</urlset>")
 
 
 _LOCAL_HTML = re.compile(r'(href|url)=("?)(?![a-z]+:|#|//)([^"\s>]*?)\.html(#[^"\s>]*)?(["\s>])')
