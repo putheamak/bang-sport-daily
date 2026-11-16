@@ -5,7 +5,7 @@
     "date": "2026-11-16",
     "created": "2026-11-16T15:12:45+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -32,7 +32,20 @@
         "url": "https://www.sohu.com/a/1101932766_122290832"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-16T15:23:35+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-16T15:23:36+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-16T15:23:37+07:00"
+      }
+    ],
     "en": {
       "headline": "Liaoning Win First Chinese Women's Super League Title With a Round to Spare",
       "subheadline": "A 1-1 draw at home to Beijing in Shenyang settled the title, a year after Liaoning lost it on the final day to the same opponents.",
@@ -113,7 +126,8 @@
         "area": "facts",
         "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-16T15:23:37+07:00"
   },
   {
     "id": "2026-11-16-news-22a44c",
@@ -121,7 +135,7 @@
     "date": "2026-11-16",
     "created": "2026-11-16T15:12:44+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -145,7 +159,20 @@
         "url": "https://www.thejournal.ie/england-beat-spain-nations-league-2-7227367-Nov2026/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-16T15:23:33+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-16T15:23:34+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-16T15:23:34+07:00"
+      }
+    ],
     "en": {
       "headline": "Ten-Man England Beat Spain 3-2 in Madrid to Top Their Nations League Group",
       "subheadline": "Kane, Konsa and White scored before Elliot Anderson's red card, and England held on to end Spain's 43-match unbeaten run.",
@@ -241,7 +268,8 @@
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-16T15:23:34+07:00"
   },
   {
     "id": "2026-11-16-hist-6ea114",
