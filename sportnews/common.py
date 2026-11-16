@@ -116,3 +116,15 @@ def site_url(cfg: dict) -> str:
         u = f"https://{owner.lower()}.github.io/{name}"
     u = u or cfg["site"].get("url", "")
     return "" if "YOUR-GITHUB-USERNAME" in u else u.rstrip("/")
+
+
+def pretty_path(path: str) -> str:
+    """Clean page address, as Cloudflare Pages serves it: 'en/story.html' -> 'en/story', 'en/index.html' -> 'en/'.
+    (Cloudflare redirects every '.html' address to the clean one, so canonical links, the sitemap and
+    shared links must use the clean form, or search engines see a redirect for every page.)"""
+    p, hash_, frag = path.partition("#")
+    if p.endswith("index.html"):
+        p = p[: -len("index.html")]
+    elif p.endswith(".html"):
+        p = p[: -len(".html")]
+    return p + hash_ + frag

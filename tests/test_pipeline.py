@@ -209,7 +209,7 @@ def test_site_layout_with_photo(repo):
     assert "<h2>H</h2>\n<p>P2</p>" in page and "t.me/share/url" in page
     # compliance: real author byline (no invented names), no Google Fonts, legal pages, author page
     assert ">Mak<" in page and "Nadia Rennick" not in page and "reviewed by the author" in page
-    assert "fonts.googleapis.com" not in page and '"url": "https://me.github.io/gsd/en/author.html"' in page
+    assert "fonts.googleapis.com" not in page and '"url": "https://me.github.io/gsd/en/author"' in page
     for f in ("editorial", "privacy", "terms", "contact", "author", "about"):
         assert (repo / f"docs/en/{f}.html").exists() and (repo / f"docs/ru/{f}.html").exists()
     assert "pen name" not in (repo / "docs/en/about.html").read_text().lower()
@@ -218,7 +218,7 @@ def test_site_layout_with_photo(repo):
     assert not (repo / "docs/ads.txt").exists()
     assert (repo / "docs/CNAME").read_text().strip() == "bangsportdaily.com"
     home = (repo / "docs/en/index.html").read_text()
-    assert 'class="ticker"' in home and "section-athlete_story.html" in home
+    assert 'class="ticker"' in home and '"section-athlete_story"' in home
     assert (repo / "docs/zh/section-football.html").exists()
 
 
@@ -790,7 +790,7 @@ def test_rename_slug_keeps_old_link_and_ria_dates(repo):
     common.save_articles(merge_articles(new, common.load_articles()))
     site.build_site(cfg())
     assert (repo / "docs/en/linda-noskova-beats-coco-gauff.html").exists()
-    assert 'url=linda-noskova-beats-coco-gauff.html' in (repo / "docs/en/old-headline.html").read_text()
+    assert 'url=linda-noskova-beats-coco-gauff"' in (repo / "docs/en/old-headline.html").read_text()
 
 
 def test_daily_once_and_filler_warning(repo, monkeypatch):
@@ -970,7 +970,7 @@ def test_indexnow_waits_one_run_then_submits(repo, monkeypatch):
     done = IN.run(c, arts, now=t0 + timedelta(hours=1), post=post)             # next run: submitted
     assert len(done) == 3 and all("story-one" in u for u in done)
     assert calls[0]["host"] == "bangsportdaily.com" and calls[0]["keyLocation"].endswith(f"/{key}.txt")
-    assert "https://bangsportdaily.com/en/index.html" in calls[0]["urlList"]
+    assert "https://bangsportdaily.com/en/" in calls[0]["urlList"]
     assert not any("draft-two" in u for u in calls[0]["urlList"])
     assert IN.run(c, arts, now=t0 + timedelta(hours=2), post=post) == [] and len(calls) == 1   # nothing new: no call
     arts[0]["republished_at"] = "2026-11-14T15:00:00+07:00"                    # a correction is submitted again
@@ -1026,3 +1026,18 @@ def test_article_photos_checks_every_file(repo, monkeypatch):
 def test_cc0_is_a_free_licence():
     from sportnews.images import OK_LICENSE
     assert OK_LICENSE.search("CC0") and OK_LICENSE.search("CC BY 4.0") and not OK_LICENSE.search("Fair use")
+
+
+
+def test_clean_addresses_everywhere(repo):
+    from sportnews.common import pretty_path
+    from sportnews.site import build_site
+    assert pretty_path("en/index.html") == "en/" and pretty_path("ru/story-one.html") == "ru/story-one"
+    assert pretty_path("about.html#columnists") == "about#columnists"
+    build_site(cfg())
+    home = (repo / "docs/en/index.html").read_text()
+    assert ".html\"" not in home.replace("https://", "")              # no internal link ends in .html
+    assert 'rel="canonical" href="https://me.github.io/gsd/en/"' in home
+    assert 'href="about"' in home and 'href="../ru/"' in home and "../style.css" in home
+    sm = (repo / "docs/sitemap.xml").read_text()
+    assert ".html<" not in sm and "/en/</loc>" in sm

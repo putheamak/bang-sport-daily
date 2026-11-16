@@ -26,7 +26,7 @@ def article_url(cfg: dict, a: dict, lang: str) -> str | None:
     base = site_url(cfg)
     if not base:
         return None
-    return f"{base}/{lang}/{a['slug']}.html"
+    return f"{base}/{lang}/{a['slug']}"
 
 
 def social_text(cfg: dict, a: dict, lang: str) -> str:

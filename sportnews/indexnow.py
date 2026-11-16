@@ -49,14 +49,14 @@ def run(cfg: dict, articles: list[dict], now: datetime | None = None, post=_post
         for lang in LANGS:
             if not a.get(lang):
                 continue
-            url = f"{base}/{lang}/{a['slug']}.html"
+            url = f"{base}/{lang}/{a['slug']}"
             if sent.get(url) != stamp and url not in pending:
                 pending[url] = {"stamp": stamp, "seen": now.isoformat(timespec="seconds")}
     ready = [u for u, p in pending.items() if now - datetime.fromisoformat(p["seen"]) >= WAIT]
     done: list[str] = []
     live = os.environ.get("GITHUB_ACTIONS") == "true" and os.environ.get("SPORTNEWS_MOCK") != "1"
     if ready and (live or post is not _post):
-        urls = ready + [f"{base}/{lang}/index.html" for lang in LANGS]      # home pages changed too
+        urls = ready + [f"{base}/{lang}/" for lang in LANGS]      # home pages changed too
         host = base.split("://", 1)[-1].strip("/")
         try:
             code = post({"host": host, "key": key, "keyLocation": f"{base}/{key}.txt", "urlList": urls[:10000]})

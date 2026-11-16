@@ -14,7 +14,7 @@ from datetime import datetime
 from email.utils import format_datetime
 from pathlib import Path
 
-from .common import DOCS, load_articles, log, write_json
+from .common import DOCS, load_articles, log, pretty_path, write_json
 from .exporters import label
 
 LANGS = ("en", "zh", "ru")
@@ -265,9 +265,9 @@ def _kicker(cfg, a, lang) -> str:
 def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: str, extra_head: str = "",
           ticker: list | None = None, og_image: str = "", active: str = "", noindex: bool = False) -> str:
     base = _base(cfg)
-    alt = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{base}/{p}">' for l, p in alternates.items()) if base else ""
+    alt = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{base}/{pretty_path(p)}">' for l, p in alternates.items()) if base else ""
     if base and "en" in alternates:
-        alt += f'<link rel="alternate" hreflang="x-default" href="{base}/{alternates["en"]}">'
+        alt += f'<link rel="alternate" hreflang="x-default" href="{base}/{pretty_path(alternates["en"])}">'
     robots = '\n<meta name="robots" content="noindex,follow">' if noindex else ""
     ads_id = cfg["site"].get("adsense_client") or ""
     adsense = (f'\n<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(ads_id)}" crossorigin="anonymous"></script>'
@@ -292,7 +292,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
-{f'<link rel="canonical" href="{base}/{canonical}">' if base else ''}{alt}
+{f'<link rel="canonical" href="{base}/{pretty_path(canonical)}">' if base else ''}{alt}
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="article">{og}
 <meta name="twitter:card" content="summary_large_image">
 <link rel="alternate" type="application/rss+xml" href="feed.xml" title="RSS">
@@ -390,7 +390,7 @@ def _rail(cfg, lang, wire, latest=None) -> str:
 
 
 def _share(cfg, a, lang) -> str:
-    url = f"{_base(cfg)}/{lang}/{a['slug']}.html" if _base(cfg) else ""
+    url = f"{_base(cfg)}/{lang}/{a['slug']}" if _base(cfg) else ""
     if not url:
         return ""
     u, t = urllib.parse.quote(url, safe=""), urllib.parse.quote(a[lang]["headline"], safe="")
@@ -452,7 +452,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
                      "datePublished": a.get("published_at") or a["created"], "inLanguage": HTML_LANG[lang],
                      "image": [imgs[0]["url"]] if imgs else [],
                      "dateModified": a.get("updated_at") or a.get("published_at") or a["created"],
-                     "author": ({"@type": "Person", "name": cfg["site"]["author"], "url": f"{_base(cfg)}/{lang}/author.html"}
+                     "author": ({"@type": "Person", "name": cfg["site"]["author"], "url": f"{_base(cfg)}/{lang}/author"}
                                 if byline_mode(cfg) != "pen_names" else
                                 {"@type": "Person", "name": name, "description": "Pen name, edited by " + cfg["site"]["author"]}),
                      "publisher": {"@type": "Organization", "name": cfg["site"]["name"], "url": _base(cfg) or None}},
@@ -638,8 +638,8 @@ def _author_page(cfg, lang, items):
 def _rss(cfg, lang, items):
     base = _base(cfg) or "."
     entries = "".join(
-        f"<item><title>{E(a[lang]['headline'])}</title><link>{base}/{lang}/{a['slug']}.html</link>"
-        f"<guid>{base}/{lang}/{a['slug']}.html</guid><description>{E(_plain(a[lang].get('body_markdown', ''), 300))}</description>"
+        f"<item><title>{E(a[lang]['headline'])}</title><link>{base}/{lang}/{a['slug']}</link>"
+        f"<guid>{base}/{lang}/{a['slug']}</guid><description>{E(_plain(a[lang].get('body_markdown', ''), 300))}</description>"
         f"<pubDate>{format_datetime(datetime.fromisoformat(a.get('published_at') or a['created']))}</pubDate></item>"
         for a in items[:30])
     return (f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>{E(_site_name(cfg, lang))}</title>'
@@ -651,7 +651,7 @@ ROOT_INDEX = """<!doctype html><html><head><meta charset="utf-8"><meta name="vie
 <main class="wrap"><h1 class="brand big"><b>BANG</b><span>SPORT</span><i>DAILY</i></h1>
 <div class="choose"><a href="en/index.html">English</a><a href="zh/index.html">中文</a><a href="ru/index.html">Русский</a></div></main>
 <script>try{{var l=(navigator.language||'en').slice(0,2);var m={{zh:'zh',ru:'ru',uk:'ru',be:'ru',kk:'ru'}}[l]||'en';
-if(!sessionStorage.getItem('picked')){{sessionStorage.setItem('picked','1');location.replace(m+'/index.html')}}}}catch(e){{}}</script></body></html>"""
+if(!sessionStorage.getItem('picked')){{sessionStorage.setItem('picked','1');location.replace(m+'/')}}}}catch(e){{}}</script></body></html>"""
 
 
 def _redirect_page(slug: str) -> str:
@@ -742,7 +742,7 @@ def build_site(cfg: dict) -> None:
     base = _base(cfg)
     if base:
         (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-                                          + "".join(f"<url><loc>{base}/{u}</loc></url>" for u in urls) + "</urlset>", encoding="utf-8")
+                                          + "".join(f"<url><loc>{base}/{pretty_path(u)}</loc></url>" for u in urls) + "</urlset>", encoding="utf-8")
         (DOCS / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
     # Review page with drafts — OFF by default because a GitHub Pages site is public.
     if cfg["publish"].get("drafts_on_site", False):
@@ -754,4 +754,24 @@ def build_site(cfg: dict) -> None:
     else:
         for f in ("review.html", "articles.json"):
             (DOCS / f).unlink(missing_ok=True)
+    _clean_links()
     log.info("Website built: %d published stories, %d pages", len(pub), len(urls))
+
+
+_LOCAL_HTML = re.compile(r'(href|url)=("?)(?![a-z]+:|#|//)([^"\s>]*?)\.html(#[^"\s>]*)?(["\s>])')
+
+
+def _clean_links() -> None:
+    """Links between our own pages use the clean addresses Cloudflare serves ('story', not 'story.html'),
+    so a reader's click does not go through a redirect first."""
+    def fix(m):
+        path = m.group(3)
+        if path == "index" or path.endswith("/index"):
+            path = path[: -len("index")] or "./"
+        return f"{m.group(1)}={m.group(2)}{path}{m.group(4) or ''}{m.group(5)}"
+    for f in [DOCS / "index.html"] + [p for l in LANGS for p in (DOCS / l).glob("*.html")]:
+        if f.exists():
+            t = f.read_text(encoding="utf-8")
+            n = _LOCAL_HTML.sub(fix, t)
+            if n != t:
+                f.write_text(n, encoding="utf-8")
