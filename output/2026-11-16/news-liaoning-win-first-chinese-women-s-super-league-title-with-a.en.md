@@ -6,7 +6,7 @@
 
 ## What happened
 
-Liaoning Shenbei Hefeng won the Chinese Women's Super League for the first time on Saturday 15 November 2026, drawing 1-1 at home to Beijing in Shenyang with one round of the season left. China News Service reported that it is the club's first title in the women's top division.
+Liaoning Shenbei Hefeng won the Chinese Women's Super League for the first time on Sunday 15 November 2026, drawing 1-1 at home to Beijing in Shenyang with one round of the season left. China News Service reported that it is the club's first title in the women's top division.
 
 Liaoning went ahead in the 51st minute when Sun Wenwen scored at the far post after a corner from Zhang Xin was flicked on by Yang Man, Chinese media reported. Beijing equalised in the 86th minute through Sarratu Traore, but the draw was enough: Liaoning had started the round four points clear of Beijing in second place.
 
