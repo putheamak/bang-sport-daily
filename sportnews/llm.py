@@ -70,6 +70,63 @@ def gemini_candidates(names: list[str]) -> list[str]:
 _STATE = {"chain": None, "dead": set(), "no_search": False, "broken": None}
 
 
+# ---- daily quota memory (shared by all runs of the day through data/gemini_quota.json) ----
+# The free quota resets at midnight Pacific time (15:00 in Cambodia). Once a model says its DAILY quota is
+# used up, every later run that day skips it straight away instead of spending requests on certain failures.
+def _quota_day() -> str:
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    return datetime.now(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d")
+
+
+def _quota() -> dict:
+    if _STATE.get("quota") is None or _STATE["quota"].get("day") != _quota_day():
+        from . import common
+        q = common.read_json(common.DATA / "gemini_quota.json", {})
+        if q.get("day") != _quota_day():
+            q = {"day": _quota_day(), "exhausted": [], "no_search": False, "usage": {}}
+        _STATE["quota"] = q
+    return _STATE["quota"]
+
+
+def _save_quota() -> None:
+    from . import common
+    try:
+        common.write_json(common.DATA / "gemini_quota.json", _quota())
+    except Exception as e:  # noqa: BLE001
+        log.warning("Could not save Gemini quota file: %s", str(e)[:200])
+
+
+def _count(model: str, ok: bool) -> None:
+    u = _quota()["usage"].setdefault(model, {"ok": 0, "fail": 0})
+    u["ok" if ok else "fail"] += 1
+    _save_quota()
+
+
+def _daily_limit(msg: str) -> bool:
+    """True when a 429 is the per-DAY quota (waiting a minute will not help)."""
+    m = msg.lower().replace("_", "")
+    return "perday" in m or "per day" in m or "requestsperday" in m or "daily" in m
+
+
+def usage_summary() -> str:
+    q = _quota()
+    parts = [f"{m} {u['ok']} ok / {u['fail']} failed" for m, u in sorted(q["usage"].items())]
+    out = f"Gemini today ({q['day']}, Pacific): " + ("; ".join(parts) if parts else "no requests")
+    if q["exhausted"]:
+        out += " · daily quota used up: " + ", ".join(q["exhausted"])
+    return out
+
+
+def _log_summary() -> None:
+    if _STATE.get("quota") and _STATE["quota"].get("usage"):
+        log.info(usage_summary())
+
+
+import atexit  # noqa: E402
+atexit.register(_log_summary)
+
+
 def _chain(client, cfg) -> list[str]:
     if _STATE["chain"] is None:
         wanted = cfg["ai"]["gemini"].get("model", "auto")
@@ -85,7 +142,12 @@ def _chain(client, cfg) -> list[str]:
             chain = [wanted] + [c for c in chain if c != wanted]
         _STATE["chain"] = chain
         log.info("Gemini models available: %d · fallback chain: %s", len(names), " > ".join(chain))
-    return [m for m in _STATE["chain"] if m not in _STATE["dead"]]
+    skip = set(_STATE["dead"]) | set(_quota()["exhausted"])
+    chain = [m for m in _STATE["chain"] if m not in skip]
+    if _quota()["exhausted"] and not _STATE.get("told_skip"):
+        _STATE["told_skip"] = True
+        log.info("Skipping models whose daily free quota is used up: %s", ", ".join(_quota()["exhausted"]))
+    return chain
 
 
 def _classify(msg: str) -> str:
@@ -123,7 +185,7 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
             if time.monotonic() - started > budget:
                 errors.append("time budget used up (Gemini overloaded)")
                 break
-            use_search = search and gcfg.get("google_search", True) and not _STATE["no_search"]
+            use_search = search and gcfg.get("google_search", True) and not _STATE["no_search"] and not _quota()["no_search"]
             for attempt in range(3):
                 tools = [types.Tool(google_search=types.GoogleSearch())] if use_search else None
                 try:
@@ -143,11 +205,13 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                                 sources.append({"title": ch.web.title or ch.web.domain or ch.web.uri, "url": ch.web.uri})
                     except (AttributeError, IndexError, TypeError):
                         pass
+                    _count(model, True)
                     time.sleep(gcfg.get("pause_seconds", 8))
                     return text, sources, model
                 except Exception as e:  # noqa: BLE001
                     msg = str(e)
                     kind = _classify(msg)
+                    _count(model, False)
                     errors.append(f"{model}: {kind}{' +search' if use_search else ''}: {msg[:160]}")
                     if not _STATE.get("logged_full"):
                         _STATE["logged_full"] = True
@@ -157,6 +221,8 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                         # The Google Search grounding quota is separate and is often the one that is 0.
                         log.warning("Retrying %s WITHOUT Google Search", model)
                         _STATE["no_search"] = True
+                        _quota()["no_search"] = True       # the search quota is daily: keep it off until the reset
+                        _save_quota()
                         use_search = False
                         continue
                     if kind == "auth":
@@ -170,11 +236,20 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                         _STATE["dead"].add(model)
                         break
                     if kind == "rate":
-                        _STATE["rate_fails"] = _STATE.get("rate_fails", 0) + 1
-                        if _STATE["rate_fails"] <= 2 and attempt < 2:
-                            time.sleep(35)        # per-minute limit: wait once or twice, then move on
-                            continue
-                        break
+                        # Gemini's 429 does not say whether the per-minute or the per-day limit was hit. We wait once
+                        # (per-minute limits clear in under a minute); a second 429 means the day's quota is gone,
+                        # so the model is skipped by every run until the reset at 15:00 Cambodia time.
+                        waited = _STATE.setdefault("waited", set())
+                        if _daily_limit(msg) or model in waited:
+                            q = _quota()
+                            if model not in q["exhausted"]:
+                                q["exhausted"].append(model)
+                                _save_quota()
+                            log.warning("%s: daily free quota used up; skipped until 15:00 Cambodia time", model)
+                            break
+                        waited.add(model)
+                        time.sleep(35)
+                        continue
                     if kind == "busy" and attempt == 0:
                         time.sleep(20)
                         continue
@@ -182,6 +257,8 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                         use_search = False   # retry once without search
                         continue
                     break
+        if not _chain(client, cfg):
+            break                              # every model is out of quota for today: do not wait and retry
         if _round == 0 and time.monotonic() - started < budget:
             time.sleep(30)
     _STATE["broken"] = " | ".join(errors[-6:])
