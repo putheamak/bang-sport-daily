@@ -1,472 +1,228 @@
 {
-  "updated": "2026-11-16T19:52:11+00:00",
+  "updated": "2026-11-17T09:45:04+00:00",
   "stories": [
     {
-      "key": "7ce00d92ec",
-      "title": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane",
-      "summary": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane Yahoo Sports",
-      "lang": "en",
+      "key": "81f8895cbf",
+      "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых",
+      "summary": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых Независимая газета",
+      "lang": "ru",
       "sport": "combat",
       "outlets": 11,
       "growth": 0,
-      "heat": 25.02,
-      "published": "2026-11-16T19:32:45+00:00",
+      "heat": 26.81,
+      "published": "2026-11-17T09:23:12+00:00",
       "refs": [
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aUzFtdUc3VVhvNWx5alFFbG5pdnNxVXd1QUhOcGxZOEZieDRQTk5sSktxMG8xdTVGcXlYUENxSzJlN1VrS09rV2sya3FLa21jYnBSYUprV2gzMk5yemdLSlRKZF80c0czRGNscWh3T3FCQVlWVW9EaVNTWWdjUQ?oc=5",
-          "title": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane"
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZbzZfWG9BYUM3MFF0emxpeXNMLW5Rc094Y2F4TTlpVjJDdzE0dDZyR2JfYkg2dkhZNkZ5N09jV1R5Tno4TlctZkJn?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
         },
         {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ3N4UFJuQ0xFRWtFdE1QUk9CeXp1UUpOOG1ZeEVmc2RjODR6a0N5NHZxVDdPajRlZ2w5ODVsQXdKaElkY1E1eFdpMnZEWW13NU9wajY5UlhxR1Z5ZC1ZM1dNZUZla2pJZzFRU1BqNWFITUJQbFB3QUp3U190V2FPTVpnYXJSWnZmNEVoRmY1dDI0aUMxZjJrckxsanRyNkpPY3J1cl9yVGVpcG1OMkVqc3ROeE01UVFwZmxEUHNDQm5WVm0zY1ZtOTFRRFk0UjVYcGNETjlQeVB2UW9uNmZMNGpYV2VkM1pyQWFqZVp2cW9vZllkR2NPSEFQNA?oc=5",
-          "title": "Alex Pereira thought Josh Hokit was robbed vs. Ciryl Gane at UFC 334"
+          "source": "NEWSru.co.il",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nX25SQktySDNKUWZtbTdtZVkyaHljekl6ZV94aHNnQjRQOWZsMHk1d0FFZTQ5SS1vc0R0VTBLcWRWSTNCM0RkMXM0cDRhQjVZNzhXYnVYMXYzZGZGQ0xZWXpRWFBxWVJxYlJDRw?oc=5",
+          "title": "В ОАЭ освободили из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых - NEWSru.co.il"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Kai1oaGxnR3podi1KMElHWXlIQnJNNlN5RTFsYnhfYjBKX2NSd2otZDZjLWFVa2lncEVlTVlCR2s0azdIT25OaXhqdEhpRFpGLUNfSQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из тюрьмы в Абу-Даби: подробности"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdGWXNUbDdJUkdZc0szeGp3SVJ2ODNXVG52eWpGM3BRXzk5ajBHOU03dFVYQ0tRTUI5bjlHaDFYM1B5WFZVdkpWeVZ2bmVyS0h6a0NsNVZNXzF0N1Q5aWwtLUNFSno2clVpYi13aUNkQkRZRmkzckk1dXprRVNuOUtwNVhyMktkTEFFZ0tXVWxfWThmLWFwN2htYkJQYkthU2huU2xmMi1VUQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи после драки в ОАЭ"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDQwTjRlak5kSEw5OUdERFVzMjdyMGRZc1UwcjNtaC11cG1zMUhUMHR5SHlCOExUVXE3U3EycGVyWVRnbnRWck9jSDdXcUNwRDZjS05ObWZPMmQxYlpJbGtyUjlXUWI0NDMyeUZBa2xCWGpjYzlKVTllYmsxVzlDTEEtV0pNNmtFdGNjNjBBWnc5cnZKTmFCVF9MYVRuN2N3ZTJmRNIBqgFBVV95cUxOZW0wWTZEcm9BUjhwQ3lneG1iWEJHVjVtemNLclZXU19tTm9HdDVTUHpMbzJvczFIMWJ1VmhLeFV4WEtLbENPUHNPekU2bm9rRHVQWllkT3Bzck9SR0M0VlBFMkNHNnpWZzVnTmt2Z3ppYzdyNDY3cDM5QVZ2c1hZa2V3NTN5cVZHaUx5MWxjdUh0ZnVnZFdxdS02V3U0R0NhaGc4dHhib0VFZw?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи в Абу-Даби"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/mma-2132047115.html",
+          "title": "Нурмагомедовых освободили из-под стражи"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMUotRzl3Vy1ZMWdSOFlJQ3d2UVV0WnFxWUpvMndhY19reUo5TTZNQlhwa0FiQWxSYmZnTTVybC1aY3lqSWprRFlDaTdib09EaEZYYUFzT2YwREVVOTFmMm1ZUFZwbU5VOXFIdlBn0gFzQVVfeXFMTzdKUXozSndvbzR0dTd5S3ZHc3BjSHY4OHhHbjJ2UFFVWWJsTjRpUkhQRGpzS2FVcFhsZDlxYWY3VUcyTUhnWnN5MExDc3hRQTVNdlNkazV4WEgxdmxFdmhPQW51Q084QVpKeHJGMnJRY3Z2SQ?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/sud-abu-dabi-osvobodil-iz-pod-strazhi-umara-i-usmana-nurmagomedovyh-2475750/",
+          "title": "Суд Абу-Даби освободил из-под стражи Умара и Усмана Нурмагомедовых"
+        }
+      ]
+    },
+    {
+      "key": "8306b4acd8",
+      "title": "Nunes calls for Harrison rematch at featherweight",
+      "summary": "Amanda Nunes calls for a rematch against Kayla Harrison at featherweight after defeat by the UFC bantamweight champion on Saturday.",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.8,
+      "published": "2026-11-17T07:19:32+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm93rg2lg55qo?at_medium=RSS&at_campaign=rss",
+          "title": "Nunes calls for Harrison rematch at featherweight"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/521791/amanda-nunes-calls-for-featherweight-rematch-with-kayla-harrison-accepted",
+          "title": "Amanda Nunes calls for featherweight rematch with Kayla Harrison: ‘Accepted’"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVFYSExSTXJLNWhWRjh1elNBUkFqeUpVRzVyeW02RkpHQ056S3ExV01fVURXME9IYW51YjZjTS1OS08wN2V2OGNwZ0M3STIzSm1NaVBWZUpqaUlpSlNWTGZGWjdnRjd0cWRNU3JCTTV3d1NXMkdTM2dtZVB2MDN4ZlBicDJqeHhf?oc=5",
+          "title": "Amanda Nunes Accepts UFC Rematch With Kayla Harrison"
         },
         {
           "source": "Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0hOM1NQemlrc1VIWGpSTHQ5c3NqQW4zZGhfZXZkbHRwbTVsckNRcVZaUWNyNWdVRWZwdUZ4c3JBVk5OejYtQkxqV24wLV9DRi10cEJoZHhhb20tdU56V2FSR3liY2JqbFJqOXp5UkhHVjc1dnpUbGNRWmNiX0VZUkxMN0NSa1JzQ2J1UFFaTHZSd0ZNd0VjQ2FpQ0F5X3BoUE4zc0E5c0NkTWdsbjJhUzZBRXdIeFNSUmc?oc=5",
-          "title": "Bruce Buffer Reacts to Josh Hokit Giving Him Middle Finger at UFC 334 in New Video"
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0M0VXFiMTF1TS1CRVh5SHVXQ1NhR2o4TGFRSjRvV3VKclp0MExaeXc4ZkpxUVZ2aTdnWGZEZ0c0TWp6RWNrT1dLNEtpQ0lkQ0NZSnVndWtjVE13TGppekFzVXBjNVpCM19Ib2lzX0lrQnNsUGJ5WER6VnRHSmlVdmtfUE1pbzJ5Zzc3SFphRG1Cenp5NHRxcHFSV1BNX2V2eTBrV2h5a1FtalhlQ0wybEFtMjVkbUw3QndqdUhJZw?oc=5",
+          "title": "Amanda Nunes Responds to Kayla Harrison's UFC Title Fight Rematch Challenge in Photo"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTJqMUR4Smw0RnBIWVVCWjEwRjhELUxDWUlENUE0TnoxMUdRU0hyVUZ4UXVrN0F4YUg0MHgzVklDSEF3dEU0dzdVMjJzVUcwYnRFRzFJOHlscHRIeWhEdjFoNXVXanpQTFNJMlRmTXdzMWZsaWZtZk44T1dPeThnc21LX1B3alRSbG5Gc0hiNjFfWUNiV1NNQk5iNWVNYkdpTlNXbmpBUkxQV1l3NzBmVENBUGpwbXBDa0xsQW1FTVpUVG90NElVcG15R2c3WkJKcVZXQzdxM2R1OUkwTkZMZ1NYeGJqaWpxZDhtU0stLVlWWWQzQ2tZUTdleXR5Qi10?oc=5",
-          "title": "Bruce Buffer reacts to Josh Hokit’s middle finger at UFC 334: ‘I can only take so much’"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzVjWk9OWm9IcmlnMlgxcm52T1NUVkZVdHFIWVV6VXRheWpCcFoxaUlmOVZCcW9kdkl5YnN4LWFFN2NoaVBXS0p1WEFPbVN3WndQSllUbHpfRXZiZzlVUW1tNkpmQ1lQZDJfVk9tYTN2TjEwd3J2anZ3aEQ3cHhCMG91NlF3c3pBWjJOZnhENEdickxpemZ6Q2ZzSUwxNHpaOEQyQXhsMHVTeFIyOTd2YjVDb0U2SVBwS2tjT0Jn?oc=5",
-          "title": "Ex-UFC Champion Tom Aspinall Drops New Training Photos After Ciryl Gane Title Fight"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObjJQbEVPOGo3eVdjc3pKVE9NYmlZc0tLd0tzYkFmVElJSVFUYlpIOXNjZjhjdXVUVXZLcnlwX2NnMTljMjdycUlCZHp1Z2JBdVdWSkNkeTZFVVpLd1M2dUE4bEY3WmFEd0Q4ZG12OExNczRFUkxkX0xWNS12cUtSQzhoUk45bk5Sai1ycjltcXdFb29sekZYSDk2Zl9DNFpjRDB3aDFUTXN2UdIBrwFBVV95cUxPMkZySFJxelRmNVlvWjNPRVg5d3V3bVY1MWhSanh3Wi1fWDE3R0pVMXZzSWk4aVhyVFA5QlR1WXV6djlYQVpxMWswWHctUUlCZ1BQZWFYWHhRZkx2STUybU9fUG5mOFRDQU4xMldNZEJUTlJtMDh2Vlh3czRudERIUHFQYm5MM2RjSWFUNnl5cVRySGw4VUdOUjc4NWk1V01zcjlUZlkyTkRrV0lBWHJZ?oc=5",
-          "title": "Josh Hokit fires back after Jon Jones celebrates his UFC 334 loss"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWYzeUVEOEw4VU5qYjJaSHRONXo3cmxtYkhFcGhydGZYRUo1TDJJZWtpVW5KRGZRMUczY2E1MG9vU2JtRm0tLVRPNGhMbktwWG8xZjlJMU5Jd1pVUl9sdWFTMmhCQWQzbjRjYWg0djlTZTNNYkVmUVc3MEoyQ2xONXNYcVR2NlB5bUZCYUZB?oc=5",
-          "title": "Did Josh Hokit Ruin his Only Chance to Capture UFC Gold?"
-        },
-        {
-          "source": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3p5SndoOE5KVnVENWluTzc1OEhvRzhIUUlBOTlOcDh1b0s2c0dyeGdyTVRMb0o5SENaalZTOUNNQnB2TEFzZDZZNTdwRllTeTRDYWZ4aDJxVFl6d0hLTW5EUjA1LXNhenMxdmVtZ05iSlJXZjgyYXp3TVI2d1B3V253X0JuLTNvU1htYmstRnZrdm5COHNHR3VaaXA?oc=5",
-          "title": "Tom Aspinall’s UFC future just got surprisingly brighter – but what about Ciryl Gane’s?"
-        }
-      ]
-    },
-    {
-      "key": "db20f9f5fd",
-      "title": "MMA pound-for-pound rankings (Nov. 2026): Kayla Harrison slays the GOAT to become new No. 1",
-      "summary": "MMA pound-for-pound rankings (Nov. 2026): Kayla Harrison slays the GOAT to become new No. 1 Yahoo",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 14.74,
-      "published": "2026-11-16T19:48:21+00:00",
-      "refs": [
-        {
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXRYLU9sVG5KbWNOQXotck9SeUZ1YTNKRUJzOUQ0WkZTcXIyWVZQOFIzRDVDWEhXakFQdGV3ZHdRcmN6UThEc0o2TURiN2RlTEFYbUhDSkRmTlRncjVNTl9LZTNXS0lLMVdLeldPa2F2R0hPemRSRVhtT1B4S3QxamxfdzNQN0diQTRrQkh6WnBMRFpEeGVkbWktdXVqaWJVRzVUR0ozZnNKQWR1Vng4R2p5UWJoMFNlMk0ycTYyS3plbjdKQUExQmVwMnd6NDgtYnRYMUxsUm56OE1Dcnp0ag?oc=5",
-          "title": "MMA pound-for-pound rankings (Nov. 2026): Kayla Harrison slays the GOAT to become new No. 1"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMV9lX21XM0oyeWFMWW9KVzU5ZnlGbUZ5eU9VcTctTFp0cUpGS01GYUNYcGNiUV9rMjZEckEtRE5MX3JRb1ZucUxDYlRxVDV3Q3VvSjctSS1JNlQ0VzRJUHVtdER3REFPaFJPYTAxd1NTWWp2M3pyVGhkbVlxQkx5MUNIdnBjUVVWYkhEVllhdGVUNWlhMlE?oc=5",
-          "title": "Dana White Interested In Kayla Harrison vs. Amanda Nunes 2.0"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa085M2F6UmxGN3c4YU1vM2hMaC1WYTJVXzFMN19ORDFETjJsZXoxTkNNUU5kY2FXXzdlUnh2bS05aTVRSUQwcFpSSGZET2x3ZFBVbGpTYUZCOG1lekhrSklsNWRpNEp3TFBXRXN2MnllZGhlc2VOVWQzWGpFUTFqRjYwYzdNclRXZzlPcUcwalpWbkRxLUY1RGRhM1BzM2cxX29qRFp2RFpLVm9D?oc=5",
-          "title": "Amanda Nunes Shares First Update After UFC 334 Return Fight vs. Kayla Harrison"
+          "source": "The Hype Magazine",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUxUNWFhOGpNZUdjWUJpREdyM0FpbXJqaEVWQWVsUEhVX1lURXZtcXBubF9Cd0FpOUtoYVpXOWQtaXlCSGYzbWdGTEtuNWVCckpFbU1WdC1JOUJaVVRfLWlxV2RuREpxVllhd0gzQVN4TDdzMnRtZFNDb3pFS0F5SmJxZE9nYk5nb3VHbnpLSWhuR3dLT1c1Sg?oc=5",
+          "title": "UFC 334 Fallout: Gane Holds Off Hokit, Harrison Submits Nunes And The Rematch Talk Starts At 145"
         },
         {
           "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGxrZjIyZTFQU3VCRXZSbUd4VnVXbjJhV0FqbldvT1F6cVV1b3pidzc0TERhQTVVUGNsZXplLV9UN2x0RS11azZ5d1pnODdyY3EyajF3RzBDVFhlTTFxU0twbk5NaVA2ZXEtaUNuaGtvanNhLUc3Y0JyQjdNRUVxS1ZkZ1V1eTg5QkticnF6MXA1UQ?oc=5",
-          "title": "Kayla Harrison could take on a familiar foe in next fight"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzdhUU9hbHV0dDU0THhSNEpTMlZQYWhMYThZWnh1QnQ0ZVFBM2l0c1hpRm5JT3Rka2ZiZ3dydnBja2FQN1g4VDNqQjliUHVYcmhEQVA1TTBrTGtFSDBhNHZZWThFQUFrdmo1WVhadkRvdm8yUlIwWnp3T3d6WUQ5aXFyTXYwZE8zVFRWaUgtY0h1eFlTVDVVcg?oc=5",
+          "title": "Nunes wants rematch after submission-loss to Harrison at UFC 334"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0xfUlAzLWdLdG9HLTk5dTNiMFNIRTRZc2hsY25lUGR4R3pTelBzb2JSbDNrQ3pDV1F5STZ4d1E0aHVhSWxyd21YYXZOc2I1dXVyRHRITERZeW9WcmVGenRjVTJRM19JV3ppd09aOVQ3eGRqc2xfQ1MxSW9WdlBFTWFuLXN3akkxY0x6aEVTTkluc2V0eVNEX21faEo5QzBVV2R0WW95NTNhVmU1THREWS11X1VheGJkUWNQdm0taGZ5NUVYSGlKZtIBzgFBVV95cUxObHJiSGw2ZVF2ZE5Xa2RBRm9TclFlRXJXY2NweV9DazRZR09odkdwZ2NpVmRBTEJUQWNDWDFTMnpjcmNTeEFhMnVlSGhzdTRuTFkwVHR3S3NVRVptck1lUDc4NlVnTnJoSlgta1dES0NSRzlvUzNCYU1XUU1qOGNfVEIxY0tBX1hZSVhOckNRLXRtcGwtcm9KQkdybGhWV1hfeV81cmllMTFISXE0NnZTUFM5RnlwbW9sc0lMemxKVXBUWTBuTjB4cVRsYV9ZZw?oc=5",
-          "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckxzOWx0TXVoSld6OThoZXQ5cnoyZkhITlZTcGtyM1Y3dEl3Y1lVZEpSeXA3dkJmZDZDbWJlU3lET1QxNlpad2JlZWFlc1NPaGdRZFdwWWV2UmVLeU5SaUM2YlpiaHJaRV90Ym5kb19HMWppZHBFd3QtUW9TTE9GNnhRMTlaVU5ROHlQZ0tHMDJqVm1lb0VN?oc=5",
-          "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham"
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3VsREVFVXNfeUtyLWpRc3RRVzZldkpsb2paUVZ6b2RxRzBTYUFDX3FKNklRNjU3a1RuRUVkTC1yb0RDNUtiN0dvNlE5MjFLX0kxSWJaNWZwUUhCM2dSSGNadFdrSjkwaHZva3gtZkZCTHQ4czZ3cm5LMzBtaVctYnY2SGozRVRxRU41eXFHbk5ZM0dDaFg3RldKeEF6V1BPYkRZMzk2TE1nd2Z0YmRFSnFmZ2FhS3B1MUE?oc=5",
+          "title": "Amanda Nunes breaks her silence on UFC 334 loss to Kayla Harrison: ‘Back in the game’"
         }
       ]
     },
     {
-      "key": "d3c171fd15",
-      "title": "Роналду показал жестом букву M и заинтриговал фанатов. Это первый пост Криштиану после перформанса в его честь и разгрома Португалии от Дании",
-      "summary": "Нападающий « Аль-Насра » Криштиану Роналду показал загадочный жест и заинтриговал подписчиков. 41-летний форвард, объявивший о завершении карьеры в сборной, сделал первую публикацию после разгромного домашнего поражения Португалии от Дании (1:4) в Лиге наций . Игроки Португалии вышли в футболках с 7-м номером на матч с Данией, фанаты на «Эштадиу Мунисипал де Брага» вывесили баннер «Спасибо, капита",
+      "key": "a9461482b0",
+      "title": "Brazil XI vs Singapore – Predicted lineup and team news",
+      "summary": "Brazil XI vs Singapore – Predicted lineup and team news Yahoo Sports",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.76,
+      "published": "2026-11-17T03:56:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2luZm1PMDA0LXYyZlR0LXpOYjNpMGx6T0k1QzF6S0xlbWxPY0dEc3dlaVdldU02MmgwTlRsYm90czBwNWlCNWpXZTRJQTc5bFhaTWxpQTB3LTZFVFlpOWtLNmZ0NW5UdDZ4SkVrTTAyY1U1a0VwVTBYT3MwdkNqX3IyS05oZGdu?oc=5",
+          "title": "Brazil XI vs Singapore – Predicted lineup and team news"
+        },
+        {
+          "source": "The Football Faithful",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nZVBFZjZuT2R4dTM3QnE2S1BXdExlc0diOUdUT2hyUmJ0M2tZX0w4TVpsd3BPQ2l0bTBhaTRpcEQyRVRsaWUxd1d1T3lOZEF6RkhTSnNqNzFKaC1ISnJwajY4clRWclJzVVk5dlQzMnh4Q25I?oc=5",
+          "title": "Singapore vs Brazil – Match preview and team news"
+        },
+        {
+          "source": "日本取引所グループ",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNTXBwTFE1NDhDVjFXMFlVS2ViWDVyaFlMM1FXY25XMnc5czBpWXZyVEVUUGh0OGZDelN2eXE1bTJPNk5JQ1ZLWm1DdGdLTXhza1NhM2lFWjBDeGJhQm90WEVmc0RfeWtJQkp3TndCWW4zek9GRS1Cd2ZJTXhsVFAzUUx0aEdEWnUwdzF2amI1ZmNyQzFrU2loc1JqUmpzdVROMmlUSHdoZk10VHZWSGl2VnhRWEtRUEV0TG5ielFoVVpCZ1g5dGJxb1JWWlhkbUhmVHVITlRzU183NExnZ0JTYzJ3Y3RNcWZSZVFGd2R6SWRpYk93ek5ZZVJtR3RRMTRBMWZWUTBYdE1yYkI2c082Mk1oSWdCQ0tseERLZVBYa2dPeG9wTjRVWGJESmdycnBzZ2JkU3hoOWFnalBPcnlaQUR0UlQ1OEpsb2xqYV9rUlZDTHNuMWltSmRKdFZYdXppNUNoampva3plZHo1ei1WM3g2aWpSbzh0MVpHMnluNS00R3Q5alowQmp5YWVqaXd3Ml9lZlNQeEExQ3A5cjlvbHh3?oc=5",
+          "title": "[ＷＡＴＣＨ^ＵＬＴＲＡ-ＳＰＯＲＴＳ] Brazil vs. Singapore Football Coverage ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ (17 November 2026)"
+        },
+        {
+          "source": "Sportsdunia",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDN5ZENtM2haRjhyOGl5c1RIN29veEYtejlqRi1SOXhSWUVYdE1zMThsdFlsYzVVa3ZMV3hCam5GZnNfTlNqTEc3SFQtZTllRGRLZVhWRnJsN0drNW1hMF9Nc2VZVmctSVRpcVQ0cERPc0F5WlRtWmFEc0pLQXhHU2ZjUUhNQ1VsbHBLS0RMM01ZM3prTkhwM25kdHI2N2lOeVB3SFotNXAtZGFuTkk0?oc=5",
+          "title": "Brazil Lineup vs Singapore CONFIRMED: Endrick IN, Why NO Raphinha Today"
+        },
+        {
+          "source": "Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa2JpVDJqWE5MTV83eF9FRHd2WG91UERCWlNlbHNCcEFLM20ydjR1SXlrWFFMRTY2ckFOTkRtdnRtWmIyemdtanVzdVFHb2FwQXc3UV9TNGloMVhhODdhaWQteTktbGdLMDNJdzJkVXBTVnVoNkI4Zm5ieVZ2dklhVzZrdVRoSEVROUZzcmZBOFZpZ1RtRVR2VTQzamlzNmlEQXRYZ2tFMTdXRGdHZ212c1BNSGVrenFaOHN5Wm5ZN2V5djgxMHN6UnptUHJzMHhDM3RBeTBQTzRTXy0tX19DaTdyQWtQakw5NFM0V0dUSHJITUtvTTNwN2JhSlY?oc=5",
+          "title": "Genoa, Robinho Junior scores twice for Brazil Under-20s: Ancelotti’s national team play in Singapore at 11am Italian time"
+        },
+        {
+          "source": "懂球帝",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2eUxncTVFLXk1TTdHLWxfazlEU2JwMmtEa0p2M0pYRmk0aTlnd192RU5zT2szYkZlc29zSWlJRUdMRkV1RE9fcDAxbnFLdmc?oc=5",
+          "title": "Brazil close 2026 with first-ever Singapore friendly, Ancelotti suspended"
+        },
+        {
+          "source": "Sofascore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFJWU3hIejBqc0toSVJjV0c2a3dfWjRTRkpnLXZYaTR0ODF5NHAtbUZlZFNKQnN1T3hXbXpJalVmNEtScW5YUmRXamdxaEo1NHBuVU5YRjRYYWlrQ3pKU0JqTjlJUUhsQzAwQk9LYjM1dTJkV2tsQlN5dm80NHl6bjA1dC1pb0lUMnQ3d0JzSUUxd3RzVkZMZzZuRlY0TnhEc3VIcXpta0laLW1M?oc=5",
+          "title": "Singapore vs Brazil: Unprecedented Friendly Becomes Crucial Test for Ancelotti"
+        }
+      ]
+    },
+    {
+      "key": "6eef3bac49",
+      "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»",
+      "summary": "Американская фигуристка Эшли Вагнер опровергла информацию о том, что во время этапа Гран-при в США на арене показывали архивные кадры с плачущей Александрой Трусовой с Олимпиады-2022 в Пекине. Ранее в соцсетях разошелся смонтированный ролик, на котором Трусова и тренер Этери Тутберидзе после церемонии награждения на Skate America с недовольным видом смотрят вверх и что-то обсуждают. Пользователи п",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.18,
+      "published": "2026-11-17T09:35:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/figure-skating/1117439413-vagner-oprovergla-sluxi-o-pokaze-video-s-plachushhej-trusovoj-na-gran-.html",
+          "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmh0aFV3VnFPblNaU0E1UGh2VTV1bGhuVjltdVBxUjNyU2lBc2tBUDc3ODhhX1RMZlo4bzJnbkxPNjB2dWJKWUNnbGwzVHdzcm5qRHF1T1ZWaktzcjZ1emw3Sk11Ujk5M2JjbXJOTVNtMkctcXF2amxSSUR6WE5zSDJhejR3WHlQS3FwSkN2Z25QRmxpdmNZUjRoeTdwTTAwZkhZM3lQMHNoYVczWHF5SW9zMHJEWkpNblc4R3hCUEUxR25leWYzWXE3TQ?oc=5",
+          "title": "В США на церемонии награждения Трусовой включили кадры, как она проиграла Олимпиаду"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6702818-trusova-opublikovala-post-po-itogam-etapa-gran-pri-isu-v-ssha-gde-zavoevala-serebro.html",
+          "title": "Трусова опубликовала пост по итогам этапа Гран-при ISU в США, где завоевала серебро"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/benua-risho-ne-soglasen-s-ocenkami-nedokrutov-trusovoy-na-gran-pri-ssha-2475621/",
+          "title": "Бенуа Ришо не согласен с оценками недокрутов Трусовой на Гран-при США"
+        },
+        {
+          "source": "Вечерний Санкт-Петербург",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0VrUnU4T1RZSjBCN2pab3hDaUdid3NIZUd3M1dDV1JSbWt3UzFkVVl1WVBEam9vakU1TC1Yb2k0ZXJFcXU3R04tYlFNSkV0dXJXZjRPQUdLRG02dnkxa0s1RmVZOE9JNFJTZFJyR2ZwZTRocU9yZWZGTDZVVVFRMmJtRUQzTWNURnBRYlRTUEtrUQ?oc=5",
+          "title": "Россиянка Трусова стала второй на этапе Гран-при США"
+        }
+      ]
+    },
+    {
+      "key": "63e5a64ca6",
+      "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ",
+      "summary": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ Sportbox Дивеев: «Как только начались слухи, что Батраков может куда‑то перейти, я ему сразу сказал: «Лех, даже не думай — уезжай» Матч ТВ «Великолепный век» Батракова: как «Галатасарай» зарабатывает на российском футболисте Forbes.ru Батраков будет стоить как десять Роналду после переподпи",
       "lang": "ru",
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.87,
-      "published": "2026-11-16T19:35:00+00:00",
+      "heat": 10.8,
+      "published": "2026-11-17T08:47:02+00:00",
       "refs": [
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117438975-ronaldu-pokazal-zhestom-bukvu-m-i-zaintrigoval-fanatov-eto-pervyj-post.html",
-          "title": "Роналду показал жестом букву M и заинтриговал фанатов. Это первый пост Криштиану после перформанса в его честь и разгрома Португалии от Дании"
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVDZjRGNHUzA5VWZoT3AwNUJWbE5YUWt3TkhRRU1GTDN3ZXBidGw1MnRLdExVR3hXMzJNckZNRnFXckpsaUtSOWpWeGU1Wjc2VlFEbGR0NDl5UG5mZ3A3QkZ5Z2JVZXI0YU0xSElKTG5mRWFybjdraldZa2x5aG1TUk9weXQ5bG9KYVlYRzU1MUV4dUFkeldnU3VmcXBhNVV0U25ZQnBjeHlZalBXVlhpSWRKZWl4TUZpX0ItUjIxcW5WZ2dPYVJIQXhkdVJRWDRydmpLMnZGT3I0RWc2YW1BNzZCM05IdElJLTVOSmV4a01QQzZvZXFv?oc=5",
+          "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6702814-predstaviteli-barselony-i-bavarii-priedut-posmotret-na-igru-batrakova-v-matche-lch.html",
+          "title": "Представители «Барселоны» и «Баварии» приедут посмотреть на игру Батракова в матче ЛЧ"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/zhezush-ronaldu-legenda-portugalskogo-futbola-i-nacionalnoy-sbornoy-my-nikogda-ne-smozhem-zabyt-o-krishtianu-2475625/",
-          "title": "Жезуш: «Роналду — легенда португальского футбола и национальной сборной. Мы никогда не сможем забыть о Криштиану»"
+          "link": "https://www.sport-express.ru/football/transfers/news/fanatik-skauty-bavarii-i-barselony-posmotryat-za-igroy-batrakova-v-matche-galatasaraya-v-lige-chempionov-2475798/",
+          "title": "Fanatik: скауты «Баварии» и «Барселоны» посмотрят за игрой Батракова в матче «Галатасарая» в Лиге чемпионов"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261116/futbol-2131967595.html",
-          "title": "Мать Роналду порадовалась разгромному поражению сборной Португалии"
-        },
-        {
-          "source": "Бомбардир",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWZNQjdvNWpLUzlBdjRSalI4OFJEUmZILXdkTE50SEpMeGdUTFpidnUtaUZDX2lHdHlrNDVSRERMdGhiQ296R1FSeERqV3g2bndTU0lPMnJTSlJaN3NXWlRDdUVseDlsVzNEb2NheVVaRVVmSjloUGNYU1NsQzMwT1ZPNDh4dUliUGlwbE5qb0hJb1BjQnhmR0xaNDdmODdVTWxnbkZrem8xZ9IBTEFVX3lxTE1UNFZQUzdfZlhtVE5RRDJTUGV6QWVSRXJ5akJydV9scEt2bTVDRUVMaVNJTm1jNWNiZ2hjeGlGa0Y1ZjBmbUJ4M280SXA?oc=5",
-          "title": "Пирс Морган резко ответил тренеру сборной Португалии после слов о Роналду"
-        }
-      ]
-    },
-    {
-      "key": "559d08303b",
-      "title": "Switzerland vs Scotland LIVE!",
-      "summary": "",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.21,
-      "published": "2026-11-16T18:30:00+00:00",
-      "refs": [
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/switzerland-vs-scotland/live/554127",
-          "title": "Switzerland vs Scotland LIVE!"
-        },
-        {
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc05VWHlVR2xQVHBIWWROaEZXZHdsako5eTc5TFJOWVVtR3FGMFNCVHpoQ0ZjbGlXTjJ5dTMwNHJxYmxPZzkxa3J0aHFsSVJVazRGM2dELWpXaXFmUTlxVDVxaURKUlFvUXNMNm1MMkRPZTlERjhLQmVCR3hpZlFYZkZUV21KZUYwcWhkTm0ycHJTSVVCNzJiS0k1Ylk?oc=5",
-          "title": "Football schedule today, November 16th: Germany vs. Netherlands, Switzerland vs. Scotland"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
-          "title": "Switzerland v Scotland, Germany v Netherlands, and more: Nations League – live"
-        }
-      ]
-    },
-    {
-      "key": "baf1e2e371",
-      "title": "Президент ИИХФ объяснил недопуск России на молодёжный чемпионат мира — 2027",
-      "summary": "Президент Международной федерации хоккея (ИИХФ) Франц Райндль прокомментировал решение Спортивного арбитражного суда (CAS) о возвращении сборных России на международные соревнования и объяснил недопуск российской команды на предстоящий молодёжный чемпионат мира в Канаде.",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.95,
-      "published": "2026-11-16T19:11:19+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6702184-prezident-iihf-obyasnil-nedopusk-rossii-na-molodyozhnyj-chempionat-mira-2027.html",
-          "title": "Президент ИИХФ объяснил недопуск России на молодёжный чемпионат мира — 2027"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/world-u20/news/prezident-iihf-rayndl-podderzhal-vozvraschenie-sbornoy-rossii-na-mezhdunarodnye-turniry-2475563/",
-          "title": "Президент ИИХФ Райндль поддержал возвращение сборной России на международные турниры"
-        },
-        {
-          "source": "Allhockey.ru",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWVOME9VeFFMWE9oZk42MWtmVWxtaHl4eERPMnh1bWc3aGtZZzM0NVlwMlE1RlBBVlhheVdiM3RybjBfUUNCTTNTamtmdG1PZGppN0VQUWRuWDRXSm03anpBd1RhSGR3NUhjRmd6RFIzdzNQdzNxSzlwM0FKcm10bWhKTUx6aG94a2gtYk9XdXo2SlhzWVZkU1BuVkpOaHh4b3JXenhoONIBpgFBVV95cUxOSXpuLWRSeVRmdXcyRlBVQ1NGTnozNGJrZ1RCNkEtSS0tS3E0YVFMYmVlV0o3LVlGUng3VFR3c3RQRFUyMFdwZWtFbHNERE5WRFZjVGdlWjJQdDZoOWhNX3JxdWJsQ01UUTZVSk9tVkJiUWY3M0J6SzZGcGtRRXpYRXFJN1dkRno3NkVNWDVkNGFtRzVxNEQ4NWE3NkZqTFpzS1Y3NS13?oc=5",
-          "title": "Президент ИИХФ: ведём диалог со странами, объявившими бойкот России"
+          "link": "https://ria.ru/20261117/batrakov-2132072942.html",
+          "title": "Скауты \"Баварии\" и \"Барсы\" приедут на матч \"Галатасарая\" ради Батракова"
         }
       ]
     }
   ],
   "known": {
-    "8306b4acd8": {
-      "key": "8306b4acd8",
-      "title": "Harrison shocks Nunes on UFC return to retain title",
-      "summary": "Kayla Harrison shocks returning great Amanda Nunes by submitting the former double champion to retain her bantamweight title at UFC 334 in New York.",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 14,
-      "growth": 0,
-      "heat": 31.07,
-      "published": "2026-11-15T08:02:48+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5742819x9n3o?at_medium=RSS&at_campaign=rss",
-          "title": "Harrison shocks Nunes on UFC return to retain title"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWt2X2V2cjZpZFlxa1BscGNQb1ppdG9UREllVnpMQ19WMlFXbFRvSzZJMlVmVmtxUlBhTFkzTW96WFJmZXl2OGdRSjV6c2otRy00aUh5U3J5akc2M19Pb0txQUJzSEFZT2RsOHBkblQ3UGxxSXQ2d0dQZEVubmhub1Z2ZmZJd3hSOXJ1V0VrX2F3X2R3bkpBd0syTE5tWGxlRnAwT0FB?oc=5",
-          "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0piRENDOVZULXk5TmlFbm5aZjlfWmRjRDBqYTVHem0wOVVhQm1xclBRNDRUZzdQaU1YQmV6dzVUaUUwUUZNdkF6VUlvTi1jSzFrLVp4Q2ozVG9kV3Z5SFdKYUdJN2xOZ1g2Q2RkdW4wOXJ3LTByMGdGb3FsOXNDUDQ3clBPVXNibEE?oc=5",
-          "title": "UFC 334 results: Kayla Harrison survives early surge, snatches late sub to retain title vs. Amanda Nunes"
-        },
-        {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNhdVZMLW1SZy15Qkt2WmYzeFkwUmVfb2ZGd25nVklTVDc3VWVPNXpubzRiUzNZQVhLN3p3c1VxNnJ2YjdYeUcwRS1ZRTM1LU1ST3Y2TFh4NjVxQ0FpWE9CaWRFVVBnQldqY0xKRE4yTTRRT05UaTVvNG9naW4yRWcwZld6NEIxeDhFdEdWdGJyd3BtZjBHd0Vvbng1MHNkR255OHAtb19tMnBTT2JF?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZlU4ZVIxSHRPbWNPN3JNTG9VdUJGUF9GRFR1THhEN2lyRXFGMlB2aW1uTm9HbVkxSjh0dkxQVlMyQnpVQTNFUkpVQ1lESWE4OFBtQ21YRWFpcG5FZ0g2UVBFRDFMX1lwVFc2bTNRSHdJclZUWDM3WmNRNF9LMFk?oc=5",
-          "title": "UFC 334: Kayla Harrison down for Amanda Nunes or Ronda Rousey next"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWtEVjVPLUVEdXNFOTNwamdxYzVab3R0cHc2Q3FRaXlnREc4Y01sV2IzZ0pRZlZGcU0xT29UOTFxMjJpYXdVR0JQUkR0STJ3c3VZYUZWY0NwT0VRdGtpYmFVTVppLUMzVFBoNzhPNzN3eWw3UlpXY2EwLXExRFI3R0hEQlpWd1RzU2xkWkpqVmg?oc=5",
-          "title": "UFC 334 live blog: Kayla Harrison vs. Amanda Nunes"
-        },
-        {
-          "source": "WSLS",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3lBUWQ5d1FWQ2xDVjZ2aDkyVmdDT0FkamVZNmZlbGdUSUE1OXdGUjJxb2ZJa3Zmd09hWF9NMjh4bl92SFpSNkJWOUhHYjhJZ3Y4YXBkVktPTkR1RkxpSWRHQ1RuSV9UMTlHcWZtTkt4bERGX1dvbDg5NFhWdGdDSTVoQWo3YS04MmxDSjFZeHlERFdUZjdZU2hwTDhJbFlKOHVPMElWN0htMi1rYm1temxUMHhYZnJmTzdJQ1NZc1hjdlI3aVl6MmVVVjBnOVpUb2hPMA?oc=5",
-          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
-        },
-        {
-          "source": "morning-times.com",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOXhMYk9MeUxqc3hzSjNLWHJiZEFkVzBVb0RBY3c2b0xkXzBrd01ZZmRmbHNfcTlQTXl5YWNsM2RwSVQxS0FWQkt1Y1pmMnN1YTNTcjk1V3V3S3hJQkJkSmEtVHZJX0dKMm91Qlg3Z2ZwZXNIN0MwbENNV1FMVkh0MVRoQ3hfa3A4Yk1sUFoxeFV4LWtaQzBZNnc0cV9zWVhuTnNQWlJ1ak5ROEhRbHFTZ09tZTFaTnMyY0RmSmRYX0JDUkRINmdKdFlHb1Q3VmFaMHVWd3M1U3ZqTjVad3VmZ1BLczhva1d1YXoyXzhWVnF3cmNaSW5idHdNQW0?oc=5",
-          "title": "Kaya Harrison is a winner, a UFC champion, and has a major career decision ahead after beating Nunes"
-        }
-      ]
-    },
-    "1d069a6943": {
-      "key": "1d069a6943",
-      "title": "Сергей Павлович и Алекс Перейра провели первую битву взглядов перед боем на UFC 335",
-      "summary": "Сергей Павлович и Алекс Перейра провели первую битву взглядов перед боем на UFC 335 https://www.championat.ru/",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.89,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-13T23:41:42+00:00",
-      "refs": [
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzlsekhRcmxqOTd1OS1NWWh1THhZVzFRSlFmSThGS2tsbEhpVXE1OVFzSVBIQzZmTDhIdTBwS2l1OTlJam9GaXdwa1pOVGM0c0JKVzVzbGk4UWlGbHplX0NmTDh0OUwtcGx6TU1MWTVHLVY2c3FLRG1yd09iQ2l1OW5sYi1pTnBDSlhxTnBVdmVqSzNheVUwVTRXeDBXN1U4a0haVWNhQWhCT0lCb242UnQ3bzc0eTdoYWFSdHdTazZvRmJieGpjWDdrWXZpU1VrcGJV?oc=5",
-          "title": "Сергей Павлович и Алекс Перейра провели первую битву взглядов перед боем на UFC 335"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRGtQY1NZM2F0WnZVZVVKVHpVTGFzM3lQWG5mcXNHYldhVVpQV242dmpSdUdlY1J3Z1FFVVlkMUtQZm40WjFrSzNWMmh6TURZRk1aZzgxM2FZaVFFUG5MejdDMWdFUVpCMy12SG9sM0UyNWdPT0ZJRWhsbTZFczJQNDdRbFM4dXUwMlA0bEdmZHNBelNueUVXbTJFOHJTMFYybnJ4WEJwNDR2dXE5dldGaFpibWxOQi1qLUVEc2ZlbVN0NFdJY0lESnBfdlE?oc=5",
-          "title": "Павлович и Перейра провели первую битву взглядов перед турниром UFC 335"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWFJY3J3bm5DRkk2X1d1OHVEOFBBaGVhTjdkZ1dKVHNVMmw2WVI1T3NJMUJIbVNnaWhfa3dweWNNanBZbXBhX04xSW5CNjJQaGxXWEhHREtmLXRBbVZUZEN5QlhJYTlKdGMtQm5GNG8tTXMzRkdveFJoRTBRdXZxWEQ0R1o3bkZVN25pOTRneTg3LUVOTkZTeUFvNzdxQ1ZNdEtlZ1BhS2FSNThuU0HSAbMBQVVfeXFMTmZkUEd5S2VSbDRqUzVsRGpGRkRzc1FGYkFZVGFrTTFrZ1FKLU5ObUlKT255dW1raG8xZ29FenRyRy1hbms3OE0yOXN6RnNVUmg2VHIta3dPLWNOTmNqNHVaRWszcjBJSGozcE1zVEVHUkY3djU3SVpmRmFTUldhaVNVb1dZX05lWlhWOVdua0ExWnRjY1pEa1NXUVM5OEgwT0pPN2s5dFdkcUU5bXZWcGpMazQ?oc=5",
-          "title": "Павлович и Перейра провели первую битву взглядов перед турниром UFC 335"
-        },
-        {
-          "source": "StavkiPrognozy.ru",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUhtbUU1czVmcVA4ZXBpYTVpQ1BRX1RPS0tKeGJKNlBhOFUyZWRtWkZlMEVqSmxZVEcyWlk4TUdoN0pBTXVzek83ZXdqRGNJU2N2Qm1KTHBFbjY5OTVaZEFBYW5BVTltZFBfYlNaWmgtMlZhQ2RHVGljNEphZ1AzTDluQVZ6Y1JhNDlZQ1AwVzB6MmtNS3ZDTlJoYnc0TVV6ZlFzdTVUZGhwdzQ?oc=5",
-          "title": "Павлович и Перейра провели дуэль взглядов перед боем на UFC 335"
-        }
-      ]
-    },
-    "7d3a752380": {
-      "key": "7d3a752380",
-      "title": "Video replay: UFC 335 & UFC 336 press conference",
-      "summary": "Video replay: UFC 335 & UFC 336 press conference Central Oregon Daily",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.07,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T04:21:41+00:00",
-      "refs": [
-        {
-          "source": "Central Oregon Daily",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX1labG0tQjNXWFl1SVI0bklueldBWkZRMVc3VGx6TDhJclc5d19RQV9Ub0pDWjNZYkV0SFFaRi1TY2FWLWs4Qjdlbk8xNGowT1JmMGNLbFRHX3pQVDFpdE1kSl9LRUpkbW1iLWtBRC1MbVFNSzJwbEROcDFJRHJSLTVHd1h0OTJSRVA4WlJpRXlLcmUxLTBSNmw0dU9Xd3dYcGs3dHdFdmh1RDJiSk5qeElaWWtKeUxaMDJNN19yc0lpWFhiXzVaQ05uc1NUMmp6WGdr?oc=5",
-          "title": "Video replay: UFC 335 & UFC 336 press conference"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kN3YycFBXWXllei1SaWFrY1NGeDZmVlg4N1dyUnQ3R0I4eENsLWphb3ZfaWdoNGE2MVBiZGxnSk5hUzl1b0I5Q0IzM0RuTXEtQi1DZE1uRlNuYV9XbF9RUkxtT2dUcU03T1VKNFZOUU5ORF9iVEE?oc=5",
-          "title": "UFC 335 and UFC 336 full press conference faceoffs"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/520992/video-carlos-prates-and-michael-morales-have-intense-first-faceoff-at-ufc-335-and-ufc-336-press-conference",
-          "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference"
-        }
-      ]
-    },
-    "148bfde35e": {
-      "key": "148bfde35e",
-      "title": "Хазе и Володин лидируют после короткой программы на Гран-при Skate America",
-      "summary": "",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.92,
-      "published": "2026-11-14T06:07:00+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261114/figuristy-2131505612.html",
-          "title": "Хазе и Володин лидируют после короткой программы на Гран-при Skate America"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-ssha-rezultat-korotkoy-programmy-par-14-noyabrya-2026-2474717/",
-          "title": "Хазе и Володин стали победителями короткой программы Гран-при США"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/figureskating/news-6698714-vajcehovskaya-vyskazalas-ob-oshibkah-malinina-i-haze-volodina-v-kp-na-gran-pri-isu-v-ssha.html",
-          "title": "Вайцеховская высказалась об ошибках Малинина и Хазе/Володина в КП на Гран-при ISU в США"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUlJGTzBzM01zZzZIQVNKSzE2SGh1SHBGNVl5UVcwX3hSNHZrQ1lTTWc0aFRsLXRPZ3E2NkNYcld6RVpka3h6Yy1EVkRKckM2SUV5SWZnaFdBOS1sajBpbGowNHUtZGZZRlhLVERUbjM3eVNUaU9VczlXa1dzRDl4bDF0WVo4TURvd0VmNm05TnpvcHhJa254UzBVdkZ3c2RZTkZwMTRwcVVqOE9teERBaXV3UVVQeUo0QllObnlKWXdpLUMxd001a3VtR2hLeEZRWEFEcFhpUUYyaHltSWs3OFhkaEpmcVVxSVhQSTRHVVhKTUxHV1dndk5qNjliNlUtbWIzTDVwMlItbnZreVI3TkwxaktuZ9IBmwJBVV95cUxPQ2s4WEQwTkJKeldYMUdtSDllLVQ5NjNocEZ6eDdJdF9XSmhXT0poZ1RZdHY5WnF1b0RoN250MS14bXZUYUpSaXVrcGE1WExqbHNPQnNVNVhIQmYzamJyai1LMjU5aEUxOUdEYUVYUVFmSkNtdnEtd1BEX3lCOGlWZjNJemI3MkRYQzlfSTZ6WTNLcFZMQlhkTm9fUXBEb1JHZ0VDcmNkRk5TVTVOZlRpaGlqLTM1NzY0N19aQl9zb3FiNTlCSEVLOFNWZlFmeklCRUVhdjN1MXpWS19RdjlyaVhjRUh5aGE3SjRxXzIzOUNnc1dja3hrWTJrdlBpV3BlMEhCREwyNHEwZ2ZZc0dxRHFuVWRFbFFqU21N?oc=5",
-          "title": "Live: Бог Квадов Малинин начинает сезон дома, русский немец Володин заочно против наших. Старт Гран-при США"
-        }
-      ]
-    },
-    "fabb887605": {
-      "key": "fabb887605",
-      "title": "UFC 334: Gane vs. Hokit Live Fight Coverage",
-      "summary": "UFC 334: Gane vs. Hokit Live Fight Coverage ESPN",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.25,
-      "published": "2026-11-14T07:03:51+00:00",
-      "refs": [
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNHFNNnQ5d3NUNnMtLVh4dE9HbHBmd2d0NzdKV1BOWXpxeGlDZlFVQ1ZTS3BRNHV0ZWlhcnNSS1RQcVBUekdaYWVacXpsTG8zcVdtMVRzcVEwbXJDeFl4eFdzcGUtV1o2VkpTZ2p0Yw?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Live Fight Coverage"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oXzVRWURvMDVzRHhwS3hvUHAwdGpGdUVPc01BRTZPUDVmWGlRM1pnUFFiTjJOT2phMUllejRWR1dfREotTUswNmo0emhqeklfRnRuc1lZUHdpN0JBZ0F0dnZ5bjYtNTlTaWVCT2JNbTNKMzJST0ZIWVIxRVA?oc=5",
-          "title": "UFC 334 Results: Gane vs. Hokit"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/520939/ufc-334-results-gane-vs-hokit",
-          "title": "UFC 334 Results: Gane vs. Hokit"
-        },
-        {
-          "source": "Central Oregon Daily",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSUtraEJjMGVKbGZTUlk3UlFVN2JRSU50alppb1p5TmNoX25PN3VTcXM4ZnZwRGc0ajVZVVhmeE03Q0dudFFubTlDOWFjTFpaZzR6MFhGdk0ySnRwRWFqazlqcHk0bkdCOXdlQzlmaDVvRTY0Wkh2eUtDX0p1R19LSXNoYXFkVUxLTG1QUDlDdXppMTNoVEpkUTdDdlJEVUJRbUFwUC1kbEdObVhfOHdqZ1RNbGU0dE9NRGpLeVQ2M2xES09GQkFNUjJJVWtkdU1iUFBJTkxtWXhIazdqSHNqUGpnckxybzJNd2NLYThiQTgwQQ?oc=5",
-          "title": "UFC 334 video: Ciryl Gane vs. Josh Hokit final faceoff for title fight"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hRE8ycHpHYjg1REtnSEJwUlBoT0gwRzVRTUd0U3lWUm1iRVNGcU4zQzV1NTh0M19hclAzQ1Z1MVRRMmNEMVlR?oc=5",
-          "title": "Faceoffs | Polymarket UFC 334: Gane vs Hokit"
-        },
-        {
-          "source": "Orange County Register",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZll6RzE2akUwLUJYcGZBcFVqbWRqZk5OUmlaVmlObGpXLWdEdGp5TmhtdWpVRlFJSDZYeW82RmY3RC1lUXBaQ0MtVHZFcVU4QW9fZWF1N3c2TTIzSG1CU0tmU3BkdE5NUnM3elpKLTZ4WVJIUnQtNTExYVhlbnBESnVoNXNEdHVUWVozTWNXSmRCbjBUT0hORXdubmhta2VWTEFSN1pPUWFzMVBnSUlz?oc=5",
-          "title": "UFC 334: Polarizing Josh Hokit takes on Ciryl Gane for heavyweight title"
-        }
-      ]
-    },
-    "12dad12a15": {
-      "key": "12dad12a15",
-      "title": "Siolim’s Aarav Harmalkar Wins Four Medals at Two Kickboxing Championships",
-      "summary": "Siolim’s Aarav Harmalkar Wins Four Medals at Two Kickboxing Championships Oherald",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 1,
-      "growth": 0,
-      "heat": 10.7,
-      "kun_khmer": true,
-      "needs_source": true,
-      "published": "2026-11-14T06:59:56+00:00",
-      "refs": [
-        {
-          "source": "Oherald",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRldfTzhnZnNvN2VkMnptM2lxMWpPSTBCajFSX0REVkk4NzRHdTZDUzI3alN0eE1ZN0ctVld1c29hb25JUl9Ub1FUNFB3YzdpaEdhalFVS1cwM1Z2SWw3ZHQzUnpkUlRpSWlHeVo5aGRWc2pWYmhCUVpWYlg5azB6M3QzdDhnbzU5QU5TOWR0Z3BXQU5IdVBZaExvdjRza2tSVTA2b1lUbDlqVkhCR0E?oc=5",
-          "title": "Siolim’s Aarav Harmalkar Wins Four Medals at Two Kickboxing Championships"
-        }
-      ]
-    },
-    "682ef01e23": {
-      "key": "682ef01e23",
-      "title": "Федерация бокса России отказалась от участия в молодёжном чемпионате Европы в Хорватии",
-      "summary": "Федерация бокса России отказалась от участия в молодёжном чемпионате Европы в Хорватии ЭХО",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 8.96,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-13T10:56:54+00:00",
-      "refs": [
-        {
-          "source": "ЭХО",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnZ6bXJsUzRBbmt6VkxtQU1TeTUxTDVZeXBwaGVjamJ1Tmxsa05qX1BLVzF1S3NGTUtkeDY0VENScWV6UmVBQVRPVUpZT2xvN0RUQ0Q1RWdicmV4MUtuU0Vabzd2MjVER1VSQWFQcGJvSk9neEhhVTFtNmVjQXA4ck1yVXFEM3N0Z1E3VmtpNlc0cENaa0tHWkNjeXNHa0JDZndLdXIyb3Fzbk1aaGtqQUZXODFBSzMtcEFj?oc=5",
-          "title": "Федерация бокса России отказалась от участия в молодёжном чемпионате Европы в Хорватии"
-        },
-        {
-          "source": "БИЗНЕС Online — Новости Казани",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSHE4NGZtaGM3YjJreUxpWmVYbUVFcjNRQ2tDbmhGaFJ3MDlDQlZaNjBNNWM2V1k0SGtHTTUzYjczT3YzdTFsYWx4cU9nVGNiZF9obNIBU0FVX3lxTE9mSUxlOWs3RUVvZ0h1ZVh3dlc0N2hoaWNfUkxGRDhjUzhORjFEVnJSRU93YUJwVWFiaE04SGJRSkJRT18tUXN0WFVtcHJtWUs0RmNB?oc=5",
-          "title": "Сборная России отказалась от участия в ЧЕ по боксу в Хорватии без флага"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDdnbWVHVEhEdmNjVHB6SEcyc0otdThPX1dFUWpBazNUVnV6ZUFFNFFzbkozdk1OYVJHbmFBZ1Y4R0EyTGo1aXJScHhIdWNMUENlQTdhRmQtMWFDckxIREp2TU85a0F3MWZuY1IxMmgzSVNfenRwc2NxVTVjelN6QmcxM3ExNWpKd29sV2YwMDA2emVrcENQcGpwSkxEbEJ2ZjRHdmJMNUlFczJIemNab2xmdUhvWDVfTVo4VHAzSDRoX3ZyUnM3bVU5MFBuNVk?oc=5",
-          "title": "Федерация бокса России объявила об отказе от участия сборной в первенстве Европы"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcEwwUlJlUDNSNXcyTlhvVDl6X05DQUlHWU44VW9adW01V0NfZE9hWlZULThBdVg3b1NBY2RzRzQyZzFTaHV0WG1CQjJ3VEtaamhGeEVzTjVhWmdEMnRESWZPVFR4YzQ3VVFaNkwzMk1ka0JFc3FNaHFDelVkaTRhZWM1cWxOZjRZaDZtWFd0SnRiOWR5OWp3Mm9teDFjaXd0QldYZWZXNHMtUllBb1lhRkhRWWs5T2RPNzJRX2x3ZW05S3NLdURFZzlwSkZJVDJtSEpxSXBB?oc=5",
-          "title": "Федерация бокса России объявила об отказе от участия сборной России в первенстве Европы"
-        }
-      ]
-    },
-    "447c927597": {
-      "key": "447c927597",
-      "title": "Midnight Mania! Platinum Perry Announces UFC Return",
-      "summary": "Midnight Mania! Platinum Perry Announces UFC Return Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.8,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-14T04:59:00+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVpyNm5Xd1MwTDZLUWUzWUFZYVdEWGhiUmhrbXRGOUU2WkpJUlAyd0hhMWd6VV83Y2pJRkFhMlpZN1BqelFjMWNZZ25ZMUQ4ZGVKNTZkcHdydVJxZ3Y5ZFloa0VGT0ZhSTlESldWYjVOeFl0cGswSFdKWDBzWDdsNUx2VFZaMjBURmNQdHh2eGIxQQ?oc=5",
-          "title": "Midnight Mania! Platinum Perry Announces UFC Return"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUttSTdteElvbmtUWnloUzU3am5NNGhOZWtFX1E4dWg0c3JlX28zOW5EOU9CbkZRZy0wTXpUMUJJa1I2cElnM2tZYW11am03OGd4WHNubjdFa3RFbHJXN19tZ01SRVE1aGlGU2FHVnVDbkFrem9kWTFOeU54OWdoM0Q2cm1KSGJPZUlvb2JJaUhkTXlhNFVBYTdFaXdydmRVUDY3YmZ0Q2h4MmM1RU9QZDRUUQ?oc=5",
-          "title": "Midnight Mania! Platinum Perry Announces UFC Return"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyaElTTGVTX3kxa1pjSzZNYmZVZnBNdk9adHkxQkdsUE5GY3pXUXFTR2g3RFFvRnQzM2ZXR25CMHlPZjF4NUs5VTF5V0xmcTR3R1ZKajlJalduRFJvUlBlMEU5TzhSVnY1LS1CdFVHTHBHVm1sa1E?oc=5",
-          "title": "Mike Perry re-signs with UFC"
-        }
-      ]
-    },
     "91551296f8": {
       "key": "91551296f8",
       "title": "Дана Уайт назвал бои своей мечты в UFC",
@@ -2999,527 +2755,936 @@
           "title": "Шара Буллет заявил, что ему предлагали проиграть бой в UFC за деньги"
         }
       ]
-    }
-  },
-  "sent": [
-    {
-      "key": "6009275715",
-      "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement",
-      "summary": "Dana White Reacts to Stephen Thompson’s UFC Retirement Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 10,
-      "growth": 0,
-      "heat": 22.8,
-      "published": "2026-11-16T05:23:00+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3ZVQUNvU0V1b1d2TF8tZ0VUMmZGTWl6dmtGc3JEallBVmdqOF9fWFpFeC11dHp6cm04Q1lPNmo2RlJ4cFlaYnhVVWRvTlQ5bDlaQ0JlMlFuVl9XdVdNY0paZkNSWm5RSVQzd2JWRS1xbFVZUUF3NjdNeVpGbXlVU0lxSE9jSmpMZnZF?oc=5",
-          "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement"
-        },
-        {
-          "source": "Bloody Elbow",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVR3M2FOU0owbFBqYkdsRk1vTFBiZ2lzb3NrSmhhZXdiY1RFMndtenM1UnZJODV1RndfdG9wNjNyTEdjOUhuUG5KZ3Q0Wkl5THg3MFBZTndLTUxKbTl1VGlPeXZ4SUdiNkoxamk3ZVpiYlVVVjBZclcwWUZSdjJmS2V2SWRlY2FPbXIwc0dpbThFZ2JGaTlsSU5UbjRBUXgtRVVpMkl5Z1RkTXFHdmZoZWpBdHFSYUU0YTFFS2lBR3VJZ1plZWxycGNzVkE?oc=5",
-          "title": "Dana White offers Stephen Thompson the chance to ‘test’ for new job after UFC 334 retirement fight"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0g4SWJXWjREVDRmLTVCQnpTZHlFZENiTHVCVVdjT05KYTBtUzRtbXA1RXh2cFpIZG1fMlh3TTZkaHU1bkloaG1zb3dFWkFFQlUybEozLURySnJLTHlET1FBX1ROU2V1eGRsbWpLQ0ZIeFNJUzhsbDl3dHZtMUhuWkZlVktRc0E2Q0swcWtlMkNsVktZXzhqQnRyUVZFcDVWcUVkVnNobEV5d9IBrwFBVV95cUxNVXVrV29hNzNza042WXFlVGNuMDJUVHRZaWZCODJwX3hUeDJaSHplaGhfMlhQcTNDcDZuUzdYZlVzX0FKRkNsVTZUWWh4bDhEZHBwS0VGU1VqRVl1ZDVpRF9GVWtWWkQtTUVtZ0o4NGMwTmFnQWY1UE90V3NOZ0lCSzFCSTRUSVFWeG9haG1tbE1RVkJpZW1qcFR3MWpiSFp6TlowYXAtOGJBb0Z3eHpv?oc=5",
-          "title": "UFC 334 title fight changed Dana White's entire view of Josh Hokit"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXgteFlOVXctWlpQM0JwV3JodFAwaEZ0M1cwMklOOS1xM21ObkxhNTAtTGswZjZ4SHl6ekZhaHVVMVhadVUzY1NhclRBTEp2Yk5RUlFtaVVxQm16c0hlN1daSkdka1ZOcExkSmplSHFjNllzSEg1ckpjQUY5UnV6TEVDaWdFak5EMHU4aGxNY09XaDBnQ3g2dzJWZG1RcVhPX3RxWDVoOGJQZw?oc=5",
-          "title": "Stephen ‘Wonderboy’ Thompson Retires With Storybook Ending"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBXdjRhaUp5VU5KZm45MDdvblpwaHFLXzh3d083MXUzcUU0SUs0WWJ2ZU04YjZrcVl0NDlWU3lMdzZhWkdfcHJiZllwUFREVTV5U1QtZmREVkNfdVVVWnJMM3ZlemFRWTB2YzNnNy1UVDFfN1BqZ3lmX2p5Ti1BSzNZdnpKVnZYVUFnSkpSaTQ1blJsVjBlTHJBZUt2Yk0zR2lQMnExSGJZb3BlczVyMmhab3ZGZw?oc=5",
-          "title": "Dana White reveals how he scored UFC 334 main event"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDExeU5ubWZUbTVLTndtWTUyWWxqMGJELVdSNGNqdWE1S1drYm5faGFDeDZlS2w5ZTJGUHVGY3ctQlVBbTlDU05FQlc2VW9LWEN6RklDOHF1VEpaWlIxcTZmZURNMUVqd1ZKSzJDQUFMNC1ib1Bic1Zxc0IzU0NJdVRMa0N0c1JVclZ2aVJiLWEzYTBfSk82am9HeEI2blpZVGFibkZONmE2RWtOd1hxc0QyYXJfU3dXQ0t3M2YwSlpmNDJzSGFNWXRvODRNaWg0YTlYd3pWNC1MNjlWd3diMWJnb3Q0NjBuQ1FyWjlqdEpVejFoNWpudFhR?oc=5",
-          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWY3T1ZEaWtSUHBjU2xDaVN2dm1LN1BEM1FpMHdHQWZ1RDhHM0xKQWFBcXNGR3c0ZzVIdmNFWmhpeFN5Zk9Jc0RTTFNuUk1Rbm5MS01HNGhGMVVESzl4NHZRY09MWi1uN0NMQndIVElNcW4tbFhiWHp1LURJQ01MamtCMmlKbWZuUnZPb1pwSy1OQWNhcTVzTkpqMUM1LVZzeFZCSkJmVVZLaTRwbmFuRXJidEtLT1di?oc=5",
-          "title": "Dana White confused after UFC reporter's long-winded question: 'What the f— did you just ask me?'"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVROVjlIYl9BYkxEVE5qS240WWEzTkM0MHQyRGlKLUNKdEJsT0tmVFlIWERfUTYtN3JqMm92Q1BqRUtpRVNXamdqTHcwTlY5cEtPbG14aEVNZmZxX2lYZ1RpclppMTMwcDVZMk1lc0wyN19ZSGxLUFZUaDVCS043VFl2X1NvOTNsNFE5alRyZXpoMGpaZjQxOXFCSWhwZHJzNlUwMA?oc=5",
-          "title": "3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit"
-        }
-      ]
     },
-    {
-      "key": "a8906ddcf3",
-      "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham",
-      "summary": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham The Guardian",
-      "lang": "en",
+    "81f8895cbf": {
+      "key": "81f8895cbf",
+      "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых",
+      "summary": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых Независимая газета",
+      "lang": "ru",
       "sport": "combat",
       "outlets": 8,
       "growth": 0,
-      "heat": 18.7,
-      "published": "2026-11-16T04:25:00+00:00",
+      "heat": 20.81,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T09:23:12+00:00",
       "refs": [
         {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckxzOWx0TXVoSld6OThoZXQ5cnoyZkhITlZTcGtyM1Y3dEl3Y1lVZEpSeXA3dkJmZDZDbWJlU3lET1QxNlpad2JlZWFlc1NPaGdRZFdwWWV2UmVLeU5SaUM2YlpiaHJaRV90Ym5kb19HMWppZHBFd3QtUW9TTE9GNnhRMTlaVU5ROHlQZ0tHMDJqVm1lb0VN?oc=5",
-          "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham"
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZbzZfWG9BYUM3MFF0emxpeXNMLW5Rc094Y2F4TTlpVjJDdzE0dDZyR2JfYkg2dkhZNkZ5N09jV1R5Tno4TlctZkJn?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
         },
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0EtN01LWUdlUkRVMG1sSEJsXzFjTUhwOVRxZ2RaSnRhZDcxRGFldEQ2RDZ3V2hlam1HT3R4NDlVYUxIbTQ2YmhXcGc4VjUyMl9tM0lpSzRzOVFLbFBjNzJzMGpKSlpSX3JDUE5WRm1kTEw1WWZBSkN0d0h0UkR1bnk1Q1BSUmxUdlFORlFJV0ZtQlNfUnRPQjhiZHJCSDhSUTJ6WERUVzA0cWNhblhpTzFGRnMxeTlMMUMwdllLWjU?oc=5",
-          "title": "\"I Might Have to Give Her a Gold Medal\" - Kayla Harrison surprised by Amanda Nunes Scoring Takedowns"
-        },
-        {
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRU43elBtYjBFU1BfNFBiTzVXVDU4ME9qSnh0QlQwT2otY1pZSGd3ZHZiTXNfZ0tPNWtFZWR3Uzl0STNSeEV0UW41LU9xTDBEQ1RZZHpPUUJwU3E0dWQwbVg0clFnRzBPM2RoUE8wbzJLb0s3X3c?oc=5",
-          "title": "UFC 334: Kayla Harrison shocks Amanda Nunes on UFC return to retain title"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ1l5Ynl0Vk0xUWx6UVlTS0JVMjN1V1lDT0wtTmxjbHl4b0RFNWJHYmQtbzIyUmY0YU8yTVM3U1Rtamk0ZWY5bU1aNXI1MEJKazhueXBSdE1GMHRRQlhINGotYWExczg1NEE1RnZ2WDdSR2g1YjlLQ1RULWdHSDB2SnRBdHRONU1ZaGxLY1drcUlZcmdXUE9Jb1ljTE9Yb2o2TEFkVkhsZkE1azNocllpT1NmbWw5d1pFR3Juc1ZIdElDVTFyR20xQWJMb3ZRcVBMMGgzaA?oc=5",
-          "title": "Kayla Harrison says future uncertain, but Amanda Nunes rematch or 'easy money' Ronda Rousey appealing"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/521605/kayla-harrison-likes-idea-of-free-money-fight-against-ronda-rousey",
-          "title": "Kayla Harrison likes idea of ‘free money’ fight against Ronda Rousey"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVB3SnNWX0loZkdaaGtNc1duQm9DX1dGcWVrWEpFQzhjdy1xYzdiOTJxbGk4S2RZR0pvRXY0VlNIMm9qdi13d1FPZktFR0pRdXlpbEUxc3hfNEx4Q2JPeTU3ZlVoVlRzTkpVMVc4dWZQZ3h3Ny1UVjN6Q1ZELUZITkFQWU9zY21tdFEwVDNXNGJxV0R1ekN1WF9ROFdPNzE5bEJnYWJsckY1Zw?oc=5",
-          "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0xfUlAzLWdLdG9HLTk5dTNiMFNIRTRZc2hsY25lUGR4R3pTelBzb2JSbDNrQ3pDV1F5STZ4d1E0aHVhSWxyd21YYXZOc2I1dXVyRHRITERZeW9WcmVGenRjVTJRM19JV3ppd09aOVQ3eGRqc2xfQ1MxSW9WdlBFTWFuLXN3akkxY0x6aEVTTkluc2V0eVNEX21faEo5QzBVV2R0WW95NTNhVmU1THREWS11X1VheGJkUWNQdm0taGZ5NUVYSGlKZtIBzgFBVV95cUxObHJiSGw2ZVF2ZE5Xa2RBRm9TclFlRXJXY2NweV9DazRZR09odkdwZ2NpVmRBTEJUQWNDWDFTMnpjcmNTeEFhMnVlSGhzdTRuTFkwVHR3S3NVRVptck1lUDc4NlVnTnJoSlgta1dES0NSRzlvUzNCYU1XUU1qOGNfVEIxY0tBX1hZSVhOckNRLXRtcGwtcm9KQkdybGhWV1hfeV81cmllMTFISXE0NnZTUFM5RnlwbW9sc0lMemxKVXBUWTBuTjB4cVRsYV9ZZw?oc=5",
-          "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTFJa19tUzk1ZWM1UVhNLVJIZzk5VFM3ZVlFcm5ROVlXUkFub1JrTFJMdW0tSkJsZ01kUVJ1QW1qVnVhNFItOTREbEYwSEdSNk5ZRkZTWGlBNmw4YVlhQXNCUXFkNlRqMWRKbTI3N1AwS1ZNd05RenRwUHVpMktjbWJxTHpCVUtxdkJuRGdweVBuRXZPQ3RhODcwcnpuWXNoOVRz?oc=5",
-          "title": "Kayla Harrison spoils Amanda Nunes' return, wins by submission at UFC 334"
-        }
-      ]
-    },
-    {
-      "key": "85872b4674",
-      "title": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy.",
-      "summary": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy. Vietnam.vn",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.31,
-      "published": "2026-11-16T02:01:44+00:00",
-      "refs": [
-        {
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0QzWkdPNDhCMGttRE0xMThzVUY3RVZjc1hpU3o1MGVTX0V4TDRKOG1IYTdDZm5BbHZHbGRvYUVkUVJrQ3I4dUdaaWdpbWtOYzhleVdSTGlya01ydkE0U3h3aEgtZEtWeW1ZTEFNYVJLUnpqU0JlUFNFcU5JRFpYa3h5TGx4MTFNd3lxaVBnOXhKUHZ5SnRFUHloa213TFRKbzA0bg?oc=5",
-          "title": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy."
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
-          "title": "Who swaggered around like he owned the place? Spain v England ratings"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
-          "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/spain-vs-england/report/554117",
-          "title": "Ten-man England hold on to claim famous win over Spain"
-        }
-      ]
-    },
-    {
-      "key": "fd05bd65d7",
-      "title": "Зидан — о победе Франции над Турцией: «Я был недоволен, как и футболисты»",
-      "summary": "Главный тренер сборной Франции Зинедин Зидан раскритиковал игру команды в матче против Турции.",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.71,
-      "published": "2026-11-16T05:57:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/zidan-o-pobede-francii-nad-turciey-ya-byl-nedovolen-kak-i-futbolisty-2475401/",
-          "title": "Зидан — о победе Франции над Турцией: «Я был недоволен, как и футболисты»"
+          "source": "NEWSru.co.il",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nX25SQktySDNKUWZtbTdtZVkyaHljekl6ZV94aHNnQjRQOWZsMHk1d0FFZTQ5SS1vc0R0VTBLcWRWSTNCM0RkMXM0cDRhQjVZNzhXYnVYMXYzZGZGQ0xZWXpRWFBxWVJxYlJDRw?oc=5",
+          "title": "В ОАЭ освободили из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых - NEWSru.co.il"
         },
         {
           "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EdWZMTnpzRHVaa2ZhMVR4ZDhnMlNIUjBZWk5mcUVNQk4wbWhtNFFsMHIySEpTV3JWT2FER3JqSllrZUt0ei1OR2hSRTRReENnT0pCVw?oc=5",
-          "title": "Зидан о Мбаппе против Турции: «Заслуживал двух-трех голов, сам создавал себе моменты. Идеально справился с ролью капитана»"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Kai1oaGxnR3podi1KMElHWXlIQnJNNlN5RTFsYnhfYjBKX2NSd2otZDZjLWFVa2lncEVlTVlCR2s0azdIT25OaXhqdEhpRFpGLUNfSQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из тюрьмы в Абу-Даби: подробности"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdGWXNUbDdJUkdZc0szeGp3SVJ2ODNXVG52eWpGM3BRXzk5ajBHOU03dFVYQ0tRTUI5bjlHaDFYM1B5WFZVdkpWeVZ2bmVyS0h6a0NsNVZNXzF0N1Q5aWwtLUNFSno2clVpYi13aUNkQkRZRmkzckk1dXprRVNuOUtwNVhyMktkTEFFZ0tXVWxfWThmLWFwN2htYkJQYkthU2huU2xmMi1VUQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи после драки в ОАЭ"
         },
         {
           "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT2NmMkdidjZVMkotNFI4SndEOEU0VHNveGxNYl9iVWhSdzFnZVB2dkNib0s5ajduY1IzQzE0TkdfTEU4R2lQMlBwZlVWclZnLTU4aWp0eHk3bTNxU0JOdTkwWHIta1BQQU1ZWTNqTVdQV0U0bGNxdlc3WXlWSExncEQxa1BUcEFaNUdXTTRzTjhacnBhSWx0YnFQdmFDWVh3OS10dENWX1d2cmcyUnB1ZVF4aDl3NmFjR1FnMWJPQ3VZek9oSFEwOVJ6bmxxV3dsQUdQQS1kTG5XMWhWdWQ0Uk04Y29hdFhMREJsT2pn0gHzAUFVX3lxTE5Ddjg0eXNtVG8tWUtFdG1uUE1xOHRDcGltdHVYWUpNbExRYmpZY0x3b1JKMVlhcUZNNGxoUjRuMDdOUmFscGlKSjR2Q0x3dkEzbGUyY2lQeGtCVnFmelNxaVhtdGNlc1E2MHNBT0RnUWk0em5DaU1qQTM1bHJRZWU1cHhScmFielV0eFFVUkxQNjNhY01SVUR0VnRUSnJOS2tTMVkwbHpveW9PZDZrY29ISmxWemM0TXcwOWJ6eVRqZ1hTb0FPeGRIU184VGFpd1VJLXkwamkwX0hqQXJSNnZOSUpjYjIzMG5PT284cERXSDNkSQ?oc=5",
-          "title": "Бельгия не уступит Италии, Англия забьет Испании, а Франция легко разберется с Турцией. Экспресс на Лигу наций"
-        }
-      ]
-    },
-    {
-      "key": "b16952b02d",
-      "title": "Вернувшийся из НХЛ Сафонов подписал контракт с \"Ак Барсом\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.6,
-      "published": "2026-11-16T06:56:58+00:00",
-      "refs": [
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDQwTjRlak5kSEw5OUdERFVzMjdyMGRZc1UwcjNtaC11cG1zMUhUMHR5SHlCOExUVXE3U3EycGVyWVRnbnRWck9jSDdXcUNwRDZjS05ObWZPMmQxYlpJbGtyUjlXUWI0NDMyeUZBa2xCWGpjYzlKVTllYmsxVzlDTEEtV0pNNmtFdGNjNjBBWnc5cnZKTmFCVF9MYVRuN2N3ZTJmRNIBqgFBVV95cUxOZW0wWTZEcm9BUjhwQ3lneG1iWEJHVjVtemNLclZXU19tTm9HdDVTUHpMbzJvczFIMWJ1VmhLeFV4WEtLbENPUHNPekU2bm9rRHVQWllkT3Bzck9SR0M0VlBFMkNHNnpWZzVnTmt2Z3ppYzdyNDY3cDM5QVZ2c1hZa2V3NTN5cVZHaUx5MWxjdUh0ZnVnZFdxdS02V3U0R0NhaGc4dHhib0VFZw?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи в Абу-Даби"
+        },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261116/akbars-2131792053.html",
-          "title": "Вернувшийся из НХЛ Сафонов подписал контракт с \"Ак Барсом\""
+          "link": "https://ria.ru/20261117/mma-2132047115.html",
+          "title": "Нурмагомедовых освободили из-под стражи"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMUotRzl3Vy1ZMWdSOFlJQ3d2UVV0WnFxWUpvMndhY19reUo5TTZNQlhwa0FiQWxSYmZnTTVybC1aY3lqSWprRFlDaTdib09EaEZYYUFzT2YwREVVOTFmMm1ZUFZwbU5VOXFIdlBn0gFzQVVfeXFMTzdKUXozSndvbzR0dTd5S3ZHc3BjSHY4OHhHbjJ2UFFVWWJsTjRpUkhQRGpzS2FVcFhsZDlxYWY3VUcyTUhnWnN5MExDc3hRQTVNdlNkazV4WEgxdmxFdmhPQW51Q084QVpKeHJGMnJRY3Z2SQ?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/ilya-safonov-vernulsya-v-ak-bars-iz-vankuvera-srok-kontrakta-i-zarplata-hokkeista-2475420/",
-          "title": "Сафонов подписал контракт с «Ак Барсом» после ухода из «Ванкувера»"
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/sud-abu-dabi-osvobodil-iz-pod-strazhi-umara-i-usmana-nurmagomedovyh-2475750/",
+          "title": "Суд Абу-Даби освободил из-под стражи Умара и Усмана Нурмагомедовых"
+        }
+      ]
+    },
+    "a9461482b0": {
+      "key": "a9461482b0",
+      "title": "Brazil XI vs Singapore – Predicted lineup and team news",
+      "summary": "Brazil XI vs Singapore – Predicted lineup and team news Yahoo Sports",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.76,
+      "published": "2026-11-17T03:56:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2luZm1PMDA0LXYyZlR0LXpOYjNpMGx6T0k1QzF6S0xlbWxPY0dEc3dlaVdldU02MmgwTlRsYm90czBwNWlCNWpXZTRJQTc5bFhaTWxpQTB3LTZFVFlpOWtLNmZ0NW5UdDZ4SkVrTTAyY1U1a0VwVTBYT3MwdkNqX3IyS05oZGdu?oc=5",
+          "title": "Brazil XI vs Singapore – Predicted lineup and team news"
+        },
+        {
+          "source": "The Football Faithful",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nZVBFZjZuT2R4dTM3QnE2S1BXdExlc0diOUdUT2hyUmJ0M2tZX0w4TVpsd3BPQ2l0bTBhaTRpcEQyRVRsaWUxd1d1T3lOZEF6RkhTSnNqNzFKaC1ISnJwajY4clRWclJzVVk5dlQzMnh4Q25I?oc=5",
+          "title": "Singapore vs Brazil – Match preview and team news"
+        },
+        {
+          "source": "日本取引所グループ",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNTXBwTFE1NDhDVjFXMFlVS2ViWDVyaFlMM1FXY25XMnc5czBpWXZyVEVUUGh0OGZDelN2eXE1bTJPNk5JQ1ZLWm1DdGdLTXhza1NhM2lFWjBDeGJhQm90WEVmc0RfeWtJQkp3TndCWW4zek9GRS1Cd2ZJTXhsVFAzUUx0aEdEWnUwdzF2amI1ZmNyQzFrU2loc1JqUmpzdVROMmlUSHdoZk10VHZWSGl2VnhRWEtRUEV0TG5ielFoVVpCZ1g5dGJxb1JWWlhkbUhmVHVITlRzU183NExnZ0JTYzJ3Y3RNcWZSZVFGd2R6SWRpYk93ek5ZZVJtR3RRMTRBMWZWUTBYdE1yYkI2c082Mk1oSWdCQ0tseERLZVBYa2dPeG9wTjRVWGJESmdycnBzZ2JkU3hoOWFnalBPcnlaQUR0UlQ1OEpsb2xqYV9rUlZDTHNuMWltSmRKdFZYdXppNUNoampva3plZHo1ei1WM3g2aWpSbzh0MVpHMnluNS00R3Q5alowQmp5YWVqaXd3Ml9lZlNQeEExQ3A5cjlvbHh3?oc=5",
+          "title": "[ＷＡＴＣＨ^ＵＬＴＲＡ-ＳＰＯＲＴＳ] Brazil vs. Singapore Football Coverage ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ (17 November 2026)"
+        },
+        {
+          "source": "Sportsdunia",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDN5ZENtM2haRjhyOGl5c1RIN29veEYtejlqRi1SOXhSWUVYdE1zMThsdFlsYzVVa3ZMV3hCam5GZnNfTlNqTEc3SFQtZTllRGRLZVhWRnJsN0drNW1hMF9Nc2VZVmctSVRpcVQ0cERPc0F5WlRtWmFEc0pLQXhHU2ZjUUhNQ1VsbHBLS0RMM01ZM3prTkhwM25kdHI2N2lOeVB3SFotNXAtZGFuTkk0?oc=5",
+          "title": "Brazil Lineup vs Singapore CONFIRMED: Endrick IN, Why NO Raphinha Today"
+        },
+        {
+          "source": "Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa2JpVDJqWE5MTV83eF9FRHd2WG91UERCWlNlbHNCcEFLM20ydjR1SXlrWFFMRTY2ckFOTkRtdnRtWmIyemdtanVzdVFHb2FwQXc3UV9TNGloMVhhODdhaWQteTktbGdLMDNJdzJkVXBTVnVoNkI4Zm5ieVZ2dklhVzZrdVRoSEVROUZzcmZBOFZpZ1RtRVR2VTQzamlzNmlEQXRYZ2tFMTdXRGdHZ212c1BNSGVrenFaOHN5Wm5ZN2V5djgxMHN6UnptUHJzMHhDM3RBeTBQTzRTXy0tX19DaTdyQWtQakw5NFM0V0dUSHJITUtvTTNwN2JhSlY?oc=5",
+          "title": "Genoa, Robinho Junior scores twice for Brazil Under-20s: Ancelotti’s national team play in Singapore at 11am Italian time"
+        },
+        {
+          "source": "懂球帝",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2eUxncTVFLXk1TTdHLWxfazlEU2JwMmtEa0p2M0pYRmk0aTlnd192RU5zT2szYkZlc29zSWlJRUdMRkV1RE9fcDAxbnFLdmc?oc=5",
+          "title": "Brazil close 2026 with first-ever Singapore friendly, Ancelotti suspended"
+        },
+        {
+          "source": "Sofascore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFJWU3hIejBqc0toSVJjV0c2a3dfWjRTRkpnLXZYaTR0ODF5NHAtbUZlZFNKQnN1T3hXbXpJalVmNEtScW5YUmRXamdxaEo1NHBuVU5YRjRYYWlrQ3pKU0JqTjlJUUhsQzAwQk9LYjM1dTJkV2tsQlN5dm80NHl6bjA1dC1pb0lUMnQ3d0JzSUUxd3RzVkZMZzZuRlY0TnhEc3VIcXpta0laLW1M?oc=5",
+          "title": "Singapore vs Brazil: Unprecedented Friendly Becomes Crucial Test for Ancelotti"
+        }
+      ]
+    },
+    "6eef3bac49": {
+      "key": "6eef3bac49",
+      "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»",
+      "summary": "Американская фигуристка Эшли Вагнер опровергла информацию о том, что во время этапа Гран-при в США на арене показывали архивные кадры с плачущей Александрой Трусовой с Олимпиады-2022 в Пекине. Ранее в соцсетях разошелся смонтированный ролик, на котором Трусова и тренер Этери Тутберидзе после церемонии награждения на Skate America с недовольным видом смотрят вверх и что-то обсуждают. Пользователи п",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.18,
+      "published": "2026-11-17T09:35:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/figure-skating/1117439413-vagner-oprovergla-sluxi-o-pokaze-video-s-plachushhej-trusovoj-na-gran-.html",
+          "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmh0aFV3VnFPblNaU0E1UGh2VTV1bGhuVjltdVBxUjNyU2lBc2tBUDc3ODhhX1RMZlo4bzJnbkxPNjB2dWJKWUNnbGwzVHdzcm5qRHF1T1ZWaktzcjZ1emw3Sk11Ujk5M2JjbXJOTVNtMkctcXF2amxSSUR6WE5zSDJhejR3WHlQS3FwSkN2Z25QRmxpdmNZUjRoeTdwTTAwZkhZM3lQMHNoYVczWHF5SW9zMHJEWkpNblc4R3hCUEUxR25leWYzWXE3TQ?oc=5",
+          "title": "В США на церемонии награждения Трусовой включили кадры, как она проиграла Олимпиаду"
         },
         {
           "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6701402-ya-vernulsya-domoj-eto-klassno-safonov-ocenil-podpisanie-kontrakta-s-ak-barsom.html",
-          "title": "«Я вернулся домой — это классно». Сафонов оценил подписание контракта с «Ак Барсом»"
+          "link": "https://www.championat.com/figureskating/news-6702818-trusova-opublikovala-post-po-itogam-etapa-gran-pri-isu-v-ssha-gde-zavoevala-serebro.html",
+          "title": "Трусова опубликовала пост по итогам этапа Гран-при ISU в США, где завоевала серебро"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/benua-risho-ne-soglasen-s-ocenkami-nedokrutov-trusovoy-na-gran-pri-ssha-2475621/",
+          "title": "Бенуа Ришо не согласен с оценками недокрутов Трусовой на Гран-при США"
+        },
+        {
+          "source": "Вечерний Санкт-Петербург",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0VrUnU4T1RZSjBCN2pab3hDaUdid3NIZUd3M1dDV1JSbWt3UzFkVVl1WVBEam9vakU1TC1Yb2k0ZXJFcXU3R04tYlFNSkV0dXJXZjRPQUdLRG02dnkxa0s1RmVZOE9JNFJTZFJyR2ZwZTRocU9yZWZGTDZVVVFRMmJtRUQzTWNURnBRYlRTUEtrUQ?oc=5",
+          "title": "Россиянка Трусова стала второй на этапе Гран-при США"
         }
       ]
-    }
-  ],
-  "sent_at": "2026-11-16T07:51:02+00:00",
-  "tg_offset": 360028013,
-  "combat": [
-    {
-      "key": "2022349dc1",
-      "title": "Stephen Thompson reflects on rare fairy-tale ending at UFC 334",
-      "summary": "Stephen Thompson reflects on rare fairy-tale ending at UFC 334 MMA Junkie",
+    },
+    "63e5a64ca6": {
+      "key": "63e5a64ca6",
+      "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ",
+      "summary": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ Sportbox Дивеев: «Как только начались слухи, что Батраков может куда‑то перейти, я ему сразу сказал: «Лех, даже не думай — уезжай» Матч ТВ «Великолепный век» Батракова: как «Галатасарай» зарабатывает на российском футболисте Forbes.ru Батраков будет стоить как десять Роналду после переподпи",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.8,
+      "published": "2026-11-17T08:47:02+00:00",
+      "refs": [
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVDZjRGNHUzA5VWZoT3AwNUJWbE5YUWt3TkhRRU1GTDN3ZXBidGw1MnRLdExVR3hXMzJNckZNRnFXckpsaUtSOWpWeGU1Wjc2VlFEbGR0NDl5UG5mZ3A3QkZ5Z2JVZXI0YU0xSElKTG5mRWFybjdraldZa2x5aG1TUk9weXQ5bG9KYVlYRzU1MUV4dUFkeldnU3VmcXBhNVV0U25ZQnBjeHlZalBXVlhpSWRKZWl4TUZpX0ItUjIxcW5WZ2dPYVJIQXhkdVJRWDRydmpLMnZGT3I0RWc2YW1BNzZCM05IdElJLTVOSmV4a01QQzZvZXFv?oc=5",
+          "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6702814-predstaviteli-barselony-i-bavarii-priedut-posmotret-na-igru-batrakova-v-matche-lch.html",
+          "title": "Представители «Барселоны» и «Баварии» приедут посмотреть на игру Батракова в матче ЛЧ"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/transfers/news/fanatik-skauty-bavarii-i-barselony-posmotryat-za-igroy-batrakova-v-matche-galatasaraya-v-lige-chempionov-2475798/",
+          "title": "Fanatik: скауты «Баварии» и «Барселоны» посмотрят за игрой Батракова в матче «Галатасарая» в Лиге чемпионов"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/batrakov-2132072942.html",
+          "title": "Скауты \"Баварии\" и \"Барсы\" приедут на матч \"Галатасарая\" ради Батракова"
+        }
+      ]
+    },
+    "5e0bec3703": {
+      "key": "5e0bec3703",
+      "title": "Боец Александр Волков подписал новый контракт с UFC",
+      "summary": "Боец Александр Волков подписал новый контракт с UFC Советский спорт",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 14.47,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T08:57:00+00:00",
+      "refs": [
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1F4OGFOSDFWR3ZwNnBGclBSY2d3OW82MEhaMW1tWlA5UWt6S0J1ZHBmd1dsdnRMMWR3NWF5RWtZc1pySnllcHBQTk4zNURrWnlSM2RpYlMyMm54UFFBT2lqMkF3Q2k1U1JoNXk4a0xOcnZyZG02VGNwNG0tZXRVWWJWVUYyUUE3SGRTZnlR?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSWo4QkFlaWJFVV9UNnJKd25QbmJkN3B5azdqUzZkNDdiQ3JKVkItenlEc0lXYjgtQ1Z4TmVDNUJvWXZHeVUzY0hPVTZCUldRdHZrSHFLZ1lvVU0wYWVrSVhQV0JTV21DTi04V2NBTjB1MFBfaTdVRnROTzNrM0tjaWowbG1BMDJXSGsyWXk0a1BDeG1QU3BndGo1V1h6V0N3NjVPMnRDSkZWZ2lYNm5tTDI5T09xSXg0ZVM2RzN6a0Rscll0WTdHSF9aUHpWSzRHbWsxeXFWQmxna25DdTFkbDRUWkU5d1BpM2FvWDZ5cHVoaS0yX0FfVU45TDMwa09ONklwSExDalBhMkd6MHJTNTN1ZEtna3NLTGtUWG5B?oc=5",
+          "title": "Менеджер Волкова: «Александр подписал новый контракт с UFC на улучшенных условиях. Обсуждаем чемпионский бой уже сейчас»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/aleksandr-volkov-podpisal-novyy-kontrakt-s-ufc-2475787/",
+          "title": "Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGE5UXBGX1dJNFVlRGJxMi1MM0ttNFA1MVFKcWtlc2RRVm1aRVZHVDhlTXptdjNCdW04cU1QOXV6TktXTGN2R19SelVQYzVtcGJENGVob1VpWlpTbEYzbkxBV0dNaTh0RHVsMWR6YUNuaU9TRnFLZEJ2X2M5T3VXZmphTHROZGFlLWZpYUJBanY4QQ?oc=5",
+          "title": "Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9KSVQ0TGJqSWdLclV5aGxtd0tsYkMwaW4zaGpaRXpoeXVxSGladFp4dnQtWlZfWlNNQXV5YmhIS0E4cWtBanJ0RlZpOW4tX1NUanhsaGJJV1lGWDZYOFo1ZTJScy12S1BnSlRLUkt2MkgtcjY5ZEFzNWVFazlKVU5GNjJQa0Q2NHc2YkJVRFBYUdIBlwFBVV95cUxOa2ZuSjJnblFiNFZlc3BBekUzOVRWMHpDOE9nZnZzQ2w4cHNDbTd0VmZUUVdJeXk1dmlfQUJnajJEZl9SSG9RM3h0bUE3ZjQyVU0xTEl3eW1yN2VCNjFab2lpaHJORTk5Y2MxaDUtamJ0Y3pXVjUxY0N1Sm5jTl9uQVV1dy1LV1lONjQ4RDE3UVR2MVh6bXRN?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        }
+      ]
+    },
+    "8a97d02d12": {
+      "key": "8a97d02d12",
+      "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’",
+      "summary": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’ Yahoo Sports",
       "lang": "en",
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.3,
+      "heat": 12.87,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T15:30:00+00:00",
+      "published": "2026-11-17T08:00:00+00:00",
       "refs": [
         {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWNpdkdUV3JibVRjT1ZwbDltZVZndmhYdlFCakl4RW9td3d1MkF2UTRUU1NRblpkcmZSTWxPNV9FeGJGSmhsNjBiZ18wZTc4TXVnc1kwWjVfZHNNb3c4V3ZNdUQtcVhJSEJ3RFVHU09rc0ctNUhYanM4UEY1NmRWeWs2ZzJjalNSQVFtWUx2ZEEtc3RodEtzTEpYdWFJb0xOMmRtenJiT3hHa2RxN1gwWUVaZ1Q5XzRyNzVqNzF4TnI0M2puZnBPdTA5LThoeDNacnZsRlJvSjI4dEtPYUZKdVFLTzM?oc=5",
-          "title": "Stephen Thompson reflects on rare fairy-tale ending at UFC 334"
-        },
-        {
-          "source": "Premier Christian News",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVRzYjBwY2I3ajBSS3VsNnByZDFHMXRBX3liU3B0ZjQ5ZmVqM3dhRmQ2UzhtdTZ1MnhCQkppMUJQeGEyTUZzM0hBSEJNQ09CYWFJOGtkMEFRN0dwdnAtX2dZOENXNkRvRHhJUDAwM2dXYTRiamVsOGk3S3dEbkNRNWxVbk1zU2Q0c1IzMmxCTktqSS1MTDNhY3lVbVlXaF9xcU9fZzNBSVNHTV8tbHJXdXZ3cmc5eUFKcUhfZTB4SXZiOFM4Mmw3WUk2RC0?oc=5",
-          "title": "'We need Him': Stephen 'Wonderboy' Thompson spreads the Gospel during UFC retirement speech"
-        },
-        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3ZVQUNvU0V1b1d2TF8tZ0VUMmZGTWl6dmtGc3JEallBVmdqOF9fWFpFeC11dHp6cm04Q1lPNmo2RlJ4cFlaYnhVVWRvTlQ5bDlaQ0JlMlFuVl9XdVdNY0paZkNSWm5RSVQzd2JWRS1xbFVZUUF3NjdNeVpGbXlVU0lxSE9jSmpMZnZF?oc=5",
-          "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDZSN2FLVXhZZTFyWGxsR0hTeEc4YXN1cHB1d1lWS2dCd1BtVzVHWW1FR0tuNlVNRHBRSWJJWU5IRXdQLW1YTkZBbG1VR0JXR0cxWHJkcGVxekZlSDlsYThrR0VEb3lldHcxRVd2SlNscUNEXzBzZmJtUVZ4bnVwYXZJdTAzcVlp?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGtTemdvN1FORzJHVW1JMlEtUzZzbDFKd19VZTZKaUlDbmxSTXNkRmpkTDNrUG8zbTJINThfNWEwM01pSjlhS21NeEpBX1AyNDdlbDRfLU5TZC1RLUpWUmRkcWJ6UUlYUm1zbHVFR1FkUUFCaUIxbWRXeWpHWGRlQVFzeGozTlJJSzdMSWJfSC1ONGc0TG9kZ1JDeklpeHpuVVZBeVhQNTh2R3VMcDFUekhhMGhhTGtJZEtzaWJzVkdUWmFfWmFKSkZlZ0N1UQ?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2hJU2tfNG1OektZZElHN1RLU21sdHFYeFVYMnV0S1pRbVlxTTk1d0JOeXBLZC1qMmM5U3daeVlVQnFmamV5WGM4S3dMN2NYUkgxOHBpT0otUDgxZllIaTJHTks5WWtaWkhRaHA5WlBXa1JrTjhfMmhQRHdyR0prMjVvSW42WjN2SGUxQ3FMUVYxMWhJYjZPZ2VvUk1zSjBHaFJQVktZNjlNWGVEWXc?oc=5",
+          "title": "Shara Magomedov’s Wife Agrees to Second Marriage: UFC Star Says One Wife Isn’t Enough"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/521580/stephen-wonderboy-thompsons-perfect-ending-to-career-made-joe-rogan-emotional-at-ufc-334-ive-never-seen-that-guy-cry-in-my-life",
-          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEkzNHVVV2xwTGxydjlMUHFTZ1Nzb3l2UHRIUkJ2Um52OEN2ZXhISzBETkl5YXk0VVlJaGhwTVFlZmdvNWk2RzRyZ3c2V1lTSnRGamFUYl9WdGpjZFlCakZtRGxfeWNGNHc3cWwzZ2xYa0kyNTJaTUxocHlVTW5wR2F2R1BZb0VhS05CY2d6X1gwSkhQS19rMjVWamw3V2poZEZyNU0xc2xYcWZhcmQ2UGtydDNjTFloYnVzdXNNSk5lbDkwX21v?oc=5",
+          "title": "UFC Saudi Arabia: Several new bouts added to Israel Adesanya vs. Shara Magomedov fight card"
         },
         {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOUc5NWJvenp0dFZkVDdYYWkzV3R4ZGhvamRpMFJZem5UNjJ1NFEtN0h2dEpFZzBLOEE1N2MwcnBNV3ZhaUVRR0xLYndWQnZ2c0dVNTN6dlFlRUM0RmREQW9YZWxrMlZYOFlmbDVCYTFCejkwUUUwX1FLb0RfYjYxcWNuczlKVG1SZDZz?oc=5",
-          "title": "Stephen “Wonderboy” Thompson: Goodbye To One Of The Good Guys"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTZwcnhPR3ZaQktweGpQOGtkRlh1S3QyaHQwRFlVMEluNmhKQjlvRTRZME9RcGJaODRhaDNwbFUyWl9BU3M4UzdDaGVtVjBDd0RDcnlQSEwtZ0xUZnBYMm9oNHg4REJESnRDYm04Rm5PRDNqOVFiTHpfV1gyN2xHOTNzVDRVTlA5N3hSMWNCRnRKbExsVmkxNVp0S1FRTm40VTRVQjJEejNQOGwtcE9Z?oc=5",
+          "title": "UFC Saudi Arabia Headliner Claims He Rejected Massive Bribe to Throw UFC Fight"
         }
       ]
     },
-    {
-      "key": "9cc1776517",
-      "title": "UFC 6 Has Revealed The Official PRIDE FC Expansion",
-      "summary": "UFC 6 Has Revealed The Official PRIDE FC Expansion Bleeding Cool News",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.73,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T16:42:09+00:00",
-      "refs": [
-        {
-          "source": "Bleeding Cool News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOUZTOExKenE4V3dTLVQ3cDVRWGdFN1hjN3hWNkl6TTVaVWJfc0gzYnYwXzhaNWJKcEVBSk8tNGJrYVNteEZrQ25MSjNtdlRnaWhEQzRESmhDTzltOHdDTHdxX0hVTVd6dk05S2xXTlVrQVpHWjdIYzdFZUQxelhVc1p3U1hkSWY2TUE?oc=5",
-          "title": "UFC 6 Has Revealed The Official PRIDE FC Expansion"
-        },
-        {
-          "source": "IGN",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSE54N3Q4TU1DLTVickJsbVNRZVdha2oyVm9IT21RNWJ1NE1Fdnk5NW5mV0lGMWNvcjJPTTl2V0RlQVVRM3A5emJIbkJLMDd5TnIzWkMxeVFEd3QwNGNMV3lnTF9JMmJNTWFMY19pYTBzckZmVXNHbF9SMzBjU1JlQjl0Rm8xbTlKSC1lbDB3?oc=5",
-          "title": "EA Sports UFC 6 - Official PRIDE FC Expansion Reveal Trailer"
-        },
-        {
-          "source": "Eagle-Tribune",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN0ktTDlKOWdsY0ZYaG82a19haWlYSS1BOHpRTWIwdldBUFRDM1B3REtrQzZFeWljWGlrbVBDb3FFNC1fazdPSkVaQlVkLWdXV2lEN3AwdVlUbXZieG1XWWp5MUxrOGhlMmhMUEVtRXE0RWUzMWlnUTR2a1N1T19oVDdlcVhMVnlvOHZ5TUFRWGZBNmNZY3otZ2RIUS1Vcmx0dFpMUWlia1ktWTlOTG44Q3dia0ZlVndaVUNjWEN2LXo4QXFhMUhBai1aOGF0dzcwSEtPNmRUcm80bXNKV2NRMXUyS1NodWZaQ1Z2MU0xNmxreER1ZUhCS0xR?oc=5",
-          "title": "EA SPORTS™ UFC® 6 Unveils the PRIDE FC® Expansion, Celebrating the Legacy of Japan’s Iconic MMA Promotion"
-        }
-      ]
-    },
-    {
-      "key": "812a56300d",
-      "title": "Друг Двалишвили — о драке против команды Усмана Нурмагомедова в Абу-Даби: «Мы всегда стоим за своих братьев до последнего издыхания»",
-      "summary": "Грузинский борец Саба Лазишвили, друг бывшего чемпиона UFC Мераба Двалишвили, прокомментировал драку, произошедшую между Двалишвили и российским борцом Усманом Нурмагомедовым вместе с их командами 11 ноября в Абу-Даби.",
+    "0d0c33299b": {
+      "key": "0d0c33299b",
+      "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ",
+      "summary": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ Советский спорт",
       "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.71,
+      "heat": 9.05,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T19:30:01+00:00",
+      "published": "2026-11-17T06:50:00+00:00",
       "refs": [
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/drug-dvalishvili-o-drake-v-abu-dabi-my-vsegda-stoim-za-svoih-bratev-do-poslednego-izdyhaniya-2475659/",
-          "title": "Друг Двалишвили — о драке против команды Усмана Нурмагомедова в Абу-Даби: «Мы всегда стоим за своих братьев до последнего издыхания»"
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHdWcm1HTGdySGJoYVZjNG5jVF9NMVN5RlJBMzZQcTJwZVVTQzZGeDFzR1FSQ1ZaM015ZHdtQWlCRXNDLU45eDhMNks2RlZ4SUtOWmNfZDZZeTRwNTJQdHdQbUcyNHdQU0ZUOWJHTmJ1Sl95Zm9vQmNqcHRweXRDUDlVelY3REN6b3gzZnVXb0FIZXpKSlBQNkctTHBJUnFlR3VoSHJiMjZwUDZKWkVTSVdQYzZoUQ?oc=5",
+          "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ"
         },
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/boxing/news-6702206-oni-ne-nastoyaschie-muzhchiny-oni-trusy-dvalishvili-ob-usmane-i-umare-nurmagomedovyh.html",
-          "title": "«Они не настоящие мужчины, они трусы». Двалишвили — об Усмане и Умаре Нурмагомедовых"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dvalishvili-zayavil-chto-slyshal-ob-osvobozhdenii-usmana-nurmagomedova-iz-tyurmy-v-abu-dabi-2475736/",
+          "title": "Двалишвили заявил, что слышал об освобождении Усмана Нурмагомедова из тюрьмы в Абу-Даби"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUmlzMDhRUWttMDZhbU1xVTRCeGxNVjZRUTV3emFwc2dkdVcyY18wMHIzZEgwN1ZhSVRzbk5iZG9QRXI5eFFIR09oVWV3dFRCUUVtUjRCMDBVRVZjOUZ3WE1VN040MWo4VWdFa2ZUWjVxNVJyNHNGcElsZ3FjaE44YUlnZGowTVNFUERpTmI2anc2eWRaVkRpZG1QcnB3bDFCai1YcVBsOUlTSUJ0MzNyeGhsb29hVWhhZllfb2wwMzBaQ19ZVUY0TXZXQS1aRG4wZnVF?oc=5",
+          "title": "Двалишвили заявил, что Усман Нурмагомедов был освобожден из тюрьмы в Абу‑Даби"
+        }
+      ]
+    },
+    "e61d444e32": {
+      "key": "e61d444e32",
+      "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе",
+      "summary": "Нуньес согласилась провести реванш с Харрисон в полулегком весе Meta MMA",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.0,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T09:15:05+00:00",
+      "refs": [
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVlHRF9LN1ZVY0JlcGF4WkdOdkpqUFJneTA4ems1eHFBaklZOTd4aG80NmpKZGlEZTVZUHIzdDdyb0pDamU0MnJjVVhQWkRtTHZoRW5oOGtYQnNNbTZBZGFrTmFnVHRYVWxud0xvaV9oSWRrTUxxczd4elVFb19jLU5PeVJ1VVBQcXg3blNtZ0JiVmRiQnplWXRKWEtMYzFnT1NxUWR3?oc=5",
+          "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xUaWxsLXdYWnIyQ3hTcWNDOTg0ZVBVQ3hnaEZ2VkRsb3hGWUMybm5GM0hzc3dTYW9SZFhCbHJKel9iWmxrY2tfZkl2V3hmRF9LUHp1RUl0QVhDQ0U3dTBTd2pneV9YU1YwLW1sQmQ4RzZBOVlkLTJWbVlfckctUHFrWHRMemNmeVNxTHVTbDczcm9ISDBCcmZpdHZlSXZCRl8tblpKU0lQSkF2a1dn?oc=5",
+          "title": "Аманда Нуньес согласилась на реванш с Кайлой Харрисон в полулегком весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRUYVNnYWtaMUhocm9aYm5aTjY0d2pQaUZuOUpUbUNFVmtvWTdBNWxTQ1drLWxmWmNtamE5a2RQQ3lFRFdCRFVEQmZNM1pORzdiSmRlR0VzNlA4YU9udEZsQUFwN1JpNF9iTHpjWGNlZUlzdzR4emdVTktQeHlkWmR3MTNJbTBhM0hua1lYNHhqMW5BclBWN0tBUkI3TEN3clU3UE56Z1RVOHZOLWJqVndVWXZLdw?oc=5",
+          "title": "Аманда Нуньес прокомментировала поражение от Харрисон на UFC 334"
+        }
+      ]
+    }
+  },
+  "sent": [
+    {
+      "key": "81f8895cbf",
+      "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых",
+      "summary": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых Независимая газета",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 26.81,
+      "published": "2026-11-17T09:23:12+00:00",
+      "refs": [
+        {
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZbzZfWG9BYUM3MFF0emxpeXNMLW5Rc094Y2F4TTlpVjJDdzE0dDZyR2JfYkg2dkhZNkZ5N09jV1R5Tno4TlctZkJn?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "NEWSru.co.il",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nX25SQktySDNKUWZtbTdtZVkyaHljekl6ZV94aHNnQjRQOWZsMHk1d0FFZTQ5SS1vc0R0VTBLcWRWSTNCM0RkMXM0cDRhQjVZNzhXYnVYMXYzZGZGQ0xZWXpRWFBxWVJxYlJDRw?oc=5",
+          "title": "В ОАЭ освободили из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых - NEWSru.co.il"
         },
         {
           "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQ3NORThBTTk5MC1jcUthV1l2QzlyalZMbHZMVk9xNmdVQ0tLa0ZGWlgwNnVtWUFqZlRxNEFVd3BzLUlZMGlDR3gxYmRIVTZnTzNGSg?oc=5",
-          "title": "Хабиб Нурмагомедов вмешался в ситуацию с задержанием Усмана"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Kai1oaGxnR3podi1KMElHWXlIQnJNNlN5RTFsYnhfYjBKX2NSd2otZDZjLWFVa2lncEVlTVlCR2s0azdIT25OaXhqdEhpRFpGLUNfSQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из тюрьмы в Абу-Даби: подробности"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdGWXNUbDdJUkdZc0szeGp3SVJ2ODNXVG52eWpGM3BRXzk5ajBHOU03dFVYQ0tRTUI5bjlHaDFYM1B5WFZVdkpWeVZ2bmVyS0h6a0NsNVZNXzF0N1Q5aWwtLUNFSno2clVpYi13aUNkQkRZRmkzckk1dXprRVNuOUtwNVhyMktkTEFFZ0tXVWxfWThmLWFwN2htYkJQYkthU2huU2xmMi1VUQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи после драки в ОАЭ"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDQwTjRlak5kSEw5OUdERFVzMjdyMGRZc1UwcjNtaC11cG1zMUhUMHR5SHlCOExUVXE3U3EycGVyWVRnbnRWck9jSDdXcUNwRDZjS05ObWZPMmQxYlpJbGtyUjlXUWI0NDMyeUZBa2xCWGpjYzlKVTllYmsxVzlDTEEtV0pNNmtFdGNjNjBBWnc5cnZKTmFCVF9MYVRuN2N3ZTJmRNIBqgFBVV95cUxOZW0wWTZEcm9BUjhwQ3lneG1iWEJHVjVtemNLclZXU19tTm9HdDVTUHpMbzJvczFIMWJ1VmhLeFV4WEtLbENPUHNPekU2bm9rRHVQWllkT3Bzck9SR0M0VlBFMkNHNnpWZzVnTmt2Z3ppYzdyNDY3cDM5QVZ2c1hZa2V3NTN5cVZHaUx5MWxjdUh0ZnVnZFdxdS02V3U0R0NhaGc4dHhib0VFZw?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи в Абу-Даби"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/mma-2132047115.html",
+          "title": "Нурмагомедовых освободили из-под стражи"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMUotRzl3Vy1ZMWdSOFlJQ3d2UVV0WnFxWUpvMndhY19reUo5TTZNQlhwa0FiQWxSYmZnTTVybC1aY3lqSWprRFlDaTdib09EaEZYYUFzT2YwREVVOTFmMm1ZUFZwbU5VOXFIdlBn0gFzQVVfeXFMTzdKUXozSndvbzR0dTd5S3ZHc3BjSHY4OHhHbjJ2UFFVWWJsTjRpUkhQRGpzS2FVcFhsZDlxYWY3VUcyTUhnWnN5MExDc3hRQTVNdlNkazV4WEgxdmxFdmhPQW51Q084QVpKeHJGMnJRY3Z2SQ?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/sud-abu-dabi-osvobodil-iz-pod-strazhi-umara-i-usmana-nurmagomedovyh-2475750/",
+          "title": "Суд Абу-Даби освободил из-под стражи Умара и Усмана Нурмагомедовых"
         }
       ]
     },
     {
-      "key": "04ef8bae79",
-      "title": "Шара Буллет ответил на слова Царукяна о том, что никогда не станет чемпионом UFC",
-      "summary": "Шара Буллет ответил на слова Царукяна о том, что никогда не станет чемпионом UFC https://www.championat.ru/",
+      "key": "8306b4acd8",
+      "title": "Nunes calls for Harrison rematch at featherweight",
+      "summary": "Amanda Nunes calls for a rematch against Kayla Harrison at featherweight after defeat by the UFC bantamweight champion on Saturday.",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.8,
+      "published": "2026-11-17T07:19:32+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm93rg2lg55qo?at_medium=RSS&at_campaign=rss",
+          "title": "Nunes calls for Harrison rematch at featherweight"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/521791/amanda-nunes-calls-for-featherweight-rematch-with-kayla-harrison-accepted",
+          "title": "Amanda Nunes calls for featherweight rematch with Kayla Harrison: ‘Accepted’"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVFYSExSTXJLNWhWRjh1elNBUkFqeUpVRzVyeW02RkpHQ056S3ExV01fVURXME9IYW51YjZjTS1OS08wN2V2OGNwZ0M3STIzSm1NaVBWZUpqaUlpSlNWTGZGWjdnRjd0cWRNU3JCTTV3d1NXMkdTM2dtZVB2MDN4ZlBicDJqeHhf?oc=5",
+          "title": "Amanda Nunes Accepts UFC Rematch With Kayla Harrison"
+        },
+        {
+          "source": "Bleacher Report",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0M0VXFiMTF1TS1CRVh5SHVXQ1NhR2o4TGFRSjRvV3VKclp0MExaeXc4ZkpxUVZ2aTdnWGZEZ0c0TWp6RWNrT1dLNEtpQ0lkQ0NZSnVndWtjVE13TGppekFzVXBjNVpCM19Ib2lzX0lrQnNsUGJ5WER6VnRHSmlVdmtfUE1pbzJ5Zzc3SFphRG1Cenp5NHRxcHFSV1BNX2V2eTBrV2h5a1FtalhlQ0wybEFtMjVkbUw3QndqdUhJZw?oc=5",
+          "title": "Amanda Nunes Responds to Kayla Harrison's UFC Title Fight Rematch Challenge in Photo"
+        },
+        {
+          "source": "The Hype Magazine",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUxUNWFhOGpNZUdjWUJpREdyM0FpbXJqaEVWQWVsUEhVX1lURXZtcXBubF9Cd0FpOUtoYVpXOWQtaXlCSGYzbWdGTEtuNWVCckpFbU1WdC1JOUJaVVRfLWlxV2RuREpxVllhd0gzQVN4TDdzMnRtZFNDb3pFS0F5SmJxZE9nYk5nb3VHbnpLSWhuR3dLT1c1Sg?oc=5",
+          "title": "UFC 334 Fallout: Gane Holds Off Hokit, Harrison Submits Nunes And The Rematch Talk Starts At 145"
+        },
+        {
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzdhUU9hbHV0dDU0THhSNEpTMlZQYWhMYThZWnh1QnQ0ZVFBM2l0c1hpRm5JT3Rka2ZiZ3dydnBja2FQN1g4VDNqQjliUHVYcmhEQVA1TTBrTGtFSDBhNHZZWThFQUFrdmo1WVhadkRvdm8yUlIwWnp3T3d6WUQ5aXFyTXYwZE8zVFRWaUgtY0h1eFlTVDVVcg?oc=5",
+          "title": "Nunes wants rematch after submission-loss to Harrison at UFC 334"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3VsREVFVXNfeUtyLWpRc3RRVzZldkpsb2paUVZ6b2RxRzBTYUFDX3FKNklRNjU3a1RuRUVkTC1yb0RDNUtiN0dvNlE5MjFLX0kxSWJaNWZwUUhCM2dSSGNadFdrSjkwaHZva3gtZkZCTHQ4czZ3cm5LMzBtaVctYnY2SGozRVRxRU41eXFHbk5ZM0dDaFg3RldKeEF6V1BPYkRZMzk2TE1nd2Z0YmRFSnFmZ2FhS3B1MUE?oc=5",
+          "title": "Amanda Nunes breaks her silence on UFC 334 loss to Kayla Harrison: ‘Back in the game’"
+        }
+      ]
+    },
+    {
+      "key": "a9461482b0",
+      "title": "Brazil XI vs Singapore – Predicted lineup and team news",
+      "summary": "Brazil XI vs Singapore – Predicted lineup and team news Yahoo Sports",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.76,
+      "published": "2026-11-17T03:56:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2luZm1PMDA0LXYyZlR0LXpOYjNpMGx6T0k1QzF6S0xlbWxPY0dEc3dlaVdldU02MmgwTlRsYm90czBwNWlCNWpXZTRJQTc5bFhaTWxpQTB3LTZFVFlpOWtLNmZ0NW5UdDZ4SkVrTTAyY1U1a0VwVTBYT3MwdkNqX3IyS05oZGdu?oc=5",
+          "title": "Brazil XI vs Singapore – Predicted lineup and team news"
+        },
+        {
+          "source": "The Football Faithful",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nZVBFZjZuT2R4dTM3QnE2S1BXdExlc0diOUdUT2hyUmJ0M2tZX0w4TVpsd3BPQ2l0bTBhaTRpcEQyRVRsaWUxd1d1T3lOZEF6RkhTSnNqNzFKaC1ISnJwajY4clRWclJzVVk5dlQzMnh4Q25I?oc=5",
+          "title": "Singapore vs Brazil – Match preview and team news"
+        },
+        {
+          "source": "日本取引所グループ",
+          "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNTXBwTFE1NDhDVjFXMFlVS2ViWDVyaFlMM1FXY25XMnc5czBpWXZyVEVUUGh0OGZDelN2eXE1bTJPNk5JQ1ZLWm1DdGdLTXhza1NhM2lFWjBDeGJhQm90WEVmc0RfeWtJQkp3TndCWW4zek9GRS1Cd2ZJTXhsVFAzUUx0aEdEWnUwdzF2amI1ZmNyQzFrU2loc1JqUmpzdVROMmlUSHdoZk10VHZWSGl2VnhRWEtRUEV0TG5ielFoVVpCZ1g5dGJxb1JWWlhkbUhmVHVITlRzU183NExnZ0JTYzJ3Y3RNcWZSZVFGd2R6SWRpYk93ek5ZZVJtR3RRMTRBMWZWUTBYdE1yYkI2c082Mk1oSWdCQ0tseERLZVBYa2dPeG9wTjRVWGJESmdycnBzZ2JkU3hoOWFnalBPcnlaQUR0UlQ1OEpsb2xqYV9rUlZDTHNuMWltSmRKdFZYdXppNUNoampva3plZHo1ei1WM3g2aWpSbzh0MVpHMnluNS00R3Q5alowQmp5YWVqaXd3Ml9lZlNQeEExQ3A5cjlvbHh3?oc=5",
+          "title": "[ＷＡＴＣＨ^ＵＬＴＲＡ-ＳＰＯＲＴＳ] Brazil vs. Singapore Football Coverage ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ (17 November 2026)"
+        },
+        {
+          "source": "Sportsdunia",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDN5ZENtM2haRjhyOGl5c1RIN29veEYtejlqRi1SOXhSWUVYdE1zMThsdFlsYzVVa3ZMV3hCam5GZnNfTlNqTEc3SFQtZTllRGRLZVhWRnJsN0drNW1hMF9Nc2VZVmctSVRpcVQ0cERPc0F5WlRtWmFEc0pLQXhHU2ZjUUhNQ1VsbHBLS0RMM01ZM3prTkhwM25kdHI2N2lOeVB3SFotNXAtZGFuTkk0?oc=5",
+          "title": "Brazil Lineup vs Singapore CONFIRMED: Endrick IN, Why NO Raphinha Today"
+        },
+        {
+          "source": "Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa2JpVDJqWE5MTV83eF9FRHd2WG91UERCWlNlbHNCcEFLM20ydjR1SXlrWFFMRTY2ckFOTkRtdnRtWmIyemdtanVzdVFHb2FwQXc3UV9TNGloMVhhODdhaWQteTktbGdLMDNJdzJkVXBTVnVoNkI4Zm5ieVZ2dklhVzZrdVRoSEVROUZzcmZBOFZpZ1RtRVR2VTQzamlzNmlEQXRYZ2tFMTdXRGdHZ212c1BNSGVrenFaOHN5Wm5ZN2V5djgxMHN6UnptUHJzMHhDM3RBeTBQTzRTXy0tX19DaTdyQWtQakw5NFM0V0dUSHJITUtvTTNwN2JhSlY?oc=5",
+          "title": "Genoa, Robinho Junior scores twice for Brazil Under-20s: Ancelotti’s national team play in Singapore at 11am Italian time"
+        },
+        {
+          "source": "懂球帝",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2eUxncTVFLXk1TTdHLWxfazlEU2JwMmtEa0p2M0pYRmk0aTlnd192RU5zT2szYkZlc29zSWlJRUdMRkV1RE9fcDAxbnFLdmc?oc=5",
+          "title": "Brazil close 2026 with first-ever Singapore friendly, Ancelotti suspended"
+        },
+        {
+          "source": "Sofascore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFJWU3hIejBqc0toSVJjV0c2a3dfWjRTRkpnLXZYaTR0ODF5NHAtbUZlZFNKQnN1T3hXbXpJalVmNEtScW5YUmRXamdxaEo1NHBuVU5YRjRYYWlrQ3pKU0JqTjlJUUhsQzAwQk9LYjM1dTJkV2tsQlN5dm80NHl6bjA1dC1pb0lUMnQ3d0JzSUUxd3RzVkZMZzZuRlY0TnhEc3VIcXpta0laLW1M?oc=5",
+          "title": "Singapore vs Brazil: Unprecedented Friendly Becomes Crucial Test for Ancelotti"
+        }
+      ]
+    },
+    {
+      "key": "6eef3bac49",
+      "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»",
+      "summary": "Американская фигуристка Эшли Вагнер опровергла информацию о том, что во время этапа Гран-при в США на арене показывали архивные кадры с плачущей Александрой Трусовой с Олимпиады-2022 в Пекине. Ранее в соцсетях разошелся смонтированный ролик, на котором Трусова и тренер Этери Тутберидзе после церемонии награждения на Skate America с недовольным видом смотрят вверх и что-то обсуждают. Пользователи п",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.18,
+      "published": "2026-11-17T09:35:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/figure-skating/1117439413-vagner-oprovergla-sluxi-o-pokaze-video-s-plachushhej-trusovoj-na-gran-.html",
+          "title": "Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали никаких видео или кадров с Олимпиады»"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmh0aFV3VnFPblNaU0E1UGh2VTV1bGhuVjltdVBxUjNyU2lBc2tBUDc3ODhhX1RMZlo4bzJnbkxPNjB2dWJKWUNnbGwzVHdzcm5qRHF1T1ZWaktzcjZ1emw3Sk11Ujk5M2JjbXJOTVNtMkctcXF2amxSSUR6WE5zSDJhejR3WHlQS3FwSkN2Z25QRmxpdmNZUjRoeTdwTTAwZkhZM3lQMHNoYVczWHF5SW9zMHJEWkpNblc4R3hCUEUxR25leWYzWXE3TQ?oc=5",
+          "title": "В США на церемонии награждения Трусовой включили кадры, как она проиграла Олимпиаду"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6702818-trusova-opublikovala-post-po-itogam-etapa-gran-pri-isu-v-ssha-gde-zavoevala-serebro.html",
+          "title": "Трусова опубликовала пост по итогам этапа Гран-при ISU в США, где завоевала серебро"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/benua-risho-ne-soglasen-s-ocenkami-nedokrutov-trusovoy-na-gran-pri-ssha-2475621/",
+          "title": "Бенуа Ришо не согласен с оценками недокрутов Трусовой на Гран-при США"
+        },
+        {
+          "source": "Вечерний Санкт-Петербург",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0VrUnU4T1RZSjBCN2pab3hDaUdid3NIZUd3M1dDV1JSbWt3UzFkVVl1WVBEam9vakU1TC1Yb2k0ZXJFcXU3R04tYlFNSkV0dXJXZjRPQUdLRG02dnkxa0s1RmVZOE9JNFJTZFJyR2ZwZTRocU9yZWZGTDZVVVFRMmJtRUQzTWNURnBRYlRTUEtrUQ?oc=5",
+          "title": "Россиянка Трусова стала второй на этапе Гран-при США"
+        }
+      ]
+    },
+    {
+      "key": "63e5a64ca6",
+      "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ",
+      "summary": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ Sportbox Дивеев: «Как только начались слухи, что Батраков может куда‑то перейти, я ему сразу сказал: «Лех, даже не думай — уезжай» Матч ТВ «Великолепный век» Батракова: как «Галатасарай» зарабатывает на российском футболисте Forbes.ru Батраков будет стоить как десять Роналду после переподпи",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.8,
+      "published": "2026-11-17T08:47:02+00:00",
+      "refs": [
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVDZjRGNHUzA5VWZoT3AwNUJWbE5YUWt3TkhRRU1GTDN3ZXBidGw1MnRLdExVR3hXMzJNckZNRnFXckpsaUtSOWpWeGU1Wjc2VlFEbGR0NDl5UG5mZ3A3QkZ5Z2JVZXI0YU0xSElKTG5mRWFybjdraldZa2x5aG1TUk9weXQ5bG9KYVlYRzU1MUV4dUFkeldnU3VmcXBhNVV0U25ZQnBjeHlZalBXVlhpSWRKZWl4TUZpX0ItUjIxcW5WZ2dPYVJIQXhkdVJRWDRydmpLMnZGT3I0RWc2YW1BNzZCM05IdElJLTVOSmV4a01QQzZvZXFv?oc=5",
+          "title": "Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батракова — СМИ"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6702814-predstaviteli-barselony-i-bavarii-priedut-posmotret-na-igru-batrakova-v-matche-lch.html",
+          "title": "Представители «Барселоны» и «Баварии» приедут посмотреть на игру Батракова в матче ЛЧ"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/transfers/news/fanatik-skauty-bavarii-i-barselony-posmotryat-za-igroy-batrakova-v-matche-galatasaraya-v-lige-chempionov-2475798/",
+          "title": "Fanatik: скауты «Баварии» и «Барселоны» посмотрят за игрой Батракова в матче «Галатасарая» в Лиге чемпионов"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/batrakov-2132072942.html",
+          "title": "Скауты \"Баварии\" и \"Барсы\" приедут на матч \"Галатасарая\" ради Батракова"
+        }
+      ]
+    }
+  ],
+  "sent_at": "2026-11-17T09:45:04+00:00",
+  "tg_offset": 360028013,
+  "combat": [
+    {
+      "key": "81f8895cbf",
+      "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых",
+      "summary": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых Независимая газета",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 8,
+      "growth": 0,
+      "heat": 20.81,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T09:23:12+00:00",
+      "refs": [
+        {
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZbzZfWG9BYUM3MFF0emxpeXNMLW5Rc094Y2F4TTlpVjJDdzE0dDZyR2JfYkg2dkhZNkZ5N09jV1R5Tno4TlctZkJn?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "NEWSru.co.il",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nX25SQktySDNKUWZtbTdtZVkyaHljekl6ZV94aHNnQjRQOWZsMHk1d0FFZTQ5SS1vc0R0VTBLcWRWSTNCM0RkMXM0cDRhQjVZNzhXYnVYMXYzZGZGQ0xZWXpRWFBxWVJxYlJDRw?oc=5",
+          "title": "В ОАЭ освободили из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых - NEWSru.co.il"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Kai1oaGxnR3podi1KMElHWXlIQnJNNlN5RTFsYnhfYjBKX2NSd2otZDZjLWFVa2lncEVlTVlCR2s0azdIT25OaXhqdEhpRFpGLUNfSQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из тюрьмы в Абу-Даби: подробности"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdGWXNUbDdJUkdZc0szeGp3SVJ2ODNXVG52eWpGM3BRXzk5ajBHOU03dFVYQ0tRTUI5bjlHaDFYM1B5WFZVdkpWeVZ2bmVyS0h6a0NsNVZNXzF0N1Q5aWwtLUNFSno2clVpYi13aUNkQkRZRmkzckk1dXprRVNuOUtwNVhyMktkTEFFZ0tXVWxfWThmLWFwN2htYkJQYkthU2huU2xmMi1VUQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи после драки в ОАЭ"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDQwTjRlak5kSEw5OUdERFVzMjdyMGRZc1UwcjNtaC11cG1zMUhUMHR5SHlCOExUVXE3U3EycGVyWVRnbnRWck9jSDdXcUNwRDZjS05ObWZPMmQxYlpJbGtyUjlXUWI0NDMyeUZBa2xCWGpjYzlKVTllYmsxVzlDTEEtV0pNNmtFdGNjNjBBWnc5cnZKTmFCVF9MYVRuN2N3ZTJmRNIBqgFBVV95cUxOZW0wWTZEcm9BUjhwQ3lneG1iWEJHVjVtemNLclZXU19tTm9HdDVTUHpMbzJvczFIMWJ1VmhLeFV4WEtLbENPUHNPekU2bm9rRHVQWllkT3Bzck9SR0M0VlBFMkNHNnpWZzVnTmt2Z3ppYzdyNDY3cDM5QVZ2c1hZa2V3NTN5cVZHaUx5MWxjdUh0ZnVnZFdxdS02V3U0R0NhaGc4dHhib0VFZw?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи в Абу-Даби"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/mma-2132047115.html",
+          "title": "Нурмагомедовых освободили из-под стражи"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMUotRzl3Vy1ZMWdSOFlJQ3d2UVV0WnFxWUpvMndhY19reUo5TTZNQlhwa0FiQWxSYmZnTTVybC1aY3lqSWprRFlDaTdib09EaEZYYUFzT2YwREVVOTFmMm1ZUFZwbU5VOXFIdlBn0gFzQVVfeXFMTzdKUXozSndvbzR0dTd5S3ZHc3BjSHY4OHhHbjJ2UFFVWWJsTjRpUkhQRGpzS2FVcFhsZDlxYWY3VUcyTUhnWnN5MExDc3hRQTVNdlNkazV4WEgxdmxFdmhPQW51Q084QVpKeHJGMnJRY3Z2SQ?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/sud-abu-dabi-osvobodil-iz-pod-strazhi-umara-i-usmana-nurmagomedovyh-2475750/",
+          "title": "Суд Абу-Даби освободил из-под стражи Умара и Усмана Нурмагомедовых"
+        }
+      ]
+    },
+    {
+      "key": "5e0bec3703",
+      "title": "Боец Александр Волков подписал новый контракт с UFC",
+      "summary": "Боец Александр Волков подписал новый контракт с UFC Советский спорт",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 14.47,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T08:57:00+00:00",
+      "refs": [
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1F4OGFOSDFWR3ZwNnBGclBSY2d3OW82MEhaMW1tWlA5UWt6S0J1ZHBmd1dsdnRMMWR3NWF5RWtZc1pySnllcHBQTk4zNURrWnlSM2RpYlMyMm54UFFBT2lqMkF3Q2k1U1JoNXk4a0xOcnZyZG02VGNwNG0tZXRVWWJWVUYyUUE3SGRTZnlR?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSWo4QkFlaWJFVV9UNnJKd25QbmJkN3B5azdqUzZkNDdiQ3JKVkItenlEc0lXYjgtQ1Z4TmVDNUJvWXZHeVUzY0hPVTZCUldRdHZrSHFLZ1lvVU0wYWVrSVhQV0JTV21DTi04V2NBTjB1MFBfaTdVRnROTzNrM0tjaWowbG1BMDJXSGsyWXk0a1BDeG1QU3BndGo1V1h6V0N3NjVPMnRDSkZWZ2lYNm5tTDI5T09xSXg0ZVM2RzN6a0Rscll0WTdHSF9aUHpWSzRHbWsxeXFWQmxna25DdTFkbDRUWkU5d1BpM2FvWDZ5cHVoaS0yX0FfVU45TDMwa09ONklwSExDalBhMkd6MHJTNTN1ZEtna3NLTGtUWG5B?oc=5",
+          "title": "Менеджер Волкова: «Александр подписал новый контракт с UFC на улучшенных условиях. Обсуждаем чемпионский бой уже сейчас»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/aleksandr-volkov-podpisal-novyy-kontrakt-s-ufc-2475787/",
+          "title": "Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGE5UXBGX1dJNFVlRGJxMi1MM0ttNFA1MVFKcWtlc2RRVm1aRVZHVDhlTXptdjNCdW04cU1QOXV6TktXTGN2R19SelVQYzVtcGJENGVob1VpWlpTbEYzbkxBV0dNaTh0RHVsMWR6YUNuaU9TRnFLZEJ2X2M5T3VXZmphTHROZGFlLWZpYUJBanY4QQ?oc=5",
+          "title": "Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9KSVQ0TGJqSWdLclV5aGxtd0tsYkMwaW4zaGpaRXpoeXVxSGladFp4dnQtWlZfWlNNQXV5YmhIS0E4cWtBanJ0RlZpOW4tX1NUanhsaGJJV1lGWDZYOFo1ZTJScy12S1BnSlRLUkt2MkgtcjY5ZEFzNWVFazlKVU5GNjJQa0Q2NHc2YkJVRFBYUdIBlwFBVV95cUxOa2ZuSjJnblFiNFZlc3BBekUzOVRWMHpDOE9nZnZzQ2w4cHNDbTd0VmZUUVdJeXk1dmlfQUJnajJEZl9SSG9RM3h0bUE3ZjQyVU0xTEl3eW1yN2VCNjFab2lpaHJORTk5Y2MxaDUtamJ0Y3pXVjUxY0N1Sm5jTl9uQVV1dy1LV1lONjQ4RDE3UVR2MVh6bXRN?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        }
+      ]
+    },
+    {
+      "key": "8a97d02d12",
+      "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’",
+      "summary": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’ Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.87,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T08:00:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDZSN2FLVXhZZTFyWGxsR0hTeEc4YXN1cHB1d1lWS2dCd1BtVzVHWW1FR0tuNlVNRHBRSWJJWU5IRXdQLW1YTkZBbG1VR0JXR0cxWHJkcGVxekZlSDlsYThrR0VEb3lldHcxRVd2SlNscUNEXzBzZmJtUVZ4bnVwYXZJdTAzcVlp?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGtTemdvN1FORzJHVW1JMlEtUzZzbDFKd19VZTZKaUlDbmxSTXNkRmpkTDNrUG8zbTJINThfNWEwM01pSjlhS21NeEpBX1AyNDdlbDRfLU5TZC1RLUpWUmRkcWJ6UUlYUm1zbHVFR1FkUUFCaUIxbWRXeWpHWGRlQVFzeGozTlJJSzdMSWJfSC1ONGc0TG9kZ1JDeklpeHpuVVZBeVhQNTh2R3VMcDFUekhhMGhhTGtJZEtzaWJzVkdUWmFfWmFKSkZlZ0N1UQ?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2hJU2tfNG1OektZZElHN1RLU21sdHFYeFVYMnV0S1pRbVlxTTk1d0JOeXBLZC1qMmM5U3daeVlVQnFmamV5WGM4S3dMN2NYUkgxOHBpT0otUDgxZllIaTJHTks5WWtaWkhRaHA5WlBXa1JrTjhfMmhQRHdyR0prMjVvSW42WjN2SGUxQ3FMUVYxMWhJYjZPZ2VvUk1zSjBHaFJQVktZNjlNWGVEWXc?oc=5",
+          "title": "Shara Magomedov’s Wife Agrees to Second Marriage: UFC Star Says One Wife Isn’t Enough"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEkzNHVVV2xwTGxydjlMUHFTZ1Nzb3l2UHRIUkJ2Um52OEN2ZXhISzBETkl5YXk0VVlJaGhwTVFlZmdvNWk2RzRyZ3c2V1lTSnRGamFUYl9WdGpjZFlCakZtRGxfeWNGNHc3cWwzZ2xYa0kyNTJaTUxocHlVTW5wR2F2R1BZb0VhS05CY2d6X1gwSkhQS19rMjVWamw3V2poZEZyNU0xc2xYcWZhcmQ2UGtydDNjTFloYnVzdXNNSk5lbDkwX21v?oc=5",
+          "title": "UFC Saudi Arabia: Several new bouts added to Israel Adesanya vs. Shara Magomedov fight card"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTZwcnhPR3ZaQktweGpQOGtkRlh1S3QyaHQwRFlVMEluNmhKQjlvRTRZME9RcGJaODRhaDNwbFUyWl9BU3M4UzdDaGVtVjBDd0RDcnlQSEwtZ0xUZnBYMm9oNHg4REJESnRDYm04Rm5PRDNqOVFiTHpfV1gyN2xHOTNzVDRVTlA5N3hSMWNCRnRKbExsVmkxNVp0S1FRTm40VTRVQjJEejNQOGwtcE9Z?oc=5",
+          "title": "UFC Saudi Arabia Headliner Claims He Rejected Massive Bribe to Throw UFC Fight"
+        }
+      ]
+    },
+    {
+      "key": "0d0c33299b",
+      "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ",
+      "summary": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ Советский спорт",
       "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.64,
+      "heat": 9.05,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T18:47:08+00:00",
+      "published": "2026-11-17T06:50:00+00:00",
       "refs": [
         {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb05FR2ZzU2pqd2RaX1dYNUxNQWJaZUF1TGh1MkF0Rl85SGhhRHBhMFgwMy1OeDIyajd6eDh4V1hrWFN6bDJPblgyRmw3T1BUbkx0cmJkdlBvcjktVnJ5dDBiOEZoNEtpZU9KNUNEYV9ObXg0T0lQeVN5Y05LdmFiZllZS2c5cmlxQlJkM05aUHFMd3VHMVJDYktyOFFDVVNIb0ctaVhvclhrNTJvN2tuN3NxWGhlWVpyak5obUN6cXhNU05NMHFkb0dsVnpwVTQ?oc=5",
-          "title": "Шара Буллет ответил на слова Царукяна о том, что никогда не станет чемпионом UFC"
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHdWcm1HTGdySGJoYVZjNG5jVF9NMVN5RlJBMzZQcTJwZVVTQzZGeDFzR1FSQ1ZaM015ZHdtQWlCRXNDLU45eDhMNks2RlZ4SUtOWmNfZDZZeTRwNTJQdHdQbUcyNHdQU0ZUOWJHTmJ1Sl95Zm9vQmNqcHRweXRDUDlVelY3REN6b3gzZnVXb0FIZXpKSlBQNkctTHBJUnFlR3VoSHJiMjZwUDZKWkVTSVdQYzZoUQ?oc=5",
+          "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ"
         },
         {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmFnb3J6dWtiQUF6alpoY09UV3hyLVpMcHBSTUh5LUxUczR1azFkT2lva3BKZlhJWEotV0RlM1J1bkdsQTlONnBEblJ5dDd1cldUQ09OdVlTZGtfeXk3SHkyUkxHUTlFeHA1ZlVtaW1VRlpuU0Q3RnhIdGR6andCckNYSmpxajAzOGM0N2w2SjluWERCWDdYRVVZOXB1SGV5dEdZ?oc=5",
-          "title": "Шара Буллет рассказал, какой совет ему дал Криштиану Роналду"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dvalishvili-zayavil-chto-slyshal-ob-osvobozhdenii-usmana-nurmagomedova-iz-tyurmy-v-abu-dabi-2475736/",
+          "title": "Двалишвили заявил, что слышал об освобождении Усмана Нурмагомедова из тюрьмы в Абу-Даби"
         },
         {
-          "source": "Offside.kz",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTFaTVU4RFNBWnlUOTF6R1I2WjlkLVVvUUxFN3RTMUhCamhzY3p3Y0oyWVhkLTA5OTlxXzEzVXEyRnBOSmJQWGJ2UEFYdDVENTR5LWZRNjA0c0xLZ1FrT1Y1Vl9JbHJEN21TbVJybFl6TjdjUTR3bUZ3NGk5Vk16VjY5c2ppVC13eU5ndUpwdw?oc=5",
-          "title": "Шара Буллет заявил, что ему предлагали проиграть бой в UFC за деньги"
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUmlzMDhRUWttMDZhbU1xVTRCeGxNVjZRUTV3emFwc2dkdVcyY18wMHIzZEgwN1ZhSVRzbk5iZG9QRXI5eFFIR09oVWV3dFRCUUVtUjRCMDBVRVZjOUZ3WE1VN040MWo4VWdFa2ZUWjVxNVJyNHNGcElsZ3FjaE44YUlnZGowTVNFUERpTmI2anc2eWRaVkRpZG1QcnB3bDFCai1YcVBsOUlTSUJ0MzNyeGhsb29hVWhhZllfb2wwMzBaQ19ZVUY0TXZXQS1aRG4wZnVF?oc=5",
+          "title": "Двалишвили заявил, что Усман Нурмагомедов был освобожден из тюрьмы в Абу‑Даби"
         }
       ]
     },
     {
-      "key": "7ce00d92ec",
-      "title": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane",
-      "summary": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane Yahoo Sports",
-      "lang": "en",
+      "key": "e61d444e32",
+      "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе",
+      "summary": "Нуньес согласилась провести реванш с Харрисон в полулегком весе Meta MMA",
+      "lang": "ru",
       "sport": "combat",
-      "outlets": 2,
+      "outlets": 3,
       "growth": 0,
-      "heat": 7.02,
+      "heat": 9.0,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T19:32:45+00:00",
+      "published": "2026-11-17T09:15:05+00:00",
       "refs": [
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aUzFtdUc3VVhvNWx5alFFbG5pdnNxVXd1QUhOcGxZOEZieDRQTk5sSktxMG8xdTVGcXlYUENxSzJlN1VrS09rV2sya3FLa21jYnBSYUprV2gzMk5yemdLSlRKZF80c0czRGNscWh3T3FCQVlWVW9EaVNTWWdjUQ?oc=5",
-          "title": "UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane"
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVlHRF9LN1ZVY0JlcGF4WkdOdkpqUFJneTA4ems1eHFBaklZOTd4aG80NmpKZGlEZTVZUHIzdDdyb0pDamU0MnJjVVhQWkRtTHZoRW5oOGtYQnNNbTZBZGFrTmFnVHRYVWxud0xvaV9oSWRrTUxxczd4elVFb19jLU5PeVJ1VVBQcXg3blNtZ0JiVmRiQnplWXRKWEtMYzFnT1NxUWR3?oc=5",
+          "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе"
         },
         {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ3N4UFJuQ0xFRWtFdE1QUk9CeXp1UUpOOG1ZeEVmc2RjODR6a0N5NHZxVDdPajRlZ2w5ODVsQXdKaElkY1E1eFdpMnZEWW13NU9wajY5UlhxR1Z5ZC1ZM1dNZUZla2pJZzFRU1BqNWFITUJQbFB3QUp3U190V2FPTVpnYXJSWnZmNEVoRmY1dDI0aUMxZjJrckxsanRyNkpPY3J1cl9yVGVpcG1OMkVqc3ROeE01UVFwZmxEUHNDQm5WVm0zY1ZtOTFRRFk0UjVYcGNETjlQeVB2UW9uNmZMNGpYV2VkM1pyQWFqZVp2cW9vZllkR2NPSEFQNA?oc=5",
-          "title": "Alex Pereira thought Josh Hokit was robbed vs. Ciryl Gane at UFC 334"
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xUaWxsLXdYWnIyQ3hTcWNDOTg0ZVBVQ3hnaEZ2VkRsb3hGWUMybm5GM0hzc3dTYW9SZFhCbHJKel9iWmxrY2tfZkl2V3hmRF9LUHp1RUl0QVhDQ0U3dTBTd2pneV9YU1YwLW1sQmQ4RzZBOVlkLTJWbVlfckctUHFrWHRMemNmeVNxTHVTbDczcm9ISDBCcmZpdHZlSXZCRl8tblpKU0lQSkF2a1dn?oc=5",
+          "title": "Аманда Нуньес согласилась на реванш с Кайлой Харрисон в полулегком весе"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRUYVNnYWtaMUhocm9aYm5aTjY0d2pQaUZuOUpUbUNFVmtvWTdBNWxTQ1drLWxmWmNtamE5a2RQQ3lFRFdCRFVEQmZNM1pORzdiSmRlR0VzNlA4YU9udEZsQUFwN1JpNF9iTHpjWGNlZUlzdzR4emdVTktQeHlkWmR3MTNJbTBhM0hua1lYNHhqMW5BclBWN0tBUkI3TEN3clU3UE56Z1RVOHZOLWJqVndVWXZLdw?oc=5",
+          "title": "Аманда Нуньес прокомментировала поражение от Харрисон на UFC 334"
         }
       ]
     }
   ],
   "combat_sent": [
     {
-      "key": "7c6678ffc3",
-      "title": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334",
-      "summary": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334 MMA Sucka",
-      "lang": "en",
+      "key": "81f8895cbf",
+      "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых",
+      "summary": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых Независимая газета",
+      "lang": "ru",
       "sport": "combat",
-      "outlets": 4,
+      "outlets": 8,
       "growth": 0,
-      "heat": 11.62,
+      "heat": 20.81,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T07:35:03+00:00",
+      "published": "2026-11-17T09:23:12+00:00",
       "refs": [
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDJVdjdUQm9zT0YyRW50a19LZUY0aHVCTXdCSmtrSEtGcEVyNVJfZlhiMTJpU1hBZkZvYzhQRHlpU3A3YXplTW1XNU1ORzZEcTVFOTM3R1NQY2czT0lUUWtTZTdhSFBmQy1VMnYzSlExXzhvMHNTSnBFS2I4VjFHT0NFWG9sUTVOYU1fYWRDbGVUcXExU2t2WFpR?oc=5",
-          "title": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334"
+          "source": "Независимая газета",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZbzZfWG9BYUM3MFF0emxpeXNMLW5Rc094Y2F4TTlpVjJDdzE0dDZyR2JfYkg2dkhZNkZ5N09jV1R5Tno4TlctZkJn?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
         },
         {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVPUFcyTDNfdVNBbEFfdHQzX01nUHZvZjdGLWhMMXpuLVBSZGxvUFV3RE5PTWcyMnU2ZGFRSTlCSXhPekxabDF2SkM1YmgtOWJCbmtSem1JRXpMLUhFWVdCaGNDeWR5aW1BQktnTVpXbmhIcU9DNDE4TnJWV2MzbHlhVQ?oc=5",
-          "title": "Bruce Buffer Reacts to Hokit’s Middle Finger at UFC 334"
+          "source": "NEWSru.co.il",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nX25SQktySDNKUWZtbTdtZVkyaHljekl6ZV94aHNnQjRQOWZsMHk1d0FFZTQ5SS1vc0R0VTBLcWRWSTNCM0RkMXM0cDRhQjVZNzhXYnVYMXYzZGZGQ0xZWXpRWFBxWVJxYlJDRw?oc=5",
+          "title": "В ОАЭ освободили из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых - NEWSru.co.il"
         },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Kai1oaGxnR3podi1KMElHWXlIQnJNNlN5RTFsYnhfYjBKX2NSd2otZDZjLWFVa2lncEVlTVlCR2s0azdIT25OaXhqdEhpRFpGLUNfSQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из тюрьмы в Абу-Даби: подробности"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmdGWXNUbDdJUkdZc0szeGp3SVJ2ODNXVG52eWpGM3BRXzk5ajBHOU03dFVYQ0tRTUI5bjlHaDFYM1B5WFZVdkpWeVZ2bmVyS0h6a0NsNVZNXzF0N1Q5aWwtLUNFSno2clVpYi13aUNkQkRZRmkzckk1dXprRVNuOUtwNVhyMktkTEFFZ0tXVWxfWThmLWFwN2htYkJQYkthU2huU2xmMi1VUQ?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи после драки в ОАЭ"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDQwTjRlak5kSEw5OUdERFVzMjdyMGRZc1UwcjNtaC11cG1zMUhUMHR5SHlCOExUVXE3U3EycGVyWVRnbnRWck9jSDdXcUNwRDZjS05ObWZPMmQxYlpJbGtyUjlXUWI0NDMyeUZBa2xCWGpjYzlKVTllYmsxVzlDTEEtV0pNNmtFdGNjNjBBWnc5cnZKTmFCVF9MYVRuN2N3ZTJmRNIBqgFBVV95cUxOZW0wWTZEcm9BUjhwQ3lneG1iWEJHVjVtemNLclZXU19tTm9HdDVTUHpMbzJvczFIMWJ1VmhLeFV4WEtLbENPUHNPekU2bm9rRHVQWllkT3Bzck9SR0M0VlBFMkNHNnpWZzVnTmt2Z3ppYzdyNDY3cDM5QVZ2c1hZa2V3NTN5cVZHaUx5MWxjdUh0ZnVnZFdxdS02V3U0R0NhaGc4dHhib0VFZw?oc=5",
+          "title": "Усмана и Умара Нурмагомедовых освободили из-под стражи в Абу-Даби"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261117/mma-2132047115.html",
+          "title": "Нурмагомедовых освободили из-под стражи"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMMUotRzl3Vy1ZMWdSOFlJQ3d2UVV0WnFxWUpvMndhY19reUo5TTZNQlhwa0FiQWxSYmZnTTVybC1aY3lqSWprRFlDaTdib09EaEZYYUFzT2YwREVVOTFmMm1ZUFZwbU5VOXFIdlBn0gFzQVVfeXFMTzdKUXozSndvbzR0dTd5S3ZHc3BjSHY4OHhHbjJ2UFFVWWJsTjRpUkhQRGpzS2FVcFhsZDlxYWY3VUcyTUhnWnN5MExDc3hRQTVNdlNkazV4WEgxdmxFdmhPQW51Q084QVpKeHJGMnJRY3Z2SQ?oc=5",
+          "title": "В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/sud-abu-dabi-osvobodil-iz-pod-strazhi-umara-i-usmana-nurmagomedovyh-2475750/",
+          "title": "Суд Абу-Даби освободил из-под стражи Умара и Усмана Нурмагомедовых"
+        }
+      ]
+    },
+    {
+      "key": "5e0bec3703",
+      "title": "Боец Александр Волков подписал новый контракт с UFC",
+      "summary": "Боец Александр Волков подписал новый контракт с UFC Советский спорт",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 14.47,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T08:57:00+00:00",
+      "refs": [
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1F4OGFOSDFWR3ZwNnBGclBSY2d3OW82MEhaMW1tWlA5UWt6S0J1ZHBmd1dsdnRMMWR3NWF5RWtZc1pySnllcHBQTk4zNURrWnlSM2RpYlMyMm54UFFBT2lqMkF3Q2k1U1JoNXk4a0xOcnZyZG02VGNwNG0tZXRVWWJWVUYyUUE3SGRTZnlR?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSWo4QkFlaWJFVV9UNnJKd25QbmJkN3B5azdqUzZkNDdiQ3JKVkItenlEc0lXYjgtQ1Z4TmVDNUJvWXZHeVUzY0hPVTZCUldRdHZrSHFLZ1lvVU0wYWVrSVhQV0JTV21DTi04V2NBTjB1MFBfaTdVRnROTzNrM0tjaWowbG1BMDJXSGsyWXk0a1BDeG1QU3BndGo1V1h6V0N3NjVPMnRDSkZWZ2lYNm5tTDI5T09xSXg0ZVM2RzN6a0Rscll0WTdHSF9aUHpWSzRHbWsxeXFWQmxna25DdTFkbDRUWkU5d1BpM2FvWDZ5cHVoaS0yX0FfVU45TDMwa09ONklwSExDalBhMkd6MHJTNTN1ZEtna3NLTGtUWG5B?oc=5",
+          "title": "Менеджер Волкова: «Александр подписал новый контракт с UFC на улучшенных условиях. Обсуждаем чемпионский бой уже сейчас»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/aleksandr-volkov-podpisal-novyy-kontrakt-s-ufc-2475787/",
+          "title": "Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGE5UXBGX1dJNFVlRGJxMi1MM0ttNFA1MVFKcWtlc2RRVm1aRVZHVDhlTXptdjNCdW04cU1QOXV6TktXTGN2R19SelVQYzVtcGJENGVob1VpWlpTbEYzbkxBV0dNaTh0RHVsMWR6YUNuaU9TRnFLZEJ2X2M5T3VXZmphTHROZGFlLWZpYUJBanY4QQ?oc=5",
+          "title": "Александр Волков подписал новый контракт с UFC"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTl9KSVQ0TGJqSWdLclV5aGxtd0tsYkMwaW4zaGpaRXpoeXVxSGladFp4dnQtWlZfWlNNQXV5YmhIS0E4cWtBanJ0RlZpOW4tX1NUanhsaGJJV1lGWDZYOFo1ZTJScy12S1BnSlRLUkt2MkgtcjY5ZEFzNWVFazlKVU5GNjJQa0Q2NHc2YkJVRFBYUdIBlwFBVV95cUxOa2ZuSjJnblFiNFZlc3BBekUzOVRWMHpDOE9nZnZzQ2w4cHNDbTd0VmZUUVdJeXk1dmlfQUJnajJEZl9SSG9RM3h0bUE3ZjQyVU0xTEl3eW1yN2VCNjFab2lpaHJORTk5Y2MxaDUtamJ0Y3pXVjUxY0N1Sm5jTl9uQVV1dy1LV1lONjQ4RDE3UVR2MVh6bXRN?oc=5",
+          "title": "Боец Александр Волков подписал новый контракт с UFC"
+        }
+      ]
+    },
+    {
+      "key": "8a97d02d12",
+      "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’",
+      "summary": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’ Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.87,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-17T08:00:00+00:00",
+      "refs": [
         {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDFXbzZyekhnaUNDN005bDVGZ1F3c0ZaaVhsM094N2ZQRFJhOFA2TUNBWUJqQjc5R2V5NHV4YlQyeWxRaTh5TmhUV3NEZmdrVUVVTG1kc2ktVnQzbnBaeGdFb1M1cThkdElYaXBqbDhvN2tQd1dyUXhySkJndWtUUllJXy1fQQ?oc=5",
-          "title": "Bruce Buffer reacts to Josh Hokit’s middle finger at UFC 334: ‘I can only take so much’"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDZSN2FLVXhZZTFyWGxsR0hTeEc4YXN1cHB1d1lWS2dCd1BtVzVHWW1FR0tuNlVNRHBRSWJJWU5IRXdQLW1YTkZBbG1VR0JXR0cxWHJkcGVxekZlSDlsYThrR0VEb3lldHcxRVd2SlNscUNEXzBzZmJtUVZ4bnVwYXZJdTAzcVlp?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
         },
         {
           "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTJqMUR4Smw0RnBIWVVCWjEwRjhELUxDWUlENUE0TnoxMUdRU0hyVUZ4UXVrN0F4YUg0MHgzVklDSEF3dEU0dzdVMjJzVUcwYnRFRzFJOHlscHRIeWhEdjFoNXVXanpQTFNJMlRmTXdzMWZsaWZtZk44T1dPeThnc21LX1B3alRSbG5Gc0hiNjFfWUNiV1NNQk5iNWVNYkdpTlNXbmpBUkxQV1l3NzBmVENBUGpwbXBDa0xsQW1FTVpUVG90NElVcG15R2c3WkJKcVZXQzdxM2R1OUkwTkZMZ1NYeGJqaWpxZDhtU0stLVlWWWQzQ2tZUTdleXR5Qi10?oc=5",
-          "title": "Bruce Buffer reacts to Josh Hokit’s middle finger at UFC 334: ‘I can only take so much’"
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGtTemdvN1FORzJHVW1JMlEtUzZzbDFKd19VZTZKaUlDbmxSTXNkRmpkTDNrUG8zbTJINThfNWEwM01pSjlhS21NeEpBX1AyNDdlbDRfLU5TZC1RLUpWUmRkcWJ6UUlYUm1zbHVFR1FkUUFCaUIxbWRXeWpHWGRlQVFzeGozTlJJSzdMSWJfSC1ONGc0TG9kZ1JDeklpeHpuVVZBeVhQNTh2R3VMcDFUekhhMGhhTGtJZEtzaWJzVkdUWmFfWmFKSkZlZ0N1UQ?oc=5",
+          "title": "UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2hJU2tfNG1OektZZElHN1RLU21sdHFYeFVYMnV0S1pRbVlxTTk1d0JOeXBLZC1qMmM5U3daeVlVQnFmamV5WGM4S3dMN2NYUkgxOHBpT0otUDgxZllIaTJHTks5WWtaWkhRaHA5WlBXa1JrTjhfMmhQRHdyR0prMjVvSW42WjN2SGUxQ3FMUVYxMWhJYjZPZ2VvUk1zSjBHaFJQVktZNjlNWGVEWXc?oc=5",
+          "title": "Shara Magomedov’s Wife Agrees to Second Marriage: UFC Star Says One Wife Isn’t Enough"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEkzNHVVV2xwTGxydjlMUHFTZ1Nzb3l2UHRIUkJ2Um52OEN2ZXhISzBETkl5YXk0VVlJaGhwTVFlZmdvNWk2RzRyZ3c2V1lTSnRGamFUYl9WdGpjZFlCakZtRGxfeWNGNHc3cWwzZ2xYa0kyNTJaTUxocHlVTW5wR2F2R1BZb0VhS05CY2d6X1gwSkhQS19rMjVWamw3V2poZEZyNU0xc2xYcWZhcmQ2UGtydDNjTFloYnVzdXNNSk5lbDkwX21v?oc=5",
+          "title": "UFC Saudi Arabia: Several new bouts added to Israel Adesanya vs. Shara Magomedov fight card"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTZwcnhPR3ZaQktweGpQOGtkRlh1S3QyaHQwRFlVMEluNmhKQjlvRTRZME9RcGJaODRhaDNwbFUyWl9BU3M4UzdDaGVtVjBDd0RDcnlQSEwtZ0xUZnBYMm9oNHg4REJESnRDYm04Rm5PRDNqOVFiTHpfV1gyN2xHOTNzVDRVTlA5N3hSMWNCRnRKbExsVmkxNVp0S1FRTm40VTRVQjJEejNQOGwtcE9Z?oc=5",
+          "title": "UFC Saudi Arabia Headliner Claims He Rejected Massive Bribe to Throw UFC Fight"
         }
       ]
     },
     {
-      "key": "ef4375ba5d",
-      "title": "Шара Буллет раскрыл подробности предложения сдать бой в UFC за 100 млн",
-      "summary": "Шара Буллет раскрыл подробности предложения сдать бой в UFC за 100 млн StavkiPrognozy.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.97,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T07:06:12+00:00",
-      "refs": [
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3ZiQ2VXYzE1clZxRmQycFNRMmNFaEowZ25VUFlaRjllN21ZbHRTYmNOcm1QcnM4eHFCNGJ3V3FkeEJHVDZZbkFkX1E2a3ZleTA4d3k2eXB5WFBMSmZfTmlBb0FNSEJNdGVfTkU3YmxGU1o5LWU3eVhNSEU5TFd0WGY0ZW81YVRzMzd2bTFOOG14VWZPbUdGTjRCN3o3bWJoN0p6STJtd9IBrAFBVV95cUxOSEppRUI0LV9iY3ZZTkJhaG1OVFJFVUtrdmpocWRKelRranZwQXJoN28xaExoT1d6RDFwdjU5Yy1vWnRHdkhxWHJzR3BEMkxDbm15MTJTck0wanRleGlVd1dZVlVsSm5rYk9jOF9vM0NVT25lLXFFcnVfNFdSMXdvSEZaczhkREU4TnF3WFZubGVrcEhJaXY4Uk1RdnlvMG1fNG5pMWljcFdMeVhy?oc=5",
-          "title": "Шара Буллет рассказал о предложении сдать бой в UFC за 100 млн рублей"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/boxing/1117438322-shara-bullet-xochet-vzyat-vtoruyu-zhenu-u-vsex-musulman-est-takaya-opc.html",
-          "title": "Шара Буллет хочет взять вторую жену: «У всех мусульман есть такая опция. Моя жена согласилась»"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzJ0b0FaQTE1RmN6MEVqYXNpRlBnbXZObUZRWXhOMzhYYjROUjhQRXZjTkVYdWlsU09WbzU4ZWQ3M3llZmxJQmRYTlBySjVpOHBJMlRsQ1I4b2c5cUpKT0FBblVDcTdxVVotUnBxNzhNM1BqTXhBRms5QTh1WUZ1ZXNQVTFUa1BhSTVTNkJ1OVFXV1Rud2JFZi1paHhodmtKdm1iZHBXRURsU0pfUmxvaUdhU1V0TXBpTUV6ZktCcmRkTHloLWJ2NmtVZlo4dw?oc=5",
-          "title": "Шара Буллет рассказал, что ему предлагали 100 миллионов рублей за поражение от Олексейчука"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGhfYVFjQ0ZsY0V2MTdhZmduYnBVUUdGQlFkYnJhRGRCV2pZQUZkdGItZWpjV2xwUW9YNkh0V19TQzRtX0hmUndmYjJXLUtZYmtvQVR1VkpGN3hGMVVsVWQ3bTV0V041MUtOZTJEWjJ1eHhUUmtqcUFxNnZLVUtWWkVpUWJzWXFldkVrdWpFaGFlTXphcXM2QlE2ZzNFYkVGTTlqQXVuQ3hKWUxVVnFQQldFVWtGN09VVFQ2WWtTeS1XMDZXQ2RlSmxMWG9IU1U?oc=5",
-          "title": "Шара Буллет заявил, что ему предлагали сдать бой в UFC за 100 млн, назвав соперника"
-        }
-      ]
-    },
-    {
-      "key": "496bbe1e4d",
-      "title": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC",
-      "summary": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC legalbet.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 9.65,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T12:15:24+00:00",
-      "refs": [
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dFTVQzeXU3Q2xvVzJoQXhVY2NaQnRZU09IZUphV0xkcllNNXBOVl9XZGJPaExLTTRLczBaZDgtSm9NVjlDb2p5NUlkTFE3NndPdTlWMzFCeFUycGVvSDNFTXM4RzhWb1FobEZfVU5kRGVLc183UFNXcUVFXzJScDFTd1AxOUFGeWFMeUhFRHkzZjJoUGdN?oc=5",
-          "title": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHVJZXZrTlRxZExSNVhNOGRra29NS3JnT0pTb3VPTm5HZFpuMDBQMGJUb1VKc0x6QmRjcWtUbV9HOWw2NU9NY0NGUjZzQ0FkTG5HWklwVnNTNTFRUDhGcmhycEI1ZmRnYVRuRkN4MnFIQ2o1N0hXdWhvLS1LcmpjR0FNdEV2TXB3M1lSMUNYSW1iV1hpUHVVMGVpbGhVUFJ3UG9MNW9CVEFmT2g3Mm1XNThPSXpfbGxYT2k1SnZ3M0hmUQ?oc=5",
-          "title": "Кайла Харрисон задушила Аманду Нуньес и защитила чемпионский пояс UFC"
-        }
-      ]
-    },
-    {
-      "key": "a5a99ab3ed",
-      "title": "Турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году",
-      "summary": "Турнир UFC в России в 2027 году может пройти в спорткомплексе «Олимпийский». Там же в 2018 году состоялся первый в истории турнир UFC в России. Ранее президент UFC Дана Уайт не исключил возвращение турниров в Россию, а генеральный директор Российского фонда прямых инвестиций Кирилл Дмитриев заявил, что работа над этим скоро начнется. Спецпредставитель президента РФ Дмитриев: «Мы скоро начнем работ",
+      "key": "0d0c33299b",
+      "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ",
+      "summary": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ Советский спорт",
       "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.6,
+      "heat": 9.05,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T07:25:00+00:00",
+      "published": "2026-11-17T06:50:00+00:00",
       "refs": [
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/boxing/1117438316-turnir-ufc-mozhet-projti-v-sportkomplekse-olimpijskij-v-2027-godu.html",
-          "title": "Турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году"
-        },
-        {
-          "source": "airpress.kz",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rM0FvQklmZ3p2OXBwenJOZGFSdjM0MW52Z3JuNGN1UUNjSlpBeG9OV2ZqU3dVam5qQWNRdllRWWtGSW15TVpfRTlPRFZNb2tTbks3SE5wZGN2Z1A3aGRSb0pIRDczUVBvcEFRcTZR?oc=5",
-          "title": "UFC может провести турнир в «Олимпийском» в Москве в 2027 году — ТАСС"
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHdWcm1HTGdySGJoYVZjNG5jVF9NMVN5RlJBMzZQcTJwZVVTQzZGeDFzR1FSQ1ZaM015ZHdtQWlCRXNDLU45eDhMNks2RlZ4SUtOWmNfZDZZeTRwNTJQdHdQbUcyNHdQU0ZUOWJHTmJ1Sl95Zm9vQmNqcHRweXRDUDlVelY3REN6b3gzZnVXb0FIZXpKSlBQNkctTHBJUnFlR3VoSHJiMjZwUDZKWkVTSVdQYzZoUQ?oc=5",
+          "title": "Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-turnir-ufc-mozhet-proyti-v-sportkomplekse-olimpiyskiy-v-2027-godu-2475395/",
-          "title": "ТАСС: турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году"
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/dvalishvili-zayavil-chto-slyshal-ob-osvobozhdenii-usmana-nurmagomedova-iz-tyurmy-v-abu-dabi-2475736/",
+          "title": "Двалишвили заявил, что слышал об освобождении Усмана Нурмагомедова из тюрьмы в Абу-Даби"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUmlzMDhRUWttMDZhbU1xVTRCeGxNVjZRUTV3emFwc2dkdVcyY18wMHIzZEgwN1ZhSVRzbk5iZG9QRXI5eFFIR09oVWV3dFRCUUVtUjRCMDBVRVZjOUZ3WE1VN040MWo4VWdFa2ZUWjVxNVJyNHNGcElsZ3FjaE44YUlnZGowTVNFUERpTmI2anc2eWRaVkRpZG1QcnB3bDFCai1YcVBsOUlTSUJ0MzNyeGhsb29hVWhhZllfb2wwMzBaQ19ZVUY0TXZXQS1aRG4wZnVF?oc=5",
+          "title": "Двалишвили заявил, что Усман Нурмагомедов был освобожден из тюрьмы в Абу‑Даби"
         }
       ]
     },
     {
-      "key": "dec3ec193b",
-      "title": "Волков и Павлович впервые за два года встретились в Нью-Йорке",
-      "summary": "Волков и Павлович впервые за два года встретились в Нью-Йорке Meta MMA",
+      "key": "e61d444e32",
+      "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе",
+      "summary": "Нуньес согласилась провести реванш с Харрисон в полулегком весе Meta MMA",
       "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.29,
+      "heat": 9.0,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-16T07:17:13+00:00",
+      "published": "2026-11-17T09:15:05+00:00",
       "refs": [
         {
           "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2Q5LTJMQ3pYbE1tdXN6anlobWt1eW1nQnhsaHlDdFVsenpNa0NOMXZvbTQybUVoTmhVV3JQcE1mQl9ldk1VblhwSzhtLXhyUkhiYlpsVFB5TXZaU29QSHFzRGpMVmJUdUVUeW15dEd2TmpNRmRTZm5kRWtHZF8zSjVJdkRCQTNFbWU4a1lZY1RnSWp4S2ZVNG9XdElTVGl6dHBV?oc=5",
-          "title": "Волков и Павлович впервые за два года встретились в Нью-Йорке"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVlHRF9LN1ZVY0JlcGF4WkdOdkpqUFJneTA4ems1eHFBaklZOTd4aG80NmpKZGlEZTVZUHIzdDdyb0pDamU0MnJjVVhQWkRtTHZoRW5oOGtYQnNNbTZBZGFrTmFnVHRYVWxud0xvaV9oSWRrTUxxczd4elVFb19jLU5PeVJ1VVBQcXg3blNtZ0JiVmRiQnplWXRKWEtMYzFnT1NxUWR3?oc=5",
+          "title": "Нуньес согласилась провести реванш с Харрисон в полулегком весе"
         },
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/boxing/1117438307-aleksandr-volkov-i-sergej-pavlovich-vstretilis-v-nyu-jorke-i-ne-stali-.html",
-          "title": "Александр Волков и Сергей Павлович встретились в Нью-Йорке и не стали жать друг другу руки"
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xUaWxsLXdYWnIyQ3hTcWNDOTg0ZVBVQ3hnaEZ2VkRsb3hGWUMybm5GM0hzc3dTYW9SZFhCbHJKel9iWmxrY2tfZkl2V3hmRF9LUHp1RUl0QVhDQ0U3dTBTd2pneV9YU1YwLW1sQmQ4RzZBOVlkLTJWbVlfckctUHFrWHRMemNmeVNxTHVTbDczcm9ISDBCcmZpdHZlSXZCRl8tblpKU0lQSkF2a1dn?oc=5",
+          "title": "Аманда Нуньес согласилась на реванш с Кайлой Харрисон в полулегком весе"
         },
         {
-          "source": "FightTime",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTRyUHdRTDhiYjIxWG1rTDFWR1VibmNfaDFjX1dDa3cxNTBGRGFSZEFrclh3cGRyb0dfQ2taVjlxZ19kVmR5LUpfUk1tS1p2el9zR2JCLUF0bS11NlpGYnc1VWY4Q3lXR3N5QUxFczhlbWsyZGNiakRJN2lQOUhwQVF3Sk5xRUh5OU5peGM3d0NXOG9EcFlxeGJMYmp1RUFfcmc?oc=5",
-          "title": "Сергей Павлович и Александр Волков встретились в Нью-Йорке"
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWRUYVNnYWtaMUhocm9aYm5aTjY0d2pQaUZuOUpUbUNFVmtvWTdBNWxTQ1drLWxmWmNtamE5a2RQQ3lFRFdCRFVEQmZNM1pORzdiSmRlR0VzNlA4YU9udEZsQUFwN1JpNF9iTHpjWGNlZUlzdzR4emdVTktQeHlkWmR3MTNJbTBhM0hua1lYNHhqMW5BclBWN0tBUkI3TEN3clU3UE56Z1RVOHZOLWJqVndVWXZLdw?oc=5",
+          "title": "Аманда Нуньес прокомментировала поражение от Харрисон на UFC 334"
         }
       ]
     }

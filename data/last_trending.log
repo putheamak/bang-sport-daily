@@ -1,40 +1,36 @@
-2026-11-16 19:51:55,947 INFO BBC Sport                         46 items
-2026-11-16 19:51:56,063 INFO The Guardian Sport                21 items
-2026-11-16 19:51:56,133 INFO ESPN                               0 items
-2026-11-16 19:51:56,300 INFO Sky Sports                        20 items
-2026-11-16 19:51:56,620 INFO Google News – Sports (EN)         58 items
-2026-11-16 19:51:57,500 INFO Google News – 体育 (ZH)             29 items
-2026-11-16 19:51:58,217 INFO Google News – Спорт (RU)          45 items
-2026-11-16 19:51:59,521 INFO Championat                        29 items
-2026-11-16 19:52:00,859 INFO Sports.ru                         20 items
-2026-11-16 19:52:02,702 INFO Спорт-Экспресс                   420 items
-2026-11-16 19:52:03,913 INFO РИА Новости Спорт                 20 items
-2026-11-16 19:52:05,161 INFO 中国新闻网 体育                          26 items
-2026-11-16 19:52:05,532 INFO Google News – Cambodia sport      17 items
-2026-11-16 19:52:06,029 INFO Google News – Southeast Asia sport  54 items
-2026-11-16 19:52:06,580 INFO Google News – Combat promotions   94 items
-2026-11-16 19:52:06,930 INFO Google News – Boxing              20 items
-2026-11-16 19:52:07,191 INFO Google News – Kun Khmer            2 items
-2026-11-16 19:52:07,576 WARNING Feed unreadable Google News – គុនខ្មែរ (Khmer): <unknown>:2:252: not well-formed (invalid token)
-2026-11-16 19:52:08,266 INFO Google News – Единоборства (RU)   84 items
-2026-11-16 19:52:08,692 INFO Google News – 格斗 (ZH)             26 items
-2026-11-16 19:52:08,910 INFO MMA Fighting                      10 items
-2026-11-16 19:52:09,174 WARNING Feed unreadable Google News – Khmer Times sport: <unknown>:2:252: not well-formed (invalid token)
-2026-11-16 19:52:10,037 INFO Candidate stories after clustering: 951
-2026-11-16 19:52:11,752 INFO Trending skipped (politics): Путин поздравил Мирру Андрееву с победой на Итоговом турнире WTA
-2026-11-16 19:52:11,753 INFO Trending skipped (politics): PSSI extends its warmest congratulations to H.E. Major General Khiev Sameth on his re-elec
-2026-11-16 19:52:11,755 INFO Trending skipped (politics): ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event
-2026-11-16 19:52:11,757 INFO Trending skipped (not our audience): Kirk Cousins’ return revives Vikings, and other NFL trade deadline ripple effects: Pick Si
-2026-11-16 19:52:11,758 INFO Trending skipped (politics): Журова назвала политическим решение Канады о недопуске России на МЧМ
-2026-11-16 19:52:11,759 INFO Trending skipped (not our audience): Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks
-2026-11-16 19:52:11,874 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-16 19:52:11,874 INFO   1. [en 11 outlets, heat 25.0] UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane
-2026-11-16 19:52:11,874 INFO   2. [en 6 outlets, heat 14.7] MMA pound-for-pound rankings (Nov. 2026): Kayla Harrison slays the GOAT to become new No. 1
-2026-11-16 19:52:11,874 INFO   3. [ru 4 outlets, heat 10.9] Роналду показал жестом букву M и заинтриговал фанатов. Это первый пост Криштиану после перформанса в
-2026-11-16 19:52:11,874 INFO   4. [en 3 outlets, heat 9.2] Switzerland vs Scotland LIVE!
-2026-11-16 19:52:11,874 INFO   5. [ru 3 outlets, heat 8.9] Президент ИИХФ объяснил недопуск России на молодёжный чемпионат мира — 2027
-2026-11-16 19:52:11,874 INFO   C1. [en 5 outlets, heat 12.3] Stephen Thompson reflects on rare fairy-tale ending at UFC 334
-2026-11-16 19:52:11,875 INFO   C2. [en 3 outlets, heat 8.7] UFC 6 Has Revealed The Official PRIDE FC Expansion
-2026-11-16 19:52:11,875 INFO   C3. [ru 3 outlets, heat 8.7] Друг Двалишвили — о драке против команды Усмана Нурмагомедова в Абу-Даби: «Мы всегда стоим за своих 
-2026-11-16 19:52:11,875 INFO   C4. [ru 3 outlets, heat 8.6] Шара Буллет ответил на слова Царукяна о том, что никогда не станет чемпионом UFC
-2026-11-16 19:52:11,875 INFO   C5. [en 2 outlets, heat 7.0] UFC 334: Joshua Van thought Josh Hokit beat Ciryl Gane
+2026-11-17 09:44:51,849 INFO BBC Sport                         45 items
+2026-11-17 09:44:51,975 INFO The Guardian Sport                26 items
+2026-11-17 09:44:52,030 INFO ESPN                               0 items
+2026-11-17 09:44:52,179 INFO Sky Sports                        19 items
+2026-11-17 09:44:52,490 INFO Google News – Sports (EN)         63 items
+2026-11-17 09:44:52,940 INFO Google News – 体育 (ZH)             36 items
+2026-11-17 09:44:53,506 INFO Google News – Спорт (RU)          38 items
+2026-11-17 09:44:54,185 INFO Championat                        29 items
+2026-11-17 09:44:54,901 INFO Sports.ru                         19 items
+2026-11-17 09:44:56,342 INFO Спорт-Экспресс                   364 items
+2026-11-17 09:44:57,350 INFO РИА Новости Спорт                 20 items
+2026-11-17 09:44:58,577 INFO 中国新闻网 体育                          14 items
+2026-11-17 09:44:58,919 INFO Google News – Cambodia sport      14 items
+2026-11-17 09:44:59,371 INFO Google News – Southeast Asia sport  52 items
+2026-11-17 09:44:59,904 INFO Google News – Combat promotions   97 items
+2026-11-17 09:45:00,209 INFO Google News – Boxing              20 items
+2026-11-17 09:45:00,471 INFO Google News – Kun Khmer            1 items
+2026-11-17 09:45:00,683 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-17 09:45:01,199 INFO Google News – Единоборства (RU)   95 items
+2026-11-17 09:45:01,590 INFO Google News – 格斗 (ZH)             32 items
+2026-11-17 09:45:02,141 INFO MMA Fighting                      10 items
+2026-11-17 09:45:02,445 INFO Google News – Khmer Times sport   16 items
+2026-11-17 09:45:03,199 INFO Candidate stories after clustering: 917
+2026-11-17 09:45:04,796 INFO Trending skipped (not our audience): Los Angeles Chargers @ Baltimore Ravens | NFL highlights
+2026-11-17 09:45:04,797 INFO Trending skipped (politics): Глава Федерации футбола Франции Диалло выдвинут кандидатом от УЕФА на выборах президента Ф
+2026-11-17 09:45:05,473 INFO Talking points sent to Telegram (5 stories)
+2026-11-17 09:45:05,473 INFO   1. [ru 11 outlets, heat 26.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
+2026-11-17 09:45:05,473 INFO   2. [en 7 outlets, heat 16.8] Nunes calls for Harrison rematch at featherweight
+2026-11-17 09:45:05,473 INFO   3. [en 7 outlets, heat 16.8] Brazil XI vs Singapore – Predicted lineup and team news
+2026-11-17 09:45:05,473 INFO   4. [ru 5 outlets, heat 13.2] Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали 
+2026-11-17 09:45:05,473 INFO   5. [ru 4 outlets, heat 10.8] Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батрако
+2026-11-17 09:45:05,473 INFO   C1. [ru 8 outlets, heat 20.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
+2026-11-17 09:45:05,473 INFO   C2. [ru 5 outlets, heat 14.5] Боец Александр Волков подписал новый контракт с UFC
+2026-11-17 09:45:05,473 INFO   C3. [en 5 outlets, heat 12.9] UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’
+2026-11-17 09:45:05,473 INFO   C4. [ru 3 outlets, heat 9.1] Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ
+2026-11-17 09:45:05,473 INFO   C5. [ru 3 outlets, heat 9.0] Нуньес согласилась провести реванш с Харрисон в полулегком весе
