@@ -1,5 +1,142 @@
 [
   {
+    "id": "2026-11-17-news-dd0393",
+    "slug": "vinicius-scores-a-12-minute-hat-trick-as-brazil-beat-singapo",
+    "date": "2026-11-17",
+    "created": "2026-11-17T19:27:16+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "football",
+    "tags": [
+      "Singapore",
+      "Brazil",
+      "Vinícius Júnior",
+      "Endrick",
+      "Estêvão",
+      "Carlo Ancelotti",
+      "Gavin Lee",
+      "International friendly"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "ESPN: Singapore 0-7 Brazil, final score",
+        "url": "https://www.espn.com/soccer/match/_/gameId/401916335/brazil-singapore"
+      },
+      {
+        "title": "Goal: The menace is back! Vinicius's lightning hat-trick destroys Singapore",
+        "url": "https://www.goal.com/en/news/the-menace-is-back-vinicius-s-lightning-hat-trick-destroys-singapore/blt1e2a256449b5d250"
+      },
+      {
+        "title": "Football Today: Vinicius Junior scores first international hat-trick in Brazil's rout of Singapore",
+        "url": "https://footballtoday.com/2026/11/17/vinicius-junior-scores-first-international-hat-trick-in-brazils-rout-of-singapore/"
+      },
+      {
+        "title": "Khel Now: Singapore vs Brazil preview, team news and line-ups",
+        "url": "https://khelnow.com/football/singapore-vs-brazil-preview-international-friendly-202611"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Vinícius Scores a 12-Minute Hat-Trick as Brazil Beat Singapore 7-0",
+      "subheadline": "Vinícius Júnior scored in the 9th, 15th and 21st minutes for his first international hat-trick, and Endrick, Estêvão and Rayan added goals at the National Stadium.",
+      "body_markdown": "## What happened\n\nBrazil beat Singapore 7-0 in a friendly at the National Stadium in Singapore on Tuesday 17 November 2026. Vinícius Júnior scored three goals in the first 21 minutes, ESPN reported.\n\nVinícius opened the scoring in the 9th minute from a pass by Bruno Guimarães. He scored again in the 15th minute after a move with Endrick, and completed his hat-trick in the 21st minute, finishing a move started by Guimarães and continued by Estêvão, according to Football Today. It was his first hat-trick for Brazil.\n\nEndrick made it 4-0 in the 31st minute. After the break Estêvão scored in the 51st minute and Rayan in the 65th, and Singapore defender Raoul Suhaimi turned the ball into his own net in the 74th minute. Vinícius was substituted after the hour.\n\n## The numbers\n\nBrazil had 60% of possession and 11 shots on target to Singapore's one, according to ESPN's match statistics. Singapore made five saves.\n\n## Why it matters\n\nThe match was only the second meeting between the two countries. Brazil won the first, in 2008. For Brazil, coached by Carlo Ancelotti, it followed a 3-2 defeat by Japan three days earlier, decided by a goal from Tatsuhiro Sakamoto in stoppage time. Vinícius scored twice in that match. Raphinha missed the Singapore game after being sent off against Japan.\n\nSingapore, coached by Gavin Lee, lost 4-1 to Paraguay on 13 November, so the window ended with two defeats against South American opponents.",
+      "social_post": "Brazil beat Singapore 7-0 at the National Stadium. Vinícius Júnior scored in the 9th, 15th and 21st minutes for his first international hat-trick; Endrick, Estêvão and Rayan also scored, and Raoul Suhaimi put through his own net. #SINBRA #Brazil #Singapore"
+    },
+    "origin": "inbox/2026-11-17-singapore-brazil.md",
+    "region": "sea",
+    "match": {
+      "competition": "International friendly",
+      "date": "17 November 2026",
+      "home": "Singapore",
+      "away": "Brazil",
+      "home_score": 0,
+      "away_score": 7,
+      "home_scorers": [],
+      "away_scorers": [
+        "Vinícius Jr 9', 15', 21'",
+        "Endrick 31'",
+        "Estêvão 51'",
+        "Rayan 65'",
+        "Raoul Suhaimi 74' (og)"
+      ],
+      "note": "National Stadium, Singapore"
+    },
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/1280px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Vinícius Júnior during Brazil v Morocco on 13 June 2026 at the 2026 FIFA World Cup at NY/NJ Stadium in East Rutherford, NJ",
+        "width": 1200,
+        "height": 1799,
+        "year": 2026,
+        "subject": "Vinícius Júnior, who scored three goals in 12 minutes"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_(Endrick).jpg",
+        "artist": "YantsImages",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "EAST RUTHERFORD, UNITED STATES - June 13: Players of Brazil pose for the photo during the FIFA World Cup 2026 Group C match between Brazil and Morocco at New York New Jersey Stadium on June 13, 2026 i",
+        "width": 1200,
+        "height": 1606,
+        "year": 2026,
+        "subject": "Endrick, who scored Brazil's fourth goal"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg/1280px-Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg",
+        "artist": "CEphoto, Uwe Aranas",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Singapore: Singapore Sports Hub with the National Stadium, seen from Marina Bay Sands top observation deck",
+        "width": 1200,
+        "height": 692,
+        "year": 2015,
+        "subject": "The National Stadium in Kallang, Singapore, venue of the friendly"
+      },
+      {
+        "url": "../photos/card-2026-11-17-news-dd0393.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Singapore 0 - 7 Brazil · International friendly",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "zh": {
+      "headline": "维尼修斯12分钟上演帽子戏法 巴西7比0大胜新加坡",
+      "subheadline": "维尼修斯·儒尼奥尔在第9、15和21分钟连进三球，完成个人国家队首个帽子戏法，恩德里克、埃斯特旺和拉扬也在国家体育场取得进球。",
+      "body_markdown": "## 比赛经过\n\n2026年11月17日星期二，巴西队在新加坡国家体育场举行的友谊赛中以7比0击败新加坡队。据ESPN报道，维尼修斯·儒尼奥尔在开场21分钟内连进三球。\n\n第9分钟，维尼修斯接布鲁诺·吉马良斯的传球首开纪录。据Football Today报道，第15分钟他与恩德里克配合后再进一球；第21分钟，他完成由吉马良斯发起、埃斯特旺串联的进攻，上演帽子戏法。这是他为巴西国家队打进的首个帽子戏法。\n\n第31分钟，恩德里克将比分扩大为4比0。下半场，埃斯特旺在第51分钟、拉扬在第65分钟先后破门，第74分钟，新加坡后卫拉乌尔·苏海米又打进一粒乌龙球。维尼修斯在第60分钟后被换下。\n\n## 数据\n\n根据ESPN的技术统计，巴西队控球率为60%，射正11次，新加坡队仅射正1次。新加坡队完成5次扑救。\n\n## 比赛意义\n\n这是两国之间的第二次交锋，巴西队在2008年的首次交手中获胜。由卡洛·安切洛蒂执教的巴西队三天前以2比3负于日本队，日本队的制胜球由坂元达裕在补时阶段打进。维尼修斯在那场比赛中梅开二度。拉菲尼亚因在对阵日本队时被罚下，缺席了本场比赛。\n\n由加文·李执教的新加坡队在11月13日以1比4负于巴拉圭队，本期国际比赛日两战南美球队均告失利。",
+      "social_post": "巴西在新加坡国家体育场7比0击败新加坡。维尼修斯·儒尼奥尔在第9、15和21分钟连进三球，完成国家队首个帽子戏法；恩德里克、埃斯特旺和拉扬也有进球，新加坡球员拉乌尔·苏海米打进一粒乌龙球。#新加坡对巴西 #巴西"
+    },
+    "ru": {
+      "headline": "Винисиус оформил хет-трик за 12 минут, Бразилия разгромила Сингапур 7:0",
+      "subheadline": "Винисиус Жуниор забил на 9-й, 15-й и 21-й минутах и сделал первый хет-трик за сборную, ещё по голу на Национальном стадионе провели Эндрик, Эстевао и Райан.",
+      "body_markdown": "## Что произошло\n\nБразилия обыграла Сингапур со счётом 7:0 в товарищеском матче на Национальном стадионе Сингапура во вторник, 17 ноября 2026 года. Винисиус Жуниор забил три мяча за первые 21 минуту, сообщил ESPN.\n\nВинисиус открыл счёт на 9-й минуте после передачи Бруну Гимараэса. На 15-й минуте он забил снова после комбинации с Эндриком, а на 21-й завершил атаку, начатую Гимараэсом и продолженную Эстевао, и оформил хет-трик, писал Football Today. Это его первый хет-трик за сборную Бразилии.\n\nЭндрик сделал счёт 4:0 на 31-й минуте. После перерыва забили Эстевао на 51-й минуте и Райан на 65-й, а на 74-й защитник сборной Сингапура Рауль Сухаими срезал мяч в свои ворота. Винисиуса заменили после часа игры.\n\n## Цифры\n\nПо статистике ESPN, у Бразилии было 60% владения мячом и 11 ударов в створ против одного у Сингапура. Сингапурцы сделали пять сейвов.\n\n## Почему это важно\n\nЭто была лишь вторая встреча двух сборных: первую, в 2008 году, выиграла Бразилия. Для команды Карло Анчелотти матч последовал за поражением 2:3 от Японии тремя днями ранее — победный мяч в компенсированное время забил Тацухиро Сакамото. Винисиус в той игре сделал дубль. Рафинья пропустил матч с Сингапуром из-за удаления в игре с Японией.\n\nСингапур под руководством Гэвина Ли 13 ноября уступил Парагваю 1:4, и оба матча этого окна против южноамериканских соперников завершились поражениями.",
+      "social_post": "Бразилия обыграла Сингапур 7:0 на Национальном стадионе. Винисиус Жуниор забил на 9-й, 15-й и 21-й минутах — это его первый хет-трик за сборную; также отличились Эндрик, Эстевао и Райан, а Рауль Сухаими срезал мяч в свои ворота. #СингапурБразилия #Бразилия"
+    },
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 249 words (minimum 250 for news). Thin content hurts AdSense approval"
+      }
+    ]
+  },
+  {
     "id": "2026-11-17-news-9481f5",
     "slug": "cambodian-premier-league-better-clubs-small-crowds-a-club-by",
     "date": "2026-11-17",
