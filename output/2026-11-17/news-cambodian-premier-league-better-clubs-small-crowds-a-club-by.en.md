@@ -12,6 +12,7 @@ The clearest progress is in Asia. Preah Khan Reach Svay Rieng reached the final 
 
 Broadcasting has changed too. Since July 2026 every match can be watched on the league's CPL+ app, at 1,000 riel (US$0.25) for one match or 100,000 riel (US$25) for a season, the league said. BTV remains the television broadcaster.
 
+
 ## The problem: the stands
 
 Crowds have not followed. According to the attendance records for recent seasons, a CPL match drew an average of 1,243 spectators in 2024-25 and 1,291 in 2025-26. The lowest crowds were 101 in 2024-25 and 160 in 2025-26, both at Kirivong Sok Sen Chey's home ground. The league's own figure for the whole of week 16 in 2025-26 was 6,507 spectators.
@@ -41,6 +42,7 @@ Angkor Tiger shows that three things work in Cambodia: a club that belongs to on
 **1. Clubs without a hometown.** Several clubs carry the name of a company or institution rather than a place. MOI Kompong Dewa is listed in Sihanoukville but plays at Visakha Stadium in Phnom Penh, which it shares with Visakha. Fans need a reason to belong, and a city or province is the most common one.
 
 **2. Too many clubs in one city.** Five of the 11 clubs are based in Phnom Penh, and a sixth plays its home games there. They compete for the same fans.
+
 
 **3. The wrong size of stadium.** Big matches are played in national stadiums with tens of thousands of seats, where 2,000 people look like an empty ground. Other clubs play in very small grounds. Kirivong Sok Sen Chey Stadium is listed at 250 seats.
 
@@ -75,6 +77,7 @@ The figures below are from the 2026-27 club list and the last two seasons' recor
 **MOI Kompong Dewa** (listed in Sihanoukville, plays at Visakha Stadium in Phnom Penh; last in 2024-25 with 8 points, sixth in 2025-26). The club improved sharply on the pitch, but it has no home ground of its own in the city where it is listed. A permanent home and a local name are the first steps before any fan programme.
 
 **Royal Cambodian Armed Forces** (Phnom Penh, RCAF Old Stadium, 7,500 seats; ninth in 2025-26). The army club has a natural community in soldiers, their families and nearby neighbourhoods. Organised family days and free entry for children would turn that community into a regular crowd.
+
 
 **Kirivong Sok Sen Chey** (Takeo, Kirivong Sok Sen Chey Stadium, 250 seats; eighth in 2025-26). The club recorded the league's lowest crowds in both seasons. As the only top-flight club in Takeo province, it has the "one province, one club" position that worked for Buriram and Angkor Tiger. Links with schools, local businesses and the provincial administration, and affordable local shirts, are the low-cost first steps.
 
