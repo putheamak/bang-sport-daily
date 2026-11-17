@@ -5,7 +5,7 @@
     "date": "2026-11-17",
     "created": "2026-11-17T16:50:46+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -114,7 +114,20 @@
         "url": "https://mainstand.co.th/en/features/5/article/3112"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-17T17:01:35+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-17T17:01:36+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-17T17:01:36+07:00"
+      }
+    ],
     "en": {
       "headline": "Cambodian Premier League: Better Clubs, Small Crowds. A Club-by-Club Look at How to Build Fans",
       "subheadline": "Cambodian clubs are winning in Asia, yet league matches average about 1,300 spectators. Data on all 11 clubs, Angkor Tiger's rise in Siem Reap, and lessons from Japan and Thailand point to what each club can do.",
@@ -176,11 +189,6 @@
     "standards": [
       {
         "level": "WARN",
-        "area": "photos",
-        "msg": "Cover photo is from 2022. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
-        "level": "WARN",
         "area": "ethics",
         "msg": "Opinion / personal framing: 'from Phnom Penh'. Report facts neutrally"
       },
@@ -190,7 +198,8 @@
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Siem Reap, home of Angkor Tiger\", \"wikipedia\": \"Siem Reap\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Siem Reap, home of Angkor Tiger\", \"wikipedia\": \"Siem Reap\"}]}",
+    "published_at": "2026-11-17T17:01:36+07:00"
   },
   {
     "id": "2026-11-17-athl-2a2b3f",
