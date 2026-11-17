@@ -142,9 +142,8 @@
       caption: "A Kun Khmer bout, the martial art in which Eh Phouthong was national champion"
 
 # CPL fan analysis: no free photos of the clubs exist (only logos), so stadiums lead:
-# the National Olympic Stadium (20,005 for Boeung Ket v Svay Rieng), then the home grounds of
-# Phnom Penh Crown and Visakha, then Svay Rieng Stadium, home of the champions
-# (stadium photos are used only if Wikipedia has a free one)
+# the National Olympic Stadium (20,005 for Boeung Ket v Svay Rieng), Phnom Penh Crown's stadium,
+# the RCAF Old Stadium (Royal Cambodian Armed Forces) and our own map of where the 11 clubs play
 2026-11-17-news-9481f5:
   mode: replace
   photos:
@@ -152,7 +151,9 @@
       caption: "The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025"
     - wikipedia: "RSN Stadium"
       caption: "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
-    - wikipedia: "Visakha Stadium"
-      caption: "Visakha Stadium in Phnom Penh, home of Visakha"
-    - wikipedia: "Svay Rieng Stadium"
-      caption: "Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng"
+    - wikipedia: "RCAF Old Stadium"
+      caption: "The RCAF Old Stadium in Phnom Penh, home of the Royal Cambodian Armed Forces club"
+    - file: "cpl-clubs-map-2026.png"
+      caption: "Where the 11 Cambodian Premier League clubs play in 2026-27"
+      credit: "Bang Sport Daily (map; map data Natural Earth, public domain)"
+      license: "Own work"
