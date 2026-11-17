@@ -47,7 +47,7 @@ URL_DATE = re.compile(r"/(20\d\d)[/-](\d{1,2})[/-](\d{1,2})(?:/|-|$)|/(20\d\d)/(
 MONTHS = {m: i for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
 WEAK_SOURCES = ("blogspot.", "wordpress.com", "medium.com", "nigfooty.", "reddit.com", "facebook.com",
                 "x.com/", "twitter.com", "tiktok.com", "youtube.com")
-STRONG_SOURCES = ("bbc.", "reuters.", "apnews.", "theguardian.", "skysports.", "espn.", "aljazeera.", "fifa.com",
+STRONG_SOURCES = ("bbc.", "isuresults.com", "isu-skating.com", "nbcsports.com", "bwfbadminton.com", "scmp.com", "cpl-cambodia.com", "reuters.", "apnews.", "theguardian.", "skysports.", "espn.", "aljazeera.", "fifa.com",
                   "uefa.com", "olympics.com", "afc.com", "the-afc.com", "nba.com", "formula1.com", "nytimes.",
                   "xinhuanet.", "sina.", "sport-express.", "championat.", "tass.", "kyodonews.", "nikkansports.",
                   "sponichi.", "atptour.", "britannica.com", "history.com", "boxrec.com", "olympedia.org", "thestar.com.my", "straitstimes.", "bangkokpost.", "khmertimeskh.", "phnompenhpost.", "vnexpress.", "insideworldfootball.", "the-afc.com", "aseanfootball.", "wtatennis.", "icc-cricket.", "worldathletics.", "fiba.basketball",

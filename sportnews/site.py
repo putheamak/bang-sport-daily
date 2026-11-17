@@ -147,6 +147,9 @@ def sport_key(cfg, a) -> str:
     if a["type"] in ("history", "athlete_story"):
         return a["type"]
     cols = cfg.get("columnists") or {}
+    own = (a.get("sport") or "").strip().lower()
+    if own in (cfg.get("sports") or {}):          # the story's own sport wins ("Grand Prix" in a skating headline is not F1)
+        return own
     from .collect import detect_sport
     sport = detect_sport(f"{a.get('sport', '')} {a.get('en', {}).get('headline', '')}", cfg.get("sports", {}))
     if not sport and a.get("sport"):
