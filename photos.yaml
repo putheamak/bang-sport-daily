@@ -143,7 +143,8 @@
 
 # CPL fan analysis: no free photos of the clubs exist (only logos), so stadiums lead:
 # the National Olympic Stadium (20,005 for Boeung Ket v Svay Rieng), then the home grounds of
-# Phnom Penh Crown and Visakha (used only if Wikipedia has a free photo), then Siem Reap (Angkor Tiger)
+# Phnom Penh Crown and Visakha, then Svay Rieng Stadium, home of the champions
+# (stadium photos are used only if Wikipedia has a free one)
 2026-11-17-news-9481f5:
   mode: replace
   photos:
@@ -153,5 +154,5 @@
       caption: "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
     - wikipedia: "Visakha Stadium"
       caption: "Visakha Stadium in Phnom Penh, home of Visakha"
-    - wikipedia: "Siem Reap"
-      caption: "Siem Reap, home of Angkor Tiger"
+    - wikipedia: "Svay Rieng Stadium"
+      caption: "Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng"
