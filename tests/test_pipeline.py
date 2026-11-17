@@ -1064,8 +1064,10 @@ def test_photo_copies_and_news_sitemap(repo, monkeypatch):
                images=[], en={"headline": "Old story", "subheadline": "s", "body_markdown": "Text."})
     save_articles([a, old])
     build_site(cfg())
-    copies = list((repo / "docs/photos/c").glob("*.jpg"))
+    copies = [p for p in (repo / "docs/photos/c").glob("*.jpg") if not p.name.endswith("-640.jpg")]
     assert len(copies) == 1 and Image.open(copies[0]).size == (1200, 600)        # resized, RGB jpeg
+    small = copies[0].with_name(copies[0].stem + "-640.jpg")                      # phone-size copy
+    assert small.exists() and Image.open(small).size[0] == 640
     page = (repo / "docs/en/fresh-story.html").read_text()
     assert f'src="../photos/c/{copies[0].name}"' in page and "Wikimedia Commons" in page   # credit unchanged
     assert 'og:image" content="https://me.github.io/gsd/photos/c/' not in page             # og keeps the original
