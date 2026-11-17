@@ -1,36 +1,41 @@
-2026-11-17 09:44:51,849 INFO BBC Sport                         45 items
-2026-11-17 09:44:51,975 INFO The Guardian Sport                26 items
-2026-11-17 09:44:52,030 INFO ESPN                               0 items
-2026-11-17 09:44:52,179 INFO Sky Sports                        19 items
-2026-11-17 09:44:52,490 INFO Google News – Sports (EN)         63 items
-2026-11-17 09:44:52,940 INFO Google News – 体育 (ZH)             36 items
-2026-11-17 09:44:53,506 INFO Google News – Спорт (RU)          38 items
-2026-11-17 09:44:54,185 INFO Championat                        29 items
-2026-11-17 09:44:54,901 INFO Sports.ru                         19 items
-2026-11-17 09:44:56,342 INFO Спорт-Экспресс                   364 items
-2026-11-17 09:44:57,350 INFO РИА Новости Спорт                 20 items
-2026-11-17 09:44:58,577 INFO 中国新闻网 体育                          14 items
-2026-11-17 09:44:58,919 INFO Google News – Cambodia sport      14 items
-2026-11-17 09:44:59,371 INFO Google News – Southeast Asia sport  52 items
-2026-11-17 09:44:59,904 INFO Google News – Combat promotions   97 items
-2026-11-17 09:45:00,209 INFO Google News – Boxing              20 items
-2026-11-17 09:45:00,471 INFO Google News – Kun Khmer            1 items
-2026-11-17 09:45:00,683 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-17 09:45:01,199 INFO Google News – Единоборства (RU)   95 items
-2026-11-17 09:45:01,590 INFO Google News – 格斗 (ZH)             32 items
-2026-11-17 09:45:02,141 INFO MMA Fighting                      10 items
-2026-11-17 09:45:02,445 INFO Google News – Khmer Times sport   16 items
-2026-11-17 09:45:03,199 INFO Candidate stories after clustering: 917
-2026-11-17 09:45:04,796 INFO Trending skipped (not our audience): Los Angeles Chargers @ Baltimore Ravens | NFL highlights
-2026-11-17 09:45:04,797 INFO Trending skipped (politics): Глава Федерации футбола Франции Диалло выдвинут кандидатом от УЕФА на выборах президента Ф
-2026-11-17 09:45:05,473 INFO Talking points sent to Telegram (5 stories)
-2026-11-17 09:45:05,473 INFO   1. [ru 11 outlets, heat 26.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
-2026-11-17 09:45:05,473 INFO   2. [en 7 outlets, heat 16.8] Nunes calls for Harrison rematch at featherweight
-2026-11-17 09:45:05,473 INFO   3. [en 7 outlets, heat 16.8] Brazil XI vs Singapore – Predicted lineup and team news
-2026-11-17 09:45:05,473 INFO   4. [ru 5 outlets, heat 13.2] Вагнер опровергла слухи о показе видео с плачущей Трусовой на Гран-при США: «На арене не показывали 
-2026-11-17 09:45:05,473 INFO   5. [ru 4 outlets, heat 10.8] Представители «Барселоны» и «Баварии» посетят матч «Галатасарая», чтобы понаблюдать за игрой Батрако
-2026-11-17 09:45:05,473 INFO   C1. [ru 8 outlets, heat 20.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
-2026-11-17 09:45:05,473 INFO   C2. [ru 5 outlets, heat 14.5] Боец Александр Волков подписал новый контракт с UFC
-2026-11-17 09:45:05,473 INFO   C3. [en 5 outlets, heat 12.9] UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’
-2026-11-17 09:45:05,473 INFO   C4. [ru 3 outlets, heat 9.1] Двалишвили заявил, что слышал об освобождении Нурмагомедовых после драки в ОАЭ
-2026-11-17 09:45:05,473 INFO   C5. [ru 3 outlets, heat 9.0] Нуньес согласилась провести реванш с Харрисон в полулегком весе
+2026-11-17 15:16:01,165 INFO BBC Sport                         49 items
+2026-11-17 15:16:01,275 INFO The Guardian Sport                25 items
+2026-11-17 15:16:01,348 INFO ESPN                              51 items
+2026-11-17 15:16:01,435 INFO Sky Sports                        19 items
+2026-11-17 15:16:01,658 INFO Google News – Sports (EN)         60 items
+2026-11-17 15:16:02,099 INFO Google News – 体育 (ZH)             36 items
+2026-11-17 15:16:02,725 INFO Google News – Спорт (RU)          49 items
+2026-11-17 15:16:03,927 INFO Championat                        30 items
+2026-11-17 15:16:04,489 INFO Sports.ru                         18 items
+2026-11-17 15:16:05,495 INFO Спорт-Экспресс                   425 items
+2026-11-17 15:16:06,412 INFO РИА Новости Спорт                 20 items
+2026-11-17 15:16:06,888 INFO 中国新闻网 体育                          14 items
+2026-11-17 15:16:07,195 INFO Google News – Cambodia sport      17 items
+2026-11-17 15:16:07,668 INFO Google News – Southeast Asia sport  62 items
+2026-11-17 15:16:08,194 INFO Google News – Combat promotions   97 items
+2026-11-17 15:16:08,525 INFO Google News – Boxing              25 items
+2026-11-17 15:16:08,742 INFO Google News – Kun Khmer            1 items
+2026-11-17 15:16:08,919 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-17 15:16:09,450 INFO Google News – Единоборства (RU)   94 items
+2026-11-17 15:16:09,756 WARNING Feed unreadable Google News – 格斗 (ZH): <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 15:16:09,894 INFO MMA Fighting                      10 items
+2026-11-17 15:16:10,161 INFO Google News – Khmer Times sport   17 items
+2026-11-17 15:16:11,059 INFO Candidate stories after clustering: 1014
+2026-11-17 15:16:12,607 INFO Trending skipped (not our audience): Kirk Cousins’ return revives Vikings, and other NFL trade deadline ripple effects: Pick Si
+2026-11-17 15:16:12,608 INFO Trending skipped (not our audience): Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 11)
+2026-11-17 15:16:12,608 INFO Trending skipped (clickbait): «Я был в шоке». Чемпион UFC Ван не согласился с результатом боя Гана и Хокита
+2026-11-17 15:16:12,608 INFO Trending skipped (not our audience): 2027 NFL Draft order: Titans take over No. 1 spot after Chargers grab first win of season 
+2026-11-17 15:16:12,609 INFO Trending skipped (not our audience): Quarterback With Mike Vrabel Ties Could be Patriots' Drake Maye Answer
+2026-11-17 15:16:12,610 INFO Trending skipped (clickbait): Блэйк Гриффин заступился за Леброна Джеймса на фоне скандала с вертолётом
+2026-11-17 15:16:12,611 INFO Trending skipped (politics): Глава Федерации футбола Франции Диалло выдвинут кандидатом от УЕФА на выборах президента Ф
+2026-11-17 15:16:13,421 INFO Talking points sent to Telegram (5 stories)
+2026-11-17 15:16:13,421 INFO   1. [en 19 outlets, heat 40.7] Singapore vs. Brazil Lineups & Confirmed Team News
+2026-11-17 15:16:13,421 INFO   2. [ru 10 outlets, heat 26.0] Александр Волков подписал новый контракт с UFC
+2026-11-17 15:16:13,421 INFO   3. [ru 8 outlets, heat 18.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
+2026-11-17 15:16:13,421 INFO   4. [ru 5 outlets, heat 12.7] 35-летний Паник вернулся в «Локомотив», подписав контракт до конца сезона. Он выиграл два Кубка Гага
+2026-11-17 15:16:13,421 INFO   5. [en 4 outlets, heat 11.0] DeChambeau to join European tour in 2027 after demise of LIV Golf
+2026-11-17 15:16:13,421 INFO   C1. [ru 10 outlets, heat 26.0] Александр Волков подписал новый контракт с UFC
+2026-11-17 15:16:13,421 INFO   C2. [en 6 outlets, heat 15.8] UFC Saudi Arabia’s Shara Magomedov chasing second wife so he ‘doesn’t have a desire to cheat’
+2026-11-17 15:16:13,422 INFO   C3. [en 6 outlets, heat 14.5] Nunes calls for Harrison rematch at featherweight
+2026-11-17 15:16:13,422 INFO   C4. [en 4 outlets, heat 10.8] Former world champion boxer Jorge Linares detained by ICE
+2026-11-17 15:16:13,422 INFO   C5. [ru 4 outlets, heat 10.8] В Абу-Даби освободил из-под стражи бойцов ММА Умара и Усмана Нурмагомедовых
