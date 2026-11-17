@@ -162,16 +162,25 @@
         "subject": "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SVR11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:SVR11.jpg",
-        "artist": "Ly Saroth",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Phnom_Penh_Army_Stadium.JPG/1280px-Phnom_Penh_Army_Stadium.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Phnom_Penh_Army_Stadium.JPG",
+        "artist": "User:Backpackerlife",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Svay Rieng Stadium",
+        "description": "Die Gegengerade im Army Stadium, Phnom Penh",
         "width": 1200,
-        "height": 508,
+        "height": 800,
         "year": 2015,
-        "subject": "Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng"
+        "subject": "The RCAF Old Stadium in Phnom Penh, home of the Royal Cambodian Armed Forces club"
+      },
+      {
+        "url": "../photos/cpl-clubs-map-2026.png",
+        "page": "",
+        "artist": "Bang Sport Daily (map; map data Natural Earth, public domain)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Where the 11 Cambodian Premier League clubs play in 2026-27",
+        "via": ""
       }
     ],
     "zh": {
@@ -198,7 +207,7 @@
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng\", \"wikipedia\": \"Svay Rieng Stadium\"}]}",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"The RCAF Old Stadium in Phnom Penh, home of the Royal Cambodian Armed Forces club\", \"wikipedia\": \"RCAF Old Stadium\"}, {\"caption\": \"Where the 11 Cambodian Premier League clubs play in 2026-27\", \"credit\": \"Bang Sport Daily (map; map data Natural Earth, public domain)\", \"file\": \"cpl-clubs-map-2026.png\", \"license\": \"Own work\"}]}",
     "published_at": "2026-11-17T17:01:36+07:00"
   },
   {
