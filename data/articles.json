@@ -5,7 +5,7 @@
     "date": "2026-11-17",
     "created": "2026-11-17T19:27:16+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -39,7 +39,20 @@
         "url": "https://khelnow.com/football/singapore-vs-brazil-preview-international-friendly-202611"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-17T19:29:06+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-17T19:29:06+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-17T19:29:07+07:00"
+      }
+    ],
     "en": {
       "headline": "Vinícius Scores a 12-Minute Hat-Trick as Brazil Beat Singapore 7-0",
       "subheadline": "Vinícius Júnior scored in the 9th, 15th and 21st minutes for his first international hat-trick, and Endrick, Estêvão and Rayan added goals at the National Stadium.",
@@ -134,7 +147,8 @@
         "area": "professional",
         "msg": "Only 249 words (minimum 250 for news). Thin content hurts AdSense approval"
       }
-    ]
+    ],
+    "published_at": "2026-11-17T19:29:07+07:00"
   },
   {
     "id": "2026-11-17-news-9481f5",
