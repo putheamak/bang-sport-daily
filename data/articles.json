@@ -5,7 +5,7 @@
     "date": "2026-11-17",
     "created": "2026-11-17T22:27:26+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.1-flash-lite",
     "sport": "Mixed Martial Arts",
     "tags": [
@@ -49,7 +49,20 @@
         "url": "https://en.wikipedia.org/wiki/Alexander_Volkov_(fighter)"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-17T22:40:01+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-17T22:40:01+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-17T22:40:02+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -124,7 +137,8 @@
     "lang_updated": {
       "zh": "2026-11-17T22:38:10+07:00",
       "ru": "2026-11-17T22:38:10+07:00"
-    }
+    },
+    "published_at": "2026-11-17T22:40:02+07:00"
   },
   {
     "id": "2026-11-17-news-dd0393",
