@@ -521,6 +521,19 @@ def local_copies(articles: list[dict], max_new: int = 250) -> int:
                     log.warning("Photo copy failed (Wikimedia address kept): %s: %s", url[:90], str(e)[:120])
                     continue
             im["local"] = f"../photos/c/{name}"
+            small = folder / name.replace(".jpg", "-640.jpg")      # phone-size copy (about a third of the bytes)
+            if not small.exists():
+                try:
+                    sm = Image.open(out)
+                    if sm.width > 640:
+                        sm = sm.convert("RGB")
+                        sm.thumbnail((640, 640 * sm.height // sm.width + 1), Image.LANCZOS)
+                        sm.save(small, "JPEG", quality=78, optimize=True, progressive=True)
+                except Exception as e:  # noqa: BLE001
+                    log.warning("Small photo copy failed: %s: %s", name, str(e)[:120])
+            if small.exists():
+                im["local_sm"] = f"../photos/c/{small.name}"
+                im["local_w"] = 1200
     if made:
         log.info("Photo copies: %d new photo(s) saved on our own site", made)
     return made

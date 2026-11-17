@@ -234,9 +234,17 @@ def _img(a, i=0, cls="ph", size="") -> str:
     imgs = a.get("images") or []
     if i < len(imgs):
         im = imgs[i]
-        return (f'<img class="{cls}" src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
-                f'decoding="async" referrerpolicy="no-referrer">')
+        return (f'<img class="{cls}" src="{E(im.get("local") or im["url"])}"{_srcset(im, cls)} alt="{E(im.get("subject", ""))}" '
+                f'loading="lazy" decoding="async" referrerpolicy="no-referrer">')
     return ""
+
+
+def _srcset(im, cls="") -> str:
+    """Phones get the 640px copy, larger screens the full one (only for photos copied to our own site)."""
+    if not im.get("local_sm"):
+        return ""
+    sizes = "(max-width: 900px) 100vw, 760px" if cls == "heroimg" else "(max-width: 700px) 100vw, 50vw"
+    return f' srcset="{E(im["local_sm"])} 640w, {E(im["local"])} 1200w" sizes="{sizes}"'
 
 
 def _cover(cfg, a, lang, cls="ph") -> str:
@@ -420,8 +428,8 @@ def _share(cfg, a, lang) -> str:
 
 
 def _figure(im, lang) -> str:
-    return (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
-            f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
+    return (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)} alt="{E(im.get("subject", ""))}" '
+            f'loading="lazy" referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
 
 
 def _body_with_images(a, lang) -> str:
@@ -444,7 +452,7 @@ def _body_with_images(a, lang) -> str:
     slots = [3, 7]
     for im, pos in reversed(list(zip(imgs, slots))):
         if pos < len(paras):
-            fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}" alt="{E(im.get("subject", ""))}" loading="lazy" '
+            fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)} alt="{E(im.get("subject", ""))}" loading="lazy" '
                    f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
             paras.insert(pos, fig)
     return "\n".join(paras)
@@ -822,5 +830,7 @@ def _clean_links() -> None:
         if f.exists():
             t = f.read_text(encoding="utf-8")
             n = _LOCAL_HTML.sub(fix, t)
+            # the first photo on a page is what readers see first: load it at once, with high priority
+            n = re.sub(r'(<img class="(?:heroimg|ph)"[^>]*?) loading="lazy"', r'\1 loading="eager" fetchpriority="high"', n, count=1)
             if n != t:
                 f.write_text(n, encoding="utf-8")
