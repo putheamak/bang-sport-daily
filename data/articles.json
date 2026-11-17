@@ -1,5 +1,252 @@
 [
   {
+    "id": "2026-11-18-news-653f40",
+    "slug": "japan-and-paraguay-meet-in-singapore-for-mizuho-blue-challen",
+    "date": "2026-11-18",
+    "created": "2026-11-18T01:03:15+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.5-flash-lite",
+    "sport": "football",
+    "tags": [
+      "Japan national football team",
+      "Paraguay national football team",
+      "Mizuho Blue Challenge",
+      "Kallang Football Series",
+      "Singapore National Stadium"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Japan national football team",
+      "Paraguay national football team",
+      "National Stadium, Singapore",
+      "Japan Football Association"
+    ],
+    "match": null,
+    "facts_to_verify": [
+      "Exact final score of the Japan vs Paraguay match on November 18, 2026"
+    ],
+    "sources": [
+      {
+        "title": "Football fans travel to Singapore for Mizuho Blue Challenge",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHVNVzdRS3F2aW1WUU40ajNBRTZ3TWpVckZIREJuMUxlWHNyM2VZbThhWllGT21xQnZCSWhNbGRJVWw2S3A5NDNXS0wta19mWkl1MU5sc0EtSkhxUUptTkx4bHpYcl9nZDh2WnVRVUxnU1gtaFE4RENBYzhhQW1aS0RoQWpOc2RZdWxiNl93WkRxR1NFRUhMMUN5Ujlla0k?oc=5"
+      },
+      {
+        "title": "【Scouting Report】Paraguay's Resolute Defence Poses Another Challenge for Japan",
+        "url": "https://www.jfa.jp/eng/samuraiblue/news/00034567/"
+      },
+      {
+        "title": "JFA: 【Scouting Report】Paraguay's Resolute Defence Poses Another Challenge for Japan – MIZUHO BLUE CHALLENGE THE KALLANG FOOTBALL SERIES SINGAPORE",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYy1sS1dQd21lWE5BYldwWFVlQTA3QWcyVm9nYVJZazRLQ0V4NnRzY21oZkhxMHAyakJ5YmpPRURYWDNqQ2x6ZG92dWt2T3hiWmphaDJSSm5sWHVJeVE?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Japan and Paraguay Meet in Singapore for Mizuho Blue Challenge",
+      "subheadline": "Travelling supporters gather at the National Stadium for the Kallang Football Series international fixture on November 18, 2026.",
+      "body_markdown": "## International Football Arrives in Singapore\n\nFootball fans from across the region have travelled to Singapore for the Mizuho Blue Challenge, an international fixture featuring the Japan men's national football team. The match takes place on November 18, 2026, at the National Stadium as part of the Kallang Football Series. \n\nOrganised under the banner of the Mizuho Blue Challenge, the series brings high-profile international football directly to Southeast Asian sports fans outside of standard continental qualification windows. Travelling supporters have gathered in the city-state to watch the cross-confederation fixture unfold.\n\n## Facing a Resolute Defence\n\nAhead of the fixture, scouting reports published by the Japan Football Association highlighted the specific tactical challenge posed by Paraguay. Analysis from the governing body pointed to Paraguay's resolute defence as a primary obstacle for the Japanese attack to break down at the venue.\n\nJapan enters the match following an active international calendar, while the South American side brings its characteristic defensive organization to test the Asian powerhouse on neutral soil. Coaching staff from both federations have utilized the friendly window to evaluate squad depth and test combinations away from official qualification pressures.\n\n## Broadening the Global Calendar\n\nStaging the fixture in Singapore reflects a growing trend of major national teams taking matches to neutral venues in Southeast Asia to engage international fanbases. The Kallang Football Series provides local spectators with direct access to elite players who typically compete in domestic European leagues and major continental tournaments.\n\nFollowing the final whistle at the National Stadium, both national squads will disperse back to their respective domestic and continental clubs ahead of upcoming league fixtures and upcoming tournament qualification rounds in 2027.",
+      "social_post": "Football fans gather at the National Stadium in Singapore for the Mizuho Blue Challenge between Japan and Paraguay on November 18, 2026. How do you think the Japanese attack will break down Paraguay's defence? Leave your thoughts below! #JapanFootball #MizuhoBlueChallenge #SingaporeSports #FootballFans"
+    },
+    "zh": {
+      "headline": "「瑞穗蓝之挑战」：日本队与巴拉圭队齐聚新加坡",
+      "subheadline": "2026年11月18日，球迷们汇聚新加坡国家体育场，共同见证加冷足球系列赛的巅峰对决。",
+      "body_markdown": "## 国际足球赛火热登陆新加坡\n\n来自全地区的足球迷们已经齐聚新加坡，准备迎接「瑞穗蓝之挑战」（Mizuho Blue Challenge）——一场由日本国家男子足球队领衔的国际友谊赛。这场比赛将于2026年11月18日在国家体育场举行，是加冷足球系列赛（Kallang Football Series）的重要组成部分。\n\n作为「瑞穗蓝之挑战」旗下的重头戏，该系列赛旨在将顶级国际足球赛事直接带给东南亚的体育迷，填补了常规洲际预选赛窗口期的空白。远道而来的支持者们已聚集在这座城市国家，共同期待这场跨洲际对决的展开。\n\n## 挑战坚固防线\n\n赛前，日本足协发布的球探报告特别强调了巴拉圭队带来的战术考验。根据足协的分析，巴拉圭队坚韧的防守体系将成为日本队在比赛中试图攻破的首要障碍。\n\n日本队在经历了紧凑的国际比赛日后迎来此役，而南美劲旅则将以其标志性的防守组织能力，在中立场地测试这支亚洲强队的锋线火力。双方教练组都利用这次友谊赛窗口期，在没有正式预选赛压力的情况下，评估阵容深度并尝试不同的球员组合。\n\n## 拓展全球足球版图\n\n将比赛安排在新加坡，反映出一种日益增长的趋势：各大国家队正越来越多地将比赛带往东南亚的中立场地，以吸引当地的国际球迷群体。加冷足球系列赛为当地观众提供了近距离接触顶级球星的机会，这些球员平时多效力于欧洲联赛或参加各大洲际顶级赛事。\n\n在国家体育场的终场哨响之后，两支国家队将各自奔赴所属的俱乐部，备战接下来的联赛以及2027年的各项预选赛。",
+      "social_post": "2026年11月18日，日本队与巴拉圭队的「瑞穗蓝之挑战」在新加坡国家体育场打响！大家认为日本队的进攻能撕开巴拉圭的铁桶阵吗？欢迎在评论区留下你的看法！#日本足球 #瑞穗蓝之挑战 #新加坡体育 #足球迷"
+    },
+    "ru": {
+      "headline": "Япония против Парагвая: «Mizuho Blue Challenge» в Сингапуре",
+      "subheadline": "18 ноября 2026 года болельщики со всего мира соберутся на Национальном стадионе, чтобы увидеть матч в рамках серии Kallang Football Series.",
+      "body_markdown": "## Большой футбол в Сингапуре\n\nФутбольные болельщики со всего региона съезжаются в Сингапур на «Mizuho Blue Challenge» — международный товарищеский матч с участием мужской сборной Японии. Встреча пройдет 18 ноября 2026 года на Национальном стадионе в рамках серии Kallang Football Series.\n\nСерия «Mizuho Blue Challenge» призвана подарить болельщикам из Юго-Восточной Азии возможность увидеть футбол высочайшего уровня вне рамок официальных отборочных турниров. Гости города уже готовятся к захватывающему межконтинентальному противостоянию.\n\n## Взлом «бетонной» обороны\n\nСогласно предматчевым отчетам Японской футбольной ассоциации, главной задачей для «самураев» станет преодоление организованной обороны Парагвая. Аналитики ассоциации подчеркивают, что именно оборонительные редуты южноамериканцев станут основным препятствием для японской атаки.\n\nЯпония подходит к матчу после насыщенного календаря, в то время как парагвайцы намерены проверить азиатскую сборную на прочность, используя свои фирменные оборонительные схемы на нейтральном поле. Тренерские штабы обеих команд рассматривают этот матч как возможность оценить глубину состава и опробовать новые игровые сочетания без давления турнирной таблицы.\n\n## Расширяя границы\n\nПроведение матча в Сингапуре отражает современный тренд: топовые сборные все чаще выбирают нейтральные поля в Юго-Восточной Азии для расширения своей фан-базы. Серия Kallang Football Series дает местным зрителям шанс вживую увидеть звезд мирового футбола, которые обычно выступают в европейских чемпионатах и на крупнейших континентальных турнирах.\n\nСразу после финального свистка на Национальном стадионе игроки обеих сборных отправятся в расположение своих клубов для подготовки к клубным чемпионатам и отборочным играм 2027 года.",
+      "social_post": "18 ноября 2026 года на Национальном стадионе в Сингапуре пройдет «Mizuho Blue Challenge» между Японией и Парагваем. Как вы думаете, удастся ли японской атаке взломать оборону парагвайцев? Пишите свои прогнозы в комментариях! #Япония #Парагвай #MizuhoBlueChallenge #Сингапур #Футбол"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg/1280px-Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg",
+        "artist": "CEphoto, Uwe Aranas",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Singapore: Singapore Sports Hub with the National Stadium, seen from Marina Bay Sands top observation deck",
+        "width": 1200,
+        "height": 692,
+        "year": 2015,
+        "subject": "National Stadium, Singapore"
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2015. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact final score of the Japan vs Paraguay match on November 18, 2026"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-18-news-e8e3fa",
+    "slug": "alexander-volkov-signs-multi-fight-contract-extension-with-u",
+    "date": "2026-11-18",
+    "created": "2026-11-18T01:01:23+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.1-flash-lite",
+    "sport": "Combat Sports",
+    "tags": [
+      "UFC",
+      "Alexander Volkov",
+      "MMA",
+      "Heavyweight"
+    ],
+    "athletes": [
+      "Alexander Volkov"
+    ],
+    "image_subjects": [
+      "Alexander Volkov",
+      "Ultimate Fighting Championship",
+      "Mixed martial arts"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Александр Волков подписал новый контракт с UFC",
+        "url": "https://allboxing.ru/news/20261117-1500/aleksandr-volkov-podpisal-novyy-kontrakt-s-ufc"
+      },
+      {
+        "title": "Менеджер Волкова: Александр подписал новый контракт с UFC на улучшенных условиях",
+        "url": "https://matchtv.ru/martial_arts/matchtvnews_NI2144815_Menedzher_Volkova_Aleksandr_podpisal_novyj_kontrakt_s_UFC_na_uluchshennyh_uslovijah"
+      },
+      {
+        "title": "Allboxing: Александр Волков подписал новый контракт с UFC",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGlNMnYwMkotbU5pTC1iT0g0ZmVEenQtcXVuMHpSOXZTMS1KS3doelM3MEZQRk43OUdPdEwtWVRYdy1tY2wyZEtSSkRGU0RTWXpKNEFaZ09aSUMyVlFpNnBoN2h1NG9QVnlzRmVJR3pfbXlrN2xoaTZFNklHbEhBQjAyanlXUUk3VzNiN2VIWQ?oc=5"
+      },
+      {
+        "title": "Sport.ru: Волков подписал улучшенный контракт с UFC и ведёт переговоры о титуле",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0pOZjVsWEN5azBJaXlMZDZGLUNQdFExRS1SREhHSzE1WWplLWJHNXhIcjQtWTZHeFllb0JZVFBLX3NJYzhGTEhWa3FkN1ZoYkFLNng2cXNOUDRCRXlOcVBCcDNXSUZDSEJSbEFJdjhYNG92SWJfMjkyZTB3UnU3MzgzeTAyaWlhX0duUXZ4d09mT3NaNko2cEg5Rml6RWtHYzh1eXo2UmVkbWFUelNXa2NPVQ?oc=5"
+      },
+      {
+        "title": "1istochnik: Боец UFC Александр Волков подписал новый контракт с промоушеном",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85N1R2bjItekxCcGxVUFBGUmdsSUlqNWZBSFZoRWlSN2cyWjNsWEtMVlhKNEFocUdHZzZmeE9mNDJfTk1SU0xvMVBn?oc=5"
+      },
+      {
+        "title": "https://www.championat.ru/: Александр Волков подписал новый контракт с UFC",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlZBbnNmUFA0NllsRU8wMTMwOWNFUDRRbkRNZWVSclpMVUZpbnpPdHEzV1dySnZCQnN2ZTc3cGxFYlZfQ2FmWU9PZGZCMV9jWXE4dDF0Mlp0d202WEhuN3h1bUxpXzkySmxLalZlelhrUHowRXVmN2x1anpyLXNkcUtYQ1dLdWdDN1A4cnBUZzl1M2MyRDdkTW4tUmg1dw?oc=5"
+      },
+      {
+        "title": "legalbet.ru: Волков подписал новый контракт с UFC и нацелился на титул",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2RzbEhXc3FIMjMta3VtcHNXN0xXMVVyUGRWZGpWc2l6UGtDZXp0TGR5WENmZGJEMDRWdkQwWmV1eFNyWk5NT2oxMlRtb1BWcGZTQVFoa0RtMXpxN3dJUVUtN3pxbjQ1YUgtaEpyVVdHeWtTMWhEWVdoenZ0SEI2dGc0R0hVeFdjLXFPbmZCMzVTaVVTZW1B?oc=5"
+      },
+      {
+        "title": "Meta MMA: Волков заключил новый контракт с UFC на улучшенных условиях",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmFKREdZdS1xSVJnYlNuSUZFMTRoWUFwaGtPTGJabjJhS1A5bXZTVWtPTzNzeEQ3c2ZmZ1lvdFB0d0JleTY4WDhWdDE5QnJoT3U2YzZzZUVrRmR3Z19OUGpzQzJYQXEtVUJaT3c5TjJSLTNjY0FfTjlrSE9HVG9EdGZ0ekhhbk5QR2Q1SDB0c1FyanI4LTh2X3NYZFZyYXNZZkhOU0N2YndZZw?oc=5"
+      },
+      {
+        "title": "Sport24.ru: Волков подписал новый контракт с UFC: «Конечно, он лучше предыдущего. Мы обсуждаем чемпионский бой уже сейчас»",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWI2X2l3eEI1cmdjdFpuTXZSa2prR1lfVHFzNjA4WGZHc1dDck9rTUs4VDgxSWd5UHlrMElFOVlPeEF5c0Y4b2hRVXd5dnc1bVNZNHBHNTU4RlB2aENRYWxwLU5scy1YRGVLZE14bjJXUTMyY2ZaMWhOYmZmVElNNmJCQUhzeDJidXlJdU1DNE9xNUN3OFdKVlRRWWpUM3FtX0ZMODI4XzM0UHZXMTZ3UC1JTWd3Q3FFUzk4enRlaV9lV1luVTAxMkZla1hVa1VMUnZZN2lNQ0VtOGVkQWh3VWRWVC1ZZ9IB6wFBVV95cUxNc0JXOGNKUUtueENEcE8tODFya3ptYlJyLTJhdjVuWXBCRHBEd2Y3azhoSklzNkw0LVpDa3hqbnB6di1rb3cyRmVrRS1oUzU4S25JdnVRSkpLSl94ek1SVVE0NlplZjdWS3NZa0hHakd2Z09yRDVNS0o3T25ncTQ2bkRKVWpKSmYyeV9nMEpodmlKem9WVE1yZWNidnZndEpBUjdYYjlWczRPQkZPcVNiYWlFTUpKeF9OUTh2UmdLLTlmSGRTcXM5NXVWM21rWjBhaUNYVUV0MXZsMEZqM3hXOHdjSTI0cFMxald3?oc=5"
+      },
+      {
+        "title": "Советский спорт: Боец Александр Волков подписал новый контракт с UFC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1F4OGFOSDFWR3ZwNnBGclBSY2d3OW82MEhaMW1tWlA5UWt6S0J1ZHBmd1dsdnRMMWR3NWF5RWtZc1pySnllcHBQTk4zNURrWnlSM2RpYlMyMm54UFFBT2lqMkF3Q2k1U1JoNXk4a0xOcnZyZG02VGNwNG0tZXRVWWJWVUYyUUE3SGRTZnlR?oc=5"
+      },
+      {
+        "title": "Матч ТВ: Менеджер Волкова: «Александр подписал новый контракт с UFC на улучшенных условиях. Обсуждаем чемпионский бой уже сейчас»",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZUVxRDJSNWR3ZUtDNjVxNk5XNTBnSXFCaVJRaldXWlIzMjVKVXFDMlVzVlZaeUpkWG5lcDRqRjQ4WFdncjFtNkxuYm5fNWNNeWkxeS1NYXU4cEU4bmtQTFhZcE9nREMxUWFEalZqYUFVamlieDktcERncWNjU3E3N2FDbUNXMmxXc0FaMk55WlpOWVM4QTdVYlpnY0U2SnhaYVpCcHRCSlhqYnJEQ3FScmp3aGIwNlZpX056ZUtQaGFsbjRzSFNkTzYtZ0Z0RkgwX1NYelZ4MnFvQjl5OUY3UzNjRUFxWC1XcjBjRlA0Q1JuTFFUbkwwTXNUTm9qMFVKS29tX2N3UkI5RDg?oc=5"
+      },
+      {
+        "title": "Рейтинг Букмекеров: Александр Волков заключил новый контракт с UFC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEJvT0pGc2ZlTmNOZ2dnQjNrc29MODhGZlVoaVhuc0RBUWtpdEVKLUN1MTRFY1g4bkZnZk9sNXJoM1dBT2lGOEFfcjJwVEZnQjZKZTBtUjU5cHBLdk1GaXI3Nk9fWmZOQWRQZHNSZVhTR2FqNmw2VWdUejlCUl9QaXhyakJDaUJ6enhj?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Волков подписал новый контракт с UFC",
+        "url": "https://www.sport-express.ru/martial/mma/ufc/news/aleksandr-volkov-podpisal-novyy-kontrakt-s-ufc-2475787/"
+      },
+      {
+        "title": "sport-express.ru: Волков подписал новый контракт с UFC",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRUJvd0JuaTlFWWFDNWEzUVhUSFdSUm9heEtzZ2NsZUcyeFlFUEhPa0loX2NUZUFhWTN6bHJuNHduaTVzeVQxQ3JXWVBnelAtMFVNT0NCMEpfVm5tdl91SzBBSXF4ZDAzSzNFcHhxMlNDZFlkVHBnOGsteld1aVpRbC1SU3ZpTjdvSzJkNm82cl9mcnNFUFk0NElkaEJteHhnUzU2QjFiNG1Ldw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Alexander Volkov Signs Multi-Fight Contract Extension with UFC",
+      "subheadline": "The heavyweight contender secures improved terms as negotiations for a championship opportunity begin",
+      "body_markdown": "Russian heavyweight contender Alexander Volkov has signed a new, improved contract with the Ultimate Fighting Championship (UFC), as reported by multiple outlets on November 17, 2026. The agreement marks a significant milestone for the 38-year-old fighter, who has established himself as a consistent presence in the promotion's upper echelon.\n\n## Improved Terms and Title Aspirations\n\nAccording to statements provided by his management team to *Match TV* and *Sport24*, the new deal offers superior financial terms compared to his previous agreement. Following the signing, Volkov’s representatives confirmed that discussions regarding a potential championship fight have already commenced with UFC leadership. \n\nVolkov, currently ranked among the top heavyweights, has spent years navigating a division dominated by high-profile talent. The transition to an improved contract reflects his recent performance trajectory and his status as a viable challenger for the heavyweight crown. While no specific opponent or date has been finalized for a title eliminator or championship bout, the active dialogue signals the UFC's intent to position the Moscow-born athlete for a marquee fight in the near future.\n\n## Context in the Heavyweight Division\n\nVolkov joined the UFC in 2016 and has since compiled a record that includes victories over several former champions and perennial contenders. His technical striking background and reach advantage have made him a difficult stylistic puzzle for opponents in the heavyweight class. \n\nThis contract extension arrives at a critical juncture for the heavyweight division, which is currently undergoing shifts in personnel and ranking. By securing long-term ties with the organization, Volkov gains the leverage required to pursue the ultimate goal of his career: the UFC heavyweight championship. Industry analysts note that his consistent activity and ability to remain healthy have been key factors in the organization's decision to offer a lucrative renewal at this stage of his professional tenure. \n\nAs of November 18, 2026, the promotion has not officially announced the details of Volkov’s next appearance, though the fighter has consistently expressed his readiness to face the division’s top-tier names to secure his path to the gold.",
+      "social_post": "Heavyweight contender Alexander Volkov has officially signed a new, improved contract with the UFC. With the deal secured, his team has confirmed that negotiations for a championship title fight are already underway. Could a title shot be on the horizon for the Russian veteran? Share your thoughts on his chances against the division's elite! #UFC #AlexanderVolkov #MMA #Heavyweight"
+    },
+    "zh": {
+      "headline": "亚历山大·沃尔科夫与UFC续签多年合同",
+      "subheadline": "这位重量级名将获得待遇提升，冠军战谈判已正式开启",
+      "body_markdown": "据多家媒体于2026年11月17日报道，俄罗斯重量级名将亚历山大·沃尔科夫（Alexander Volkov）已与终极格斗冠军赛（UFC）签署了一份待遇更优的新合同。对于这位38岁的选手而言，这份协议标志着他职业生涯的一个重要里程碑，也进一步巩固了他作为该级别顶尖选手的地位。\n\n## 待遇提升与冠军雄心\n\n根据其经纪团队向《Match TV》和《Sport24》透露的消息，这份新合同的财务条款较此前协议有了显著提升。沃尔科夫的经纪人确认，在续约完成后，他们已正式与UFC高层开启关于冠军挑战权的相关讨论。\n\n沃尔科夫目前稳居重量级排名前列，多年来一直在强手如林的级别中稳步前行。此次获得加薪续约，反映了他近期的竞技状态，以及他作为重量级冠军头衔有力争夺者的身份。尽管目前尚未确定冠军挑战赛或头衔筛选赛的具体对手与日期，但双方积极的对话表明，UFC有意在不久的将来为这位莫斯科出生的选手安排一场重头戏。\n\n## 重量级格局分析\n\n沃尔科夫于2016年加入UFC，此后他不仅击败了多位前冠军，更是在面对常青树级挑战者时保持了出色的战绩。他扎实的打击技术和臂展优势，使他成为重量级选手中公认的“难缠对手”。\n\n这份续约正值重量级格局变动、人员更迭的关键时期。通过与组织达成长期合作，沃尔科夫获得了冲击职业生涯终极目标——UFC重量级冠军头衔的筹码。业内分析人士指出，他始终保持活跃的比赛频率和良好的健康状态，是UFC决定在其职业生涯现阶段提供高薪续约合同的关键因素。\n\n截至2026年11月18日，UFC官方尚未公布沃尔科夫下场比赛的具体细节，但这位老将多次表示，为了通往金腰带之路，他已做好随时迎战级别顶尖高手的准备。",
+      "social_post": "重量级名将亚历山大·沃尔科夫正式与UFC完成续约，待遇迎来升级！其团队确认，关于冠军挑战赛的谈判已经开启。你认为这位俄罗斯老将离挑战金腰带还有多远？在评论区聊聊你对他冲击冠军前景的看法！#UFC #亚历山大沃尔科夫 #MMA #重量级"
+    },
+    "ru": {
+      "headline": "Александр Волков подписал новый долгосрочный контракт с UFC",
+      "subheadline": "Тяжеловес добился улучшенных условий на фоне начала переговоров о титульном бое",
+      "body_markdown": "Российский тяжеловес Александр Волков подписал новый, улучшенный контракт с UFC, о чем 17 ноября 2026 года сообщили сразу несколько авторитетных источников. Это соглашение стало важной вехой в карьере 38-летнего бойца, который прочно закрепился в элите мирового ММА.\n\n## Улучшенные условия и прицел на пояс\n\nКак сообщили представители команды Волкова «Матч ТВ» и Sport24, новый контракт предусматривает значительно более выгодные финансовые условия, чем предыдущий. Сразу после подписания менеджмент бойца подтвердил, что переговоры с руководством UFC о потенциальном поединке за чемпионский титул уже стартовали.\n\nВолков, стабильно входящий в топ рейтинга тяжелого веса, годами пробивал себе путь через дивизион, переполненный высококлассными атлетами. Улучшение условий контракта стало прямым отражением его текущей формы и статуса реального претендента на корону. Хотя дата и имя соперника для титульного боя или претендентского поединка еще не утверждены, активный диалог сторон говорит о намерении UFC организовать для москвича статусное противостояние в ближайшем будущем.\n\n## Контекст в тяжелом дивизионе\n\nВолков выступает в UFC с 2016 года, и на его счету победы над рядом бывших чемпионов и топовых претендентов. Благодаря своей техничной ударной базе и преимуществу в размахе рук он стал «неудобным пазлом» для большинства соперников в тяжелом весе.\n\nЭто продление контракта происходит в критически важный момент для дивизиона, который переживает смену поколений и перестановки в рейтингах. Закрепив долгосрочные отношения с промоушеном, Волков получил необходимые рычаги для осуществления главной цели своей карьеры — завоевания чемпионского титула UFC. Эксперты индустрии отмечают, что стабильная активность и умение избегать серьезных травм стали решающими факторами, убедившими организацию предложить выгодное продление на данном этапе карьеры бойца.\n\nПо состоянию на 18 ноября 2026 года промоушен официально не анонсировал детали следующего выступления Волкова, однако сам боец неоднократно выражал готовность встретиться с любым из топов дивизиона, чтобы проложить себе путь к золоту.",
+      "social_post": "Тяжеловес Александр Волков официально подписал новый, улучшенный контракт с UFC. Команда бойца подтвердила: переговоры о титульном поединке уже идут полным ходом. Как считаете, увидим ли мы российского ветерана в бою за пояс в ближайшее время? Делитесь мнением в комментариях! #UFC #АлександрВолков #ММА #ТяжелыйВес"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/UFC_131_Carwin_vs._JDS.jpg/1280px-UFC_131_Carwin_vs._JDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_131_Carwin_vs._JDS.jpg",
+        "artist": "Bad intentionz",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Picture of fighters Shane Carwin and Junior Dos Santos facing off at UFC 131 in Vancouver, Canada.",
+        "width": 1200,
+        "height": 970,
+        "year": 2011,
+        "subject": "Mixed martial arts"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sergei_Pavlovich_vs_Alexander_Volkov_face_off_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Sergei_Pavlovich_vs_Alexander_Volkov_face_off_(cropped).png",
+        "artist": "Sexto Round",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Sergei Pavlovich and Alexander Volkov face to face, at the ceremonial weigh-in of UFC on ABC 6, taken from the YouTube channel Sexto Round. (Cropped at 9:00).",
+        "width": 1200,
+        "height": 1866,
+        "year": 2024,
+        "subject": "Alexander Volkov (fighter)"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2011. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      }
+    ]
+  },
+  {
     "id": "2026-11-17-news-b168e0",
     "slug": "alexander-volkov-commits-to-new-ufc-contract",
     "date": "2026-11-17",
