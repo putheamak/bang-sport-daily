@@ -1,25 +1,24 @@
-2026-11-16 18:28:35,238 INFO BBC Sport                         46 items
-2026-11-16 18:28:35,406 INFO The Guardian Sport                25 items
-2026-11-16 18:28:35,480 INFO ESPN                               0 items
-2026-11-16 18:28:35,684 INFO Sky Sports                        20 items
-2026-11-16 18:28:36,071 INFO Google News – Sports (EN)         62 items
-2026-11-16 18:28:36,281 INFO Google News – 体育 (ZH)             27 items
-2026-11-16 18:28:36,615 INFO Google News – Спорт (RU)          46 items
-2026-11-16 18:28:37,715 INFO Championat                        29 items
-2026-11-16 18:28:38,635 INFO Sports.ru                         15 items
-2026-11-16 18:28:40,676 INFO Спорт-Экспресс                   427 items
-2026-11-16 18:28:41,812 INFO РИА Новости Спорт                 20 items
-2026-11-16 18:28:42,301 INFO 中国新闻网 体育                          29 items
-2026-11-16 18:28:42,667 INFO Google News – Cambodia sport      16 items
-2026-11-16 18:28:43,206 INFO Google News – Southeast Asia sport  58 items
-2026-11-16 18:28:43,736 INFO Google News – Combat promotions   95 items
-2026-11-16 18:28:44,071 INFO Google News – Boxing              24 items
-2026-11-16 18:28:44,289 INFO Google News – Kun Khmer            2 items
-2026-11-16 18:28:44,462 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-16 18:28:45,148 INFO Google News – Единоборства (RU)   88 items
-2026-11-16 18:28:45,446 INFO Google News – 格斗 (ZH)             28 items
-2026-11-16 18:28:45,737 INFO MMA Fighting                      10 items
-2026-11-16 18:28:46,075 INFO Google News – Khmer Times sport   23 items
-2026-11-16 18:28:47,175 INFO Candidate stories after clustering: 992
-2026-11-16 18:28:47,773 INFO IndexNow: 6 page(s) submitted (HTTP 200)
-2026-11-16 18:28:50,526 INFO Website built: 48 published stories, 189 pages
+2026-11-17 02:54:43,291 INFO BBC Sport                         46 items
+2026-11-17 02:54:43,428 INFO The Guardian Sport                24 items
+2026-11-17 02:54:43,450 INFO ESPN                               0 items
+2026-11-17 02:54:43,554 INFO Sky Sports                        19 items
+2026-11-17 02:54:43,908 WARNING Feed unreadable Google News – Sports (EN): <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:44,442 WARNING Feed unreadable Google News – 体育 (ZH): <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:45,236 INFO Google News – Спорт (RU)          35 items
+2026-11-17 02:54:46,315 INFO Championat                        30 items
+2026-11-17 02:54:47,216 INFO Sports.ru                         20 items
+2026-11-17 02:54:49,287 INFO Спорт-Экспресс                   380 items
+2026-11-17 02:54:50,368 INFO РИА Новости Спорт                 20 items
+2026-11-17 02:54:51,228 INFO 中国新闻网 体育                          14 items
+2026-11-17 02:54:51,634 INFO Google News – Cambodia sport      14 items
+2026-11-17 02:54:51,881 WARNING Feed unreadable Google News – Southeast Asia sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:52,582 INFO Google News – Combat promotions   97 items
+2026-11-17 02:54:52,981 WARNING Feed unreadable Google News – Boxing: <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:53,332 INFO Google News – Kun Khmer            2 items
+2026-11-17 02:54:53,603 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-17 02:54:54,275 INFO Google News – Единоборства (RU)   84 items
+2026-11-17 02:54:54,636 WARNING Feed unreadable Google News – 格斗 (ZH): <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:54,845 INFO MMA Fighting                      10 items
+2026-11-17 02:54:55,264 WARNING Feed unreadable Google News – Khmer Times sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-17 02:54:56,103 INFO Candidate stories after clustering: 727
+2026-11-17 02:54:58,969 INFO Website built: 48 published stories, 189 pages
