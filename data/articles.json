@@ -125,6 +125,30 @@
     "region": "cambodia",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png",
+        "artist": "EAKHFootball",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "The National Olympic Stadium (Phnom Penh) in the final match of 2023 Southeast Asian Games' men's football tournament",
+        "width": 1200,
+        "height": 675,
+        "year": 2023,
+        "subject": "The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/RSN_Stadium_Pitch.jpg/1280px-RSN_Stadium_Pitch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:RSN_Stadium_Pitch.jpg",
+        "artist": "កូនប្រចៀវ",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "View of RSN Stadium",
+        "width": 1200,
+        "height": 900,
+        "year": 2024,
+        "subject": "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Front_porch_of_Wat_Damnak.jpg/1280px-Front_porch_of_Wat_Damnak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.jpg",
         "artist": "Willuconquer",
@@ -135,18 +159,6 @@
         "height": 900,
         "year": 2022,
         "subject": "Siem Reap, home of Angkor Tiger"
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B9%88%E0%B8%B2_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C_Chang_Arena%2CBuriram%2CThailand_%2810%29.jpg/1280px-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B9%88%E0%B8%B2_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C_Chang_Arena%2CBuriram%2CThailand_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B9%88%E0%B8%B2_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C_Chang_Arena,Buriram,Thailand_(10).jpg",
-        "artist": "กสิณธร ราชโอรส",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "",
-        "width": 1200,
-        "height": 283,
-        "year": 2019,
-        "subject": "Chang Arena, home of Buriram United, Thailand's best-attended club"
       }
     ],
     "zh": {
@@ -177,7 +189,8 @@
         "area": "sources",
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Siem Reap, home of Angkor Tiger\", \"wikipedia\": \"Siem Reap\"}]}"
   },
   {
     "id": "2026-11-17-athl-2a2b3f",
