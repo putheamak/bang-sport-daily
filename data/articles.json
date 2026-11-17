@@ -162,16 +162,16 @@
         "subject": "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
       },
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Front_porch_of_Wat_Damnak.jpg/1280px-Front_porch_of_Wat_Damnak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.jpg",
-        "artist": "Willuconquer",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SVR11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:SVR11.jpg",
+        "artist": "Ly Saroth",
         "license": "CC BY-SA 4.0",
         "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "The front proch of Wat Damnak has depressed arches typical of the colonial era monasteries in Cambodia.",
+        "description": "Svay Rieng Stadium",
         "width": 1200,
-        "height": 900,
-        "year": 2022,
-        "subject": "Siem Reap, home of Angkor Tiger"
+        "height": 508,
+        "year": 2015,
+        "subject": "Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng"
       }
     ],
     "zh": {
@@ -198,7 +198,7 @@
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Siem Reap, home of Angkor Tiger\", \"wikipedia\": \"Siem Reap\"}]}",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"Visakha Stadium in Phnom Penh, home of Visakha\", \"wikipedia\": \"Visakha Stadium\"}, {\"caption\": \"Svay Rieng Stadium, home of three-time defending champions Preah Khan Reach Svay Rieng\", \"wikipedia\": \"Svay Rieng Stadium\"}]}",
     "published_at": "2026-11-17T17:01:36+07:00"
   },
   {
