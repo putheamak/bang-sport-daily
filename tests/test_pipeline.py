@@ -1074,3 +1074,37 @@ def test_photo_copies_and_news_sitemap(repo, monkeypatch):
     news = (repo / "docs/news-sitemap.xml").read_text()
     assert "/en/fresh-story</loc>" in news and "old-story" not in news and "<news:language>en<" in news
     assert "news-sitemap.xml" in (repo / "docs/robots.txt").read_text()
+
+
+def test_gemini_daily_quota_memory(repo, monkeypatch):
+    """A model that keeps answering 429 is remembered as out of quota for the day and skipped by later calls."""
+    import importlib
+    from types import SimpleNamespace
+    from google import genai
+    from sportnews import llm, common
+    llm = importlib.reload(llm)
+    monkeypatch.setattr(llm.time, "sleep", lambda s: None)
+    calls = []
+
+    class Models:
+        def list(self):
+            return [SimpleNamespace(name=n, supported_actions=["generateContent"])
+                    for n in ("models/gemini-9.0-flash", "models/gemini-9.0-flash-lite")]
+
+        def generate_content(self, model, contents, config):
+            calls.append(model)
+            if "lite" not in model:
+                raise RuntimeError("429 RESOURCE_EXHAUSTED. You exceeded your current quota")
+            return SimpleNamespace(text="ok text", candidates=[])
+
+    monkeypatch.setattr(genai, "Client", lambda **kw: SimpleNamespace(models=Models()))
+    c = cfg()
+    c["ai"]["gemini"]["google_search"] = False
+    text, _, model = llm._gemini(c, "sys", "prompt", search=False)
+    assert text == "ok text" and "lite" in model
+    q = common.read_json(common.DATA / "gemini_quota.json", {})
+    assert any("flash" in m and "lite" not in m for m in q["exhausted"])
+    n = len(calls)
+    llm._gemini(c, "sys", "prompt", search=False)
+    assert all("lite" in m for m in calls[n:])          # the exhausted model is not tried again
+    assert "ok" in llm.usage_summary()
