@@ -14,13 +14,15 @@ The new deal comes a month after Volkov's last appearance. At UFC 333 in Abu Dha
 
 ## The career so far
 
-Volkov, 38, has a professional record of 41 wins and 11 losses, Rambler Sport reported, citing TASS. Before joining the UFC he held the heavyweight titles of Bellator and M-1 Global.
+Volkov, 38, has a professional record of 41 wins and 11 losses, Rambler Sport reported, citing TASS. Born in Moscow and nicknamed "Drago", he stands 2.01 metres tall. Before joining the UFC he held the heavyweight titles of Bellator, from 2012 to 2013, and M-1 Global, from 2016.
 
 He made his UFC debut in 2016 with a win over Timothy Johnson. Since then he has fought 20 times in the promotion and won 15 of those bouts, according to Sports.kz.
 
 ## What happens next
 
 The UFC has not announced Volkov's next fight. The heavyweight title is held by Ciryl Gane, who kept it with a unanimous decision over Josh Hokit at UFC 334 on 14 November.
+
+Volkov has already fought Gane twice. He lost a unanimous decision in June 2021, and a split decision in their rematch at UFC 310 in December 2024. Nineteen of 20 media outlets scored that rematch for Volkov.
 
 ---
 **Sources**
