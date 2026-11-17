@@ -1,7 +1,11 @@
-2026-11-17 06:24:11,097 INFO Corrected English for 2026-11-17-athl-2a2b3f
-2026-11-17 06:24:11,097 INFO Added zh translation for 2026-11-17-athl-2a2b3f
-2026-11-17 06:24:11,098 INFO Added ru translation for 2026-11-17-athl-2a2b3f
-2026-11-17 06:24:11,333 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
-2026-11-17 06:24:12,050 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-17 06:24:14,620 INFO Website built: 48 published stories, 189 pages
-2026-11-17 06:24:14,620 INFO Imported 1 editor's article(s): 2026-11-17-athl-2a2b3f
+2026-11-17 09:50:46,776 INFO Importing editor's article: 2026-11-17-cpl-all-clubs-fans.md
+2026-11-17 09:50:47,388 WARNING No free-licence lead photo for Wikipedia article 'Angkor Tiger FC'
+2026-11-17 09:50:48,032 WARNING No free-licence lead photo for Wikipedia article 'Preah Khan Reach Svay Rieng FC'
+2026-11-17 09:50:48,619 WARNING No free-licence lead photo for Wikipedia article 'Phnom Penh Crown FC'
+2026-11-17 09:50:48,962 INFO Photo check Front_porch_of_Wat_Damnak.jpg (Wikimedia Commons, 4032x3024): OK, licence 'CC BY-SA 4.0'
+2026-11-17 09:50:49,258 INFO Photo check ช้างอารีน่า_อ.เมือง_จ.บุรีรัมย์_Chang_Arena,Buriram,Thailand_(10).jpg (Wikimedia Commons, 8128x1920): OK, licence 'CC BY-SA 4.0'
+2026-11-17 09:50:49,463 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
+2026-11-17 09:50:51,831 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-17 09:50:53,073 INFO IndexNow: 3 page(s) submitted (HTTP 200)
+2026-11-17 09:50:54,629 INFO Website built: 49 published stories, 192 pages
+2026-11-17 09:50:54,629 INFO Imported 1 editor's article(s): 2026-11-17-news-9481f5
