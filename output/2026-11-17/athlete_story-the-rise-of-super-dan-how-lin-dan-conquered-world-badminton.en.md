@@ -1,36 +1,37 @@
-# The Rise of Super Dan: How Lin Dan Conquered World Badminton
+# Lin Dan: How 'Super Dan' Won Every Major Title in Badminton
 
-*From early piano lessons in Fujian to an unmatched legacy of nine major titles and consecutive Olympic golds, trace the journey of badminton's greatest champion.*
+*He lost in the first round of his first Olympics, then won gold in Beijing and London, five world titles and all nine of the sport's major titles.*
 
 **Athlete story** · 2026-11-17
 
-## From Fujian Roots to the National Team
+## From Fujian to the national team
 
-Born on 14 October 1983 in Fujian, China, Lin Dan started life with an entirely different artistic trajectory than the one that ultimately made him a global sports icon. At a young age, his parents encouraged him to learn the piano with the hope that he would become a pianist. Instead, the young Lin gravitated toward badminton, beginning his formal training at the age of five.
+Lin Dan was born on 14 October 1983 in Longyan, in China's Fujian province. He started playing badminton at the age of five and later joined the People's Liberation Army sports team. He played for China's national team from 2000 until 2020, NBC Sports reported.
 
-His raw talent quickly caught the attention of scouts across the country. After winning the National Junior Championships at just twelve years old, Lin was scouted by the People's Liberation Army Sports Team. By 2001, at the age of 18, he officially entered the Chinese National Badminton Team, marking the formal beginning of his senior professional career.
+His breakthrough came at the 2004 All England Open, where he beat Denmark's Peter Gade in the final to win his first All England title. Around that time he became known as "Super Dan", the nickname that stayed with him for the rest of his career.
 
-## Early Setbacks and the Birth of 'Super Dan'
+## The first Olympic setback
 
-Lin's transition to the senior ranks brought immediate challenges and fierce internal competition. In his first professional final at the Asian Championships, he was thrashed by compatriot Xia Xuanze. Early tour appearances tested his resilience further, including losses at the Denmark Open and a defeat to Xia at the Japan Open in 2003.
+Lin went to the 2004 Olympic Games in Athens as the top seed in men's singles. He lost his first match to Ronald Susilo of Singapore. It was the first of four Olympic Games for him.
 
-The defining turning point of his early stardom arrived at the 2004 All England Open final. After defeating Denmark's Peter Gade to claim his first ever All England title, Gade dubbed him "Super Dan"—a moniker that was immediately adopted by fans and media worldwide in recognition of his extraordinary achievements.
+## Two Olympic titles
 
-Yet the path was rarely smooth. At the 2004 Olympic Games in Athens, entering as the top seed in his maiden Olympic appearance, Lin suffered a shock early exit at the hands of Singapore's Ronald Susilo, who remarked that the Chinese star appeared "too eager to win." Lin also faced high-profile controversies, including an on-court scuffle with South Korea's coach Li Mao during a line call dispute at the 2008 Korea Open, and intense media scrutiny regarding Olympic qualification matches.
+Four years later, at the 2008 Games in Beijing, Lin won the men's singles gold medal by beating Malaysia's Lee Chong Wei in the final. At London 2012 he met Lee in the final again and won in three games, becoming the first man to win the Olympic singles title twice.
 
-## Conquering the Super Grand Slam
+Lin won the world championship five times, and the All England Open six times. He also won the Super Grand Slam: all nine major titles of his era, including the Olympic Games, the World Championships, the Thomas Cup, the Sudirman Cup, the Asian Games and the Asian Championships. He helped China to several Thomas Cup and Sudirman Cup titles.
 
-Despite early Olympic heartbreak and tour pressures, Lin forged a competitive dominance that reshaped the sport. By the age of 28, he completed the "Super Grand Slam," claiming the full set of all nine major titles in the badminton world of his time: the Olympic Games, World Championships, World Cup, Thomas Cup, Sudirman Cup, Year-end Finals, Asian Games, and Asian Championships. He remains the only male player in history to achieve this feat, having won at least two editions of nearly every major event.
+His rivalry with Lee Chong Wei lasted more than a decade and is one of the best known in the sport. At his fourth Olympics, Rio 2016, Lin lost to Lee in the semi-finals and finished fourth.
 
-His crowning athletic achievements include consecutive men's singles Olympic gold medals, successfully defending his title in 2012 after winning in 2008. He also secured five World Championships gold medals and six All England titles. Alongside individual brilliance, he led China to team glory multiple times, capturing the Sudirman Cup five times, the Thomas Cup six times, and the Asian Games men's team event three times.
+## Retirement and the Hall of Fame
 
-## Hall of Fame Induction and Legacy
+Lin announced his retirement on 4 July 2020, at the age of 36, in a post on Weibo. He wrote that "pain and injuries no longer allow me to fight with my teammates," NBC Sports reported. He had slipped down the Olympic qualifying rankings, and a fifth Olympic Games looked out of reach.
 
-Lin's career also featured legendary rivalries against contemporaries such as Lee Hyun-il, Taufik Hidayat, Bao Chunlai, and Malaysia's Lee Chong Wei. Across decades of intense competition, his supremacy on the court remained a benchmark for professional athletes.
-
-Widely regarded by peers and analysts as the greatest badminton player of all time, Lin formally entered badminton immortality when he was officially inducted into the BWF Badminton Hall of Fame on 26 May 2023. His journey from a child in Fujian refusing piano keys to an unassailable titan of international sport continues to define an extraordinary era of badminton.
+In May 2023 the Badminton World Federation elected Lin and Lee Chong Wei to its Hall of Fame. The two former rivals were inducted together at a ceremony at the Kuala Lumpur Convention Centre in Malaysia on 26 May 2023, the BWF said.
 
 ---
 **Sources**
 
-- [Lin Dan Wikipedia Article](https://en.wikipedia.org/wiki/Lin_Dan)
+- [BWF: Lin Dan, Lee Chong Wei elected to BWF Hall of Fame](https://bwfbadminton.com/news-single/2023/05/02/lin-dan-lee-chong-wei-elected-to-bwf-hall-of-fame/)
+- [NBC Sports: Lin Dan, two-time Olympic badminton champion, retires](https://nbcsports.com/olympics/news/lin-dan-retire-badminton)
+- [South China Morning Post: China badminton hero Lin Dan calls it quits after 20 years](https://amp.scmp.com/sport/china/article/3091825/china-badminton-hero-lin-dan-calls-it-quits-after-20-years-and-two)
+- [Wikipedia: Lin Dan](https://en.wikipedia.org/wiki/Lin_Dan)
