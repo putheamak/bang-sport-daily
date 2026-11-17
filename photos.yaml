@@ -140,3 +140,18 @@
       caption: "The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008"
     - wikipedia: "Kun Khmer"
       caption: "A Kun Khmer bout, the martial art in which Eh Phouthong was national champion"
+
+# CPL fan analysis: no free photos of the clubs exist (only logos), so stadiums lead:
+# the National Olympic Stadium (20,005 for Boeung Ket v Svay Rieng), then the home grounds of
+# Phnom Penh Crown and Visakha (used only if Wikipedia has a free photo), then Siem Reap (Angkor Tiger)
+2026-11-17-news-9481f5:
+  mode: replace
+  photos:
+    - commons: "Olympic_Stadium_Phnom_Penh_SG2023.png"
+      caption: "The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025"
+    - wikipedia: "RSN Stadium"
+      caption: "Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown"
+    - wikipedia: "Visakha Stadium"
+      caption: "Visakha Stadium in Phnom Penh, home of Visakha"
+    - wikipedia: "Siem Reap"
+      caption: "Siem Reap, home of Angkor Tiger"
