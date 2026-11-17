@@ -1,9 +1,7 @@
-2026-11-17 12:27:16,525 INFO Importing editor's article: 2026-11-17-singapore-brazil.md
-2026-11-17 12:27:16,856 INFO Photo check Vinícius_Júnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg (Wikimedia Commons, 2053x3078): OK, licence 'CC BY-SA 4.0'
-2026-11-17 12:27:17,030 INFO Photo check Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_(Endrick).jpg (Wikimedia Commons, 600x803): OK, licence 'CC BY-SA 4.0'
-2026-11-17 12:27:17,218 INFO Photo check Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg (Wikimedia Commons, 5666x3267): OK, licence 'CC BY-SA 3.0'
-2026-11-17 12:27:17,283 INFO Match card added to 2026-11-17-news-dd0393
-2026-11-17 12:27:17,499 INFO Exported 7 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
-2026-11-17 12:27:18,184 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-17 12:27:18,469 INFO Website built: 50 published stories, 195 pages
-2026-11-17 12:27:18,470 INFO Imported 1 editor's article(s): 2026-11-17-news-dd0393
+2026-11-17 15:34:13,745 INFO Corrected English for 2026-11-17-news-b168e0
+2026-11-17 15:34:13,746 INFO Added zh translation for 2026-11-17-news-b168e0
+2026-11-17 15:34:13,746 INFO Added ru translation for 2026-11-17-news-b168e0
+2026-11-17 15:34:14,167 INFO Exported 8 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
+2026-11-17 15:34:14,868 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-17 15:34:15,434 INFO Website built: 51 published stories, 198 pages
+2026-11-17 15:34:15,435 INFO Imported 1 editor's article(s): 2026-11-17-news-b168e0
