@@ -1,3 +1,7 @@
-2026-11-17 06:22:52,858 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
-2026-11-17 06:22:55,677 INFO Website built: 48 published stories, 189 pages
-2026-11-17 06:22:55,678 INFO Imported 0 editor's article(s): 
+2026-11-17 06:24:11,097 INFO Corrected English for 2026-11-17-athl-2a2b3f
+2026-11-17 06:24:11,097 INFO Added zh translation for 2026-11-17-athl-2a2b3f
+2026-11-17 06:24:11,098 INFO Added ru translation for 2026-11-17-athl-2a2b3f
+2026-11-17 06:24:11,333 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
+2026-11-17 06:24:12,050 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-17 06:24:14,620 INFO Website built: 48 published stories, 189 pages
+2026-11-17 06:24:14,620 INFO Imported 1 editor's article(s): 2026-11-17-athl-2a2b3f
