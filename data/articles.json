@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-11-19-news-291d8b",
+    "slug": "emma-hayes-names-23-player-uswnt-squad-for-world-cup-qualify",
+    "date": "2026-11-19",
+    "created": "2026-11-19T00:32:17+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "USWNT",
+      "Emma Hayes",
+      "Concacaf W Championship",
+      "2027 Women's World Cup",
+      "Women's Football"
+    ],
+    "athletes": [
+      "Emma Hayes",
+      "Trinity Rodman",
+      "Mallory Swanson",
+      "Sophia Wilson",
+      "Sam Coffey",
+      "Naomi Girma",
+      "Rose Lavelle",
+      "Croix Bethune",
+      "Evelyn Shores"
+    ],
+    "image_subjects": [
+      "Emma Hayes",
+      "United States women's national soccer team",
+      "Trinity Rodman",
+      "Mallory Swanson"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
+        "url": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier"
+      },
+      {
+        "title": "USWNT, Emma Hayes names 23-player roster for Concacaf W Championship",
+        "url": "https://equalizersoccer.com"
+      },
+      {
+        "title": "Equalizer Soccer: USWNT, Emma Hayes names 23-player roster for Concacaf W Championship",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXdOSF9aSGdPbHd5TGNvSHNBZVEzV1Q3SHh2akRTdVZ3WWxRM0R0SUgxR1hsdnlUUE8taDFRSjB5VE1aa1ZwblNVUER1dW1qakFWRTFPRW4tUkVJaTBzWS1yclZJY0JuUlUzSnRfN045RmdqN1JISGdHOWZuM3RUSEIxMzlybFB5Z19VbW5JVDA4dEU1YVFiVThUTnRyLVBOVGFCY0tSLU9aRGM?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.018,
+      "longest": 12,
+      "phrases": [
+        "world cup and the 2028 los angeles olympics all four semi finalists",
+        "trio of trinity rodman mallory swanson and sophia wilson"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Emma Hayes Names 23-Player USWNT Squad for World Cup Qualifying Campaign",
+      "subheadline": "A quarter-final victory over El Salvador on 27 November would seal the United States a berth at the 2027 Women's World Cup in Brazil.",
+      "body_markdown": "United States women's national team head coach Emma Hayes named her 23-player squad on Wednesday for the upcoming Concacaf W Championship, where a quarter-final victory over El Salvador on 27 November will confirm qualification for the 2027 FIFA Women's World Cup in Brazil.\n\nThe tournament serves as the primary regional qualifying event for both the 2027 World Cup and the 2028 Los Angeles Olympics. All four semi-finalists earn direct passage to Brazil, while beaten quarter-finalists enter a repechage round for two berths in February's inter-confederation play-offs in Morocco. The United States have already qualified for the 2028 Games as host nation, shifting the primary focus of the campaign entirely toward the opening knockout match.\n\n## Olympic Core and Defensive Absences\n\nHayes included eight players from the squad that won Olympic gold in Paris, led by the forward trio of Trinity Rodman, Mallory Swanson, and Sophia Wilson. Midfielder Sam Coffey returns to international duty after missing the previous window through injury. Central defender Naomi Girma was omitted as she continues rehabilitation from persistent muscle issues.\n\nIn goal, Claudia Dickey of Seattle Reign, Mandy McGlynn of Utah Royals, and Manchester United's Phallon Tullis-Joyce will compete for the starting shirt. The position remains vacant following the retirement of long-time goalkeeper Alyssa Naeher.\n\n## Uncapped Shores Joins Balanced Roster\n\nThe selections point to a core group established after two years of squad rotation. Since taking charge, Hayes has examined 61 total players and awarded senior debuts to 33. The roster chosen for the championship averages 26.1 years of age, with only midfielders Lindsey Heaps and Rose Lavelle aged 30 or older.\n\nAngel City defender Evelyn Shores earned her first senior international call-up, becoming only the second uncapped player in USWNT history selected for a World Cup qualifying squad, following Taylor Flint in 2022. Only three other outfield players hold fewer than 12 senior appearances: Utah Royals defender Kate Del Fava (one cap), San Diego Wave defender Kennedy Wesley (nine caps), and Kansas City Current midfielder Croix Bethune (seven caps), who scored from a direct free-kick in the NWSL playoffs last weekend.\n\nThe United States have won nine of the 11 editions of the Concacaf W Championship and enter the fixture against El Salvador having never failed to qualify for a Women's World Cup.",
+      "social_post": "Emma Hayes has named her 23-player USWNT squad for the Concacaf W Championship. A quarter-final win over El Salvador on 27 November sends the US to the 2027 World Cup in Brazil. Sam Coffey returns, Naomi Girma misses out with injury, and Evelyn Shores earns a historic first call-up. Can this group maintain their dominance? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "海耶斯公布美国女足23人大名单，全力出击世界杯预选赛",
+      "subheadline": "11月27日若能在八强战中击败萨尔瓦多，美国队将直接锁定2027年巴西女足世界杯入场券。",
+      "body_markdown": "美国女足主教练埃玛·海耶斯（Emma Hayes）周三正式公布了出征即将打响的中北美及加勒比女足锦标赛的23人大名单。只要在11月27日的四分之一决赛中战胜萨尔瓦多，球队就将提前锁定2027年巴西国际足联女足世界杯的参赛资格。\n\n本届赛事是该地区通往2027年世界杯和2028年洛杉矶奥运会的最关键预选赛。四支闯入半决赛的球队将直接拿到进军巴西的门票，而在八强战中折戟的队伍则将参加复活赛，争夺两个参加明年2月在摩洛哥举行的大洲际附加赛席位。由于美国队凭借东道主身份已提前直通2028年奥运会，因此全队此番的战略重心完全压在首场淘汰赛上。\n\n## 奥运冠军班底坐镇，防线核心抱憾缺席\n\n海耶斯此次征召了8名夺得巴黎奥运会金牌的功勋成员，锋线上依旧由特里妮蒂·罗德曼、马洛里·斯旺森和索菲娅·威尔逊组成的三叉戟领衔。中场方面，萨姆·科菲此前因伤错过了上一期国家队集训，如今伤愈回归。不过，主力中卫内奥米·吉尔马因仍处于反复肌肉拉伤的康复期，未能入选本次名单。\n\n门将位置上，西雅图统治的克劳迪娅·迪基、犹他皇家的曼迪·麦格林以及曼联的法隆·塔利斯-乔伊斯将竞争主力首发。在功勋门将阿莉莎·内赫尔退役后，一号门将的竞争依旧处于开放状态。\n\n## 0出场新星肖尔斯入选，阵容架构日趋成熟\n\n这份名单清晰地勾勒出海耶斯历经两年阵容轮换后所敲定的核心框架。接手帅印以来，海耶斯累计考察了多达61名球员，并让33人完成了国家队首秀。本次入选阵容的平均年龄为26.1岁，全队仅有中场老将林赛·希普斯与罗丝·拉韦尔年龄达到或超过30岁。\n\n效力于天使城队的后卫伊芙琳·肖尔斯（Evelyn Shores）首次入选成年国家队，她也成为继2022年的泰勒·弗林特（Taylor Flint）之后，美国女足历史上第二位在毫无国家队成年队出场记录的情况下直接入选世界杯预选赛大名单的球员。除她之外，全队仅有三名非门将球员的国家队出场数不足12次：犹他皇家后卫凯特·德尔法瓦（Kate Del Fava，1次）、圣地亚哥波浪后卫肯尼迪·韦斯利（Kennedy Wesley，9次），以及上周末刚刚在NWSL季后赛中直接任意球破门堪萨斯城潮流中场克鲁瓦·贝休恩（Croix Bethune，7次）。\n\n在中北美及加勒比女足锦标赛过往的11届赛事中，美国女足共斩获9次冠军。面对接下来的萨尔瓦多，历史上从未缺席过任何一届女足世界杯的美国队势必全力以赴。",
+      "social_post": "海耶斯公布美国女足23人大名单！11月27日八强战击败萨尔瓦多，即可直通2027年巴西世界杯。科菲伤愈回归，吉尔马继续伤缺，肖尔斯上演首秀奇迹入选。这支处于更新换代中的王者之师能否延续统治力？欢迎在评论区聊聊你的看法！#美国女足 #女足世界杯 #足球"
+    },
+    "ru": {
+      "headline": "Эмма Хейз объявила состав сборной США из 23 игроков на отборочный турнир чемпионата мира",
+      "subheadline": "Победа в четвертьфинале над Сальвадором 27 ноября гарантирует американкам путевку на женский ЧМ-2027 в Бразилии.",
+      "body_markdown": "Главный тренер женской сборной США Эмма Хейз в среду назвала состав из 23 футболисток на предстоящий чемпионат КОНКАКАФ. Победа в четвертьфинальном поединке против команды Сальвадора 27 ноября официально гарантирует «звездно-полосатым» квалификацию на женский чемпионат мира 2027 года в Бразилии.\n\nТурнир служит основным континентальным отбором сразу на два крупнейших форума: ЧМ-2027 и Олимпийские игры 2028 года в Лос-Анджелесе. Все четыре полуфиналиста получают прямые путевки в Бразилию, а уступившие в четвертьфинале сборные отправятся в утешительный раунд, где разыграют две квоты в межконтинентальные стыковые матчи, которые пройдут в феврале в Марокко. Поскольку американки уже забронировали за собой место на Олимпиаде-2028 на правах хозяек, фокус всей кампании целиком и полностью сместился на стартовую встречу плей-офф.\n\n## Олимпийский костяк и бреши в обороне\n\nХейз включила в заявку восемь победительниц парижской Олимпиады во главе с ударным атакующим трио: Тринити Родман, Мэллори Свонсон и Софией Уилсон. В полузащиту после травмы, вынудившей ее пропустить предыдущий международный сбор, возвращается Сэм Коффи. А вот центральный защитник Наоми Гирма осталась вне заявки — она продолжает восстанавливаться после затяжных проблем с мышцами.\n\nЗа пост номер один поборются Клаудия Дики («Сиэтл Рейн»), Мэнди Макглинн («Юта Роялс») и голкипер «Манчестер Юнайтед» Фэллон Таллис-Джойс. Эта позиция остается вакантной после завершения международной карьеры многолетним стражем ворот Алиссой Нихер.\n\n## Дебютантка Шорс в сбалансированном ростере\n\nВыбор наставницы отражает становление костяка, формировавшегося на протяжении двух лет активной ротации. С момента прихода на тренерский мостик Хейз просмотрела в общей сложности 61 футболистку и дала дебютировать в главной команде 33 игрокам. Средний возраст заявки на турнир составляет 26,1 года, при этом рубеж в 30 лет перешагнули только двое полузащитников — Линдси Хипс и Роуз Лавель.\n\nЗащитник клуба «Эйнджел Сити» Эвелин Шорс (Evelyn Shores) впервые удостоилась вызова в сборную. Она стала всего второй в истории сборной США футболисткой без опыта международных встреч, включенной в заявку на отбор к чемпионату мира (первой была Тейлор Флинт [Taylor Flint] в 2022 году). Помимо Шорс, менее 12 матчей за национальную команду провели лишь трое полевых игроков: защитник «Юты Роялс» Кейт Дель Фава (Kate Del Fava, 1 матч), защитник «Сан-Диего Вейв» Кеннеди Уэсли (Kennedy Wesley, 9 матчей) и полузащитник «Канзас-Сити Каррент» Круа Бетьюн (Croix Bethune, 7 матчей), отметившаяся в минувший уик-энд голом со штрафного в плей-офф NWSL.\n\nСборная США выигрывала девять из 11 розыгрышей чемпионата КОНКАКАФ и подходит к матчу против Сальвадора с безупречной исторической серией: американки ни разу не пропускали финальную часть женского чемпионата мира.",
+      "social_post": "Эмма Хейз назвала заявку сборной США из 23 футболисток на чемпионат КОНКАКАФ. Победа над Сальвадором 27 ноября выведет команду на ЧМ-2027 в Бразилии! Коффи вернулась в строй, Гирма лечит травму, а юная Эвелин Шорс получила исторический вызов. Смогут ли американки без проблем подтвердить статус фавориток? Делитесь мнением в комментариях! #USWNT #ЖенскийФутбол #ЧМ2027 #Футбол"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg/1280px-Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Emma Hayes during the US Women's Soccer Team vs Colombia at the SheBelieves Cup on March 7, 2026",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Emma Hayes"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_%28cropped%29.jpg/1280px-Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Trinity Rodman during the US Women's Soccer Team vs Colombia at the SheBelieves Cup on March 7, 2026",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Trinity Rodman"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg/1280px-Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Mallory Swanson during Gotham FC v Chicago Stars on 25 September 2026",
+        "width": 1200,
+        "height": 1799,
+        "year": 2026,
+        "subject": "Mallory Swanson"
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://equalizersoccer.com"
+      }
+    ]
+  },
+  {
     "id": "2026-11-18-news-3dca37",
     "slug": "spartak-and-metallurg-swap-four-forwards-as-maltsev-and-moro",
     "date": "2026-11-18",
