@@ -1100,6 +1100,7 @@ def test_gemini_daily_quota_memory(repo, monkeypatch):
     monkeypatch.setattr(genai, "Client", lambda **kw: SimpleNamespace(models=Models()))
     c = cfg()
     c["ai"]["gemini"]["google_search"] = False
+    c["ai"]["gemini"]["allow_lite"] = True          # this test is about falling back to Lite on the free tier
     text, _, model = llm._gemini(c, "sys", "prompt", search=False)
     assert text == "ok text" and "lite" in model
     q = common.read_json(common.DATA / "gemini_quota.json", {})
