@@ -1,5 +1,222 @@
 [
   {
+    "id": "2026-11-18-news-00e678",
+    "slug": "michkov-s-two-assists-help-flyers-edge-sabres-4-3-and-extend",
+    "date": "2026-11-18",
+    "created": "2026-11-18T12:39:46+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "hockey",
+    "tags": [
+      "NHL",
+      "Philadelphia Flyers",
+      "Buffalo Sabres",
+      "Matvei Michkov",
+      "Christian Dvorak",
+      "Jamie Drysdale",
+      "Russia"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "AP via InfoNews: Christian Dvorak lifts Flyers past Sabres 4-3 as Matvei Michkov extends point streak",
+        "url": "https://infonews.ca/news/7987568/christian-dvorak-lifts-flyers-past-sabres-4-3-as-matvei-michkov-extends-point-streak/"
+      },
+      {
+        "title": "RIA Novosti Sport: Two Michkov assists help Philadelphia beat Buffalo",
+        "url": "https://ria.ru/20261118/khokkey-2132248225.html"
+      },
+      {
+        "title": "Sport-Express: Philadelphia beat Buffalo, Michkov makes two assists",
+        "url": "https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/"
+      },
+      {
+        "title": "Championat: Two Michkov assists help Philadelphia beat Buffalo",
+        "url": "https://www.championat.com/hockey/news-6703842-filadelfiya-flajerz-baffalo-sejbrz-rezultat-matcha-18-noyabrya-2026-schet-4-3-regulyarnyj-chempionat-nhl-2026-2027.html"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Michkov's Two Assists Help Flyers Edge Sabres 4-3 and Extend His Point Streak to Five Games",
+      "subheadline": "The 21-year-old Russian set up goals by Jamie Drysdale and Christian Dvorak, whose third-period strike won the game in Philadelphia.",
+      "body_markdown": "## What happened\n\nRussian forward Matvei Michkov had two assists as the Philadelphia Flyers beat the Buffalo Sabres 4-3 at home on Tuesday 17 November 2026, extending his point streak to five games, the Associated Press reported.\n\nMichkov set up Jamie Drysdale's goal at 6:39 of the second period, which tied the game 1-1. Owen Tippett then scored in the second period from a pass that Drysdale threaded through several Buffalo defenders.\n\nIn the third period Travis Sanheim scored 29 seconds in, his fourth goal of the season, from a cross-ice pass by Christian Dvorak. Dvorak scored the winning goal at 5:23 of the third period to make it 4-3, with Michkov providing one of the assists, RIA Novosti reported.\n\nTage Thompson scored his 13th goal of the season and added an assist for Buffalo, and Mattias Samuelsson and Jiri Kulich also scored for the Sabres.\n\n## The goalkeepers\n\nJoseph Woll made 16 saves for Philadelphia. Alex Lyon made 29 saves for Buffalo.\n\n## Why it matters\n\nThe AP reported that Michkov became the first Flyers player since Simon Gagne in 2001 to put together four point streaks of five games before the age of 22. Buffalo have now gone five games without a win, with four losses in regulation time and one after it.\n\n## What happens next\n\nPhiladelphia start a three-game road trip in Ottawa on Thursday. Buffalo continue a six-game road trip, their longest of the season, in Washington on Thursday.",
+      "social_post": "Matvei Michkov set up two goals as the Flyers beat the Sabres 4-3 in Philadelphia, extending his point streak to five games. Christian Dvorak scored the winner in the third period. #Flyers #Michkov #NHL"
+    },
+    "origin": "inbox/2026-11-18-michkov-flyers-sabres.md",
+    "region": "russia",
+    "match": {
+      "competition": "NHL · Regular season",
+      "date": "17 November 2026",
+      "home": "Philadelphia Flyers",
+      "away": "Buffalo Sabres",
+      "home_score": 4,
+      "away_score": 3,
+      "home_scorers": [
+        "Drysdale",
+        "Tippett",
+        "Sanheim",
+        "Dvorak"
+      ],
+      "away_scorers": [
+        "T. Thompson",
+        "Samuelsson",
+        "Kulich"
+      ],
+      "note": "Michkov: 2 assists; Dvorak scored the winner at 5:23 of the third period"
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Matvei_Michkov_2024-10-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Matvei_Michkov_2024-10-17.jpg",
+        "artist": "Jenn G from Seattle, WA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "gourde 10_17",
+        "width": 1200,
+        "height": 1776,
+        "year": 2024,
+        "subject": "Matvei Michkov, who had two assists for the Flyers"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg/1280px-Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg",
+        "artist": "Jen Smith",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Outside Wells Fargo Center for the 2019 OWL Grand Finals",
+        "width": 1200,
+        "height": 702,
+        "year": 2019,
+        "subject": "The Flyers' home arena in Philadelphia"
+      },
+      {
+        "url": "../photos/card-2026-11-18-news-00e678.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Philadelphia Flyers 4 - 3 Buffalo Sabres · NHL · Regular season",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "zh": {
+      "headline": "米奇科夫两次助攻帮助费城飞人4比3险胜布法罗军刀 连续得分场次增至五场",
+      "subheadline": "21岁的俄罗斯小将为杰米·德赖斯代尔和克里斯蒂安·德沃夏克的进球送出助攻，德沃夏克第三节的进球成为制胜球。",
+      "body_markdown": "## 比赛经过\n\n据美联社报道，2026年11月17日星期二，俄罗斯前锋马特维·米奇科夫送出两次助攻，帮助费城飞人在主场以4比3击败布法罗军刀，他的连续得分场次增至五场。\n\n第二节6分39秒，米奇科夫助攻杰米·德赖斯代尔进球，将比分扳为1比1。随后欧文·蒂皮特在第二节破门，德赖斯代尔的传球穿过了布法罗多名防守球员。\n\n第三节开局29秒，特拉维斯·桑海姆接克里斯蒂安·德沃夏克的横传破门，这是他本赛季第四个进球。据俄新社报道，德沃夏克在第三节5分23秒打进制胜球，将比分改写为4比3，米奇科夫为这粒进球送出助攻。\n\n布法罗方面，泰奇·汤普森打进本赛季第13球并送出一次助攻，马蒂亚斯·萨缪尔森和伊日·库利赫也各进一球。\n\n## 守门员\n\n费城门将约瑟夫·沃尔完成16次扑救，布法罗门将亚历克斯·莱昂完成29次扑救。\n\n## 比赛意义\n\n据美联社报道，米奇科夫成为自2001年的西蒙·加涅之后，首位在22岁前四次实现连续五场得分的飞人队球员。布法罗已连续五场不胜，其中四场在常规时间落败，一场在常规时间后落败。\n\n## 下一步\n\n费城将于周四在渥太华开始为期三场的客场之旅。布法罗将于周四在华盛顿继续本赛季最长的六连客之旅。",
+      "social_post": "马特维·米奇科夫送出两次助攻，帮助费城飞人在主场4比3击败布法罗军刀，个人连续得分场次增至五场。克里斯蒂安·德沃夏克在第三节打进制胜球。#飞人 #米奇科夫 #NHL"
+    },
+    "ru": {
+      "headline": "Две передачи Мичкова помогли «Филадельфии» обыграть «Баффало» 4:3, его результативная серия достигла пяти матчей",
+      "subheadline": "21-летний россиянин ассистировал Джейми Драйсдейлу и Кристиану Дворжаку, чья шайба в третьем периоде стала победной.",
+      "body_markdown": "## Что произошло\n\nРоссийский нападающий Матвей Мичков отдал две голевые передачи, и «Филадельфия Флайерз» обыграла дома «Баффало Сэйбрз» со счётом 4:3 во вторник, 17 ноября 2026 года, продлив его результативную серию до пяти матчей, сообщило агентство AP.\n\nМичков ассистировал Джейми Драйсдейлу, который на 6:39 второго периода сравнял счёт — 1:1. Затем во втором периоде забил Оуэн Типпетт после паса Драйсдейла, прошедшего сквозь нескольких защитников «Баффало».\n\nНа 29-й секунде третьего периода Трэвис Санхейм после поперечной передачи Кристиана Дворжака забросил свою четвёртую шайбу в сезоне. Дворжак на 5:23 третьего периода забил победный гол — 4:3, одну из передач отдал Мичков, сообщило РИА Новости.\n\nУ «Баффало» Тейдж Томпсон забросил 13-ю шайбу в сезоне и сделал передачу, также отличились Маттиас Самуэльссон и Иржи Кулих.\n\n## Вратари\n\nДжозеф Уолл отразил 16 бросков за «Филадельфию», Алекс Лайон — 29 за «Баффало».\n\n## Почему это важно\n\nПо данным AP, Мичков стал первым игроком «Филадельфии» со времён Симона Ганье в 2001 году, у которого до 22 лет было четыре результативные серии длиной в пять матчей. «Баффало» не может победить уже пять матчей подряд: четыре поражения в основное время и одно после него.\n\n## Что дальше\n\n«Филадельфия» в четверг начнёт выездную серию из трёх матчей в Оттаве. «Баффало» в четверг в Вашингтоне продолжит серию из шести выездных матчей — самую длинную в сезоне.",
+      "social_post": "Матвей Мичков отдал две голевые передачи, и «Филадельфия» обыграла «Баффало» 4:3 дома, продлив его результативную серию до пяти матчей. Победную шайбу в третьем периоде забросил Кристиан Дворжак. #Филадельфия #Мичков #НХЛ"
+    },
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "professional",
+        "msg": "Only 249 words (minimum 250 for news). Thin content hurts AdSense approval"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-18-news-24f2df",
+    "slug": "irish-boxer-lee-reeves-dies-at-31-three-months-after-being-i",
+    "date": "2026-11-18",
+    "created": "2026-11-18T12:39:45+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "editor",
+    "sport": "combat",
+    "tags": [
+      "Boxing",
+      "Lee Reeves",
+      "Gary Cully",
+      "Queensberry",
+      "Ireland",
+      "Limerick",
+      "Boxer safety"
+    ],
+    "athletes": [],
+    "image_subjects": [],
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "ESPN: Boxer Lee Reeves dies aged 31 after injuries from a fight",
+        "url": "https://www.espn.com/boxing/story/_/id/50508983/irish-boxer-lee-reeves-dies-31-coma"
+      },
+      {
+        "title": "Sky Sports: Irish boxer Lee Reeves dies aged 31 three months after suffering serious injuries in fight",
+        "url": "https://www.skysports.com/boxing/news/13613108/irish-boxer-lee-reeves-dies-aged-31-three-months-after-suffering-serious-injuries-in-fight"
+      },
+      {
+        "title": "The Ring: Irish boxer Lee Reeves, 31, dies after three months in coma",
+        "url": "https://www.ringmagazine.com/news/irish-boxer-lee-reeves-31-dies-after-three-months-in-coma-4KdNYTuQ0qDoncEtzGLRxd"
+      }
+    ],
+    "published_to": [],
+    "en": {
+      "headline": "Irish Boxer Lee Reeves Dies at 31, Three Months After Being Injured in a Fight in Dublin",
+      "subheadline": "Reeves was knocked out by Gary Cully in August and spent three months in a medically induced coma. His promoter, Queensberry, called him a role model and an inspiration to his community.",
+      "body_markdown": "## What happened\n\nIrish boxer Lee Reeves has died at the age of 31, three months after he was seriously injured in a fight in Dublin. Reeves died on Monday, 16 November 2026, The Ring reported.\n\nOn 1 August, Reeves lost to Gary Cully in a junior welterweight bout at the 3Arena in Dublin. He was knocked down twice in the 10th round, lost consciousness and was carried from the ring on a stretcher, according to The Ring. He had emergency surgery for a brain injury and was placed in a medically induced coma, ESPN reported.\n\nLast month he was moved to University Hospital Limerick, in his home city. He developed an infection over the weekend before his death, Sky Sports and The Ring reported. Family and friends had been hopeful about his recovery.\n\n## Tributes\n\nHis promoter, Queensberry, confirmed his death. \"Lee was an immensely talented boxer, as well as a true role model and inspiration to his community,\" the company said. Queensberry founder Frank Warren called the news heartbreaking, ESPN reported.\n\nCully paid tribute on Instagram, describing Reeves as \"a character and a gent\", and said there had never been any ill feeling between them. Reeves' former coach Jonathan O'Brien and his sister Jessie also posted messages, Sky Sports reported.\n\n## His career\n\nReeves turned professional in November 2018 and won 16 of his 18 professional fights, 11 of them by knockout. Some of those fights took place in Canada and Colombia. Before turning professional he was a five-time national amateur champion, The Ring reported.\n\nAway from the ring, he served as a soldier in the Irish Army's 12th Battalion, based in Limerick, and spoke publicly about mental health awareness. In 2023 he took part in the BBC reality series Survivor.",
+      "social_post": "Irish boxer Lee Reeves has died at 31, three months after he was knocked out by Gary Cully in Dublin on 1 August. Reeves, from Limerick, had a 16-2 professional record and was a five-time national amateur champion. #Boxing #LeeReeves"
+    },
+    "origin": "inbox/2026-11-18-lee-reeves-dies.md",
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:3Arena,_Dublin_(geograph_5417559).jpg",
+        "artist": "David Dixon",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "3Arena, Dublin",
+        "width": 1200,
+        "height": 801,
+        "year": 2017,
+        "subject": "The 3Arena in Dublin, where Reeves fought on 1 August"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Limerick_r%C3%ADo_%2846531600435%29.jpg/1280px-Limerick_r%C3%ADo_%2846531600435%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Limerick_r%C3%ADo_(46531600435).jpg",
+        "artist": "mandoft from El Campello (Alicante), Spain",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Limerick",
+        "width": 1200,
+        "height": 1800,
+        "year": 2018,
+        "subject": "Limerick, Reeves' home city"
+      }
+    ],
+    "zh": {
+      "headline": "爱尔兰拳手李·里夫斯去世，年仅31岁 三个月前在都柏林比赛中受伤",
+      "subheadline": "里夫斯8月被加里·卡利击倒，此后在医学诱导昏迷中度过三个月。他的推广公司Queensberry称他是社区的榜样和激励。",
+      "body_markdown": "## 发生了什么\n\n爱尔兰拳手李·里夫斯在都柏林的一场比赛中受重伤，三个月后去世，年仅31岁。据《拳台》（The Ring）杂志报道，里夫斯于2026年11月16日星期一去世。\n\n8月1日，里夫斯在都柏林3Arena体育馆举行的超轻量级比赛中负于加里·卡利。据《拳台》报道，他在第10回合两次被击倒，失去意识，被担架抬出拳台。据ESPN报道，他因脑部受伤接受了紧急手术，随后被置于医学诱导昏迷状态。\n\n上个月，他被转往家乡的利默里克大学医院。据天空体育和《拳台》报道，他在去世前的那个周末出现感染。家人和朋友此前对他的康复抱有希望。\n\n## 悼念\n\n他的推广公司Queensberry证实了他去世的消息。公司表示：“李是一位极具天赋的拳手，也是他所在社区真正的榜样和激励。”据ESPN报道，Queensberry创始人弗兰克·沃伦称这一消息令人心碎。\n\n卡利在Instagram上发文悼念，称里夫斯是“一个有个性的人，一位绅士”，并表示两人之间从未有过任何恩怨。据天空体育报道，里夫斯的前教练乔纳森·奥布莱恩和他的妹妹杰茜也发文悼念。\n\n## 职业生涯\n\n里夫斯于2018年11月转为职业拳手，在18场职业比赛中赢下16场，其中11场以击倒获胜，部分比赛在加拿大和哥伦比亚进行。据《拳台》报道，转职业前他曾五次获得全国业余冠军。\n\n拳台之外，他曾在驻利默里克的爱尔兰陆军第12营服役，并公开倡导关注心理健康。2023年，他参加了BBC真人秀节目《幸存者》。",
+      "social_post": "爱尔兰拳手李·里夫斯去世，年仅31岁。今年8月1日，他在都柏林被加里·卡利击倒，三个月后离世。来自利默里克的里夫斯职业战绩为16胜2负，曾五次获得全国业余冠军。#拳击 #李里夫斯"
+    },
+    "ru": {
+      "headline": "Ирландский боксёр Ли Ривз скончался в 31 год, через три месяца после травмы в бою в Дублине",
+      "subheadline": "Ривз проиграл нокаутом Гэри Калли в августе и три месяца провёл в искусственной коме. Его промоутер Queensberry назвал его образцом для подражания и вдохновением для своего сообщества.",
+      "body_markdown": "## Что произошло\n\nИрландский боксёр Ли Ривз скончался в возрасте 31 года, через три месяца после тяжёлой травмы, полученной в бою в Дублине. Ривз умер в понедельник, 16 ноября 2026 года, сообщил журнал The Ring.\n\n1 августа Ривз проиграл Гэри Калли в бою в первом полусреднем весе на арене 3Arena в Дублине. В 10-м раунде он дважды побывал в нокдауне, потерял сознание, и его унесли с ринга на носилках, писал The Ring. Ему сделали экстренную операцию из-за травмы мозга и ввели в искусственную кому, сообщил ESPN.\n\nВ прошлом месяце его перевели в Университетскую больницу Лимерика, в его родном городе. На выходных перед смертью у него развилась инфекция, сообщили Sky Sports и The Ring. Родные и друзья надеялись на его выздоровление.\n\n## Слова прощания\n\nСмерть боксёра подтвердил его промоутер Queensberry. «Ли был невероятно талантливым боксёром, а также настоящим примером и источником вдохновения для своего сообщества», — говорится в заявлении компании. Основатель Queensberry Фрэнк Уоррен назвал эту новость душераздирающей, сообщил ESPN.\n\nКалли в Instagram назвал Ривза «человеком с характером и джентльменом» и подчеркнул, что между ними никогда не было неприязни. Сообщения также опубликовали бывший тренер Ривза Джонатан О'Брайен и его сестра Джесси, писала Sky Sports.\n\n## Карьера\n\nРивз перешёл в профессионалы в ноябре 2018 года и выиграл 16 из 18 профессиональных боёв, 11 из них нокаутом. Часть боёв прошла в Канаде и Колумбии. До перехода в профессионалы он пять раз становился чемпионом Ирландии среди любителей, сообщил The Ring.\n\nВне ринга он служил в 12-м батальоне ирландской армии, базирующемся в Лимерике, и открыто выступал за внимание к психическому здоровью. В 2023 году он участвовал в реалити-шоу BBC «Выживший».",
+      "social_post": "Ирландский боксёр Ли Ривз скончался в возрасте 31 года, через три месяца после поражения нокаутом от Гэри Калли в Дублине 1 августа. У уроженца Лимерика был профессиональный рекорд 16-2, он пять раз становился чемпионом страны среди любителей. #Бокс #ЛиРивз"
+    },
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      }
+    ]
+  },
+  {
     "id": "2026-11-18-news-653f40",
     "slug": "japan-and-paraguay-meet-in-singapore-for-mizuho-blue-challen",
     "date": "2026-11-18",

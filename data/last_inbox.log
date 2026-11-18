@@ -1,7 +1,12 @@
-2026-11-17 15:38:10,356 INFO Corrected English for 2026-11-17-news-b168e0
-2026-11-17 15:38:10,357 INFO Added zh translation for 2026-11-17-news-b168e0
-2026-11-17 15:38:10,357 INFO Added ru translation for 2026-11-17-news-b168e0
-2026-11-17 15:38:10,739 INFO Exported 8 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-17
-2026-11-17 15:38:11,609 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-17 15:38:12,102 INFO Website built: 51 published stories, 198 pages
-2026-11-17 15:38:12,103 INFO Imported 1 editor's article(s): 2026-11-17-news-b168e0
+2026-11-18 05:39:45,179 INFO Importing editor's article: 2026-11-18-lee-reeves-dies.md
+2026-11-18 05:39:45,614 WARNING No free-licence lead photo for Wikipedia article 'Lee Reeves (boxer)'
+2026-11-18 05:39:46,046 INFO Photo check 3Arena,_Dublin_(geograph_5417559).jpg (Wikimedia Commons, 640x427): OK, licence 'CC BY-SA 2.0'
+2026-11-18 05:39:46,215 INFO Photo check Limerick_río_(46531600435).jpg (Wikimedia Commons, 3557x5335): OK, licence 'CC BY-SA 2.0'
+2026-11-18 05:39:46,218 INFO Importing editor's article: 2026-11-18-michkov-flyers-sabres.md
+2026-11-18 05:39:46,401 INFO Photo check Matvei_Michkov_2024-10-17.jpg (Wikimedia Commons, 404x598): OK, licence 'CC BY-SA 2.0'
+2026-11-18 05:39:46,578 INFO Photo check Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg (Wikimedia Commons, 2794x1634): OK, licence 'CC BY 3.0'
+2026-11-18 05:39:46,817 INFO Match card added to 2026-11-18-news-00e678
+2026-11-18 05:39:47,117 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-18
+2026-11-18 05:39:48,586 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-18 05:39:49,164 INFO Website built: 52 published stories, 201 pages
+2026-11-18 05:39:49,165 INFO Imported 2 editor's article(s): 2026-11-18-news-24f2df, 2026-11-18-news-00e678
