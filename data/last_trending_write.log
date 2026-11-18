@@ -1,34 +1,31 @@
-2026-11-17 15:18:56,652 INFO Writing explainer 2: Александр Волков подписал новый контракт с UFC
-2026-11-17 15:18:56,652 INFO Writing news (EN) ...
-2026-11-17 15:18:57,511 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-17 15:18:57,649 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
-2026-11-17 15:18:57,649 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-17 15:18:57,650 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
-2026-11-17 15:19:00,006 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:19:04,210 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:19:27,812 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:19:27,880 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-17 15:21:08,603 WARNING Draft is only 154 words (want 300+) — asking once to expand from the sources
-2026-11-17 15:21:13,672 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:21:36,336 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:23:34,599 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-17 15:23:56,195 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:24:16,366 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:24:49,140 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:25:25,983 INFO Expanded draft: 154 -> 409 words
-2026-11-17 15:25:25,984 INFO Adapting to zh, ru ...
-2026-11-17 15:25:29,710 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:25:55,767 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:26:00,126 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:26:21,982 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:26:36,352 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:27:11,912 WARNING Gemini gemini-3.5-flash-lite failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-17 15:27:26,033 INFO Looking up photos for 2026-11-17-news-b168e0: ['Alexander Volkov', 'Ultimate Fighting Championship', 'Mixed martial arts']
-2026-11-17 15:27:26,423 INFO Photo check Sergei_Pavlovich_vs_Alexander_Volkov_face_off_(cropped).png (Wikimedia Commons, 400x622): OK, licence 'CC BY 3.0'
-2026-11-17 15:27:26,423 INFO Photo for 'Alexander Volkov': Sergei_Pavlovich_vs_Alexander_Volkov_face_off_(cropped).png (Sexto Round, CC BY 3.0)
-2026-11-17 15:27:26,472 WARNING No free-licence photo for 'Ultimate Fighting Championship' (UFC_Logo.svg)
-2026-11-17 15:27:26,565 INFO Photo check UFC_131_Carwin_vs._JDS.jpg (Wikimedia Commons, 2406x1944): OK, licence 'CC BY-SA 3.0'
-2026-11-17 15:27:26,566 INFO Photo for 'Mixed martial arts': UFC_131_Carwin_vs._JDS.jpg (Bad intentionz, CC BY-SA 3.0)
-2026-11-17 15:27:27,709 INFO Website built: 51 published stories, 198 pages
-2026-11-17 15:27:27,710 INFO Explainers written: 1 (1 kept for review)
-2026-11-17 15:27:27,710 INFO Gemini today (2026-11-17, Pacific): gemini-3.1-flash-lite 2 ok / 0 failed; gemini-3.5-flash-lite 1 ok / 4 failed; gemini-3.7-flash 0 ok / 6 failed; gemini-3.8-flash 0 ok / 6 failed; gemini-omni-flash-preview 0 ok / 1 failed
+2026-11-18 09:59:50,785 INFO Writing explainer 5: Две передачи Мичкова помогли "Филадельфии" обыграть "Баффало"
+2026-11-18 09:59:55,345 INFO Writing news (EN) ...
+2026-11-18 09:59:55,944 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
+2026-11-18 09:59:56,184 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
+2026-11-18 09:59:56,184 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-18 09:59:56,184 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
+2026-11-18 10:01:54,818 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-18 10:02:19,534 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:03:45,226 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:03:45,380 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
+2026-11-18 10:03:56,814 WARNING Draft is only 172 words (want 300+) — asking once to expand from the sources
+2026-11-18 10:04:01,127 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:04:42,758 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:04:49,383 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:05:17,788 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:05:58,337 INFO Expanded draft: 172 -> 281 words
+2026-11-18 10:05:58,338 INFO Adapting to zh, ru ...
+2026-11-18 10:06:00,865 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:06:32,289 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:06:38,001 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-11-18 10:08:57,728 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
+2026-11-18 10:09:11,245 INFO Looking up photos for 2026-11-18-news-397ed2: ['Matvei Michkov', 'Philadelphia Flyers', 'Buffalo Sabres', 'Wells Fargo Center', 'Матвей Мичков', 'Джейми Драйсдейл']
+2026-11-18 10:09:11,652 INFO Photo check Matvei_Michkov_2024-10-17.jpg (Wikimedia Commons, 404x598): OK, licence 'CC BY-SA 2.0'
+2026-11-18 10:09:11,652 INFO Photo for 'Matvei Michkov': Matvei_Michkov_2024-10-17.jpg (Jenn G from Seattle, WA, CC BY-SA 2.0)
+2026-11-18 10:09:11,807 WARNING No free-licence photo for 'Philadelphia Flyers' (Logo_Philadelphia_Flyers.svg)
+2026-11-18 10:09:13,157 WARNING No free-licence photo for 'Wells Fargo Center' (Wells_Fargo_Logo_(2020).svg)
+2026-11-18 10:09:14,301 INFO Match card added to 2026-11-18-news-397ed2
+2026-11-18 10:09:14,314 INFO Cover photo of 2026-11-18-news-397ed2 changed: another story already uses that picture
+2026-11-18 10:09:15,754 INFO Website built: 55 published stories, 210 pages
+2026-11-18 10:09:15,755 INFO Explainers written: 1 (1 kept for review)
+2026-11-18 10:09:15,758 INFO Gemini today (2026-11-18, Pacific): gemini-3.5-flash-lite 3 ok / 0 failed (7,371 in / 4,529 out tokens); gemini-3.7-flash 0 ok / 6 failed; gemini-3.8-flash 0 ok / 6 failed; gemini-omni-flash-preview 0 ok / 1 failed · estimated cost if billed: US$0.014
