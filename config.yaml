@@ -23,7 +23,7 @@ site:
   custom_domain: "bangsportdaily.com"   # own domain, hosted on Cloudflare Pages; writes docs/CNAME
   indexnow_key: "85250d2c43b02d290e75698570dc8362"   # public key for IndexNow (tells Bing about new stories); also written to docs/<key>.txt
   adsense_client: ""            # e.g. "ca-pub-1234567890123456" — only after AdSense approval; adds ads.txt
-  wire_box: true                # "Around the world" headlines from other outlets. Turn OFF before monetizing
+  wire_box: false               # "Around the world" headlines from other outlets. OFF for monetizing (Nov 2026)
                                 #   (some RSS feeds, e.g. BBC, allow non-commercial use only)
   timezone: "Asia/Phnom_Penh"
   # Your GitHub Pages address (used for links, sitemap, RSS). On GitHub Actions it is detected
@@ -55,6 +55,10 @@ ai:
     fallback_model: auto-lite   # used automatically when the main model hits the free quota (429)
     google_search: true   # grounding with Google Search (free quota on Flash; verify in AI Studio)
     pause_seconds: 8      # wait between calls so we stay under free-tier per-minute limits
+    allow_lite: true      # set to false once billing is on: only Flash writes (no weaker Flash-Lite drafts)
+    prices:               # US$ per 1M tokens [input, output], for the cost estimate in the log (check AI Studio)
+      flash-lite: [0.30, 2.50]
+      flash: [0.75, 3.75]   # gemini-3.8-flash until 31 Dec 2026; doubles to [1.50, 7.50] on 1 Jan 2027
   claude:
     model: "claude-sonnet-5-5"
     web_search_max_uses: 4
