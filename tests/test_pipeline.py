@@ -1149,3 +1149,19 @@ def test_gemini_cost_estimate_and_flash_only(repo, monkeypatch):
     assert used == ["gemini-9.0-flash"]
     assert "US$1.500" in llm.usage_summary()          # 1M in x 0.75 + 0.2M out x 3.75
     assert all("lite" not in m for m in llm._STATE["chain"])
+
+
+def test_not_sport_words_and_photo_sizes(repo):
+    """'сим-боксы' (SIM boxes, phone fraud) is not boxing; our own photos carry width/height (no page jump)."""
+    from PIL import Image
+    from sportnews.collect import detect_sport
+    from sportnews import site, common
+    sports = cfg()["sports"]
+    assert detect_sport("Суд по делу о мошенничестве через сим-боксы", sports) is None
+    assert detect_sport("Боксёр защитил титул чемпиона мира", sports) == "combat"
+    p = common.DOCS / "photos" / "c"
+    p.mkdir(parents=True, exist_ok=True)
+    Image.new("RGB", (1200, 675)).save(p / "abc.jpg")
+    site._DIMS.clear()
+    assert site._dims({"local": "../photos/c/abc.jpg"}) == ' width="1200" height="675"'
+    assert site._dims({"url": "https://upload.wikimedia.org/x.jpg"}) == ""
