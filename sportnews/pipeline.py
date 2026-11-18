@@ -9,6 +9,51 @@ from .common import (MEMOS, STATE, log_to_file, load_articles, load_athletes, lo
 from .writer import write_article
 
 
+# Pre-match pieces are not news for us (no previews): line-ups, predictions, "how to watch", scouting reports...
+PREVIEW = re.compile(
+    r"(preview|predicted|prediction|line-?ups?|team news|how to watch|where to watch|live stream|what time|kick-?off time|"
+    r"odds|betting|scouting report|starting xi|probable|confirmed team|"
+    r"превью|прогноз|составы|анонс|где смотреть|онлайн-трансляц|"
+    r"前瞻|预测|首发|直播|赛前)", re.I)
+
+
+def drop_previews_and_repeats(items: list[dict], articles: list[dict], date: str, days: int = 7) -> list[dict]:
+    """Remove pre-match items and stories we already have (published, drafted, rejected or written by hand in the
+    last `days` days), comparing the item's headline(s) with our headlines and the titles of the sources we used."""
+    from datetime import date as _D
+    from rapidfuzz import fuzz
+    try:
+        start = _D.fromordinal(_D.fromisoformat(date).toordinal() - days).isoformat()
+    except ValueError:
+        start = ""
+    ours, links = [], set()
+    for a in articles:
+        if (a.get("date") or "") < start:
+            continue
+        for lang in ("en", "zh", "ru"):
+            h = (a.get(lang) or {}).get("headline")
+            if h:
+                ours.append(h.lower())
+        for src in a.get("sources") or []:
+            if src.get("title"):
+                ours.append(src["title"].split(": ", 1)[-1].lower())
+            if src.get("url"):
+                links.add(src["url"])
+    out = []
+    for it in items:
+        titles = [it["title"]] + [r.get("title", "") for r in it.get("also_reported_by", [])]
+        if any(PREVIEW.search(t or "") for t in titles):
+            log.info("Skipped (pre-match piece, no previews): %s", it["title"])
+            continue
+        its_links = {it.get("link")} | {r.get("link") for r in it.get("also_reported_by", [])}
+        if its_links & links or any(fuzz.token_set_ratio(t.lower(), o) >= 82 for t in titles if len(t or '') >= 16
+                                    for o in ours if len(o) >= 16):     # short titles match too easily
+            log.info("Skipped (we already have this story): %s", it["title"])
+            continue
+        out.append(it)
+    return out
+
+
 def _news_context(item: dict) -> dict:
     body = C.fetch_full_text(item["link"])
     links = [{"title": f"{item['source']}: {item['title']}", "url": item["link"]}]
@@ -171,6 +216,7 @@ def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]
         items = [i for i in items if i["title"] not in done_titles]
         from .regions import counts, pick_balanced
         bal = counts(load_articles() + new, date, (cfg.get("regions") or {}).get("window_days", 7))
+        items = drop_previews_and_repeats(items, load_articles() + new, date)
         if n_left:
             from .corroborate import confirm
             items = confirm(items, cfg)            # 2+ independent outlets, no politics: before any AI is spent

@@ -97,10 +97,25 @@ def _save_quota() -> None:
         log.warning("Could not save Gemini quota file: %s", str(e)[:200])
 
 
-def _count(model: str, ok: bool) -> None:
+def _count(model: str, ok: bool, resp=None) -> None:
     u = _quota()["usage"].setdefault(model, {"ok": 0, "fail": 0})
     u["ok" if ok else "fail"] += 1
+    um = getattr(resp, "usage_metadata", None) if resp is not None else None
+    if um is not None:
+        u["in"] = u.get("in", 0) + (getattr(um, "prompt_token_count", 0) or 0)
+        # thinking tokens are billed as output
+        u["out"] = u.get("out", 0) + (getattr(um, "candidates_token_count", 0) or 0) + (getattr(um, "thoughts_token_count", 0) or 0)
     _save_quota()
+
+
+def _price(model: str) -> tuple[float, float] | None:
+    """US$ per 1M input / output tokens from config (ai.gemini.prices); None if unknown."""
+    prices = (_STATE.get("prices") or {})
+    for key in sorted(prices, key=len, reverse=True):
+        if key in model:
+            p = prices[key]
+            return float(p[0]), float(p[1])
+    return None
 
 
 def _daily_limit(msg: str) -> bool:
@@ -111,8 +126,19 @@ def _daily_limit(msg: str) -> bool:
 
 def usage_summary() -> str:
     q = _quota()
-    parts = [f"{m} {u['ok']} ok / {u['fail']} failed" for m, u in sorted(q["usage"].items())]
+    parts, cost, known = [], 0.0, False
+    for m, u in sorted(q["usage"].items()):
+        bit = f"{m} {u['ok']} ok / {u['fail']} failed"
+        if u.get("in") or u.get("out"):
+            bit += f" ({u.get('in', 0):,} in / {u.get('out', 0):,} out tokens)"
+            pr = _price(m)
+            if pr:
+                known = True
+                cost += u.get("in", 0) / 1e6 * pr[0] + u.get("out", 0) / 1e6 * pr[1]
+        parts.append(bit)
     out = f"Gemini today ({q['day']}, Pacific): " + ("; ".join(parts) if parts else "no requests")
+    if known:
+        out += f" · estimated cost if billed: US${cost:.3f}"
     if q["exhausted"]:
         out += " · daily quota used up: " + ", ".join(q["exhausted"])
     return out
@@ -138,6 +164,8 @@ def _chain(client, cfg) -> list[str]:
         except Exception as e:  # noqa: BLE001
             log.warning("Could not list Gemini models: %s", str(e)[:300])
         chain = gemini_candidates(names)
+        if not cfg["ai"]["gemini"].get("allow_lite", True):      # paid tier: Flash only, no weaker Lite drafts
+            chain = [c for c in chain if "lite" not in c]
         if wanted not in ("auto", "auto-lite"):
             chain = [wanted] + [c for c in chain if c != wanted]
         _STATE["chain"] = chain
@@ -170,6 +198,7 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
     from google.genai import types
 
     gcfg = cfg["ai"]["gemini"]
+    _STATE["prices"] = gcfg.get("prices") or {}
     if _STATE["broken"]:
         raise RuntimeError("Skipped — Gemini already failed on every model this run: " + _STATE["broken"])
     client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"),
@@ -205,7 +234,7 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                                 sources.append({"title": ch.web.title or ch.web.domain or ch.web.uri, "url": ch.web.uri})
                     except (AttributeError, IndexError, TypeError):
                         pass
-                    _count(model, True)
+                    _count(model, True, resp)
                     time.sleep(gcfg.get("pause_seconds", 8))
                     return text, sources, model
                 except Exception as e:  # noqa: BLE001
