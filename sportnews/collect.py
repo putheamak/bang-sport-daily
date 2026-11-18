@@ -48,10 +48,14 @@ def _hit(k: str, text: str) -> bool:
     return re.search(r"(?<![\w])" + re.escape(k), text) is not None
 
 
+# Words that contain a sport keyword but are not sport ("сим-боксы" are SIM boxes used in phone fraud, not boxing)
+NOT_SPORT_RX = re.compile(r"(сим-?бокс\w*|\bбоксы\b|\bбоксов\b|\bбоксах\b|sim[- ]?box\w*|\bbox office\b|\bboxed\b)", re.I)
+
+
 def detect_sport(text: str, sports: dict) -> str | None:
     if "combat" in sports and COMBAT_RX.search(text or ""):
         return "combat"
-    text = text.lower()
+    text = NOT_SPORT_RX.sub(" ", (text or "")).lower()
     best, hits = None, 0
     for name, spec in sports.items():
         n = sum(1 for k in spec.get("keywords", []) if _hit(k, text))

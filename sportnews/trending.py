@@ -647,6 +647,14 @@ def write_selected(cfg: dict, numbers: list) -> list[dict]:
         if s["key"] in set(data.get("written", [])) or any(a.get("trending_key") == s["key"] for a in load_articles()):
             log.info("Talking point %s already written: %s", n, s["title"][:80])
             continue
+        from .pipeline import drop_previews_and_repeats
+        probe = {"title": s["title"], "link": (refs[0].get("link") if refs else ""),
+                 "also_reported_by": [{"title": r.get("title", ""), "link": r.get("link", "")} for r in refs[1:]]}
+        if not drop_previews_and_repeats([probe], load_articles() + new, date):
+            log.warning("Talking point %s not written: we already have this story, or it is a pre-match piece: %s",
+                        n, s["title"][:80])
+            _notify(f"⚠️ Not written (already on the site, or a preview): {s['title']}")
+            continue
         log.info("Writing explainer %s: %s", n, s["title"])
         try:
             art = write_article(cfg, "news", _context(s), date)

@@ -234,9 +234,29 @@ def _img(a, i=0, cls="ph", size="") -> str:
     imgs = a.get("images") or []
     if i < len(imgs):
         im = imgs[i]
-        return (f'<img class="{cls}" src="{E(im.get("local") or im["url"])}"{_srcset(im, cls)} alt="{E(im.get("subject", ""))}" '
+        return (f'<img class="{cls}" src="{E(im.get("local") or im["url"])}"{_srcset(im, cls)}{_dims(im)} alt="{E(im.get("subject", ""))}" '
                 f'loading="lazy" decoding="async" referrerpolicy="no-referrer">')
     return ""
+
+
+_DIMS: dict = {}
+
+
+def _dims(im) -> str:
+    """ width="..." height="..." for photos on our own site, so the browser keeps their space while they load
+    (no page jump = better Core Web Vitals / CLS)."""
+    path = im.get("local") or im.get("url") or ""
+    if not path.startswith("../"):
+        return ""
+    if path not in _DIMS:
+        try:
+            from PIL import Image
+            with Image.open(DOCS / path[3:]) as img:
+                _DIMS[path] = img.size
+        except Exception:  # noqa: BLE001
+            _DIMS[path] = None
+    wh = _DIMS[path]
+    return f' width="{wh[0]}" height="{wh[1]}"' if wh else ""
 
 
 def _srcset(im, cls="") -> str:
@@ -428,7 +448,7 @@ def _share(cfg, a, lang) -> str:
 
 
 def _figure(im, lang) -> str:
-    return (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)} alt="{E(im.get("subject", ""))}" '
+    return (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)}{_dims(im)} alt="{E(im.get("subject", ""))}" '
             f'loading="lazy" referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
 
 
@@ -452,7 +472,7 @@ def _body_with_images(a, lang) -> str:
     slots = [3, 7]
     for im, pos in reversed(list(zip(imgs, slots))):
         if pos < len(paras):
-            fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)} alt="{E(im.get("subject", ""))}" loading="lazy" '
+            fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)}{_dims(im)} alt="{E(im.get("subject", ""))}" loading="lazy" '
                    f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
             paras.insert(pos, fig)
     return "\n".join(paras)
