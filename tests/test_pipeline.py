@@ -1108,3 +1108,44 @@ def test_gemini_daily_quota_memory(repo, monkeypatch):
     llm._gemini(c, "sys", "prompt", search=False)
     assert all("lite" in m for m in calls[n:])          # the exhausted model is not tried again
     assert "ok" in llm.usage_summary()
+
+
+def test_daily_skips_previews_and_stories_we_have(repo):
+    """No pre-match pieces, and no second story on something we already covered (any status, last 7 days)."""
+    from sportnews.pipeline import drop_previews_and_repeats
+    ours = [{"id": "2026-11-17-news-aaaaaa", "date": "2026-11-17", "status": "published",
+             "en": {"headline": "Alexander Volkov Signs a New UFC Contract"},
+             "sources": [{"title": "Championat: Александр Волков подписал новый контракт с UFC", "url": "https://c.example/1"}]}]
+    items = [{"title": "Александр Волков подписал новый контракт с UFC", "link": "https://other.example/2", "also_reported_by": []},
+             {"title": "Japan vs Paraguay predicted lineups and team news", "link": "https://x.example/3", "also_reported_by": []},
+             {"title": "Thailand beat Malaysia 2-1 in ASEAN friendly", "link": "https://x.example/4", "also_reported_by": []}]
+    left = drop_previews_and_repeats(items, ours, "2026-11-18")
+    assert [i["title"] for i in left] == ["Thailand beat Malaysia 2-1 in ASEAN friendly"]
+
+
+def test_gemini_cost_estimate_and_flash_only(repo, monkeypatch):
+    import importlib
+    from types import SimpleNamespace
+    from google import genai
+    from sportnews import llm
+    llm = importlib.reload(llm)
+    monkeypatch.setattr(llm.time, "sleep", lambda s: None)
+    used = []
+
+    class Models:
+        def list(self):
+            return [SimpleNamespace(name=n, supported_actions=["generateContent"])
+                    for n in ("models/gemini-9.0-flash", "models/gemini-9.0-flash-lite")]
+
+        def generate_content(self, model, contents, config):
+            used.append(model)
+            return SimpleNamespace(text="ok", candidates=[], usage_metadata=SimpleNamespace(
+                prompt_token_count=1_000_000, candidates_token_count=100_000, thoughts_token_count=100_000))
+
+    monkeypatch.setattr(genai, "Client", lambda **kw: SimpleNamespace(models=Models()))
+    c = cfg()
+    c["ai"]["gemini"].update(google_search=False, allow_lite=False, prices={"flash-lite": [0.3, 2.5], "flash": [0.75, 3.75]})
+    llm._gemini(c, "sys", "prompt", search=False)
+    assert used == ["gemini-9.0-flash"]
+    assert "US$1.500" in llm.usage_summary()          # 1M in x 0.75 + 0.2M out x 3.75
+    assert all("lite" not in m for m in llm._STATE["chain"])
