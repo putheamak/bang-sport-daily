@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:19:09+00:00",
+  "updated": "2026-11-18T09:09:20+00:00",
   "stories": [
     {
       "key": "3456f3c553",
@@ -7,10 +7,10 @@
       "summary": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick Batam News Asia",
       "lang": "en",
       "sport": "football",
-      "outlets": 20,
-      "growth": 0,
-      "heat": 42.91,
-      "published": "2026-11-18T01:00:00+00:00",
+      "outlets": 18,
+      "growth": -2,
+      "heat": 38.62,
+      "published": "2026-11-18T02:00:00+00:00",
       "refs": [
         {
           "source": "Batam News Asia",
@@ -23,9 +23,14 @@
           "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick"
         },
         {
+          "source": "Football Today",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
+          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
+        },
+        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlZWSEl3VHI5Q1d2M05XWWZjal9weGxIVU83UE1XTW11MmdSMHlpVXJzQTM4ejBUU25KUDROOWRMNXdoTENzNUQtcDA5OVJXOGE4WXkzdlltNDltaTI4ajc3WW5tc3Uwd3pGOG5TWV9TQm9LQzE2cU5uVmUzSFhqTGVBTkR1MDcxbndOTVkwTQ?oc=5",
-          "title": "Singapore vs. Brazil Lineups & Confirmed Team News"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3luS08zZ2FPSU43TW5YYzFEbVAwZWRGLVVlaWpfdXJYMkNiVGx6c0tmSG00enZ1RmNHOWdPT2NTVWpFcjhPQllJM0Z3anhzSmFkcWhTX2p6VUtiQlBOdVh1U1VIQlFiRG9tR2t3MjhRcFpENWxnZ2RkV2t6SDZVcjJqUVRDNFFhNE8wd3d4TWkxd3NqaVE?oc=5",
+          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
         },
         {
           "source": "The Football Faithful",
@@ -38,13 +43,8 @@
           "title": "Vinícius Jr. explains anger with Brazil substitution vs Singapore"
         },
         {
-          "source": "Football Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
-          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
-        },
-        {
           "source": "Forza Football",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk5YSFo4djFBVU1sdmtQTVVJelBUdko1dUk4VDdkWjEyaktMUWM3aW51TmJRZUs2MGtpU3NIRUFONDhDeFJnQ29FcnpDMnNSUTZFRC1OMHlMekpCSTl4Tnd3MEVHcTZOcktCak8zeWxpYUNOMkJqVkdrTTJINkJ6RFI2ZDZxb3N6MVhpcDhscEFOU3cyMndDdDZXdkxEWFVCSjh3SnQxYzk3MFNZaWJyYml1b0YtNkI3R0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVVBWndJT3pWbV95MjlydkZZaUVKZThMdEkweU1NU0hvOGlVYmpFLUlrNzh5LVNHaFVjN05tcGtVblMxdzl4UHhjTExJUWg5ZG1RTy1ZYnZ5aTVYSHJlTDFDb1hCeENqaUFJcGZzODFnQmVfWmtETXhZR01nQWFLT2kyYkl3VDI1aHNMSHpyYWFXOS1yRnJIeUh3YlNmdzN1SV9QOFNndDBkVzhmTWxYT2JwUGVrUQ?oc=5",
           "title": "Vinicius Jr Continues Redemption Arc With Sensational Display in Singapore"
         },
         {
@@ -55,16 +55,21 @@
       ]
     },
     {
-      "key": "226ccf80ca",
-      "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
-      "summary": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him Sherdog",
+      "key": "201e3813df",
+      "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'",
+      "summary": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw' MMA Sucka",
       "lang": "en",
       "sport": "combat",
-      "outlets": 11,
+      "outlets": 10,
       "growth": 0,
-      "heat": 25.2,
-      "published": "2026-11-18T03:49:59+00:00",
+      "heat": 23.28,
+      "published": "2026-11-18T08:26:23+00:00",
       "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTk1WFdnaEFKRjRZQ080Q2owNjktMDNQX21PejJmY3hBcUVEdl9oSUpfSmJiY2JTZXdrZk9XWHp4RVdfLUFadkQxYWVVZExFTmtfN1FUODVZSFBQeGZ6dFpyYjNWY0g4Zl9aUlF4dHJCTW16NlZ4TldtM3FmV2N6WXBpRTJzS0NoWG5JVld0Q0s?oc=5",
+          "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'"
+        },
         {
           "source": "Sherdog",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
@@ -76,19 +81,14 @@
           "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
         },
         {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGU4YWVDcDJPLUswYTFGQTRULTg1ZTFuTHp1WWppSnJYNzJKeGh4R05saWtkOTI1eGRLdHM0ZTJtMVNNdHk2U3laRGZZNVctYUVoU2U1bmw0WWwwZ1ZLbkQzbmtXanJFdFhHaUVTNHEyeTVzeGN2LU9uM0E0Y09JVmFzUlZBUDBrS0tJUGFmdw?oc=5",
-          "title": "Conor McGregor says Josh Hokit is “biggest draw in the UFC today”"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeEdiV2R0dWZWWllRRFh0V1gzSXVObDIxWEhBc2t2RTBNWHdrR0V6V0tLb0pTNnNxTUZNMW1RWUtYVVpJR1hMMEF5dGJsMUN5YlFTVWRDeHd2TFRUQ1FHMUl4Mnpka0Mtem5OSnFicVVvMFlBQlNZYnRTeF9iWWFwZHlleGJTcEpLX0tWaXNEUUdKM241aXd6b2x2LXQ4WHVfQXY4N1VPM0FSdWFsV1hwYw?oc=5",
+          "title": "UFC Star Josh Hokit Aggressively Demands Ciryl Gane Rematch After UFC 334"
         },
         {
           "source": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
           "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality'"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFxMVcySTN2U0d5b3J1WHZiRjlFLUNXZnpUc1hOV3l0MzRyR2NNRHNFZllzVHlNX09uS2dPWDd4WXJIcHNhMy1zX0FRMXNkaU14dE1VdGs3a1ZnTmdsbEFQdjJZTlk3d1FyS1F3VUh2MExQb0VVajRPYVdLYjhqMzV2eG1aZk4yNFUyT1hRVGs4bno3OFRPNzllQVV2cmJqY0RCRjJaMEpDa195T3NCOWNB?oc=5",
-          "title": "Alexander Volkanovski Believes Josh Hokit's Aggression Wasn’t Enough to Beat Ciryl Gane at UFC 334"
         },
         {
           "source": "MMA Mania",
@@ -115,7 +115,7 @@
       "sport": "combat",
       "outlets": 9,
       "growth": 0,
-      "heat": 20.3,
+      "heat": 19.91,
       "published": "2026-11-18T00:55:00+00:00",
       "refs": [
         {
@@ -166,10 +166,10 @@
       "summary": "Football Ferns Name Squad for Philippines Matches to Close Out 2026 NZ Football",
       "lang": "en",
       "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.08,
-      "published": "2026-11-18T02:40:52+00:00",
+      "outlets": 5,
+      "growth": 1,
+      "heat": 14.69,
+      "published": "2026-11-18T03:11:15+00:00",
       "refs": [
         {
           "source": "NZ Football",
@@ -180,6 +180,11 @@
           "source": "NZ Sports Wire",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUlp5SXZHUWVHaFl1TG1rd3g2V1IwTHRxenZ5ZmxYWnY1Tm1KUlVrR1JoQTBtdWpSNFpzNWhPaTkzWjhhd0otYU11anBJakFZU0JWS3NNeFJuWVljakZPaTQxamhDQU9YYkhKd2poWDQ0VVhuS2Y2UnhDa3ZiQ3c?oc=5",
           "title": "Football Ferns named to face Philippines"
+        },
+        {
+          "source": "RNZ",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHkxMDAzdVM4ZG5pajhhbUV5ZGZNa3ZKOUdpUnhicDl5YWI3aXJpcldmcTJabXNJSlhidV9rM0xianpQY2duQVNiSDVZd1hTdEhDR3NtR0NqZHJ2ZXd0NnVLZWY3VlI0akh2ZFR6OU84ZFl5MkpBTzJUREN1VVAycHhTYnJ0VG9PUlRmMFpTRllhUXdpQTdtNnFlTHpJakxUU0pKdi1ERzdESGROV2dtWVBfUFMyR3c2?oc=5",
+          "title": "Three uncapped players named in Football Ferns squad for Philippines matches"
         },
         {
           "source": "Friends of Football",
@@ -194,216 +199,35 @@
       ]
     },
     {
-      "key": "f6288c58eb",
-      "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\"",
-      "summary": "",
+      "key": "3188c895a4",
+      "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию",
+      "summary": "«Спартак» и «Металлург» совершили обмен, сообщила пресс-служба московского клуба.",
       "lang": "ru",
       "sport": "hockey",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.91,
-      "published": "2026-11-18T02:45:23+00:00",
+      "heat": 9.12,
+      "published": "2026-11-18T08:43:00+00:00",
       "refs": [
         {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261118/khokkey-2132248225.html",
-          "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\""
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/khl/news/spartak-obmenyal-malceva-i-prava-na-morozova-v-metallurg-na-ishakova-nechaeva-i-kompensaciyu-2476187/",
+          "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/",
-          "title": "«Филадельфия» обыграла «Баффало», Мичков сделал две голевые передачи"
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117440451-spartak-obmenyal-morozova-i-malczeva-v-metallurg-vzamen-klub-poluchil-.html",
+          "title": "«Спартак» объявил об обмене Морозова и Мальцева в «Металлург». Взамен клуб получил Исхакова, Нечаева, компенсацию и права на Комарова"
         },
         {
           "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6703842-filadelfiya-flajerz-baffalo-sejbrz-rezultat-matcha-18-noyabrya-2026-schet-4-3-regulyarnyj-chempionat-nhl-2026-2027.html",
-          "title": "Два ассиста Мичкова помогли «Филадельфии» обыграть «Баффало»"
+          "link": "https://www.championat.com/hockey/news-6703168-spartak-obmenyal-napadayuschih-morozova-i-malceva-v-metallurg.html",
+          "title": "«Спартак» обменял нападающих Морозова и Мальцева в «Металлург»"
         }
       ]
     }
   ],
   "known": {
-    "d7044c26aa": {
-      "key": "d7044c26aa",
-      "title": "Кайла Харрисон победила Аманду Нуньес в защите титула UFC",
-      "summary": "Кайла Харрисон победила Аманду Нуньес в защите титула UFC UA.NEWS",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 0,
-      "heat": 23.7,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T05:48:33+00:00",
-      "refs": [
-        {
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWZSblZ6QVZYX1NLalJxTFVWTEdkbUhCWjhHSGxyNU1saTNZaXV3eDFJalVXZU1XT0V1NF93RnBDMjJ6Zk5IemRwMkdSdzBIRWZKRU9MNzNTTGdtOEFiN25zQ2VhTHlLRGxCd2dydFBqQ00ydldxaXBmMUVCUTdjZ1pIUXRXemdXbElNRWdmcTJJU2ZCUEJPQ3Z1eGtEZG1y?oc=5",
-          "title": "Кайла Харрисон победила Аманду Нуньес в защите титула UFC"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWhzTGJzM05iX0xHWjFXOEFNc0d6UU5WeHZlWGlDaUJ2VG5wZmh4dzZ3WDl0eG9tbFdXeDN4bmJ3OWJSUTJfRjFrZkprbXl2NklTeFh5QktULVdzbkJ1Z3FHbFQwQjZCVEtYYkdoSGlTaV9PaDBkRzJMcDNFSE9nSWQtSWcxam9yNUFoT1Zn0gGTAUFVX3lxTFBLR1dFN0xTWVYxaUN1SGhKR3BoTVB3MFdmVWNsYkVXM2RiTUtQOW1yd1VKLUVIbGxJajlTUVpaeWVsVkdvaTBZQnNKcm9pLUhMWXR0QXZOYkVncnJ1TW4zS0ZfVWMxNTUtR1c5ZTYxSllGX0NLTzZFd0JqRzdXM1JiSFdBNzVlSUdYbWhUaGFPd2M3VQ?oc=5",
-          "title": "Харрисон «задушила» Нуньес и защитила титул UFC"
-        },
-        {
-          "source": "Allboxing",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzhBMzBLNkxBWUtrSzVhTVk4WUM5elhlV2ktYmhJa3U5VWZLTUJXOUFHSXNKQkp3ZmlpRTlJOXdqekFsZ3dpbmpFTEdsaHpXamMxR08xSFkwQWpHT3QzeTVrcC12Ym9oYjNSVHZpTUVQWXV2bS03OG1VMUxMNEZBbVVleFEzN1I1SnNnQg?oc=5",
-          "title": "UFC 334: Кайла Харрисон победила Аманду Нуньес"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/ufc-2131639319.html",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
-        },
-        {
-          "source": "NUR.KZ",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanB1YlBNTFI1czl1NkVMZFhJa1BFT3ZqRUxyQmJZX2V3S3lxcGJ4cXBwOTFtZThhVVpnNTU1ZHF2STFXXzdkUTkwMzZXT3dsdXlER3A2WWZmSFcyOUVLbFpDRWN2Vm1HRDRWdVlFdkJSZk8ycWJXX2dyaUxNZzRvSkNLODE1cHd3RlB4a0xPdFJLdFZseUZPdVlqN3lWa0ZMTmdaSUpR?oc=5",
-          "title": "Кайла Харрисон финишировала Аманду Нуньес и защитила пояс UFC"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VRTRYZGZvbFpiVmh3LXE4X2xWYjh1YXVESzVjSERCOTdOZXBRMHFwMS1teVE3QzlzZGNva05iNkFjbS1Xelp4SEM3M0U0TWp6OXNIRQ?oc=5",
-          "title": "Кайла Харрисон задушила Аманду Нуньес на UFC 334"
-        },
-        {
-          "source": "Meta-ratings.kz",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnpOQW1vSEkzakJlVjFnRWREdGRVLXEtbXlQcXMzd2hIU24zUVlFOUI5b3BEdFFVTHpITUtjdkNWQnFzNjJ4eVdnVmRwVUFlMmVaVkRrUmRiU0E5blBzS1FEVm5mbFkybWtNVHNKdFdOSEZzNnBVcTdsVUw5bUZSR09IUC0zaEJudzJmOXVWYnFPbWV0RVB4bEhlbzVaTEU0VmZOYnhmd0YxdGk2em1ZeTRzVGlpX1k?oc=5",
-          "title": "Кайла Харрисон задушила Аманду Нуньес и защитила титул UFC в легчайшем весе"
-        }
-      ]
-    },
-    "85aa324fab": {
-      "key": "85aa324fab",
-      "title": "UFC 334: Gane vs. Hokit results, analysis",
-      "summary": "UFC 334: Gane vs. Hokit results, analysis theScore",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 16.22,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T06:02:48+00:00",
-      "refs": [
-        {
-          "source": "theScore",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS19vVGhxRUNVVkZkbEs5XzE5WVNxN3dtMzBSTmphZ0txaTJIcVFEWDZFaGtUOFg5VFR2S29YbkZnZHExUVB5V2tzTWR5WEtieEhIcU9JN0JmaW0zekxwYnBlZEdxb0xxdEZmTmJqUnk5cl96VmFqbTNPWnZJa0pwNmFfWWNHNms?oc=5",
-          "title": "UFC 334: Gane vs. Hokit results, analysis"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
-          "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNckpBTGhKMFp5ZXg5NFVHbWJmSVNYYzltdktOOTk1Y1NvVkotcDY0TnBzS3l2TWFkNUpkRncycG5fOW5INW5iWmdSbXNXaDR6MndJQ291dmlTX2VKek1YT2RhSEZBYjVPaWRWbW02ZGtuYVp5d1VralFEd0JPZzA4MWN6ZVk1QkRKQjBiWWp1LWdVb2dQanY3cTFjV1FJSlFmV2lFMlFITGk0WHN0eFkwM0liTHM5OVhPSUtuU0pzbGJEb0s1MnAyejBTZ2pHb1FsdGlUby1ISTdMbTZVTkow?oc=5",
-          "title": "UFC 334 live results, highlights, play-by-play | Gane vs. Hokit"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JOb2NkWmNjZ2lMb1RKcUJxSkVxTlRGYmU5alV2eHZrblZxNGthbnprd1l6T0pBWUtnOVQ2OUJvQTkzZW5zNjNZV0stQkdWZnVUSEJKN0x2T3RIWExicHd6b3dNWlZwb21YRjFtTGNVYlJEbG1oRGhQSTljZ2E4cmVoR2Zob08zOTcxYUdzRkloRlNwdVhheVhxcmo?oc=5",
-          "title": "UFC 334: Live results, analysis for Gane-Hokit, Harrison-Nunes"
-        },
-        {
-          "source": "UFCESPANOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EbW8yQkFsdkFaeHBfcUY2cFpVeUVla3p4TDFWak94OExlWjlwUlRueW1DSURiUmQwV0xQS0I2VU9VU2dRYW5TTERSX2EtNzRCMDZhMmNmVVlKTlFZT1RZVmhlUl90Q3p4eXNLZHZrS2dPcml2UHpaWTdwRnM?oc=5",
-          "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaGVPU2txN0Q1ZldBOEJXTHl2aDlDY0RDYzN0dURJNkUxY0w2enJyLW53RVlIMlljd1hNTGZRMERQTk1DLTFVc09zMC1YNk5meERpcFVtQTJBaVZwUUNoVVBaNlFMOXYtZDVpNjZ6cXp5dXd5YUI0?oc=5",
-          "title": "LIVE! UFC 334 Results: Gane vs. Hokit"
-        }
-      ]
-    },
-    "e9e82d1c6d": {
-      "key": "e9e82d1c6d",
-      "title": "Japan stun Brazil 3-2 in Singapore",
-      "summary": "Japan stun Brazil 3-2 in Singapore NST Online",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 6,
-      "growth": -1,
-      "heat": 13.94,
-      "published": "2026-11-14T22:22:15+00:00",
-      "refs": [
-        {
-          "source": "NST Online",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTB6QVZjUkMzcDV3QlZkNlRZUlFIOGJUVDN0STA0TlRmdVRiWlVKWERJbUpjZV9JWUN1TlRGcmlwenBiSU9ZQllIamg2UzlmYnhpQ2otM3RRdEJteGl5MHoydjd4S0lEWVZqaldUdEFlNmlBTUNBQ1R4a2hxc29tdTJRRURyQm5EX24ybkhTMNIBlAFBVV95cUxPQkw3T1FGUWtNdXhxREprYUpCY3g5N2FLaHhUVEVZY1F0bi1EM2JfbDhDblVIcDJDS1dmX1ZVTnFiSlZHWFcwSnFsRVQwQXhQVmRoSE16TG1CZ2gtOEVoVUUwbTlKTER1MlZRZWhRUFhDYWwxLTRpU01saTBVd3ZXY3dLMmNDY2NJRjdfNTUyclJaUjdu?oc=5",
-          "title": "Japan stun Brazil 3-2 in Singapore"
-        },
-        {
-          "source": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONU12dVZiX1ZkV21sb2pQOEd5NklQX2dtNWcwVzVLTmtqc2dydUtHa3lBTzEyek1ydklUelZBRk92VUVpeVYwb0t5RUlrcjdNMllERDVHWVZhUU9obmdkSjV4ckRMOVFiX1k1bEgxTkh3OXpNZGZIbldobmw0Y2FTdURid2VobW41bmJfZmtwZ2J6ZmJUUll4RkJ4NEZUZGpkdWZQOV8wcHRfbWVLYTh2N0xaWTkybUt6TWfSAboBQVVfeXFMTzE5SVdjZTlGZHlmNlRNOFFKZFA1S2p6ZWJpalZBcDdEWjNTZjZnVWNqYWJGQ1dsTGUxUHJKTFRQQTVqaXFyZWY1dF84ZjB4clVwREF3UFlYU20zY2F4VVNwTzJxZEZOQ0R4dXdid0NEMzBUanFabVNmMEVjZ1JJVERpUlNtbWExTlA4WmxhVTRNLWFaaUx4TVFXeDdvOFlfY04tQmtPVFdXa1Z3eExqQXpVaHM5ZmRBem13?oc=5",
-          "title": "Japan earn small measure of World Cup revenge with Brazil defeat in Singapore"
-        },
-        {
-          "source": "CNA",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGx1Ny1haDhlVk5IT2RKUi1ZWlhsVkJLZFZ1TkF3TXlCYjFUUUVIcGN0N0tjaDU0ZTBZU0o3Q1Z1WmstOVVqbDE2Z18wTlJ5YTlVR2drRkhtUE5QQk95eHdScHljTDc0azZydDBCR3c2djUxLU9hNmJMbVV0blh6QnVRSDVmRG42UDVzaER3bmsxV2c?oc=5",
-          "title": "Japan avenge World Cup loss with 3-2 win over Brazil amid late red-card drama in Singapore"
-        },
-        {
-          "source": "The Straits Times",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2g5WV9PdklqV0pEQnRLUHM1S29mcTZqY0pCOW9YeVcycnVFM1hGbnZubWxUV0VGRW5MS2xWQ2Z5ZkpVLXVlZGZYdGc1NXlIYUx3VGFRTFpVVXVhMTFZOHU2czhMblduVURJRWVCWVpyS0hwZ2pMZEtaWGJibnhfMjNXVW03RVBhN0tlUkJxX0VkU25Xa2xhdjlqX2JDc3ZqUXNTaU5UMDkwMUtZVTNFZUw3TjdiaWN2d2ZPYmZmRXhNZ2RBVEE?oc=5",
-          "title": "S’pore ref Jansen Foo comes under fire from Ancelotti, Brazil after 3-2 loss to Japan"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkMzMTBPSWhDcEp1VXgxVm5oSWsxd1RuV0dkU2VOSFIxYUNsSy16R3JBNGNGVDZjMW5aZ1ZGZ2F1anl1LTJsZ3NlMjhkNndjTXR5VFhZYlBKa3c5YnZPWW9EV1RtaF8tU2pudTctc2tUUFZiRV8tTGpIdC1RZXU1TUE2eU45MkdpVUtZTUQzTndsNjdLT3JJaVRWNzRYclJQSlotN091Z2RKU2NnWlE?oc=5",
-          "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat"
-        },
-        {
-          "source": "Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVFOVXFYMWo4YlVaNEhQTDhGZGNCcVZRNGtPdVFwUFVwOG1Ka0dnUk5zQmNzNFQ2NGI2VjUtaXQtOEZydDRnbnVtei1LcEJJZ2wzcXFOdjFZNmxuTi1jMVI1OUN0S0ttZUdWcy1kUU52RjhRWDd5UlNuYmtnNWhVdUl4TzJyUXF5a3dsUFN3?oc=5",
-          "title": "Furious Carlo Ancelotti slams referee and explains bizarre red card after Brazil suffer shock stoppage-time defeat to Japan"
-        }
-      ]
-    },
-    "30833acc0d": {
-      "key": "30833acc0d",
-      "title": "Сборная Португалии обновила дизайн цифры «7» на форме после ухода Роналду",
-      "summary": "Сборная Португалии представила новый дизайн цифры «7» на футболках после завершения карьеры в национальной команде форварда Криштиану Роналду, который выступал под этим номером.",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 11.81,
-      "published": "2026-11-14T15:12:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/foreign/news/sbornaya-portugalii-obnovila-dizayn-cifry-7-na-forme-posle-uhoda-ronaldu-2474831/",
-          "title": "Сборная Португалии обновила дизайн цифры «7» на форме после ухода Роналду"
-        },
-        {
-          "source": "Футбол на Куличках",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHM0N1pXV21Qa0doTkltVUZINWJUaHFXWS1pZXljOFRSMzlrLUFmYXRra0tpZTRSNFh0QVROM3VTd2ZXMHdXOWdNcFpnY0dzUWxkeDl2MVViLTY3R3IwLUdxeU9WMU5SRWtXYXNPVzJYQjFNekNaN3FkbnYwRi01dTFIS1l6aVpvRWFlT2ljTHFnMkx2QkRIR1Y4RE1XLUJ1YWFQVms1emlxQTFPZGlVMkpyTWJORmNDbjNHbi11T1FQb3hQb0Rv?oc=5",
-          "title": "Сборная Португалии изменила дизайн цифры 7 на форме после ухода Роналду."
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcWRMY0JaY3IzSFR4dHdjb2pHakNkcXh4OW4wWGZCSF9DYnhqMDhTTF80ZURic2tnX21kcFJjMzFOWDBOejhCcVMyNzM5dzhtVWFXbQ?oc=5",
-          "title": "Португалия проиграла 1-й матч после ухода Роналду из сборной — 1:4 Дании на своем поле"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117437196-zhezush-o-tom-ne-xvatalo-li-portugalii-ronaldu-pri-14-s-daniej-ego-ne-.html",
-          "title": "Жезуш после 1:4 с Данией о том, не хватало ли Португалии Роналду: «Его не хватает для компании, но он больше не играет в сборной. Он уже определился с будущим»"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/futbol-2131617233.html",
-          "title": "Сборная Португалии разгромно проиграла датчанам в первой игре без Роналду"
-        }
-      ]
-    },
     "a21b8a6ef3": {
       "key": "a21b8a6ef3",
       "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
@@ -2934,10 +2758,10 @@
       "summary": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick Batam News Asia",
       "lang": "en",
       "sport": "football",
-      "outlets": 20,
-      "growth": 0,
-      "heat": 42.91,
-      "published": "2026-11-18T01:00:00+00:00",
+      "outlets": 18,
+      "growth": -2,
+      "heat": 38.62,
+      "published": "2026-11-18T02:00:00+00:00",
       "refs": [
         {
           "source": "Batam News Asia",
@@ -2950,9 +2774,14 @@
           "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick"
         },
         {
+          "source": "Football Today",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
+          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
+        },
+        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlZWSEl3VHI5Q1d2M05XWWZjal9weGxIVU83UE1XTW11MmdSMHlpVXJzQTM4ejBUU25KUDROOWRMNXdoTENzNUQtcDA5OVJXOGE4WXkzdlltNDltaTI4ajc3WW5tc3Uwd3pGOG5TWV9TQm9LQzE2cU5uVmUzSFhqTGVBTkR1MDcxbndOTVkwTQ?oc=5",
-          "title": "Singapore vs. Brazil Lineups & Confirmed Team News"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3luS08zZ2FPSU43TW5YYzFEbVAwZWRGLVVlaWpfdXJYMkNiVGx6c0tmSG00enZ1RmNHOWdPT2NTVWpFcjhPQllJM0Z3anhzSmFkcWhTX2p6VUtiQlBOdVh1U1VIQlFiRG9tR2t3MjhRcFpENWxnZ2RkV2t6SDZVcjJqUVRDNFFhNE8wd3d4TWkxd3NqaVE?oc=5",
+          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
         },
         {
           "source": "The Football Faithful",
@@ -2965,13 +2794,8 @@
           "title": "Vinícius Jr. explains anger with Brazil substitution vs Singapore"
         },
         {
-          "source": "Football Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
-          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
-        },
-        {
           "source": "Forza Football",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk5YSFo4djFBVU1sdmtQTVVJelBUdko1dUk4VDdkWjEyaktMUWM3aW51TmJRZUs2MGtpU3NIRUFONDhDeFJnQ29FcnpDMnNSUTZFRC1OMHlMekpCSTl4Tnd3MEVHcTZOcktCak8zeWxpYUNOMkJqVkdrTTJINkJ6RFI2ZDZxb3N6MVhpcDhscEFOU3cyMndDdDZXdkxEWFVCSjh3SnQxYzk3MFNZaWJyYml1b0YtNkI3R0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVVBWndJT3pWbV95MjlydkZZaUVKZThMdEkweU1NU0hvOGlVYmpFLUlrNzh5LVNHaFVjN05tcGtVblMxdzl4UHhjTExJUWg5ZG1RTy1ZYnZ5aTVYSHJlTDFDb1hCeENqaUFJcGZzODFnQmVfWmtETXhZR01nQWFLT2kyYkl3VDI1aHNMSHpyYWFXOS1yRnJIeUh3YlNmdzN1SV9QOFNndDBkVzhmTWxYT2JwUGVrUQ?oc=5",
           "title": "Vinicius Jr Continues Redemption Arc With Sensational Display in Singapore"
         },
         {
@@ -3034,7 +2858,7 @@
       "sport": "combat",
       "outlets": 9,
       "growth": 0,
-      "heat": 20.3,
+      "heat": 19.91,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-18T00:55:00+00:00",
@@ -3087,10 +2911,10 @@
       "summary": "Football Ferns Name Squad for Philippines Matches to Close Out 2026 NZ Football",
       "lang": "en",
       "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.08,
-      "published": "2026-11-18T02:40:52+00:00",
+      "outlets": 5,
+      "growth": 1,
+      "heat": 14.69,
+      "published": "2026-11-18T03:11:15+00:00",
       "refs": [
         {
           "source": "NZ Football",
@@ -3101,6 +2925,11 @@
           "source": "NZ Sports Wire",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUlp5SXZHUWVHaFl1TG1rd3g2V1IwTHRxenZ5ZmxYWnY1Tm1KUlVrR1JoQTBtdWpSNFpzNWhPaTkzWjhhd0otYU11anBJakFZU0JWS3NNeFJuWVljakZPaTQxamhDQU9YYkhKd2poWDQ0VVhuS2Y2UnhDa3ZiQ3c?oc=5",
           "title": "Football Ferns named to face Philippines"
+        },
+        {
+          "source": "RNZ",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHkxMDAzdVM4ZG5pajhhbUV5ZGZNa3ZKOUdpUnhicDl5YWI3aXJpcldmcTJabXNJSlhidV9rM0xianpQY2duQVNiSDVZd1hTdEhDR3NtR0NqZHJ2ZXd0NnVLZWY3VlI0akh2ZFR6OU84ZFl5MkpBTzJUREN1VVAycHhTYnJ0VG9PUlRmMFpTRllhUXdpQTdtNnFlTHpJakxUU0pKdi1ERzdESGROV2dtWVBfUFMyR3c2?oc=5",
+          "title": "Three uncapped players named in Football Ferns squad for Philippines matches"
         },
         {
           "source": "Friends of Football",
@@ -3148,9 +2977,9 @@
       "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according",
       "lang": "en",
       "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.73,
+      "outlets": 6,
+      "growth": 1,
+      "heat": 17.14,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-17T22:43:15+00:00",
@@ -3179,6 +3008,11 @@
           "source": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjFXMDU1a0dERy12bEVPYV9rOU93RWE3eF83UWpieEFwTlIzR3ZvYldlQ1VCQmVWQUZVNkRiLXFMalRKMExsZTh0OTI4TkgydE81cmJDQTY1QmpxYjJwZzlPVDJtSU94SWdwZVotQ2kzVkpnQldzYlc1QWhQZVV2Yy03OVU4Szg0WWc?oc=5",
           "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas"
+        },
+        {
+          "source": "MiddleEasy",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDFueGNweGo4QWtWaFNfV05jc3pGc1N2LTZEd2ZRdWFTaFN1cDltWTZRVjk4Ymk0dkNsY2xMQ1d5VVNuZ3RRakc0VkZBSU4yYWMyOGp6YkV4TVA5a19HZkhPUGd6MG5sQ0lHQ0Q1QWlGdHBoM1JxRDRGSi13U2NXcWY5VjgtTVdqcWlv?oc=5",
+          "title": "WBA President Confirms Jorge Linares Is In ICE Custody"
         }
       ]
     },
@@ -3249,6 +3083,134 @@
           "source": "BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wT3ZCMEVwT3VFWm9rUzVkRVp6aTFVay1tcWN2TnFEeFVRYU9EcnhWMVZrd0dqUnRFclZZUHJtNWpLeVhCeTJFWlNUbk1tZGdUb3E3WnQ2NzhfS28?oc=5",
           "title": "Tommy McMillen: The UFC's \\$100,000-a-Month Gambler Who Nearly Died and Won't Fully Stop Partying"
+        }
+      ]
+    },
+    "201e3813df": {
+      "key": "201e3813df",
+      "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'",
+      "summary": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw' MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.28,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-18T08:26:23+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTk1WFdnaEFKRjRZQ080Q2owNjktMDNQX21PejJmY3hBcUVEdl9oSUpfSmJiY2JTZXdrZk9XWHp4RVdfLUFadkQxYWVVZExFTmtfN1FUODVZSFBQeGZ6dFpyYjNWY0g4Zl9aUlF4dHJCTW16NlZ4TldtM3FmV2N6WXBpRTJzS0NoWG5JVld0Q0s?oc=5",
+          "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
+          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
+          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
+        }
+      ]
+    },
+    "3188c895a4": {
+      "key": "3188c895a4",
+      "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию",
+      "summary": "«Спартак» и «Металлург» совершили обмен, сообщила пресс-служба московского клуба.",
+      "lang": "ru",
+      "sport": "hockey",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.12,
+      "published": "2026-11-18T08:43:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/khl/news/spartak-obmenyal-malceva-i-prava-na-morozova-v-metallurg-na-ishakova-nechaeva-i-kompensaciyu-2476187/",
+          "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117440451-spartak-obmenyal-morozova-i-malczeva-v-metallurg-vzamen-klub-poluchil-.html",
+          "title": "«Спартак» объявил об обмене Морозова и Мальцева в «Металлург». Взамен клуб получил Исхакова, Нечаева, компенсацию и права на Комарова"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6703168-spartak-obmenyal-napadayuschih-morozova-i-malceva-v-metallurg.html",
+          "title": "«Спартак» обменял нападающих Морозова и Мальцева в «Металлург»"
+        }
+      ]
+    },
+    "344bf0755d": {
+      "key": "344bf0755d",
+      "title": "Kayla Harrison Unhappy With Her Performance at UFC 334",
+      "summary": "Kayla Harrison Unhappy With Her Performance at UFC 334 MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.68,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-18T08:26:21+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkdVTGJKZG5LckNGMkQ0cXEwaUd5WGhLamZiRkJRbU5vdEhmUlc1MFRqczQxdUZuZ1lpUjMtRnVNQ25Kbm9FSVYxa0hJdm1Gc2N1N2VHU3ZLcGpkakhEY2tOTGFHWW9KZG1kZWFubW1seTZyLWhIUFd0NVpuRlpOOVRhc1VMTGxuVmU2ZW0xUmh2OVNVdXc?oc=5",
+          "title": "Kayla Harrison Unhappy With Her Performance at UFC 334"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVdOc3pXQUUtZk8tSGFOVV9xVG44Q1BhdWIzOHNLcFR2ekJQZDQteEZxTFlJa1BQWXhZYXl2QmZmWjRZNm1wQVVXMXB4ZDZzSGZGYkFERUozWGI4emJPd1NISEk4UVdrSHE0LVRyNlRsb21TSjh4R1lSNXgySXM1QU9EZ2w3SVhTdmM5YlozRmp2RmxBRjFIZ2ZEYXg2SnFiOEQwMUowOUUzdEtrUGpnMndzTk5RTzVOOEZLTmJoSEh5bmxDOW1FQ3FKODl4VjhqTGg4SWxlRXY0dk51?oc=5",
+          "title": "Kayla Harrison admits UFC 334 win may be her final MMA fight, plans to 'do some soul-searching'"
+        },
+        {
+          "source": "Just Women's Sports",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjFWdjZZdG5mWHdFcVVBQXNIaVA2MUpSSlJURldFYnZsVFBXSFJHWlJEZHIyUGx2dmtWSEtVay1lX1NWekV4R1JVUVphczFGQnVGX3JqQ1RFaTU5V1NYQ0JyVjR2OEVnYTh5cFNfS0hmWkY2SFVVRTNEVXJseFFrVlFOdHh2ams4a2hvTm10d3pETmxCM0tJcnZGTDU?oc=5",
+          "title": "Amanda Nunes Accepts Kayla Harrison’s Rematch Challenge After UFC 334 Loss"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
+          "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNTcFZrLTB4eGxaUC0zVTlkWTFmc1haZXczdjRvbVFWa1FIQk5UZF9hMmxrTTdfRUpYNXM3S250alFWallEUDZGSnJrMTJQTTdyZC15cWZBcm5uY2hfakp5YlJNSkdSQy1FZ3BPYmhwak52Ynd0ZkRnZ2I4T2hWVmVZOGc3ZEJxUHhrR1FvcWdYSE85azNXM1Myd1VCcHp3TjZxcHRuWm1lcGUwYXhGaUlTVllXZll2dVE?oc=5",
+          "title": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch"
+        }
+      ]
+    },
+    "383d7f953c": {
+      "key": "383d7f953c",
+      "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы",
+      "summary": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы Progorod33",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.22,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-18T07:56:19+00:00",
+      "refs": [
+        {
+          "source": "Progorod33",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oUHJkWS1fa1lNWjNKR19XMlh5cW1GRDlodHlyNHg0OVZmTlJDcEJ5ZktCZmVQLWNDRjlVdkFWZWhFakxQcGwyag?oc=5",
+          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы"
+        },
+        {
+          "source": "http://vladimirnews.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS25WZENSTTBUS0dEVkFndDRtRHBxdnRWY0ljQXV4T0d6LUpwa01WTXd4UGpqY2FOUkgyYUVKbzdFeEZwa1R1QVBnbHRndWFL?oc=5",
+          "title": "Жительниц Подмосковья будут судить во Владимире за мошенничество с сим-боксами"
+        },
+        {
+          "source": "vedom.ru",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHZXSHRRNTZGZlhwVmVWei0xMnFlemlFSlg2YmpVTm9OV1BKdElaNmtmX05rbC1jcGpTQ2VTTlRyY1lPQllFcFFmY3RqV2dPYWxFU0hLNXEtVGhZWHI0MGtjSld1MGFsVkE5VEZ3RzhLSzh4bFprb1RzNGhKNWh5RHA1cU1WSEhkR2c?oc=5",
+          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве с сим-боксами"
         }
       ]
     }
@@ -3486,7 +3448,7 @@
       "sport": "combat",
       "outlets": 9,
       "growth": 0,
-      "heat": 20.3,
+      "heat": 19.91,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-18T00:55:00+00:00",
@@ -3534,59 +3496,14 @@
       ]
     },
     {
-      "key": "226ccf80ca",
-      "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
-      "summary": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him Sherdog",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.2,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T03:49:59+00:00",
-      "refs": [
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
-          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
-        },
-        {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGU4YWVDcDJPLUswYTFGQTRULTg1ZTFuTHp1WWppSnJYNzJKeGh4R05saWtkOTI1eGRLdHM0ZTJtMVNNdHk2U3laRGZZNVctYUVoU2U1bmw0WWwwZ1ZLbkQzbmtXanJFdFhHaUVTNHEyeTVzeGN2LU9uM0E0Y09JVmFzUlZBUDBrS0tJUGFmdw?oc=5",
-          "title": "Conor McGregor says Josh Hokit is “biggest draw in the UFC today”"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
-          "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality'"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmRrUHZoV0dhbUI4azZoQ2wtZjlSY0lXcWU0NkhnMTRjOVRkR0NBSC1EX24taUxmVGFlejdCQ2o3R3lIVWZHMkFVcV91X05vNFFKUVpyQTFaQmgyakJRbktqMXd0X0tYUFc3ejJBVTRQLTVEQWIzdlJpeXY4NmhCNmsydlQ1WnNyRzRiQUdtQWYwQ1VhMi1OZzF1c2o0TmtTdnZkeHRUQm9nUXNCdG9PMw?oc=5",
-          "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmhVd2pxM1hOTXJBa0dXa0NLVEN5OHFwRkQ5ZElxWURYNlpLSXY3aFpvZlB3Y21HZ0NhR3RBQVV1MmxFNGRvWGp1bWFXNkFTREd1YVlMR2o2aEJzYjdKMVZ5SFlwcV9aYnE0Yi03YUh6elc0eTJsdHhmd0Z5OEJQWVliWnVCWHNUVHFfZHlNVVlGYTYzZkE?oc=5",
-          "title": "Conor McGregor’s Manager On His Potential New UFC Contract"
-        }
-      ]
-    },
-    {
       "key": "83cc71e059",
       "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
       "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according",
       "lang": "en",
       "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.73,
+      "outlets": 6,
+      "growth": 1,
+      "heat": 17.14,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-17T22:43:15+00:00",
@@ -3615,26 +3532,31 @@
           "source": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjFXMDU1a0dERy12bEVPYV9rOU93RWE3eF83UWpieEFwTlIzR3ZvYldlQ1VCQmVWQUZVNkRiLXFMalRKMExsZTh0OTI4TkgydE81cmJDQTY1QmpxYjJwZzlPVDJtSU94SWdwZVotQ2kzVkpnQldzYlc1QWhQZVV2Yy03OVU4Szg0WWc?oc=5",
           "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas"
+        },
+        {
+          "source": "MiddleEasy",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDFueGNweGo4QWtWaFNfV05jc3pGc1N2LTZEd2ZRdWFTaFN1cDltWTZRVjk4Ymk0dkNsY2xMQ1d5VVNuZ3RRakc0VkZBSU4yYWMyOGp6YkV4TVA5a19HZkhPUGd6MG5sQ0lHQ0Q1QWlGdHBoM1JxRDRGSi13U2NXcWY5VjgtTVdqcWlv?oc=5",
+          "title": "WBA President Confirms Jorge Linares Is In ICE Custody"
         }
       ]
     },
     {
-      "key": "506937d17e",
-      "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces",
-      "summary": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces MMA Sucka",
+      "key": "344bf0755d",
+      "title": "Kayla Harrison Unhappy With Her Performance at UFC 334",
+      "summary": "Kayla Harrison Unhappy With Her Performance at UFC 334 MMA Sucka",
       "lang": "en",
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.74,
+      "heat": 12.68,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-18T05:14:25+00:00",
+      "published": "2026-11-18T08:26:21+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRENBNW1CRWpETTFtNG1sMGVDS211OGFPUUc1Mjc1VGNHdlQ0aktGYjllYjdKbTR1Yl9WclF1THRnR1JoVER4MjNLX0lvbGFzYWFWemhENlJfYlZVSG43SVlOeFJDdm5TX2VPZEVWQlNGT3BHLW5oc0c5WHhXN1FWZ09HaHhrYmhPTEstRnJLSUlLOUkzY0c0?oc=5",
-          "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkdVTGJKZG5LckNGMkQ0cXEwaUd5WGhLamZiRkJRbU5vdEhmUlc1MFRqczQxdUZuZ1lpUjMtRnVNQ25Kbm9FSVYxa0hJdm1Gc2N1N2VHU3ZLcGpkakhEY2tOTGFHWW9KZG1kZWFubW1seTZyLWhIUFd0NVpuRlpOOVRhc1VMTGxuVmU2ZW0xUmh2OVNVdXc?oc=5",
+          "title": "Kayla Harrison Unhappy With Her Performance at UFC 334"
         },
         {
           "source": "Yahoo Sports",
@@ -3659,32 +3581,62 @@
       ]
     },
     {
-      "key": "e14554227d",
-      "title": "UFC Star Tommy McMillen Describes Drug Overdose",
-      "summary": "UFC Star Tommy McMillen Describes Drug Overdose Yahoo Sports",
+      "key": "201e3813df",
+      "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'",
+      "summary": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw' MMA Sucka",
       "lang": "en",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.95,
+      "heat": 9.28,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-18T04:19:33+00:00",
+      "published": "2026-11-18T08:26:23+00:00",
       "refs": [
         {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTk1WFdnaEFKRjRZQ080Q2owNjktMDNQX21PejJmY3hBcUVEdl9oSUpfSmJiY2JTZXdrZk9XWHp4RVdfLUFadkQxYWVVZExFTmtfN1FUODVZSFBQeGZ6dFpyYjNWY0g4Zl9aUlF4dHJCTW16NlZ4TldtM3FmV2N6WXBpRTJzS0NoWG5JVld0Q0s?oc=5",
+          "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
+          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
+        },
+        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzBiOEVlOTItUHpDRHVUSDFrOEdHc21JbTZKaExOU1E0Z3FyaWdoTGx0d18ydmVGRng3NXpSaC0wck1tMmpZeGhYVG5BUUl0UUs3Rk9oSEVwZkhrT3FFY05fQ3VueG1FdEZXWGQ0T3k2ZzcyeFk2WW45U3BIakc2cldOWElNaEpMMmc?oc=5",
-          "title": "UFC Star Tommy McMillen Describes Drug Overdose"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
+          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
+        }
+      ]
+    },
+    {
+      "key": "383d7f953c",
+      "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы",
+      "summary": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы Progorod33",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.22,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-18T07:56:19+00:00",
+      "refs": [
+        {
+          "source": "Progorod33",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oUHJkWS1fa1lNWjNKR19XMlh5cW1GRDlodHlyNHg0OVZmTlJDcEJ5ZktCZmVQLWNDRjlVdkFWZWhFakxQcGwyag?oc=5",
+          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы"
         },
         {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWR1M0wxZERNTkx6R3NVQ01ITVpKWDM4MlIwc0s1U2hNbjNzU01ad2pPT3R4Y2lpR1B3ZFVCWEVvc1hxRGc5OGMxOU5wN3pqaENVMU9MYmVETVpOaDdZWXM5UUlaTkQxZE5aRmNwUFpKMFBteG1yRjVUbTVEcjNOWm1haXd3cm52NE8yMVA4MHNYeXRiT3pISQ?oc=5",
-          "title": "UFC star Tommy McMillen recounts hospitalization after suspected drug overdose: 'It's a wake up call'"
+          "source": "http://vladimirnews.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS25WZENSTTBUS0dEVkFndDRtRHBxdnRWY0ljQXV4T0d6LUpwa01WTXd4UGpqY2FOUkgyYUVKbzdFeEZwa1R1QVBnbHRndWFL?oc=5",
+          "title": "Жительниц Подмосковья будут судить во Владимире за мошенничество с сим-боксами"
         },
         {
-          "source": "BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wT3ZCMEVwT3VFWm9rUzVkRVp6aTFVay1tcWN2TnFEeFVRYU9EcnhWMVZrd0dqUnRFclZZUHJtNWpLeVhCeTJFWlNUbk1tZGdUb3E3WnQ2NzhfS28?oc=5",
-          "title": "Tommy McMillen: The UFC's \\$100,000-a-Month Gambler Who Nearly Died and Won't Fully Stop Partying"
+          "source": "vedom.ru",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHZXSHRRNTZGZlhwVmVWei0xMnFlemlFSlg2YmpVTm9OV1BKdElaNmtmX05rbC1jcGpTQ2VTTlRyY1lPQllFcFFmY3RqV2dPYWxFU0hLNXEtVGhZWHI0MGtjSld1MGFsVkE5VEZ3RzhLSzh4bFprb1RzNGhKNWh5RHA1cU1WSEhkR2c?oc=5",
+          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве с сим-боксами"
         }
       ]
     }
