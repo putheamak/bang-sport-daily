@@ -54,8 +54,8 @@ ai:
     model: auto           # "auto" picks the newest stable Flash model your key can use
     fallback_model: auto-lite   # used automatically when the main model hits the free quota (429)
     google_search: true   # grounding with Google Search (free quota on Flash; verify in AI Studio)
-    pause_seconds: 8      # wait between calls so we stay under free-tier per-minute limits
-    allow_lite: true      # set to false once billing is on: only Flash writes (no weaker Flash-Lite drafts)
+    pause_seconds: 3      # paid tier (Nov 2026): higher per-minute limits, so a short pause is enough
+    allow_lite: false     # paid tier since 18 Nov 2026: only Flash writes (no weaker Flash-Lite drafts)
     prices:               # US$ per 1M tokens [input, output], for the cost estimate in the log (check AI Studio)
       flash-lite: [0.30, 2.50]
       flash: [0.75, 3.75]   # gemini-3.8-flash until 31 Dec 2026; doubles to [1.50, 7.50] on 1 Jan 2027
