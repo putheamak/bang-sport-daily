@@ -1,4 +1,4 @@
-# Talking points (2026-11-18T09:09:20+00:00 UTC)
+# Talking points (2026-11-18T18:25:08+00:00 UTC)
 
 Stories many outlets are covering right now. Write any of them with the **Write trending stories** workflow (numbers refer to the list last sent to Telegram).
 

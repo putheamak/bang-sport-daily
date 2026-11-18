@@ -1,39 +1,36 @@
-2026-11-18 09:09:06,384 INFO BBC Sport                         46 items
-2026-11-18 09:09:06,579 INFO The Guardian Sport                23 items
-2026-11-18 09:09:06,674 INFO ESPN                               0 items
-2026-11-18 09:09:06,852 INFO Sky Sports                        19 items
-2026-11-18 09:09:07,142 INFO Google News – Sports (EN)         60 items
-2026-11-18 09:09:07,352 INFO Google News – 体育 (ZH)             43 items
-2026-11-18 09:09:08,023 INFO Google News – Спорт (RU)          47 items
-2026-11-18 09:09:08,775 INFO Championat                        30 items
-2026-11-18 09:09:09,472 INFO Sports.ru                         20 items
-2026-11-18 09:09:11,348 INFO Спорт-Экспресс                   376 items
-2026-11-18 09:09:12,433 INFO РИА Новости Спорт                 20 items
-2026-11-18 09:09:13,497 INFO 中国新闻网 体育                          12 items
-2026-11-18 09:09:13,856 INFO Google News – Cambodia sport       9 items
-2026-11-18 09:09:14,447 INFO Google News – Southeast Asia sport  63 items
-2026-11-18 09:09:15,057 INFO Google News – Combat promotions   95 items
-2026-11-18 09:09:15,434 INFO Google News – Boxing              28 items
-2026-11-18 09:09:15,632 INFO Google News – Kun Khmer            0 items
-2026-11-18 09:09:15,834 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-18 09:09:16,390 INFO Google News – Единоборства (RU)   91 items
-2026-11-18 09:09:16,727 INFO Google News – 格斗 (ZH)             38 items
-2026-11-18 09:09:16,923 INFO MMA Fighting                      10 items
-2026-11-18 09:09:17,270 INFO Google News – Khmer Times sport   17 items
-2026-11-18 09:09:18,241 INFO Candidate stories after clustering: 948
-2026-11-18 09:09:20,465 INFO Trending skipped (politics): Бывший глава Федерации футбола Японии Тасима подал заявку на выборы президента ФИФА
-2026-11-18 09:09:20,465 INFO Trending skipped (not our audience): 7 Must-Add Waiver Wire Pickups for Week 11 Fantasy Football (2026)
-2026-11-18 09:09:20,466 INFO Trending skipped (not our audience): College Football Playoff Rankings: Top four holds firm as Texas leaps Notre Dame in third 
-2026-11-18 09:09:20,470 INFO Trending skipped (not our audience): Quarterback With Mike Vrabel Ties Could be Patriots' Drake Maye Answer
-2026-11-18 09:09:20,471 INFO Trending skipped (politics): Trump reaffirms role in brokering Cambodia-Thailand peace accord (VIDEO)
-2026-11-18 09:09:20,634 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-18 09:09:20,634 INFO   1. [en 18 outlets, heat 38.6] Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick
-2026-11-18 09:09:20,634 INFO   2. [en 10 outlets, heat 23.3] Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'
-2026-11-18 09:09:20,634 INFO   3. [zh 9 outlets, heat 19.9] 拳击手李·里夫斯在KO和昏迷三个月后去世
-2026-11-18 09:09:20,634 INFO   4. [en 5 outlets, heat 14.7] Football Ferns Name Squad for Philippines Matches to Close Out 2026
-2026-11-18 09:09:20,634 INFO   5. [ru 3 outlets, heat 9.1] «Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию
-2026-11-18 09:09:20,634 INFO   C1. [zh 9 outlets, heat 19.9] 拳击手李·里夫斯在KO和昏迷三个月后去世
-2026-11-18 09:09:20,634 INFO   C2. [en 6 outlets, heat 17.1] Former world boxing champion Jorge Linares faces deportation after ICE arrest
-2026-11-18 09:09:20,634 INFO   C3. [en 5 outlets, heat 12.7] Kayla Harrison Unhappy With Her Performance at UFC 334
-2026-11-18 09:09:20,635 INFO   C4. [en 3 outlets, heat 9.3] Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'
-2026-11-18 09:09:20,635 INFO   C5. [ru 3 outlets, heat 9.2] Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы
+2026-11-18 18:24:51,567 INFO BBC Sport                         45 items
+2026-11-18 18:24:52,080 INFO The Guardian Sport                27 items
+2026-11-18 18:24:52,115 INFO ESPN                               0 items
+2026-11-18 18:24:52,319 INFO Sky Sports                        20 items
+2026-11-18 18:24:52,751 INFO Google News – Sports (EN)         56 items
+2026-11-18 18:24:53,787 INFO Google News – 体育 (ZH)             43 items
+2026-11-18 18:24:54,591 INFO Google News – Спорт (RU)          44 items
+2026-11-18 18:24:55,833 INFO Championat                        31 items
+2026-11-18 18:24:57,003 INFO Sports.ru                         19 items
+2026-11-18 18:24:58,967 INFO Спорт-Экспресс                   499 items
+2026-11-18 18:25:00,642 INFO РИА Новости Спорт                 20 items
+2026-11-18 18:25:01,509 INFO 中国新闻网 体育                          14 items
+2026-11-18 18:25:01,862 INFO Google News – Cambodia sport      13 items
+2026-11-18 18:25:02,325 INFO Google News – Southeast Asia sport  63 items
+2026-11-18 18:25:02,867 INFO Google News – Combat promotions   94 items
+2026-11-18 18:25:03,247 INFO Google News – Boxing              33 items
+2026-11-18 18:25:03,528 INFO Google News – Kun Khmer            0 items
+2026-11-18 18:25:03,868 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-18 18:25:04,424 INFO Google News – Единоборства (RU)   89 items
+2026-11-18 18:25:04,772 INFO Google News – 格斗 (ZH)             30 items
+2026-11-18 18:25:04,967 INFO MMA Fighting                      10 items
+2026-11-18 18:25:05,349 INFO Google News – Khmer Times sport   17 items
+2026-11-18 18:25:06,407 INFO Candidate stories after clustering: 1072
+2026-11-18 18:25:08,865 INFO Trending skipped (not our audience): College Football Playoff rankings: Indiana, Texas move up a spot as Alabama stays at No. 3
+2026-11-18 18:25:08,868 INFO Trending skipped (politics): Trump reaffirms role in brokering Cambodia-Thailand peace accord (VIDEO)
+2026-11-18 18:25:08,978 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-18 18:25:08,979 INFO   1. [en 14 outlets, heat 29.7] Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick
+2026-11-18 18:25:08,979 INFO   2. [en 7 outlets, heat 17.0] "There was a Physical Difference" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 3
+2026-11-18 18:25:08,979 INFO   3. [zh 7 outlets, heat 15.0] 拳击手李·里夫斯在KO和昏迷三个月后去世
+2026-11-18 18:25:08,979 INFO   4. [en 5 outlets, heat 12.2] Football Ferns Name Squad for Philippines Matches to Close Out 2026
+2026-11-18 18:25:08,979 INFO   5. [ru 4 outlets, heat 10.7] КХЛ, расписание и результаты 18 ноября: ЦСКА — «Локомотив», «Авангард» победил «Адмирал». Все матчи
+2026-11-18 18:25:08,979 INFO   C1. [zh 7 outlets, heat 15.0] 拳击手李·里夫斯在KO和昏迷三个月后去世
+2026-11-18 18:25:08,979 INFO   C2. [en 5 outlets, heat 13.0] Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334
+2026-11-18 18:25:08,979 INFO   C3. [en 4 outlets, heat 10.9] ‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qata
+2026-11-18 18:25:08,979 INFO   C4. [en 4 outlets, heat 10.9] UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'col
+2026-11-18 18:25:08,979 INFO   C5. [en 4 outlets, heat 10.7] Conor McGregor gives Josh Hokit highest of praise as UFC star
