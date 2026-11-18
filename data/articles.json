@@ -5,7 +5,7 @@
     "date": "2026-11-18",
     "created": "2026-11-18T13:36:01+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -39,7 +39,20 @@
         "url": "https://www.nippon.com/en/news/yjj2026072300876/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-18T13:46:13+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-18T13:46:14+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-18T13:46:14+07:00"
+      }
+    ],
     "en": {
       "headline": "Paraguay Spoil Moriyasu's Farewell as Japan Lose 2-1 in Singapore",
       "subheadline": "Juan José Cáceres and Gustavo Gómez scored for Paraguay at the National Stadium, and Shio Fukuda's late header was not enough in Hajime Moriyasu's 113th and last match in charge of Japan.",
@@ -133,7 +146,8 @@
         "area": "photos",
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "published_at": "2026-11-18T13:46:14+07:00"
   },
   {
     "id": "2026-11-18-news-00e678",
