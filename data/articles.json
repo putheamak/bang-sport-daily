@@ -5,7 +5,7 @@
     "date": "2026-11-18",
     "created": "2026-11-18T12:39:46+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "hockey",
     "tags": [
@@ -38,7 +38,20 @@
         "url": "https://www.championat.com/hockey/news-6703842-filadelfiya-flajerz-baffalo-sejbrz-rezultat-matcha-18-noyabrya-2026-schet-4-3-regulyarnyj-chempionat-nhl-2026-2027.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-18T12:45:09+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-18T12:45:09+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-18T12:45:10+07:00"
+      }
+    ],
     "en": {
       "headline": "Michkov's Two Assists Help Flyers Edge Sabres 4-3 and Extend His Point Streak to Five Games",
       "subheadline": "The 21-year-old Russian set up goals by Jamie Drysdale and Christian Dvorak, whose third-period strike won the game in Philadelphia.",
@@ -124,7 +137,8 @@
         "area": "professional",
         "msg": "Only 249 words (minimum 250 for news). Thin content hurts AdSense approval"
       }
-    ]
+    ],
+    "published_at": "2026-11-18T12:45:10+07:00"
   },
   {
     "id": "2026-11-18-news-24f2df",
@@ -132,7 +146,7 @@
     "date": "2026-11-18",
     "created": "2026-11-18T12:39:45+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "combat",
     "tags": [
@@ -161,7 +175,20 @@
         "url": "https://www.ringmagazine.com/news/irish-boxer-lee-reeves-31-dies-after-three-months-in-coma-4KdNYTuQ0qDoncEtzGLRxd"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-18T12:45:07+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-18T12:45:08+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-18T12:45:08+07:00"
+      }
+    ],
     "en": {
       "headline": "Irish Boxer Lee Reeves Dies at 31, Three Months After Being Injured in a Fight in Dublin",
       "subheadline": "Reeves was knocked out by Gary Cully in August and spent three months in a medically induced coma. His promoter, Queensberry, called him a role model and an inspiration to his community.",
@@ -214,7 +241,8 @@
         "area": "photos",
         "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "published_at": "2026-11-18T12:45:08+07:00"
   },
   {
     "id": "2026-11-18-news-653f40",
