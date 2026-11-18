@@ -1,12 +1,9 @@
-2026-11-18 05:39:45,179 INFO Importing editor's article: 2026-11-18-lee-reeves-dies.md
-2026-11-18 05:39:45,614 WARNING No free-licence lead photo for Wikipedia article 'Lee Reeves (boxer)'
-2026-11-18 05:39:46,046 INFO Photo check 3Arena,_Dublin_(geograph_5417559).jpg (Wikimedia Commons, 640x427): OK, licence 'CC BY-SA 2.0'
-2026-11-18 05:39:46,215 INFO Photo check Limerick_río_(46531600435).jpg (Wikimedia Commons, 3557x5335): OK, licence 'CC BY-SA 2.0'
-2026-11-18 05:39:46,218 INFO Importing editor's article: 2026-11-18-michkov-flyers-sabres.md
-2026-11-18 05:39:46,401 INFO Photo check Matvei_Michkov_2024-10-17.jpg (Wikimedia Commons, 404x598): OK, licence 'CC BY-SA 2.0'
-2026-11-18 05:39:46,578 INFO Photo check Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg (Wikimedia Commons, 2794x1634): OK, licence 'CC BY 3.0'
-2026-11-18 05:39:46,817 INFO Match card added to 2026-11-18-news-00e678
-2026-11-18 05:39:47,117 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-18
-2026-11-18 05:39:48,586 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-18 05:39:49,164 INFO Website built: 52 published stories, 201 pages
-2026-11-18 05:39:49,165 INFO Imported 2 editor's article(s): 2026-11-18-news-24f2df, 2026-11-18-news-00e678
+2026-11-18 06:36:01,267 INFO Importing editor's article: 2026-11-18-japan-paraguay-moriyasu.md
+2026-11-18 06:36:01,543 INFO Photo check Hajime_Moriyasu_at_Iran-Japan_pre-match_conference_2.jpg (Wikimedia Commons, 529x667): OK, licence 'CC BY 4.0'
+2026-11-18 06:36:01,730 INFO Photo check Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg (Wikimedia Commons, 3333x5000): OK, licence 'CC BY-SA 4.0'
+2026-11-18 06:36:01,917 INFO Photo check Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg (Wikimedia Commons, 5666x3267): OK, licence 'CC BY-SA 3.0'
+2026-11-18 06:36:01,992 INFO Match card added to 2026-11-18-news-cc77a5
+2026-11-18 06:36:02,182 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-18
+2026-11-18 06:36:02,833 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-18 06:36:03,203 INFO Website built: 54 published stories, 207 pages
+2026-11-18 06:36:03,204 INFO Imported 1 editor's article(s): 2026-11-18-news-cc77a5
