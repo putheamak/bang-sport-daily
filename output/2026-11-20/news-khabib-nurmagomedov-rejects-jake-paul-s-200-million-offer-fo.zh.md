@@ -1,0 +1,47 @@
+# 拒绝2亿美元诱惑！小鹰哈比卜斩钉截铁拒绝杰克·保罗的复出提议
+
+*这位保持全胜战绩的前UFC轻量级冠军坚称金钱无法激起他的战意，再次重申绝不复出。*
+
+**新闻** · 2026-11-20
+
+前UFC轻量级冠军哈比卜·努尔马戈梅多夫（Khabib Nurmagomedov）断然拒绝了网红拳手兼赛事推广人杰克·保罗（Jake Paul）开出的2亿美元天价复出报价。在保罗于2026年11月18日周三发布的社交媒体视频中，这位保持不败战绩的俄罗斯传奇名将当场否决了重返八角笼的提议。
+
+「你什么时候复出？2亿美元怎么样？」在PFL（职业格斗士联赛）赛事后台的一段视频对话中，保罗直截了当地问道。
+
+「我为什么还要回来？」哈比卜回答道，「我身边有很多人，他们都是世界上最优秀的拳手。我已经没有任何需要证明的了。眼前根本没有对手，剩下的只有金钱，而金钱对我来说毫无动力。」
+
+保罗随后试图说服他，称在自己的赛事旗下比赛将通过为运动员争取更好的经济待遇从而「彻底改变综合格斗运动」，但哈比卜丝毫不为所动。这段轻松幽默的互动最终以保罗开玩笑似地向这位摔跤大师尝试下潜抱摔而收场。
+
+## 29胜0负：无可挑剔的格斗传奇
+
+哈比卜于2020年10月在阿布扎比举行的UFC 254中宣布退役。在那场比赛中，他在第二回合以三角绞降伏了贾斯汀·盖奇（Justin Gaethje），将职业生涯战绩定格在完美的29战全胜。早在2018年4月，他击败埃尔·亚昆塔（Al Iaquinta）夺得空缺的UFC轻量级金腰带；同年10月，他在UFC 229与康纳·麦格雷戈（Conor McGregor）展开举世瞩目的巅峰对决，该场赛事创造了240万份PPV购买量的格斗界历史最高纪录。
+
+2020年7月，在敬爱的父亲兼功勋教练阿卜杜勒马纳普·努尔马戈梅多夫（Abdulmanap Nurmagomedov）不幸离世后，哈比卜向母亲许下诺言：没有父亲在场角指导，自己绝不再踏入八角笼。2022年7月，哈比卜正式入选UFC名人堂当代时代之翼。
+
+## 倾力执教：托起新一代冠军
+
+哈比卜对于复出的坚决态度，同样体现在他对UFC首席执行官白大拿（Dana White）的回应上。白大拿曾在11月14日坦言，赛事方为促成哈比卜复出所做的所有努力均已告吹。
+
+告别赛场后，哈比卜将全部精力投入到美国顶级踢拳道馆（AKA）的教练工作中，担任双量级冠军伊斯兰姆·马哈切夫（Islam Makhachev）和雏量级争冠热门乌马尔·努尔马戈梅多夫（Umar Nurmagomedov）的场角教练。尽管保罗在整合最有价值推广公司（MVP）与PFL后依然在四处招揽格斗巨星，但哈比卜再次向外界表明：单凭金钱，永远无法重新敲开他通往铁笼的大门。
+
+---
+**来源**
+
+- [Хабиб Нурмагомедов отказался от предложения блогера Джейка Пола вернуться в UFC за 200 миллионов долларов](https://www.sport-express.ru/martial/mma/ufc/news/habib-nurmagomedov-otkazalsya-ot-predlozheniya-blogera-dzheyka-pola-vernutsya-v-mma-za-200-millionov-dollarov-2476680/)
+- [Jake Paul makes Khabib Nurmagomedov mammoth $200 million offer to return to MMA](https://www.sportbible.com/mma/ufc/jake-paul-khabib-nurmagomedov-offer-return-mma-823871-20261118)
+- [Хабиб отказался возвращаться в UFC за $200 млн от Джейка Пола](https://sportmail.ru/news/martial-arts/68832961/)
+- [sportmail.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA6pU0dB6qJxmYGp9Neu6tmb99mDEqonOMn7CIAGWvMrFp8sPx4zwhPQHCyMFxy4khIiEeuvq_kP1A3NkzdQPMixvtfl3CVQg-4t96uvGvvmUT9y702cwV7Cch1qLrpw==)
+- [allboxing.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhs6XYoG6O6o4osrK_i5ZG85Ye82-p_OxWsPBpq_Pc0fhSLYgG-h6WQeYzn4xfxlL9S0Fm3Lv4CbByf2u_kB45LuslYHXfZG07PV4n_eQtcXPJcOcgE0fEPg4aUmhjBZfYI4zdhyq--YAEB_zAGn8wmz_qnS_4IDK2805jl60J6GNLSbL2SXKzD155eu29AkHVVDj9FNYFiHKBUNRqhaSl_Zl6)
+- [vesti.kz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6TCv5TpnbW288pLd7HV8gI_jDICYnDWZFTHysOWV3UbFnMl9rrfnEDp7zxvjX2Nzieg7lpPwXmygiKqluz1Y9E2mQTsyZ-K7RCecgx9a6RvXfexqVZfxTo0b6yQD4R6Qox6Sy_QDKLGVDGuf4CN6bQPYCLCYR4vt1hfzkZc_bqylU60QIIWILmhK5gS3ue5L3aQ==)
+- [sportbible.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG3IG4W5pkLriabBjce4o35sZEpHgPQGreGtiUXwjNHNT8w9F6K21GcckXJHPRgePwCSqIAVdOiJ_4C-eWfNloE6rH3mVetNPsvoz3A8JKe2BScqzcd6KmJfhXhtB6rFZwqwI0cRYNPcTBqSZ1eqxXRMfFL_9iL4ujUqkHHAsFjnEmHrv6c3DTPw==)
+- [rokocricket.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI3InATgG1kh43pPTPav0yGY-7ifuvZqiIGjLEM9K4rKRHISxR6UbjPCMYFkPvICLtftD8UKhQdK1Pwd4IYQZbRFWCUxDjI_MGk-_Ug3guSqh9UCcMv6P-uKfnfomWGBkd4B0dXCzDEzfhxVDkk324uwVK44cwimje3pdizvRBxQ==)
+- [vk.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzGWfaWjUv5sl7S1NfjnoQDOYHq2Ccct117Tv7QL5WSOH1akM4o0MXJCEg26imsD6IK0KOP1tqRDixKUA0DNdUecV7uuIBZgAUsGHJFRM294epHGmZL7TOhki7)
+- [boec.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExDBe4JF-xpnBVBZs0HiAF8kpY40GOvFYCkXmaukCWNgr4I916OXGCK83YRBvo71t8TAi-tPdg8_R4WRKPtjK-5g-zeVWMg9jwAIEqT1KA8jIpg5nAgn4aVMTmXfyXOIZeyXFdJ0Est2FB8J2ZctEecQoSzVGSD3f7grXU3ixGdKzvyXiCht_qkgxSdDZt4lBUSvaPy00ZGJE8JoGIrt9yap0zoPhKwi8oLXCe7w==)
+- [metaratings.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN84tNZMU8CZ3DXbgb9DctU71c1in4F8svxRI-5QLNEHWDhA4cFe9l2cIe8ZmUVfM6VfsX83LB8Bh01uePuXx2wKEhiSOcBWCt3etvFzeEjbNLACpfBZt3gesiizfl9GvfaqvIIL6uft5cRWOksch2MH26pSelfUNZby_fHwHDVo4XOw0CzBhoAnNfY5gBDVTbSxkf0vB775uvrLwCbatr)
+- [sport-express.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UJFkk0Kfs_MxyjR-IdyjJJyWLw7u2NUna8xFuFBOM20WeyITukT73rjb5D4xl_1x1laI_2HRQD1XWBZDU0dWoJv0xO-r7Rz60ER1TnFXo_eDrWQb4eSxXXm9sHopoI_Y-UCZDLFPPLrDChlGdQaLP_Ufuc1JYljlbEk4_G-lcaAUf68OgQVUTMZInmHaPR4DmOfug_fIyaZUKYAlWmMcr8tioEKWGT6ARfqvW2b2rkf5SPMCmhBAzeke4lKLddvfp2o39b-tE-SnS8RceqIxuET-oHUEX3c3i6FD7VYl)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdPlVoyF8Z7MFEe34CLZOkJJxPqGxKJBbX_NyyRGV2FnmjajSYAxYkaGudNH3i8jzFAdOaUJ13p5jwY0zg8Hu42uqxdG_YcKfyBkRpscat4a77umXP7Iazqs7-XrppM50=)
+- [sportilinet.kz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsw64OaYlAzW0hXKTQXpQ6w9MC1VlZ3ki9NwiBUVOuEYa66uQMJqQhv_NAnyES132UkTkHihl5uU2q8_273_5ye5aUiS0i6qH_n9608KSUzfjlrkqLOAjkpCwplN2jsjsDqisnHiyCrkvxhrwVFsIujtGk08HYwihpl6GUDkr8n4-O5auIbR5cgMs0F9nbvUnX6b5uPcNgbjOfjHJlHalx7N8=)
+- [sport-express.ru: Хабиб Нурмагомедов отказался от предложения блогера Джейка Пола вернуться в UFC за 200 миллионов долларов](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLUdEQ2d2Vi1uUEgwVFU2d0ZlekpPbmUzSzJVRGxldVBaVEhkZTdBRVFrdHBWMk5nUEE3N2NMd2NSZ0FRV0k4SGx5d3BVQkRtSU9yMkhKdUpfelYxY052UzBuanE0UXJyNm9FaFh5Tzk4TUxtMzlqekpHZEFlb3NqNm4zdmkxV0ZkODFmNzF0RzdYZ0cxZVp2bDIyeGcxTENzcEVINkFRWHU5R0NvNzNsb3hXeG12VVlpQ2xSbk56ckUxSmxMclBISm5WY253WEV2MmdDUU1QdXpEVTJsSjRiWHVDbTBUUG1RaS1jY0c4cjVLV0QyMjRLOHZaZnpDQQ?oc=5)
+- [Спорт Mail: Хабиб отказался возвращаться в UFC за $200 млн от Джейка Пола](https://news.google.com/rss/articles/CBMiVEFVX3lxTE94OWlZb0lEOUd6eG5uQmE4cC1EQ3ViTXVaVHZrckV4UmdHT203ZEtpd1Uwa29Ec0lZbXNuVDNwRnNoOTlLSWpTNXJHdTZSV0pkSy1fdA?oc=5)
+- [TengriSport: Хабиб высказался о возвращении в ММА за 200 миллионов долларов](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW51VUlRN0FIS0ZYcmFJZHJOSFduXzFUZkZ1SlFCWm5GSjJpLU5oQzd3SF9LR0ZiSUdBTFhCM2lfVWJjYzZTVWxaaE5nRWV5WC1oYk81dXJIdkRkeEcxX2tPTnJrU1RsMWxCdzFqZlV4TUZ1OWtrb1FLRnhFNVBQX3N5dk9hcU9wR2VOQmZpUWU5Y0Zya1p2S9IBngFBVV95cUxNdGtIQUtCTHNNZ2pBWV9nVnRCVkc3bDhmTmhPVWJ0MW1jb1ZIZklQNE96N3pmYVAyTFNMbjcwbFptaVFzUGw1VnhLSGtpcmw2U2tEWUNpZzNsZkdsc1ZDVmJtbVdoMEtLU0VrMkNCaGxySUtLTWZmWjd6b0liMXphaTRBYkZNWWVVQWgxQ2ZXaWlhSng0TXhOcnU4dUhEUQ?oc=5)
+- [NUR.KZ: Хабибу Нурмагомедову предложили вернуться в ММА за 200 млн долларов](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNm4wTlNpMGd4Z3NPU3A3d3ZPWTJ3RGowMlRZQ0p6RmJEc1pvenhLY0JDaWVpaVVCNnQzc2RySk1rVEVLMWVOZEFqS1hsX1FDekNER3ExODRFOHJMcUpPYld1YUUwVlVZcTJLaTM4cmFMLXVObWR1SHR4R0FZYjlIbWdwck5BTkI3dVFZVmNVZEl3Vm5VQUhscDJndG9yOURGZlFv?oc=5)

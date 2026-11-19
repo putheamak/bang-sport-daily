@@ -1,31 +1,13 @@
 {
-  "day": "2026-11-18",
+  "day": "2026-11-19",
   "exhausted": [],
-  "no_search": true,
+  "no_search": false,
   "usage": {
     "gemini-3.8-flash": {
-      "ok": 2,
-      "fail": 8,
-      "in": 3661,
-      "out": 5820
-    },
-    "gemini-3.7-flash": {
-      "ok": 0,
-      "fail": 8
-    },
-    "gemini-omni-flash-preview": {
-      "ok": 0,
-      "fail": 3
-    },
-    "gemini-3.5-flash-lite": {
-      "ok": 3,
+      "ok": 6,
       "fail": 0,
-      "in": 7371,
-      "out": 4529
-    },
-    "gemini-flash-latest": {
-      "ok": 0,
-      "fail": 1
+      "in": 13088,
+      "out": 25775
     }
   }
 }
