@@ -1,73 +1,25 @@
 {
-  "updated": "2026-11-18T18:25:08+00:00",
+  "updated": "2026-11-19T09:30:46+00:00",
   "stories": [
     {
-      "key": "3456f3c553",
-      "title": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick",
-      "summary": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick Batam News Asia",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 14,
-      "growth": -4,
-      "heat": 29.67,
-      "published": "2026-11-18T02:00:00+00:00",
-      "refs": [
-        {
-          "source": "Batam News Asia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjZNWFFzZ1M2aFBYMzRzUDFkVzkxRWFPa3pCOXEzYWJJbDd0dGIwMDhZeWVPUHVsUTFQVm13bVZmMmluRTRrNkVzcENSdE1ZUXoyVWNNWmpTazVYZFF4bnJoaGRESTZNVXI5LUpoeFlWMVZSeHJIcHNya1VDOGl6OGh1QVNGWENJT2VfNHl3Y2JZWGNoTnlRb0VRdVgxeWZpLU5acWlPN0NnVEVJcjlzUkNWZw?oc=5",
-          "title": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick"
-        },
-        {
-          "source": "Free Malaysia Today",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSHZYd0VBN1Q0VzRSVTFEYkdjNEVXdWNWU1BKS01HV2ZCeTh2aTc0VVFaM2cwaVdjOUlPNVBGa0MxaFh5RTcxeXpCMElhU2JSNUdZMExKZWdVUDB4YTZJaG5mZUQ3MWota2YyUzhVRjJmd1ZzbzNzT05yLVE4TmZYaTViaTJ4aDdwQ0RqQTMzelZDVjg3VllnWGd2bDhTRFdtQ0tvWUV5cld0dEFuYXBTSU4wZmVuQThnbW1XUjdCLUp3V2c?oc=5",
-          "title": "Vinicius scores rapid-fire treble as Brazil thrash Singapore 7-0"
-        },
-        {
-          "source": "Get Spanish Football News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnc5dHhGQ2ZTOE9oeGExWEZaMllKMTQwS0pIa3AwNkFNc3BvNEt3UGlLb1NKRnhVa2JRcFdMVF9RbXoydzY3UC1Ia1AwMHQwUTgxOGdfYXNsY0ptMlR3eGFVeHhUUy1OMVBRYzNkMFpYN0lxRXhmazExS3hqZWJkWXlSOEtKbHdRWUw3M0tDUzVMbzJ0QTZFTmFWd1ZFRVE?oc=5",
-          "title": "Vinícius Jr. explains anger with Brazil substitution vs Singapore"
-        },
-        {
-          "source": "Football Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
-          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
-        },
-        {
-          "source": "Forza Football",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVVBWndJT3pWbV95MjlydkZZaUVKZThMdEkweU1NU0hvOGlVYmpFLUlrNzh5LVNHaFVjN05tcGtVblMxdzl4UHhjTExJUWg5ZG1RTy1ZYnZ5aTVYSHJlTDFDb1hCeENqaUFJcGZzODFnQmVfWmtETXhZR01nQWFLT2kyYkl3VDI1aHNMSHpyYWFXOS1yRnJIeUh3YlNmdzN1SV9QOFNndDBkVzhmTWxYT2JwUGVrUQ?oc=5",
-          "title": "Vinicius Jr Continues Redemption Arc With Sensational Display in Singapore"
-        },
-        {
-          "source": "Elbotola",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTzAwd0dxNENZYkVjelJhUXRYLUlPSWpWWEpKVzFvTk1Ydm5PV2pvdFIxXzNQdk1BMURPOVJTN2dtN0tmaHY4VkVZSG9FSXA5TDAxbHJxX2llOHJGZzAzRHdrd2hENHZzWkR0eg?oc=5",
-          "title": "Vinicius scores 12-minute hat-trick against Singapore, rediscovers form with Brazil national team"
-        },
-        {
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0pJY2h5bnJuZHF1X1l0WTd0c0NEc3kycXpZQmZadWVCWlJJdDVHR2ZHWGo4TFlTcWtCSmUzVlVHNHdRVUNiQWk3YTk5eDYzVnpoaVN6TlJVd3ZWb3N2ak9kS2dwWEtfTkNxZFhJMWkwaVY0NVA1bG5pRnFUYW5LYlR0WlE5TjA0a1VBVVI2QlB0VWRHbm1tSVhEZV9xcVV1VVRwZkpQTEdZNDJqb0phd0NTRC0tSHhYajk1T3l3?oc=5",
-          "title": "Brazil thrash Singapore 7-0 as Vinicius Jr, Endrick and Estevão steal the show"
-        },
-        {
-          "source": "Khel Now",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWgxTnVsX3FZRXhyR2FoUnBlT09hZlBRM0lBYmJMdWxyTGRHNDlyRW9JdUpWMU9wVnhHSkkxRVZXa0JzWFNNQkU3RVhPbWlJVWJGWlo2MmI5a2NhNmJCd0FIcGZ2ejIxQlRGbVozRTJPWXNBNWhLTGZYY3h0Tm4yNUNNbWs4dG1DV2g1djNZdGlhT0E?oc=5",
-          "title": "Singapore 0-7 Brazil: Five key takeaways from International friendly 2026 clash"
-        }
-      ]
-    },
-    {
-      "key": "b44e8d80ec",
-      "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334",
-      "summary": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334 MMA Sucka",
+      "key": "4615daaf62",
+      "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334",
+      "summary": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334 New York Amsterdam News",
       "lang": "en",
       "sport": "combat",
       "outlets": 7,
       "growth": 0,
-      "heat": 17.02,
-      "published": "2026-11-18T18:04:32+00:00",
+      "heat": 16.74,
+      "published": "2026-11-19T05:00:00+00:00",
       "refs": [
         {
+          "source": "New York Amsterdam News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjNqTlM2TFNqeWNJM3VGMlpLeENyUEpTTEVxby1wWVhJbzEyUk5aZzBpRnY4VGlxVDEtREF0Yno5MkZIYU93emJmVjg5MVJERVRQWG92YUtHWVhqTW40TnByeGs5ckpiM2dLWDkwdXpvbnNrZURvNk9lb0NwQWdiclZNclVTdklLQ1dn?oc=5",
+          "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334"
+        },
+        {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUnFQVGdKbmFaWTJwV04wbzEtV0p2SU9xM21NTV83ZlVwSEVvVk9kR2hnWWFERmxBMURrclhxVEN2aWhVWDhRRHQzNWp4Mk9XQmc3cm5ZQUxTSE14SE5ZUzdZTjJlVWl4dlBTeW1kREg2RzBvU3dKblZSRmd2ME50MFVvS2ZMajliYUljbnV0ZmstdEpmWGtkanhLb2dlbGZxazFMUDRSLXRKTlFxQjNoSmg0RXVGY0lYQ3I1MXl0M1pDdw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb21zR0RWTzlzNzI5dC1CaWNZWDdFYURLMU9aYWpWeVV3U2NyVkVINkE1dHRFMTVGd3piSkx1aWNRT3JNNkZ3X2RwOUw2RVJzQy0ySmpEdWp0UVNQSmN5TUJ2R2pDZURPUExNanF5UWZYZzZyRk5KdnIwOTNMYlk2cnF5OF9FNkVEY3o1MW1TMkNQN2xvZ0xZNGJZSVZtYkpXZ09GZk1KVjk4WTNFMUpZc2pIS01OOHVKSjVMVU1sdl9Qc0U?oc=5",
           "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334"
         },
         {
@@ -76,14 +28,14 @@
           "title": "Curtis Blaydes Thinks the Judges Robbed Josh Hokit at UFC 334"
         },
         {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzZtaEFvTUVXQ3ZzUVpHcTBiUnhPVUxjVm1yWE82OWFqV3hoOVBpRWhja3FQNV91SnNuaGFhend4eW5KQTVMbDlZR2hIUnFYUVdWWmtSZUgxWWZ4T09yNlpILTlOZFpOZzVjR0hoNm9IV04taHkxMnpVajRPdHc3RklwbmhrclBvZWlXdTFvODF4X2tielkxWDlUZEpEVHdrUWw1MNIBqgFBVV95cUxNZ3B5a2J5VFhRUUs1XzNJaDM5cmRpUTlhWWNlWG9jSW9hT3U2OWJoZVhoR2d2MWpTWlRsQnpqYUd2b04zcGZGek03N25ySGFGLVJyVUNNRzd1SlV5R3V4WWJSLXo1dllFdlQyQzctS19HVU91OTZOSEZzc0ZOLUhISmNKUGpsbmJGeGlnWDM2OG9PLWx1SlVmemhHN0JVUDZIWkxGTVhSVmVxdw?oc=5",
-          "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334"
-        },
-        {
           "source": "MMA Fighting",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTdmVjVEQmt1dXgtZzFiNWtCZnFtNzM2SDJSVjZGRmF5ZUc1TzhBMDFaTHg1MWNzbTRVZTJReEZ1ZEpFaTFUck9wR2dGcHRGLUFlQmNFM3J6TGRmZk5GSEpfdFRQNlVqU2VjemFVLXhkRjhvazI5UXdrLU1qamlSb1BHSXZ2dXdFdVlMcjY1Q3VicTQ5YUxhVDhXTGdhX3JJOUN6TTFsZWpZc1ZmNVRCVXVocWRKOURUNGNDLXhKSzdjcVQyUkdLOEEzTnE5NjBjeEZhLUF3?oc=5",
           "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEh1X0I0bHNhdk44cV81VnNna2IzbC1zNGFVOVBfME1vQXVLUjd3aEJsREtIU3JWRFVodHBfaG4yX09Wa2pmV2c2aHpmb256cy1fZDBhTkFaRjRGc2JFcXNFcG52UGNJX3N2bFNCaGkyRk5uVkxXRE1SSU5zU1h1amNSajBhNUd4bVB4UzJWc09IUElIcS1JVlFvVnI2Y3VoOHJZOWI4SdIBrAFBVV95cUxQVzRKMGl2SjFTSHV0WlRpcHl1bzIyXzYtbU5GcUw2ZlNsd09oS0huWG1IS1h0VEdsXzJPVXVYM0VTZ1RGNkJCQ0xtZnZETElwamlHRWFqMUFxeF9fVW5sYmUtNVg4d2Y5UWtfS1pkdWxyVWhnR0xLUHV6ekhSYmZ1Qzhfc3NKNnRNajNDeXlXOGFtelpsMGxXMmV3OEFkaGREaHhQSk43ZFp3aXJ5?oc=5",
+          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss"
         },
         {
           "source": "Sports Illustrated",
@@ -94,486 +46,148 @@
           "source": "MMA Junkie",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNsekoyNEpSc0FpMW12R1ctMWhhQXJPVklpZHhiZnQxUFd0eW5TY1dhZjc5eVA4eEE0VmJJRUo1MGRHOUNwTzlsbXctWnpjOGdDSVEwVkJ0ellQNXBiaWwxVHRuczJMbVNOUHlUTndjMjhFMEQwVFR3YzlXQ0pOajhTX3doc0g4TEV3d2NzVXFwNG1ZLUczMzhHd2JLYmVxa0l3S3ZDZmRvX3FLaVFjWVB0cHg?oc=5",
           "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star"
-        },
-        {
-          "source": "Bloody Elbow",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUZPQ1ZDUXd5VWdkYWRRQWlNQWg4b0R5UTNiS2tzTnN2cWgxZDROS3hGaDZZVENKQ01zcmc0RzI5UHZJdTQ4OGV5S1VaTnJacU5JTXNOUFlhT2ctWVFQMmV3UmhNNENWaGNremtqSjBoZ2RwOXp3QnJDRXdqbTRVcmluZll3a0tGVWNHMGRNbktUcF9peWEtSDZ5TnZZR3lUYzh4MnNub0RkaXB6T2dTVzdPemhZT2JRSzhwYUhDQTduR1M1eEpJRGNEeE1ybEE?oc=5",
-          "title": "Josh Hokit argues professionalism is 'killing' MMA in explanation of why he flipped off Bruce Buffer"
         }
       ]
     },
     {
-      "key": "8a668c3191",
-      "title": "拳击手李·里夫斯在KO和昏迷三个月后去世",
-      "summary": "拳击手李·里夫斯在KO和昏迷三个月后去世 VOI.ID",
-      "lang": "zh",
+      "key": "2ad1272886",
+      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
+      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "lang": "ru",
       "sport": "combat",
-      "outlets": 7,
-      "growth": -2,
-      "heat": 14.96,
-      "published": "2026-11-18T00:55:00+00:00",
-      "refs": [
-        {
-          "source": "VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vVjk1RE9fQURHWEs2aXUzRFUyaEVETEYtUmVraXFtWXJnV2VtTmRTRGlKVzU2MW1pMnE1OU9PazUzMnRvOUhPV3VB0gFCQVVfeXFMTnVCeGd5Q2EzRlVQZkdQTEIzeVQ5bXNhU3drdFo4Y0theldvZVJGNXU1eThFcEE1QVhrRDc5MzV1VFh3?oc=5",
-          "title": "拳击手李·里夫斯在KO和昏迷三个月后去世"
-        },
-        {
-          "source": "中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWVAtLS1oeHRVQjNJcmMyQkNNb3dPazVGaTdKeXEzUC1Cc294YTZHSjdHUHV2ak9ISkpBRjRSSmR5VmdaTGY0Y0NTNG1KNFd2elQ1cndTNUR0X1BiWGFuNi1lYXpwcGYtWWY4bFB4ZDU?oc=5",
-          "title": "31岁运动员比赛中遭严重脑损伤，病情恶化后离世！拳击手李・里夫斯不幸去世"
-        },
-        {
-          "source": "스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1dktNeHNYdDE1U19YZFBWVUhUbjdVVDBhTER3Ti1XQVNJYVZGOUZMeE1yZl9rVFhJOVNHOHd5aXBuVVZtUWc2N3lRWS1wMmIzbHcxMlJkUXRRRnhXX3R3RTBEVGtKemp1TVVkYUcybzJlNjJpXzZjcmp3?oc=5",
-          "title": "“悲剧”：出演热门综艺的31岁拳击手，在与昏迷状态搏斗三个月后离世 “恢复情况本被看好……”"
-        },
-        {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0p5ZUxSaDVSd2RZX1U3bHBNWEtsZnYtb29KekwwZE5HS2ZzSXNRdU4tUlMtdnlaaGFRSTRSang1aFItTnZlaGl0cTAxSGxnZlRrUjk3MUQ4V3ZzLVlVZlhMUDZrM0FxMDhDcFltQ1A3MnZub0lnVjZwWkRtZ0ZMcjJPMXFNNmpweWttcDhZWW9sRkRNamJFYmhRQzZwblRIRUVveGl5YXRfYkdfbGV0aU04Q0Q2aUY0RW5acTRfdk41UEhnQlppSV9mTW1VM1k3MmNIc2ZoYUQwSDJfZ3U0?oc=5",
-          "title": "31岁爱尔兰拳手里夫斯去世，今年8月在一场拳击比赛中遭遇严重脑部损伤送医，接受三个多月治疗后仍不幸离世"
-        },
-        {
-          "source": "拳击航母",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWVE5RLXE4b1kxbFpBRGZOeV9GYlVOR0ZhNVhlRWozLVdhQk5qaHhISnB2TU9KSXEyNlZteUJPM1M0MUFNdDZTVU8tY1dScE1J?oc=5",
-          "title": "爱尔兰拳手里夫斯被KO后去世，年仅31岁"
-        },
-        {
-          "source": "Informat.ro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkdHSWZTSFREVzVCY0ZLSzVWYkMwOFZfRmo1X3pVTFpLMjhmUU8zSXFWY29ub1NZXzl0WFlWMFJGSUZwNnItaVBrTjhqVGJpb3h5LXpmT2gtaC1CNFVKZVlrZU9XbXUyRVhfTXpiOWxINDR0R3VwX2VBMGs1dWFpczlxUzI5eHpqVWN3QzQ0alpXdGlO?oc=5",
-          "title": "李·里夫斯去世，享年31岁；三个月前，他在一场拳击比赛中遭受重伤"
-        },
-        {
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTWo4NnVvLXBuVVhNdEs3UXZNajFadDFscHZoa1VnOVVONjJhX0ZGN1lxTW5oZ3g4eFBDTmRHZlBvZzA1a0NteGlMUm5xd1ZCc2x3OUttaUZFTExHTVJMRk1JZGRMX05oUDdmQg?oc=5",
-          "title": "爱尔兰拳击手里夫斯 比赛重伤三个月后去世"
-        }
-      ]
-    },
-    {
-      "key": "dad3138e93",
-      "title": "Football Ferns Name Squad for Philippines Matches to Close Out 2026",
-      "summary": "Football Ferns Name Squad for Philippines Matches to Close Out 2026 NZ Football",
-      "lang": "en",
-      "sport": "football",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.25,
-      "published": "2026-11-18T03:14:31+00:00",
+      "heat": 13.39,
+      "published": "2026-11-19T06:56:20+00:00",
       "refs": [
         {
-          "source": "NZ Football",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9obTU5MXFlWUlTMlNwdC12RWZXb2FlWFZyVVBla0g0aDJfTTlDczVsLUNqRUpwWVF2ejM5RXhvbFZhNkM4Y05YQ3pRbF9zZ2owcmxJU2t4SEg0eG5D?oc=5",
-          "title": "Football Ferns Name Squad for Philippines Matches to Close Out 2026"
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
         },
         {
-          "source": "NZ Sports Wire",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUlp5SXZHUWVHaFl1TG1rd3g2V1IwTHRxenZ5ZmxYWnY1Tm1KUlVrR1JoQTBtdWpSNFpzNWhPaTkzWjhhd0otYU11anBJakFZU0JWS3NNeFJuWVljakZPaTQxamhDQU9YYkhKd2poWDQ0VVhuS2Y2UnhDa3ZiQ3c?oc=5",
-          "title": "Football Ferns named to face Philippines"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
         },
         {
-          "source": "RNZ",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHkxMDAzdVM4ZG5pajhhbUV5ZGZNa3ZKOUdpUnhicDl5YWI3aXJpcldmcTJabXNJSlhidV9rM0xianpQY2duQVNiSDVZd1hTdEhDR3NtR0NqZHJ2ZXd0NnVLZWY3VlI0akh2ZFR6OU84ZFl5MkpBTzJUREN1VVAycHhTYnJ0VG9PUlRmMFpTRllhUXdpQTdtNnFlTHpJakxUU0pKdi1ERzdESGROV2dtWVBfUFMyR3c2?oc=5",
-          "title": "Three uncapped players named in Football Ferns squad for Philippines matches"
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
+          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
         },
         {
-          "source": "Friends of Football",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWpTSmdwZ29iVlFrNmduQTZpUHdqNGJfNjlLN044T1BtTlVzYlZicV9oQk1zZ054YmVjcExQZGZsU2NjWlJRWmp4c1hSNUp2aFJ6MlpDS1l6NWFYUl9iUTNZLV9HdE8wb1QtcTh4UExPRlJFYWFOSlhfRmZQaS14NDlDelB3VEJ0U05IQmtrZ1pjVDNSc2hQYngyZHNUeWtKUHJ6djZ1VFZNMWwyYmdnMVRRWml0NlFYeWZGaUJ2V0E?oc=5",
-          "title": "Coach Michael Mayne keen to make up for lost time with Football Ferns squad"
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnNKZ0lOaGluV1Z5eGphaWo3TXh0MlMycFU1LWJfVGFsS2hKNVpfdGV6cGVkbHljUmtVaS1pSy12V0w5NHNoZkJtNGsySGwzd0ZmUlctYXdJRDhoTTZXSjBfSHl4bkNxMUVkMU1qRldJR2JWTWN3aUoyZ3pXQjNOSUI4dEtHb21yT0xYRXRsUzZuSVRsUFlmQVNVaGRpQVMwR3dCaWJnRGhJTDBGSUhJc192SmdRbkJwQVpLZ1Zob2U0Y2prMGdwcg?oc=5",
+          "title": "Источник: Усман Нурмагомедов с командой вернулся в Россию после ареста в ОАЭ"
         },
         {
-          "source": "Stuff",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnNjVXdBWXZRaXlKa1Nyczk3bGtXMHhxVWVpVXdZbWVSVVFBV2Z3dzVqWVdibFlRUkx3MjdzakpTNVlZZUhzaEFmd3NiWjBKVFRZc29VUFhkd1JvSTNMelBsNEtTWXp1enRKeDZNX0h1cDJreG1FcnhyYnd1LWJjclN3X21oT0hNX2FqSkdkVDJTaUZhRDZmVnhvVmNDWmF5OXZra0kya3M4LU0?oc=5",
-          "title": "Three uncapped players called into Football Ferns squad for Philippines series"
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEcxZmRfUVNZVUdNNl9uQnp5U1dsM2RTcmp5TXJod2V4OGxYUjZMdGlvMzhpNmpCTFVVM0ZzVFBvbzZFOU5nbTEzRzU0WDFsZWhTQVJNT1BEcUZmNjQzQy1ZZU5RUlVpVnFPUDI4NWRfRGpRNzJmT2xxNEdLUDJWdnFWTXlfUndMdVJ6Yk13c1MtaUctWTdFUG94OU9Xck9QV0U5OVR5QVI?oc=5",
+          "title": "Масвидаль заявил, что не хочет видеть Усмана Нурмагомедова в UFC"
         }
       ]
     },
     {
-      "key": "ec0a2857e3",
-      "title": "КХЛ, расписание и результаты 18 ноября: ЦСКА — «Локомотив», «Авангард» победил «Адмирал». Все матчи",
-      "summary": "Матчи ФОНБЕТ чемпионата КХЛ.",
+      "key": "66bb95ebe4",
+      "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО",
+      "summary": "Олимпийская чемпионка Токио-2020 в марафоне Перес Джепчирчир дисквалифицирована на три года за эритропоэтин. Об этом сообщает пресс-служба независимого органа по борьбе с допингом и нарушениями этики в легкой атлетике (AIU). Следы ЭПО были обнаружены во внесоревновательных пробах Джепчирчир от 17 июля. Ее дисквалификация вступила в силу 20 октября 2026 года и завершится 19 октября 2029-го. Результ",
       "lang": "ru",
-      "sport": "hockey",
+      "sport": "olympic",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.68,
-      "published": "2026-11-18T18:20:01+00:00",
+      "heat": 11.58,
+      "published": "2026-11-19T08:50:00+00:00",
       "refs": [
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-18-noyabrya-2026-avangard-admiral-salavat-yulaev-barys-cska-lokomotiv-2475988/",
-          "title": "КХЛ, расписание и результаты 18 ноября: ЦСКА — «Локомотив», «Авангард» победил «Адмирал». Все матчи"
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/athletics/1117441436-olimpijskaya-chempionka-v-marafone-dzhepchirchir-diskvalificzirovana-z.html",
+          "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО"
         },
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117441017-bushe-o-31-s-admiralom-avangard-mog-zabivat-6-7-golov-ubojnye-momenty-.html",
-          "title": "Буше о 3:1 с «Адмиралом»: «Авангард» мог забивать 6-7 голов, убойные моменты были, обстучали все ворота. Хорошо смотримся вместе, «химия» появляется, звенья нарабатываются»"
+          "source": "Lenta News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHRZeW5rN19fVk10QW9wLWNad1JtaU9WeHR4TFJ0UHcxRU1CMk1UYk9HbGtpZGpNQkVxLTVLWHRYTTNMQWRWOEVId0VZcHhZeUljNVBxTWVVRFppcVJWNXpJV0htbWxwbEpQd3pTUjV6dUdjZHBoVW5ieF9MZVhMZzdLcE9rWHo2OVdBdm80Nlh0dTExZC1VdjV3NktGb1g0dW51VlhXbGd5X1FabjlPY2JB0gG3AUFVX3lxTFBLOUg4NVc4MG9yalFrUkFHdTZBeUIyS3NGWE9NYjNvR1czUGdsWE4weU9xUXRhZkt2bV9RSnhJcjNDUVV0OUZBYUd2LU9QM0lRamZIdFhUS0xmaE9NcXp3NHBycnIzcFNVVEhNWnYtcEhobW1kLUk0TGpYdVdDMm5La3pSSDhIUFNGS3Jmb3NlelNLVFltN2ZTMUVtb1cxcVhEUzIzZmtUZWRnNGpFOFVrYm5KWWJ3Zw?oc=5",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали на три года за допинг"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261118/khl-2132489062.html",
-          "title": "\"Авангард\" одержал победу \"Адмиралом\" в матче КХЛ"
+          "link": "https://ria.ru/20261119/dzhepchirchir-2132597059.html",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали за допинг"
         },
         {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6704826-k-sozhaleniyu-ne-tak-mnogo-zabili-golov-forvard-avangarda-o-pobede-nad-admiralom.html",
-          "title": "«К сожалению, не так много забили голов». Форвард «Авангарда» — о победе над «Адмиралом»"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/athletics/news/olimpiyskuyu-chempionku-v-marafone-dzhepchirchir-diskvalificirovali-za-doping-na-tri-goda-2476503/",
+          "title": "Олимпийскую чемпионку в марафоне Джепчирчир дисквалифицировали за допинг на три года"
+        }
+      ]
+    },
+    {
+      "key": "62a22f2930",
+      "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича",
+      "summary": "ФИФА сняла с «Сочи» запрет на трансферы. Об этом сообщает ТАСС со ссылкой на пресс-службу Международной футбольной федерации. Трансферный бан действовал с 9 сентября – клубу Лиги Pari запретили регистрировать новых игроков в течение трех трансферных окон из-за задолженности перед « Маккаби » из Тель-Авива за трансфер защитника Немани Стоича . 15 сентября гендиректор « Сочи » Сергей Новиков сообщил",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.29,
+      "published": "2026-11-19T08:53:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117441428-fifa-snyala-s-sochi-zapret-na-transfery-nalozhennyj-v-sentyabre-iz-za-.html",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/rus_d1/news/fifa-snyala-s-sochi-zapret-na-transfery-2476496/",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XbDRpcmRTSm5HTVd4S0x2elhIcXJwcEkwYU1uSTFzUnZMQ3c3OXU1cTZtbjFXeWZwMXFTSTdJWlloWk5pVUpQcml1bElqVEdJYVVUWWVkaDg1RjF2c1pMclM1OUZaY1c2?oc=5",
+          "title": "ФИФА разрешила «Сочи» регистрировать новых футболистов: подробности"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261119/sochi-2132581160.html",
+          "title": "ФИФА сняла с \"Сочи\" запрет на регистрацию новых футболистов"
+        }
+      ]
+    },
+    {
+      "key": "8384cf21bd",
+      "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals",
+      "summary": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals Olympics",
+      "lang": "en",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.79,
+      "published": "2026-11-19T05:26:00+00:00",
+      "refs": [
+        {
+          "source": "Olympics",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGlIa0NvX1l2SnMxTEZQallkNDBEV1ZMcFAwT3djT3VsTV9pMV92WDg3dWxnZ3p2QlgtelpLZ1l5QUEycW1DeUZIb0ZINW9SS1VUNFpnaFdOdWNud2N2bTk0cU5ZdjdGaWUxOGN5UHRFUlpfdnhPY2MzMjUwaXhHbkUyQzIwblNJaC1odjAtSF9Ddw?oc=5",
+          "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals"
+        },
+        {
+          "source": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXVlMHFRY2dDYklob3J0Y29fOExHZzdhMFZSNWVQbEtpUjBkbmRUTkxDRl9NYVk1SWtwYmh6WDFDQ3R4d21HdkJTZHNGNUFKV0FWTnBWUHpyU0ctWGl2M01ULWRHRFZudEdBWlJZbGl1OGVhOHJZRTFGUUFTMVNwZ2p6NDJmVmtBOGdta2xOOWZMSWlDa1lXXzdoRThueVRRWmVnVFJuMmdkczJsaEE?oc=5",
+          "title": "India defeat Malaysia to enter quarterfinals of Hong Kong Open badminton tournament"
+        },
+        {
+          "source": "The Star",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlRndWl0QjRMMkZ4OExDQ2hFcU11QlJERENwTjV4VWRtcG1EcU51d29jTUJERzdBWkdDeEtGSTNPRjNwRGtPUzQ3akxfYllfU09zRllKTUJLNjJqUExMM2lydXZBaWpMUG9XWjhUTUZkWlBWWW1NX2hKWkpnSWp5WGJQNkRCbVZIRU1ydS1ER1BRS1RXSXBER0dmNzE1SGY4VVdwU3M4R1g2bU9L?oc=5",
+          "title": "Badminton: Aaron-Roy King off to a strong start at Hong Kong Open"
+        },
+        {
+          "source": "Free Malaysia Today",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObl9MbjdhaFpwZzdZQ0RfTlZaekNvbkJHQlBJNGNOcDJUaVlQX3hzOWNVSmZudjQtTU9CZkhEelBkRGJjZHZsWWtXTXpxcXd0XzhxTTUxSGRwM1VpOE5VUGZfMTIwS0plNldRRVNXb2Q0cGpCa3h3WHJmeTZKcnN2MFplSk5vbE40aV8tVGU0RklhMVNxWGIyNjhiUnpIcUtYTndQTEozYk0wTF9KOVJPODJNaTJXUVVhOUtiUnV3?oc=5",
+          "title": "Jun Hao ends year with 10th 1st-round exit at Hong Kong Open"
         }
       ]
     }
   ],
   "known": {
-    "cd08a9841a": {
-      "key": "cd08a9841a",
-      "title": "Сирил Ган защитил титул чемпиона UFC в тяжелом весе",
-      "summary": "Сирил Ган защитил титул чемпиона UFC в тяжелом весе sport-interfax.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 0,
-      "heat": 23.3,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T06:59:55+00:00",
-      "refs": [
-        {
-          "source": "sport-interfax.ru",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aVkd0ZGZURmhQNkZra1lvZzd0d2hMdDZDY3pJTy1QczFmeXdkbUtiZm9SdjdBbXVycWk3eEM2YUhJSmZpM1NlWmd6S0JpZ9IBU0FVX3lxTE1WNThNLVo0cElrUXdBQjVPaHBFTWtIaDk3aFlqMlEzcW1wTHhJVjFPSlp5OUhsSUN0SDBJMlczMGRjT2QwQnZoQ0FPREtxYUpUbzlj?oc=5",
-          "title": "Сирил Ган защитил титул чемпиона UFC в тяжелом весе"
-        },
-        {
-          "source": "ВФокусе Mail",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9ST0NFazQ3Q2o3S0QwUTBRQ0djVHlpVkRxWFlqaUhqcVBiWm5haWdWZWZqWXp3dldKR2pYSTBkbTAxRkluZWRCWHBpTVlCaWVRUjNqMFFHMExxMzVUWUxZTnlRbE01eDJteUZ4bEEzNnhOQktTOXIteHpXTUtWaVNISFZKeExLek1oRlRPcDdPZGs5M21Bdi1ZSTNzcFRIYTd5RDFmOEFaVmpwaVBmMm1pOA?oc=5",
-          "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1lUWG1UbE80ZUNwdTQ3VGZCcnRzd29heUZkeVVhRGZBVEl0QzczLTh5QTEtaWNKdFozYldyUkhzX1E2YnFadUhqRVl5cHZpUlJWS1RLOFQ3MFpoZGpONi16ZUJRMjJTT2NBa0V1VGY0NktNazZUYUxBZ3ZvRTZxWUlvbXF2ZXBpZmRPN2JVOG1PWGo3R0RHb2F3QlVlaUIycllJU19RaGk5dUw2M1dIa2xnWGtvS3c?oc=5",
-          "title": "Сириль Ган впервые защитил титул чемпиона UFC в тяжёлом весе"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/ufc-2131646628.html",
-          "title": "Ган нанес первое поражение Хокиту и защитил титул чемпиона UFC"
-        },
-        {
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEktb3lhMWk2UVlzR19DUUFMdWxDODZaQjhqc21kVTVBWVVuYnJNZXN6NDR0SWJCaVN0YWNFeWRYYS1BZFRfQzktX19GWVFiZmR5dVhrd1JGNXp0WnV2M05NaThtVzdTQm5Bakx1Z0dNZExmQklUMVBNNHBqM1FQbzA0MG5mY3JITnI4N0g2RVljemFUZmc?oc=5",
-          "title": "Сирил Ган защитил титул чемпиона UFC в тяжелом весе"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmFxbnp0NnZfWHRHb0Y4MzQ1Q01PY1RHb3YzeHJDRTJoUUpCeU1qVFBOQkR0V096M2ItcVhTc0g2MjNIWG55Vm9CeGdpZTVjN21XWEViWlBwdkJXTHBqYWwxR3RPODJNWkV0NzgtOGxjdXFfTXJYMzJiOUVXQkZEM1MyQVpEVkNkVUVvN015N3JWdTdTVnpNTGpaTzZQd1Vm?oc=5",
-          "title": "Ган победил Хокита и защитил титул UFC в тяжёлом весе"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1dGNS0zRlNrVnpzcWJ4ZFdybDlMQWNVRDdYSGlpN0hjSW1wd2l3U0ZHS1h2WEJkdFFxX2NoOEpkYTZMZ053eWNnYzVqT09SVHZaQ2tBY2Rqb3RRazdXaU94RUs2X2hOVUxXeDdKLXl0RnZKTjlibjcwdVZsYTRPdlRwZWRudWNidDlCbkNoTzdXSF9QWFpWU2s0OTNmU0NHZ0FiQlp6WUNZcVAxSE1XRXFfU2VHMkpxdXZvQlNWZlBEOHJkTjdrR0dWSUVtYXBId292aVRvcw?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC в тяжелом весе"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/siril-gan-dzhosh-hokit-rezultat-boya-za-titul-chempiona-v-tyazhelom-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475052/",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC"
-        }
-      ]
-    },
-    "496bbe1e4d": {
-      "key": "496bbe1e4d",
-      "title": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC",
-      "summary": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC legalbet.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 9.65,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T12:15:24+00:00",
-      "refs": [
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dFTVQzeXU3Q2xvVzJoQXhVY2NaQnRZU09IZUphV0xkcllNNXBOVl9XZGJPaExLTTRLczBaZDgtSm9NVjlDb2p5NUlkTFE3NndPdTlWMzFCeFUycGVvSDNFTXM4RzhWb1FobEZfVU5kRGVLc183UFNXcUVFXzJScDFTd1AxOUFGeWFMeUhFRHkzZjJoUGdN?oc=5",
-          "title": "Харрисон задушила Нуньес и защитила чемпионский пояс UFC"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMHVJZXZrTlRxZExSNVhNOGRra29NS3JnT0pTb3VPTm5HZFpuMDBQMGJUb1VKc0x6QmRjcWtUbV9HOWw2NU9NY0NGUjZzQ0FkTG5HWklwVnNTNTFRUDhGcmhycEI1ZmRnYVRuRkN4MnFIQ2o1N0hXdWhvLS1LcmpjR0FNdEV2TXB3M1lSMUNYSW1iV1hpUHVVMGVpbGhVUFJ3UG9MNW9CVEFmT2g3Mm1XNThPSXpfbGxYT2k1SnZ3M0hmUQ?oc=5",
-          "title": "Кайла Харрисон задушила Аманду Нуньес и защитила чемпионский пояс UFC"
-        }
-      ]
-    },
-    "37d0a34807": {
-      "key": "37d0a34807",
-      "title": "UFC 334: Полные результаты и бонусы турнира",
-      "summary": "UFC 334: Полные результаты и бонусы турнира Allboxing",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.61,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T08:06:28+00:00",
-      "refs": [
-        {
-          "source": "Allboxing",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnpianRqSU9lV3NzaVJDWDBqWGlfYUJQYVY0eHRzOFlzaGE5S1E5aGViUjNYN25wQnRBRkxjTTBQN3Q0S0duOW13RWswT3k2SGI2VENIMHRTOWl2WHRudmR1Nm1ncjN0MEFiYURkbGhNbm5ZdDMwdThoWkNYdjNwS2pZbmQzZ092?oc=5",
-          "title": "UFC 334: Полные результаты и бонусы турнира"
-        },
-        {
-          "source": "bloodandsweat.ru",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU9PV2lQbjBOUWUwYTVyYm56ZFB0Y0s0ejNRTEpqU0FYdnI2VW13MVNxT3JiSUIzaGVwaU1BWWhqSGFmZkFBRHdzdWNnU05Cc0I3aktLMkRDOTk2dzRDYmlYNWxtUzBZd2s3ZUp5bFhESUh2a1FreDJLd0lXV0F0NXhLZGk?oc=5",
-          "title": "Результаты и бонусы UFC 334: Gane vs. Hokit"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/ufc-334-15-noyabrya-2026-raspisanie-i-rezultaty-vseh-boev-turnira-v-nyu-yorke-gan-hokit-harrison-nunes-polnyy-kard-kto-pobedil-2474852/",
-          "title": "UFC 334: Ган — Хокит, Харрисон — Нуньес. Расписание боев, полный кард и результаты турнира 15 ноября"
-        }
-      ]
-    },
-    "7d9f7dfe10": {
-      "key": "7d9f7dfe10",
-      "title": "«Выиграть было очень важно для меня». Лазарев — о победе на этапе Гран-при России в Омске",
-      "summary": "Чемпион двух юниорских этапов Гран-при ISU фигурист Лев Лазарев высказался о победе на взрослом этапе Гран-при России в Омске.",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.33,
-      "published": "2026-11-15T16:24:25+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/figureskating/news-6700682-vyigrat-bylo-ochen-vazhno-dlya-menya-lazarev-o-pobede-na-etape-gran-pri-rossii-v-omske.html",
-          "title": "«Выиграть было очень важно для меня». Лазарев — о победе на этапе Гран-при России в Омске"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri-rossii/news/gran-pri-rossii-po-figurnomu-kataniyu-v-omske-15-noyabrya-2026-rezultaty-muzhchin-pobeda-lazareva-2475184/",
-          "title": "Лазарев выиграл этап Гран-при России в Омске"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/lazarev-2131689251.html",
-          "title": "Лазарев стал победителем этапа Гран-при России в Омске"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPam1SMFBQLXVaQVRYZmZ2b0FrMzV4ckJIdEhHeWRmMGowOVVnYk43VTBtbEZMNXdDVUdkWHBCMFlDZkVLdnNCQWk5WkdRd2JkMFRNLThoUGZrVE5Ia29QUGhJMEZIZm9iRm9rRGliV0gzeGdnNGl3d3UtX2lmMGNjS2I0ekM0VjlBRnB4VGt1VTJKMy1fQUVhS3l0dVgtWWdmVzN0N3U2eFQtdHR6R0htLWJIMHpCR21qM2RPcW45RWZtaEd1SzlwdWMxZy1qbHVuSUZz?oc=5",
-          "title": "Фигурист Лазарев выиграл Гран‑при России в Омске, Кондратюк — второй"
-        }
-      ]
-    },
-    "29cf62178e": {
-      "key": "29cf62178e",
-      "title": "Хет-трик Бэйли помог \"Барысу\" обыграть \"Металлург\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.72,
-      "published": "2026-11-15T14:35:56+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261115/kkhl-2131706120.html",
-          "title": "Хет-трик Бэйли помог \"Барысу\" обыграть \"Металлург\""
-        },
-        {
-          "source": "Allhockey.ru",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVFyYmlmXzFNSmx2ODhpcUs0aG9YM0dOaU5tUnFJTG5LaEVXd2ZRQVlxTE9JcjRfb3FfT0MtWHlKUHZzajNlanlsd0VTanZhYUoyUWtpRjZoZWFCYi1fdjFzRzFia0F3TlpBOGZkX01mbHZ5ektEQnA2aUhLTlZEQzJaamMzYVZaQk9EUF9SNENNSFJMV2VvdDd4bmhRdzdocHVmdtIBowFBVV95cUxPVTJXMS16Uk9zS29hcW1yNUtmcE9MMWpYVVMyVlV0b3NxcmJlRFlHTy0zRGNqa04tcEk1VVBWanRwRUJtUmdwYlJMWG5FU0tjaV83bm14NTktU1Izbk5qVXVuZUU3R1RIbVdXbU5Bb1AwNmc1QkRqektka1E2VUdzSm4zbC1YMkdvNGtxQmFOakMtNkFwMWU3VE53VXJjN0ZOb2pj?oc=5",
-          "title": "\"Барыс\" одержал победу над \"Металлургом\" благодаря хет-трику Бэйли"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-15-noyabrya-2026-sibir-dinamo-barys-metallurg-ska-traktor-2475047/",
-          "title": "КХЛ, результаты и видео голов 15 ноября: СКА уступил «Трактору», «Барыс» победил «Металлург»"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117437214-fonbet-chempionat-kxl-sibir-primet-dinamo-moskva-metallurg-v-gostyax-u.html",
-          "title": "Фонбет Чемпионат КХЛ. «Сибирь» уступила «Динамо» Москва, «Металлург» проиграл «Барысу», СКА встречается с «Трактором», «Торпедо» одолело «Динамо» Минск"
-        }
-      ]
-    },
-    "2703fd17b6": {
-      "key": "2703fd17b6",
-      "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе",
-      "summary": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе ВФокусе Mail",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 7,
-      "growth": 0,
-      "heat": 17.53,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T06:40:23+00:00",
-      "refs": [
-        {
-          "source": "ВФокусе Mail",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9ST0NFazQ3Q2o3S0QwUTBRQ0djVHlpVkRxWFlqaUhqcVBiWm5haWdWZWZqWXp3dldKR2pYSTBkbTAxRkluZWRCWHBpTVlCaWVRUjNqMFFHMExxMzVUWUxZTnlRbE01eDJteUZ4bEEzNnhOQktTOXIteHpXTUtWaVNISFZKeExLek1oRlRPcDdPZGs5M21Bdi1ZSTNzcFRIYTd5RDFmOEFaVmpwaVBmMm1pOA?oc=5",
-          "title": "Ган победил Хокита на UFC 334 и защитил титул чемпиона в тяжелом весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1lUWG1UbE80ZUNwdTQ3VGZCcnRzd29heUZkeVVhRGZBVEl0QzczLTh5QTEtaWNKdFozYldyUkhzX1E2YnFadUhqRVl5cHZpUlJWS1RLOFQ3MFpoZGpONi16ZUJRMjJTT2NBa0V1VGY0NktNazZUYUxBZ3ZvRTZxWUlvbXF2ZXBpZmRPN2JVOG1PWGo3R0RHb2F3QlVlaUIycllJU19RaGk5dUw2M1dIa2xnWGtvS3c?oc=5",
-          "title": "Сириль Ган впервые защитил титул чемпиона UFC в тяжёлом весе"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmFxbnp0NnZfWHRHb0Y4MzQ1Q01PY1RHb3YzeHJDRTJoUUpCeU1qVFBOQkR0V096M2ItcVhTc0g2MjNIWG55Vm9CeGdpZTVjN21XWEViWlBwdkJXTHBqYWwxR3RPODJNWkV0NzgtOGxjdXFfTXJYMzJiOUVXQkZEM1MyQVpEVkNkVUVvN015N3JWdTdTVnpNTGpaTzZQd1Vm?oc=5",
-          "title": "Ган победил Хокита и защитил титул UFC в тяжёлом весе"
-        },
-        {
-          "source": "Sportarena.kz",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR1k5Qzl0Y2RURVNEQnFyODJZZjZrQU5OZjhSZV9CZ0dGVnRzbHoxRUZIS05ieUh4cHQ2aUgtNThtWUtmR2ZfMy1yQXpSd3RVQkhpQ1M4bVB4UmVsTENnTFVCNHNRR20tYlZ6SGdFNUFjVFRMZVdHTVNrLUhwOEx5X0lYXzFoajVyV1l5d3Y1U2JpMHhTQnhxMUpQRXRtRkx3UGpCbHI1US03QzZBckVjTkpwalNjQlhESFUyNnJ0YkNIQlVn0gHKAUFVX3lxTFBiZk03VFV1OUt1cktlZ005T0pFdVo3Qi1WLXRHeVVvODdSTnRIeUVpQ01sQ0Q5a0VTUDExUUlETktMTEo0VXczaUtoWkk5blFJRDhKeEdYUEdIcWtnMDdNdVljd0o5MHR0LWk1YlFvSFFPSE13OWg1ckRJNkFoZHRURldLbW1UZG9YOTNiajRkZE40MHVzYXdXYzdMTlZaUUNUTHVlYTJrVzRZT29FeGtVa0VnOGU4N05md3g3dTFLaWE5RFdpTjV6cHc?oc=5",
-          "title": "Сириль Ган победил Джоша Хокита в Нью-Йорке и защитил пояс UFC в тяжёлом весе"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUgyQ0xrcEJBZXFWakxoRWRyYjdMc3oxQ1U3LVpzaC1rUFk3R2VITkh0aGdSNHlxdk01aFZGUG94ZFBaNzdsVEJabWRNaEVsSFN2OWxNYmFOVFBLR0pVOVJ5cXFWRzlIN1ZOUUxtR1JMQjJRQ1JrbUNCZW5QQmU2aHZYWGlSR0swQzVWX2k4LVVvZmVPcG9JZ2hYSVZvanR6N1E2Ri1KM1VKRDA1UjdvTm5KVHRmaXZjQ2NBN3pvMkdGLVA1VGxBSjFPdHNQN3VB?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул чемпиона UFC в тяжелом весе"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZ1dtVnN0QzhVYXlnbU4tMXdiRllCWkFDdGdVTGZPR0tuV19xVFdDXzBGV295eTZoZldhU01BSG1HQnpsbVo0dnFBRzlsWlZJY3Fkbg?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита на UFC 334 и защитил пояс"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzlkOExYN0wyMlltVHdSSWRCNVExQUVQNGFqdEJlWGRzZFJHMHVwRUdLMzhGeVBMampDNWt2OEZsS1d3Wm5HbmRteVZ4amJsemdvU3RCcG95cnJsd3YtUERadXd2cnZHZktQU3B6YkZpWUlyNjYtYlQ0U1BkbEU5dEpuVTROdS10akNVdEtmN1FGeXlNZzhTRWlVcGREZGxxTExjM2tCRFV1cEQxMmFEdg?oc=5",
-          "title": "Сирил Ган победил Джоша Хокита и защитил титул UFC в тяжелом весе"
-        }
-      ]
-    },
-    "5d30634cb0": {
-      "key": "5d30634cb0",
-      "title": "UFC 334: Gane vs. Hokit Fight Results",
-      "summary": "UFC 334: Gane vs. Hokit Fight Results ESPN",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 16.0,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T14:11:30+00:00",
-      "refs": [
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TSk5fQnoxbUFqTE4yS2doZHgxeW1NNnhVbEVOTnZNRUZ0d1pqeU4wcnBuSUdLN0xVRU5NVFF5Z05icTh4Z1Fid0d0RnJVTEF0eGFxZmJTZkRXbVpseXp0NDVoZFVEczNGX2gzb0FpZDgwZFU?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Fight Results"
-        },
-        {
-          "source": "sports.betmgm.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE9RX1pXaFotN25TZ2RjMWxCQ0ZlVmVLZ2VzRG5BeTlZMGIyMnhmT1hydnZ6QlVRY2NMd0ZhVEdPUEFXTTZoeVVpZHdnektUWk00bHVXaDd6WXpXWTVIdmtVeW0wNEluRlpOV3pYYkZSbF9DTDVJRDB4Ni1obTBCTE5EUy1YRWs2VG1KZg?oc=5",
-          "title": "UFC 334: Gane vs. Hokit Payouts & Fighters’ Salaries"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVROVjlIYl9BYkxEVE5qS240WWEzTkM0MHQyRGlKLUNKdEJsT0tmVFlIWERfUTYtN3JqMm92Q1BqRUtpRVNXamdqTHcwTlY5cEtPbG14aEVNZmZxX2lYZ1RpclppMTMwcDVZMk1lc0wyN19ZSGxLUFZUaDVCS043VFl2X1NvOTNsNFE5alRyZXpoMGpaZjQxOXFCSWhwZHJzNlUwMA?oc=5",
-          "title": "3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUZIX2xxNE1ZeFhGLUxCWFR3WWJDdklsc0ItTmltbXQ4MVJjdzlZbnZzbUJCNHZaNmIwVGlGM2Qwa2d1RzU4N0hWNWtiUDg4U3pXX2JIanNxMXBlQm9zVEgyOUM4eVVuLXREc2RjNXdLNXpZQi16NWctUXh5a0NuODAweWxPcEdaYU1kUkcybUVyckhlLUFSOHFSZw?oc=5",
-          "title": "UFC 334 results: Sooo … About last night | Gane vs. Hokit"
-        },
-        {
-          "source": "theScore",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS19vVGhxRUNVVkZkbEs5XzE5WVNxN3dtMzBSTmphZ0txaTJIcVFEWDZFaGtUOFg5VFR2S29YbkZnZHExUVB5V2tzTWR5WEtieEhIcU9JN0JmaW0zekxwYnBlZEdxb0xxdEZmTmJqUnk5cl96VmFqbTNPWnZJa0pwNmFfWWNHNms?oc=5",
-          "title": "UFC 334: Gane vs. Hokit results, analysis"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
-          "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit"
-        }
-      ]
-    },
-    "3051e70f87": {
-      "key": "3051e70f87",
-      "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey",
-      "summary": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey Cageside Press",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.25,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T15:39:51+00:00",
-      "refs": [
-        {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNhdVZMLW1SZy15Qkt2WmYzeFkwUmVfb2ZGd25nVklTVDc3VWVPNXpubzRiUzNZQVhLN3p3c1VxNnJ2YjdYeUcwRS1ZRTM1LU1ST3Y2TFh4NjVxQ0FpWE9CaWRFVVBnQldqY0xKRE4yTTRRT05UaTVvNG9naW4yRWcwZld6NEIxeDhFdEdWdGJyd3BtZjBHd0Vvbng1MHNkR255OHAtb19tMnBTT2JF?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes at UFC 334, Jokes About Fighting Rousey"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZlU4ZVIxSHRPbWNPN3JNTG9VdUJGUF9GRFR1THhEN2lyRXFGMlB2aW1uTm9HbVkxSjh0dkxQVlMyQnpVQTNFUkpVQ1lESWE4OFBtQ21YRWFpcG5FZ0g2UVBFRDFMX1lwVFc2bTNRSHdJclZUWDM3WmNRNF9LMFk?oc=5",
-          "title": "UFC 334: Kayla Harrison down for Amanda Nunes or Ronda Rousey next"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWtEVjVPLUVEdXNFOTNwamdxYzVab3R0cHc2Q3FRaXlnREc4Y01sV2IzZ0pRZlZGcU0xT29UOTFxMjJpYXdVR0JQUkR0STJ3c3VZYUZWY0NwT0VRdGtpYmFVTVppLUMzVFBoNzhPNzN3eWw3UlpXY2EwLXExRFI3R0hEQlpWd1RzU2xkWkpqVmg?oc=5",
-          "title": "UFC 334 live blog: Kayla Harrison vs. Amanda Nunes"
-        },
-        {
-          "source": "Bleacher Report",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2VLT0FfV2dQTHdQRjlNcktUbzBWdWFPSEN4cUFQRUdnZTdjWHZkY3RzQjd1SDUzS3lnWjdFX1RuVmo1UEx0cnhYZ0lWd1lSTWZoVDhKRkZjUDV6b201LW5vTGI0dlZaYXNVYllVWHBSQk92RXBrbVRuYnI0MExBT3J5azFoZnlkYWE1amppMGJaYzNLOGZnVTd5cU9MUDBpaW12Wk1aRHNVUjZNNk5rTGVfenFLUTJQM0s3LVFQRmt6b0VjTFZNcnFKSDJjQQ?oc=5",
-          "title": "Kayla Harrison Beats Amanda Nunes, Judges' Scorecards, Prize Money, Stats & Highlights from UFC 334"
-        }
-      ]
-    },
-    "77a8c54291": {
-      "key": "77a8c54291",
-      "title": "Харрисон впервые защитила титул UFC в бою с Нуньес",
-      "summary": "Харрисон впервые защитила титул UFC в бою с Нуньес ГИПОРТ",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.5,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-15T05:20:58+00:00",
-      "refs": [
-        {
-          "source": "ГИПОРТ",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxKUWxpTU1kNy1GdTM5MG8xSm12c0x4bUhrNC1pejNoT1gxTWFYcEFGNkI2bHBQOU1UMmttN3VYVDJFUUZmLVJubjM0cnJnTnFpNUNISVNPQlR6Q2twbENXeVo4VjNHeE9RbUMzSnBDWVlrUkNWQ25PYktkOW1UZUtRamFja2Roc2tUeHBCNy1QejNN?oc=5",
-          "title": "Харрисон впервые защитила титул UFC в бою с Нуньес"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/kayla-harrison-amanda-nunes-rezultat-boya-za-titul-v-legchayshem-vese-na-ufc-334-v-nyu-yorke-15-noyabrya-2026-2475046/",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVi1VVnpUYllIRHJ6SWtvUDNXdktYb2EwbDB1Y2ZOc3pFMzY4Y0hfYmJMbkxPZXIxcVM5dGpZVGh4ZklYeDJjemdvRkxGaTNXLXpsSkh4RkcwVDdwMlgxb2w3bEpXbWZpajRyUGJxWmV4Y3huMUZJUWhhcW93RFlSeVplTEdBdTZ3NnFkd1JncldKVlE2amJRQjhWRjNlem9WRW5BYUNUNGpWOTlRVElDeE1feURBTnFTaUlYQzFIWVdJTWExbERKZ3Vvdw?oc=5",
-          "title": "Харрисон победила Нуньес и защитила титул чемпионки UFC в легчайшем весе"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9NeUo2aG9YdVJLVlE5N2p6RmowV2c0SkUxSThqeFU1S1JXeVo5LVVFcFdBcW1DcERWRmRjVkNpT01IVDJseHAyQWRPQ0tZQUk3a2JCVzVxOEJPakdMcUN2Q0dvTGVuWU43WjRvbUhqLV82dmFNVzFfSkdqMVZtaFM5aEJqUkotdEhhQ213SGY5VFVkaVZRaU9LaHVYbnItZjlaN0NfMTNvaDJjZmZRVjNjWFc4U1VESzlqbjFxaUVKNVdOdG9n?oc=5",
-          "title": "Кайла Харрисон впервые защитила титул чемпионки UFC"
-        }
-      ]
-    },
     "d5f0f4a1be": {
       "key": "d5f0f4a1be",
       "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes",
@@ -3230,637 +2844,809 @@
           "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself"
         }
       ]
-    }
-  },
-  "sent": [
-    {
-      "key": "3456f3c553",
-      "title": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick",
-      "summary": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick Batam News Asia",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 20,
-      "growth": 0,
-      "heat": 42.91,
-      "published": "2026-11-18T01:00:00+00:00",
-      "refs": [
-        {
-          "source": "Batam News Asia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVjZNWFFzZ1M2aFBYMzRzUDFkVzkxRWFPa3pCOXEzYWJJbDd0dGIwMDhZeWVPUHVsUTFQVm13bVZmMmluRTRrNkVzcENSdE1ZUXoyVWNNWmpTazVYZFF4bnJoaGRESTZNVXI5LUpoeFlWMVZSeHJIcHNya1VDOGl6OGh1QVNGWENJT2VfNHl3Y2JZWGNoTnlRb0VRdVgxeWZpLU5acWlPN0NnVEVJcjlzUkNWZw?oc=5",
-          "title": "Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUVuQXVwU3VJNFg0TjQ0VVdzNGxoYnlIbVR0WUM4eXlPUjRxYUtfOUpYSFdBeHJ3UE5rNF9BX05rOXQtTDU1eHl3T280NDdJSHlsRG9hTndsY1E4TGJydzJPU20xcWxvY3ptd1ptUkIwY090ZF9kZ3FjZWRPVGRXdnB4X2JWOTBpVXdFV3Z0UzJ5cEo1MGp6SERjSkZNLURmaVZwc3JNOGFRWjJDbWp0WtIBtgFBVV95cUxPTUNsVlpFVFE4Y0MxbWdHZERtcmVGMmZWTlBkYTNndE9fQXNKNHQwbDFyWG53OHJubFB5SlZUSDFwUWI0dk1HSWNkMTBSeUd1VVB2Y0kxVk9uOTNiYVVydDdSMVpGM2RZdFNFbGFnV055azhwYWFDNVNOenJST1BoTFNhS0lPdDM2RkVtLUVQOHNUVzZJdV9iem9wdERtZk05eDdKaDNZM21OTU5sc2dHb195Wkkxdw?oc=5",
-          "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlZWSEl3VHI5Q1d2M05XWWZjal9weGxIVU83UE1XTW11MmdSMHlpVXJzQTM4ejBUU25KUDROOWRMNXdoTENzNUQtcDA5OVJXOGE4WXkzdlltNDltaTI4ajc3WW5tc3Uwd3pGOG5TWV9TQm9LQzE2cU5uVmUzSFhqTGVBTkR1MDcxbndOTVkwTQ?oc=5",
-          "title": "Singapore vs. Brazil Lineups & Confirmed Team News"
-        },
-        {
-          "source": "The Football Faithful",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nZVBFZjZuT2R4dTM3QnE2S1BXdExlc0diOUdUT2hyUmJ0M2tZX0w4TVpsd3BPQ2l0bTBhaTRpcEQyRVRsaWUxd1d1T3lOZEF6RkhTSnNqNzFKaC1ISnJwajY4clRWclJzVVk5dlQzMnh4Q25I?oc=5",
-          "title": "Singapore vs Brazil – Match preview and team news"
-        },
-        {
-          "source": "Get Spanish Football News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnc5dHhGQ2ZTOE9oeGExWEZaMllKMTQwS0pIa3AwNkFNc3BvNEt3UGlLb1NKRnhVa2JRcFdMVF9RbXoydzY3UC1Ia1AwMHQwUTgxOGdfYXNsY0ptMlR3eGFVeHhUUy1OMVBRYzNkMFpYN0lxRXhmazExS3hqZWJkWXlSOEtKbHdRWUw3M0tDUzVMbzJ0QTZFTmFWd1ZFRVE?oc=5",
-          "title": "Vinícius Jr. explains anger with Brazil substitution vs Singapore"
-        },
-        {
-          "source": "Football Today",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWVpcklmRl93THVSYzB0Z0hqNkVwVm5hUXRhSGV5WFd0d2xuU2NwcnY4T0s2aUtPZmtBTU9vYUNnNWhGYllMT3h6cUVLXzEwMzZJOWhJcEVWSHFyWFloTzQweTQ3Wk5KeW16X0RuT0V6eGxBU2YtZ3JaZ0w2VmY2b2gzV2tNVmlQTUF2THc1WDJ1UmpjWHptcERWYkNraEpNTXN6VmgzY3p2blRFRE15R1BFZkJZRXZmU0lv?oc=5",
-          "title": "Vinicius Junior scores first international hat-trick in Brazil’s rout of Singapore"
-        },
-        {
-          "source": "Forza Football",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk5YSFo4djFBVU1sdmtQTVVJelBUdko1dUk4VDdkWjEyaktMUWM3aW51TmJRZUs2MGtpU3NIRUFONDhDeFJnQ29FcnpDMnNSUTZFRC1OMHlMekpCSTl4Tnd3MEVHcTZOcktCak8zeWxpYUNOMkJqVkdrTTJINkJ6RFI2ZDZxb3N6MVhpcDhscEFOU3cyMndDdDZXdkxEWFVCSjh3SnQxYzk3MFNZaWJyYml1b0YtNkI3R0E?oc=5",
-          "title": "Vinicius Jr Continues Redemption Arc With Sensational Display in Singapore"
-        },
-        {
-          "source": "The Star",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcERwMTdOVkdGVVEwLVJrYUN3dFozemtlZ2JZWkpVVHpfSm9Ici1PTmxXc1hFS29HZFQ4QUVQdUJ6aEFwaW9LMmNZSmxaRVI3a01qMS04QzJ2ZkFCYUs5NXRLRlNuU3VjWC1TVzdhOThLYmxUbFg1S09YdXliZ3RFSUJSdzBhSjBzN2lraWtNbzJtcG03Y0tUa2piT1hKajBsd0dxaWdMVGgzNW54U3VsQm1IaUxNUEdsVkEyRzdvaDRCZw?oc=5",
-          "title": "Football: Soccer-Vinicius nets first-half hat-trick as Brazil crush Singapore 7-0"
-        }
-      ]
     },
-    {
-      "key": "226ccf80ca",
-      "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
-      "summary": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him Sherdog",
+    "4615daaf62": {
+      "key": "4615daaf62",
+      "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334",
+      "summary": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334 New York Amsterdam News",
       "lang": "en",
       "sport": "combat",
-      "outlets": 11,
+      "outlets": 7,
       "growth": 0,
-      "heat": 25.2,
-      "published": "2026-11-18T03:49:59+00:00",
+      "heat": 16.74,
+      "published": "2026-11-19T05:00:00+00:00",
       "refs": [
         {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
-          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
-        },
-        {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGU4YWVDcDJPLUswYTFGQTRULTg1ZTFuTHp1WWppSnJYNzJKeGh4R05saWtkOTI1eGRLdHM0ZTJtMVNNdHk2U3laRGZZNVctYUVoU2U1bmw0WWwwZ1ZLbkQzbmtXanJFdFhHaUVTNHEyeTVzeGN2LU9uM0E0Y09JVmFzUlZBUDBrS0tJUGFmdw?oc=5",
-          "title": "Conor McGregor says Josh Hokit is “biggest draw in the UFC today”"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
-          "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality'"
+          "source": "New York Amsterdam News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjNqTlM2TFNqeWNJM3VGMlpLeENyUEpTTEVxby1wWVhJbzEyUk5aZzBpRnY4VGlxVDEtREF0Yno5MkZIYU93emJmVjg5MVJERVRQWG92YUtHWVhqTW40TnByeGs5ckpiM2dLWDkwdXpvbnNrZURvNk9lb0NwQWdiclZNclVTdklLQ1dn?oc=5",
+          "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334"
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalFxMVcySTN2U0d5b3J1WHZiRjlFLUNXZnpUc1hOV3l0MzRyR2NNRHNFZllzVHlNX09uS2dPWDd4WXJIcHNhMy1zX0FRMXNkaU14dE1VdGs3a1ZnTmdsbEFQdjJZTlk3d1FyS1F3VUh2MExQb0VVajRPYVdLYjhqMzV2eG1aZk4yNFUyT1hRVGs4bno3OFRPNzllQVV2cmJqY0RCRjJaMEpDa195T3NCOWNB?oc=5",
-          "title": "Alexander Volkanovski Believes Josh Hokit's Aggression Wasn’t Enough to Beat Ciryl Gane at UFC 334"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb21zR0RWTzlzNzI5dC1CaWNZWDdFYURLMU9aYWpWeVV3U2NyVkVINkE1dHRFMTVGd3piSkx1aWNRT3JNNkZ3X2RwOUw2RVJzQy0ySmpEdWp0UVNQSmN5TUJ2R2pDZURPUExNanF5UWZYZzZyRk5KdnIwOTNMYlk2cnF5OF9FNkVEY3o1MW1TMkNQN2xvZ0xZNGJZSVZtYkpXZ09GZk1KVjk4WTNFMUpZc2pIS01OOHVKSjVMVU1sdl9Qc0U?oc=5",
+          "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXBSeFhTMEJRM2xxU0VoUkwwSlQzQnZ2LVhpN0lLSUNKRE5SdU1EekQxTVBpTnZid0RiQTZNTVVXOERpQmR2VlUzYW5YcWlzMnNuLVRtdEVuV1ZEamd5S1JQTTVmbWozMGZpLVBna2ZYazhjeEtRdzdHeHpyNHkxX0RqZTd4LWNCMDlmQlRfXzJ6MloyclBxZVlsalduMlFrUUVzRF9MQ3RCVW85T2tuZkkwMU1EX0lkdk1Sb2d4Unozd1JlelpJMUZ5VFdUTGQtdzZEbjJfd0hMeTZtb2dJTGpVZXllRExiOGRMS1Z0Z2w?oc=5",
-          "title": "Josh Hokit challenges ‘washed-up’ Jon Jones to UFC fight — ‘Try and whoop me’"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWI0SWhNWHBMU3BWdFAwX2toaHpldjN5N1BnVWZ6ZHRsUUp1ZmhOZFhPRVduSmdmWmJPdFJiM3k4TlhVdDRwd2p2eTZibDR2Y2xiUkhER3FOak0yQkpXTVVka2NfbXVoNWpaUUF6czNYR0Q4N1IwYmlwTXAtN3U1Z1VUWWV2OVR3OUd5Qw?oc=5",
+          "title": "Curtis Blaydes Thinks the Judges Robbed Josh Hokit at UFC 334"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmRrUHZoV0dhbUI4azZoQ2wtZjlSY0lXcWU0NkhnMTRjOVRkR0NBSC1EX24taUxmVGFlejdCQ2o3R3lIVWZHMkFVcV91X05vNFFKUVpyQTFaQmgyakJRbktqMXd0X0tYUFc3ejJBVTRQLTVEQWIzdlJpeXY4NmhCNmsydlQ1WnNyRzRiQUdtQWYwQ1VhMi1OZzF1c2o0TmtTdnZkeHRUQm9nUXNCdG9PMw?oc=5",
-          "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1RHTDNfSHlGRC1hS242NDdsTGtsMjhjM2RGdHdBNmlDblV1Wk5uVDhoSEtKdGJDbGExaWk3WlRJMnFMYTBfQmw5RVRtRDlpNFRqdnhfMF9rN2tIdzZxZXlYMnF1Z29vZDBxT1QxSUpTMVdDbEtnTHhmdUc1eGV4d2FGWk9CX0VpcURoVFRwOGcxZ3lJVTBvQmZpTnVrSGE5LVlhMTRtQXZvbXlNSzN1YzhTYw?oc=5",
-          "title": "Josh Hokit calls for Ciryl Gane rematch, cites early eye poke as major factor in UFC 334 loss"
-        }
-      ]
-    },
-    {
-      "key": "8a668c3191",
-      "title": "拳击手李·里夫斯在KO和昏迷三个月后去世",
-      "summary": "拳击手李·里夫斯在KO和昏迷三个月后去世 VOI.ID",
-      "lang": "zh",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 0,
-      "heat": 20.3,
-      "published": "2026-11-18T00:55:00+00:00",
-      "refs": [
-        {
-          "source": "VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vVjk1RE9fQURHWEs2aXUzRFUyaEVETEYtUmVraXFtWXJnV2VtTmRTRGlKVzU2MW1pMnE1OU9PazUzMnRvOUhPV3VB0gFCQVVfeXFMTnVCeGd5Q2EzRlVQZkdQTEIzeVQ5bXNhU3drdFo4Y0theldvZVJGNXU1eThFcEE1QVhrRDc5MzV1VFh3?oc=5",
-          "title": "拳击手李·里夫斯在KO和昏迷三个月后去世"
-        },
-        {
-          "source": "中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWVAtLS1oeHRVQjNJcmMyQkNNb3dPazVGaTdKeXEzUC1Cc294YTZHSjdHUHV2ak9ISkpBRjRSSmR5VmdaTGY0Y0NTNG1KNFd2elQ1cndTNUR0X1BiWGFuNi1lYXpwcGYtWWY4bFB4ZDU?oc=5",
-          "title": "31岁运动员比赛中遭严重脑损伤，病情恶化后离世！拳击手李・里夫斯不幸去世"
-        },
-        {
-          "source": "스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1dktNeHNYdDE1U19YZFBWVUhUbjdVVDBhTER3Ti1XQVNJYVZGOUZMeE1yZl9rVFhJOVNHOHd5aXBuVVZtUWc2N3lRWS1wMmIzbHcxMlJkUXRRRnhXX3R3RTBEVGtKemp1TVVkYUcybzJlNjJpXzZjcmp3?oc=5",
-          "title": "“悲剧”：出演热门综艺的31岁拳击手，在与昏迷状态搏斗三个月后离世 “恢复情况本被看好……”"
-        },
-        {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0p5ZUxSaDVSd2RZX1U3bHBNWEtsZnYtb29KekwwZE5HS2ZzSXNRdU4tUlMtdnlaaGFRSTRSang1aFItTnZlaGl0cTAxSGxnZlRrUjk3MUQ4V3ZzLVlVZlhMUDZrM0FxMDhDcFltQ1A3MnZub0lnVjZwWkRtZ0ZMcjJPMXFNNmpweWttcDhZWW9sRkRNamJFYmhRQzZwblRIRUVveGl5YXRfYkdfbGV0aU04Q0Q2aUY0RW5acTRfdk41UEhnQlppSV9mTW1VM1k3MmNIc2ZoYUQwSDJfZ3U0?oc=5",
-          "title": "31岁爱尔兰拳手里夫斯去世，今年8月在一场拳击比赛中遭遇严重脑部损伤送医，接受三个多月治疗后仍不幸离世"
-        },
-        {
-          "source": "拳击航母",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWVE5RLXE4b1kxbFpBRGZOeV9GYlVOR0ZhNVhlRWozLVdhQk5qaHhISnB2TU9KSXEyNlZteUJPM1M0MUFNdDZTVU8tY1dScE1J?oc=5",
-          "title": "爱尔兰拳手里夫斯被KO后去世，年仅31岁"
-        },
-        {
-          "source": "Informat.ro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkdHSWZTSFREVzVCY0ZLSzVWYkMwOFZfRmo1X3pVTFpLMjhmUU8zSXFWY29ub1NZXzl0WFlWMFJGSUZwNnItaVBrTjhqVGJpb3h5LXpmT2gtaC1CNFVKZVlrZU9XbXUyRVhfTXpiOWxINDR0R3VwX2VBMGs1dWFpczlxUzI5eHpqVWN3QzQ0alpXdGlO?oc=5",
-          "title": "李·里夫斯去世，享年31岁；三个月前，他在一场拳击比赛中遭受重伤"
-        },
-        {
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTWo4NnVvLXBuVVhNdEs3UXZNajFadDFscHZoa1VnOVVONjJhX0ZGN1lxTW5oZ3g4eFBDTmRHZlBvZzA1a0NteGlMUm5xd1ZCc2x3OUttaUZFTExHTVJMRk1JZGRMX05oUDdmQg?oc=5",
-          "title": "爱尔兰拳击手里夫斯 比赛重伤三个月后去世"
-        },
-        {
-          "source": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSVAydDg0V2RiSWt5cWtfNkJMcWNkQks2MnN4Z3hjWDBRQnpubDZjcXdES1dfQmV6UkFwd1c0WFliLWFpTFFiell3T0xrYUZ6dzVTYkNJdFhOZXYxak16U3pfSTdDeTBUdlFQV09WbjZDSGRMMEVfOWxPVzJabENIY1FCMUswaGduZnZlSXJvMUx6Y2ZsZHh0OUtQcmFtUDBQNVNQUUt0ejVZN0lXb0hZLUZPMTZZSXhQaWRUTzJBaWNWSzFpM3JlaUV2RzRYeEY1ZzZwekFWa083S1AzeXctd3ZVa1NkQ1E3N1doZUkzaDJEU29DNHk1NExWN29WY2RZZkpmSnBaelg0bWJITGZ2dFkwd0hxZGFfUlpFYzMyZDc2WHhiRUlnQkdmUlN2TkRjVVBDMUFadHFZbVJua1lib25YZHVGcHo5NGtkbjBqVG9CMkZxTkVFZ3BtU1kzeU5iZ3FDYV9KakRDRlItSEl3R3RMc2E0WU1lUlU3ZlVwRlE1VUFsTnpV?oc=5",
-          "title": "李·里夫斯去世，享年 31 岁：悲惨的拳击手在惨遭淘汰赛后昏迷三个月后失去了生命"
-        }
-      ]
-    },
-    {
-      "key": "dad3138e93",
-      "title": "Football Ferns Name Squad for Philippines Matches to Close Out 2026",
-      "summary": "Football Ferns Name Squad for Philippines Matches to Close Out 2026 NZ Football",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.08,
-      "published": "2026-11-18T02:40:52+00:00",
-      "refs": [
-        {
-          "source": "NZ Football",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9obTU5MXFlWUlTMlNwdC12RWZXb2FlWFZyVVBla0g0aDJfTTlDczVsLUNqRUpwWVF2ejM5RXhvbFZhNkM4Y05YQ3pRbF9zZ2owcmxJU2t4SEg0eG5D?oc=5",
-          "title": "Football Ferns Name Squad for Philippines Matches to Close Out 2026"
-        },
-        {
-          "source": "NZ Sports Wire",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUlp5SXZHUWVHaFl1TG1rd3g2V1IwTHRxenZ5ZmxYWnY1Tm1KUlVrR1JoQTBtdWpSNFpzNWhPaTkzWjhhd0otYU11anBJakFZU0JWS3NNeFJuWVljakZPaTQxamhDQU9YYkhKd2poWDQ0VVhuS2Y2UnhDa3ZiQ3c?oc=5",
-          "title": "Football Ferns named to face Philippines"
-        },
-        {
-          "source": "Friends of Football",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWpTSmdwZ29iVlFrNmduQTZpUHdqNGJfNjlLN044T1BtTlVzYlZicV9oQk1zZ054YmVjcExQZGZsU2NjWlJRWmp4c1hSNUp2aFJ6MlpDS1l6NWFYUl9iUTNZLV9HdE8wb1QtcTh4UExPRlJFYWFOSlhfRmZQaS14NDlDelB3VEJ0U05IQmtrZ1pjVDNSc2hQYngyZHNUeWtKUHJ6djZ1VFZNMWwyYmdnMVRRWml0NlFYeWZGaUJ2V0E?oc=5",
-          "title": "Coach Michael Mayne keen to make up for lost time with Football Ferns squad"
-        },
-        {
-          "source": "Stuff",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnNjVXdBWXZRaXlKa1Nyczk3bGtXMHhxVWVpVXdZbWVSVVFBV2Z3dzVqWVdibFlRUkx3MjdzakpTNVlZZUhzaEFmd3NiWjBKVFRZc29VUFhkd1JvSTNMelBsNEtTWXp1enRKeDZNX0h1cDJreG1FcnhyYnd1LWJjclN3X21oT0hNX2FqSkdkVDJTaUZhRDZmVnhvVmNDWmF5OXZra0kya3M4LU0?oc=5",
-          "title": "Three uncapped players called into Football Ferns squad for Philippines series"
-        }
-      ]
-    },
-    {
-      "key": "f6288c58eb",
-      "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.91,
-      "published": "2026-11-18T02:45:23+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261118/khokkey-2132248225.html",
-          "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\""
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/",
-          "title": "«Филадельфия» обыграла «Баффало», Мичков сделал две голевые передачи"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6703842-filadelfiya-flajerz-baffalo-sejbrz-rezultat-matcha-18-noyabrya-2026-schet-4-3-regulyarnyj-chempionat-nhl-2026-2027.html",
-          "title": "Два ассиста Мичкова помогли «Филадельфии» обыграть «Баффало»"
-        }
-      ]
-    }
-  ],
-  "sent_at": "2026-11-18T05:19:09+00:00",
-  "tg_offset": 360028013,
-  "combat": [
-    {
-      "key": "8a668c3191",
-      "title": "拳击手李·里夫斯在KO和昏迷三个月后去世",
-      "summary": "拳击手李·里夫斯在KO和昏迷三个月后去世 VOI.ID",
-      "lang": "zh",
-      "sport": "combat",
-      "outlets": 7,
-      "growth": -2,
-      "heat": 14.96,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T00:55:00+00:00",
-      "refs": [
-        {
-          "source": "VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vVjk1RE9fQURHWEs2aXUzRFUyaEVETEYtUmVraXFtWXJnV2VtTmRTRGlKVzU2MW1pMnE1OU9PazUzMnRvOUhPV3VB0gFCQVVfeXFMTnVCeGd5Q2EzRlVQZkdQTEIzeVQ5bXNhU3drdFo4Y0theldvZVJGNXU1eThFcEE1QVhrRDc5MzV1VFh3?oc=5",
-          "title": "拳击手李·里夫斯在KO和昏迷三个月后去世"
-        },
-        {
-          "source": "中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWVAtLS1oeHRVQjNJcmMyQkNNb3dPazVGaTdKeXEzUC1Cc294YTZHSjdHUHV2ak9ISkpBRjRSSmR5VmdaTGY0Y0NTNG1KNFd2elQ1cndTNUR0X1BiWGFuNi1lYXpwcGYtWWY4bFB4ZDU?oc=5",
-          "title": "31岁运动员比赛中遭严重脑损伤，病情恶化后离世！拳击手李・里夫斯不幸去世"
-        },
-        {
-          "source": "스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1dktNeHNYdDE1U19YZFBWVUhUbjdVVDBhTER3Ti1XQVNJYVZGOUZMeE1yZl9rVFhJOVNHOHd5aXBuVVZtUWc2N3lRWS1wMmIzbHcxMlJkUXRRRnhXX3R3RTBEVGtKemp1TVVkYUcybzJlNjJpXzZjcmp3?oc=5",
-          "title": "“悲剧”：出演热门综艺的31岁拳击手，在与昏迷状态搏斗三个月后离世 “恢复情况本被看好……”"
-        },
-        {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0p5ZUxSaDVSd2RZX1U3bHBNWEtsZnYtb29KekwwZE5HS2ZzSXNRdU4tUlMtdnlaaGFRSTRSang1aFItTnZlaGl0cTAxSGxnZlRrUjk3MUQ4V3ZzLVlVZlhMUDZrM0FxMDhDcFltQ1A3MnZub0lnVjZwWkRtZ0ZMcjJPMXFNNmpweWttcDhZWW9sRkRNamJFYmhRQzZwblRIRUVveGl5YXRfYkdfbGV0aU04Q0Q2aUY0RW5acTRfdk41UEhnQlppSV9mTW1VM1k3MmNIc2ZoYUQwSDJfZ3U0?oc=5",
-          "title": "31岁爱尔兰拳手里夫斯去世，今年8月在一场拳击比赛中遭遇严重脑部损伤送医，接受三个多月治疗后仍不幸离世"
-        },
-        {
-          "source": "拳击航母",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWVE5RLXE4b1kxbFpBRGZOeV9GYlVOR0ZhNVhlRWozLVdhQk5qaHhISnB2TU9KSXEyNlZteUJPM1M0MUFNdDZTVU8tY1dScE1J?oc=5",
-          "title": "爱尔兰拳手里夫斯被KO后去世，年仅31岁"
-        },
-        {
-          "source": "Informat.ro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkdHSWZTSFREVzVCY0ZLSzVWYkMwOFZfRmo1X3pVTFpLMjhmUU8zSXFWY29ub1NZXzl0WFlWMFJGSUZwNnItaVBrTjhqVGJpb3h5LXpmT2gtaC1CNFVKZVlrZU9XbXUyRVhfTXpiOWxINDR0R3VwX2VBMGs1dWFpczlxUzI5eHpqVWN3QzQ0alpXdGlO?oc=5",
-          "title": "李·里夫斯去世，享年31岁；三个月前，他在一场拳击比赛中遭受重伤"
-        },
-        {
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTWo4NnVvLXBuVVhNdEs3UXZNajFadDFscHZoa1VnOVVONjJhX0ZGN1lxTW5oZ3g4eFBDTmRHZlBvZzA1a0NteGlMUm5xd1ZCc2x3OUttaUZFTExHTVJMRk1JZGRMX05oUDdmQg?oc=5",
-          "title": "爱尔兰拳击手里夫斯 比赛重伤三个月后去世"
-        }
-      ]
-    },
-    {
-      "key": "5de4e50cb0",
-      "title": "Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334",
-      "summary": "Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334 Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.0,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T17:55:06+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNV9vMER0Nmo0YkVIWG1TYm1Ca1g5UmhWZVROVHFtMzB5NGlSNmR2YUl1b19CN01rT0R4Rk9ZRmNBck5pNXRSa0owTzM0MG9xQUNydkNNMDNzOS0zTXJGV0l1ek5YUXY2bXB1Q3dCMHR5bHlqZFplaThiQ0xRY0NrbWd2WjA5a28?oc=5",
-          "title": "Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334"
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTdmVjVEQmt1dXgtZzFiNWtCZnFtNzM2SDJSVjZGRmF5ZUc1TzhBMDFaTHg1MWNzbTRVZTJReEZ1ZEpFaTFUck9wR2dGcHRGLUFlQmNFM3J6TGRmZk5GSEpfdFRQNlVqU2VjemFVLXhkRjhvazI5UXdrLU1qamlSb1BHSXZ2dXdFdVlMcjY1Q3VicTQ5YUxhVDhXTGdhX3JJOUN6TTFsZWpZc1ZmNVRCVXVocWRKOURUNGNDLXhKSzdjcVQyUkdLOEEzTnE5NjBjeEZhLUF3?oc=5",
+          "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef"
         },
         {
           "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzZtaEFvTUVXQ3ZzUVpHcTBiUnhPVUxjVm1yWE82OWFqV3hoOVBpRWhja3FQNV91SnNuaGFhend4eW5KQTVMbDlZR2hIUnFYUVdWWmtSZUgxWWZ4T09yNlpILTlOZFpOZzVjR0hoNm9IV04taHkxMnpVajRPdHc3RklwbmhrclBvZWlXdTFvODF4X2tielkxWDlUZEpEVHdrUWw1MNIBqgFBVV95cUxNZ3B5a2J5VFhRUUs1XzNJaDM5cmRpUTlhWWNlWG9jSW9hT3U2OWJoZVhoR2d2MWpTWlRsQnpqYUd2b04zcGZGek03N25ySGFGLVJyVUNNRzd1SlV5R3V4WWJSLXo1dllFdlQyQzctS19HVU91OTZOSEZzc0ZOLUhISmNKUGpsbmJGeGlnWDM2OG9PLWx1SlVmemhHN0JVUDZIWkxGTVhSVmVxdw?oc=5",
-          "title": "Josh Hokit reveals why he flipped off Bruce Buffer at UFC 334"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEh1X0I0bHNhdk44cV81VnNna2IzbC1zNGFVOVBfME1vQXVLUjd3aEJsREtIU3JWRFVodHBfaG4yX09Wa2pmV2c2aHpmb256cy1fZDBhTkFaRjRGc2JFcXNFcG52UGNJX3N2bFNCaGkyRk5uVkxXRE1SSU5zU1h1amNSajBhNUd4bVB4UzJWc09IUElIcS1JVlFvVnI2Y3VoOHJZOWI4SdIBrAFBVV95cUxQVzRKMGl2SjFTSHV0WlRpcHl1bzIyXzYtbU5GcUw2ZlNsd09oS0huWG1IS1h0VEdsXzJPVXVYM0VTZ1RGNkJCQ0xtZnZETElwamlHRWFqMUFxeF9fVW5sYmUtNVg4d2Y5UWtfS1pkdWxyVWhnR0xLUHV6ekhSYmZ1Qzhfc3NKNnRNajNDeXlXOGFtelpsMGxXMmV3OEFkaGREaHhQSk43ZFp3aXJ5?oc=5",
+          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss"
         },
         {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFJKMGZqQURzQzA5NDFrRWREd25Cd0ozN2tDaDI5ZDZjQVFsdzloeGtjYm9mSFhCanhFeVNMZm5ORWdCdlRRVXh6bkJtOGJna0hYallkZS1SWG9lbUR1X01hNEVJbzhJcWNZWkVyYjlubE1ZNklYX0lXbTJKUWRQSGlfZlM0UVZxNGNnV3BBbng0MGxXM3ZZbk1OZUd4aWVxeURYNVJzOGFQWmZUZlAtTndvVHlJSVBMWWpTQ3EzQnc3dUxBbUFvZmhlR3Y2dw?oc=5",
-          "title": "Josh Hokit explains why he flipped off Bruce Buffer at UFC 334: ‘It’s gonna be f*ck you every time’"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQl96eGhlcG5CMm9TWUR5SERJaHNZMkI4RWN0Z1R1eEpBQXRWbVFVV2pHV2F3OWFUSGk1T1I1STRBajk3cXJCcnFiNWZPWF93V1hqS2Zfdmx2Q2tWNi1YRk8yeUVvVDk1T3NOd0VxektSWTJZbjljRGROQW13QV9TNDMzejNRNzlLbjhEOWVIT2tPamRINVBwYXc2U1lTS21DZnl1eg?oc=5",
+          "title": "Josh Hokit Defends Controversial Moment From UFC 334 Fight With Ciryl Gane"
         },
-        {
-          "source": "Bloody Elbow",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUZPQ1ZDUXd5VWdkYWRRQWlNQWg4b0R5UTNiS2tzTnN2cWgxZDROS3hGaDZZVENKQ01zcmc0RzI5UHZJdTQ4OGV5S1VaTnJacU5JTXNOUFlhT2ctWVFQMmV3UmhNNENWaGNremtqSjBoZ2RwOXp3QnJDRXdqbTRVcmluZll3a0tGVWNHMGRNbktUcF9peWEtSDZ5TnZZR3lUYzh4MnNub0RkaXB6T2dTVzdPemhZT2JRSzhwYUhDQTduR1M1eEpJRGNEeE1ybEE?oc=5",
-          "title": "Josh Hokit argues professionalism is 'killing' MMA in explanation of why he flipped off Bruce Buffer"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
-          "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality'"
-        }
-      ]
-    },
-    {
-      "key": "b273d32af8",
-      "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event",
-      "summary": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event MMA Fighting",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.9,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T14:00:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDVna1ItelBQZ0g4Q2VGRFE4dktIcjVXUndjNFZTTHc2V3VmRmFsejFQYmlpTzZ1TEppb1VIWGdfbVN2a0dJbmlNMTl2M1pUNWhoOWRVNS10cWNLVGRNUGY5aU4wU0JEVGthUEFILUoyWUxKUk5tRENzeUk1SDhkRHcxMWFhdkhBdXZFY0JNaXRDX3pOTkMtdEprYkNDQnd0UGtRX2F2cmk0a1UwaVRnV1dfQ1RHRnJRWmV1NVRYZmQ0U29KdTU3VzE1Y3k0WGxSajRYaWNfMGdPNFRMUHZ1ZGFR?oc=5",
-          "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVk5OdEEyYkJwbTFUX3NNYkFGaEtqaUFJdjhid3BBUkVaN25RMFRvbUJ2ODNadmh0c1FRbUk4ZW9CTjRtclRHakN4a1VCUHZqVnM3WlZtVVZleWNZemN5SGFRcmxIYkFLdEkwU0swb0ZNSGs5OWtyVVJFa25Wci0xaURoNVFULWU1?oc=5",
-          "title": "‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qatar main event"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Qb1U0cHlBVDhMOEdwOE92S2hxb3hjZDBNV3h6OGVER1VFaDBMWXBkVkNvZ2dHZjJhUDB1YmxXX3FQU1gwbFZV?oc=5",
-          "title": "Main Event Preview | UFC Qatar"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWlBYzhad3h5X1Y3UkVBWFFWWHpxek9VTENSUkxpdDYwUTRPNU9OYzZ2dEMtTFE2NHNGdGFOTnBEQmFiaVdzMUpIVExFb2lCTS1qOVczN1lLUmNjQThnRG9GSjJydHVUN3pOZDRiQ081SlFIM2dSdm5FTklrYURLcnNNY2M1bWtHVEppUTNfYndhMkFpektXeVZQbmUtQnNITDBtN1J6YXZHY0RsRmdPejBMdFBQN012bWdVMzZ1aERfdTN0ZktDbg?oc=5",
-          "title": "Navajo Stirling stares down Jiri Prochazka, vows to ‘knock this dude out’ at UFC Qatar"
-        }
-      ]
-    },
-    {
-      "key": "d6a9672b9d",
-      "title": "UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'cold turkey'",
-      "summary": "UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'cold turkey' Los Angeles Times",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.86,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T16:31:34+00:00",
-      "refs": [
-        {
-          "source": "Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUVsVFdyamc2bjZmSU5leXBmbXlhNmpZX1k4UXVKVW9QNW1MVEJOdFNxU3RhWFVydTVZcGlIS294YmQwOHd5U0hMOGdKTGVXMFE2UjhKOVVQa0MzaEJZTkNvUEhGVHBDSWhOeGR2WTBtWGI0SFVKdzNBRXpjNnROZUVtcDdld21GZ1FJbFRR?oc=5",
-          "title": "UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'cold turkey'"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEZaS3dWcU1lOHdnZW5QcC0waS1DZ1lwUW1saGdOT2hrQk8yNzhQWHBKVjh1OEFjVkcxVWhQTjR4eURBNmR2MTdDc0NIUk1lR29qeE5iZU52ajFNWXR4cnlRMUUyMW9aVWJSR1pxMUpCVVhrTGdyTm5vcXAxSFl5WWRfVHEwRXc?oc=5",
-          "title": "UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'cold turkey'"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMERHV3ZXc2xaQ2R5NjlSYVNmeXIwSllMRVV5VlZSdXQyckVhV1BPci1zZ3B0cGNRS3U0VzBjeUt3T210X3g1OEpxNmU1WExpbGN5ZS1SVXJBcy0tc0thcEg2bEhDbWtmVmcwbnlzclFWamZ5UTR5RTdGd21rVHRWVDVFVTFOTHhpXzg1UldFQjVWY3ZVTE9CYndKTTh0ZFpJU3lKSFRYNUF1cmNYOVBsYnN30gG3AUFVX3lxTE8tZkJDdHNjZXczYUd0SUNBV2otZ0VDQVBEdVVOZEh1NTF5a0JFUjRrMUFMTlBIV1FBZ0NDMEN3YWhqUVpDRUsxQ3Rqdml5UTYtNWpyelZMbVRmOExoSm5saTQ4S3VCbzZTT1hBWmhweHhPRmQtbGQwZk5UbEFTNVh5Q1J3d3RydldCNHJGMDhSMmRVNkZFYlJ0QXVKbXU2OVVnZVY0SXdIWU1BRFNKX2dwV1N6WGtmZw?oc=5",
-          "title": "UFC prospect Tommy McMillen won't quit partying after being hospitalized"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWR1M0wxZERNTkx6R3NVQ01ITVpKWDM4MlIwc0s1U2hNbjNzU01ad2pPT3R4Y2lpR1B3ZFVCWEVvc1hxRGc5OGMxOU5wN3pqaENVMU9MYmVETVpOaDdZWXM5UUlaTkQxZE5aRmNwUFpKMFBteG1yRjVUbTVEcjNOWm1haXd3cm52NE8yMVA4MHNYeXRiT3pISQ?oc=5",
-          "title": "UFC star Tommy McMillen recounts hospitalization after suspected drug overdose: 'It's a wake up call'"
-        }
-      ]
-    },
-    {
-      "key": "9ff7cc1530",
-      "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star",
-      "summary": "Conor McGregor gives Josh Hokit highest of praise as UFC star MMA Junkie",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.71,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T18:00:00+00:00",
-      "refs": [
         {
           "source": "MMA Junkie",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNsekoyNEpSc0FpMW12R1ctMWhhQXJPVklpZHhiZnQxUFd0eW5TY1dhZjc5eVA4eEE0VmJJRUo1MGRHOUNwTzlsbXctWnpjOGdDSVEwVkJ0ellQNXBiaWwxVHRuczJMbVNOUHlUTndjMjhFMEQwVFR3YzlXQ0pOajhTX3doc0g4TEV3d2NzVXFwNG1ZLUczMzhHd2JLYmVxa0l3S3ZDZmRvX3FLaVFjWVB0cHg?oc=5",
           "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star"
+        }
+      ]
+    },
+    "2ad1272886": {
+      "key": "2ad1272886",
+      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
+      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.39,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T06:56:20+00:00",
+      "refs": [
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXZDSHdsdkhXOXp6N3B2dmtOOGVwbXIzbHh6ZzZlX2pBYnNaVGszdVZjclNYWUE0QzhfeTI0WGM0T18xMXBJemxQb24zUzBLZFZqYzROTXl4NHR5MGpiQnRRNmJ2Mko0eXZRTFJuenZESFJqbjVLV2s1alV6N0RyYUZXazZmSE0?oc=5",
-          "title": "Conor McGregor Names Josh Hokit UFC’s Second-Biggest Draw After Star-Making War With Ciryl Gane"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
         },
         {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
+          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
+        }
+      ]
+    },
+    "66bb95ebe4": {
+      "key": "66bb95ebe4",
+      "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО",
+      "summary": "Олимпийская чемпионка Токио-2020 в марафоне Перес Джепчирчир дисквалифицирована на три года за эритропоэтин. Об этом сообщает пресс-служба независимого органа по борьбе с допингом и нарушениями этики в легкой атлетике (AIU). Следы ЭПО были обнаружены во внесоревновательных пробах Джепчирчир от 17 июля. Ее дисквалификация вступила в силу 20 октября 2026 года и завершится 19 октября 2029-го. Результ",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.58,
+      "published": "2026-11-19T08:50:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/athletics/1117441436-olimpijskaya-chempionka-v-marafone-dzhepchirchir-diskvalificzirovana-z.html",
+          "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО"
+        },
+        {
+          "source": "Lenta News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHRZeW5rN19fVk10QW9wLWNad1JtaU9WeHR4TFJ0UHcxRU1CMk1UYk9HbGtpZGpNQkVxLTVLWHRYTTNMQWRWOEVId0VZcHhZeUljNVBxTWVVRFppcVJWNXpJV0htbWxwbEpQd3pTUjV6dUdjZHBoVW5ieF9MZVhMZzdLcE9rWHo2OVdBdm80Nlh0dTExZC1VdjV3NktGb1g0dW51VlhXbGd5X1FabjlPY2JB0gG3AUFVX3lxTFBLOUg4NVc4MG9yalFrUkFHdTZBeUIyS3NGWE9NYjNvR1czUGdsWE4weU9xUXRhZkt2bV9RSnhJcjNDUVV0OUZBYUd2LU9QM0lRamZIdFhUS0xmaE9NcXp3NHBycnIzcFNVVEhNWnYtcEhobW1kLUk0TGpYdVdDMm5La3pSSDhIUFNGS3Jmb3NlelNLVFltN2ZTMUVtb1cxcVhEUzIzZmtUZWRnNGpFOFVrYm5KWWJ3Zw?oc=5",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали на три года за допинг"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261119/dzhepchirchir-2132597059.html",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали за допинг"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/athletics/news/olimpiyskuyu-chempionku-v-marafone-dzhepchirchir-diskvalificirovali-za-doping-na-tri-goda-2476503/",
+          "title": "Олимпийскую чемпионку в марафоне Джепчирчир дисквалифицировали за допинг на три года"
+        }
+      ]
+    },
+    "62a22f2930": {
+      "key": "62a22f2930",
+      "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича",
+      "summary": "ФИФА сняла с «Сочи» запрет на трансферы. Об этом сообщает ТАСС со ссылкой на пресс-службу Международной футбольной федерации. Трансферный бан действовал с 9 сентября – клубу Лиги Pari запретили регистрировать новых игроков в течение трех трансферных окон из-за задолженности перед « Маккаби » из Тель-Авива за трансфер защитника Немани Стоича . 15 сентября гендиректор « Сочи » Сергей Новиков сообщил",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.29,
+      "published": "2026-11-19T08:53:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117441428-fifa-snyala-s-sochi-zapret-na-transfery-nalozhennyj-v-sentyabre-iz-za-.html",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/rus_d1/news/fifa-snyala-s-sochi-zapret-na-transfery-2476496/",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XbDRpcmRTSm5HTVd4S0x2elhIcXJwcEkwYU1uSTFzUnZMQ3c3OXU1cTZtbjFXeWZwMXFTSTdJWlloWk5pVUpQcml1bElqVEdJYVVUWWVkaDg1RjF2c1pMclM1OUZaY1c2?oc=5",
+          "title": "ФИФА разрешила «Сочи» регистрировать новых футболистов: подробности"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261119/sochi-2132581160.html",
+          "title": "ФИФА сняла с \"Сочи\" запрет на регистрацию новых футболистов"
+        }
+      ]
+    },
+    "8384cf21bd": {
+      "key": "8384cf21bd",
+      "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals",
+      "summary": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals Olympics",
+      "lang": "en",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.79,
+      "published": "2026-11-19T05:26:00+00:00",
+      "refs": [
+        {
+          "source": "Olympics",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGlIa0NvX1l2SnMxTEZQallkNDBEV1ZMcFAwT3djT3VsTV9pMV92WDg3dWxnZ3p2QlgtelpLZ1l5QUEycW1DeUZIb0ZINW9SS1VUNFpnaFdOdWNud2N2bTk0cU5ZdjdGaWUxOGN5UHRFUlpfdnhPY2MzMjUwaXhHbkUyQzIwblNJaC1odjAtSF9Ddw?oc=5",
+          "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals"
+        },
+        {
+          "source": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXVlMHFRY2dDYklob3J0Y29fOExHZzdhMFZSNWVQbEtpUjBkbmRUTkxDRl9NYVk1SWtwYmh6WDFDQ3R4d21HdkJTZHNGNUFKV0FWTnBWUHpyU0ctWGl2M01ULWRHRFZudEdBWlJZbGl1OGVhOHJZRTFGUUFTMVNwZ2p6NDJmVmtBOGdta2xOOWZMSWlDa1lXXzdoRThueVRRWmVnVFJuMmdkczJsaEE?oc=5",
+          "title": "India defeat Malaysia to enter quarterfinals of Hong Kong Open badminton tournament"
+        },
+        {
+          "source": "The Star",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlRndWl0QjRMMkZ4OExDQ2hFcU11QlJERENwTjV4VWRtcG1EcU51d29jTUJERzdBWkdDeEtGSTNPRjNwRGtPUzQ3akxfYllfU09zRllKTUJLNjJqUExMM2lydXZBaWpMUG9XWjhUTUZkWlBWWW1NX2hKWkpnSWp5WGJQNkRCbVZIRU1ydS1ER1BRS1RXSXBER0dmNzE1SGY4VVdwU3M4R1g2bU9L?oc=5",
+          "title": "Badminton: Aaron-Roy King off to a strong start at Hong Kong Open"
+        },
+        {
+          "source": "Free Malaysia Today",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObl9MbjdhaFpwZzdZQ0RfTlZaekNvbkJHQlBJNGNOcDJUaVlQX3hzOWNVSmZudjQtTU9CZkhEelBkRGJjZHZsWWtXTXpxcXd0XzhxTTUxSGRwM1VpOE5VUGZfMTIwS0plNldRRVNXb2Q0cGpCa3h3WHJmeTZKcnN2MFplSk5vbE40aV8tVGU0RklhMVNxWGIyNjhiUnpIcUtYTndQTEozYk0wTF9KOVJPODJNaTJXUVVhOUtiUnV3?oc=5",
+          "title": "Jun Hao ends year with 10th 1st-round exit at Hong Kong Open"
+        }
+      ]
+    },
+    "7998799fb8": {
+      "key": "7998799fb8",
+      "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion",
+      "summary": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.24,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T05:29:32+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHVTV2RIbkZCY04wTGZrdzdoRE5fX0JwSF9ldFpnUjJIUmN0eHJibXJrcGNtaFJYNXpkWjgtRmNVWV9GMzAtLUI3c0FJODZzNFRJRENVLUItekNpSDBiMGlnRGJmVEp1UUJNZVhVYklrc05uMkEtVTk3ZDVxdXQ5QTN0c1ZXZDVzSEwwcExIX2o5RjJpLXc2Zl84dzBPRHR3elU0NFJnT2ZBWDlfMW5Gd2hDSkxxY08tanFycmRJX3k5X2M?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmRrUHZoV0dhbUI4azZoQ2wtZjlSY0lXcWU0NkhnMTRjOVRkR0NBSC1EX24taUxmVGFlejdCQ2o3R3lIVWZHMkFVcV91X05vNFFKUVpyQTFaQmgyakJRbktqMXd0X0tYUFc3ejJBVTRQLTVEQWIzdlJpeXY4NmhCNmsydlQ1WnNyRzRiQUdtQWYwQ1VhMi1OZzF1c2o0TmtTdnZkeHRUQm9nUXNCdG9PMw?oc=5",
-          "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjBfM0dPY3Rjb3FuYWRRZXRQeEhadVh1STV1NGY3SUI5YjVzaW1fVzBXZnpTckdxZ1Q0ZEo5TmNGbmF6X0lOeVdHZTFyRE9IcldxNlFjbXREajg0RWpnWEJWd3B3QlB2aGg4OEpsZXF6SS1IN0NlTnZVVnhTSWFtTzhONDJheFM3U1RTbHd4RFdMYTJDQzEzUDFMOWp6NklBZDA2VHBlR3VJUlRzY1VOQU1IXzdyRUFpOXYtanUzTFdLczRv?oc=5",
+          "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity"
+        },
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMENnQ2hrVlA2TktFTml4M2hhR2NEcXYyVng2RS1CcVNuTnB2WW1ROXE2VzVWMUVhWE54ZUttbkJFYlBzb19pcDhISGNGNlNVUEQ0MDlzMVZNWnRXMTlTWGhEUGgtYjJZSDNncTBUWVE3R3dwN0laTmNBY1NNU3VlUk5qbHFlMktXWFY5TlNaQjd3MzJrOXF1ZkxR?oc=5",
+          "title": "ONE Championship Strips Christian Lee of Welterweight Title"
+        },
+        {
+          "source": "ONE Championship",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2RxVm5VUTMzSkRHNXNZV3dJVkE5YWRvSm5aTW1kcDdNMFc5VUttdG1uVi1DRzZUT0V0TkVsS0h0Q0xFTmVwTG9tSDJxR285UHY5dF9SdmtGeEpUYXFVVGRMTTI0YU5uSFdXRkltcVEwcXlGNjJ4SjBLM1M0Yk5iOU1SOVJWQjl3ZEoxRlBhNDVnUE5QOXNPaG80QmtBUjdfSTBVTHV3?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant"
+        }
+      ]
+    },
+    "44ce6558a0": {
+      "key": "44ce6558a0",
+      "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября",
+      "summary": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября Казинформ",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T09:05:00+00:00",
+      "refs": [
+        {
+          "source": "Казинформ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG8xM3pVZFdPWXNYYl9pQWJJVEhTNlI3TUk0bzBmNHFDZmpiTXVvT3d2bi00eklqUi1panFVU3lOU3dUWnlxZVd2UG92V2x1M0tpZ1RMZ3hMQ0sxOGRPZVdJdUF3N3I1S21NOGhyanBFR0tFQnMyY2RPRjgwa19YQ2xDdWxnQml1RjYyQURqUldoRnFkcDN0V05aQVU3RGlFRFpnZ1NvNzN4TmlHVFZUNnBn0gGzAUFVX3lxTFB2enNxNnlBcDNkR2UtWGZjcG1YdlM0TzZWTFJYR0c5bjFQdzdqM0ZQeUhHa2FGd2QzcFVlZHM1U1pfcXl5N29vVXZWQUJ6NFUxV2dkSVBBcFAzS2ZVRWFpbUI3YjRKTm4yTFAzcWxoSkVDZHBkUGhrVjQ2aUI5b1lJekRGbWozRWNhWHNGMnZHeHFzQnBUd2JobTZSRDZzMjZmLUhpbUdEOTNaQTVwdHNTT0Z3?oc=5",
+          "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября"
+        },
+        {
+          "source": "TengriSport",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYngwcm5qdi16VTZlQVJOd2JSSS1Hc0RNMm9HRlVpclRFQUREbkxQcjBWOEFKN3VhcGtaanhTZjRoRDl5QklONHl4WnVTU3U0eGFEX2ZmRXJsS0d0WnN4Y1V6Z3kzMndNZExTX1NOLXphdTVhQktXa29yNV9GQTJheENxQzRYWUx6Skk4MnlYMjIzYl9Jc1hFLVZoZkHSAaIBQVVfeXFMT2JLM2NkNFA2UGJyeUtLd2s2N2ljYTR6STJFcThYNVVJVmIyRmc2UjR5QklBTkJxTWR0a09XaHFmNHpiRnM4RFllbFZwQ0hTa2xGREV1NF9zcUtJYmxLazZOWmxYX084em1XX1V0LVBVeWthQjR5a3JsSm1rY3BQQS1EdnV2NzdRNUhmeHZyMzdYNjVpR0VCbl9yYXBGNnd6Qk13?oc=5",
+          "title": "Турнир UFC в Казахстане: когда объявят итоги переговоров"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0xQZDFSLWprd1lqVHhqZG9SOXRZeWxRWXE0TEVGX0VpblpLUVZsSDJPcGM3VERKS3JfRUtERkpPYUxTLUthWW05dmpYWDlUWXhzcGFaQ3hWak1QN2s5Nm9oYXR2S1BaNlg1M2NXLVphdjVqcHhBM002czRBZnpFQVdtY0Ruckt6UElYRnJlZU1EUFhxb0Z3NEVpUlAwdXc?oc=5",
+          "title": "Турнир UFC в Казахстане – итоги переговоров объявят в конце ноября"
+        }
+      ]
+    },
+    "8900137457": {
+      "key": "8900137457",
+      "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор",
+      "summary": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин Фактор - новости Карелии",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.13,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T07:21:44+00:00",
+      "refs": [
+        {
+          "source": "новости Карелии",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUU9QRi1zSUtPbi1sdURwOUVxREpXWENhNHh3dThKajR5WWo5cGdjZkVDLWR4aUFCYXFmeEJYZmljT2ZveHc2TTF3SGVmWlREQVlpeVVtaUhfa2JaT0toclBpMDZVWHNkOWZLMUwyalJ0R2pBaV9BSUg2ck9UVlBWYUtVYkhpUU1taFVNRmU2NWhoNE44QTEyRg?oc=5",
+          "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор"
+        },
+        {
+          "source": "Интернет-журнал",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN25KMWVkbzdmNktkcUVRZTVoR2xwTzl1bGdNSWFOSGNSQW0zREhBWm5JOGlBdTVjNVZxYVJVS2c2MHpqYjB2WmJrU0htVVU1bno2VU00c3dkbzktWHdRZVpwMTVtcjhwLTlYVGo4MUFVajhpX0dqaUtpZ1p4SFlnLXdHRU5LdkcxRzhyUlVwT1U5dVhlaEt5ME1tandKQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        },
+        {
+          "source": "СТОЛИЦА на Онего",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU41X0dnYUFRdHk3MEw2RkNSNVdWSWNPOGc5ZjNST3dGU1RxNFpVYXhNemtKcEhlbE55WGZndjdRMFdxamJxZE5QeWVldGcwQ1hzSlpTLXltSDdxbm01UVZRQ1FndzgxbjlBOTVlbFhZcjRjZmJIZVVjOWNaQWNMX3hJUEFTRHhyUjJGRHhELXRfM0Jkem1HRnJnR2FGQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        }
+      ]
+    },
+    "d91bcc3082": {
+      "key": "d91bcc3082",
+      "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16",
+      "summary": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16 MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.72,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T06:19:27+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1ZXV204ekRaWXVINklaZGc3XzJUNjg3UkkyX0g5aXVERzRtckJ6NHl1M25xOEgtMk1XMGtKNkFndEw5YkpFTzdxZHhnWUdFcGlPQ0dWRTVQSHZXcXVQUVdVZkNKajNvc2JxZ0hrd0plM2xHTHZMbzdtdF8wUDhlb3pBb0FJb3dGajN6TF83UlRhRXhCR1J0eERwTl9JQlhxMXpERw?oc=5",
+          "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVRRTHdLMnZtQWxKc2YxcV9fR2tsX0pnX1hXRzBNTEI3aElKYmdzVzM4Ti13di04Xzg4cnRQVWpWa3BmeUllQTg1azg5YWdjeUhXaDBLZkNKZEM0XzI2WlBxbEJneHVJZURTQ194TE95ckZhSFZCXzJpb2c2ck5iX0ljazRzdHU2VGRXa1Z5V1poMVhrOEdNTG0zS2Q5aS1tSTN2WHh0TXZoaHVo0gGyAUFVX3lxTE5sdnY5UVVLdW8tT2pEVjZBTTRTVDN4VXZzeGZGaG1Ud0JsX2lhUkZRcDFPMkJNRU44LV9CS3VjVDZtV3BWaF9rWXJNWHhoUk5OdnNpUzgxZVhNeTB4eU1UTVlfNzYycndqdXpTTTA1WXNxTlZ5WnF1Q0p5U3dhWVJEbTVZTzFxa0ozRUdIUVczaEJZX2k1TFFTUHlkdkhrdEd2dnFTME9raW5qZkhCOFFsY1E?oc=5",
+          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
+          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19"
+        }
+      ]
+    }
+  },
+  "sent": [
+    {
+      "key": "4615daaf62",
+      "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334",
+      "summary": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334 New York Amsterdam News",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.74,
+      "published": "2026-11-19T05:00:00+00:00",
+      "refs": [
+        {
+          "source": "New York Amsterdam News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjNqTlM2TFNqeWNJM3VGMlpLeENyUEpTTEVxby1wWVhJbzEyUk5aZzBpRnY4VGlxVDEtREF0Yno5MkZIYU93emJmVjg5MVJERVRQWG92YUtHWVhqTW40TnByeGs5ckpiM2dLWDkwdXpvbnNrZURvNk9lb0NwQWdiclZNclVTdklLQ1dn?oc=5",
+          "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb21zR0RWTzlzNzI5dC1CaWNZWDdFYURLMU9aYWpWeVV3U2NyVkVINkE1dHRFMTVGd3piSkx1aWNRT3JNNkZ3X2RwOUw2RVJzQy0ySmpEdWp0UVNQSmN5TUJ2R2pDZURPUExNanF5UWZYZzZyRk5KdnIwOTNMYlk2cnF5OF9FNkVEY3o1MW1TMkNQN2xvZ0xZNGJZSVZtYkpXZ09GZk1KVjk4WTNFMUpZc2pIS01OOHVKSjVMVU1sdl9Qc0U?oc=5",
+          "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWI0SWhNWHBMU3BWdFAwX2toaHpldjN5N1BnVWZ6ZHRsUUp1ZmhOZFhPRVduSmdmWmJPdFJiM3k4TlhVdDRwd2p2eTZibDR2Y2xiUkhER3FOak0yQkpXTVVka2NfbXVoNWpaUUF6czNYR0Q4N1IwYmlwTXAtN3U1Z1VUWWV2OVR3OUd5Qw?oc=5",
+          "title": "Curtis Blaydes Thinks the Judges Robbed Josh Hokit at UFC 334"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTdmVjVEQmt1dXgtZzFiNWtCZnFtNzM2SDJSVjZGRmF5ZUc1TzhBMDFaTHg1MWNzbTRVZTJReEZ1ZEpFaTFUck9wR2dGcHRGLUFlQmNFM3J6TGRmZk5GSEpfdFRQNlVqU2VjemFVLXhkRjhvazI5UXdrLU1qamlSb1BHSXZ2dXdFdVlMcjY1Q3VicTQ5YUxhVDhXTGdhX3JJOUN6TTFsZWpZc1ZmNVRCVXVocWRKOURUNGNDLXhKSzdjcVQyUkdLOEEzTnE5NjBjeEZhLUF3?oc=5",
+          "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEh1X0I0bHNhdk44cV81VnNna2IzbC1zNGFVOVBfME1vQXVLUjd3aEJsREtIU3JWRFVodHBfaG4yX09Wa2pmV2c2aHpmb256cy1fZDBhTkFaRjRGc2JFcXNFcG52UGNJX3N2bFNCaGkyRk5uVkxXRE1SSU5zU1h1amNSajBhNUd4bVB4UzJWc09IUElIcS1JVlFvVnI2Y3VoOHJZOWI4SdIBrAFBVV95cUxQVzRKMGl2SjFTSHV0WlRpcHl1bzIyXzYtbU5GcUw2ZlNsd09oS0huWG1IS1h0VEdsXzJPVXVYM0VTZ1RGNkJCQ0xtZnZETElwamlHRWFqMUFxeF9fVW5sYmUtNVg4d2Y5UWtfS1pkdWxyVWhnR0xLUHV6ekhSYmZ1Qzhfc3NKNnRNajNDeXlXOGFtelpsMGxXMmV3OEFkaGREaHhQSk43ZFp3aXJ5?oc=5",
+          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQl96eGhlcG5CMm9TWUR5SERJaHNZMkI4RWN0Z1R1eEpBQXRWbVFVV2pHV2F3OWFUSGk1T1I1STRBajk3cXJCcnFiNWZPWF93V1hqS2Zfdmx2Q2tWNi1YRk8yeUVvVDk1T3NOd0VxektSWTJZbjljRGROQW13QV9TNDMzejNRNzlLbjhEOWVIT2tPamRINVBwYXc2U1lTS21DZnl1eg?oc=5",
+          "title": "Josh Hokit Defends Controversial Moment From UFC 334 Fight With Ciryl Gane"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNsekoyNEpSc0FpMW12R1ctMWhhQXJPVklpZHhiZnQxUFd0eW5TY1dhZjc5eVA4eEE0VmJJRUo1MGRHOUNwTzlsbXctWnpjOGdDSVEwVkJ0ellQNXBiaWwxVHRuczJMbVNOUHlUTndjMjhFMEQwVFR3YzlXQ0pOajhTX3doc0g4TEV3d2NzVXFwNG1ZLUczMzhHd2JLYmVxa0l3S3ZDZmRvX3FLaVFjWVB0cHg?oc=5",
+          "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star"
+        }
+      ]
+    },
+    {
+      "key": "2ad1272886",
+      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
+      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.39,
+      "published": "2026-11-19T06:56:20+00:00",
+      "refs": [
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
+        },
+        {
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
+          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnNKZ0lOaGluV1Z5eGphaWo3TXh0MlMycFU1LWJfVGFsS2hKNVpfdGV6cGVkbHljUmtVaS1pSy12V0w5NHNoZkJtNGsySGwzd0ZmUlctYXdJRDhoTTZXSjBfSHl4bkNxMUVkMU1qRldJR2JWTWN3aUoyZ3pXQjNOSUI4dEtHb21yT0xYRXRsUzZuSVRsUFlmQVNVaGRpQVMwR3dCaWJnRGhJTDBGSUhJc192SmdRbkJwQVpLZ1Zob2U0Y2prMGdwcg?oc=5",
+          "title": "Источник: Усман Нурмагомедов с командой вернулся в Россию после ареста в ОАЭ"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEcxZmRfUVNZVUdNNl9uQnp5U1dsM2RTcmp5TXJod2V4OGxYUjZMdGlvMzhpNmpCTFVVM0ZzVFBvbzZFOU5nbTEzRzU0WDFsZWhTQVJNT1BEcUZmNjQzQy1ZZU5RUlVpVnFPUDI4NWRfRGpRNzJmT2xxNEdLUDJWdnFWTXlfUndMdVJ6Yk13c1MtaUctWTdFUG94OU9Xck9QV0U5OVR5QVI?oc=5",
+          "title": "Масвидаль заявил, что не хочет видеть Усмана Нурмагомедова в UFC"
+        }
+      ]
+    },
+    {
+      "key": "66bb95ebe4",
+      "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО",
+      "summary": "Олимпийская чемпионка Токио-2020 в марафоне Перес Джепчирчир дисквалифицирована на три года за эритропоэтин. Об этом сообщает пресс-служба независимого органа по борьбе с допингом и нарушениями этики в легкой атлетике (AIU). Следы ЭПО были обнаружены во внесоревновательных пробах Джепчирчир от 17 июля. Ее дисквалификация вступила в силу 20 октября 2026 года и завершится 19 октября 2029-го. Результ",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.58,
+      "published": "2026-11-19T08:50:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/athletics/1117441436-olimpijskaya-chempionka-v-marafone-dzhepchirchir-diskvalificzirovana-z.html",
+          "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО"
+        },
+        {
+          "source": "Lenta News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHRZeW5rN19fVk10QW9wLWNad1JtaU9WeHR4TFJ0UHcxRU1CMk1UYk9HbGtpZGpNQkVxLTVLWHRYTTNMQWRWOEVId0VZcHhZeUljNVBxTWVVRFppcVJWNXpJV0htbWxwbEpQd3pTUjV6dUdjZHBoVW5ieF9MZVhMZzdLcE9rWHo2OVdBdm80Nlh0dTExZC1VdjV3NktGb1g0dW51VlhXbGd5X1FabjlPY2JB0gG3AUFVX3lxTFBLOUg4NVc4MG9yalFrUkFHdTZBeUIyS3NGWE9NYjNvR1czUGdsWE4weU9xUXRhZkt2bV9RSnhJcjNDUVV0OUZBYUd2LU9QM0lRamZIdFhUS0xmaE9NcXp3NHBycnIzcFNVVEhNWnYtcEhobW1kLUk0TGpYdVdDMm5La3pSSDhIUFNGS3Jmb3NlelNLVFltN2ZTMUVtb1cxcVhEUzIzZmtUZWRnNGpFOFVrYm5KWWJ3Zw?oc=5",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали на три года за допинг"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261119/dzhepchirchir-2132597059.html",
+          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали за допинг"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/athletics/news/olimpiyskuyu-chempionku-v-marafone-dzhepchirchir-diskvalificirovali-za-doping-na-tri-goda-2476503/",
+          "title": "Олимпийскую чемпионку в марафоне Джепчирчир дисквалифицировали за допинг на три года"
+        }
+      ]
+    },
+    {
+      "key": "62a22f2930",
+      "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича",
+      "summary": "ФИФА сняла с «Сочи» запрет на трансферы. Об этом сообщает ТАСС со ссылкой на пресс-службу Международной футбольной федерации. Трансферный бан действовал с 9 сентября – клубу Лиги Pari запретили регистрировать новых игроков в течение трех трансферных окон из-за задолженности перед « Маккаби » из Тель-Авива за трансфер защитника Немани Стоича . 15 сентября гендиректор « Сочи » Сергей Новиков сообщил",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.29,
+      "published": "2026-11-19T08:53:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117441428-fifa-snyala-s-sochi-zapret-na-transfery-nalozhennyj-v-sentyabre-iz-za-.html",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/rus_d1/news/fifa-snyala-s-sochi-zapret-na-transfery-2476496/",
+          "title": "ФИФА сняла с «Сочи» запрет на трансферы"
+        },
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XbDRpcmRTSm5HTVd4S0x2elhIcXJwcEkwYU1uSTFzUnZMQ3c3OXU1cTZtbjFXeWZwMXFTSTdJWlloWk5pVUpQcml1bElqVEdJYVVUWWVkaDg1RjF2c1pMclM1OUZaY1c2?oc=5",
+          "title": "ФИФА разрешила «Сочи» регистрировать новых футболистов: подробности"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261119/sochi-2132581160.html",
+          "title": "ФИФА сняла с \"Сочи\" запрет на регистрацию новых футболистов"
+        }
+      ]
+    },
+    {
+      "key": "8384cf21bd",
+      "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals",
+      "summary": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals Olympics",
+      "lang": "en",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.79,
+      "published": "2026-11-19T05:26:00+00:00",
+      "refs": [
+        {
+          "source": "Olympics",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGlIa0NvX1l2SnMxTEZQallkNDBEV1ZMcFAwT3djT3VsTV9pMV92WDg3dWxnZ3p2QlgtelpLZ1l5QUEycW1DeUZIb0ZINW9SS1VUNFpnaFdOdWNud2N2bTk0cU5ZdjdGaWUxOGN5UHRFUlpfdnhPY2MzMjUwaXhHbkUyQzIwblNJaC1odjAtSF9Ddw?oc=5",
+          "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals"
+        },
+        {
+          "source": "News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXVlMHFRY2dDYklob3J0Y29fOExHZzdhMFZSNWVQbEtpUjBkbmRUTkxDRl9NYVk1SWtwYmh6WDFDQ3R4d21HdkJTZHNGNUFKV0FWTnBWUHpyU0ctWGl2M01ULWRHRFZudEdBWlJZbGl1OGVhOHJZRTFGUUFTMVNwZ2p6NDJmVmtBOGdta2xOOWZMSWlDa1lXXzdoRThueVRRWmVnVFJuMmdkczJsaEE?oc=5",
+          "title": "India defeat Malaysia to enter quarterfinals of Hong Kong Open badminton tournament"
+        },
+        {
+          "source": "The Star",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlRndWl0QjRMMkZ4OExDQ2hFcU11QlJERENwTjV4VWRtcG1EcU51d29jTUJERzdBWkdDeEtGSTNPRjNwRGtPUzQ3akxfYllfU09zRllKTUJLNjJqUExMM2lydXZBaWpMUG9XWjhUTUZkWlBWWW1NX2hKWkpnSWp5WGJQNkRCbVZIRU1ydS1ER1BRS1RXSXBER0dmNzE1SGY4VVdwU3M4R1g2bU9L?oc=5",
+          "title": "Badminton: Aaron-Roy King off to a strong start at Hong Kong Open"
+        },
+        {
+          "source": "Free Malaysia Today",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObl9MbjdhaFpwZzdZQ0RfTlZaekNvbkJHQlBJNGNOcDJUaVlQX3hzOWNVSmZudjQtTU9CZkhEelBkRGJjZHZsWWtXTXpxcXd0XzhxTTUxSGRwM1VpOE5VUGZfMTIwS0plNldRRVNXb2Q0cGpCa3h3WHJmeTZKcnN2MFplSk5vbE40aV8tVGU0RklhMVNxWGIyNjhiUnpIcUtYTndQTEozYk0wTF9KOVJPODJNaTJXUVVhOUtiUnV3?oc=5",
+          "title": "Jun Hao ends year with 10th 1st-round exit at Hong Kong Open"
+        }
+      ]
+    }
+  ],
+  "sent_at": "2026-11-19T09:30:46+00:00",
+  "tg_offset": 360028013,
+  "combat": [
+    {
+      "key": "7998799fb8",
+      "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion",
+      "summary": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.24,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T05:29:32+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHVTV2RIbkZCY04wTGZrdzdoRE5fX0JwSF9ldFpnUjJIUmN0eHJibXJrcGNtaFJYNXpkWjgtRmNVWV9GMzAtLUI3c0FJODZzNFRJRENVLUItekNpSDBiMGlnRGJmVEp1UUJNZVhVYklrc05uMkEtVTk3ZDVxdXQ5QTN0c1ZXZDVzSEwwcExIX2o5RjJpLXc2Zl84dzBPRHR3elU0NFJnT2ZBWDlfMW5Gd2hDSkxxY08tanFycmRJX3k5X2M?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjBfM0dPY3Rjb3FuYWRRZXRQeEhadVh1STV1NGY3SUI5YjVzaW1fVzBXZnpTckdxZ1Q0ZEo5TmNGbmF6X0lOeVdHZTFyRE9IcldxNlFjbXREajg0RWpnWEJWd3B3QlB2aGg4OEpsZXF6SS1IN0NlTnZVVnhTSWFtTzhONDJheFM3U1RTbHd4RFdMYTJDQzEzUDFMOWp6NklBZDA2VHBlR3VJUlRzY1VOQU1IXzdyRUFpOXYtanUzTFdLczRv?oc=5",
+          "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity"
+        },
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMENnQ2hrVlA2TktFTml4M2hhR2NEcXYyVng2RS1CcVNuTnB2WW1ROXE2VzVWMUVhWE54ZUttbkJFYlBzb19pcDhISGNGNlNVUEQ0MDlzMVZNWnRXMTlTWGhEUGgtYjJZSDNncTBUWVE3R3dwN0laTmNBY1NNU3VlUk5qbHFlMktXWFY5TlNaQjd3MzJrOXF1ZkxR?oc=5",
+          "title": "ONE Championship Strips Christian Lee of Welterweight Title"
+        },
+        {
+          "source": "ONE Championship",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2RxVm5VUTMzSkRHNXNZV3dJVkE5YWRvSm5aTW1kcDdNMFc5VUttdG1uVi1DRzZUT0V0TkVsS0h0Q0xFTmVwTG9tSDJxR285UHY5dF9SdmtGeEpUYXFVVGRMTTI0YU5uSFdXRkltcVEwcXlGNjJ4SjBLM1M0Yk5iOU1SOVJWQjl3ZEoxRlBhNDVnUE5QOXNPaG80QmtBUjdfSTBVTHV3?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant"
+        }
+      ]
+    },
+    {
+      "key": "2ad1272886",
+      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
+      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.39,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T06:56:20+00:00",
+      "refs": [
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
+        },
+        {
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
+          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
+        }
+      ]
+    },
+    {
+      "key": "44ce6558a0",
+      "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября",
+      "summary": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября Казинформ",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T09:05:00+00:00",
+      "refs": [
+        {
+          "source": "Казинформ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG8xM3pVZFdPWXNYYl9pQWJJVEhTNlI3TUk0bzBmNHFDZmpiTXVvT3d2bi00eklqUi1panFVU3lOU3dUWnlxZVd2UG92V2x1M0tpZ1RMZ3hMQ0sxOGRPZVdJdUF3N3I1S21NOGhyanBFR0tFQnMyY2RPRjgwa19YQ2xDdWxnQml1RjYyQURqUldoRnFkcDN0V05aQVU3RGlFRFpnZ1NvNzN4TmlHVFZUNnBn0gGzAUFVX3lxTFB2enNxNnlBcDNkR2UtWGZjcG1YdlM0TzZWTFJYR0c5bjFQdzdqM0ZQeUhHa2FGd2QzcFVlZHM1U1pfcXl5N29vVXZWQUJ6NFUxV2dkSVBBcFAzS2ZVRWFpbUI3YjRKTm4yTFAzcWxoSkVDZHBkUGhrVjQ2aUI5b1lJekRGbWozRWNhWHNGMnZHeHFzQnBUd2JobTZSRDZzMjZmLUhpbUdEOTNaQTVwdHNTT0Z3?oc=5",
+          "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября"
+        },
+        {
+          "source": "TengriSport",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYngwcm5qdi16VTZlQVJOd2JSSS1Hc0RNMm9HRlVpclRFQUREbkxQcjBWOEFKN3VhcGtaanhTZjRoRDl5QklONHl4WnVTU3U0eGFEX2ZmRXJsS0d0WnN4Y1V6Z3kzMndNZExTX1NOLXphdTVhQktXa29yNV9GQTJheENxQzRYWUx6Skk4MnlYMjIzYl9Jc1hFLVZoZkHSAaIBQVVfeXFMT2JLM2NkNFA2UGJyeUtLd2s2N2ljYTR6STJFcThYNVVJVmIyRmc2UjR5QklBTkJxTWR0a09XaHFmNHpiRnM4RFllbFZwQ0hTa2xGREV1NF9zcUtJYmxLazZOWmxYX084em1XX1V0LVBVeWthQjR5a3JsSm1rY3BQQS1EdnV2NzdRNUhmeHZyMzdYNjVpR0VCbl9yYXBGNnd6Qk13?oc=5",
+          "title": "Турнир UFC в Казахстане: когда объявят итоги переговоров"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0xQZDFSLWprd1lqVHhqZG9SOXRZeWxRWXE0TEVGX0VpblpLUVZsSDJPcGM3VERKS3JfRUtERkpPYUxTLUthWW05dmpYWDlUWXhzcGFaQ3hWak1QN2s5Nm9oYXR2S1BaNlg1M2NXLVphdjVqcHhBM002czRBZnpFQVdtY0Ruckt6UElYRnJlZU1EUFhxb0Z3NEVpUlAwdXc?oc=5",
+          "title": "Турнир UFC в Казахстане – итоги переговоров объявят в конце ноября"
+        }
+      ]
+    },
+    {
+      "key": "8900137457",
+      "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор",
+      "summary": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин Фактор - новости Карелии",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.13,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T07:21:44+00:00",
+      "refs": [
+        {
+          "source": "новости Карелии",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUU9QRi1zSUtPbi1sdURwOUVxREpXWENhNHh3dThKajR5WWo5cGdjZkVDLWR4aUFCYXFmeEJYZmljT2ZveHc2TTF3SGVmWlREQVlpeVVtaUhfa2JaT0toclBpMDZVWHNkOWZLMUwyalJ0R2pBaV9BSUg2ck9UVlBWYUtVYkhpUU1taFVNRmU2NWhoNE44QTEyRg?oc=5",
+          "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор"
+        },
+        {
+          "source": "Интернет-журнал",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN25KMWVkbzdmNktkcUVRZTVoR2xwTzl1bGdNSWFOSGNSQW0zREhBWm5JOGlBdTVjNVZxYVJVS2c2MHpqYjB2WmJrU0htVVU1bno2VU00c3dkbzktWHdRZVpwMTVtcjhwLTlYVGo4MUFVajhpX0dqaUtpZ1p4SFlnLXdHRU5LdkcxRzhyUlVwT1U5dVhlaEt5ME1tandKQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        },
+        {
+          "source": "СТОЛИЦА на Онего",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU41X0dnYUFRdHk3MEw2RkNSNVdWSWNPOGc5ZjNST3dGU1RxNFpVYXhNemtKcEhlbE55WGZndjdRMFdxamJxZE5QeWVldGcwQ1hzSlpTLXltSDdxbm01UVZRQ1FndzgxbjlBOTVlbFhZcjRjZmJIZVVjOWNaQWNMX3hJUEFTRHhyUjJGRHhELXRfM0Jkem1HRnJnR2FGQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        }
+      ]
+    },
+    {
+      "key": "d91bcc3082",
+      "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16",
+      "summary": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16 MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.72,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T06:19:27+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1ZXV204ekRaWXVINklaZGc3XzJUNjg3UkkyX0g5aXVERzRtckJ6NHl1M25xOEgtMk1XMGtKNkFndEw5YkpFTzdxZHhnWUdFcGlPQ0dWRTVQSHZXcXVQUVdVZkNKajNvc2JxZ0hrd0plM2xHTHZMbzdtdF8wUDhlb3pBb0FJb3dGajN6TF83UlRhRXhCR1J0eERwTl9JQlhxMXpERw?oc=5",
+          "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVRRTHdLMnZtQWxKc2YxcV9fR2tsX0pnX1hXRzBNTEI3aElKYmdzVzM4Ti13di04Xzg4cnRQVWpWa3BmeUllQTg1azg5YWdjeUhXaDBLZkNKZEM0XzI2WlBxbEJneHVJZURTQ194TE95ckZhSFZCXzJpb2c2ck5iX0ljazRzdHU2VGRXa1Z5V1poMVhrOEdNTG0zS2Q5aS1tSTN2WHh0TXZoaHVo0gGyAUFVX3lxTE5sdnY5UVVLdW8tT2pEVjZBTTRTVDN4VXZzeGZGaG1Ud0JsX2lhUkZRcDFPMkJNRU44LV9CS3VjVDZtV3BWaF9rWXJNWHhoUk5OdnNpUzgxZVhNeTB4eU1UTVlfNzYycndqdXpTTTA1WXNxTlZ5WnF1Q0p5U3dhWVJEbTVZTzFxa0ozRUdIUVczaEJZX2k1TFFTUHlkdkhrdEd2dnFTME9raW5qZkhCOFFsY1E?oc=5",
+          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
+          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19"
         }
       ]
     }
   ],
   "combat_sent": [
     {
-      "key": "8a668c3191",
-      "title": "拳击手李·里夫斯在KO和昏迷三个月后去世",
-      "summary": "拳击手李·里夫斯在KO和昏迷三个月后去世 VOI.ID",
-      "lang": "zh",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 0,
-      "heat": 20.3,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T00:55:00+00:00",
-      "refs": [
-        {
-          "source": "VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vVjk1RE9fQURHWEs2aXUzRFUyaEVETEYtUmVraXFtWXJnV2VtTmRTRGlKVzU2MW1pMnE1OU9PazUzMnRvOUhPV3VB0gFCQVVfeXFMTnVCeGd5Q2EzRlVQZkdQTEIzeVQ5bXNhU3drdFo4Y0theldvZVJGNXU1eThFcEE1QVhrRDc5MzV1VFh3?oc=5",
-          "title": "拳击手李·里夫斯在KO和昏迷三个月后去世"
-        },
-        {
-          "source": "中华网",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWVAtLS1oeHRVQjNJcmMyQkNNb3dPazVGaTdKeXEzUC1Cc294YTZHSjdHUHV2ak9ISkpBRjRSSmR5VmdaTGY0Y0NTNG1KNFd2elQ1cndTNUR0X1BiWGFuNi1lYXpwcGYtWWY4bFB4ZDU?oc=5",
-          "title": "31岁运动员比赛中遭严重脑损伤，病情恶化后离世！拳击手李・里夫斯不幸去世"
-        },
-        {
-          "source": "스타뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1dktNeHNYdDE1U19YZFBWVUhUbjdVVDBhTER3Ti1XQVNJYVZGOUZMeE1yZl9rVFhJOVNHOHd5aXBuVVZtUWc2N3lRWS1wMmIzbHcxMlJkUXRRRnhXX3R3RTBEVGtKemp1TVVkYUcybzJlNjJpXzZjcmp3?oc=5",
-          "title": "“悲剧”：出演热门综艺的31岁拳击手，在与昏迷状态搏斗三个月后离世 “恢复情况本被看好……”"
-        },
-        {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0p5ZUxSaDVSd2RZX1U3bHBNWEtsZnYtb29KekwwZE5HS2ZzSXNRdU4tUlMtdnlaaGFRSTRSang1aFItTnZlaGl0cTAxSGxnZlRrUjk3MUQ4V3ZzLVlVZlhMUDZrM0FxMDhDcFltQ1A3MnZub0lnVjZwWkRtZ0ZMcjJPMXFNNmpweWttcDhZWW9sRkRNamJFYmhRQzZwblRIRUVveGl5YXRfYkdfbGV0aU04Q0Q2aUY0RW5acTRfdk41UEhnQlppSV9mTW1VM1k3MmNIc2ZoYUQwSDJfZ3U0?oc=5",
-          "title": "31岁爱尔兰拳手里夫斯去世，今年8月在一场拳击比赛中遭遇严重脑部损伤送医，接受三个多月治疗后仍不幸离世"
-        },
-        {
-          "source": "拳击航母",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWVE5RLXE4b1kxbFpBRGZOeV9GYlVOR0ZhNVhlRWozLVdhQk5qaHhISnB2TU9KSXEyNlZteUJPM1M0MUFNdDZTVU8tY1dScE1J?oc=5",
-          "title": "爱尔兰拳手里夫斯被KO后去世，年仅31岁"
-        },
-        {
-          "source": "Informat.ro",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUkdHSWZTSFREVzVCY0ZLSzVWYkMwOFZfRmo1X3pVTFpLMjhmUU8zSXFWY29ub1NZXzl0WFlWMFJGSUZwNnItaVBrTjhqVGJpb3h5LXpmT2gtaC1CNFVKZVlrZU9XbXUyRVhfTXpiOWxINDR0R3VwX2VBMGs1dWFpczlxUzI5eHpqVWN3QzQ0alpXdGlO?oc=5",
-          "title": "李·里夫斯去世，享年31岁；三个月前，他在一场拳击比赛中遭受重伤"
-        },
-        {
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTWo4NnVvLXBuVVhNdEs3UXZNajFadDFscHZoa1VnOVVONjJhX0ZGN1lxTW5oZ3g4eFBDTmRHZlBvZzA1a0NteGlMUm5xd1ZCc2x3OUttaUZFTExHTVJMRk1JZGRMX05oUDdmQg?oc=5",
-          "title": "爱尔兰拳击手里夫斯 比赛重伤三个月后去世"
-        },
-        {
-          "source": "arch-web.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSVAydDg0V2RiSWt5cWtfNkJMcWNkQks2MnN4Z3hjWDBRQnpubDZjcXdES1dfQmV6UkFwd1c0WFliLWFpTFFiell3T0xrYUZ6dzVTYkNJdFhOZXYxak16U3pfSTdDeTBUdlFQV09WbjZDSGRMMEVfOWxPVzJabENIY1FCMUswaGduZnZlSXJvMUx6Y2ZsZHh0OUtQcmFtUDBQNVNQUUt0ejVZN0lXb0hZLUZPMTZZSXhQaWRUTzJBaWNWSzFpM3JlaUV2RzRYeEY1ZzZwekFWa083S1AzeXctd3ZVa1NkQ1E3N1doZUkzaDJEU29DNHk1NExWN29WY2RZZkpmSnBaelg0bWJITGZ2dFkwd0hxZGFfUlpFYzMyZDc2WHhiRUlnQkdmUlN2TkRjVVBDMUFadHFZbVJua1lib25YZHVGcHo5NGtkbjBqVG9CMkZxTkVFZ3BtU1kzeU5iZ3FDYV9KakRDRlItSEl3R3RMc2E0WU1lUlU3ZlVwRlE1VUFsTnpV?oc=5",
-          "title": "李·里夫斯去世，享年 31 岁：悲惨的拳击手在惨遭淘汰赛后昏迷三个月后失去了生命"
-        }
-      ]
-    },
-    {
-      "key": "226ccf80ca",
-      "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him",
-      "summary": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him Sherdog",
+      "key": "7998799fb8",
+      "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion",
+      "summary": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion MMA Sucka",
       "lang": "en",
       "sport": "combat",
-      "outlets": 6,
+      "outlets": 4,
       "growth": 0,
-      "heat": 15.2,
+      "heat": 11.24,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-18T03:49:59+00:00",
-      "refs": [
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
-          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
-        },
-        {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGU4YWVDcDJPLUswYTFGQTRULTg1ZTFuTHp1WWppSnJYNzJKeGh4R05saWtkOTI1eGRLdHM0ZTJtMVNNdHk2U3laRGZZNVctYUVoU2U1bmw0WWwwZ1ZLbkQzbmtXanJFdFhHaUVTNHEyeTVzeGN2LU9uM0E0Y09JVmFzUlZBUDBrS0tJUGFmdw?oc=5",
-          "title": "Conor McGregor says Josh Hokit is “biggest draw in the UFC today”"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWlTQ3gxNXNBTGliNU1Lc3ZZOFU5X0hwNlBXRnF2NlhyaEdWcnRzVTVGRVJ0NzloU2FBNmRlN1d5VWh0c2llZDBMZy1MX2lhVUgyMGdTZ2xwOFJmdzFiZUVCVDBHVFlfYURmdnVmekx5bmlMem5ia09LTzFlY2M3UTF4aTYzMEN0LTZ2NmlZV0dVVFh4VXVVbmhST25jQXprWkFlYWxTTENRdUJWSkF1RjJlTzk1UQ?oc=5",
-          "title": "UFC's Bruce Buffer fuels speculation about another Conor McGregor comeback: 'Fighter mentality'"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmRrUHZoV0dhbUI4azZoQ2wtZjlSY0lXcWU0NkhnMTRjOVRkR0NBSC1EX24taUxmVGFlejdCQ2o3R3lIVWZHMkFVcV91X05vNFFKUVpyQTFaQmgyakJRbktqMXd0X0tYUFc3ejJBVTRQLTVEQWIzdlJpeXY4NmhCNmsydlQ1WnNyRzRiQUdtQWYwQ1VhMi1OZzF1c2o0TmtTdnZkeHRUQm9nUXNCdG9PMw?oc=5",
-          "title": "Conor McGregor calls rising star ‘biggest draw in the UFC’—besides himself"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmhVd2pxM1hOTXJBa0dXa0NLVEN5OHFwRkQ5ZElxWURYNlpLSXY3aFpvZlB3Y21HZ0NhR3RBQVV1MmxFNGRvWGp1bWFXNkFTREd1YVlMR2o2aEJzYjdKMVZ5SFlwcV9aYnE0Yi03YUh6elc0eTJsdHhmd0Z5OEJQWVliWnVCWHNUVHFfZHlNVVlGYTYzZkE?oc=5",
-          "title": "Conor McGregor’s Manager On His Potential New UFC Contract"
-        }
-      ]
-    },
-    {
-      "key": "83cc71e059",
-      "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
-      "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.73,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-17T22:43:15+00:00",
-      "refs": [
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
-          "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2N5VHRHT18yaXQ1QV9FSGRIMVhVY3dVZzBDT3JWVHVCVFd2VjJuQW9vcWVqaXQybGNkUXpJRGFxRXhYLWRwdklLWXJTZEpTakZZbUF6aVNnZXhJUmlmaEw3bGxWWXpCakpVd3QwQzQwNDhFMnBFazRWQzhoWFQ5SVR3NzIyWHFjZjVUdVZ3YVo1NTBEMFFCemRnWUN0LVAyekRSMzFLZi1uVDTSAbABQVVfeXFMUEthSS1mMmoxb1ZhTFJwNGlpc1hTOFpFYzA5anhmcVVZcFVfM3AybFFPcjRRRWU4WDlVMGU3Q3FLNnNpMUE3Q3pyS25OQTRFMVMtSlh1VzRyMjRiQWFMZjdJV3ZvcEJXSHlxbFhWa2tMa0lJOExNeUJ1cU5PME1vWXozNjFFb1ZoRU9qb0ttMlBRTlBlbFEwc3V1Tmd3aldJaFpoblM4YV9GN3RjbnBFWlY?oc=5",
-          "title": "Former three-division boxing champion Jorge Linares detained by ICE"
-        },
-        {
-          "source": "Metro.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2ZoRjhJcVpzRjBFckt1UHYwSmRidnJ2WHhNMnltZUEyYVZqXzladEl3TVRvZzJ4dWQ5S3F4WkVpbXhLZnR2amtDMEpiZ1l0Vkl0ampfSHFNdnNGMGNfQVdLRlh6WEtQZW9xdjZPMjZhbWNERURjb0tqTEVzVkJReV8zWWtNRmhIUGJydmVXSDNtdGtLRklBN0E3ZDU2djNVbTBZb2ZWVlI2Z9IBrwFBVV95cUxPbVRiaUJDQ2JpNjctZm4zcVhlMzhKMVl1MmNJU3ppZE54OUhual9GYWVwbXE0d3RZVTFjRm01TDZDbUtTc0EtQXhjY0lTcm1wcmt3NHBsa1E0RHdXdDRvY08yZTVHUVVKdzF6d1NFZk9aN2NvV0pCNWRnTVBGRHJDUlNac244ZFRIUVM5dThTLXl4TUhTMEI2ZlRtWVMtQjFXd1gtMTJnaDBSbXphYkQw?oc=5",
-          "title": "'This is crazy' - former world champion boxer Jorge Linares arrested by ICE"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNURRbzkzVnhpOG1ELW5QR3hfbWJTekxrRlZsTDZVYUxXTVdWbGJZZGdOaXI1TDRVSWFlUHlJWTdEemZ5dEcwdWVSQ3dYZ3VUYjhfR21YZGtLWlpNeXA4Q3lqcTJJLS03QVBMOG9hSWwwc09GRDg1SURWTEhhVHRsejVyaXUzdnNWTERBdDFB?oc=5",
-          "title": "Former world champion boxer Jorge Linares detained by ICE"
-        },
-        {
-          "source": "The Sun",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjFXMDU1a0dERy12bEVPYV9rOU93RWE3eF83UWpieEFwTlIzR3ZvYldlQ1VCQmVWQUZVNkRiLXFMalRKMExsZTh0OTI4TkgydE81cmJDQTY1QmpxYjJwZzlPVDJtSU94SWdwZVotQ2kzVkpnQldzYlc1QWhQZVV2Yy03OVU4Szg0WWc?oc=5",
-          "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas"
-        }
-      ]
-    },
-    {
-      "key": "506937d17e",
-      "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces",
-      "summary": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces MMA Sucka",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.74,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T05:14:25+00:00",
+      "published": "2026-11-19T05:29:32+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRENBNW1CRWpETTFtNG1sMGVDS211OGFPUUc1Mjc1VGNHdlQ0aktGYjllYjdKbTR1Yl9WclF1THRnR1JoVER4MjNLX0lvbGFzYWFWemhENlJfYlZVSG43SVlOeFJDdm5TX2VPZEVWQlNGT3BHLW5oc0c5WHhXN1FWZ09HaHhrYmhPTEstRnJLSUlLOUkzY0c0?oc=5",
-          "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVdOc3pXQUUtZk8tSGFOVV9xVG44Q1BhdWIzOHNLcFR2ekJQZDQteEZxTFlJa1BQWXhZYXl2QmZmWjRZNm1wQVVXMXB4ZDZzSGZGYkFERUozWGI4emJPd1NISEk4UVdrSHE0LVRyNlRsb21TSjh4R1lSNXgySXM1QU9EZ2w3SVhTdmM5YlozRmp2RmxBRjFIZ2ZEYXg2SnFiOEQwMUowOUUzdEtrUGpnMndzTk5RTzVOOEZLTmJoSEh5bmxDOW1FQ3FKODl4VjhqTGg4SWxlRXY0dk51?oc=5",
-          "title": "Kayla Harrison admits UFC 334 win may be her final MMA fight, plans to 'do some soul-searching'"
-        },
-        {
-          "source": "Just Women's Sports",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjFWdjZZdG5mWHdFcVVBQXNIaVA2MUpSSlJURldFYnZsVFBXSFJHWlJEZHIyUGx2dmtWSEtVay1lX1NWekV4R1JVUVphczFGQnVGX3JqQ1RFaTU5V1NYQ0JyVjR2OEVnYTh5cFNfS0hmWkY2SFVVRTNEVXJseFFrVlFOdHh2ams4a2hvTm10d3pETmxCM0tJcnZGTDU?oc=5",
-          "title": "Amanda Nunes Accepts Kayla Harrison’s Rematch Challenge After UFC 334 Loss"
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHVTV2RIbkZCY04wTGZrdzdoRE5fX0JwSF9ldFpnUjJIUmN0eHJibXJrcGNtaFJYNXpkWjgtRmNVWV9GMzAtLUI3c0FJODZzNFRJRENVLUItekNpSDBiMGlnRGJmVEp1UUJNZVhVYklrc05uMkEtVTk3ZDVxdXQ5QTN0c1ZXZDVzSEwwcExIX2o5RjJpLXc2Zl84dzBPRHR3elU0NFJnT2ZBWDlfMW5Gd2hDSkxxY08tanFycmRJX3k5X2M?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
-          "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko"
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjBfM0dPY3Rjb3FuYWRRZXRQeEhadVh1STV1NGY3SUI5YjVzaW1fVzBXZnpTckdxZ1Q0ZEo5TmNGbmF6X0lOeVdHZTFyRE9IcldxNlFjbXREajg0RWpnWEJWd3B3QlB2aGg4OEpsZXF6SS1IN0NlTnZVVnhTSWFtTzhONDJheFM3U1RTbHd4RFdMYTJDQzEzUDFMOWp6NklBZDA2VHBlR3VJUlRzY1VOQU1IXzdyRUFpOXYtanUzTFdLczRv?oc=5",
+          "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity"
         },
         {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNTcFZrLTB4eGxaUC0zVTlkWTFmc1haZXczdjRvbVFWa1FIQk5UZF9hMmxrTTdfRUpYNXM3S250alFWallEUDZGSnJrMTJQTTdyZC15cWZBcm5uY2hfakp5YlJNSkdSQy1FZ3BPYmhwak52Ynd0ZkRnZ2I4T2hWVmVZOGc3ZEJxUHhrR1FvcWdYSE85azNXM1Myd1VCcHp3TjZxcHRuWm1lcGUwYXhGaUlTVllXZll2dVE?oc=5",
-          "title": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch"
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMENnQ2hrVlA2TktFTml4M2hhR2NEcXYyVng2RS1CcVNuTnB2WW1ROXE2VzVWMUVhWE54ZUttbkJFYlBzb19pcDhISGNGNlNVUEQ0MDlzMVZNWnRXMTlTWGhEUGgtYjJZSDNncTBUWVE3R3dwN0laTmNBY1NNU3VlUk5qbHFlMktXWFY5TlNaQjd3MzJrOXF1ZkxR?oc=5",
+          "title": "ONE Championship Strips Christian Lee of Welterweight Title"
+        },
+        {
+          "source": "ONE Championship",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2RxVm5VUTMzSkRHNXNZV3dJVkE5YWRvSm5aTW1kcDdNMFc5VUttdG1uVi1DRzZUT0V0TkVsS0h0Q0xFTmVwTG9tSDJxR285UHY5dF9SdmtGeEpUYXFVVGRMTTI0YU5uSFdXRkltcVEwcXlGNjJ4SjBLM1M0Yk5iOU1SOVJWQjl3ZEoxRlBhNDVnUE5QOXNPaG80QmtBUjdfSTBVTHV3?oc=5",
+          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant"
         }
       ]
     },
     {
-      "key": "e14554227d",
-      "title": "UFC Star Tommy McMillen Describes Drug Overdose",
-      "summary": "UFC Star Tommy McMillen Describes Drug Overdose Yahoo Sports",
+      "key": "2ad1272886",
+      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
+      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.39,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T06:56:20+00:00",
+      "refs": [
+        {
+          "source": "Спорт Mail",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
+          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
+        },
+        {
+          "source": "spbdnevnik.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
+          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
+        }
+      ]
+    },
+    {
+      "key": "44ce6558a0",
+      "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября",
+      "summary": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября Казинформ",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T09:05:00+00:00",
+      "refs": [
+        {
+          "source": "Казинформ",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG8xM3pVZFdPWXNYYl9pQWJJVEhTNlI3TUk0bzBmNHFDZmpiTXVvT3d2bi00eklqUi1panFVU3lOU3dUWnlxZVd2UG92V2x1M0tpZ1RMZ3hMQ0sxOGRPZVdJdUF3N3I1S21NOGhyanBFR0tFQnMyY2RPRjgwa19YQ2xDdWxnQml1RjYyQURqUldoRnFkcDN0V05aQVU3RGlFRFpnZ1NvNzN4TmlHVFZUNnBn0gGzAUFVX3lxTFB2enNxNnlBcDNkR2UtWGZjcG1YdlM0TzZWTFJYR0c5bjFQdzdqM0ZQeUhHa2FGd2QzcFVlZHM1U1pfcXl5N29vVXZWQUJ6NFUxV2dkSVBBcFAzS2ZVRWFpbUI3YjRKTm4yTFAzcWxoSkVDZHBkUGhrVjQ2aUI5b1lJekRGbWozRWNhWHNGMnZHeHFzQnBUd2JobTZSRDZzMjZmLUhpbUdEOTNaQTVwdHNTT0Z3?oc=5",
+          "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября"
+        },
+        {
+          "source": "TengriSport",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYngwcm5qdi16VTZlQVJOd2JSSS1Hc0RNMm9HRlVpclRFQUREbkxQcjBWOEFKN3VhcGtaanhTZjRoRDl5QklONHl4WnVTU3U0eGFEX2ZmRXJsS0d0WnN4Y1V6Z3kzMndNZExTX1NOLXphdTVhQktXa29yNV9GQTJheENxQzRYWUx6Skk4MnlYMjIzYl9Jc1hFLVZoZkHSAaIBQVVfeXFMT2JLM2NkNFA2UGJyeUtLd2s2N2ljYTR6STJFcThYNVVJVmIyRmc2UjR5QklBTkJxTWR0a09XaHFmNHpiRnM4RFllbFZwQ0hTa2xGREV1NF9zcUtJYmxLazZOWmxYX084em1XX1V0LVBVeWthQjR5a3JsSm1rY3BQQS1EdnV2NzdRNUhmeHZyMzdYNjVpR0VCbl9yYXBGNnd6Qk13?oc=5",
+          "title": "Турнир UFC в Казахстане: когда объявят итоги переговоров"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0xQZDFSLWprd1lqVHhqZG9SOXRZeWxRWXE0TEVGX0VpblpLUVZsSDJPcGM3VERKS3JfRUtERkpPYUxTLUthWW05dmpYWDlUWXhzcGFaQ3hWak1QN2s5Nm9oYXR2S1BaNlg1M2NXLVphdjVqcHhBM002czRBZnpFQVdtY0Ruckt6UElYRnJlZU1EUFhxb0Z3NEVpUlAwdXc?oc=5",
+          "title": "Турнир UFC в Казахстане – итоги переговоров объявят в конце ноября"
+        }
+      ]
+    },
+    {
+      "key": "8900137457",
+      "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор",
+      "summary": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин Фактор - новости Карелии",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.13,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T07:21:44+00:00",
+      "refs": [
+        {
+          "source": "новости Карелии",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUU9QRi1zSUtPbi1sdURwOUVxREpXWENhNHh3dThKajR5WWo5cGdjZkVDLWR4aUFCYXFmeEJYZmljT2ZveHc2TTF3SGVmWlREQVlpeVVtaUhfa2JaT0toclBpMDZVWHNkOWZLMUwyalJ0R2pBaV9BSUg2ck9UVlBWYUtVYkhpUU1taFVNRmU2NWhoNE44QTEyRg?oc=5",
+          "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор"
+        },
+        {
+          "source": "Интернет-журнал",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN25KMWVkbzdmNktkcUVRZTVoR2xwTzl1bGdNSWFOSGNSQW0zREhBWm5JOGlBdTVjNVZxYVJVS2c2MHpqYjB2WmJrU0htVVU1bno2VU00c3dkbzktWHdRZVpwMTVtcjhwLTlYVGo4MUFVajhpX0dqaUtpZ1p4SFlnLXdHRU5LdkcxRzhyUlVwT1U5dVhlaEt5ME1tandKQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        },
+        {
+          "source": "СТОЛИЦА на Онего",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU41X0dnYUFRdHk3MEw2RkNSNVdWSWNPOGc5ZjNST3dGU1RxNFpVYXhNemtKcEhlbE55WGZndjdRMFdxamJxZE5QeWVldGcwQ1hzSlpTLXltSDdxbm01UVZRQ1FndzgxbjlBOTVlbFhZcjRjZmJIZVVjOWNaQWNMX3hJUEFTRHhyUjJGRHhELXRfM0Jkem1HRnJnR2FGQQ?oc=5",
+          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
+        }
+      ]
+    },
+    {
+      "key": "d91bcc3082",
+      "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16",
+      "summary": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16 MMA Sucka",
       "lang": "en",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.95,
+      "heat": 8.72,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-18T04:19:33+00:00",
+      "published": "2026-11-19T06:19:27+00:00",
       "refs": [
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzBiOEVlOTItUHpDRHVUSDFrOEdHc21JbTZKaExOU1E0Z3FyaWdoTGx0d18ydmVGRng3NXpSaC0wck1tMmpZeGhYVG5BUUl0UUs3Rk9oSEVwZkhrT3FFY05fQ3VueG1FdEZXWGQ0T3k2ZzcyeFk2WW45U3BIakc2cldOWElNaEpMMmc?oc=5",
-          "title": "UFC Star Tommy McMillen Describes Drug Overdose"
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1ZXV204ekRaWXVINklaZGc3XzJUNjg3UkkyX0g5aXVERzRtckJ6NHl1M25xOEgtMk1XMGtKNkFndEw5YkpFTzdxZHhnWUdFcGlPQ0dWRTVQSHZXcXVQUVdVZkNKajNvc2JxZ0hrd0plM2xHTHZMbzdtdF8wUDhlb3pBb0FJb3dGajN6TF83UlRhRXhCR1J0eERwTl9JQlhxMXpERw?oc=5",
+          "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16"
         },
         {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWR1M0wxZERNTkx6R3NVQ01ITVpKWDM4MlIwc0s1U2hNbjNzU01ad2pPT3R4Y2lpR1B3ZFVCWEVvc1hxRGc5OGMxOU5wN3pqaENVMU9MYmVETVpOaDdZWXM5UUlaTkQxZE5aRmNwUFpKMFBteG1yRjVUbTVEcjNOWm1haXd3cm52NE8yMVA4MHNYeXRiT3pISQ?oc=5",
-          "title": "UFC star Tommy McMillen recounts hospitalization after suspected drug overdose: 'It's a wake up call'"
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVRRTHdLMnZtQWxKc2YxcV9fR2tsX0pnX1hXRzBNTEI3aElKYmdzVzM4Ti13di04Xzg4cnRQVWpWa3BmeUllQTg1azg5YWdjeUhXaDBLZkNKZEM0XzI2WlBxbEJneHVJZURTQ194TE95ckZhSFZCXzJpb2c2ck5iX0ljazRzdHU2VGRXa1Z5V1poMVhrOEdNTG0zS2Q5aS1tSTN2WHh0TXZoaHVo0gGyAUFVX3lxTE5sdnY5UVVLdW8tT2pEVjZBTTRTVDN4VXZzeGZGaG1Ud0JsX2lhUkZRcDFPMkJNRU44LV9CS3VjVDZtV3BWaF9rWXJNWHhoUk5OdnNpUzgxZVhNeTB4eU1UTVlfNzYycndqdXpTTTA1WXNxTlZ5WnF1Q0p5U3dhWVJEbTVZTzFxa0ozRUdIUVczaEJZX2k1TFFTUHlkdkhrdEd2dnFTME9raW5qZkhCOFFsY1E?oc=5",
+          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans"
         },
         {
-          "source": "BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wT3ZCMEVwT3VFWm9rUzVkRVp6aTFVay1tcWN2TnFEeFVRYU9EcnhWMVZrd0dqUnRFclZZUHJtNWpLeVhCeTJFWlNUbk1tZGdUb3E3WnQ2NzhfS28?oc=5",
-          "title": "Tommy McMillen: The UFC's \\$100,000-a-Month Gambler Who Nearly Died and Won't Fully Stop Partying"
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
+          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19"
         }
       ]
     }

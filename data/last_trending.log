@@ -1,36 +1,38 @@
-2026-11-18 18:24:51,567 INFO BBC Sport                         45 items
-2026-11-18 18:24:52,080 INFO The Guardian Sport                27 items
-2026-11-18 18:24:52,115 INFO ESPN                               0 items
-2026-11-18 18:24:52,319 INFO Sky Sports                        20 items
-2026-11-18 18:24:52,751 INFO Google News – Sports (EN)         56 items
-2026-11-18 18:24:53,787 INFO Google News – 体育 (ZH)             43 items
-2026-11-18 18:24:54,591 INFO Google News – Спорт (RU)          44 items
-2026-11-18 18:24:55,833 INFO Championat                        31 items
-2026-11-18 18:24:57,003 INFO Sports.ru                         19 items
-2026-11-18 18:24:58,967 INFO Спорт-Экспресс                   499 items
-2026-11-18 18:25:00,642 INFO РИА Новости Спорт                 20 items
-2026-11-18 18:25:01,509 INFO 中国新闻网 体育                          14 items
-2026-11-18 18:25:01,862 INFO Google News – Cambodia sport      13 items
-2026-11-18 18:25:02,325 INFO Google News – Southeast Asia sport  63 items
-2026-11-18 18:25:02,867 INFO Google News – Combat promotions   94 items
-2026-11-18 18:25:03,247 INFO Google News – Boxing              33 items
-2026-11-18 18:25:03,528 INFO Google News – Kun Khmer            0 items
-2026-11-18 18:25:03,868 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-18 18:25:04,424 INFO Google News – Единоборства (RU)   89 items
-2026-11-18 18:25:04,772 INFO Google News – 格斗 (ZH)             30 items
-2026-11-18 18:25:04,967 INFO MMA Fighting                      10 items
-2026-11-18 18:25:05,349 INFO Google News – Khmer Times sport   17 items
-2026-11-18 18:25:06,407 INFO Candidate stories after clustering: 1072
-2026-11-18 18:25:08,865 INFO Trending skipped (not our audience): College Football Playoff rankings: Indiana, Texas move up a spot as Alabama stays at No. 3
-2026-11-18 18:25:08,868 INFO Trending skipped (politics): Trump reaffirms role in brokering Cambodia-Thailand peace accord (VIDEO)
-2026-11-18 18:25:08,978 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-18 18:25:08,979 INFO   1. [en 14 outlets, heat 29.7] Singapore Football Test: Brazil Wins 7-0 as Vinicius Junior Scores Hat Trick
-2026-11-18 18:25:08,979 INFO   2. [en 7 outlets, heat 17.0] "There was a Physical Difference" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 3
-2026-11-18 18:25:08,979 INFO   3. [zh 7 outlets, heat 15.0] 拳击手李·里夫斯在KO和昏迷三个月后去世
-2026-11-18 18:25:08,979 INFO   4. [en 5 outlets, heat 12.2] Football Ferns Name Squad for Philippines Matches to Close Out 2026
-2026-11-18 18:25:08,979 INFO   5. [ru 4 outlets, heat 10.7] КХЛ, расписание и результаты 18 ноября: ЦСКА — «Локомотив», «Авангард» победил «Адмирал». Все матчи
-2026-11-18 18:25:08,979 INFO   C1. [zh 7 outlets, heat 15.0] 拳击手李·里夫斯在KO和昏迷三个月后去世
-2026-11-18 18:25:08,979 INFO   C2. [en 5 outlets, heat 13.0] Bruce Buffer praises Josh Hokit’s ‘warrior spirit’ despite being flipped off at UFC 334
-2026-11-18 18:25:08,979 INFO   C3. [en 4 outlets, heat 10.9] ‘Feelings is not for the cage’: Jiri Prochazka promises to be a weapon like never before in UFC Qata
-2026-11-18 18:25:08,979 INFO   C4. [en 4 outlets, heat 10.9] UFC's Tommy McMillen says recent overdose was 'eye-opener,' but he's not going to stop partying 'col
-2026-11-18 18:25:08,979 INFO   C5. [en 4 outlets, heat 10.7] Conor McGregor gives Josh Hokit highest of praise as UFC star
+2026-11-19 09:30:25,601 INFO BBC Sport                         42 items
+2026-11-19 09:30:25,739 INFO The Guardian Sport                27 items
+2026-11-19 09:30:25,780 INFO ESPN                               0 items
+2026-11-19 09:30:26,044 INFO Sky Sports                        20 items
+2026-11-19 09:30:26,424 INFO Google News – Sports (EN)         60 items
+2026-11-19 09:30:26,690 INFO Google News – 体育 (ZH)             49 items
+2026-11-19 09:30:27,369 INFO Google News – Спорт (RU)          44 items
+2026-11-19 09:30:28,092 INFO Championat                        30 items
+2026-11-19 09:30:30,215 INFO Sports.ru                         20 items
+2026-11-19 09:30:36,546 INFO Спорт-Экспресс                   397 items
+2026-11-19 09:30:37,866 INFO РИА Новости Спорт                 20 items
+2026-11-19 09:30:38,679 INFO 中国新闻网 体育                          12 items
+2026-11-19 09:30:39,066 INFO Google News – Cambodia sport      19 items
+2026-11-19 09:30:39,537 INFO Google News – Southeast Asia sport  36 items
+2026-11-19 09:30:40,091 INFO Google News – Combat promotions   99 items
+2026-11-19 09:30:40,442 INFO Google News – Boxing              31 items
+2026-11-19 09:30:40,647 INFO Google News – Kun Khmer            0 items
+2026-11-19 09:30:40,821 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-19 09:30:41,432 INFO Google News – Единоборства (RU)   88 items
+2026-11-19 09:30:41,807 INFO Google News – 格斗 (ZH)             17 items
+2026-11-19 09:30:42,035 INFO MMA Fighting                      10 items
+2026-11-19 09:30:42,301 INFO Google News – Khmer Times sport   12 items
+2026-11-19 09:30:43,301 INFO Candidate stories after clustering: 946
+2026-11-19 09:30:45,942 INFO Trending skipped (politics): В МИД прорабатывают поручение Путина по поводу виз США для российских спортсменов перед Ол
+2026-11-19 09:30:45,943 INFO Trending skipped (clickbait): Хабиб опубликовал первый пост после скандала с участием братьев Нурмагомедовых
+2026-11-19 09:30:45,945 INFO Trending skipped (politics): Коваленко о Гретцки: «Фетисов правильно поставил вопрос: «Не обречен ли Уэйн расстаться с 
+2026-11-19 09:30:45,947 INFO Trending skipped (not our audience): Top 5 Injured Players to Stash for Fantasy Football - Week 11 (2026)
+2026-11-19 09:30:47,208 INFO Talking points sent to Telegram (5 stories)
+2026-11-19 09:30:47,208 INFO   1. [en 7 outlets, heat 16.7] Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334
+2026-11-19 09:30:47,208 INFO   2. [ru 5 outlets, heat 13.4] ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию
+2026-11-19 09:30:47,208 INFO   3. [ru 4 outlets, heat 11.6] Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО
+2026-11-19 09:30:47,208 INFO   4. [ru 4 outlets, heat 11.3] ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансф
+2026-11-19 09:30:47,208 INFO   5. [en 4 outlets, heat 10.8] Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to qu
+2026-11-19 09:30:47,208 INFO   C1. [en 4 outlets, heat 11.2] ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion
+2026-11-19 09:30:47,208 INFO   C2. [ru 3 outlets, heat 9.4] ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию
+2026-11-19 09:30:47,208 INFO   C3. [ru 3 outlets, heat 9.3] Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября
+2026-11-19 09:30:47,209 INFO   C4. [ru 3 outlets, heat 9.1] Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор
+2026-11-19 09:30:47,209 INFO   C5. [en 3 outlets, heat 8.7] Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16
