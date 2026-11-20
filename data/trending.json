@@ -1,503 +1,188 @@
 {
-  "updated": "2026-11-19T18:41:07+00:00",
+  "updated": "2026-11-20T09:12:09+00:00",
   "stories": [
     {
-      "key": "d752e07ff9",
-      "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar",
-      "summary": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar UFC.com",
+      "key": "6fe547e0ab",
+      "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight",
+      "summary": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight MMA Fighting",
       "lang": "en",
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 14.79,
-      "published": "2026-11-19T16:08:04+00:00",
+      "heat": 15.5,
+      "published": "2026-11-20T07:44:13+00:00",
       "refs": [
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDA4c0pKdnFBX2NKVUhPVmNfVVUzaHprSTdyODJNbmxkb0NEUE56c2VfUUUzUHZQTWFNS1N1ck5wTDloSlh3M29YX3AzaWJMV0daakF5dDVBTVk1ZTkxaHZUUnlDa0I1Z0E5OFQwYUJQN2lTS3lNdUk5R3ZIWGh3YkFjaXprTk13NEttalFWUm1aT1FHakZ6SEpuUUw3WENKWFJ5QVNDbThGSkd5RGtCZ2dwQVJiXzJVVl9yaElFWlAydmtCeWJqOVlDZEI?oc=5",
+          "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight"
+        },
         {
           "source": "UFC.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5",
           "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG44ZHAtTFBjbmpOSXZVbnJtRHg2eTNUS0VwaUQxQXlQMjRCY2NTZmtCUl9ud2V5N0xibHl3ODZHR1RqQzNieGRGTVYtbjd2dTdMRC1vZkZJRDR3eTJjOGpqbzVLMktSaG5lQ21UbG1mMTFxSmc5eU9pQ01aYUp3eFE0eGVYbVpQY0g0YUJPYkxmLVR4emRrOFhFOEZUODhWcUNvd2tRNUJMdkRkZEVTeDBHT1RTYmc?oc=5",
-          "title": "UFC Qatar best betting props, parlays and picks | Prochazka vs. Stirling"
-        },
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUxKbjVMcVVsRWZPQUxLNHV2MU91WW1zTUlBbWZ5MUNwZjI0MUhFOUdfVWNtQzh0TmtNdkcyRERTNGNPSXVwUEpjT3piZk9hanJNRW8tS0s2ZTFGWklTWk1OTUQ4eWc5MGt1cGRNcHpWX1pBWmNPdFRseWlKR3lwWmJld2VrRGhRcjRrS3Z5blFRSkdraGhBQ2o2NU45ZmJVWnM0MA?oc=5",
-          "title": "Can Prochazka bounce back at UFC Qatar, stop Stirling's rapid rise?"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ19QSElQSzlVMFdEamJ6MDJNWFlJZGRVWHNxSHducmhONXZvQnhoQXVLQkVxSXJuUjhBem5rUldGQ2hUb1VzZmVZN2tIbVNuTFpscUhhbnE0XzZPUUNDT2dwczNzQ1lROHhUeHZaSHh1NHlVbG9vTTZCcS1vVEVidA?oc=5",
+          "title": "UFC Qatar weigh-in video: Prochazka vs. Stirling"
         },
         {
           "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WemZqTTZSdjJhSXJBQXFreWR2UnYxUE9PZUVRSkp1QThfSGZmWk1MX0ZiN05VSzhlYnNia0VkTncwbXp5OGp2Y1ZweXRnWnJXamV2cXJQQUVXTlBJSDBGQ0hUZGNQTXVVVC1XUjZranZVbjdHc2c?oc=5",
-          "title": "UFC Qatar: Jiri Prochazka Not Here To Trade Wins, Losses, \"Born to Be the Best\""
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFlPdlRhTUxSSWlOZmhnNlZabEdOMHVEU0YzZmF5bHN3T1FZVHNnZklpaGliN0JILXdFUFBmLThINmdVZFZTS21rZFF3STNWZmVGQlRlRjRwYV9wbjlnYkQ1RGRZRDZtd1NtRzMyV3IyS0xwNFRIaVhUcGdXVGR5T2pDLXBZeWtySDRGbDVDbw?oc=5",
+          "title": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTjBHRHhHZ29fZFBGVFkwajd2QWJUSVNEZU5XekRONmdXOTZTY2pnamJTa0JpNU9sQ0gwOXVkTVRqVXdhRG1naWtweTE5aUl0cmE5RU5uZEZHTFdXWXFFcDF2WlE5VGVaMGJnbTk2cVc3SmhfX2FQT0FwWkt0TjFiMkFCeElmOXhWbEZvZmFjSQ?oc=5",
-          "title": "UFC analyst considers Navajo Stirling 'a tough task' for Jiri Prochazka"
+          "source": "RotoGrinders",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQllRVGt0eHB1T0M1RDltR19MOG9TLTkxWFpnMm5QVjgyLVFITmRPZU9iZmFkdHAyWDUzS0VBZ1E1WnBEUVJkV1JyX3pVdms1NXl4Nm93SGNiXzFrLTJkUGhINFBmYUs0SHgzMWVXRGFQUk0zMTBBOGZvaGlTU0JUNGFvekZkTm9HLWM0em1PMWstTmZSNlMwenRCeW9HcTF5NXByMEdxNGE?oc=5",
+          "title": "UFC Fight Night - Prochazka vs. Stirling: MMA DFS Picks & Betting Breakdown"
         },
         {
           "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX05DN0U1U2ZnTmN5TjI2Wkg0amNDQTlYQXI5TlFkQ1gyTHpvTkpMUzQ3ejZpcldfM0Nkc3BJQ0M0ZW45OEJrTFhKMDN3T0t2ZFFReGUyR01nWjdFbHRYYUJaVm5CVW1sSlBjTUYtUUNyNzdLUFlJQkl2c09JTzlQcF8yYjR6RE9PSzZFZXBUQmlRQ3h2cERjTmZMYzd0dGxUYVRXVW02cTF4cDRFSE9OeGJ3LU9fM2tRV3I1Z2liN1MtaWNKbDVHZVNDSElYZw?oc=5",
-          "title": "Dan Hooker desperate for win at UFC Fight Night 294: 'The ship is sinking'"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEYtRUpNVVlWdEQ2aEd6TDYxZVVzTDZfLVF0SE11bnBpMl9mNjJqSUxtY25Nbi1XTDR2TXVoTk91XzVWcmJ2OG81enAwOGFPdUNGMHpQakhFZzhNT0FuTFU4NWtGSUxuRmJlRmxMbmFOZURkZVJuTjVCQ2F6bWYtNHBQa0ZzYldqYWVsamZsbWR1X1poZ2ZRTVlqZUdPZEV5WjVsSVNLQS15NHNrbHhfb2dRNU9PVzV0V051T3prRmt3ZzFMZHh6SzNackl4YmFjTkdnVg?oc=5",
+          "title": "Ex-UFC champ says it's 'a little premature' for Navajo Stirling to fight Jiri Prochazka"
         }
       ]
     },
     {
-      "key": "4615daaf62",
-      "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334",
-      "summary": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334 New York Amsterdam News",
-      "lang": "en",
+      "key": "09a47b853b",
+      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
+      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
+      "lang": "ru",
       "sport": "combat",
       "outlets": 6,
-      "growth": -1,
-      "heat": 13.8,
-      "published": "2026-11-19T05:00:00+00:00",
+      "growth": 0,
+      "heat": 14.96,
+      "published": "2026-11-20T08:16:43+00:00",
       "refs": [
         {
-          "source": "New York Amsterdam News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjNqTlM2TFNqeWNJM3VGMlpLeENyUEpTTEVxby1wWVhJbzEyUk5aZzBpRnY4VGlxVDEtREF0Yno5MkZIYU93emJmVjg5MVJERVRQWG92YUtHWVhqTW40TnByeGs5ckpiM2dLWDkwdXpvbnNrZURvNk9lb0NwQWdiclZNclVTdklLQ1dn?oc=5",
-          "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334"
+          "source": "Спорт Шредингера",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
+          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHJCeVAzNGFzR1gzcG1iLWd6QkJnMkZVSDkxSHJhSkpWMHRaT0RoSDhJVDFsQU1mcmdLdnU3X1E4OWFJTzYxSnM2dElCVUozMGNNVFBqeXdBU0NhcEhHVXhUakpCcTBKeHBMT29ESDRuZk44OU5OMXJyaEk4WWc?oc=5",
-          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
+          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
         },
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFRTd3dFYTJqeDRhcHlQZUJZOFBzWXJURlZaa21nXzRwdWxBc3QySmpsXzBJRTlwZlJNaXRNcGZlLUV0M0l1QXlxaC1BM2VKeHg2bkdESDdHQmQtNFp5R1VjSzExT2w5R2JsOEpsVUhISGhwMlZhdWVBT3ZXdl9UYlRFQmE2Y2R1b19KcnRfTFFIelJYRFRWZUkydmxuOHhxaHQ0VmdJamJSWk9mVUE?oc=5",
-          "title": "“The Game Plan Was Done”: Ciryl Gane’s Coach Admits Josh Hokit Shocked Them at UFC 334"
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjlGZkpPaUpOUUZ4cjh6MkF4aTlObVRnS1M5Sms2SXlpSnUwcEV1T2R2ZHFwRjRVTHc4dzgzUDUzTU1zaUFYUGtrbGhJT2VZald6Q3dEREp0U2xhWW9ZbXR0d0IzYUpfcGdRQ29ZSWdGRXpDM3plQ3FCUTYwaGFXcGlsb2hLS2c0VjEyWG54N2Z4NVg0eVVFVC1TU0VWSmF6UzFPSXFjQjBlUnNGbWMzdFkxZw?oc=5",
+          "title": "Результаты взвешивания бойцов перед турниром UFC Fight Night 294 в Дохе"
         },
         {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdFZuZzZxcHRzZURaUjNheE1TUVQzMFFuSTl0dTdBY3pnRjFWQUl2cDI4LXZHTTlodF8zaW5TN1BJQnpqN1NpRHJ4OUR0RUN4VTJlVDBDN3NrU1lQYi1UdTIwelkzekx0aVRIYzdUUWZRVjVCUWFHclJYdUdObk10dXNGR2R4TUQ0WjFYWEFQMG1nRXlWd2FVY2RQMXB0a1ZfcHNzMENyYk1YS3hFNmV4OWxVWURTYmRvMlkyclBpRGtXRktLWloxUVROVjVnN2dhdGZtNE13?oc=5",
-          "title": "Daniel Cormier: Jon Jones should stop feuding with Josh Hokit if he won't fight"
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzFUakJ5d3JkSnd1bDJlcTNsR29rRkl3VW9GVEljNVJNV1JwSDFDbHlMakVaYVJHN0ZpS1B2NzlEdnRhYTBMcjVpOTJuZWdhdEQ1cHJXMS01U09zcGR3R2IzZVhGZWpLUkpZejJDdXBaRGtEdF9OZWZDaEgtbU1WeHBkaEtBOExYMXp3UVdDZk9MdFJGX0VR?oc=5",
+          "title": "Дияр Нургожай прошел взвешивание перед боем на UFC в Катаре"
         },
         {
-          "source": "DAZN",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUVQwdFFKa21EVWk2MjdqakVRZjdZVkNsQ2MtY010OHQtZ3ppMlRyYTJQOTBicndIYUxKM3k4QnJobVE3WVNiV1pnYXFYUzlsZXpUWXRMM2ZiZE04N3lNRlJvOHRxTW5BSXNCTDNvbDVyQ0hOR3NGc1IzeEVlVEZXZHJiUk05d3I3VktnbG1fVWFFbUJzM0c4ZndtaWk5dmJiWVVtMWtZSUpuaTYzWWZ2aUdsUk5OTkxUaFpoamFNN3FxSXFXT0V1bVhXRHZMdjhGRDFja2I5UQ?oc=5",
-          "title": "Why are Jon Jones and Josh Hokit feuding? The UFC heavyweight rivalry explained"
+          "source": "Sportnews.kz",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1NZbEs1d0ZrZnpac1NNMjlkUU55VjZ3Y2ktYlJ5eTctcDR0czJfa3Jscmo0MGdHOVhCemkxOVpYMUFRRkZOc194emVzalFKRVNCY01mTHI1ZmljVDRNU3NFTXdxSXBPejRjczlJR2tieUd2Z2ZLZDlIMHhEcWV6ZW5LcWUtSllYdHVELVhJSUhQZDVvMURKZjNSNTh2Szc4OTZvdUtwTFNmNE41QS1uUXIxY2gyblo4MmtPX29MZkJsS1RBRHc?oc=5",
+          "title": "Алмабаев и Нургожай завершили весогонку перед UFC, но впереди официальная проверка"
         },
         {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/522147/between-the-links-ufc-334-fallout-mike-perry-re-signs-ufc-qatar-josh-hokit-vs-jon-jones-twitter-beef",
-          "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef"
+          "source": "Kursiv Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
+          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
         }
       ]
     },
     {
-      "key": "988755ef7c",
-      "title": "«Манчестер Юнайтед» может купить Палмера и Холла после прихода Почеттино",
-      "summary": "Манчестер Юнайтед» намерен приобрести полузащитника «Челси» Коула Палмера и защитника «Ньюкасла» Льюиса Холла в зимнее трансферное окно, сообщает Football Insider.",
+      "key": "873a3b2d08",
+      "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам",
+      "summary": "«Вашингтон Кэпиталз» проведёт церемонию в честь клубного рекорда Александра Овечкина по результативным передачам перед домашним матчем Национальной хоккейной лиги с «Филадельфией Флайерз», сообщается на сайте столичной команды.",
       "lang": "ru",
-      "sport": "football",
-      "outlets": 3,
+      "sport": "olympic",
+      "outlets": 4,
       "growth": 0,
-      "heat": 9.26,
-      "published": "2026-11-19T17:50:00+00:00",
+      "heat": 11.54,
+      "published": "2026-11-20T08:09:04+00:00",
       "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6706654-vashington-provedyot-ceremoniyu-v-chest-rekorda-ovechkina-po-peredacham.html",
+          "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXBJM3hLeEdzN0ZfX2lyMXM3VEJTbGIyLUZOeHk2d0tSTjVTVTByTUR5UlFEWEFSeVpNMnk0WGlkRktxOWlnamhBbV90RnUwdFZXREF4aDhBZ25ucDItcmhxcXRrZkszUWZvTDc1d09KdHFrMjl4SVNPYlhsZWw2dkhLNW1wU3c3WXBwUkdZakJkS3lHMV9WWERoeTNzOHkwckdMMlpUSTFCWktSM0dqY0p2Xzd5dm02czdaQU5aVEp6Y0txMEppcE4tUk1selhlWkx1VXRubkJmLXZQNVpKSWd1SWk?oc=5",
+          "title": "«Вашингтон» проведет церемонию в честь рекорда Овечкина по результативным передачам"
+        },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/transfers/news/manchester-yunayted-mozhet-kupit-palmera-i-holla-posle-prihoda-pochettino-2476706/",
-          "title": "«Манчестер Юнайтед» может купить Палмера и Холла после прихода Почеттино"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/football/news-6706052-myu-mozhet-kupit-palmera-i-holla-posle-prihoda-pochettino-football-insider.html",
-          "title": "«МЮ» может купить Палмера и Холла после прихода Почеттино — Football Insider"
-        },
-        {
-          "source": "Евро-Футбол",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcF9raEMtalZZZkZaVDhES0V2UzVhTjl4LTZRc1ZzMExDNzhaMUNZWWduMkw3OXVfSnRfUzNDYVZacHg3Y3lWVHB4VTcxUTdOWC1lUnR0Vmt5T2NiNDNDQWZYMGs5OWdmb2dqZzg1NThyNUhjVXNLcG5YdTgwMXZEZHhSd2N0ZU9Qbnc3UlhtcDIxdWphY1R6UXNtYzlXUElUeXJmMnVIOA?oc=5",
-          "title": "Почеттино предупредил «Манчестер Сити»: «Всё изменится»"
-        }
-      ]
-    },
-    {
-      "key": "d97318b63e",
-      "title": "«К этому нужно привыкнуть». Бен Шелтон — о кортах на Итоговом турнире ATP — 2026",
-      "summary": "Финалист US Open – 2026, четвёртая ракетка мира американский теннисист Бен Шелтон оценил условия и скорость корта на Итоговом турнире ATP — 2026.",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.98,
-      "published": "2026-11-19T18:02:30+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/tennis/news-6706064-k-etomu-nuzhno-privyknut-ben-shelton-o-kortah-na-itogovom-turnire-atp-2026.html",
-          "title": "«К этому нужно привыкнуть». Бен Шелтон — о кортах на Итоговом турнире ATP — 2026"
+          "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-ustroit-chestvovanie-ovechkina-v-chest-rekorda-po-peredacham-2476842/",
+          "title": "«Вашингтон» устроит чествование Овечкина в честь рекорда по передачам"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261119/shelton-2132800404.html",
-          "title": "Шелтон обыграл Ходара на итоговом турнире ATP"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/tennis/atp/news/ben-shelton-rafael-hodar-rezultat-matcha-itogovogo-turnira-atp-2476668/",
-          "title": "Шелтон обыграл Ходара в матче Итогового турнира ATP"
+          "link": "https://ria.ru/20261120/ovechkin-2132870521.html",
+          "title": "\"Вашингтон\" проведет церемонию в честь рекорда Овечкина по передачам"
         }
       ]
     },
     {
-      "key": "d43df7b764",
-      "title": "‘Should Manchester United fans be hoping for relegation?’ Will Unwin answered your questions",
-      "summary": "As Mauricio Pochettino prepares for his first game in charge at Anfield, the Guardian’s Will Unwin answered your questions on Manchester United’s new head coach, the boardroom, the academy and whether Frank Ilett will ever get a haircut. tetters asks: Every few months there is the report of a new “wonderkid” being signed: a South American full-back, a Scandinavian midfielder, a flying winger etc. ",
+      "key": "7cef1f36b2",
+      "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях",
+      "summary": "Шведская миграционная служба намерена отказывать в выдаче виз российским спортсменам, планирующим принять участие в соревнованиях, проводимых на территории страны.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.9,
+      "published": "2026-11-20T08:52:34+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/skiing/news-6706706-shveciya-planiruet-ne-vydavat-vizy-rossijskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah.html",
+          "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/skiing/1117442369-shvecziya-ne-budet-vydavat-vizy-rossijskim-sportsmenam.html",
+          "title": "Швеция не будет выдавать визы российским спортсменам"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/others/news/shveciya-otkazalas-vydavat-vizy-rossiyskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah-2476900/",
+          "title": "Швеция отказалась выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261120/shvetsiya-2132905308.html",
+          "title": "Швеция отказалась выдавать визы российским спортсменам"
+        }
+      ]
+    },
+    {
+      "key": "2241dad522",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
       "lang": "en",
       "sport": "football",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.58,
-      "published": "2026-11-19T15:31:32+00:00",
+      "heat": 7.85,
+      "published": "2026-11-19T22:56:07+00:00",
       "refs": [
         {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+          "title": "Lyon outclass Arsenal for Champions League win"
+        },
+        {
           "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
-          "title": "‘Should Manchester United fans be hoping for relegation?’ Will Unwin answered your questions"
+          "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+          "title": "Arsenal 0-2 OL Lyonnes: Women’s Champions League – as it happened"
         },
         {
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0s4MHI5WFJYeEVhMEpqdUlhTnJ2QXR0VmFOOGFYb0Y1VHFxTlByckhILUFDMngtbl9ESEZVVUpVZ09MUHlTMFdkaTl0STJxSXpMWUlrdTRiSmFpckJ2cktxd3E3QmJBbzJoNlFkN3JqWXlCVmNGU1gxT1VXc1MxTFNSM1lDMTNnaHAtMENZc1ppdDM3QXJjdF84QQ?oc=5",
-          "title": "Forget the 7-0, Liverpool’s recent record against Manchester United is poor and needs to change - The Athletic"
-        },
-        {
-          "source": "Khmer Times",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeV81cEI0U2x6bmdfblg2ZFNxbGx6Smd0bGItdjFqel84VTFUaXZvUVo0QmYyOGp6RVlHOVQ4dHdBWFJFM0lmUEw4di1MUTU4VE9SOXBUU3JaSDJGbWtjTThHR3JvU0R1cV9iSFlDODZhSXhYd2R2aDBQT0RORlFPQUZKT09XWlpTSldueGxNYkZBM2JicWwzdWMxa3lGakhMVjBJMS0tU1RvY1hkX0xhSWRoTTZBQ19rc1FxbkZpb05jeTBkQWhISHdlTFhCeThLS2xZUlNiRzFpcmgyTGZqVUd1SHZlNFltT1M2NXFHY0U?oc=5",
-          "title": "Maybank reveal two Manchester United Legends for landmark partnership celebration to launch co-branded card in Cambodia"
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
+          "title": "Arsenal outclassed in defeat to dominant Lyon"
         }
       ]
     }
   ],
   "known": {
-    "6009275715": {
-      "key": "6009275715",
-      "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement",
-      "summary": "Dana White Reacts to Stephen Thompson’s UFC Retirement Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 10,
-      "growth": 0,
-      "heat": 22.72,
-      "published": "2026-11-16T05:23:00+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3ZVQUNvU0V1b1d2TF8tZ0VUMmZGTWl6dmtGc3JEallBVmdqOF9fWFpFeC11dHp6cm04Q1lPNmo2RlJ4cFlaYnhVVWRvTlQ5bDlaQ0JlMlFuVl9XdVdNY0paZkNSWm5RSVQzd2JWRS1xbFVZUUF3NjdNeVpGbXlVU0lxSE9jSmpMZnZF?oc=5",
-          "title": "Dana White Reacts to Stephen Thompson’s UFC Retirement"
-        },
-        {
-          "source": "Bloody Elbow",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVR3M2FOU0owbFBqYkdsRk1vTFBiZ2lzb3NrSmhhZXdiY1RFMndtenM1UnZJODV1RndfdG9wNjNyTEdjOUhuUG5KZ3Q0Wkl5THg3MFBZTndLTUxKbTl1VGlPeXZ4SUdiNkoxamk3ZVpiYlVVVjBZclcwWUZSdjJmS2V2SWRlY2FPbXIwc0dpbThFZ2JGaTlsSU5UbjRBUXgtRVVpMkl5Z1RkTXFHdmZoZWpBdHFSYUU0YTFFS2lBR3VJZ1plZWxycGNzVkE?oc=5",
-          "title": "Dana White offers Stephen Thompson the chance to ‘test’ for new job after UFC 334 retirement fight"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0g4SWJXWjREVDRmLTVCQnpTZHlFZENiTHVCVVdjT05KYTBtUzRtbXA1RXh2cFpIZG1fMlh3TTZkaHU1bkloaG1zb3dFWkFFQlUybEozLURySnJLTHlET1FBX1ROU2V1eGRsbWpLQ0ZIeFNJUzhsbDl3dHZtMUhuWkZlVktRc0E2Q0swcWtlMkNsVktZXzhqQnRyUVZFcDVWcUVkVnNobEV5d9IBrwFBVV95cUxNVXVrV29hNzNza042WXFlVGNuMDJUVHRZaWZCODJwX3hUeDJaSHplaGhfMlhQcTNDcDZuUzdYZlVzX0FKRkNsVTZUWWh4bDhEZHBwS0VGU1VqRVl1ZDVpRF9GVWtWWkQtTUVtZ0o4NGMwTmFnQWY1UE90V3NOZ0lCSzFCSTRUSVFWeG9haG1tbE1RVkJpZW1qcFR3MWpiSFp6TlowYXAtOGJBb0Z3eHpv?oc=5",
-          "title": "UFC 334 title fight changed Dana White's entire view of Josh Hokit"
-        },
-        {
-          "source": "www.thenationalnews.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPamROM21tLXJHMzdzal9IRjFuOHEwVkN6ZzVWd1NhYmhBWUtsaGZYN0Y2UURMMTN4YjdycUsxODh3ZUhZYm9yRldlZ0hSdTJacFZFYS0tai1rSmM3a2h1SW9CaVV0VVZxMHBGVXd0MmVyZHU4Q3JwNEd4TE1ad3pjSmFPdFZMclVueXJoazF5SDRNcVF1TVFkWmgxeDlza1dIMjBVQ3l5ZlpydnZpNktsV1BGYmR5QU9tcklqMlFoUFdIVkRZT1hMRU9jUmY1bU9qTnVHTmI5MTJYWEx0RmJPamN3?oc=5",
-          "title": "Dana White's UFC fighter loan system faces scrutiny after RAF Abu Dhabi brawl arrests"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXgteFlOVXctWlpQM0JwV3JodFAwaEZ0M1cwMklOOS1xM21ObkxhNTAtTGswZjZ4SHl6ekZhaHVVMVhadVUzY1NhclRBTEp2Yk5RUlFtaVVxQm16c0hlN1daSkdka1ZOcExkSmplSHFjNllzSEg1ckpjQUY5UnV6TEVDaWdFak5EMHU4aGxNY09XaDBnQ3g2dzJWZG1RcVhPX3RxWDVoOGJQZw?oc=5",
-          "title": "Stephen ‘Wonderboy’ Thompson Retires With Storybook Ending"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONDExeU5ubWZUbTVLTndtWTUyWWxqMGJELVdSNGNqdWE1S1drYm5faGFDeDZlS2w5ZTJGUHVGY3ctQlVBbTlDU05FQlc2VW9LWEN6RklDOHF1VEpaWlIxcTZmZURNMUVqd1ZKSzJDQUFMNC1ib1Bic1Zxc0IzU0NJdVRMa0N0c1JVclZ2aVJiLWEzYTBfSk82am9HeEI2blpZVGFibkZONmE2RWtOd1hxc0QyYXJfU3dXQ0t3M2YwSlpmNDJzSGFNWXRvODRNaWg0YTlYd3pWNC1MNjlWd3diMWJnb3Q0NjBuQ1FyWjlqdEpVejFoNWpudFhR?oc=5",
-          "title": "Stephen ‘Wonderboy’ Thompson’s perfect ending to career made Joe Rogan emotional at UFC 334: ‘I’ve never seen that guy cry in my life’"
-        },
-        {
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWY3T1ZEaWtSUHBjU2xDaVN2dm1LN1BEM1FpMHdHQWZ1RDhHM0xKQWFBcXNGR3c0ZzVIdmNFWmhpeFN5Zk9Jc0RTTFNuUk1Rbm5MS01HNGhGMVVESzl4NHZRY09MWi1uN0NMQndIVElNcW4tbFhiWHp1LURJQ01MamtCMmlKbWZuUnZPb1pwSy1OQWNhcTVzTkpqMUM1LVZzeFZCSkJmVVZLaTRwbmFuRXJidEtLT1di?oc=5",
-          "title": "Dana White confused after UFC reporter's long-winded question: 'What the f— did you just ask me?'"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVROVjlIYl9BYkxEVE5qS240WWEzTkM0MHQyRGlKLUNKdEJsT0tmVFlIWERfUTYtN3JqMm92Q1BqRUtpRVNXamdqTHcwTlY5cEtPbG14aEVNZmZxX2lYZ1RpclppMTMwcDVZMk1lc0wyN19ZSGxLUFZUaDVCS043VFl2X1NvOTNsNFE5alRyZXpoMGpaZjQxOXFCSWhwZHJzNlUwMA?oc=5",
-          "title": "3 Notable Nuggets Dana White Dropped After UFC 334: Gane vs. Hokit"
-        }
-      ]
-    },
-    "a8906ddcf3": {
-      "key": "a8906ddcf3",
-      "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham",
-      "summary": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham The Guardian",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 1,
-      "heat": 22.12,
-      "published": "2026-11-16T04:25:00+00:00",
-      "refs": [
-        {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckxzOWx0TXVoSld6OThoZXQ5cnoyZkhITlZTcGtyM1Y3dEl3Y1lVZEpSeXA3dkJmZDZDbWJlU3lET1QxNlpad2JlZWFlc1NPaGdRZFdwWWV2UmVLeU5SaUM2YlpiaHJaRV90Ym5kb19HMWppZHBFd3QtUW9TTE9GNnhRMTlaVU5ROHlQZ0tHMDJqVm1lb0VN?oc=5",
-          "title": "The UFC is hard to like. The brilliant Kayla Harrison shows why it’s harder to dismiss | Bryan Armen Graham"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd0EtN01LWUdlUkRVMG1sSEJsXzFjTUhwOVRxZ2RaSnRhZDcxRGFldEQ2RDZ3V2hlam1HT3R4NDlVYUxIbTQ2YmhXcGc4VjUyMl9tM0lpSzRzOVFLbFBjNzJzMGpKSlpSX3JDUE5WRm1kTEw1WWZBSkN0d0h0UkR1bnk1Q1BSUmxUdlFORlFJV0ZtQlNfUnRPQjhiZHJCSDhSUTJ6WERUVzA0cWNhblhpTzFGRnMxeTlMMUMwdllLWjU?oc=5",
-          "title": "\"I Might Have to Give Her a Gold Medal\" - Kayla Harrison surprised by Amanda Nunes Scoring Takedowns"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSnd6dkNweDZSdlc1UDNDRjVLN0JNNjYxSWNZNFBlYm81X2RLeWIxOC1ya3VIc2owNFh5azJzY1RRNmtsaGgzb292WjBqZGg1dy1qZV9yQlNsQlZZYzVrUkJ5ZVZfSE5oRWpNYmtYWHduTDdEWGxTSDJYQW1KejFkbDc0Q0IwVUV0OUV4WjA2dXBGWWVaWW5uT29TSUZ5Q09tcVgwNlNVOXNrZy1TcWlfdU5vaXhoNks2U0swYVB6LXpMN1hqSkpKbEJablhMMm4xdi1KSQ?oc=5",
-          "title": "UFC 334 matchmaker: Is Kayla Harrison vs. Amanda Nunes rematch a must?"
-        },
-        {
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0ZVVTdtTWl2Wk5qNWJ2MnRwV2p2dnRBT1FlQlREaVIxNy1XdnBSTGs2UDZvR2gwNl9JTUYxQ2pFdDlUbnNIcXJKMTI4YVYzb3p0c2huMm9FalJaREN4b1pMQVJYMk1FUmxpdEhPODZxeE9GUVZ1Mzg0YkRCcGw1MXJMa2tMeWxVYWRQZWU5aGFCdw?oc=5",
-          "title": "Kayla Harrison is a winner, UFC champion, and has a major career decision ahead after beating Nunes"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/521605/kayla-harrison-likes-idea-of-free-money-fight-against-ronda-rousey",
-          "title": "Kayla Harrison likes idea of ‘free money’ fight against Ronda Rousey"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVB3SnNWX0loZkdaaGtNc1duQm9DX1dGcWVrWEpFQzhjdy1xYzdiOTJxbGk4S2RZR0pvRXY0VlNIMm9qdi13d1FPZktFR0pRdXlpbEUxc3hfNEx4Q2JPeTU3ZlVoVlRzTkpVMVc4dWZQZ3h3Ny1UVjN6Q1ZELUZITkFQWU9zY21tdFEwVDNXNGJxV0R1ekN1WF9ROFdPNzE5bEJnYWJsckY1Zw?oc=5",
-          "title": "UFC 334 fight fallout: Best options for Ciryl Gane, Josh Hokit, Kayla Harrison and Amanda Nunes after Saturday"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0xfUlAzLWdLdG9HLTk5dTNiMFNIRTRZc2hsY25lUGR4R3pTelBzb2JSbDNrQ3pDV1F5STZ4d1E0aHVhSWxyd21YYXZOc2I1dXVyRHRITERZeW9WcmVGenRjVTJRM19JV3ppd09aOVQ3eGRqc2xfQ1MxSW9WdlBFTWFuLXN3akkxY0x6aEVTTkluc2V0eVNEX21faEo5QzBVV2R0WW95NTNhVmU1THREWS11X1VheGJkUWNQdm0taGZ5NUVYSGlKZtIBzgFBVV95cUxObHJiSGw2ZVF2ZE5Xa2RBRm9TclFlRXJXY2NweV9DazRZR09odkdwZ2NpVmRBTEJUQWNDWDFTMnpjcmNTeEFhMnVlSGhzdTRuTFkwVHR3S3NVRVptck1lUDc4NlVnTnJoSlgta1dES0NSRzlvUzNCYU1XUU1qOGNfVEIxY0tBX1hZSVhOckNRLXRtcGwtcm9KQkdybGhWV1hfeV81cmllMTFISXE0NnZTUFM5RnlwbW9sc0lMemxKVXBUWTBuTjB4cVRsYV9ZZw?oc=5",
-          "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt"
-        },
-        {
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRU43elBtYjBFU1BfNFBiTzVXVDU4ME9qSnh0QlQwT2otY1pZSGd3ZHZiTXNfZ0tPNWtFZWR3Uzl0STNSeEV0UW41LU9xTDBEQ1RZZHpPUUJwU3E0dWQwbVg0clFnRzBPM2RoUE8wbzJLb0s3X3c?oc=5",
-          "title": "UFC 334: Kayla Harrison shocks Amanda Nunes on UFC return to retain title"
-        }
-      ]
-    },
-    "85872b4674": {
-      "key": "85872b4674",
-      "title": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy.",
-      "summary": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy. Vietnam.vn",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.23,
-      "published": "2026-11-16T02:01:44+00:00",
-      "refs": [
-        {
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0QzWkdPNDhCMGttRE0xMThzVUY3RVZjc1hpU3o1MGVTX0V4TDRKOG1IYTdDZm5BbHZHbGRvYUVkUVJrQ3I4dUdaaWdpbWtOYzhleVdSTGlya01ydkE0U3h3aEgtZEtWeW1ZTEFNYVJLUnpqU0JlUFNFcU5JRFpYa3h5TGx4MTFNd3lxaVBnOXhKUHZ5SnRFUHloa213TFRKbzA0bg?oc=5",
-          "title": "Football results and schedule for November 16th: England beat Spain, Belgium overcame Italy."
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
-          "title": "Who swaggered around like he owned the place? Spain v England ratings"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
-          "title": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/spain-vs-england/report/554117",
-          "title": "Ten-man England hold on to claim famous win over Spain"
-        }
-      ]
-    },
-    "fd05bd65d7": {
-      "key": "fd05bd65d7",
-      "title": "Зидан — о победе Франции над Турцией: «Я был недоволен, как и футболисты»",
-      "summary": "Главный тренер сборной Франции Зинедин Зидан раскритиковал игру команды в матче против Турции.",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 1,
-      "heat": 12.13,
-      "published": "2026-11-16T05:57:00+00:00",
-      "refs": [
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/nation-league/news/zidan-o-pobede-francii-nad-turciey-ya-byl-nedovolen-kak-i-futbolisty-2475401/",
-          "title": "Зидан — о победе Франции над Турцией: «Я был недоволен, как и футболисты»"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EdWZMTnpzRHVaa2ZhMVR4ZDhnMlNIUjBZWk5mcUVNQk4wbWhtNFFsMHIySEpTV3JWT2FER3JqSllrZUt0ei1OR2hSRTRReENnT0pCVw?oc=5",
-          "title": "Зидан о Мбаппе против Турции: «Заслуживал двух-трех голов, сам создавал себе моменты. Идеально справился с ролью капитана»"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/football/news-6701486-videoobzor-matcha-ligi-nacij-franciya-turciya.html",
-          "title": "Видеообзор матча Лиги наций Франция — Турция"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT2NmMkdidjZVMkotNFI4SndEOEU0VHNveGxNYl9iVWhSdzFnZVB2dkNib0s5ajduY1IzQzE0TkdfTEU4R2lQMlBwZlVWclZnLTU4aWp0eHk3bTNxU0JOdTkwWHIta1BQQU1ZWTNqTVdQV0U0bGNxdlc3WXlWSExncEQxa1BUcEFaNUdXTTRzTjhacnBhSWx0YnFQdmFDWVh3OS10dENWX1d2cmcyUnB1ZVF4aDl3NmFjR1FnMWJPQ3VZek9oSFEwOVJ6bmxxV3dsQUdQQS1kTG5XMWhWdWQ0Uk04Y29hdFhMREJsT2pn0gHzAUFVX3lxTE5Ddjg0eXNtVG8tWUtFdG1uUE1xOHRDcGltdHVYWUpNbExRYmpZY0x3b1JKMVlhcUZNNGxoUjRuMDdOUmFscGlKSjR2Q0x3dkEzbGUyY2lQeGtCVnFmelNxaVhtdGNlc1E2MHNBT0RnUWk0em5DaU1qQTM1bHJRZWU1cHhScmFielV0eFFVUkxQNjNhY01SVUR0VnRUSnJOS2tTMVkwbHpveW9PZDZrY29ISmxWemM0TXcwOWJ6eVRqZ1hTb0FPeGRIU184VGFpd1VJLXkwamkwX0hqQXJSNnZOSUpjYjIzMG5PT284cERXSDNkSQ?oc=5",
-          "title": "Бельгия не уступит Италии, Англия забьет Испании, а Франция легко разберется с Турцией. Экспресс на Лигу наций"
-        }
-      ]
-    },
-    "b16952b02d": {
-      "key": "b16952b02d",
-      "title": "Вернувшийся из НХЛ Сафонов подписал контракт с \"Ак Барсом\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.6,
-      "published": "2026-11-16T06:56:58+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261116/akbars-2131792053.html",
-          "title": "Вернувшийся из НХЛ Сафонов подписал контракт с \"Ак Барсом\""
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/ilya-safonov-vernulsya-v-ak-bars-iz-vankuvera-srok-kontrakta-i-zarplata-hokkeista-2475420/",
-          "title": "Сафонов подписал контракт с «Ак Барсом» после ухода из «Ванкувера»"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6701402-ya-vernulsya-domoj-eto-klassno-safonov-ocenil-podpisanie-kontrakta-s-ak-barsom.html",
-          "title": "«Я вернулся домой — это классно». Сафонов оценил подписание контракта с «Ак Барсом»"
-        }
-      ]
-    },
-    "7c6678ffc3": {
-      "key": "7c6678ffc3",
-      "title": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334",
-      "summary": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334 MMA Sucka",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.62,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T07:35:03+00:00",
-      "refs": [
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDJVdjdUQm9zT0YyRW50a19LZUY0aHVCTXdCSmtrSEtGcEVyNVJfZlhiMTJpU1hBZkZvYzhQRHlpU3A3YXplTW1XNU1ORzZEcTVFOTM3R1NQY2czT0lUUWtTZTdhSFBmQy1VMnYzSlExXzhvMHNTSnBFS2I4VjFHT0NFWG9sUTVOYU1fYWRDbGVUcXExU2t2WFpR?oc=5",
-          "title": "Israel Adesanya Reacts to Josh Hokit Flipping Bruce Buffer off at UFC 334"
-        },
-        {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkVPUFcyTDNfdVNBbEFfdHQzX01nUHZvZjdGLWhMMXpuLVBSZGxvUFV3RE5PTWcyMnU2ZGFRSTlCSXhPekxabDF2SkM1YmgtOWJCbmtSem1JRXpMLUhFWVdCaGNDeWR5aW1BQktnTVpXbmhIcU9DNDE4TnJWV2MzbHlhVQ?oc=5",
-          "title": "Bruce Buffer Reacts to Hokit’s Middle Finger at UFC 334"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDFXbzZyekhnaUNDN005bDVGZ1F3c0ZaaVhsM094N2ZQRFJhOFA2TUNBWUJqQjc5R2V5NHV4YlQyeWxRaTh5TmhUV3NEZmdrVUVVTG1kc2ktVnQzbnBaeGdFb1M1cThkdElYaXBqbDhvN2tQd1dyUXhySkJndWtUUllJXy1fQQ?oc=5",
-          "title": "Bruce Buffer reacts to Josh Hokit’s middle finger at UFC 334: ‘I can only take so much’"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTJqMUR4Smw0RnBIWVVCWjEwRjhELUxDWUlENUE0TnoxMUdRU0hyVUZ4UXVrN0F4YUg0MHgzVklDSEF3dEU0dzdVMjJzVUcwYnRFRzFJOHlscHRIeWhEdjFoNXVXanpQTFNJMlRmTXdzMWZsaWZtZk44T1dPeThnc21LX1B3alRSbG5Gc0hiNjFfWUNiV1NNQk5iNWVNYkdpTlNXbmpBUkxQV1l3NzBmVENBUGpwbXBDa0xsQW1FTVpUVG90NElVcG15R2c3WkJKcVZXQzdxM2R1OUkwTkZMZ1NYeGJqaWpxZDhtU0stLVlWWWQzQ2tZUTdleXR5Qi10?oc=5",
-          "title": "Bruce Buffer reacts to Josh Hokit’s middle finger at UFC 334: ‘I can only take so much’"
-        }
-      ]
-    },
-    "ef4375ba5d": {
-      "key": "ef4375ba5d",
-      "title": "Шара Буллет раскрыл подробности предложения сдать бой в UFC за 100 млн",
-      "summary": "Шара Буллет раскрыл подробности предложения сдать бой в UFC за 100 млн StavkiPrognozy.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": -1,
-      "heat": 8.9,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T07:06:12+00:00",
-      "refs": [
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3ZiQ2VXYzE1clZxRmQycFNRMmNFaEowZ25VUFlaRjllN21ZbHRTYmNOcm1QcnM4eHFCNGJ3V3FkeEJHVDZZbkFkX1E2a3ZleTA4d3k2eXB5WFBMSmZfTmlBb0FNSEJNdGVfTkU3YmxGU1o5LWU3eVhNSEU5TFd0WGY0ZW81YVRzMzd2bTFOOG14VWZPbUdGTjRCN3o3bWJoN0p6STJtd9IBrAFBVV95cUxOSEppRUI0LV9iY3ZZTkJhaG1OVFJFVUtrdmpocWRKelRranZwQXJoN28xaExoT1d6RDFwdjU5Yy1vWnRHdkhxWHJzR3BEMkxDbm15MTJTck0wanRleGlVd1dZVlVsSm5rYk9jOF9vM0NVT25lLXFFcnVfNFdSMXdvSEZaczhkREU4TnF3WFZubGVrcEhJaXY4Uk1RdnlvMG1fNG5pMWljcFdMeVhy?oc=5",
-          "title": "Шара Буллет рассказал о предложении сдать бой в UFC за 100 млн рублей"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzJ0b0FaQTE1RmN6MEVqYXNpRlBnbXZObUZRWXhOMzhYYjROUjhQRXZjTkVYdWlsU09WbzU4ZWQ3M3llZmxJQmRYTlBySjVpOHBJMlRsQ1I4b2c5cUpKT0FBblVDcTdxVVotUnBxNzhNM1BqTXhBRms5QTh1WUZ1ZXNQVTFUa1BhSTVTNkJ1OVFXV1Rud2JFZi1paHhodmtKdm1iZHBXRURsU0pfUmxvaUdhU1V0TXBpTUV6ZktCcmRkTHloLWJ2NmtVZlo4dw?oc=5",
-          "title": "Шара Буллет рассказал, что ему предлагали 100 миллионов рублей за поражение от Олексейчука"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGhfYVFjQ0ZsY0V2MTdhZmduYnBVUUdGQlFkYnJhRGRCV2pZQUZkdGItZWpjV2xwUW9YNkh0V19TQzRtX0hmUndmYjJXLUtZYmtvQVR1VkpGN3hGMVVsVWQ3bTV0V041MUtOZTJEWjJ1eHhUUmtqcUFxNnZLVUtWWkVpUWJzWXFldkVrdWpFaGFlTXphcXM2QlE2ZzNFYkVGTTlqQXVuQ3hKWUxVVnFQQldFVWtGN09VVFQ2WWtTeS1XMDZXQ2RlSmxMWG9IU1U?oc=5",
-          "title": "Шара Буллет заявил, что ему предлагали сдать бой в UFC за 100 млн, назвав соперника"
-        }
-      ]
-    },
-    "a5a99ab3ed": {
-      "key": "a5a99ab3ed",
-      "title": "Турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году",
-      "summary": "Турнир UFC в России в 2027 году может пройти в спорткомплексе «Олимпийский». Там же в 2018 году состоялся первый в истории турнир UFC в России. Ранее президент UFC Дана Уайт не исключил возвращение турниров в Россию, а генеральный директор Российского фонда прямых инвестиций Кирилл Дмитриев заявил, что работа над этим скоро начнется. Спецпредставитель президента РФ Дмитриев: «Мы скоро начнем работ",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.6,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T07:25:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/boxing/1117438316-turnir-ufc-mozhet-projti-v-sportkomplekse-olimpijskij-v-2027-godu.html",
-          "title": "Турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году"
-        },
-        {
-          "source": "airpress.kz",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rM0FvQklmZ3p2OXBwenJOZGFSdjM0MW52Z3JuNGN1UUNjSlpBeG9OV2ZqU3dVam5qQWNRdllRWWtGSW15TVpfRTlPRFZNb2tTbks3SE5wZGN2Z1A3aGRSb0pIRDczUVBvcEFRcTZR?oc=5",
-          "title": "UFC может провести турнир в «Олимпийском» в Москве в 2027 году — ТАСС"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-turnir-ufc-mozhet-proyti-v-sportkomplekse-olimpiyskiy-v-2027-godu-2475395/",
-          "title": "ТАСС: турнир UFC может пройти в спорткомплексе «Олимпийский» в 2027 году"
-        }
-      ]
-    },
-    "dec3ec193b": {
-      "key": "dec3ec193b",
-      "title": "Волков и Павлович впервые за два года встретились в Нью-Йорке",
-      "summary": "Волков и Павлович впервые за два года встретились в Нью-Йорке Meta MMA",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.29,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-16T07:17:13+00:00",
-      "refs": [
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2Q5LTJMQ3pYbE1tdXN6anlobWt1eW1nQnhsaHlDdFVsenpNa0NOMXZvbTQybUVoTmhVV3JQcE1mQl9ldk1VblhwSzhtLXhyUkhiYlpsVFB5TXZaU29QSHFzRGpMVmJUdUVUeW15dEd2TmpNRmRTZm5kRWtHZF8zSjVJdkRCQTNFbWU4a1lZY1RnSWp4S2ZVNG9XdElTVGl6dHBV?oc=5",
-          "title": "Волков и Павлович впервые за два года встретились в Нью-Йорке"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/boxing/1117438307-aleksandr-volkov-i-sergej-pavlovich-vstretilis-v-nyu-jorke-i-ne-stali-.html",
-          "title": "Александр Волков и Сергей Павлович встретились в Нью-Йорке и не стали жать друг другу руки"
-        },
-        {
-          "source": "FightTime",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTRyUHdRTDhiYjIxWG1rTDFWR1VibmNfaDFjX1dDa3cxNTBGRGFSZEFrclh3cGRyb0dfQ2taVjlxZ19kVmR5LUpfUk1tS1p2el9zR2JCLUF0bS11NlpGYnc1VWY4Q3lXR3N5QUxFczhlbWsyZGNiakRJN2lQOUhwQVF3Sk5xRUh5OU5peGM3d0NXOG9EcFlxeGJMYmp1RUFfcmc?oc=5",
-          "title": "Сергей Павлович и Александр Волков встретились в Нью-Йорке"
-        }
-      ]
-    },
     "5b68b0bfef": {
       "key": "5b68b0bfef",
       "title": "Познер оценил возвращение Трусовой после родов: выступление на этапе Гран-при в Китае",
@@ -3071,507 +2756,854 @@
           "title": "Lauren Price Vs Michaela Kotaskova Upgraded To Historic Undisputed World Title Showdown"
         }
       ]
-    }
-  },
-  "sent": [
-    {
-      "key": "4615daaf62",
-      "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334",
-      "summary": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334 New York Amsterdam News",
+    },
+    "6fe547e0ab": {
+      "key": "6fe547e0ab",
+      "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight",
+      "summary": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight MMA Fighting",
       "lang": "en",
       "sport": "combat",
-      "outlets": 7,
+      "outlets": 6,
       "growth": 0,
-      "heat": 16.74,
-      "published": "2026-11-19T05:00:00+00:00",
+      "heat": 15.5,
+      "published": "2026-11-20T07:44:13+00:00",
       "refs": [
-        {
-          "source": "New York Amsterdam News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjNqTlM2TFNqeWNJM3VGMlpLeENyUEpTTEVxby1wWVhJbzEyUk5aZzBpRnY4VGlxVDEtREF0Yno5MkZIYU93emJmVjg5MVJERVRQWG92YUtHWVhqTW40TnByeGs5ckpiM2dLWDkwdXpvbnNrZURvNk9lb0NwQWdiclZNclVTdklLQ1dn?oc=5",
-          "title": "Cyril Gane defeats Josh Hokit in record-setting main event at UFC 334"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb21zR0RWTzlzNzI5dC1CaWNZWDdFYURLMU9aYWpWeVV3U2NyVkVINkE1dHRFMTVGd3piSkx1aWNRT3JNNkZ3X2RwOUw2RVJzQy0ySmpEdWp0UVNQSmN5TUJ2R2pDZURPUExNanF5UWZYZzZyRk5KdnIwOTNMYlk2cnF5OF9FNkVEY3o1MW1TMkNQN2xvZ0xZNGJZSVZtYkpXZ09GZk1KVjk4WTNFMUpZc2pIS01OOHVKSjVMVU1sdl9Qc0U?oc=5",
-          "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWI0SWhNWHBMU3BWdFAwX2toaHpldjN5N1BnVWZ6ZHRsUUp1ZmhOZFhPRVduSmdmWmJPdFJiM3k4TlhVdDRwd2p2eTZibDR2Y2xiUkhER3FOak0yQkpXTVVka2NfbXVoNWpaUUF6czNYR0Q4N1IwYmlwTXAtN3U1Z1VUWWV2OVR3OUd5Qw?oc=5",
-          "title": "Curtis Blaydes Thinks the Judges Robbed Josh Hokit at UFC 334"
-        },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTdmVjVEQmt1dXgtZzFiNWtCZnFtNzM2SDJSVjZGRmF5ZUc1TzhBMDFaTHg1MWNzbTRVZTJReEZ1ZEpFaTFUck9wR2dGcHRGLUFlQmNFM3J6TGRmZk5GSEpfdFRQNlVqU2VjemFVLXhkRjhvazI5UXdrLU1qamlSb1BHSXZ2dXdFdVlMcjY1Q3VicTQ5YUxhVDhXTGdhX3JJOUN6TTFsZWpZc1ZmNVRCVXVocWRKOURUNGNDLXhKSzdjcVQyUkdLOEEzTnE5NjBjeEZhLUF3?oc=5",
-          "title": "Between the Links: UFC 334 fallout, Mike Perry re-signs, UFC Qatar, Josh Hokit vs. Jon Jones Twitter beef"
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDA4c0pKdnFBX2NKVUhPVmNfVVUzaHprSTdyODJNbmxkb0NEUE56c2VfUUUzUHZQTWFNS1N1ck5wTDloSlh3M29YX3AzaWJMV0daakF5dDVBTVk1ZTkxaHZUUnlDa0I1Z0E5OFQwYUJQN2lTS3lNdUk5R3ZIWGh3YkFjaXprTk13NEttalFWUm1aT1FHakZ6SEpuUUw3WENKWFJ5QVNDbThGSkd5RGtCZ2dwQVJiXzJVVl9yaElFWlAydmtCeWJqOVlDZEI?oc=5",
+          "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight"
         },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEh1X0I0bHNhdk44cV81VnNna2IzbC1zNGFVOVBfME1vQXVLUjd3aEJsREtIU3JWRFVodHBfaG4yX09Wa2pmV2c2aHpmb256cy1fZDBhTkFaRjRGc2JFcXNFcG52UGNJX3N2bFNCaGkyRk5uVkxXRE1SSU5zU1h1amNSajBhNUd4bVB4UzJWc09IUElIcS1JVlFvVnI2Y3VoOHJZOWI4SdIBrAFBVV95cUxQVzRKMGl2SjFTSHV0WlRpcHl1bzIyXzYtbU5GcUw2ZlNsd09oS0huWG1IS1h0VEdsXzJPVXVYM0VTZ1RGNkJCQ0xtZnZETElwamlHRWFqMUFxeF9fVW5sYmUtNVg4d2Y5UWtfS1pkdWxyVWhnR0xLUHV6ekhSYmZ1Qzhfc3NKNnRNajNDeXlXOGFtelpsMGxXMmV3OEFkaGREaHhQSk43ZFp3aXJ5?oc=5",
-          "title": "Jon Jones rips Josh Hokit's takedown argument after UFC 334 loss"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQl96eGhlcG5CMm9TWUR5SERJaHNZMkI4RWN0Z1R1eEpBQXRWbVFVV2pHV2F3OWFUSGk1T1I1STRBajk3cXJCcnFiNWZPWF93V1hqS2Zfdmx2Q2tWNi1YRk8yeUVvVDk1T3NOd0VxektSWTJZbjljRGROQW13QV9TNDMzejNRNzlLbjhEOWVIT2tPamRINVBwYXc2U1lTS21DZnl1eg?oc=5",
-          "title": "Josh Hokit Defends Controversial Moment From UFC 334 Fight With Ciryl Gane"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTWNsekoyNEpSc0FpMW12R1ctMWhhQXJPVklpZHhiZnQxUFd0eW5TY1dhZjc5eVA4eEE0VmJJRUo1MGRHOUNwTzlsbXctWnpjOGdDSVEwVkJ0ellQNXBiaWwxVHRuczJMbVNOUHlUTndjMjhFMEQwVFR3YzlXQ0pOajhTX3doc0g4TEV3d2NzVXFwNG1ZLUczMzhHd2JLYmVxa0l3S3ZDZmRvX3FLaVFjWVB0cHg?oc=5",
-          "title": "Conor McGregor gives Josh Hokit highest of praise as UFC star"
-        }
-      ]
-    },
-    {
-      "key": "2ad1272886",
-      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
-      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.39,
-      "published": "2026-11-19T06:56:20+00:00",
-      "refs": [
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
-          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
-          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
-        },
-        {
-          "source": "spbdnevnik.ru",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
-          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnNKZ0lOaGluV1Z5eGphaWo3TXh0MlMycFU1LWJfVGFsS2hKNVpfdGV6cGVkbHljUmtVaS1pSy12V0w5NHNoZkJtNGsySGwzd0ZmUlctYXdJRDhoTTZXSjBfSHl4bkNxMUVkMU1qRldJR2JWTWN3aUoyZ3pXQjNOSUI4dEtHb21yT0xYRXRsUzZuSVRsUFlmQVNVaGRpQVMwR3dCaWJnRGhJTDBGSUhJc192SmdRbkJwQVpLZ1Zob2U0Y2prMGdwcg?oc=5",
-          "title": "Источник: Усман Нурмагомедов с командой вернулся в Россию после ареста в ОАЭ"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEcxZmRfUVNZVUdNNl9uQnp5U1dsM2RTcmp5TXJod2V4OGxYUjZMdGlvMzhpNmpCTFVVM0ZzVFBvbzZFOU5nbTEzRzU0WDFsZWhTQVJNT1BEcUZmNjQzQy1ZZU5RUlVpVnFPUDI4NWRfRGpRNzJmT2xxNEdLUDJWdnFWTXlfUndMdVJ6Yk13c1MtaUctWTdFUG94OU9Xck9QV0U5OVR5QVI?oc=5",
-          "title": "Масвидаль заявил, что не хочет видеть Усмана Нурмагомедова в UFC"
-        }
-      ]
-    },
-    {
-      "key": "66bb95ebe4",
-      "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО",
-      "summary": "Олимпийская чемпионка Токио-2020 в марафоне Перес Джепчирчир дисквалифицирована на три года за эритропоэтин. Об этом сообщает пресс-служба независимого органа по борьбе с допингом и нарушениями этики в легкой атлетике (AIU). Следы ЭПО были обнаружены во внесоревновательных пробах Джепчирчир от 17 июля. Ее дисквалификация вступила в силу 20 октября 2026 года и завершится 19 октября 2029-го. Результ",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.58,
-      "published": "2026-11-19T08:50:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/athletics/1117441436-olimpijskaya-chempionka-v-marafone-dzhepchirchir-diskvalificzirovana-z.html",
-          "title": "Олимпийская чемпионка в марафоне Джепчирчир дисквалифицирована за ЭПО"
-        },
-        {
-          "source": "Lenta News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHRZeW5rN19fVk10QW9wLWNad1JtaU9WeHR4TFJ0UHcxRU1CMk1UYk9HbGtpZGpNQkVxLTVLWHRYTTNMQWRWOEVId0VZcHhZeUljNVBxTWVVRFppcVJWNXpJV0htbWxwbEpQd3pTUjV6dUdjZHBoVW5ieF9MZVhMZzdLcE9rWHo2OVdBdm80Nlh0dTExZC1VdjV3NktGb1g0dW51VlhXbGd5X1FabjlPY2JB0gG3AUFVX3lxTFBLOUg4NVc4MG9yalFrUkFHdTZBeUIyS3NGWE9NYjNvR1czUGdsWE4weU9xUXRhZkt2bV9RSnhJcjNDUVV0OUZBYUd2LU9QM0lRamZIdFhUS0xmaE9NcXp3NHBycnIzcFNVVEhNWnYtcEhobW1kLUk0TGpYdVdDMm5La3pSSDhIUFNGS3Jmb3NlelNLVFltN2ZTMUVtb1cxcVhEUzIzZmtUZWRnNGpFOFVrYm5KWWJ3Zw?oc=5",
-          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали на три года за допинг"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261119/dzhepchirchir-2132597059.html",
-          "title": "Олимпийскую чемпионку в марафоне дисквалифицировали за допинг"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/athletics/news/olimpiyskuyu-chempionku-v-marafone-dzhepchirchir-diskvalificirovali-za-doping-na-tri-goda-2476503/",
-          "title": "Олимпийскую чемпионку в марафоне Джепчирчир дисквалифицировали за допинг на три года"
-        }
-      ]
-    },
-    {
-      "key": "62a22f2930",
-      "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича",
-      "summary": "ФИФА сняла с «Сочи» запрет на трансферы. Об этом сообщает ТАСС со ссылкой на пресс-службу Международной футбольной федерации. Трансферный бан действовал с 9 сентября – клубу Лиги Pari запретили регистрировать новых игроков в течение трех трансферных окон из-за задолженности перед « Маккаби » из Тель-Авива за трансфер защитника Немани Стоича . 15 сентября гендиректор « Сочи » Сергей Новиков сообщил",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.29,
-      "published": "2026-11-19T08:53:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117441428-fifa-snyala-s-sochi-zapret-na-transfery-nalozhennyj-v-sentyabre-iz-za-.html",
-          "title": "ФИФА сняла с «Сочи» запрет на трансферы, наложенный в сентябре из-за долга перед «Маккаби» за трансфер Стоича"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/rus_d1/news/fifa-snyala-s-sochi-zapret-na-transfery-2476496/",
-          "title": "ФИФА сняла с «Сочи» запрет на трансферы"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XbDRpcmRTSm5HTVd4S0x2elhIcXJwcEkwYU1uSTFzUnZMQ3c3OXU1cTZtbjFXeWZwMXFTSTdJWlloWk5pVUpQcml1bElqVEdJYVVUWWVkaDg1RjF2c1pMclM1OUZaY1c2?oc=5",
-          "title": "ФИФА разрешила «Сочи» регистрировать новых футболистов: подробности"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261119/sochi-2132581160.html",
-          "title": "ФИФА сняла с \"Сочи\" запрет на регистрацию новых футболистов"
-        }
-      ]
-    },
-    {
-      "key": "8384cf21bd",
-      "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals",
-      "summary": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals Olympics",
-      "lang": "en",
-      "sport": "olympic",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.79,
-      "published": "2026-11-19T05:26:00+00:00",
-      "refs": [
-        {
-          "source": "Olympics",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGlIa0NvX1l2SnMxTEZQallkNDBEV1ZMcFAwT3djT3VsTV9pMV92WDg3dWxnZ3p2QlgtelpLZ1l5QUEycW1DeUZIb0ZINW9SS1VUNFpnaFdOdWNud2N2bTk0cU5ZdjdGaWUxOGN5UHRFUlpfdnhPY2MzMjUwaXhHbkUyQzIwblNJaC1odjAtSF9Ddw?oc=5",
-          "title": "Badminton - Hong Kong Open 2026: Loh Kean Yew grinds out another three-game victory to advance to quarter-finals"
-        },
-        {
-          "source": "News On AIR",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXVlMHFRY2dDYklob3J0Y29fOExHZzdhMFZSNWVQbEtpUjBkbmRUTkxDRl9NYVk1SWtwYmh6WDFDQ3R4d21HdkJTZHNGNUFKV0FWTnBWUHpyU0ctWGl2M01ULWRHRFZudEdBWlJZbGl1OGVhOHJZRTFGUUFTMVNwZ2p6NDJmVmtBOGdta2xOOWZMSWlDa1lXXzdoRThueVRRWmVnVFJuMmdkczJsaEE?oc=5",
-          "title": "India defeat Malaysia to enter quarterfinals of Hong Kong Open badminton tournament"
-        },
-        {
-          "source": "The Star",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlRndWl0QjRMMkZ4OExDQ2hFcU11QlJERENwTjV4VWRtcG1EcU51d29jTUJERzdBWkdDeEtGSTNPRjNwRGtPUzQ3akxfYllfU09zRllKTUJLNjJqUExMM2lydXZBaWpMUG9XWjhUTUZkWlBWWW1NX2hKWkpnSWp5WGJQNkRCbVZIRU1ydS1ER1BRS1RXSXBER0dmNzE1SGY4VVdwU3M4R1g2bU9L?oc=5",
-          "title": "Badminton: Aaron-Roy King off to a strong start at Hong Kong Open"
-        },
-        {
-          "source": "Free Malaysia Today",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObl9MbjdhaFpwZzdZQ0RfTlZaekNvbkJHQlBJNGNOcDJUaVlQX3hzOWNVSmZudjQtTU9CZkhEelBkRGJjZHZsWWtXTXpxcXd0XzhxTTUxSGRwM1VpOE5VUGZfMTIwS0plNldRRVNXb2Q0cGpCa3h3WHJmeTZKcnN2MFplSk5vbE40aV8tVGU0RklhMVNxWGIyNjhiUnpIcUtYTndQTEozYk0wTF9KOVJPODJNaTJXUVVhOUtiUnV3?oc=5",
-          "title": "Jun Hao ends year with 10th 1st-round exit at Hong Kong Open"
-        }
-      ]
-    }
-  ],
-  "sent_at": "2026-11-19T09:30:46+00:00",
-  "tg_offset": 360028013,
-  "combat": [
-    {
-      "key": "d752e07ff9",
-      "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar",
-      "summary": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar UFC.com",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.79,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-19T16:08:04+00:00",
-      "refs": [
         {
           "source": "UFC.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5",
           "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG44ZHAtTFBjbmpOSXZVbnJtRHg2eTNUS0VwaUQxQXlQMjRCY2NTZmtCUl9ud2V5N0xibHl3ODZHR1RqQzNieGRGTVYtbjd2dTdMRC1vZkZJRDR3eTJjOGpqbzVLMktSaG5lQ21UbG1mMTFxSmc5eU9pQ01aYUp3eFE0eGVYbVpQY0g0YUJPYkxmLVR4emRrOFhFOEZUODhWcUNvd2tRNUJMdkRkZEVTeDBHT1RTYmc?oc=5",
-          "title": "UFC Qatar best betting props, parlays and picks | Prochazka vs. Stirling"
-        },
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUxKbjVMcVVsRWZPQUxLNHV2MU91WW1zTUlBbWZ5MUNwZjI0MUhFOUdfVWNtQzh0TmtNdkcyRERTNGNPSXVwUEpjT3piZk9hanJNRW8tS0s2ZTFGWklTWk1OTUQ4eWc5MGt1cGRNcHpWX1pBWmNPdFRseWlKR3lwWmJld2VrRGhRcjRrS3Z5blFRSkdraGhBQ2o2NU45ZmJVWnM0MA?oc=5",
-          "title": "Can Prochazka bounce back at UFC Qatar, stop Stirling's rapid rise?"
-        },
-        {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTjBHRHhHZ29fZFBGVFkwajd2QWJUSVNEZU5XekRONmdXOTZTY2pnamJTa0JpNU9sQ0gwOXVkTVRqVXdhRG1naWtweTE5aUl0cmE5RU5uZEZHTFdXWXFFcDF2WlE5VGVaMGJnbTk2cVc3SmhfX2FQT0FwWkt0TjFiMkFCeElmOXhWbEZvZmFjSQ?oc=5",
-          "title": "UFC analyst considers Navajo Stirling 'a tough task' for Jiri Prochazka"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ19QSElQSzlVMFdEamJ6MDJNWFlJZGRVWHNxSHducmhONXZvQnhoQXVLQkVxSXJuUjhBem5rUldGQ2hUb1VzZmVZN2tIbVNuTFpscUhhbnE0XzZPUUNDT2dwczNzQ1lROHhUeHZaSHh1NHlVbG9vTTZCcS1vVEVidA?oc=5",
+          "title": "UFC Qatar weigh-in video: Prochazka vs. Stirling"
+        },
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFlPdlRhTUxSSWlOZmhnNlZabEdOMHVEU0YzZmF5bHN3T1FZVHNnZklpaGliN0JILXdFUFBmLThINmdVZFZTS21rZFF3STNWZmVGQlRlRjRwYV9wbjlnYkQ1RGRZRDZtd1NtRzMyV3IyS0xwNFRIaVhUcGdXVGR5T2pDLXBZeWtySDRGbDVDbw?oc=5",
+          "title": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results"
+        },
+        {
+          "source": "RotoGrinders",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQllRVGt0eHB1T0M1RDltR19MOG9TLTkxWFpnMm5QVjgyLVFITmRPZU9iZmFkdHAyWDUzS0VBZ1E1WnBEUVJkV1JyX3pVdms1NXl4Nm93SGNiXzFrLTJkUGhINFBmYUs0SHgzMWVXRGFQUk0zMTBBOGZvaGlTU0JUNGFvekZkTm9HLWM0em1PMWstTmZSNlMwenRCeW9HcTF5NXByMEdxNGE?oc=5",
+          "title": "UFC Fight Night - Prochazka vs. Stirling: MMA DFS Picks & Betting Breakdown"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEYtRUpNVVlWdEQ2aEd6TDYxZVVzTDZfLVF0SE11bnBpMl9mNjJqSUxtY25Nbi1XTDR2TXVoTk91XzVWcmJ2OG81enAwOGFPdUNGMHpQakhFZzhNT0FuTFU4NWtGSUxuRmJlRmxMbmFOZURkZVJuTjVCQ2F6bWYtNHBQa0ZzYldqYWVsamZsbWR1X1poZ2ZRTVlqZUdPZEV5WjVsSVNLQS15NHNrbHhfb2dRNU9PVzV0V051T3prRmt3ZzFMZHh6SzNackl4YmFjTkdnVg?oc=5",
+          "title": "Ex-UFC champ says it's 'a little premature' for Navajo Stirling to fight Jiri Prochazka"
         }
       ]
     },
-    {
-      "key": "393b6cf957",
-      "title": "Edwards’ world title aim to join Welsh boxing greats",
-      "summary": "Edwards’ world title aim to join Welsh boxing greats cedarnews.net",
-      "lang": "en",
+    "09a47b853b": {
+      "key": "09a47b853b",
+      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
+      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
+      "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.89,
+      "heat": 8.96,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T14:11:29+00:00",
+      "published": "2026-11-20T08:16:43+00:00",
       "refs": [
         {
-          "source": "cedarnews.net",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTdiVnpZNW9RMUdNWG50c1RBN3RYd2xEMXNyLXV5Mmt0SUxqRHVaRjZmSlQzS2lqZ1c3WDh0clFkMzVvVVRONGxpWEYyM3BWNGpubTg3TFhkOTZKdm1teEZIbVdGZ01uTUNhMG1wWjVYUGdjZTRFQkx2TmlOVGI1Z3RQZ3Jpa0tUMnc?oc=5",
-          "title": "Edwards’ world title aim to join Welsh boxing greats"
+          "source": "Спорт Шредингера",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
+          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejkwVnhxMm1IRVhRVXlDTmVyOTBfWEdyUnU5Y1BneDVyaTRURnlKWEZOMmo4OC1xVHJ5dXlaeVpUeEdEZkVrOFBSLXM5RFlSN25mcUpHQ0h3UGNrRzZoMTYwMlFiQTFneGpHdERGcGYtcFAxcDdZZDFGYmY0MzkwUFRR?oc=5",
-          "title": "Edwards' world title aim to join Welsh boxing greats"
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
+          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
         },
         {
-          "source": "AOL.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTzUwTHhVWmYzYlQ0OUtCN0ZLMkVRUV85QlVhc3NfZWE0NlBNeDNFOElXRThTTkpKQ3Y5aVh1RWprZzc4WDg2aE9naEZXT3NRYWFNMFY2RlJpUU5OcXg2aFVidjJ0cEVlMzc3MlkwZVdTdGtaMWc4YnRkSVJwdHM?oc=5",
-          "title": "Edwards' world title aim to join Welsh boxing greats"
+          "source": "Kursiv Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
+          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
         }
       ]
     },
-    {
-      "key": "8c8804e08d",
-      "title": "ONE Championship declares Christian Lee’s welterweight MMA world title vacant",
-      "summary": "ONE Championship declares Christian Lee’s welterweight MMA world title vacant Bangkok Post",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
+    "873a3b2d08": {
+      "key": "873a3b2d08",
+      "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам",
+      "summary": "«Вашингтон Кэпиталз» проведёт церемонию в честь клубного рекорда Александра Овечкина по результативным передачам перед домашним матчем Национальной хоккейной лиги с «Филадельфией Флайерз», сообщается на сайте столичной команды.",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
       "growth": 0,
-      "heat": 8.77,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-19T13:00:00+00:00",
+      "heat": 11.54,
+      "published": "2026-11-20T08:09:04+00:00",
       "refs": [
         {
-          "source": "Bangkok Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0M5SmFyRDdYWDUxS1BqWGg0ZW1jVmxTVW5pQWF4MUxXNGlwLTVoRUhhTEVpNzR1VGYxTGR1eTZmYzg4T0ZaaHhrVlNrN1Q1bEhVYmJlNjl6aXRxZnRkVXZvNzJvZWhXTjRUZmVHZVdYekItSFc3amhqajZ5ZmUzWUt0SHFNaUljOC1CdEF1c2FBUnhzN2sza1ZmbnFCWDhWdEZXUFdtV0hHUWNHRWs3TUI3X1h2Vm1HZFQw?oc=5",
-          "title": "ONE Championship declares Christian Lee’s welterweight MMA world title vacant"
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6706654-vashington-provedyot-ceremoniyu-v-chest-rekorda-ovechkina-po-peredacham.html",
+          "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам"
         },
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHVTV2RIbkZCY04wTGZrdzdoRE5fX0JwSF9ldFpnUjJIUmN0eHJibXJrcGNtaFJYNXpkWjgtRmNVWV9GMzAtLUI3c0FJODZzNFRJRENVLUItekNpSDBiMGlnRGJmVEp1UUJNZVhVYklrc05uMkEtVTk3ZDVxdXQ5QTN0c1ZXZDVzSEwwcExIX2o5RjJpLXc2Zl84dzBPRHR3elU0NFJnT2ZBWDlfMW5Gd2hDSkxxY08tanFycmRJX3k5X2M?oc=5",
-          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion"
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXBJM3hLeEdzN0ZfX2lyMXM3VEJTbGIyLUZOeHk2d0tSTjVTVTByTUR5UlFEWEFSeVpNMnk0WGlkRktxOWlnamhBbV90RnUwdFZXREF4aDhBZ25ucDItcmhxcXRrZkszUWZvTDc1d09KdHFrMjl4SVNPYlhsZWw2dkhLNW1wU3c3WXBwUkdZakJkS3lHMV9WWERoeTNzOHkwckdMMlpUSTFCWktSM0dqY0p2Xzd5dm02czdaQU5aVEp6Y0txMEppcE4tUk1selhlWkx1VXRubkJmLXZQNVpKSWd1SWk?oc=5",
+          "title": "«Вашингтон» проведет церемонию в честь рекорда Овечкина по результативным передачам"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-ustroit-chestvovanie-ovechkina-v-chest-rekorda-po-peredacham-2476842/",
+          "title": "«Вашингтон» устроит чествование Овечкина в честь рекорда по передачам"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261120/ovechkin-2132870521.html",
+          "title": "\"Вашингтон\" проведет церемонию в честь рекорда Овечкина по передачам"
+        }
+      ]
+    },
+    "7cef1f36b2": {
+      "key": "7cef1f36b2",
+      "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях",
+      "summary": "Шведская миграционная служба намерена отказывать в выдаче виз российским спортсменам, планирующим принять участие в соревнованиях, проводимых на территории страны.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.9,
+      "published": "2026-11-20T08:52:34+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/skiing/news-6706706-shveciya-planiruet-ne-vydavat-vizy-rossijskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah.html",
+          "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/skiing/1117442369-shvecziya-ne-budet-vydavat-vizy-rossijskim-sportsmenam.html",
+          "title": "Швеция не будет выдавать визы российским спортсменам"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/others/news/shveciya-otkazalas-vydavat-vizy-rossiyskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah-2476900/",
+          "title": "Швеция отказалась выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261120/shvetsiya-2132905308.html",
+          "title": "Швеция отказалась выдавать визы российским спортсменам"
+        }
+      ]
+    },
+    "2241dad522": {
+      "key": "2241dad522",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 7.85,
+      "published": "2026-11-19T22:56:07+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+          "title": "Lyon outclass Arsenal for Champions League win"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+          "title": "Arsenal 0-2 OL Lyonnes: Women’s Champions League – as it happened"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
+          "title": "Arsenal outclassed in defeat to dominant Lyon"
+        }
+      ]
+    },
+    "134b673e90": {
+      "key": "134b673e90",
+      "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation",
+      "summary": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation Cageside Press",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.06,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T23:29:35+00:00",
+      "refs": [
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHdROTh4UGdsa0tNMTlnMjNPQmpiSW5IR1gtNGNUVXYtMi1nLWJVTWJ4bFBUZGxtVGV6S0t2dzZQTEtvLVBxSnl5eUlwMXludFBCd1ZwbFNBdG15V0k4QVFLQ2ZkRHdRaFFJcFZjeW9oUFVQRmxGWW05cDNMdTRzX0QwdmlhbnFwb20wOVhCeUx1MUZYVDJaUmVLTFlDRVBDUGx1ZHkzSzFuMWUtUkdNdmJ0emFBeUZidFFr?oc=5",
+          "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjBfM0dPY3Rjb3FuYWRRZXRQeEhadVh1STV1NGY3SUI5YjVzaW1fVzBXZnpTckdxZ1Q0ZEo5TmNGbmF6X0lOeVdHZTFyRE9IcldxNlFjbXREajg0RWpnWEJWd3B3QlB2aGg4OEpsZXF6SS1IN0NlTnZVVnhTSWFtTzhONDJheFM3U1RTbHd4RFdMYTJDQzEzUDFMOWp6NklBZDA2VHBlR3VJUlRzY1VOQU1IXzdyRUFpOXYtanUzTFdLczRv?oc=5",
-          "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity"
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2JhX1NfNjJQQjlIcVItV3ZuQXJiaVVvNFhfQzV5RlUydENHSXZGbi13MEMwMFhRcENXMXVkNWd0SldldmdpYXVhTlQyUUtlRExOaEhfTlBnd1dnS0UxNlhHV3RwT3ZxdW9OMmsxTjhmSV9rekZKckkwc3U0RXFOR01sc0VjRk10NTUtSW9PbjZKZW94YTA4b3U3VW5EX08zYWVRNm00NkNmY3M5NlZINTEwajdkYTg5LVZwTmVUOGIzUQ?oc=5",
+          "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation"
+        },
+        {
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDJkQzJ4SGFjbExfVDhvMDVJUEV5TlNzTl9tbm1lZ1dNZFNrb25DZEJaUmwwazhaTjl3ZXdIRWhDNWxiRkdCcVpRQ0o3ODY1aUFVTU9PTnoxd0stYU4tcGNPVjRLSkY3WVVtQ1hUODJyUmN5VXR2OFRuejE1S1k0eEJhd3NfNU1sWHF3Tk43VnFKRnExdkFVSzZQT2pWYlJqaDdXRXJsTlk1ZjlwMFE?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for violating anti-doping policy"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSl9wcUcyMU1VRmlzcENaZF9Ia3dVTmR6YjdObElJUWoxV01Rb0FpejNkcDdORmFqSEo4US10dDdOSlFId3hHUGg2N0ZoR2VwS2ZKVDM3SV95OG5LZFRhenE1cTFDR2ZlMXIwd3RrRGoybmpZWTZTRUFWc1JBWTR4c09Na3NybjlqZWJHWkRkZmlxWEk3ek5UMElXZkxPWVp1SkoxZGp0NTV1eEJNMDBxR3ltazV6UQ?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for anti-doping violation"
+        },
+        {
+          "source": "Telecom Asia Sport",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVdKMi0xblZIX0dpWG04djZfM2kySC12Mi1jVkJhdVljT0JFNEdvYllGNmpYLUlsaFJUQVpRN2l5YjllR3Z3ZGxybmI5RWk2dzJUSEpUWG12c1dhdmZrUjVWenpNaVRyT1lmXzdZbXQ2akZOekZJQzhVQkVjU0VYMXBkRU82bTNVVlhheF9vZG5CNk5FUnZDYnowYzJMNVYwbEZlcVluOFQ?oc=5",
+          "title": "WBC Approves Canelo Alvarez to Challenge Willie Hutchinson for Light Heavyweight Title"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QUzlfNEVBY3FiWEdHVGxOY0VCQkg4VWtLN1VsYjM4d3ZCeldESXNpLXpVajRMd2txZ194VnlQZmFYMXItMnNqUXVGODd4TjRsSkhacXlmZEdnd1k?oc=5",
+          "title": "Statement on Manon Fiorot"
         }
       ]
     },
-    {
-      "key": "87ed68e4b6",
-      "title": "Conor McGregor Gives A Holiday To His Employees For GTA 6",
-      "summary": "Conor McGregor Gives A Holiday To His Employees For GTA 6 MMA Sucka",
+    "28ff3d5612": {
+      "key": "28ff3d5612",
+      "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison",
+      "summary": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison MMA Sucka",
       "lang": "en",
       "sport": "combat",
-      "outlets": 3,
+      "outlets": 4,
       "growth": 0,
-      "heat": 8.62,
+      "heat": 10.34,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T17:25:14+00:00",
+      "published": "2026-11-20T05:10:12+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZrSnRmbGRCV2tRYkhsZUFjNk9hYWR1UG11a2ZxWXh5b0Nsc1lWVFlFdXgyWW1peU9RQlM3TU5EQUprM3V6YkU1UXprUjhmN2V4empqVXV5MmhmcGJIYTMzallucThuYzN0UnZwUkM5cDhHT1V6MUJNdFp4WXpZOWwtS3NlWTdhVUI1Tm9ZTmk4dw?oc=5",
-          "title": "Conor McGregor Gives A Holiday To His Employees For GTA 6"
-        },
-        {
-          "source": "DAZN",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnYtRlRsVkNhMktrckxPWm9iZ2hUVk1sNV8xMjdVOUEzdUtScEtmUlFWUE1xQ0hfNXlkbHYydERtVTJoeXFUeHZRZG91TWFzR3pHckhzRU5rREo2dUNOdi1BSURZdEtZWVRpcUZ4dHlWazdKYi1iT3doTGFnMk5OaTlOMk1sVFBUcWtoOGNPejRKbVBwTzVVVkJaaGpSTnJ1ZEJYYWZGeHZfMEJQdXE0U05SRVVXUERkZTc1RjQ0TzYyQQ?oc=5",
-          "title": "Conor McGregor declares Josh Hokit UFC's biggest star as Jon Jones feud escalates"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUgyNGFkQk9oWmhmQ3dlLTRqcFJoR3Z2LTJLcDEySmx5bXpoUU1PcVNFOWV2dmhXUG90VUlyejRsVm10TVRVSFFCSmVla1poQ3RJQ3V4U1NaQ3NyWnJHNXhtUkZOdUR0dERUbkppcnpEUms1RUNFVHUyX3hDa3RPZGc5V3lPb2tlbDRMd19Wb01vUzViMHdzcVEwckNTQTcySzJPVXJfVnNIZVRPV1I3bQ?oc=5",
+          "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison"
         },
         {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2xyVm1maldtZGhJaEJkcF9UQldidUxFRVZfSWJ3M0JfQlYwSHlnRm5TVEJiOV9UaXdVSEFvRzA4OFVQZ3hLUHBTWmJiRzFETE9SOWRMblIxN2s2RjRiTzEwOFQ1VXhYTFVOZGJ1OV9yS25HNHFUNjhTcFVyNnRYZDEtazNUcmVqeFhYMVNRNjc3M1lfblE?oc=5",
-          "title": "Conor McGregor Makes Surprise Announcement To His 400 Employees Away From UFC"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODlKeXFVLUVESms0SWg1Y1lLZjFNZWpua0duemhweXYwemFWbzhybnk1OTNmSVFfVk12OXUydzZuZTRoSHVPaE1VTUFjYWZCdU4zOG1BVjhPNEcxV2NCT3J4ZTU5cEsyQ3otdXFoX1pDSnVuVW1Bc09QUnNjUVBxaHVudmFpU1Za?oc=5",
+          "title": "Kayla Harrison Beat Amanda Nunes At UFC 334. Nunes Says Harrison Still Doesn’t Get To Call The Shots"
+        },
+        {
+          "source": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnlySkNqb2p6Ni1LR1d4VHRmRmhwTmYzNnZqVmRDdXBzd0hZZzY5ZUhFby1DS2l5R3dRak45UkFhYUhPd0g0Q05aMTMwQjVyUl9aR2ZRMm1sUVkwVUFnZkgxWEVfTjkycFcwNGQ3Y093Q2g4T0RmZmtwN0VqbmVoc3FzYVFEbTBGT1BwcFM4elZnMEJOcjRCSjNoOEdFcHFGTlVjRG1FYjRyUlg2ZlNEaGctT2F3N2xQWG1wWmlQTlZURzdxUFhsaG0tUGw0a05TaGs5U3ZNSHI0dFVIdHJQN3k5dGZFUzA?oc=5",
+          "title": "Amanda Nunes Sends Message to Kayla Harrison After UFC 334 Loss"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDVncWl3aVdfZTRmOXA1RkRXa1doMkt1bzgzSDhoXzZsdXhyV2ZXVC03NDJLdGdSQXVfOWdUVzlpSEZQZ0kxT2ZXY1V4THNLRWJuQ2F3MXJxTUZ3VGFsMWdodE04cDRYZHdDUTFkQW16aWhqSGxDcjdDTFAtVTVEYzdaUHdSUGIyQW9mcWhzNDA3NjExV3YxVDhBSdIBoAFBVV95cUxOX3M3UE1PV1d5MVVDdDFsdEhqUVZ6eHNjQ0xpUFZJWER1b3prbXpPVzU0WWd2eEVldUFqenBwLTAxT1MzcngtRmR3bVZ0VjhkVlJZcDV6OXRjeGZrZTRQSW9CZkJrSDRYYmswNVpxZUhjNm1SbndwZzIzM3ZwUTBjQTcxZ2k5aHFNeTJlcmFWeGd1S1lTVUxUMFZ3UGxVNlFr?oc=5",
+          "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'"
         }
       ]
     },
-    {
-      "key": "5f7e04bbae",
-      "title": "Lauren Price defends her WBA crown against Michaela Kotaskova",
-      "summary": "Lauren Price defends her WBA crown against Michaela Kotaskova World Boxing Association",
+    "7ce00d92ec": {
+      "key": "7ce00d92ec",
+      "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch",
+      "summary": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch MMA Mania",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 9.55,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T18:29:53+00:00",
+      "refs": [
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFg3UGNGeGt0TjdBNDJUVW42YUFqZnEydHFIZk5sVVlyZUp2LU1jM3VhSXlPRmRYX1daWGROMkxzMHQ0dGtkLTZMTUo0TTE4NGhJd0R5SnFfT2JpOVdVbjNOVERZTHVlM1hnWWdjbWZ2LW1PZmVwMm5fdjNLTWw5Q1JsVjllS0VKLXhsbjdrMU5pZEtiSS1VSl9OR1N1OUJkd05PbW8zUFZDd0o5SXF0R0RnanJlMEN6d1Zj?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHJCeVAzNGFzR1gzcG1iLWd6QkJnMkZVSDkxSHJhSkpWMHRaT0RoSDhJVDFsQU1mcmdLdnU3X1E4OWFJTzYxSnM2dElCVUozMGNNVFBqeXdBU0NhcEhHVXhUakpCcTBKeHBMT29ESDRuZk44OU5OMXJyaEk4WWc?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUZ2Qm44UkFRbkttMl9XRm5OOXhCUl83WFBfNnlYSTVqUUJnZzNFdzZuaVB0TnlrRnItTGk4QWNmQVlvV08zT2h4d3M3SXNtRE9aNV80NHZ0MjJQMk5NYlFKblQ0Q09ZRGh5M1VwVjRXUTZrMjBaOF9qSTBmLWlaLU8yc2V3eUhQZU5ERWF0aEVUc1U4Z2dqVThSczRqY0lqanJWMHRrNFV6eTdDRkZBWWVkal9GWXAwUTVHVGx0QldGVjdnUUJrSTNFeW1iM2NGOExicDl3?oc=5",
+          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?"
+        },
+        {
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
+          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
+        }
+      ]
+    },
+    "d151cffb9a": {
+      "key": "d151cffb9a",
+      "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar",
+      "summary": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar Yahoo Sports",
       "lang": "en",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.57,
+      "heat": 8.64,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T16:55:27+00:00",
+      "published": "2026-11-20T05:08:00+00:00",
       "refs": [
         {
-          "source": "World Boxing Association",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWk82X1loU1hhYXAzZm5BOWtZZGk2dWhLZmNoa0lja0k4WV9sUTJXTVZYZjV6c1FxVURFbm5sTHVtZjZreWR2eVllV0VhODBudk1hc3lFZm95dTdiMVdMTEx0bDRsS3RucFFkRjRPempGYkhuWktuSW5ISEI3MkQwNlJqdFl6MVJfVXRhTExIX29EV0pTSXMwVDRqVmFjS2Na?oc=5",
-          "title": "Lauren Price defends her WBA crown against Michaela Kotaskova"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXpjc1B5TTE0MWxmYmJCQW5uOU5Od1ZDTlE1cGNveEJoWHQ4VFBuZTI1MW12aE9BRDBCQ0ZkLWgxNFh1eUxlLXZUa3F5Tm91S0h2c29SRklxNGxZbDd6SzFjQUtFMHozQ3ItcXlaT0FJRlRiWjE1aTdnUlBYbG5kVlRVQTN0OGhhSlh2b2xiVQ?oc=5",
+          "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar"
         },
         {
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zeVJKUkEzMXRrZE5POVpXTU9jQ3BfMWdaR2hhU2dCdUhQbzNTa1hweHpyejNQYlJIR0ZfVzZ4QVlPMG10MmJvaVZpT25KZmNNd1c5TDBKQm1jSUxIVGtqN1kwcHZzdw?oc=5",
-          "title": "Price v Kotaskova: Lauren Price eyes undisputed world title"
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JdTBQaVhUMV8tRFV0cWZFZ0VlUHk5eU9pUFhXZDJieHhpeDJkN3JEalZPNDdrMTBHVHNFb2hZR0IzUUlCUTFvLWREUmpjdFBBWFpLYw?oc=5",
+          "title": "Updates To UFC Qatar"
         },
         {
-          "source": "FightNews",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVN6Wk1taXRveHh4V21oQVpFeFMzNXlaXzhGWkVDWnRNOWI1dXNrWG1zMzB5LXllY3RMcEVGaEUyUWpUdHNXdk41ZG1iaGJwU093WWJGOTgtR0NOcVpIUmxVekFLV3FIa0NsZG13RWZXOHZfbndTeV9lTmZDZWdMei1VRWZpQ2pqT0VzZk56S2JPYm1HdHN0RFhwalVQSFVFUk9NVkNCSUN2VDFtWU5xZHdrNVE5TmM?oc=5",
-          "title": "Lauren Price Vs Michaela Kotaskova Upgraded To Historic Undisputed World Title Showdown"
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXhjNTdsREpTVzBISUQ5cHlINU8yVVA2NjJYUUZaMURkSXplWVh0MHNBV3JCYWFubEJhREFobkhrSlg3UzVzZFZTWmdhNGZlMmo3ZTlJcTJmLTVVaW5hUXktU0NsUEJ3QnR1NV9IU2tZekhtcHdhN2JQSE5sdG9YM0Y0cjBFcnhRRXV0V2hBUmNJdElmaTg3cHNYYXJ2M3ZoUXMtSi13Zm1QREtKVjRabDBWc3VTN05rcmZqc3ZQUFVhTlduVGZfWU13?oc=5",
+          "title": "Israel Adesanya: Navajo Stirling 'too fast, too sharp, too slick' for Jiri Prochazka"
+        }
+      ]
+    }
+  },
+  "sent": [
+    {
+      "key": "6fe547e0ab",
+      "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight",
+      "summary": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight MMA Fighting",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.5,
+      "published": "2026-11-20T07:44:13+00:00",
+      "refs": [
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDA4c0pKdnFBX2NKVUhPVmNfVVUzaHprSTdyODJNbmxkb0NEUE56c2VfUUUzUHZQTWFNS1N1ck5wTDloSlh3M29YX3AzaWJMV0daakF5dDVBTVk1ZTkxaHZUUnlDa0I1Z0E5OFQwYUJQN2lTS3lNdUk5R3ZIWGh3YkFjaXprTk13NEttalFWUm1aT1FHakZ6SEpuUUw3WENKWFJ5QVNDbThGSkd5RGtCZ2dwQVJiXzJVVl9yaElFWlAydmtCeWJqOVlDZEI?oc=5",
+          "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5",
+          "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ19QSElQSzlVMFdEamJ6MDJNWFlJZGRVWHNxSHducmhONXZvQnhoQXVLQkVxSXJuUjhBem5rUldGQ2hUb1VzZmVZN2tIbVNuTFpscUhhbnE0XzZPUUNDT2dwczNzQ1lROHhUeHZaSHh1NHlVbG9vTTZCcS1vVEVidA?oc=5",
+          "title": "UFC Qatar weigh-in video: Prochazka vs. Stirling"
+        },
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFlPdlRhTUxSSWlOZmhnNlZabEdOMHVEU0YzZmF5bHN3T1FZVHNnZklpaGliN0JILXdFUFBmLThINmdVZFZTS21rZFF3STNWZmVGQlRlRjRwYV9wbjlnYkQ1RGRZRDZtd1NtRzMyV3IyS0xwNFRIaVhUcGdXVGR5T2pDLXBZeWtySDRGbDVDbw?oc=5",
+          "title": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results"
+        },
+        {
+          "source": "RotoGrinders",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQllRVGt0eHB1T0M1RDltR19MOG9TLTkxWFpnMm5QVjgyLVFITmRPZU9iZmFkdHAyWDUzS0VBZ1E1WnBEUVJkV1JyX3pVdms1NXl4Nm93SGNiXzFrLTJkUGhINFBmYUs0SHgzMWVXRGFQUk0zMTBBOGZvaGlTU0JUNGFvekZkTm9HLWM0em1PMWstTmZSNlMwenRCeW9HcTF5NXByMEdxNGE?oc=5",
+          "title": "UFC Fight Night - Prochazka vs. Stirling: MMA DFS Picks & Betting Breakdown"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEYtRUpNVVlWdEQ2aEd6TDYxZVVzTDZfLVF0SE11bnBpMl9mNjJqSUxtY25Nbi1XTDR2TXVoTk91XzVWcmJ2OG81enAwOGFPdUNGMHpQakhFZzhNT0FuTFU4NWtGSUxuRmJlRmxMbmFOZURkZVJuTjVCQ2F6bWYtNHBQa0ZzYldqYWVsamZsbWR1X1poZ2ZRTVlqZUdPZEV5WjVsSVNLQS15NHNrbHhfb2dRNU9PVzV0V051T3prRmt3ZzFMZHh6SzNackl4YmFjTkdnVg?oc=5",
+          "title": "Ex-UFC champ says it's 'a little premature' for Navajo Stirling to fight Jiri Prochazka"
+        }
+      ]
+    },
+    {
+      "key": "09a47b853b",
+      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
+      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.96,
+      "published": "2026-11-20T08:16:43+00:00",
+      "refs": [
+        {
+          "source": "Спорт Шредингера",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
+          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
+        },
+        {
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
+          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjlGZkpPaUpOUUZ4cjh6MkF4aTlObVRnS1M5Sms2SXlpSnUwcEV1T2R2ZHFwRjRVTHc4dzgzUDUzTU1zaUFYUGtrbGhJT2VZald6Q3dEREp0U2xhWW9ZbXR0d0IzYUpfcGdRQ29ZSWdGRXpDM3plQ3FCUTYwaGFXcGlsb2hLS2c0VjEyWG54N2Z4NVg0eVVFVC1TU0VWSmF6UzFPSXFjQjBlUnNGbWMzdFkxZw?oc=5",
+          "title": "Результаты взвешивания бойцов перед турниром UFC Fight Night 294 в Дохе"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzFUakJ5d3JkSnd1bDJlcTNsR29rRkl3VW9GVEljNVJNV1JwSDFDbHlMakVaYVJHN0ZpS1B2NzlEdnRhYTBMcjVpOTJuZWdhdEQ1cHJXMS01U09zcGR3R2IzZVhGZWpLUkpZejJDdXBaRGtEdF9OZWZDaEgtbU1WeHBkaEtBOExYMXp3UVdDZk9MdFJGX0VR?oc=5",
+          "title": "Дияр Нургожай прошел взвешивание перед боем на UFC в Катаре"
+        },
+        {
+          "source": "Sportnews.kz",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1NZbEs1d0ZrZnpac1NNMjlkUU55VjZ3Y2ktYlJ5eTctcDR0czJfa3Jscmo0MGdHOVhCemkxOVpYMUFRRkZOc194emVzalFKRVNCY01mTHI1ZmljVDRNU3NFTXdxSXBPejRjczlJR2tieUd2Z2ZLZDlIMHhEcWV6ZW5LcWUtSllYdHVELVhJSUhQZDVvMURKZjNSNTh2Szc4OTZvdUtwTFNmNE41QS1uUXIxY2gyblo4MmtPX29MZkJsS1RBRHc?oc=5",
+          "title": "Алмабаев и Нургожай завершили весогонку перед UFC, но впереди официальная проверка"
+        },
+        {
+          "source": "Kursiv Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
+          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
+        }
+      ]
+    },
+    {
+      "key": "873a3b2d08",
+      "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам",
+      "summary": "«Вашингтон Кэпиталз» проведёт церемонию в честь клубного рекорда Александра Овечкина по результативным передачам перед домашним матчем Национальной хоккейной лиги с «Филадельфией Флайерз», сообщается на сайте столичной команды.",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 11.54,
+      "published": "2026-11-20T08:09:04+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6706654-vashington-provedyot-ceremoniyu-v-chest-rekorda-ovechkina-po-peredacham.html",
+          "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXBJM3hLeEdzN0ZfX2lyMXM3VEJTbGIyLUZOeHk2d0tSTjVTVTByTUR5UlFEWEFSeVpNMnk0WGlkRktxOWlnamhBbV90RnUwdFZXREF4aDhBZ25ucDItcmhxcXRrZkszUWZvTDc1d09KdHFrMjl4SVNPYlhsZWw2dkhLNW1wU3c3WXBwUkdZakJkS3lHMV9WWERoeTNzOHkwckdMMlpUSTFCWktSM0dqY0p2Xzd5dm02czdaQU5aVEp6Y0txMEppcE4tUk1selhlWkx1VXRubkJmLXZQNVpKSWd1SWk?oc=5",
+          "title": "«Вашингтон» проведет церемонию в честь рекорда Овечкина по результативным передачам"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-ustroit-chestvovanie-ovechkina-v-chest-rekorda-po-peredacham-2476842/",
+          "title": "«Вашингтон» устроит чествование Овечкина в честь рекорда по передачам"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261120/ovechkin-2132870521.html",
+          "title": "\"Вашингтон\" проведет церемонию в честь рекорда Овечкина по передачам"
+        }
+      ]
+    },
+    {
+      "key": "7cef1f36b2",
+      "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях",
+      "summary": "Шведская миграционная служба намерена отказывать в выдаче виз российским спортсменам, планирующим принять участие в соревнованиях, проводимых на территории страны.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.9,
+      "published": "2026-11-20T08:52:34+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/skiing/news-6706706-shveciya-planiruet-ne-vydavat-vizy-rossijskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah.html",
+          "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/skiing/1117442369-shvecziya-ne-budet-vydavat-vizy-rossijskim-sportsmenam.html",
+          "title": "Швеция не будет выдавать визы российским спортсменам"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/others/news/shveciya-otkazalas-vydavat-vizy-rossiyskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah-2476900/",
+          "title": "Швеция отказалась выдавать визы российским спортсменам для участия в соревнованиях"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261120/shvetsiya-2132905308.html",
+          "title": "Швеция отказалась выдавать визы российским спортсменам"
+        }
+      ]
+    },
+    {
+      "key": "2241dad522",
+      "title": "Lyon outclass Arsenal for Champions League win",
+      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
+      "lang": "en",
+      "sport": "football",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 7.85,
+      "published": "2026-11-19T22:56:07+00:00",
+      "refs": [
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+          "title": "Lyon outclass Arsenal for Champions League win"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+          "title": "Arsenal 0-2 OL Lyonnes: Women’s Champions League – as it happened"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
+          "title": "Arsenal outclassed in defeat to dominant Lyon"
+        }
+      ]
+    }
+  ],
+  "sent_at": "2026-11-20T09:12:09+00:00",
+  "tg_offset": 360028013,
+  "combat": [
+    {
+      "key": "134b673e90",
+      "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation",
+      "summary": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation Cageside Press",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.06,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T23:29:35+00:00",
+      "refs": [
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHdROTh4UGdsa0tNMTlnMjNPQmpiSW5IR1gtNGNUVXYtMi1nLWJVTWJ4bFBUZGxtVGV6S0t2dzZQTEtvLVBxSnl5eUlwMXludFBCd1ZwbFNBdG15V0k4QVFLQ2ZkRHdRaFFJcFZjeW9oUFVQRmxGWW05cDNMdTRzX0QwdmlhbnFwb20wOVhCeUx1MUZYVDJaUmVLTFlDRVBDUGx1ZHkzSzFuMWUtUkdNdmJ0emFBeUZidFFr?oc=5",
+          "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2JhX1NfNjJQQjlIcVItV3ZuQXJiaVVvNFhfQzV5RlUydENHSXZGbi13MEMwMFhRcENXMXVkNWd0SldldmdpYXVhTlQyUUtlRExOaEhfTlBnd1dnS0UxNlhHV3RwT3ZxdW9OMmsxTjhmSV9rekZKckkwc3U0RXFOR01sc0VjRk10NTUtSW9PbjZKZW94YTA4b3U3VW5EX08zYWVRNm00NkNmY3M5NlZINTEwajdkYTg5LVZwTmVUOGIzUQ?oc=5",
+          "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation"
+        },
+        {
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDJkQzJ4SGFjbExfVDhvMDVJUEV5TlNzTl9tbm1lZ1dNZFNrb25DZEJaUmwwazhaTjl3ZXdIRWhDNWxiRkdCcVpRQ0o3ODY1aUFVTU9PTnoxd0stYU4tcGNPVjRLSkY3WVVtQ1hUODJyUmN5VXR2OFRuejE1S1k0eEJhd3NfNU1sWHF3Tk43VnFKRnExdkFVSzZQT2pWYlJqaDdXRXJsTlk1ZjlwMFE?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for violating anti-doping policy"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSl9wcUcyMU1VRmlzcENaZF9Ia3dVTmR6YjdObElJUWoxV01Rb0FpejNkcDdORmFqSEo4US10dDdOSlFId3hHUGg2N0ZoR2VwS2ZKVDM3SV95OG5LZFRhenE1cTFDR2ZlMXIwd3RrRGoybmpZWTZTRUFWc1JBWTR4c09Na3NybjlqZWJHWkRkZmlxWEk3ek5UMElXZkxPWVp1SkoxZGp0NTV1eEJNMDBxR3ltazV6UQ?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for anti-doping violation"
+        },
+        {
+          "source": "Telecom Asia Sport",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVdKMi0xblZIX0dpWG04djZfM2kySC12Mi1jVkJhdVljT0JFNEdvYllGNmpYLUlsaFJUQVpRN2l5YjllR3Z3ZGxybmI5RWk2dzJUSEpUWG12c1dhdmZrUjVWenpNaVRyT1lmXzdZbXQ2akZOekZJQzhVQkVjU0VYMXBkRU82bTNVVlhheF9vZG5CNk5FUnZDYnowYzJMNVYwbEZlcVluOFQ?oc=5",
+          "title": "WBC Approves Canelo Alvarez to Challenge Willie Hutchinson for Light Heavyweight Title"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QUzlfNEVBY3FiWEdHVGxOY0VCQkg4VWtLN1VsYjM4d3ZCeldESXNpLXpVajRMd2txZ194VnlQZmFYMXItMnNqUXVGODd4TjRsSkhacXlmZEdnd1k?oc=5",
+          "title": "Statement on Manon Fiorot"
+        }
+      ]
+    },
+    {
+      "key": "28ff3d5612",
+      "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison",
+      "summary": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.34,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-20T05:10:12+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUgyNGFkQk9oWmhmQ3dlLTRqcFJoR3Z2LTJLcDEySmx5bXpoUU1PcVNFOWV2dmhXUG90VUlyejRsVm10TVRVSFFCSmVla1poQ3RJQ3V4U1NaQ3NyWnJHNXhtUkZOdUR0dERUbkppcnpEUms1RUNFVHUyX3hDa3RPZGc5V3lPb2tlbDRMd19Wb01vUzViMHdzcVEwckNTQTcySzJPVXJfVnNIZVRPV1I3bQ?oc=5",
+          "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODlKeXFVLUVESms0SWg1Y1lLZjFNZWpua0duemhweXYwemFWbzhybnk1OTNmSVFfVk12OXUydzZuZTRoSHVPaE1VTUFjYWZCdU4zOG1BVjhPNEcxV2NCT3J4ZTU5cEsyQ3otdXFoX1pDSnVuVW1Bc09QUnNjUVBxaHVudmFpU1Za?oc=5",
+          "title": "Kayla Harrison Beat Amanda Nunes At UFC 334. Nunes Says Harrison Still Doesn’t Get To Call The Shots"
+        },
+        {
+          "source": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnlySkNqb2p6Ni1LR1d4VHRmRmhwTmYzNnZqVmRDdXBzd0hZZzY5ZUhFby1DS2l5R3dRak45UkFhYUhPd0g0Q05aMTMwQjVyUl9aR2ZRMm1sUVkwVUFnZkgxWEVfTjkycFcwNGQ3Y093Q2g4T0RmZmtwN0VqbmVoc3FzYVFEbTBGT1BwcFM4elZnMEJOcjRCSjNoOEdFcHFGTlVjRG1FYjRyUlg2ZlNEaGctT2F3N2xQWG1wWmlQTlZURzdxUFhsaG0tUGw0a05TaGs5U3ZNSHI0dFVIdHJQN3k5dGZFUzA?oc=5",
+          "title": "Amanda Nunes Sends Message to Kayla Harrison After UFC 334 Loss"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDVncWl3aVdfZTRmOXA1RkRXa1doMkt1bzgzSDhoXzZsdXhyV2ZXVC03NDJLdGdSQXVfOWdUVzlpSEZQZ0kxT2ZXY1V4THNLRWJuQ2F3MXJxTUZ3VGFsMWdodE04cDRYZHdDUTFkQW16aWhqSGxDcjdDTFAtVTVEYzdaUHdSUGIyQW9mcWhzNDA3NjExV3YxVDhBSdIBoAFBVV95cUxOX3M3UE1PV1d5MVVDdDFsdEhqUVZ6eHNjQ0xpUFZJWER1b3prbXpPVzU0WWd2eEVldUFqenBwLTAxT1MzcngtRmR3bVZ0VjhkVlJZcDV6OXRjeGZrZTRQSW9CZkJrSDRYYmswNVpxZUhjNm1SbndwZzIzM3ZwUTBjQTcxZ2k5aHFNeTJlcmFWeGd1S1lTVUxUMFZ3UGxVNlFr?oc=5",
+          "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'"
+        }
+      ]
+    },
+    {
+      "key": "7ce00d92ec",
+      "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch",
+      "summary": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch MMA Mania",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 9.55,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T18:29:53+00:00",
+      "refs": [
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFg3UGNGeGt0TjdBNDJUVW42YUFqZnEydHFIZk5sVVlyZUp2LU1jM3VhSXlPRmRYX1daWGROMkxzMHQ0dGtkLTZMTUo0TTE4NGhJd0R5SnFfT2JpOVdVbjNOVERZTHVlM1hnWWdjbWZ2LW1PZmVwMm5fdjNLTWw5Q1JsVjllS0VKLXhsbjdrMU5pZEtiSS1VSl9OR1N1OUJkd05PbW8zUFZDd0o5SXF0R0RnanJlMEN6d1Zj?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHJCeVAzNGFzR1gzcG1iLWd6QkJnMkZVSDkxSHJhSkpWMHRaT0RoSDhJVDFsQU1mcmdLdnU3X1E4OWFJTzYxSnM2dElCVUozMGNNVFBqeXdBU0NhcEhHVXhUakpCcTBKeHBMT29ESDRuZk44OU5OMXJyaEk4WWc?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUZ2Qm44UkFRbkttMl9XRm5OOXhCUl83WFBfNnlYSTVqUUJnZzNFdzZuaVB0TnlrRnItTGk4QWNmQVlvV08zT2h4d3M3SXNtRE9aNV80NHZ0MjJQMk5NYlFKblQ0Q09ZRGh5M1VwVjRXUTZrMjBaOF9qSTBmLWlaLU8yc2V3eUhQZU5ERWF0aEVUc1U4Z2dqVThSczRqY0lqanJWMHRrNFV6eTdDRkZBWWVkal9GWXAwUTVHVGx0QldGVjdnUUJrSTNFeW1iM2NGOExicDl3?oc=5",
+          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?"
+        },
+        {
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
+          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
+        }
+      ]
+    },
+    {
+      "key": "09a47b853b",
+      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
+      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.96,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-20T08:16:43+00:00",
+      "refs": [
+        {
+          "source": "Спорт Шредингера",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
+          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
+        },
+        {
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
+          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
+        },
+        {
+          "source": "Kursiv Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
+          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
+        }
+      ]
+    },
+    {
+      "key": "d151cffb9a",
+      "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar",
+      "summary": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.64,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-20T05:08:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXpjc1B5TTE0MWxmYmJCQW5uOU5Od1ZDTlE1cGNveEJoWHQ4VFBuZTI1MW12aE9BRDBCQ0ZkLWgxNFh1eUxlLXZUa3F5Tm91S0h2c29SRklxNGxZbDd6SzFjQUtFMHozQ3ItcXlaT0FJRlRiWjE1aTdnUlBYbG5kVlRVQTN0OGhhSlh2b2xiVQ?oc=5",
+          "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JdTBQaVhUMV8tRFV0cWZFZ0VlUHk5eU9pUFhXZDJieHhpeDJkN3JEalZPNDdrMTBHVHNFb2hZR0IzUUlCUTFvLWREUmpjdFBBWFpLYw?oc=5",
+          "title": "Updates To UFC Qatar"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXhjNTdsREpTVzBISUQ5cHlINU8yVVA2NjJYUUZaMURkSXplWVh0MHNBV3JCYWFubEJhREFobkhrSlg3UzVzZFZTWmdhNGZlMmo3ZTlJcTJmLTVVaW5hUXktU0NsUEJ3QnR1NV9IU2tZekhtcHdhN2JQSE5sdG9YM0Y0cjBFcnhRRXV0V2hBUmNJdElmaTg3cHNYYXJ2M3ZoUXMtSi13Zm1QREtKVjRabDBWc3VTN05rcmZqc3ZQUFVhTlduVGZfWU13?oc=5",
+          "title": "Israel Adesanya: Navajo Stirling 'too fast, too sharp, too slick' for Jiri Prochazka"
         }
       ]
     }
   ],
   "combat_sent": [
     {
-      "key": "7998799fb8",
-      "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion",
-      "summary": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion MMA Sucka",
+      "key": "134b673e90",
+      "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation",
+      "summary": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation Cageside Press",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.06,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T23:29:35+00:00",
+      "refs": [
+        {
+          "source": "Cageside Press",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHdROTh4UGdsa0tNMTlnMjNPQmpiSW5IR1gtNGNUVXYtMi1nLWJVTWJ4bFBUZGxtVGV6S0t2dzZQTEtvLVBxSnl5eUlwMXludFBCd1ZwbFNBdG15V0k4QVFLQ2ZkRHdRaFFJcFZjeW9oUFVQRmxGWW05cDNMdTRzX0QwdmlhbnFwb20wOVhCeUx1MUZYVDJaUmVLTFlDRVBDUGx1ZHkzSzFuMWUtUkdNdmJ0emFBeUZidFFr?oc=5",
+          "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2JhX1NfNjJQQjlIcVItV3ZuQXJiaVVvNFhfQzV5RlUydENHSXZGbi13MEMwMFhRcENXMXVkNWd0SldldmdpYXVhTlQyUUtlRExOaEhfTlBnd1dnS0UxNlhHV3RwT3ZxdW9OMmsxTjhmSV9rekZKckkwc3U0RXFOR01sc0VjRk10NTUtSW9PbjZKZW94YTA4b3U3VW5EX08zYWVRNm00NkNmY3M5NlZINTEwajdkYTg5LVZwTmVUOGIzUQ?oc=5",
+          "title": "Former UFC title challenger Manon Fiorot suspended 3 months for anti-doping violation"
+        },
+        {
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDJkQzJ4SGFjbExfVDhvMDVJUEV5TlNzTl9tbm1lZ1dNZFNrb25DZEJaUmwwazhaTjl3ZXdIRWhDNWxiRkdCcVpRQ0o3ODY1aUFVTU9PTnoxd0stYU4tcGNPVjRLSkY3WVVtQ1hUODJyUmN5VXR2OFRuejE1S1k0eEJhd3NfNU1sWHF3Tk43VnFKRnExdkFVSzZQT2pWYlJqaDdXRXJsTlk1ZjlwMFE?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for violating anti-doping policy"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSl9wcUcyMU1VRmlzcENaZF9Ia3dVTmR6YjdObElJUWoxV01Rb0FpejNkcDdORmFqSEo4US10dDdOSlFId3hHUGg2N0ZoR2VwS2ZKVDM3SV95OG5LZFRhenE1cTFDR2ZlMXIwd3RrRGoybmpZWTZTRUFWc1JBWTR4c09Na3NybjlqZWJHWkRkZmlxWEk3ek5UMElXZkxPWVp1SkoxZGp0NTV1eEJNMDBxR3ltazV6UQ?oc=5",
+          "title": "UFC suspends Manon Fiorot three months for anti-doping violation"
+        },
+        {
+          "source": "Telecom Asia Sport",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVdKMi0xblZIX0dpWG04djZfM2kySC12Mi1jVkJhdVljT0JFNEdvYllGNmpYLUlsaFJUQVpRN2l5YjllR3Z3ZGxybmI5RWk2dzJUSEpUWG12c1dhdmZrUjVWenpNaVRyT1lmXzdZbXQ2akZOekZJQzhVQkVjU0VYMXBkRU82bTNVVlhheF9vZG5CNk5FUnZDYnowYzJMNVYwbEZlcVluOFQ?oc=5",
+          "title": "WBC Approves Canelo Alvarez to Challenge Willie Hutchinson for Light Heavyweight Title"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QUzlfNEVBY3FiWEdHVGxOY0VCQkg4VWtLN1VsYjM4d3ZCeldESXNpLXpVajRMd2txZ194VnlQZmFYMXItMnNqUXVGODd4TjRsSkhacXlmZEdnd1k?oc=5",
+          "title": "Statement on Manon Fiorot"
+        }
+      ]
+    },
+    {
+      "key": "28ff3d5612",
+      "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison",
+      "summary": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison MMA Sucka",
       "lang": "en",
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.24,
+      "heat": 10.34,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T05:29:32+00:00",
+      "published": "2026-11-20T05:10:12+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHVTV2RIbkZCY04wTGZrdzdoRE5fX0JwSF9ldFpnUjJIUmN0eHJibXJrcGNtaFJYNXpkWjgtRmNVWV9GMzAtLUI3c0FJODZzNFRJRENVLUItekNpSDBiMGlnRGJmVEp1UUJNZVhVYklrc05uMkEtVTk3ZDVxdXQ5QTN0c1ZXZDVzSEwwcExIX2o5RjJpLXc2Zl84dzBPRHR3elU0NFJnT2ZBWDlfMW5Gd2hDSkxxY08tanFycmRJX3k5X2M?oc=5",
-          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant, Christian Lee No Longer Champion"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUgyNGFkQk9oWmhmQ3dlLTRqcFJoR3Z2LTJLcDEySmx5bXpoUU1PcVNFOWV2dmhXUG90VUlyejRsVm10TVRVSFFCSmVla1poQ3RJQ3V4U1NaQ3NyWnJHNXhtUkZOdUR0dERUbkppcnpEUms1RUNFVHUyX3hDa3RPZGc5V3lPb2tlbDRMd19Wb01vUzViMHdzcVEwckNTQTcySzJPVXJfVnNIZVRPV1I3bQ?oc=5",
+          "title": "Ray Longo slams Amanda Nunes's fight IQ, corner from UFC 334 fight with Kayla Harrison"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODlKeXFVLUVESms0SWg1Y1lLZjFNZWpua0duemhweXYwemFWbzhybnk1OTNmSVFfVk12OXUydzZuZTRoSHVPaE1VTUFjYWZCdU4zOG1BVjhPNEcxV2NCT3J4ZTU5cEsyQ3otdXFoX1pDSnVuVW1Bc09QUnNjUVBxaHVudmFpU1Za?oc=5",
+          "title": "Kayla Harrison Beat Amanda Nunes At UFC 334. Nunes Says Harrison Still Doesn’t Get To Call The Shots"
+        },
+        {
+          "source": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWnlySkNqb2p6Ni1LR1d4VHRmRmhwTmYzNnZqVmRDdXBzd0hZZzY5ZUhFby1DS2l5R3dRak45UkFhYUhPd0g0Q05aMTMwQjVyUl9aR2ZRMm1sUVkwVUFnZkgxWEVfTjkycFcwNGQ3Y093Q2g4T0RmZmtwN0VqbmVoc3FzYVFEbTBGT1BwcFM4elZnMEJOcjRCSjNoOEdFcHFGTlVjRG1FYjRyUlg2ZlNEaGctT2F3N2xQWG1wWmlQTlZURzdxUFhsaG0tUGw0a05TaGs5U3ZNSHI0dFVIdHJQN3k5dGZFUzA?oc=5",
+          "title": "Amanda Nunes Sends Message to Kayla Harrison After UFC 334 Loss"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDVncWl3aVdfZTRmOXA1RkRXa1doMkt1bzgzSDhoXzZsdXhyV2ZXVC03NDJLdGdSQXVfOWdUVzlpSEZQZ0kxT2ZXY1V4THNLRWJuQ2F3MXJxTUZ3VGFsMWdodE04cDRYZHdDUTFkQW16aWhqSGxDcjdDTFAtVTVEYzdaUHdSUGIyQW9mcWhzNDA3NjExV3YxVDhBSdIBoAFBVV95cUxOX3M3UE1PV1d5MVVDdDFsdEhqUVZ6eHNjQ0xpUFZJWER1b3prbXpPVzU0WWd2eEVldUFqenBwLTAxT1MzcngtRmR3bVZ0VjhkVlJZcDV6OXRjeGZrZTRQSW9CZkJrSDRYYmswNVpxZUhjNm1SbndwZzIzM3ZwUTBjQTcxZ2k5aHFNeTJlcmFWeGd1S1lTVUxUMFZ3UGxVNlFr?oc=5",
+          "title": "Amanda Nunes warns Kayla Harrison: 'This is not PFL, baby'"
+        }
+      ]
+    },
+    {
+      "key": "7ce00d92ec",
+      "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch",
+      "summary": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch MMA Mania",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 9.55,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-19T18:29:53+00:00",
+      "refs": [
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFg3UGNGeGt0TjdBNDJUVW42YUFqZnEydHFIZk5sVVlyZUp2LU1jM3VhSXlPRmRYX1daWGROMkxzMHQ0dGtkLTZMTUo0TTE4NGhJd0R5SnFfT2JpOVdVbjNOVERZTHVlM1hnWWdjbWZ2LW1PZmVwMm5fdjNLTWw5Q1JsVjllS0VKLXhsbjdrMU5pZEtiSS1VSl9OR1N1OUJkd05PbW8zUFZDd0o5SXF0R0RnanJlMEN6d1Zj?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHJCeVAzNGFzR1gzcG1iLWd6QkJnMkZVSDkxSHJhSkpWMHRaT0RoSDhJVDFsQU1mcmdLdnU3X1E4OWFJTzYxSnM2dElCVUozMGNNVFBqeXdBU0NhcEhHVXhUakpCcTBKeHBMT29ESDRuZk44OU5OMXJyaEk4WWc?oc=5",
+          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjBfM0dPY3Rjb3FuYWRRZXRQeEhadVh1STV1NGY3SUI5YjVzaW1fVzBXZnpTckdxZ1Q0ZEo5TmNGbmF6X0lOeVdHZTFyRE9IcldxNlFjbXREajg0RWpnWEJWd3B3QlB2aGg4OEpsZXF6SS1IN0NlTnZVVnhTSWFtTzhONDJheFM3U1RTbHd4RFdMYTJDQzEzUDFMOWp6NklBZDA2VHBlR3VJUlRzY1VOQU1IXzdyRUFpOXYtanUzTFdLczRv?oc=5",
-          "title": "ONE Championship strips Christian Lee of welterweight title after 4 years of inactivity"
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUZ2Qm44UkFRbkttMl9XRm5OOXhCUl83WFBfNnlYSTVqUUJnZzNFdzZuaVB0TnlrRnItTGk4QWNmQVlvV08zT2h4d3M3SXNtRE9aNV80NHZ0MjJQMk5NYlFKblQ0Q09ZRGh5M1VwVjRXUTZrMjBaOF9qSTBmLWlaLU8yc2V3eUhQZU5ERWF0aEVUc1U4Z2dqVThSczRqY0lqanJWMHRrNFV6eTdDRkZBWWVkal9GWXAwUTVHVGx0QldGVjdnUUJrSTNFeW1iM2NGOExicDl3?oc=5",
+          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?"
         },
         {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMENnQ2hrVlA2TktFTml4M2hhR2NEcXYyVng2RS1CcVNuTnB2WW1ROXE2VzVWMUVhWE54ZUttbkJFYlBzb19pcDhISGNGNlNVUEQ0MDlzMVZNWnRXMTlTWGhEUGgtYjJZSDNncTBUWVE3R3dwN0laTmNBY1NNU3VlUk5qbHFlMktXWFY5TlNaQjd3MzJrOXF1ZkxR?oc=5",
-          "title": "ONE Championship Strips Christian Lee of Welterweight Title"
-        },
-        {
-          "source": "ONE Championship",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2RxVm5VUTMzSkRHNXNZV3dJVkE5YWRvSm5aTW1kcDdNMFc5VUttdG1uVi1DRzZUT0V0TkVsS0h0Q0xFTmVwTG9tSDJxR285UHY5dF9SdmtGeEpUYXFVVGRMTTI0YU5uSFdXRkltcVEwcXlGNjJ4SjBLM1M0Yk5iOU1SOVJWQjl3ZEoxRlBhNDVnUE5QOXNPaG80QmtBUjdfSTBVTHV3?oc=5",
-          "title": "ONE Championship Declares ONE Welterweight MMA World Title Vacant"
+          "source": "Sportsnet.ca",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
+          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
         }
       ]
     },
     {
-      "key": "2ad1272886",
-      "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию",
-      "summary": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию Спорт Mail",
+      "key": "09a47b853b",
+      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
+      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
       "lang": "ru",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.39,
+      "heat": 8.96,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T06:56:20+00:00",
+      "published": "2026-11-20T08:16:43+00:00",
       "refs": [
         {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DX213UzROSnhWU1ZqMlhER1E2ZWk2OXp0dmZFRWR2dUYwWVJEaDFaMmNyZFJMR2pYWkowUWRwZF9MU3lIdmh6RHhGaUtIUmZt?oc=5",
-          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию"
+          "source": "Спорт Шредингера",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
+          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-usman-i-umar-nurmagomedovy-vernulis-v-rossiyu-posle-draki-v-oae-2476484/",
-          "title": "ТАСС: Усман и Умар Нурмагомедовы вернулись в Россию после драки в ОАЭ"
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
+          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
         },
         {
-          "source": "spbdnevnik.ru",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0s5RnE4Qk5VN3JpS3BpeUY1MUwwVk92TWlwdWZKVEpwalAtbjFfRDZaT254blZFcnBrLUxaNUJuekdOVDNTVFQ5YXFFSnZwX0lpdWdaZ1duMUNJRXVZam9oQVd1ZkYxUlZxRjFjN01fYUZ3a2VkVGtidGM2d0V4eU41aWEyQ2RrX21NZU9nc1VYN0ZlWVRRaw?oc=5",
-          "title": "Бойцы ММА Усман и Умар Нурмагомедовы вернулись в Россию"
+          "source": "Kursiv Media",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
+          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
         }
       ]
     },
     {
-      "key": "44ce6558a0",
-      "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября",
-      "summary": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября Казинформ",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.31,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-19T09:05:00+00:00",
-      "refs": [
-        {
-          "source": "Казинформ",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG8xM3pVZFdPWXNYYl9pQWJJVEhTNlI3TUk0bzBmNHFDZmpiTXVvT3d2bi00eklqUi1panFVU3lOU3dUWnlxZVd2UG92V2x1M0tpZ1RMZ3hMQ0sxOGRPZVdJdUF3N3I1S21NOGhyanBFR0tFQnMyY2RPRjgwa19YQ2xDdWxnQml1RjYyQURqUldoRnFkcDN0V05aQVU3RGlFRFpnZ1NvNzN4TmlHVFZUNnBn0gGzAUFVX3lxTFB2enNxNnlBcDNkR2UtWGZjcG1YdlM0TzZWTFJYR0c5bjFQdzdqM0ZQeUhHa2FGd2QzcFVlZHM1U1pfcXl5N29vVXZWQUJ6NFUxV2dkSVBBcFAzS2ZVRWFpbUI3YjRKTm4yTFAzcWxoSkVDZHBkUGhrVjQ2aUI5b1lJekRGbWozRWNhWHNGMnZHeHFzQnBUd2JobTZSRDZzMjZmLUhpbUdEOTNaQTVwdHNTT0Z3?oc=5",
-          "title": "Проведение турнира UFC в Казахстане: итоги переговоров озвучат в конце ноября"
-        },
-        {
-          "source": "TengriSport",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYngwcm5qdi16VTZlQVJOd2JSSS1Hc0RNMm9HRlVpclRFQUREbkxQcjBWOEFKN3VhcGtaanhTZjRoRDl5QklONHl4WnVTU3U0eGFEX2ZmRXJsS0d0WnN4Y1V6Z3kzMndNZExTX1NOLXphdTVhQktXa29yNV9GQTJheENxQzRYWUx6Skk4MnlYMjIzYl9Jc1hFLVZoZkHSAaIBQVVfeXFMT2JLM2NkNFA2UGJyeUtLd2s2N2ljYTR6STJFcThYNVVJVmIyRmc2UjR5QklBTkJxTWR0a09XaHFmNHpiRnM4RFllbFZwQ0hTa2xGREV1NF9zcUtJYmxLazZOWmxYX084em1XX1V0LVBVeWthQjR5a3JsSm1rY3BQQS1EdnV2NzdRNUhmeHZyMzdYNjVpR0VCbl9yYXBGNnd6Qk13?oc=5",
-          "title": "Турнир UFC в Казахстане: когда объявят итоги переговоров"
-        },
-        {
-          "source": "Offside.kz",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0xQZDFSLWprd1lqVHhqZG9SOXRZeWxRWXE0TEVGX0VpblpLUVZsSDJPcGM3VERKS3JfRUtERkpPYUxTLUthWW05dmpYWDlUWXhzcGFaQ3hWak1QN2s5Nm9oYXR2S1BaNlg1M2NXLVphdjVqcHhBM002czRBZnpFQVdtY0Ruckt6UElYRnJlZU1EUFhxb0Z3NEVpUlAwdXc?oc=5",
-          "title": "Турнир UFC в Казахстане – итоги переговоров объявят в конце ноября"
-        }
-      ]
-    },
-    {
-      "key": "8900137457",
-      "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор",
-      "summary": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин Фактор - новости Карелии",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.13,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-19T07:21:44+00:00",
-      "refs": [
-        {
-          "source": "новости Карелии",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUU9QRi1zSUtPbi1sdURwOUVxREpXWENhNHh3dThKajR5WWo5cGdjZkVDLWR4aUFCYXFmeEJYZmljT2ZveHc2TTF3SGVmWlREQVlpeVVtaUhfa2JaT0toclBpMDZVWHNkOWZLMUwyalJ0R2pBaV9BSUg2ck9UVlBWYUtVYkhpUU1taFVNRmU2NWhoNE44QTEyRg?oc=5",
-          "title": "Ушел из жизни известный в Карелии тренер по боксу Борис Булыгин - Фактор"
-        },
-        {
-          "source": "Интернет-журнал",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN25KMWVkbzdmNktkcUVRZTVoR2xwTzl1bGdNSWFOSGNSQW0zREhBWm5JOGlBdTVjNVZxYVJVS2c2MHpqYjB2WmJrU0htVVU1bno2VU00c3dkbzktWHdRZVpwMTVtcjhwLTlYVGo4MUFVajhpX0dqaUtpZ1p4SFlnLXdHRU5LdkcxRzhyUlVwT1U5dVhlaEt5ME1tandKQQ?oc=5",
-          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
-        },
-        {
-          "source": "СТОЛИЦА на Онего",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU41X0dnYUFRdHk3MEw2RkNSNVdWSWNPOGc5ZjNST3dGU1RxNFpVYXhNemtKcEhlbE55WGZndjdRMFdxamJxZE5QeWVldGcwQ1hzSlpTLXltSDdxbm01UVZRQ1FndzgxbjlBOTVlbFhZcjRjZmJIZVVjOWNaQWNMX3hJUEFTRHhyUjJGRHhELXRfM0Jkem1HRnJnR2FGQQ?oc=5",
-          "title": "Ушел из жизни легендарный карельский тренер по боксу Борис Булыгин"
-        }
-      ]
-    },
-    {
-      "key": "d91bcc3082",
-      "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16",
-      "summary": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16 MMA Sucka",
+      "key": "d151cffb9a",
+      "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar",
+      "summary": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar Yahoo Sports",
       "lang": "en",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.72,
+      "heat": 8.64,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T06:19:27+00:00",
+      "published": "2026-11-20T05:08:00+00:00",
       "refs": [
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1ZXV204ekRaWXVINklaZGc3XzJUNjg3UkkyX0g5aXVERzRtckJ6NHl1M25xOEgtMk1XMGtKNkFndEw5YkpFTzdxZHhnWUdFcGlPQ0dWRTVQSHZXcXVQUVdVZkNKajNvc2JxZ0hrd0plM2xHTHZMbzdtdF8wUDhlb3pBb0FJb3dGajN6TF83UlRhRXhCR1J0eERwTl9JQlhxMXpERw?oc=5",
-          "title": "Khamzat Chimaev to Lock Horns with UFC Hall of Famer Rashad Evans at RAF 16"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXpjc1B5TTE0MWxmYmJCQW5uOU5Od1ZDTlE1cGNveEJoWHQ4VFBuZTI1MW12aE9BRDBCQ0ZkLWgxNFh1eUxlLXZUa3F5Tm91S0h2c29SRklxNGxZbDd6SzFjQUtFMHozQ3ItcXlaT0FJRlRiWjE1aTdnUlBYbG5kVlRVQTN0OGhhSlh2b2xiVQ?oc=5",
+          "title": "Israel Adesanya Backs Former Teammate Navajo Stirling to Finish Jiri Prochazka at UFC Qatar"
         },
         {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVRRTHdLMnZtQWxKc2YxcV9fR2tsX0pnX1hXRzBNTEI3aElKYmdzVzM4Ti13di04Xzg4cnRQVWpWa3BmeUllQTg1azg5YWdjeUhXaDBLZkNKZEM0XzI2WlBxbEJneHVJZURTQ194TE95ckZhSFZCXzJpb2c2ck5iX0ljazRzdHU2VGRXa1Z5V1poMVhrOEdNTG0zS2Q5aS1tSTN2WHh0TXZoaHVo0gGyAUFVX3lxTE5sdnY5UVVLdW8tT2pEVjZBTTRTVDN4VXZzeGZGaG1Ud0JsX2lhUkZRcDFPMkJNRU44LV9CS3VjVDZtV3BWaF9rWXJNWHhoUk5OdnNpUzgxZVhNeTB4eU1UTVlfNzYycndqdXpTTTA1WXNxTlZ5WnF1Q0p5U3dhWVJEbTVZTzFxa0ozRUdIUVczaEJZX2k1TFFTUHlkdkhrdEd2dnFTME9raW5qZkhCOFFsY1E?oc=5",
-          "title": "Khamzat Chimaev to defend RAF title against UFC legend Rashad Evans"
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JdTBQaVhUMV8tRFV0cWZFZ0VlUHk5eU9pUFhXZDJieHhpeDJkN3JEalZPNDdrMTBHVHNFb2hZR0IzUUlCUTFvLWREUmpjdFBBWFpLYw?oc=5",
+          "title": "Updates To UFC Qatar"
         },
         {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/raf-wrestling/522142/khamzat-chimaev-to-wrestle-rashad-evans-for-crossover-title-at-raf-19",
-          "title": "Khamzat Chimaev to wrestle Rashad Evans for crossover title at RAF 19"
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXhjNTdsREpTVzBISUQ5cHlINU8yVVA2NjJYUUZaMURkSXplWVh0MHNBV3JCYWFubEJhREFobkhrSlg3UzVzZFZTWmdhNGZlMmo3ZTlJcTJmLTVVaW5hUXktU0NsUEJ3QnR1NV9IU2tZekhtcHdhN2JQSE5sdG9YM0Y0cjBFcnhRRXV0V2hBUmNJdElmaTg3cHNYYXJ2M3ZoUXMtSi13Zm1QREtKVjRabDBWc3VTN05rcmZqc3ZQUFVhTlduVGZfWU13?oc=5",
+          "title": "Israel Adesanya: Navajo Stirling 'too fast, too sharp, too slick' for Jiri Prochazka"
         }
       ]
     }
