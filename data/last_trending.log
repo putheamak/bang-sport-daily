@@ -1,36 +1,38 @@
-2026-11-20 18:01:29,375 INFO BBC Sport                         41 items
-2026-11-20 18:01:29,652 INFO The Guardian Sport                25 items
-2026-11-20 18:01:29,677 INFO ESPN                               0 items
-2026-11-20 18:01:29,748 INFO Sky Sports                        20 items
-2026-11-20 18:01:30,020 INFO Google News – Sports (EN)         56 items
-2026-11-20 18:01:30,743 INFO Google News – 体育 (ZH)             50 items
-2026-11-20 18:01:31,100 INFO Google News – Спорт (RU)          45 items
-2026-11-20 18:01:32,362 INFO Championat                        29 items
-2026-11-20 18:01:33,237 INFO Sports.ru                         12 items
-2026-11-20 18:01:35,374 INFO Спорт-Экспресс                   467 items
-2026-11-20 18:01:36,588 INFO РИА Новости Спорт                 20 items
-2026-11-20 18:01:37,050 INFO 中国新闻网 体育                          11 items
-2026-11-20 18:01:37,526 WARNING Feed unreadable Google News – Cambodia sport: <unknown>:2:252: not well-formed (invalid token)
-2026-11-20 18:01:37,940 INFO Google News – Southeast Asia sport  26 items
-2026-11-20 18:01:38,192 WARNING Feed unreadable Google News – Combat promotions: <unknown>:2:252: not well-formed (invalid token)
-2026-11-20 18:01:38,558 INFO Google News – Boxing              38 items
-2026-11-20 18:01:38,763 INFO Google News – Kun Khmer            0 items
-2026-11-20 18:01:38,942 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-20 18:01:39,269 WARNING Feed unreadable Google News – Единоборства (RU): <unknown>:2:252: not well-formed (invalid token)
-2026-11-20 18:01:39,729 WARNING Feed unreadable Google News – 格斗 (ZH): <unknown>:2:252: not well-formed (invalid token)
-2026-11-20 18:01:40,019 INFO MMA Fighting                      10 items
-2026-11-20 18:01:40,302 INFO Google News – Khmer Times sport   15 items
-2026-11-20 18:01:41,197 INFO Candidate stories after clustering: 806
-2026-11-20 18:01:43,103 INFO Trending skipped (not our audience): The Robin Hood of Real Madrid: why a football school in Singapore became a travel agency
-2026-11-20 18:01:43,104 INFO Trending skipped (politics): Trump says he's pardoned deceased MLB slugger Pete Rose
-2026-11-20 18:01:43,128 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-20 18:01:43,128 INFO   1. [ru 5 outlets, heat 12.7] Ги Буше о 3:1 с «Барысом»: «Авангард» расслабился при 3:0, отошел от своей системы. Соперник застави
-2026-11-20 18:01:43,128 INFO   2. [ru 4 outlets, heat 10.9] «Рубин» выпустил видео про GTA VI перед матчем с «Зенитом». В ролике Сальседо отключает пенальти и в
-2026-11-20 18:01:43,128 INFO   3. [ru 4 outlets, heat 10.7] Сяо Хим Фа стал последним в короткой программе на Гран-при Финляндии: «Знакомая ситуация. Я привык о
-2026-11-20 18:01:43,128 INFO   4. [en 4 outlets, heat 10.2] Lauren Price Targets Undisputed Boxing History in Cardiff
-2026-11-20 18:01:43,128 INFO   5. [en 3 outlets, heat 8.9] Arteta warns Arsenal players over FPL team news leak
-2026-11-20 18:01:43,128 INFO   C1. [en 3 outlets, heat 8.2] Lauren Price Targets Undisputed Boxing History in Cardiff
-2026-11-20 18:01:43,128 INFO   C2. [en 2 outlets, heat 6.4] Shakur Stevenson and Raymond Muratalla fail to reach agreement, heads to purse bids
-2026-11-20 18:01:43,128 INFO   C3. [ru 2 outlets, heat 6.3] Усман Нурмагомедов опубликовал первый пост после освобождения из тюрьмы в Абу-Даби
-2026-11-20 18:01:43,128 INFO   C4. [en 2 outlets, heat 6.2] Price and Kotaskova make weight for undisputed fight, with BBC Two coverage from 9pm
-2026-11-20 18:01:43,128 INFO   C5. [en 2 outlets, heat 4.7] Gabriela Fundora ready for title defense
+2026-11-21 08:46:39,696 INFO BBC Sport                         39 items
+2026-11-21 08:46:40,042 INFO The Guardian Sport                27 items
+2026-11-21 08:46:40,075 INFO ESPN                               0 items
+2026-11-21 08:46:40,314 INFO Sky Sports                        20 items
+2026-11-21 08:46:40,585 INFO Google News – Sports (EN)         46 items
+2026-11-21 08:46:40,874 INFO Google News – 体育 (ZH)             44 items
+2026-11-21 08:46:41,544 INFO Google News – Спорт (RU)          46 items
+2026-11-21 08:46:42,853 INFO Championat                        27 items
+2026-11-21 08:46:43,964 INFO Sports.ru                         17 items
+2026-11-21 08:46:45,793 INFO Спорт-Экспресс                   382 items
+2026-11-21 08:46:46,922 INFO РИА Новости Спорт                 20 items
+2026-11-21 08:46:47,932 INFO 中国新闻网 体育                          11 items
+2026-11-21 08:46:48,349 INFO Google News – Cambodia sport      10 items
+2026-11-21 08:46:48,793 INFO Google News – Southeast Asia sport  35 items
+2026-11-21 08:46:49,359 INFO Google News – Combat promotions   75 items
+2026-11-21 08:46:49,745 INFO Google News – Boxing              42 items
+2026-11-21 08:46:49,983 INFO Google News – Kun Khmer            0 items
+2026-11-21 08:46:50,169 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-21 08:46:50,669 INFO Google News – Единоборства (RU)   84 items
+2026-11-21 08:46:51,005 INFO Google News – 格斗 (ZH)             29 items
+2026-11-21 08:46:51,226 INFO MMA Fighting                       9 items
+2026-11-21 08:46:51,478 INFO Google News – Khmer Times sport    5 items
+2026-11-21 08:46:52,181 INFO Candidate stories after clustering: 849
+2026-11-21 08:46:53,693 INFO Trending skipped (politics): Все 10 ассоциаций КОНМЕБОЛ поддержали Инфантино на выборах президента ФИФА
+2026-11-21 08:46:53,696 INFO Trending skipped (politics): Чемпион мира саночник Семен Павличенко получил отказ в нейтральном статусе
+2026-11-21 08:46:53,697 INFO Trending skipped (not our audience): Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 11 lineup advice
+2026-11-21 08:46:53,698 INFO Trending skipped (not our audience): New Daniel Jones Rumors Uncover Buzz Surrounding QB's Surprising Colts Release During NFL 
+2026-11-21 08:46:54,632 INFO Talking points sent to Telegram (5 stories)
+2026-11-21 08:46:54,632 INFO   1. [en 16 outlets, heat 35.9] Boxing: Lauren Price crowned undisputed welterweight champion
+2026-11-21 08:46:54,632 INFO   2. [en 7 outlets, heat 17.2] UFC Fight Night: Procházka vs. Stirling Live Fight Coverage
+2026-11-21 08:46:54,632 INFO   3. [en 4 outlets, heat 11.1] Max Verstappen takes pole for Las Vegas Grand Prix after Kimi Antonelli penalty
+2026-11-21 08:46:54,632 INFO   4. [ru 3 outlets, heat 8.3] Антонелли выиграл квалификацию Гран-при Лас-Вегаса "Формулы-1"
+2026-11-21 08:46:54,632 INFO   5. [ru 3 outlets, heat 8.2] Медведев обыграл Тиафо и вышел в полуфинал итогового турнира ATP
+2026-11-21 08:46:54,632 INFO   C1. [en 6 outlets, heat 15.4] "He's one of the best" - Kevin Vallejos wants Title Shot After Potential win Over Aljamain Sterling 
+2026-11-21 08:46:54,632 INFO   C2. [en 6 outlets, heat 14.9] Amari Jones Stops DeAundre Pettus, Gabriela Fundora Retains Undisputed Title
+2026-11-21 08:46:54,632 INFO   C3. [en 5 outlets, heat 13.9] Boxing: Lauren Price crowned undisputed welterweight champion
+2026-11-21 08:46:54,632 INFO   C4. [en 4 outlets, heat 11.5] Lauren Price Boxing News: 100-90 shutout crowns Wales' first undisputed champion in the four-belt er
+2026-11-21 08:46:54,632 INFO   C5. [ru 3 outlets, heat 9.3] ГРУЗИЯ. Двалишвили назвал примерные сроки следующего боя в UFC
