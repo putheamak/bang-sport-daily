@@ -5,7 +5,7 @@
     "date": "2026-11-21",
     "created": "2026-11-21T20:27:36+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -64,7 +64,20 @@
         "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhMrpo1y4v7GgqbVFfDS9D-sax9IFmz3PPq_grcvRmgxXI6H09QUDw0UYqhaSTllmlInQ9XBM3mNp1eXV7AnYiyPcPHwBmuckBbNbLLuyJ_z-nwlu20-Z-8AG_MvcPed8G8mh0Zom7r5bFC0gXyuM08EGLUI="
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T20:49:03+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T20:49:04+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T20:49:04+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.018,
       "longest": 12,
@@ -242,7 +255,8 @@
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"max\": 4, \"wikipedia_all\": \"Cristiano Ronaldo\"}, {\"caption\": \"Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional\", \"wikipedia\": \"Estádio José Alvalade\"}, {\"caption\": \"Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or\", \"wikipedia\": \"Old Trafford\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"max\": 4, \"wikipedia_all\": \"Cristiano Ronaldo\"}, {\"caption\": \"Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional\", \"wikipedia\": \"Estádio José Alvalade\"}, {\"caption\": \"Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or\", \"wikipedia\": \"Old Trafford\"}]}",
+    "published_at": "2026-11-21T20:49:04+07:00"
   },
   {
     "id": "2026-11-21-news-b4915c",
@@ -426,7 +440,7 @@
     "date": "2026-11-21",
     "created": "2026-11-21T20:24:11+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -580,7 +594,20 @@
         "url": "https://www.mmafighting.com/ufc/521924/kevin-vallejos-expects-title-shot-with-ufc-qatar-win-over-aljamain-sterling-im-next"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T20:49:05+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T20:49:06+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T20:49:06+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -665,7 +692,8 @@
         "area": "sources",
         "msg": "3 source(s) are homepages, not articles: https://mmasucka.com, https://www.mmafighting.com, https://www.ufc.com"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T20:49:06+07:00"
   },
   {
     "id": "2026-11-21-athl-4ed038",

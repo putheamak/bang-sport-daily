@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
-`2026-11-21-news-d01c57` · 2026-11-21
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Alijamain_Sterling_at_UFC_228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Aljamain Sterling**<br>2018 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Alijamain_Sterling_at_UFC_228.jpg)<br>AI sees: _UFC fighter Aljamain Sterling_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/JiriProchazka2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)<br>AI sees: _Czech mixed martial artist Jiří Procházka during an interview_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Vietnam Scores First 11-a-Side World Cup Goals in Narrow 3-2 Loss to Belgium
 `2026-11-21-news-b4915c` · 2026-11-21
 
@@ -34,37 +19,17 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · The Boy from Madeira Who Rewrote Football: The Life and Legacy of Cristiano Ronaldo
-`2026-11-21-athl-6d2c08` · 2026-11-21
+## ✅ live · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
+`2026-11-21-news-d01c57` · 2026-11-21
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/%22Cristiano_Ronaldo%22_%285098214382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/893d689ff65c956d-640.jpg" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **"Cristiano Ronaldo"**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:%22Cristiano_Ronaldo%22_(5098214382).jpg)<br>AI sees: _Cristiano Ronaldo playing for Real Madrid in a Champions League football match_
+**1. 🟢 OK** · cover<br>Caption: **Aljamain Sterling**<br>2018 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Alijamain_Sterling_at_UFC_228.jpg)<br>AI sees: _UFC fighter Aljamain Sterling_
 <br clear="left">
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/1_cristiano_ronaldo_2016.jpg/1280px-1_cristiano_ronaldo_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/4f2b6d1f32222fb7.jpg" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016**<br>2016 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:1_cristiano_ronaldo_2016.jpg)<br>AI sees: _Cristiano Ronaldo jumping during Portugal vs Poland at UEFA Euro 2016_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Turin (Italy), Olympic "Grande Torino" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg)<br>AI sees: _Cristiano Ronaldo playing for Juventus in 2019_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/CR7_museum_and_hotel_in_Funchal%2C_Madeira.JPG/1280px-CR7_museum_and_hotel_in_Funchal%2C_Madeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**4. 🟢 OK**<br>Caption: **CR7 museum and hotel in Funchal, Madeira**<br>2016 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:CR7_museum_and_hotel_in_Funchal,_Madeira.JPG)<br>AI sees: _The Pestana CR7 Hotel and CR7 Museu in Funchal, Madeira_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg/1280px-Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**5. 🟢 OK**<br>Caption: **Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg)<br>AI sees: _interior of Estádio José Alvalade with green seats and pitch_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/1280px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**6. 🟢 OK**<br>Caption: **Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg)<br>AI sees: _Aerial view of Old Trafford football stadium_
+**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)<br>AI sees: _Czech mixed martial artist Jiří Procházka during an interview_
 <br clear="left">
 
 ---
@@ -93,6 +58,41 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <br clear="left">
 
 🔗 Embedded post: [Mohamed Farag - FIFA/FIFA via Getty Images](https://www.gettyimages.com/detail/2306053490) — {'en': "Vietnam's players line up for the team photo before their U-17 World Cup opener against Belgium at the Aspire Zone", 'zh': '越南队球员在精英学院与比利时队的U-17世界杯首战开赛前合影', 'ru': 'Игроки сборной Вьетнама фотографируются перед стартовым матчем юношеского ЧМ против Бельгии на арене Aspire Zone'}
+
+---
+
+## ✅ live · The Boy from Madeira Who Rewrote Football: The Life and Legacy of Cristiano Ronaldo
+`2026-11-21-athl-6d2c08` · 2026-11-21
+
+<img src="../docs/photos/c/afc309c3e1c30a3f-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **"Cristiano Ronaldo"**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:%22Cristiano_Ronaldo%22_(5098214382).jpg)<br>AI sees: _Cristiano Ronaldo playing for Real Madrid in a Champions League football match_
+<br clear="left">
+
+<img src="../docs/photos/c/a0530c67f3c644f8-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016**<br>2016 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:1_cristiano_ronaldo_2016.jpg)<br>AI sees: _Cristiano Ronaldo jumping during Portugal vs Poland at UEFA Euro 2016_
+<br clear="left">
+
+<img src="../docs/photos/c/e2a0933965ab99d6-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Turin (Italy), Olympic "Grande Torino" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg)<br>AI sees: _Cristiano Ronaldo playing for Juventus in 2019_
+<br clear="left">
+
+<img src="../docs/photos/c/56ea4f3d4107763b-640.jpg" width="240" align="left" hspace="10">
+
+**4. 🟢 OK**<br>Caption: **CR7 museum and hotel in Funchal, Madeira**<br>2016 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:CR7_museum_and_hotel_in_Funchal,_Madeira.JPG)<br>AI sees: _The Pestana CR7 Hotel and CR7 Museu in Funchal, Madeira_
+<br clear="left">
+
+<img src="../docs/photos/c/9cb7ecc7d8baa523-640.jpg" width="240" align="left" hspace="10">
+
+**5. 🟢 OK**<br>Caption: **Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg)<br>AI sees: _interior of Estádio José Alvalade with green seats and pitch_
+<br clear="left">
+
+<img src="../docs/photos/c/b2d0994eade48a4d-640.jpg" width="240" align="left" hspace="10">
+
+**6. 🟢 OK**<br>Caption: **Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg)<br>AI sees: _Aerial view of Old Trafford football stadium_
+<br clear="left">
 
 ---
 
