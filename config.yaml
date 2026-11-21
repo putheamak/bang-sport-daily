@@ -125,7 +125,7 @@ publish:
   auto_publish: false      # false = drafts go to your private Telegram review chat + email; you approve
   website: true            # public reader site on GitHub Pages (published stories only)
   telegram: true           # one channel per language: TELEGRAM_CHANNEL_EN / _ZH / _RU
-  facebook: true           # posts the English version to the Facebook Page once FB_PAGE_ID + FB_PAGE_TOKEN secrets exist
+  facebook: false          # editor posts to Facebook by hand (Nov 2026). To automate: FB_PAGE_ID + FB_PAGE_TOKEN secrets, then true
   email_digest: true
   markdown: true
   docx: true
