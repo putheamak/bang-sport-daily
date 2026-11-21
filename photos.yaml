@@ -217,3 +217,15 @@
         en: "Vietnam's players line up for the team photo before their U-17 World Cup opener against Belgium at the Aspire Zone"
         zh: "越南队球员在精英学院与比利时队的U-17世界杯首战开赛前合影"
         ru: "Игроки сборной Вьетнама фотографируются перед стартовым матчем юношеского ЧМ против Бельгии на арене Aspire Zone"
+
+# 21 Nov 2026: Ronaldo life story: more free photos of him + stadiums of his career (the World Cup photo is
+# already the cover of a story from 6 Nov, so a different one leads).
+2026-11-21-athl-6d2c08:
+  mode: replace
+  photos:
+    - wikipedia_all: "Cristiano Ronaldo"
+      max: 4
+    - wikipedia: "Estádio José Alvalade"
+      caption: "Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional"
+    - wikipedia: "Old Trafford"
+      caption: "Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or"
