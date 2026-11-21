@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Vietnam Scores First 11-a-Side World Cup Goals in Narrow 3-2 Loss to Belgium
-`2026-11-21-news-b4915c` · 2026-11-21
-
-<img src="../docs/photos/card-2026-11-21-news-b4915c.png" width="240" align="left" hspace="10">
-
-**1. 🟢 our score card** · cover<br>Caption: **Belgium U17 3 - 2 Vietnam U17 · FIFA U-17 World Cup Qatar 2026**<br>2026 · Own work
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha at night_<br>⚑ file looks like a non-sport scene (Fireworks)
-<br clear="left">
-
----
-
 ## ✅ live · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
 `2026-11-21-news-d01c57` · 2026-11-21
 
