@@ -101,7 +101,16 @@
         "width": 1200,
         "height": 1211,
         "year": 2016,
-        "subject": "Abdulmanap Nurmagomedov"
+        "subject": "Abdulmanap Nurmagomedov",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:%d0%90%d0%b1%d0%b4%d1%83%d0%bb%d0%bc%d0%b0%d0%bd%d0%b0%d0%bf_%d0%9d%d1%83%d1%80%d0%bc%d0%b0%d0%b3%d0%be%d0%bc%d0%b5%d0%b4%d0%be%d0%b2.png|Abdulmanap Nurmagomedov",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Abdulmanap Nurmagomedov wearing a Reebok shirt",
+          "reason": "The image clearly shows Khabib Nurmagomedov's late father and coach, Abdulmanap Nurmagomedov, in UFC/Reebok athletic apparel.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Khabib_nurmagomedov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -113,7 +122,16 @@
         "width": 1200,
         "height": 1888,
         "year": 2022,
-        "subject": "Khabib Nurmagomedov"
+        "subject": "Khabib Nurmagomedov",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:khabib_nurmagomedov.jpg|Khabib Nurmagomedov",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Khabib Nurmagomedov being interviewed at a UFC Hall of Fame event",
+          "reason": "The image clearly depicts former UFC champion Khabib Nurmagomedov in a suit at an official UFC event.",
+          "by": "ai"
+        }
       }
     ],
     "standards": [
@@ -283,34 +301,25 @@
         "width": 1200,
         "height": 1567,
         "year": 2022,
-        "subject": "Jiří Procházka"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alijamain_Sterling_at_UFC_228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Alijamain_Sterling_at_UFC_228.jpg",
-        "artist": "MMAnytt",
-        "license": "CC BY 3.0",
-        "license_url": "https://creativecommons.org/licenses/by/3.0",
-        "description": "Alijamain Sterling at UFC 228",
-        "width": 1200,
-        "height": 1505,
-        "year": 2018,
-        "subject": "Aljamain Sterling"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg",
-        "artist": "The White House",
-        "license": "Public domain",
-        "license_url": "",
-        "description": "motorcycle stunts on the South Lawn of the White House ahead of UFC Freedom 250, Saturday, June 13, 2026",
-        "width": 1200,
-        "height": 1867,
-        "year": 2026,
-        "subject": "Carlos Ulberg"
+        "subject": "Jiří Procházka",
+        "editor": true,
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:jiriprochazka2022.png|Jiří Procházka",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "",
+          "reason": "",
+          "by": "editor"
+        }
       }
     ],
     "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
       {
         "level": "WARN",
         "area": "photos",
@@ -322,7 +331,8 @@
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
       }
     ],
-    "published_at": "2026-11-21T12:24:28+07:00"
+    "published_at": "2026-11-21T12:24:28+07:00",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}, {\"caption\": \"Ali Bin Hamad Al-Attiyah Arena in Al Rayyan, Qatar, venue of UFC Fight Night 294\", \"wikipedia\": \"Ali Bin Hamad al-Attiyah Arena\"}]}"
   },
   {
     "id": "2026-11-21-news-10e4ee",
@@ -446,7 +456,18 @@
         "width": 1200,
         "height": 798,
         "year": 2006,
-        "subject": "Aspire Zone"
+        "subject": "Aspire Zone",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:asian_games_doha_2006_fireworks.jpg|Aspire Zone",
+          "verdict": "ok",
+          "flags": [
+            "file looks like a non-sport scene (Fireworks)"
+          ],
+          "shows": "Aspire Tower and Khalifa International Stadium in Aspire Zone at night with fireworks",
+          "reason": "The photo accurately depicts the Aspire Zone complex in Doha, Qatar, featuring Aspire Tower and the stadium.",
+          "by": "ai"
+        }
       },
       {
         "url": "../photos/card-2026-11-21-news-10e4ee.png",
@@ -624,7 +645,16 @@
         "width": 1200,
         "height": 930,
         "year": 2021,
-        "subject": "Al Bayt Stadium"
+        "subject": "Al Bayt Stadium",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:al_bayt_stadium.jpg|Al Bayt Stadium",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Interior of Al Bayt Stadium during the 2021 FIFA Arab Cup",
+          "reason": "The distinctive seating patterns and venue design correctly show Al Bayt Stadium in Qatar.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Enner_Valencia_Cote_D%27Ivoire_v_Ecuador_14_June_2026-95.jpg/1280px-Enner_Valencia_Cote_D%27Ivoire_v_Ecuador_14_June_2026-95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -636,7 +666,16 @@
         "width": 1200,
         "height": 1800,
         "year": 2026,
-        "subject": "Enner Valencia"
+        "subject": "Enner Valencia",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:enner_valencia_cote_d%27ivoire_v_ecuador_14_june_2026-95.jpg|Enner Valencia",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Ecuadorian footballer Enner Valencia wearing the national team jersey",
+          "reason": "The photo clearly depicts Enner Valencia in an Ecuador national football team kit.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/1280px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -648,7 +687,16 @@
         "width": 1200,
         "height": 1800,
         "year": 2026,
-        "subject": "Lionel Messi"
+        "subject": "Lionel Messi",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:leo_messi_argentina_v_egypt_7_july_2026-1.jpg|Lionel Messi",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Lionel Messi in an Argentina national football team kit",
+          "reason": "The image clearly depicts footballer Lionel Messi in football kit.",
+          "by": "ai"
+        }
       },
       {
         "url": "../photos/card-2026-11-20-hist-924465.png",
@@ -815,18 +863,6 @@
     "region": "cambodia",
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Michael_Falkesgaard_20191101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Michael_Falkesgaard_20191101.jpg",
-        "artist": "El Loko Foto",
-        "license": "CC BY 4.0",
-        "license_url": "https://creativecommons.org/licenses/by/4.0",
-        "description": "Michael Falkesgaard at the Asian Cup 2019",
-        "width": 1200,
-        "height": 1800,
-        "year": 2019,
-        "subject": "Michael Falkesgaard"
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
         "artist": "中国新闻社",
@@ -836,19 +872,39 @@
         "width": 1200,
         "height": 706,
         "year": 2021,
-        "subject": "Morodok Techo National Stadium"
+        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC",
+        "editor": true,
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "",
+          "reason": "",
+          "by": "editor"
+        }
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dr._Martins_Junior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Dr._Martins_Junior.jpg",
-        "artist": "Unknown author Unknown author",
-        "license": "Public domain",
-        "license_url": "",
-        "description": "Dr. Martins Junior",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Michael_Falkesgaard_20191101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Michael_Falkesgaard_20191101.jpg",
+        "artist": "El Loko Foto",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Michael Falkesgaard at the Asian Cup 2019",
         "width": 1200,
-        "height": 1525,
+        "height": 1800,
         "year": 2019,
-        "subject": "Martins Júnior"
+        "subject": "Port FC goalkeeper Michael Falkesgaard",
+        "editor": true,
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:michael_falkesgaard_20191101.jpg|Port FC goalkeeper Michael Falkesgaard",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "",
+          "reason": "",
+          "by": "editor"
+        }
       },
       {
         "url": "../photos/card-2026-11-20-news-c324ff.png",
@@ -868,7 +924,12 @@
       {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
       },
       {
         "level": "INFO",
@@ -881,7 +942,8 @@
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
     ],
-    "published_at": "2026-11-21T12:24:23+07:00"
+    "published_at": "2026-11-21T12:24:23+07:00",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}, {\"caption\": \"Port FC goalkeeper Michael Falkesgaard\", \"commons\": \"File:Michael_Falkesgaard_20191101.jpg\"}]}"
   },
   {
     "id": "2026-11-20-news-64c370",
@@ -1035,7 +1097,16 @@
         "width": 1200,
         "height": 1888,
         "year": 2022,
-        "subject": "Khabib Nurmagomedov"
+        "subject": "Khabib Nurmagomedov",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:khabib_nurmagomedov.jpg|Khabib Nurmagomedov",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Khabib Nurmagomedov in a suit at a UFC Hall of Fame event",
+          "reason": "The photo clearly shows former UFC champion Khabib Nurmagomedov matching the caption.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jake_Paul_March_2026_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -1047,7 +1118,18 @@
         "width": 1200,
         "height": 1599,
         "year": 2026,
-        "subject": "Jake Paul"
+        "subject": "Jake Paul",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:jake_paul_march_2026_(3x4_cropped).jpg|Jake Paul",
+          "verdict": "ok",
+          "flags": [
+            "file looks like a non-sport scene (White House)"
+          ],
+          "shows": "portrait of Jake Paul in a suit",
+          "reason": "The image clearly shows Jake Paul, correctly matching the caption and story.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ilham_Aliyev_received_Dana_White%2C_June_2025_%283x4_cropped_and_rotated_on_White%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -1059,7 +1141,18 @@
         "width": 1200,
         "height": 1600,
         "year": 2025,
-        "subject": "Dana White"
+        "subject": "Dana White",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:ilham_aliyev_received_dana_white,_june_2025_(3x4_cropped_and_rotated_on_white).jpg|Dana White",
+          "verdict": "ok",
+          "flags": [
+            "file looks like a non-sport scene (received)"
+          ],
+          "shows": "portrait of Dana White in a black blazer",
+          "reason": "The image clearly shows UFC CEO Dana White, matching the photo caption.",
+          "by": "ai"
+        }
       }
     ],
     "standards": [
@@ -1178,7 +1271,16 @@
         "width": 1200,
         "height": 1599,
         "year": 2026,
-        "subject": "Emma Hayes"
+        "subject": "Emma Hayes",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:emma_hayes_uswnt_v_colombia_mar_7_2026-68_(cropped).jpg|Emma Hayes",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "football manager Emma Hayes smiling in Team USA apparel",
+          "reason": "The photo clearly shows USWNT head coach Emma Hayes.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_%28cropped%29.jpg/1280px-Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1190,7 +1292,16 @@
         "width": 1200,
         "height": 1599,
         "year": 2026,
-        "subject": "Trinity Rodman"
+        "subject": "Trinity Rodman",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:trinity_rodman_uswnt_v_colombia_mar_7_2026-87_(cropped).jpg|Trinity Rodman",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "USWNT soccer player Trinity Rodman in team kit",
+          "reason": "The image clearly shows Trinity Rodman wearing a US Women's National Team jersey.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg/1280px-Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1202,7 +1313,16 @@
         "width": 1200,
         "height": 1799,
         "year": 2026,
-        "subject": "Mallory Swanson"
+        "subject": "Mallory Swanson",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:mallory_swanson_gotham_v_chicago_25_september_2026-056_(cropped).jpg|Mallory Swanson",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Mallory Swanson in a Chicago Stars FC football jersey",
+          "reason": "The image clearly shows USWNT and Chicago forward Mallory Swanson in her club kit.",
+          "by": "ai"
+        }
       }
     ],
     "standards": [
@@ -1291,7 +1411,16 @@
         "width": 1200,
         "height": 1600,
         "year": 2024,
-        "subject": "Mikhail Maltsev, who moves from Spartak to Metallurg"
+        "subject": "Mikhail Maltsev, who moves from Spartak to Metallurg",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:%d0%9c%d0%b0%d0%bb%d1%8c%d1%86%d0%b5%d0%b2_%d0%9c%d0%b8%d1%85%d0%b0%d0%b8%d0%bb_(%d1%85%d0%be%d0%ba%d0%ba%d0%b5%d0%b8%d1%81%d1%82).jpg|Mikhail Maltsev, who moves from Spartak to Metallurg",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Spartak Moscow ice hockey player wearing number 13 on the ice",
+          "reason": "Shows Mikhail Maltsev in his Spartak Moscow uniform wearing number 13, matching the caption and 2024 era.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2023_AHL_All-Star_Classic_Game_-_Ruslan_Iskhakov_%2852673708091%29.jpg/1280px-2023_AHL_All-Star_Classic_Game_-_Ruslan_Iskhakov_%2852673708091%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1303,7 +1432,16 @@
         "width": 1200,
         "height": 800,
         "year": 2023,
-        "subject": "Ruslan Iskhakov, who moves from Metallurg to Spartak"
+        "subject": "Ruslan Iskhakov, who moves from Metallurg to Spartak",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:2023_ahl_all-star_classic_game_-_ruslan_iskhakov_(52673708091).jpg|Ruslan Iskhakov, who moves from Metallurg to Spartak",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "hockey player Ruslan Iskhakov at the 2023 AHL All-Star Classic",
+          "reason": "The image shows ice hockey player Ruslan Iskhakov wearing jersey number 17 representing the Atlantic Division at the 2023 AHL All-Star event.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Views_of_Magnitogorsk-2021_-_72.jpeg/1280px-Views_of_Magnitogorsk-2021_-_72.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1315,7 +1453,16 @@
         "width": 1200,
         "height": 454,
         "year": 2021,
-        "subject": "Arena Metallurg in Magnitogorsk"
+        "subject": "Arena Metallurg in Magnitogorsk",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:views_of_magnitogorsk-2021_-_72.jpeg|Arena Metallurg in Magnitogorsk",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of Arena Metallurg in Magnitogorsk",
+          "reason": "The building displays the Russian sign 'АРЕНА МЕТАЛЛУРГ' and promotional posters for HC Metallurg.",
+          "by": "ai"
+        }
       }
     ],
     "zh": {
@@ -1549,7 +1696,16 @@
         "width": 1200,
         "height": 1513,
         "year": 2019,
-        "subject": "Hajime Moriyasu, who led Japan in 113 matches from 2018"
+        "subject": "Hajime Moriyasu, who led Japan in 113 matches from 2018",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:hajime_moriyasu_at_iran-japan_pre-match_conference_2.jpg|Hajime Moriyasu, who led Japan in 113 matches from 2018",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Hajime Moriyasu speaking at a press conference",
+          "reason": "The image clearly shows Japan national football team manager Hajime Moriyasu.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg/1280px-Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1561,7 +1717,16 @@
         "width": 1200,
         "height": 1800,
         "year": 2026,
-        "subject": "Paraguay captain Gustavo Gómez, who scored the second goal"
+        "subject": "Paraguay captain Gustavo Gómez, who scored the second goal",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:gustavo_gomez_france_v_paraguay_4_july_2026-029.jpg|Paraguay captain Gustavo Gómez, who scored the second goal",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Paraguayan footballer Gustavo Gómez wearing a Paraguay national team training kit",
+          "reason": "The photo clearly shows Paraguayan national team captain Gustavo Gómez in an official team shirt.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg/1280px-Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1573,7 +1738,16 @@
         "width": 1200,
         "height": 692,
         "year": 2015,
-        "subject": "The National Stadium in Singapore, venue of the friendly"
+        "subject": "The National Stadium in Singapore, venue of the friendly",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:singapore_singapore-sports-hub-with-national-stadium-01.jpg|The National Stadium in Singapore, venue of the friendly",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "The National Stadium at Singapore Sports Hub",
+          "reason": "The image clearly shows the exterior dome of Singapore's National Stadium, matching the caption.",
+          "by": "ai"
+        }
       },
       {
         "url": "../photos/card-2026-11-18-news-cc77a5.png",
@@ -1702,7 +1876,16 @@
         "width": 1200,
         "height": 1776,
         "year": 2024,
-        "subject": "Matvei Michkov, who had two assists for the Flyers"
+        "subject": "Matvei Michkov, who had two assists for the Flyers",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:matvei_michkov_2024-10-17.jpg|Matvei Michkov, who had two assists for the Flyers",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Philadelphia Flyers player Matvei Michkov in uniform",
+          "reason": "The image shows Matvei Michkov wearing his Philadelphia Flyers jersey with number 39.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg/1280px-Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1714,7 +1897,16 @@
         "width": 1200,
         "height": 702,
         "year": 2019,
-        "subject": "The Flyers' home arena in Philadelphia"
+        "subject": "The Flyers' home arena in Philadelphia",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:wells_fargo_center_-_2019_owl_grand_finals.jpg|The Flyers' home arena in Philadelphia",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Wells Fargo Center in Philadelphia",
+          "reason": "The image clearly shows Wells Fargo Center with the Philadelphia Flyers logo on the exterior facade.",
+          "by": "ai"
+        }
       },
       {
         "url": "../photos/card-2026-11-18-news-00e678.png",
@@ -1819,7 +2011,16 @@
         "width": 1200,
         "height": 801,
         "year": 2017,
-        "subject": "The 3Arena in Dublin, where Reeves fought on 1 August"
+        "subject": "The 3Arena in Dublin, where Reeves fought on 1 August",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:3arena,_dublin_(geograph_5417559).jpg|The 3Arena in Dublin, where Reeves fought on 1 August",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of the 3Arena at night in Dublin",
+          "reason": "The photo clearly shows the exterior of the 3Arena in Dublin, matching the caption.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Limerick_r%C3%ADo_%2846531600435%29.jpg/1280px-Limerick_r%C3%ADo_%2846531600435%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1831,7 +2032,16 @@
         "width": 1200,
         "height": 1800,
         "year": 2018,
-        "subject": "Limerick, Reeves' home city"
+        "subject": "Limerick, Reeves' home city",
+        "check": {
+          "v": 1,
+          "key": "https://commons.wikimedia.org/wiki/file:limerick_r%c3%ado_(46531600435).jpg|Limerick, Reeves' home city",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Waterfront buildings including Riverpoint along the River Shannon in Limerick",
+          "reason": "The photo accurately shows the Limerick waterfront, with identifiable landmarks like the Riverpoint building and Limerick City Hotel.",
+          "by": "ai"
+        }
       }
     ],
     "zh": {

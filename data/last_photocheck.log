@@ -1,0 +1,37 @@
+2026-11-21 06:33:25,580 INFO Photo check JiriProchazka2022.png (Wikimedia Commons, 520x679): OK, licence 'CC BY 3.0'
+2026-11-21 06:33:25,919 INFO Photo check Ali_Bin_Hamad_al-Attiyah_Arena.jpg (English Wikipedia only, 532x332): REFUSED, licence 'CC-BY-SA-4.0' (a file kept only on Wikipedia must be public domain)
+2026-11-21 06:33:25,919 WARNING No free-licence lead photo for Wikipedia article 'Ali Bin Hamad al-Attiyah Arena'
+2026-11-21 06:33:25,919 INFO Photos for 2026-11-21-news-14e91f set from photos.yaml (1 photo(s))
+2026-11-21 06:33:26,021 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
+2026-11-21 06:33:26,165 INFO Photo check Michael_Falkesgaard_20191101.jpg (Wikimedia Commons, 800x1200): OK, licence 'CC BY 4.0'
+2026-11-21 06:33:26,230 INFO Match card added to 2026-11-20-news-c324ff
+2026-11-21 06:33:26,230 INFO Photos for 2026-11-20-news-c324ff set from photos.yaml (3 photo(s))
+2026-11-21 06:33:26,858 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-21 06:33:33,459 INFO Photo check 2026-11-21-athl-4ed038 #1 'Abdulmanap Nurmagomedov': OK
+2026-11-21 06:33:39,662 INFO Photo check 2026-11-21-athl-4ed038 #2 'Khabib Nurmagomedov': OK
+2026-11-21 06:33:39,662 INFO Photo check 2026-11-21-news-14e91f #1 'Jiří Procházka': OK
+2026-11-21 06:33:46,949 INFO Photo check 2026-11-21-news-10e4ee #1 'Aspire Zone': OK — file looks like a non-sport scene (Fireworks)
+2026-11-21 06:33:55,054 INFO Photo check 2026-11-20-hist-924465 #1 'Al Bayt Stadium': OK
+2026-11-21 06:34:08,282 INFO Photo check 2026-11-20-hist-924465 #2 'Enner Valencia': OK
+2026-11-21 06:34:23,498 INFO Photo check 2026-11-20-hist-924465 #3 'Lionel Messi': OK
+2026-11-21 06:34:23,498 INFO Photo check 2026-11-20-news-c324ff #1 'Morodok Techo National Stadium in Phnom ': OK
+2026-11-21 06:34:23,498 INFO Photo check 2026-11-20-news-c324ff #2 'Port FC goalkeeper Michael Falkesgaard': OK
+2026-11-21 06:34:29,506 INFO Photo check 2026-11-20-news-64c370 #1 'Khabib Nurmagomedov': OK
+2026-11-21 06:34:35,584 INFO Photo check 2026-11-20-news-64c370 #2 'Jake Paul': OK — file looks like a non-sport scene (White House)
+2026-11-21 06:34:41,738 INFO Photo check 2026-11-20-news-64c370 #3 'Dana White': OK — file looks like a non-sport scene (received)
+2026-11-21 06:34:48,726 INFO Photo check 2026-11-19-news-291d8b #1 'Emma Hayes': OK
+2026-11-21 06:34:55,120 INFO Photo check 2026-11-19-news-291d8b #2 'Trinity Rodman': OK
+2026-11-21 06:35:02,385 INFO Photo check 2026-11-19-news-291d8b #3 'Mallory Swanson': OK
+2026-11-21 06:35:10,778 INFO Photo check 2026-11-18-news-3dca37 #1 'Mikhail Maltsev, who moves from Spartak ': OK
+2026-11-21 06:35:18,230 INFO Photo check 2026-11-18-news-3dca37 #2 'Ruslan Iskhakov, who moves from Metallur': OK
+2026-11-21 06:35:24,158 INFO Photo check 2026-11-18-news-3dca37 #3 'Arena Metallurg in Magnitogorsk': OK
+2026-11-21 06:35:31,355 INFO Photo check 2026-11-18-news-cc77a5 #1 'Hajime Moriyasu, who led Japan in 113 ma': OK
+2026-11-21 06:35:38,381 INFO Photo check 2026-11-18-news-cc77a5 #2 'Paraguay captain Gustavo Gómez, who scor': OK
+2026-11-21 06:35:45,033 INFO Photo check 2026-11-18-news-cc77a5 #3 'The National Stadium in Singapore, venue': OK
+2026-11-21 06:35:52,513 INFO Photo check 2026-11-18-news-00e678 #1 'Matvei Michkov, who had two assists for ': OK
+2026-11-21 06:35:58,437 INFO Photo check 2026-11-18-news-00e678 #2 "The Flyers' home arena in Philadelphia": OK
+2026-11-21 06:36:06,119 INFO Photo check 2026-11-18-news-24f2df #1 'The 3Arena in Dublin, where Reeves fough': OK
+2026-11-21 06:36:13,205 INFO Photo check 2026-11-18-news-24f2df #2 "Limerick, Reeves' home city": OK
+2026-11-21 06:36:14,077 INFO IndexNow: 21 page(s) submitted (HTTP 200)
+2026-11-21 06:36:14,430 INFO Website built: 63 published stories, 234 pages
+2026-11-21 06:36:14,431 INFO Gemini today (2026-11-20, Pacific): gemini-3.8-flash 28 ok / 0 failed (44,464 in / 37,044 out tokens) · estimated cost if billed: US$0.172
