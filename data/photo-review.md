@@ -27,6 +27,8 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 **2. 🟢 our score card**<br>Caption: **Belgium U17 3 - 2 Vietnam U17 · FIFA U-17 World Cup 2026**<br>2026 · Own work
 <br clear="left">
 
+🔗 Embedded post: [Mohamed Farag - FIFA/FIFA via Getty Images](https://www.gettyimages.com/detail/2306053490) — {'en': "Vietnam's players line up for the team photo before their U-17 World Cup opener against Belgium at the Aspire Zone", 'zh': '越南队球员在精英学院与比利时队的U-17世界杯首战开赛前合影', 'ru': 'Игроки сборной Вьетнама фотографируются перед стартовым матчем юношеского ЧМ против Бельгии на арене Aspire Zone'}
+
 ---
 
 ## ✅ live · Khabib Nurmagomedov's Path From the Dagestan Mountains to 29-0 MMA Perfection
