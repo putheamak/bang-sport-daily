@@ -83,3 +83,10 @@ Quality matters more than quantity.
 - A story written **from AI memory alone** (no web search, no source text) is ⛔ blocked.
 - **Auto-reject**: AI drafts with a ⛔ problem, too few words, or (news) fewer than 2 sources are marked rejected and never sent for review. Your own inbox stories are never auto-rejected. Reasons are saved in the story's `auto_rejected` field and in the run log.
 - **3 stories a day**: 2 news + one feature (history and life story on alternating days).
+
+## Photos: right person, licence, official posts (21 Nov 2026)
+
+- **Only photos we have the right to use.** A picture found on Google Images, a club website or the AFF site is *not* free to use. AdSense does not allow ads next to copyrighted material used without permission. Use free-licence Wikimedia photos, our own score cards, photos with written permission (`photos.yaml`, `license: "Used with permission"`), or official posts embedded as below.
+- **Photo check before publishing.** Every new draft's photos get free rule checks (wrong Wikipedia page, drawings/old portraits, non-sport scenes) and a Gemini look. 🔴 wrong = ⛔ BLOCK, 🟠 = look by eye. One-minute review: `data/photo-review.md`. Re-run: Actions › Photo check.
+- **Official Instagram/Facebook posts** (`embeds:` in `photos.yaml`, use the post's "Copy link"): the picture stays on the club's account and is credited to it. It is never the cover photo and is never copied to our site.
+- **Click-to-load until AdSense (editor's decision, 21 Nov 2026).** Embedded posts load only when the reader clicks "Show the post", because Meta sets cookies when a post loads and the privacy policy says the site uses no cookies. **When AdSense goes live:** add a Google-certified consent tool (CMP) for EEA/UK/Switzerland visitors, update the privacy policy (cookies: AdSense + Meta embeds), and only then let embedded posts load automatically for visitors who consent. Until then, keep click-to-load.
