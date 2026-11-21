@@ -111,12 +111,12 @@
         "asked": "Cristiano Ronaldo",
         "page_title": "Cristiano Ronaldo",
         "check": {
-          "v": 1,
+          "v": 2,
           "key": "https://commons.wikimedia.org/wiki/file:cristiano_ronaldo_croatia_v_portugal_2_july_2026-075_(cropped).jpg|Cristiano Ronaldo",
-          "verdict": "wrong",
+          "verdict": "ok",
           "flags": [],
-          "shows": "AI-generated image of Cristiano Ronaldo in a fictional 2026 Portugal kit",
-          "reason": "This is a digitally generated or fabricated image depicting a future 2026 match, not an authentic photograph of Cristiano Ronaldo.",
+          "shows": "Cristiano Ronaldo wearing a Portugal national football team kit",
+          "reason": "The image clearly shows the captioned subject, footballer Cristiano Ronaldo, wearing the Portugal national team kit.",
           "by": "ai"
         }
       }
@@ -125,12 +125,7 @@
       {
         "level": "BLOCK",
         "area": "photos",
-        "msg": "Photo 1 (cover) captioned 'Cristiano Ronaldo' looks WRONG (shows AI-generated image of Cristiano Ronaldo in a fictional 2026 Portugal kit; This is a digitally generated or fabricated image depicting a future 2026 match, not an authentic photograph of Cristiano Ronaldo.). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
       },
       {
         "level": "BLOCK",
@@ -526,12 +521,12 @@
         "asked": "Aljamain Sterling",
         "page_title": "Aljamain Sterling",
         "check": {
-          "v": 1,
+          "v": 2,
           "key": "https://commons.wikimedia.org/wiki/file:alijamain_sterling_at_ufc_228.jpg|Aljamain Sterling",
           "verdict": "ok",
           "flags": [],
-          "shows": "UFC fighter Aljamain Sterling at a media event",
-          "reason": "The photo clearly shows Aljamain Sterling with a UFC backdrop.",
+          "shows": "UFC fighter Aljamain Sterling",
+          "reason": "The photo clearly shows MMA fighter Aljamain Sterling in front of a UFC backdrop.",
           "by": "ai"
         }
       },
@@ -549,12 +544,12 @@
         "asked": "Jiří Procházka",
         "page_title": "Jiří Procházka",
         "check": {
-          "v": 1,
+          "v": 2,
           "key": "https://commons.wikimedia.org/wiki/file:jiriprochazka2022.png|Jiří Procházka",
           "verdict": "ok",
           "flags": [],
-          "shows": "Czech mixed martial artist Jiří Procházka smiling in a suit",
-          "reason": "The photo clearly depicts UFC fighter Jiří Procházka as stated in the caption.",
+          "shows": "Czech mixed martial artist Jiří Procházka during an interview",
+          "reason": "The image correctly shows UFC fighter Jiří Procházka as identified in the caption.",
           "by": "ai"
         }
       }
