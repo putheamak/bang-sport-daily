@@ -1,6 +1,17 @@
-2026-11-21 13:32:03,242 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-21 13:32:10,578 INFO Photo check 2026-11-21-athl-6d2c08 #1 'Cristiano Ronaldo': OK
-2026-11-21 13:32:16,193 INFO Photo check 2026-11-21-news-d01c57 #1 'Aljamain Sterling': OK
-2026-11-21 13:32:23,649 INFO Photo check 2026-11-21-news-d01c57 #2 'Jiří Procházka': OK
-2026-11-21 13:32:24,171 INFO Website built: 63 published stories, 234 pages
-2026-11-21 13:32:24,172 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 13 ok / 0 failed (22,990 in / 28,899 out tokens) · estimated cost if billed: US$0.126
+2026-11-21 13:33:32,164 INFO Photo check "Cristiano_Ronaldo"_(5098214382).jpg (Wikimedia Commons, 1200x778): OK, licence 'CC BY-SA 2.0'
+2026-11-21 13:33:32,323 INFO Photo check 1_cristiano_ronaldo_2016.jpg (Wikimedia Commons, 3696x4912): OK, licence 'CC BY-SA 4.0'
+2026-11-21 13:33:32,492 INFO Photo check 2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg (Wikimedia Commons, 1065x1525): OK, licence 'CC BY-SA 4.0'
+2026-11-21 13:33:32,656 INFO Photo check CR7_museum_and_hotel_in_Funchal,_Madeira.JPG (Wikimedia Commons, 3020x1473): OK, licence 'CC BY-SA 3.0'
+2026-11-21 13:33:32,656 INFO Wikipedia article 'Cristiano Ronaldo': 50 file(s) listed, 4 free photo(s) usable
+2026-11-21 13:33:32,951 INFO Photo check Estádio_José_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg (Wikimedia Commons, 4000x3000): OK, licence 'CC BY 4.0'
+2026-11-21 13:33:33,277 INFO Photo check 2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg (Wikimedia Commons, 4995x3741): OK, licence 'CC BY-SA 2.0'
+2026-11-21 13:33:33,277 INFO Photos for 2026-11-21-athl-6d2c08 set from photos.yaml (6 photo(s))
+2026-11-21 13:33:34,297 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-21 13:33:41,886 INFO Photo check 2026-11-21-athl-6d2c08 #1 '"Cristiano Ronaldo"': OK
+2026-11-21 13:33:48,707 INFO Photo check 2026-11-21-athl-6d2c08 #2 'Cristiano Ronaldo playing for Portugal i': OK
+2026-11-21 13:33:56,231 INFO Photo check 2026-11-21-athl-6d2c08 #3 'Turin (Italy), Olympic "Grande Torino" S': OK
+2026-11-21 13:34:02,978 INFO Photo check 2026-11-21-athl-6d2c08 #4 'CR7 museum and hotel in Funchal, Madeira': OK
+2026-11-21 13:34:09,701 INFO Photo check 2026-11-21-athl-6d2c08 #5 'Estádio José Alvalade in Lisbon, home of': OK
+2026-11-21 13:34:16,002 INFO Photo check 2026-11-21-athl-6d2c08 #6 "Old Trafford, Manchester United's home, ": OK
+2026-11-21 13:34:16,694 INFO Website built: 63 published stories, 234 pages
+2026-11-21 13:34:16,696 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 19 ok / 0 failed (32,000 in / 29,920 out tokens) · estimated cost if billed: US$0.136

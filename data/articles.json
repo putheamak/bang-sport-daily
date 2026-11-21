@@ -98,40 +98,139 @@
     "region": "global",
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
-        "artist": "Bryan Berlin",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Cristiano Ronaldo during Croatia v Portugal on 2 July 2026 at the 2026 FIFA World Cup",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%22Cristiano_Ronaldo%22_%285098214382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:%22Cristiano_Ronaldo%22_(5098214382).jpg",
+        "artist": "Jan S0L0",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "\"Cristiano Ronaldo\"",
         "width": 1200,
-        "height": 1799,
-        "year": 2026,
-        "subject": "Cristiano Ronaldo",
-        "asked": "Cristiano Ronaldo",
-        "page_title": "Cristiano Ronaldo",
+        "height": 778,
+        "year": 2010,
+        "subject": "\"Cristiano Ronaldo\"",
         "check": {
           "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:cristiano_ronaldo_croatia_v_portugal_2_july_2026-075_(cropped).jpg|Cristiano Ronaldo",
+          "key": "https://commons.wikimedia.org/wiki/file:%22cristiano_ronaldo%22_(5098214382).jpg|\"Cristiano Ronaldo\"",
           "verdict": "ok",
           "flags": [],
-          "shows": "Cristiano Ronaldo wearing a Portugal national football team kit",
-          "reason": "The image clearly shows the captioned subject, footballer Cristiano Ronaldo, wearing the Portugal national team kit.",
+          "shows": "Cristiano Ronaldo playing for Real Madrid in a Champions League football match",
+          "reason": "Clearly shows Cristiano Ronaldo in action for Real Madrid during a 2010 Champions League match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/1_cristiano_ronaldo_2016.jpg/1280px-1_cristiano_ronaldo_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:1_cristiano_ronaldo_2016.jpg",
+        "artist": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016",
+        "width": 1200,
+        "height": 1595,
+        "year": 2016,
+        "subject": "Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:1_cristiano_ronaldo_2016.jpg|Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Cristiano Ronaldo jumping during Portugal vs Poland at UEFA Euro 2016",
+          "reason": "Clearly shows Cristiano Ronaldo wearing Portugal's number 7 kit competing against Polish defenders at Euro 2016.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg",
+        "artist": "Original: IamAlwaysHere / Derivative work: Danyele",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Turin (Italy), Olympic \"Grande Torino\" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M",
+        "width": 1200,
+        "height": 1718,
+        "year": 2019,
+        "subject": "Turin (Italy), Olympic \"Grande Torino\" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2019-20_serie_a_-_torino_v_juventus_-_cristiano_ronaldo_(cropped).jpg|Turin (Italy), Olympic \"Grande Torino\" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Cristiano Ronaldo playing for Juventus in 2019",
+          "reason": "Clearly shows Cristiano Ronaldo wearing the 2019-20 Juventus kit, matching the story and caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/CR7_museum_and_hotel_in_Funchal%2C_Madeira.JPG/1280px-CR7_museum_and_hotel_in_Funchal%2C_Madeira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:CR7_museum_and_hotel_in_Funchal,_Madeira.JPG",
+        "artist": "Abby M.",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "CR7 museum and hotel in Funchal, Madeira",
+        "width": 1200,
+        "height": 585,
+        "year": 2016,
+        "subject": "CR7 museum and hotel in Funchal, Madeira",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:cr7_museum_and_hotel_in_funchal,_madeira.jpg|CR7 museum and hotel in Funchal, Madeira",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "The Pestana CR7 Hotel and CR7 Museu in Funchal, Madeira",
+          "reason": "The building clearly displays signage for Pestana CR7 Hotel and CR7 Museu, matching the caption precisely.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg/1280px-Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg",
+        "artist": "Megutim",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "View of José Alvalade Stadium before the start of the match between Sporting and Arouca",
+        "width": 1200,
+        "height": 900,
+        "year": 2025,
+        "subject": "Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional",
+        "asked": "Estádio José Alvalade",
+        "page_title": "Estádio José Alvalade",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:est%c3%a1dio_jos%c3%a9_alvalade_antes_do_jogo_sporting_-_arouca.jpg|Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "interior of Estádio José Alvalade with green seats and pitch",
+          "reason": "The image shows Sporting CP's Estádio José Alvalade in Lisbon, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/1280px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg",
+        "artist": "Arne Müseler from Salzburg, AT",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Photo: Arne Müseler",
+        "width": 1200,
+        "height": 899,
+        "year": 2023,
+        "subject": "Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or",
+        "asked": "Old Trafford",
+        "page_title": "Old Trafford",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2023_07_31_arne_mueseler_00060-verbessert-rr_(53106651455).jpg|Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aerial view of Old Trafford football stadium",
+          "reason": "The image clearly shows Old Trafford, Manchester United's stadium, with signage reading 'WELCOME TO OLD TRAFFORD'.",
           "by": "ai"
         }
       }
     ],
     "standards": [
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
-      },
       {
         "level": "WARN",
         "area": "ethics",
@@ -142,7 +241,8 @@
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"max\": 4, \"wikipedia_all\": \"Cristiano Ronaldo\"}, {\"caption\": \"Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional\", \"wikipedia\": \"Estádio José Alvalade\"}, {\"caption\": \"Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or\", \"wikipedia\": \"Old Trafford\"}]}"
   },
   {
     "id": "2026-11-21-news-b4915c",
