@@ -341,6 +341,11 @@ EMBED_IG = re.compile(r"https?://(?:www\.)?instagram\.com/(?:[\w.]+/)?(p|reel|tv
 EMBED_FB = re.compile(r"https?://(?:www\.|m\.|web\.)?facebook\.com/\S+", re.I)
 
 
+def _cap(c):
+    """A caption is one text, or one per language: {en: ..., zh: ..., ru: ...}."""
+    return {str(k): str(v) for k, v in c.items()} if isinstance(c, dict) else str(c or "")
+
+
 def parse_embed(e) -> dict | None:
     """photos.yaml 'embeds:' entry -> {platform, url, src, caption, account}.
     The post stays on Instagram/Facebook (we never copy the picture). On the site it loads only when the reader
@@ -350,19 +355,21 @@ def parse_embed(e) -> dict | None:
     if not isinstance(e, dict) or not e.get("url"):
         return None
     url = str(e["url"]).strip()
-    m = EMBED_IG.match(url)
+    m = EMBED_IG.search(url)                      # a "Copy link" address, or the whole "Embed" code pasted in
     if m:
         kind, code = m.group(1).lower(), m.group(2)
         clean = f"https://www.instagram.com/{kind}/{code}/"
         return {"platform": "Instagram", "url": clean, "src": clean + "embed/captioned/",
-                "caption": str(e.get("caption", "")), "account": str(e.get("account", "")), "height": int(e.get("height", 720))}
-    if EMBED_FB.match(url):
+                "caption": _cap(e.get("caption")), "account": str(e.get("account", "")), "height": int(e.get("height", 720))}
+    m = EMBED_FB.search(url)
+    if m:
+        url = m.group(0).rstrip('"\'>')
         clean = url.split("?")[0] if "/posts/" in url or "/videos/" in url else url
         kind = "video" if re.search(r"/videos?/|/reel/|/watch", url) else "post"
         src = (f"https://www.facebook.com/plugins/{kind}.php?href={urllib.parse.quote(clean, safe='')}"
                f"&show_text=true&width=500")
         return {"platform": "Facebook", "url": clean, "src": src,
-                "caption": str(e.get("caption", "")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
+                "caption": _cap(e.get("caption")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
     log.warning("Embed %r skipped: only Instagram and Facebook post links are supported", url[:120])
     return None
 

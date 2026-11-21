@@ -496,10 +496,13 @@ def _embed(e: dict, lang: str) -> str:
     until the reader clicks; then the post loads from Meta in an iframe. The picture is never copied to our site."""
     U = EMBED_UI.get(lang, EMBED_UI["en"])
     p, who = e.get("platform", ""), e.get("account") or e.get("platform", "")
+    cap = e.get("caption") or ""
+    if isinstance(cap, dict):
+        cap = cap.get(lang) or cap.get("en") or ""
     return (f'<figure class="embed" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
             f'<button type="button" class="embed-load" onclick="{_EMBED_JS}">'
             f'<span class="embed-plat">{E(p)}</span><b>{E(who)}</b>'
-            + (f'<span class="embed-cap">{E(e.get("caption", ""))}</span>' if e.get("caption") else "")
+            + (f'<span class="embed-cap">{E(cap)}</span>' if cap else "")
             + f'<span class="embed-cta">▶ {E(U["show"])}</span><small>{E(U["note"].format(p=p))}</small></button>'
             f'<figcaption><a href="{E(e["url"])}" rel="noopener nofollow" target="_blank">{E(U["by"].format(who=who, p=p))}</a>'
             f' · {E(U["kept"])}</figcaption></figure>')

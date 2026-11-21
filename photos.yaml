@@ -175,6 +175,20 @@
       caption: "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC"
     - commons: "File:Michael_Falkesgaard_20191101.jpg"
       caption: "Port FC goalkeeper Michael Falkesgaard"
+  # Official posts from the club's own verified Instagram account, embedded (loaded on click, never copied).
+  embeds:
+    - url: "https://www.instagram.com/p/Df8UWg-AT9i/"
+      account: "PKR Svay Rieng FC (@pkrsvr_fc_official)"
+      caption:
+        en: "Captains and match officials line up before PKR Svay Rieng v Port FC, ASEAN Club Championship Group B"
+        zh: "东盟俱乐部锦标赛B组柴桢对阵泰港赛前，双方队长与裁判组合影"
+        ru: "Капитаны и судьи перед матчем «Свайриенг» — «Порт», группа B Клубного чемпионата АСЕАН"
+    - url: "https://www.instagram.com/p/Df7RkYEgY7K/"
+      account: "PKR Svay Rieng FC (@pkrsvr_fc_official)"
+      caption:
+        en: "Martins Júnior (No. 21) with his Shopee Star of the Match award"
+        zh: "马丁斯·儒尼奥尔（21号）手捧Shopee全场最佳球员奖杯"
+        ru: "Мартинс Жуниор (№21) с призом лучшему игроку матча Shopee"
 
 # 21 Nov 2026: the "Navajo Stirling" photo was Aljamain Sterling and the "Carlos Ulberg" one showed motorcycle stunts.
 2026-11-21-news-14e91f:

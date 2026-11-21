@@ -1218,3 +1218,14 @@ def test_embeds_parse_and_click_to_load():
     a = {"id": "s1", "images": [{"url": "https://u/a.jpg", "subject": "A"}]}
     apply_overrides([a], {"s1": {"embeds": [{"url": "https://www.instagram.com/p/ABC/"}]}})
     assert a["images"][0]["subject"] == "A" and len(a["embeds"]) == 1          # embeds alone keep the photos
+
+
+def test_embed_code_pasted_and_language_captions():
+    from sportnews.images import parse_embed
+    from sportnews.site import _embed
+    code = ('<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Df7RkYEgY7K/?utm_source=ig_embed">'
+            '</blockquote><script async src="//www.instagram.com/embed.js"></script>')
+    e = parse_embed({"url": code, "caption": {"en": "Award", "zh": "奖杯"}})
+    assert e["url"] == "https://www.instagram.com/p/Df7RkYEgY7K/"
+    assert "奖杯" in _embed(e, "zh") and "Award" in _embed(e, "ru")       # missing language falls back to English
+    assert "embed.js" not in _embed(e, "en")                              # Instagram's auto-loading script is never used
