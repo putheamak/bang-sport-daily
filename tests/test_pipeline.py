@@ -1166,3 +1166,55 @@ def test_not_sport_words_and_photo_sizes(repo):
     site._DIMS.clear()
     assert site._dims({"local": "../photos/c/abc.jpg"}) == ' width="1200" height="675"'
     assert site._dims({"url": "https://upload.wikimedia.org/x.jpg"}) == ""
+
+
+# ---------------------------------------------------------------- photo check + embeds (21 Nov 2026)
+def test_photo_name_mismatch_and_rules():
+    from sportnews.photocheck import name_mismatch, rule_flags
+    assert name_mismatch("Navajo Stirling", "Aljamain Sterling")
+    assert not name_mismatch("Jiri Prochazka", "Jiří Procházka")
+    assert not name_mismatch("Svay Rieng", "Preah Khan Reach Svay Rieng FC")
+    assert not name_mismatch("Kwame Peprah", "Peprah Kwame")
+    art = {"date": "2026-11-20", "type": "news"}
+    old = {"subject": "Martins Júnior", "page": "https://commons.wikimedia.org/wiki/File:Dr._Martins_Junior.jpg"}
+    assert any("drawing" in f for f in rule_flags(art, old))
+    wrong = {"asked": "Navajo Stirling", "page_title": "Aljamain Sterling", "subject": "Aljamain Sterling", "year": 2018}
+    assert any(f.startswith("asked for") for f in rule_flags(art, wrong))
+    assert rule_flags(art, {"asked": "Emma Hayes", "page_title": "Emma Hayes", "subject": "Emma Hayes", "year": 2026}) == []
+
+
+def test_photo_check_verdicts_and_block(monkeypatch):
+    import sportnews.photocheck as pc
+    from sportnews.standards import check_article
+    calls = {"n": 0}
+
+    def fake(cfg, a, im):
+        calls["n"] += 1
+        return {"verdict": "wrong" if "Martins" in im["subject"] else "ok", "shows": "x", "reason": "y"}
+    monkeypatch.setattr(pc, "ai_look", fake)
+    a = {"id": "t1", "date": "2026-11-20", "type": "news", "status": "draft", "en": {"headline": "h", "body_markdown": "b"},
+         "images": [{"url": "https://u/a.jpg", "page": "p1", "subject": "Martins Júnior"},
+                    {"url": "https://u/b.jpg", "page": "p2", "subject": "Michael Falkesgaard", "asked": "Michael Falkesgaard"},
+                    {"url": "../photos/card.png", "card": True, "subject": "card"}]}
+    assert pc.check_article({}, a) == 2
+    assert [i.get("check", {}).get("verdict") for i in a["images"]] == ["wrong", "ok", None]
+    assert pc.check_article({}, a) == 0 and calls["n"] == 2           # cached: no second AI call
+    issues = check_article({}, a, "2026-11-21")
+    assert any(i["level"] == "BLOCK" and i["area"] == "photos" and "WRONG" in i["msg"] for i in issues)
+    md = pc.review_markdown([a], "2026-11-21")
+    assert "🔴 WRONG" in md and "t1" in md
+
+
+def test_embeds_parse_and_click_to_load():
+    from sportnews.images import parse_embed, apply_overrides
+    from sportnews.site import _embed
+    e = parse_embed({"url": "https://www.instagram.com/pkrsvr_fc_official/p/DG1abcXYZ/?img_index=1", "account": "@pkrsvr_fc_official"})
+    assert e["src"] == "https://www.instagram.com/p/DG1abcXYZ/embed/captioned/"
+    f = parse_embed("https://www.facebook.com/AFFofficial/posts/12345")
+    assert f["platform"] == "Facebook" and "plugins/post.php" in f["src"]
+    assert parse_embed("https://example.com/x.jpg") is None
+    html = _embed(e, "en")
+    assert "<iframe" not in html and "data-src=" in html and "Show the post" in html   # nothing loads before a click
+    a = {"id": "s1", "images": [{"url": "https://u/a.jpg", "subject": "A"}]}
+    apply_overrides([a], {"s1": {"embeds": [{"url": "https://www.instagram.com/p/ABC/"}]}})
+    assert a["images"][0]["subject"] == "A" and len(a["embeds"]) == 1          # embeds alone keep the photos

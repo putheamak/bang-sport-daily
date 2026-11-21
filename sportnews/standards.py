@@ -122,7 +122,18 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     kind = a.get("type", "news")
 
     # ---------------- PHOTOS: at least 2 relevant pictures per story (editor's rule, 13 Nov 2026)
-    n_img = len([i for i in a.get("images") or [] if i.get("url")])
+    n_img = len([i for i in a.get("images") or [] if i.get("url")
+                 and (i.get("check") or {}).get("verdict") != "wrong"]) + len(a.get("embeds") or [])
+    # ---------------- PHOTOS: the right person / place (photo check, editor's request 21 Nov 2026)
+    for k, im in enumerate(a.get("images") or [], 1):
+        c = im.get("check") or {}
+        what = f"Photo {k}{' (cover)' if k == 1 else ''} captioned '{(im.get('subject') or '')[:50]}'"
+        detail = "; ".join(x for x in [c.get("shows") and "shows " + c["shows"], *(c.get("flags") or []), c.get("reason")] if x)
+        if c.get("verdict") == "wrong":
+            out.append(_issue("BLOCK", "photos", f"{what} looks WRONG ({detail[:220]}). Replace or remove it in "
+                                                 "photos.yaml — see data/photo-review.md"))
+        elif c.get("verdict") == "unsure":
+            out.append(_issue("WARN", "photos", f"{what}: check it by eye ({detail[:200]}) — data/photo-review.md"))
     if "images" in a and n_img < r.get("min_pictures", 2):
         # A rule from 14 Nov 2026: new stories cannot be published with fewer pictures (older ones only get a warning).
         level = "BLOCK" if str(a.get("date", "")) >= r.get("min_pictures_from", "2026-11-14") else "WARN"
@@ -296,6 +307,11 @@ def stamp(cfg: dict, articles: list[dict], today: str | None = None) -> None:
         unique_covers(list(articles) + [o for o in load_articles() if o.get("id") not in ids], only=list(articles))
     except Exception as e:  # noqa: BLE001
         log.warning("Cover check skipped: %s", str(e)[:200])
+    try:                               # right person / right place? (rules + a quick AI look at each new photo)
+        from .photocheck import check_many
+        check_many(cfg, [a for a in articles if a.get("status") in ("draft", None) or a.get("photo_recheck")])
+    except Exception as e:  # noqa: BLE001
+        log.warning("Photo check skipped: %s", str(e)[:200])
     for a in articles:
         a["standards"] = check_article(cfg, a, today)
 

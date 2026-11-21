@@ -267,3 +267,14 @@ figure.inline figcaption{font-size:11.5px}
 .prose th{background:#111;color:#fff;text-align:left;padding:8px 10px;font-weight:600;white-space:nowrap}
 .prose td{padding:7px 10px;border-bottom:1px solid #e3e3e3;vertical-align:top}
 .prose tbody tr:nth-child(even) td{background:#f6f6f4}
+/* official Instagram/Facebook posts: click-to-load (no Meta request or cookie until the reader clicks) */
+.prose figure.embed{margin:1.6em auto;max-width:540px}
+.prose figure.embed iframe{width:100%;border:0;border-radius:10px;background:#fafafa;display:block}
+.embed-load{display:flex;flex-direction:column;gap:6px;align-items:flex-start;width:100%;padding:18px 20px;cursor:pointer;
+  border:1px solid #ddd;border-radius:10px;background:linear-gradient(135deg,#faf7f2,#f1efe9);text-align:left;font:inherit;color:inherit}
+.embed-load:hover{border-color:#999}
+.embed-plat{font:600 .72em/1 var(--sans,Inter,system-ui,sans-serif);letter-spacing:.08em;text-transform:uppercase;color:#777}
+.embed-cap{font-size:.95em;line-height:1.4}
+.embed-cta{margin-top:6px;font:600 .9em/1 var(--sans,Inter,system-ui,sans-serif);color:#b3261e}
+.embed-load small{color:#888;font-size:.75em}
+.prose figure.embed figcaption{font-size:.78em;color:#777;margin-top:6px}

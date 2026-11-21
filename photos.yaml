@@ -26,6 +26,15 @@
 # event (e.g. the latest title celebration rather than a photo from 2008). The standards check warns when a
 # news cover photo is more than 3 years older than the story.
 #
+#   4) An OFFICIAL Instagram or Facebook post (a club's or federation's own photo), embedded — never copied:
+#        embeds:
+#          - url: "https://www.instagram.com/p/XXXXXXXX/"     # the post's link: "..." > Copy link
+#            account: "@pkrsvr_fc_official"                   # who posted it
+#            caption: "Kwame Peprah, Svay Rieng's No. 46"      # what the post shows
+#        "embeds:" sits next to "photos:" (or alone: then the automatic photos stay). On the site it is a box that
+#        loads the post only when the reader clicks (no Meta cookies before that). It is never the cover photo.
+#        Put [[embed:1]] on its own line in the story text to choose where it goes (default: after paragraph 5).
+#
 # mode: replace  = use only these photos (first one is the large top photo)
 # mode: add      = put these first, keep the automatic ones after them
 #
@@ -157,3 +166,21 @@
       caption: "Where the 11 Cambodian Premier League clubs play in 2026-27"
       credit: "Bang Sport Daily (map; map data Natural Earth, public domain)"
       license: "Own work"
+
+# 21 Nov 2026: wrong people removed after the photo check ("Martins Júnior" was a 19th-century Brazilian doctor).
+2026-11-20-news-c324ff:
+  mode: replace
+  photos:
+    - commons: "File:Morodok_Techno_Stadium_in_2021.png"
+      caption: "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC"
+    - commons: "File:Michael_Falkesgaard_20191101.jpg"
+      caption: "Port FC goalkeeper Michael Falkesgaard"
+
+# 21 Nov 2026: the "Navajo Stirling" photo was Aljamain Sterling and the "Carlos Ulberg" one showed motorcycle stunts.
+2026-11-21-news-14e91f:
+  mode: replace
+  photos:
+    - commons: "File:JiriProchazka2022.png"
+      caption: "Jiří Procházka"
+    - wikipedia: "Ali Bin Hamad al-Attiyah Arena"
+      caption: "Ali Bin Hamad Al-Attiyah Arena in Al Rayyan, Qatar, venue of UFC Fight Night 294"

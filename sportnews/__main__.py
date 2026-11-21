@@ -13,6 +13,7 @@
   python -m sportnews write-trending 1 3    # write talking points 1 and 3 as short explainers (drafts)
   python -m sportnews audit [--no-links]    # standards audit of all stories -> data/audit.md
   python -m sportnews check ID              # standards check of one story
+python -m sportnews photocheck [recent]   # right person/place in each photo -> data/photo-review.md
 """
 import argparse
 import json
@@ -31,6 +32,9 @@ def main(argv=None):
     sub.add_parser("build-style")
     p = sub.add_parser("publish"); p.add_argument("ids", nargs="+"); p.add_argument("--force", action="store_true", help="publish even with BLOCK problems")
     sub.add_parser("publish-anyway").add_argument("ids", nargs="+")
+    pc = sub.add_parser("photocheck", help="check photos (right person/place) and write data/photo-review.md")
+    pc.add_argument("ids", nargs="*", help="story IDs, or 'recent' (default: drafts + last 3 days) or 'drafts'")
+    pc.add_argument("--again", action="store_true", help="check again even if already checked")
     au = sub.add_parser("audit"); au.add_argument("--no-links", action="store_true")
     sub.add_parser("check").add_argument("ids", nargs="+")
     r = sub.add_parser("reject"); r.add_argument("ids", nargs="+")
@@ -108,6 +112,34 @@ def main(argv=None):
         log_to_file("last_trending_write.log")
         from .trending import parse_choice, write_selected
         write_selected(cfg, parse_choice(" ".join(a.numbers)))
+    elif a.cmd == "photocheck":
+        from .common import load_articles, log_to_file, save_articles, today
+        log_to_file("last_photocheck.log")
+        from .images import apply_overrides, load_overrides
+        from .photocheck import check_many
+        from datetime import date as _D, timedelta as _TD
+        arts = load_articles()
+        apply_overrides(arts, load_overrides())
+        want = [x.strip() for x in " ".join(a.ids).replace(",", " ").split() if x.strip()] or ["recent"]
+        since = (_D.fromisoformat(today(cfg)) - _TD(days=3)).isoformat()
+        pick = [x for x in arts if x["id"] in want
+                or ("drafts" in want and x.get("status") == "draft")
+                or ("recent" in want and (x.get("status") == "draft"
+                                          or (x.get("status") == "published" and str(x.get("date", "")) >= since)))]
+        if a.again:
+            for x in pick:
+                for im in x.get("images") or []:
+                    im.pop("check", None)
+        n = check_many(cfg, pick)
+        from .standards import check_article
+        for x in pick:
+            x["standards"] = check_article(cfg, x, today(cfg))
+        save_articles(arts)
+        from .site import build_site
+        build_site(cfg)
+        bad = [(x["id"], k) for x in pick for k, im in enumerate(x.get("images") or [], 1)
+               if (im.get("check") or {}).get("verdict") == "wrong"]
+        print(f"Checked {n} photo(s) in {len(pick)} stories. Wrong: " + (", ".join(f"{i} photo {k}" for i, k in bad) or "none"))
     elif a.cmd == "site":
         from .common import load_articles, log_to_file, save_articles
         log_to_file("last_rebuild.log")

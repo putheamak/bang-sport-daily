@@ -151,6 +151,8 @@ def find_images(subjects: list[str], max_n: int = 3) -> list[dict]:
             info = commons_info(name)
             if info:
                 info["subject"] = title or subj
+                info["asked"] = subj                 # what we searched for (the photo check compares the two)
+                info["page_title"] = title or subj
                 out.append(info)
                 log.info("Photo for %r: %s (%s, %s)", subj, name, info["artist"][:40], info["license"])
             else:
@@ -220,6 +222,7 @@ def resolve_entry(e: dict) -> dict | None:
             log.warning("No free-licence lead photo for Wikipedia article %r", e["wikipedia"])
             return None
         info["subject"] = e.get("caption") or title or e["wikipedia"]
+        info["asked"], info["page_title"] = e["wikipedia"], title or e["wikipedia"]
         return info
     if e.get("file"):
         if not (e.get("credit") and e.get("license")):
@@ -297,8 +300,14 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         spec = overrides.get(a["id"])
         if spec is None:
             continue
+        if isinstance(spec, dict) and "embeds" in spec:       # official Instagram/Facebook posts (click-to-load)
+            a["embeds"] = [x for x in (parse_embed(e) for e in spec.get("embeds") or []) if x]
         key = json.dumps(spec, sort_keys=True, ensure_ascii=False)
         if a.get("photos_override") == key:
+            continue
+        if isinstance(spec, dict) and "photos" not in spec:   # only embeds: keep the photos as they are
+            a["photos_override"] = key
+            n += 1
             continue
         mode, entries = _override_entries(spec)
         chosen = []
@@ -313,6 +322,7 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
                 continue
             im = resolve_entry(e) if isinstance(e, dict) else None
             if im:
+                im["editor"] = not e.get("wikipedia")   # a file the editor named is trusted; a Wikipedia lookup is checked
                 if e.get("id"):
                     im["ref"] = str(e["id"])          # can be placed in the text with [[img:<id>]]
                 chosen.append(im)
@@ -325,6 +335,36 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
         n += 1
         log.info("Photos for %s set from photos.yaml (%d photo(s))", a["id"], len(a["images"]))
     return n
+
+
+EMBED_IG = re.compile(r"https?://(?:www\.)?instagram\.com/(?:[\w.]+/)?(p|reel|tv)/([\w-]+)", re.I)
+EMBED_FB = re.compile(r"https?://(?:www\.|m\.|web\.)?facebook\.com/\S+", re.I)
+
+
+def parse_embed(e) -> dict | None:
+    """photos.yaml 'embeds:' entry -> {platform, url, src, caption, account}.
+    The post stays on Instagram/Facebook (we never copy the picture). On the site it loads only when the reader
+    clicks it, so no Meta cookies are set for readers who do not (see the privacy policy)."""
+    if isinstance(e, str):
+        e = {"url": e}
+    if not isinstance(e, dict) or not e.get("url"):
+        return None
+    url = str(e["url"]).strip()
+    m = EMBED_IG.match(url)
+    if m:
+        kind, code = m.group(1).lower(), m.group(2)
+        clean = f"https://www.instagram.com/{kind}/{code}/"
+        return {"platform": "Instagram", "url": clean, "src": clean + "embed/captioned/",
+                "caption": str(e.get("caption", "")), "account": str(e.get("account", "")), "height": int(e.get("height", 720))}
+    if EMBED_FB.match(url):
+        clean = url.split("?")[0] if "/posts/" in url or "/videos/" in url else url
+        kind = "video" if re.search(r"/videos?/|/reel/|/watch", url) else "post"
+        src = (f"https://www.facebook.com/plugins/{kind}.php?href={urllib.parse.quote(clean, safe='')}"
+               f"&show_text=true&width=500")
+        return {"platform": "Facebook", "url": clean, "src": src,
+                "caption": str(e.get("caption", "")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
+    log.warning("Embed %r skipped: only Instagram and Facebook post links are supported", url[:120])
+    return None
 
 
 def load_overrides() -> dict:

@@ -452,7 +452,7 @@ def _figure(im, lang) -> str:
             f'loading="lazy" referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
 
 
-def _body_with_images(a, lang) -> str:
+def _body_photos(a, lang) -> str:
     html_body = md_to_html(a[lang].get("body_markdown", ""))
     all_imgs = a.get("images") or []
     if "[[img:" in html_body:          # editor placed photos/charts: [[img:2]] = the 2nd photo of the story
@@ -475,6 +475,49 @@ def _body_with_images(a, lang) -> str:
             fig = (f'<figure class="inline"><img src="{E(im.get("local") or im["url"])}"{_srcset(im)}{_dims(im)} alt="{E(im.get("subject", ""))}" loading="lazy" '
                    f'referrerpolicy="no-referrer"><figcaption>{_credit(im, lang)}</figcaption></figure>')
             paras.insert(pos, fig)
+    return "\n".join(paras)
+
+
+EMBED_UI = {
+    "en": {"show": "Show the post", "note": "Loads {p}. {p} may set cookies.", "by": "Post by {who} on {p}",
+           "kept": "embedded from the original post, not copied"},
+    "zh": {"show": "显示该帖子", "note": "将加载 {p}，{p} 可能会设置 Cookie。", "by": "{who} 在 {p} 上发布",
+           "kept": "嵌入原帖，未复制图片"},
+    "ru": {"show": "Показать публикацию", "note": "Загрузится {p}; {p} может установить cookie.", "by": "Публикация {who} в {p}",
+           "kept": "встроено из оригинальной публикации, не скопировано"},
+}
+_EMBED_JS = ("var f=this.parentNode,i=document.createElement('iframe');i.src=f.dataset.src;i.height=f.dataset.h;"
+             "i.loading='lazy';i.title=f.dataset.t;i.setAttribute('scrolling','no');i.setAttribute('allowfullscreen','');"
+             "this.replaceWith(i);return false")
+
+
+def _embed(e: dict, lang: str) -> str:
+    """Click-to-load box for an official Instagram/Facebook post. Nothing is requested from Meta (no cookies)
+    until the reader clicks; then the post loads from Meta in an iframe. The picture is never copied to our site."""
+    U = EMBED_UI.get(lang, EMBED_UI["en"])
+    p, who = e.get("platform", ""), e.get("account") or e.get("platform", "")
+    return (f'<figure class="embed" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
+            f'<button type="button" class="embed-load" onclick="{_EMBED_JS}">'
+            f'<span class="embed-plat">{E(p)}</span><b>{E(who)}</b>'
+            + (f'<span class="embed-cap">{E(e.get("caption", ""))}</span>' if e.get("caption") else "")
+            + f'<span class="embed-cta">▶ {E(U["show"])}</span><small>{E(U["note"].format(p=p))}</small></button>'
+            f'<figcaption><a href="{E(e["url"])}" rel="noopener nofollow" target="_blank">{E(U["by"].format(who=who, p=p))}</a>'
+            f' · {E(U["kept"])}</figcaption></figure>')
+
+
+def _body_with_images(a, lang) -> str:
+    html_body = _body_photos(a, lang)
+    embeds = a.get("embeds") or []
+    if not embeds:
+        return html_body
+    if "[[embed:" in html_body:        # editor placed the post: [[embed:1]] = the first embedded post
+        def put(m):
+            k = int(m.group(1))
+            return _embed(embeds[k - 1], lang) if 0 < k <= len(embeds) else ""
+        return re.sub(r"<p>\[\[embed:(\d+)\]\]</p>", put, html_body)
+    paras = html_body.split("\n")
+    for n, e in reversed(list(enumerate(embeds))):
+        paras.insert(min(len(paras), 5 + 4 * n), _embed(e, lang))
     return "\n".join(paras)
 
 
@@ -802,6 +845,8 @@ def build_site(cfg: dict) -> None:
         for f in ("review.html", "articles.json"):
             (DOCS / f).unlink(missing_ok=True)
     _clean_links()
+    from .photocheck import write_review
+    write_review(cfg, all_articles)                 # data/photo-review.md: every photo of drafts + recent stories
     log.info("Website built: %d published stories, %d pages", len(pub), len(urls))
 
 

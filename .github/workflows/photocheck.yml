@@ -1,0 +1,48 @@
+name: Photo check
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Story IDs (comma-separated), or 'recent' = drafts + last 3 days"
+        default: "recent"
+        required: true
+      again:
+        description: "Check again even if already checked"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check photos
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          IDS: ${{ inputs.ids }}
+        run: |
+          if [ "${{ inputs.again }}" = "true" ]; then
+            python -m sportnews photocheck $IDS --again
+          else
+            python -m sportnews photocheck $IDS
+          fi
+      - run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Photo check"
+          git push
