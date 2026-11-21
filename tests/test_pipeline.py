@@ -1257,3 +1257,18 @@ def test_facebook_skips_without_token_and_text_has_no_link(monkeypatch):
             {"id": "b", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "facebook"}]},
             {"id": "c", "status": "draft", "en": {"social_post": "t"}}]
     assert P.facebook_publish({"timezone": "Asia/Phnom_Penh"}, arts) == ["a"] and sent == [("t", "https://x/en/s")]
+
+
+def test_duplicate_match_is_caught():
+    from sportnews.standards import duplicate_of
+    live = {"id": "old", "status": "published", "date": "2026-11-21", "type": "news",
+            "en": {"headline": "Vietnam Push Belgium to the Brink in Spirited 3-2 U-17 World Cup Debut"},
+            "match": {"home": "Belgium U17", "away": "Vietnam U17", "home_score": 3, "away_score": 2}}
+    new = {"id": "new", "date": "2026-11-22", "type": "news",
+           "en": {"headline": "Vietnam Scores First 11-a-Side World Cup Goals in Narrow 3-2 Loss to Belgium"},
+           "match": {"home": "Belgium U17", "away": "Vietnam U17", "home_score": 3, "away_score": 2}}
+    assert duplicate_of(new, [live]) == "old"
+    other = dict(new, match={"home": "Vietnam U17", "away": "New Zealand U17"}, en={"headline": "Vietnam face New Zealand"})
+    assert duplicate_of(other, [live]) is None
+    assert duplicate_of(new, [dict(live, status="rejected")]) is None
+    assert duplicate_of(dict(new, date="2026-11-30"), [live]) is None

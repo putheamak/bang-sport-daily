@@ -271,6 +271,42 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
     return out
 
 
+def _team(s: str) -> str:
+    return " ".join(re.sub(r"[^a-z0-9 ]+", " ", (s or "").lower()).replace(" fc ", " ").split())
+
+
+def duplicate_of(a: dict, existing: list[dict], days: int = 3) -> str | None:
+    """ID of a story we already have (live, draft or written by hand) about the same match, or with almost the same
+    English headline, within `days` days. 21 Nov 2026: the writer covered Vietnam 2-3 Belgium U-17 a second time
+    because the news feed worded the headline differently from ours."""
+    from datetime import date as _D
+    from rapidfuzz import fuzz
+    try:
+        d0 = _D.fromisoformat(str(a.get("date")))
+    except ValueError:
+        return None
+    m = a.get("match") if isinstance(a.get("match"), dict) else None
+    teams = {_team(m.get("home")), _team(m.get("away"))} if m else set()
+    head = ((a.get("en") or {}).get("headline") or "").lower()
+    for o in existing:
+        if o.get("id") == a.get("id") or o.get("status") == "rejected":
+            continue
+        try:
+            if abs((_D.fromisoformat(str(o.get("date"))) - d0).days) > days:
+                continue
+        except ValueError:
+            continue
+        om = o.get("match") if isinstance(o.get("match"), dict) else None
+        if teams and om and len(teams) == 2:
+            ot = {_team(om.get("home")), _team(om.get("away"))}
+            if teams == ot or all(any(fuzz.ratio(t, u) >= 85 for u in ot) for t in teams):
+                return o["id"]
+        oh = ((o.get("en") or {}).get("headline") or "").lower()
+        if head and oh and o.get("type") == a.get("type") and fuzz.token_sort_ratio(head, oh) >= 85:
+            return o["id"]
+    return None
+
+
 def auto_reject_reasons(cfg: dict, a: dict) -> list[str]:
     """Why an AI draft should never reach the editor (empty list = keep it for review).
     Editor-written stories (inbox) are never auto-rejected."""
@@ -285,6 +321,14 @@ def auto_reject_reasons(cfg: dict, a: dict) -> list[str]:
         reasons.append(f"too short ({words} words, minimum {need})")
     if a.get("type") == "news" and len([s for s in a.get("sources") or [] if s.get("url")]) < r["min_sources_news"]:
         reasons.append(f"fewer than {r['min_sources_news']} sources")
+    if a.get("type") == "news":
+        try:
+            from .common import load_articles
+            dup = duplicate_of(a, load_articles())
+            if dup:
+                reasons.append(f"duplicate: we already have this story ({dup})")
+        except Exception as e:  # noqa: BLE001
+            log.warning("Duplicate check skipped: %s", str(e)[:150])
     return reasons
 
 
