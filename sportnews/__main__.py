@@ -32,6 +32,8 @@ def main(argv=None):
     sub.add_parser("build-style")
     p = sub.add_parser("publish"); p.add_argument("ids", nargs="+"); p.add_argument("--force", action="store_true", help="publish even with BLOCK problems")
     sub.add_parser("publish-anyway").add_argument("ids", nargs="+")
+    fb = sub.add_parser("facebook", help="check the Facebook Page token; optionally post published stories")
+    fb.add_argument("ids", nargs="*", help="published story IDs to post to the Facebook Page")
     pc = sub.add_parser("photocheck", help="check photos (right person/place) and write data/photo-review.md")
     pc.add_argument("ids", nargs="*", help="story IDs, or 'recent' (default: drafts + last 3 days) or 'drafts'")
     pc.add_argument("--again", action="store_true", help="check again even if already checked")
@@ -140,6 +142,16 @@ def main(argv=None):
         bad = [(x["id"], k) for x in pick for k, im in enumerate(x.get("images") or [], 1)
                if (im.get("check") or {}).get("verdict") == "wrong"]
         print(f"Checked {n} photo(s) in {len(pick)} stories. Wrong: " + (", ".join(f"{i} photo {k}" for i, k in bad) or "none"))
+    elif a.cmd == "facebook":
+        from .common import load_articles, save_articles
+        from .publishers import facebook_check, facebook_publish
+        print("Facebook Page OK: " + facebook_check())
+        ids = [x.strip() for x in " ".join(a.ids).replace(",", " ").split() if x.strip()]
+        if ids:
+            arts = load_articles()
+            done = facebook_publish(cfg, [x for x in arts if x["id"] in ids])
+            save_articles(arts)
+            print("Posted to Facebook: " + (", ".join(done) or "nothing (already posted or not published)"))
     elif a.cmd == "site":
         from .common import load_articles, log_to_file, save_articles
         log_to_file("last_rebuild.log")

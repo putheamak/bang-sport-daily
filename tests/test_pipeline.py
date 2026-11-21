@@ -1242,3 +1242,18 @@ def test_getty_embed_needs_full_code():
     html = _embed(e, "en")
     assert "embed-getty-images" in html and "<iframe" not in html and "widgets.js" not in html
     assert parse_embed({"url": "https://www.gettyimages.com/detail/news-photo/x/2178456123"}) is None
+
+
+def test_facebook_skips_without_token_and_text_has_no_link(monkeypatch):
+    from sportnews import publishers as P
+    monkeypatch.delenv("FB_PAGE_ID", raising=False); monkeypatch.delenv("FB_PAGE_TOKEN", raising=False)
+    assert not P.facebook_ready()
+    a = {"en": {"headline": "H", "social_post": "Post text #tag"}}
+    assert P.facebook_text({}, a) == "Post text #tag"
+    sent = []
+    monkeypatch.setattr(P, "facebook_post", lambda text, link: sent.append((text, link)) or "123_456")
+    monkeypatch.setattr(P, "article_url", lambda cfg, a, lang: "https://x/en/s")
+    arts = [{"id": "a", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "telegram-en"}]},
+            {"id": "b", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "facebook"}]},
+            {"id": "c", "status": "draft", "en": {"social_post": "t"}}]
+    assert P.facebook_publish({"timezone": "Asia/Phnom_Penh"}, arts) == ["a"] and sent == [("t", "https://x/en/s")]

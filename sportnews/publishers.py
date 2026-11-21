@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import os
 import smtplib
+import urllib.error
 import urllib.parse
 import urllib.request
 from email.mime.multipart import MIMEMultipart
@@ -45,6 +46,20 @@ def telegram_send(chat: str, text: str) -> None:
         _post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text[i:i + 4000]})
 
 
+FB_API = os.environ.get("FB_API_VERSION", "v24.0")
+
+
+def facebook_ready() -> bool:
+    return bool(os.environ.get("FB_PAGE_ID") and os.environ.get("FB_PAGE_TOKEN"))
+
+
+def facebook_text(cfg: dict, a: dict) -> str:
+    """Facebook shows the link as a preview card (cover photo + headline), so the post text is just the social
+    post: no headline repeat, no link in the text."""
+    L = a.get("en") or {}
+    return (L.get("social_post") or L.get("subheadline") or L.get("headline") or "").strip()
+
+
 def facebook_post(text: str, link: str | None) -> str:
     page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
     if not (page and token):
@@ -52,7 +67,34 @@ def facebook_post(text: str, link: str | None) -> str:
     data = {"message": text, "access_token": token}
     if link:
         data["link"] = link
-    return _post(f"https://graph.facebook.com/v21.0/{page}/feed", data).get("id", "")
+    return _post(f"https://graph.facebook.com/{FB_API}/{page}/feed", data).get("id", "")
+
+
+def facebook_check() -> str:
+    """Is the Page token valid and allowed to post? Returns the Page's name (raises with Facebook's message if not)."""
+    import urllib.request
+    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
+    if not (page and token):
+        raise RuntimeError("FB_PAGE_ID / FB_PAGE_TOKEN are not set in GitHub › Settings › Secrets › Actions")
+    url = f"https://graph.facebook.com/{FB_API}/{page}?fields=name,link&access_token={urllib.parse.quote(token)}"
+    try:
+        with urllib.request.urlopen(url, timeout=30) as r:
+            d = json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError("Facebook says: " + e.read().decode()[:400]) from e
+    return f"{d.get('name')} ({d.get('link', '')})"
+
+
+def facebook_publish(cfg: dict, articles: list[dict]) -> list[str]:
+    """Post already-published stories to the Facebook Page (skips ones already posted there)."""
+    out = []
+    for a in articles:
+        if a.get("status") != "published" or any(p.get("channel") == "facebook" for p in a.get("published_to") or []):
+            continue
+        fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
+        a.setdefault("published_to", []).append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
+        out.append(a["id"])
+    return out
 
 
 def send_for_review(cfg: dict, items: list[dict]) -> None:
@@ -141,9 +183,9 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                     a["published_to"].append({"channel": f"telegram-{lang}", "at": now_iso(cfg)})
                 except Exception as e:  # noqa: BLE001
                     log.error("Telegram %s failed for %s: %s", lang, a["id"], e)
-        if cfg["publish"].get("facebook") and "facebook" not in posted:
+        if cfg["publish"].get("facebook") and "facebook" not in posted and facebook_ready():
             try:
-                fid = facebook_post(social_text(cfg, a, "en"), article_url(cfg, a, "en"))
+                fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
                 a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
             except Exception as e:  # noqa: BLE001
                 log.error("Facebook failed for %s: %s", a["id"], e)
