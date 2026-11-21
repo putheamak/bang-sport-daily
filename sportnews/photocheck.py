@@ -23,7 +23,7 @@ import urllib.request
 
 log = logging.getLogger("sportnews")
 
-CHECK_VERSION = 1
+CHECK_VERSION = 2   # 2: today's date in the prompt (v1 called real 2026 photos 'AI-generated')
 OLD_STYLE = re.compile(r"\b(engraving|lithograph|etching|drawing|sketch|painting|illustration|caricature|portrait of dr\.?|"
                        r"\bdr\.\s|daguerreotype|19th[- ]century|18\d\d)\b", re.I)
 NON_SPORT = re.compile(r"\b(motorcycle stunt|fireworks?|white house|parliament|ministry|received|meeting with|"
@@ -67,6 +67,8 @@ def rule_flags(a: dict, im: dict) -> list[str]:
 
 PROMPT = """You check photos for a sports news website before publication. Be strict: a wrong photo of a person is a
 serious error, an old but correct photo is acceptable.
+Today's date is {today}. Events and photos up to today are real, even if they are later than what you know: never
+call a photo fake, AI-generated or "future" because of its date, kit or event. Judge only what you can see.
 
 Story headline: {headline}
 Sport / people in the story: {sport}; {people}
@@ -126,7 +128,8 @@ def ai_look(cfg: dict, a: dict, im: dict) -> dict | None:
     if not img:
         return None
     en = a.get("en") or {}
-    prompt = PROMPT.format(headline=en.get("headline", ""), sport=a.get("sport", "") or ", ".join(a.get("tags", [])[:3]),
+    from .common import today
+    prompt = PROMPT.format(today=today(cfg), headline=en.get("headline", ""), sport=a.get("sport", "") or ", ".join(a.get("tags", [])[:3]),
                            people=", ".join((a.get("athletes") or [])[:6]) or "-", subject=im.get("subject", ""),
                            description=(im.get("description") or "")[:200], year=im.get("year") or "unknown")
     text, _, model = generate(cfg, "Answer with one JSON object only.", prompt, search=False, images=[img])

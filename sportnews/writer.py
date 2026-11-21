@@ -41,7 +41,7 @@ SOURCE RULES:
 unless the TASK explicitly includes an editor's memo for this story.)
 
 OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing after it:
-{{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
+{{"headline": str, "seo_title": str, "subheadline": str, "body_markdown": str, "social_post": str, "sport": str,
   "tags": [str], "athletes": [str], "image_subjects": [str], "facts_to_verify": [str],
   "sources_used": [{{"title": str, "url": str}}], "match": null or {{"competition": str, "date": "D Month YYYY",
   "home": str, "away": str, "home_score": int, "away_score": int, "home_scorers": [str], "away_scorers": [str],
@@ -55,6 +55,10 @@ OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing 
 - body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings written for THIS story
   (never generic headings like "My view", "Why this matters to me", "A view from ...").
 - social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
+- seo_title: the Google search title, max 60 characters. Start with the words fans type into Google: the two
+  teams with the score for a match ("Brazil 7-0 Singapore: Vinícius 12-minute hat-trick"), or the athlete's or
+  club's name and the key fact ("Pochettino named Manchester United manager"). Plain, accurate, no clickbait,
+  no site name.
 """
 
 VOICE_RULES = {
@@ -122,7 +126,9 @@ Rules:
 
 OUTPUT: one JSON object inside <article_json> ... </article_json>:
 {{{schema}}}
-where each value is {{"headline": str, "subheadline": str, "body_markdown": str, "social_post": str}}.
+where each value is {{"headline": str, "seo_title": str, "subheadline": str, "body_markdown": str, "social_post": str}}.
+seo_title: the Google search title in that language (Chinese max 30 characters, Russian max 70), starting with the
+names and score people search for, e.g. "巴西7-0新加坡：维尼修斯12分钟帽子戏法", "Бразилия — Сингапур 7:0: хет-трик Винисиуса".
 """
 
 
@@ -207,7 +213,7 @@ def localize(cfg: dict, en: dict) -> dict:
     script = "Simplified" if cfg["languages"].get("chinese_script", "simplified") == "simplified" else "Traditional"
     schema = ", ".join(f'"{l}": {{...}}' for l in langs)
     lsys = LOCALIZE_SYSTEM.format(targets=" and ".join(LANG_NAMES[l] for l in langs), script=script, schema=schema)
-    src = json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}, ensure_ascii=False)
+    src = json.dumps({k: en.get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")}, ensure_ascii=False)
     log.info("Adapting to %s ...", ", ".join(langs))
     try:
         loc, _, _ = _ask_json(cfg, lsys, f"<english_article>\n{src}\n</english_article>", search=False)
@@ -292,11 +298,11 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
         "originality": locals().get("orig"),
         "grounded": bool(locals().get("cites")) or bool(ctx.get("source_links")),
-        "en": {k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
+        "en": {k: en.get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")},
     }
     for l in langs:
         if isinstance(loc.get(l), dict) and loc[l].get("headline"):
-            article[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+            article[l] = {k: loc[l].get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")}
     return article
 
 
@@ -318,12 +324,12 @@ def revise_article(cfg: dict, a: dict, notes: str, images=None) -> dict:
         new_en = dict(en, body_markdown=en.get("body_markdown", "") + "\n\n" + notes)
         changes = [notes]
     else:
-        prompt = ("<draft>\n" + json.dumps({k: en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")},
+        prompt = ("<draft>\n" + json.dumps({k: en.get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")},
                                            ensure_ascii=False) + "\n</draft>\n\n<editors_notes>\n" + (notes or "(see screenshots)")
                   + "\n</editors_notes>")
         text, _src, _m = llm.generate(cfg, REVISE_SYSTEM.format(site=cfg["site"]["name"]), prompt, False, images)
         out = extract_json(text)
-        new_en = {k: out.get(k) or en.get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+        new_en = {k: out.get(k) or en.get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")}
         changes = [str(x) for x in out.get("facts_added") or []]
     b = dict(a)
     b["en"] = new_en
@@ -331,7 +337,7 @@ def revise_article(cfg: dict, a: dict, notes: str, images=None) -> dict:
     others = cfg["languages"].get("others", ["zh", "ru"])
     for l in others:
         if isinstance(loc.get(l), dict) and loc[l].get("headline"):
-            b[l] = {k: loc[l].get(k, "") for k in ("headline", "subheadline", "body_markdown", "social_post")}
+            b[l] = {k: loc[l].get(k, "") for k in ("headline", "seo_title", "subheadline", "body_markdown", "social_post")}
     b["revisions"] = (a.get("revisions") or []) + [{"at": now_iso(cfg), "notes": notes[:1000], "changes": changes[:10],
                                                    "screenshots": len(images or [])}]
     b["updated_at"] = now_iso(cfg)

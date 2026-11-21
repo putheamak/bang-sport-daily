@@ -578,7 +578,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
 {_rail(cfg, lang, wire, latest)}
 </div>
 {f'<section class="wrap more"><h2 class="sech"><span>{UI[lang]["more"]}</span></h2><div class="grid g3">{rel}</div></section>' if rel else ''}"""
-    return _page(cfg, lang, f"{L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
+    return _page(cfg, lang, f"{L.get('seo_title') or L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
                  body, alternates, f"{lang}/{a['slug']}.html", f'<script type="application/ld+json">{ld}</script>',
                  og_image=imgs[0]["url"] if imgs else "", active=key)
 
