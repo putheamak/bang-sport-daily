@@ -300,6 +300,13 @@ def _kicker(cfg, a, lang) -> str:
     return f'<span class="kick k-{key}">{E(section_name(cfg, key, lang))}</span>'
 
 
+def _css_ver() -> str:
+    """Short fingerprint of the stylesheet: a changed style gets a new address, so browsers and Cloudflare
+    cannot keep showing the old one (21 Nov 2026: embed boxes showed unstyled from a cached style.css)."""
+    import hashlib
+    return hashlib.sha1((TEMPLATE_DIR / "site.css").read_bytes()).hexdigest()[:8]
+
+
 def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: str, extra_head: str = "",
           ticker: list | None = None, og_image: str = "", active: str = "", noindex: bool = False) -> str:
     base = _base(cfg)
@@ -336,7 +343,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
 <link rel="alternate" type="application/rss+xml" href="feed.xml" title="RSS">
 <link rel="preload" href="../fonts/oswald-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="icon" href="../favicon.ico" sizes="32x32"><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="stylesheet" href="../style.css">{robots}{adsense}
+<link rel="stylesheet" href="../style.css?v={_css_ver()}">{robots}{adsense}
 {extra_head}
 </head>
 <body class="l-{lang}">
@@ -499,7 +506,7 @@ def _embed(e: dict, lang: str) -> str:
     cap = e.get("caption") or ""
     if isinstance(cap, dict):
         cap = cap.get(lang) or cap.get("en") or ""
-    return (f'<figure class="embed" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
+    return (f'<figure class="embed embed-{E(p.lower())}" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
             f'<button type="button" class="embed-load" onclick="{_EMBED_JS}">'
             f'<span class="embed-plat">{E(p)}</span><b>{E(who)}</b>'
             + (f'<span class="embed-cap">{E(cap)}</span>' if cap else "")
@@ -733,7 +740,7 @@ def _rss(cfg, lang, items):
 
 
 ROOT_INDEX = """<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{name}</title><link rel="icon" href="favicon.ico" sizes="32x32"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" href="style.css"></head><body class="pick">
+<title>{name}</title><link rel="icon" href="favicon.ico" sizes="32x32"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" href="style.css?v={ver}"></head><body class="pick">
 <main class="wrap"><h1 class="brand big"><b>BANG</b><span>SPORT</span><i>DAILY</i></h1>
 <div class="choose"><a href="en/index.html">English</a><a href="zh/index.html">中文</a><a href="ru/index.html">Русский</a></div></main>
 <script>try{{var l=(navigator.language||'en').slice(0,2);var m={{zh:'zh',ru:'ru',uk:'ru',be:'ru',kk:'ru'}}[l]||'en';
@@ -829,7 +836,7 @@ def build_site(cfg: dict) -> None:
             (d / "author.html").write_text(_author_page(cfg, lang, items), encoding="utf-8")
             urls.append(f"{lang}/author.html")
         urls.append(f"{lang}/index.html")
-    (DOCS / "index.html").write_text(ROOT_INDEX.format(name=E(cfg["site"]["name"])), encoding="utf-8")
+    (DOCS / "index.html").write_text(ROOT_INDEX.format(name=E(cfg["site"]["name"]), ver=_css_ver()), encoding="utf-8")
     base = _base(cfg)
     if base:
         (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
