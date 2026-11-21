@@ -1,81 +1,89 @@
-2026-11-20 17:14:52,761 INFO BBC Sport                         42 items
-2026-11-20 17:14:52,914 INFO The Guardian Sport                26 items
-2026-11-20 17:14:53,008 INFO ESPN                               0 items
-2026-11-20 17:14:53,210 INFO Sky Sports                        20 items
-2026-11-20 17:14:53,456 INFO Google News – Sports (EN)         55 items
-2026-11-20 17:14:54,205 INFO Google News – 体育 (ZH)             51 items
-2026-11-20 17:14:54,832 INFO Google News – Спорт (RU)          39 items
-2026-11-20 17:14:55,945 INFO Championat                        29 items
-2026-11-20 17:14:56,632 INFO Sports.ru                         17 items
-2026-11-20 17:14:58,431 INFO Спорт-Экспресс                   467 items
-2026-11-20 17:14:59,589 INFO РИА Новости Спорт                 20 items
-2026-11-20 17:15:00,410 INFO 中国新闻网 体育                          11 items
-2026-11-20 17:15:00,788 INFO Google News – Cambodia sport      12 items
-2026-11-20 17:15:01,173 INFO Google News – Southeast Asia sport  28 items
-2026-11-20 17:15:01,751 INFO Google News – Combat promotions   90 items
-2026-11-20 17:15:02,166 INFO Google News – Boxing              38 items
-2026-11-20 17:15:02,388 INFO Google News – Kun Khmer            0 items
-2026-11-20 17:15:02,599 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-20 17:15:03,104 INFO Google News – Единоборства (RU)   93 items
-2026-11-20 17:15:03,432 INFO Google News – 格斗 (ZH)             27 items
-2026-11-20 17:15:03,626 INFO MMA Fighting                      10 items
-2026-11-20 17:15:03,908 INFO Google News – Khmer Times sport   15 items
-2026-11-20 17:15:04,842 INFO Candidate stories after clustering: 994
-2026-11-20 17:15:04,941 INFO Skipped (pre-match piece, no previews): «Ростов» и «Крылья Советов» объявили стартовые составы на матч 15-го тура РПЛ
-2026-11-20 17:15:04,944 INFO Skipped (pre-match piece, no previews): Arteta warns Arsenal players over FPL team news leak
-2026-11-20 17:15:05,000 INFO Skipped (pre-match piece, no previews): UFC Qatar DraftKings DFS Lineup Picks (Prochazka vs. Stirling): Expert Daily Fantasy Strategy
-2026-11-20 17:15:05,207 INFO Skipped (we already have this story): JDT bounce back to down CAHN and stay perfect in Shopee Cup
-2026-11-20 17:15:05,232 INFO Skipped (pre-match piece, no previews): Лига ACA анонсировала стартовый турнир 2027 года
-2026-11-20 17:15:05,278 INFO Skipped (pre-match piece, no previews): MMA Junkie Radio #3721: Jones-Hokit beef, UFC Qatar preview, more
-2026-11-20 17:15:05,445 INFO Skipped (pre-match piece, no previews): Cherrtum FC vs Phnom Penh City live score, H2H and lineups
-2026-11-20 17:15:05,543 INFO Skipped (pre-match piece, no previews): Twins Looking To Add To Bullpen, Lineup
-2026-11-20 17:15:05,985 INFO Google News search                11 items
-2026-11-20 17:15:05,985 INFO Skipped (same event as a stronger story): UFC Qatar weigh-in results: Jiri Prochazka returns; 1 fighter heavy
-2026-11-20 17:15:06,241 INFO Google News search                 0 items
-2026-11-20 17:15:06,241 INFO Skipped (only 1 outlet): 财政部：10月份全国共销售彩票559.82亿元，同比增长19.4%
-2026-11-20 17:15:06,483 INFO Google News search                 2 items
-2026-11-20 17:15:06,483 INFO Skipped (only 1 outlet): Шишкарев: «Я вам обещаю — сборная России по гандболу будет на пьедестале на Олимпиаде-2028 в Лос-Анд
-2026-11-20 17:15:06,487 INFO Skipped (only 1 outlet): 'I felt like I was a ghost' - when players miss a season through injury
-2026-11-20 17:15:06,829 INFO Google News search                23 items
-2026-11-20 17:15:06,832 INFO Skipped (same event as a stronger story): MMA DFS Picks: DraftKings Expert Survey for UFC Fight Night - Prochazka vs. Stirling
-2026-11-20 17:15:07,137 INFO Google News search                 3 items
-2026-11-20 17:15:07,137 INFO Skipped (same event as a stronger story): LIVE! UFC Qatar Ceremonial Weigh Ins Video!
-2026-11-20 17:15:07,137 INFO Skipped (same event as a stronger story): UFC Fight Night 294 weigh-in results: One fighter comes in heavy
-2026-11-20 17:15:07,137 INFO Confirmed by 2+ outlets: 18 of 25 candidates (6 searches)
-2026-11-20 17:15:07,148 INFO Picked [sea football 3.8 · 2 outlets] Vietnam U17 coach urges confidence ahead of Belgium World Cup clash
-2026-11-20 17:15:07,148 INFO Writing news (EN) ...
-2026-11-20 17:15:07,995 INFO Gemini models available: 27 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-20 17:16:08,877 INFO Adapting to zh, ru ...
-2026-11-20 17:16:42,775 INFO Picked [global combat 5.4 · 4 outlets] ‘There will be no excuses, and no mercy’: Jiri Prochazka and Navajo Stirling have intense final faceoff before UFC Qatar
-2026-11-20 17:16:42,776 INFO Writing news (EN) ...
-2026-11-20 17:17:16,616 INFO Adapting to zh, ru ...
-2026-11-20 17:17:49,891 INFO Writing athlete_story (EN) ...
-2026-11-20 17:19:02,821 INFO Adapting to zh, ru ...
-2026-11-20 17:20:09,527 INFO Looking up photos for 2026-11-21-news-10e4ee: ['Cristiano Roland', 'Vietnam national under-17 football team', 'Belgium national under-17 football team', 'Aspire Zone', 'Le Sy Bach', 'Chu Ngoc Nguyen Luc']
-2026-11-20 17:20:09,912 WARNING No free-licence photo for 'Vietnam national under-17 football team' (Flag_of_Vietnam.svg)
-2026-11-20 17:20:09,989 WARNING No free-licence photo for 'Belgium national under-17 football team' (Royal_Belgian_FA_logo_2019.svg)
-2026-11-20 17:20:10,150 INFO Photo check Asian_Games_Doha_2006_fireworks.jpg (Wikimedia Commons, 1776x1181): OK, licence 'CC BY-SA 2.0'
-2026-11-20 17:20:10,150 INFO Photo for 'Aspire Zone': Asian_Games_Doha_2006_fireworks.jpg (Rafeek Manchayil, CC BY-SA 2.0)
-2026-11-20 17:20:10,888 INFO Match card added to 2026-11-21-news-10e4ee
-2026-11-20 17:20:10,888 INFO Looking up photos for 2026-11-21-news-14e91f: ['Jiří Procházka', 'Navajo Stirling', 'Ali Bin Hamad al-Attiyah Arena', 'Aljamain Sterling', 'Kevin Vallejos', 'Carlos Ulberg']
-2026-11-20 17:20:11,034 INFO Photo check JiriProchazka2022.png (Wikimedia Commons, 520x679): OK, licence 'CC BY 3.0'
-2026-11-20 17:20:11,034 INFO Photo for 'Jiří Procházka': JiriProchazka2022.png (Show Jana Krause, CC BY 3.0)
-2026-11-20 17:20:11,577 INFO Photo check Ali_Bin_Hamad_al-Attiyah_Arena.jpg (English Wikipedia only, 532x332): REFUSED, licence 'CC-BY-SA-4.0' (a file kept only on Wikipedia must be public domain)
-2026-11-20 17:20:11,577 WARNING No free-licence photo for 'Ali Bin Hamad al-Attiyah Arena' (Ali_Bin_Hamad_al-Attiyah_Arena.jpg)
-2026-11-20 17:20:11,706 INFO Photo check Alijamain_Sterling_at_UFC_228.jpg (Wikimedia Commons, 1112x1395): OK, licence 'CC BY 3.0'
-2026-11-20 17:20:11,706 INFO Photo for 'Aljamain Sterling': Alijamain_Sterling_at_UFC_228.jpg (MMAnytt, CC BY 3.0)
-2026-11-20 17:20:12,169 INFO Photo check Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg (Wikimedia Commons, 1001x1557): OK, licence 'Public domain'
-2026-11-20 17:20:12,169 INFO Photo for 'Carlos Ulberg': Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg (The White House, Public domain)
-2026-11-20 17:20:12,169 INFO Looking up photos for 2026-11-21-athl-4ed038: ['Khabib Nurmagomedov', 'Abdulmanap Nurmagomedov', 'American Kickboxing Academy', 'UFC 229']
-2026-11-20 17:20:12,277 INFO Photo check Khabib_nurmagomedov.jpg (Wikimedia Commons, 1080x1699): OK, licence 'CC BY-SA 4.0'
-2026-11-20 17:20:12,277 INFO Photo for 'Khabib Nurmagomedov': Khabib_nurmagomedov.jpg (Airotcivss, CC BY-SA 4.0)
-2026-11-20 17:20:12,424 INFO Photo check Абдулманап_Нурмагомедов.png (Wikimedia Commons, 638x644): OK, licence 'CC BY 3.0'
-2026-11-20 17:20:12,425 INFO Photo for 'Abdulmanap Nurmagomedov': Абдулманап_Нурмагомедов.png (Время спорта, CC BY 3.0)
-2026-11-20 17:20:12,481 WARNING No free-licence photo for 'American Kickboxing Academy' (AKA_Logo.png)
-2026-11-20 17:20:12,768 INFO Cover photo of 2026-11-21-athl-4ed038 changed: another story already uses that picture
-2026-11-20 17:20:12,823 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
-2026-11-20 17:20:12,878 INFO Wrote 3 new articles for 2026-11-21
-2026-11-20 17:20:12,979 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-21
-2026-11-20 17:20:15,122 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-20 17:20:15,606 INFO Website built: 56 published stories, 213 pages
-2026-11-20 17:20:15,608 INFO Gemini today (2026-11-20, Pacific): gemini-3.8-flash 6 ok / 0 failed (12,859 in / 31,208 out tokens) · estimated cost if billed: US$0.127
+2026-11-21 13:22:35,084 INFO BBC Sport                         33 items
+2026-11-21 13:22:35,263 INFO The Guardian Sport                25 items
+2026-11-21 13:22:35,350 INFO ESPN                               0 items
+2026-11-21 13:22:35,603 INFO Sky Sports                        19 items
+2026-11-21 13:22:36,135 INFO Google News – Sports (EN)         44 items
+2026-11-21 13:22:37,149 INFO Google News – 体育 (ZH)             59 items
+2026-11-21 13:22:38,052 INFO Google News – Спорт (RU)          46 items
+2026-11-21 13:22:39,266 INFO Championat                        29 items
+2026-11-21 13:22:40,239 INFO Sports.ru                         10 items
+2026-11-21 13:22:42,133 INFO Спорт-Экспресс                   425 items
+2026-11-21 13:22:43,288 INFO РИА Новости Спорт                 20 items
+2026-11-21 13:22:44,236 INFO 中国新闻网 体育                          18 items
+2026-11-21 13:22:44,596 INFO Google News – Cambodia sport       9 items
+2026-11-21 13:22:45,041 INFO Google News – Southeast Asia sport  39 items
+2026-11-21 13:22:45,597 INFO Google News – Combat promotions   64 items
+2026-11-21 13:22:46,039 INFO Google News – Boxing              42 items
+2026-11-21 13:22:46,291 INFO Google News – Kun Khmer            0 items
+2026-11-21 13:22:46,527 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-21 13:22:47,110 INFO Google News – Единоборства (RU)   83 items
+2026-11-21 13:22:47,520 INFO Google News – 格斗 (ZH)             30 items
+2026-11-21 13:22:47,753 INFO MMA Fighting                       9 items
+2026-11-21 13:22:48,039 INFO Google News – Khmer Times sport    5 items
+2026-11-21 13:22:48,973 INFO Candidate stories after clustering: 883
+2026-11-21 13:22:49,050 INFO Skipped (pre-match piece, no previews): «Рубин» — «Зенит»: стартовые составы команд на матч 15-го тура РПЛ
+2026-11-21 13:22:49,058 INFO Skipped (we already have this story): UFC Fight Night: Prochazka vs Stirling | UFC Qatar
+2026-11-21 13:22:49,088 INFO Skipped (we already have this story): Main Card Results | UFC Qatar
+2026-11-21 13:22:49,165 INFO Skipped (pre-match piece, no previews): «Лацио» – «Лечче»: стартовые составы команд на матч Серии А Италии, 21 ноября 2026 года
+2026-11-21 13:22:49,186 INFO Skipped (pre-match piece, no previews): Дю Плесси анонсировал скорое объявление следующего боя
+2026-11-21 13:22:49,288 INFO Skipped (pre-match piece, no previews): 约翰尼-尼尔森预测泰森-富里Vs约书亚
+2026-11-21 13:22:49,301 INFO Skipped (pre-match piece, no previews): Chelsea vs Leeds team news LIVE!
+2026-11-21 13:22:49,471 INFO Skipped (pre-match piece, no previews): UFC Qatar Preview Show: Is this do-or-die for Jiri Prochazka against Navajo Stirling?
+2026-11-21 13:22:49,828 INFO Skipped (we already have this story): Qualifiers - Group E: Singapore 2-3 Palestine; India 0-0 Malaysia
+2026-11-21 13:22:49,847 INFO Skipped (we already have this story): JDT bounce back to down CAHN and stay perfect in Shopee Cup
+2026-11-21 13:22:49,864 INFO Skipped (pre-match piece, no previews): Лига ACA анонсировала стартовый турнир 2027 года
+2026-11-21 13:22:49,971 INFO Skipped (pre-match piece, no previews): Cherrtum FC vs Phnom Penh City live score, H2H and lineups
+2026-11-21 13:22:49,999 INFO Skipped (same event as a stronger story): Lauren Price Wins Undisputed Welterweight Crown in Cardiff
+2026-11-21 13:22:49,999 INFO Skipped (same event as a stronger story): Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields
+2026-11-21 13:22:50,325 INFO Google News search                 7 items
+2026-11-21 13:22:50,326 INFO Skipped (same event as a stronger story): «Акрон» — «Факел»: защитник хозяев Бардыбахин был удалён с поля на 20-й минуте
+2026-11-21 13:22:50,699 INFO Google News search                26 items
+2026-11-21 13:22:50,974 INFO Google News search                 2 items
+2026-11-21 13:22:50,974 INFO Skipped (only 1 outlet): Ветеран из Владивостока поставил четыре мировых рекорда на Кубке мира по силовому многоборью
+2026-11-21 13:22:51,326 INFO Google News search                25 items
+2026-11-21 13:22:51,328 INFO Skipped (same event as a stronger story): Lauren Price dominates Michaela Kotaskova to become undisputed world champion
+2026-11-21 13:22:51,658 INFO Google News search                20 items
+2026-11-21 13:22:51,658 INFO Skipped (politics): Легков оценил шансы Большунова обыграть Клебо в дистанционной гонке
+2026-11-21 13:22:51,659 INFO Skipped (same event as a stronger story): Медведев остановит Зверева в полуфинале Итогового турнира. Даниил — один из самых неудобных соперник
+2026-11-21 13:22:51,909 INFO Google News search                 1 items
+2026-11-21 13:22:51,910 INFO Confirmed by 2+ outlets: 18 of 25 candidates (6 searches)
+2026-11-21 13:22:51,921 INFO Picked [global combat 18.5 · 17 outlets] "He's one of the best" - Kevin Vallejos wants Title Shot After Potential win Over Aljamain Sterling at UFC Qatar
+2026-11-21 13:22:51,921 INFO Writing news (EN) ...
+2026-11-21 13:22:52,611 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-21 13:23:35,706 INFO Adapting to zh, ru ...
+2026-11-21 13:24:11,751 INFO Picked [sea football 4.3 · 2 outlets] Vietnam makes World Cup history with two stunning goals against Belgium
+2026-11-21 13:24:11,751 INFO Writing news (EN) ...
+2026-11-21 13:25:09,885 INFO Adapting to zh, ru ...
+2026-11-21 13:25:51,816 INFO Writing athlete_story (EN) ...
+2026-11-21 13:26:42,529 INFO Adapting to zh, ru ...
+2026-11-21 13:27:36,857 INFO Looking up photos for 2026-11-21-news-d01c57: ['Aljamain Sterling', 'Alexander Volkanovski', 'Jiří Procházka', 'Ali Bin Hamad Al Attiyah Arena', 'Kevin Vallejos']
+2026-11-21 13:27:37,135 INFO Photo check Alijamain_Sterling_at_UFC_228.jpg (Wikimedia Commons, 1112x1395): OK, licence 'CC BY 3.0'
+2026-11-21 13:27:37,136 INFO Photo for 'Aljamain Sterling': Alijamain_Sterling_at_UFC_228.jpg (MMAnytt, CC BY 3.0)
+2026-11-21 13:27:37,425 INFO Photo check Volkanovski_2021_red_shirt.jpeg (English Wikipedia only, 1363x1577): REFUSED, licence 'CC-BY-SA-2.0' (a file kept only on Wikipedia must be public domain)
+2026-11-21 13:27:37,425 WARNING No free-licence photo for 'Alexander Volkanovski' (Volkanovski_2021_red_shirt.jpeg)
+2026-11-21 13:27:37,596 INFO Photo check JiriProchazka2022.png (Wikimedia Commons, 520x679): OK, licence 'CC BY 3.0'
+2026-11-21 13:27:37,596 INFO Photo for 'Jiří Procházka': JiriProchazka2022.png (Show Jana Krause, CC BY 3.0)
+2026-11-21 13:27:38,270 INFO Photo check Ali_Bin_Hamad_al-Attiyah_Arena.jpg (English Wikipedia only, 532x332): REFUSED, licence 'CC-BY-SA-4.0' (a file kept only on Wikipedia must be public domain)
+2026-11-21 13:27:38,270 WARNING No free-licence photo for 'Ali Bin Hamad Al Attiyah Arena' (Ali_Bin_Hamad_al-Attiyah_Arena.jpg)
+2026-11-21 13:27:38,643 INFO Looking up photos for 2026-11-21-news-b4915c: ['Cristiano Roland', 'Sven Vermant', 'Vietnam national under-17 football team', 'Aspire Zone', 'Lê Sỹ Bách', 'Chu Ngọc Nguyễn Lực']
+2026-11-21 13:27:39,216 INFO Photo check Schalke_Vermant03.jpg (Wikimedia Commons, 199x293): REFUSED, smaller than 400 px wide (licence 'CC BY-SA 3.0' is fine)
+2026-11-21 13:27:39,216 WARNING No free-licence photo for 'Sven Vermant' (Schalke_Vermant03.jpg)
+2026-11-21 13:27:39,306 WARNING No free-licence photo for 'Vietnam national under-17 football team' (Flag_of_Vietnam.svg)
+2026-11-21 13:27:39,533 INFO Photo check Asian_Games_Doha_2006_fireworks.jpg (Wikimedia Commons, 1776x1181): OK, licence 'CC BY-SA 2.0'
+2026-11-21 13:27:39,534 INFO Photo for 'Aspire Zone': Asian_Games_Doha_2006_fireworks.jpg (Rafeek Manchayil, CC BY-SA 2.0)
+2026-11-21 13:27:40,360 INFO Match card added to 2026-11-21-news-b4915c
+2026-11-21 13:27:40,360 INFO Looking up photos for 2026-11-21-athl-6d2c08: ['Cristiano Ronaldo', 'Real Madrid CF', 'Manchester United F.C.', 'Al Nassr FC']
+2026-11-21 13:27:40,606 INFO Photo check Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg (Wikimedia Commons, 2812x4215): OK, licence 'CC BY-SA 4.0'
+2026-11-21 13:27:40,606 INFO Photo for 'Cristiano Ronaldo': Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg (Bryan Berlin, CC BY-SA 4.0)
+2026-11-21 13:27:41,610 WARNING No free-licence photo for 'Al Nassr FC' (Nassr_FC_Logo.svg)
+2026-11-21 13:27:41,650 INFO Cover photo of 2026-11-21-news-b4915c changed: another story already uses that picture
+2026-11-21 13:27:48,002 INFO Photo check 2026-11-21-news-d01c57 #1 'Aljamain Sterling': OK
+2026-11-21 13:27:55,697 INFO Photo check 2026-11-21-news-d01c57 #2 'Jiří Procházka': OK
+2026-11-21 13:28:03,487 INFO Photo check 2026-11-21-news-b4915c #2 'Aspire Zone': OK — file looks like a non-sport scene (Fireworks)
+2026-11-21 13:28:21,019 INFO Photo check 2026-11-21-athl-6d2c08 #1 'Cristiano Ronaldo': WRONG
+2026-11-21 13:28:21,086 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
+2026-11-21 13:28:21,161 INFO Wrote 3 new articles for 2026-11-21
+2026-11-21 13:28:21,407 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-21
+2026-11-21 13:28:23,747 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-21 13:28:24,450 INFO Website built: 63 published stories, 234 pages
+2026-11-21 13:28:24,452 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 10 ok / 0 failed (18,485 in / 28,138 out tokens) · estimated cost if billed: US$0.119

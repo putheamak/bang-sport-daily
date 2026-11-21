@@ -1,8 +1,48 @@
 # Photo review — 2026-11-21
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
+`2026-11-21-news-d01c57` · 2026-11-21
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Alijamain_Sterling_at_UFC_228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Aljamain Sterling**<br>2018 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Alijamain_Sterling_at_UFC_228.jpg)<br>AI sees: _UFC fighter Aljamain Sterling at a media event_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/JiriProchazka2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)<br>AI sees: _Czech mixed martial artist Jiří Procházka smiling in a suit_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Vietnam Scores First 11-a-Side World Cup Goals in Narrow 3-2 Loss to Belgium
+`2026-11-21-news-b4915c` · 2026-11-21
+
+<img src="../docs/photos/card-2026-11-21-news-b4915c.png" width="240" align="left" hspace="10">
+
+**1. 🟢 our score card** · cover<br>Caption: **Belgium U17 3 - 2 Vietnam U17 · FIFA U-17 World Cup Qatar 2026**<br>2026 · Own work
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha at night_<br>⚑ file looks like a non-sport scene (Fireworks)
+<br clear="left">
+
+---
+
+## 📝 DRAFT · The Boy from Madeira Who Rewrote Football: The Life and Legacy of Cristiano Ronaldo
+`2026-11-21-athl-6d2c08` · 2026-11-21
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/1280px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Cristiano Ronaldo**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg)<br>AI sees: _AI-generated image of Cristiano Ronaldo in a fictional 2026 Portugal kit_<br>Why: This is a digitally generated or fabricated image depicting a future 2026 match, not an authentic photograph of Cristiano Ronaldo.
+<br clear="left">
+
+---
 
 ## ✅ live · Jiří Procházka and Navajo Stirling Make Weight Ahead of UFC Qatar Main Event
 `2026-11-21-news-14e91f` · 2026-11-21

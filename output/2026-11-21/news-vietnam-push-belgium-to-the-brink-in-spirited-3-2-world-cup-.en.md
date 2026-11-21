@@ -6,6 +6,8 @@
 
 Vietnam fell to a 3-2 defeat against European runners-up Belgium in their opening Group G match of the 2026 FIFA U-17 World Cup at the Aspire Zone in Doha on Friday, November 20. The encounter was Vietnam's first-ever match at the FIFA U-17 World Cup, with striker Le Sy Bach and midfielder Chu Ngoc Nguyen Luc delivering two eye-catching strikes that kept the European side under pressure until the final whistle.
 
+[[embed:1]]
+
 ## Early Audacity at the Aspire Zone
 
 Vietnam head coach Cristiano Roland had instructed his squad before kickoff to approach their historic debut with self-belief and composure. "Against Belgium U17, I just want the players to show their best and give everything they have," Roland told reporters ahead of the match. "Whatever the result, when the match ends, the entire team will be proud of what they have done."
