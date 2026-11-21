@@ -118,6 +118,12 @@ def _price(model: str) -> tuple[float, float] | None:
     return None
 
 
+def _spend_cap_hit(msg: str) -> bool:
+    """True when a 429 is the AI Studio project spend cap ("Your project has exceeded its monthly spending cap")."""
+    m = msg.lower()
+    return "spending cap" in m or "spend cap" in m
+
+
 def _daily_limit(msg: str) -> bool:
     """True when a 429 is the per-DAY quota (waiting a minute will not help)."""
     m = msg.lower().replace("_", "")
@@ -246,6 +252,13 @@ def _gemini(cfg: dict, system: str, prompt: str, search: bool, images=None) -> t
                         _STATE["logged_full"] = True
                         log.warning("First Gemini error in full: %s", msg[:3000])
                     log.warning("Gemini %s failed [%s]%s: %s", model, kind, " (with search)" if use_search else "", msg[:200])
+                    if _spend_cap_hit(msg):
+                        # The AI Studio monthly spend cap applies to the whole project: every model and every retry
+                        # will get the same answer until the 1st of next month (or until the cap is raised).
+                        _STATE["broken"] = "monthly spend cap reached"
+                        log.error("Gemini monthly spend cap reached — no more AI writing this month. "
+                                  "Raise it in AI Studio > Spend > Monthly spend cap if you want more stories.")
+                        raise RuntimeError("Gemini monthly spend cap reached (AI Studio > Spend)") from e
                     if "429" in msg and use_search:
                         # The Google Search grounding quota is separate and is often the one that is 0.
                         log.warning("Retrying %s WITHOUT Google Search", model)

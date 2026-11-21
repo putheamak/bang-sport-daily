@@ -1,10 +1,10 @@
-# Vietnam Push Belgium to the Brink in Spirited 3-2 World Cup Debut
+# Vietnam Push Belgium to the Brink in Spirited 3-2 U-17 World Cup Debut
 
 *Wonder goals from Le Sy Bach and Chu Ngoc Nguyen Luc cannot prevent a narrow opening defeat to the European runners-up in Doha*
 
 **News** · 2026-11-21
 
-Vietnam fell to a 3-2 defeat against European runners-up Belgium in their opening Group G match of the 2026 FIFA U-17 World Cup at the Aspire Zone in Doha on Friday, November 20. The encounter marked Vietnam's debut appearance at an 11-a-side FIFA tournament, with striker Le Sy Bach and midfielder Chu Ngoc Nguyen Luc delivering two eye-catching strikes that kept the European side under pressure until the final whistle.
+Vietnam fell to a 3-2 defeat against European runners-up Belgium in their opening Group G match of the 2026 FIFA U-17 World Cup at the Aspire Zone in Doha on Friday, November 20. The encounter was Vietnam's first-ever match at the FIFA U-17 World Cup, with striker Le Sy Bach and midfielder Chu Ngoc Nguyen Luc delivering two eye-catching strikes that kept the European side under pressure until the final whistle.
 
 ## Early Audacity at the Aspire Zone
 
