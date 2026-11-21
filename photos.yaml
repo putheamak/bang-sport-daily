@@ -34,6 +34,14 @@
 #        "embeds:" sits next to "photos:" (or alone: then the automatic photos stay). On the site it is a box that
 #        loads the post only when the reader clicks (no Meta cookies before that). It is never the cover photo.
 #        Put [[embed:1]] on its own line in the story text to choose where it goes (default: after paragraph 5).
+#   5) A GETTY IMAGES photo (free for news, inside Getty's viewer): on the Getty photo page click the </> "Embed"
+#      button, copy the WHOLE code and paste it under "code: |" (the link alone does not work: Getty's code carries
+#      a signature). No </> button = Getty does not allow embedding that photo.
+#        embeds:
+#          - code: |
+#              <a id='...' class='gie-single' href='http://www.gettyimages.com/detail/123456789' ...</script>
+#            credit: "Photographer / FIFA via Getty Images"
+#            caption: "What the photo shows"
 #
 # mode: replace  = use only these photos (first one is the large top photo)
 # mode: add      = put these first, keep the automatic ones after them

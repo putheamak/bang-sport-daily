@@ -1229,3 +1229,16 @@ def test_embed_code_pasted_and_language_captions():
     assert e["url"] == "https://www.instagram.com/p/Df7RkYEgY7K/"
     assert "奖杯" in _embed(e, "zh") and "Award" in _embed(e, "ru")       # missing language falls back to English
     assert "embed.js" not in _embed(e, "en")                              # Instagram's auto-loading script is never used
+
+
+def test_getty_embed_needs_full_code():
+    from sportnews.images import parse_embed
+    from sportnews.site import _embed
+    code = ("<a id='tok123' class='gie-single' href='http://www.gettyimages.com/detail/2178456123'>Embed from Getty Images</a>"
+            "<script>gie(function(){gie.widgets.load({id:'tok123',sig:'SiG_9=',w:'594px',h:'396px',items:'2178456123',"
+            "caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js'></script>")
+    e = parse_embed({"code": code, "credit": "FIFA via Getty Images", "caption": "Le Sy Bach scores"})
+    assert e["src"].startswith("https://embed.gettyimages.com/embed/2178456123?et=tok123") and "sig=SiG_9=" in e["src"]
+    html = _embed(e, "en")
+    assert "embed-getty-images" in html and "<iframe" not in html and "widgets.js" not in html
+    assert parse_embed({"url": "https://www.gettyimages.com/detail/news-photo/x/2178456123"}) is None

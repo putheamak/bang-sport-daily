@@ -69,7 +69,7 @@ PRIVACY = {
 <li><strong>Photos:</strong> photos are loaded from Wikimedia Commons (upload.wikimedia.org), which receives your IP address when an image loads. See the Wikimedia Foundation privacy policy.</li>
 <li><strong>Fonts:</strong> fonts are served from our own site; we do not use Google Fonts.</li>
 <li><strong>Share buttons</strong> are plain links. Nothing is sent to social networks unless you click one.</li>
-<li><strong>Embedded posts:</strong> some stories include an official Instagram or Facebook post (for example a club's own match photo). It loads only if you click "Show the post"; nothing is requested from Meta before that. After you click, the post is loaded from Meta, which may set cookies under its own privacy policy.</li>
+<li><strong>Embedded posts:</strong> some stories include an official Instagram or Facebook post (for example a club's own match photo) or a photo from Getty Images' embed viewer. It loads only if you click "Show the post"; nothing is requested from Meta or Getty Images before that. After you click, the post or photo is loaded from that service, which may set cookies under its own privacy policy.</li>
 </ul>
 <h2>Advertising (if enabled in the future)</h2>
 <p>If we show ads, they may be provided by Google AdSense. Google and its partners use cookies to serve ads based on your visits to this and other websites. You can opt out of personalised advertising in <a href="https://adssettings.google.com" rel="noopener" target="_blank">Google Ads Settings</a> or at <a href="https://www.aboutads.info" rel="noopener" target="_blank">www.aboutads.info</a>. Visitors in the EEA, the UK and Switzerland will be asked for consent through a certified consent tool before any such cookies are used. We will update this policy before ads go live.</p>
@@ -85,7 +85,7 @@ PRIVACY = {
 <li><strong>图片：</strong>图片从维基共享资源（upload.wikimedia.org）加载，加载时对方会收到您的 IP 地址。</li>
 <li><strong>字体：</strong>字体由本站自行提供，不使用 Google Fonts。</li>
 <li><strong>分享按钮</strong>为普通链接，只有点击时才会访问社交网站。</li>
-<li><strong>嵌入的帖子：</strong>部分文章包含俱乐部等官方 Instagram 或 Facebook 帖子。只有您点击“显示该帖子”后才会加载，此前不会向 Meta 发送任何请求；加载后 Meta 可能依其隐私政策设置 Cookie。</li></ul>
+<li><strong>嵌入的帖子：</strong>部分文章包含俱乐部等官方 Instagram 或 Facebook 帖子，或 Getty Images 嵌入图片。只有您点击“显示该帖子”后才会加载，此前不会向 Meta 或 Getty Images 发送任何请求；加载后该服务可能依其隐私政策设置 Cookie。</li></ul>
 <h2>广告（如将来启用）</h2><p>如显示广告，可能由 Google AdSense 提供。Google 及其合作伙伴会使用 Cookie 根据您对本站及其他网站的访问投放广告。您可在 <a href="https://adssettings.google.com" rel="noopener" target="_blank">Google 广告设置</a>中退出个性化广告。来自欧洲经济区、英国和瑞士的访问者将先通过认证的同意工具征得同意。广告上线前我们会更新本政策。</p>
 <h2>您的权利</h2><p>根据您所在地区的法律，您可能有权访问、更正或删除个人数据。请通过<a href="contact.html">联系页面</a>与我们联系。</p>"""),
     "ru": ("Политика конфиденциальности", """
@@ -97,7 +97,7 @@ PRIVACY = {
 <li><strong>Фото:</strong> загружаются с Викисклада (upload.wikimedia.org), который получает ваш IP-адрес.</li>
 <li><strong>Шрифты:</strong> размещены на нашем сайте; Google Fonts не используется.</li>
 <li><strong>Кнопки «Поделиться»</strong> — обычные ссылки; данные передаются соцсети только при нажатии.</li>
-<li><strong>Встроенные публикации:</strong> в некоторых статьях есть официальные публикации Instagram или Facebook (например, фото клуба). Они загружаются только после нажатия «Показать публикацию»; до этого к Meta не отправляется никаких запросов. После загрузки Meta может установить cookie согласно своей политике.</li></ul>
+<li><strong>Встроенные публикации:</strong> в некоторых статьях есть официальные публикации Instagram или Facebook (например, фото клуба) или фото Getty Images. Они загружаются только после нажатия «Показать публикацию»; до этого к Meta или Getty Images не отправляется никаких запросов. После загрузки сервис может установить cookie согласно своей политике.</li></ul>
 <h2>Реклама (если появится)</h2><p>Реклама может предоставляться Google AdSense; Google и партнёры используют cookie для показа рекламы. Отключить персонализацию можно в <a href="https://adssettings.google.com" rel="noopener" target="_blank">настройках рекламы Google</a>. Посетителей из ЕЭЗ, Великобритании и Швейцарии сначала попросят дать согласие через сертифицированный инструмент. Мы обновим политику до запуска рекламы.</p>
 <h2>Ваши права</h2><p>В зависимости от законодательства вы можете запросить доступ, исправление или удаление данных — через <a href="contact.html">страницу контактов</a>.</p>"""),
 }

@@ -346,15 +346,42 @@ def _cap(c):
     return {str(k): str(v) for k, v in c.items()} if isinstance(c, dict) else str(c or "")
 
 
+GETTY_ITEM = re.compile(r"items\s*:\s*['\"]([\w,]+)['\"]|gettyimages\.[a-z.]+/(?:detail|embed)/(?:[\w-]+/)*?(\d{6,})", re.I)
+
+
+def _getty(raw: str, e: dict) -> dict | None:
+    """Getty Images "Embed" code (the </> button on a Getty photo). Free for editorial use on news sites, inside
+    Getty's own viewer only; Getty may show ads in it and track viewers, so it is click-to-load and never the cover.
+    The code must be pasted whole: the iframe needs Getty's signature (sig) and embed token (id/et)."""
+    m_item = GETTY_ITEM.search(raw)
+    sig = re.search(r"sig\s*[:=]\s*['\"]?([\w\-=%]+)", raw)
+    tok = re.search(r"\bid\s*:\s*['\"]([\w\-]+)['\"]|[?&]et=([\w\-]+)", raw)
+    if not (m_item and sig and tok):
+        log.warning("Getty embed skipped: paste the whole Embed code from the photo's </> button (link alone is not enough)")
+        return None
+    item = (m_item.group(1) or m_item.group(2)).split(",")[0]
+    token = tok.group(1) or tok.group(2)
+    w = re.search(r"\bw\s*:\s*['\"](\d+)", raw) or re.search(r'width="(\d+)"', raw)
+    h = re.search(r"\bh\s*:\s*['\"](\d+)", raw) or re.search(r'height="(\d+)"', raw)
+    w, h = (int(w.group(1)) if w else 594), (int(h.group(1)) if h else 396)
+    src = (f"https://embed.gettyimages.com/embed/{item}?et={token}&tld=com&sig={sig.group(1)}"
+           f"&caption=true&ver=1")
+    return {"platform": "Getty Images", "url": f"https://www.gettyimages.com/detail/{item}", "src": src,
+            "caption": _cap(e.get("caption")), "account": str(e.get("account", "") or e.get("credit", "")),
+            "height": int(e.get("height", round(540 * h / max(w, 1)) + 90))}
+
+
 def parse_embed(e) -> dict | None:
     """photos.yaml 'embeds:' entry -> {platform, url, src, caption, account}.
     The post stays on Instagram/Facebook (we never copy the picture). On the site it loads only when the reader
     clicks it, so no Meta cookies are set for readers who do not (see the privacy policy)."""
     if isinstance(e, str):
         e = {"url": e}
-    if not isinstance(e, dict) or not e.get("url"):
+    if not isinstance(e, dict) or not (e.get("url") or e.get("code")):
         return None
-    url = str(e["url"]).strip()
+    url = str(e.get("code") or e.get("url")).strip()
+    if "gettyimages" in url.lower():
+        return _getty(url, e)
     m = EMBED_IG.search(url)                      # a "Copy link" address, or the whole "Embed" code pasted in
     if m:
         kind, code = m.group(1).lower(), m.group(2)
@@ -370,7 +397,7 @@ def parse_embed(e) -> dict | None:
                f"&show_text=true&width=500")
         return {"platform": "Facebook", "url": clean, "src": src,
                 "caption": _cap(e.get("caption")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
-    log.warning("Embed %r skipped: only Instagram and Facebook post links are supported", url[:120])
+    log.warning("Embed %r skipped: only Instagram, Facebook and Getty Images are supported", url[:120])
     return None
 
 

@@ -486,11 +486,11 @@ def _body_photos(a, lang) -> str:
 
 
 EMBED_UI = {
-    "en": {"show": "Show the post", "note": "Loads {p}. {p} may set cookies.", "by": "Post by {who} on {p}",
+    "en": {"show_photo": "Show the photo", "by_photo": "Photo: {who}", "show": "Show the post", "note": "Loads {p}. {p} may set cookies.", "by": "Post by {who} on {p}",
            "kept": "embedded from the original post, not copied"},
-    "zh": {"show": "显示该帖子", "note": "将加载 {p}，{p} 可能会设置 Cookie。", "by": "{who} 在 {p} 上发布",
+    "zh": {"show_photo": "显示图片", "by_photo": "图片：{who}", "show": "显示该帖子", "note": "将加载 {p}，{p} 可能会设置 Cookie。", "by": "{who} 在 {p} 上发布",
            "kept": "嵌入原帖，未复制图片"},
-    "ru": {"show": "Показать публикацию", "note": "Загрузится {p}; {p} может установить cookie.", "by": "Публикация {who} в {p}",
+    "ru": {"show_photo": "Показать фото", "by_photo": "Фото: {who}", "show": "Показать публикацию", "note": "Загрузится {p}; {p} может установить cookie.", "by": "Публикация {who} в {p}",
            "kept": "встроено из оригинальной публикации, не скопировано"},
 }
 _EMBED_JS = ("var f=this.parentNode,i=document.createElement('iframe');i.src=f.dataset.src;i.height=f.dataset.h;"
@@ -503,15 +503,19 @@ def _embed(e: dict, lang: str) -> str:
     until the reader clicks; then the post loads from Meta in an iframe. The picture is never copied to our site."""
     U = EMBED_UI.get(lang, EMBED_UI["en"])
     p, who = e.get("platform", ""), e.get("account") or e.get("platform", "")
+    photo = p == "Getty Images"                        # a single photo, not a social post
+    show = U["show_photo"] if photo else U["show"]
+    by = U["by_photo"].format(who=who if "getty" in who.lower() else f"{who} / Getty Images") if photo \
+        else U["by"].format(who=who, p=p)
     cap = e.get("caption") or ""
     if isinstance(cap, dict):
         cap = cap.get(lang) or cap.get("en") or ""
-    return (f'<figure class="embed embed-{E(p.lower())}" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
+    return (f'<figure class="embed embed-{E(re.sub(r"[^a-z]+", "-", p.lower()))}" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
             f'<button type="button" class="embed-load" onclick="{_EMBED_JS}">'
             f'<span class="embed-plat">{E(p)}</span><b>{E(who)}</b>'
             + (f'<span class="embed-cap">{E(cap)}</span>' if cap else "")
-            + f'<span class="embed-cta">▶ {E(U["show"])}</span><small>{E(U["note"].format(p=p))}</small></button>'
-            f'<figcaption><a href="{E(e["url"])}" rel="noopener nofollow" target="_blank">{E(U["by"].format(who=who, p=p))}</a>'
+            + f'<span class="embed-cta">▶ {E(show)}</span><small>{E(U["note"].format(p=p))}</small></button>'
+            f'<figcaption><a href="{E(e["url"])}" rel="noopener nofollow" target="_blank">{E(by)}</a>'
             f' · {E(U["kept"])}</figcaption></figure>')
 
 
