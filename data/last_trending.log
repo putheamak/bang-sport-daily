@@ -1,36 +1,39 @@
-2026-11-21 16:57:19,581 INFO BBC Sport                         31 items
-2026-11-21 16:57:19,927 INFO The Guardian Sport                26 items
-2026-11-21 16:57:19,959 INFO ESPN                               0 items
-2026-11-21 16:57:20,135 INFO Sky Sports                        19 items
-2026-11-21 16:57:20,441 INFO Google News – Sports (EN)         45 items
-2026-11-21 16:57:21,097 INFO Google News – 体育 (ZH)             51 items
-2026-11-21 16:57:21,730 INFO Google News – Спорт (RU)          48 items
-2026-11-21 16:57:24,264 INFO Championat                        29 items
-2026-11-21 16:57:25,394 INFO Sports.ru                         20 items
-2026-11-21 16:57:27,245 INFO Спорт-Экспресс                   433 items
-2026-11-21 16:57:28,852 INFO РИА Новости Спорт                 20 items
-2026-11-21 16:57:29,990 INFO 中国新闻网 体育                          17 items
-2026-11-21 16:57:30,356 INFO Google News – Cambodia sport       7 items
-2026-11-21 16:57:30,914 INFO Google News – Southeast Asia sport  46 items
-2026-11-21 16:57:31,461 INFO Google News – Combat promotions   64 items
-2026-11-21 16:57:31,969 INFO Google News – Boxing              60 items
-2026-11-21 16:57:32,192 INFO Google News – Kun Khmer            0 items
-2026-11-21 16:57:32,392 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-21 16:57:33,007 INFO Google News – Единоборства (RU)   81 items
-2026-11-21 16:57:33,356 INFO Google News – 格斗 (ZH)             27 items
-2026-11-21 16:57:33,588 INFO MMA Fighting                       9 items
-2026-11-21 16:57:33,860 INFO Google News – Khmer Times sport    5 items
-2026-11-21 16:57:34,675 INFO Candidate stories after clustering: 908
-2026-11-21 16:57:36,307 INFO Trending skipped (not our audience): Jerry Jones on fan's death after fight at 49ers-Cowboys game: "We had no record of an inci
-2026-11-21 16:57:36,312 INFO Trending skipped (not our audience): New Daniel Jones Rumors Uncover Buzz Surrounding QB's Surprising Colts Release During NFL 
-2026-11-21 16:57:36,389 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-21 16:57:36,389 INFO   1. [en 24 outlets, heat 52.8] Lauren Price makes history by becoming Wales’ first undisputed boxing world champion
-2026-11-21 16:57:36,389 INFO   2. [en 9 outlets, heat 22.2] LIVE UFC Qatar Results: Prochazka vs. Stirling
-2026-11-21 16:57:36,389 INFO   3. [en 7 outlets, heat 16.1] India U17 football team qualify for Asian Cup after holding Malaysia
-2026-11-21 16:57:36,389 INFO   4. [ru 4 outlets, heat 10.9] Алькарас обыграл Шелтона и вышел в финал итогового турнира ATP в Турине
-2026-11-21 16:57:36,389 INFO   5. [ru 4 outlets, heat 10.6] Лакерник о Трусовой: «Стабильность, которую она демонстрирует в этом сезоне, безусловно, может сыгра
-2026-11-21 16:57:36,389 INFO   C1. [en 9 outlets, heat 22.8] Lauren Price makes history by becoming Wales’ first undisputed boxing world champion
-2026-11-21 16:57:36,389 INFO   C2. [en 6 outlets, heat 14.9] Lauren Price Wins Undisputed Welterweight Crown in Cardiff
-2026-11-21 16:57:36,389 INFO   C3. [en 5 outlets, heat 13.4] Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields
-2026-11-21 16:57:36,389 INFO   C4. [en 5 outlets, heat 12.2] Lauren Price dominates Michaela Kotaskova to become undisputed world champion
-2026-11-21 16:57:36,389 INFO   C5. [ru 4 outlets, heat 11.6] Дияр Нургожай остановил Алика Лоренца хайкиком на UFC в Дохе
+2026-11-21 22:23:57,935 INFO BBC Sport                         40 items
+2026-11-21 22:23:58,196 INFO The Guardian Sport                27 items
+2026-11-21 22:23:58,246 INFO ESPN                               0 items
+2026-11-21 22:23:58,363 INFO Sky Sports                        19 items
+2026-11-21 22:23:58,725 INFO Google News – Sports (EN)         55 items
+2026-11-21 22:23:59,367 INFO Google News – 体育 (ZH)             47 items
+2026-11-21 22:24:00,011 INFO Google News – Спорт (RU)          53 items
+2026-11-21 22:24:00,792 INFO Championat                        29 items
+2026-11-21 22:24:01,648 INFO Sports.ru                         20 items
+2026-11-21 22:24:03,387 INFO Спорт-Экспресс                   411 items
+2026-11-21 22:24:04,382 INFO РИА Новости Спорт                 20 items
+2026-11-21 22:24:05,547 INFO 中国新闻网 体育                          15 items
+2026-11-21 22:24:05,878 INFO Google News – Cambodia sport       7 items
+2026-11-21 22:24:06,296 INFO Google News – Southeast Asia sport  26 items
+2026-11-21 22:24:06,835 INFO Google News – Combat promotions   96 items
+2026-11-21 22:24:07,280 INFO Google News – Boxing              46 items
+2026-11-21 22:24:07,513 INFO Google News – Kun Khmer            0 items
+2026-11-21 22:24:07,715 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-21 22:24:08,201 INFO Google News – Единоборства (RU)   83 items
+2026-11-21 22:24:08,584 INFO Google News – 格斗 (ZH)             25 items
+2026-11-21 22:24:08,730 INFO MMA Fighting                      10 items
+2026-11-21 22:24:08,972 INFO Google News – Khmer Times sport    5 items
+2026-11-21 22:24:09,913 INFO Candidate stories after clustering: 865
+2026-11-21 22:24:11,752 INFO Trending skipped (politics): Встреча Председателя Правительства Дагестана с чемпионами мира по кикбоксингу
+2026-11-21 22:24:11,754 INFO Trending skipped (not our audience): Jerry Jones on fan's death after fight at 49ers-Cowboys game: "We had no record of an inci
+2026-11-21 22:24:11,755 INFO Trending skipped (not our audience): The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start
+2026-11-21 22:24:11,758 INFO Trending skipped (politics): Саночник Павличенко — об отказе в нейтральном статусе: «Пока даже не знаю, в чем причина»
+2026-11-21 22:24:11,759 INFO Trending skipped (not our audience): MLB's chaotic day sees notable names non-tendered, trades, more Tarik Skubal news
+2026-11-21 22:24:11,861 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-21 22:24:11,861 INFO   1. [en 18 outlets, heat 38.8] Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields
+2026-11-21 22:24:11,861 INFO   2. [en 15 outlets, heat 35.4] Navajo Stirling Knocks Out Jiri Prochazka at UFC Qatar to Extend Streak to Four Consecutive Finishes
+2026-11-21 22:24:11,861 INFO   3. [en 5 outlets, heat 11.6] India U17 football team qualify for Asian Cup after holding Malaysia
+2026-11-21 22:24:11,861 INFO   4. [ru 4 outlets, heat 11.2] Медведев уступил Звереву в полуфинале итогового турнира ATP
+2026-11-21 22:24:11,861 INFO   5. [ru 4 outlets, heat 11.1] Мелкадзе назвал «стопроцентным» пенальти в матче «Ахмата» с ЦСКА
+2026-11-21 22:24:11,861 INFO   C1. [en 10 outlets, heat 25.4] Navajo Stirling Knocks Out Jiri Prochazka at UFC Qatar to Extend Streak to Four Consecutive Finishes
+2026-11-21 22:24:11,861 INFO   C2. [en 10 outlets, heat 24.2] Brian Ortega announces retirement from MMA after UFC Qatar loss
+2026-11-21 22:24:11,861 INFO   C3. [ru 9 outlets, heat 22.4] Навахо Стирлинг нокаутировал Иржи Прохазку на UFC в Катаре
+2026-11-21 22:24:11,861 INFO   C4. [ru 9 outlets, heat 21.8] Брайан Ортега завершил карьеру после поражения от Дэна Хукера
+2026-11-21 22:24:11,861 INFO   C5. [en 7 outlets, heat 18.1] Lauren Price Wins Undisputed Welterweight Crown in Cardiff
