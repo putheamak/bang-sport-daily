@@ -5,7 +5,7 @@
     "date": "2026-11-21",
     "created": "2026-11-21T00:20:09+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "MMA",
     "tags": [
@@ -45,7 +45,20 @@
         "url": "https://www.ufc.com/news/abdulmanap-nurmagomedov-1962-2020"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:25+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:26+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:26+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.012,
       "longest": 10,
@@ -114,7 +127,8 @@
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:26+07:00"
   },
   {
     "id": "2026-11-21-news-14e91f",
@@ -122,7 +136,7 @@
     "date": "2026-11-21",
     "created": "2026-11-21T00:17:49+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Mixed Martial Arts",
     "tags": [
@@ -219,7 +233,20 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDlTLTB0a0RpSzU2UFJodHMxVVJwcl9CMzBlNGZPXzhIT2JvOHo4eGtIaGl1c3BTOWp1dFZlV1lfR0VHODMzcThTckFRUEtaWW9OeHkzY0lkUFVDdVQ2S0U2blFFdVFoc1pxNnpQNTBjTHlmZkhSQTZLcmVkcmZmRHE5Q0JOV2NWdV8wNlFQeGtJa0xjZHRNRw?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:27+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:28+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:28+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -294,7 +321,8 @@
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:28+07:00"
   },
   {
     "id": "2026-11-21-news-10e4ee",
@@ -302,7 +330,7 @@
     "date": "2026-11-21",
     "created": "2026-11-21T00:16:42+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -368,7 +396,20 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOE44VHhxNVdsbDdraEZZUTVxd2xCc0c1UEY2emIzdkNJZWczTWRPNUlseUtkWEttWldSZHgzOHFaQkhTTXhHbm1aUFVLeWFoSWF0cnNya2tOYVl1RjRGN2hWbDlpQVVOUDNocmxIYVA1VnNmanFMMHUtM0EwQTJoWHhrZXFMamdFRXZadjA5ZUdBVGhJN015NndUNzJwMFZYam43RG9BSjRxUWdrcjY1bzB2WjctMi12VEtSZg?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:29+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:29+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:30+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -445,7 +486,8 @@
     ],
     "editor_notes": [
       "2026-11-21: corrected 'debut at an 11-a-side FIFA tournament' (Vietnam played the 2017 U-20 and 2023 Women's World Cups) to first U-17 World Cup; headline now says U-17"
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:30+07:00"
   },
   {
     "id": "2026-11-20-hist-924465",
@@ -453,7 +495,7 @@
     "date": "2026-11-20",
     "created": "2026-11-20T00:42:34+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -529,7 +571,20 @@
         "url": "https://en.wikipedia.org/wiki/Qatar"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:21+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:21+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:22+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.003,
       "longest": 8,
@@ -615,7 +670,8 @@
         "area": "facts",
         "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:22+07:00"
   },
   {
     "id": "2026-11-20-news-c324ff",
@@ -623,7 +679,7 @@
     "date": "2026-11-20",
     "created": "2026-11-20T00:40:42+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -718,7 +774,20 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2hSZkZPNTNwSG9pUE1vZzc4T2R3LVc0VWNubjlNbGJfT05icEVkSVFXTXFqUVVhTHJrR3RkNU5vd09Wc3dQNjA2ZHEwRmlOUU82Z1RsYloyQ201b2RaTnp1RVY4SHp0R3EzOWZEOUd2N0VrNUREUGJhdDBid1VtaVJPcDh3emhPR2xR?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:22+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:23+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:23+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -811,7 +880,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:23+07:00"
   },
   {
     "id": "2026-11-20-news-64c370",
@@ -819,7 +889,7 @@
     "date": "2026-11-20",
     "created": "2026-11-20T00:39:22+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "mma",
     "tags": [
@@ -915,7 +985,20 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNm4wTlNpMGd4Z3NPU3A3d3ZPWTJ3RGowMlRZQ0p6RmJEc1pvenhLY0JDaWVpaVVCNnQzc2RySk1rVEVLMWVOZEFqS1hsX1FDekNER3ExODRFOHJMcUpPYld1YUUwVlVZcTJLaTM4cmFMLXVObWR1SHR4R0FZYjlIbWdwck5BTkI3dVFZVmNVZEl3Vm5VQUhscDJndG9yOURGZlFv?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:24+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:24+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:25+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -990,7 +1073,8 @@
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:25+07:00"
   },
   {
     "id": "2026-11-19-news-291d8b",
@@ -998,7 +1082,7 @@
     "date": "2026-11-19",
     "created": "2026-11-19T00:32:17+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -1041,7 +1125,20 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXdOSF9aSGdPbHd5TGNvSHNBZVEzV1Q3SHh2akRTdVZ3WWxRM0R0SUgxR1hsdnlUUE8taDFRSjB5VE1aa1ZwblNVUER1dW1qakFWRTFPRW4tUkVJaTBzWS1yclZJY0JuUlUzSnRfN045RmdqN1JISGdHOWZuM3RUSEIxMzlybFB5Z19VbW5JVDA4dEU1YVFiVThUTnRyLVBOVGFCY0tSLU9aRGM?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-21T12:24:19+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-21T12:24:20+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-21T12:24:20+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.018,
       "longest": 12,
@@ -1114,7 +1211,8 @@
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: https://equalizersoccer.com"
       }
-    ]
+    ],
+    "published_at": "2026-11-21T12:24:20+07:00"
   },
   {
     "id": "2026-11-18-news-3dca37",
