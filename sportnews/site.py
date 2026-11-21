@@ -313,7 +313,9 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
     alt = "".join(f'<link rel="alternate" hreflang="{HTML_LANG[l]}" href="{base}/{pretty_path(p)}">' for l, p in alternates.items()) if base else ""
     if base and "en" in alternates:
         alt += f'<link rel="alternate" hreflang="x-default" href="{base}/{pretty_path(alternates["en"])}">'
-    robots = '\n<meta name="robots" content="noindex,follow">' if noindex else ""
+    # max-image-preview:large lets Google Discover show our 1200px+ cover photos as large cards
+    robots = ('\n<meta name="robots" content="noindex,follow">' if noindex
+              else '\n<meta name="robots" content="max-image-preview:large">')
     ads_id = cfg["site"].get("adsense_client") or ""
     adsense = (f'\n<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(ads_id)}" crossorigin="anonymous"></script>'
                if ads_id else "")
@@ -743,12 +745,23 @@ def _rss(cfg, lang, items):
             f"<link>{base}/{lang}/</link><description>{E(_tagline(cfg, lang))}</description><language>{HTML_LANG[lang]}</language>{entries}</channel></rss>")
 
 
+# Absolute links (/en/, not en/): Cloudflare Pages used to serve this page for unknown addresses, and relative
+# links then built endless /en/en/en/... duplicates (21 Nov 2026). 404.html now stops that too.
 ROOT_INDEX = """<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{name}</title><link rel="icon" href="favicon.ico" sizes="32x32"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="stylesheet" href="style.css?v={ver}"></head><body class="pick">
+<title>{name}</title><link rel="canonical" href="{base}/"><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="stylesheet" href="/style.css?v={ver}"></head><body class="pick">
 <main class="wrap"><h1 class="brand big"><b>BANG</b><span>SPORT</span><i>DAILY</i></h1>
-<div class="choose"><a href="en/index.html">English</a><a href="zh/index.html">中文</a><a href="ru/index.html">Русский</a></div></main>
+<div class="choose"><a href="/en/">English</a><a href="/zh/">中文</a><a href="/ru/">Русский</a></div></main>
 <script>try{{var l=(navigator.language||'en').slice(0,2);var m={{zh:'zh',ru:'ru',uk:'ru',be:'ru',kk:'ru'}}[l]||'en';
-if(!sessionStorage.getItem('picked')){{sessionStorage.setItem('picked','1');location.replace(m+'/')}}}}catch(e){{}}</script></body></html>"""
+if(!sessionStorage.getItem('picked')){{sessionStorage.setItem('picked','1');location.replace('/'+m+'/')}}}}catch(e){{}}</script></body></html>"""
+
+# A real "not found" page: with it, Cloudflare Pages answers unknown addresses with status 404 (not the homepage
+# with status 200, which Google reports as soft-404 / duplicate pages).
+NOT_FOUND = """<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found · {name}</title><meta name="robots" content="noindex"><link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="stylesheet" href="/style.css?v={ver}"></head><body class="pick">
+<main class="wrap"><h1 class="brand big"><b>BANG</b><span>SPORT</span><i>DAILY</i></h1>
+<p>Page not found · 找不到该页面 · Страница не найдена</p>
+<div class="choose"><a href="/en/">English</a><a href="/zh/">中文</a><a href="/ru/">Русский</a></div></main></body></html>"""
 
 
 def _redirect_page(slug: str) -> str:
@@ -840,7 +853,9 @@ def build_site(cfg: dict) -> None:
             (d / "author.html").write_text(_author_page(cfg, lang, items), encoding="utf-8")
             urls.append(f"{lang}/author.html")
         urls.append(f"{lang}/index.html")
-    (DOCS / "index.html").write_text(ROOT_INDEX.format(name=E(cfg["site"]["name"]), ver=_css_ver()), encoding="utf-8")
+    (DOCS / "index.html").write_text(ROOT_INDEX.format(name=E(cfg["site"]["name"]), ver=_css_ver(),
+                                                       base=E(_base(cfg))), encoding="utf-8")
+    (DOCS / "404.html").write_text(NOT_FOUND.format(name=E(cfg["site"]["name"]), ver=_css_ver()), encoding="utf-8")
     base = _base(cfg)
     if base:
         (DOCS / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
