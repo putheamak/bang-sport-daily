@@ -206,3 +206,14 @@
       caption: "Jiří Procházka"
     - wikipedia: "Ali Bin Hamad al-Attiyah Arena"
       caption: "Ali Bin Hamad Al-Attiyah Arena in Al Rayyan, Qatar, venue of UFC Fight Night 294"
+
+# 21 Nov 2026: Getty Images embed (FIFA photographer), loaded on click, never the cover.
+2026-11-21-news-10e4ee:
+  embeds:
+    - code: |
+        <a id='4ScSXiOwQApfIOdbQu3_Xw' class='gie-single' href='https://www.gettyimages.com/detail/2306053490' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'4ScSXiOwQApfIOdbQu3_Xw',sig:'NZJCqrEgzhA1vaWKExBnBz7-iWsUliUgHKMQ0kHVnVE=',w:'594px',h:'386px',items:'2306053490',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+      credit: "Mohamed Farag - FIFA/FIFA via Getty Images"
+      caption:
+        en: "Vietnam's players line up for the team photo before their U-17 World Cup opener against Belgium at the Aspire Zone"
+        zh: "越南队球员在精英学院与比利时队的U-17世界杯首战开赛前合影"
+        ru: "Игроки сборной Вьетнама фотографируются перед стартовым матчем юношеского ЧМ против Бельгии на арене Aspire Zone"
