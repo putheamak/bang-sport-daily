@@ -1,2 +1,6 @@
-2026-11-18 12:26:26,288 INFO IndexNow: 3 page(s) submitted (HTTP 200)
-2026-11-18 12:26:26,942 INFO Website built: 56 published stories, 213 pages
+2026-11-21 06:55:26,885 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
+2026-11-21 06:55:26,957 INFO Photo check Michael_Falkesgaard_20191101.jpg (Wikimedia Commons, 800x1200): OK, licence 'CC BY 4.0'
+2026-11-21 06:55:27,046 INFO Match card added to 2026-11-20-news-c324ff
+2026-11-21 06:55:27,046 INFO Photos for 2026-11-20-news-c324ff set from photos.yaml (3 photo(s))
+2026-11-21 06:55:27,049 INFO Cover photo of 2026-11-20-news-c324ff changed: another story already uses that picture
+2026-11-21 06:55:27,652 INFO Website built: 63 published stories, 234 pages

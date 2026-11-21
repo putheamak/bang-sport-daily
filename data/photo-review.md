@@ -47,20 +47,24 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## ✅ live · Svay Rieng Sweep Past Port FC 4-1 to Revive ASEAN Club Championship Hopes
 `2026-11-20-news-c324ff` · 2026-11-20
 
-<img src="../docs/photos/c/d297230cb6db425d-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
-<br clear="left">
-
 <img src="../docs/photos/c/86d201492e5cb5c4-640.jpg" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Port FC goalkeeper Michael Falkesgaard**<br>2019 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Falkesgaard_20191101.jpg)
+**1. ⚪ not checked** · cover<br>Caption: **Port FC goalkeeper Michael Falkesgaard**<br>2019 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Falkesgaard_20191101.jpg)
+<br clear="left">
+
+<img src="../docs/photos/c/d297230cb6db425d-640.jpg" width="240" align="left" hspace="10">
+
+**2. ⚪ not checked**<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-20-news-c324ff.png" width="240" align="left" hspace="10">
 
 **3. 🟢 our score card**<br>Caption: **PKR Svay Rieng FC 4 - 1 Port FC · ASEAN Club Championship**<br>2026 · Own work
 <br clear="left">
+
+🔗 Embedded post: [PKR Svay Rieng FC (@pkrsvr_fc_official)](https://www.instagram.com/p/Df8UWg-AT9i/) — {'en': 'Captains and match officials line up before PKR Svay Rieng v Port FC, ASEAN Club Championship Group B', 'zh': '东盟俱乐部锦标赛B组柴桢对阵泰港赛前，双方队长与裁判组合影', 'ru': 'Капитаны и судьи перед матчем «Свайриенг» — «Порт», группа B Клубного чемпионата АСЕАН'}
+
+🔗 Embedded post: [PKR Svay Rieng FC (@pkrsvr_fc_official)](https://www.instagram.com/p/Df7RkYEgY7K/) — {'en': 'Martins Júnior (No. 21) with his Shopee Star of the Match award', 'zh': '马丁斯·儒尼奥尔（21号）手捧Shopee全场最佳球员奖杯', 'ru': 'Мартинс Жуниор (№21) с призом лучшему игроку матча Shopee'}
 
 ---
 

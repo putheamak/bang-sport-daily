@@ -863,28 +863,6 @@
     "region": "cambodia",
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
-        "artist": "中国新闻社",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-        "description": "Morodok Techno Stadium in 2021",
-        "width": 1200,
-        "height": 706,
-        "year": 2021,
-        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC",
-        "editor": true,
-        "check": {
-          "v": 1,
-          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Michael_Falkesgaard_20191101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "page": "https://commons.wikimedia.org/wiki/File:Michael_Falkesgaard_20191101.jpg",
         "artist": "El Loko Foto",
@@ -895,16 +873,20 @@
         "height": 1800,
         "year": 2019,
         "subject": "Port FC goalkeeper Michael Falkesgaard",
-        "editor": true,
-        "check": {
-          "v": 1,
-          "key": "https://commons.wikimedia.org/wiki/file:michael_falkesgaard_20191101.jpg|Port FC goalkeeper Michael Falkesgaard",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
+        "editor": true
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
+        "artist": "中国新闻社",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Morodok Techno Stadium in 2021",
+        "width": 1200,
+        "height": 706,
+        "year": 2021,
+        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC",
+        "editor": true
       },
       {
         "url": "../photos/card-2026-11-20-news-c324ff.png",
@@ -943,7 +925,33 @@
       }
     ],
     "published_at": "2026-11-21T12:24:23+07:00",
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}, {\"caption\": \"Port FC goalkeeper Michael Falkesgaard\", \"commons\": \"File:Michael_Falkesgaard_20191101.jpg\"}]}"
+    "photos_override": "{\"embeds\": [{\"account\": \"PKR Svay Rieng FC (@pkrsvr_fc_official)\", \"caption\": {\"en\": \"Captains and match officials line up before PKR Svay Rieng v Port FC, ASEAN Club Championship Group B\", \"ru\": \"Капитаны и судьи перед матчем «Свайриенг» — «Порт», группа B Клубного чемпионата АСЕАН\", \"zh\": \"东盟俱乐部锦标赛B组柴桢对阵泰港赛前，双方队长与裁判组合影\"}, \"url\": \"https://www.instagram.com/p/Df8UWg-AT9i/\"}, {\"account\": \"PKR Svay Rieng FC (@pkrsvr_fc_official)\", \"caption\": {\"en\": \"Martins Júnior (No. 21) with his Shopee Star of the Match award\", \"ru\": \"Мартинс Жуниор (№21) с призом лучшему игроку матча Shopee\", \"zh\": \"马丁斯·儒尼奥尔（21号）手捧Shopee全场最佳球员奖杯\"}, \"url\": \"https://www.instagram.com/p/Df7RkYEgY7K/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Port FC\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}, {\"caption\": \"Port FC goalkeeper Michael Falkesgaard\", \"commons\": \"File:Michael_Falkesgaard_20191101.jpg\"}]}",
+    "embeds": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/p/Df8UWg-AT9i/",
+        "src": "https://www.instagram.com/p/Df8UWg-AT9i/embed/captioned/",
+        "caption": {
+          "en": "Captains and match officials line up before PKR Svay Rieng v Port FC, ASEAN Club Championship Group B",
+          "zh": "东盟俱乐部锦标赛B组柴桢对阵泰港赛前，双方队长与裁判组合影",
+          "ru": "Капитаны и судьи перед матчем «Свайриенг» — «Порт», группа B Клубного чемпионата АСЕАН"
+        },
+        "account": "PKR Svay Rieng FC (@pkrsvr_fc_official)",
+        "height": 720
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/p/Df7RkYEgY7K/",
+        "src": "https://www.instagram.com/p/Df7RkYEgY7K/embed/captioned/",
+        "caption": {
+          "en": "Martins Júnior (No. 21) with his Shopee Star of the Match award",
+          "zh": "马丁斯·儒尼奥尔（21号）手捧Shopee全场最佳球员奖杯",
+          "ru": "Мартинс Жуниор (№21) с призом лучшему игроку матча Shopee"
+        },
+        "account": "PKR Svay Rieng FC (@pkrsvr_fc_official)",
+        "height": 720
+      }
+    ]
   },
   {
     "id": "2026-11-20-news-64c370",
