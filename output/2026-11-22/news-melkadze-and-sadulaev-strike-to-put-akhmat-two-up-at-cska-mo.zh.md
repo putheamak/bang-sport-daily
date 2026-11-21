@@ -1,0 +1,51 @@
+# 梅尔卡泽与萨杜拉耶夫连下两城，阿赫马特客场两球领先中央陆军
+
+*凭借莱奇·萨杜拉耶夫和乔治·梅尔卡泽在下半场的接连破门，罗兰·古谢夫率领的阿赫马特在VEB竞技场掌握了比赛主动权。*
+
+**新闻** · 2026-11-22
+
+2026年11月21日星期六，俄罗斯足球超级联赛第15轮展开较量。格罗兹尼阿赫马特做客VEB竞技场挑战莫斯科中央陆军，并在下半场中段建立起两球的领先优势。
+
+在上半场双方互交白卷后——本场主裁判为阿尔乔姆·奇斯佳科夫（Artem Chistyakov）——阿赫马特边锋莱奇·萨杜拉耶夫在第52分钟主罚点球命中打破僵局。仅仅11分钟后，前锋乔治·梅尔卡泽在第63分钟扩大领先优势，他在接应安哥拉边锋埃加斯·卡辛图拉（Egas Cacintura）的直塞后顺势推射，皮球穿过中央陆军门将马克西姆·鲍里斯科（Maksim Borisko）的小门滚入网窝。
+
+## 闪击双响震惊VEB竞技场
+短时间内连丢两球，暴露了德米特里·伊格迪萨莫夫（Dmitry Igdisamov）麾下这支中央陆军在防线调整上的漏洞。莫斯科球队本场缺少了老门将伊戈尔·阿金费耶夫，而22岁的中后卫马特维·卢金（Matvey Lukin）也因病后训练不足无法登场。这迫使贾马卢特丁·阿卜杜勒卡德罗夫（Dzhamalutdin Abdulkadyrov）临危受命，与巴西中卫若昂·维克托（João Victor）搭档首发中卫。
+
+阿赫马特抓住了对手防线不稳的契机，凭借犀利的攻防转换屡造杀机。萨杜拉耶夫打入了个人在2026/2027赛季的第4粒联赛进球，而梅尔卡泽冷静利落的终结，也回报了整条活跃的锋线——在11月国际比赛日后首发登场的哈萨克斯坦国脚边锋马克西姆·萨莫罗多夫同样表现抢眼。
+
+## 古谢夫走马上任初见成效
+这场比赛延续了阿赫马特在新帅罗兰·古谢夫上任后的立竿见影。这位前莫斯科中央陆军中场于今年秋季接替斯坦尼斯拉夫·切尔切索夫挂帅，并在11月7日的首秀中带领球队主场1-0力克莫斯科祖国（Rodina Moscow），终结了各项赛事令人沮丧的连续7场不胜。
+
+重返VEB竞技场，古谢夫的战术部署彻底限制住了由头号射手伊万·奥布利亚科夫和阿根廷前锋卢西亚诺·贡杜领衔的中央陆军。尽管主队在上半场握有高达69%的控球率，但面对阿赫马特严密的低位防守却显得破门乏术，反而在对手犀利的反击下频频告急。
+
+## 逃离降级泥潭与争冠格局受挫
+本场开球前，中央陆军在前14轮比赛中积26分暂列俄超第5位，落后榜首的圣彼得堡泽尼特5分。伊格迪萨莫夫的球队原本渴望触底反弹——他们先是在11月7日客场2-4不敌克拉斯诺达尔，此前一周又与奥伦堡互交白卷。
+
+而阿赫马特在本轮前仅积14分排在第12位，仅比直接降级区高出3分。面对联赛前五的强敌抢下两球领先优势，不仅极大鼓舞了全队士气，也为他们11月25日与克拉斯诺达尔的俄罗斯杯小组赛打入一剂强心针。对于中央陆军来说，在11月28日主场迎战泽尼特之前，这场挫败无疑让本就艰难的11月雪上加霜。
+
+---
+**来源**
+
+- [Championat: ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев на 63-й минуте](https://www.championat.com/football/news-6708674-cska-ahmat-melkadze-udvoil-preimuschestvo-groznencev-na-63-j-minute-21-noyabrya-2026.html)
+- [Sportbox: ЦСКА – «Ахмат» — 0:2. Грозненцы забили второй гол в матче РПЛ. Видео](https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbvideo_NI2388014_CSKA__Akhmat__02_Groznency_zabili_vtoroj_gol_v_matche_RPL_Video)
+- [sportbox.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmaMB_c7r6zg2Aj9jstHzncgx7fsjgZxptRfijUPKjf9yhSepBuoR5fJSawwhSWCXF5j5fAPvIZw3UVu8fIqde5CFxQy52cj6540G53uZCyMulTk6CSLCmgDmSvWKgdK3iZMPXdEZ3F_Xd5e7V1CVpt2JXQI7b2pBU-WLDcUfoQphJ4erBpeeb9EhosEEYvagWu45smdYEq7QM)
+- [matchtv.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvgspBgwbPR1q8GLVCx1bsuzrfZsSI_BYkk9rzqJFhmrtsbpYl-a86lDgEayF5SdFnv5ZACi4f4wJiYHVyWsLNT28BSWH4B9ayK_vw1RJa-FrnvVHrerftDB98L309InOdPdrr3lLN0tvSEpCz6Vb9OJzE_8tFDWALmpCh9HBpsH_m7QyOeEB2RNRDnsiHTsqN8-7tJhbq5yWzwa4Qa738Tux51rfTyQA1SQ==)
+- [sportbox.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK0P3QLxlNllZMsNotRIhlOpLsx9TueipH-1HhGhd0_vn8u_r57UHNQcsXpwzQFa_uxOEvJYgvIkthL1E0ZfJQ39DU2Wd3neWq4Iew8ZZW3oWKRmwDdJkAvnnkPDIM38WVOn9AU991FPWu-2ctAl4rwhMDjtGzAHlSJT9I0ncyQFTyYDmscwmR19UIP-o9VxYdQsEBmNkrL6SdaNCwHVIrDPFmBLVPhXObTvayja4VsNCaVfU2aosmHV_WFwQz6l38qw==)
+- [liveresult.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh1S5JgCfcJ2MrGtXVn-t7QagDfzzJfVXkUtbm0q-VkPjaNYsXdr-QEWP-tR8k67b6vwr3018EZe2Pxa6K8-Fg13NgBcJXL_wcOSYPaagB6nHlK15kxxF7XtzqZFi2MXS6qHwVdCg9yqJCSMThTg==)
+- [soccer365.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcEzcCx2zuS9_Q6xOdww2O3vd_XOE3YvtgIRjk0f0ic5bZ6qdcAReNvjjhROlFSMvWW9NNMgRet8L9Ro1hQv-2yphVZcZO3o7FjFh_cBF8QpBS1eGfvcquuOzEtKyjILQJv6AmU_PUmu4mXhIrIJVRaBlh)
+- [matchtv.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2FZoaNFopW6uyby7Hwmr-lmvJpEEzavGzUeoX-9AqKQ-PidOFKzVqDT2KrmbKPggzDxK6DUgqKrKcSsLRRIKGwaCfKonR0tHIsZrXsrVrahhdLlL7cy5Qckt9DXqE7539jegevj-wJEs3AYtDcH7Wv2SEkcNnJCJOFQMe02GeyloPizene8aCaKj6JHBopfsfAV0-EB-QmLxnzc407YeBvq2tMU3eHsur6kD4zmfr1JT40QUvI-4T9A_3XyOMxTinl8z0wTX9fxrTmo3ahA==)
+- [fotmob.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-flDjsBbCPu-xFirX9IW0T-GsE_IlMOuhMj2PoX8i6X1b7Iz5a2IR1ixpn01Ha_-_E8FFXXP1pWnULdzu-kCmEmL7t-F3Li_4y_nVjb211YeOuUnrxzNMIFLxV9R5-LzUtiBSEOfXHVYQzwB2B7rM-FvC)
+- [futbol24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd4IYNNoEh3ylFlOf5PV8LNDIrSax34csl__vTh3vQc83jQzI6mGO5iXCEMPsMSPyAM1UZ8JLpmvghcNNRhfQ7cDVtazo-GCFv2OSc7atBwxwIpEp4DdtElr5YovzqKTUSPbkkIO7A0MHxFwYRb2hsOy-vbrbg9PZZYrrh6GL-iClldvDmHALbwTUUl4uUvY0b_cp3vJ_ur72clCZOyhFzZe9pDA==)
+- [fon.bet](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEivttNYqv3YCKE586hspQO6v_wV-aVvN8kN2G6t2Gv1c8JL6yRunDpX6zoJ7WfwJ0Vv_hXnXQ6b82MdG5CQ3Gz251rr5r6yGbbDUJ3qx2n7p4rDHO5gZAAAHu2meFIzaxmaVGU2BT-RiGp2nKC)
+- [sports.kz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3bqMPZZzwvcLKaYnV7Fai_deMHxTstcCe0zUo2oqtOPPqNKCE6Tw9idScgBDauisrEyYR8DWrCe4j6evygCcYOXnqsbkfGljulhSWn3NHKKyyhrlzCW1IfnRtBU-F10J367Rjz2-JlBHKVTwcF9op2MuKSdkMqRYTDzsFtJb_5YUdcwsylo-n779Uni8=)
+- [narod.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwRfwDKDAD9YIdWEcMk5AxfQhB8Pw8x_y6pqapHhYIv9wC0tLf5PRTDtySbUQebJsMtTWXhrfceKRwVyS1f4Cs2SzXSVdHK-wjfVa_U0eoKG3o4HqN5PYLTt1gTmHwS-81EJKgYEiBWcLMfPodMW_zxQ==)
+- [vseprosport.kz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWSLQ4nqbH_qzF2d4hXUq66KIErtSjQi7L4ETYlyCntw2lWsY7CYgNPN2QbKfT2pE7qxCLPfu_QrtD6hIX2D8Np6RcaGRfatIvzPhPYTJxnL-WRj9eyI5-UdrFToaezdrhIx9iRdbsypL4nCcmlRwhn9bviuzpiXlYTp1Kq1gryEmgmJ_RXo8l6g4lVDgqvf3ks8aNDr5rMQw=)
+- [foxsports.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzsJTUqtqCH_-XinGRjMy6FiDFVyyAxbUD-1iH7LRh4am3HHujdrkUYPhL75jTmS7uEX0jqGGt1BoqC803nLZ6AX1wAKC16d-XIS--H6nDzTkoKeqKFbggJ1EoV90VNgES1oglRgHidChmSnsnXhvhtaiv0oBIiIaZeWW7RlhfF3OSD49chZa7S50k2ugzj5QWCXdhIRvYyosHnORifGmCAp_8A9YDUv-FesCMIy6Xnwqchfntip_ky3Y=)
+- [kinopoisk.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmaMtruaduuHo91IyZAFCc5PYb4SqRV3cmefFFuyzG0d_YlNvSumRRBk2gIhdlEJLIN4m2eD1-dSPSYPYOkR2nSCWRUE4H87IFLbSHCxRyO0yFbgt_8IBo_mnasKFS3A==)
+- [fc-akhmat.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-MUWSpyk4Nj6IxmgjV8viJnW_zzMe1imbq5k3yUXzg_qNWuxrvEqVfSK14r3eQcAv6iUCxalM-f_HGMXzKV8iH_TwmS8m6IAl2l5QnBSVUI4QRboIPyzbq3VZOiwlCipx_EihLQ37mYGPszO6qJz-EzPGtrwwxyFrogFmheb-7PydNbnGfEK5g01HJRwAcrmfokPkXwAcYMb0jRs1dRSIEYw8dxlHstrZs6l7Hg8=)
+- [matchtv.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUhO_DuMbOgdfMyDSxoQpU8mlVZ1g8Aqc2V2bJR57E6LbzFMCdQHku6XcVmeljWr63K13QR6join68JmiNt2ktPhhYVU5EfLKGJbdgpPpJ5GIECJMdUVsxbcHr7D26RJEWNeJpLIlVQiosyefZtXu5VGXDAoDQ_SQsFFw5lcvS3r4kPbtF7xD1Fcb-VmlLhYzsvMoOE1NgM0QgjcOvcJDxYIVli4G-E46HQNGRGiQrd2ZN4V4BGooZDkiKSH_qQmKk175kLIva7z5pEn2BzoF10PXmGp8SeQ-8oIhL4bN5PvA-RUwEp-8k)
+- [fc-akhmat.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtn8EzajWU1YbhiMZQUoLSTBEkYsRcWhpa9ClIrhbpB0_OVlyvGO8NIE_aQg1Ubo8LMD08Bi_JtN4Nzmmr9mX-K8kiA8FpN89O0VO60FiVabIrRRBew==)
+- [cskainfo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9QC-5sR5Kam2h3pTNkFLe2_jHy0ASbvEZbZ-FVeHB575POYMJVvBepm3gifk3OgOq-eQIZnkHJJdgOYHr0NUxkmWVr4BwB_Zbpg==)
+- [sportbox.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0IXuS4WO0cUnrGZ3Sls9WM3axLYIP2Fg2V_8h86JIIzEJt6WTBZUH8nRlNVBl4JoS0zJ_3IpsUsOjyhWAfEB5o-c38p9PBrFL_hTJPU4_xklvArXKJVDzXsCh--aZn-5CHHZY0Z9eFInwVNzZoO838RXRsAaQUBfNh7WsUIP6lArEFfaf8yuey1Ogds1qGyRAIqHGSAxXjsh3YAc6EUTpq-uwIdXQnZv3OggIZh3CyzAroevz2Ci4HAAv1dbWzpZKJPhu80IXywFeOAJfCFNh6j73RtEr)
+- [sport-express.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH8w2QHJ-ihtJyZkR5KA_7oamF-MFgvz_8cONaAQkRTCI4SsekXG50YU5PR1CYqGbA7rYUcQMm9_9QZtWOTWLnxwKrewn2LCHfFmg2IFBKx58vHCwVnrx42-4QIbg3qspVeuwxuV_8)
+- [Спорт-Экспресс: ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев](https://www.sport-express.ru/football/rfpl/news/cska-ahmat-gol-melkadze-na-63-minute-v-matche-15-tura-rpl-21-noyabrya-2026-2477416/)

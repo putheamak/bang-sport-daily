@@ -1,8 +1,68 @@
-# Photo review — 2026-11-21
+# Photo review — 2026-11-22
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion
+`2026-11-22-news-e72338` · 2026-11-22
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Lauren_Price_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Lauren Price**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lauren_Price_in_2021.png)<br>AI sees: _Lauren Price wearing Team Great Britain attire in a boxing gym_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/JoeCalzaghe-July2007.jpg/1280px-JoeCalzaghe-July2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Joe Calzaghe**<br>2009 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JoeCalzaghe-July2007.jpg)<br>AI sees: _portrait of former boxer Joe Calzaghe in a suit with fists raised_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Utilita_Arena_Cardiff_September_2023_10.jpg/1280px-Utilita_Arena_Cardiff_September_2023_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Cardiff International Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Utilita_Arena_Cardiff_September_2023_10.jpg)<br>AI sees: _Exterior of Utilita Arena Cardiff, formerly Cardiff International Arena_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Melkadze and Sadulaev Strike to Put Akhmat Two Up at CSKA Moscow
+`2026-11-22-news-54c55f` · 2026-11-22
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Georgi_Melkadze_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Georgi Melkadze**<br>2022 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Georgi_Melkadze_2022.jpg)<br>AI sees: _Georgi Melkadze in action for PFC Sochi_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Lechi_Sadulayev_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🔴 WRONG**<br>Caption: **Lechi Sadulayev**<br>Asked for: Lechi Sadulaev → got page: Lechi Sadulayev<br>2019 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lechi_Sadulayev_2019.jpg)<br>AI sees: _Footballer playing for FC Akhmat Grozny in 2019_<br>Why: Plausibly shows Lechi Sadulaev playing for FC Akhmat Grozny in their 2019 kit.<br>⚑ asked for 'Lechi Sadulaev' but the photo comes from the page 'Lechi Sadulayev'
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Arena_CSKA.jpg/1280px-Arena_CSKA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **VEB Arena**<br>2016 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Arena_CSKA.jpg)<br>AI sees: _aerial view of VEB Arena in Moscow_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · On This Day in 2013: Magnus Carlsen Dethrones Viswanathan Anand in Chennai
+`2026-11-22-hist-478ccb` · 2026-11-22
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Magnus Carlsen**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg)<br>AI sees: _chess grandmaster Magnus Carlsen_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/1280px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Viswanathan Anand**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg)<br>AI sees: _Viswanathan Anand seated at a chess board_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/VishyAnand09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🔴 WRONG**<br>Caption: **World Chess Championship 2013**<br>2009 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:VishyAnand09.jpg)<br>AI sees: _Viswanathan Anand playing at the Chess Classic tournament in Mainz_<br>Why: Visible branding on the clock and backdrop ('Chess Classic', 'Hilton Mainz') contradicts the caption 'World Chess Championship 2013'.
+<br clear="left">
+
+---
 
 ## ✅ live · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
 `2026-11-21-news-d01c57` · 2026-11-21
@@ -181,86 +241,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/80dab16fc63243ce-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Mallory Swanson**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg)<br>AI sees: _Mallory Swanson in a Chicago Stars FC football jersey_
-<br clear="left">
-
----
-
-## ✅ live · Paraguay Spoil Moriyasu's Farewell as Japan Lose 2-1 in Singapore
-`2026-11-18-news-cc77a5` · 2026-11-18
-
-<img src="../docs/photos/c/90cae1608dcc1bf0.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Hajime Moriyasu, who led Japan in 113 matches from 2018**<br>2019 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Hajime_Moriyasu_at_Iran-Japan_pre-match_conference_2.jpg)<br>AI sees: _Hajime Moriyasu speaking at a press conference_
-<br clear="left">
-
-<img src="../docs/photos/c/ae211bed32aa317d-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Paraguay captain Gustavo Gómez, who scored the second goal**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Gustavo_Gomez_France_v_Paraguay_4_July_2026-029.jpg)<br>AI sees: _Paraguayan footballer Gustavo Gómez wearing a Paraguay national team training kit_
-<br clear="left">
-
-<img src="../docs/photos/c/c7f7be68e1f1eadc-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **The National Stadium in Singapore, venue of the friendly**<br>2015 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Singapore_Singapore-Sports-Hub-with-National-Stadium-01.jpg)<br>AI sees: _The National Stadium at Singapore Sports Hub_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-18-news-cc77a5.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **Japan 1 - 2 Paraguay · International friendly · Kallang Football Series**<br>2026 · Own work
-<br clear="left">
-
----
-
-## ✅ live · Spartak and Metallurg Swap Four Forwards as Maltsev and Morozov Move to Magnitogorsk
-`2026-11-18-news-3dca37` · 2026-11-18
-
-<img src="../docs/photos/c/a57ee515744c0f7e-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Mikhail Maltsev, who moves from Spartak to Metallurg**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_(%D1%85%D0%BE%D0%BA%D0%BA%D0%B5%D0%B8%D1%81%D1%82).jpg)<br>AI sees: _Spartak Moscow ice hockey player wearing number 13 on the ice_
-<br clear="left">
-
-<img src="../docs/photos/c/d13d26ac92e73916-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Ruslan Iskhakov, who moves from Metallurg to Spartak**<br>2023 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:2023_AHL_All-Star_Classic_Game_-_Ruslan_Iskhakov_(52673708091).jpg)<br>AI sees: _hockey player Ruslan Iskhakov at the 2023 AHL All-Star Classic_
-<br clear="left">
-
-<img src="../docs/photos/c/e7bc77fbbeb01419-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Arena Metallurg in Magnitogorsk**<br>2021 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Views_of_Magnitogorsk-2021_-_72.jpeg)<br>AI sees: _Exterior of Arena Metallurg in Magnitogorsk_
-<br clear="left">
-
----
-
-## ✅ live · Irish Boxer Lee Reeves Dies at 31, Three Months After Being Injured in a Fight in Dublin
-`2026-11-18-news-24f2df` · 2026-11-18
-
-<img src="../docs/photos/c/3fc00c25b61de0d3.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **The 3Arena in Dublin, where Reeves fought on 1 August**<br>2017 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:3Arena,_Dublin_(geograph_5417559).jpg)<br>AI sees: _Exterior of the 3Arena at night in Dublin_
-<br clear="left">
-
-<img src="../docs/photos/c/d65a1232dc7388c1-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Limerick, Reeves' home city**<br>2018 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Limerick_r%C3%ADo_(46531600435).jpg)<br>AI sees: _Waterfront buildings including Riverpoint along the River Shannon in Limerick_
-<br clear="left">
-
----
-
-## ✅ live · Michkov's Two Assists Help Flyers Edge Sabres 4-3 and Extend His Point Streak to Five Games
-`2026-11-18-news-00e678` · 2026-11-18
-
-<img src="../docs/photos/c/fee6a8be161920ad.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Matvei Michkov, who had two assists for the Flyers**<br>2024 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Matvei_Michkov_2024-10-17.jpg)<br>AI sees: _Philadelphia Flyers player Matvei Michkov in uniform_
-<br clear="left">
-
-<img src="../docs/photos/c/5c47fce3054548f3-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **The Flyers' home arena in Philadelphia**<br>2019 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg)<br>AI sees: _Wells Fargo Center in Philadelphia_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-18-news-00e678.png" width="240" align="left" hspace="10">
-
-**3. 🟢 our score card**<br>Caption: **Philadelphia Flyers 4 - 3 Buffalo Sabres · NHL · Regular season**<br>2026 · Own work
 <br clear="left">
 
 ---

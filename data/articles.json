@@ -1,5 +1,709 @@
 [
   {
+    "id": "2026-11-22-hist-478ccb",
+    "slug": "on-this-day-in-2013-magnus-carlsen-dethrones-viswanathan-ana",
+    "date": "2026-11-22",
+    "created": "2026-11-22T01:16:13+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Chess",
+    "tags": [
+      "Chess",
+      "Magnus Carlsen",
+      "Viswanathan Anand",
+      "World Chess Championship",
+      "On This Day"
+    ],
+    "athletes": [
+      "Magnus Carlsen",
+      "Viswanathan Anand"
+    ],
+    "image_subjects": [
+      "Magnus Carlsen",
+      "Viswanathan Anand",
+      "World Chess Championship 2013",
+      "Hyatt Regency Chennai"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Magnus Carlsen beats Vishy Anand in 10 games to become world champion - The Guardian",
+        "url": "https://www.theguardian.com/sport/2013/nov/22/magnus-carlsen-vishy-anand-world-chess-champion"
+      },
+      {
+        "title": "Viswanathan Anand dethroned, Magnus Carlsen new world chess champion - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-dethroned-magnus-carlsen-new-world-chess-champion/articleshow/26218765.cms"
+      },
+      {
+        "title": "World Chess Championship 2013 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2013"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzPsCwK6Ak5117kvFIpfT0EmzNyzkov9NJKlAnAEHusdLKV4QfdzXxanYBvOcVlqi4_li1qeL18BLKp9b3xzJu3U30gPvtfI5FwS4-TuVKfXykKlrdBzubLMDEgFnKWfhZ"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUdQ3IRotNDrMy3_cruqAHXoGiqtFLKXbk1WxP9wxNAdYaEC1TQbXBiSVMm07169_ddOClDG4F_CZibnlmyS2eX9rHtRcBeppOnxAsN4izhulyomcYDYl9KqwlfhCYim_cvtUSLlOyXm4-aPjPuKJ-dg=="
+      },
+      {
+        "title": "indiatimes.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzalfoxtC8sRAWfA6gkUP-3Ds6WM_UgXpy2j-AwApQzkNoJfV44wAK8D8uxIHAjQYTCyQZydjFM6-tNYx6RpmGVncf9BnOjI681gM_LGOVELNVMzEcw4FB-absx4YhZR_XBviDBJV9NCwnx0V8k_yK2MQY_fhrJz6wMbLU9R2VU8xd4wZ9-8UdLmlUpmWOil8SeLKtvJSsrLPtU-hELjvfzd2hwR9tZp2w9ZBZOFuh7q5prJhcvwtEVNraKRkponKLcZw="
+      },
+      {
+        "title": "theguardian.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtiwfJgqRJNmpyrJvJCUmDNTHR0v4eeIx7GnhKg8Cr24Ov1NkAuvK5TzgpJ5-OBI4Z3_v_roJbi3sjM6qIXg412tpalDQaloEr5iikrlnV4dr6IKkRYlCLSX2nzL_jgUPpt_yeqm3csQQMdYcrdCE0QKB6O2tbdIKghLSPyxIfV7vwSdc="
+      },
+      {
+        "title": "thehindu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRib8Fc60h_X9P5p2JIT9ysQJwtIl0ZlIl0GWPmZw8qnTtXRXcBOxZ0jMEgWcy_x7s9SYm2h-nBiVpxn_ZZZfvF_IIPuwF6_JfRwm21OCmghRNzff4o6dXVgGj_hgPCKpIVi314F68pvaaZUxcflx0CyJ-cMaHFR5BqbxlaYLFNni6Wnrt98t8PiL99Q4juB-Vzs419NA="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcDZIV60diFWHRoif0U8kdfASiUFVDb8i8wj_fNHFO3_j_uG5HJ1JaQ4gXWGcVeE0kSrUfsJk7TwGlG2fx2ByZOCs3DQkK8wy7Z72gRkEXz6C0ItICYcwfzLDkYXj9f2v3"
+      },
+      {
+        "title": "chessmotion.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvn58_Z7FKDAYMbBOrlaIC4sP410HrIYm4m1YL8UjvLmGzs9IG8CC5YfnNm-rGoxXHpolI-u5SWwvdPTspPJM8MfppgpfcUc4TUHbjKMxirJ_2f54fDG2baVcpw0jiBewZ2IJ0jc9fHKyH7RmS5zM8Cq4erHkxxKB96BI4uokzF7Wk"
+      },
+      {
+        "title": "indiatoday.in",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlmqTfN60yajMkok1E2kFo3CSvPVnDJniS7lFybnY-cvuvEKLNtKT5LI5PqaUyEqNspDFBInpTr7FfZ000b91dICoGri797vu-IddtOtc21gVQW3HeZJpHYWFzVjjYe2GwyNLb8eIkR1OBKTdYtcNSPtYPEHJ3-UW0L7KhvSD9LXMhRnYiANNFNqjoaP0bJrsIFjBFNp5HF5jdMsTrtkhTRQ7v-l1UYfh9Fgo6YdCjHu9eJANIUUvwdRrIACytzsRw3DNuatcgt-xlGnswDkcZuQyXYOS3LQ=="
+      },
+      {
+        "title": "theweekinchess.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_FpKKPb2cDcTP_r-5uHWOtonpaUy1D2S6LRvXaolkxKIfHZyJRCfeF0a9qiZpLMKTODrePpGMde9ZRnTEgrm8H55F5P9I97j44Wlk-iYr-l-U4bkddWJ0FXavjJ-V5P68hxXTBlQ1YdbKpwWwO3CD-Ya1ATEE_rKrWlDzn2VKNvDu_K9rJeJ79nY3vNnLpk7q5X2qe9He60ggdEk8VqiRHkjGbFZXPu4mextB_ZSlUBbEqg4oQ6uK9waM5IDKpJ9"
+      },
+      {
+        "title": "indianexpress.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlIJR35EYHDzfrWi6WF9mh4a2ITEjdZ3Y3MBFIINVKDv3Utmnh7DYdRUQkbBgwfY0mI1tQInPo95QYOAvByj8oqxVVkS0SHIiPazyhMuHA3VSVk3b8zQuY1WthHFnQS1TpVO40flV2iC4zNgu19yHgL4d_UJSnYwiwH6pQdMv5_agLcmuNiF6YOJvxesBVuZ6OSLiFoD0-VXhvOP81B7Mjb6JCmLYK7SD9dzA8ctc="
+      },
+      {
+        "title": "wordpress.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPTQ-wBMZ8VLnY9AyVFQtdVKQjnspj7LrXpERtZiwIrE0FulRfCPJ_hfQPR5hhNrTWGUZ2K7jdEBI1XU8ikw0nWKHdGRkbgNV5_HpGRVXgJMIo0TrHdBVRdV38daMo0Yqa8qyrGtp40lK2FdFL3L5Hx2NE-Pz76Kf5ZjDL4yZAOrpZAMnrMS5DEIcK3SbXhgBaQMEk6pMdBfeVyO0EVA=="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQUqvmA0lLKH0DE_-vkE7el-hRDlrUSn79zfyf84PzWQ-GyE7XTkMITuQyRxSuXWkq2OT17Pgp8Sj5tyf75eJUMuP_NcY3n7f5zYu13vHX6JjrKct3M4mPHCJt3XG1gfg="
+      },
+      {
+        "title": "chess.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE5YLs9LWOAtpQSX3C9tpsAlJ_kGgAjBDdyOxGLFZFXzCUI0bKfs7poTten1a9fD9vzx8uWWIFna8lyXg-WAICmUjh_i4J14QAjWoTjwnHYBPHjIvdxoed_0RCtvI1bi0QiKuL_jjyaiohB5c2DE2L_mlhCuZLeQisySxOqgsw_Hm9cs3xbLw="
+      },
+      {
+        "title": "rediff.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwQOhpArRp0CgWynKh5BGQiPIowJfc3CMwdOwCszChUr0Mjf63oJ1kvxAtYVg6RCc5H27IZbPisdy_9wkdDc4agtOEJTL3gP_rTFao4XwukTomS4FczmFG_mJ9uaemJREhGWdb53_smThIwguT3yh8AcFvfC8hYjBcH9GJ2LXrWyMTnq9PDRBu4708ytE7mk4AX6nCP8PNSyhkx2y68hTIRw=="
+      },
+      {
+        "title": "chess.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8AjehIi2RX-4LQtFFDPF45kLwHocTk2XvdcUG-wnv5OewmJEB9o-YPQe0G9wS_NQblZnT25MCp7UnEy-s8C2kqhEj4cfOA50lPrWsqmZ2QGTBHmTYFymMFOWrc3SJ0GV3DdisA46cXC_zBaFEx_ywLe_xSFBi9J8VmDAesYMsepKVj7bW5w=="
+      },
+      {
+        "title": "Wikipedia: Magnus Carlsen",
+        "url": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
+      },
+      {
+        "title": "Wikipedia: Viswanathan Anand",
+        "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "On This Day in 2013: Magnus Carlsen Dethrones Viswanathan Anand in Chennai",
+      "seo_title": "Carlsen Beats Anand to Win 2013 World Chess Title",
+      "subheadline": "The 22-year-old Norwegian grandmaster secured a 6½–3½ victory in Game 10 to claim his first undisputed world chess championship.",
+      "body_markdown": "On 22 November 2013, 22-year-old Norwegian grandmaster Magnus Carlsen became the 16th undisputed world chess champion by drawing Game 10 against defending champion Viswanathan Anand at the Hyatt Regency hotel in Chennai, India. The half-point sealed a 6½–3½ victory in the scheduled 12-game match, unseating Anand in his home city and ending the Indian grandmaster's six-year reign with two games to spare.\n\nCarlsen entered the contest as the world's top-rated player, holding a FIDE rating of 2870 to Anand's 2775. Anand, 43, had held the undisputed world crown since 2007 and had successfully defended it in matches against Vladimir Kramnik, Veselin Topalov, and Boris Gelfand. Yet Carlsen arrived having won the 2013 Candidates Tournament in London and having maintained the world No. 1 ranking since July 2011.\n\n## The Chennai Breakthrough\n\nThe match opened cautiously, with both grandmasters feeling out preparation in four consecutive draws. Carlsen later pointed to Game 4 as the turning point for his confidence, noting that surviving an early tactical squeeze gave him the conviction that the champion was equally vulnerable.\n\nCarlsen broke the deadlock in Game 5. Playing with the white pieces, he steered a Queen's Gambit setup into an endgame and converted an extra pawn after 58 moves. One day later, in Game 6, Carlsen struck again. Facing Anand's Ruy Lopez, he transitioned into a rook-and-pawn endgame and outmanoeuvred the defending champion over 67 moves to build a two-point advantage.\n\nAnand attempted to alter the match's course in Game 9 on 21 November, launching an aggressive kingside attack with White in the Sämisch Variation of the Nimzo-Indian Defence. Carlsen countered on the queenside, pushing his passed b-pawn down the board. Under time pressure, Anand committed a fatal blunder with 28.Nf1?. After Carlsen responded with 28...Qe1, Anand resigned immediately, giving the Norwegian a 6–3 lead and putting him within a half-point of the world title.\n\n## Game 10: Fighting to the Bare Kings\n\nFacing elimination on 22 November, Anand deployed the Sicilian Defence with the black pieces. Carlsen answered with the Moscow Variation (3.Bb5+). Instead of steering toward a rapid, conservative draw that would have sufficed to take the title, Carlsen pushed for an advantage throughout the afternoon.\n\nThe game developed into a sharp knight-and-pawn endgame that tested both players over four hours and 45 minutes. Anand defended accurately in the final hour, eliminating Carlsen's pawns until only bare kings and two pawns remained. The draw was agreed after 65 moves, completing Carlsen's unbeaten run across the ten games with three wins and seven draws.\n\n\"My mistakes didn't happen by themselves, he managed to provoke them. So full credit to him,\" Anand said in the post-match press conference. Carlsen, who earned $1.53 million of the $2.55 million purse, celebrated by jumping into the hotel pool fully clothed alongside his coaching team.\n\n## A New Era in World Chess\n\nAt 22 years, 11 months, and 23 days, Carlsen became the second-youngest undisputed world chess champion in history, behind only Garry Kasparov, who won the title in 1985 at age 22 years and six months. The defeat marked the first time in Anand's 22-year world championship match career that he failed to record a single individual game victory.\n\nThe Chennai triumph began a decade of dominance for the Norwegian. Carlsen defended his world title against Anand in Sochi in 2014, Sergey Karjakin in New York in 2016, Fabiano Caruana in London in 2018, and Ian Nepomniachtchi in Dubai in 2021. In May 2014, he reached a peak FIDE rating of 2882, the highest mark recorded in chess history. He vacated the classical championship in 2023 due to a lack of motivation, but remains the world's top-ranked classical player.",
+      "social_post": "On this day in 2013, 22-year-old Magnus Carlsen became world chess champion, drawing Game 10 against Viswanathan Anand in Chennai to seal an unbeaten 6½–3½ victory. Carlsen took the crown with two games to spare, launching a decade-long reign over classical chess. Where does Carlsen's 2013 performance rank among the most dominant world championship wins in chess history? Share your thoughts below! #Chess #MagnusCarlsen #ViswanathanAnand #OnThisDay"
+    },
+    "zh": {
+      "headline": "历史上的今天：卡尔森金奈挑落阿南德，登顶国象世界棋王宝座",
+      "seo_title": "卡尔森6.5-3.5阿南德：2013年加冕国象世界棋王",
+      "subheadline": "22岁的挪威特级大师在第10局以6.5比3.5的总比分锁定胜局，斩获个人首个无可争议的世界冠军头衔。",
+      "body_markdown": "2013年11月22日，在印度金奈凯悦酒店，年仅22岁的挪威国际特级大师马格努斯·卡尔森（Magnus Carlsen）在第10局战平卫冕冠军维斯瓦纳坦·阿南德（Viswanathan Anand），正式成为国际象棋历史上第16位无可争议的世界棋王。在原定12局的对抗赛中，卡尔森凭借这宝贵的半分布下胜局，以6.5比3.5击败主场作战的阿南德，提前两局终结了这位印度传奇长达六年的棋王统治。\n\n卡尔森是以世界第一棋手的身份奔赴这处赛场的，当时他的国际棋联等级分高达2870分，而阿南德为2775分。43岁的阿南德自2007年起牢牢坐稳无可争议的棋王宝座，并先后在卫冕战中击退了弗拉基米尔·克拉姆尼克、韦塞林·托帕洛夫以及鲍里斯·盖尔凡德的强力冲击。然而，卡尔森势头更盛——他刚刚在2013年伦敦世界冠军候选人赛中折桂，且自2011年7月以来便一直占据着世界排名第一的交椅。\n\n## 金奈破局\n\n比赛开局阶段双方落子极为谨慎，在前四局接连握手言和，试探彼此的备战底牌。卡尔森后来将第4局视作自己建立信心的关键转折点，坦言在开局化解了险峻的战术压迫后，他坚信卫冕冠军同样存在破绽与软肋。\n\n卡尔森在第5局打破了僵局。执白的挪威人将后翼弃兵局面导入残局，历经58回合将多兵优势转化为胜势。仅仅一天后的第6局，卡尔森再度发难。面对阿南德的西班牙开局，他果断进入车兵残局，经过67回合的精妙缠斗彻底击垮卫冕冠军，将领先优势扩大为两分。\n\n11月21日的第9局，背水一战的阿南德执白在新印度防御塞米什变例中掀起汹涌的王翼攻势，试图扭转整场比赛的走向。卡尔森则在后翼展开针锋相对的反击，驱动自己的b线通路兵长驱直入。读秒重压之下，阿南德在第28步弈出致命漏着28.Nf1？。卡尔森迅即应对28...Qe1后，阿南德当即停钟认输，卡尔森以6比3手握赛点，距离世界冠军仅差最后半步。\n\n## 第10局：战至光杆司令\n\n11月22日，站在悬崖边缘的阿南德执黑祭出西西里防御，卡尔森则以莫斯科变例（3.Bb5+）稳扎稳打。挪威人并未选择保守求和来轻松锁定王冠，而是在整个下午持续给对手施加进攻压力，力求斩获优势。\n\n战局演变为极其尖锐的马兵残局，双方苦战了足足4小时45分钟。阿南德在最后一个小时防守滴水不漏，将卡尔森的兵逐步兑除，棋盘上最终仅剩光杆老王和两枚孤兵。行至第65回合，双方握手言和。卡尔森在全部10局对决中斩获3胜7和，以不败战绩圆满收官。\n\n“我的失误并非凭空产生，是他一手逼出来的。胜利理应全归功于他，”阿南德在赛后新闻发布会上由衷叹服。赢下255万美元总奖金中153万美元头奖的卡尔森，则同他的教练团队一起，身着便服径直跳入酒店泳池疯狂庆祝。\n\n## 开启国象新纪元\n\n以22岁11个月23天的年龄登顶，卡尔森成为了国际象棋历史上第二年轻的无可争议世界冠军，仅次于1985年以22岁零6个月加冕的加里·卡斯帕罗夫。而对于阿南德来说，这也是他在长达22年的世界冠军赛征战历程中，首次未能在对抗赛中赢下单盘胜利。\n\n金奈的胜利，正式拉开了挪威人统治棋坛十年的辉煌序幕。此后，卡尔森先后在索契（2014年对阵阿南德）、纽约（2016年对阵谢尔盖·卡尔亚金）、伦敦（2018年对阵法比亚诺·卡鲁阿纳）和迪拜（2021年对阵伊恩·涅波姆尼亚奇）四度成功卫冕。2014年5月，他的等级分攀升至2882分，创下国际象棋历史最高纪录。尽管因缺乏动力在2023年放弃卫冕慢棋世界头衔，但他至今依然稳居世界慢棋等级分排行榜第一位。",
+      "social_post": "历史上的今天：2013年11月22日，年仅22岁的马格努斯·卡尔森在金奈第10局战平阿南德，以6.5–3.5的不败战绩提前两局加冕世界棋王，开启了对慢棋棋坛长达十年的统治！在国象历届世界冠军对抗赛中，卡尔森当年的统治级表现能排在第几？欢迎在评论区留下你的看法！ #国际象棋 #卡尔森 #阿南德 #历史上的今天"
+    },
+    "ru": {
+      "headline": "Этот день в 2013-м: Магнус Карлсен сверг Вишванатана Ананда в Ченнаи",
+      "seo_title": "Карлсен — Ананд 6,5:3,5: победа Магнуса на чемпионате мира 2013",
+      "subheadline": "22-летний норвежский гроссмейстер оформил победу со счетом 6½:3½ в 10-й партии и впервые завоевал титул абсолютного чемпиона мира по шахматам.",
+      "body_markdown": "22 ноября 2013 года 22-летний норвежский гроссмейстер Магнус Карлсен стал 16-м абсолютным чемпионом мира по шахматам, сыграв вничью в 10-й партии с действующим обладателем короны Вишванатаном Анандом в отеле Hyatt Regency в индийском Ченнаи. Это половинчатое очко подвело итог матча из запланированных 12 партий: Карлсен победил со счетом 6½:3½, свергнув индийского гроссмейстера в его родном городе и досрочно, за две партии до конца, положив конец его шестилетнему правлению.\n\nКарлсен подошел к поединку в статусе лидера мирового рейтинга с внушительным коэффициентом ФИДЕ 2870 против 2775 у Ананда. 43-летний индиец удерживал титул абсолютного чемпиона мира с 2007 года и трижды успешно защищал его в матчах против Владимира Крамника, Веселина Топалова и Бориса Гельфанда. Однако Карлсен приехал в Индию победителем турнира претендентов 2013 года в Лондоне и бессменным первым номером мирового рейтинга с июля 2011 года.\n\n## Прорыв в Ченнаи\n\nМатч начался с осторожной разведки: первые четыре партии завершились ничьими, в которых соперники прощупывали дебютные заготовки друг друга. Позднее Карлсен назовет 4-ю партию ключевым психологическим переломом — выдержав тяжелое тактическое давление на старте, он окончательно убедился, что чемпион столь же уязвим, как и любой другой соперник.\n\nВ 5-й партии Карлсен открыл счет. Играя белыми, норвежец перевел структуру ферзевого гамбита в эндшпиль и реализовал лишнюю пешку на 58-м ходу. Буквально на следующий день, в 6-й партии, последовал новый удар. В ответ на испанскую партию Ананда претендент перешел в ладейно-пешечный эндшпиль и после тонкого 67-ходового маневрирования переиграл чемпиона, увеличив отрыв до двух очков.\n\nАнанд попытался переломить ход противостояния в 9-й партии 21 ноября, бросившись белыми в яростную атаку на королевском фланге в варианте Земиша защиты Нимцовича. Карлсен ответил сокрушительным контрударом на ферзевом фланге, двинув вперед проходную пешку «b». В жестоком цейтноте Ананд допустил роковую ошибку — 28.Nf1?, и после ответа норвежца 28...Qe1 индиец немедленно сдался. Счет стал 6:3, и Карлсену оставалось набрать всего пол-очка для завоевания короны.\n\n## 10-я партия: борьба до «голых королей»\n\nОказавшись на краю пропасти, 22 ноября Ананд разыграл черными сицилианскую защиту. Карлсен избрал московский вариант (3.Bb5+). Норвежец не стал форсировать быструю сухую ничью, которой вполне хватало для общей победы, а продолжал упорно давить и искать перевес на протяжении всего игрового дня.\n\nПоединок перетек в сложный коневой эндшпиль, испытывавший нервы и мастерство соперников на протяжении 4 часов 45 минут. В заключительный час Ананд защищался безупречно, постепенно сняв все пешки норвежца, пока на доске не остались лишь голые короли и две пешки. На 65-м ходу гроссмейстеры подписали мир. Карлсен прошел всю дистанцию без единого поражения, одержав три победы при семи ничьих.\n\n«Мои ошибки не возникали сами по себе — он сумел их спровоцировать. Так что победа Магнуса абсолютно заслуженна», — признал Ананд на послематчевой пресс-конференции. Карлсен, забравший 1,53 миллиона долларов из общего призового фонда в 2,55 миллиона, отпраздновал триумф прямо в одежде, прыгнув в бассейн отеля вместе со своей тренерской бригадой.\n\n## Новая эпоха шахматного королевства\n\nВ возрасте 22 лет, 11 месяцев и 23 дней Карлсен стал вторым в истории самым молодым абсолютным чемпионом мира по шахматам, уступив лишь Гарри Каспарову, который завоевал корону в 1985 году в 22 года и шесть месяцев. Для Ананда это поражение стало первым случаем за всю его 22-летнюю карьеру в матчах за мировую шахматную корону, когда он не сумел выиграть ни одной партии.\n\nТриумф в Ченнаи положил начало целому десятилетию гегемонии норвежца. Карлсен успешно защитил титул в поединках против того же Ананда (Сочи-2014), Сергея Карякина (Нью-Йорк-2016), Фабиано Каруаны (Лондон-2018) и Яна Непомнящего (Дубай-2021). В мае 2014 года он достиг пикового рейтинга ФИДЕ 2882 пункта — абсолютного рекорда за всю историю шахмат. В 2023 году Магнус добровольно отказался от защиты титула в классических шахматах из-за отсутствия мотивации, но по-прежнему остается безоговорочным лидером мирового рейтинг-листа.",
+      "social_post": "В этот день в 2013 году 22-летний Магнус Карлсен стал чемпионом мира по шахматам! Ничья в 10-й партии против Вишванатана Ананда в Ченнаи принесла норвежцу досрочную победу со счетом 6½:3½ без единого поражения. С этого момента началась целая эпоха доминирования Магнуса. Какое место занимает триумф Карлсена 2013 года среди самых убедительных побед в чемпионских матчах? Делитесь мнением в комментариях! #Шахматы #МагнусКарлсен #ВишванатанАнанд #ВЭтотДень"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg",
+        "artist": "Frans Peeters Photography",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Magnus Carlsen",
+        "width": 1200,
+        "height": 1598,
+        "year": 2023,
+        "subject": "Magnus Carlsen",
+        "asked": "Magnus Carlsen",
+        "page_title": "Magnus Carlsen",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:magnus_carlsen_tata_2023_-_71_(cropped_v4).jpg|Magnus Carlsen",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "chess grandmaster Magnus Carlsen",
+          "reason": "The image clearly shows the famous chess grandmaster Magnus Carlsen.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/1280px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg",
+        "artist": "Wolfgang Jekel",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Viswanathan Anand 2016",
+        "width": 1200,
+        "height": 1297,
+        "year": 2016,
+        "subject": "Viswanathan Anand",
+        "asked": "Viswanathan Anand",
+        "page_title": "Viswanathan Anand",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:viswanathan_anand_(2016)_(cropped).jpeg|Viswanathan Anand",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Viswanathan Anand seated at a chess board",
+          "reason": "Clearly shows chess Grandmaster Viswanathan Anand matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/VishyAnand09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:VishyAnand09.jpg",
+        "artist": "Stefan64",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Viswanathan Anand , world chess champion, at Chess Classic , August 2009",
+        "width": 1200,
+        "height": 1410,
+        "year": 2009,
+        "subject": "World Chess Championship 2013",
+        "asked": "World Chess Championship 2013",
+        "page_title": "World Chess Championship 2013",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:vishyanand09.jpg|World Chess Championship 2013",
+          "verdict": "wrong",
+          "flags": [],
+          "shows": "Viswanathan Anand playing at the Chess Classic tournament in Mainz",
+          "reason": "Visible branding on the clock and backdrop ('Chess Classic', 'Hilton Mainz') contradicts the caption 'World Chess Championship 2013'.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 3 captioned 'World Chess Championship 2013' looks WRONG (shows Viswanathan Anand playing at the Chess Classic tournament in Mainz; Visible branding on the clock and backdrop ('Chess Classic', 'Hilton Mainz') contradicts the caption 'World Chess Championship 2013'.). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-22-news-54c55f",
+    "slug": "melkadze-and-sadulaev-strike-to-put-akhmat-two-up-at-cska-mo",
+    "date": "2026-11-22",
+    "created": "2026-11-22T01:14:26+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "Russian Premier League",
+      "CSKA Moscow",
+      "Akhmat Grozny",
+      "Rolan Gusev",
+      "Georgi Melkadze",
+      "Lechi Sadulaev",
+      "Maksim Samorodov"
+    ],
+    "athletes": [
+      "Georgi Melkadze",
+      "Lechi Sadulaev",
+      "Maksim Borisko",
+      "Maksim Samorodov",
+      "Ivan Oblyakov"
+    ],
+    "image_subjects": [
+      "Georgi Melkadze",
+      "Lechi Sadulaev",
+      "Maksim Samorodov",
+      "VEB Arena"
+    ],
+    "match": null,
+    "facts_to_verify": [
+      "The final score and full-time whistle of the match as live reports cut off at 2-0 in the 63rd minute",
+      "Official attendance figures at the VEB Arena for this fixture"
+    ],
+    "sources": [
+      {
+        "title": "Championat: ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев на 63-й минуте",
+        "url": "https://www.championat.com/football/news-6708674-cska-ahmat-melkadze-udvoil-preimuschestvo-groznencev-na-63-j-minute-21-noyabrya-2026.html"
+      },
+      {
+        "title": "Sportbox: ЦСКА – «Ахмат» — 0:2. Грозненцы забили второй гол в матче РПЛ. Видео",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Russia/premier_league/spbvideo_NI2388014_CSKA__Akhmat__02_Groznency_zabili_vtoroj_gol_v_matche_RPL_Video"
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmaMB_c7r6zg2Aj9jstHzncgx7fsjgZxptRfijUPKjf9yhSepBuoR5fJSawwhSWCXF5j5fAPvIZw3UVu8fIqde5CFxQy52cj6540G53uZCyMulTk6CSLCmgDmSvWKgdK3iZMPXdEZ3F_Xd5e7V1CVpt2JXQI7b2pBU-WLDcUfoQphJ4erBpeeb9EhosEEYvagWu45smdYEq7QM"
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvgspBgwbPR1q8GLVCx1bsuzrfZsSI_BYkk9rzqJFhmrtsbpYl-a86lDgEayF5SdFnv5ZACi4f4wJiYHVyWsLNT28BSWH4B9ayK_vw1RJa-FrnvVHrerftDB98L309InOdPdrr3lLN0tvSEpCz6Vb9OJzE_8tFDWALmpCh9HBpsH_m7QyOeEB2RNRDnsiHTsqN8-7tJhbq5yWzwa4Qa738Tux51rfTyQA1SQ=="
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK0P3QLxlNllZMsNotRIhlOpLsx9TueipH-1HhGhd0_vn8u_r57UHNQcsXpwzQFa_uxOEvJYgvIkthL1E0ZfJQ39DU2Wd3neWq4Iew8ZZW3oWKRmwDdJkAvnnkPDIM38WVOn9AU991FPWu-2ctAl4rwhMDjtGzAHlSJT9I0ncyQFTyYDmscwmR19UIP-o9VxYdQsEBmNkrL6SdaNCwHVIrDPFmBLVPhXObTvayja4VsNCaVfU2aosmHV_WFwQz6l38qw=="
+      },
+      {
+        "title": "liveresult.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh1S5JgCfcJ2MrGtXVn-t7QagDfzzJfVXkUtbm0q-VkPjaNYsXdr-QEWP-tR8k67b6vwr3018EZe2Pxa6K8-Fg13NgBcJXL_wcOSYPaagB6nHlK15kxxF7XtzqZFi2MXS6qHwVdCg9yqJCSMThTg=="
+      },
+      {
+        "title": "soccer365.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcEzcCx2zuS9_Q6xOdww2O3vd_XOE3YvtgIRjk0f0ic5bZ6qdcAReNvjjhROlFSMvWW9NNMgRet8L9Ro1hQv-2yphVZcZO3o7FjFh_cBF8QpBS1eGfvcquuOzEtKyjILQJv6AmU_PUmu4mXhIrIJVRaBlh"
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2FZoaNFopW6uyby7Hwmr-lmvJpEEzavGzUeoX-9AqKQ-PidOFKzVqDT2KrmbKPggzDxK6DUgqKrKcSsLRRIKGwaCfKonR0tHIsZrXsrVrahhdLlL7cy5Qckt9DXqE7539jegevj-wJEs3AYtDcH7Wv2SEkcNnJCJOFQMe02GeyloPizene8aCaKj6JHBopfsfAV0-EB-QmLxnzc407YeBvq2tMU3eHsur6kD4zmfr1JT40QUvI-4T9A_3XyOMxTinl8z0wTX9fxrTmo3ahA=="
+      },
+      {
+        "title": "fotmob.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-flDjsBbCPu-xFirX9IW0T-GsE_IlMOuhMj2PoX8i6X1b7Iz5a2IR1ixpn01Ha_-_E8FFXXP1pWnULdzu-kCmEmL7t-F3Li_4y_nVjb211YeOuUnrxzNMIFLxV9R5-LzUtiBSEOfXHVYQzwB2B7rM-FvC"
+      },
+      {
+        "title": "futbol24.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd4IYNNoEh3ylFlOf5PV8LNDIrSax34csl__vTh3vQc83jQzI6mGO5iXCEMPsMSPyAM1UZ8JLpmvghcNNRhfQ7cDVtazo-GCFv2OSc7atBwxwIpEp4DdtElr5YovzqKTUSPbkkIO7A0MHxFwYRb2hsOy-vbrbg9PZZYrrh6GL-iClldvDmHALbwTUUl4uUvY0b_cp3vJ_ur72clCZOyhFzZe9pDA=="
+      },
+      {
+        "title": "fon.bet",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEivttNYqv3YCKE586hspQO6v_wV-aVvN8kN2G6t2Gv1c8JL6yRunDpX6zoJ7WfwJ0Vv_hXnXQ6b82MdG5CQ3Gz251rr5r6yGbbDUJ3qx2n7p4rDHO5gZAAAHu2meFIzaxmaVGU2BT-RiGp2nKC"
+      },
+      {
+        "title": "sports.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3bqMPZZzwvcLKaYnV7Fai_deMHxTstcCe0zUo2oqtOPPqNKCE6Tw9idScgBDauisrEyYR8DWrCe4j6evygCcYOXnqsbkfGljulhSWn3NHKKyyhrlzCW1IfnRtBU-F10J367Rjz2-JlBHKVTwcF9op2MuKSdkMqRYTDzsFtJb_5YUdcwsylo-n779Uni8="
+      },
+      {
+        "title": "narod.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwRfwDKDAD9YIdWEcMk5AxfQhB8Pw8x_y6pqapHhYIv9wC0tLf5PRTDtySbUQebJsMtTWXhrfceKRwVyS1f4Cs2SzXSVdHK-wjfVa_U0eoKG3o4HqN5PYLTt1gTmHwS-81EJKgYEiBWcLMfPodMW_zxQ=="
+      },
+      {
+        "title": "vseprosport.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWSLQ4nqbH_qzF2d4hXUq66KIErtSjQi7L4ETYlyCntw2lWsY7CYgNPN2QbKfT2pE7qxCLPfu_QrtD6hIX2D8Np6RcaGRfatIvzPhPYTJxnL-WRj9eyI5-UdrFToaezdrhIx9iRdbsypL4nCcmlRwhn9bviuzpiXlYTp1Kq1gryEmgmJ_RXo8l6g4lVDgqvf3ks8aNDr5rMQw="
+      },
+      {
+        "title": "foxsports.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzsJTUqtqCH_-XinGRjMy6FiDFVyyAxbUD-1iH7LRh4am3HHujdrkUYPhL75jTmS7uEX0jqGGt1BoqC803nLZ6AX1wAKC16d-XIS--H6nDzTkoKeqKFbggJ1EoV90VNgES1oglRgHidChmSnsnXhvhtaiv0oBIiIaZeWW7RlhfF3OSD49chZa7S50k2ugzj5QWCXdhIRvYyosHnORifGmCAp_8A9YDUv-FesCMIy6Xnwqchfntip_ky3Y="
+      },
+      {
+        "title": "kinopoisk.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmaMtruaduuHo91IyZAFCc5PYb4SqRV3cmefFFuyzG0d_YlNvSumRRBk2gIhdlEJLIN4m2eD1-dSPSYPYOkR2nSCWRUE4H87IFLbSHCxRyO0yFbgt_8IBo_mnasKFS3A=="
+      },
+      {
+        "title": "fc-akhmat.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-MUWSpyk4Nj6IxmgjV8viJnW_zzMe1imbq5k3yUXzg_qNWuxrvEqVfSK14r3eQcAv6iUCxalM-f_HGMXzKV8iH_TwmS8m6IAl2l5QnBSVUI4QRboIPyzbq3VZOiwlCipx_EihLQ37mYGPszO6qJz-EzPGtrwwxyFrogFmheb-7PydNbnGfEK5g01HJRwAcrmfokPkXwAcYMb0jRs1dRSIEYw8dxlHstrZs6l7Hg8="
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUhO_DuMbOgdfMyDSxoQpU8mlVZ1g8Aqc2V2bJR57E6LbzFMCdQHku6XcVmeljWr63K13QR6join68JmiNt2ktPhhYVU5EfLKGJbdgpPpJ5GIECJMdUVsxbcHr7D26RJEWNeJpLIlVQiosyefZtXu5VGXDAoDQ_SQsFFw5lcvS3r4kPbtF7xD1Fcb-VmlLhYzsvMoOE1NgM0QgjcOvcJDxYIVli4G-E46HQNGRGiQrd2ZN4V4BGooZDkiKSH_qQmKk175kLIva7z5pEn2BzoF10PXmGp8SeQ-8oIhL4bN5PvA-RUwEp-8k"
+      },
+      {
+        "title": "fc-akhmat.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtn8EzajWU1YbhiMZQUoLSTBEkYsRcWhpa9ClIrhbpB0_OVlyvGO8NIE_aQg1Ubo8LMD08Bi_JtN4Nzmmr9mX-K8kiA8FpN89O0VO60FiVabIrRRBew=="
+      },
+      {
+        "title": "cskainfo.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9QC-5sR5Kam2h3pTNkFLe2_jHy0ASbvEZbZ-FVeHB575POYMJVvBepm3gifk3OgOq-eQIZnkHJJdgOYHr0NUxkmWVr4BwB_Zbpg=="
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0IXuS4WO0cUnrGZ3Sls9WM3axLYIP2Fg2V_8h86JIIzEJt6WTBZUH8nRlNVBl4JoS0zJ_3IpsUsOjyhWAfEB5o-c38p9PBrFL_hTJPU4_xklvArXKJVDzXsCh--aZn-5CHHZY0Z9eFInwVNzZoO838RXRsAaQUBfNh7WsUIP6lArEFfaf8yuey1Ogds1qGyRAIqHGSAxXjsh3YAc6EUTpq-uwIdXQnZv3OggIZh3CyzAroevz2Ci4HAAv1dbWzpZKJPhu80IXywFeOAJfCFNh6j73RtEr"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH8w2QHJ-ihtJyZkR5KA_7oamF-MFgvz_8cONaAQkRTCI4SsekXG50YU5PR1CYqGbA7rYUcQMm9_9QZtWOTWLnxwKrewn2LCHfFmg2IFBKx58vHCwVnrx42-4QIbg3qspVeuwxuV_8"
+      },
+      {
+        "title": "Спорт-Экспресс: ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев",
+        "url": "https://www.sport-express.ru/football/rfpl/news/cska-ahmat-gol-melkadze-na-63-minute-v-matche-15-tura-rpl-21-noyabrya-2026-2477416/"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Melkadze and Sadulaev Strike to Put Akhmat Two Up at CSKA Moscow",
+      "seo_title": "CSKA Moscow 0-2 Akhmat: Sadulaev & Melkadze strike",
+      "subheadline": "Second-half goals from Lechi Sadulaev and Georgi Melkadze put Rolan Gusev's side in control at the VEB Arena.",
+      "body_markdown": "Akhmat Grozny seized control against CSKA Moscow at the VEB Arena on Saturday, November 21, 2026, building a 2-0 advantage midway through the second half of their round 15 Russian Premier League fixture.\n\nFollowing a goalless opening 45 minutes handled by referee Artem Chistyakov, winger Lechi Sadulaev opened the scoring from the penalty spot in the 52nd minute. Eleven minutes later, forward Georgi Melkadze doubled the visitors' lead in the 63rd minute, driving a first-time effort through the legs of CSKA goalkeeper Maksim Borisko after being played through by Angolan winger Egas Cacintura.\n\n## Quickfire double stuns VEB Arena\nThe sudden two-goal deficit exposed defensive adjustments in Dmitry Igdisamov's CSKA lineup. The Moscow side entered the match without veteran goalkeeper Igor Akinfeev, while 22-year-old central defender Matvey Lukin was sidelined due to a training deficit following illness. That forced Dzhamalutdin Abdulkadyrov into the starting defense alongside Brazilian centre-back João Victor.\n\nAkhmat took advantage through incisive transitions. Sadulaev's converted spot-kick marked his fourth league goal of the 2026/2027 campaign, while Melkadze's clinical finish rewarded a lively attacking unit that also included Kazakhstan international forward Maksim Samorodov, who started on the flank following the November international break.\n\n## Gusev builds early momentum\nThe performance continued an immediate uptick in form for Akhmat under new head coach Rolan Gusev. The former CSKA midfielder was appointed during the autumn to replace Stanislav Cherchesov and secured a 1-0 home victory over Rodina Moscow in his debut on November 7. That result halted a frustrating seven-match winless run in all competitions.\n\nAt the VEB Arena, Gusev's tactical setup effectively stifled a CSKA side featuring leading scorer Ivan Oblyakov and Argentine striker Luciano Gondou. Although the hosts dominated possession with 69 percent before the interval, they struggled to break down Akhmat's low block and were repeatedly punished on counter-attacks.\n\n## Relegation buffer and title race fallout\nBefore kickoff, CSKA occupied fifth place in the Premier League table with 26 points from 14 matches, sitting five points behind leaders Zenit St. Petersburg. Igdisamov's squad arrived seeking a rebound after conceding four goals in a 4-2 defeat away to FC Krasnodar on November 7 and drawing 0-0 against FC Orenburg a week earlier.\n\nAkhmat entered the weekend in 12th position with 14 points, just three points above the direct relegation places. Establishing a two-goal cushion against a top-five opponent provides a vital morale boost ahead of their Russian Cup group encounter with Krasnodar on November 25. For CSKA, the setback deepens a difficult November stretch before hosting Zenit on November 28.",
+      "social_post": "Akhmat Grozny stunned CSKA Moscow at the VEB Arena on Saturday, taking a 2-0 lead courtesy of second-half goals from Lechi Sadulaev and Georgi Melkadze. Rolan Gusev's side produced a sharp counter-attacking masterclass in the capital to put Dmitry Igdisamov's men on the back foot. Can Akhmat maintain this momentum and steer clear of the relegation dogfight? Share your thoughts below! #RPL #CSKAMoscow #FCAkhmat #RussianFootball"
+    },
+    "zh": {
+      "headline": "梅尔卡泽与萨杜拉耶夫连下两城，阿赫马特客场两球领先中央陆军",
+      "seo_title": "中央陆军0-2阿赫马特：萨杜拉耶夫点射梅尔卡泽建功",
+      "subheadline": "凭借莱奇·萨杜拉耶夫和乔治·梅尔卡泽在下半场的接连破门，罗兰·古谢夫率领的阿赫马特在VEB竞技场掌握了比赛主动权。",
+      "body_markdown": "2026年11月21日星期六，俄罗斯足球超级联赛第15轮展开较量。格罗兹尼阿赫马特做客VEB竞技场挑战莫斯科中央陆军，并在下半场中段建立起两球的领先优势。\n\n在上半场双方互交白卷后——本场主裁判为阿尔乔姆·奇斯佳科夫（Artem Chistyakov）——阿赫马特边锋莱奇·萨杜拉耶夫在第52分钟主罚点球命中打破僵局。仅仅11分钟后，前锋乔治·梅尔卡泽在第63分钟扩大领先优势，他在接应安哥拉边锋埃加斯·卡辛图拉（Egas Cacintura）的直塞后顺势推射，皮球穿过中央陆军门将马克西姆·鲍里斯科（Maksim Borisko）的小门滚入网窝。\n\n## 闪击双响震惊VEB竞技场\n短时间内连丢两球，暴露了德米特里·伊格迪萨莫夫（Dmitry Igdisamov）麾下这支中央陆军在防线调整上的漏洞。莫斯科球队本场缺少了老门将伊戈尔·阿金费耶夫，而22岁的中后卫马特维·卢金（Matvey Lukin）也因病后训练不足无法登场。这迫使贾马卢特丁·阿卜杜勒卡德罗夫（Dzhamalutdin Abdulkadyrov）临危受命，与巴西中卫若昂·维克托（João Victor）搭档首发中卫。\n\n阿赫马特抓住了对手防线不稳的契机，凭借犀利的攻防转换屡造杀机。萨杜拉耶夫打入了个人在2026/2027赛季的第4粒联赛进球，而梅尔卡泽冷静利落的终结，也回报了整条活跃的锋线——在11月国际比赛日后首发登场的哈萨克斯坦国脚边锋马克西姆·萨莫罗多夫同样表现抢眼。\n\n## 古谢夫走马上任初见成效\n这场比赛延续了阿赫马特在新帅罗兰·古谢夫上任后的立竿见影。这位前莫斯科中央陆军中场于今年秋季接替斯坦尼斯拉夫·切尔切索夫挂帅，并在11月7日的首秀中带领球队主场1-0力克莫斯科祖国（Rodina Moscow），终结了各项赛事令人沮丧的连续7场不胜。\n\n重返VEB竞技场，古谢夫的战术部署彻底限制住了由头号射手伊万·奥布利亚科夫和阿根廷前锋卢西亚诺·贡杜领衔的中央陆军。尽管主队在上半场握有高达69%的控球率，但面对阿赫马特严密的低位防守却显得破门乏术，反而在对手犀利的反击下频频告急。\n\n## 逃离降级泥潭与争冠格局受挫\n本场开球前，中央陆军在前14轮比赛中积26分暂列俄超第5位，落后榜首的圣彼得堡泽尼特5分。伊格迪萨莫夫的球队原本渴望触底反弹——他们先是在11月7日客场2-4不敌克拉斯诺达尔，此前一周又与奥伦堡互交白卷。\n\n而阿赫马特在本轮前仅积14分排在第12位，仅比直接降级区高出3分。面对联赛前五的强敌抢下两球领先优势，不仅极大鼓舞了全队士气，也为他们11月25日与克拉斯诺达尔的俄罗斯杯小组赛打入一剂强心针。对于中央陆军来说，在11月28日主场迎战泽尼特之前，这场挫败无疑让本就艰难的11月雪上加霜。",
+      "social_post": "阿赫马特客场发威！周六在VEB竞技场，阿赫马特凭借萨杜拉耶夫与梅尔卡泽在下半场的两粒进球客场2-0领先莫斯科中央陆军。罗兰·古谢夫的战术反击在客场打得行云流水，给老东家狠狠上了一课。阿赫马特能否一鼓作气远离降级泥潭？欢迎在评论区聊聊你的看法！ #俄超 #莫斯科中央陆军 #阿赫马特 #俄罗斯足球"
+    },
+    "ru": {
+      "headline": "Мелкадзе и Садулаев огорчают ЦСКА: «Ахмат» повел в два мяча на «ВЭБ Арене»",
+      "seo_title": "ЦСКА — Ахмат 0:2: голы Садулаева и Мелкадзе",
+      "subheadline": "Голы Лечи Садулаева и Георгия Мелкадзе после перерыва позволили подопечным Ролана Гусева завладеть солидным преимуществом на «ВЭБ Арене».",
+      "body_markdown": "В субботу, 21 ноября 2026 года, грозненский «Ахмат» перехватил инициативу в гостевом матче против ЦСКА на «ВЭБ Арене», обеспечив себе преимущество в два мяча к середине второго тайма встречи 15-го тура Мир Российской Премьер-лиги.\n\nПосле безголевого первого тайма под свисток арбитра Артема Чистякова счет в матче был открыт на 52-й минуте: вингер грозненцев Лечи Садулаев хладнокровно реализовал пенальти. Спустя одиннадцать минут, на 63-й минуте, форвард Георгий Мелкадзе удвоил перевес гостей — откликнувшись на передачу ангольского вингера Эгаша Касинтуры, он в касание пробил «в домик» голкиперу армейцев Максиму Бориско.\n\n## Двойной удар шокировал «ВЭБ Арену»\nДва быстрых пропущенных мяча обнажили кадровые перестановки в защитной линии команды Дмитрия Игдисамова. Москвичи вышли на игру без своего многолетнего капитана Игоря Акинфеева, а 22-летний центральный защитник Матвей Лукин остался вне заявки из-за нехватки игрового тонуса после перенесенной болезни. В результате в стартовом составе в паре с бразильцем Жоао Виктором появился Джамалутдин Абдулкадыров.\n\n«Ахмат» безупречно воспользовался уязвимостью хозяев в переходных фазах. Точный удар с точки стал для Садулаева четвертым голом в сезоне РПЛ 2026/2027, а классное завершение Мелкадзе увенчало продуктивные действия атакующей группы, где на фланге после ноябрьской паузы на матчи сборных с первых минут действовал игрок сборной Казахстана Максим Самородов.\n\n## Гусев набирает ход у руля грозненцев\nЭта игра подтвердила наметившийся подъем «Ахмата» под руководством нового главного тренера Ролана Гусева. Экс-полузащитник ЦСКА возглавил грозненцев осенью, сменив Станислава Черчесова, и уже в дебютном матче 7 ноября добыл домашнюю победу над «Родиной» (1:0), прервав затяжную серию из семи игр без побед во всех турнирах.\n\nНа «ВЭБ Арене» тактический план Гусева надежно связал руки атакующей группе ЦСКА во главе с лучшим бомбардиром Иваном Обляковым и аргентинским нападающим Лусиано Гонду. Хоть армейцы и владели мячом 69% игрового времени до перерыва, взломать компактный низкий блок гостей им так и не удалось, а ответные контрвыпады «Ахмата» раз за разом несли реальную угрозу.\n\n## Борьба за выживание и удар по чемпионским амбициям\nПеред стартовым свистком ЦСКА занимал пятое место в турнирной таблице РПЛ с 26 очками после 14 туров, отставая от лидирующего «Зенита» на пять баллов. Коллектив Игдисамова рассчитывал реабилитироваться перед своими болельщиками после чувствительного поражения в Краснодаре (2:4) 7 ноября и нулевой ничьей с «Оренбургом» туром ранее.\n\n«Ахмат» подошел к туру на 12-й строчке с 14 очками в активе, находясь всего в трех очках от зоны прямого вылета. Гандикап в два мяча против одного из лидеров чемпионата станет мощным импульсом перед кубковой битвой с «Краснодаром» 25 ноября. Для армейцев же эта осечка лишь усугубляет тяжелый ноябрьский отрезок в преддверии домашней дуэли с «Зенитом» 28 ноября.",
+      "social_post": "«Ахмат» огорошил ЦСКА на «ВЭБ Арене»! Голы Лечи Садулаева с пенальти и Георгия Мелкадзе во втором тайме принесли гостям комфортные 2:0. Команда Ролана Гусева преподала мастер-класс контратакующего футбола в столице. Удастся ли грозненцам оторваться от зоны вылета с такой игрой? Делитесь мнением в комментариях! #РПЛ #ЦСКА #Ахмат #ФутболРоссии"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Georgi_Melkadze_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Georgi_Melkadze_2022.jpg",
+        "artist": "Антон Зайцев",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Georgi Melkadze with PFC Sochi in a game against PFC CSKA Moscow.",
+        "width": 1200,
+        "height": 2613,
+        "year": 2022,
+        "subject": "Georgi Melkadze",
+        "asked": "Georgi Melkadze",
+        "page_title": "Georgi Melkadze",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:georgi_melkadze_2022.jpg|Georgi Melkadze",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Georgi Melkadze in action for PFC Sochi",
+          "reason": "The image correctly shows footballer Georgi Melkadze playing for PFC Sochi in 2022 wearing the number 9 kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lechi_Sadulayev_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Lechi_Sadulayev_2019.jpg",
+        "artist": "Антон Зайцев",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Lechi Sadulayev with FC Akhmat Grozny in a game against PFC CSKA Moscow.",
+        "width": 1200,
+        "height": 1673,
+        "year": 2019,
+        "subject": "Lechi Sadulayev",
+        "asked": "Lechi Sadulaev",
+        "page_title": "Lechi Sadulayev",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:lechi_sadulayev_2019.jpg|Lechi Sadulayev",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Lechi Sadulaev' but the photo comes from the page 'Lechi Sadulayev'"
+          ],
+          "shows": "Footballer playing for FC Akhmat Grozny in 2019",
+          "reason": "Plausibly shows Lechi Sadulaev playing for FC Akhmat Grozny in their 2019 kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Arena_CSKA.jpg/1280px-Arena_CSKA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Arena_CSKA.jpg",
+        "artist": "mos.ru",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Arena CSKA Stadium in Moscow",
+        "width": 1200,
+        "height": 620,
+        "year": 2016,
+        "subject": "VEB Arena",
+        "asked": "VEB Arena",
+        "page_title": "VEB Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:arena_cska.jpg|VEB Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "aerial view of VEB Arena in Moscow",
+          "reason": "The image correctly shows VEB Arena, CSKA Moscow's home stadium, identifiable by its iconic corner skyscraper tower.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 2 captioned 'Lechi Sadulayev' looks WRONG (shows Footballer playing for FC Akhmat Grozny in 2019; asked for 'Lechi Sadulaev' but the photo comes from the page 'Lechi Sadulayev'; Plausibly shows Lechi Sadulaev playing for FC Akhmat Grozny in their 2019 kit.). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2022. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The final score and full-time whistle of the match as live reports cut off at 2-0 in the 63rd minute"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Official attendance figures at the VEB Arena for this fixture"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-22-news-e72338",
+    "slug": "lauren-price-makes-welsh-boxing-history-with-shutout-win-ove",
+    "date": "2026-11-22",
+    "created": "2026-11-22T01:12:11+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "Lauren Price",
+      "Michaela Kotaskova",
+      "Undisputed Champion",
+      "Welterweight",
+      "Women's Boxing",
+      "Cardiff",
+      "Utilita Arena"
+    ],
+    "athletes": [
+      "Lauren Price",
+      "Michaela Kotaskova"
+    ],
+    "image_subjects": [
+      "Lauren Price",
+      "Michaela Kotaskova",
+      "Joe Calzaghe",
+      "Cardiff International Arena"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Lauren Price makes Welsh history as undisputed world champion",
+        "url": "https://www.independent.co.uk/sport/general/boxing/lauren-price-undisputed-world-champion-cardiff-b2651119.html"
+      },
+      {
+        "title": "Lauren Price makes boxing history for Wales with first undisputed championship win as she shuts out Michaela Kotaskova",
+        "url": "https://www.skysports.com/boxing/news/12183/13257850/lauren-price-makes-boxing-history-for-wales-with-first-undisputed-championship-win-as-she-shuts-out-michaela-kotaskova"
+      },
+      {
+        "title": "skysports.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWpyIEH_O6XCOmYmANmjSZ-vhdes2-9horD0djg0aXw7QCQHiMkt7KS5vDinTv78zfoW8S2N7RWyXwvlLozF4xUF1U3_3YgY8ILGaB1RAHh4VxGeeqnOOKkECNW5l1m1GHEFhUTXdHd78NZ2H-u6so__xgomhSYDDvD-nS9xpg1OUV2BbWmZIY57tOt2NNzjyGkH1aaxs7Q-ClGlViRfnpERixeIiMhpqbYi4mgZcK4-BGnxflzsMbJfFxpxd_NBS-UM5-Zv1F4faAmAmX_ImHlQyRzP4y31l8PEda"
+      },
+      {
+        "title": "taipeitimes.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTrXLKYXnwddUcYMU3FffuUTc1bs7B_3hQ2o4_1U6F0TpNIzC8J7BcCc8nZFrU1DF8ESdEX8yr8IZkvAXpugQVzsQfmTL2aqH6CujziK_ulcBGNnw9CrWYuUIwC8POKRSA3Xhkw4b-ueclSfJ9Fk4c7PFnTh21Mya6gA="
+      },
+      {
+        "title": "newscord.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMLc2DL5I6oo9CdIYGVieeDmcD4gyYB1dLn2CVLTQYgZZ1fKSet2spBrQX71CbNa393j0cphILZgK9siDFW3hZqJRrUVJZV540OOiZl4xtd1qfuZWMEVhaWD10CxllO_iRgqMMDHzvam9nkE7IDoHDVm267VkA26GTdBNn29WWq8_2jul1Cho17T85m7mKIqcbXPv4MjO7aMviiffux0NXRJuQCQ_MeLZXx9gFJsN0OyBLb2i_-D-s1lUXaeoH33FCN0Iaf7SdIeDDNtIUkVVrXA=="
+      },
+      {
+        "title": "ground.news",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh3rFIaRWkdKZjElqW2cX1aT4lAf7ygWT6Y0SNPcpa_ZWsdX6qO0z4IlAN_E_5n0pdoqo8thDLYkBP3bcVUSpBYrLbQReC0M_Wa7Q9hfj-vtvZEsLNQ6JLVofoDto73Uq58D-2uRPbyPolddv3gAa927AUWNkj88_8PmZ8vZu2akHkf0jO_qV6_Y-qJvYRAoBZ8vwbW3gCUD9HGvHEVwuLACl_"
+      },
+      {
+        "title": "box.live",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR4bcO1BHAvWrN-36asNpocMJU_wTILIQSf3acjXFTiJ8uEcR52lrz9lnEDtGscTbWYIeMGa2dADuvXyyuit3HKymWN2tnjF1mnAmsMq5otiC0Py4r6z5zHgce7O1laWr-"
+      },
+      {
+        "title": "independent.co.uk",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMKU4YcnYW9jNanJjfUwrhAXU-VB9CSu3mh7umXax8ehK1FluVNlBe1RjZrXIJBLgNsxGnIh_J8KOCMs9DQb6EeZ0uk3rZZBYKeAOH-2oJ3OMEJzMqU59HqlPlKeOQOYpGWDy0HyhzZdixj5SqnrzZYMMFDLi_A9Hc5142yIArEcKNOgxjCNgL69mqyQDtkEY700pjov7yUk58_v1PrGoM6wKN2A=="
+      },
+      {
+        "title": "boxingtrainer.london",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtIEru0QrfZcy1XZBl9Y46GYeL2M0NYxPD7fsnP4LyTxk9-qEBqAZs6hlbYj1oxGskXNh_lvJuTSy4Nd7BJlpp3uwtjrOXLzPesfmrCBKvF04_C0zYQIcNui9DORD9oQWbgvfQRsKvTVnSiTMEHA=="
+      },
+      {
+        "title": "utilitaarenacardiff.co.uk",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsomSdyVrPtFY7mGyJVLLsTn6W1Coc5o64vEvB2WXbQg_kMisnCxGFiWoKRjKHUYB1Nptb7y-1einWp5LoRRPKHPWbfXGdT_sE5f0tTyp-ZSapFix61iSpd_9SclMjzk9cKbKFRbzhcwdeiVMLwmdof8CxQJ01NKbhmD-9EaLLdGhoZKH_s1EIamgGTukXPDDUcIAVlwcQaetPyxPv5uoEVZHxGM_fRg=="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj1ZmF92Wyuq6DHdXqBzgY_szGlzLMB0TteXi27jdP1TGEFbcBDvgFDOMxnt74X6bYtgOCeq-0duHaYiHXkAe1Lp0YOCxv1akOp7HI-tBeUxMganP282EljwJRwS8UAO75"
+      },
+      {
+        "title": "Caerphilly Observer: Lauren Price makes history by becoming Wales’ first undisputed boxing world champion",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFZTUHBQOHdtUGx0MmdVZ3N1Y1NDVXpxTkhWd3lLRHZ0LXNWT29hUmhsM0o5dHhFX0VMSE4zVDZLS0JNaEh5akkxWUI0Z0FvU3c1RlFBMllzTXlTQXZ3bDVJTEFQUUhJMFpGSnpEbHdDTUF0b0ZpWE1YNEFpX2tNTUxWaEhHVnVOT0Jnd19HVHhtYmF2UFBoVTU1aDBTM1M3UXFrUm5GWmNvemthTkItVEtTNkdkY3Vsc3Q5M29JaDRPalU?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: Lauren Price makes Welsh history as undisputed world champion",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTl5cDgyQ2RBX1FZUWQydFZyQlVXQlEyUVZvNjJVVFExRTVndGE1bThVMjRHV2ZNVHFsZWV3ekxWNVZJWWhRN2RDUmFOekwxVG4xUEZ2UEYtYmRxWXpILUgzRGRFd2JVc0ZJdXROX3djUGZXeF9xZklZbEVibGhZTmNTTkJDeWxN?oc=5"
+      },
+      {
+        "title": "Nation.Cymru: Lauren Price hails ‘dream come true’ after becoming undisputed world champion",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVE9xdWtRbTRFeTkwRWNQZm1jbkVONjF0R0hwaUx6Z1M2THo5aWNZNl9SSkdkblhBbUZla2kwVmM3Y1o0cGRqc3RYMWdGb1FXLXE1ekRweUpuWTRLQ0RBMHhzV1czUGR4b0oySW1ka1dURHM0NUc5dTdiYXY2TTFlMG9lVjZXSmF2LWoxSTVBWjdJdmJmY2h0NDMyWi1tdHN0aFp6Y1Vn?oc=5"
+      },
+      {
+        "title": "boxingnews.com: Price Becomes Wales' First Undisputed Champion",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnpub0pkaVBqNnF0QWwwalBWUXh5YnhtTUFEcjlrQnU5M1p0VG9MdzZ6NHM4OFBvUU5mM2d5RHE2RnBpMndpZzhvZDVnU2l1WjN1U2lvVEs5dmJZcXZZUVQ1X2pCTXlHZktHWWxuRTkwbEtmS0N5N3FNTk9ZZXpwMXlrOEdLdw?oc=5"
+      },
+      {
+        "title": "Women Boxing: Lauren Price Makes Welsh History as Undisputed Welterweight Champion",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDJVdEhHS3ZodXh4TXFScl9GZy1leHBYbDE3dE1IUThPc1RLcE81MHhpVm1YRk5uOEFEdG9UMmVuaXdVclk3aFBxREhyaGJUN2hSQmJqUm83S1FjUnBOVHFINFN4QlRldHAxRVlTbnZHSmRpaXVJaUxEeVExWVhmcW9XckNldFpIRXZGUEdqRkRsUUlsWmlMcUd2NDFjUUpyNHppTERQQUF5WlV4elhhVTMwWi1zRDFGbXc?oc=5"
+      },
+      {
+        "title": "Sky Sports: Lauren Price makes boxing history for Wales with first undisputed championship win as she shuts out Michaela Kotaskova",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQekN2eWZNRTV4NjgyLXFEcC05SHhOcldPSUZaMWlvYzlka1gzQ2Y2LUhYMzk1ZXBRS0hMNzUwUFMyZ0pCbnNqbUwyZ1l0akVSXzZTNkZwNlgzVmxaTGtBcWpVR1EyejRfOHVTMTR5Ylg5RW5NM3I1TVZQeXRjeDY1WTZNZHhqaTE3cmQ4bUc3NXdieEhwbUJJYV9PYzh1ZlVLRHE2SmswRV9KYWtQMHZiZHRRRmp2X3I5X2tlY05MMEc0NTlEc2N3TGVqU1B1S0ZncFRsZFJvbXI5MXluRHFUNG9XTXZtOGEwRUdlRHlWdjR5RFlVX1c0Ng?oc=5"
+      },
+      {
+        "title": "Wales Online: Lauren Price becomes Wales' first undisputed world champion",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGxsSTFWYWdzSmJ2MHJqb2VXNk1GZGNNUlBySEZWX1Qtck1KQXhwaWFSaHZaZmZCUDRQUE9Cc3pTXzhJWDlxR2xVRnNBZVBEaG9FLXd5Q2dGYlNSOVdiZkFlVE5OUkplenFvd2JYRlp4dFNtcnpaa1JzaHlfTU52cnBRM2lkZmJwUUUzStIBkgFBVV95cUxQbXB3WWtLU3U0WTBTcndLck92RE9QdTZSeGZITGRhUnBvMWdqRW9QbE05NVdaWG55aUJzekpIVEtUanBZNTZ3dEJwXzlfX3VVeFZ2NE5rd0d5RGxrS0wyUTY2bTAxZUZCYlZTSHlqbG1QcUI2SVZjQVpLQVJLQXU2M2VUSFFZYkRkUU5VRXhGaGhrUQ?oc=5"
+      },
+      {
+        "title": "Limapagi: Lauren Price Targets Undisputed Boxing History in Cardiff",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BaV9WdGxVcjZzRDUtaWowS3dJQ2toaWNuaXdaS1JVZjhTUUludnJFMVc2VWZTV3doY0dsZ2dWa2MxeVN1a085NFFaZGxIel9vVXlWNW1qcjRMZVFQLVBLSVpQN2hXeTA3MHZBbXpTMkdKZw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion",
+      "seo_title": "Price vs Kotaskova: Lauren Price wins undisputed world title",
+      "subheadline": "The Olympic gold medallist swept all three judges' cards 100-90 in Cardiff to collect every major welterweight belt.",
+      "body_markdown": "Olympic gold medallist Lauren Price became the first undisputed world boxing champion in Welsh history on Friday, November 20, 2026, defeating Czech challenger Michaela Kotaskova at the Utilita Arena in Cardiff. The 32-year-old southpaw from Ystrad Mynach secured the vacant WBO welterweight belt to unify all four major sanctioning body titles alongside the WBA, WBC, and IBF straps she already held. All three judges scored the 10-round contest 100-90 in Price’s favour, preserving her unblemished professional record at 11-0. Kotaskova, aged 35 and fighting out of Vienna, fell to 12-2-2.\n\n## Flawless scorecards at Utilita Arena\n\nPrice made her entrance to Dafydd Iwan’s Welsh anthem *Yma O Hyd* before 5,000 spectators in Cardiff. Despite Kotaskova holding a four-inch height advantage, Price controlled the distance with rapid hand speed and opened a cut over her opponent's eye during the second half of the bout. The victory followed Price's previous outing at the same arena on April 4, 2026, when she secured a 10-round points win over Puerto Rico's Stephanie Piñeiro Aquino despite sustaining a severe mouth laceration. This time, Price exited without significant damage after dictating every exchange across the 20 minutes of action.\n\n## The four-belt milestone Joe Calzaghe missed\n\nThe opportunity to fight for all four belts came together only 48 hours before the opening bell, following American boxer Mikaela Mayer's decision to vacate the WBO crown ahead of an upcoming rematch with Chantelle Cameron. By capturing the WBA, WBC, IBF, and WBO titles plus *The Ring* magazine belt, Price completed an achievement that eluded Wales' former long-reigning world champion Joe Calzaghe. While Calzaghe retired undefeated at 46-0 after unifying three major super-middleweight sanctioning bodies, he never held all four concurrently in the four-belt era. Price initially took her first world championship in May 2024 against Jessica McCaskill, before adding the IBF crown against Natasha Jonas in March 2025 at London's Royal Albert Hall.\n\n## Eyes on Chantelle Cameron and Claressa Shields\n\n\"As a professional everyone's dream is to become undisputed,\" Price said at ringside following the announcement. \"I've ticked every accolade in boxing. I'm not finished\". Boxxer promoter Ben Shalom stated that discussions will now turn toward multi-division champion Claressa Shields, alongside potential high-profile bouts against Cameron or Mayer. Shalom confirmed that the promotion aims to stage Price's next title defense in a Welsh stadium during the summer of 2027.",
+      "social_post": "Lauren Price made Welsh sporting history in Cardiff on Friday night, defeating Michaela Kotaskova by a 100-90 shutout across all three scorecards to become Wales' first undisputed world boxing champion. The 32-year-old Olympic gold medallist added the vacant WBO belt to her WBA, WBC, and IBF titles to move to 11-0. With promoter Ben Shalom now targeting blockbuster clashes against Mikaela Mayer, Chantelle Cameron, or Claressa Shields, where does Price rank among boxing's pound-for-pound elite? Let us know in the comments below! #LaurenPrice #WomensBoxing #Boxing #Cardiff"
+    },
+    "zh": {
+      "headline": "点数完胜科塔斯科娃！劳伦·普莱斯缔造威尔士拳击历史，加冕次中量级无可争议霸主",
+      "seo_title": "普莱斯胜科塔斯科娃：劳伦·普莱斯加冕无可争议世界拳王",
+      "subheadline": "奥运金牌得主在卡迪夫以三张100-90的统治级计分卡完胜对手，集齐次中量级所有四大组织金腰带。",
+      "body_markdown": "2026年11月20日，星期五，奥运金牌得主劳伦·普莱斯（Lauren Price）在卡迪夫尤蒂利塔竞技场（Utilita Arena）击败捷克挑战者米歇拉·科塔斯科娃（Michaela Kotaskova），成为威尔士拳击历史上首位无可争议的女子世界拳王。这位来自伊斯特拉德米纳赫（Ystrad Mynach）、现年32岁的左撇子名将斩获了空缺的WBO次中量级金腰带，与自己此前拥有的WBA、WBC和IBF头衔实现一统，囊括四大拳击组织的所有金腰带。三位裁判一致打出100-90的悬殊比分判普莱斯获胜，其职业生涯战绩改写为11胜0负的完美不败战绩；常驻维也纳、现年35岁的科塔斯科娃战绩则下滑至12胜2负2平。\n\n## 尤蒂利塔竞技场的完美计分卡\n\n在卡迪夫现场5000名观众的注视下，普莱斯伴随着达菲德·伊万（Dafydd Iwan）演唱的威尔士名曲《Yma O Hyd》步入拳台。尽管科塔斯科娃拥有4英寸的身高优势，但普莱斯凭借极快的出拳速度完全掌控了比赛距离，并在比赛后半程打伤对手眼部导致开裂流血。普莱斯上一场比赛同样发生在这座竞技场——2026年4月4日，她在嘴部遭遇严重撕裂伤的情况下，依然以10回合点数击败波多黎各选手斯蒂芬妮·皮涅罗·阿基诺（Stephanie Piñeiro Aquino）。而这一次，普莱斯在整整20分钟的较量中主导了每一次攻防对决，几乎毫发无损地走下拳台。\n\n## 乔·卡尔扎合未曾企及的“四带合一”里程碑\n\n争夺全部四条金腰带的机会直到开赛前48小时才尘埃落定——美国拳手米凯拉·梅耶尔（Mikaela Mayer）为了备战与尚特尔·卡梅隆（Chantelle Cameron）的二番战，决定放弃WBO头衔。通过一举将WBA、WBC、IBF、WBO以及《拳坛》杂志（*The Ring*）金腰带全部收入囊中，普莱斯完成了连威尔士传奇拳王乔·卡尔扎合（Joe Calzaghe）都未曾达成的壮举。卡尔扎合曾以46胜0负的不败战绩退役，并统一过超中量级三大拳击组织，但在四带时代从未同时集齐过全部四条金腰带。普莱斯的冠军之路始于2024年5月击败杰西卡·麦卡斯基尔（Jessica McCaskill）拿下首个世界头衔，随后又于2025年3月在伦敦皇家阿尔伯特音乐厅击败纳塔莎·琼斯（Natasha Jonas），将IBF金腰带收入囊中。\n\n## 剑指尚特尔·卡梅隆与克拉雷莎·希尔兹\n\n“成为无可争议的绝对拳王是每一位职业拳手的梦想，”普莱斯在赛后宣布结果后于台边表示，“我已经在拳击界赢得了所有荣誉，但我绝不会就此停步。”Boxxer推广人本·沙洛姆（Ben Shalom）表示，团队接下来的谈判重心将转向多级别世界拳王克拉雷莎·希尔兹（Claressa Shields），同时也不排除促成与卡梅隆或梅耶尔的焦点大战。沙洛姆确认，推广公司的目标是在2027年夏天将普莱斯的下一场卫冕战搬进威尔士的大型体育场。",
+      "social_post": "周五晚，劳伦·普莱斯在卡迪夫创造了威尔士体育的新历史！她以三张100-90的压倒性计分卡完胜米歇拉·科塔斯科娃，成为威尔士历史上首位无可争议的女子世界拳王。32岁的奥运冠军将空缺的WBO金腰带并入已有的WBA、WBC和IBF王座，职业战绩提升至11战全胜。推广人本·沙洛姆已瞄准与梅耶尔、卡梅隆或希尔兹的超级对决，大家认为普莱斯如今在女子P4P榜单上该排在第几？欢迎在评论区畅所欲言！ #劳伦普莱斯 #女子拳击 #职业拳击 #卡迪夫"
+    },
+    "ru": {
+      "headline": "Лорен Прайс переписала историю валлийского бокса, разгромив Михаэлу Котаскову в бою за звание абсолютной чемпионки",
+      "seo_title": "Прайс — Котаскова: Лорен Прайс стала абсолютной чемпионкой мира",
+      "subheadline": "Олимпийская чемпионка забрала все раунды на карточках судей (трижды по 100-90) в Кардиффе и объединила все престижные пояса в полусреднем весе.",
+      "body_markdown": "В пятницу, 20 ноября 2026 года, олимпийская чемпионка Лорен Прайс (Lauren Price) вошла в историю как первая в летописи валлийского бокса абсолютная чемпионка мира, деклассировав чешскую претендентку Михаэлу Котаскову (Michaela Kotaskova) на арене Utilita Arena в Кардиффе. 32-летняя левша из Истрад-Майнаха завоевала вакантный титул WBO в полусреднем весе, объединив все четыре главных пояса с уже принадлежавшими ей регалиями WBA, WBC и IBF. Все трое боковых судей выставили одинаковый счет по итогам 10 раундов — 100-90 в пользу Прайс, сохранив ее безупречный рекорд на отметке 11-0. 35-летняя Котаскова, тренирующаяся и выступающая из Вены, потерпела второе поражение при рекорде 12-2-2.\n\n## Безупречные судейские записки на Utilita Arena\n\nПрайс вышла на ринг под валлийский гимн Давида Ивана *Yma O Hyd* перед пятитысячной аудиторией в Кардиффе. Несмотря на превосходство Котасковой в росте на 10 сантиметров (4 дюйма), валлийка диктовала дистанцию за счет высочайшей ручной скорости, а во второй половине боя нанесла сопернице рассечение над глазом. Этот триумф последовал за предыдущим выступлением Прайс на той же арене 4 апреля 2026 года, когда она взяла верх по очкам в 10 раундах над пуэрториканкой Стефани Пинейро Акино (Stephanie Piñeiro Aquino), несмотря на тяжелое рассечение губы. На сей раз Прайс покинула ринг без видимого урона, полностью контролируя каждый эпизод на протяжении всех 20 минут чистого боя.\n\n## Веха с четырьмя поясами, которая не покорилась даже Джо Кальзаге\n\nВозможность оспорить статус абсолютной чемпионки появилась всего за 48 часов до стартового гонга: американка Микаэла Майер (Mikaela Mayer) освободила титул WBO ради предстоящего реванша с Шантель Кэмерон (Chantelle Cameron). Собрав пояса WBA, WBC, IBF и WBO, а также титул журнала *The Ring*, Прайс оформила достижение, не покорившееся легендарному многолетнему чемпиону из Уэльса Джо Кальзаге (Joe Calzaghe). Кальзаге ушел из спорта непобежденным (46-0) и объединил пояса трех ведущих организаций во втором среднем весе, однако так и не владел всеми четырьмя одновременно в эпоху четырех поясов. Прайс взяла свой первый мировой титул в мае 2024 года в поединке с Джессикой Маккаскилл (Jessica McCaskill), а пояс IBF добавила в марте 2025 года, победив Наташу Джонас (Natasha Jonas) в лондонском Альберт-холле.\n\n## Прицел на Шантель Кэмерон и Кларессу Шилдс\n\n«Для каждого профессионала стать абсолютным чемпионом — главная мечта, — заявила Прайс у ринга после оглашения вердикта. — Я собрала все мыслимые регалии в боксе. Но я еще далеко не закончила». Промоутер компании Boxxer Бен Шалом объявил, что переговоры теперь сосредоточатся на чемпионке нескольких весовых категорий Кларессе Шилдс (Claressa Shields), а также на возможных мегафайтах против Кэмерон или Майер. Шалом подтвердил, что промоушен рассчитывает организовать следующую защиту Прайс на крупном стадионе в Уэльсе летом 2027 года.",
+      "social_post": "Лорен Прайс сотворила историю валлийского спорта в Кардиффе! Она всухую разгромила Михаэлу Котаскову со счетом 100-90 на всех трех судейских картах и стала первой абсолютной чемпионкой мира по боксу в истории Уэльса. 32-летняя олимпийская чемпионка добавила вакантный пояс WBO к титулам WBA, WBC и IBF, доведя свой рекорд до 11-0. Бен Шалом уже готовит мегафайты против Майер, Кэмерон или Кларессы Шилдс. Какое место Прайс теперь занимает в женском рейтинге P4P? Делитесь мнением в комментариях! #ЛоренПрайс #Бокс #ЖенскийБокс #Кардифф"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lauren_Price_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Lauren_Price_in_2021.png",
+        "artist": "National Lottery Good Causes",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Lauren Price in 2021",
+        "width": 1200,
+        "height": 1601,
+        "year": 2021,
+        "subject": "Lauren Price",
+        "asked": "Lauren Price",
+        "page_title": "Lauren Price",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:lauren_price_in_2021.png|Lauren Price",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Lauren Price wearing Team Great Britain attire in a boxing gym",
+          "reason": "The photo clearly shows Welsh boxer Lauren Price in boxing attire in front of a ring.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/JoeCalzaghe-July2007.jpg/1280px-JoeCalzaghe-July2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:JoeCalzaghe-July2007.jpg",
+        "artist": "Ben Duffy",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Joe Calzaghe, July 2007",
+        "width": 1200,
+        "height": 1128,
+        "year": 2009,
+        "subject": "Joe Calzaghe",
+        "asked": "Joe Calzaghe",
+        "page_title": "Joe Calzaghe",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:joecalzaghe-july2007.jpg|Joe Calzaghe",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of former boxer Joe Calzaghe in a suit with fists raised",
+          "reason": "The image clearly shows Welsh boxing champion Joe Calzaghe, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Utilita_Arena_Cardiff_September_2023_10.jpg/1280px-Utilita_Arena_Cardiff_September_2023_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Utilita_Arena_Cardiff_September_2023_10.jpg",
+        "artist": "DaHuzyBru",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Utilita Arena Cardiff in Cardiff, Wales",
+        "width": 1200,
+        "height": 900,
+        "year": 2023,
+        "subject": "Cardiff International Arena",
+        "asked": "Cardiff International Arena",
+        "page_title": "Cardiff International Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:utilita_arena_cardiff_september_2023_10.jpg|Cardiff International Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of Utilita Arena Cardiff, formerly Cardiff International Arena",
+          "reason": "The image shows the arena formerly known as Cardiff International Arena, rebranded as Utilita Arena Cardiff.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
     "id": "2026-11-21-athl-6d2c08",
     "slug": "the-boy-from-madeira-who-rewrote-football-the-life-and-legac",
     "date": "2026-11-21",

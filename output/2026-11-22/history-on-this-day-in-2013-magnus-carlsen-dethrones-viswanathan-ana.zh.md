@@ -1,0 +1,55 @@
+# 历史上的今天：卡尔森金奈挑落阿南德，登顶国象世界棋王宝座
+
+*22岁的挪威特级大师在第10局以6.5比3.5的总比分锁定胜局，斩获个人首个无可争议的世界冠军头衔。*
+
+**历史上的今天** · 2026-11-22
+
+2013年11月22日，在印度金奈凯悦酒店，年仅22岁的挪威国际特级大师马格努斯·卡尔森（Magnus Carlsen）在第10局战平卫冕冠军维斯瓦纳坦·阿南德（Viswanathan Anand），正式成为国际象棋历史上第16位无可争议的世界棋王。在原定12局的对抗赛中，卡尔森凭借这宝贵的半分布下胜局，以6.5比3.5击败主场作战的阿南德，提前两局终结了这位印度传奇长达六年的棋王统治。
+
+卡尔森是以世界第一棋手的身份奔赴这处赛场的，当时他的国际棋联等级分高达2870分，而阿南德为2775分。43岁的阿南德自2007年起牢牢坐稳无可争议的棋王宝座，并先后在卫冕战中击退了弗拉基米尔·克拉姆尼克、韦塞林·托帕洛夫以及鲍里斯·盖尔凡德的强力冲击。然而，卡尔森势头更盛——他刚刚在2013年伦敦世界冠军候选人赛中折桂，且自2011年7月以来便一直占据着世界排名第一的交椅。
+
+## 金奈破局
+
+比赛开局阶段双方落子极为谨慎，在前四局接连握手言和，试探彼此的备战底牌。卡尔森后来将第4局视作自己建立信心的关键转折点，坦言在开局化解了险峻的战术压迫后，他坚信卫冕冠军同样存在破绽与软肋。
+
+卡尔森在第5局打破了僵局。执白的挪威人将后翼弃兵局面导入残局，历经58回合将多兵优势转化为胜势。仅仅一天后的第6局，卡尔森再度发难。面对阿南德的西班牙开局，他果断进入车兵残局，经过67回合的精妙缠斗彻底击垮卫冕冠军，将领先优势扩大为两分。
+
+11月21日的第9局，背水一战的阿南德执白在新印度防御塞米什变例中掀起汹涌的王翼攻势，试图扭转整场比赛的走向。卡尔森则在后翼展开针锋相对的反击，驱动自己的b线通路兵长驱直入。读秒重压之下，阿南德在第28步弈出致命漏着28.Nf1？。卡尔森迅即应对28...Qe1后，阿南德当即停钟认输，卡尔森以6比3手握赛点，距离世界冠军仅差最后半步。
+
+## 第10局：战至光杆司令
+
+11月22日，站在悬崖边缘的阿南德执黑祭出西西里防御，卡尔森则以莫斯科变例（3.Bb5+）稳扎稳打。挪威人并未选择保守求和来轻松锁定王冠，而是在整个下午持续给对手施加进攻压力，力求斩获优势。
+
+战局演变为极其尖锐的马兵残局，双方苦战了足足4小时45分钟。阿南德在最后一个小时防守滴水不漏，将卡尔森的兵逐步兑除，棋盘上最终仅剩光杆老王和两枚孤兵。行至第65回合，双方握手言和。卡尔森在全部10局对决中斩获3胜7和，以不败战绩圆满收官。
+
+“我的失误并非凭空产生，是他一手逼出来的。胜利理应全归功于他，”阿南德在赛后新闻发布会上由衷叹服。赢下255万美元总奖金中153万美元头奖的卡尔森，则同他的教练团队一起，身着便服径直跳入酒店泳池疯狂庆祝。
+
+## 开启国象新纪元
+
+以22岁11个月23天的年龄登顶，卡尔森成为了国际象棋历史上第二年轻的无可争议世界冠军，仅次于1985年以22岁零6个月加冕的加里·卡斯帕罗夫。而对于阿南德来说，这也是他在长达22年的世界冠军赛征战历程中，首次未能在对抗赛中赢下单盘胜利。
+
+金奈的胜利，正式拉开了挪威人统治棋坛十年的辉煌序幕。此后，卡尔森先后在索契（2014年对阵阿南德）、纽约（2016年对阵谢尔盖·卡尔亚金）、伦敦（2018年对阵法比亚诺·卡鲁阿纳）和迪拜（2021年对阵伊恩·涅波姆尼亚奇）四度成功卫冕。2014年5月，他的等级分攀升至2882分，创下国际象棋历史最高纪录。尽管因缺乏动力在2023年放弃卫冕慢棋世界头衔，但他至今依然稳居世界慢棋等级分排行榜第一位。
+
+---
+**来源**
+
+- [Magnus Carlsen beats Vishy Anand in 10 games to become world champion - The Guardian](https://www.theguardian.com/sport/2013/nov/22/magnus-carlsen-vishy-anand-world-chess-champion)
+- [Viswanathan Anand dethroned, Magnus Carlsen new world chess champion - The Times of India](https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-dethroned-magnus-carlsen-new-world-chess-champion/articleshow/26218765.cms)
+- [World Chess Championship 2013 - Wikipedia](https://en.wikipedia.org/wiki/World_Chess_Championship_2013)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzPsCwK6Ak5117kvFIpfT0EmzNyzkov9NJKlAnAEHusdLKV4QfdzXxanYBvOcVlqi4_li1qeL18BLKp9b3xzJu3U30gPvtfI5FwS4-TuVKfXykKlrdBzubLMDEgFnKWfhZ)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUdQ3IRotNDrMy3_cruqAHXoGiqtFLKXbk1WxP9wxNAdYaEC1TQbXBiSVMm07169_ddOClDG4F_CZibnlmyS2eX9rHtRcBeppOnxAsN4izhulyomcYDYl9KqwlfhCYim_cvtUSLlOyXm4-aPjPuKJ-dg==)
+- [indiatimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzalfoxtC8sRAWfA6gkUP-3Ds6WM_UgXpy2j-AwApQzkNoJfV44wAK8D8uxIHAjQYTCyQZydjFM6-tNYx6RpmGVncf9BnOjI681gM_LGOVELNVMzEcw4FB-absx4YhZR_XBviDBJV9NCwnx0V8k_yK2MQY_fhrJz6wMbLU9R2VU8xd4wZ9-8UdLmlUpmWOil8SeLKtvJSsrLPtU-hELjvfzd2hwR9tZp2w9ZBZOFuh7q5prJhcvwtEVNraKRkponKLcZw=)
+- [theguardian.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtiwfJgqRJNmpyrJvJCUmDNTHR0v4eeIx7GnhKg8Cr24Ov1NkAuvK5TzgpJ5-OBI4Z3_v_roJbi3sjM6qIXg412tpalDQaloEr5iikrlnV4dr6IKkRYlCLSX2nzL_jgUPpt_yeqm3csQQMdYcrdCE0QKB6O2tbdIKghLSPyxIfV7vwSdc=)
+- [thehindu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRib8Fc60h_X9P5p2JIT9ysQJwtIl0ZlIl0GWPmZw8qnTtXRXcBOxZ0jMEgWcy_x7s9SYm2h-nBiVpxn_ZZZfvF_IIPuwF6_JfRwm21OCmghRNzff4o6dXVgGj_hgPCKpIVi314F68pvaaZUxcflx0CyJ-cMaHFR5BqbxlaYLFNni6Wnrt98t8PiL99Q4juB-Vzs419NA=)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcDZIV60diFWHRoif0U8kdfASiUFVDb8i8wj_fNHFO3_j_uG5HJ1JaQ4gXWGcVeE0kSrUfsJk7TwGlG2fx2ByZOCs3DQkK8wy7Z72gRkEXz6C0ItICYcwfzLDkYXj9f2v3)
+- [chessmotion.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvn58_Z7FKDAYMbBOrlaIC4sP410HrIYm4m1YL8UjvLmGzs9IG8CC5YfnNm-rGoxXHpolI-u5SWwvdPTspPJM8MfppgpfcUc4TUHbjKMxirJ_2f54fDG2baVcpw0jiBewZ2IJ0jc9fHKyH7RmS5zM8Cq4erHkxxKB96BI4uokzF7Wk)
+- [indiatoday.in](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlmqTfN60yajMkok1E2kFo3CSvPVnDJniS7lFybnY-cvuvEKLNtKT5LI5PqaUyEqNspDFBInpTr7FfZ000b91dICoGri797vu-IddtOtc21gVQW3HeZJpHYWFzVjjYe2GwyNLb8eIkR1OBKTdYtcNSPtYPEHJ3-UW0L7KhvSD9LXMhRnYiANNFNqjoaP0bJrsIFjBFNp5HF5jdMsTrtkhTRQ7v-l1UYfh9Fgo6YdCjHu9eJANIUUvwdRrIACytzsRw3DNuatcgt-xlGnswDkcZuQyXYOS3LQ==)
+- [theweekinchess.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_FpKKPb2cDcTP_r-5uHWOtonpaUy1D2S6LRvXaolkxKIfHZyJRCfeF0a9qiZpLMKTODrePpGMde9ZRnTEgrm8H55F5P9I97j44Wlk-iYr-l-U4bkddWJ0FXavjJ-V5P68hxXTBlQ1YdbKpwWwO3CD-Ya1ATEE_rKrWlDzn2VKNvDu_K9rJeJ79nY3vNnLpk7q5X2qe9He60ggdEk8VqiRHkjGbFZXPu4mextB_ZSlUBbEqg4oQ6uK9waM5IDKpJ9)
+- [indianexpress.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlIJR35EYHDzfrWi6WF9mh4a2ITEjdZ3Y3MBFIINVKDv3Utmnh7DYdRUQkbBgwfY0mI1tQInPo95QYOAvByj8oqxVVkS0SHIiPazyhMuHA3VSVk3b8zQuY1WthHFnQS1TpVO40flV2iC4zNgu19yHgL4d_UJSnYwiwH6pQdMv5_agLcmuNiF6YOJvxesBVuZ6OSLiFoD0-VXhvOP81B7Mjb6JCmLYK7SD9dzA8ctc=)
+- [wordpress.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPTQ-wBMZ8VLnY9AyVFQtdVKQjnspj7LrXpERtZiwIrE0FulRfCPJ_hfQPR5hhNrTWGUZ2K7jdEBI1XU8ikw0nWKHdGRkbgNV5_HpGRVXgJMIo0TrHdBVRdV38daMo0Yqa8qyrGtp40lK2FdFL3L5Hx2NE-Pz76Kf5ZjDL4yZAOrpZAMnrMS5DEIcK3SbXhgBaQMEk6pMdBfeVyO0EVA==)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQUqvmA0lLKH0DE_-vkE7el-hRDlrUSn79zfyf84PzWQ-GyE7XTkMITuQyRxSuXWkq2OT17Pgp8Sj5tyf75eJUMuP_NcY3n7f5zYu13vHX6JjrKct3M4mPHCJt3XG1gfg=)
+- [chess.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE5YLs9LWOAtpQSX3C9tpsAlJ_kGgAjBDdyOxGLFZFXzCUI0bKfs7poTten1a9fD9vzx8uWWIFna8lyXg-WAICmUjh_i4J14QAjWoTjwnHYBPHjIvdxoed_0RCtvI1bi0QiKuL_jjyaiohB5c2DE2L_mlhCuZLeQisySxOqgsw_Hm9cs3xbLw=)
+- [rediff.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwQOhpArRp0CgWynKh5BGQiPIowJfc3CMwdOwCszChUr0Mjf63oJ1kvxAtYVg6RCc5H27IZbPisdy_9wkdDc4agtOEJTL3gP_rTFao4XwukTomS4FczmFG_mJ9uaemJREhGWdb53_smThIwguT3yh8AcFvfC8hYjBcH9GJ2LXrWyMTnq9PDRBu4708ytE7mk4AX6nCP8PNSyhkx2y68hTIRw==)
+- [chess.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8AjehIi2RX-4LQtFFDPF45kLwHocTk2XvdcUG-wnv5OewmJEB9o-YPQe0G9wS_NQblZnT25MCp7UnEy-s8C2kqhEj4cfOA50lPrWsqmZ2QGTBHmTYFymMFOWrc3SJ0GV3DdisA46cXC_zBaFEx_ywLe_xSFBi9J8VmDAesYMsepKVj7bW5w==)
+- [Wikipedia: Magnus Carlsen](https://en.wikipedia.org/wiki/Magnus_Carlsen)
+- [Wikipedia: Viswanathan Anand](https://en.wikipedia.org/wiki/Viswanathan_Anand)
