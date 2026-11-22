@@ -5,7 +5,7 @@
     "date": "2026-11-22",
     "created": "2026-11-22T01:16:13+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Chess",
     "tags": [
@@ -109,7 +109,20 @@
         "url": "https://en.wikipedia.org/wiki/Viswanathan_Anand"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-22T14:56:04+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-22T14:56:05+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-22T14:56:05+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -191,7 +204,8 @@
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Magnus Carlsen\", \"commons\": \"File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg\"}, {\"caption\": \"Viswanathan Anand\", \"commons\": \"File:Viswanathan_Anand_(2016)_(cropped).jpeg\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Magnus Carlsen\", \"commons\": \"File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg\"}, {\"caption\": \"Viswanathan Anand\", \"commons\": \"File:Viswanathan_Anand_(2016)_(cropped).jpeg\"}]}",
+    "published_at": "2026-11-22T14:56:05+07:00"
   },
   {
     "id": "2026-11-22-news-54c55f",
@@ -452,7 +466,7 @@
     "date": "2026-11-22",
     "created": "2026-11-22T01:12:11+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -554,7 +568,20 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BaV9WdGxVcjZzRDUtaWowS3dJQ2toaWNuaXdaS1JVZjhTUUludnJFMVc2VWZTV3doY0dsZ2dWa2MxeVN1a085NFFaZGxIel9vVXlWNW1qcjRMZVFQLVBLSVpQN2hXeTA3MHZBbXpTMkdKZw?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-22T14:56:02+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-22T14:56:03+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-22T14:56:03+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -665,7 +692,8 @@
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-22T14:56:03+07:00"
   },
   {
     "id": "2026-11-21-athl-6d2c08",
