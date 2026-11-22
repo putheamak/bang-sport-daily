@@ -1,8 +1,68 @@
-# Photo review — 2026-11-22
+# Photo review — 2026-11-23
 
 Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
+`2026-11-23-news-bb407c` · 2026-11-23
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/JalanBesarStadium2022.jpg/1280px-JalanBesarStadium2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jalan Besar Stadium**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:JalanBesarStadium2022.jpg)<br>AI sees: _Jalan Besar Stadium during a football match_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG/1280px-Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Bishan Stadium**<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG)<br>AI sees: _exterior of Bishan Stadium during the 2010 Youth Olympic Games_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Amir Aliev Detained by French Police in Paris Following ARES 45 Victory
+`2026-11-23-news-99b867` · 2026-11-23
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Adidas Arena**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg)<br>AI sees: _exterior of the Adidas Arena in Paris_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/UFC_131_Carwin_vs._JDS.jpg/1280px-UFC_131_Carwin_vs._JDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Mixed martial arts**<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:UFC_131_Carwin_vs._JDS.jpg)<br>AI sees: _MMA fighters facing off inside an Octagon cage during a fight_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Montreuil, Seine-Saint-Denis**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg)<br>AI sees: _Hôtel de Ville (town hall) of Montreuil, Seine-Saint-Denis_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-23-news-99b867.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Amir Aliev def. Matheus Malta · Unanimous decision · Round 3 · 5:00 · ARES 45**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From Middle-School Backup to 9.83 Seconds: The Life and Science of Su Bingtian
+`2026-11-23-athl-db5356` · 2026-11-23
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg/1280px-2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Su Bingtian**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_63.jpg)<br>AI sees: _Chinese sprinter Su Bingtian walking with a backpack in athletic stadium_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Xie_Zhenye.jpg/1280px-Xie_Zhenye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Xie Zhenye**<br>2017 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Xie_Zhenye.jpg)<br>AI sees: _Sprinter Xie Zhenye competing in a race in Madrid_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Zhang_Peimeng_%28Moscow_2013%29_by_Dmitry_Rozhkov_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Zhang Peimeng**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg)<br>AI sees: _Chinese sprinter Zhang Peimeng in team China gear_
+<br clear="left">
+
+---
 
 ## ✅ live · Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion
 `2026-11-22-news-e72338` · 2026-11-22
@@ -253,26 +313,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-20-hist-924465.png" width="240" align="left" hspace="10">
 
 **4. 🟢 our score card**<br>Caption: **Qatar 0 - 2 Ecuador · 2022 FIFA World Cup**<br>2026 · Own work
-<br clear="left">
-
----
-
-## ✅ live · Emma Hayes Names 23-Player USWNT Squad for World Cup Qualifying Campaign
-`2026-11-19-news-291d8b` · 2026-11-19
-
-<img src="../docs/photos/c/11cf8a58f7f8a30b-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Emma Hayes**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg)<br>AI sees: _football manager Emma Hayes smiling in Team USA apparel_
-<br clear="left">
-
-<img src="../docs/photos/c/8ebd54ae353df9b6-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Trinity Rodman**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Trinity_Rodman_USWNT_v_Colombia_Mar_7_2026-87_(cropped).jpg)<br>AI sees: _USWNT soccer player Trinity Rodman in team kit_
-<br clear="left">
-
-<img src="../docs/photos/c/80dab16fc63243ce-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Mallory Swanson**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg)<br>AI sees: _Mallory Swanson in a Chicago Stars FC football jersey_
 <br clear="left">
 
 ---

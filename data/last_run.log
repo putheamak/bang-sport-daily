@@ -1,87 +1,128 @@
-2026-11-21 18:10:35,688 INFO BBC Sport                         28 items
-2026-11-21 18:10:35,863 INFO The Guardian Sport                28 items
-2026-11-21 18:10:36,015 INFO ESPN                               0 items
-2026-11-21 18:10:37,379 INFO Sky Sports                        18 items
-2026-11-21 18:10:37,753 INFO Google News – Sports (EN)         46 items
-2026-11-21 18:10:38,653 INFO Google News – 体育 (ZH)             45 items
-2026-11-21 18:10:39,440 INFO Google News – Спорт (RU)          50 items
-2026-11-21 18:10:40,416 INFO Championat                        30 items
-2026-11-21 18:10:41,618 INFO Sports.ru                         20 items
-2026-11-21 18:10:43,341 INFO Спорт-Экспресс                   430 items
-2026-11-21 18:10:44,413 INFO РИА Новости Спорт                 20 items
-2026-11-21 18:10:45,849 INFO 中国新闻网 体育                          16 items
-2026-11-21 18:10:46,192 INFO Google News – Cambodia sport       5 items
-2026-11-21 18:10:46,628 INFO Google News – Southeast Asia sport  30 items
-2026-11-21 18:10:47,191 INFO Google News – Combat promotions   72 items
-2026-11-21 18:10:47,600 INFO Google News – Boxing              50 items
-2026-11-21 18:10:47,874 INFO Google News – Kun Khmer            0 items
-2026-11-21 18:10:48,091 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-21 18:10:48,648 INFO Google News – Единоборства (RU)   80 items
-2026-11-21 18:10:49,001 INFO Google News – 格斗 (ZH)             27 items
-2026-11-21 18:10:49,271 INFO MMA Fighting                       9 items
-2026-11-21 18:10:49,563 INFO Google News – Khmer Times sport    5 items
-2026-11-21 18:10:50,296 INFO Candidate stories after clustering: 874
-2026-11-21 18:10:50,332 INFO Skipped (we already have this story): LIVE UFC Qatar Results: Prochazka vs. Stirling
-2026-11-21 18:10:50,393 INFO Skipped (we already have this story): Main Card Results | UFC Qatar
-2026-11-21 18:10:50,406 INFO Skipped (pre-match piece, no previews): Fight By Fight Preview | UFC Qatar
-2026-11-21 18:10:50,438 INFO Skipped (pre-match piece, no previews): ЦСКА — «Ахмат»: стартовые составы на матч 15-го тура РПЛ
-2026-11-21 18:10:50,573 INFO Skipped (pre-match piece, no previews): «Нью-Инглэнд Революшн» – «Филадельфия Юнион»: стартовые составы команд на матч МЛС, 21 ноября 2026 года
-2026-11-21 18:10:50,650 INFO Skipped (we already have this story): UFC Fight Night 294: Aljamain Sterling vs. Kevin Vallejos
-2026-11-21 18:10:50,679 INFO Skipped (pre-match piece, no previews): 约翰尼-尼尔森预测泰森-富里Vs约书亚
-2026-11-21 18:10:50,969 INFO Skipped (we already have this story): JDT bounce back to down CAHN and stay perfect in Shopee Cup
-2026-11-21 18:10:50,980 INFO Skipped (pre-match piece, no previews): Лига ACA анонсировала стартовый турнир 2027 года
-2026-11-21 18:10:51,056 INFO Skipped (same event as a stronger story): Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields
-2026-11-21 18:10:51,056 INFO Skipped (same event as a stronger story): Lauren Price Wins Undisputed Welterweight Crown in Cardiff
-2026-11-21 18:10:51,057 INFO Skipped (same event as a stronger story): ЦСКА — «Ахмат»: Лечи Садулаев открыл счёт с пенальти на 52-й минуте
-2026-11-21 18:10:51,059 INFO Skipped (same event as a stronger story): Дияр Нургожай нокаутировал соперника на турнире UFC в Катаре
-2026-11-21 18:10:51,320 INFO Google News search                 5 items
-2026-11-21 18:10:51,320 INFO Confirmed by 2+ outlets: 21 of 25 candidates (1 searches)
-2026-11-21 18:10:51,331 INFO Picked [global combat 9.2 · 8 outlets] Lauren Price makes history by becoming Wales’ first undisputed boxing world champion
-2026-11-21 18:10:51,331 INFO Writing news (EN) ...
-2026-11-21 18:10:51,883 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-21 18:11:38,503 INFO Adapting to zh, ru ...
-2026-11-21 18:12:11,161 INFO Picked [russia football 4.5 · 2 outlets] ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев на 63-й минуте
-2026-11-21 18:12:12,552 INFO Writing news (EN) ...
-2026-11-21 18:13:49,323 INFO Adapting to zh, ru ...
-2026-11-21 18:14:32,201 INFO On this day 11-22: 2013 – Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand t (global)
-2026-11-21 18:14:32,203 INFO Writing history (EN) ...
-2026-11-21 18:15:24,535 INFO Adapting to zh, ru ...
-2026-11-21 18:16:13,958 INFO Looking up photos for 2026-11-22-news-e72338: ['Lauren Price', 'Michaela Kotaskova', 'Joe Calzaghe', 'Cardiff International Arena']
-2026-11-21 18:16:14,175 INFO Photo check Lauren_Price_in_2021.png (Wikimedia Commons, 661x882): OK, licence 'CC BY 3.0'
-2026-11-21 18:16:14,175 INFO Photo for 'Lauren Price': Lauren_Price_in_2021.png (National Lottery Good Causes, CC BY 3.0)
-2026-11-21 18:16:14,722 INFO Photo check JoeCalzaghe-July2007.jpg (Wikimedia Commons, 2496x2346): OK, licence 'CC BY 3.0'
-2026-11-21 18:16:14,723 INFO Photo for 'Joe Calzaghe': JoeCalzaghe-July2007.jpg (Ben Duffy, CC BY 3.0)
-2026-11-21 18:16:14,932 INFO Photo check Utilita_Arena_Cardiff_September_2023_10.jpg (Wikimedia Commons, 4032x3024): OK, licence 'CC BY-SA 4.0'
-2026-11-21 18:16:14,933 INFO Photo for 'Cardiff International Arena': Utilita_Arena_Cardiff_September_2023_10.jpg (DaHuzyBru, CC BY-SA 4.0)
-2026-11-21 18:16:14,933 INFO Looking up photos for 2026-11-22-news-54c55f: ['Georgi Melkadze', 'Lechi Sadulaev', 'Maksim Samorodov', 'VEB Arena', 'Maksim Borisko', 'Ivan Oblyakov']
-2026-11-21 18:16:15,152 INFO Photo check Georgi_Melkadze_2022.jpg (Wikimedia Commons, 445x969): OK, licence 'CC BY-SA 3.0'
-2026-11-21 18:16:15,153 INFO Photo for 'Georgi Melkadze': Georgi_Melkadze_2022.jpg (Антон Зайцев, CC BY-SA 3.0)
-2026-11-21 18:16:15,320 INFO Photo check Lechi_Sadulayev_2019.jpg (Wikimedia Commons, 553x771): OK, licence 'CC BY-SA 3.0'
-2026-11-21 18:16:15,320 INFO Photo for 'Lechi Sadulaev': Lechi_Sadulayev_2019.jpg (Антон Зайцев, CC BY-SA 3.0)
-2026-11-21 18:16:15,493 INFO Photo check Maksim_Samorodov_2025.jpg (Wikimedia Commons, 391x571): REFUSED, smaller than 400 px wide (licence 'CC BY-SA 3.0' is fine)
-2026-11-21 18:16:15,494 WARNING No free-licence photo for 'Maksim Samorodov' (Maksim_Samorodov_2025.jpg)
-2026-11-21 18:16:15,661 INFO Photo check Arena_CSKA.jpg (Wikimedia Commons, 1680x868): OK, licence 'CC BY 4.0'
-2026-11-21 18:16:15,661 INFO Photo for 'VEB Arena': Arena_CSKA.jpg (mos.ru, CC BY 4.0)
-2026-11-21 18:16:15,661 INFO Looking up photos for 2026-11-22-hist-478ccb: ['Magnus Carlsen', 'Viswanathan Anand', 'World Chess Championship 2013', 'Hyatt Regency Chennai']
-2026-11-21 18:16:15,839 INFO Photo check Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg (Wikimedia Commons, 717x955): OK, licence 'CC BY-SA 2.0'
-2026-11-21 18:16:15,839 INFO Photo for 'Magnus Carlsen': Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg (Frans Peeters Photography, CC BY-SA 2.0)
-2026-11-21 18:16:16,058 INFO Photo check Viswanathan_Anand_(2016)_(cropped).jpeg (Wikimedia Commons, 2621x2832): OK, licence 'CC BY 2.0'
-2026-11-21 18:16:16,058 INFO Photo for 'Viswanathan Anand': Viswanathan_Anand_(2016)_(cropped).jpeg (Wolfgang Jekel, CC BY 2.0)
-2026-11-21 18:16:16,287 INFO Photo check VishyAnand09.jpg (Wikimedia Commons, 956x1123): OK, licence 'CC BY-SA 3.0'
-2026-11-21 18:16:16,288 INFO Photo for 'World Chess Championship 2013': VishyAnand09.jpg (Stefan64, CC BY-SA 3.0)
-2026-11-21 18:16:22,324 INFO Photo check 2026-11-22-news-e72338 #1 'Lauren Price': OK
-2026-11-21 18:16:29,271 INFO Photo check 2026-11-22-news-e72338 #2 'Joe Calzaghe': OK
-2026-11-21 18:16:36,025 INFO Photo check 2026-11-22-news-e72338 #3 'Cardiff International Arena': OK
-2026-11-21 18:16:43,433 INFO Photo check 2026-11-22-news-54c55f #1 'Georgi Melkadze': OK
-2026-11-21 18:16:54,675 INFO Photo check 2026-11-22-news-54c55f #2 'Lechi Sadulayev': WRONG — asked for 'Lechi Sadulaev' but the photo comes from the page 'Lechi Sadulayev'
-2026-11-21 18:17:00,977 INFO Photo check 2026-11-22-news-54c55f #3 'VEB Arena': OK
-2026-11-21 18:17:07,268 INFO Photo check 2026-11-22-hist-478ccb #1 'Magnus Carlsen': OK
-2026-11-21 18:17:13,863 INFO Photo check 2026-11-22-hist-478ccb #2 'Viswanathan Anand': OK
-2026-11-21 18:17:28,238 INFO Photo check 2026-11-22-hist-478ccb #3 'World Chess Championship 2013': WRONG
-2026-11-21 18:17:28,385 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
-2026-11-21 18:17:28,443 INFO Wrote 3 new articles for 2026-11-22
-2026-11-21 18:17:28,551 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-22
-2026-11-21 18:17:31,995 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-21 18:17:32,508 INFO IndexNow: 6 page(s) submitted (HTTP 200)
-2026-11-21 18:17:32,945 INFO Website built: 65 published stories, 240 pages
-2026-11-21 18:17:32,948 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 34 ok / 0 failed (61,727 in / 60,529 out tokens) · estimated cost if billed: US$0.273
+2026-11-22 18:38:37,095 INFO BBC Sport                         54 items
+2026-11-22 18:38:37,328 INFO The Guardian Sport                24 items
+2026-11-22 18:38:37,385 INFO ESPN                               0 items
+2026-11-22 18:38:37,559 INFO Sky Sports                        16 items
+2026-11-22 18:38:37,861 INFO Google News – Sports (EN)         57 items
+2026-11-22 18:38:38,160 INFO Google News – 体育 (ZH)             51 items
+2026-11-22 18:38:38,482 INFO Google News – Спорт (RU)          41 items
+2026-11-22 18:38:39,248 INFO Championat                        31 items
+2026-11-22 18:38:40,003 INFO Sports.ru                         15 items
+2026-11-22 18:38:41,650 INFO Спорт-Экспресс                   424 items
+2026-11-22 18:38:42,725 INFO РИА Новости Спорт                 20 items
+2026-11-22 18:38:44,150 INFO 中国新闻网 体育                          26 items
+2026-11-22 18:38:44,507 INFO Google News – Cambodia sport       9 items
+2026-11-22 18:38:44,985 INFO Google News – Southeast Asia sport  28 items
+2026-11-22 18:38:45,566 INFO Google News – Combat promotions   99 items
+2026-11-22 18:38:45,955 INFO Google News – Boxing              30 items
+2026-11-22 18:38:46,192 INFO Google News – Kun Khmer            0 items
+2026-11-22 18:38:46,401 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-22 18:38:47,057 INFO Google News – Единоборства (RU)   97 items
+2026-11-22 18:38:47,452 INFO Google News – 格斗 (ZH)             34 items
+2026-11-22 18:38:47,690 INFO MMA Fighting                      10 items
+2026-11-22 18:38:47,943 INFO Google News – Khmer Times sport    7 items
+2026-11-22 18:38:48,941 INFO Candidate stories after clustering: 905
+2026-11-22 18:38:48,993 INFO Skipped (we already have this story): UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ
+2026-11-22 18:38:49,000 INFO Skipped (we already have this story): Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева
+2026-11-22 18:38:49,019 INFO Skipped (we already have this story): Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar
+2026-11-22 18:38:49,036 INFO Skipped (pre-match piece, no previews): Махачкалинское «Динамо» и «Спартак» объявили стартовые составы на матч РПЛ
+2026-11-22 18:38:49,037 INFO Skipped (we already have this story): U17 Vietnam vs U17 New Zealand football schedule at the 2026 U17 World Cup
+2026-11-22 18:38:49,079 INFO Skipped (we already have this story): Jiri Prochazka reacts to second straight knockout loss at UFC Qatar — ‘No more like this’
+2026-11-22 18:38:49,091 INFO Skipped (match still in progress, live update): Live updates: Liverpool running riot over Man United on Pochettino's debut
+2026-11-22 18:38:49,139 INFO Skipped (we already have this story): UFC Qatar results: Sooo … About last night | Jiri vs. Stirling
+2026-11-22 18:38:49,221 INFO Skipped (pre-match piece, no previews): Canadian veteran vs. 'TUF' finalist joins UFC 336 lineup in Toronto
+2026-11-22 18:38:49,272 INFO Skipped (we already have this story): "Maybe Too Much Tactic" - Jiri Prochazka Addresses Loss to Navajo Stirling
+2026-11-22 18:38:49,294 INFO Skipped (we already have this story): UFC Qatar ‘Prochazka vs. Stirling’ play-by-play, results & round scoring
+2026-11-22 18:38:49,325 INFO Skipped (pre-match piece, no previews): 乔伊斯预测泰森-富里Vs约书亚大战
+2026-11-22 18:38:49,350 INFO Kept (result after our pre-event story): Lauren Price Wins Undisputed Welterweight Crown in Cardiff
+2026-11-22 18:38:49,407 INFO Skipped (match still in progress, live update): «Ливерпуль» — «Манчестер Юнайтед»: Муньос забил четвёртый мяч мерсисайдцев на 82-й минуте
+2026-11-22 18:38:49,416 INFO Skipped (we already have this story): Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title
+2026-11-22 18:38:49,423 INFO Skipped (match still in progress, live update): «Ливерпуль» — «Манчестер Юнайтед»: Нгумоа сделал счёт 3:0 в пользу хозяев на 66-й минуте
+2026-11-22 18:38:49,450 INFO Skipped (we already have this story): Lauren Price becomes Wales’ first undisputed world boxing champion, BBC Sport Wales reports
+2026-11-22 18:38:49,557 INFO Skipped (match still in progress, live update): «Барселона» — «Вильярреал»: Ямаль не реализовал пенальти на 23-й минуте
+2026-11-22 18:38:49,602 INFO Skipped (we already have this story): Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри
+2026-11-22 18:38:49,605 INFO Skipped (pre-match piece, no previews): 方多拉预测加隆-恩尼斯击败乔什-凯利
+2026-11-22 18:38:49,626 INFO Skipped (pre-match piece, no previews): ЦСКА — «Ахмат»: стартовые составы на матч 15-го тура РПЛ
+2026-11-22 18:38:49,631 INFO Skipped (match still in progress, live update): «Рубин» — «Зенит»: Вуячич удвоил преимущество казанской команды
+2026-11-22 18:38:49,645 INFO Skipped (match still in progress, live update): «Акрон» — «Факел»: нападающего гостей Кокшарова унесли с поля на носилках после столкновения на 37-й минуте
+2026-11-22 18:38:49,646 INFO Skipped (match still in progress, live update): «Акрон» — «Факел»: хозяева остались вдесятером после удаления Бардыбахина на 20-й минуте
+2026-11-22 18:38:49,649 INFO Skipped (match still in progress, live update): «Оренбург» — «Балтика»: Голенков удвоил преимущество гостей
+2026-11-22 18:38:49,718 INFO Skipped (we already have this story): Результаты и бонусы UFC Fight Night 294: Prochazka vs. Stirling
+2026-11-22 18:38:49,790 INFO Skipped (we already have this story): Ферстаппен выиграл три из четырех Гран-при Лас-Вегаса на новой трассе
+2026-11-22 18:38:49,809 INFO Skipped (match still in progress, live update): Capitals vs. Bruins live updates: Elias Lindholm scores four goals as Boston beats Washington 7-5, extends Caps’ losing streak to five games
+2026-11-22 18:38:49,810 INFO Skipped (match still in progress, live update): LIVE! Watch UFC Qatar Post-Fight Presser | Prochazka Vs. Stirling
+2026-11-22 18:38:49,812 INFO Skipped (we already have this story): UFC Qatar live results, highlights, play-by-play | Prochazka vs. Stirling
+2026-11-22 18:38:49,867 INFO Skipped (we already have this story): Lauren Price hails ‘dream come true’ after becoming undisputed world champion
+2026-11-22 18:38:49,870 INFO Skipped (pre-match piece, no previews): Fight By Fight Preview | UFC Qatar
+2026-11-22 18:38:49,871 INFO Skipped (we already have this story): UFC Fight Night: Procházka vs. Stirling Fight Results
+2026-11-22 18:38:49,878 INFO Skipped (we already have this story): Malaysia’s Man Wei Chong-Tee Kai Wun stun world No. 6 Indian pair to reach Hong Kong Open badminton final
+2026-11-22 18:38:49,932 INFO Skipped (match still in progress, live update): «Реал» обыграл «Сельту», Эспи забил победный гол на 85-й минуте, Мбаппе не реализовал пенальти
+2026-11-22 18:38:49,947 INFO Skipped (match still in progress, live update): Вратарь «Арсенала» Райя получил травму в матче с «Ньюкаслом», его заменили на 70-й минуте
+2026-11-22 18:38:49,988 INFO Skipped (we already have this story): New scoring and more days for Malaysia Open
+2026-11-22 18:38:50,033 INFO Skipped (we already have this story): Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong
+2026-11-22 18:38:50,356 INFO Google News search                 1 items
+2026-11-22 18:38:50,356 INFO Skipped (only 1 outlet): “奥运冠军之城”七台河：打造“体育+文旅+产业”融合样板
+2026-11-22 18:38:50,752 INFO Google News search                20 items
+2026-11-22 18:38:51,176 INFO Google News search                46 items
+2026-11-22 18:38:51,178 INFO Skipped (only 1 outlet): PSG's Doue to have surgery on ruptured ACL
+2026-11-22 18:38:51,461 INFO Google News search                10 items
+2026-11-22 18:38:51,462 INFO Skipped (only 1 outlet): Morocco Open Short-Stature Football World Cup With 2-0 Win Over Guatemala
+2026-11-22 18:38:51,700 INFO Google News search                 0 items
+2026-11-22 18:38:51,700 INFO Skipped (only 1 outlet): U17国足背水一战！再输摩洛哥出线悬了
+2026-11-22 18:38:52,108 INFO Google News search                58 items
+2026-11-22 18:38:52,640 INFO Google News search               100 items
+2026-11-22 18:38:52,870 INFO Google News search                 1 items
+2026-11-22 18:38:52,870 INFO Skipped (only 1 outlet): 奥运冠军李雪芮领衔主编原创教材《羽毛球》在渝发布
+2026-11-22 18:38:52,871 INFO Skipped (same event as a stronger story): Brian Ortega knew he was retiring before UFC Qatar loss to Dan Hooker: ‘I don’t want to hurt people’
+2026-11-22 18:38:53,129 INFO Google News search                 0 items
+2026-11-22 18:38:53,129 INFO Skipped (only 1 outlet): FIFA排名第95 vs 第94：当两支‘非传统强队’的对决被赋予决定36强赛生死的意义，足球竞技的公平性边界在哪里？
+2026-11-22 18:38:53,384 INFO Google News search                 4 items
+2026-11-22 18:38:53,384 INFO Skipped (only 1 outlet): Man Utd score dramatic late winner to extend record run
+2026-11-22 18:38:53,384 INFO Skipped (same event as a stronger story): Ilia Topuria reveals injury Aleksndre Topuria suffered at UFC Qatar, vows ‘2027, we’re coming for ev
+2026-11-22 18:38:53,385 INFO Confirmed by 2+ outlets: 16 of 25 candidates (10 searches)
+2026-11-22 18:38:53,396 INFO Picked [russia combat 6.5 · 5 outlets] Le Parisen: российского бойца ММА Алиева задержали в Париже по подозрению в изнасиловании
+2026-11-22 18:38:54,563 INFO Writing news (EN) ...
+2026-11-22 18:38:55,184 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-22 18:39:29,414 INFO Adapting to zh, ru ...
+2026-11-22 18:39:59,260 INFO Picked [sea football 4.4 · 2 outlets] Bangladesh women begin Dhaka preparations ahead of Singapore friendlies
+2026-11-22 18:39:59,261 INFO Writing news (EN) ...
+2026-11-22 18:40:26,571 INFO Adapting to zh, ru ...
+2026-11-22 18:41:07,023 INFO Writing athlete_story (EN) ...
+2026-11-22 18:42:37,128 INFO Adapting to zh, ru ...
+2026-11-22 18:43:32,770 INFO Looking up photos for 2026-11-23-news-99b867: ['Adidas Arena', 'Mixed martial arts', 'Montreuil, Seine-Saint-Denis', 'Grozny', 'Amir Aliev', 'Matheus Malta']
+2026-11-22 18:43:33,084 INFO Photo check Adidas_Arena_façade_(cropped).jpg (Wikimedia Commons, 4080x2222): OK, licence 'CC0'
+2026-11-22 18:43:33,084 INFO Photo for 'Adidas Arena': Adidas_Arena_façade_(cropped).jpg (ManoSolo13241324, CC0)
+2026-11-22 18:43:33,259 INFO Photo check UFC_131_Carwin_vs._JDS.jpg (Wikimedia Commons, 2406x1944): OK, licence 'CC BY-SA 3.0'
+2026-11-22 18:43:33,259 INFO Photo for 'Mixed martial arts': UFC_131_Carwin_vs._JDS.jpg (Bad intentionz, CC BY-SA 3.0)
+2026-11-22 18:43:33,372 INFO Photo check Hôtel_ville_Montreuil_Seine_St_Denis_15.jpg (Wikimedia Commons, 4311x3130): OK, licence 'CC BY-SA 4.0'
+2026-11-22 18:43:33,372 INFO Photo for 'Montreuil, Seine-Saint-Denis': Hôtel_ville_Montreuil_Seine_St_Denis_15.jpg (Chabe01, CC BY-SA 4.0)
+2026-11-22 18:43:33,453 INFO Fight card added to 2026-11-23-news-99b867
+2026-11-22 18:43:33,453 INFO Looking up photos for 2026-11-23-news-bb407c: ["Bangladesh women's national football team", "Singapore women's national football team", 'Jalan Besar Stadium', 'Bishan Stadium', 'Umairah Hamdan', 'Maria Manda']
+2026-11-22 18:43:33,545 WARNING No free-licence photo for "Bangladesh women's national football team" (Logo_of_Bangladesh_Football_Federation.svg)
+2026-11-22 18:43:33,613 WARNING No free-licence photo for "Singapore women's national football team" (Flag_of_Singapore.svg)
+2026-11-22 18:43:33,722 INFO Photo check JalanBesarStadium2022.jpg (Wikimedia Commons, 4000x3000): OK, licence 'CC BY-SA 4.0'
+2026-11-22 18:43:33,722 INFO Photo for 'Jalan Besar Stadium': JalanBesarStadium2022.jpg (Ojehto, CC BY-SA 4.0)
+2026-11-22 18:43:33,834 INFO Photo check Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG (Wikimedia Commons, 3872x2592): OK, licence 'CC BY-SA 4.0'
+2026-11-22 18:43:33,834 INFO Photo for 'Bishan Stadium': Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG (Jacklee, CC BY-SA 4.0)
+2026-11-22 18:43:34,238 INFO Photo check Maria_Manda_(cropped).jpg (Wikimedia Commons, 110x158): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
+2026-11-22 18:43:34,238 WARNING No free-licence photo for 'Maria Manda' (Maria_Manda_(cropped).jpg)
+2026-11-22 18:43:34,238 INFO Looking up photos for 2026-11-23-athl-db5356: ['Su Bingtian', 'Xie Zhenye', 'Zhang Peimeng', 'Japan National Stadium']
+2026-11-22 18:43:34,394 INFO Photo check 2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_63.jpg (Wikimedia Commons, 3744x5616): OK, licence 'CC BY-SA 3.0'
+2026-11-22 18:43:34,394 INFO Photo for 'Su Bingtian': 2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_63.jpg (Dmitry Rozhkov, CC BY-SA 3.0)
+2026-11-22 18:43:34,532 INFO Photo check Xie_Zhenye.jpg (Wikimedia Commons, 1485x1973): OK, licence 'CC BY-SA 3.0'
+2026-11-22 18:43:34,532 INFO Photo for 'Xie Zhenye': Xie_Zhenye.jpg (Barcex, CC BY-SA 3.0)
+2026-11-22 18:43:34,646 INFO Photo check Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg (Wikimedia Commons, 1188x1518): OK, licence 'CC BY-SA 3.0'
+2026-11-22 18:43:34,646 INFO Photo for 'Zhang Peimeng': Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg (Dmitry Rozhkov, CC BY-SA 3.0)
+2026-11-22 18:43:42,011 INFO Photo check 2026-11-23-news-99b867 #1 'Adidas Arena': OK
+2026-11-22 18:43:50,371 INFO Photo check 2026-11-23-news-99b867 #2 'Mixed martial arts': OK
+2026-11-22 18:43:57,262 INFO Photo check 2026-11-23-news-99b867 #3 'Montreuil, Seine-Saint-Denis': OK
+2026-11-22 18:44:04,471 INFO Photo check 2026-11-23-news-bb407c #1 'Jalan Besar Stadium': OK
+2026-11-22 18:44:11,534 INFO Photo check 2026-11-23-news-bb407c #2 'Bishan Stadium': OK
+2026-11-22 18:44:18,562 INFO Photo check 2026-11-23-athl-db5356 #1 'Su Bingtian': OK
+2026-11-22 18:44:25,448 INFO Photo check 2026-11-23-athl-db5356 #2 'Xie Zhenye': OK
+2026-11-22 18:44:32,185 INFO Photo check 2026-11-23-athl-db5356 #3 'Zhang Peimeng': OK
+2026-11-22 18:44:32,329 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
+2026-11-22 18:44:32,411 INFO Wrote 3 new articles for 2026-11-23
+2026-11-22 18:44:32,559 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-23
+2026-11-22 18:44:34,857 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-22 18:44:35,999 INFO Website built: 70 published stories, 255 pages
+2026-11-22 18:44:36,002 INFO Gemini today (2026-11-22, Pacific): gemini-3.8-flash 27 ok / 0 failed (51,317 in / 53,507 out tokens) · estimated cost if billed: US$0.239

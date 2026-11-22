@@ -1,0 +1,55 @@
+# 从初中替补到9秒83：苏炳添的竞速人生与科学重塑
+
+*少年时代曾因身高在广东体校屡屡碰壁，25岁毅然推倒重练起跑脚：苏炳添如何打破10秒大关、杀入奥运百米决赛？*
+
+**人物故事** · 2026-11-23
+
+2021年8月1日，东京新国立竞技场，31岁的苏炳添从男子100米半决赛第九道如离弦之箭般弹射而出。前30米3秒73，前60米6秒29——这是有记录以来任何环境下跑出的最快分段用时。冲过终点线，计时器定格在9秒83！这一成绩不仅将他个人的最好成绩提升了0.08秒、刷新了亚洲纪录，更让他成为继1932年洛杉矶奥运会的日本名将吉冈隆德之后，时隔89年首位晋级奥运会男子百米决赛的亚洲本土选手。
+
+当晚的决赛中，苏炳添跑出9秒98名列第六，成为自1980年莫斯科奥运会艾伦·威尔斯（Allan Wells）夺冠以来，首位站上奥运男子百米决赛跑道的非非裔运动员。9秒83的半决赛成绩，足以让他并列排进奥运百米历史表现榜第10位、世界田径历史第19位。对于一名身高仅1.72米、身处历来由高个选手统治的百米赛场上的老将而言，东京的这一惊世壮举，是他历经二十载技术推倒重塑与极致自律剖析的巅峰集大成。
+
+## 中山起步的替补，曾因身材矮小屡遭冷遇
+
+1989年8月29日，苏炳添出生于广东省中山市古镇镇的一个普通农村家庭，父母曾以务农为生，后来父亲做了保安，母亲从事保姆工作。苏炳添初识田径纯属机缘巧合：读初一时，一位体育老师注意到身高仅1.50米的他竟然能跳起摸到篮球板。当时的学校没有专职的短跑教练，苏炳添在田径队最初几个赛季里只是替补，主要负责搬运器材和打杂。直到初三，他才迎来了人生第一场正式比赛，在100米跑出了11秒72，仅比区里最好的短跑苗子慢了0.01秒。
+
+然而，即便跑出这样的成绩，市级体校的教练依然一次次将他拒之门外，认定其矮小的身材是无法逾越的硬伤。也正是在中山的中学时光里，苏炳添结识了同班同学林艳芳——两人于2017年喜结连理，她更是苏炳添一生最重要的精神支柱。2006年，广东田径队主教练、曾在1980年代初创下中国男子百米首个电计时全国纪录的名帅袁国强，看中了苏炳添出众的步频天赋，力排众议顶住外界对其身体潜力的质疑，破格将其招入省队。
+
+在广州跟随袁国强训练后，苏炳添在2009年亚洲田径大奖赛上豪取百米三连冠，并在第十一届全运会上与梁嘉鸿、温永毅携手为广东队摘得4×100米接力金牌。同年底，他在河内亚洲室内运动会上以6秒65夺得60米冠军，随后又在香港东亚运动会百米决赛中击败日本选手木村慎太郎摘金。2011年3月，苏炳添在成都以6秒56打破全国男子室内60米纪录；7月在神户亚锦赛上以10秒21夺得百米冠军；9月又在合肥举行的全国锦标赛上跑出10秒16，打破尘封多年的全国纪录。
+
+## 25岁破釜沉舟：改换起跑脚
+
+到了2013年，国内赛场的竞争愈发白热化。北京名将张培萌跑出10秒04打破全国纪录，并在莫斯科世锦赛上进一步提升至10秒00。苏炳添在莫斯科世锦赛预赛跑出10秒16晋级半决赛，但半决赛中面对贾斯汀·加特林（Justin Gatlin）时因抢跑被取消资格。为全面提振中国短跑的国际竞争力，中国田径协会于2014年启动专项计划，选派国家队顶尖选手远赴美国佛罗里达州布雷登顿的IMG学院，接受外教团队的系统指导。
+
+在IMG学院，苏炳添结识了当时执教中国跳远队的美国传奇教练兰迪·亨廷顿（Randy Huntington）。为了测试苏炳添的神经反射，亨廷顿出其不意地从背后推了他一把，苏炳添本能地迈出右脚撑住身体。亨廷顿据此提出大胆建议：苏炳添原先以左脚在前作为起跑脚，若改为顺应天生运动神经反射的右脚在前，将有望在不损失起跑爆发力的前提下，把最高速度维持到60米之后。
+
+对于一位25岁的成熟运动员而言，更换起跑脚犹如推倒重建。2014年底刚改动作时，苏炳添成绩大幅滑坡，百米只能跑出10秒80，室内60米仅为6秒71，在佛罗里达的训练课上甚至起跑跑不过女队员。袁国强后来回忆，那段时间苏炳添连走在人行道上都在琢磨起跑动作，半夜惊醒反复比划角度，还经常与队友谢震业一同研究录像直到凌晨。
+
+极具魄力的科学改造在2015年5月30日迎来了里程碑式的回报。在俄勒冈州尤金举行的普雷方丹经典赛上，苏炳添以9秒99的成绩获得第三名，仅次于泰森·盖伊（Tyson Gay）和迈克·罗杰斯（Mike Rodgers），就此成为历史上首位突破10秒大关的亚洲本土短跑选手。三个月后的北京世锦赛，苏炳添在半决赛中再度跑出9秒99昂首杀入决赛，随后更与莫有雪、谢震业、张培萌并肩作战，以38秒01的惊艳成绩为中国队摘得男子4×100米接力银牌。
+
+## 伯明翰摘银、奥运递补铜牌与暨南岁月
+
+2018年，苏炳添迎来了竞技生涯的又一座高峰。3月在伯明翰世界室内田径锦标赛上，他以6秒42的亚洲室内纪录摘得60米银牌，仅次于克里斯蒂安·科尔曼（Christian Coleman）。6月，他在马德里和巴黎两周内两度跑平9秒91的亚洲纪录；8月雅加达亚运会，他更是以9秒92破赛会纪录的绝对优势加冕百米飞人。
+
+在2021年8月1日东京跑出惊世骇俗的9秒83后，仅仅五天，苏炳添便携手谢震业、吴智强、汤星强出战男子4×100米接力决赛，以平全国纪录的37秒79获得第四名。2022年2月，英国接力队队员乌贾（CJ Ujah）因违禁物质检测呈阳性，国际体育仲裁法庭正式取消了英国队的银牌成绩。同年5月19日，国际奥委会官方宣布将铜牌递补给中国队。2023年10月4日，在杭州奥体中心，苏炳添终于正式挂上了属于他的奥运奖牌。
+
+赛场之外，苏炳添早于2017年便在广州暨南大学获得国际经济与贸易专业硕士学位并留校任教，受聘为副教授。他以自身步频数据与起跑动力学为研究对象，在专业学术期刊发表了多篇同行评审论文，后来更升任暨南大学体育学院院长。2025年11月20日，36岁的苏炳添在广州举行的第十五届全运会上代表广东队出战男子4×100米接力第一棒，完成了职业生涯的最后一役，在主场观众的深情注视下解下了跑鞋；2025年12月9日，这位传奇飞人正式宣布退役。
+
+---
+**来源**
+
+- [Su Bingtian - Wikipedia](https://en.wikipedia.org/wiki/Su_Bingtian)
+- [Asian record-holder Su announces retirement | NEWS - World Athletics](https://worldathletics.org/news/news/su-bingtian-retirement)
+- [Feature: Chinese sprinter Su embarks on new journey - Xinhua](https://english.news.cn/20251226/8966bfcb3bb748a38db4dbef0dbe7d7c/c.html)
+- [China's relay team wins belated Olympic bronze - The China Project](https://thechinaproject.com/2022/05/23/chinas-relay-team-wins-belated-olympic-bronze/)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv3ZUemkyXtseTCqCZgezKuGtLOal2mtKG9P405ihrFFbzymFaZ3qJy_oV4j9J6JINuHFBTloAIJSvG2gIktVa07V_yhCc17ODtxzjfNcxsV-3vLLGAhDdrCCVSQheA-nR)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrfyP5wi4sMOjwl1bUoGCSD-VNk1ujPjVifXFWJMfcvTSKr0zE5nRhk7wz_DF8gYsbxSrnZjbng6bwkYZadbVzmtkOAHqKgdOhf4zYKLCqGHpzn9jTBFVDWIpp89-9M8Vi_WehpfaMdUBo3VTyF7iI5h9DzavEMlXPVmZYA75ajYvOK_Dw3xVuy0fZr9Z62nACDVnbHpOqZGLzXrNAD_1)
+- [thechinaproject.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbsU_A4NquVOPbNcnBaNbSDBrJGGZpTl65HIl7rO9Pthv7jzBj6Y0VQKhIkJN4x4LUOo4DGYCpM9luNuAJF4KJeB_JykWc9CzDs959Vs913eDWs8WBuJFkyU3qoWIjqP-CHvd9WL00hSlIeycp8YwVm2KsztRZN2viFaGAGQ6G4BVmSY99IuioGbaU)
+- [olympics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEToGwHaR1s5-4Emn9TZy520p3cBSAMF8rCyvaWMxhdl3lVZzlQyileTenFApMJgF2pF1tQQd36oWsVQOAbvoPFObTIYG_HaclV_-oznvO7hABSrRBoUq_LbwEMPiNVY3wm3oF6A8euKPjFxYtJ4yBbwelpmxtrGhr7RidpBNiENy24fjNpG9cw87jlRIeB)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_JwX8uHip0w-QBmh0NuzzNNuOq2ei4arsakW2YZldXiP75tG2L2_IXsZumjWNCsEYhrh4RZSiXN3phpozDP8l9uomAwZEQ3Hv8MtM1jWjRCugkpcz7rt1l8eGVgGQ0g==)
+- [gmw.cn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjzfOSUhzR6rQSl0nbibcBduVxz0XckJN97792tbFt3VXJYwzA-QIj5kQvEttmT-JBAVdcUs7t4CQFcNd7CNeoqxlJKYw6v6VZP5RC3Kan_S6EJvl8JLTDnXdbJd1M_CnAKFShSYZA)
+- [britannica.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8CWilu7EeUiRhRq-gdRXS4PCysqQAvshD1K3D3wxf0tsEOkVH0L9AUCsjDB6_3vMzV4odaA-yrvr6o4kG0I3CD6g39C-DfBSdUCeAeaJ-F0saekNj1RJ6Zog1B02ELd0upR4IcjE=)
+- [chinadaily.com.cn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjhP_Xd5igUbX7q3p_D1Pk_GE1YelA9V1c5mvrpY3xd1Y4XerULChfWqU3p2xmPK2d0yDI8eNtHt0nvAoqJBjm13l_GklH505JGF8s8vFtmaSoEtlYqFh7pd9zLY8HYjmBoMfO7cubkNBT4Pwtgg4IjqU4OXMzdPpO5F2b4ic)
+- [worldathletics.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1-0F2BqzhHzRtBK_O55j5kWWTHKQWB-pKX6TmNaYFZNoeXlorRrJicCDmhxLVdRKyyTpFCY7k2ZrVHJYbhCRItsuiDSNXBPy3mDfVJTzrcldYiJQbZjJr5hX17U8kPrP41l5nmyMK39xGlz4dObqUfhApEQpjb6SXMqW)
+- [cgtn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbzyluV8gB-R5aoePej8cypocXXT41tPme_ZCiEVRnW57N5vq788A5Y1jmkUaDUKCYdvcmjghekwbxAVh6mht1ftzlGWQZoPwJEY46gNepBpLZ9t_hNClqruvSuU5LDLWW5lUR647nJ7Tg2MdvrKmFI68fnwOSPkp7aPI)
+- [globaltimes.cn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPrveE-QPRL2YtAQNaiGNTkYPeZ1yOejMCwMkwEvbVnHOburZKehuH4CpRocF68ocoopOlTPvyxYZySBV8QQo3zcLoGlGBUMpBekMKEcIFQ1SV4O-o4UrHZq5sf4HIJ7n4NBxrrDjVS8SI)
+- [news.cn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvH1A_GOr5k2h9RSvzd3bMxoHWt7b82FSYsdTFKwdklUBja173MiSwK4BYPZ_tHnPCWln_36kC4wTQ46JY6NSyq6isJoMofRSgYjOD2hHaUNxPO3YKmIv1c5f2Zv8L-QW40IspKbyhoJlYNO8yy2xoilUCZCg3tW-kq_ZlIwA=)

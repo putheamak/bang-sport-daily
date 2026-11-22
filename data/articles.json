@@ -1,5 +1,619 @@
 [
   {
+    "id": "2026-11-23-athl-db5356",
+    "slug": "from-middle-school-backup-to-9-83-seconds-the-life-and-scien",
+    "date": "2026-11-23",
+    "created": "2026-11-23T01:43:32+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Athletics (sprint)",
+    "tags": [
+      "Su Bingtian",
+      "Track and Field",
+      "100m",
+      "Olympics",
+      "Chinese Athletics",
+      "Asian Record"
+    ],
+    "athletes": [
+      "Su Bingtian",
+      "Xie Zhenye",
+      "Zhang Peimeng"
+    ],
+    "image_subjects": [
+      "Su Bingtian",
+      "Xie Zhenye",
+      "Zhang Peimeng",
+      "Japan National Stadium"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Confirmation of Su Bingtian's official retirement date on 9 December 2025 following the 15th National Games of China in Guangzhou on 20 November 2025.",
+      "Official medal reallocation date (19 May 2022) by the IOC for the Tokyo 2020 men's 4x100m relay bronze, and physical ceremony date (4 October 2023 in Hangzhou)."
+    ],
+    "sources": [
+      {
+        "title": "Su Bingtian - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Su_Bingtian"
+      },
+      {
+        "title": "Asian record-holder Su announces retirement | NEWS - World Athletics",
+        "url": "https://worldathletics.org/news/news/su-bingtian-retirement"
+      },
+      {
+        "title": "Feature: Chinese sprinter Su embarks on new journey - Xinhua",
+        "url": "https://english.news.cn/20251226/8966bfcb3bb748a38db4dbef0dbe7d7c/c.html"
+      },
+      {
+        "title": "China's relay team wins belated Olympic bronze - The China Project",
+        "url": "https://thechinaproject.com/2022/05/23/chinas-relay-team-wins-belated-olympic-bronze/"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv3ZUemkyXtseTCqCZgezKuGtLOal2mtKG9P405ihrFFbzymFaZ3qJy_oV4j9J6JINuHFBTloAIJSvG2gIktVa07V_yhCc17ODtxzjfNcxsV-3vLLGAhDdrCCVSQheA-nR"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrfyP5wi4sMOjwl1bUoGCSD-VNk1ujPjVifXFWJMfcvTSKr0zE5nRhk7wz_DF8gYsbxSrnZjbng6bwkYZadbVzmtkOAHqKgdOhf4zYKLCqGHpzn9jTBFVDWIpp89-9M8Vi_WehpfaMdUBo3VTyF7iI5h9DzavEMlXPVmZYA75ajYvOK_Dw3xVuy0fZr9Z62nACDVnbHpOqZGLzXrNAD_1"
+      },
+      {
+        "title": "thechinaproject.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbsU_A4NquVOPbNcnBaNbSDBrJGGZpTl65HIl7rO9Pthv7jzBj6Y0VQKhIkJN4x4LUOo4DGYCpM9luNuAJF4KJeB_JykWc9CzDs959Vs913eDWs8WBuJFkyU3qoWIjqP-CHvd9WL00hSlIeycp8YwVm2KsztRZN2viFaGAGQ6G4BVmSY99IuioGbaU"
+      },
+      {
+        "title": "olympics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEToGwHaR1s5-4Emn9TZy520p3cBSAMF8rCyvaWMxhdl3lVZzlQyileTenFApMJgF2pF1tQQd36oWsVQOAbvoPFObTIYG_HaclV_-oznvO7hABSrRBoUq_LbwEMPiNVY3wm3oF6A8euKPjFxYtJ4yBbwelpmxtrGhr7RidpBNiENy24fjNpG9cw87jlRIeB"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_JwX8uHip0w-QBmh0NuzzNNuOq2ei4arsakW2YZldXiP75tG2L2_IXsZumjWNCsEYhrh4RZSiXN3phpozDP8l9uomAwZEQ3Hv8MtM1jWjRCugkpcz7rt1l8eGVgGQ0g=="
+      },
+      {
+        "title": "gmw.cn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjzfOSUhzR6rQSl0nbibcBduVxz0XckJN97792tbFt3VXJYwzA-QIj5kQvEttmT-JBAVdcUs7t4CQFcNd7CNeoqxlJKYw6v6VZP5RC3Kan_S6EJvl8JLTDnXdbJd1M_CnAKFShSYZA"
+      },
+      {
+        "title": "britannica.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8CWilu7EeUiRhRq-gdRXS4PCysqQAvshD1K3D3wxf0tsEOkVH0L9AUCsjDB6_3vMzV4odaA-yrvr6o4kG0I3CD6g39C-DfBSdUCeAeaJ-F0saekNj1RJ6Zog1B02ELd0upR4IcjE="
+      },
+      {
+        "title": "chinadaily.com.cn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjhP_Xd5igUbX7q3p_D1Pk_GE1YelA9V1c5mvrpY3xd1Y4XerULChfWqU3p2xmPK2d0yDI8eNtHt0nvAoqJBjm13l_GklH505JGF8s8vFtmaSoEtlYqFh7pd9zLY8HYjmBoMfO7cubkNBT4Pwtgg4IjqU4OXMzdPpO5F2b4ic"
+      },
+      {
+        "title": "worldathletics.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1-0F2BqzhHzRtBK_O55j5kWWTHKQWB-pKX6TmNaYFZNoeXlorRrJicCDmhxLVdRKyyTpFCY7k2ZrVHJYbhCRItsuiDSNXBPy3mDfVJTzrcldYiJQbZjJr5hX17U8kPrP41l5nmyMK39xGlz4dObqUfhApEQpjb6SXMqW"
+      },
+      {
+        "title": "cgtn.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGbzyluV8gB-R5aoePej8cypocXXT41tPme_ZCiEVRnW57N5vq788A5Y1jmkUaDUKCYdvcmjghekwbxAVh6mht1ftzlGWQZoPwJEY46gNepBpLZ9t_hNClqruvSuU5LDLWW5lUR647nJ7Tg2MdvrKmFI68fnwOSPkp7aPI"
+      },
+      {
+        "title": "globaltimes.cn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPrveE-QPRL2YtAQNaiGNTkYPeZ1yOejMCwMkwEvbVnHOburZKehuH4CpRocF68ocoopOlTPvyxYZySBV8QQo3zcLoGlGBUMpBekMKEcIFQ1SV4O-o4UrHZq5sf4HIJ7n4NBxrrDjVS8SI"
+      },
+      {
+        "title": "news.cn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvH1A_GOr5k2h9RSvzd3bMxoHWt7b82FSYsdTFKwdklUBja173MiSwK4BYPZ_tHnPCWln_36kC4wTQ46JY6NSyq6isJoMofRSgYjOD2hHaUNxPO3YKmIv1c5f2Zv8L-QW40IspKbyhoJlYNO8yy2xoilUCZCg3tW-kq_ZlIwA="
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.007,
+      "longest": 9,
+      "phrases": [
+        "becoming the first sprinter of non african descent to",
+        "as a nanny su was first exposed to track",
+        "2015 at the prefontaine classic in eugene oregon su",
+        "asian born sprinter to break the 10 second barrier"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "From Middle-School Backup to 9.83 Seconds: The Life and Science of Su Bingtian",
+      "seo_title": "Su Bingtian: How Asia's 100m Record Holder Made History",
+      "subheadline": "Overlooked for his height as a teenager in Guangdong, Su Bingtian rebuilt his starting blocks at 25 to become the first Asian-born sprinter under 10 seconds and an Olympic finalist.",
+      "body_markdown": "On August 1, 2021, inside Tokyo's Olympic Stadium, 31-year-old Su Bingtian exploded out of lane nine in the men's 100-metre semi-final. Su reached 30 metres in 3.73 seconds and 60 metres in 6.29 seconds—the fastest split times ever recorded under any conditions—before crossing the finish line in 9.83 seconds. The performance shaved 0.08 seconds off his previous mark, established an Asian record, and made Su the first Asian-born sprinter in 89 years to reach an Olympic men's 100-metre final, following Japan's Takayoshi Yoshioka at Los Angeles in 1932.\n\nSu finished sixth in the Tokyo final that evening with a time of 9.98 seconds, becoming the first sprinter of non-African descent to contest an Olympic 100-metre final since Allan Wells won gold at Moscow in 1980. His semi-final mark of 9.83 seconds placed him 10th on the all-time Olympic 100-metre performance list and 19th in world track history. For an athlete who stood 1.72 metres (5 feet 8 inches) tall in an event historically led by taller sprinters, the Tokyo breakthrough was the culmination of two decades marked by technical overhaul and disciplined self-analysis.\n\n## The Zhongshan Backup Overlooked for Stature\n\nSu was born on August 29, 1989, in Guzhen, a town in Zhongshan within Guangdong province, where his parents farmed family lands before his father worked as a security guard and his mother took employment as a nanny. Su was first exposed to track training in middle school after a physical education teacher watched the 1.50-metre-tall seventh grader leap to touch the basketball backboard. His school had no specialized sprint coaches, and Su spent his early track seasons handling equipment preparation and managerial tasks as a reserve. He did not run an official race until ninth grade, when he clocked an 11.72-second 100 metres—just 0.01 seconds slower than the district's top sprinter.\n\nDespite that time, municipal sports school coaches repeatedly rejected Su, viewing his short stature as a disqualifying limitation. During those same middle school years in Zhongshan, Su met classmate Lin Yanfang, whom he married in 2017 and credited as his lifelong support. In 2006, Yuan Guoqiang, the head coach of the Guangdong provincial team and China's first digitally timed national 100-metre record holder from the early 1980s, evaluated Su's stride frequency and accepted him onto the provincial squad over objections from colleagues who doubted the teenager's physical potential.\n\nUnder Yuan in Guangzhou, Su won three straight 100-metre races on the 2009 Asian Grand Prix circuit and claimed 4×100-metre gold for Guangdong at the 11th National Games of China alongside Liang Jiahong and Wen Yongyi. Later in 2009, he took 60-metre gold at the Asian Indoor Games in Hanoi in 6.65 seconds and defeated Japan's Shintaro Kimura to win the East Asian Games 100-metre title in Hong Kong. Su lowered China's indoor 60-metre record to 6.56 seconds in Chengdu in March 2011, won the 2011 Asian Athletics Championships 100-metre title in Kobe in 10.21 seconds, and claimed the Chinese national title that September in Hefei with a national record of 10.16 seconds.\n\n## Switching the Starting Block Leg at Age 25\n\nBy 2013, Su faced intense domestic competition when Beijing rival Zhang Peimeng broke the national record with 10.04 seconds and lowered it to 10.00 seconds at the Moscow World Championships. Su reached the Moscow semi-finals after clocking 10.16 seconds in the heats, but a false start in the semi-final against Justin Gatlin resulted in disqualification. To accelerate international competitiveness, the Chinese Athletics Association launched an initiative in 2014 that sent national sprinters to train at IMG Academy in Bradenton, Florida, under foreign coaching oversight.\n\nWhile at IMG Academy, Su worked with American coach Randy Huntington, who was then overseeing China's national long jump program. Huntington tested Su by giving him an unexpected push from behind to observe his neurological reaction; Su instinctively broke his fall with his right leg. Huntington advised Su to change his starting block lead leg from his left to his right foot to align with his natural motor pattern, aiming to sustain top-end speed past 60 metres without losing his initial explosive burst.\n\nThe technical switch initially sent Su's times backward in late 2014. Su ran 10.80 seconds over 100 metres and 6.71 seconds over 60 metres, trailing female sprinters out of the blocks in Florida training sessions. Yuan recalled that Su rehearsed his block starts while walking on sidewalks, woke up during the night to evaluate his angles, and reviewed training video into the early morning with teammate Xie Zhenye.\n\nThe adjustment yielded dividends on May 30, 2015, at the Prefontaine Classic in Eugene, Oregon. Su finished third in 9.99 seconds behind Tyson Gay and Mike Rodgers, becoming the first Asian-born sprinter to break the 10-second barrier. Three months later at the 2015 Beijing World Championships, Su repeated that 9.99-second mark in the semi-finals to reach the individual final, before taking silver in the men's 4×100-metre relay alongside Mo Youxue, Xie Zhenye, and Zhang Peimeng in 38.01 seconds.\n\n## Birmingham Silver, Olympic Relocation and Jinan University\n\nSu reached his competitive peak in 2018. At the World Indoor Championships in Birmingham that March, he claimed silver in the 60 metres with an Asian indoor record of 6.42 seconds behind Christian Coleman. Su matched the Asian outdoor record of 9.91 seconds twice in Madrid and Paris that June, before winning 100-metre gold at the Jakarta Asian Games in August with a Games record of 9.92 seconds.\n\nFollowing his 9.83-second semi-final in Tokyo on August 1, 2021, Su joined Xie Zhenye, Wu Zhiqiang, and Tang Xingqiang in the 4×100-metre relay final five days later, finishing fourth in a national-record-equaling 37.79 seconds. In February 2022, Great Britain's CJ Ujah tested positive for banned substances, leading the Court of Arbitration for Sport to disqualify the British relay team. The International Olympic Committee formally reallocated the bronze medals to China on May 19, 2022, and Su received his Olympic bronze medal at Hangzhou Olympic Stadium on October 4, 2023.\n\nOff the track, Su earned a master's degree in international economy and trade at Guangzhou's Jinan University in 2017 and joined the faculty as an associate professor, later authoring peer-reviewed academic papers that examined kinematic data from his own stride cadence and block mechanics. He eventually became dean of Jinan University's School of Physical Education. On November 20, 2025, at age 36, Su ran the final race of his career leading off Guangdong's 4×100-metre relay team at the 15th National Games in Guangzhou, removing his track spikes before the home crowd before announcing his competitive retirement on December 9, 2025.",
+      "social_post": "From being dismissed by coaches in Guangdong for standing 1.50m tall to clocking 9.83s at the Tokyo Olympics, Su Bingtian transformed Asian sprinting through relentless discipline and biomechanical reinvention. He became the first Asian-born runner under 10 seconds, won Olympic relay bronze, and later analyzed his own mechanics as a university dean. How does Su Bingtian rank among the greatest trailblazers in Asian sports history? Share your thoughts below! #SuBingtian #Athletics #Tokyo2020 #Olympics"
+    },
+    "zh": {
+      "headline": "从初中替补到9秒83：苏炳添的竞速人生与科学重塑",
+      "seo_title": "苏炳添9秒83创历史：从替补到亚洲飞人的科学之路",
+      "subheadline": "少年时代曾因身高在广东体校屡屡碰壁，25岁毅然推倒重练起跑脚：苏炳添如何打破10秒大关、杀入奥运百米决赛？",
+      "body_markdown": "2021年8月1日，东京新国立竞技场，31岁的苏炳添从男子100米半决赛第九道如离弦之箭般弹射而出。前30米3秒73，前60米6秒29——这是有记录以来任何环境下跑出的最快分段用时。冲过终点线，计时器定格在9秒83！这一成绩不仅将他个人的最好成绩提升了0.08秒、刷新了亚洲纪录，更让他成为继1932年洛杉矶奥运会的日本名将吉冈隆德之后，时隔89年首位晋级奥运会男子百米决赛的亚洲本土选手。\n\n当晚的决赛中，苏炳添跑出9秒98名列第六，成为自1980年莫斯科奥运会艾伦·威尔斯（Allan Wells）夺冠以来，首位站上奥运男子百米决赛跑道的非非裔运动员。9秒83的半决赛成绩，足以让他并列排进奥运百米历史表现榜第10位、世界田径历史第19位。对于一名身高仅1.72米、身处历来由高个选手统治的百米赛场上的老将而言，东京的这一惊世壮举，是他历经二十载技术推倒重塑与极致自律剖析的巅峰集大成。\n\n## 中山起步的替补，曾因身材矮小屡遭冷遇\n\n1989年8月29日，苏炳添出生于广东省中山市古镇镇的一个普通农村家庭，父母曾以务农为生，后来父亲做了保安，母亲从事保姆工作。苏炳添初识田径纯属机缘巧合：读初一时，一位体育老师注意到身高仅1.50米的他竟然能跳起摸到篮球板。当时的学校没有专职的短跑教练，苏炳添在田径队最初几个赛季里只是替补，主要负责搬运器材和打杂。直到初三，他才迎来了人生第一场正式比赛，在100米跑出了11秒72，仅比区里最好的短跑苗子慢了0.01秒。\n\n然而，即便跑出这样的成绩，市级体校的教练依然一次次将他拒之门外，认定其矮小的身材是无法逾越的硬伤。也正是在中山的中学时光里，苏炳添结识了同班同学林艳芳——两人于2017年喜结连理，她更是苏炳添一生最重要的精神支柱。2006年，广东田径队主教练、曾在1980年代初创下中国男子百米首个电计时全国纪录的名帅袁国强，看中了苏炳添出众的步频天赋，力排众议顶住外界对其身体潜力的质疑，破格将其招入省队。\n\n在广州跟随袁国强训练后，苏炳添在2009年亚洲田径大奖赛上豪取百米三连冠，并在第十一届全运会上与梁嘉鸿、温永毅携手为广东队摘得4×100米接力金牌。同年底，他在河内亚洲室内运动会上以6秒65夺得60米冠军，随后又在香港东亚运动会百米决赛中击败日本选手木村慎太郎摘金。2011年3月，苏炳添在成都以6秒56打破全国男子室内60米纪录；7月在神户亚锦赛上以10秒21夺得百米冠军；9月又在合肥举行的全国锦标赛上跑出10秒16，打破尘封多年的全国纪录。\n\n## 25岁破釜沉舟：改换起跑脚\n\n到了2013年，国内赛场的竞争愈发白热化。北京名将张培萌跑出10秒04打破全国纪录，并在莫斯科世锦赛上进一步提升至10秒00。苏炳添在莫斯科世锦赛预赛跑出10秒16晋级半决赛，但半决赛中面对贾斯汀·加特林（Justin Gatlin）时因抢跑被取消资格。为全面提振中国短跑的国际竞争力，中国田径协会于2014年启动专项计划，选派国家队顶尖选手远赴美国佛罗里达州布雷登顿的IMG学院，接受外教团队的系统指导。\n\n在IMG学院，苏炳添结识了当时执教中国跳远队的美国传奇教练兰迪·亨廷顿（Randy Huntington）。为了测试苏炳添的神经反射，亨廷顿出其不意地从背后推了他一把，苏炳添本能地迈出右脚撑住身体。亨廷顿据此提出大胆建议：苏炳添原先以左脚在前作为起跑脚，若改为顺应天生运动神经反射的右脚在前，将有望在不损失起跑爆发力的前提下，把最高速度维持到60米之后。\n\n对于一位25岁的成熟运动员而言，更换起跑脚犹如推倒重建。2014年底刚改动作时，苏炳添成绩大幅滑坡，百米只能跑出10秒80，室内60米仅为6秒71，在佛罗里达的训练课上甚至起跑跑不过女队员。袁国强后来回忆，那段时间苏炳添连走在人行道上都在琢磨起跑动作，半夜惊醒反复比划角度，还经常与队友谢震业一同研究录像直到凌晨。\n\n极具魄力的科学改造在2015年5月30日迎来了里程碑式的回报。在俄勒冈州尤金举行的普雷方丹经典赛上，苏炳添以9秒99的成绩获得第三名，仅次于泰森·盖伊（Tyson Gay）和迈克·罗杰斯（Mike Rodgers），就此成为历史上首位突破10秒大关的亚洲本土短跑选手。三个月后的北京世锦赛，苏炳添在半决赛中再度跑出9秒99昂首杀入决赛，随后更与莫有雪、谢震业、张培萌并肩作战，以38秒01的惊艳成绩为中国队摘得男子4×100米接力银牌。\n\n## 伯明翰摘银、奥运递补铜牌与暨南岁月\n\n2018年，苏炳添迎来了竞技生涯的又一座高峰。3月在伯明翰世界室内田径锦标赛上，他以6秒42的亚洲室内纪录摘得60米银牌，仅次于克里斯蒂安·科尔曼（Christian Coleman）。6月，他在马德里和巴黎两周内两度跑平9秒91的亚洲纪录；8月雅加达亚运会，他更是以9秒92破赛会纪录的绝对优势加冕百米飞人。\n\n在2021年8月1日东京跑出惊世骇俗的9秒83后，仅仅五天，苏炳添便携手谢震业、吴智强、汤星强出战男子4×100米接力决赛，以平全国纪录的37秒79获得第四名。2022年2月，英国接力队队员乌贾（CJ Ujah）因违禁物质检测呈阳性，国际体育仲裁法庭正式取消了英国队的银牌成绩。同年5月19日，国际奥委会官方宣布将铜牌递补给中国队。2023年10月4日，在杭州奥体中心，苏炳添终于正式挂上了属于他的奥运奖牌。\n\n赛场之外，苏炳添早于2017年便在广州暨南大学获得国际经济与贸易专业硕士学位并留校任教，受聘为副教授。他以自身步频数据与起跑动力学为研究对象，在专业学术期刊发表了多篇同行评审论文，后来更升任暨南大学体育学院院长。2025年11月20日，36岁的苏炳添在广州举行的第十五届全运会上代表广东队出战男子4×100米接力第一棒，完成了职业生涯的最后一役，在主场观众的深情注视下解下了跑鞋；2025年12月9日，这位传奇飞人正式宣布退役。",
+      "social_post": "从初一时被广东体校因1米5的身高拒之门外，到东京奥运会跑出震撼世界的9秒83，苏炳添用科学严谨的推倒重塑打破了人种偏见与岁月法则。他不仅是首位破10秒的亚洲本土飞人，更夺得奥运接力奖牌、化身大学院长用论文解密自己的起跑！你如何评价苏神在亚洲体育史上的传奇地位？欢迎在评论区畅所欲言！#苏炳添 #中国田径 #东京奥运会 #中国速度"
+    },
+    "ru": {
+      "headline": "От запасного в школьной команде до 9,83 секунды: путь и спортивная наука Су Бинтяня",
+      "seo_title": "Су Бинтянь — 9,83 секунды: как азиатский спринтер вошел в историю",
+      "subheadline": "В юности его не брали в секции из-за низкого роста, в 25 лет он рискнул сменить толчковую ногу в колодках — и стал первым уроженцем Азии, выбежавшим из 10 секунд и пробившимся в олимпийский финал.",
+      "body_markdown": "1 августа 2021 года на Олимпийском стадионе в Токио 31-летний Су Бинтянь пулей вылетел из стартовых колодок девятой дорожки полуфинала на 100 метров. Первые 30 метров он преодолел за 3,73 секунды, а отметку 60 метров пересек за 6,29 секунды — это абсолютно лучшие промежуточные отсечки в истории спринта при любых условиях. Финишную черту китаец перешагнул со временем 9,83 секунды. Он сбросил сразу 0,08 секунды со своего личного рекорда, установил новый рекорд Азии и стал первым за 89 лет уроженцем азиатского континента, пробившимся в олимпийский финал в стометровке — после японца Такаёси Ёсиоки (Takayoshi Yoshioka) на Играх-1932 в Лос-Анджелесе.\n\nВ вечернем финале Токио Су финишировал шестым с результатом 9,98 секунды, став первым спринтером неафриканского происхождения в решающем олимпийском забеге на 100 метров со времен триумфа шотландца Аллана Уэллса (Allan Wells) на Играх-1980 в Москве. Полуфинальные 9,83 секунды возвели китайца на десятую строчку в летописи лучших олимпийских результатов и на 19-е место за всю историю мировой легкой атлетики. Для атлета ростом всего 172 см в дисциплине, где десятилетиями безраздельно доминировали рослые бегуны, прорыв в Токио стал кульминацией двадцати лет методической перестройки и безжалостного биомеханического самоанализа.\n\n## Запасной из Чжуншаня, списанный за малый рост\n\nСу родился 29 августа 1989 года в городке Гучжэнь городского округа Чжуншань провинции Гуандун. Семья обрабатывала землю, затем отец устроился охранником, а мать работала няней. Впервые на беговую дорожку семиклассник Су попал благодаря школьному учителю физкультуры, заметившему, как 150-сантиметровый подросток с места допрыгивает до баскетбольного щита. Специализированных спринтерских тренеров в школе не было, и первые сезоны юноша числился в запасе: переносил инвентарь и решал организационные вопросы. Свой первый официальный забег он провел лишь в девятом классе, пробежав стометровку за 11,72 секунды — всего на 0,01 секунды медленнее лучшего бегуна района.\n\nНесмотря на этот результат, тренеры городской спортшколы раз за разом захлопывали перед ним двери, считая низкий рост неустранимым дефектом. В те же школьные годы в Чжуншане Су познакомился с одноклассницей Линь Яньфан: в 2017 году они поженились, и Су неизменно называет супругу своей главной жизненной опорой. В 2006 году Юань Гоцян, главный тренер сборной провинции Гуандун и первый рекордсмен Китая на стометровке с электронным хронометражем начала 1980-х, оценил взрывную частоту шагов Су и зачислил его в провинциальную команду вопреки скепсису коллег, сомневавшихся в антропометрии юноши.\n\nПод крылом Юаня в Гуанчжоу Су в 2009 году выиграл три старта Азиатского гран-при подряд, а затем взял золото в эстафете 4×100 метров на XI Спартакиаде народов КНР в компании с Лян Цзяхуном и Вэнь Юни. Позже в том же году он первенствовал на 60 метрах на Азиатских играх в закрытых помещениях в Ханое (6,65 секунды) и опередил японца Синтаро Кимуру (Shintaro Kimura) в беге на 100 метров на Восточноазиатских играх в Гонконге. В марте 2011 года в Чэнду Су обновил национальный рекорд Китая в помещении на 60 метрах (6,56 секунды), в июле в Кобе выиграл чемпионат Азии на 100 метрах с результатом 10,21 секунды, а в сентябре в Хэфэе стал чемпионом страны с рекордом Китая — 10,16 секунды.\n\n## Рискованный маневр в 25 лет: смена толчковой ноги\n\nК 2013 году конкуренция внутри страны обострилась до предела: пекинец Чжан Пэймэн побил рекорд Китая, пробежав за 10,04 секунды, а на чемпионате мира в Москве довел его до гроссмейстерских 10,00 секунды. Су в Москве дошел до полуфинала (10,16 в забеге), но в полуфинале рядом с Джастином Гэтлином (Justin Gatlin) допустил фальстарт и был дисквалифицирован. Стремясь выйти на мировой уровень, Китайская легкоатлетическая ассоциация в 2014 году запустила программу стажировок в академии IMG в Брейдентоне (штат Флорида) под началом зарубежных специалистов.\n\nВо Флориде Су начал сотрудничество с американским наставником Рэнди Хантингтоном (Randy Huntington), руководившим тогда прыжковой программой Китая. Хантингтон провел простой неврологический тест: неожиданно толкнул бегуна в спину, чтобы отследить рефлекторную реакцию. Су инстинктивно выбросил вперед правую ногу. Американец убедил подопечного сменить ведущую ногу в колодках — стартовать не с левой, а с правой ноги, подстроившись под естественную биомеханику тела. Цель была амбициозной: сохранить фирменный стартовый разгон и при этом не проседать по максимальной скорости после 60 метров.\n\nВ конце 2014 года перестройка стоила Су серьезного спада результатов. Он выдавал скромные 10,80 секунды на стометровке и 6,71 на 60 метрах, на тренировках в Америке уступая в выходе из колодок девушкам-спринтерам. Юань Гоцян вспоминал, что Су отрабатывал стартовые шаги прямо на тротуарах, просыпался по ночам, выверяя углы отталкивания, и до рассвета отсматривал видеоматериалы вместе с товарищем по команде Се Чжэнье.\n\nКолоссальный труд окупился 30 мая 2015 года на турнире Prefontaine Classic в Юджине. Су пересек створ третьим с результатом 9,99 секунды вслед за Тайсоном Гэем (Tyson Gay) и Майком Роджерсом (Mike Rodgers), став первым в истории рожденным в Азии спринтером, разменявшим 10-секундный рубеж. Спустя три месяца на домашнем чемпионате мира в Пекине Су повторил эти 9,99 секунды в полуфинале, пробившись в индивидуальный финал, а затем вместе с Мо Юсюэ, Се Чжэнье и Чжан Пэймэном завоевал историческое серебро в эстафете 4×100 метров (38,01 секунды).\n\n## Серебро Бирмингема, олимпийская бронза и кафедра в университете\n\nНа пик формы Су вышел в 2018 году. В марте на чемпионате мира в помещении в Бирмингеме он завоевал серебро на дистанции 60 метров с рекордом Азии (6,42 секунды), уступив лишь Кристиану Коулману (Christian Coleman). В июне китаец дважды повторил рекорд Азии на открытом воздухе (9,91 секунды) в Мадриде и Париже, а в августе с рекордом соревнований (9,92 секунды) взял золото Азиатских игр в Джакарте.\n\nПосле полуфинальных 9,83 секунды в Токио 1 августа 2021 года Су пять дней спустя вышел на финал эстафеты 4×100 метров вместе с Се Чжэнье, У Чжицяном и Тан Синцяном: квартет финишировал четвертым с повторением рекорда страны (37,79 секунды). В феврале 2022 года допинг-проба британца Си Джея Уджи (CJ Ujah) дала положительный результат, и CAS аннулировал результат сборной Великобритании. 19 мая 2022 года МОК официально перераспределил бронзовые награды в пользу Китая, и 4 октября 2023 года на Олимпийском стадионе в Ханчжоу Су Бинтянь получил свою законную олимпийскую медаль.\n\nЗа пределами беговой дорожки Су еще в 2017 году окончил магистратуру Цзинаньского университета в Гуанчжоу по специальности «Международная экономика и торговля» и стал доцентом вуза, публикуя рецензируемые научные статьи с кинематическим анализом собственной частоты шагов и фаз старта. Со временем он возглавил Институт физической культуры Цзинаньского университета в качестве декана. 20 ноября 2025 года 36-летний Су провел свой последний забег, пробежав первый этап эстафеты 4×100 метров за команду Гуандуна на XV Спартакиаде народов КНР в Гуанчжоу. Под овации трибун он снял шиповки прямо на дорожке, а 9 декабря 2025 года официально объявил о завершении спортивной карьеры.",
+      "social_post": "От обидного вердикта «не годен из-за роста 150 см» до легендарных 9,83 на Олимпиаде в Токио! Су Бинтянь переписал законы спринта: рискнул перестроить стартовую ногу в 25 лет, первым в Азии выбежал из 10 секунд, завоевал олимпийскую медаль и стал университетским деканом, изучающим собственную биомеханику. Где место китайской ракеты в пантеоне величайших атлетов Азии? Делитесь мнением в комментариях! #СуБинтянь #ЛегкаяАтлетика #Токио2020 #Спринт"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg/1280px-2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_63.jpg",
+        "artist": "Dmitry Rozhkov",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Su Bingtian during 2013 World Championships in Athletics in Moscow .",
+        "width": 1200,
+        "height": 1800,
+        "year": 2013,
+        "subject": "Su Bingtian",
+        "asked": "Su Bingtian",
+        "page_title": "Su Bingtian",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2013_world_championships_in_athletics_(august,_10)_by_dmitry_rozhkov_63.jpg|Su Bingtian",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Chinese sprinter Su Bingtian walking with a backpack in athletic stadium",
+          "reason": "The photo clearly shows Chinese sprinter Su Bingtian in national team kit at a track and field event.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Xie_Zhenye.jpg/1280px-Xie_Zhenye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Xie_Zhenye.jpg",
+        "artist": "Barcex",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Xie Zhenye, 100m (semifinal 2), IAAF World Challenge, Meeting Madrid 2017. Moratalaz, Madrid.",
+        "width": 1200,
+        "height": 1594,
+        "year": 2017,
+        "subject": "Xie Zhenye",
+        "asked": "Xie Zhenye",
+        "page_title": "Xie Zhenye",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:xie_zhenye.jpg|Xie Zhenye",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Sprinter Xie Zhenye competing in a race in Madrid",
+          "reason": "The runner's bib clearly displays 'ZHENYE' and his top reads 'XIE ZHENYE' matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Zhang_Peimeng_%28Moscow_2013%29_by_Dmitry_Rozhkov_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg",
+        "artist": "Dmitry Rozhkov",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Zhang Peimeng during 2013 World Championships in Athletics in Moscow .",
+        "width": 1200,
+        "height": 1533,
+        "year": 2013,
+        "subject": "Zhang Peimeng",
+        "asked": "Zhang Peimeng",
+        "page_title": "Zhang Peimeng",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:zhang_peimeng_(moscow_2013)_by_dmitry_rozhkov_35.jpg|Zhang Peimeng",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Chinese sprinter Zhang Peimeng in team China gear",
+          "reason": "The image correctly shows Chinese sprinter Zhang Peimeng wearing team China kit at an athletics event.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirmation of Su Bingtian's official retirement date on 9 December 2025 following the 15th National Games of China in Guangzhou on 20 November 2025."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Official medal reallocation date (19 May 2022) by the IOC for the Tokyo 2020 men's 4x100m relay bronze, and physical ceremony date (4 October 2023 in Hangzhou)."
+      }
+    ]
+  },
+  {
+    "id": "2026-11-23-news-bb407c",
+    "slug": "bangladesh-and-singapore-finalize-preparations-ahead-of-dece",
+    "date": "2026-11-23",
+    "created": "2026-11-23T01:41:06+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "Bangladesh women's national football team",
+      "Singapore women's national football team",
+      "Friendly match",
+      "Women's football",
+      "Asian football"
+    ],
+    "athletes": [
+      "Umairah Hamdan",
+      "Maria Manda",
+      "Ritu Porna Chakma",
+      "Afida Khandaker",
+      "Putri Syaliza"
+    ],
+    "image_subjects": [
+      "Bangladesh women's national football team",
+      "Singapore women's national football team",
+      "Jalan Besar Stadium",
+      "Bishan Stadium"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Lionesses to host Bangladesh in two international 'A' friendlies at home",
+        "url": "https://fas.org.sg/lionesses-to-host-bangladesh-in-two-international-a-friendlies-at-home/"
+      },
+      {
+        "title": "Umairah Hamdan named Lioness captain as squad announced for Bangladesh friendlies",
+        "url": "https://fas.org.sg/umairah-hamdan-named-lioness-captain-as-squad-announced-for-bangladesh-friendlies/"
+      },
+      {
+        "title": "Bangla greetings and smiles, but few words on tactics",
+        "url": "https://www.daily-sun.com/post/776510"
+      },
+      {
+        "title": "Bangladesh women begin Dhaka preparations ahead of Singapore friendlies",
+        "url": "https://www.thedailystar.net/sports/football/news/bangladesh-women-begin-dhaka-preparations-ahead-singapore-friendlies-3759161"
+      },
+      {
+        "title": "thedailystar.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFesT-KE7tT-Mjnto7oDqkYFp-eCt_NZAIejreDHgU4f3BNMUSX_N35iftbjYSPZ3KpULaGkR-bqN9LOUTt6E2J9Sw5n59bl15zJwHbYQakZmRoPB6YAUMTLca7JqOejq835oqYc2X8rIeelE8uKN_3Fr44hxcVI60yeR6L-QhmnfNHuMiEo34L6bImNI-K95FEzsp4jd1jijz5K-7VLCrB1QFN1klWDqrBOrhQhlYhHhtmKQ=="
+      },
+      {
+        "title": "daily-sun.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqmobGxOZJWdjaUhUH0Gw6HW45Ibe8Il6wZtUnF1PG0y5SXI5GmnNrkil7uHi7tJp_GkSxpZ7W_oM-hGgeaqxJpCpfmuFyGM9-Ph-OLWV7cCGCkEUvkHmOLI4zTXCK4-IMRMXSD-uz8oUOAHDdJqGD0gsxabNj-hHC9Y4v5ezPlMwD3ChD7Nok7kgawKhGjlOb"
+      },
+      {
+        "title": "daily-sun.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNevPwLVWkUGdRR626BbC3YA_y6bFk1YxOtrDyOCNQUqb6yDUZE7at1c-LW__qyCVJQpIox6t2VlVFzvIfF-guBNqQtYW9PCHqmpVmFvUvVOpujfIjC5HZDx9kyHujMpTduIbNTKZI8HWDVOi-vyifAxJ609dqx2yGujDXPpnexrfHzsptbP78sWwrdtsOXJVgpRT8OsjH6l6kO9hfI72ZBwrgwJ0BNdhE"
+      },
+      {
+        "title": "bssnews.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYm-C7fmgKUBcvhrujlEKgjvfsiOAo7NoyEnFGn8MyW00rovxjNyL2gerzRT8bTGAPj1JsIim2ntNNtKQbZJKYCjbP9dcNqIAQa1HYzoIpJr84f_n0U_x-62w="
+      },
+      {
+        "title": "daily-sun.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVWeoY10YP1GzpOjHuXld-AUMz-KusbFFROJ1cgR-LjBfvXdbsh3VIh1suzEuvAIzI2x7R3m1sriEou4ihrElmiYpRINYcW911iu7xyR20fz-T9Tl91QW9ZLOm1WWTBX8Ewf839x4uS_i02qiLuf5zgGrAQKKmA5GWK61h8_wNLwU95zoNYigK_dXcpiuexK_39vecJfs="
+      },
+      {
+        "title": "fas.org.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmHinmKLoY19eVoLZBTbJy4wJINsWjAfijq1OETCQz-RsBR2c9dwVJC8Hzh1zD5irRNVaRPdg9d2un6mDC0IWeBNnWG27cKdcL83Zq1wHQsZci6ZA8vxXhd297gb7PRy-MqTRkJEjIxjTYVmJFHh3kbBzfidXCaX00pcIHlYQOFGpShHJtZ6FdOmLqIy_hHPsVrR_4LgD0aChU"
+      },
+      {
+        "title": "littlebigreddot.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc_ZVHDgTAJyv9ko5X1crf-vbiaXo8k1PH9o1004G-6rzxIMxgbIwG_GwGT3m6wJ3g8Mfmn51S5Un6aPFcgYZn8AxaYqujAgHcZYHsdBMdo_PXPgrc1nHEGE06pO8LFw2GO4FRxnvhTSo-SFbBOWSCeiPhOCXUfd_-mOs63xQ2wrqBFDi_6BFvihQbhF1V"
+      },
+      {
+        "title": "fas.org.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2hOFyxUAPKWlH7sFq11lohXSP5tAAG8fWKEotKShgelfwO0hN71rt71SHxJpAPD9qY6NCGspsjMxn428hQBZyh9uP-ENIvBmQnRX58aSdcVvf_GnX7gJNm_Nkf_HE-9hz_G3Kkx8cMrXxquTa_acgQW5qKh97clfPjB2EpQgdzRIxEbjbHcbiEeh96QtubQ=="
+      },
+      {
+        "title": "The Daily Star: Bangladesh women begin Dhaka preparations ahead of Singapore friendlies",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JMWEIwN1ZxMThEeEFFS0hibGxYRk5PTnc2dVp4TzhBM0RhVVQxWVRvUjNaU1RqSnJiMXlYV2Q4YnFlMVhKTjNSLTdRM1pBZ1lTZDJnMGJRbEY5QlcxV3ZJUDdibDVnUGJxNjU3NHIxNnhLY0FicURWTUFia3JyeV9LV0xLdzZScnU0YUNQNWF2SEV5dXBWZ2x5MzY3X0NDbTAyNFJsdUMyd0dyVDNpcTV1WTBuWmRCU09yd0JQbnFWVEVM?oc=5"
+      },
+      {
+        "title": "ASEAN Football Federation: Umairah named Singapore women’s team captain ahead of Bangladesh friendlies",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY09vU05fYU9JNVE2VFlmZHpEOTNHc0pyRnZMR0NfamJKdkE3bnQ4Ukh4TklWd290azh6cWNNNjBEd0RRbWtTLTB5NlBxbEM4d3BmcmZjZE90LWdoLXF6UWxhVk5JQlRfWmtFelp6RUYxeVVoSDBBTHJiSEZ3MnJhSXZ3WWVVN193ZkgzUjM5Smo0N0FiazFaVjhSX3JnZi0xNS1BYjBzb3FtOHJT?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Bangladesh and Singapore finalize preparations ahead of December women's friendlies",
+      "seo_title": "Singapore vs Bangladesh Women: Squads Set for Friendlies",
+      "subheadline": "Interim coach Eric Mare leads Dhaka camp while Lionesses name Umairah Hamdan captain for two-match series",
+      "body_markdown": "The Bangladesh women's national football team began the final phase of their preparations in Dhaka on Sunday, 22 November 2026, ahead of a two-match international friendly series away against Singapore.\n\nFrench coach Eric Mare, appointed by the Bangladesh Football Federation on a one-month contract while permanent head coach Peter Butler receives medical treatment in England, directed Sunday's session at the National Stadium. The squad had returned to Dhaka on 20 November after completing a three-week residential camp that began on 31 October at the Korean Export Processing Zone in Anwara, Chattogram. The camp featured veteran midfielders Maria Manda and Ritu Porna Chakma, defender Afida Khandaker, and 17-year-old Australian-born trialist Tazara Khan.\n\n## Ishida hands armband to Umairah\n\nSingapore head coach Mihoko Ishida finalized a 28-player roster on 20 November, appointing 24-year-old Lion City Sailors defender Umairah Hamdan as captain. Umairah, who holds 36 international caps, led Singapore at the AFF Women's Cup in July, where a third-place finish secured qualification for the 2027 ASEAN Women's Championship.\n\n\"At the AFF Women's Cup, she always communicated the team's ideas clearly and played a very important role for us,\" Ishida said of Umairah. The Lionesses squad features uncapped overseas prospects including So Cal Blues defender Kylie Loo and IMG Academy midfielder Aria Romano, alongside recalls for forward Lila Tan and midfielder Raudhah Kamis. Singapore midfielder Putri Syaliza also returned to the national setup after receiving medical clearance ahead of her pending move to Australian club West Torrens Birkalla.\n\n## Head-to-head record and schedule\n\nBangladesh occupy 106th place in the FIFA Women's World Ranking, while Singapore sit 151st. Bangladesh have won all three previous meetings between the nations without conceding a goal. In their first meeting in 2017, Bangladesh won 2-0 in Singapore. The sides met again in Dhaka in December 2023, where Bangladesh recorded 3-0 and 8-0 victories.\n\nBangladesh will depart Dhaka for Singapore on 29 November. The first friendly takes place behind closed doors at Bishan Stadium on Tuesday, 1 December. The second encounter will follow on Saturday, 5 December at Jalan Besar Stadium in front of spectators, with both games kicking off at 7:30 pm local time and counting toward the FIFA rankings. For Singapore, the matches serve as preparation for the 2027 ASEAN Women's Championship in April and the 34th Southeast Asian Games in Malaysia in September 2027.",
+      "social_post": "Bangladesh's women's team resumed training in Dhaka under interim coach Eric Mare, while Singapore appointed Lion City Sailors defender Umairah Hamdan as captain for their upcoming two-match friendly series. The sides meet at Bishan Stadium on 1 December and Jalan Besar Stadium on 5 December. Can the Lionesses avenge their 2023 defeats against the 106th-ranked South Asian champions? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "孟加拉与新加坡女足敲定备战计划 12月两场热身赛一触即发",
+      "seo_title": "新加坡女足vs孟加拉女足：热身赛备战名单出炉",
+      "subheadline": "代理主帅埃里克·马雷带队集训 雄狮女足任命乌迈拉·哈姆丹为新队长",
+      "body_markdown": "2026年11月22日星期日，孟加拉女足国家队在达卡正式开启最后阶段的备战集训，全力备战即将客场挑战新加坡的两场国际友谊赛。\n\n由于孟加拉女足正选主教练彼得·巴特勒（Peter Butler）正在英格兰接受治疗，孟加拉足协紧急任命法国籍教练埃里克·马雷（Eric Mare）签下一个月短约执教。周日，马雷在国家体育场亲自带队完成了训练课。此前，球队在吉大港安瓦拉的韩国出口加工区进行了为期三周的封闭集训（始于10月31日），并于11月20日返回达卡。这期集训阵容不仅包括老牌中场玛丽亚·曼达（Maria Manda）和里图·波尔纳·查克马（Ritu Porna Chakma）、后卫阿菲达·坎达克尔（Afida Khandaker），还征召了出生于澳大利亚的17岁试训小将塔扎拉·汗（Tazara Khan）。\n\n## 石田美穗子将队长袖标交给乌迈拉\n\n新加坡女足主教练石田美穗子（Mihoko Ishida）于11月20日敲定了28人参赛大名单，并任命24岁的狮城水手队后卫乌迈拉·哈姆丹（Umairah Hamdan）担任新任队长。拥有36次国家队出场纪录的乌迈拉曾在今年7月的东盟女足锦标赛（AFF Women's Cup）中领衔出战，球队最终斩获季军，并成功锁定了2027年东盟女子足球锦标赛（ASEAN Women's Championship）的参赛资格。\n\n「在东盟女足锦标赛上，她始终能够清晰传达球队的战术意图，在阵中发挥了举足轻重的作用，」石田美穗子谈到乌迈拉时表示。本次新加坡女足阵容还吸纳了数名未曾代表国家队出场的海外潜力新星，包括效力于So Cal Blues的后卫凯莉·卢（Kylie Loo）以及IMG学院的中场阿里亚·罗马诺（Aria Romano）；同时，前锋陈丽拉（Lila Tan）与中场劳达·卡米斯（Raudhah Kamis）也重返国家队。中场核心普特里·夏莉扎（Putri Syaliza）在通过体检后同样归队，随后她将正式加盟澳大利亚俱乐部西托伦斯比尔卡拉（West Torrens Birkalla）。\n\n## 历史交锋与赛程安排\n\n在目前的国际足联女足世界排名中，孟加拉位列第106位，新加坡则排名第151位。两队此前共有三次交锋记录，孟加拉保持全胜且一球未失：双方在2017年的首次碰面中，孟加拉客场2-0取胜；2023年12月两队在达卡再度相遇，孟加拉先后以3-0和8-0横扫对手。\n\n按计划，孟加拉女足将于11月29日从达卡启程飞赴狮城。双方的首场较量将于12月1日星期二在碧山体育场进行，比赛闭门不对外开放。第二场对决将于12月5日星期六移师惹兰勿刹体育场，届时将对球迷开放。两场比赛均定于当地时间晚7点30分开球，且均计入国际足联积分。对新加坡而言，这组系列赛将是备战2027年4月东盟女足锦标赛以及同年9月在马来西亚举行的第34届东南亚运动会的重要练兵机会。",
+      "social_post": "孟加拉女足在代理主帅埃里克·马雷带领下于达卡恢复集训；新加坡女足则任命狮城水手后卫乌迈拉·哈姆丹为新队长，全力备战12月的两场热身赛。两队将于12月1日在碧山体育场（闭门）、12月5日在惹兰勿刹体育场交手。面对排名第106位、此前交锋保持全胜的南亚劲旅，新加坡女足能否完成复仇？欢迎在评论区分享你的预测！#女足 #足球友谊赛 #新加坡女足 #孟加拉女足"
+    },
+    "ru": {
+      "headline": "Сборные Бангладеш и Сингапура завершают подготовку к очным товарищеским матчам",
+      "seo_title": "Сингапур — Бангладеш: составы и даты товарищеских матчей",
+      "subheadline": "И. о. тренера Эрик Маре руководит сбором в Дакке, а наставница «Львиц» отдала повязку Умайре Хамдан",
+      "body_markdown": "Женская сборная Бангладеш по футболу в воскресенье, 22 ноября 2026 года, вступила в заключительную фазу подготовки в Дакке в преддверии двухматчевой серии выездных товарищеских встреч против Сингапура.\n\nФранцузский специалист Эрик Маре (Eric Mare), подписавший месячный контракт с Федерацией футбола Бангладеш на время курса лечения постоянного главного тренера Питера Батлера (Peter Butler) в Англии, в воскресенье провел тренировку на Национальном стадионе. Команда вернулась в столицу 20 ноября после трехнедельного сбора в закрытом режиме, стартовавшего 31 октября в Корейской зоне экспортной переработки в Анваре (Читтагонг). В тренировочный процесс вовлечены опытные полузащитники Мария Манда (Maria Manda) и Риту Порна Чакма (Ritu Porna Chakma), защитник Афида Хандакер (Afida Khandaker), а также 17-летняя уроженка Австралии Тазара Хан (Tazara Khan), находящаяся на просмотре.\n\n## Исида вручила капитанскую повязку Умайре\n\nГлавный тренер сингапурской сборной Михоко Исида (Mihoko Ishida) 20 ноября утвердила окончательную заявку из 28 футболисток, назначив капитаном 24-летнюю защитницу клуба «Лайон Сити Сейлорс» Умайру Хамдан (Umairah Hamdan). Хамдан, на счету которой уже 36 матчей за сборную, выводила команду с повязкой на июльском Кубке АФФ, где бронзовые медали обеспечили Сингапуру путевку на чемпионат АСЕАН 2027 года.\n\n«На Кубке АФФ она неизменно и четко доносила тактические идеи до команды и сыграла для нас ключевую роль», — подчеркнула Исида. В состав «Львиц» также вошли не заигранные за сборную легионерки: защитница Кайли Лу (Kylie Loo) из калифорнийского клуба «Соу Кэл Блюз» и полузащитница Ария Романо (Aria Romano) из Академии IMG. Кроме того, в обойму вернулись нападающая Лайла Тан (Lila Tan) и хавбек Раудха Камис (Raudhah Kamis). Вернулась в строй и полузащитница Путри Сялиза (Putri Syaliza), получившая допуск врачей перед грядущим переходом в австралийский «Уэст Торренс Биркалла».\n\n## История противостояния и расписание\n\nВ рейтинге женских сборных ФИФА Бангладеш занимает 106-ю строчку, тогда как Сингапур идет 151-м. Сборная Бангладеш выиграла все три очных матча в истории с сухим счетом: в первой встрече в 2017 году бенгалки победили в Сингапуре 2:0, а в декабре 2023 года в Дакке разгромили соперниц со счетом 3:0 и 8:0.\n\nВылет Бангладеш в Сингапур запланирован на 29 ноября. Первая товарищеская встреча состоится во вторник, 1 декабря, на стадионе «Бишан» при закрытых дверях. Второй матч пройдет в субботу, 5 декабря, на стадионе «Джалан Бесар» уже в присутствии зрителей. Обе игры начнутся в 19:30 по местному времени и пойдут в зачет рейтинга ФИФА. Для сингапурок этот спарринг станет важнейшим этапом подготовки к чемпионату АСЕАН в апреле 2027 года и 34-м Играм Юго-Восточной Азии, которые пройдут в Малайзии в сентябре 2027 года.",
+      "social_post": "Женская сборная Бангладеш приступила к тренировкам под руководством временного тренера Эрика Маре, а сборная Сингапура выбрала защитницу Умайру Хамдан капитаном перед спаренными товарищескими матчами. Игры пройдут 1 декабря на «Бишане» и 5 декабря на «Джалан Бесар». Удастся ли «Львицам» взять реванш за разгромы 2023 года? Делитесь мнением в комментариях! #ЖенскийФутбол #Сингапур #Бангладеш #ТоварищескиеМатчи"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/JalanBesarStadium2022.jpg/1280px-JalanBesarStadium2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:JalanBesarStadium2022.jpg",
+        "artist": "Ojehto",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Jalan Besar Stadium during the 2022 National School Games A-Division Football Semi-Final match played by St. Andrew’s Junior College against Anglo-Chinese Junior College. The image depicts St. Andrew ",
+        "width": 1200,
+        "height": 900,
+        "year": 2022,
+        "subject": "Jalan Besar Stadium",
+        "asked": "Jalan Besar Stadium",
+        "page_title": "Jalan Besar Stadium",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:jalanbesarstadium2022.jpg|Jalan Besar Stadium",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Jalan Besar Stadium during a football match",
+          "reason": "The image clearly shows Jalan Besar Stadium in Singapore, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG/1280px-Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG",
+        "artist": "Jacklee",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Bishan Stadium in Singapore, which was used for athletics competitions at the 2010 Summer Youth Olympics .",
+        "width": 1200,
+        "height": 803,
+        "year": 2010,
+        "subject": "Bishan Stadium",
+        "asked": "Bishan Stadium",
+        "page_title": "Bishan Stadium",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:bishan_stadium,_singapore,_during_the_2010_summer_youth_olympics_-_20100816-02.jpg|Bishan Stadium",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "exterior of Bishan Stadium during the 2010 Youth Olympic Games",
+          "reason": "The image correctly shows Bishan Stadium in Singapore, decorated for the 2010 Youth Olympics.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2022. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-23-news-99b867",
+    "slug": "amir-aliev-detained-by-french-police-in-paris-following-ares",
+    "date": "2026-11-23",
+    "created": "2026-11-23T01:39:59+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "MMA",
+    "tags": [
+      "Amir Aliev",
+      "ARES Fighting Championship",
+      "ARES 45",
+      "MMA",
+      "Paris",
+      "Adidas Arena",
+      "France"
+    ],
+    "athletes": [
+      "Amir Aliev",
+      "Matheus Malta"
+    ],
+    "image_subjects": [
+      "Adidas Arena",
+      "Mixed martial arts",
+      "Montreuil, Seine-Saint-Denis",
+      "Grozny"
+    ],
+    "match": null,
+    "fight": {
+      "event": "ARES 45",
+      "date": "20 November 2026",
+      "winner": "Amir Aliev",
+      "loser": "Matheus Malta",
+      "method": "Unanimous decision",
+      "round": 3,
+      "time": "5:00",
+      "note": "Aliev detained in Paris arena after bout"
+    },
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Спорт-Экспресс: Le Parisen: российского бойца ММА Алиева задержали в Париже по подозрению в изнасиловании",
+        "url": "https://www.sport-express.ru/martial/mma/news/le-parisen-rossiyskogo-boyca-mma-alieva-zaderzhali-v-parizhe-po-podozreniyu-v-iznasilovanii-2477773/"
+      },
+      {
+        "title": "Le Parisien: Le combattant de MMA Amir Aliev interpellé à Paris pour viol à l'issue de son combat à l'ARES 45",
+        "url": "https://www.leparisien.fr"
+      },
+      {
+        "title": "ARES 45 Official Results",
+        "url": "https://www.aresfighting.com"
+      },
+      {
+        "title": "karlobag.eu",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDx5BtOW5i-MwIkotXdhOQt39YhhUYTtdPw2qnj7XV2juZA0v_2EIe3liVU61_wnr6bkwpFld_OqlDGUBlK2BC1JiuwiVVa_AhqxwTcKkvNzaq3QM88iEI9BsjQ-4IMHBIq4YT7jNL-8zbEmSiw_Lh0O2NY0X12-KT1nrMBnTSzZ4thQozTqYoqYN2XwBppWSHr8B4SCcf8rKIumR5gS9cTrVYVf5-pcpIe58="
+      },
+      {
+        "title": "aresfighting.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7SHKksCAbzkLTMzDzj73LwxQ1M1y3SYpXxEG3QE2BXLLsO9qVTTEnycQEgw_i4eNGzEYqHuvYMeDEtmnGuWz_bktw4zIQmhoirsAjsYDQSiPH4GUkNPdzSoNnXBUxaMpE5AhB"
+      },
+      {
+        "title": "mymmanews.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs_0erY3n6DG71zko6vki_qM9slLt-KDfUTfOI5ic-hBBLWNxmJKgOdDmvzH8Rko-rgx4M514njB8UlhNW5N6tO96M_snyYFK-qWOtjwiJ8XOBzNqG4ZUhA0OIVURoGAZLGc01CJ1C-jgcLPlcD7moIKkQK_-23byen6qO7-pkt5Soh0IdofjKlX_4G7iPr3L_p_zwOXTp"
+      },
+      {
+        "title": "metaratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFhPD6uxmDAAMbwJbR6JsfYP1MXlBm0ygbsu70UdvUIaG648WlH5WGsy5Npll5y0IigEYMbb77w5TJravAnoqipjX902j7abMmYMK3e1jc_uvPa0Mo16nRiKpPwCGozIufd56TnxJ_5KlE-OkuWjth3YV4bALfIS_mHEo1HK4Z1f-0Mw-H0C-tEj5TlgRt4g-amgFpag0PKSSe_pT22j84fS3uNZG7V4qqFC4G9Rq6kLMjAQWhKym"
+      },
+      {
+        "title": "75secondes.fr",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJUnWy7RfaMtC5eKnGvN_ow75DYkXxeZt5NPy7rPFRa0j0TEIKPeIRUcDD4GkOo-USne0TK2gyB4-5vm4i5e918V4Qt60CGLF5Hi9ZsvQZpCFPA4YZtbsMon2cJKD-wvVbDzTn66WADXT1p3kwt9Y3MvZ7-tlGNaVDFicHjpzLqXnGVcXpsa50UhGC2gH_T_jC48zVLq-t8lHya2NDtZdI"
+      },
+      {
+        "title": "The World Inform: СМИ: в Париже задержали бойца ММА Алиева по подозрению в изнасиловании",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckhVdHBMNUlyWkoyc05GcVM1aGo4YU5veElHTTNzbDl0U3I3WE1Ecl8xTlBYZkZEd1owdENJVjZ1MGI1S0RHWW9IVEg0NkVmdFNwS3ZMNmFGSmVYUUJBZks5VzBBRkw1MmJEeGx1bzEwZGJtTDJVb0ZfbFZFYTYweVJmX1BzQ0gyLU1YQXY5eHBwcldwTkVGMlBjQk1OU1Rld1BCRDhGQkEybDNUMWhaa3NB?oc=5"
+      },
+      {
+        "title": "ГИПОРТ: Le Parisien сообщил о задержании бойца ММА Алиева в Париже",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREJMLUNlOGxPS0NveFh3ZEZEeThkOHB2d0hIeGJNWGt2MC1QX1B4SUVENkd5QndlS2VqM1c2WVNnVFNJWktfRTNqcktqYXZDanNqemVlSEI3WVpxdVYzZnE2bTVnRVFCXzZ4SGMtQVV0dHh3WnR5SldZTTdlOG1HRTJMM0kwVWxRUnZLSXhPMXlvWV9ZWW55M2xlTnJCM3Fqbmp0LWFUNkQ?oc=5"
+      },
+      {
+        "title": "РИА Новости Спорт: СМИ: в Париже задержали бойца ММА Алиева по подозрению в изнасиловании",
+        "url": "https://ria.ru/20261122/mma-2133290044.html"
+      },
+      {
+        "title": "Рязанские Новости: В Рязани задержали бойца ММА",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uZ0h1b0MwNzBMMkhOU2dtS3pSeTBpUzlnaHJWNW1yQ1BVWG9RZmdMQ1dDOTRaTTZoNVBLNFVTMG9hOUdOR3dORXZld3NVUQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Amir Aliev Detained by French Police in Paris Following ARES 45 Victory",
+      "seo_title": "Amir Aliev arrested in Paris following ARES 45 win",
+      "subheadline": "The 27-year-old Russian bantamweight was taken into custody at Adidas Arena under an investigation into an alleged sexual assault.",
+      "body_markdown": "Russian mixed martial artist Amir Aliev was detained by French police on Friday, 20 November 2026, moments after winning his bantamweight bout at the ARES 45 event inside the Adidas Arena in Paris.\n\nAliev had defeated Brazil's Matheus Malta by unanimous decision over three rounds before officers intercepted him backstage at approximately 10:30 p.m.. According to French daily *Le Parisien*, the 27-year-old fighter offered no resistance when approached by law enforcement personnel within the arena premises.\n\n## Custody at Montreuil and the Bobigny probe\n\nFollowing his arrest, Aliev was transported to a police station in the eastern Paris suburb of Montreuil, located in the Seine-Saint-Denis department. French authorities placed him under *garde à vue*—a preliminary police custody measure permitted under French criminal procedure for questioning and evidence gathering.\n\nThe Bobigny public prosecutor's office confirmed that Aliev's custody was extended on Saturday, 21 November 2026, allowing investigators additional time to review the complaint. The inquiry stems from a rape complaint filed by an individual alleging that an assault occurred in Montreuil several days prior to Friday's fight card. Under French law, the opening of a preliminary custody period does not constitute a formal criminal charge or a finding of guilt, and Aliev retains the presumption of innocence while the investigation proceeds. Neither Aliev nor his legal representatives have issued a public statement regarding the allegations.\n\n## Card context and sporting record\n\nAliev was born in Grozny, Chechnya, and entered Friday's contest with prior competitive appearances in Russian organizations including ACA Young Eagles and Hardcore MMA. The three-round decision over Malta moved his mixed martial arts record to 13 victories and two defeats.\n\nThe bout took place on the preliminary portion of ARES 45, an event that drew a sell-out crowd of 8,000 spectators to the Adidas Arena. The evening's headline fight featured Baysangur \"Baki\" Chamsoudinov reclaiming the ARES welterweight championship from Jordan Zebo via a five-round unanimous decision. Organizers of the ARES Fighting Championship have not released an official comment regarding the police action inside the venue.",
+      "social_post": "Russian MMA fighter Amir Aliev was detained by French police on Friday night inside Paris's Adidas Arena, moments after earning a unanimous decision victory over Matheus Malta at ARES 45. The 27-year-old was placed in custody in Montreuil under an investigation into a rape complaint, with the Bobigny prosecutor extending his detention over the weekend. What are your thoughts on this breaking legal development in French MMA? #MMA #ARES45 #AmirAliev"
+    },
+    "zh": {
+      "headline": "ARES 45赛后突发：俄罗斯雏量级选手阿米尔·阿利耶夫在巴黎遭警方拘留",
+      "seo_title": "阿利耶夫ARES 45获胜后在巴黎被捕：涉嫌性侵",
+      "subheadline": "这位27岁的格斗名将在阿迪达斯竞技场刚拿下胜利便被后台带走，目前正就一起涉嫌性侵指控接受法国警方调查。",
+      "body_markdown": "2026年11月20日晚，巴黎阿迪达斯竞技场（Adidas Arena）结束了一场焦点大战，但戏剧性的一幕却在后台上演：俄罗斯综合格斗选手阿米尔·阿利耶夫（Amir Aliev）在ARES 45赛事的雏量级对决中刚获胜不久，便当场遭法国警方羁押拘留。\n\n当晚，阿利耶夫在打满三个回合后，以一致判定击败了来自巴西的马特乌斯·马耳他（Matheus Malta）。然而在晚上约10点30分，执法人员在场馆后台将其拦截并带走。据法国《巴黎人报》（*Le Parisien*）披露，当警方在竞技场内实施拘押时，这位27岁的手并未做出任何反抗。\n\n## 关押于蒙特勒伊与博比尼检方调查\n\n被拘留后，阿利耶夫随即被押送至位于巴黎东郊塞纳-圣但尼省蒙特勒伊（Montreuil）的警局。法国当局对其采取了“司法拘留”（garde à vue）措施——这是法国刑事诉讼程序中用于当面讯问及收集线索的法定前置调查羁押手段。\n\n博比尼检察官办公室证实，阿利耶夫的拘留期已在2026年11月21日（周六）依法延长，以便办案调查人员对相关报案材料展开更充分的核查。据悉，这起调查源于一起强奸指控，报案人声称案发地点位于蒙特勒伊，时间就在周五比赛打响的前几天。依照法国法律，启动司法拘留并不等同于提出正式刑事指控，亦不代表定罪，案件调查期间阿利耶夫依然享有无罪推定权利。截至目前，阿利耶夫本人及其法律代表均未就此指控公开发表声明。\n\n## 赛事背景与选手生涯战绩\n\n阿利耶夫出生于车臣格罗兹尼，此前曾在俄罗斯本土的多项赛事中登台，包括ACA Young Eagles以及Hardcore MMA。在三回合力克马耳他之后，他的职业MMA战绩改写为13胜2负。\n\n本场较量被安排在ARES 45的副赛阶段，该项赛事当天在阿迪达斯竞技场吸引了8000名观众到场观战，球票全部售罄。当晚的头条主赛中，拜桑古尔·“巴基”·沙姆苏季诺夫（Baysangur \"Baki\" Chamsoudinov）打满五回合，以一致判定战胜乔丹·泽博（Jordan Zebo），重夺ARES次中量级冠军金腰带。对于馆内突发的警方拘捕行动，ARES终极格斗锦标赛赛事方目前尚未发表任何官方评论。",
+      "social_post": "突发！俄罗斯MMA雏量级选手阿米尔·阿利耶夫周五晚在巴黎ARES 45刚打满三回合一致判定获胜，便在阿迪达斯竞技场后台遭法国警方当场带走拘留。据悉此案涉及蒙特勒伊的一起性侵报案，博比尼检方已延长羁押期限。你怎么看这起突发风波？ #MMA #综合格斗 #ARES45 #阿利耶夫"
+    },
+    "ru": {
+      "headline": "Российский боец Амир Алиев задержан полицией Парижа сразу после победы на турнире ARES 45",
+      "seo_title": "Амир Алиев задержан в Париже после победы на ARES 45",
+      "subheadline": "27-летний боец легчайшего веса был взят под стражу прямо на «Адидас Арене» в рамках расследования заявления об изнасиловании.",
+      "body_markdown": "В пятницу, 20 ноября 2026 года, вечер французского промоушена ARES 45 в Париже завершился громким скандалом: российский боец смешанных единоборств Амир Алиев был задержан местной полицией прямо на «Адидас Арене» (Adidas Arena) спустя считанные минуты после триумфа в октагоне.\n\nАлиев провел трехраундовый поединок в легчайшем весе против бразильца Матеуса Малты (Matheus Malta), одержав уверенную победу единогласным решением судей. Однако уже около 22:30 в подтрибунном помещении к 27-летнему спортсмену подошли сотрудники правоохранительных органов. Как сообщает авторитетное французское издание *Le Parisien*, боец не оказал сопротивления при задержании.\n\n## Изолятор в Монтрёе и продление ареста прокуратурой Бобиньи\n\nС арены бойца доставили в полицейский комиссариат восточного пригорода Парижа — Монтрёя (департамент Сен-Сен-Дени). В отношении россиянина была применена мера предварительного содержания под стражей (*garde à vue*), предусмотренная уголовно-процессуальным кодексом Франции для допроса фигуранта и первичного сбора доказательств.\n\nВ субботу, 21 ноября 2026 года, прокуратура Бобиньи подтвердила продление срока задержания Алиева, чтобы дать следователям время на детальное изучение обстоятельств дела. Поводом для разбирательства послужило заявление об изнасиловании: предполагаемый инцидент произошел в Монтрёе за несколько дней до пятничного турнира. Согласно нормам французского права, процедура *garde à vue* не является официальным предъявлением обвинения и тем более признанием вины — на время следственных действий в отношении Алиева в полной мере действует презумпция невиновности. Ни сам боец, ни его адвокаты пока не делали публичных заявлений.\n\n## Контекст турнира и профессиональный рекорд\n\nАмир Алиев родился в Грозном и до подписания контрактов за рубежом успел заявить о себе в ведущих российских промоушенах, среди которых ACA Young Eagles и Hardcore MMA. Победа над Малтой стала для него 13-й в профессиональной карьере при двух поражениях.\n\nСхватка Алиева и Малты открывала предварительный кард ARES 45. Сам турнир прошел при аншлаге — трибуны «Адидас Арены» собрали 8 000 зрителей. В главном событии вечера Байсангур «Баки» Шамсудинов (Baysangur «Baki» Chamsoudinov) вернул себе титул чемпиона ARES в полусреднем весе, одолев Жордана Зебо (Jordan Zebo) единогласным решением по итогам пяти раундов. Руководство лиги ARES Fighting Championship на данный момент воздерживается от официальных комментариев по поводу действий полиции на арене.",
+      "social_post": "Громкий скандал в Париже: российский боец Амир Алиев был задержан полицией прямо на «Адидас Арене» сразу после победы над Матеусом Малтой на турнире ARES 45. Боец помещен под стражу по заявлению об изнасиловании, прокуратура Бобиньи уже продлила срок задержания. Что думаете о ситуации? #ММА #ARES45 #АмирАлиев"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg",
+        "artist": "ManoSolo13241324",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Façade du stade Adidas Arena, à Paris 18e.",
+        "width": 1200,
+        "height": 654,
+        "year": 2026,
+        "subject": "Adidas Arena",
+        "asked": "Adidas Arena",
+        "page_title": "Adidas Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:adidas_arena_fa%c3%a7ade_(cropped).jpg|Adidas Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "exterior of the Adidas Arena in Paris",
+          "reason": "The image clearly shows the Adidas Arena building with its name visible on the facade.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/UFC_131_Carwin_vs._JDS.jpg/1280px-UFC_131_Carwin_vs._JDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:UFC_131_Carwin_vs._JDS.jpg",
+        "artist": "Bad intentionz",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Picture of fighters Shane Carwin and Junior Dos Santos facing off at UFC 131 in Vancouver, Canada.",
+        "width": 1200,
+        "height": 970,
+        "year": 2011,
+        "subject": "Mixed martial arts",
+        "asked": "Mixed martial arts",
+        "page_title": "Mixed martial arts",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:ufc_131_carwin_vs._jds.jpg|Mixed martial arts",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "MMA fighters facing off inside an Octagon cage during a fight",
+          "reason": "The photo accurately depicts mixed martial arts as captioned.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg",
+        "artist": "Chabe01",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Hôtel de ville de Montreuil, Seine-Saint-Denis.",
+        "width": 1200,
+        "height": 871,
+        "year": 2019,
+        "subject": "Montreuil, Seine-Saint-Denis",
+        "asked": "Montreuil, Seine-Saint-Denis",
+        "page_title": "Montreuil, Seine-Saint-Denis",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:h%c3%b4tel_ville_montreuil_seine_st_denis_15.jpg|Montreuil, Seine-Saint-Denis",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Hôtel de Ville (town hall) of Montreuil, Seine-Saint-Denis",
+          "reason": "The building inscription clearly confirms it is the town hall of Montreuil, correctly matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-23-news-99b867.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Amir Aliev def. Matheus Malta · Unanimous decision · Round 3 · 5:00 · ARES 45",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "Private-life or legal topic ('Police'). Only include it if it is the news itself, confirmed by a major outlet, and stated neutrally"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://www.leparisien.fr, https://www.aresfighting.com"
+      }
+    ]
+  },
+  {
     "id": "2026-11-22-news-1b71a7",
     "slug": "navajo-stirling-knocks-out-jiri-prochazka-at-ufc-qatar-in-ca",
     "date": "2026-11-22",
