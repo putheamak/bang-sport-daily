@@ -256,3 +256,11 @@
     time: "4:58"
     note: "Stirling moves to 12-0"
     card_first: true
+  embeds:
+    - code: |
+        <a id='EffdMai_Ty5uDEiYqxVUSA' class='gie-single' href='https://www.gettyimages.com/detail/2306254634' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'EffdMai_Ty5uDEiYqxVUSA',sig:'mTVuiXHXIvJs4ngYfkCZXgpjxtZQgWcu1RKRnS2NOdo=',w:'594px',h:'396px',items:'2306254634',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+      credit: "Getty Images"
+      caption:
+        en: "Navajo Stirling at UFC Fight Night 294 in Doha, 21 November 2026"
+        zh: "纳瓦霍·斯特林在多哈UFC格斗之夜294（2026年11月21日）"
+        ru: "Наваджо Стирлинг на UFC Fight Night 294 в Дохе, 21 ноября 2026 года"
