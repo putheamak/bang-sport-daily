@@ -5,7 +5,7 @@
     "date": "2026-11-22",
     "created": "2026-11-22T16:01:40+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "MMA",
     "tags": [
@@ -99,7 +99,20 @@
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5YmxsRUVabUowbFQ1QW4xSElyUmk3bXdoWEJJTGJCaTJ6d0NDRERQZHU2ZURiZ2QxZmdldlBQbXBTaGg0eERB?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-22T16:36:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-22T16:36:29+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-22T16:36:29+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.022,
       "longest": 14,
@@ -158,16 +171,7 @@
         "height": 1567,
         "year": 2022,
         "subject": "Jiří Procházka",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:jiriprochazka2022.png|Jiří Procházka",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
+        "editor": true
       }
     ],
     "standards": [
@@ -196,7 +200,22 @@
       "note": "Stirling moves to 12-0",
       "card_first": true
     },
-    "photos_override": "{\"fight\": {\"card_first\": true, \"date\": \"21 November 2026\", \"event\": \"UFC Fight Night 294 · Doha\", \"loser\": \"Jiří Procházka\", \"method\": \"KO\", \"note\": \"Stirling moves to 12-0\", \"round\": 2, \"time\": \"4:58\", \"winner\": \"Navajo Stirling\"}, \"mode\": \"replace\", \"photos\": [{\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}]}"
+    "photos_override": "{\"embeds\": [{\"caption\": {\"en\": \"Navajo Stirling at UFC Fight Night 294 in Doha, 21 November 2026\", \"ru\": \"Наваджо Стирлинг на UFC Fight Night 294 в Дохе, 21 ноября 2026 года\", \"zh\": \"纳瓦霍·斯特林在多哈UFC格斗之夜294（2026年11月21日）\"}, \"code\": \"<a id='EffdMai_Ty5uDEiYqxVUSA' class='gie-single' href='https://www.gettyimages.com/detail/2306254634' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'EffdMai_Ty5uDEiYqxVUSA',sig:'mTVuiXHXIvJs4ngYfkCZXgpjxtZQgWcu1RKRnS2NOdo=',w:'594px',h:'396px',items:'2306254634',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>\\n\", \"credit\": \"Getty Images\"}], \"fight\": {\"card_first\": true, \"date\": \"21 November 2026\", \"event\": \"UFC Fight Night 294 · Doha\", \"loser\": \"Jiří Procházka\", \"method\": \"KO\", \"note\": \"Stirling moves to 12-0\", \"round\": 2, \"time\": \"4:58\", \"winner\": \"Navajo Stirling\"}, \"mode\": \"replace\", \"photos\": [{\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}]}",
+    "embeds": [
+      {
+        "platform": "Getty Images",
+        "url": "https://www.gettyimages.com/detail/2306254634",
+        "src": "https://embed.gettyimages.com/embed/2306254634?et=EffdMai_Ty5uDEiYqxVUSA&tld=com&sig=mTVuiXHXIvJs4ngYfkCZXgpjxtZQgWcu1RKRnS2NOdo=&caption=true&ver=1",
+        "caption": {
+          "en": "Navajo Stirling at UFC Fight Night 294 in Doha, 21 November 2026",
+          "zh": "纳瓦霍·斯特林在多哈UFC格斗之夜294（2026年11月21日）",
+          "ru": "Наваджо Стирлинг на UFC Fight Night 294 в Дохе, 21 ноября 2026 года"
+        },
+        "account": "Getty Images",
+        "height": 450
+      }
+    ],
+    "published_at": "2026-11-22T16:36:29+07:00"
   },
   {
     "id": "2026-11-22-news-ab9fc0",
@@ -204,7 +223,7 @@
     "date": "2026-11-22",
     "created": "2026-11-22T15:58:06+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Badminton",
     "tags": [
@@ -268,7 +287,20 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3pORFFoY2oxR0xQNnlCNXgycFQ0YWdOXzJ0S2phcEVZSDN2elRkcWhjaHJzZEItdzdrekhnYjRMTmltYTJSdnkzTDZfQmg1MXBPdUdqeWZYdXA4bEdTQTN5cjdyaDB5U2tMaUJ4VjlEREVBNVg5WjFneEJkRGhsT3pjNktzRUFreW9XMzdILTRnQ1hJU0xya3ZMZmhVRU1Odl9fZHBWaERFNEFubFRIOUZuRWxCd094NzZJWmx6R2JxUzTSAcMBQVVfeXFMTjRnTjBZMS1KLS1oZXVlQU5VeVZqRTdnTHlaWFlGMjlRcEp6d21ZT1hiSzU1aFhZelhoVk9WSnV1R2pLNUI0V2poTE5oLWY0TXFpWEp1UUlZek5lcmRQeGtZYXhDQUZXMjlRYUZsUUJFS1Fma1ZjWFIxdGhZelNHZ1lIR2dURE91Q25NYjBMR2tFZGMyQmtOZkFsQmpsRHFndDlLcnpyVlNIR0lwX2gyZDlUQl9uLWNsLWdkR3RuYWstX1Jr?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-22T16:36:26+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-22T16:36:27+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-22T16:36:28+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -360,7 +392,8 @@
         "height": 675
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-22T16:36:28+07:00"
   },
   {
     "id": "2026-11-22-news-61a15b",
@@ -368,7 +401,7 @@
     "date": "2026-11-22",
     "created": "2026-11-22T15:56:50+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Formula 1",
     "tags": [
@@ -487,7 +520,20 @@
         "url": "https://ria.ru/20261122/formula-2133213268.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-22T16:36:24+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-22T16:36:25+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-22T16:36:26+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -589,7 +635,8 @@
         }
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-22T16:36:26+07:00"
   },
   {
     "id": "2026-11-22-hist-478ccb",
