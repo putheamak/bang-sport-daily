@@ -4,26 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Melkadze and Sadulaev Strike to Put Akhmat Two Up at CSKA Moscow
-`2026-11-22-news-54c55f` · 2026-11-22
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Georgi_Melkadze_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Georgi Melkadze**<br>2022 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Georgi_Melkadze_2022.jpg)<br>AI sees: _Georgi Melkadze playing football for PFC Sochi_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Lechi_Sadulayev_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Lechi Sadulayev**<br>Asked for: Lechi Sadulaev → got page: Lechi Sadulayev<br>2019 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lechi_Sadulayev_2019.jpg)<br>AI sees: _a football player in an Akhmat Grozny kit on the pitch_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Arena_CSKA.jpg/1280px-Arena_CSKA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **VEB Arena**<br>2016 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Arena_CSKA.jpg)<br>AI sees: _VEB Arena (CSKA Moscow stadium) with skyscraper tower_
-<br clear="left">
-
----
-
 ## ✅ live · Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion
 `2026-11-22-news-e72338` · 2026-11-22
 
