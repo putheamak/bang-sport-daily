@@ -1,31 +1,26 @@
 {
-  "updated": "2026-11-22T08:50:45+00:00",
+  "updated": "2026-11-22T17:24:09+00:00",
   "stories": [
     {
-      "key": "fc263a5a2e",
+      "key": "03af1ffd24",
       "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar",
-      "summary": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar The Lufkin Daily News",
+      "summary": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar Field Level Media",
       "lang": "en",
       "sport": "combat",
-      "outlets": 13,
+      "outlets": 12,
       "growth": 0,
-      "heat": 30.12,
-      "published": "2026-11-22T01:43:02+00:00",
+      "heat": 26.39,
+      "published": "2026-11-22T02:05:43+00:00",
       "refs": [
         {
-          "source": "The Lufkin Daily News",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRE0zT1poNC1RSktyYzVodWw2WGVTdzJWa2RJY1JDTWxmYm9rSUhrV1FQYy1oUURXajR5WjRVUXR2aW5YWjVuNm43VUVuVkdvRm01eHpQbVdjeTVTMnhCSnRRNU5aSUdYLUE2M3FCTkdJRVFKc3FTTTNWaE5YYlZvdVlkVXBlQ0NfSTFidkJENzVkdmVQWURSandQYjUxd2JFYS16M1RrS0VuNXpJbndRMEplbkw4d1JlcG1VSVZ0Ynl1NjlDSFBIakxraklOVEZIbUYxOC1Ea3hUZ05mSmc2YzdhOGlicFhGdGhzb3ZDRHNUTm5VZzB4czlkNA?oc=5",
+          "source": "Field Level Media",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRkRE0zZHdoejd4amYzd0wxTUFrOXFWZFBHUFNKVXJMWHlBWWtaLUNvd01XTFFPdDJOOEhxV21VUnN1TC1SNVVnV0x1Rk1KLW5INTJGYTU5emdZZ1U4aTdxb3RNMElHSVFPbjVCSWxHMXR2eDJTczBSTkRSMWQ2WEpxNVN0Y1FFTkQ1RFJCZW5Uc0Y2QjRBMjVxaDJHYXhnYnZpc2x3?oc=5",
           "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar"
         },
         {
           "source": "MMA Junkie",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDdfRE91NDRtbWhDV09YX2hhYzA2WXliMDdDR290cTBkbkFUcEVsUXJDSnM4bGdFQkNEd0FlSjJWSTkxTlFYQkNON1NBM095dmM2S3l5VjZGaW5vZ0NEaGs5NGg2UWxlODNoeDNZVUpDcEFSS0NoeV9aTjM2NnAzek0teTBMUTY2cVJpUk5ja3o0djRIaXROYi1HS1pVVmxSNTJsQmJPZWtmcmxnSUNoOTR2NHNlT3l0WDQ4eUJaR3Rqa3BwTU84cQ?oc=5",
           "title": "UFC Qatar results: Navajo Stirling starches Jiri Prochazka in Round 2"
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
-          "title": "Rising star Stirling knocks out Prochazka"
         },
         {
           "source": "ESPN",
@@ -38,33 +33,43 @@
           "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemtLa1drMVNZREhkQUlhRlJVLUxFcmtpX3VscVZRM3F4V2dfZnEyYzQ5dXpubnFrZlEwb2dNS0s4VmVVNk9BbTRET216SGRoRHdCd2l5bnN3ajFUY2Y1NHZ2U29OY1FnN2xabFlYbzNpcnIwRWtJZEYzcG94bkFWc0RXUHQ?oc=5",
-          "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar"
-        },
-        {
           "source": "UFC.com",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5YmxsRUVabUowbFQ1QW4xSElyUmk3bXdoWEJJTGJCaTJ6d0NDRERQZHU2ZURiZ2QxZmdldlBQbXBTaGg0eERB?oc=5",
           "title": "Navajo Stirling Stuns Jiri Prochazka in Round 2 | UFC Qatar"
         },
         {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTVrc0JfSFpJNVVuU01mbzQwU1QxTGQtZTkwSDFjVHBUaDVkWnNHVjlFRWY0WllCWEpXVDNwZFlYMTZaTnhwZklNMzI1U0k1RUlwRGZzQUY5ZUh0Um9ra1lqbm1wY25ieWViQTZiZHU4OEJPNjhzWW54RVc1UVNxMjZWNmoxLVFhZ0IyQ1lZMkFlSkVzN09HYlBHT3g0NXlXcTFWWTJRUEY3MmhvNl8zdlRSa0gtQk4zMWFmekswRG1BS180R29WZQ?oc=5",
+          "title": "Jiri Prochazka reacts to second straight knockout loss at UFC Qatar — ‘No more like this’"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHlRcGxVYmlXTUhmb00xV0xSNXdSNDY4Y2Uta2RzZTRtU0ViLUh5NVhRSFNsYWlzMUM0ZDQtVlAweTcxOHFwTlNOS1R0SGVJVDlHMlVuam10WUNMb19iQUloUm1fangzZVQwTkttOFJYeEFrbmREa1hTakUyMUxsaWtLRmpsR0ozV0hILQ?oc=5",
+          "title": "Jiri Prochazka reacts to knockout loss at UFC Qatar"
+        },
+        {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VHlCZmgtZ1EzTmZpNHZTTXRmVDBFSWJqTWdhMGdkLXcxQXJ3LUtCc1pBcVBHQzdPLTFtYWhpbzQyVjJGWWMtNi1NWVRBSnV6dTZWUWJxUHI1UQ?oc=5",
-          "title": "Navajo Stirling Scores Devastating Knockout in UFC Qatar Main Event"
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0xKUUJzZ2p1anlyR3hQTGs4WDBJcjNBRDQzekpaNDZlOXBxSFB2SUNDUjg0YVdyc1poenRNQm8tMkktRU9sb3ZKMXc1SGtkTTFxOXoxaU9PWFdQS2pDSk5Ma1RXYnRray10aXlNdWRva3REWjJVWkE5dTNOYjJfbDZfVzlxdGU5WFkxZGpJcGNNLXBi?oc=5",
+          "title": "Joshua Van Shows Support for Potential UFC Fight Night in India"
         }
       ]
     },
     {
-      "key": "5a06518623",
-      "title": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО)",
-      "summary": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО) SuperKarate",
+      "key": "d543398ab8",
+      "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева",
+      "summary": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева airpress.kz",
       "lang": "ru",
       "sport": "combat",
       "outlets": 11,
       "growth": 0,
-      "heat": 26.7,
-      "published": "2026-11-22T07:19:57+00:00",
+      "heat": 26.31,
+      "published": "2026-11-22T15:04:57+00:00",
       "refs": [
+        {
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uc0d0SVFHQlBtcTJaVk1BQjJ3VkFteU9pejhFUTRDM3NlRk5kc0I2NW9ZYldtY0VTZUYtYVRReDhNeFNKVmIzSzEwQzE5QVcyTUF2anBFNHQ4SVRseER6aTBYR3F3VTZhdjVoQ3I0UzJQUE9nNWp6eUJB?oc=5",
+          "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева"
+        },
         {
           "source": "SuperKarate",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtYa25HaWZBeGp6X3p1MjNyVVQyWEd0dmpjelpjbDBDOFA5R3o2OFNMVzYycU02SG44ajZPVWZkZ2JzeUU0d0VXdDdwQlhpT0ZoLXlWM3NiMlpWT2xaOU9sTXo1R0ZvcXk2a1hndVJPLVUyemtzemI4LVJDTHdONGNzX0V3MEhTd3JoRm5EZHRZZlJycWZZbzc0cw?oc=5",
@@ -76,24 +81,9 @@
           "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC Fight Night 294"
         },
         {
-          "source": "vRINGe.com",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQjctNXItX3ZSMzRoT3MybF9wMzN3T29qMlY3MDRSbzB1Q2RnMjMwU1VEQWtyWGFfUXNtN0xPeHFiRW1PVkk1RVZnZnZaUTB0WThfUDhmeUNleU9Va2J1MnFlQWFORUF2Q0NFNG5QOVNQZU9vbWtxOUl3?oc=5",
-          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC в Катаре"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkQ5QThUU0tpRVl0VVRmaWE0UnUtR2VxVk1hdGZwdUxRQWZoYjFnQWxoOUcyMDZMSnV0cUNfVmdIX3BKTTVDdDdtWFo2VHM4U0E1NS1wZjV5QzJwN1JiYkZzMExIdEpwdXNIbEkwNklORHBLRVdOUURFamtEOG8ydk80WEZpUWphV2Z4V2xsTzlTRm1McjdRbGhHU09VRl9TRjBMUW1VT0tBY2lmX04tWklwdkI1dEx1S1Z1VUViS2g?oc=5",
-          "title": "Иржи Прохазка против Навахо Стирлинг (видео). UFC Fight Night"
-        },
-        {
           "source": "Спорт-Экспресс",
           "link": "https://www.sport-express.ru/martial/mma/ufc/news/irzhi-prohazka-navaho-stirling-rezultat-glavnogo-boya-ufc-fight-night-294-v-dohe-21-noyabrya-2026-2477472/",
           "title": "Стирлинг нокаутировал Прохазку в главном бою турнира UFC в Катаре"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcktLQTVndVZwbHVwQmQ3NmsweTNKMHJKeUNJNkd2dVozM2JqRXlmVW51aEZnU1VLc3I2LTluSldWRzdfamR3aGdPTDVDLXA1Z3dJaU8yLUMtSlhYbHAtQmY2UlJqUGM2UVRrdGJzcmFFc1NGM2tQY3I0Ykk0dnc1TzdESDEtMTZvU3hSa1M1N1pNZkVuRnJ2NDBxUnl6eHhhR1Y5a2lPWDhqczVycjV2WGxaM2Y0X1hhejhZcFVCaXNfZw?oc=5",
-          "title": "Иржи Прохазка против Навахо Стирлинг (видео). UFC Fight Night"
         },
         {
           "source": "Allboxing",
@@ -101,108 +91,62 @@
           "title": "UFC Катар: Навахо Стирлинг нокаутировал Иржи Прохазку"
         },
         {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpTMVYtZ3F6WE0xTWRfV1FJcFFMNFoyMFNKUUZvY1h4ei1CVFdzd25uUlF6bXJQZVFqcGdMN1ZyTm9zM1V3MjBSRjBWaVRjLU9SRHNvTms0azNMUXprUmx0Z0E2SzZBWThNVTVUTVZ1Rmg1dkdUdUZvRTdLeWpjU213YnhBSUN1TVJ2Rk5hQUtib0oyS0RMb2ZIZHUyTjZsbERIRTgxdEE0bkJYWkIzaTFxbHhsTUlCeDVZ?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObC1objRob0oyV25ZRmxQUVNYZS1pVlY3Y3E0WjJxU2hycnNVYW1uTEtRZXZ6N0p5VVowdDhscklhWEpOV05CVnB6OTBOQ3AyQnV5NVhZbklwenp4WGZGUG1ZY29EYVhmdjBIRHBUZE5QSU5ydEpHOThmM1dWY1NuZjRlWDZiQ3RyVmNfbmlYdXZjbDFSWF80WlBjY0hZeHFBTkgwZHdrSGlEY2N2ak12RzlnQ1c4Q1ZNZDViUlJKRGFKSlVlV2hJUmFqQ1J3dw?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        },
+        {
           "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEtfV0swS19ZVGwwQ2dFOEpfb3BMUGc5amRqbTZzcFg5ZGFPN3dyd1J3dVFvS05zeDlIQXhtRmxpVzg4bWN3dnR0djJCazlQSkJ4N2g4bEhSalNsWTlYS3Y0MV83ZTVEVC1feFczbG1hSjBfN1dMaElTZGZPZzFFRzBXaU5RbGQ4eVNZcnA2S21GQTR1R0tMakkyUHJhdVVwcURUdzl6R2RRVnlLWll1WWc1eF8?oc=5",
-          "title": "Стирлинг нокаутировал Прохазку в главном бою UFC Fight Night 294 в Дохе"
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalBCS1NTSFdLS0VXUU02UHBHY0N3WWp1WWFGOWtLckEtTHBWa3hQVm1qVjZseUp5NUZlUnNPM0JaWm9sX05Vc3NQRnVLOFFMY21FNUV0OEZMRTZlTVJwd01aeE5yalRkRTFoSlBlTFc1UkZyM2pGeHV0MlhraU5vempWUkpJQm13UXJOWW1QdW80eTQ0OU95Y0NnNUZLN2M0REQySWxaQkJQd1o5VHJLOS1pbmVfWlhteEVORnNURzg2UQ?oc=5",
+          "title": "Чемпион UFC Улберг поздравил своего одноклубника Стирлинга с победой над Прохазкой"
         }
       ]
     },
     {
-      "key": "a3f6793a27",
-      "title": "Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри",
-      "summary": "Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри F1News Ферстаппен выиграл Гран‑при Лас‑Вегаса, Антонелли — четвертый, Леклер получил штраф за разворот Хэмилтона Sportbox В Mercedes подготовили особую стратегию на последний круг для Антонелли Мир Формулы-1 Антонелли выиграл квалификацию Гран‑при Лас‑Вегаса, Ферстаппен будет стартовать с первого места из‑за штрафа итальянца Матч ТВ Ландо Норрис: ",
-      "lang": "ru",
-      "sport": "motorsport",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.64,
-      "published": "2026-11-22T05:59:31+00:00",
-      "refs": [
-        {
-          "source": "F1News",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKVjlZYmlHdk1vYWMxM0RTdTh3THlWTkdzOWV4dF8xejVIZS1iTVpuY2tEQlIyZzRRQzZJa2xfcUk4M1ZHeERlbTdXTm11N0NObDFlT0psemctTklRRXp4eV96cXhfUkdYbmRDSg?oc=5",
-          "title": "Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/autosport/formula1/news/formula-1-rezultat-gran-pri-las-vegasa-22-noyabrya-2026-2477529/",
-          "title": "Ферстаппен выиграл Гран-при Лас-Вегаса, в тройке — Норрис и Пиастри"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/auto/news-6709344-foto-norris-i-piastri-rassmeyalis-posle-trollinga-ferstappena-v-adres-rassella.html",
-          "title": "Фото: Норрис и Пиастри рассмеялись после троллинга Ферстаппена в адрес Расселла"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/automoto/1117444738-luchshe-vsex-ostalnyx-red-bull-vylozhil-post-s-ferstappenom-obygrav-sl.html",
-          "title": "«Лучше всех остальных ». «Ред Булл» выложил пост с Ферстаппеном, обыграв слова Расселла перед Гран-при Лас-Вегаса"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261122/formula-2133213268.html",
-          "title": "Ферстаппен выиграл Гран-при Лас-Вегаса \"Формулы-1\""
-        }
-      ]
-    },
-    {
-      "key": "3a6c68b434",
-      "title": "Российские саночники начнут сезон со второго этапа Кубка мира в Южной Корее",
-      "summary": "Российские саночники начнут зимний сезон со второго этапа Кубка мира в Пхенчхане, сообщила президент Федерации санного спорта России Наталия Гарт. Этап в латвийской Сигулде, который пройдет 9-10 января, россияне пропустят. «Выступление в сезоне мы планируем начать со второго этапа Кубка мира в Республике Корея (Пхенчхан), далее Китай (Яньцин), два этапа в Германии (Альтенберг, Оберхоф), чемпионат ",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.99,
-      "published": "2026-11-22T08:30:00+00:00",
-      "refs": [
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/bobsleigh/1117444730-rossijskie-sanochniki-nachnut-sezon-so-vtorogo-etapa-kubka-mira-v-yuzh.html",
-          "title": "Российские саночники начнут сезон со второго этапа Кубка мира в Южной Корее"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/other/news-6709280-rossijskie-konkobezhki-vyigrali-komandnuyu-gonku-na-etape-kubka-mira-v-yaponii.html",
-          "title": "Российские конькобежки выиграли командную гонку на этапе Кубка мира в Японии"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261122/konki-2133222708.html",
-          "title": "Российские конькобежцы выиграли командную гонку на этапе КМ в Японии"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/speed-skating/news/konkobezhnyy-sport-rezultaty-komandnyh-gonok-u-muzhchin-i-zhenschin-na-etape-kubka-mira-v-obihiro-22-noyabrya-2026-2477556/",
-          "title": "Российские конькобежцы выиграли две командные гонки на этапе Кубка мира в Японии"
-        }
-      ]
-    },
-    {
-      "key": "4ef95028e8",
-      "title": "Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title",
-      "summary": "Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title The Star",
+      "key": "866cfbe053",
+      "title": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young",
+      "summary": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young Malay Mail",
       "lang": "en",
       "sport": "olympic",
-      "outlets": 4,
+      "outlets": 7,
       "growth": 0,
-      "heat": 10.73,
-      "published": "2026-11-22T08:38:00+00:00",
+      "heat": 16.44,
+      "published": "2026-11-22T11:25:05+00:00",
       "refs": [
+        {
+          "source": "Malay Mail",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZzd6SEFTV1lBLWhVZFR2Ml9kaDZXRHE1clM0OEFpcUl6QU9aTjdGdHdObTRPNWRsc3JscTR6VGwyZmZYWldrTWZsbllFRlhVOVpSTWF3ZkdHNTJfOHlHaXJFV05leDVPYXk1d1ZlVzYxTEM1YXg1Y0tGZWJPdXlPUlo5NzJoMUp3SnJTQ1gzTmNqU29LWC0xQzZaaUtablJTOG5pMEVKbW1Wc01FbzFBbDRWVi1DNUpXRlZwVE03dFJjNEdPUEZ2UFFxei1tbVJsOFJiV0dkWEp3aGlQdHk3UnVMVWRDdHM0T3hv0gHwAUFVX3lxTE1rWlAtTkJQWWo5Nkg2MTkzM1YxSHpKby1uTWJ2aEZaSHdVdktsTGlnT2V1T0cxbFpmdEFDRW15ZWVRYmFSeDlHbmNteFNWWTNiWFBqRUtQRUxiVzJOeXRrbTI4TUxxQWktTEFaSDNlQV95VWpLVFpYQU1WbUc4bnZITXhxOUZlVFJfRDd2U3VIR0Y0b2dtSUZpMmsyQWZyN1ZJSGlRQXNWZnBFemtzbzR0SnhHeU5XczU4ekFEYnNXTkxJZE44VWJGX0JjYWQ0Q0VaSUNJVk1sX2RwSWtvcHFBZ0RUVXhnNTlBVTJGV2xoRQ?oc=5",
+          "title": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young"
+        },
+        {
+          "source": "Malaysia Sun",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTndkenAzaGhxZ0NyUzlvSWdrMktWUW5UNTF2M0phcDdBaFExNVlpTElTVUdXUVhuYjZxUnR3aXhWbG1WNlZMbEZ4NGNpb1N3QVJtb3cyVDRCYlJSWGhodW0xaTE1clVmRk1BdXEtTkFwVG8wREJ2OGt0LU04MXE5NDN6NE1wdDZGS1F5NmlCTHhmNHA0RlZmd0xfZnExUQ?oc=5",
+          "title": "China's Wang Zhiyi retains badminton Hong Kong Open title"
+        },
+        {
+          "source": "The Sun Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlZjRkdaOC0wQW9IX1RZVUhPNWJDdmZvZnhsdk1ISll1b0JnRzVKWEpwMjliX2cxeXItbEwzXzVGYmJvSVdscTdJN3VIaE50VUNydk1XOERnZVZGcWhyS3dMVGR3VHU3VmlfLU53cnBQSW1GQXIwdHBHV3ZIcjlVMTZubmdaZDIwa09hLXdIWUJKa2VEYUt1MlhudHpORUxpeC1yTQ?oc=5",
+          "title": "Pearly-Thinaah seal double joy for Malaysia at Hong Kong Open 2026"
+        },
+        {
+          "source": "NST Online",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOURTVXVrdkxST1RNR2QyekdnLXRCclBtMzFDdkgtZlpNcHN4bWN3UXVHWmltUEtJc2FXeXpWbHpyTWJtNkpQWWc3RmRmMUZsWDJtQ1Bic19wSFl5ZGF5X2VOcTd0ajJfekxDZUczaGJRVnFKMFNfWjhLZlUzOWNtS1BnRU1yUXA2MkNMZ2VqellINzRGT1F1OWl3azZ4VV8wVmFtZGxxa2ZfcXdyN25UMzQ4TdIBuAFBVV95cUxPdGZnZFRzYzN0dUk2cXExYUltbWI3cE9BNjBJaVNjYTlZTG5pYTJzbWhvUkI3WVJtVnhFc0lvTE9lRzhjejJtMENjcEJDb2ZibEVtZXJOaWxMU2VIUmcybGVQX0RNUXQwMVhQYjZHRDRiemtRTF9tUS0zajNmZUlnanBpdWk1akNXanhJMzlTRzRIdnkxbGNEdHVsTWxkNWdGTE5LWDN0b3MtcFNGMTFXd0lLU2NhbmhB?oc=5",
+          "title": "Pearly-Thinaah complete Hong Kong double delight for Malaysia"
+        },
         {
           "source": "The Star",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhVRDVNQURROGVoNGNjdzZTUER6Z2dEdWg5Y2NiM0oxOGFRMmltbFRTaWlxSzBnb3BQYU9BbktOem92ZU5nT0lGVENkMXVjX21aeUd2WndyU0ZiTG5pU01HNVQxTHV4M2FrSllGR05MaEt4UWkzOGNvY1ZFLUF4RUotYmZPbUFaMEFhZzNFMWMwV0hpSjhDeXprcjJIQ1hBcENWOVhnbEUtMmJDMlExc1NQRWVFUVF1bmp6cjZuV3V4LThUbjRJdHVJWjg4WXptMW9XQ1ZQcWtpZw?oc=5",
           "title": "Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title"
         },
         {
-          "source": "Malay Mail",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTY1c0daZ1VPUzB4OGFTOXBJYkRnQkRmQWpnZHVtQWhFN1A4RzBvVGN6WExZUE16dHk4N2UxdGVrQTBUdXdUY1cteEFJUTNtemlld0MyMDR4Z0hvZmt1M0RiUGtaZHdLSHV3TWlab1JWMURpV0xicXpPRF9sekNlaG9rTzh5ZmR0OVZMUElwVHlWdVl1bDZ4eHh5Q1k4Yjg3dWp0dWhxTnMyTmozVkFsdlFxV3dNQ1YzbTAxUFJkZmxiMnZmZG1Dc0lsaElyQk54dG5fT19mOHVlLWdDMHVOaTAyYkptdUg2bEx1SENBX0_SAfYBQVVfeXFMTlFBMEh0VnFXWHJBYUVyc2E3LVpoMDlLX0ZHTi12UWNDb1JVd21hSWx4VXFoX3VxT1VmS1RjMXdmMnNFNmRfNjVreDVaWjJUalhyR1Q0Um5RN2ZwaG0wNWVCLVBSdU5aTTJPSjRQdXFFTHdkM0pJdzlqbHhpXzJNaUhpYUdKSFhoMVNTLTZCTVo4Um13ZnY2Nl9uZm80M01XVzlaZUNGT1A5alFaQmw3NjEzTkZuOUdjaUU5OGdzNmI0SGRlbHM4RVAtOFNJaHg1MVNjTHg1ZmNTcHlhQVZreko4T0tIaFcxMFJYT2xfUGNFNGpQSUJn?oc=5",
-          "title": "Malaysia’s Man Wei Chong-Tee Kai Wun stun world No. 6 Indian pair to reach Hong Kong Open badminton final"
-        },
-        {
-          "source": "NST Online",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUl1SnBSTkRfZ3UzQmZYT2FXcEoyTS1mM3NwWmFDc3RaUkN5SnloeW5LOXpPd1BoTS12TW53Ul9mek14Qi1JLUw1cjZCNGYwNlBXWG9zWGtmV1k0eEl4OXI5SEZHdm5kUUNqcDJVc2h6TVFFbWlhaFJYbnd0NnNYRTRPQlpVLU53XzVfRVhxOGtTc2FKWFhpMkdYTdIBoAFBVV95cUxPQlZuM0V1cWFtcnZjODhwUV9FTjd6bUVMV1hBbFVUeXc3Nk0tSF8xSEJxTWJ4enItV1JEUktWSTZiQ0UyWXRrZlQ4dzhkQnhmRFZ2OVF1VmRGZnlkZHE5bUpPbThRWl9FNUpxLXhSYV8zNGI0OXVicGxGbFJ5T25ObGRHVFRsRHBySjhMeVYwUk41WG5YVnZmcGJ2a0JFVjNK?oc=5",
-          "title": "New scoring and more days for Malaysia Open"
+          "source": "Tempo.co English",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEo1UTJNcVhvanoxaTlTNzh6SXRvUVExSW9zbjBFMDZBWFc5RFZRNl9PcjhDNTVNVkxZZm43VGtLX3p1X2JqWDFaX2pYOGZkbWtrNmtjT05kYXI3RFpBQ3NyR3NfUDZtalNEbEppXzJDLU1Qc21IeHRBOVIwN2xMME5MaWZjLUlhTmswaTg2R1dWaEpLVlJqaUt5N0JEYm1iU2haVG8ybzE?oc=5",
+          "title": "Indonesia's Leo/Daniel Fall to Malaysian Pair in Hong Kong Open 2026 Final"
         },
         {
           "source": "South China Morning Post",
@@ -210,280 +154,80 @@
           "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong"
         }
       ]
-    }
-  ],
-  "known": {
-    "f6288c58eb": {
-      "key": "f6288c58eb",
-      "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.91,
-      "published": "2026-11-18T02:45:23+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261118/khokkey-2132248225.html",
-          "title": "Две передачи Мичкова помогли \"Филадельфии\" обыграть \"Баффало\""
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/",
-          "title": "«Филадельфия» обыграла «Баффало», Мичков сделал две голевые передачи"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6703842-filadelfiya-flajerz-baffalo-sejbrz-rezultat-matcha-18-noyabrya-2026-schet-4-3-regulyarnyj-chempionat-nhl-2026-2027.html",
-          "title": "Два ассиста Мичкова помогли «Филадельфии» обыграть «Баффало»"
-        }
-      ]
     },
-    "83cc71e059": {
-      "key": "83cc71e059",
-      "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
-      "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according",
+    {
+      "key": "cd00634524",
+      "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win",
+      "summary": "Red Bull driver delighted rival crashed out of grand prix Leclerc and Hamilton relationship is ‘unmanageable’ Max Verstappen escalated his feud with George Russell after a stunning victory at the Las Vegas Grand Prix , stating the British driver was barely worth consideration because he was “so far below my level”. The Dutchman competed with Russell for much of the race in Nevada but it was the Re",
       "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 1,
-      "heat": 17.14,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-17T22:43:15+00:00",
+      "sport": "motorsport",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.36,
+      "published": "2026-11-22T11:49:11+00:00",
       "refs": [
         {
           "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
-          "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest"
+          "link": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one",
+          "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win"
         },
         {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2N5VHRHT18yaXQ1QV9FSGRIMVhVY3dVZzBDT3JWVHVCVFd2VjJuQW9vcWVqaXQybGNkUXpJRGFxRXhYLWRwdklLWXJTZEpTakZZbUF6aVNnZXhJUmlmaEw3bGxWWXpCakpVd3QwQzQwNDhFMnBFazRWQzhoWFQ5SVR3NzIyWHFjZjVUdVZ3YVo1NTBEMFFCemRnWUN0LVAyekRSMzFLZi1uVDTSAbABQVVfeXFMUEthSS1mMmoxb1ZhTFJwNGlpc1hTOFpFYzA5anhmcVVZcFVfM3AybFFPcjRRRWU4WDlVMGU3Q3FLNnNpMUE3Q3pyS25OQTRFMVMtSlh1VzRyMjRiQWFMZjdJV3ZvcEJXSHlxbFhWa2tMa0lJOExNeUJ1cU5PME1vWXozNjFFb1ZoRU9qb0ttMlBRTlBlbFEwc3V1Tmd3aldJaFpoblM4YV9GN3RjbnBFWlY?oc=5",
-          "title": "Former three-division boxing champion Jorge Linares detained by ICE"
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/f1/news/12040/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
+          "title": "'He's so far below my level' - Verstappen taunts Russell over Las Vegas GP error"
         },
         {
-          "source": "Metro.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2ZoRjhJcVpzRjBFckt1UHYwSmRidnJ2WHhNMnltZUEyYVZqXzladEl3TVRvZzJ4dWQ5S3F4WkVpbXhLZnR2amtDMEpiZ1l0Vkl0ampfSHFNdnNGMGNfQVdLRlh6WEtQZW9xdjZPMjZhbWNERURjb0tqTEVzVkJReV8zWWtNRmhIUGJydmVXSDNtdGtLRklBN0E3ZDU2djNVbTBZb2ZWVlI2Z9IBrwFBVV95cUxPbVRiaUJDQ2JpNjctZm4zcVhlMzhKMVl1MmNJU3ppZE54OUhual9GYWVwbXE0d3RZVTFjRm01TDZDbUtTc0EtQXhjY0lTcm1wcmt3NHBsa1E0RHdXdDRvY08yZTVHUVVKdzF6d1NFZk9aN2NvV0pCNWRnTVBGRHJDUlNac244ZFRIUVM5dThTLXl4TUhTMEI2ZlRtWVMtQjFXd1gtMTJnaDBSbXphYkQw?oc=5",
-          "title": "'This is crazy' - former world champion boxer Jorge Linares arrested by ICE"
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+          "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNURRbzkzVnhpOG1ELW5QR3hfbWJTekxrRlZsTDZVYUxXTVdWbGJZZGdOaXI1TDRVSWFlUHlJWTdEemZ5dEcwdWVSQ3dYZ3VUYjhfR21YZGtLWlpNeXA4Q3lqcTJJLS03QVBMOG9hSWwwc09GRDg1SURWTEhhVHRsejVyaXUzdnNWTERBdDFB?oc=5",
-          "title": "Former world champion boxer Jorge Linares detained by ICE"
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjZYYjNrVkxEVm5IdUdvVFZsVEEtZDEtcS1tcXdBN1N3U0l0VjFLbTNvQnhfSlhySVpGMGI3Mmg2WkRhUDdiajRsUTNIMnhZSW5QZ3R0ejhjUC0ydkRHYW9Hek9oLTBnSjVCc2xHQW82cjJLOGxfMXY1WUFRdHdQbDFYM0dqVDZET3ZVOEFBRGNzWVZ2NF9GdkpRY2dqUUxvZXVYX2toZw?oc=5",
+          "title": "Max Verstappen mocks George Russell in brutal outburst: 'So far below my level'"
         },
         {
-          "source": "The Sun",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjFXMDU1a0dERy12bEVPYV9rOU93RWE3eF83UWpieEFwTlIzR3ZvYldlQ1VCQmVWQUZVNkRiLXFMalRKMExsZTh0OTI4TkgydE81cmJDQTY1QmpxYjJwZzlPVDJtSU94SWdwZVotQ2kzVkpnQldzYlc1QWhQZVV2Yy03OVU4Szg0WWc?oc=5",
-          "title": "Former WBA world champion boxer Jorge Linares is arrested by ICE and held in Texas"
-        },
-        {
-          "source": "MiddleEasy",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDFueGNweGo4QWtWaFNfV05jc3pGc1N2LTZEd2ZRdWFTaFN1cDltWTZRVjk4Ymk0dkNsY2xMQ1d5VVNuZ3RRakc0VkZBSU4yYWMyOGp6YkV4TVA5a19HZkhPUGd6MG5sQ0lHQ0Q1QWlGdHBoM1JxRDRGSi13U2NXcWY5VjgtTVdqcWlv?oc=5",
-          "title": "WBA President Confirms Jorge Linares Is In ICE Custody"
+          "source": "Motorsport.com",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXpLVFp3QzlQXzZuWFRNcWVmd3JyX2pma1lPemFJTHdqQVF4WWpSc24zNEc0UnNMWUNlemRMUnZjeVhZcTB5QTR5WFNlZG1aRl9EbVpWaUs5QkNIRjZQMkJPSFM5ajNkcWlzUmc0OXR6N19IdmtZNlU1SUZMRnZVUWI0eXZpZTVzalktQk9tYm40b3RVTGhBQTZMSzNlOEJlX1NCZC1ndndTaGdSSWVZTF94S2t4Q2JucUlRZXh1dVVxOWlqVjFwRGN2YlRrSEg4TFRDMFdQQQ?oc=5",
+          "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position"
         }
       ]
     },
-    "506937d17e": {
-      "key": "506937d17e",
-      "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces",
-      "summary": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces MMA Sucka",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.74,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T05:14:25+00:00",
-      "refs": [
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRENBNW1CRWpETTFtNG1sMGVDS211OGFPUUc1Mjc1VGNHdlQ0aktGYjllYjdKbTR1Yl9WclF1THRnR1JoVER4MjNLX0lvbGFzYWFWemhENlJfYlZVSG43SVlOeFJDdm5TX2VPZEVWQlNGT3BHLW5oc0c5WHhXN1FWZ09HaHhrYmhPTEstRnJLSUlLOUkzY0c0?oc=5",
-          "title": "Kayla Harrison’s 6-Year Bet With Henry Cejudo Resurfaces"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVdOc3pXQUUtZk8tSGFOVV9xVG44Q1BhdWIzOHNLcFR2ekJQZDQteEZxTFlJa1BQWXhZYXl2QmZmWjRZNm1wQVVXMXB4ZDZzSGZGYkFERUozWGI4emJPd1NISEk4UVdrSHE0LVRyNlRsb21TSjh4R1lSNXgySXM1QU9EZ2w3SVhTdmM5YlozRmp2RmxBRjFIZ2ZEYXg2SnFiOEQwMUowOUUzdEtrUGpnMndzTk5RTzVOOEZLTmJoSEh5bmxDOW1FQ3FKODl4VjhqTGg4SWxlRXY0dk51?oc=5",
-          "title": "Kayla Harrison admits UFC 334 win may be her final MMA fight, plans to 'do some soul-searching'"
-        },
-        {
-          "source": "Just Women's Sports",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjFWdjZZdG5mWHdFcVVBQXNIaVA2MUpSSlJURldFYnZsVFBXSFJHWlJEZHIyUGx2dmtWSEtVay1lX1NWekV4R1JVUVphczFGQnVGX3JqQ1RFaTU5V1NYQ0JyVjR2OEVnYTh5cFNfS0hmWkY2SFVVRTNEVXJseFFrVlFOdHh2ams4a2hvTm10d3pETmxCM0tJcnZGTDU?oc=5",
-          "title": "Amanda Nunes Accepts Kayla Harrison’s Rematch Challenge After UFC 334 Loss"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
-          "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNTcFZrLTB4eGxaUC0zVTlkWTFmc1haZXczdjRvbVFWa1FIQk5UZF9hMmxrTTdfRUpYNXM3S250alFWallEUDZGSnJrMTJQTTdyZC15cWZBcm5uY2hfakp5YlJNSkdSQy1FZ3BPYmhwak52Ynd0ZkRnZ2I4T2hWVmVZOGc3ZEJxUHhrR1FvcWdYSE85azNXM1Myd1VCcHp3TjZxcHRuWm1lcGUwYXhGaUlTVllXZll2dVE?oc=5",
-          "title": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch"
-        }
-      ]
-    },
-    "e14554227d": {
-      "key": "e14554227d",
-      "title": "UFC Star Tommy McMillen Describes Drug Overdose",
-      "summary": "UFC Star Tommy McMillen Describes Drug Overdose Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.95,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T04:19:33+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzBiOEVlOTItUHpDRHVUSDFrOEdHc21JbTZKaExOU1E0Z3FyaWdoTGx0d18ydmVGRng3NXpSaC0wck1tMmpZeGhYVG5BUUl0UUs3Rk9oSEVwZkhrT3FFY05fQ3VueG1FdEZXWGQ0T3k2ZzcyeFk2WW45U3BIakc2cldOWElNaEpMMmc?oc=5",
-          "title": "UFC Star Tommy McMillen Describes Drug Overdose"
-        },
-        {
-          "source": "CBS Sports",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWR1M0wxZERNTkx6R3NVQ01ITVpKWDM4MlIwc0s1U2hNbjNzU01ad2pPT3R4Y2lpR1B3ZFVCWEVvc1hxRGc5OGMxOU5wN3pqaENVMU9MYmVETVpOaDdZWXM5UUlaTkQxZE5aRmNwUFpKMFBteG1yRjVUbTVEcjNOWm1haXd3cm52NE8yMVA4MHNYeXRiT3pISQ?oc=5",
-          "title": "UFC star Tommy McMillen recounts hospitalization after suspected drug overdose: 'It's a wake up call'"
-        },
-        {
-          "source": "BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wT3ZCMEVwT3VFWm9rUzVkRVp6aTFVay1tcWN2TnFEeFVRYU9EcnhWMVZrd0dqUnRFclZZUHJtNWpLeVhCeTJFWlNUbk1tZGdUb3E3WnQ2NzhfS28?oc=5",
-          "title": "Tommy McMillen: The UFC's \\$100,000-a-Month Gambler Who Nearly Died and Won't Fully Stop Partying"
-        }
-      ]
-    },
-    "201e3813df": {
-      "key": "201e3813df",
-      "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'",
-      "summary": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw' MMA Sucka",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.28,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T08:26:23+00:00",
-      "refs": [
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTk1WFdnaEFKRjRZQ080Q2owNjktMDNQX21PejJmY3hBcUVEdl9oSUpfSmJiY2JTZXdrZk9XWHp4RVdfLUFadkQxYWVVZExFTmtfN1FUODVZSFBQeGZ6dFpyYjNWY0g4Zl9aUlF4dHJCTW16NlZ4TldtM3FmV2N6WXBpRTJzS0NoWG5JVld0Q0s?oc=5",
-          "title": "Fans React To Conor McGregor Calling Josh Hokit ‘Biggest Draw'"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1F4NmdQa2ZMR28zdDJ6UlBtRVhMUzJDYnloS3lNd3BZQkJRNVdXUGdZU1FhN2VaT2ZEQkNLVXBYbk5OZ0hVdWZ4eV9RV09vSndxa2dQRkN6aEJwaHdVLVluLXA4d0h5OHdLZFFSVWtQTnQ1eGtTNDdYbTJvU3JLZ19fX28yLVMxTTlIZU9iMTROXzQySDdtWHpfeU52dFJkcUlUbk9HRTPSAa4BQVVfeXFMT0g0c3R6OEtBM253YkpIQmhIZVFubzM3aUNJQWY4elJCdnN3Z01qT3g4eGtNQVl4NWV3dDNVQlBrNnU0a1N6WUhmVjJzRjlSNDdNRFVTdVhOV19Pd2c4UlhMWTNscnJJUkxCMXdOV0MwanBhTVN1N0dQNUt0MVNRa0hoOUdSbkZ6aGQ0YTZFeVlFUXpFSEsyUzBjYTViRXEwbVpvUTNpVC1iUU9PUWp3?oc=5",
-          "title": "Conor McGregor names Josh Hokit the UFC's ‘biggest draw’ behind him"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTMzOXU1aDNKbk8wSmVCZGI0bkpUd3FhcHBOenJQUHRXTlY0cGtjcktrMXR6VExMVjFBS0pKQVFmbnpxclBJVHYzaVVtc0o1TEtWMHlYT3ItQUpZMl81THJ4U0toZXlRN09lNzZSZnRQVVBWeWJZc0RKMjhDLXZyNG9NUWUtR29WTFpsUQ?oc=5",
-          "title": "Conor McGregor Praises ‘Biggest Draw’ Josh Hokit After UFC 334"
-        }
-      ]
-    },
-    "3188c895a4": {
-      "key": "3188c895a4",
-      "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию",
-      "summary": "«Спартак» и «Металлург» совершили обмен, сообщила пресс-служба московского клуба.",
+    {
+      "key": "7e025ce33b",
+      "title": "\"Реал Сосьедад\" уступил \"Расингу\" в чемпионате Испании по футболу",
+      "summary": "",
       "lang": "ru",
-      "sport": "hockey",
-      "outlets": 3,
+      "sport": "football",
+      "outlets": 4,
       "growth": 0,
-      "heat": 9.12,
-      "published": "2026-11-18T08:43:00+00:00",
+      "heat": 10.89,
+      "published": "2026-11-22T17:18:00+00:00",
       "refs": [
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/khl/news/spartak-obmenyal-malceva-i-prava-na-morozova-v-metallurg-na-ishakova-nechaeva-i-kompensaciyu-2476187/",
-          "title": "«Спартак» обменял Мальцева и права на Морозова в «Металлург» на Исхакова, Нечаева и компенсацию"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117440451-spartak-obmenyal-morozova-i-malczeva-v-metallurg-vzamen-klub-poluchil-.html",
-          "title": "«Спартак» объявил об обмене Морозова и Мальцева в «Металлург». Взамен клуб получил Исхакова, Нечаева, компенсацию и права на Комарова"
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261122/futbol-2133285524.html",
+          "title": "\"Реал Сосьедад\" уступил \"Расингу\" в чемпионате Испании по футболу"
         },
         {
           "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6703168-spartak-obmenyal-napadayuschih-morozova-i-malceva-v-metallurg.html",
-          "title": "«Спартак» обменял нападающих Морозова и Мальцева в «Металлург»"
+          "link": "https://www.championat.com/football/news-6710012-rasing-real-sosedad-rezultat-matcha-22-noyabrya-2026-schet-3-2-13-j-tur-la-ligi-2026-2027.html",
+          "title": "«Реал Сосьедад» уступил «Расингу» в матче 13-го тура Ла Лиги, Захарян вышел на 78-й минуте"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/spain/news/rasing-real-sosedad-rezultat-matcha-22-noyabrya-2026-2477739/",
+          "title": "«Реал Сосьедад» уступил «Расингу», Захарян вышел на замену в концовке"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117442262-chempionat-ispanii-atletik-protiv-espanola-real-primet-seltu-v-subbotu.html",
+          "title": "Чемпионат Испании. «Барселона» сыграла 3:2 с «Вильярреалом», «Сосьедад» Захаряна уступил «Расингу», «Атлетико» против «Хетафе»"
         }
       ]
-    },
-    "344bf0755d": {
-      "key": "344bf0755d",
-      "title": "Kayla Harrison Unhappy With Her Performance at UFC 334",
-      "summary": "Kayla Harrison Unhappy With Her Performance at UFC 334 MMA Sucka",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.68,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T08:26:21+00:00",
-      "refs": [
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkdVTGJKZG5LckNGMkQ0cXEwaUd5WGhLamZiRkJRbU5vdEhmUlc1MFRqczQxdUZuZ1lpUjMtRnVNQ25Kbm9FSVYxa0hJdm1Gc2N1N2VHU3ZLcGpkakhEY2tOTGFHWW9KZG1kZWFubW1seTZyLWhIUFd0NVpuRlpOOVRhc1VMTGxuVmU2ZW0xUmh2OVNVdXc?oc=5",
-          "title": "Kayla Harrison Unhappy With Her Performance at UFC 334"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeVdOc3pXQUUtZk8tSGFOVV9xVG44Q1BhdWIzOHNLcFR2ekJQZDQteEZxTFlJa1BQWXhZYXl2QmZmWjRZNm1wQVVXMXB4ZDZzSGZGYkFERUozWGI4emJPd1NISEk4UVdrSHE0LVRyNlRsb21TSjh4R1lSNXgySXM1QU9EZ2w3SVhTdmM5YlozRmp2RmxBRjFIZ2ZEYXg2SnFiOEQwMUowOUUzdEtrUGpnMndzTk5RTzVOOEZLTmJoSEh5bmxDOW1FQ3FKODl4VjhqTGg4SWxlRXY0dk51?oc=5",
-          "title": "Kayla Harrison admits UFC 334 win may be her final MMA fight, plans to 'do some soul-searching'"
-        },
-        {
-          "source": "Just Women's Sports",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYjFWdjZZdG5mWHdFcVVBQXNIaVA2MUpSSlJURldFYnZsVFBXSFJHWlJEZHIyUGx2dmtWSEtVay1lX1NWekV4R1JVUVphczFGQnVGX3JqQ1RFaTU5V1NYQ0JyVjR2OEVnYTh5cFNfS0hmWkY2SFVVRTNEVXJseFFrVlFOdHh2ams4a2hvTm10d3pETmxCM0tJcnZGTDU?oc=5",
-          "title": "Amanda Nunes Accepts Kayla Harrison’s Rematch Challenge After UFC 334 Loss"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/rankings/521758/mma-pound-for-pound-rankings-kayla-harrison-conquers-amanda-nunes-closes-in-on-valentina-shevchenko",
-          "title": "MMA Pound-for-Pound Rankings: Kayla Harrison conquers Amanda Nunes, closes in on Valentina Shevchenko"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejNTcFZrLTB4eGxaUC0zVTlkWTFmc1haZXczdjRvbVFWa1FIQk5UZF9hMmxrTTdfRUpYNXM3S250alFWallEUDZGSnJrMTJQTTdyZC15cWZBcm5uY2hfakp5YlJNSkdSQy1FZ3BPYmhwak52Ynd0ZkRnZ2I4T2hWVmVZOGc3ZEJxUHhrR1FvcWdYSE85azNXM1Myd1VCcHp3TjZxcHRuWm1lcGUwYXhGaUlTVllXZll2dVE?oc=5",
-          "title": "UFC Legend Amanda Nunes Offers Surprise Condition for Possible Kayla Harrison Rematch"
-        }
-      ]
-    },
-    "383d7f953c": {
-      "key": "383d7f953c",
-      "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы",
-      "summary": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы Progorod33",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.22,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-18T07:56:19+00:00",
-      "refs": [
-        {
-          "source": "Progorod33",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oUHJkWS1fa1lNWjNKR19XMlh5cW1GRDlodHlyNHg0OVZmTlJDcEJ5ZktCZmVQLWNDRjlVdkFWZWhFakxQcGwyag?oc=5",
-          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве через сим-боксы"
-        },
-        {
-          "source": "http://vladimirnews.ru/",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS25WZENSTTBUS0dEVkFndDRtRHBxdnRWY0ljQXV4T0d6LUpwa01WTXd4UGpqY2FOUkgyYUVKbzdFeEZwa1R1QVBnbHRndWFL?oc=5",
-          "title": "Жительниц Подмосковья будут судить во Владимире за мошенничество с сим-боксами"
-        },
-        {
-          "source": "vedom.ru",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHZXSHRRNTZGZlhwVmVWei0xMnFlemlFSlg2YmpVTm9OV1BKdElaNmtmX05rbC1jcGpTQ2VTTlRyY1lPQllFcFFmY3RqV2dPYWxFU0hLNXEtVGhZWHI0MGtjSld1MGFsVkE5VEZ3RzhLSzh4bFprb1RzNGhKNWh5RHA1cU1WSEhkR2c?oc=5",
-          "title": "Во Владимире будут судить двух женщин по делу о мошенничестве с сим-боксами"
-        }
-      ]
-    },
+    }
+  ],
+  "known": {
     "b44e8d80ec": {
       "key": "b44e8d80ec",
       "title": "\"There was a Physical Difference\" - Curtis Blaydes Lays Out Why Josh Hokit Deserved the Win at UFC 334",
@@ -3043,9 +2787,9 @@
       "summary": "Undisputed Price wants ‘big fights’ Jamaica Gleaner",
       "lang": "en",
       "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.98,
+      "outlets": 8,
+      "growth": 2,
+      "heat": 22.1,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-22T06:10:57+00:00",
@@ -3066,19 +2810,29 @@
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
-          "source": "Eagle-Tribune",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTEVpWGNvN3JORUxvZWJoVVRIV1puR1ExWjYtMHJMY2ZQYXhseXVwMzc3b2FOaGdrUFNTaHZxbkxVLWVkYVZJY0FmcTh6cnc5LWFvcDdPNzVpcldjUXpodzNwQjZxeUdURGhpbTFHdEV3LU1CODhlWElpRGNEQUVRX0NvZmZmWlh5MWNHLWVwQTZJc1k2U3lCeU5qeWFIY2Z4OV9WaXZ2ZlBla19lMVV1SURxT2FqU3g5R00yWVdDbll2dFJXTWR0SEFUemVJdnJrbTA4QzVBYk5VdmZZYkt4bEhZQ0lNNjl4bDhfQmtMdzNhZDJULWxQcWsyVkp5eDF3NU9FSFRB?oc=5",
+          "source": "Herald Bulletin",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYlVDTml5QVQ2Zmc4dmNRTmdWcU53Vmk2UnVuZEp3cnU0cHBQVzhrOC1tbVp3X3EtRDl0ZGstWWtybS16Q1o3Q0Z5YUZ3UkJqb090R3RLWjJmSk9tRGY2NU44clQ2ejFqYl9HNWhqWUdTWERVYkt5Y0Q2aGpmbl85eHpTYjltTUVXVGotMDd3WGFPa0xWZDg2X1JBSHZnNE1PV2p3UTBYVFlJNGFNV0pUN2hpM01mR3JqOGU2YnZQbnNTUDA0STVHNEF2UUp3LUZhVklfWHNQeXhxd3UzQTJfUEV6a2RPeFh5V1ZkYlgzeHppUHdWVkp5VTFTZUQxbFB0MXZuVGZaa3BncXU4R29vUjEtRFNjTkRscHViWGhURW81T1BvTUNN?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
-          "source": "Herald Bulletin",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYlVDTml5QVQ2Zmc4dmNRTmdWcU53Vmk2UnVuZEp3cnU0cHBQVzhrOC1tbVp3X3EtRDl0ZGstWWtybS16Q1o3Q0Z5YUZ3UkJqb090R3RLWjJmSk9tRGY2NU44clQ2ejFqYl9HNWhqWUdTWERVYkt5Y0Q2aGpmbl85eHpTYjltTUVXVGotMDd3WGFPa0xWZDg2X1JBSHZnNE1PV2p3UTBYVFlJNGFNV0pUN2hpM01mR3JqOGU2YnZQbnNTUDA0STVHNEF2UUp3LUZhVklfWHNQeXhxd3UzQTJfUEV6a2RPeFh5V1ZkYlgzeHppUHdWVkp5VTFTZUQxbFB0MXZuVGZaa3BncXU4R29vUjEtRFNjTkRscHViWGhURW81T1BvTUNN?oc=5",
+          "source": "Eagle-Tribune",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTEVpWGNvN3JORUxvZWJoVVRIV1puR1ExWjYtMHJMY2ZQYXhseXVwMzc3b2FOaGdrUFNTaHZxbkxVLWVkYVZJY0FmcTh6cnc5LWFvcDdPNzVpcldjUXpodzNwQjZxeUdURGhpbTFHdEV3LU1CODhlWElpRGNEQUVRX0NvZmZmWlh5MWNHLWVwQTZJc1k2U3lCeU5qeWFIY2Z4OV9WaXZ2ZlBla19lMVV1SURxT2FqU3g5R00yWVdDbll2dFJXTWR0SEFUemVJdnJrbTA4QzVBYk5VdmZZYkt4bEhZQ0lNNjl4bDhfQmtMdzNhZDJULWxQcWsyVkp5eDF3NU9FSFRB?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
           "source": "couriernews.com",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSDR0UXV6RDlvdHZWNXJ0M3pRNzd6aVRJd0h6RlFSUnQyLTlrSVdsemtKUWRqY2oxTFE1ZlBPLXpvdmtwWThVUnNyNGdJeTB6RS1SWnJHUUpxVXk1am9UY1FVSi1Td1dDYlBORzdhMGI5QnhFSmloMEx1NF8zSEl1YkhscHBjUE5pcE9tSlBCU0xONkc3MDY2UDdNeGF5ZExVVTB1TW1GSXdjUmk3N2xXNVo2bWVBaFgwMzB0UXhZc296QW5SUjVoU1ZCbFVXVm91bXppY0JiS0RHbFhiX1AtYVJmc1RJQmNqZW9oNF9yYzVtUFdEYUxPSVN2cWRWOTJ2SmdUMHVfN0VRUlY1NFE?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
+        },
+        {
+          "source": "https://streamlinefeed.co.ke/",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEJGVWt6TUhhSWJjWVF6cTdPMlZta0hSaVRnLWpTVHljc0xSa2FjWGJEcEM0Vk9sbkZaaUxIeE9Jb1EyMDVTVUFmZVNhLXFsRTQ2aThXSlVsckM1RGtSTVY0LXRhMGJnU2FueS1qRlMwa2x5MVJjN2dBTjhXSWJFLTdrSWtod055MjUzME43NF9IeF92ZVRR?oc=5",
+          "title": "Lauren Price Wins Undisputed Welterweight Crown in Cardiff"
+        },
+        {
+          "source": "Sport News Africa",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMFN6ZWppdUFPUVZ3U3NVMFVOa2pUNTcxX3FkX2RNajNidWVfT1NhM0xTVFplZVROaGNienJQRWJxcGtuY3J2bGIwTWV2dGpOeXRoQlFQVDZLcDF6LVh5T1QxRkUtTmVuTHJ6MllqRFg1Z2l1aFpGcFlscERqdVZYbWt5aVdUUTlQVV9ZV25LMWEtQzB3X21oa3BFU3RnQQ?oc=5",
+          "title": "Boxing: Lauren Price crowned undisputed welterweight champion"
         }
       ]
     },
@@ -3124,6 +2878,368 @@
           "source": "Meta MMA",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZG4tYmdmN29ZUGVMWXpacjJMcENnLW9RNHRwUWlFR1VBeGdtLXVveTJWZDc3aTBrYTZSUW16TmlVOU1oQTBlNmxYTVJfNzhrYlJ3Q05uV3dpV3lUcjl3R0swOXRsU0RsSzhBam9FVHNfeFJ2ejcxYktwUFllYWRtU0p2b1lZelF5andoeDA0TEczU09kYVJRbDFXcUNJenNzU0RLag?oc=5",
           "title": "Хукер выиграл у Ортеги на турнире UFC Fight Night 294 в Дохе"
+        }
+      ]
+    },
+    "03af1ffd24": {
+      "key": "03af1ffd24",
+      "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar",
+      "summary": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar Field Level Media",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 12,
+      "growth": 0,
+      "heat": 26.39,
+      "published": "2026-11-22T02:05:43+00:00",
+      "refs": [
+        {
+          "source": "Field Level Media",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkRkRE0zZHdoejd4amYzd0wxTUFrOXFWZFBHUFNKVXJMWHlBWWtaLUNvd01XTFFPdDJOOEhxV21VUnN1TC1SNVVnV0x1Rk1KLW5INTJGYTU5emdZZ1U4aTdxb3RNMElHSVFPbjVCSWxHMXR2eDJTczBSTkRSMWQ2WEpxNVN0Y1FFTkQ1RFJCZW5Uc0Y2QjRBMjVxaDJHYXhnYnZpc2x3?oc=5",
+          "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDdfRE91NDRtbWhDV09YX2hhYzA2WXliMDdDR290cTBkbkFUcEVsUXJDSnM4bGdFQkNEd0FlSjJWSTkxTlFYQkNON1NBM095dmM2S3l5VjZGaW5vZ0NEaGs5NGg2UWxlODNoeDNZVUpDcEFSS0NoeV9aTjM2NnAzek0teTBMUTY2cVJpUk5ja3o0djRIaXROYi1HS1pVVmxSNTJsQmJPZWtmcmxnSUNoOTR2NHNlT3l0WDQ4eUJaR3Rqa3BwTU84cQ?oc=5",
+          "title": "UFC Qatar results: Navajo Stirling starches Jiri Prochazka in Round 2"
+        },
+        {
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXR0Wkpyam9VSDQ5cUVmOVQ0RFNaT1lPTDdvS1kwQVFzdThzd0dydUVlUjdRc2w5bUNlVHdXeFkwVzlGOUNLR19MRXRvSkxySEFCQ19SaVNDdnBRNWtsTXJqNmx0MnUwcUFHUUNDRUNKY3ptYk45TG5nbHZRTy1ndmVZVEFjU2tMWGVkeFdMall2Ui0zQnNFZmhRLTB6RXdHWWc?oc=5",
+          "title": "Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap Fight Night"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFlpcVBlSzNzMjRRNl93U19lS2tXTDRNUEJTSzhqZFJfT2FmcUxWX2dDTmtZWllOc2hSQ083eXZxWkRBYURjbDBKU2ViQkluLWxydmZVakhMZWcxempCNGxSSDkzY1BvZ1pKX3gxN3puNGk3SVJRQ0kzSVhsV01NYk1yQlJXSzNEb3dlT0FwZlA4aTB0YVJuMldUNlVkVzBKalFDZ0JLUF9WOFpob0RiUTFHbDNKRUxGV3U4OG43ZnRwZ0xvMkdDU2daM1VQY09jbTBNSjRWV0xsYmZzclpWazZVUmk?oc=5",
+          "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5YmxsRUVabUowbFQ1QW4xSElyUmk3bXdoWEJJTGJCaTJ6d0NDRERQZHU2ZURiZ2QxZmdldlBQbXBTaGg0eERB?oc=5",
+          "title": "Navajo Stirling Stuns Jiri Prochazka in Round 2 | UFC Qatar"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTVrc0JfSFpJNVVuU01mbzQwU1QxTGQtZTkwSDFjVHBUaDVkWnNHVjlFRWY0WllCWEpXVDNwZFlYMTZaTnhwZklNMzI1U0k1RUlwRGZzQUY5ZUh0Um9ra1lqbm1wY25ieWViQTZiZHU4OEJPNjhzWW54RVc1UVNxMjZWNmoxLVFhZ0IyQ1lZMkFlSkVzN09HYlBHT3g0NXlXcTFWWTJRUEY3MmhvNl8zdlRSa0gtQk4zMWFmekswRG1BS180R29WZQ?oc=5",
+          "title": "Jiri Prochazka reacts to second straight knockout loss at UFC Qatar — ‘No more like this’"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHlRcGxVYmlXTUhmb00xV0xSNXdSNDY4Y2Uta2RzZTRtU0ViLUh5NVhRSFNsYWlzMUM0ZDQtVlAweTcxOHFwTlNOS1R0SGVJVDlHMlVuam10WUNMb19iQUloUm1fangzZVQwTkttOFJYeEFrbmREa1hTakUyMUxsaWtLRmpsR0ozV0hILQ?oc=5",
+          "title": "Jiri Prochazka reacts to knockout loss at UFC Qatar"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc0xKUUJzZ2p1anlyR3hQTGs4WDBJcjNBRDQzekpaNDZlOXBxSFB2SUNDUjg0YVdyc1poenRNQm8tMkktRU9sb3ZKMXc1SGtkTTFxOXoxaU9PWFdQS2pDSk5Ma1RXYnRray10aXlNdWRva3REWjJVWkE5dTNOYjJfbDZfVzlxdGU5WFkxZGpJcGNNLXBi?oc=5",
+          "title": "Joshua Van Shows Support for Potential UFC Fight Night in India"
+        }
+      ]
+    },
+    "d543398ab8": {
+      "key": "d543398ab8",
+      "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева",
+      "summary": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева airpress.kz",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 18.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T15:04:57+00:00",
+      "refs": [
+        {
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uc0d0SVFHQlBtcTJaVk1BQjJ3VkFteU9pejhFUTRDM3NlRk5kc0I2NW9ZYldtY0VTZUYtYVRReDhNeFNKVmIzSzEwQzE5QVcyTUF2anBFNHQ4SVRseER6aTBYR3F3VTZhdjVoQ3I0UzJQUE9nNWp6eUJB?oc=5",
+          "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева"
+        },
+        {
+          "source": "SuperKarate",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtYa25HaWZBeGp6X3p1MjNyVVQyWEd0dmpjelpjbDBDOFA5R3o2OFNMVzYycU02SG44ajZPVWZkZ2JzeUU0d0VXdDdwQlhpT0ZoLXlWM3NiMlpWT2xaOU9sTXo1R0ZvcXk2a1hndVJPLVUyemtzemI4LVJDTHdONGNzX0V3MEhTd3JoRm5EZHRZZlJycWZZbzc0cw?oc=5",
+          "title": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО)"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzhUckhtZlBzV0hJd21GWEZaSmJjVTE4SkxyY3JfYVA5bVRJbEFKZkZWbVQwS2xNTG55Wm9Nc3p6eHdtRk84S2lLN0ppMlRuX0d3UWJVXzFNT1V6TzB3M1gyMm8wMTJINFRPc3ZWakVvMWFEeGtYVXF2aEdnbUVJSTBMOFpGb2RFbEhDU1c2T3NKM252eS1r?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC Fight Night 294"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/irzhi-prohazka-navaho-stirling-rezultat-glavnogo-boya-ufc-fight-night-294-v-dohe-21-noyabrya-2026-2477472/",
+          "title": "Стирлинг нокаутировал Прохазку в главном бою турнира UFC в Катаре"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU09XXzVjcW5XUzhESHhKaEtPYlR6R28yaUhRMi1CS3FSN1ZCRmYyZ2NiNzBOYmU3aWFtNGswaGs2M0ZycTU1b0Jid1JXQjNxYTl5ZXBiYXlqNVVvcnB6MTJwWFpkZEJKWlFPM0dRb093aVZPMFZpQVJZUVhOa2pfR3YyOS1xQjVEZnRHWS1RT2w4RXdRd1d1cQ?oc=5",
+          "title": "UFC Катар: Навахо Стирлинг нокаутировал Иржи Прохазку"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpTMVYtZ3F6WE0xTWRfV1FJcFFMNFoyMFNKUUZvY1h4ei1CVFdzd25uUlF6bXJQZVFqcGdMN1ZyTm9zM1V3MjBSRjBWaVRjLU9SRHNvTms0azNMUXprUmx0Z0E2SzZBWThNVTVUTVZ1Rmg1dkdUdUZvRTdLeWpjU213YnhBSUN1TVJ2Rk5hQUtib0oyS0RMb2ZIZHUyTjZsbERIRTgxdEE0bkJYWkIzaTFxbHhsTUlCeDVZ?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObC1objRob0oyV25ZRmxQUVNYZS1pVlY3Y3E0WjJxU2hycnNVYW1uTEtRZXZ6N0p5VVowdDhscklhWEpOV05CVnB6OTBOQ3AyQnV5NVhZbklwenp4WGZGUG1ZY29EYVhmdjBIRHBUZE5QSU5ydEpHOThmM1dWY1NuZjRlWDZiQ3RyVmNfbmlYdXZjbDFSWF80WlBjY0hZeHFBTkgwZHdrSGlEY2N2ak12RzlnQ1c4Q1ZNZDViUlJKRGFKSlVlV2hJUmFqQ1J3dw?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        }
+      ]
+    },
+    "866cfbe053": {
+      "key": "866cfbe053",
+      "title": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young",
+      "summary": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young Malay Mail",
+      "lang": "en",
+      "sport": "olympic",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 16.44,
+      "published": "2026-11-22T11:25:05+00:00",
+      "refs": [
+        {
+          "source": "Malay Mail",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZzd6SEFTV1lBLWhVZFR2Ml9kaDZXRHE1clM0OEFpcUl6QU9aTjdGdHdObTRPNWRsc3JscTR6VGwyZmZYWldrTWZsbllFRlhVOVpSTWF3ZkdHNTJfOHlHaXJFV05leDVPYXk1d1ZlVzYxTEM1YXg1Y0tGZWJPdXlPUlo5NzJoMUp3SnJTQ1gzTmNqU29LWC0xQzZaaUtablJTOG5pMEVKbW1Wc01FbzFBbDRWVi1DNUpXRlZwVE03dFJjNEdPUEZ2UFFxei1tbVJsOFJiV0dkWEp3aGlQdHk3UnVMVWRDdHM0T3hv0gHwAUFVX3lxTE1rWlAtTkJQWWo5Nkg2MTkzM1YxSHpKby1uTWJ2aEZaSHdVdktsTGlnT2V1T0cxbFpmdEFDRW15ZWVRYmFSeDlHbmNteFNWWTNiWFBqRUtQRUxiVzJOeXRrbTI4TUxxQWktTEFaSDNlQV95VWpLVFpYQU1WbUc4bnZITXhxOUZlVFJfRDd2U3VIR0Y0b2dtSUZpMmsyQWZyN1ZJSGlRQXNWZnBFemtzbzR0SnhHeU5XczU4ekFEYnNXTkxJZE44VWJGX0JjYWQ0Q0VaSUNJVk1sX2RwSWtvcHFBZ0RUVXhnNTlBVTJGV2xoRQ?oc=5",
+          "title": "China’s Wang Zhiyi wins Hong Kong Open but ‘must work harder’ to beat badminton world No. 1 An Se-young"
+        },
+        {
+          "source": "Malaysia Sun",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTndkenAzaGhxZ0NyUzlvSWdrMktWUW5UNTF2M0phcDdBaFExNVlpTElTVUdXUVhuYjZxUnR3aXhWbG1WNlZMbEZ4NGNpb1N3QVJtb3cyVDRCYlJSWGhodW0xaTE1clVmRk1BdXEtTkFwVG8wREJ2OGt0LU04MXE5NDN6NE1wdDZGS1F5NmlCTHhmNHA0RlZmd0xfZnExUQ?oc=5",
+          "title": "China's Wang Zhiyi retains badminton Hong Kong Open title"
+        },
+        {
+          "source": "The Sun Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlZjRkdaOC0wQW9IX1RZVUhPNWJDdmZvZnhsdk1ISll1b0JnRzVKWEpwMjliX2cxeXItbEwzXzVGYmJvSVdscTdJN3VIaE50VUNydk1XOERnZVZGcWhyS3dMVGR3VHU3VmlfLU53cnBQSW1GQXIwdHBHV3ZIcjlVMTZubmdaZDIwa09hLXdIWUJKa2VEYUt1MlhudHpORUxpeC1yTQ?oc=5",
+          "title": "Pearly-Thinaah seal double joy for Malaysia at Hong Kong Open 2026"
+        },
+        {
+          "source": "NST Online",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOURTVXVrdkxST1RNR2QyekdnLXRCclBtMzFDdkgtZlpNcHN4bWN3UXVHWmltUEtJc2FXeXpWbHpyTWJtNkpQWWc3RmRmMUZsWDJtQ1Bic19wSFl5ZGF5X2VOcTd0ajJfekxDZUczaGJRVnFKMFNfWjhLZlUzOWNtS1BnRU1yUXA2MkNMZ2VqellINzRGT1F1OWl3azZ4VV8wVmFtZGxxa2ZfcXdyN25UMzQ4TdIBuAFBVV95cUxPdGZnZFRzYzN0dUk2cXExYUltbWI3cE9BNjBJaVNjYTlZTG5pYTJzbWhvUkI3WVJtVnhFc0lvTE9lRzhjejJtMENjcEJDb2ZibEVtZXJOaWxMU2VIUmcybGVQX0RNUXQwMVhQYjZHRDRiemtRTF9tUS0zajNmZUlnanBpdWk1akNXanhJMzlTRzRIdnkxbGNEdHVsTWxkNWdGTE5LWDN0b3MtcFNGMTFXd0lLU2NhbmhB?oc=5",
+          "title": "Pearly-Thinaah complete Hong Kong double delight for Malaysia"
+        },
+        {
+          "source": "The Star",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhVRDVNQURROGVoNGNjdzZTUER6Z2dEdWg5Y2NiM0oxOGFRMmltbFRTaWlxSzBnb3BQYU9BbktOem92ZU5nT0lGVENkMXVjX21aeUd2WndyU0ZiTG5pU01HNVQxTHV4M2FrSllGR05MaEt4UWkzOGNvY1ZFLUF4RUotYmZPbUFaMEFhZzNFMWMwV0hpSjhDeXprcjJIQ1hBcENWOVhnbEUtMmJDMlExc1NQRWVFUVF1bmp6cjZuV3V4LThUbjRJdHVJWjg4WXptMW9XQ1ZQcWtpZw?oc=5",
+          "title": "Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title"
+        },
+        {
+          "source": "Tempo.co English",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEo1UTJNcVhvanoxaTlTNzh6SXRvUVExSW9zbjBFMDZBWFc5RFZRNl9PcjhDNTVNVkxZZm43VGtLX3p1X2JqWDFaX2pYOGZkbWtrNmtjT05kYXI3RFpBQ3NyR3NfUDZtalNEbEppXzJDLU1Qc21IeHRBOVIwN2xMME5MaWZjLUlhTmswaTg2R1dWaEpLVlJqaUt5N0JEYm1iU2haVG8ybzE?oc=5",
+          "title": "Indonesia's Leo/Daniel Fall to Malaysian Pair in Hong Kong Open 2026 Final"
+        },
+        {
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3pORFFoY2oxR0xQNnlCNXgycFQ0YWdOXzJ0S2phcEVZSDN2elRkcWhjaHJzZEItdzdrekhnYjRMTmltYTJSdnkzTDZfQmg1MXBPdUdqeWZYdXA4bEdTQTN5cjdyaDB5U2tMaUJ4VjlEREVBNVg5WjFneEJkRGhsT3pjNktzRUFreW9XMzdILTRnQ1hJU0xya3ZMZmhVRU1Odl9fZHBWaERFNEFubFRIOUZuRWxCd094NzZJWmx6R2JxUzTSAcMBQVVfeXFMTjRnTjBZMS1KLS1oZXVlQU5VeVZqRTdnTHlaWFlGMjlRcEp6d21ZT1hiSzU1aFhZelhoVk9WSnV1R2pLNUI0V2poTE5oLWY0TXFpWEp1UUlZek5lcmRQeGtZYXhDQUZXMjlRYUZsUUJFS1Fma1ZjWFIxdGhZelNHZ1lIR2dURE91Q25NYjBMR2tFZGMyQmtOZkFsQmpsRHFndDlLcnpyVlNIR0lwX2gyZDlUQl9uLWNsLWdkR3RuYWstX1Jr?oc=5",
+          "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong"
+        }
+      ]
+    },
+    "cd00634524": {
+      "key": "cd00634524",
+      "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win",
+      "summary": "Red Bull driver delighted rival crashed out of grand prix Leclerc and Hamilton relationship is ‘unmanageable’ Max Verstappen escalated his feud with George Russell after a stunning victory at the Las Vegas Grand Prix , stating the British driver was barely worth consideration because he was “so far below my level”. The Dutchman competed with Russell for much of the race in Nevada but it was the Re",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.36,
+      "published": "2026-11-22T11:49:11+00:00",
+      "refs": [
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one",
+          "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/f1/news/12040/13615084/max-verstappen-says-george-russell-so-far-below-his-level-after-poking-fun-at-rival-for-major-error-during-las-vegas-gp",
+          "title": "'He's so far below my level' - Verstappen taunts Russell over Las Vegas GP error"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+          "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'"
+        },
+        {
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjZYYjNrVkxEVm5IdUdvVFZsVEEtZDEtcS1tcXdBN1N3U0l0VjFLbTNvQnhfSlhySVpGMGI3Mmg2WkRhUDdiajRsUTNIMnhZSW5QZ3R0ejhjUC0ydkRHYW9Hek9oLTBnSjVCc2xHQW82cjJLOGxfMXY1WUFRdHdQbDFYM0dqVDZET3ZVOEFBRGNzWVZ2NF9GdkpRY2dqUUxvZXVYX2toZw?oc=5",
+          "title": "Max Verstappen mocks George Russell in brutal outburst: 'So far below my level'"
+        },
+        {
+          "source": "Motorsport.com",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXpLVFp3QzlQXzZuWFRNcWVmd3JyX2pma1lPemFJTHdqQVF4WWpSc24zNEc0UnNMWUNlemRMUnZjeVhZcTB5QTR5WFNlZG1aRl9EbVpWaUs5QkNIRjZQMkJPSFM5ajNkcWlzUmc0OXR6N19IdmtZNlU1SUZMRnZVUWI0eXZpZTVzalktQk9tYm40b3RVTGhBQTZMSzNlOEJlX1NCZC1ndndTaGdSSWVZTF94S2t4Q2JucUlRZXh1dVVxOWlqVjFwRGN2YlRrSEg4TFRDMFdQQQ?oc=5",
+          "title": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position"
+        }
+      ]
+    },
+    "7e025ce33b": {
+      "key": "7e025ce33b",
+      "title": "\"Реал Сосьедад\" уступил \"Расингу\" в чемпионате Испании по футболу",
+      "summary": "",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.89,
+      "published": "2026-11-22T17:18:00+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261122/futbol-2133285524.html",
+          "title": "\"Реал Сосьедад\" уступил \"Расингу\" в чемпионате Испании по футболу"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/football/news-6710012-rasing-real-sosedad-rezultat-matcha-22-noyabrya-2026-schet-3-2-13-j-tur-la-ligi-2026-2027.html",
+          "title": "«Реал Сосьедад» уступил «Расингу» в матче 13-го тура Ла Лиги, Захарян вышел на 78-й минуте"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/spain/news/rasing-real-sosedad-rezultat-matcha-22-noyabrya-2026-2477739/",
+          "title": "«Реал Сосьедад» уступил «Расингу», Захарян вышел на замену в концовке"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117442262-chempionat-ispanii-atletik-protiv-espanola-real-primet-seltu-v-subbotu.html",
+          "title": "Чемпионат Испании. «Барселона» сыграла 3:2 с «Вильярреалом», «Сосьедад» Захаряна уступил «Расингу», «Атлетико» против «Хетафе»"
+        }
+      ]
+    },
+    "c2e9520765": {
+      "key": "c2e9520765",
+      "title": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar",
+      "summary": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 17.01,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T17:02:52+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVdMeHhQRndTU3dTZENlTEpqSFREUThwY1ctd0x5a195MjBoNkd1OFpNLWczTzVqN0Z4b0VvcHdMeUE2ZVBwTUxGZnhrWENKNzd3ZzkzNkgxUEVtQm5NYlpPQmc2dWFidENRZVM3OGtZS2tfeDljMzN2NUVQQVE1NEQ2aEdZc3B0QTRZRUMzTkY3VVVIQmx2S0w4VVlueHVTeHZQVWxwUUVxckkzRjlMdA?oc=5",
+          "title": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUQxR2xPc3E1Wk1DUld3NHM5RDhwakdzOGdhZm5IeHUySUs5OVhWS0xDOE5Zc3VZSnNsUmZJQWFLMzVBYS00clZDRG9wNXFhelZiVW96NnBxTV8wZmlpVlQ1ZlFqMVdUcEdSS25NZ1llMEl1WkF0cnZTRUpYTlA2ZVd30gGHAUFVX3lxTFBORnFmY1Azb0x4Ql82Mm93WW4tM3Q1S3JHM3NIMGhtRGRELXJOOENjZ3VKOEtSekZUcnJSWFFGRUlfZWVzY2Y5VTFBS2ZVcklVQTZiUHhxLW1IVXF2S2I3RW56OUNhQWVfZE5MellfNkZVZjhBeUE4SExlWnBIQzBxS3RxSUpFYw?oc=5",
+          "title": "Matches to make after UFC Qatar"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdkxULXBZelNha2xBcEdzcHV2TkJrSGpydmhIdG1nR2RmSVQ5SG9zZUNfZDhhbnBOV214cmVqMjcwOV90c0ZRNU5uYlVXbHlqcGliWEtLRFdULWJXQ1BHOGlXNEpRV2sydzlyLXlVUkFHOVlIamcwcExidktQTDZ6dXpLZmJDdkJabjlRY3BaYkdIalZmbDhPaGFFWGpQY3JucGU5ZXByajFnbVJkTGMxeks4bEtKcEJaM0k2TlA1dWtlVkp2MnppY0YtdmVxTzExRzhmUUNMYWRaLWM?oc=5",
+          "title": "Ilia Topuria reveals injury Aleksndre Topuria suffered at UFC Qatar, vows ‘2027, we’re coming for everything’"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUhwd2g3d0RuSTVtZktHR0dRT0NDS181eHdLNnpTMkFKQzFPNEFHM1lyWDNKUGFocW51cV9naXNhbnM4LXhmYXBOeGV4YXBJS1Q0TmhCX1IxQWJDUDQ5alIxcDRFYm5wNDM5eVdKVUZSZk5LWWozeVFkUzlpX3JaQlNUanVNTzBfTjNubDVLUUF3X0pkdjJjTkhKWkplbkFoa3VSbUF6VDB2MERBVko0cFZqelM?oc=5",
+          "title": "Ilia Topuria Reveals Brother Aleksandre Suffered Early Injury in UFC Qatar Loss"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTHhyZkV6a0pyMHk4Z1pSWnZ3QjB2VERpeGhLcFloT1U1NDVsbVVUTENPTERFQ3RWVTJXa3BJbjBXdkFRRGl3X3lqb19Fbm5Oak04Q2JGZUlINGhFb2pseFlWNzBmdW1lc0prNjFEajBFa181SDA0cUNWZnNWVHhpOFVxemxMYUtOdjc3VFZDZUxWb0pqSVNMWmhhdzlSVDJXWnZ4em1KTXR0YVFSa1BoLVN4UVlNRFBleDNWZ0o1eW1FcUVEa01fWllHUmJTUUsyZ180aXZ2Z3dqc1lXdnZabmY5aENNZWNIc3VpWE9kbThETjlRS0JsZDNiaEQ?oc=5",
+          "title": "Topuria brothers: Dislocated shoulder led to Aleksandre's UFC Qatar upset loss"
+        },
+        {
+          "source": "NY Fights",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82bmp5UnpjNXVhMmc3dkdIZDVELUVReUlGZjVibWp4OUM1V1VfeTJaQXJWUE81SlBhTzlPZ0QtYUtyM0dmN1JBVHN1R255WGw0VEZKSVdfdFNWcjZydXpYYlU4dFcxRUxHckRVY0lJWU1pRndfcEJwcENJMWg?oc=5",
+          "title": "Ilia Topuria Reveals Aleksandre Topuria Fought With Dislocated Shoulder in UFC Qatar Loss"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVjV5WTJERmVqTnVEX2Z3T3FtSG96aGlZNFdYQUdfNWZrczVxQ3ZaSjhnNVc4WDJ6Q2pVeGZ4ckZYSnZYTi1ZWlF0a2gwZjlLRzNfbmdiNm1sckRBdklOQ0JiUlZncXBMSmF1SEZxRWxBanIwekhDRVUyWHk4Q0d6X0ZPZEU0OVRVZVFfOE1fYXdBb3BnVGVvWlJvU3pSV2Z3NUJmNXU4Y2hYbFdCMVh2QVNMOC1LN2J5R3dsUlI1eUtHTjRuUkJyNkVrLW13OEhjWWVrMWV6UGJlLUZHNWQtVw?oc=5",
+          "title": "Ilia Topuria blames shoulder injury for brother Aleksandre’s UFC Qatar loss, tells critics where to shove it"
+        }
+      ]
+    },
+    "746b66aa1f": {
+      "key": "746b66aa1f",
+      "title": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ",
+      "summary": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ vRINGe.com",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 16.47,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T16:38:40+00:00",
+      "refs": [
+        {
+          "source": "vRINGe.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldYNEdOYWdZaF8yalVnVXVpc0xZVnlkZFo1ajUyNHZ5SE5UOXA3ekNZZVdRTlZtMWVuemxhdzJSNC0yRm1LVi1zdnU0ZThFbmZod0RLdEgteEcyRlRlU3d2ZVFjMjI3M0xZMHY2cm1PTjRkVmpid05XeXFrZUVHdjh5bFo3NElqdEhDelhEbw?oc=5",
+          "title": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW12bUNJazZmWW5hUlRfTnlwcnZCNnUxdDdSSW9OaDFRbzdUV21Kc2Raem01TTZkNnVsQjFsTUN1aHBUVzRoSjY5OE9RQV9aNjJrUlhrcUF2eEVmSWVCQ3ZoWlZsN2ZxeE02X0ZnZ0U4WmZZZTlMRFZUamF2SFZCZzBxYXo4TmxjdWR1aEJ3?oc=5",
+          "title": "Первый турнир UFC в Казахстане пройдет 1 мая"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWxXNEJPNGZVU3FkUlBtMFBFcWFpRGp1ZjMwR2sxc2VNOTBIWFpKcmtkR3h2cEwySmJWTHJzTnBtam9pNFpOUVpRejRMZG5fLUMtLTZSUFZydWlmM3Q0MzRsRjlqaTZOQmo0OWEwVXhWd3lPZU1tS1NTTUZEd2FKNERXZll4Wk1ObVJXb1JneW4?oc=5",
+          "title": "UFC может впервые провести турнир в Казахстане 1 мая"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/istochnik-ufc-mozhet-provesti-pervyy-turnir-v-kazahstane-1-maya-2027-goda-2477705/",
+          "title": "Источник: UFC может провести первый турнир в Казахстане 1 мая 2027 года"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMm1scGlmdnZZak00U2FtbGpOM1Q4bG53dEUtS2xFbjZ3cmJZYUZ2VW45TDlnVzRfb1dBN1RCVDJiSFZYZEYtdkdGbXlzbFdLUV90R0lnZzlMSDhhXzFvdGtxVkJ6TVNDQ0Z2U1pfWFYxWWZKbzAtOGQxWnlNbG5fcVZ3OFM1UldzSkFSVFc5X2JpZ0JkWlNBZnZlUdIBoAFBVV95cUxNLWo3NkZPbkZVa1BEVXlyd0s0QlZzUDE2QmQ5MHBvd0lQQ0hkQm1NQVhVbFo2S3Y0cUl2UzFuYkY1NjFTRFJQNnBDWFc3V0N3MVM1ZmRCUmctV014SjNNeVRaYnlKN0JDMHRTRlpGbEVqRDR6OXFud19yT0dibWdXNDlKRXBxdkZYc2VkSnoyb2t6UmZvS1IySDZFMVZXeVVX?oc=5",
+          "title": "UFC планирует провести дебютный турнир в Казахстане 1 мая"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVJWTW5KN1JZNWZwbkIwYkNZa25pYVV4WGhzZDJkMzdmMG9JMG0tMFdNaTctb2o0aXJqOEM0YzZzTEJaalExY1pkZlpWOGJvaV9qWTZqYW5ZMkgxWGpuMzFLTURYa29MNkdlV1NpdnNreXBRdks1bGZFRGRvNjVxN0RVZUVDZG45MGltaFFycGpIZGl4NEpaNUdaVENEbUZO?oc=5",
+          "title": "Первый турнир UFC в Казахстане может пройти уже 1 мая: назван город"
+        }
+      ]
+    },
+    "2309b67faa": {
+      "key": "2309b67faa",
+      "title": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement",
+      "summary": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.24,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T16:20:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUVxOF9PZExoaHpaX2ppVVlBVzhkQUhnU0ZQbGl4b1I3dE9PN1Yza0VzVjJ0TzR5M3BrbU80SW1fS01FMjhYN096VmhJbDB4N21LLXI3Z0lfeHZYcXl3QjU1cVhuV0lWb1h2cWJvdkFRSUlSUXpMY2hmQ1VRSk9MUzNMendOdmV3WUxKUWE2WkV0WmlSUENRaGM1ZDlYNkQyZnpqek9YQ3p0MTdXbHk3dnBQZF9VQVdnVXBpM2FlR1dVVGw2aTBRUzBIMlBhTlh1eVl4Q3lnR3FCUFJLc0paVw?oc=5",
+          "title": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0wydkhVNTFGVGhpYmk4QmNCb195Snh4amV1ZXBpU1VoQUtaUDcwRVNvbWRBWFh3N0ZHYWVTdVpOVW9MdnlVd1VJbXF5WkJDeHhnVGxBS3JwOUdSZlB1RkZIWWIxN005VDdqYTdaMUVxQlhqYXRPcThWRDFxY1EyNGdwUllXM0RKTFpYYWxYSQ?oc=5",
+          "title": "Brian Ortega Announces His UFC Retirement"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVdiTGdoY1BPV3pWN3gxNGtFZndlLUpKZ01MaktIN283VjJvMnFfSmZOaXAzUFU2dTVDY1ZKbmNLZEliMzNjTFBlenZaQWZNOVYtdUlhVF9aU1J6Umt5X2RfV2hzWTFwYW94RlNHUTRGVGdrYWtSaVBtclJTS3Vpb3pzdjVCTm9rRU5XN0RZU1BLc2pXeVpUYmZmRVRFT2hucWZUME52cDRoZFlfbW1LM0xCWkpFVUZsRzBOdnhZWkJXWWFJREhfUUtJcGQtek1IRFNzekx5aEhaUQ?oc=5",
+          "title": "UFC Qatar results: Dan Hooker calls out Max Holloway after win, Brian Ortega announces retirement"
+        },
+        {
+          "source": "NY Fights",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eWtVLURCTGRnQXhYZWFMMmFfLWJWTWF3dmR1N1hSTFQxNVlMNHhteVVnUTI2bElCVUtRRUEzTnNDMllyN19wSFRiV1J0NXVZUDduODJmQzhCYkMzVEdkdklSWjZrR2VmZEZOcHVxS3liMlNsdVhiNQ?oc=5",
+          "title": "Brian Ortega Hangs Up Gloves After Losing to Dan Hooker at UFC Qatar"
+        },
+        {
+          "source": "Orange County Register",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVRidk5RekpCSVRuUEVONUhGTlRMMTF0ck8yR0ZKWjNfTEgySGtiY2lpYnJRaVlUVXpCX0loZmE0RHpRQmM0TEdOSFhmVFhuTlRJNmJkOGgzekdXQlAybEp6VlJxeldIaDNZN0wtM2J0ejRNSnp0NS1Pa3JiLTBCMGVzMkIyd25xZGJpeDhndW8tclVkWjhyQVY3MzZPQnM?oc=5",
+          "title": "‘I healed’: UFC’s Brian Ortega retires after loss to Dan Hooker"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpTVmFnTEs4UWd3NVpLNXRoNkMxZmlweEdPVGhILVhlbTRmTTZ1b0QtMURtb2Z1OTNXcU1LazlrNHdQeHpCSE9PUUVxVTBfMTZ0VHNJcHM3Z1lJLUVEN1NuS3cyM3NkVzVMVFVBd3E3WVFleDFock5NT2hIa2s5V21aX3R6QWtYT290em93TFlJbEVJN3hDeU8tSVdCaWw0Nkk2cXV5VG1hWFNqYS1FRm1TWQ?oc=5",
+          "title": "Brian Ortega retires after losing every round against Dan Hooker at UFC Qatar"
         }
       ]
     }
@@ -3344,119 +3460,14 @@
   "tg_offset": 360028013,
   "combat": [
     {
-      "key": "5a06518623",
-      "title": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО)",
-      "summary": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО) SuperKarate",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 8,
-      "growth": 0,
-      "heat": 20.7,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-22T07:19:57+00:00",
-      "refs": [
-        {
-          "source": "SuperKarate",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtYa25HaWZBeGp6X3p1MjNyVVQyWEd0dmpjelpjbDBDOFA5R3o2OFNMVzYycU02SG44ajZPVWZkZ2JzeUU0d0VXdDdwQlhpT0ZoLXlWM3NiMlpWT2xaOU9sTXo1R0ZvcXk2a1hndVJPLVUyemtzemI4LVJDTHdONGNzX0V3MEhTd3JoRm5EZHRZZlJycWZZbzc0cw?oc=5",
-          "title": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО)"
-        },
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzhUckhtZlBzV0hJd21GWEZaSmJjVTE4SkxyY3JfYVA5bVRJbEFKZkZWbVQwS2xNTG55Wm9Nc3p6eHdtRk84S2lLN0ppMlRuX0d3UWJVXzFNT1V6TzB3M1gyMm8wMTJINFRPc3ZWakVvMWFEeGtYVXF2aEdnbUVJSTBMOFpGb2RFbEhDU1c2T3NKM252eS1r?oc=5",
-          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC Fight Night 294"
-        },
-        {
-          "source": "vRINGe.com",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQjctNXItX3ZSMzRoT3MybF9wMzN3T29qMlY3MDRSbzB1Q2RnMjMwU1VEQWtyWGFfUXNtN0xPeHFiRW1PVkk1RVZnZnZaUTB0WThfUDhmeUNleU9Va2J1MnFlQWFORUF2Q0NFNG5QOVNQZU9vbWtxOUl3?oc=5",
-          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC в Катаре"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkQ5QThUU0tpRVl0VVRmaWE0UnUtR2VxVk1hdGZwdUxRQWZoYjFnQWxoOUcyMDZMSnV0cUNfVmdIX3BKTTVDdDdtWFo2VHM4U0E1NS1wZjV5QzJwN1JiYkZzMExIdEpwdXNIbEkwNklORHBLRVdOUURFamtEOG8ydk80WEZpUWphV2Z4V2xsTzlTRm1McjdRbGhHU09VRl9TRjBMUW1VT0tBY2lmX04tWklwdkI1dEx1S1Z1VUViS2g?oc=5",
-          "title": "Иржи Прохазка против Навахо Стирлинг (видео). UFC Fight Night"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/irzhi-prohazka-navaho-stirling-rezultat-glavnogo-boya-ufc-fight-night-294-v-dohe-21-noyabrya-2026-2477472/",
-          "title": "Стирлинг нокаутировал Прохазку в главном бою турнира UFC в Катаре"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcktLQTVndVZwbHVwQmQ3NmsweTNKMHJKeUNJNkd2dVozM2JqRXlmVW51aEZnU1VLc3I2LTluSldWRzdfamR3aGdPTDVDLXA1Z3dJaU8yLUMtSlhYbHAtQmY2UlJqUGM2UVRrdGJzcmFFc1NGM2tQY3I0Ykk0dnc1TzdESDEtMTZvU3hSa1M1N1pNZkVuRnJ2NDBxUnl6eHhhR1Y5a2lPWDhqczVycjV2WGxaM2Y0X1hhejhZcFVCaXNfZw?oc=5",
-          "title": "Иржи Прохазка против Навахо Стирлинг (видео). UFC Fight Night"
-        },
-        {
-          "source": "Allboxing",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU09XXzVjcW5XUzhESHhKaEtPYlR6R28yaUhRMi1CS3FSN1ZCRmYyZ2NiNzBOYmU3aWFtNGswaGs2M0ZycTU1b0Jid1JXQjNxYTl5ZXBiYXlqNVVvcnB6MTJwWFpkZEJKWlFPM0dRb093aVZPMFZpQVJZUVhOa2pfR3YyOS1xQjVEZnRHWS1RT2w4RXdRd1d1cQ?oc=5",
-          "title": "UFC Катар: Навахо Стирлинг нокаутировал Иржи Прохазку"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEtfV0swS19ZVGwwQ2dFOEpfb3BMUGc5amRqbTZzcFg5ZGFPN3dyd1J3dVFvS05zeDlIQXhtRmxpVzg4bWN3dnR0djJCazlQSkJ4N2g4bEhSalNsWTlYS3Y0MV83ZTVEVC1feFczbG1hSjBfN1dMaElTZGZPZzFFRzBXaU5RbGQ4eVNZcnA2S21GQTR1R0tMakkyUHJhdVVwcURUdzl6R2RRVnlLWll1WWc1eF8?oc=5",
-          "title": "Стирлинг нокаутировал Прохазку в главном бою UFC Fight Night 294 в Дохе"
-        }
-      ]
-    },
-    {
-      "key": "fc263a5a2e",
-      "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar",
-      "summary": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar The Lufkin Daily News",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 7,
-      "growth": 0,
-      "heat": 18.12,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-22T01:43:02+00:00",
-      "refs": [
-        {
-          "source": "The Lufkin Daily News",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRE0zT1poNC1RSktyYzVodWw2WGVTdzJWa2RJY1JDTWxmYm9rSUhrV1FQYy1oUURXajR5WjRVUXR2aW5YWjVuNm43VUVuVkdvRm01eHpQbVdjeTVTMnhCSnRRNU5aSUdYLUE2M3FCTkdJRVFKc3FTTTNWaE5YYlZvdVlkVXBlQ0NfSTFidkJENzVkdmVQWURSandQYjUxd2JFYS16M1RrS0VuNXpJbndRMEplbkw4d1JlcG1VSVZ0Ynl1NjlDSFBIakxraklOVEZIbUYxOC1Ea3hUZ05mSmc2YzdhOGlicFhGdGhzb3ZDRHNUTm5VZzB4czlkNA?oc=5",
-          "title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDdfRE91NDRtbWhDV09YX2hhYzA2WXliMDdDR290cTBkbkFUcEVsUXJDSnM4bGdFQkNEd0FlSjJWSTkxTlFYQkNON1NBM095dmM2S3l5VjZGaW5vZ0NEaGs5NGg2UWxlODNoeDNZVUpDcEFSS0NoeV9aTjM2NnAzek0teTBMUTY2cVJpUk5ja3o0djRIaXROYi1HS1pVVmxSNTJsQmJPZWtmcmxnSUNoOTR2NHNlT3l0WDQ4eUJaR3Rqa3BwTU84cQ?oc=5",
-          "title": "UFC Qatar results: Navajo Stirling starches Jiri Prochazka in Round 2"
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
-          "title": "Rising star Stirling knocks out Prochazka"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXR0Wkpyam9VSDQ5cUVmOVQ0RFNaT1lPTDdvS1kwQVFzdThzd0dydUVlUjdRc2w5bUNlVHdXeFkwVzlGOUNLR19MRXRvSkxySEFCQ19SaVNDdnBRNWtsTXJqNmx0MnUwcUFHUUNDRUNKY3ptYk45TG5nbHZRTy1ndmVZVEFjU2tMWGVkeFdMall2Ui0zQnNFZmhRLTB6RXdHWWc?oc=5",
-          "title": "Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap Fight Night"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFlpcVBlSzNzMjRRNl93U19lS2tXTDRNUEJTSzhqZFJfT2FmcUxWX2dDTmtZWllOc2hSQ083eXZxWkRBYURjbDBKU2ViQkluLWxydmZVakhMZWcxempCNGxSSDkzY1BvZ1pKX3gxN3puNGk3SVJRQ0kzSVhsV01NYk1yQlJXSzNEb3dlT0FwZlA4aTB0YVJuMldUNlVkVzBKalFDZ0JLUF9WOFpob0RiUTFHbDNKRUxGV3U4OG43ZnRwZ0xvMkdDU2daM1VQY09jbTBNSjRWV0xsYmZzclpWazZVUmk?oc=5",
-          "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemtLa1drMVNZREhkQUlhRlJVLUxFcmtpX3VscVZRM3F4V2dfZnEyYzQ5dXpubnFrZlEwb2dNS0s4VmVVNk9BbTRET216SGRoRHdCd2l5bnN3ajFUY2Y1NHZ2U29OY1FnN2xabFlYbzNpcnIwRWtJZEYzcG94bkFWc0RXUHQ?oc=5",
-          "title": "‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5YmxsRUVabUowbFQ1QW4xSElyUmk3bXdoWEJJTGJCaTJ6d0NDRERQZHU2ZURiZ2QxZmdldlBQbXBTaGg0eERB?oc=5",
-          "title": "Navajo Stirling Stuns Jiri Prochazka in Round 2 | UFC Qatar"
-        }
-      ]
-    },
-    {
       "key": "1ec4eb985e",
       "title": "Undisputed Price wants ‘big fights’",
       "summary": "Undisputed Price wants ‘big fights’ Jamaica Gleaner",
       "lang": "en",
       "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.98,
+      "outlets": 8,
+      "growth": 2,
+      "heat": 22.1,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-22T06:10:57+00:00",
@@ -3477,35 +3488,20 @@
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
-          "source": "Eagle-Tribune",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTEVpWGNvN3JORUxvZWJoVVRIV1puR1ExWjYtMHJMY2ZQYXhseXVwMzc3b2FOaGdrUFNTaHZxbkxVLWVkYVZJY0FmcTh6cnc5LWFvcDdPNzVpcldjUXpodzNwQjZxeUdURGhpbTFHdEV3LU1CODhlWElpRGNEQUVRX0NvZmZmWlh5MWNHLWVwQTZJc1k2U3lCeU5qeWFIY2Z4OV9WaXZ2ZlBla19lMVV1SURxT2FqU3g5R00yWVdDbll2dFJXTWR0SEFUemVJdnJrbTA4QzVBYk5VdmZZYkt4bEhZQ0lNNjl4bDhfQmtMdzNhZDJULWxQcWsyVkp5eDF3NU9FSFRB?oc=5",
+          "source": "Herald Bulletin",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYlVDTml5QVQ2Zmc4dmNRTmdWcU53Vmk2UnVuZEp3cnU0cHBQVzhrOC1tbVp3X3EtRDl0ZGstWWtybS16Q1o3Q0Z5YUZ3UkJqb090R3RLWjJmSk9tRGY2NU44clQ2ejFqYl9HNWhqWUdTWERVYkt5Y0Q2aGpmbl85eHpTYjltTUVXVGotMDd3WGFPa0xWZDg2X1JBSHZnNE1PV2p3UTBYVFlJNGFNV0pUN2hpM01mR3JqOGU2YnZQbnNTUDA0STVHNEF2UUp3LUZhVklfWHNQeXhxd3UzQTJfUEV6a2RPeFh5V1ZkYlgzeHppUHdWVkp5VTFTZUQxbFB0MXZuVGZaa3BncXU4R29vUjEtRFNjTkRscHViWGhURW81T1BvTUNN?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
-          "source": "Herald Bulletin",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQYlVDTml5QVQ2Zmc4dmNRTmdWcU53Vmk2UnVuZEp3cnU0cHBQVzhrOC1tbVp3X3EtRDl0ZGstWWtybS16Q1o3Q0Z5YUZ3UkJqb090R3RLWjJmSk9tRGY2NU44clQ2ejFqYl9HNWhqWUdTWERVYkt5Y0Q2aGpmbl85eHpTYjltTUVXVGotMDd3WGFPa0xWZDg2X1JBSHZnNE1PV2p3UTBYVFlJNGFNV0pUN2hpM01mR3JqOGU2YnZQbnNTUDA0STVHNEF2UUp3LUZhVklfWHNQeXhxd3UzQTJfUEV6a2RPeFh5V1ZkYlgzeHppUHdWVkp5VTFTZUQxbFB0MXZuVGZaa3BncXU4R29vUjEtRFNjTkRscHViWGhURW81T1BvTUNN?oc=5",
+          "source": "Eagle-Tribune",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTEVpWGNvN3JORUxvZWJoVVRIV1puR1ExWjYtMHJMY2ZQYXhseXVwMzc3b2FOaGdrUFNTaHZxbkxVLWVkYVZJY0FmcTh6cnc5LWFvcDdPNzVpcldjUXpodzNwQjZxeUdURGhpbTFHdEV3LU1CODhlWElpRGNEQUVRX0NvZmZmWlh5MWNHLWVwQTZJc1k2U3lCeU5qeWFIY2Z4OV9WaXZ2ZlBla19lMVV1SURxT2FqU3g5R00yWVdDbll2dFJXTWR0SEFUemVJdnJrbTA4QzVBYk5VdmZZYkt4bEhZQ0lNNjl4bDhfQmtMdzNhZDJULWxQcWsyVkp5eDF3NU9FSFRB?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
         },
         {
           "source": "couriernews.com",
           "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSDR0UXV6RDlvdHZWNXJ0M3pRNzd6aVRJd0h6RlFSUnQyLTlrSVdsemtKUWRqY2oxTFE1ZlBPLXpvdmtwWThVUnNyNGdJeTB6RS1SWnJHUUpxVXk1am9UY1FVSi1Td1dDYlBORzdhMGI5QnhFSmloMEx1NF8zSEl1YkhscHBjUE5pcE9tSlBCU0xONkc3MDY2UDdNeGF5ZExVVTB1TW1GSXdjUmk3N2xXNVo2bWVBaFgwMzB0UXhZc296QW5SUjVoU1ZCbFVXVm91bXppY0JiS0RHbFhiX1AtYVJmc1RJQmNqZW9oNF9yYzVtUFdEYUxPSVN2cWRWOTJ2SmdUMHVfN0VRUlY1NFE?oc=5",
           "title": "Lauren Price new undisputed champion and wants 'big fights' as promoter calls out Claressa Shields"
-        }
-      ]
-    },
-    {
-      "key": "232ab43288",
-      "title": "Lauren Price Wins Undisputed Welterweight Crown in Cardiff",
-      "summary": "Lauren Price Wins Undisputed Welterweight Crown in Cardiff https://streamlinefeed.co.ke/",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 7,
-      "growth": 0,
-      "heat": 15.57,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-21T09:31:00+00:00",
-      "refs": [
+        },
         {
           "source": "https://streamlinefeed.co.ke/",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEJGVWt6TUhhSWJjWVF6cTdPMlZta0hSaVRnLWpTVHljc0xSa2FjWGJEcEM0Vk9sbkZaaUxIeE9Jb1EyMDVTVUFmZVNhLXFsRTQ2aThXSlVsckM1RGtSTVY0LXRhMGJnU2FueS1qRlMwa2x5MVJjN2dBTjhXSWJFLTdrSWtod055MjUzME43NF9IeF92ZVRR?oc=5",
@@ -3515,76 +3511,196 @@
           "source": "Sport News Africa",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMFN6ZWppdUFPUVZ3U3NVMFVOa2pUNTcxX3FkX2RNajNidWVfT1NhM0xTVFplZVROaGNienJQRWJxcGtuY3J2bGIwTWV2dGpOeXRoQlFQVDZLcDF6LVh5T1QxRkUtTmVuTHJ6MllqRFg1Z2l1aFpGcFlscERqdVZYbWt5aVdUUTlQVV9ZV25LMWEtQzB3X21oa3BFU3RnQQ?oc=5",
           "title": "Boxing: Lauren Price crowned undisputed welterweight champion"
-        },
-        {
-          "source": "Women Boxing",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDJVdEhHS3ZodXh4TXFScl9GZy1leHBYbDE3dE1IUThPc1RLcE81MHhpVm1YRk5uOEFEdG9UMmVuaXdVclk3aFBxREhyaGJUN2hSQmJqUm83S1FjUnBOVHFINFN4QlRldHAxRVlTbnZHSmRpaXVJaUxEeVExWVhmcW9XckNldFpIRXZGUEdqRkRsUUlsWmlMcUd2NDFjUUpyNHppTERQQUF5WlV4elhhVTMwWi1zRDFGbXc?oc=5",
-          "title": "Lauren Price Makes Welsh History as Undisputed Welterweight Champion"
-        },
-        {
-          "source": "Olympics",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUdHeEp3SHRQUFRjR2Q3ZC16MVp0NVpUWUJUb0owb0pDRURHSENxTUk5Z0wyTHpLUHFSazlKTUJva3cxRldwRFhPY3o1aGh3NzVMelJfUndjcWhDLWIwYnhrTmRhUXBSWThseEdsS3VJSV9WRHRnVTU1eHhrOHkyZE1DRmpjX3RQQ2I3QjZwSXlYWEMzakR4U2I5V3NlSEk?oc=5",
-          "title": "Olympic gold medallist Lauren Price becomes boxing's undisputed welterweight champion: “It means the world”"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY192TkJmVFJTVm5iSFR5LTNkNnNmYmNuQm54ak1HY3ZTeUdsZXJucXUwLXp1S01nUE9HbExvOWRzQlh6VnJtSWcxRlFaSGdFdTFJU3JETUJTWjFkNllpMDRLVXNJcWo4cXdHc1VfNGptc2JiNm1PbTgyNFVaQUk2VWNzT1l5RGdmUjZZYnloUThVX0xRMDAtRm0zZ1B5U1NYdjlkZExIUE9KMWxyT3g5c1ZrY1hDU3ZXLUhHcVJoczlYSzJQT1Q2ckV6MFJTbTJMWTMw?oc=5",
-          "title": "Lauren Price dominates Michaela Kotaskova, becomes undisputed welterweight champion"
-        },
-        {
-          "source": "boxingnews.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52ajk1Y0dKa3hwb19EMWUwZHpoM2pHVmhUMDR2aXdSOHd4TkVrZHo5dDNwY2lRSjAtU1JNUVR3ekdSaXlBaW4zazhUNVlxMl9BeHFjcXBkQkNoU0hPQ240SmZqVE45UlJmWXJTUjNOc0F0UGItYnc?oc=5",
-          "title": "Fundora Stops Zapotoczna To Retain Undisputed Flyweight Crown"
-        },
-        {
-          "source": "Boxing News 24",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DR0pNWUg1UDdsTld1RW15ZmFSbElNNGtWUFdwUlhpaEs2a1dkZGhwa2dGNERWV2dBZDd0STJHT0FPUlFzVlBMLWIzQWZCQXZVWWd0M3hBNHh2XzAwVzZ4YjRjNnlGRU1MdGxTaWFR?oc=5",
-          "title": "Gabriela Fundora WINS a unanimous decision over Zapotoczna to retain her undisputed titles!"
         }
       ]
     },
     {
-      "key": "51057b4382",
-      "title": "Ортега проиграл Хукеру на турнире UFC в Катаре и объявил о завершении карьеры в ММА",
-      "summary": "Ортега проиграл Хукеру на турнире UFC в Катаре и объявил о завершении карьеры в ММА Sport24.ru",
+      "key": "d543398ab8",
+      "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева",
+      "summary": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева airpress.kz",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 18.31,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T15:04:57+00:00",
+      "refs": [
+        {
+          "source": "airpress.kz",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uc0d0SVFHQlBtcTJaVk1BQjJ3VkFteU9pejhFUTRDM3NlRk5kc0I2NW9ZYldtY0VTZUYtYVRReDhNeFNKVmIzSzEwQzE5QVcyTUF2anBFNHQ4SVRseER6aTBYR3F3VTZhdjVoQ3I0UzJQUE9nNWp6eUJB?oc=5",
+          "title": "Стирлинг нокаутировал Прохазку на UFC в Дохе и позвал Анкалаева"
+        },
+        {
+          "source": "SuperKarate",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtYa25HaWZBeGp6X3p1MjNyVVQyWEd0dmpjelpjbDBDOFA5R3o2OFNMVzYycU02SG44ajZPVWZkZ2JzeUU0d0VXdDdwQlhpT0ZoLXlWM3NiMlpWT2xaOU9sTXo1R0ZvcXk2a1hndVJPLVUyemtzemI4LVJDTHdONGNzX0V3MEhTd3JoRm5EZHRZZlJycWZZbzc0cw?oc=5",
+          "title": "UFC Fight Night 294: Стирлинг нокаутировал Прохазку (ВИДЕО)"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzhUckhtZlBzV0hJd21GWEZaSmJjVTE4SkxyY3JfYVA5bVRJbEFKZkZWbVQwS2xNTG55Wm9Nc3p6eHdtRk84S2lLN0ppMlRuX0d3UWJVXzFNT1V6TzB3M1gyMm8wMTJINFRPc3ZWakVvMWFEeGtYVXF2aEdnbUVJSTBMOFpGb2RFbEhDU1c2T3NKM252eS1r?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC Fight Night 294"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/irzhi-prohazka-navaho-stirling-rezultat-glavnogo-boya-ufc-fight-night-294-v-dohe-21-noyabrya-2026-2477472/",
+          "title": "Стирлинг нокаутировал Прохазку в главном бою турнира UFC в Катаре"
+        },
+        {
+          "source": "Allboxing",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU09XXzVjcW5XUzhESHhKaEtPYlR6R28yaUhRMi1CS3FSN1ZCRmYyZ2NiNzBOYmU3aWFtNGswaGs2M0ZycTU1b0Jid1JXQjNxYTl5ZXBiYXlqNVVvcnB6MTJwWFpkZEJKWlFPM0dRb093aVZPMFZpQVJZUVhOa2pfR3YyOS1xQjVEZnRHWS1RT2w4RXdRd1d1cQ?oc=5",
+          "title": "UFC Катар: Навахо Стирлинг нокаутировал Иржи Прохазку"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelpTMVYtZ3F6WE0xTWRfV1FJcFFMNFoyMFNKUUZvY1h4ei1CVFdzd25uUlF6bXJQZVFqcGdMN1ZyTm9zM1V3MjBSRjBWaVRjLU9SRHNvTms0azNMUXprUmx0Z0E2SzZBWThNVTVUTVZ1Rmg1dkdUdUZvRTdLeWpjU213YnhBSUN1TVJ2Rk5hQUtib0oyS0RMb2ZIZHUyTjZsbERIRTgxdEE0bkJYWkIzaTFxbHhsTUlCeDVZ?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObC1objRob0oyV25ZRmxQUVNYZS1pVlY3Y3E0WjJxU2hycnNVYW1uTEtRZXZ6N0p5VVowdDhscklhWEpOV05CVnB6OTBOQ3AyQnV5NVhZbklwenp4WGZGUG1ZY29EYVhmdjBIRHBUZE5QSU5ydEpHOThmM1dWY1NuZjRlWDZiQ3RyVmNfbmlYdXZjbDFSWF80WlBjY0hZeHFBTkgwZHdrSGlEY2N2ak12RzlnQ1c4Q1ZNZDViUlJKRGFKSlVlV2hJUmFqQ1J3dw?oc=5",
+          "title": "Навахо Стирлинг нокаутировал Иржи Прохазку на турнире UFC в Дохе"
+        }
+      ]
+    },
+    {
+      "key": "c2e9520765",
+      "title": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar",
+      "summary": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 17.01,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T17:02:52+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOVdMeHhQRndTU3dTZENlTEpqSFREUThwY1ctd0x5a195MjBoNkd1OFpNLWczTzVqN0Z4b0VvcHdMeUE2ZVBwTUxGZnhrWENKNzd3ZzkzNkgxUEVtQm5NYlpPQmc2dWFidENRZVM3OGtZS2tfeDljMzN2NUVQQVE1NEQ2aEdZc3B0QTRZRUMzTkY3VVVIQmx2S0w4VVlueHVTeHZQVWxwUUVxckkzRjlMdA?oc=5",
+          "title": "MMA veteran criticizes Aleksandre Topuria after defeat to Santiago Luna at UFC Qatar"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUQxR2xPc3E1Wk1DUld3NHM5RDhwakdzOGdhZm5IeHUySUs5OVhWS0xDOE5Zc3VZSnNsUmZJQWFLMzVBYS00clZDRG9wNXFhelZiVW96NnBxTV8wZmlpVlQ1ZlFqMVdUcEdSS25NZ1llMEl1WkF0cnZTRUpYTlA2ZVd30gGHAUFVX3lxTFBORnFmY1Azb0x4Ql82Mm93WW4tM3Q1S3JHM3NIMGhtRGRELXJOOENjZ3VKOEtSekZUcnJSWFFGRUlfZWVzY2Y5VTFBS2ZVcklVQTZiUHhxLW1IVXF2S2I3RW56OUNhQWVfZE5MellfNkZVZjhBeUE4SExlWnBIQzBxS3RxSUpFYw?oc=5",
+          "title": "Matches to make after UFC Qatar"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdkxULXBZelNha2xBcEdzcHV2TkJrSGpydmhIdG1nR2RmSVQ5SG9zZUNfZDhhbnBOV214cmVqMjcwOV90c0ZRNU5uYlVXbHlqcGliWEtLRFdULWJXQ1BHOGlXNEpRV2sydzlyLXlVUkFHOVlIamcwcExidktQTDZ6dXpLZmJDdkJabjlRY3BaYkdIalZmbDhPaGFFWGpQY3JucGU5ZXByajFnbVJkTGMxeks4bEtKcEJaM0k2TlA1dWtlVkp2MnppY0YtdmVxTzExRzhmUUNMYWRaLWM?oc=5",
+          "title": "Ilia Topuria reveals injury Aleksndre Topuria suffered at UFC Qatar, vows ‘2027, we’re coming for everything’"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUhwd2g3d0RuSTVtZktHR0dRT0NDS181eHdLNnpTMkFKQzFPNEFHM1lyWDNKUGFocW51cV9naXNhbnM4LXhmYXBOeGV4YXBJS1Q0TmhCX1IxQWJDUDQ5alIxcDRFYm5wNDM5eVdKVUZSZk5LWWozeVFkUzlpX3JaQlNUanVNTzBfTjNubDVLUUF3X0pkdjJjTkhKWkplbkFoa3VSbUF6VDB2MERBVko0cFZqelM?oc=5",
+          "title": "Ilia Topuria Reveals Brother Aleksandre Suffered Early Injury in UFC Qatar Loss"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTHhyZkV6a0pyMHk4Z1pSWnZ3QjB2VERpeGhLcFloT1U1NDVsbVVUTENPTERFQ3RWVTJXa3BJbjBXdkFRRGl3X3lqb19Fbm5Oak04Q2JGZUlINGhFb2pseFlWNzBmdW1lc0prNjFEajBFa181SDA0cUNWZnNWVHhpOFVxemxMYUtOdjc3VFZDZUxWb0pqSVNMWmhhdzlSVDJXWnZ4em1KTXR0YVFSa1BoLVN4UVlNRFBleDNWZ0o1eW1FcUVEa01fWllHUmJTUUsyZ180aXZ2Z3dqc1lXdnZabmY5aENNZWNIc3VpWE9kbThETjlRS0JsZDNiaEQ?oc=5",
+          "title": "Topuria brothers: Dislocated shoulder led to Aleksandre's UFC Qatar upset loss"
+        },
+        {
+          "source": "NY Fights",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82bmp5UnpjNXVhMmc3dkdIZDVELUVReUlGZjVibWp4OUM1V1VfeTJaQXJWUE81SlBhTzlPZ0QtYUtyM0dmN1JBVHN1R255WGw0VEZKSVdfdFNWcjZydXpYYlU4dFcxRUxHckRVY0lJWU1pRndfcEJwcENJMWg?oc=5",
+          "title": "Ilia Topuria Reveals Aleksandre Topuria Fought With Dislocated Shoulder in UFC Qatar Loss"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVjV5WTJERmVqTnVEX2Z3T3FtSG96aGlZNFdYQUdfNWZrczVxQ3ZaSjhnNVc4WDJ6Q2pVeGZ4ckZYSnZYTi1ZWlF0a2gwZjlLRzNfbmdiNm1sckRBdklOQ0JiUlZncXBMSmF1SEZxRWxBanIwekhDRVUyWHk4Q0d6X0ZPZEU0OVRVZVFfOE1fYXdBb3BnVGVvWlJvU3pSV2Z3NUJmNXU4Y2hYbFdCMVh2QVNMOC1LN2J5R3dsUlI1eUtHTjRuUkJyNkVrLW13OEhjWWVrMWV6UGJlLUZHNWQtVw?oc=5",
+          "title": "Ilia Topuria blames shoulder injury for brother Aleksandre’s UFC Qatar loss, tells critics where to shove it"
+        }
+      ]
+    },
+    {
+      "key": "746b66aa1f",
+      "title": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ",
+      "summary": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ vRINGe.com",
       "lang": "ru",
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 14.08,
+      "heat": 16.47,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-21T20:21:18+00:00",
+      "published": "2026-11-22T16:38:40+00:00",
       "refs": [
         {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXhlbzlEMEVBbkFIQ21fUWFsRzloWnJfV1BqLTlsb2ppWkctZ1NGTFNhdV8wOURCRWl0TWhuVzdGcXhka0RaNm9mam1pWnRnNXljUGVJWDRYZkpUaTM2TjJoNXc2R09uVDlxTndvczkzRlphYzV0eG94WWxzU1VpemE4bE5Ec1BvNUpSSWs1ZGhrSWdGeE1sR0VNdW1QTFZ1MzAzWFdEMHFrMG1LUXQ0Mi1iZmJBZndKZ0NrTtIBwgFBVV95cUxQNHJOMjRHVTJkMDhiMEkyTm1qZjFicExBQzBzNkNNTVRySEh5UXNmVkxHY0xZLVBMazNSbGx4NF9zSks4V2VqeG0xVzJtY3JHZ1F4dE1LYlFxbjhhUWV2Z2lEMFJTVGpsWWdXOVB4Q0RwTWpIVm9mdVBpQkwyZHRuRmRqY1I5cFgxQ2x4bUJSVU9xdmpjcm54bG9Zb0gxSlcwWndlVks2bjctQVBsR08xSERKVGJFbVFVU2NGOHNHR1lnZw?oc=5",
-          "title": "Ортега проиграл Хукеру на турнире UFC в Катаре и объявил о завершении карьеры в ММА"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzlKY2ZMYllCdkt5aTRxRHA0akRQQ0RxZ2pGTHIxWFNEU0xHU1NKVlFwMHZ6cFNwb24xalMtNFg1WjZHaXNzYjh4WWlrM1VSX2ZpNk9TMG80c0NaOTAzZ0JhNzJ3bGlHYzBGQ2VuOUNpaC1EbFNZZXB2VmN1UUtuN2U0M1B5MVlDSVhnaGJETEFPT04zM0ZkZ2paNkFmNWRtaW1SeG5xSnNaWXNJV1RxMEx2WlVoZVlyRUE?oc=5",
-          "title": "Бывший претендент на титул UFC Брайан Ортега объявил о завершении карьеры"
+          "source": "vRINGe.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWldYNEdOYWdZaF8yalVnVXVpc0xZVnlkZFo1ajUyNHZ5SE5UOXA3ekNZZVdRTlZtMWVuemxhdzJSNC0yRm1LVi1zdnU0ZThFbmZod0RLdEgteEcyRlRlU3d2ZVFjMjI3M0xZMHY2cm1PTjRkVmpid05XeXFrZUVHdjh5bFo3NElqdEhDelhEbw?oc=5",
+          "title": "UFC может провести первый турнир в Казахстане 1 мая в Алматы — СМИ"
         },
         {
           "source": "Allboxing",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdpM0xCemp4T1BQWUVQZDFSdWRVdHBWZ1pqNDd6aWdNcDh6YjFaRWp0U0c5VnZHQUVEOEJDSWZQbERBU0NEeHpzaDhYWEJERTU3ZU5vOWtMaGwxNTk0cHVWUzNhVXpPRU9mYnVEanh0RnVSbGRleDI5RXVxYWQwM2tGNlRpWGpzdVlab01HTG5oYzk0Y0JyN25PNXlFT05YVklCUGlqdlB0bktDbDkzdXl5LWhrZw?oc=5",
-          "title": "UFC Катар: Брайан Ортега проиграл Дэну Хукеру и объявил о завершении карьеры"
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTW12bUNJazZmWW5hUlRfTnlwcnZCNnUxdDdSSW9OaDFRbzdUV21Kc2Raem01TTZkNnVsQjFsTUN1aHBUVzRoSjY5OE9RQV9aNjJrUlhrcUF2eEVmSWVCQ3ZoWlZsN2ZxeE02X0ZnZ0U4WmZZZTlMRFZUamF2SFZCZzBxYXo4TmxjdWR1aEJ3?oc=5",
+          "title": "Первый турнир UFC в Казахстане пройдет 1 мая"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWxXNEJPNGZVU3FkUlBtMFBFcWFpRGp1ZjMwR2sxc2VNOTBIWFpKcmtkR3h2cEwySmJWTHJzTnBtam9pNFpOUVpRejRMZG5fLUMtLTZSUFZydWlmM3Q0MzRsRjlqaTZOQmo0OWEwVXhWd3lPZU1tS1NTTUZEd2FKNERXZll4Wk1ObVJXb1JneW4?oc=5",
+          "title": "UFC может впервые провести турнир в Казахстане 1 мая"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/amerikanskiy-boec-brayan-ortega-zayavil-o-namerenii-zavershit-kareru-posle-porazheniya-ot-hukera-na-turnire-ufc-v-dohe-2477463/",
-          "title": "Ортега заявил о намерении завершить карьеру после поражения от Хукера на турнире UFC в Дохе"
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/istochnik-ufc-mozhet-provesti-pervyy-turnir-v-kazahstane-1-maya-2027-goda-2477705/",
+          "title": "Источник: UFC может провести первый турнир в Казахстане 1 мая 2027 года"
         },
         {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGZGbmJJdFk1UW1yRGlBV3FnSHpSakdnYXJaWGpRN0d3R0ZSVXhYRTVrbmxjTkxLcUkyQjJxQTBqTUlYYWhWMFc3eDY1MWNMOERlUjVMNF9xY0dwZU9fdE1kdDgzUnJOc1RWN0lOSGNuYTlUTHlLbVI4S1dtd0ltQ19vVUpuR3VYRkxITnBKcS0yMm11RFNJV0FsaEZMYmo1MkhSMm9HRkVEdWI1ODhmVDE3Q3R4ejFBcldBVndWckRXbjRNQXFqRjFtb3B3M0VwUkM4WngtVEhWTDRoeTh3?oc=5",
-          "title": "Брайан Ортега завершил карьеру после поражения от Дэна Хукера на турнире UFC в Дохе"
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMm1scGlmdnZZak00U2FtbGpOM1Q4bG53dEUtS2xFbjZ3cmJZYUZ2VW45TDlnVzRfb1dBN1RCVDJiSFZYZEYtdkdGbXlzbFdLUV90R0lnZzlMSDhhXzFvdGtxVkJ6TVNDQ0Z2U1pfWFYxWWZKbzAtOGQxWnlNbG5fcVZ3OFM1UldzSkFSVFc5X2JpZ0JkWlNBZnZlUdIBoAFBVV95cUxNLWo3NkZPbkZVa1BEVXlyd0s0QlZzUDE2QmQ5MHBvd0lQQ0hkQm1NQVhVbFo2S3Y0cUl2UzFuYkY1NjFTRFJQNnBDWFc3V0N3MVM1ZmRCUmctV014SjNNeVRaYnlKN0JDMHRTRlpGbEVqRDR6OXFud19yT0dibWdXNDlKRXBxdkZYc2VkSnoyb2t6UmZvS1IySDZFMVZXeVVX?oc=5",
+          "title": "UFC планирует провести дебютный турнир в Казахстане 1 мая"
         },
         {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZG4tYmdmN29ZUGVMWXpacjJMcENnLW9RNHRwUWlFR1VBeGdtLXVveTJWZDc3aTBrYTZSUW16TmlVOU1oQTBlNmxYTVJfNzhrYlJ3Q05uV3dpV3lUcjl3R0swOXRsU0RsSzhBam9FVHNfeFJ2ejcxYktwUFllYWRtU0p2b1lZelF5andoeDA0TEczU09kYVJRbDFXcUNJenNzU0RLag?oc=5",
-          "title": "Хукер выиграл у Ортеги на турнире UFC Fight Night 294 в Дохе"
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVJWTW5KN1JZNWZwbkIwYkNZa25pYVV4WGhzZDJkMzdmMG9JMG0tMFdNaTctb2o0aXJqOEM0YzZzTEJaalExY1pkZlpWOGJvaV9qWTZqYW5ZMkgxWGpuMzFLTURYa29MNkdlV1NpdnNreXBRdks1bGZFRGRvNjVxN0RVZUVDZG45MGltaFFycGpIZGl4NEpaNUdaVENEbUZO?oc=5",
+          "title": "Первый турнир UFC в Казахстане может пройти уже 1 мая: назван город"
+        }
+      ]
+    },
+    {
+      "key": "2309b67faa",
+      "title": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement",
+      "summary": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.24,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-22T16:20:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQUVxOF9PZExoaHpaX2ppVVlBVzhkQUhnU0ZQbGl4b1I3dE9PN1Yza0VzVjJ0TzR5M3BrbU80SW1fS01FMjhYN096VmhJbDB4N21LLXI3Z0lfeHZYcXl3QjU1cVhuV0lWb1h2cWJvdkFRSUlSUXpMY2hmQ1VRSk9MUzNMendOdmV3WUxKUWE2WkV0WmlSUENRaGM1ZDlYNkQyZnpqek9YQ3p0MTdXbHk3dnBQZF9VQVdnVXBpM2FlR1dVVGw2aTBRUzBIMlBhTlh1eVl4Q3lnR3FCUFJLc0paVw?oc=5",
+          "title": "Dan Hooker says he tried to talk Brian Ortega out of UFC Qatar retirement"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0wydkhVNTFGVGhpYmk4QmNCb195Snh4amV1ZXBpU1VoQUtaUDcwRVNvbWRBWFh3N0ZHYWVTdVpOVW9MdnlVd1VJbXF5WkJDeHhnVGxBS3JwOUdSZlB1RkZIWWIxN005VDdqYTdaMUVxQlhqYXRPcThWRDFxY1EyNGdwUllXM0RKTFpYYWxYSQ?oc=5",
+          "title": "Brian Ortega Announces His UFC Retirement"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVdiTGdoY1BPV3pWN3gxNGtFZndlLUpKZ01MaktIN283VjJvMnFfSmZOaXAzUFU2dTVDY1ZKbmNLZEliMzNjTFBlenZaQWZNOVYtdUlhVF9aU1J6Umt5X2RfV2hzWTFwYW94RlNHUTRGVGdrYWtSaVBtclJTS3Vpb3pzdjVCTm9rRU5XN0RZU1BLc2pXeVpUYmZmRVRFT2hucWZUME52cDRoZFlfbW1LM0xCWkpFVUZsRzBOdnhZWkJXWWFJREhfUUtJcGQtek1IRFNzekx5aEhaUQ?oc=5",
+          "title": "UFC Qatar results: Dan Hooker calls out Max Holloway after win, Brian Ortega announces retirement"
+        },
+        {
+          "source": "NY Fights",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eWtVLURCTGRnQXhYZWFMMmFfLWJWTWF3dmR1N1hSTFQxNVlMNHhteVVnUTI2bElCVUtRRUEzTnNDMllyN19wSFRiV1J0NXVZUDduODJmQzhCYkMzVEdkdklSWjZrR2VmZEZOcHVxS3liMlNsdVhiNQ?oc=5",
+          "title": "Brian Ortega Hangs Up Gloves After Losing to Dan Hooker at UFC Qatar"
+        },
+        {
+          "source": "Orange County Register",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVRidk5RekpCSVRuUEVONUhGTlRMMTF0ck8yR0ZKWjNfTEgySGtiY2lpYnJRaVlUVXpCX0loZmE0RHpRQmM0TEdOSFhmVFhuTlRJNmJkOGgzekdXQlAybEp6VlJxeldIaDNZN0wtM2J0ejRNSnp0NS1Pa3JiLTBCMGVzMkIyd25xZGJpeDhndW8tclVkWjhyQVY3MzZPQnM?oc=5",
+          "title": "‘I healed’: UFC’s Brian Ortega retires after loss to Dan Hooker"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpTVmFnTEs4UWd3NVpLNXRoNkMxZmlweEdPVGhILVhlbTRmTTZ1b0QtMURtb2Z1OTNXcU1LazlrNHdQeHpCSE9PUUVxVTBfMTZ0VHNJcHM3Z1lJLUVEN1NuS3cyM3NkVzVMVFVBd3E3WVFleDFock5NT2hIa2s5V21aX3R6QWtYT290em93TFlJbEVJN3hDeU8tSVdCaWw0Nkk2cXV5VG1hWFNqYS1FRm1TWQ?oc=5",
+          "title": "Brian Ortega retires after losing every round against Dan Hooker at UFC Qatar"
         }
       ]
     }
