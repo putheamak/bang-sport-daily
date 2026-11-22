@@ -1,17 +1,14 @@
-2026-11-21 13:33:32,164 INFO Photo check "Cristiano_Ronaldo"_(5098214382).jpg (Wikimedia Commons, 1200x778): OK, licence 'CC BY-SA 2.0'
-2026-11-21 13:33:32,323 INFO Photo check 1_cristiano_ronaldo_2016.jpg (Wikimedia Commons, 3696x4912): OK, licence 'CC BY-SA 4.0'
-2026-11-21 13:33:32,492 INFO Photo check 2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg (Wikimedia Commons, 1065x1525): OK, licence 'CC BY-SA 4.0'
-2026-11-21 13:33:32,656 INFO Photo check CR7_museum_and_hotel_in_Funchal,_Madeira.JPG (Wikimedia Commons, 3020x1473): OK, licence 'CC BY-SA 3.0'
-2026-11-21 13:33:32,656 INFO Wikipedia article 'Cristiano Ronaldo': 50 file(s) listed, 4 free photo(s) usable
-2026-11-21 13:33:32,951 INFO Photo check Estádio_José_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg (Wikimedia Commons, 4000x3000): OK, licence 'CC BY 4.0'
-2026-11-21 13:33:33,277 INFO Photo check 2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg (Wikimedia Commons, 4995x3741): OK, licence 'CC BY-SA 2.0'
-2026-11-21 13:33:33,277 INFO Photos for 2026-11-21-athl-6d2c08 set from photos.yaml (6 photo(s))
-2026-11-21 13:33:34,297 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-21 13:33:41,886 INFO Photo check 2026-11-21-athl-6d2c08 #1 '"Cristiano Ronaldo"': OK
-2026-11-21 13:33:48,707 INFO Photo check 2026-11-21-athl-6d2c08 #2 'Cristiano Ronaldo playing for Portugal i': OK
-2026-11-21 13:33:56,231 INFO Photo check 2026-11-21-athl-6d2c08 #3 'Turin (Italy), Olympic "Grande Torino" S': OK
-2026-11-21 13:34:02,978 INFO Photo check 2026-11-21-athl-6d2c08 #4 'CR7 museum and hotel in Funchal, Madeira': OK
-2026-11-21 13:34:09,701 INFO Photo check 2026-11-21-athl-6d2c08 #5 'Estádio José Alvalade in Lisbon, home of': OK
-2026-11-21 13:34:16,002 INFO Photo check 2026-11-21-athl-6d2c08 #6 "Old Trafford, Manchester United's home, ": OK
-2026-11-21 13:34:16,694 INFO Website built: 63 published stories, 234 pages
-2026-11-21 13:34:16,696 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 19 ok / 0 failed (32,000 in / 29,920 out tokens) · estimated cost if billed: US$0.136
+2026-11-22 07:32:49,816 INFO Photo check Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg (Wikimedia Commons, 717x955): OK, licence 'CC BY-SA 2.0'
+2026-11-22 07:32:49,905 INFO Photo check Viswanathan_Anand_(2016)_(cropped).jpeg (Wikimedia Commons, 2621x2832): OK, licence 'CC BY 2.0'
+2026-11-22 07:32:49,906 INFO Photos for 2026-11-22-hist-478ccb set from photos.yaml (2 photo(s))
+2026-11-22 07:32:49,922 INFO Photo check 2026-11-22-hist-478ccb #1 'Magnus Carlsen': OK
+2026-11-22 07:32:49,922 INFO Photo check 2026-11-22-hist-478ccb #2 'Viswanathan Anand': OK
+2026-11-22 07:32:50,655 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-22 07:32:58,339 INFO Photo check 2026-11-22-news-54c55f #1 'Georgi Melkadze': OK
+2026-11-22 07:33:09,807 INFO Photo check 2026-11-22-news-54c55f #2 'Lechi Sadulayev': OK
+2026-11-22 07:33:17,582 INFO Photo check 2026-11-22-news-54c55f #3 'VEB Arena': OK
+2026-11-22 07:33:24,201 INFO Photo check 2026-11-22-news-e72338 #1 'Lauren Price': OK
+2026-11-22 07:33:31,386 INFO Photo check 2026-11-22-news-e72338 #2 'Joe Calzaghe': OK
+2026-11-22 07:33:38,707 INFO Photo check 2026-11-22-news-e72338 #3 'Cardiff International Arena': OK
+2026-11-22 07:33:39,408 INFO Website built: 65 published stories, 240 pages
+2026-11-22 07:33:39,410 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 40 ok / 0 failed (70,741 in / 62,298 out tokens) · estimated cost if billed: US$0.287

@@ -1,6 +1,6 @@
 # Photo review — 2026-11-22
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -9,17 +9,17 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Lauren_Price_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Lauren Price**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lauren_Price_in_2021.png)<br>AI sees: _Lauren Price wearing Team Great Britain attire in a boxing gym_
+**1. 🟢 OK** · cover<br>Caption: **Lauren Price**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lauren_Price_in_2021.png)<br>AI sees: _Welsh boxer Lauren Price in Great Britain team kit_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/JoeCalzaghe-July2007.jpg/1280px-JoeCalzaghe-July2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Joe Calzaghe**<br>2009 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JoeCalzaghe-July2007.jpg)<br>AI sees: _portrait of former boxer Joe Calzaghe in a suit with fists raised_
+**2. 🟢 OK**<br>Caption: **Joe Calzaghe**<br>2009 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JoeCalzaghe-July2007.jpg)<br>AI sees: _Joe Calzaghe in a suit with raised fists_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Utilita_Arena_Cardiff_September_2023_10.jpg/1280px-Utilita_Arena_Cardiff_September_2023_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**3. 🟢 OK**<br>Caption: **Cardiff International Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Utilita_Arena_Cardiff_September_2023_10.jpg)<br>AI sees: _Exterior of Utilita Arena Cardiff, formerly Cardiff International Arena_
+**3. 🟢 OK**<br>Caption: **Cardiff International Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Utilita_Arena_Cardiff_September_2023_10.jpg)<br>AI sees: _Exterior of Utilita Arena Cardiff (Cardiff International Arena)_
 <br clear="left">
 
 ---
@@ -29,17 +29,17 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Georgi_Melkadze_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Georgi Melkadze**<br>2022 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Georgi_Melkadze_2022.jpg)<br>AI sees: _Georgi Melkadze in action for PFC Sochi_
+**1. 🟢 OK** · cover<br>Caption: **Georgi Melkadze**<br>2022 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Georgi_Melkadze_2022.jpg)<br>AI sees: _Georgi Melkadze playing football for PFC Sochi_
 <br clear="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Lechi_Sadulayev_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**2. 🔴 WRONG**<br>Caption: **Lechi Sadulayev**<br>Asked for: Lechi Sadulaev → got page: Lechi Sadulayev<br>2019 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lechi_Sadulayev_2019.jpg)<br>AI sees: _Footballer playing for FC Akhmat Grozny in 2019_<br>Why: Plausibly shows Lechi Sadulaev playing for FC Akhmat Grozny in their 2019 kit.<br>⚑ asked for 'Lechi Sadulaev' but the photo comes from the page 'Lechi Sadulayev'
+**2. 🟢 OK**<br>Caption: **Lechi Sadulayev**<br>Asked for: Lechi Sadulaev → got page: Lechi Sadulayev<br>2019 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lechi_Sadulayev_2019.jpg)<br>AI sees: _a football player in an Akhmat Grozny kit on the pitch_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Arena_CSKA.jpg/1280px-Arena_CSKA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**3. 🟢 OK**<br>Caption: **VEB Arena**<br>2016 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Arena_CSKA.jpg)<br>AI sees: _aerial view of VEB Arena in Moscow_
+**3. 🟢 OK**<br>Caption: **VEB Arena**<br>2016 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Arena_CSKA.jpg)<br>AI sees: _VEB Arena (CSKA Moscow stadium) with skyscraper tower_
 <br clear="left">
 
 ---
@@ -49,17 +49,12 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Magnus Carlsen**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg)<br>AI sees: _chess grandmaster Magnus Carlsen_
+**1. 🟢 OK** · cover<br>Caption: **Magnus Carlsen**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg)
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/1280px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Viswanathan Anand**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg)<br>AI sees: _Viswanathan Anand seated at a chess board_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/VishyAnand09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🔴 WRONG**<br>Caption: **World Chess Championship 2013**<br>2009 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:VishyAnand09.jpg)<br>AI sees: _Viswanathan Anand playing at the Chess Classic tournament in Mainz_<br>Why: Visible branding on the clock and backdrop ('Chess Classic', 'Hilton Mainz') contradicts the caption 'World Chess Championship 2013'.
+**2. 🟢 OK**<br>Caption: **Viswanathan Anand**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg)
 <br clear="left">
 
 ---
