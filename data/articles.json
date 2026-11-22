@@ -1,5 +1,202 @@
 [
   {
+    "id": "2026-11-22-news-1b71a7",
+    "slug": "navajo-stirling-knocks-out-jiri-prochazka-at-ufc-qatar-in-ca",
+    "date": "2026-11-22",
+    "created": "2026-11-22T16:01:40+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "MMA",
+    "tags": [
+      "UFC",
+      "Navajo Stirling",
+      "Jiri Prochazka",
+      "Carlos Ulberg",
+      "UFC Qatar",
+      "MMA"
+    ],
+    "athletes": [
+      "Navajo Stirling",
+      "Jiří Procházka",
+      "Carlos Ulberg"
+    ],
+    "image_subjects": [
+      "Navajo Stirling",
+      "Jiří Procházka",
+      "Carlos Ulberg",
+      "City Kickboxing"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "BBC Sport: Rising star Stirling knocks out Prochazka",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o"
+      },
+      {
+        "title": "Sherdog: Navajo Stirling knocks out Jiri Prochazka in UFC Qatar main event",
+        "url": "https://www.sherdog.com"
+      },
+      {
+        "title": "Wikipedia: UFC Fight Night: Procházka vs. Stirling",
+        "url": "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Proch%C3%A1zka_vs._Stirling"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaLW_mAN443ur6WHaul3ZNo4xUiB7XuqXryZ1EYYjWpIQL--miR1Eon5ql24FzdkY7t_y9WtsVmczkYc3zg7nu_tjFiuuhWw4TQxIOcJCzyjHPeFgKzsUq4stbJpGl8XT_d4kgScr1C94JzoCjpTfyZZ2trlmNx3xWmG0LL7_Ozw=="
+      },
+      {
+        "title": "sherdog.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPQT7xQDgBOzM9oy7vCY4y8nWVpupNKUdEb42-N_Smejr8xtweq5GD9sAnvS49A7Zwr9tHcyV9p3XpxGZipbm7d0iD365nZTgIZzydSOXUmj4g8r9cowCI2w96D9WJcccB50LSFfv3aixMwKO1RTM2qELBYt6IxXiFBhhqL4vozTxV0WLjVdBNDvdOcUVBw_q8i3SPOyJd1rCDB0CGBl9H"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-83rNyPt2_dErgeWYZa1PkKdq4YJH72pxRPNvKX7G4yPeWgb6RonSHjJu1Czgdp-mJOVNJA3gaCCot57DCyAhdGRJOYry10uGSOfxssy7g36W9YQLqMycGtuH4-IDcDswkj-wbLyD3QjMse4E_ow4LU3mmOOocG4H-d7GZ74FGdQT9OHS8KzKs9cJ1e8YSiqOR_KMQ8M8g=="
+      },
+      {
+        "title": "geosuper.tv",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFK7jlCLD6NaeEHErZCet_O9tL8ZgHSiM8r2lH7A2HC-Jq7FK86lIouzTtzKUY2W1peWe8d3-7gJsJiUq384tXNkFZuYUmacAJ9x3mkml0l_bXG0QoytAWMMLc86dGDsXqAkQH-RcQQFqvNspx645pdYRLTwuPDPG5ZZeFRjs-aqBOz3H-ACh8XzjLEL46IKH4lnzWjU5jl8Y="
+      },
+      {
+        "title": "mixedmartialarts.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQV47Gyb1KOLxpxmNaAgcY1wtDol9xLA7dMzHZOIkhrbMCe2QA_w_cxc90Ye0l4lhmbF4WR4dXfxJQup_WXQLLZ2fkkQIvlk6nmYUCPiJqpk9n5AUyvSsToSdI9viavP7edYD8GjuMIrRhkXzy0nVD4CnogesKbWU3XFi29_ZNQ8TiQ6VisAMCpqcQ38m57AGO3tlu9qQXM3ZhOeVeet4-lUySTUwGvNHgIU9oZMJ3j6LVnM-4F-K-16-TUUTGznXNzHXg8VUgezk1WkTnAt2RqksC6QHd5_V65-5o8PBuPjaQQA=="
+      },
+      {
+        "title": "gmanetwork.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnu_frZAgxBZx820uidyum_IRE8QAxAK9LCW3LQsG7b7NqIlSx4xQFdGqsJBX7uKOH1lTZ38OW3hygYoAIkGC_7HE-nAOtCugScjV-n7pvVob6LWtP-hhfCx8jFQM0tEbDw76OhKBe4O5hLgpxbQMScormcOS377wQ_Ln6as49H_RFN_PIDuBoqjn3iBYAN2BvlxeAiy86Au30gW35gZfzJB_B4GlHtY_kUCwAagqD-QWK"
+      },
+      {
+        "title": "sherdog.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQp9KLdPyeCF-PBufT4boUyac89-SWiszKbmQB9qIJEREbIm0cpIQSQ1cWUzhUcn4FnLASMSL0oAlAzISpMToB7n_HgxVGa3R-QVP5k577mo54eLysSWblJqXI6sKzMu2KA9rEOsLT-bUYRPd21YSczysv4HL47hmMulYVwA7yG2M801JVhm6jsCB2mvW5VUEgK3W3sw=="
+      },
+      {
+        "title": "The Lufkin Daily News: Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRE0zT1poNC1RSktyYzVodWw2WGVTdzJWa2RJY1JDTWxmYm9rSUhrV1FQYy1oUURXajR5WjRVUXR2aW5YWjVuNm43VUVuVkdvRm01eHpQbVdjeTVTMnhCSnRRNU5aSUdYLUE2M3FCTkdJRVFKc3FTTTNWaE5YYlZvdVlkVXBlQ0NfSTFidkJENzVkdmVQWURSandQYjUxd2JFYS16M1RrS0VuNXpJbndRMEplbkw4d1JlcG1VSVZ0Ynl1NjlDSFBIakxraklOVEZIbUYxOC1Ea3hUZ05mSmc2YzdhOGlicFhGdGhzb3ZDRHNUTm5VZzB4czlkNA?oc=5"
+      },
+      {
+        "title": "MMA Junkie: UFC Qatar results: Navajo Stirling starches Jiri Prochazka in Round 2",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDdfRE91NDRtbWhDV09YX2hhYzA2WXliMDdDR290cTBkbkFUcEVsUXJDSnM4bGdFQkNEd0FlSjJWSTkxTlFYQkNON1NBM095dmM2S3l5VjZGaW5vZ0NEaGs5NGg2UWxlODNoeDNZVUpDcEFSS0NoeV9aTjM2NnAzek0teTBMUTY2cVJpUk5ja3o0djRIaXROYi1HS1pVVmxSNTJsQmJPZWtmcmxnSUNoOTR2NHNlT3l0WDQ4eUJaR3Rqa3BwTU84cQ?oc=5"
+      },
+      {
+        "title": "BBC Sport: Rising star Stirling knocks out Prochazka",
+        "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "ESPN: Navajo Stirling knocks out another ex-champ in Jirí Procházka to cap Fight Night",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcXR0Wkpyam9VSDQ5cUVmOVQ0RFNaT1lPTDdvS1kwQVFzdThzd0dydUVlUjdRc2w5bUNlVHdXeFkwVzlGOUNLR19MRXRvSkxySEFCQ19SaVNDdnBRNWtsTXJqNmx0MnUwcUFHUUNDRUNKY3ptYk45TG5nbHZRTy1ndmVZVEFjU2tMWGVkeFdMall2Ui0zQnNFZmhRLTB6RXdHWWc?oc=5"
+      },
+      {
+        "title": "MMA Fighting: ‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTFlpcVBlSzNzMjRRNl93U19lS2tXTDRNUEJTSzhqZFJfT2FmcUxWX2dDTmtZWllOc2hSQ083eXZxWkRBYURjbDBKU2ViQkluLWxydmZVakhMZWcxempCNGxSSDkzY1BvZ1pKX3gxN3puNGk3SVJRQ0kzSVhsV01NYk1yQlJXSzNEb3dlT0FwZlA4aTB0YVJuMldUNlVkVzBKalFDZ0JLUF9WOFpob0RiUTFHbDNKRUxGV3U4OG43ZnRwZ0xvMkdDU2daM1VQY09jbTBNSjRWV0xsYmZzclpWazZVUmk?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: ‘Need to go to 185’: Pros react to Jiri Prochazka suffering disappointing knockout to Navajo Stirling at UFC Qatar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemtLa1drMVNZREhkQUlhRlJVLUxFcmtpX3VscVZRM3F4V2dfZnEyYzQ5dXpubnFrZlEwb2dNS0s4VmVVNk9BbTRET216SGRoRHdCd2l5bnN3ajFUY2Y1NHZ2U29OY1FnN2xabFlYbzNpcnIwRWtJZEYzcG94bkFWc0RXUHQ?oc=5"
+      },
+      {
+        "title": "UFC.com: Navajo Stirling Stuns Jiri Prochazka in Round 2 | UFC Qatar",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5YmxsRUVabUowbFQ1QW4xSElyUmk3bXdoWEJJTGJCaTJ6d0NDRERQZHU2ZURiZ2QxZmdldlBQbXBTaGg0eERB?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.022,
+      "longest": 14,
+      "phrases": [
+        "i'm not too sure yet we'll figure something out and see who's above me",
+        "stirling was the better fighter on the night"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Navajo Stirling Knocks Out Jiri Prochazka at UFC Qatar in Career-Defining Win",
+      "seo_title": "Navajo Stirling KOs Jiri Prochazka: UFC Qatar result",
+      "subheadline": "The unbeaten New Zealand light-heavyweight stopped the former champion with two seconds left in round two to move to 12-0.",
+      "body_markdown": "## What happened\nNavajo Stirling delivered a statement victory on Saturday, November 21, 2026, knocking out former light-heavyweight champion Jiří Procházka in the main event of UFC Fight Night in Qatar. The 29-year-old New Zealander controlled distance with leg kicks across the first two rounds before landing a decisive right hook with two seconds left in the second frame. Procházka hit the canvas at the 4:58 mark, and referee Marc Goddard stopped the contest following a brief flurry of ground strikes. The defeat marked the Czech veteran's second straight loss, while Procházka acknowledged Stirling was \"the better fighter\" on the night.\n\n## Why it is being talked about\nStirling's finish capped an explosive calendar year that places him in contention for the UFC's fighter of the year honours. After dispatching former divisional king Jan Błachowicz in August, Stirling took out another former world champion in Procházka without absorbing significant damage. The clinical performance pushed the Auckland-based striker into the elite tier of the 205-pound division after just four years as a professional mixed martial artist. However, his swift ascent introduces a major logistical puzzle for the UFC: reigning light-heavyweight champion Carlos Ulberg is Stirling's long-time teammate and close friend at New Zealand's City Kickboxing gym.\n\n## Key facts and numbers\n- **12-0:** Stirling's unblemished professional mixed martial arts record.\n- **4:** Consecutive knockout victories for Stirling in 2026.\n- **4:58:** The official time in round two when referee Marc Goddard waved off the fight.\n- **32-6-1:** Procházka's career record across 40 professional bouts (32 victories).\n- **$100,000:** Performance bonus awarded to Stirling following the headline stoppage in Qatar.\n\n## What happens next\nStirling's immediate path to the title remains complicated by gym loyalty. Ulberg, who dethroned Procházka in April 2026, is currently rehabilitating a torn anterior cruciate ligament suffered in that bout and has not competed since. Teammates rarely agree to fight each other, and Stirling distanced himself from calling out Ulberg inside the Octagon, stating: \"I'm not too sure yet, we'll figure something out and see who's above me.\" UFC matchmakers must now decide whether to match Stirling against another top contender or position him for an interim title clash while Ulberg works toward full fitness.",
+      "social_post": "New Zealand's Navajo Stirling extended his undefeated record to 12-0 with a thunderous second-round knockout of former champion Jiří Procházka at UFC Fight Night in Qatar. With four straight knockout wins in 2026, Stirling has cemented his spot among the elite light-heavyweights. But with his City Kickboxing teammate Carlos Ulberg holding the belt, a title clash is complicated. Should the UFC book Stirling for an interim title, or wait for Ulberg to return from his ACL injury? Share your thoughts below! #UFCQatar #UFC #MMA"
+    },
+    "zh": {
+      "headline": "纳瓦霍·斯特林KO终结普罗哈兹卡，UFC卡塔尔站迎来生涯里程碑之夜",
+      "seo_title": "斯特林KO普罗哈兹卡：UFC卡塔尔站赛果",
+      "subheadline": "新西兰不败轻重量级新星在第二回合仅剩两秒时终结前冠军，将职业战绩改写为12战全胜。",
+      "body_markdown": "## 事件回顾\n2026年11月21日星期六，纳瓦霍·斯特林（Navajo Stirling）在UFC卡塔尔格斗之夜的头条主赛中带来震撼表现，强势KO前轻重量级冠军伊日·普罗哈兹卡（Jiří Procházka）。在前两个回合中，这位29岁的新西兰悍将通过精准的腿法牢牢掌控距离，并在第二回合比赛仅剩两秒时，轰出一记决定性的右勾拳击倒对手。普罗哈兹卡在倒地时计时器定格在4分58秒，当值裁判马克·戈达德（Marc Goddard）在斯特林跟进几记地面砸拳后迅速叫停了比赛。这场失利让捷克老将吞下两连败，而普罗哈兹卡赛后也坦言斯特林当晚确实是“表现更好的那一方”。\n\n## 焦点解读\n斯特林这记利落的终结，为他极具爆发力的2026年画上了一个惊艳的句号，也让他直接进入了UFC年度最佳拳手的讨论范畴。继今年8月击败前级别霸主扬·布拉霍维奇（Jan Błachowicz）之后，斯特林又在几乎没有遭受实质性打击的情况下，轻取另一位前世界冠军。转入职业MMA领域仅仅四年，这位常驻奥克兰的站立打击手便已强势杀入205磅的精英梯队。然而，他的飞速蹿升也给UFC出了一道棘手的对阵难题：现任轻重量级冠军卡洛斯·阿尔伯格（Carlos Ulberg）不仅是他的同门队友，更是他在新西兰城市踢拳馆（City Kickboxing）的挚友。\n\n## 关键数据\n- **12胜0负：** 斯特林在职业综合格斗赛场上保持的完美不败战绩。\n- **4：** 斯特林在2026自然年内斩获的连续KO终结胜场数。\n- **4分58秒：** 第二回合中，裁判马克·戈达德挥手终止比赛的官方时间。\n- **32胜6负1平：** 普罗哈兹卡职业生涯40场大战的战绩（32场胜绩）。\n- **100,000美元：** 斯特林凭借这场头条主赛的惊艳终结所拿到的“最佳表现”花红奖金。\n\n## 后续看点\n受限于拳馆兄弟情谊，斯特林的直接争冠之路变得颇为复杂。阿尔伯格在2026年4月拉下普罗哈兹卡登顶金腰带，但在该场对决中遭遇前交叉韧带撕裂，目前仍在康复期，此后尚未出战。同门队友之间极少同意自相残杀，斯特林在八角笼内也刻意回避了向阿尔伯格叫阵，他表示：“我现在还不太确定，我们会想出解决办法的，先看看排在我前面的还有谁。”UFC对阵策划团队如今必须做出抉择：是安排斯特林面对另一位高排位竞争者，还是趁阿尔伯格全力康复之际，为斯特林铺设一场临时冠军争夺战。",
+      "social_post": "新西兰名将纳瓦霍·斯特林在UFC卡塔尔站第二回合读秒阶段轰出雷霆KO，力克前冠军普罗哈兹卡，豪取职业生涯12连胜！2026年斩获4连KO终结的斯特林已昂首迈入轻重量级顶级行列。但面对同门师兄兼好友、现役冠军阿尔伯格，金腰带之争陷入两难。UFC该为他安排临时冠军战，还是等待阿尔伯格伤愈归来？欢迎在评论区留下你的看法！ #UFC卡塔尔 #UFC #MMA #格斗"
+    },
+    "ru": {
+      "headline": "Навахо Стирлинг нокаутировал Иржи Прохазку на UFC в Катаре, одержав главную победу в карьере",
+      "seo_title": "Стирлинг нокаутировал Прохазку: результат UFC в Катаре",
+      "subheadline": "Непобежденный новозеландский полутяжеловес финишировал экс-чемпиона за две секунды до конца второго раунда и довел рекорд до 12-0.",
+      "body_markdown": "## Как это было\nВ субботу, 21 ноября 2026 года, Навахо Стирлинг (Navajo Stirling) громко заявил о себе, нокаутировав бывшего чемпиона в полутяжелом весе Иржи Прохазку (Jiří Procházka) в главном событии турнира UFC Fight Night в Катаре. 29-летний новозеландец на протяжении двух раундов уверенно контролировал дистанцию лоу-киками, а за две секунды до конца второго отрезка нанес сокрушительный правый хук. Прохазка рухнул на канвас на отметке 4:58, и после короткого добивания рефери Марк Годдард (Marc Goddard) остановил поединок. Для чешского ветерана это поражение стало вторым подряд; сам Прохазка признал, что в этот вечер Стирлинг «был лучше».\n\n## Почему это обсуждают\nЯркий финиш поставил эффектную точку в невероятном сезоне Стирлинга, включив его в число главных претендентов на звание «Боец года» в UFC. В августе новозеландец одолел экс-обладателя титула Яна Блаховича (Jan Błachowicz), а теперь расправился с еще одним экс-чемпионом дивизиона, не пропустив при этом серьезного урона. За четыре года в профессиональных MMA ударник из Окленда ворвался в мировую элиту категории до 93 кг. Однако столь стремительный взлет ставит перед матчмейкерами лиги непростую головоломку: действующий чемпион Карлос Ульберг (Carlos Ulberg) — многолетний спарринг-партнер и близкий друг Стирлинга по залу City Kickboxing.\n\n## Ключевые цифры и факты\n- **12-0:** безупречный рекорд Стирлинга в профессиональных ММА.\n- **4:** победы нокаутом подряд одержал Стирлинг в 2026 году.\n- **4:58:** официальное время остановки боя рефери Марком Годдардом во втором раунде.\n- **32-6-1:** статистика боев Прохазки за карьеру из 40 поединков (32 победы).\n- **$100 000:** бонус за «Выступление вечера», присужденный Стирлингу по итогам турнира в Катаре.\n\n## Что дальше\nКлубная солидарность заметно усложняет прямой титульный путь Стирлинга. Ульберг, отобравший пояс у Прохазки в апреле 2026 года, восстанавливается после разрыва передней крестообразной связки, полученного в том бою, и с тех пор в октагон не выходил. Одноклубники редко соглашаются на поединки друг с другом, поэтому Стирлинг не стал бросать вызов чемпиону прямо в клетке, заявив: «Я пока не уверен, мы что-нибудь придумаем и посмотрим, кто там выше меня». Теперь матчмейкерам UFC предстоит решить: свести Стирлинга с другим топовым претендентом или организовать бой за временный пояс, пока Ульберг набирает кондиции.",
+      "social_post": "Новозеландец Навахо Стирлинг продлил победную серию до 12-0, брутально нокаутировав экс-чемпиона Иржи Прохазку под занавес второго раунда на UFC Fight Night в Катаре! Четыре нокаута за 2026 год окончательно закрепили Стирлинга в элите полутяжелого веса. Но поясом владеет его друг по City Kickboxing Карлос Ульберг. Что делать UFC: разыграть временный титул или ждать возвращения Ульберга после травмы «крестов»? Делитесь мнением в комментариях! #UFCQatar #UFC #ММА #СтирлингПрохазка"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "fc263a5a2e",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg",
+        "artist": "The White House",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "motorcycle stunts on the South Lawn of the White House ahead of UFC Freedom 250, Saturday, June 13, 2026",
+        "width": 1200,
+        "height": 1867,
+        "year": 2026,
+        "subject": "Carlos Ulberg",
+        "asked": "Carlos Ulberg",
+        "page_title": "Carlos Ulberg",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:motorcycle_stunts_on_the_south_lawn_of_the_white_house_ahead_of_ufc_freedom_250,_saturday,_june_13,_2026_-_11(cropped).jpg|Carlos Ulberg",
+          "verdict": "ok",
+          "flags": [
+            "file looks like a non-sport scene (White House)"
+          ],
+          "shows": "UFC fighter Carlos Ulberg seated outdoors holding a microphone",
+          "reason": "The photo clearly depicts UFC light heavyweight fighter Carlos Ulberg.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JiriProchazka2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png",
+        "artist": "Show Jana Krause",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Jiří Procházka giving an interview for a Czech media in 2022",
+        "width": 1200,
+        "height": 1567,
+        "year": 2022,
+        "subject": "Jiří Procházka",
+        "asked": "Jiří Procházka",
+        "page_title": "Jiří Procházka",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:jiriprochazka2022.png|Jiří Procházka",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Jiří Procházka in a suit during an interview",
+          "reason": "The image clearly shows Czech MMA fighter Jiří Procházka matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://www.sherdog.com"
+      }
+    ]
+  },
+  {
     "id": "2026-11-22-news-ab9fc0",
     "slug": "man-wei-chong-and-tee-kai-wun-end-malaysia-s-27-year-hong-ko",
     "date": "2026-11-22",
