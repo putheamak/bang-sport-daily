@@ -238,3 +238,12 @@
       caption: "Magnus Carlsen"
     - commons: "File:Viswanathan_Anand_(2016)_(cropped).jpeg"
       caption: "Viswanathan Anand"
+
+# 22 Nov 2026: no free photo of Navajo Stirling exists; the champion and his teammate leads, with a clear caption.
+2026-11-22-news-1b71a7:
+  mode: replace
+  photos:
+    - commons: "File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg"
+      caption: "Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate"
+    - commons: "File:JiriProchazka2022.png"
+      caption: "Jiří Procházka"
