@@ -45,10 +45,14 @@ OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing 
   "tags": [str], "athletes": [str], "image_subjects": [str], "facts_to_verify": [str],
   "sources_used": [{{"title": str, "url": str}}], "match": null or {{"competition": str, "date": "D Month YYYY",
   "home": str, "away": str, "home_score": int, "away_score": int, "home_scorers": [str], "away_scorers": [str],
-  "note": str}}}}
+  "note": str}}, "fight": null or {{"event": str, "date": "D Month YYYY", "winner": str, "loser": str,
+  "method": str, "round": int, "time": str, "note": str}}}}
 - match: ONLY when the story is about one finished match or game with a final score confirmed by the sources;
   otherwise null. Scorers like "Esposito 26'" or "Esposito 61' (pen)"; leave lists empty if the sources do not
   name scorers. note: one short line such as "Italy top Group A1". Never guess a score.
+- fight: ONLY for one finished combat-sports bout (MMA, boxing, kickboxing, Muay Thai, Kun Khmer) with the result
+  confirmed by the sources; otherwise null. method like "KO", "TKO (punches)", "Submission (rear-naked choke)",
+  "Unanimous decision"; round and time only if the sources give them. note: one short line such as "Stirling moves to 12-0".
 - image_subjects: 3-4 exact English Wikipedia article titles for photos of what the story is about: the people
   who decided it first (scorers, winners, coaches, the athlete), then teams, then the venue (e.g. "Yao Ming",
   "Houston Rockets", "Toyota Center"). Never a person who is not in the story.
@@ -295,6 +299,7 @@ def write_article(cfg: dict, kind: str, ctx: dict, date: str) -> dict:
         "tags": en.get("tags", []), "athletes": en.get("athletes", []),
         "image_subjects": en.get("image_subjects", []),
         "match": en.get("match") if isinstance(en.get("match"), dict) else None,
+        "fight": en.get("fight") if isinstance(en.get("fight"), dict) else None,
         "facts_to_verify": en.get("facts_to_verify", []), "sources": sources, "published_to": [],
         "originality": locals().get("orig"),
         "grounded": bool(locals().get("cites")) or bool(ctx.get("source_links")),

@@ -1292,3 +1292,13 @@ def test_result_after_preview_is_not_a_repeat():
     assert len(drop_previews_and_repeats(items, ours, "2026-11-22")) == 1
     ours2 = [{"date": "2026-11-22", "en": {"headline": "Navajo Stirling Knocks Out Jiri Prochazka in Qatar"}, "sources": []}]
     assert drop_previews_and_repeats(items, ours2, "2026-11-22") == []
+
+
+def test_fight_card_leads_when_asked(tmp_path, monkeypatch):
+    from sportnews import images
+    monkeypatch.setattr(images, "match_card", lambda a: None)
+    a = {"id": "t-fight", "images": [{"url": "https://u/p.jpg", "subject": "Jiří Procházka"}],
+         "fight": {"event": "UFC Fight Night 294", "winner": "Navajo Stirling", "loser": "Jiří Procházka",
+                   "method": "KO", "round": 2, "time": "4:58", "card_first": True}}
+    assert images.ensure_match_card(a)
+    assert a["images"][0]["card"] and a["images"][0]["subject"].startswith("Navajo Stirling def. Jiří Procházka · KO · Round 2 · 4:58")

@@ -302,6 +302,11 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
             continue
         if isinstance(spec, dict) and "embeds" in spec:       # official Instagram/Facebook posts (click-to-load)
             a["embeds"] = [x for x in (parse_embed(e) for e in spec.get("embeds") or []) if x]
+        if isinstance(spec, dict) and valid_fight(spec.get("fight")):   # fight result card set by the editor
+            if a.get("fight") != spec["fight"]:
+                a["fight"] = dict(spec["fight"])
+                a["images"] = [i for i in (a.get("images") or []) if not i.get("card")]
+                a.pop("photos_override", None)                  # redraw the card
         key = json.dumps(spec, sort_keys=True, ensure_ascii=False)
         if a.get("photos_override") == key:
             continue
@@ -479,10 +484,75 @@ def match_card(a: dict) -> dict | None:
             "via": "", "card": True, "year": _D.today().year, "width": W, "height": H}
 
 
+def valid_fight(f) -> bool:
+    return bool(isinstance(f, dict) and f.get("winner") and f.get("loser"))
+
+
+def fight_card(a: dict) -> dict | None:
+    """Combat sports result graphic: "Winner def. Loser · KO · Round 2 · 4:58" (22 Nov 2026: no free photo of
+    Navajo Stirling existed, so the cover of his knockout story is this card). Our own work, always free to use."""
+    f = a.get("fight")
+    if not valid_fight(f):
+        return None
+    from PIL import Image, ImageDraw
+    from .common import ROOT
+    W, H = 1200, 675
+    img = Image.new("RGB", (W, H), (17, 20, 26))
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, W, 12], fill=(220, 30, 40))
+    def center(text, y, font, fill=(255, 255, 255), x0=0, x1=W):
+        w = d.textlength(text, font=font)
+        d.text((x0 + (x1 - x0 - w) / 2, y), text, font=font, fill=fill)
+    def fit(text, size, maxw):
+        fnt = _font(size)
+        while d.textlength(text, font=fnt) > maxw and size > 20:
+            size -= 2
+            fnt = _font(size)
+        return fnt
+    ev = str(f.get("event") or "").upper()
+    center(ev, 50, fit(ev, 34, 1100), (200, 200, 205))
+    if f.get("date"):
+        center(str(f["date"]), 98, _font(26, False), (150, 150, 160))
+    win, lose = str(f["winner"]), str(f["loser"])
+    center("WIN", 190, _font(28), (60, 200, 110), 40, 470)
+    center(win, 240, fit(win, 56, 400), x0=40, x1=470)
+    center("def.", 236, _font(44, False), (170, 170, 180), 470, 730)
+    center(lose, 240, fit(lose, 56, 400), (190, 190, 200), 730, W - 40)
+    bits = [str(x) for x in (f.get("method"), f.get("round") and f"Round {f['round']}", f.get("time")) if x]
+    if bits:
+        line = " · ".join(bits)
+        center(line, 380, fit(line, 52, 1100), (255, 255, 255))
+    if f.get("note"):
+        center(str(f["note"]), 560, fit(str(f["note"]), 26, 1100), (230, 230, 235))
+    d.text((40, H - 50), "BANG SPORT DAILY", font=_font(22), fill=(220, 30, 40))
+    name = f"card-{a['id']}.png"
+    out = ROOT / "docs" / "photos" / name
+    out.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out, "PNG", optimize=True)
+    from datetime import date as _D
+    subj = f"{win} def. {lose}" + (f" · {' · '.join(bits)}" if bits else "") + (f" · {f.get('event')}" if f.get("event") else "")
+    return {"url": f"../photos/{name}", "page": "", "artist": "Bang Sport Daily (graphic)", "license": "Own work",
+            "license_url": "", "subject": subj, "via": "", "card": True, "year": _D.today().year, "width": W, "height": H}
+
+
 def ensure_match_card(a: dict) -> bool:
-    """Add the match card after the photos (a photo stays the cover) if the story is about one finished match."""
+    """Add the match card after the photos (a photo stays the cover) if the story is about one finished match,
+    or the fight card if it is about one finished fight (editor: the card leads when there is no photo of the winner)."""
     imgs = a.get("images") or []
-    if any(i.get("card") for i in imgs) or not valid_match(a.get("match")):
+    if any(i.get("card") for i in imgs):
+        return False
+    if valid_fight(a.get("fight")) and not valid_match(a.get("match")):
+        try:
+            card = fight_card(a)
+        except Exception as e:  # noqa: BLE001
+            log.warning("Fight card failed for %s: %s", a.get("id"), e)
+            return False
+        if card:
+            a["images"] = ([card] + imgs) if a.get("fight", {}).get("card_first") else (imgs + [card])
+            log.info("Fight card added to %s", a.get("id"))
+            return True
+        return False
+    if not valid_match(a.get("match")):
         return False
     try:
         card = match_card(a)
