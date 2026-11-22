@@ -1283,3 +1283,12 @@ def test_transliteration_and_live_updates():
     assert LIVE.search("ЦСКА – «Ахмат» — 0:2. Грозненцы забили второй гол в матче РПЛ. Видео")
     assert not LIVE.search("Lauren Price beats Kotaskova to become undisputed champion")
     assert not LIVE.search("ЦСКА проиграл «Ахмату» 0:2 в матче 15-го тура РПЛ")
+
+
+def test_result_after_preview_is_not_a_repeat():
+    from sportnews.pipeline import drop_previews_and_repeats
+    ours = [{"date": "2026-11-21", "en": {"headline": "Procházka and Navajo Stirling Make Weight Ahead of UFC Qatar Main Event"}, "sources": []}]
+    items = [{"title": "Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar", "link": "x"}]
+    assert len(drop_previews_and_repeats(items, ours, "2026-11-22")) == 1
+    ours2 = [{"date": "2026-11-22", "en": {"headline": "Navajo Stirling Knocks Out Jiri Prochazka in Qatar"}, "sources": []}]
+    assert drop_previews_and_repeats(items, ours2, "2026-11-22") == []

@@ -15,6 +15,10 @@ PREVIEW = re.compile(
     r"odds|betting|scouting report|starting xi|probable|confirmed team|"
     r"превью|прогноз|составы|анонс|где смотреть|онлайн-трансляц|"
     r"前瞻|预测|首发|直播|赛前)", re.I)
+RESULT = re.compile(
+    r"\b(beats?|beat|defeats?|defeated|wins?|won|knocks? out|knocked out|stops|stopped|submits|edges?|thrash|"
+    r"crowned|claims?|retains?|draws? with|\d+\s*[-:–]\s*\d+)\b|"
+    r"нокаутировал|победил|обыграл|выиграл|разгромил|одолел|击败|战胜|夺冠|获胜|胜出", re.I)
 # In-play goal alerts ("CSKA – Akhmat — 0:2, Melkadze doubles the lead in the 63rd minute"): the match is not over,
 # so a story would report a half-time state as news (22 Nov 2026). Only finished events are written.
 LIVE = re.compile(
@@ -55,8 +59,14 @@ def drop_previews_and_repeats(items: list[dict], articles: list[dict], date: str
             log.info("Skipped (match still in progress, live update): %s", it["title"])
             continue
         its_links = {it.get("link")} | {r.get("link") for r in it.get("also_reported_by", [])}
-        if its_links & links or any(fuzz.token_set_ratio(t.lower(), o) >= 82 for t in titles if len(t or '') >= 16
-                                    for o in ours if len(o) >= 16):     # short titles match too easily
+        same = [o for t in titles if len(t or '') >= 16 for o in ours if len(o) >= 16   # short titles match too easily
+                if fuzz.token_set_ratio(t.lower(), o) >= 82]
+        # A result after our pre-event piece is new news (22 Nov 2026: "Stirling knocks out Procházka" was skipped
+        # because we had the weigh-in story with the same two names).
+        if same and any(RESULT.search(t or "") for t in titles) and not any(RESULT.search(o) for o in same):
+            log.info("Kept (result after our pre-event story): %s", it["title"])
+            same = []
+        if its_links & links or same:
             log.info("Skipped (we already have this story): %s", it["title"])
             continue
         out.append(it)
