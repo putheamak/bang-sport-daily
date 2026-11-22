@@ -4,6 +4,46 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Man Wei Chong and Tee Kai Wun End Malaysia's 27-Year Hong Kong Open Men's Doubles Title Drought
+`2026-11-22-news-ab9fc0` · 2026-11-22
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/ManWC_PMO2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Man Wei Chong**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:ManWC_PMO2025.jpg)<br>AI sees: _close-up portrait of badminton player Man Wei Chong_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/TeeKW_PMO2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Tee Kai Wun**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:TeeKW_PMO2025.jpg)<br>AI sees: _Badminton player Tee Kai Wun at Malaysia Open_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-22-news-ab9fc0.png" width="240" align="left" hspace="10">
+
+**3. 🟢 our score card**<br>Caption: **Man Wei Chong / Tee Kai Wun 2 - 0 Leo Rolly Carnando / Daniel Marthin · BWF Hong Kong Open 2026 (Men's Doubles Final)**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Max Verstappen Wins Las Vegas Grand Prix as Russell Crash Sparks Post-Race Feud
+`2026-11-22-news-61a15b` · 2026-11-22
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/1280px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Max Verstappen**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg)<br>AI sees: _Max Verstappen in Red Bull Racing race suit on a podium_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Lando Norris**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg)<br>AI sees: _Lando Norris celebrating on an F1 podium in McLaren gear_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/1280px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Oscar Piastri**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg)<br>AI sees: _F1 driver Oscar Piastri in McLaren team gear_
+<br clear="left">
+
+---
+
 ## ✅ live · Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion
 `2026-11-22-news-e72338` · 2026-11-22
 

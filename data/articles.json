@@ -1,5 +1,398 @@
 [
   {
+    "id": "2026-11-22-news-ab9fc0",
+    "slug": "man-wei-chong-and-tee-kai-wun-end-malaysia-s-27-year-hong-ko",
+    "date": "2026-11-22",
+    "created": "2026-11-22T15:58:06+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Badminton",
+    "tags": [
+      "Badminton",
+      "Hong Kong Open",
+      "BWF World Tour",
+      "Malaysia Badminton",
+      "Men's Doubles"
+    ],
+    "athletes": [
+      "Man Wei Chong",
+      "Tee Kai Wun",
+      "Leo Rolly Carnando",
+      "Daniel Marthin"
+    ],
+    "image_subjects": [
+      "Man Wei Chong",
+      "Tee Kai Wun",
+      "Leo Rolly Carnando",
+      "Hong Kong Open (badminton)"
+    ],
+    "match": {
+      "competition": "BWF Hong Kong Open 2026 (Men's Doubles Final)",
+      "date": "22 November 2026",
+      "home": "Man Wei Chong / Tee Kai Wun",
+      "away": "Leo Rolly Carnando / Daniel Marthin",
+      "home_score": 2,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Man and Tee win 21-19, 21-18 to end Malaysia's 27-year tournament drought"
+    },
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title",
+        "url": "https://www.thestar.com.my/sport/badminton/2026/11/22/wei-chong-kai-wun-end-malaysias-27-year-wait-for-hong-kong-open-mens-doubles-title"
+      },
+      {
+        "title": "Wei Chong-Kai Wun are Hong Kong Open champions",
+        "url": "https://www.freemalaysiatoday.com/category/sports/badminton/2026/11/22/wei-chong-kai-wun-are-hong-kong-open-champions/"
+      },
+      {
+        "title": "Malaysia's Man Wei Chong-Tee Kai Wun stun world No. 6 Indian pair to reach Hong Kong Open badminton final",
+        "url": "https://www.malaymail.com/news/sports/2026/11/21/malaysias-man-wei-chong-tee-kai-wun-stun-world-no-6-indian-pair-to-reach-hong-kong-open-badminton-final/199342"
+      },
+      {
+        "title": "The Star: Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSGhVRDVNQURROGVoNGNjdzZTUER6Z2dEdWg5Y2NiM0oxOGFRMmltbFRTaWlxSzBnb3BQYU9BbktOem92ZU5nT0lGVENkMXVjX21aeUd2WndyU0ZiTG5pU01HNVQxTHV4M2FrSllGR05MaEt4UWkzOGNvY1ZFLUF4RUotYmZPbUFaMEFhZzNFMWMwV0hpSjhDeXprcjJIQ1hBcENWOVhnbEUtMmJDMlExc1NQRWVFUVF1bmp6cjZuV3V4LThUbjRJdHVJWjg4WXptMW9XQ1ZQcWtpZw?oc=5"
+      },
+      {
+        "title": "Malay Mail: Malaysia’s Man Wei Chong-Tee Kai Wun stun world No. 6 Indian pair to reach Hong Kong Open badminton final",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTY1c0daZ1VPUzB4OGFTOXBJYkRnQkRmQWpnZHVtQWhFN1A4RzBvVGN6WExZUE16dHk4N2UxdGVrQTBUdXdUY1cteEFJUTNtemlld0MyMDR4Z0hvZmt1M0RiUGtaZHdLSHV3TWlab1JWMURpV0xicXpPRF9sekNlaG9rTzh5ZmR0OVZMUElwVHlWdVl1bDZ4eHh5Q1k4Yjg3dWp0dWhxTnMyTmozVkFsdlFxV3dNQ1YzbTAxUFJkZmxiMnZmZG1Dc0lsaElyQk54dG5fT19mOHVlLWdDMHVOaTAyYkptdUg2bEx1SENBX0_SAfYBQVVfeXFMTlFBMEh0VnFXWHJBYUVyc2E3LVpoMDlLX0ZHTi12UWNDb1JVd21hSWx4VXFoX3VxT1VmS1RjMXdmMnNFNmRfNjVreDVaWjJUalhyR1Q0Um5RN2ZwaG0wNWVCLVBSdU5aTTJPSjRQdXFFTHdkM0pJdzlqbHhpXzJNaUhpYUdKSFhoMVNTLTZCTVo4Um13ZnY2Nl9uZm80M01XVzlaZUNGT1A5alFaQmw3NjEzTkZuOUdjaUU5OGdzNmI0SGRlbHM4RVAtOFNJaHg1MVNjTHg1ZmNTcHlhQVZreko4T0tIaFcxMFJYT2xfUGNFNGpQSUJn?oc=5"
+      },
+      {
+        "title": "NST Online: New scoring and more days for Malaysia Open",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUl1SnBSTkRfZ3UzQmZYT2FXcEoyTS1mM3NwWmFDc3RaUkN5SnloeW5LOXpPd1BoTS12TW53Ul9mek14Qi1JLUw1cjZCNGYwNlBXWG9zWGtmV1k0eEl4OXI5SEZHdm5kUUNqcDJVc2h6TVFFbWlhaFJYbnd0NnNYRTRPQlpVLU53XzVfRVhxOGtTc2FKWFhpMkdYTdIBoAFBVV95cUxPQlZuM0V1cWFtcnZjODhwUV9FTjd6bUVMV1hBbFVUeXc3Nk0tSF8xSEJxTWJ4enItV1JEUktWSTZiQ0UyWXRrZlQ4dzhkQnhmRFZ2OVF1VmRGZnlkZHE5bUpPbThRWl9FNUpxLXhSYV8zNGI0OXVicGxGbFJ5T25ObGRHVFRsRHBySjhMeVYwUk41WG5YVnZmcGJ2a0JFVjNK?oc=5"
+      },
+      {
+        "title": "South China Morning Post: Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3pORFFoY2oxR0xQNnlCNXgycFQ0YWdOXzJ0S2phcEVZSDN2elRkcWhjaHJzZEItdzdrekhnYjRMTmltYTJSdnkzTDZfQmg1MXBPdUdqeWZYdXA4bEdTQTN5cjdyaDB5U2tMaUJ4VjlEREVBNVg5WjFneEJkRGhsT3pjNktzRUFreW9XMzdILTRnQ1hJU0xya3ZMZmhVRU1Odl9fZHBWaERFNEFubFRIOUZuRWxCd094NzZJWmx6R2JxUzTSAcMBQVVfeXFMTjRnTjBZMS1KLS1oZXVlQU5VeVZqRTdnTHlaWFlGMjlRcEp6d21ZT1hiSzU1aFhZelhoVk9WSnV1R2pLNUI0V2poTE5oLWY0TXFpWEp1UUlZek5lcmRQeGtZYXhDQUZXMjlRYUZsUUJFS1Fma1ZjWFIxdGhZelNHZ1lIR2dURE91Q25NYjBMR2tFZGMyQmtOZkFsQmpsRHFndDlLcnpyVlNIR0lwX2gyZDlUQl9uLWNsLWdkR3RuYWstX1Jr?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Man Wei Chong and Tee Kai Wun End Malaysia's 27-Year Hong Kong Open Men's Doubles Title Drought",
+      "seo_title": "Man-Tee win Hong Kong Open men's doubles title",
+      "subheadline": "The Malaysian duo defeated Indonesia's Carnando and Marthin in straight games to claim their second BWF World Tour title of 2026.",
+      "body_markdown": "## What happened\n\nMalaysian men's doubles pair Man Wei Chong and Tee Kai Wun defeated Indonesia's Leo Rolly Carnando and Daniel Marthin 21-19, 21-18 to capture the Hong Kong Open title at Kai Tak Arena on Sunday, 22 November 2026. The world No. 9 pair required 38 minutes to wrap up the Super 500 crown in straight games.\n\nThe final capped a testing run through the draw for the eighth seeds. On Saturday, Man and Tee secured their final berth by defeating India's world No. 6 pair and fifth seeds, Satwiksairaj Rankireddy and Chirag Shetty, 21-18, 21-19 in a 44-minute semi-final. Carnando and Marthin, ranked 18th in the world, had reached Sunday's showdown after eliminating South Korea's Kang Min-hyuk and Lee Jong-min 21-18, 21-11.\n\n## Why it is being talked about\n\nThe victory ended Malaysia's 27-year drought in the men's doubles event at the Hong Kong Open. Prior to Sunday, the last Malaysian pair to lift the men's doubles trophy at the tournament was Cheah Soon Kit and Yap Kim Hock in 1999.\n\nThe triumph also marked Man and Tee's second BWF World Tour title of the 2026 season. In October, the duo claimed the Super 750 French Open championship, underlining their progression against higher-ranked opposition during the second half of the calendar.\n\n## Key facts and numbers\n\n- **27 years:** The elapsed time since Malaysia's last men's doubles title at the tournament, won by Cheah Soon Kit and Yap Kim Hock in 1999.\n- **38 minutes:** The length of Sunday's final at Kai Tak Arena.\n- **US$39,500:** The prize purse earned by Man and Tee as champions (approximately RM162,551), while the Indonesian runners-up collected US$19,000 (RM78,189).\n- **2-1:** The updated head-to-head record for Man and Tee against Carnando and Marthin across three career encounters.\n- **2:** World Tour titles won by the Malaysian pair in 2026, following their Super 750 success in France.\n\n## What happens next\n\nDespite collecting two World Tour trophies in two months, Man and Tee will miss the season-ending US$3.5 million BWF World Tour Finals in Hangzhou, China, scheduled for 9 to 13 December 2026. Only the top eight pairs qualify for the event, subject to a limit of two entries per nation. Man and Tee entered the tournament ranked 24th in the Finals qualifying standings, making Sunday's victory their final World Tour appearance of the 2026 season.",
+      "social_post": "Malaysia has a Hong Kong Open men's doubles title for the first time in 27 years. Man Wei Chong and Tee Kai Wun defeated Indonesia's Leo Rolly Carnando and Daniel Marthin 21-19, 21-18 in Hong Kong to claim the Super 500 crown. It adds to their French Open victory last month to close out their 2026 World Tour campaign. Can Man and Tee establish themselves among the permanent world top five next season? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "终结大马27年冠军荒！万炜聪/郑凯文斩获香港公开赛男双冠军",
+      "seo_title": "香港公开赛万炜聪/郑凯文2-0夺冠 破大马27年冠军荒",
+      "subheadline": "马来西亚组合直落两局力克印尼强档卡尔南多/马丁，捧得2026赛季第二座世界巡回赛桂冠。",
+      "body_markdown": "## 赛况速递\n\n2026年11月22日，在香港启德体育馆举行的香港羽毛球公开赛男双决赛中，马来西亚组合万炜聪/郑凯文以21-19、21-18力克印度尼西亚搭档利奥·罗利·卡尔南多（Leo Rolly Carnando）/丹尼尔·马丁（Daniel Marthin），登顶男双冠军宝座。整场超级500赛决赛仅耗时38分钟，世界排名第9的这对大马组合便直落两局锁定胜局。\n\n作为本届赛事的8号种子，万炜聪和郑凯文的晋级之路含金量十足。在周六的半决赛中，他们历时44分钟，以21-18、21-19爆冷击败赛会5号种子、印度名将萨维克赛拉吉·兰基雷迪（Satwiksairaj Rankireddy）/奇拉格·谢蒂（Chirag Shetty，世界排名第6），顺利拿到决赛门票。而世界排名第18位的卡尔南多/马丁，则是在半决赛中以21-18、21-11淘汰韩国组合姜敏赫（Kang Min-hyuk）/李钟民（Lee Jong-min）后闯入决赛的。\n\n## 聚焦热议\n\n这场胜利彻底终结了马来西亚男双在香港公开赛长达27年的冠军荒。在此之前，上一对在香港公开赛斩获男双冠军的大马组合，还要追溯到遥远的1999年，当时登顶的是名宿谢顺吉和叶锦福。\n\n这也是万炜聪和郑凯文在2026赛季夺得的第二座世界羽联巡回赛冠军奖杯。今年10月，他们刚刚将超级750级别的法国公开赛冠军收入囊中。下半年面对世界顶尖高手时的持续突破，充分展现出这对组合上升势头的迅猛。\n\n## 关键数据\n\n- **27年：** 距马来西亚上一次在该项赛事男双夺冠已过27年，1999年谢顺吉/叶锦福曾在此捧杯。\n- **38分钟：** 周日启德体育馆这场男双决战的实际用时。\n- **39,500美元：** 万炜聪/郑凯文夺冠斩获的奖金（约合162,551林吉特），印尼亚军组合获得19,000美元（约合78,189林吉特）。\n- **2胜1负：** 万炜聪/郑凯文与卡尔南多/马丁在双方职业生涯3次交锋中的最新交手战绩。\n- **2冠：** 这对大马组合在2026赛季斩获的世界巡回赛冠军总数（此前问鼎法国超级750赛）。\n\n## 后续展望\n\n尽管在短短两个月内连夺两座巡回赛奖杯，但万炜聪和郑凯文仍将无缘定于2026年12月9日至13日在中国杭州举行的年终总决赛（总奖金350万美元）。总决赛仅限各单项积分榜前八名参赛，且每个协会最多只能获得两个参赛席位。万炜聪/郑凯文在本站比赛前的总决赛积分榜上仅排在第24位，这意味着周日的这场决赛，已成为他们2026赛季世界巡回赛的收官之战。",
+      "social_post": "时隔27年，马来西亚男双终于再度问鼎香港公开赛！万炜聪/郑凯文在决赛中以21-19、21-18力克印尼组合卡尔南多/马丁，斩获超级500赛桂冠。继上月夺得法国公开赛冠军后，他们以两冠为2026世界巡回赛圆满收官。大家看好“聪文组合”下赛季站稳世界前五吗？欢迎在评论区聊聊你的看法！👇 #羽毛球 #香港公开赛 #万炜聪 #郑凯文"
+    },
+    "ru": {
+      "headline": "Вань Вэйчон и Ти Кайвунь прервали 27-летнюю засуху Малайзии на турнире Hong Kong Open в парном разряде",
+      "seo_title": "Гонконг Опен: Вань/Ти обыграли Карнандо/Мартина 21:19, 21:18",
+      "subheadline": "Малайзийский дуэт в двух партиях переиграл индонезийцев Карнандо и Мартина, оформив второй титул Мирового тура BWF в сезоне-2026.",
+      "body_markdown": "## Что произошло\n\nМалайзийский мужской дуэт Вань Вэйчон (Man Wei Chong) и Ти Кайвунь (Tee Kai Wun) одержал победу над индонезийцами Лео Ролли Карнандо (Leo Rolly Carnando) и Даниэлем Мартином (Daniel Marthin) со счетом 21:19, 21:18, завоевав титул Hong Kong Open на арене «Кайтак» в воскресенье, 22 ноября 2026 года. Девятой ракетке мира потребовалось всего 38 минут, чтобы в двух партиях оформить чемпионство на турнире категории Super 500.\n\nФинал увенчал тяжелейшую турнирную сетку для восьмых сеяных. В субботнем полуфинале Вань и Ти за 44 минуты выбили шестую пару планеты и пятых сеяных турнира — индийцев Сатвиксайраджа Ранкиредди (Satwiksairaj Rankireddy) и Чирага Шетти (Chirag Shetty) — 21:18, 21:19. Индонезийцы Карнандо и Мартин, занимающие 18-е место в мировом рейтинге, вышли в финал после победы над южнокорейским дуэтом Кан Мин Хёк (Kang Min-hyuk) / Ли Джон Мин (Lee Jong-min) со счетом 21:18, 21:11.\n\n## Почему об этом говорят\n\nЭтот триумф прервал 27-летнюю беспобедную серию Малайзии в мужском парном разряде на Hong Kong Open. До сегодняшнего дня последней малайзийской парой, поднимавшей этот трофей над головой, были Чеа Сун Кит (Cheah Soon Kit) и Яп Ким Хок (Yap Kim Hock) в далеком 1999 году.\n\nКроме того, для Ваня и Ти этот титул стал вторым в Мировом туре BWF в сезоне-2026. В октябре малайзийцы выиграли French Open категории Super 750, доказав, что во второй половине года совершили колоссальный рывок в противостоянии с элитой мирового бадминтона.\n\n## Ключевые цифры и факты\n\n- **27 лет:** столько Малайзия ждала титула турнира в мужских парах со времен победы Чеа Сун Кита и Яп Ким Хока в 1999 году.\n- **38 минут:** продолжался воскресный финал на арене «Кайтак».\n- **39 500 долларов США:** призовые Ваня и Ти за титул (около 162 551 малайзийского ринггита); индонезийские финалисты заработали 19 000 долларов (78 189 ринггитов).\n- **2:1:** счет личных встреч в пользу малайзийцев по итогам трех матчей против Карнандо и Мартина за карьеру.\n- **2:** титула Мирового тура в активе дуэта в 2026 году после успеха на турнире Super 750 во Франции.\n\n## Что дальше\n\nНесмотря на два завоеванных трофея Мирового тура за последние два месяца, Вань и Ти пропустят итоговый турнир сезона — BWF World Tour Finals с призовым фондом 3,5 млн долларов, который пройдет в китайском Ханчжоу с 9 по 13 декабря 2026 года. В финал года квалифицируются только восемь лучших дуэтов (не более двух от одной страны). Перед турниром в Гонконге малайзийцы шли лишь на 24-й строчке в квалификационной гонке, так что воскресный триумф стал для них заключительным аккордом в Мировом туре 2026 года.",
+      "social_post": "У Малайзии снова есть золото Hong Kong Open в мужских парах — впервые за 27 лет! Вань Вэйчон и Ти Кайвунь переиграли индонезийцев Карнандо и Мартина 21:19, 21:18, забрав титул Super 500. Вслед за победой на French Open парни мощно закрыли свой сезон Мирового тура-2026. Как думаете, смогут ли Вань и Ти закрепиться в топ-5 мирового рейтинга в следующем году? Делитесь мнением в комментариях! 👇 #бадминтон #HongKongOpen #BWF"
+    },
+    "format": "explainer",
+    "region": "sea",
+    "trending_key": "4ef95028e8",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/ManWC_PMO2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:ManWC_PMO2025.jpg",
+        "artist": "Hiroki.loh.st",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Malaysian badminton player Man Wei Chong contested in the Petronas Malaysia Open 2025 at Kuala Lumpur Sport City.",
+        "width": 1200,
+        "height": 1501,
+        "year": 2026,
+        "subject": "Man Wei Chong",
+        "asked": "Man Wei Chong",
+        "page_title": "Man Wei Chong",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:manwc_pmo2025.jpg|Man Wei Chong",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "close-up portrait of badminton player Man Wei Chong",
+          "reason": "The photo accurately shows Malaysian badminton player Man Wei Chong wearing a tournament lanyard from the Malaysia Open.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/TeeKW_PMO2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:TeeKW_PMO2025.jpg",
+        "artist": "Hiroki.loh.st",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Malaysian badminton player Tee Kai Wun contested in the Petronas Malaysia Open 2025 at Kuala Lumpur Sport City.",
+        "width": 1200,
+        "height": 1499,
+        "year": 2026,
+        "subject": "Tee Kai Wun",
+        "asked": "Tee Kai Wun",
+        "page_title": "Tee Kai Wun",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:teekw_pmo2025.jpg|Tee Kai Wun",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Badminton player Tee Kai Wun at Malaysia Open",
+          "reason": "The image plausibly depicts Malaysian badminton player Tee Kai Wun wearing a Malaysia Open tournament lanyard.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-22-news-ab9fc0.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Man Wei Chong / Tee Kai Wun 2 - 0 Leo Rolly Carnando / Daniel Marthin · BWF Hong Kong Open 2026 (Men's Doubles Final)",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": []
+  },
+  {
+    "id": "2026-11-22-news-61a15b",
+    "slug": "max-verstappen-wins-las-vegas-grand-prix-as-russell-crash-sp",
+    "date": "2026-11-22",
+    "created": "2026-11-22T15:56:50+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Formula 1",
+    "tags": [
+      "Formula 1",
+      "Las Vegas Grand Prix",
+      "Max Verstappen",
+      "Lando Norris",
+      "George Russell"
+    ],
+    "athletes": [
+      "Max Verstappen",
+      "Lando Norris",
+      "Oscar Piastri",
+      "George Russell",
+      "Andrea Kimi Antonelli"
+    ],
+    "image_subjects": [
+      "Max Verstappen",
+      "Lando Norris",
+      "Oscar Piastri",
+      "Las Vegas Strip Circuit"
+    ],
+    "match": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Championat: Фото: Норрис и Пиастри рассмеялись после троллинга Ферстаппена в адрес Расселла",
+        "url": "https://www.championat.com/auto/news-6709344-foto-norris-i-piastri-rassmeyalis-posle-trollinga-ferstappena-v-adres-rassella.html"
+      },
+      {
+        "title": "Al Jazeera: Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+        "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-wins-las-vegas-gp-formula-one-red-bull"
+      },
+      {
+        "title": "Formula 1: Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
+        "url": "https://www.formula1.com/en/latest/article/verstappen-wins-las-vegas-gp-2026.html"
+      },
+      {
+        "title": "formula1.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFjUgF-SfbV12_Q2t1f1ma9vUmjys6THnLn6UR_sQ1Kg7MHAWzD0eVj8X1eLLCFg2ndWT4HpmDZBnyYbzIpZ_SwTvOt8VpRVtrRBXvPxYaIY8SpQ5dz3bjIPTwuWvM2Xw6lEUq6euB2ZQZQUOZjjuszpscTx6PoiVi1Y4hMFAypEo0YCm5vR7KjbCmpbG2B2TMmuBJKFVqtFnY3ab4wB3MwBcUC8NMJjhxawu3VEtGi0uxIe-LR021L0-O6RFDd9R6Cw=="
+      },
+      {
+        "title": "aljazeera.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_G3dhqGywiYEmoz1iFp-E6pBkp4GqGCexwxyRpkwAYCi4OhYqIOaPKCfFrNoNzcV7WjrLtU-rkCaS__D9LH507EBPfWeRBJiP57wZpw2OsCYkLpyZR3VgZ_zj-kg-YrgQypsRVi48lf8Pwm4gXGAIXW2egqGtUSnCtraEgnjRlhGLiyI25S0jWmAK7GgBW_uzCCGK2XYa4zbta9I9tM_IBId3VeyMQF7P"
+      },
+      {
+        "title": "1news.az",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGskv9E_Ko4buJF1jH2-xq3D5civM3IQIpbyG94M9miHfWWI2KXVeqd_ahcdDZVllEOrE8qXNY_EqIZtZRGkenuOrdaT6IA4cUTkwPG8Mipb0geuoiepuDZ4VLkALZcphA8p4SiYGAmAURK86LdNHpNwMM9innjjmEzqAesQV1rvI3Z-LtmrHYbNAKwyT6eJwf5zuGO7xyYNcehr8Y="
+      },
+      {
+        "title": "the-race.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2eKWxDky9ZqPgvRbFkOKg64P_5weOKJGaKzdfG8UywImKmVWNRv74E1yc6W4YNh5QusGAe3eD-mDnEFXF9e7W9BliYW7wi16ElquCGQoiHvYO_lqZbp31mxVsEt8n5KQX-P__WLLVw0qIg7Mrdl66oY09Df9THnKpIADxC473cR1wjvam"
+      },
+      {
+        "title": "theguardian.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9ICKiqFhQG0qhVhF_iMaFSjwOEtQAVAIs_QTqJpIibBLLyBM2Utm8Wy5YDSqhEzwA9-wcBtHRNogseEhD3ag33875JNJKSd-7BTTinBxvjFCaycF6zDNh2URCl9vadeGX7AbwTerSZsmJLSMrykCbvQp7-CJ4SE3UHR-UaoYDykALB875zEKswKW3dKeQM7jXPtKwJbikqrACu-TzaZF2"
+      },
+      {
+        "title": "crash.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_JXoBM0VAdXm5rhygiOIKcQv8QY8oxfXmToZji4COkVXycdBCD9PtRgdpvYY2qJ_w92OELITd06EvQX24KIaUBFK2Qszt5k7bWDR0aqXM9SAdcY9n1JPBTYI3kb0VZ2GuNXzSUXJ9Z0Rn--BfHZxSdPmsQECvrl5CHaZCceS0txrzqeWDyeFt0r9xtHPvTZQI001KHAfIMw="
+      },
+      {
+        "title": "vk.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ0GIjKIQKFZ551BRcf6rKhF1ILEfzpMk9aWpmJisA9mRFek5iREYzwwyW-D30dH3IdFsE6KDH5zGEfe8CKD7Wyt_9U_VWPaIQ2Vw0rlqiH42U9hLp9VuOrWQs"
+      },
+      {
+        "title": "betteam.pro",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrMY7V2sneMZAsxaejVKOm1hYoczHk_91XAmQB-GUhK3jbm9fbPpWnCuVulUVqNQsuH2KKccBoEgEUDs92jUtqaFFoHt9AiFU-820qyPraEFdU-IUGj0LvRMcthzN5DcuS-71prR2qJV0wZl6yo7MMV6bV9BgVVtZjeGaOkEGiZg2Fn__PKG62R-uy8hnmrAe61l6kEYreEN_el1SInHCdkI0H_A=="
+      },
+      {
+        "title": "news.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZQHDvzGwxKjj-RL_MVJiEdLsaN8x7qkq8ygaNtr_ItoEbAHH5hbsZnsKTGKsf2-zs-E7yjT4GL4V8sDRaUKkgwgUmaIneMbQ7quFry4fPBm5OZL-QfwbiBavlOLLLEfaCAZNW7YlZok3xgsdhnD34T_8bTrobz1M7zd9hTOhREiadYqm-RylHMA-hpg=="
+      },
+      {
+        "title": "unionesarda.it",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHV3iXZWsKBkLw3n-w-_J8b3qqiSxlb8ZFM52xwXwzKD8batsQGV5urH4Jf5Uvb9mJYI2uUs1-6AVg-BD20nb8wyvM602XCRoFQkm463hd-4nirinsk5bSyOcZyyKcT499nL8IH-R5vOtehx-4ouWX16VBQsZp5Qq0_P7JCJibixrO4RHeygyRJHG3-DTdbg183hvz4qv1Y0fKw6_tlet4378RIUCEVQkFhEeCzxVwpb8rRsc1tAzp3VPCMJcNM_33djVAOev7NkYaWA6WNJeb4NA5t_OmrmxN4CwlbK8Dp41zhHGnz6TYYrnlCzFFtCQymWessgEFRHYBkWTjNdOkPcgrxnz6m66Vgi5EguaAmJiQsLiqZNPyqUZsARoreaxZmeI2EN99ZZvNGUF_yg82FyV6KvZJ6f7Dg0P1jVNdKdHsrs0jZhvUHRv5_YJLw9yfUXHsqFm_rJUmZwRRImcFEcQ2mB-0o5_79edg1rzB20PZqfRo7Q7SU22Kdgf8DDhlLRiEU-9EfLcgnxYXUv8-uMrNAohFdxTWzGKYZ_bsbvSIB305ASYVnV344zqIj6BX1N3CSY6ibDdZhK0PikiCyUcEkGO62YIp6aDoowogASFTI-1DwdAefqgsSyob7JhJKQ9NgI9BUXCPnNqspI43rvopTS33MBKKR6ouAV6w_6P5dr1zv8UkRGxudSilISowaGnQxvQdiQlmeiCZyLLWb5RRdOGBYjDRtONNUW-guIjTQVkbEFJfGejMg-Dsv8dWya1uENU="
+      },
+      {
+        "title": "racingnews365.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs_b4u6le4RAy2lIPYEqmf2OlDc0BWhwQh5isoDuf7Ea-wVP3g-3e2MW_QUnQwaUm8K_1-eBLRLIgNcXssizQAEexdZ9Eu1f--2FW-mqkA0Ve5Pp_aavIaDLBGMCV4kGpseilBnFIuMVuF63yJGtN3z1U4m9aT5kFtRi5Q9gr55MMN9pzIF0WSX7KshKvkwtN-4BTHIyXIGUB5-c8PaUphMHvyMSRlDls="
+      },
+      {
+        "title": "fia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQYP8fQMBtVQwLm2sqAXPyOF0Gq98vsQA4ZWgEyBS-IQppk6M5_rCj24dad8u7DRB76CioStjazbRdN8ac10eF3xzV8F15aGb_-IaFItodYYSZAe8XTCfaeQffPWkFL2ESUNu6AWJQOc5SNFnIrx_kMaObLzDoEqESPDBMIoNd9v4kLl8WW3OckEialDIeO9nXLNZomihnZQ9soTxHF5n_e9eTS4OaqfO"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4JzDYfju83Y9Jgs0pK6h3RrIJV9sqi_WhF3OBd0dJ-ZtiSAMCoTFum3CDb9WwDtnkgpbuuJp-B7Z4aFzNbh4JRCH89K4L2WTuATkaWPcjyMncNiV_rxwKUqM_mpoKt70xNtKDY6wvRUVSyFAI6MP7wbfBn8eAywrN-JiIbvDkCHv7lN7_pEtoFoQLvH57hH7U7S7PQUvUx48fw=="
+      },
+      {
+        "title": "newsru.co.il",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHISVfrQ6jK6zE3mUChHQauo8oM0DlQcdj4b8e5jjRfANiTEB3hRTX2FkHFpIWfs6gPUqEVPMbR1DdJKkmECrFqaD0JfRjktIulOlsleNdTMfGFj18TLteqv0PmepIIBJTVzGHMw89Sg1CU"
+      },
+      {
+        "title": "sport.ua",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2LRmI_feUZKZZS06mL7fozyqBIh5vn7XVvT7VvFHYwkFVj7WiCk9KP77x6fdNcWm-euI9anHVj0DqPV11TvMQUXhMtscVifHmOiMByC-Uf-FinEyfstKZxbBBJbgiunAF4g-2SF3VZbvPKveDec9S7HhfBttQK3UlwDID5Ej0Hm3eBIdLY12AWA4="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK1j1F8dfZt_qgfIqPbtS9sHnPt8L9ufUhCOthO5B4uWOuFCB-5hf70udmGhMCuwTLriwAqtWAFaUciBBmyB8T8m8Uqcp78RxIaYasP6M7y4ANLs_SRRU68iz6cNFlF4pfe0xhzPtfbh89Wj9WNSRgx2prZeV3IURMSaFhRlt8QIYaRNJrAOxOD4ba9W6WGKuIaTQpz1w27ysZ37bmvSg9yuSkEA6FIQOZULRPRUYEBQhNw-hn_2SnKKd23N70iOQA7wxdXWw_UKDglGhxZWkyB1IFHgvt"
+      },
+      {
+        "title": "F1News: Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKVjlZYmlHdk1vYWMxM0RTdTh3THlWTkdzOWV4dF8xejVIZS1iTVpuY2tEQlIyZzRRQzZJa2xfcUk4M1ZHeERlbTdXTm11N0NObDFlT0psemctTklRRXp4eV96cXhfUkdYbmRDSg?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Ферстаппен выиграл Гран-при Лас-Вегаса, в тройке — Норрис и Пиастри",
+        "url": "https://www.sport-express.ru/autosport/formula1/news/formula-1-rezultat-gran-pri-las-vegasa-22-noyabrya-2026-2477529/"
+      },
+      {
+        "title": "Sports.ru: «Лучше всех остальных ». «Ред Булл» выложил пост с Ферстаппеном, обыграв слова Расселла перед Гран-при Лас-Вегаса",
+        "url": "https://www.sports.ru/automoto/1117444738-luchshe-vsex-ostalnyx-red-bull-vylozhil-post-s-ferstappenom-obygrav-sl.html"
+      },
+      {
+        "title": "РИА Новости Спорт: Ферстаппен выиграл Гран-при Лас-Вегаса \"Формулы-1\"",
+        "url": "https://ria.ru/20261122/formula-2133213268.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Max Verstappen Wins Las Vegas Grand Prix as Russell Crash Sparks Post-Race Feud",
+      "seo_title": "Verstappen Wins Las Vegas GP: Norris 2nd, Piastri 3rd",
+      "subheadline": "Red Bull's four-time champion edges McLaren duo Norris and Piastri after late Mercedes drama settles a frantic 50-lap duel.",
+      "body_markdown": "## What happened\n\nMax Verstappen captured victory at the Las Vegas Grand Prix, withstanding relentless slipstreaming battles under the Nevada floodlights to finish ahead of McLaren teammates Lando Norris and Oscar Piastri. Red Bull’s four-time world champion started from pole position after Mercedes driver Andrea Kimi Antonelli served a five-place grid penalty for power unit component changes.\n\nVerstappen traded the lead across 50 laps with Mercedes' George Russell before Russell locked his tyres and collided with the barrier with two laps remaining while attempting to overtake Antonelli for second place. Russell dropped to ninth, while Antonelli slipped to fourth on the penultimate lap, allowing Norris and Piastri to secure a double podium for McLaren.\n\n## Why it is being talked about\n\nThe aftermath highlighted an escalated rivalry between Verstappen and Russell. In Saturday's third practice session, the pair made wheel-to-wheel contact entering Turn 14, prompting Verstappen to make a hand gesture and receiving an official reprimand. Russell subsequently told reporters that Verstappen \"acts like he is better than everyone else\" and needed to be resisted.\n\nWhen asked at the post-race press conference about Russell’s late crash, Verstappen remarked that his day became better after seeing the incident and described it as \"karma,\" prompting laughter from Norris and Piastri. Red Bull's official media channels followed by posting a podium image of Verstappen captioned, \"Better than everyone else\". The race also brought intra-team friction at Ferrari, where Charles Leclerc was handed a 10-second penalty for spinning teammate Lewis Hamilton.\n\n## Key facts and numbers\n\n- **0.639 seconds:** Verstappen's margin of victory over second-placed Norris at the chequered flag.\n- **35:** The total number of lead changes recorded over 50 laps around the Las Vegas Strip Circuit.\n- **14 positions gained:** Piastri fought his way up from 17th on the starting grid to finish third.\n- **75:** Career Formula 1 race victories for Verstappen following his win in Nevada.\n- **402 to 304:** World championship points standing, with Antonelli leading second-placed Verstappen.\n\n## What happens next\n\nThe Formula 1 championship heads into its final two rounds of the 2026 calendar. While Antonelli clinched the drivers' title earlier in November, the Las Vegas result consolidates Verstappen's second place in the standings with 304 points, extending his advantage over Ferrari's Hamilton (267 points) and leaving Russell and Norris tied on 264 points.",
+      "social_post": "Max Verstappen survived 35 lead changes to win a wild Las Vegas Grand Prix ahead of McLaren's Lando Norris and Oscar Piastri! Late heartbreak hit Mercedes when George Russell slammed the wall battling Antonelli. In the press room, Verstappen called Russell's crash 'karma' as the McLaren pair laughed along. Did Russell take too big a risk, or was it the right move for the win? Share your thoughts below!"
+    },
+    "zh": {
+      "headline": "维斯塔潘夺得F1拉斯维加斯大奖赛冠军，拉塞尔撞墙引发赛后口水战",
+      "seo_title": "F1拉斯维加斯站：维斯塔潘夺冠诺里斯第2",
+      "subheadline": "历经50圈跌宕起伏的激战与梅赛德斯末段内斗，红牛四届世界冠军力压迈凯伦双雄诺里斯与皮亚斯特里问鼎。",
+      "body_markdown": "## 赛况速递\n\n在内华达的璀璨灯光之下，马克斯·维斯塔潘（Max Verstappen）顶住了严酷的尾流缠斗，率先冲过终点线，力压迈凯伦车队搭档兰多·诺里斯（Lando Norris）和奥斯卡·皮亚斯特里（Oscar Piastri），斩获拉斯维加斯大奖赛冠军。由于梅赛德斯车手安德烈亚·基米·安东内利（Andrea Kimi Antonelli）因更换动力单元部件被罚退5位起跑，这位红牛车队的四届世界冠军得以从杆位发车。\n\n在整整50圈的比赛中，维斯塔潘与梅赛德斯的乔治·拉塞尔（George Russell）展开了多次领跑位置的攻防互换。然而在比赛仅剩两圈时，拉塞尔在尝试超越安东内利争夺次席的过程中轮胎锁死，直接撞上护墙。事故导致拉塞尔名次跌落至第九，而安东内利在倒数第二圈滑落至第四，诺里斯与皮亚斯特里借机双双登上领奖台，为迈凯伦锁定双前三。\n\n## 焦点热议\n\n赛后的舆论焦点迅速转向了维斯塔潘与拉塞尔之间升级的恩怨。在周六的第三次自由练习赛中，两人在进入14号弯时发生轮对轮擦碰，维斯塔潘当时做出手势发泄不满，并因此领到赛会正式训诫。拉塞尔赛后随即向媒体直言，维斯塔潘“总表现得高人一等”，必须要予以还击。\n\n在赛后新闻发布会上，当被问及拉塞尔最后阶段的撞墙事故时，维斯塔潘直言看到那一幕后“整个人都舒坦了”，并将其称作“因果报应（karma）”，引得一旁的诺里斯和皮亚斯特里哄堂大笑。红牛官方社交账号也迅速跟进，晒出维斯塔潘登上领奖台的照片，并配文：“高人一等”。此外，法拉利车队内部同样燃起战火，夏尔·勒克莱尔（Charles Leclerc）因顶翻队友刘易斯·汉密尔顿（Lewis Hamilton）被赛会处以10秒罚时。\n\n## 关键数据与事实\n\n- **0.639秒**：维斯塔潘在方格旗挥舞时领先第二名诺里斯的微弱优势。\n- **35次**：拉斯维加斯大道赛道50圈较量中出现的领跑位置交替总次数。\n- **提升14个名次**：皮亚斯特里从第17位发车一路狂飙，最终杀至第三完赛。\n- **75胜**：内华达折桂后，维斯塔潘职业生涯的F1分站冠军总数。\n- **402分对304分**：车手积分榜前两位的差距，安东内利继续领跑第二名的维斯塔潘。\n\n## 后续走势\n\n2026赛季F1锦标赛即将迎来最后两站争夺。尽管安东内利已在11月早些时候提前加冕车手总冠军，但拉斯维加斯站的胜利让维斯塔潘以304分坐稳车手积分榜次席，扩大了对法拉利车手汉密尔顿（267分）的领先优势，而拉塞尔与诺里斯则同积264分并列。",
+      "social_post": "历经整整35次领跑位置更迭，维斯塔潘扛住重压狂揽拉斯维加斯大奖赛冠军！诺里斯与皮亚斯特里为迈凯伦带回双领奖台。比赛末段梅奔突发惨剧，拉塞尔强吃队友安东内利失误撞墙。赛后发布会上，维斯塔潘一句“因果报应”逗乐迈凯伦双雄。你觉得拉塞尔这波冒险超车该不该背锅？欢迎在评论区聊聊！#F1 #维斯塔潘 #拉塞尔 #F1拉斯维加斯站"
+    },
+    "ru": {
+      "headline": "Ферстаппен выиграл Гран-при Лас-Вегаса, а авария Расселла разожгла скандал после финиша",
+      "seo_title": "Гран-при Лас-Вегаса: Ферстаппен выиграл, Норрис — 2-й, Пиастри — 3-й",
+      "subheadline": "Четырехкратный чемпион из «Ред Булл» вырвал победу у дуэта «Макларена», пока поздняя драма «Мерседеса» решала исход сумасшедшей дуэли длиною в 50 кругов.",
+      "body_markdown": "## Как развивалась гонка\n\nМакс Ферстаппен отпраздновал триумф на Гран-при Лас-Вегаса, выдержав жесткую битву в слипстримах под неоновыми огнями Невады и опередив пару пилотов «Макларена» — Ландо Норриса и Оскара Пиастри. Четырехкратный чемпион мира в составе «Ред Булл» ушел в бой с поул-позиции: стартовавший первым Андреа Кими Антонелли (Andrea Kimi Antonelli) из «Мерседеса» был оштрафован на пять позиций за замену компонентов силовой установки.\n\nНа протяжении всех 50 кругов Ферстаппен и Джордж Расселл на «Мерседесе» бесконечно отбирали друг у друга лидерство. Развязка наступила за два круга до финиша: Расселл заблокировал колеса и врезался в отбойник, пытаясь отобрать второе место у Антонелли. В итоге Джордж откатился на девятую строчку, а Антонелли на предпоследнем круге пропустил соперников и стал четвертым, что позволило Норрису и Пиастри оформить двойной подиум для «Макларена».\n\n## Главная тема для споров\n\nСобытия после финиша только подлили масла в огонь нарастающей вражды между Ферстаппеном и Расселлом. В субботней третьей тренировке гонщики столкнулись колесо в колесо на входе в 14-й поворот, после чего Макс показал недвусмысленный жест рукой и заработал официальное предупреждение от судей. Расселл тогда заявил журналистам, что Ферстаппен «ведет себя так, будто он лучше всех», и с этим нельзя мириться.\n\nКогда на послегоночной пресс-конференции Макса спросили об аварии Расселла на последних кругах, голландец с ухмылкой признался, что этот эпизод только поднял ему настроение, и назвал случившееся «кармой» — Норрис и Пиастри с трудом сдержали смех. Пресс-служба «Ред Булл» моментально подхватила троллинг, опубликовав снимок Ферстаппена на подиуме с подписью: «Лучше всех». Не обошлось без искр и в «Феррари»: Шарль Леклер получил 10-секундный штраф за то, что развернул собственного напарника Льюиса Хэмилтона.\n\n## Цифры и факты\n\n- **0,639 секунды:** отрыв Ферстаппена от финишировавшего вторым Норриса под клетчатым флагом.\n- **35:** рекордное число смен лидера за 50 кругов по городской трассе Лас-Вегас-Стрип.\n- **Прорыв на 14 мест:** Пиастри стартовал лишь 17-м, но сумел пробиться на третью ступень пьедестала.\n- **75:** юбилейная победа Ферстаппена за карьеру в Формуле-1.\n- **402 против 304:** соотношение очков в личном зачете, где Антонелли опережает идущего вторым Ферстаппена.\n\n## Что дальше?\n\nВ календаре сезона 2026 года Формуле-1 осталось провести лишь два этапа. И хотя Антонелли гарантировал себе чемпионский титул еще в начале ноября, успех в Лас-Вегасе укрепил вторую строчку Ферстаппена (304 очка) и увеличил его отрыв от Хэмилтона на «Феррари» (267 очков). Тем временем Расселл и Норрис делят третью строчку, имея в активе по 264 балла.",
+      "social_post": "Безумие в Лас-Вегасе: 35 смен лидера и тяжелейшая победа Макса Ферстаппена над дуэтом «Макларена»! А для «Мерседеса» концовка обернулась драмой: Расселл полез в атаку на напарника Антонелли и разбил машину. На пресс-конференции Макс безжалостно назвал это «кармой» под смех Норриса и Пиастри. Стоила ли атака Джорджа такого риска? Делитесь мнением в комментариях! #F1 #Формула1 #Ферстаппен #Расселл"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "a3f6793a27",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/1280px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg",
+        "artist": "Steffen Prößdorf",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Motorsport, Formel 1, Großer Preis der Niederlande 2024: Max Verstappen (NED, Oracle Red Bull Racing); Siegerehrung, Award Ceremony; Zweitplatzierter, Silbermedaille, silver medal",
+        "width": 1200,
+        "height": 1585,
+        "year": 2024,
+        "subject": "Max Verstappen",
+        "asked": "Max Verstappen",
+        "page_title": "Max Verstappen",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2024-08-25_motorsport,_formel_1,_gro%c3%9fer_preis_der_niederlande_2024_stp_3973_by_stepro_(medium_crop).jpg|Max Verstappen",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Max Verstappen in Red Bull Racing race suit on a podium",
+          "reason": "The photo clearly shows Formula 1 driver Max Verstappen in his Red Bull Racing kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg",
+        "artist": "Original: Steffen Prößdorf ; Derivative work: Mb2437",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Motorsport, Formel 1, Großer Preis der Niederlande 2024: Lando Norris (GBR, McLaren); Siegerehrung, Award Ceremony; Sieger, Erstplatzierter, Goldmedaille, gold medal",
+        "width": 1200,
+        "height": 1479,
+        "year": 2024,
+        "subject": "Lando Norris",
+        "asked": "Lando Norris",
+        "page_title": "Lando Norris",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2024-08-25_motorsport,_formel_1,_gro%c3%9fer_preis_der_niederlande_2024_stp_3968_by_stepro_(cropped2).jpg|Lando Norris",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Lando Norris celebrating on an F1 podium in McLaren gear",
+          "reason": "The image clearly shows Formula 1 driver Lando Norris in his McLaren racing suit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/1280px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg",
+        "artist": "Liauzh",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "2026 Chinese GP - Lando Norris & Oscar Piastri - Drivers Parade",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Oscar Piastri",
+        "asked": "Oscar Piastri",
+        "page_title": "Oscar Piastri",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2026_chinese_gp_-_oscar_piastri_(cropped)_(cropped).jpg|Oscar Piastri",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "F1 driver Oscar Piastri in McLaren team gear",
+          "reason": "The photo clearly shows McLaren driver Oscar Piastri wearing his team kit and number 81 cap.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-22-hist-478ccb",
     "slug": "on-this-day-in-2013-magnus-carlsen-dethrones-viswanathan-ana",
     "date": "2026-11-22",

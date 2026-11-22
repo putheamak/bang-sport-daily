@@ -1,31 +1,31 @@
-2026-11-18 09:59:50,785 INFO Writing explainer 5: Две передачи Мичкова помогли "Филадельфии" обыграть "Баффало"
-2026-11-18 09:59:55,345 INFO Writing news (EN) ...
-2026-11-18 09:59:55,944 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-3.5-flash-lite > gemini-3.1-flash-lite > gemini-flash-latest > gemini-flash-lite-latest
-2026-11-18 09:59:56,184 WARNING First Gemini error in full: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}]}}
-2026-11-18 09:59:56,184 WARNING Gemini gemini-3.8-flash failed [rate] (with search): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-18 09:59:56,184 WARNING Retrying gemini-3.8-flash WITHOUT Google Search
-2026-11-18 10:01:54,818 WARNING Gemini gemini-3.8-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-18 10:02:19,534 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:03:45,226 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:03:45,380 WARNING Gemini gemini-omni-flash-preview failed [dead]: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g
-2026-11-18 10:03:56,814 WARNING Draft is only 172 words (want 300+) — asking once to expand from the sources
-2026-11-18 10:04:01,127 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:04:42,758 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:04:49,383 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:05:17,788 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:05:58,337 INFO Expanded draft: 172 -> 281 words
-2026-11-18 10:05:58,338 INFO Adapting to zh, ru ...
-2026-11-18 10:06:00,865 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:06:32,289 WARNING Gemini gemini-3.8-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:06:38,001 WARNING Gemini gemini-3.7-flash failed [busy]: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-2026-11-18 10:08:57,728 WARNING Gemini gemini-3.7-flash failed [busy]: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}
-2026-11-18 10:09:11,245 INFO Looking up photos for 2026-11-18-news-397ed2: ['Matvei Michkov', 'Philadelphia Flyers', 'Buffalo Sabres', 'Wells Fargo Center', 'Матвей Мичков', 'Джейми Драйсдейл']
-2026-11-18 10:09:11,652 INFO Photo check Matvei_Michkov_2024-10-17.jpg (Wikimedia Commons, 404x598): OK, licence 'CC BY-SA 2.0'
-2026-11-18 10:09:11,652 INFO Photo for 'Matvei Michkov': Matvei_Michkov_2024-10-17.jpg (Jenn G from Seattle, WA, CC BY-SA 2.0)
-2026-11-18 10:09:11,807 WARNING No free-licence photo for 'Philadelphia Flyers' (Logo_Philadelphia_Flyers.svg)
-2026-11-18 10:09:13,157 WARNING No free-licence photo for 'Wells Fargo Center' (Wells_Fargo_Logo_(2020).svg)
-2026-11-18 10:09:14,301 INFO Match card added to 2026-11-18-news-397ed2
-2026-11-18 10:09:14,314 INFO Cover photo of 2026-11-18-news-397ed2 changed: another story already uses that picture
-2026-11-18 10:09:15,754 INFO Website built: 55 published stories, 210 pages
-2026-11-18 10:09:15,755 INFO Explainers written: 1 (1 kept for review)
-2026-11-18 10:09:15,758 INFO Gemini today (2026-11-18, Pacific): gemini-3.5-flash-lite 3 ok / 0 failed (7,371 in / 4,529 out tokens); gemini-3.7-flash 0 ok / 6 failed; gemini-3.8-flash 0 ok / 6 failed; gemini-omni-flash-preview 0 ok / 1 failed · estimated cost if billed: US$0.014
+2026-11-22 08:55:31,291 INFO Skipped (we already have this story): Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar
+2026-11-22 08:55:31,292 WARNING Talking point fc263a5a2e not written: we already have this story, or it is a pre-match piece: Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar
+2026-11-22 08:55:32,088 INFO Writing explainer a3f6793a27: Гран При Лас-Вегаса: Ферстаппен - Норрис - Пиастри
+2026-11-22 08:55:36,064 INFO Writing news (EN) ...
+2026-11-22 08:55:36,990 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-22 08:56:16,893 INFO Adapting to zh, ru ...
+2026-11-22 08:56:50,465 INFO Writing explainer 4ef95028e8: Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title
+2026-11-22 08:56:50,465 INFO Writing news (EN) ...
+2026-11-22 08:57:27,834 INFO Adapting to zh, ru ...
+2026-11-22 08:58:06,369 INFO Looking up photos for 2026-11-22-news-61a15b: ['Max Verstappen', 'Lando Norris', 'Oscar Piastri', 'Las Vegas Strip Circuit', 'George Russell', 'Andrea Kimi Antonelli']
+2026-11-22 08:58:06,707 INFO Photo check 2024-08-25_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg (Wikimedia Commons, 1728x2282): OK, licence 'CC BY-SA 4.0'
+2026-11-22 08:58:06,707 INFO Photo for 'Max Verstappen': 2024-08-25_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg (Steffen Prößdorf, CC BY-SA 4.0)
+2026-11-22 08:58:07,011 INFO Photo check 2024-08-25_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg (Wikimedia Commons, 1234x1521): OK, licence 'CC BY-SA 4.0'
+2026-11-22 08:58:07,011 INFO Photo for 'Lando Norris': 2024-08-25_Motorsport,_Formel_1,_Großer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg (Original: Steffen Prößdorf ; Derivative , CC BY-SA 4.0)
+2026-11-22 08:58:07,305 INFO Photo check 2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg (Wikimedia Commons, 1589x2118): OK, licence 'CC BY 4.0'
+2026-11-22 08:58:07,305 INFO Photo for 'Oscar Piastri': 2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg (Liauzh, CC BY 4.0)
+2026-11-22 08:58:07,306 INFO Looking up photos for 2026-11-22-news-ab9fc0: ['Man Wei Chong', 'Tee Kai Wun', 'Leo Rolly Carnando', 'Hong Kong Open (badminton)', 'Daniel Marthin']
+2026-11-22 08:58:07,615 INFO Photo check ManWC_PMO2025.jpg (Wikimedia Commons, 714x893): OK, licence 'CC BY-SA 4.0'
+2026-11-22 08:58:07,615 INFO Photo for 'Man Wei Chong': ManWC_PMO2025.jpg (Hiroki.loh.st, CC BY-SA 4.0)
+2026-11-22 08:58:07,912 INFO Photo check TeeKW_PMO2025.jpg (Wikimedia Commons, 574x717): OK, licence 'CC BY-SA 4.0'
+2026-11-22 08:58:07,913 INFO Photo for 'Tee Kai Wun': TeeKW_PMO2025.jpg (Hiroki.loh.st, CC BY-SA 4.0)
+2026-11-22 08:58:09,805 INFO Match card added to 2026-11-22-news-ab9fc0
+2026-11-22 08:58:16,872 INFO Photo check 2026-11-22-news-61a15b #1 'Max Verstappen': OK
+2026-11-22 08:58:23,609 INFO Photo check 2026-11-22-news-61a15b #2 'Lando Norris': OK
+2026-11-22 08:58:29,790 INFO Photo check 2026-11-22-news-61a15b #3 'Oscar Piastri': OK
+2026-11-22 08:58:38,018 INFO Photo check 2026-11-22-news-ab9fc0 #1 'Man Wei Chong': OK
+2026-11-22 08:58:51,414 INFO Photo check 2026-11-22-news-ab9fc0 #2 'Tee Kai Wun': OK
+2026-11-22 08:58:53,953 INFO IndexNow: 6 page(s) submitted (HTTP 200)
+2026-11-22 08:58:54,646 INFO Website built: 67 published stories, 246 pages
+2026-11-22 08:58:54,647 INFO Explainers written: 2 (2 kept for review)
+2026-11-22 08:58:54,650 INFO Gemini today (2026-11-22, Pacific): gemini-3.8-flash 9 ok / 0 failed (16,765 in / 15,726 out tokens) · estimated cost if billed: US$0.072
