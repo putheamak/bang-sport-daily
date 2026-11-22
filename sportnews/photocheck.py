@@ -44,7 +44,8 @@ def name_mismatch(asked: str, got: str) -> bool:
     if not a or not g:
         return False
     small, big = (a, g) if len(a) <= len(g) else (g, a)
-    return not small <= big
+    from rapidfuzz import fuzz                     # transliteration: Sadulaev / Sadulayev, Nurmagomedov / Nurmagomedow
+    return not all(w in big or any(fuzz.ratio(w, x) >= 85 for x in big) for w in small)
 
 
 def rule_flags(a: dict, im: dict) -> list[str]:

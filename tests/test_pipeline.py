@@ -1272,3 +1272,14 @@ def test_duplicate_match_is_caught():
     assert duplicate_of(other, [live]) is None
     assert duplicate_of(new, [dict(live, status="rejected")]) is None
     assert duplicate_of(dict(new, date="2026-11-30"), [live]) is None
+
+
+def test_transliteration_and_live_updates():
+    from sportnews.photocheck import name_mismatch
+    from sportnews.pipeline import LIVE, PREVIEW
+    assert not name_mismatch("Lechi Sadulaev", "Lechi Sadulayev")
+    assert name_mismatch("Navajo Stirling", "Aljamain Sterling")
+    assert LIVE.search("ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев на 63-й минуте")
+    assert LIVE.search("ЦСКА – «Ахмат» — 0:2. Грозненцы забили второй гол в матче РПЛ. Видео")
+    assert not LIVE.search("Lauren Price beats Kotaskova to become undisputed champion")
+    assert not LIVE.search("ЦСКА проиграл «Ахмату» 0:2 в матче 15-го тура РПЛ")

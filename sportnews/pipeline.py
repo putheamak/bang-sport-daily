@@ -15,6 +15,12 @@ PREVIEW = re.compile(
     r"odds|betting|scouting report|starting xi|probable|confirmed team|"
     r"превью|прогноз|составы|анонс|где смотреть|онлайн-трансляц|"
     r"前瞻|预测|首发|直播|赛前)", re.I)
+# In-play goal alerts ("CSKA – Akhmat — 0:2, Melkadze doubles the lead in the 63rd minute"): the match is not over,
+# so a story would report a half-time state as news (22 Nov 2026). Only finished events are written.
+LIVE = re.compile(
+    r"(\bin the \d{1,3}(st|nd|rd|th) minute\b.*\b(leads?|lead|doubles?|equalis|equaliz)|\blive[:!]|live blog|live updates|"
+    r"на \d{1,3}-й минуте|удвоил преимущество|забили (первый|второй|третий) гол в матче|открыл счёт в матче|"
+    r"第\d{1,3}分钟|上半场战报)", re.I)
 
 
 def drop_previews_and_repeats(items: list[dict], articles: list[dict], date: str, days: int = 7) -> list[dict]:
@@ -44,6 +50,9 @@ def drop_previews_and_repeats(items: list[dict], articles: list[dict], date: str
         titles = [it["title"]] + [r.get("title", "") for r in it.get("also_reported_by", [])]
         if any(PREVIEW.search(t or "") for t in titles):
             log.info("Skipped (pre-match piece, no previews): %s", it["title"])
+            continue
+        if any(LIVE.search(t or "") for t in titles):
+            log.info("Skipped (match still in progress, live update): %s", it["title"])
             continue
         its_links = {it.get("link")} | {r.get("link") for r in it.get("also_reported_by", [])}
         if its_links & links or any(fuzz.token_set_ratio(t.lower(), o) >= 82 for t in titles if len(t or '') >= 16

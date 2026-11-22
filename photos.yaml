@@ -229,3 +229,12 @@
       caption: "Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional"
     - wikipedia: "Old Trafford"
       caption: "Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or"
+
+# 22 Nov 2026: the third photo was Anand at Mainz 2009, captioned "World Chess Championship 2013" (wrong event).
+2026-11-22-hist-478ccb:
+  mode: replace
+  photos:
+    - commons: "File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg"
+      caption: "Magnus Carlsen"
+    - commons: "File:Viswanathan_Anand_(2016)_(cropped).jpeg"
+      caption: "Viswanathan Anand"
