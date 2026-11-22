@@ -1,6 +1,6 @@
 # Photo review — 2026-11-22
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -49,12 +49,12 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Carlos Ulberg**<br>2026 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg)<br>AI sees: _UFC fighter Carlos Ulberg seated outdoors holding a microphone_<br>⚑ file looks like a non-sport scene (White House)
+**1. 🟠 CHECK** · cover<br>Caption: **Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate**<br>2026 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg)<br>⚑ file looks like a non-sport scene (White House)
 <br clear="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/JiriProchazka2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)<br>AI sees: _Jiří Procházka in a suit during an interview_
+**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)
 <br clear="left">
 
 ---

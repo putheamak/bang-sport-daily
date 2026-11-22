@@ -1,14 +1,6 @@
-2026-11-22 07:32:49,816 INFO Photo check Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg (Wikimedia Commons, 717x955): OK, licence 'CC BY-SA 2.0'
-2026-11-22 07:32:49,905 INFO Photo check Viswanathan_Anand_(2016)_(cropped).jpeg (Wikimedia Commons, 2621x2832): OK, licence 'CC BY 2.0'
-2026-11-22 07:32:49,906 INFO Photos for 2026-11-22-hist-478ccb set from photos.yaml (2 photo(s))
-2026-11-22 07:32:49,922 INFO Photo check 2026-11-22-hist-478ccb #1 'Magnus Carlsen': OK
-2026-11-22 07:32:49,922 INFO Photo check 2026-11-22-hist-478ccb #2 'Viswanathan Anand': OK
-2026-11-22 07:32:50,655 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-22 07:32:58,339 INFO Photo check 2026-11-22-news-54c55f #1 'Georgi Melkadze': OK
-2026-11-22 07:33:09,807 INFO Photo check 2026-11-22-news-54c55f #2 'Lechi Sadulayev': OK
-2026-11-22 07:33:17,582 INFO Photo check 2026-11-22-news-54c55f #3 'VEB Arena': OK
-2026-11-22 07:33:24,201 INFO Photo check 2026-11-22-news-e72338 #1 'Lauren Price': OK
-2026-11-22 07:33:31,386 INFO Photo check 2026-11-22-news-e72338 #2 'Joe Calzaghe': OK
-2026-11-22 07:33:38,707 INFO Photo check 2026-11-22-news-e72338 #3 'Cardiff International Arena': OK
-2026-11-22 07:33:39,408 INFO Website built: 65 published stories, 240 pages
-2026-11-22 07:33:39,410 INFO Gemini today (2026-11-21, Pacific): gemini-3.8-flash 40 ok / 0 failed (70,741 in / 62,298 out tokens) · estimated cost if billed: US$0.287
+2026-11-22 09:03:09,427 INFO Photo check Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg (Wikimedia Commons, 1001x1557): OK, licence 'Public domain'
+2026-11-22 09:03:09,475 INFO Photo check JiriProchazka2022.png (Wikimedia Commons, 520x679): OK, licence 'CC BY 3.0'
+2026-11-22 09:03:09,475 INFO Photos for 2026-11-22-news-1b71a7 set from photos.yaml (2 photo(s))
+2026-11-22 09:03:09,484 INFO Photo check 2026-11-22-news-1b71a7 #1 'Light-heavyweight champion Carlos Ulberg': UNSURE — file looks like a non-sport scene (White House)
+2026-11-22 09:03:09,484 INFO Photo check 2026-11-22-news-1b71a7 #2 'Jiří Procházka': OK
+2026-11-22 09:03:10,395 INFO Website built: 67 published stories, 246 pages

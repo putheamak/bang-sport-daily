@@ -144,19 +144,18 @@
         "width": 1200,
         "height": 1867,
         "year": 2026,
-        "subject": "Carlos Ulberg",
-        "asked": "Carlos Ulberg",
-        "page_title": "Carlos Ulberg",
+        "subject": "Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate",
+        "editor": true,
         "check": {
           "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:motorcycle_stunts_on_the_south_lawn_of_the_white_house_ahead_of_ufc_freedom_250,_saturday,_june_13,_2026_-_11(cropped).jpg|Carlos Ulberg",
-          "verdict": "ok",
+          "key": "https://commons.wikimedia.org/wiki/file:motorcycle_stunts_on_the_south_lawn_of_the_white_house_ahead_of_ufc_freedom_250,_saturday,_june_13,_2026_-_11(cropped).jpg|Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate",
+          "verdict": "unsure",
           "flags": [
             "file looks like a non-sport scene (White House)"
           ],
-          "shows": "UFC fighter Carlos Ulberg seated outdoors holding a microphone",
-          "reason": "The photo clearly depicts UFC light heavyweight fighter Carlos Ulberg.",
-          "by": "ai"
+          "shows": "",
+          "reason": "",
+          "by": "editor"
         }
       },
       {
@@ -170,20 +169,24 @@
         "height": 1567,
         "year": 2022,
         "subject": "Jiří Procházka",
-        "asked": "Jiří Procházka",
-        "page_title": "Jiří Procházka",
+        "editor": true,
         "check": {
           "v": 2,
           "key": "https://commons.wikimedia.org/wiki/file:jiriprochazka2022.png|Jiří Procházka",
           "verdict": "ok",
           "flags": [],
-          "shows": "Jiří Procházka in a suit during an interview",
-          "reason": "The image clearly shows Czech MMA fighter Jiří Procházka matching the caption.",
-          "by": "ai"
+          "shows": "",
+          "reason": "",
+          "by": "editor"
         }
       }
     ],
     "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Light-heavyweight champion Carlos Ulberg, Stirling': check it by eye (file looks like a non-sport scene (White House)) — data/photo-review.md"
+      },
       {
         "level": "INFO",
         "area": "facts",
@@ -194,7 +197,8 @@
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: https://www.sherdog.com"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate\", \"commons\": \"File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg\"}, {\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}]}"
   },
   {
     "id": "2026-11-22-news-ab9fc0",
