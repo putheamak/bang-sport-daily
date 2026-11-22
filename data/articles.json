@@ -135,28 +135,17 @@
     "trending_key": "fc263a5a2e",
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250%2C_Saturday%2C_June_13%2C_2026_-_11%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg",
-        "artist": "The White House",
-        "license": "Public domain",
+        "url": "../photos/card-2026-11-22-news-1b71a7.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
         "license_url": "",
-        "description": "motorcycle stunts on the South Lawn of the White House ahead of UFC Freedom 250, Saturday, June 13, 2026",
-        "width": 1200,
-        "height": 1867,
+        "subject": "Navajo Stirling def. Jiří Procházka · KO · Round 2 · 4:58 · UFC Fight Night 294 · Doha",
+        "via": "",
+        "card": true,
         "year": 2026,
-        "subject": "Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:motorcycle_stunts_on_the_south_lawn_of_the_white_house_ahead_of_ufc_freedom_250,_saturday,_june_13,_2026_-_11(cropped).jpg|Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate",
-          "verdict": "unsure",
-          "flags": [
-            "file looks like a non-sport scene (White House)"
-          ],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
+        "width": 1200,
+        "height": 675
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JiriProchazka2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -183,11 +172,6 @@
     ],
     "standards": [
       {
-        "level": "WARN",
-        "area": "photos",
-        "msg": "Photo 1 (cover) captioned 'Light-heavyweight champion Carlos Ulberg, Stirling': check it by eye (file looks like a non-sport scene (White House)) — data/photo-review.md"
-      },
-      {
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
@@ -198,10 +182,21 @@
         "msg": "1 source(s) are homepages, not articles: https://www.sherdog.com"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Light-heavyweight champion Carlos Ulberg, Stirling's City Kickboxing teammate\", \"commons\": \"File:Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg\"}, {\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}]}",
     "editor_notes": [
       "2026-11-22: removed Procházka record line ('32-6-1 across 40 bouts' does not add up)"
-    ]
+    ],
+    "fight": {
+      "event": "UFC Fight Night 294 · Doha",
+      "date": "21 November 2026",
+      "winner": "Navajo Stirling",
+      "loser": "Jiří Procházka",
+      "method": "KO",
+      "round": 2,
+      "time": "4:58",
+      "note": "Stirling moves to 12-0",
+      "card_first": true
+    },
+    "photos_override": "{\"fight\": {\"card_first\": true, \"date\": \"21 November 2026\", \"event\": \"UFC Fight Night 294 · Doha\", \"loser\": \"Jiří Procházka\", \"method\": \"KO\", \"note\": \"Stirling moves to 12-0\", \"round\": 2, \"time\": \"4:58\", \"winner\": \"Navajo Stirling\"}, \"mode\": \"replace\", \"photos\": [{\"caption\": \"Jiří Procházka\", \"commons\": \"File:JiriProchazka2022.png\"}]}"
   },
   {
     "id": "2026-11-22-news-ab9fc0",
