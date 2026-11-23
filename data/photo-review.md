@@ -34,37 +34,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Svay Rieng and Phnom Penh Crown chase a historic AFC Champions League Two double
-`2026-11-23-news-00ad68` · 2026-11-23
-
-🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl) — {'en': 'Official CPL 2026/27 table after Week 8', 'zh': '柬埔寨超级联赛2026/27赛季第8轮后官方积分榜', 'ru': 'Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура'}
-
-🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml) — {'en': 'Official Week 8 results, 21–22 November 2026', 'zh': '第8轮官方赛果（2026年11月21日至22日）', 'ru': 'Официальные результаты 8-го тура, 21–22 ноября 2026 года'}
-
-🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid01S7vWskCqLio1oj9h6EKXYfTxVVQ5GD3vsLBdfPQyLBTFYPZu8zS1YebuicRCSAEl) — {'en': 'Week 8 attendance: 9,789 fans, including 7,502 at Svay Rieng v Angkor Tiger', 'zh': '第8轮观众人数：共9,789人，其中柴桢对阵吴哥猛虎7,502人', 'ru': 'Посещаемость 8-го тура: 9 789 зрителей, из них 7 502 на матче «Свайриенг» — «Ангкор Тайгер»'}
-
----
-
-## 📝 DRAFT · Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions
-`2026-11-23-athl-a5664c` · 2026-11-23
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Manny Pacquiao**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg)<br>AI sees: _Manny Pacquiao speaking into a microphone_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Freddie_Roach_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Freddie Roach**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Freddie_Roach_2010.jpg)<br>AI sees: _boxing trainer Freddie Roach at a press conference_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg/1280px-Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **General Santos**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg)<br>AI sees: _aerial view of General Santos City coastline and buildings_
-<br clear="left">
-
----
-
 ## ✅ live · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
 `2026-11-23-news-bb407c` · 2026-11-23
 
@@ -77,6 +46,17 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 **2. 🟢 OK**<br>Caption: **Bishan Stadium**<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG)<br>AI sees: _exterior of Bishan Stadium during the 2010 Youth Olympic Games_
 <br clear="left">
+
+---
+
+## ✅ live · Svay Rieng and Phnom Penh Crown chase a historic AFC Champions League Two double
+`2026-11-23-news-00ad68` · 2026-11-23
+
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl) — {'en': 'Official CPL 2026/27 table after Week 8', 'zh': '柬埔寨超级联赛2026/27赛季第8轮后官方积分榜', 'ru': 'Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура'}
+
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml) — {'en': 'Official Week 8 results, 21–22 November 2026', 'zh': '第8轮官方赛果（2026年11月21日至22日）', 'ru': 'Официальные результаты 8-го тура, 21–22 ноября 2026 года'}
+
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid01S7vWskCqLio1oj9h6EKXYfTxVVQ5GD3vsLBdfPQyLBTFYPZu8zS1YebuicRCSAEl) — {'en': 'Week 8 attendance: 9,789 fans, including 7,502 at Svay Rieng v Angkor Tiger', 'zh': '第8轮观众人数：共9,789人，其中柴桢对阵吴哥猛虎7,502人', 'ru': 'Посещаемость 8-го тура: 9 789 зрителей, из них 7 502 на матче «Свайриенг» — «Ангкор Тайгер»'}
 
 ---
 
@@ -96,6 +76,26 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/7d1b40e49facb422-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Zhang Peimeng**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg)<br>AI sees: _Chinese sprinter Zhang Peimeng in team China gear_
+<br clear="left">
+
+---
+
+## ✅ live · Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions
+`2026-11-23-athl-a5664c` · 2026-11-23
+
+<img src="../docs/photos/c/818b3457af3a3956-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Manny Pacquiao**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg)<br>AI sees: _Manny Pacquiao speaking into a microphone_
+<br clear="left">
+
+<img src="../docs/photos/c/6cb56e540787dce4-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Freddie Roach**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Freddie_Roach_2010.jpg)<br>AI sees: _boxing trainer Freddie Roach at a press conference_
+<br clear="left">
+
+<img src="../docs/photos/c/3606a8d0203b424c-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **General Santos**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg)<br>AI sees: _aerial view of General Santos City coastline and buildings_
 <br clear="left">
 
 ---
