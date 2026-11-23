@@ -1,8 +1,53 @@
 # Photo review — 2026-11-24
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
+`2026-11-24-news-f01fca` · 2026-11-24
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg/1280px-LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **LDLC Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg)<br>AI sees: _Exterior of LDLC Arena at night with crowds entering_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand
+`2026-11-24-news-98e731` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Trần Nhân Tông**<br>Asked for: Lê Trọng Đại Nhân → got page: Trần Nhân Tông<br>2023 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png)<br>AI sees: _historical drawing of a Buddhist monk holding prayer beads_<br>Why: The image is an ancient drawing of a monk, completely unrelated to modern football and the U17 World Cup match.<br>⚑ asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'<br>⚑ looks like a drawing / old portrait (Drawing)
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
+
+**3. 🟢 our score card**<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Massillon 13-6 Canton: The 1906 Clash That Sparked Pro Football's First Scandal
+`2026-11-24-hist-ea6294` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Robert_Maxwell_1989_%283x4_cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Robert Maxwell**<br>1989 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Robert_Maxwell_1989_(3x4_cropped_2).jpg)<br>AI sees: _British media proprietor Robert Maxwell at an economic panel in 1989_<br>Why: The photo shows the late 20th-century businessman Robert Maxwell, not early 1900s American football player Robert 'Tiny' Maxwell.
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-24-hist-ea6294.png" width="240" align="left" hspace="10">
+
+**2. 🟢 our score card**<br>Caption: **Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League**<br>2026 · Own work
+<br clear="left">
+
+---
 
 ## 📝 DRAFT · Russian MMA Fighter Amir Aliev Released After Paris Detention
 `2026-11-23-news-b02637` · 2026-11-23

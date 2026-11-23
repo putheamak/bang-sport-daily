@@ -1,5 +1,610 @@
 [
   {
+    "id": "2026-11-24-hist-ea6294",
+    "slug": "massillon-13-6-canton-the-1906-clash-that-sparked-pro-footba",
+    "date": "2026-11-24",
+    "created": "2026-11-24T03:36:35+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "American Football",
+    "tags": [
+      "Canton Bulldogs",
+      "Massillon Tigers",
+      "Ohio League",
+      "NFL History",
+      "On This Day"
+    ],
+    "athletes": [
+      "Blondy Wallace",
+      "Walter East",
+      "Tiny Maxwell",
+      "Bob Shiring"
+    ],
+    "image_subjects": [
+      "Canton Bulldogs",
+      "Massillon Tigers",
+      "Blondy Wallace",
+      "Robert Maxwell (American football)"
+    ],
+    "match": {
+      "competition": "Ohio League",
+      "date": "24 November 1906",
+      "home": "Massillon Tigers",
+      "away": "Canton Bulldogs",
+      "home_score": 13,
+      "away_score": 6,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Massillon retained the Ohio League title; allegations of match-fixing followed"
+    },
+    "fight": null,
+    "facts_to_verify": [
+      "Whether Walter East genuinely had $50,000 in gambler backing or exaggerated the sum to teammates",
+      "The confidential settlement terms reached in Blondy Wallace's $25,000 libel lawsuit against Ed Stewart"
+    ],
+    "sources": [
+      {
+        "title": "Canton Bulldogs–Massillon Tigers betting scandal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal"
+      },
+      {
+        "title": "Walter East: Deadball Minor Leaguer and Pro Football's First Scandal - SABR",
+        "url": "https://sabr.org/journal/article/walter-east-deadball-minor-leaguer-and-pro-footballs-first-scandal/"
+      },
+      {
+        "title": "historycollection.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP24B6K-s2V-cPUHpF9ftw4FjDSt5C8Wnyv3DNgYHp3RKVtV3X209vaQlMgypaPzFUgwP9sDg3M4lEI3jMG4MevWoWjk2KdiAoZnTBPyxS65YyudO7GIZ723RewZqWznRhwMmuoNd1qYy9Q4ce9DYjdISP7ZvsAhawigU963IW1E0vYkvRao0JzHQKliPzRxNiZCa2Mb4cSaiarNS4v0k="
+      },
+      {
+        "title": "sabr.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEo-2iUloOf_nHtPrLaA-jI1Uz9nlI0ndsQX_fAQBwP_gQANbdQNHC8ndDi18NzTimpaVFu106qhWXqnhQpLx7gWZQ4GXgpRQZO1zdkEvhMAd5MCJGT-3LQkyGguV-lOxEOAbES5P7fwpddPTAL8cR7E1tPWdpw_yTZkUdne2gce6Gg-EBdC9UYMuo9lvZzjQos7O7dNIUGS6m"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXtL2yW4_NgkWswGHNiof8ss8y1RoGowWbcQUlJ9BjWBUISJr2VO_fNw3ljN0bKR77UXxNjinv6iJCmnP8ECI9fR_Pho_KQud2T7-UFlGIUC8qnx67tj-5mWDyXo9vwRMVNndXYEy3nYlrKaR8S_ei_kik_H2UGZzEYfVBETZxgD4PskjqX1jlWe3-bA=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGPFp39lx9tnflrpOLcZWy4W9E29-tgewrl6o6QCkKTK8Utps9uMq1CTp3kCJJHUklRJ_9BYD4ow-Lkdp0Fm7iRlBE5BLSSH49gD3cbhUBPOUM_VpD47aok9qjhGJiTSsvuKk8B2TJd_E2I2TpCl2jAkePDNprzMjhlelgeLWsGpKwckcAJf_wV5QHEw=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsGxPyNSMUWwlWHAG74hYsGumuWkS78aBtYpBrfdnQlGwU3Yw9DrkV9gh0GozBV0N-btiWZ-LxcH1UJ4vu5Ck8QtwKSz6CT6sNdV4cc9l6vDr0lMeboE40gWmOAXbeoRKMINOq"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOf4pewHni3DjklU0yIgCUecg5T8uFemQpQyosgqvT8nnE59Bvcs7xABPOqS7EU60cJ9yl6a8S0_vYZwz0vvjJt27hmvK49smPZThbv-XaxySKXSBcmI6e8l6_ej34o2-tjPofh7Z-f64K6k4tGhLQefyf5OfGqxnZBe6RQMna3oouLpCFLV2vLP0gvLxXYhueThL2Onk="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEGPnrJAEFtRWTSdUKVx2vYGwNsUpWyO6EA1UhyWI_bJqAfUjLi4etDDofV2dQyWe8MuVBVLhdFvdn36sxocypSTqeK6GQY43u9kQvpQ6-MBsBWZ7NLypGCGcERLYrfph4YZ5KDoYSZ9gWkhBIKjfoa_xAL3sB_TMR1Gtj_WyHHZQoyh6TeJ5ZpLWIw=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGacxZwbSSQm246sZg7UjA2TIFA4oqNhVVSQaKtG-Bz6fu8rnCowESCM3rP7Z6l-YIVzje6s4j8KJib-YIQSx3v50Wu-C1L2i9s9QlNZ-kLCY7jYM8wK6-i_wEf4bmbQs35QT07sg=="
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1prnt_iIx3BnXPqejkeH7cMX14dyhPKwBKEBg2o6jFN1rUaA4hYvlEvVCEOGuP2UBBwv6QwtwwRr91uhaalHO8uF1iC7MOgjyCmZ-58-WvPkVUm2okzL8Zm2DevwEPkHLCftviwA3bcBAzFaIYk0nsAYFZtB1yYmHcOTdKOXb55wTnPMehTEvW6EBuSyq"
+      },
+      {
+        "title": "sabr.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyhhRRGMkZWspAov1e9h9v0WnZ6MFEdKh9w1u-UwV-9DUNDULNsx2PDDfTpqcqOmpJw3l7_f7d4VEfdtt8ZqFHNl8M2lt2xqiiQv-04blgmQ0bLvT2xpwoFgg1ahT2Kz-RRhVbYLK1P23fffHWoI8Jkm_QHqzi_jIlLQ9qO7vygxypfYNf9DyQUvDsacW32oBEtkVkvxND0FHC"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeV4w_gKw-05pIXwWX0Z9IPuKI-gtsvBjM8QnGRb4VjWt1Sy8UMvC5zaoZOZ-pFMxJw2VhLKuUjXOA5b9lcxGSnHVgXWNzhfIMiwYlt_oFFZlv1rCE-pwCpBUeLupTDNs_fKU="
+      },
+      {
+        "title": "historycollection.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNValQPPaw6x4Bzly_Fva72axq1zdoGnb7qrGAO0fLeSJmiA2LI4oWOsj57Qiea5Gs2gCmLaGAzcs5KJxb5o5uVgWcpE-JSTdNF3_gjTwKta3lAWRE-qB93Z0_T1ua_guR-8JZ6OX2PPJwwO1UpG8fPBG0-eQuR_psFcj5CuGDoOCC2vmhI6Pm68u3_IJrW1bCJV-QJ9njTZmpg_rBPlk="
+      },
+      {
+        "title": "fandom.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9h-9zFLP4NfSN0APNNENJY-jtKERVyDec0RW4jNINAIYREZI7jzA75hrNelo-d3tpiswaCKAmckvFjdmNLIa381_fQem429Kj2l4RQis95t9T4fM-XPZyjUgBZ9JEc4NpjhokCIuRa_J13Wc2hP6vRwl23h0L"
+      },
+      {
+        "title": "funwhileitlasted.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6U_BCMZoy36pTTfsg8mbuhHr_f3VkZvE1X6y-43pPXwEOgUhMjL8_Ut42JWfyEvjAm6iG5uCxTqp6B2Ms-ZKhTstnHSs9TV9snftndoM9ucGILAqGQqXvtuNZAHpfPchcNAr06_paAxKk3TK25plLh4Vm2AJlI6V3yJNgdnLdC0Nt"
+      },
+      {
+        "title": "clevelandmagazine.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX43lkFESTsHJpD11ZRpKezdKGRCqZSmB6R3x04YZQMaVUY080deta0t3xDITXoKuY6khePdGpr61DxiP9aWc0Jd3PfAXy2NtQEY-LwF2YSzxApwd4H6GxU10q0O-0AQsJTG_5oChn0FAu8Z7xiz4kBd0WVoegte4YP2kWFy10YsJd"
+      },
+      {
+        "title": "profootballhof.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZmYXqwU5HpMJYyeL3AJ4IT1R_yGUawe_xm99WVIV9qAKKdhhQlpC4NrPsFwtshKKphkunu2HlxDvHopvIxvdxLkcdM0vC554seCc2PNTAiTFTWXtT6xE3XGzAhctzNNjukAjWHEEFQBtwHX0EyYKtpcOZ02We8wj73hZ9tTgfBYuMvxC2"
+      },
+      {
+        "title": "Wikipedia: American football",
+        "url": "https://en.wikipedia.org/wiki/American_football"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Massillon 13-6 Canton: The 1906 Clash That Sparked Pro Football's First Scandal",
+      "seo_title": "Massillon 13-6 Canton: The 1906 Pro Football Scandal",
+      "subheadline": "On November 24, 1906, the Massillon Tigers secured the Ohio title before bribery charges brought both powerhouse franchises to the brink of ruin.",
+      "body_markdown": "On November 24, 1906, the Massillon Tigers defeated the Canton Bulldogs 13–6 in Massillon, Ohio, claiming the Ohio League championship in the second contest of a two-game post-season series. The final whistle concluded an intense duel between two clubs based just 15 miles apart in Stark County, but it immediately triggered the first major match-fixing and betting controversy in American professional football history.\n\nEight days earlier, on November 16, Canton had captured the opening encounter 10–5 at Mahaffey Park in Canton, inflicting Massillon's first defeat of the season. Both clubs had spent heavily to sign prominent players from across the country, with Canton hiring Massillon's entire 1905 backfield during the off-season. To ensure neither side defaulted, each organization posted a $3,000 bond, while gate receipts were locked in bank escrow accounts in Canton and Massillon. Interest was so high that Bell Telephone linemen monitored the sidelines to telegraph play-by-play updates across the country. Massillon's 13–6 victory in the second game leveled the series and retained the state title.\n\n## The Bribery Allegations and Hotel Brawl\n\nThe athletic achievement was overshadowed before the weekend ended. On the night of November 24, 1906, a brawl erupted inside the bar of Canton's Courtland Hotel and spilled into the streets, involving Canton players and supporters who alleged that members of the Bulldogs had deliberately lost the game.\n\nPublic accusations followed quickly in print. Massillon manager Ed Stewart, a journalist with newspaper ties, published charges in the *Massillon Independent* stating that end Walter East and Canton player-coach Charles Edgar \"Blondy\" Wallace had conspired to rig the series. According to Stewart's account, East claimed to possess $50,000 in gambler backing and had attempted to bribe Massillon teammates Robert \"Tiny\" Maxwell and Bob Shiring to throw the opening leg.\n\nMaxwell and Shiring reported the illicit proposal to Massillon head coach Sherburn Wightman, prompting the club to release East before the second game took place. Rumors and competing accounts spread rapidly. One theory maintained that Wallace and East had orchestrated a split across the two games to force a high-drawing third rubber match in Cleveland, where gate receipts would reach record heights. Other accounts alleged that Canton players had wagered heavily on themselves before Wallace altered the plan.\n\n## Lawsuits, Insolvency, and the Path to the NFL\n\nWallace denied any wrongdoing, insisting that Massillon fabricated the story to damage Canton's reputation and ruin gate receipts for an upcoming Thanksgiving exhibition game against Pennsylvania powerhouse Latrobe. In response, Wallace filed a $25,000 libel lawsuit against Stewart and the newspaper. The defamation suit never proceeded to a courtroom verdict and was settled out of court, leaving the exact facts of the purported agreement unresolved.\n\nThe reputational damage and financial strain proved catastrophic for professional gridiron in Ohio. Canton finished the 1906 season roughly $6,000 short of meeting its player payroll obligations. The Canton Athletic Club collapsed financially and failed to field a team in 1907. Massillon operated an amateur squad under the name \"All-Massillons\" in 1907 before also folding.\n\nThe Stark County rivals did not play each other again until 1911. The regional football scene eventually rebounded from the collapse, serving as the foundation for modern American football. On September 17, 1920, representatives from Canton, Massillon, Akron, and several other regional clubs gathered in an automobile showroom in Canton to form the American Professional Football Association, the league that was subsequently renamed the National Football League.",
+      "social_post": "On November 24, 1906, the Massillon Tigers beat the Canton Bulldogs 13–6 in Ohio, retaining the championship before wire services telegraphed the result nationwide. But within hours, allegations that coach Blondy Wallace and player Walter East conspired to fix the series triggered pro football's first major scandal and bankrupted both clubs. How do you view the fierce Ohio rivalries that ultimately paved the way for the modern NFL? Share your thoughts below!"
+    },
+    "zh": {
+      "headline": "马西隆13-6坎顿：引爆职业橄榄球史上首桩假球丑闻的1906年对决",
+      "seo_title": "马西隆13-6坎顿：1906年橄榄球首桩假球丑闻",
+      "subheadline": "1906年11月24日，马西隆老虎队锁定俄亥俄州冠军，然而随之而来的假球受贿指控，几乎将这两支豪门球队彻底摧毁。",
+      "body_markdown": "1906年11月24日，在俄亥俄州马西隆，马西隆老虎队（Massillon Tigers）在一场两回合季后系列赛的生死战中，以13比6力克坎顿斗牛犬队（Canton Bulldogs），成功加冕俄亥俄联盟（Ohio League）冠军。终场哨声吹响，斯塔克县相距仅15英里的两座工业重镇结束了剑拔弩张的较量。然而谁也没有料到，这一记终场哨音竟瞬间引爆了美国职业橄榄球历史上第一桩恶劣的假球与涉赌丑闻。\n\n就在八天前的11月16日，两队在坎顿的马哈菲公园（Mahaffey Park）进行了首回合较量，坎顿队以10比5拔得头筹，送给了马西隆队当赛季的首场败局。当时为了压制对手，两家俱乐部都不惜一掷千金，在全美范围内大肆网罗顶尖球员，坎顿更是在休赛期直接把马西隆1905赛季的整个后场阵容连锅端走。为防任何一方违约退赛，两家俱乐部各自缴纳了3000美元的保证金，门票收入则被封存在坎顿和马西隆的银行托管账户中。彼时两队的对抗狂热到何种地步？贝尔电话公司（Bell Telephone）的巡线员全程守在边线，实时向全美各地拍发电报直播战况。最终，马西隆队在次回合以13比6完成复仇，不仅扳平了系列赛，也捍卫了州冠军的头衔。\n\n## 贿赂指控与酒店群殴\n\n然而，竞技场上的荣耀还没撑过这个周末便蒙上了阴影。1906年11月24日当晚，坎顿市考特兰酒店（Courtland Hotel）的酒吧内爆发了一场激烈的斗殴，战火随后蔓延至大街上——参与冲突的坎顿球员与球迷声称，斗牛犬队内有人故意踢假球输掉了比赛。\n\n舆论风暴随之落在报端。马西隆队经理、兼具记者身份的埃德·斯图尔特（Ed Stewart）在《马西隆独立报》（*Massillon Independent*）上公开发表重磅指控，直指球队端锋沃尔特·伊斯特（Walter East）与坎顿兼任主帅的球员查尔斯·埃德加·“金毛”·华莱士（Charles Edgar \"Blondy\" Wallace）暗中勾结、操纵比赛。斯图尔特在报道中称，伊斯特自称手握赌徒资助的5万美元巨款，并曾企图收买马西隆队友罗伯特·“小不点”·麦克斯韦尔（Robert \"Tiny\" Maxwell）和鲍勃·希林（Bob Shiring），让他们在首回合交锋中放水。\n\n麦克斯韦尔和希林当即向马西隆主帅舍伯恩·怀特曼（Sherburn Wightman）告发了这桩非法的贿赂交易，俱乐部随即在次回合开打前将伊斯特除名。一时间，流言四起，各执一词。坊间一种广为流传的说法认为，华莱士与伊斯特密谋各赢一场，目的是逼出在克利夫兰举行的第三场决胜赛，从而依靠爆满的球场赚取破纪录的门票分红。另有传言称，坎顿球员最初押重注赌自己赢，但华莱士随后却暗中变卦。\n\n## 对簿公堂、俱乐部破产与NFL的诞生雏形\n\n面对指控，华莱士坚决否认自己有任何不当行为。他反唇相讥，指责马西隆方面捏造谎言纯属恶意诽谤，意在搞臭坎顿的名声，并借此破坏坎顿即将在感恩节与宾夕法尼亚劲旅拉特罗布队（Latrobe）进行的表演赛票房。华莱士随即向斯图尔特及报社提起了高达2.5万美元的名誉权诉讼。然而，这起诽谤官司最终并未走入陪审团宣判环节，双方在庭外达成和解，使得这桩世纪协议的真相至今仍是一团迷雾。\n\n这场舆论海啸与随之而来的财务重创，给俄亥俄州的职业橄榄球带来了灭顶之灾。坎顿斗牛犬队在1906赛季结束时出现了约6000美元的薪资缺口。坎顿体育俱乐部因财政彻底崩溃，甚至未能组队参加1907赛季。马西隆队虽在1907年以“全马西隆人”（All-Massillons）的业余性质勉强维系，但不久后同样宣告解散。\n\n这对同处斯塔克县的宿敌，直到1911年才重新在球场相遇。但这片遭遇浩劫的橄榄球热土最终奇迹般浴火重生，并孕育了现代职业橄榄球的基石。1920年9月17日，来自坎顿、马西隆、阿克伦及周边多家俱乐部的代表齐聚坎顿的一家汽车展厅，正式成立了全美职业橄榄球联合会（APFA）——也就是日后威震全球的国家橄榄球联盟（NFL）。",
+      "social_post": "1906年11月24日，马西隆老虎队13比6力克坎顿斗牛犬队，成功捍卫俄亥俄州冠军。然而短短几小时后，一场酒吧斗殴与两名核心操纵比赛的指控，引爆了职业橄榄球史上第一起假球丑闻，并直接导致两支劲旅破产！但谁能想到，正是这场俄亥俄内战废墟中的火种，最终孕育了今天的NFL。你如何看待这段百年恩怨？评论区聊聊！ #NFL历史 #美式橄榄球 #体育传奇 #假球风波"
+    },
+    "ru": {
+      "headline": "«Массиллон» 13:6 «Кантон»: матч 1906 года, породивший первый скандал в истории профи-футбола",
+      "seo_title": "Массиллон — Кантон 13:6: скандал с договорняком 1906 года",
+      "subheadline": "24 ноября 1906 года «Массиллон Тайгерс» взяли титул чемпионов Огайо, но обвинения в подкупе поставили оба суперклуба на грань банкротства.",
+      "body_markdown": "24 ноября 1906 года клуб «Массиллон Тайгерс» (Massillon Tigers) обыграл «Кантон Бульдогс» (Canton Bulldogs) со счетом 13:6 в Массиллоне, штат Огайо, завоевав титул чемпионов Лиги Огайо во втором матче двухматчевой серии плей-офф. Финальный свисток подвел черту под ожесточенной битвой соседей по округу Старк, которых разделяли всего 15 миль. Однако эта же игра моментально спровоцировала первый крупный скандал с договорными матчами и подпольными ставками в истории американского профессионального футбола.\n\nЗа восемь дней до этого, 16 ноября, «Кантон» взял верх в первой встрече на стадионе «Махаффи Парк» (Mahaffey Park) в Кантоне со счетом 10:5, нанеся «Массиллону» первое поражение в сезоне. В преддверии чемпионата оба клуба не жалели денег, переманивая звездных игроков со всей страны — «Кантон» и вовсе в межсезонье целиком выкупил заднюю линию соперника образца 1905 года. Чтобы гарантировать явку команд, каждая сторона внесла залог в размере 3000 долларов, а билетную выручку заблокировали на эскроу-счетах в банках обоих городов. Ажиотаж стоял небывалый: монтеры компании Bell Telephone дежурили прямо у бровки поля, передавая телеграфом поминутный ход игры по всей Америке. Победа «Массиллона» 13:6 во второй встрече восстановила статус-кво в серии и сохранила за клубом звание сильнейшего в штате.\n\n## Обвинения в подкупе и побоище в отеле\n\nСпортивный триумф померк еще до окончания выходных. В ночь на 24 ноября 1906 года в баре отеля «Кортленд» (Courtland Hotel) в Кантоне вспыхнула массовая драка, выплеснувшаяся на городские улицы. Игроки и болельщики «Кантона» сошлись врукопашную: прозвучали обвинения в том, что отдельные футболисты «Бульдогс» намеренно сдали решающую игру.\n\nВскоре скандал перекочевал на страницы прессы. Менеджер «Массиллона» Эд Стюарт (Ed Stewart), обладавший тесными связями в журналистских кругах, опубликовал в газете *Massillon Independent* разоблачительный материал. Он прямо обвинил энда своей команды Уолтера Иста (Walter East) и играющего тренера «Кантона» Чарльза Эдгара «Блонди» Уоллеса (Charles Edgar \"Blondy\" Wallace) в тайном сговоре с целью расписать исход серии. По версии Стюарта, Ист хвастался поддержкой букмекеров на сумму 50 000 долларов и пытался подкупить одноклубников по «Массиллону» — Роберта «Тайни» Максвелла (Robert \"Tiny\" Maxwell) и Боба Ширинга (Bob Shiring), требуя от них сдать первый матч.\n\nМаксвелл и Ширинг незамедлительно доложили о преступном предложении главному тренеру «Массиллона» Шерберну Уайтману (Sherburn Wightman), после чего клуб со скандалом отчислил Иста еще до второй игры. Слухи и версии множились лавинообразно. Согласно одной из теорий, Уоллес и Ист договорились разменяться победами, чтобы спровоцировать третий, решающий матч в Кливленде, где кассовые сборы обещали побить исторические рекорды. Другие источники утверждали, что футболисты «Кантона» крупно поставили на себя в тотализаторе, но затем Уоллес неожиданно переиграл план.\n\n## Суды, разорение и истоки НФЛ\n\nУоллес яростно отрицал любые обвинения. Он утверждал, что «Массиллон» цинично сфабриковал историю, дабы очернить репутацию «Кантона» и сорвать кассу предстоящего выставочного матча на День благодарения против пенсильванского гранда «Латроб» (Latrobe). Защищая свое доброе имя, Уоллес подал иск о клевете к Стюарту и газете на астрономические по тем временам 25 000 долларов. До судебного вердикта дело так и не дошло — стороны заключили мировое соглашение, оставив подлинные детали сговора неразгаданной тайной.\n\nУдар по репутации и последовавший финансовый крах оказались сокрушительными для профессионального футбола Огайо. «Кантон» завершил сезон 1906 года с дефицитом зарплатного фонда перед игроками примерно в 6000 долларов. Спортивный клуб Кантона обанкротился и не смог выставить команду на сезон 1907 года. «Массиллон» в 1907 году попытался выжить в статусе любительского коллектива «Олл-Массиллонс» (All-Massillons), но вскоре тоже закрылся.\n\nЗаклятые соперники из округа Старк не встречались на поле вплоть до 1911 года. Однако именно региональный футбол Огайо, оправившись от пепелища, заложил фундамент современной игры. 17 сентября 1920 года представители клубов Кантона, Массиллона, Акрона и ряда других команд собрались в автосалоне в Кантоне, чтобы основать Американскую профессиональную футбольную ассоциацию — лигу, которая позже получила имя Национальной футбольной лиги (НФЛ).",
+      "social_post": "24 ноября 1906 года «Массиллон» обыграл «Кантон» 13:6, но радость чемпионства длилась считанные часы. Драка в отеле и подозрения в сговоре тренера Блонди Уоллеса и игрока Уолтера Иста привели к первому коррупционному скандалу в американском футболе, обанкротившему оба клуба! Однако именно из этого пепла родилась НФЛ. Как вам истоки великой лиги? Пишите в комментариях! #НФЛ #АмериканскийФутбол #ИсторияСпорта #Договорняк"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Robert_Maxwell_1989_%283x4_cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Robert_Maxwell_1989_(3x4_cropped_2).jpg",
+        "artist": "unknown photographer (Anefo)",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Global Economic Panel in Amsterdam. Robert Maxwell",
+        "width": 1200,
+        "height": 1516,
+        "year": 1989,
+        "subject": "Robert Maxwell",
+        "asked": "Robert Maxwell (American football)",
+        "page_title": "Robert Maxwell",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:robert_maxwell_1989_(3x4_cropped_2).jpg|Robert Maxwell",
+          "verdict": "wrong",
+          "flags": [],
+          "shows": "British media proprietor Robert Maxwell at an economic panel in 1989",
+          "reason": "The photo shows the late 20th-century businessman Robert Maxwell, not early 1900s American football player Robert 'Tiny' Maxwell.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-24-hist-ea6294.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Robert Maxwell' looks WRONG (shows British media proprietor Robert Maxwell at an economic panel in 1989; The photo shows the late 20th-century businessman Robert Maxwell, not early 1900s American football player Robert 'Tiny' Maxwell.). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Whether Walter East genuinely had $50,000 in gambler backing or exaggerated the sum to teammates"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The confidential settlement terms reached in Blondy Wallace's $25,000 libel lawsuit against Ed Stewart"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-24-news-f01fca",
+    "slug": "pfl-confirms-14-fight-lyon-card-headlined-by-lapilus-vs-mcke",
+    "date": "2026-11-24",
+    "created": "2026-11-24T03:34:37+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "PFL",
+      "MMA",
+      "Taylor Lapilus",
+      "Mitch McKee",
+      "Bryan Battle"
+    ],
+    "athletes": [
+      "Taylor Lapilus",
+      "Mitch McKee",
+      "Boris Atangana",
+      "Bryan Battle",
+      "Abdoul Abdouraguimov",
+      "Fabian Edwards"
+    ],
+    "image_subjects": [
+      "Taylor Lapilus",
+      "Bryan Battle",
+      "Fabian Edwards",
+      "LDLC Arena"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "PFL LYON FULL CARD CONFIRMED FOR DECEMBER 19 AT LDLC ARENA",
+        "url": "https://pflmma.com"
+      },
+      {
+        "title": "PFL Lyon Full Fight Card Confirmed for December 19 - MMA Sucka",
+        "url": "https://mmasucka.com"
+      },
+      {
+        "title": "PFL Lyon: Lapilus vs. McKee - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/PFL_Lyon:_Lapilus_vs._McKee"
+      },
+      {
+        "title": "Cageside Press: Full Card Revealed for PFL Lyon on Dec. 19",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VHekQzbFJGdndsN0FYaVVGT2I1NGlrbEpsNXZjdUtmb1RzeGZqbFVJUW9TSXJGbEZsZGkzRVFyM0JGNE5QcEQ5NVFkUXBXN19Ja1NhaThRTGRTakswNXpYYlFuNWp4ekVJU3J0cUdWUUN3a2xCeThmQkJpNDNza0oyZjREZw?oc=5"
+      },
+      {
+        "title": "MMA Sucka: PFL Lyon Full Fight Card Confirmed for December 19",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS21HYUg0MmYyWm9lQU1aSWc5TTJmTnRrY051U0w1QV9hUmZIQ1J0YVpnUHlYY2YxcV94cWRlQUUzaEZqM2M5NlhUT2EyejlEM01KUllseU1maWh1QlNFSF9qOW5lOVg5MjJ3TmRMbm42bXZLdy1oWGw4UFZBa0ZYWjdBUQ?oc=5"
+      },
+      {
+        "title": "Professional Fighters League: PFL LYON FULL CARD CONFIRMED FOR DECEMBER 19 AT LDLC ARENA",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3QwX001V0VhNmNYZ1hXVjItdVNHNlgyaHI0cGo0aVd2elpGcHBaQURFN2s5RHctcjdYT3BhdzlzdERiUjRJQllJY0ZkTW9IblVLLUtNSXN0cmRBQ1hma1R4QU5zWWtETEI3MTdOU3UtZ1V3TXFpTUFJWnlhR2gyamJscHhfdXpOclE?oc=5"
+      },
+      {
+        "title": "ONE Championship: Full Card Revealed For ONE Friday Fights 180 On November 27",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHp0ZVdyWlRoYW1NNzRial9kTl9Yd3RwSm4xNmZqdk5BTHVlZjI1UF82UnpOaTd4dlhUeF96OTdFZHh6MzYzTTFUaFpoSG14SkhNRUFrQ3pkWW9LX3hGQm9aSE1JV25FY05EZUhzcDR6TEpKNnB4S0R5bFQ0WEg2VEVpVlVtV1FxX3o2clhHaVI?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout",
+      "seo_title": "PFL Lyon Full Card Set: Lapilus vs McKee Dec 19",
+      "subheadline": "The December 19 event at LDLC Arena crowns an inaugural bantamweight champion in the league's final show before its 2027 rebrand.",
+      "body_markdown": "The Professional Fighters League finalized a 14-fight lineup for PFL Lyon on Monday, November 23, 2026, setting the slate for its return to the LDLC Arena in Lyon-Décines, France, on Saturday, December 19.\n\nThe event features five main-card bouts and nine preliminary matchups, topped by the inaugural PFL bantamweight world championship bout between French veteran Taylor Lapilus and undefeated American wrestler Mitch McKee.\n\n## Inaugural Bantamweight Crown in Lyon\n\nLapilus (25-4) enters the 135-pound title clash on a six-fight winning streak. The former UFC competitor and ARES FC bantamweight champion debuted in the PFL in December 2025 at the same venue in Lyon, earning a striking-based victory. He now competes for a world championship on home soil.\n\nMcKee (11-0) carries an undefeated professional mixed martial arts record into his first promotional title appearance after earlier tenures in Bellator and the Legacy Fighting Alliance. A two-time NCAA Division I All-American wrestler at the University of Minnesota, McKee trains at Kill Cliff FC in Florida under Robbie Lawler. In his PFL promotional debut in Chicago earlier in 2026, McKee defeated former Bellator champion Sergio Pettis to claim the league's No. 1 ranking at bantamweight.\n\n## Battle Meets Atangana in Middleweight Co-Main\n\nThe co-main event pairs fifth-ranked French middleweight Boris Atangana (9-0) against fourth-ranked American Bryan Battle (13-3). Atangana preserved his undefeated record in May 2026 with a first-round knockout against veteran Jared Gooden in Brussels. Battle, a former UFC fighter, earned his place in the co-feature by beating Dalton Rosta in Charlotte, North Carolina.\n\nThe main card includes three additional bouts:\n- Welterweight: Abdoul Abdouraguimov (20-1) faces Andreeas Binder (12-2)\n- Middleweight: Fabian Edwards meets French prospect Ilian Bouafia\n- Welterweight: Oualy Tandia fights veteran Alex Lohoré\n\nThe preliminary lineup includes former NCAA standout Bryce Meredith taking on Britain's Dean Garnett at bantamweight, alongside a 135-pound matchup pitting Baris Adiguzel against former Cage Warriors titleholder Jack Cartwright.\n\n## Final Showcase Before MVP Brand Transition\n\nThe December 19 gathering marks the last event staged under the PFL brand name. Beginning January 1, 2027, the promotion will fold event operations into the Most Valuable Promotions banner following the business integration led by chief executive Nakisa Bidarian.\n\nThe early preliminary slate at LDLC Arena is scheduled to begin at 11:00 a.m. Eastern Time (5:00 p.m. local time in France), with the main card following at 3:00 p.m. Eastern Time on the ESPN App and ESPN+.",
+      "social_post": "The full 14-fight card for PFL Lyon on December 19 is officially set. France's Taylor Lapilus meets undefeated American Mitch McKee for the inaugural bantamweight world title, while Bryan Battle clashes with unbeaten Boris Atangana in the co-main. This card marks the PFL's final event before shifting under the MVP banner in 2027. Who wins the bantamweight belt?"
+    },
+    "zh": {
+      "headline": "PFL里昂站14场完整战卡出炉：拉皮卢斯与麦基领衔雏量级金腰带争夺战",
+      "seo_title": "PFL里昂站全战卡确定：拉皮卢斯决战麦基争金腰带",
+      "subheadline": "12月19日LDLC竞技场将见证首位雏量级世界冠军诞生，这也是赛事在2027年品牌重塑前的谢幕战。",
+      "body_markdown": "2026年11月23日（星期一），职业格斗士联赛（PFL）正式敲定了PFL里昂站的14场对阵名单。赛事将于12月19日（星期六）重返法国里昂-代西讷的LDLC竞技场（LDLC Arena）。\n\n本期赛事包含5场主赛与9场副赛，头条主赛将决出PFL历史首位雏量级世界冠军，由法国老将泰勒·拉皮卢斯（Taylor Lapilus）迎战保持不败的美国摔跤好手米奇·麦基（Mitch McKee）。\n\n## 里昂见证首位雏量级世界冠军诞生\n\n拉皮卢斯（25胜4负）目前正处于一波六连胜的火热势头中，即将踏入这场135磅金腰带决战。作为前UFC选手以及ARES FC雏量级冠军，他曾于2025年12月在里昂同一座场馆上演PFL首秀，并凭借精湛的站立打击收获胜利。如今，他将本土作战冲击世界冠军头衔。\n\n麦基（11胜0负）则带着全胜的职业综合格斗战绩迎来了个人的首场PFL冠军战。在此之前，他曾先后征战Bellator和LFA赛场。麦基曾在明尼苏达大学两度斩获NCAA全美摔跤手荣誉，目前在佛罗里达州的Kill Cliff FC拳馆随前UFC冠军罗比·劳勒（Robbie Lawler）受训。在2026年早些时候于芝加哥上演的PFL首秀中，麦基击败前Bellator冠军塞尔吉奥·佩蒂斯（Sergio Pettis），从而登顶联盟雏量级头号排名。\n\n## 联合主赛：巴特尔决战阿坦加纳\n\n联合主赛是一场中量级焦点战，由排名第5的法国选手鲍里斯·阿坦加纳（Boris Atangana，9胜0负）对战排名第4的美国选手布赖恩·巴特尔（Bryan Battle，13胜3负）。2026年5月在布鲁塞尔，阿坦加纳首回合KO终结老将贾里德·古登（Jared Gooden），保住了不败战绩；前UFC名将巴特尔则是在北卡罗来纳州夏洛特击败达尔顿·罗斯塔（Dalton Rosta），赢得了这场联合主赛席位。\n\n主赛对阵还包括另外3场激战：\n- 次中量级：阿卜杜勒·阿卜杜拉吉莫夫（Abdoul Abdouraguimov，20胜1负）对阵安德烈亚斯·宾德尔（Andreeas Binder，12胜2负）\n- 中量级：法比安·爱德华兹（Fabian Edwards）迎战法国新星伊利安·布阿菲亚（Ilian Bouafia）\n- 次中量级：瓦利·坦迪亚（Oualy Tandia）交手老将亚历克斯·洛霍雷（Alex Lohoré）\n\n副赛阵容同样颇具看点，前NCAA摔跤名将布莱斯·梅雷迪斯（Bryce Meredith）将在雏量级与英国选手迪恩·加内特（Dean Garnett）碰面；同属135磅的巴里斯·阿迪古泽尔（Baris Adiguzel）则将迎战前Cage Warriors冠军杰克·卡特赖特（Jack Cartwright）。\n\n## MVP品牌过渡前的最终终章\n\n12月19日的盛会标志着赛事以“PFL”品牌运作的最后一战。随着首席执行官纳基萨·比达里安（Nakisa Bidarian）主导的业务整合完成，自2027年1月1日起，赛事的各项运营将正式归入Most Valuable Promotions（MVP）旗下。\n\nLDLC竞技场的副赛预计将于美国东部时间上午11:00（法国当地时间下午5:00）打响，主赛则将在美国东部时间下午3:00通过ESPN App与ESPN+平台全程直播。",
+      "social_post": "PFL里昂站12月19日完整14场战卡正式敲定！本土名将泰勒·拉皮卢斯迎战全胜摔跤手米奇·麦基，争夺PFL首条雏量级金腰带；联合主赛由巴特尔硬碰阿坦加纳。这不仅是年末格斗盛宴，更是PFL在2027年并入MVP品牌前的最后一战！你看好谁登顶雏量级？#PFL #MMA #综合格斗"
+    },
+    "ru": {
+      "headline": "PFL утвердил кард из 14 боев турнира в Лионе: Лапилус и Макки оспорят титул в главном бою",
+      "seo_title": "Лапилус — Макки: утвержден полный кард турнира PFL в Лионе",
+      "subheadline": "Турнир 19 декабря на арене LDLC определит первого в истории лиги чемпиона в легчайшем весе и станет прощальным шоу перед ребрендингом 2027 года.",
+      "body_markdown": "В понедельник, 23 ноября 2026 года, промоушен Professional Fighters League окончательно сформировал состав участников турнира PFL в Лионе. Лига возвращается на арену LDLC в пригороде Лиона Десин-Шарпьё в субботу, 19 декабря; всего в карде значатся 14 поединков.\n\nПрограмма вечера разбита на пять боев основного карда и девять предварительных схваток. Возглавит турнир титульный бой за первый в истории PFL пояс чемпиона мира в легчайшем весе: французский ветеран Тейлор Лапилус (Taylor Lapilus) сойдется с непобежденным американским борцом Митчем Макки (Mitch McKee).\n\n## Исторический титул в легчайшем весе на кону в Лионе\n\nЛапилус (25-4) подходит к титульному поединку в лимите 135 фунтов на серии из шести побед подряд. Бывший боец UFC и экс-чемпион ARES FC дебютировал в PFL в декабре 2025 года на этой же арене в Лионе, одержав уверенную победу в стойке. Теперь он поборется за пояс чемпиона мира перед родной публикой.\n\nМакки (11-0) ставит на кон идеальный профессиональный рекорд в ММА и впервые в карьере подерется за чемпионский пояс в крупном промоушене после выступлений в Bellator и LFA. Двукратный борец статуса All-American первого дивизиона NCAA в составе Университета Миннесоты тренируется во Флориде в зале Kill Cliff FC под руководством Робби Лоулера (Robbie Lawler). В своем дебютном поединке в PFL, который состоялся в Чикаго ранее в 2026 году, Макки одолел бывшего чемпиона Bellator Серхио Петтиса (Sergio Pettis) и возглавил рейтинг легчайшего дивизиона лиги.\n\n## Соглавное событие: Баттл против Атангана в среднем весе\n\nВо втором по значимости бою вечера пятый номер рейтинга PFL в среднем весе, непобежденный француз Борис Атангана (Boris Atangana, 9-0), встретится с четвертым номером дивизиона американцем Брайаном Баттлом (Bryan Battle, 13-3). Атангана сохранил ноль в графе поражений в мае 2026 года, нокаутировав опытного Джареда Гудена (Jared Gooden) в первом раунде на турнире в Брюсселе. Экс-боец UFC Баттл заслужил место в ко-мейн ивенте благодаря победе над Далтоном Ростой (Dalton Rosta) в Шарлотте, штат Северная Каролина.\n\nВ основной кард также вошли еще три схватки:\n- Полусредний вес: Абдул Абдурагимов (Abdoul Abdouraguimov, 20-1) против Андреаса Биндера (Andreeas Binder, 12-2)\n- Средний вес: Фабиан Эдвардс (Fabian Edwards) против французского проспекта Ильяна Буафья (Ilian Bouafia)\n- Полусредний вес: Уали Тандиа (Oualy Tandia) против ветерана Алекса Лохоре (Alex Lohoré)\n\nВ прелимах экс-звезда NCAA Брайс Мередит (Bryce Meredith) проведет бой в легчайшем весе против британца Дина Гарнетта (Dean Garnett), а Барыш Адигюзель (Baris Adiguzel) в этом же весе встретится с бывшим чемпионом Cage Warriors Джеком Картрайтом (Jack Cartwright).\n\n## Финальный турнир перед переходом под бренд MVP\n\nТурнир 19 декабря станет последним ивентом, организованным под вывеской PFL. Начиная с 1 января 2027 года промоушен переведет всю операционную деятельность под знамя Most Valuable Promotions (MVP) в рамках интеграции бизнеса, которую возглавил генеральный директор Накиса Бидариан (Nakisa Bidarian).\n\nРанние предварительные бои на арене LDLC стартуют в 11:00 по восточному времени США (17:00 по местному французскому времени), а трансляция основного карда начнется в 15:00 по восточному времени на платформах ESPN App и ESPN+.",
+      "social_post": "Полный кард турнира PFL в Лионе из 14 боев утвержден! 19 декабря Тейлор Лапилус и непобежденный Митч Макки определят первого чемпиона лиги в легчайшем весе, а Брайан Баттл сразится с небитым Борисом Атангана. Это последний турнир под брендом PFL перед переходом под эгиду MVP в 2027 году. Кто заберет пояс? #PFL #MMA #единоборства"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg/1280px-LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg",
+        "artist": "Chabe01",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "LDLC Arena, Décines-Charpieu.",
+        "width": 1200,
+        "height": 900,
+        "year": 2023,
+        "subject": "LDLC Arena",
+        "asked": "LDLC Arena",
+        "page_title": "LDLC Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:ldlc_arena_-_d%c3%a9cines-charpieu_(fr69)_-_2023-12-28_-_1.jpg|LDLC Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of LDLC Arena at night with crowds entering",
+          "reason": "The image shows the exterior of LDLC Arena in Décines-Charpieu near Lyon, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://pflmma.com, https://mmasucka.com"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-24-news-98e731",
+    "slug": "vietnam-earn-historic-first-u17-world-cup-point-in-3-3-thril",
+    "date": "2026-11-24",
+    "created": "2026-11-24T03:33:19+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "FIFA U-17 World Cup",
+      "Vietnam U17",
+      "New Zealand U17",
+      "Cristiano Roland",
+      "Youth Football",
+      "Group G"
+    ],
+    "athletes": [
+      "Chu Ngọc Nguyễn Lực",
+      "Lê Trọng Đại Nhân",
+      "Trương Nguyễn Duy Khang",
+      "Jack Clegg",
+      "John Woldegiorgis",
+      "Ethan Dyer",
+      "Joe McIntyre",
+      "Cristiano Roland"
+    ],
+    "image_subjects": [
+      "Cristiano Roland",
+      "Vietnam national under-17 football team",
+      "New Zealand men's national under-17 football team",
+      "Aspire Zone"
+    ],
+    "match": {
+      "competition": "FIFA U-17 World Cup",
+      "date": "23 November 2026",
+      "home": "Vietnam U17",
+      "away": "New Zealand U17",
+      "home_score": 3,
+      "away_score": 3,
+      "home_scorers": [
+        "Chu Ngọc Nguyễn Lực 49'",
+        "Lê Trọng Đại Nhân 58'",
+        "Trương Nguyễn Duy Khang 90+2'"
+      ],
+      "away_scorers": [
+        "Jack Clegg 19'",
+        "John Woldegiorgis 52'",
+        "Ethan Dyer 66'"
+      ],
+      "note": "Vietnam claim historic first U17 World Cup point"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Báo Lao Động: Link to watch live football U17 Vietnam vs U17 New Zealand at U17 World Cup 2026",
+        "url": "https://laodong.vn"
+      },
+      {
+        "title": "Bongdaplus: Highlight U17 Việt Nam vs U17 New Zealand: 3-3 (VCK U17 World Cup 2026)",
+        "url": "https://bongdaplus.vn"
+      },
+      {
+        "title": "VOV: Trực tiếp U17 Việt Nam 3-3 U17 New Zealand: Duy Khang gỡ hòa ở phút bù giờ",
+        "url": "https://vov.vn"
+      },
+      {
+        "title": "VietNamNet: Kết quả U17 Việt Nam vs New Zealand: Điểm số lịch sử ở World Cup",
+        "url": "https://vietnamnet.vn"
+      },
+      {
+        "title": "fifa.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpFuNucUiSWcex7WWYv8lDhxhfcp0NyP79a12Urrno4XbnrzasMVxMqeckU1_h_FHsnMKMrqtyS-kpPXy5K1e__yzGAtVf6coYbOb6ztbfgMo1mB8O1vBodY8OCDum4P31mEe7SEYisTJSK3ducsbnQSZFJS9j3BdF-tBL"
+      },
+      {
+        "title": "vietnamnet.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWg0b5V71ySm5SzHutkXsq5_GC02XG-3-Hk07bhzM8hZscaPLcrQGygsQbOULlINbgz1SWe1VYwn_Z2Pt7OVQq_nGzQ8Z7Ayp5CcwgmFDUKBa-TvREpJ9_3cbwyLYk0SEj99Md9zt-qZk8-vQZLTE1SjomoiqUJv1ESgv_JyvqUvW-YFeZn6VK5-1JpMhRPJoek4m4tgzH"
+      },
+      {
+        "title": "vov.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXey3j2mcH5E2X7O7VC8usOQ3AVY33V1o4qB6JRSPktIbQhpx0ok8rBkFYyHCRcC9DXcYkqunTL0PbOQyWEm3wxNNy5Q0exl3fLWH6L1pEzNmANb1PU5XI6yrDIsaXBWRk4cYcjmZBkwVsFiyALhpW5tNEjrLp3zndXW2aya4FBQRGoKgldwn1famEL76vG5924cIFHcSB6jZrfqCmchy585PccCch"
+      },
+      {
+        "title": "yeuthethao.net.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwzWmNuXgDT6_zI7J3EGNjoau1YY1BIFqG3si83P-b9rGLoK492aByEmAI6-FTHB1mjxZQnT_c8WiEBYTaAz_5wo8lpdyMjLDSSrD0Yewe5AYZfzyRg3d2vt9S-Eb8zjv-YrAq3Uq0ffcPQc_EjJ63-vg7CGRluLPBElpydOT1HGmuBRxAbVU4yWBgYw=="
+      },
+      {
+        "title": "thethaovanhoa.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4qrQpYnPO_oIqiY0okQ2VPhV-qia-XPGK5a9hzId9vms5N4ZCXDfMXdfU_wZhudk2-FpGQhm2t7UYyX1IDCm8iCC4Bn0NW59l69f7LEdF4DAGKneE9rquWmyhV1KUOgU8JRGrCZaZ1D6MHRsBmwG9kha6qdZSbs7yCyRUTr3_5rt6VpQqU14ikdBPp-YUA5B1iYzAhY4HhQBlCnjj529W4siwHYVjLj5j4TM14NWmKOF4HWUQFKwzNefYXxViyZebZnat"
+      },
+      {
+        "title": "xscores.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6XVd4w70ls4VJo6YeBON7_7i6fRYVwZwDUrlAHq9RdlEf8HBs-cb3EdhAmMqVErjpLZ0ymTSgk7aBV0P_cOhxkUO6QgmHGCR_ZSb-8A4veUy2cMq8gq3AWQnlW-QECvuwUtZP3uemljPY2DuuJqCmhX_uhstk-jkDGkj33AhSYR1nT7jit8HYCdNHH7fCShM="
+      },
+      {
+        "title": "vov.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpWmmYGYqMsQqcKEBDRHFMF93gwbU-16lBXcB6lJMclj_OwZ-Bz-6eHSVqwZxKU2wWjjrqjl6eb0CY1CoOaX96ldjlIB4IMQHYpYRRdP2JwxTyGLzEE1lw_D56w1OgxR8pfz-RLjvogtZFstw0dF6SofyuFBu1onMXErLm6RE3prncLIaGSqso5UFOOR_a8ffwCDOUiYuuRh_oIK0_m776DUY="
+      },
+      {
+        "title": "laodong.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKxeGdROfYknsd0tbppGkGx-xwpDtCcCaR68ZFkxrxfY_MziKv7wt9vYdQ74cc1RbGGvLbQ16KXUqWKy-k439acYvEAELR7iPgyrOQ1hEbgNNlsOza3UYxebCAq_hBqxvcOiHWVYVH0B8scN94umH0_nDtL3J3kl19V2oq8zMOOQ7JJhtV4IxTkxbX45RQkr3OD-38tg7Dy5udHaCLGDiwfk2wELyO5kMUVNDOjGJs6uCBJQ=="
+      },
+      {
+        "title": "soha.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMv3wVnK-vMz44mBMZVNqBD-VPLcU1NzEJK7gMmCpIRFFn67eC5HVYy910gCRr4fBCZZ_MBWKN1BCa59x8QH6M4JdVYUeW9-QCpP5RQNG775dZvcafAh_Bk2lLs0P3oIhxF68sWBs9qkMqvHuFAhRGioUme-ynChb0-9ahbwsei5SQQ373PkCX5NpMVSDP8YQZHEackIRT6tC_xUuyOhCA-Y1KsrbbK9qv84c9-w47V6I="
+      },
+      {
+        "title": "dantri.com.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTK3p6OkFJi38kuSMexeFpUVarFlYYCkhN3LNYrmw3NOs2jUbHhDnkVlUmDBltcgKPfFZPyMQb6u3hPhT0OC4sey67hDnmFWJKLM6fyFlXvty0P0E6rS1oN10w-Ep_H7aEYEYjr_w-TmlseusLWU30Wd-R9tv8IbUyOdV0aEAYOORhXxlcRwhkdmzzO5m9TQRwo8Xhi3lSldAFklUvWcOOvbeTAOo4nQ=="
+      },
+      {
+        "title": "vietnamnet.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmNvjsnqZykrDUh5GeHSkTdk--LO6E4crzVudqgjsgQyiWuP26kOp4VAYknvSbFXLfOFb14ZYFIeqbHd_1fKiSfgDbuzIr_mCMw-3FdUhMay1zDI2DZmNHSylF2E8i_kWdhxW-fb-IQh76bkbRXjJclMSsR-jqAKUz8pLoBh3-7iZzQA=="
+      },
+      {
+        "title": "flashscore.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_mbVPzwurTY3cz-rW1O9dMAobrxPX7j4gTue0wZ7m6D43Acx9A7E7hhkNNSte-m4EUfaL2Gfb1vdHHgUasCzLgKT4O03gdm3ubexNU8f0b3fRyudBH3pInPiOAvEAbIAeiGXfWtr9-iluJx2DJ5Heo2YopTqVjB7CCo4ohxEjruXWpLoM"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiOEx3yU2LWnhPx1ttHTxyrnXPHuHF-DZzM8PXkMxJXaihSKwsMvdgZpXdWNYG9BuIg5JOqxNSARbdrrxRwhwsJWwt7VAIaItm3-8BITTK9PLDTtgGTz4PGaNA4FVhQcgQGBSGVMRoANpCfg=="
+      },
+      {
+        "title": "sofascore.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX7RVZBOUtuRDuMwRiFdHvlLGPeFZz4QW_YnuWXd_f6fW9oXdYn6LVegNszymsPQ8upwyGr04xfSFwHtqgFiC6J7CAM7eGWJCzV1XhycSj1NFfqYg37-8iRpw_zEIDywzVYsR4qL9T8Lx0v5Q9FMw="
+      },
+      {
+        "title": "bongda.com.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJXj89nQ-6HCOWiRzlfb2vEuAUBI8Fr0vmFehgTxV8Ai4DuQqbQ5NcvOAfc2kpydJGqvTu7fVVA3TvKb1aHfUD29wfIzI76tDOgqX2FK62Xjwz4602zZFbed5Tdhi5atKH8_2ojqYaSG5i9w1-n85I-VSl_S_KfssHNOiD9pHSUdNNVv9_WobwWo8O"
+      },
+      {
+        "title": "Laodong.vn: Link to watch live football U17 Vietnam vs U17 New Zealand at U17 World Cup 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3pydW92TE9tWlhsaEJFaDg5YmxYRElWdDJsUnNNV2d0UWs4Y1dxUXNfOGFHb0RFMjk3MllwVjU3Tkh0WFVFeU9OZV9QYUh3LWR5YS1iQ2t6d2JscGNzX24wQ0RLUGFTdy1XdWhoOHBPanJwNm9rcVVsQWJnLS13cTZtT3huRmY2T0p3bnlObTZ2SUtrY0Z6ZDJlNHplLVZhS2lfSm13S1BLMUI1S1RtUFktOG1EVHVNUHlGaXRYVjZwZkE?oc=5"
+      },
+      {
+        "title": "YSscores: Match Highlights Vietnam U17 - New Zealand U17",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQkZOSzBIWWVyeHdXal82b1hueUpJM1Iwa1ZYbkh6U25qbk5vcXJDRWo5bVVfODdYQm1vR1ZWcEFwbXVDTFZHY3hGUE10WXNENXc?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand",
+      "seo_title": "Vietnam 3-3 New Zealand: Late U17 World Cup Drama",
+      "subheadline": "Cristiano Roland's squad fought back three times before Trương Nguyễn Duy Khang headed a 92nd-minute equalizer in Doha.",
+      "body_markdown": "Vietnam’s under-17 men's national football team earned their first point in FIFA U-17 World Cup history on Monday, November 23, 2026, rallying three separate times to secure a 3-3 draw against New Zealand at the Aspire Zone in Doha, Qatar.\n\nSubstitute Trương Nguyễn Duy Khang scored the decisive equalizer in the 92nd minute, heading home after New Zealand goalkeeper Joseph Chalabi parried an initial delivery into the penalty area. The Oceania champions nearly snatched victory two minutes later when midfielder Joe McIntyre struck the goalpost from distance in the 94th minute.\n\n## Three deficits erased in Doha\n\nNew Zealand opened the scoring in the 19th minute of the Group G fixture when forward Jack Clegg converted from close range following a low cross from Matias Nunez. The Vietnamese side trailed 1-0 at half-time despite registering several dangerous attempts on goal.\n\nHead coach Cristiano Roland’s side leveled four minutes into the second half. Midfielder Chu Ngọc Nguyễn Lực curled a direct free-kick from the left wing into the bottom corner in the 49th minute. New Zealand restored their advantage three minutes later when James Wenceslao delivered a cross from the right flank, allowing John Woldegiorgis to head past Vietnamese goalkeeper Lý Xuân Hòa in the 52nd minute.\n\nVietnam equalized again in the 58th minute. Nguyễn Lực split the New Zealand defense with a through ball to Lê Trọng Đại Nhân, who finished past Chalabi. The assistant referee initially raised an offside flag, but Vietnam's coaching staff requested a review under FIFA's Football Video Support (FVS) protocol, prompting the referee to overturn the call and award the goal. New Zealand capitalized on a set piece to take their third lead in the 66th minute when captain Ethan Dyer powered in a header from a corner kick.\n\n## First point keeps qualification alive\n\nDuy Khang’s stoppage-time header secured Vietnam's breakthrough point at a global FIFA tournament following their opening 3-2 defeat against European runners-up Belgium on November 20. New Zealand also picked up their first point of the campaign after losing 3-0 to Mali in their opener.\n\nThe result leaves Vietnam third in Group G with one point and a minus-one goal difference. Mali top the standings with six points after defeating Belgium, who sit second on three points. New Zealand occupy fourth place with one point and a minus-three goal difference. Under the 48-team tournament structure in Qatar, the top two teams in each group advance to the round of 32 alongside the eight best third-placed finishers.\n\nVietnam finish their group schedule on Thursday, November 26, 2026, when they face Mali at the Aspire Zone.",
+      "social_post": "Historic night in Doha! Vietnam U17 collected their first-ever FIFA U-17 World Cup point, battling back three separate times in a thrilling 3-3 draw against New Zealand. Trương Nguyễn Duy Khang headed home a dramatic 92nd-minute equalizer before Joe McIntyre rattled the post for the Kiwis. The result keeps coach Cristiano Roland's side in contention for a place in the round of 32 ahead of Thursday's match with Mali. Can Vietnam advance to the knockout rounds? Share your predictions below! #U17WorldCup #VietnamFootball #JuniorAllWhites"
+    },
+    "zh": {
+      "headline": "3比3战平新西兰！越南队三度落后三度扳平，斩获U17世界杯历史首分",
+      "seo_title": "越南3-3新西兰：U17世界杯斩获历史首分",
+      "subheadline": "主帅克里斯蒂亚诺·罗兰麾下青年军展现顽强韧性，张阮维康第92分钟头球绝平。",
+      "body_markdown": "2026年11月23日星期一，在卡塔尔多哈的阿斯拜尔运动精英区（Aspire Zone），越南U17男足国家队创造了历史——在三度落后的绝境下顽强追赶，最终以3比3战平新西兰队，拿到了队史在国际足联U-17世界杯上的首个积分。\n\n替补登场的张阮维康（Trương Nguyễn Duy Khang）在第92分钟打入金子般的绝平进球：新西兰门将约瑟夫·沙拉比（Joseph Chalabi）扑出禁区内的传中，维康跟进头槌破网。大洋洲冠军险些在两分钟后上演反绝杀，但中场球员乔·麦金太尔（Joe McIntyre）在第94分钟的远射重重砸在立柱上。\n\n## 多哈惊魂：三度抹平比分差距\n\n这场G组对决开局仅19分钟，新西兰队便打破僵局，马蒂亚斯·努涅斯（Matias Nunez）低平球传中，前锋杰克·克莱格（Jack Clegg）近距离推射入网。尽管越南队在上半场多次制造威胁攻势，但半场结束时仍以0比1落后。\n\n下半场开场仅4分钟，主教练克里斯蒂亚诺·罗兰（Cristiano Roland）的球队便扳平比分。第49分钟，中场球员朱玉阮力（Chu Ngọc Nguyễn Lực）在左路主罚直接任意球，皮球划出一道弧线直挂球门底角。然而仅仅3分钟后，新西兰队卷土重来，詹姆斯·温塞斯劳（James Wenceslao）右路起球传中，约翰·沃尔德吉奥吉斯（John Woldegiorgis）在第52分钟头球攻破了越南门将李春和（Lý Xuân Hòa）的十指关。\n\n顽强的越南队在第58分钟再次追平。阮力送出穿透防线的精妙直塞，黎仲大人（Lê Trọng Đại Nhân）反越位推射攻破沙拉比把守的球门。助理裁判起初举旗示意越位，但越南教练组根据国际足联“足球视频支援”（FVS）机制申请复核，主裁判经回看后推翻原判，认定进球有效。第66分钟，新西兰队再次抓住定位球良机由队长伊森·戴尔（Ethan Dyer）角球冲顶破网，第三次取得领先。\n\n## 历史首分延续出线希望\n\n继11月20日首战2比3惜败欧洲亚军比利时队之后，维康在伤停补时的头球破门为越南足球在国际足联全球性大赛中实现了历史性的零突破。而新西兰队在首战0比3负于马里队后，同样收获了本届赛事的首个积分。\n\n本轮过后，越南队以1分、-1个净胜球暂列G组第三位。马里队在战胜比利时后两战全胜积6分领跑，比利时队积3分位居次席，新西兰队同积1分因-3个净胜球垫底。根据本届在卡塔尔举办的48队新赛制，每个小组前两名以及8个成绩最好的小组第三名将晋级32强淘汰赛。\n\n越南队将于2026年11月26日星期四在阿斯拜尔运动精英区迎来小组赛末轮决战，对手是实力强劲的马里队。",
+      "social_post": "多哈历史之夜！越南U17三度落后三度扳平，3-3战平新西兰，斩获队史U17世界杯首个积分！张阮维康第92分钟头球绝平，随后麦金太尔远射中柱险造绝杀。罗兰麾下的这支青年军依然保留着冲击32强的希望，周四对阵马里将是生死战！大家觉得越南队能创造奇迹挺进淘汰赛吗？欢迎留言预测！ #U17世界杯 #越南足球 #新西兰男足"
+    },
+    "ru": {
+      "headline": "Историческое первое очко на ЧМ U-17: Вьетнам вырвал ничью 3:3 у Новой Зеландии в безумном матче",
+      "seo_title": "Вьетнам — Новая Зеландия 3:3: первое очко азиатов на ЧМ",
+      "subheadline": "Команда Криштиану Роланда трижды отыгрывалась по ходу встречи, пока Чыонг Нгуен Зуй Кханг не забил головой на 92-й минуте.",
+      "body_markdown": "Юношеская сборная Вьетнама (до 17 лет) в понедельник, 23 ноября 2026 года, сотворила историю, набрав свое первое очко на чемпионатах мира FIFA U-17. В Дохе на стадионе спорткомплекса «Эспайр Зоун» (Aspire Zone) подопечные Криштиану Роланда трижды ликвидировали отставание в счете и сыграли вничью со сборной Новой Зеландии — 3:3.\n\nРешающий мяч на 92-й минуте забил вышедший на замену Чыонг Нгуен Зуй Кханг (Trương Nguyễn Duy Khang). Вратарь новозеландцев Джозеф Чалаби (Joseph Chalabi) неудачно отбил подачу в штрафную, и вьетнамский нападающий хладнокровно замкнул отскок головой. Спустя две минуты чемпионы Океании едва не вырвали победу: на 94-й минуте дальний выстрел полузащитника Джо Макинтайра (Joe McIntyre) потряс штангу.\n\n## Камбэк в Катаре: трижды отыгранное отставание\n\nНовозеландцы открыли счет в матче группы G на 19-й минуте: прострел Матиаса Нуньеса (Matias Nunez) замкнул форвард Джек Клегг (Jack Clegg). Несмотря на ряд опасных моментов у чужих ворот, на перерыв азиатская команда ушла уступая в счете.\n\nСпустя четыре минуты после перерыва банда Криштиану Роланда восстановила паритет. На 49-й минуте полузащитник Чу Нгок Нгуен Лык (Chu Ngọc Nguyễn Lực) прямым ударом со штрафного с левого фланга закрутил мяч точно в нижний угол. Впрочем, Новая Зеландия вернула себе лидерство уже через три минуты: подачу Джеймса Венсеслао (James Wenceslao) с правого края ударом головой замкнул Джон Волдегиоргис (John Woldegiorgis), переиграв голкипера Ли Суан Хоа (Lý Xuân Hòa).\n\nНа 58-й минуте Вьетнам отыгрался во второй раз. Нгуен Лык разрезал оборону соперника передачей на ход Ле Чонг Дай Няну (Lê Trọng Đại Nhân), который пробил мимо Чалаби. Лайнсмен сначала взмахнул флажком, сигнализируя об офсайде, однако тренерский штаб Вьетнама воспользовался запросом на видеопросмотр по системе FVS (Football Video Support). Главный арбитр изучил повтор, отменил решение ассистента и засчитал гол. На 66-й минуте «Олл Уайтс» в третий раз вышли вперед — капитан команды Итан Дайер (Ethan Dyer) продавил всех на угловом и мощно вколотил мяч головой.\n\n## Первое очко оставляет шансы на плей-офф\n\nСпасительный гол Зуй Кханга в добавленное время принес Вьетнаму исторический первый турнирный балл на мировых первенствах под эгидой ФИФА — ранее, 20 ноября, вьетнамцы на старте уступили вице-чемпионам Европы бельгийцам со счетом 2:3. Новая Зеландия также разжилась первым баллом после стартового разгрома от Мали (0:3).\n\nПосле двух туров Вьетнам занимает третье место в квартете G с одним очком и разницей мячей «минус один». Лидирует Мали (6 очков), обыгравшая Бельгию (3 очка). Новая Зеландия замыкает таблицу с 1 очком и разницей «минус три». При действующем формате чемпионата мира с 48 командами в 1/16 финала выходят по две лучшие сборные из каждой группы, а также восемь лучших команд среди занявших третьи места.\n\nЗаключительный матч группового этапа Вьетнам проведет в четверг, 26 ноября 2026 года, против сборной Мали в спорткомплексе «Эспайр Зоун».",
+      "social_post": "Исторический вечер в Дохе! Сборная Вьетнама U-17 завоевала первое в своей истории очко на юношеских мундиалях ФИФА, трижды отыгравшись в сумасшедшем триллере с Новой Зеландией (3:3). На 92-й минуте Зуй Кханг забил спасительный мяч, а на 94-й новозеландцы сотрясли штангу! Команда Криштиану Роланда сохраняет реальные шансы на выход в 1/16 финала перед битвой с Мали. Верите в исторический плей-офф для Вьетнама? Пишите в комментариях! #ЧМU17 #ФутболВьетнама #U17WorldCup"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png",
+        "artist": "Unknown author Unknown author",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Drawing of Tran Nhan Tong in the work Truc Lam, the great painter.",
+        "width": 1200,
+        "height": 1200,
+        "year": 2023,
+        "subject": "Trần Nhân Tông",
+        "asked": "Lê Trọng Đại Nhân",
+        "page_title": "Trần Nhân Tông",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:portrait_of_emperor_tr%e1%ba%a7n_nh%c3%a2n_t%c3%b4ng.png|Trần Nhân Tông",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'",
+            "looks like a drawing / old portrait (Drawing)"
+          ],
+          "shows": "historical drawing of a Buddhist monk holding prayer beads",
+          "reason": "The image is an ancient drawing of a monk, completely unrelated to modern football and the U17 World Cup match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg",
+        "artist": "Rafeek Manchayil",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Fireworks from the opening ceremony of the 2006 Asian Games at Doha",
+        "width": 1200,
+        "height": 798,
+        "year": 2006,
+        "subject": "Aspire Zone",
+        "asked": "Aspire Zone",
+        "page_title": "Aspire Zone",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:asian_games_doha_2006_fireworks.jpg|Aspire Zone",
+          "verdict": "ok",
+          "flags": [
+            "file looks like a non-sport scene (Fireworks)"
+          ],
+          "shows": "Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha",
+          "reason": "The image shows the Aspire Zone complex in Doha, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-24-news-98e731.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Trần Nhân Tông' looks WRONG (shows historical drawing of a Buddhist monk holding prayer beads; asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'; looks like a drawing / old portrait (Drawing); The image is an ancient d). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "4 source(s) are homepages, not articles: https://laodong.vn, https://bongdaplus.vn, https://vov.vn"
+      }
+    ]
+  },
+  {
     "id": "2026-11-23-news-dbb56e",
     "slug": "carlos-alcaraz-defeats-alexander-zverev-in-turin-to-claim-ma",
     "date": "2026-11-23",

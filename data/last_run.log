@@ -1,93 +1,95 @@
-2026-11-23 09:40:26,796 INFO BBC Sport                         47 items
-2026-11-23 09:40:26,966 INFO The Guardian Sport                28 items
-2026-11-23 09:40:27,033 INFO ESPN                               0 items
-2026-11-23 09:40:27,239 INFO Sky Sports                        18 items
-2026-11-23 09:40:27,574 INFO Google News – Sports (EN)         49 items
-2026-11-23 09:40:27,898 INFO Google News – 体育 (ZH)             59 items
-2026-11-23 09:40:28,572 INFO Google News – Спорт (RU)          41 items
-2026-11-23 09:40:29,289 INFO Championat                        29 items
-2026-11-23 09:40:29,937 INFO Sports.ru                         18 items
-2026-11-23 09:40:31,550 INFO Спорт-Экспресс                   369 items
-2026-11-23 09:40:32,414 INFO РИА Новости Спорт                 20 items
-2026-11-23 09:40:33,094 INFO 中国新闻网 体育                          29 items
-2026-11-23 09:40:33,474 INFO Google News – Cambodia sport      11 items
-2026-11-23 09:40:33,807 WARNING Feed unreadable Google News – Southeast Asia sport: <unknown>:2:252: not well-formed (invalid token)
-2026-11-23 09:40:34,372 INFO Google News – Combat promotions   87 items
-2026-11-23 09:40:34,740 INFO Google News – Boxing              18 items
-2026-11-23 09:40:34,937 INFO Google News – Kun Khmer            0 items
-2026-11-23 09:40:35,145 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-23 09:40:35,803 INFO Google News – Единоборства (RU)   95 items
-2026-11-23 09:40:36,141 INFO Google News – 格斗 (ZH)             28 items
-2026-11-23 09:40:36,336 INFO MMA Fighting                      10 items
-2026-11-23 09:40:36,589 INFO Google News – Khmer Times sport    7 items
-2026-11-23 09:40:37,433 INFO Candidate stories after clustering: 833
-2026-11-23 09:40:37,486 INFO Skipped (we already have this story): Где и когда пройдет первый турнир UFC в Казахстане
-2026-11-23 09:40:37,500 INFO Skipped (we already have this story): Российского бойца ММА задержали в Париже по подозрению в изнасиловании, а потом освободили
-2026-11-23 09:40:37,537 INFO Skipped (we already have this story): What’s Next for Navajo Stirling After Knocking Out Jiri Prochazka at UFC Qatar?
-2026-11-23 09:40:37,904 INFO Skipped (pre-match piece, no previews): Disney анонсировала новые материалы «Мстителей: Доктор Дум»: показ состоится перед премьерой
-2026-11-23 09:40:38,059 INFO Skipped (we already have this story): Le Parisien сообщил о задержании бойца ММА Алиева в Париже
-2026-11-23 09:40:38,089 INFO Skipped (pre-match piece, no previews): 定南赣联vs贵州贵阳竞技：唐诗、朱明鑫首发，刘宇杰、陈彦朴出战
-2026-11-23 09:40:38,101 INFO Skipped (we already have this story): Sherdog’s mixed martial arts rankings: Navajo Stirling surges, Jiri Prochazka falls
-2026-11-23 09:40:38,106 INFO Skipped (pre-match piece, no previews): Canadian veteran vs. 'TUF' finalist joins UFC 336 lineup in Toronto
-2026-11-23 09:40:38,152 INFO Skipped (match still in progress, live update): «Брагантино» победил «Васко да Гама», Роберт Ренан был удален на 89-й минуте
-2026-11-23 09:40:38,220 INFO Skipped (pre-match piece, no previews): 乔伊斯预测泰森-富里Vs约书亚大战
-2026-11-23 09:40:38,273 INFO Skipped (we already have this story): UFC Qatar results: Sooo … About last night | Jiri vs. Stirling
-2026-11-23 09:40:38,274 INFO Skipped (we already have this story): Lauren Price becomes Wales’ first undisputed world boxing champion, BBC Sport Wales reports
-2026-11-23 09:40:38,425 INFO Skipped (match still in progress, live update): «Барселона» — «Вильярреал»: Ямаль не реализовал пенальти на 23-й минуте
-2026-11-23 09:40:38,501 INFO Skipped (we already have this story): Ферстаппен выиграл три из четырех Гран-при Лас-Вегаса на новой трассе
-2026-11-23 09:40:38,546 INFO Skipped (match still in progress, live update): «Реал» обыграл «Сельту», Эспи забил победный гол на 85-й минуте, Мбаппе не реализовал пенальти
-2026-11-23 09:40:38,921 INFO Google News search                23 items
-2026-11-23 09:40:39,320 INFO Google News search                39 items
-2026-11-23 09:40:39,691 INFO Google News search                23 items
-2026-11-23 09:40:39,998 INFO Google News search                15 items
-2026-11-23 09:40:40,200 INFO Google News search                 1 items
-2026-11-23 09:40:40,200 INFO Skipped (only 1 outlet): 2026年全国羽毛球传统学校比赛（高校组）在渝开赛
-2026-11-23 09:40:40,204 INFO Skipped (same event as a stronger story): 'It means the world to me' - Alcaraz revels in ATP Finals victory
-2026-11-23 09:40:40,436 INFO Google News search                 3 items
-2026-11-23 09:40:40,436 INFO Confirmed by 2+ outlets: 23 of 25 candidates (6 searches)
-2026-11-23 09:40:40,454 INFO Picked [russia combat 4.8 · 4 outlets] Российский боец ММА Алиев освобожден после задержания во Франции
-2026-11-23 09:40:40,455 INFO Writing news (EN) ...
-2026-11-23 09:40:41,103 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-23 09:41:43,930 INFO Adapting to zh, ru ...
-2026-11-23 09:42:11,184 INFO Picked [russia olympic 3.1 · 2 outlets] Трефилов — о шансах женской сборной по гандболу на медали Олимпиады-2028: «Деньги и победы любят тишину»
-2026-11-23 09:42:12,024 INFO Writing news (EN) ...
-2026-11-23 09:43:14,661 INFO Adapting to zh, ru ...
-2026-11-23 09:43:46,608 INFO Writing athlete_story (EN) ...
-2026-11-23 09:45:02,127 WARNING Story too close to its source (4% overlap, 36-word run) — rewriting
-2026-11-23 09:45:27,154 INFO Adapting to zh, ru ...
-2026-11-23 09:46:21,133 INFO Looking up photos for 2026-11-23-news-b02637: ['Adidas Arena', 'Montreuil, Seine-Saint-Denis', 'Grozny', 'Amir Aliev', 'Matheus Malta']
-2026-11-23 09:46:21,300 INFO Photo check Adidas_Arena_façade_(cropped).jpg (Wikimedia Commons, 4080x2222): OK, licence 'CC0'
-2026-11-23 09:46:21,300 INFO Photo for 'Adidas Arena': Adidas_Arena_façade_(cropped).jpg (ManoSolo13241324, CC0)
-2026-11-23 09:46:21,447 INFO Photo check Hôtel_ville_Montreuil_Seine_St_Denis_15.jpg (Wikimedia Commons, 4311x3130): OK, licence 'CC BY-SA 4.0'
-2026-11-23 09:46:21,447 INFO Photo for 'Montreuil, Seine-Saint-Denis': Hôtel_ville_Montreuil_Seine_St_Denis_15.jpg (Chabe01, CC BY-SA 4.0)
-2026-11-23 09:46:21,594 INFO Photo check Мечеть_"Сердце_Чечни".jpg (Wikimedia Commons, 3000x1688): OK, licence 'CC BY-SA 3.0'
-2026-11-23 09:46:21,594 INFO Photo for 'Grozny': Мечеть_"Сердце_Чечни".jpg (Rasul70, CC BY-SA 3.0)
-2026-11-23 09:46:21,594 INFO Looking up photos for 2026-11-23-news-23b075: ['Yevgeni Trefilov', 'Sergey Shishkarev', "Russia women's national handball team", '2028 Summer Olympics', 'Ekaterina Ilyina']
-2026-11-23 09:46:21,734 INFO Photo check Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg (Wikimedia Commons, 4864x3648): REFUSED, licence 'FAL' is not a free licence
-2026-11-23 09:46:21,734 WARNING No free-licence photo for 'Yevgeni Trefilov' (Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg)
-2026-11-23 09:46:21,877 INFO Photo check Sergey_Shishkarev_2023.jpg (Wikimedia Commons, 7854x5236): OK, licence 'CC BY-SA 4.0'
-2026-11-23 09:46:21,877 INFO Photo for 'Sergey Shishkarev': Sergey_Shishkarev_2023.jpg (Semenforyou, CC BY-SA 4.0)
-2026-11-23 09:46:22,428 WARNING No free-licence photo for '2028 Summer Olympics' (2028_Summer_Olympics_Logo.svg)
-2026-11-23 09:46:22,556 INFO Photo check Handball_Ekaterina_Ilyina_MoscowTass_08-2016.jpg (Wikimedia Commons, 3955x3164): REFUSED, licence 'FAL' is not a free licence
-2026-11-23 09:46:22,556 WARNING No free-licence photo for 'Ekaterina Ilyina' (Handball_Ekaterina_Ilyina_MoscowTass_08-2016.jpg)
-2026-11-23 09:46:22,556 INFO Looking up photos for 2026-11-23-athl-a5664c: ['Manny Pacquiao', 'Freddie Roach', 'General Santos']
-2026-11-23 09:46:22,690 INFO Photo check Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg (Wikimedia Commons, 746x984): OK, licence 'Public domain'
-2026-11-23 09:46:22,691 INFO Photo for 'Manny Pacquiao': Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg (Robert Oswald P. Alfiler for the Philipp, Public domain)
-2026-11-23 09:46:22,848 INFO Photo check Freddie_Roach_2010.jpg (Wikimedia Commons, 1076x1337): OK, licence 'CC BY-SA 2.0'
-2026-11-23 09:46:22,848 INFO Photo for 'Freddie Roach': Freddie_Roach_2010.jpg (Bryan Horowitz, CC BY-SA 2.0)
-2026-11-23 09:46:22,977 INFO Photo check Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg (Wikimedia Commons, 4000x3000): OK, licence 'CC BY-SA 4.0'
-2026-11-23 09:46:22,977 INFO Photo for 'General Santos': Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg (Patrickroque01, CC BY-SA 4.0)
-2026-11-23 09:46:29,719 INFO Photo check 2026-11-23-news-b02637 #1 'Adidas Arena': OK
-2026-11-23 09:46:37,764 INFO Photo check 2026-11-23-news-b02637 #2 'Montreuil, Seine-Saint-Denis': OK
-2026-11-23 09:46:44,936 INFO Photo check 2026-11-23-news-b02637 #3 'Grozny': OK
-2026-11-23 09:46:51,464 INFO Photo check 2026-11-23-news-23b075 #1 'Sergey Shishkarev': OK
-2026-11-23 09:46:57,498 INFO Photo check 2026-11-23-athl-a5664c #1 'Manny Pacquiao': OK
-2026-11-23 09:47:06,755 INFO Photo check 2026-11-23-athl-a5664c #2 'Freddie Roach': OK
-2026-11-23 09:47:13,477 INFO Photo check 2026-11-23-athl-a5664c #3 'General Santos': OK
-2026-11-23 09:47:13,596 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
-2026-11-23 09:47:13,712 INFO Wrote 3 new articles for 2026-11-23
-2026-11-23 09:47:13,953 INFO Exported 6 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-23
-2026-11-23 09:47:16,307 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-23 09:47:16,362 INFO IndexNow: 6 page(s) waiting for the next run
-2026-11-23 09:47:17,505 INFO Website built: 72 published stories, 261 pages
-2026-11-23 09:47:17,509 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 14 ok / 0 failed (30,249 in / 32,812 out tokens) · estimated cost if billed: US$0.146
+2026-11-23 20:31:43,460 INFO BBC Sport                         54 items
+2026-11-23 20:31:43,739 INFO The Guardian Sport                22 items
+2026-11-23 20:31:43,797 INFO ESPN                               0 items
+2026-11-23 20:31:43,976 INFO Sky Sports                        20 items
+2026-11-23 20:31:44,422 INFO Google News – Sports (EN)         54 items
+2026-11-23 20:31:45,131 INFO Google News – 体育 (ZH)             57 items
+2026-11-23 20:31:45,990 INFO Google News – Спорт (RU)          50 items
+2026-11-23 20:31:46,976 INFO Championat                        30 items
+2026-11-23 20:31:47,801 INFO Sports.ru                         12 items
+2026-11-23 20:31:49,750 INFO Спорт-Экспресс                   449 items
+2026-11-23 20:31:50,991 INFO РИА Новости Спорт                 20 items
+2026-11-23 20:31:51,767 INFO 中国新闻网 体育                          29 items
+2026-11-23 20:31:52,144 INFO Google News – Cambodia sport       8 items
+2026-11-23 20:31:52,538 INFO Google News – Southeast Asia sport  33 items
+2026-11-23 20:31:53,196 INFO Google News – Combat promotions   86 items
+2026-11-23 20:31:53,549 INFO Google News – Boxing              21 items
+2026-11-23 20:31:53,795 INFO Google News – Kun Khmer            1 items
+2026-11-23 20:31:54,005 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-23 20:31:54,430 WARNING Feed unreadable Google News – Единоборства (RU): <unknown>:2:252: not well-formed (invalid token)
+2026-11-23 20:31:54,750 INFO Google News – 格斗 (ZH)             21 items
+2026-11-23 20:31:54,945 INFO MMA Fighting                      10 items
+2026-11-23 20:31:55,283 INFO Google News – Khmer Times sport    6 items
+2026-11-23 20:31:56,032 INFO Candidate stories after clustering: 893
+2026-11-23 20:31:56,104 INFO Skipped (we already have this story): Алькарас победил Зверева и впервые выиграл Итоговый турнир ATP
+2026-11-23 20:31:56,249 INFO Skipped (pre-match piece, no previews): Latest Vietnam National Team News: Holding Top 100 FIFA Ranking, Kim Sang-sik Faces Challenges Ahead of Asian Cup
+2026-11-23 20:31:56,354 INFO Skipped (match still in progress, live update): Lewis-Potter hits two quickfire goals for Brentford against Everton LIVE!
+2026-11-23 20:31:56,370 INFO Skipped (match still in progress, live update): Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract
+2026-11-23 20:31:56,481 INFO Skipped (we already have this story): Umairah named Singapore women’s team captain ahead of Bangladesh friendlies
+2026-11-23 20:31:56,532 INFO Skipped (we already have this story): UFC Qatar: Navajo Stirling KOs Jiri Prochazka in Round 2
+2026-11-23 20:31:56,617 INFO Skipped (pre-match piece, no previews): Disney анонсировала новые материалы «Мстителей: Доктор Дум»: показ состоится перед премьерой
+2026-11-23 20:31:56,676 INFO Skipped (we already have this story): Источник: UFC может провести первый турнир в Казахстане 1 мая 2027 года
+2026-11-23 20:31:56,681 INFO Skipped (pre-match piece, no previews): 乔伊斯预测泰森-富里Vs约书亚大战
+2026-11-23 20:31:56,687 INFO Skipped (we already have this story): Badminton: Wei Chong-Kai Wun end Malaysia's 27-year wait for Hong Kong Open men's doubles title
+2026-11-23 20:31:56,753 INFO Skipped (match still in progress, live update): «Брагантино» победил «Васко да Гама», Роберт Ренан был удален на 89-й минуте
+2026-11-23 20:31:56,827 INFO Skipped (match still in progress, live update): «Барселона» — «Вильярреал»: Ямаль не реализовал пенальти на 23-й минуте
+2026-11-23 20:31:57,188 INFO Google News search                25 items
+2026-11-23 20:31:57,188 INFO Skipped (politics): IFA 'positive' over upgrades needed for World Cup
+2026-11-23 20:31:57,552 INFO Google News search                31 items
+2026-11-23 20:31:57,552 INFO Skipped (same event as a stronger story): Scotland to co-host 2035 Women's World Cup, Fifa confirms
+2026-11-23 20:31:57,918 INFO Google News search                27 items
+2026-11-23 20:31:57,923 INFO Skipped (only 1 outlet): UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?
+2026-11-23 20:31:58,244 INFO Google News search                26 items
+2026-11-23 20:31:58,578 INFO Google News search                18 items
+2026-11-23 20:31:58,927 INFO Google News search                26 items
+2026-11-23 20:31:59,164 INFO Google News search                 1 items
+2026-11-23 20:31:59,506 INFO Google News search                22 items
+2026-11-23 20:31:59,507 INFO Skipped (only 1 outlet): Infantino’s $20bn World Cup sell-off plan was to run for up to 96 years, documents show
+2026-11-23 20:31:59,796 INFO Google News search                 5 items
+2026-11-23 20:31:59,796 INFO Skipped (politics): Призер Олимпиады Панжинский — о 22-м пакете санкций ЕС: «Похоже на предсмертную конвульсию»
+2026-11-23 20:32:00,143 INFO Google News search                 9 items
+2026-11-23 20:32:00,483 INFO Google News search                39 items
+2026-11-23 20:32:00,487 INFO Skipped (only 1 outlet): 'Our Super Bowl moment' - what can WSL learn from booming US league?
+2026-11-23 20:32:00,491 INFO Skipped (only 1 outlet): Marquez collects eighth MotoGP title
+2026-11-23 20:32:00,491 INFO Confirmed by 2+ outlets: 18 of 25 candidates (12 searches)
+2026-11-23 20:32:00,502 INFO Picked [sea football 3.9 · 2 outlets] Link to watch live football U17 Vietnam vs U17 New Zealand at U17 World Cup 2026
+2026-11-23 20:32:00,502 INFO Writing news (EN) ...
+2026-11-23 20:32:01,111 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-23 20:32:46,118 INFO Adapting to zh, ru ...
+2026-11-23 20:33:19,356 INFO Picked [global combat 5.4 · 4 outlets] Full Card Revealed for PFL Lyon on Dec. 19
+2026-11-23 20:33:19,356 INFO Writing news (EN) ...
+2026-11-23 20:33:57,929 INFO Adapting to zh, ru ...
+2026-11-23 20:34:40,462 INFO On this day 11-24: 1906 – The second of two games between two Ohio football teams took place, after which accusation (global)
+2026-11-23 20:34:40,464 INFO Writing history (EN) ...
+2026-11-23 20:35:50,805 INFO Adapting to zh, ru ...
+2026-11-23 20:36:35,505 INFO Looking up photos for 2026-11-24-news-98e731: ['Cristiano Roland', 'Vietnam national under-17 football team', "New Zealand men's national under-17 football team", 'Aspire Zone', 'Chu Ngọc Nguyễn Lực', 'Lê Trọng Đại Nhân']
+2026-11-23 20:36:36,232 WARNING No free-licence photo for 'Vietnam national under-17 football team' (Flag_of_Vietnam.svg)
+2026-11-23 20:36:37,341 INFO Photo check Asian_Games_Doha_2006_fireworks.jpg (Wikimedia Commons, 1776x1181): OK, licence 'CC BY-SA 2.0'
+2026-11-23 20:36:37,341 INFO Photo for 'Aspire Zone': Asian_Games_Doha_2006_fireworks.jpg (Rafeek Manchayil, CC BY-SA 2.0)
+2026-11-23 20:36:38,783 INFO Photo check Portrait_of_Emperor_Trần_Nhân_Tông.png (Wikimedia Commons, 415x415): OK, licence 'Public domain'
+2026-11-23 20:36:38,783 INFO Photo for 'Lê Trọng Đại Nhân': Portrait_of_Emperor_Trần_Nhân_Tông.png (Unknown author Unknown author, Public domain)
+2026-11-23 20:36:38,991 INFO Match card added to 2026-11-24-news-98e731
+2026-11-23 20:36:38,991 INFO Looking up photos for 2026-11-24-news-f01fca: ['Taylor Lapilus', 'Bryan Battle', 'Fabian Edwards', 'LDLC Arena', 'Mitch McKee', 'Boris Atangana']
+2026-11-23 20:36:40,902 INFO Photo check LDLC_Arena_-_Décines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg (Wikimedia Commons, 4032x3024): OK, licence 'CC BY-SA 4.0'
+2026-11-23 20:36:40,903 INFO Photo for 'LDLC Arena': LDLC_Arena_-_Décines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg (Chabe01, CC BY-SA 4.0)
+2026-11-23 20:36:41,876 INFO Looking up photos for 2026-11-24-hist-ea6294: ['Canton Bulldogs', 'Massillon Tigers', 'Blondy Wallace', 'Robert Maxwell (American football)', 'Walter East', 'Tiny Maxwell']
+2026-11-23 20:36:42,674 INFO Photo check Massillon_tigers_figure.png (Wikimedia Commons, 91x87): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
+2026-11-23 20:36:42,674 WARNING No free-licence photo for 'Massillon Tigers' (Massillon_tigers_figure.png)
+2026-11-23 20:36:42,978 INFO Photo check Blondy_Wallace.png (Wikimedia Commons, 116x148): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
+2026-11-23 20:36:42,978 WARNING No free-licence photo for 'Blondy Wallace' (Blondy_Wallace.png)
+2026-11-23 20:36:43,908 INFO Photo check Robert_Maxwell_1989_(3x4_cropped_2).jpg (Wikimedia Commons, 421x532): OK, licence 'CC0'
+2026-11-23 20:36:43,908 INFO Photo for 'Robert Maxwell (American football)': Robert_Maxwell_1989_(3x4_cropped_2).jpg (unknown photographer (Anefo), CC0)
+2026-11-23 20:36:44,181 INFO Photo check Walter_East.jpg (Wikimedia Commons, 300x400): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
+2026-11-23 20:36:44,181 WARNING No free-licence photo for 'Walter East' (Walter_East.jpg)
+2026-11-23 20:36:44,772 INFO Match card added to 2026-11-24-hist-ea6294
+2026-11-23 20:36:44,807 INFO Cover photo of 2026-11-24-news-98e731 changed: another story already uses that picture
+2026-11-23 20:36:54,342 INFO Photo check 2026-11-24-news-98e731 #1 'Trần Nhân Tông': WRONG — asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'; looks like a drawing / old portrait (Drawing)
+2026-11-23 20:37:02,448 INFO Photo check 2026-11-24-news-98e731 #2 'Aspire Zone': OK — file looks like a non-sport scene (Fireworks)
+2026-11-23 20:37:10,001 INFO Photo check 2026-11-24-news-f01fca #1 'LDLC Arena': OK
+2026-11-23 20:37:17,202 INFO Photo check 2026-11-24-hist-ea6294 #1 'Robert Maxwell': WRONG
+2026-11-23 20:37:17,311 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
+2026-11-23 20:37:17,421 INFO Wrote 3 new articles for 2026-11-24
+2026-11-23 20:37:17,537 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-24
+2026-11-23 20:37:20,132 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-23 20:37:20,946 INFO Website built: 75 published stories, 270 pages
+2026-11-23 20:37:20,949 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 32 ok / 0 failed (65,225 in / 77,393 out tokens) · estimated cost if billed: US$0.339

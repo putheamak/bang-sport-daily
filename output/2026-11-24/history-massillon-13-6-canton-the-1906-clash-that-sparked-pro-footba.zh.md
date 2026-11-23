@@ -1,0 +1,48 @@
+# 马西隆13-6坎顿：引爆职业橄榄球史上首桩假球丑闻的1906年对决
+
+*1906年11月24日，马西隆老虎队锁定俄亥俄州冠军，然而随之而来的假球受贿指控，几乎将这两支豪门球队彻底摧毁。*
+
+**历史上的今天** · 2026-11-24
+
+1906年11月24日，在俄亥俄州马西隆，马西隆老虎队（Massillon Tigers）在一场两回合季后系列赛的生死战中，以13比6力克坎顿斗牛犬队（Canton Bulldogs），成功加冕俄亥俄联盟（Ohio League）冠军。终场哨声吹响，斯塔克县相距仅15英里的两座工业重镇结束了剑拔弩张的较量。然而谁也没有料到，这一记终场哨音竟瞬间引爆了美国职业橄榄球历史上第一桩恶劣的假球与涉赌丑闻。
+
+就在八天前的11月16日，两队在坎顿的马哈菲公园（Mahaffey Park）进行了首回合较量，坎顿队以10比5拔得头筹，送给了马西隆队当赛季的首场败局。当时为了压制对手，两家俱乐部都不惜一掷千金，在全美范围内大肆网罗顶尖球员，坎顿更是在休赛期直接把马西隆1905赛季的整个后场阵容连锅端走。为防任何一方违约退赛，两家俱乐部各自缴纳了3000美元的保证金，门票收入则被封存在坎顿和马西隆的银行托管账户中。彼时两队的对抗狂热到何种地步？贝尔电话公司（Bell Telephone）的巡线员全程守在边线，实时向全美各地拍发电报直播战况。最终，马西隆队在次回合以13比6完成复仇，不仅扳平了系列赛，也捍卫了州冠军的头衔。
+
+## 贿赂指控与酒店群殴
+
+然而，竞技场上的荣耀还没撑过这个周末便蒙上了阴影。1906年11月24日当晚，坎顿市考特兰酒店（Courtland Hotel）的酒吧内爆发了一场激烈的斗殴，战火随后蔓延至大街上——参与冲突的坎顿球员与球迷声称，斗牛犬队内有人故意踢假球输掉了比赛。
+
+舆论风暴随之落在报端。马西隆队经理、兼具记者身份的埃德·斯图尔特（Ed Stewart）在《马西隆独立报》（*Massillon Independent*）上公开发表重磅指控，直指球队端锋沃尔特·伊斯特（Walter East）与坎顿兼任主帅的球员查尔斯·埃德加·“金毛”·华莱士（Charles Edgar "Blondy" Wallace）暗中勾结、操纵比赛。斯图尔特在报道中称，伊斯特自称手握赌徒资助的5万美元巨款，并曾企图收买马西隆队友罗伯特·“小不点”·麦克斯韦尔（Robert "Tiny" Maxwell）和鲍勃·希林（Bob Shiring），让他们在首回合交锋中放水。
+
+麦克斯韦尔和希林当即向马西隆主帅舍伯恩·怀特曼（Sherburn Wightman）告发了这桩非法的贿赂交易，俱乐部随即在次回合开打前将伊斯特除名。一时间，流言四起，各执一词。坊间一种广为流传的说法认为，华莱士与伊斯特密谋各赢一场，目的是逼出在克利夫兰举行的第三场决胜赛，从而依靠爆满的球场赚取破纪录的门票分红。另有传言称，坎顿球员最初押重注赌自己赢，但华莱士随后却暗中变卦。
+
+## 对簿公堂、俱乐部破产与NFL的诞生雏形
+
+面对指控，华莱士坚决否认自己有任何不当行为。他反唇相讥，指责马西隆方面捏造谎言纯属恶意诽谤，意在搞臭坎顿的名声，并借此破坏坎顿即将在感恩节与宾夕法尼亚劲旅拉特罗布队（Latrobe）进行的表演赛票房。华莱士随即向斯图尔特及报社提起了高达2.5万美元的名誉权诉讼。然而，这起诽谤官司最终并未走入陪审团宣判环节，双方在庭外达成和解，使得这桩世纪协议的真相至今仍是一团迷雾。
+
+这场舆论海啸与随之而来的财务重创，给俄亥俄州的职业橄榄球带来了灭顶之灾。坎顿斗牛犬队在1906赛季结束时出现了约6000美元的薪资缺口。坎顿体育俱乐部因财政彻底崩溃，甚至未能组队参加1907赛季。马西隆队虽在1907年以“全马西隆人”（All-Massillons）的业余性质勉强维系，但不久后同样宣告解散。
+
+这对同处斯塔克县的宿敌，直到1911年才重新在球场相遇。但这片遭遇浩劫的橄榄球热土最终奇迹般浴火重生，并孕育了现代职业橄榄球的基石。1920年9月17日，来自坎顿、马西隆、阿克伦及周边多家俱乐部的代表齐聚坎顿的一家汽车展厅，正式成立了全美职业橄榄球联合会（APFA）——也就是日后威震全球的国家橄榄球联盟（NFL）。
+
+---
+**来源**
+
+- [Canton Bulldogs–Massillon Tigers betting scandal - Wikipedia](https://en.wikipedia.org/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal)
+- [Walter East: Deadball Minor Leaguer and Pro Football's First Scandal - SABR](https://sabr.org/journal/article/walter-east-deadball-minor-leaguer-and-pro-footballs-first-scandal/)
+- [historycollection.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP24B6K-s2V-cPUHpF9ftw4FjDSt5C8Wnyv3DNgYHp3RKVtV3X209vaQlMgypaPzFUgwP9sDg3M4lEI3jMG4MevWoWjk2KdiAoZnTBPyxS65YyudO7GIZ723RewZqWznRhwMmuoNd1qYy9Q4ce9DYjdISP7ZvsAhawigU963IW1E0vYkvRao0JzHQKliPzRxNiZCa2Mb4cSaiarNS4v0k=)
+- [sabr.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEo-2iUloOf_nHtPrLaA-jI1Uz9nlI0ndsQX_fAQBwP_gQANbdQNHC8ndDi18NzTimpaVFu106qhWXqnhQpLx7gWZQ4GXgpRQZO1zdkEvhMAd5MCJGT-3LQkyGguV-lOxEOAbES5P7fwpddPTAL8cR7E1tPWdpw_yTZkUdne2gce6Gg-EBdC9UYMuo9lvZzjQos7O7dNIUGS6m)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXtL2yW4_NgkWswGHNiof8ss8y1RoGowWbcQUlJ9BjWBUISJr2VO_fNw3ljN0bKR77UXxNjinv6iJCmnP8ECI9fR_Pho_KQud2T7-UFlGIUC8qnx67tj-5mWDyXo9vwRMVNndXYEy3nYlrKaR8S_ei_kik_H2UGZzEYfVBETZxgD4PskjqX1jlWe3-bA==)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGPFp39lx9tnflrpOLcZWy4W9E29-tgewrl6o6QCkKTK8Utps9uMq1CTp3kCJJHUklRJ_9BYD4ow-Lkdp0Fm7iRlBE5BLSSH49gD3cbhUBPOUM_VpD47aok9qjhGJiTSsvuKk8B2TJd_E2I2TpCl2jAkePDNprzMjhlelgeLWsGpKwckcAJf_wV5QHEw==)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsGxPyNSMUWwlWHAG74hYsGumuWkS78aBtYpBrfdnQlGwU3Yw9DrkV9gh0GozBV0N-btiWZ-LxcH1UJ4vu5Ck8QtwKSz6CT6sNdV4cc9l6vDr0lMeboE40gWmOAXbeoRKMINOq)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOf4pewHni3DjklU0yIgCUecg5T8uFemQpQyosgqvT8nnE59Bvcs7xABPOqS7EU60cJ9yl6a8S0_vYZwz0vvjJt27hmvK49smPZThbv-XaxySKXSBcmI6e8l6_ej34o2-tjPofh7Z-f64K6k4tGhLQefyf5OfGqxnZBe6RQMna3oouLpCFLV2vLP0gvLxXYhueThL2Onk=)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEGPnrJAEFtRWTSdUKVx2vYGwNsUpWyO6EA1UhyWI_bJqAfUjLi4etDDofV2dQyWe8MuVBVLhdFvdn36sxocypSTqeK6GQY43u9kQvpQ6-MBsBWZ7NLypGCGcERLYrfph4YZ5KDoYSZ9gWkhBIKjfoa_xAL3sB_TMR1Gtj_WyHHZQoyh6TeJ5ZpLWIw==)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGacxZwbSSQm246sZg7UjA2TIFA4oqNhVVSQaKtG-Bz6fu8rnCowESCM3rP7Z6l-YIVzje6s4j8KJib-YIQSx3v50Wu-C1L2i9s9QlNZ-kLCY7jYM8wK6-i_wEf4bmbQs35QT07sg==)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1prnt_iIx3BnXPqejkeH7cMX14dyhPKwBKEBg2o6jFN1rUaA4hYvlEvVCEOGuP2UBBwv6QwtwwRr91uhaalHO8uF1iC7MOgjyCmZ-58-WvPkVUm2okzL8Zm2DevwEPkHLCftviwA3bcBAzFaIYk0nsAYFZtB1yYmHcOTdKOXb55wTnPMehTEvW6EBuSyq)
+- [sabr.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyhhRRGMkZWspAov1e9h9v0WnZ6MFEdKh9w1u-UwV-9DUNDULNsx2PDDfTpqcqOmpJw3l7_f7d4VEfdtt8ZqFHNl8M2lt2xqiiQv-04blgmQ0bLvT2xpwoFgg1ahT2Kz-RRhVbYLK1P23fffHWoI8Jkm_QHqzi_jIlLQ9qO7vygxypfYNf9DyQUvDsacW32oBEtkVkvxND0FHC)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeV4w_gKw-05pIXwWX0Z9IPuKI-gtsvBjM8QnGRb4VjWt1Sy8UMvC5zaoZOZ-pFMxJw2VhLKuUjXOA5b9lcxGSnHVgXWNzhfIMiwYlt_oFFZlv1rCE-pwCpBUeLupTDNs_fKU=)
+- [historycollection.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNValQPPaw6x4Bzly_Fva72axq1zdoGnb7qrGAO0fLeSJmiA2LI4oWOsj57Qiea5Gs2gCmLaGAzcs5KJxb5o5uVgWcpE-JSTdNF3_gjTwKta3lAWRE-qB93Z0_T1ua_guR-8JZ6OX2PPJwwO1UpG8fPBG0-eQuR_psFcj5CuGDoOCC2vmhI6Pm68u3_IJrW1bCJV-QJ9njTZmpg_rBPlk=)
+- [fandom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9h-9zFLP4NfSN0APNNENJY-jtKERVyDec0RW4jNINAIYREZI7jzA75hrNelo-d3tpiswaCKAmckvFjdmNLIa381_fQem429Kj2l4RQis95t9T4fM-XPZyjUgBZ9JEc4NpjhokCIuRa_J13Wc2hP6vRwl23h0L)
+- [funwhileitlasted.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6U_BCMZoy36pTTfsg8mbuhHr_f3VkZvE1X6y-43pPXwEOgUhMjL8_Ut42JWfyEvjAm6iG5uCxTqp6B2Ms-ZKhTstnHSs9TV9snftndoM9ucGILAqGQqXvtuNZAHpfPchcNAr06_paAxKk3TK25plLh4Vm2AJlI6V3yJNgdnLdC0Nt)
+- [clevelandmagazine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX43lkFESTsHJpD11ZRpKezdKGRCqZSmB6R3x04YZQMaVUY080deta0t3xDITXoKuY6khePdGpr61DxiP9aWc0Jd3PfAXy2NtQEY-LwF2YSzxApwd4H6GxU10q0O-0AQsJTG_5oChn0FAu8Z7xiz4kBd0WVoegte4YP2kWFy10YsJd)
+- [profootballhof.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZmYXqwU5HpMJYyeL3AJ4IT1R_yGUawe_xm99WVIV9qAKKdhhQlpC4NrPsFwtshKKphkunu2HlxDvHopvIxvdxLkcdM0vC554seCc2PNTAiTFTWXtT6xE3XGzAhctzNNjukAjWHEEFQBtwHX0EyYKtpcOZ02We8wj73hZ9tTgfBYuMvxC2)
+- [Wikipedia: American football](https://en.wikipedia.org/wiki/American_football)
