@@ -1,0 +1,10 @@
+name = "bang-sport-scheduler"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+REPO = "putheamak/bang-sport-daily"
+
+# Times are UTC (Cambodia = UTC+7). Must match JOBS in worker.js.
+[triggers]
+crons = ["37 8,11,14 * * *", "41 1-17/4 * * *", "11 */4 * * *"]
