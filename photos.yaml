@@ -264,3 +264,25 @@
         en: "Navajo Stirling at UFC Fight Night 294 in Doha, 21 November 2026"
         zh: "纳瓦霍·斯特林在多哈UFC格斗之夜294（2026年11月21日）"
         ru: "Наваджо Стирлинг на UFC Fight Night 294 в Дохе, 21 ноября 2026 года"
+
+# 23 Nov 2026: CPL Week 8 graphics, embedded from the official CPL Facebook page (loaded on click, never copied).
+2026-11-23-news-00ad68:
+  embeds:
+    - url: "https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl"
+      account: "Cambodian Premier League (official Facebook)"
+      caption:
+        en: "Official CPL 2026/27 table after Week 8"
+        zh: "柬埔寨超级联赛2026/27赛季第8轮后官方积分榜"
+        ru: "Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура"
+    - url: "https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml"
+      account: "Cambodian Premier League (official Facebook)"
+      caption:
+        en: "Official Week 8 results, 21–22 November 2026"
+        zh: "第8轮官方赛果（2026年11月21日至22日）"
+        ru: "Официальные результаты 8-го тура, 21–22 ноября 2026 года"
+    - url: "https://www.facebook.com/theofficialcpl/posts/pfbid01S7vWskCqLio1oj9h6EKXYfTxVVQ5GD3vsLBdfPQyLBTFYPZu8zS1YebuicRCSAEl"
+      account: "Cambodian Premier League (official Facebook)"
+      caption:
+        en: "Week 8 attendance: 9,789 fans, including 7,502 at Svay Rieng v Angkor Tiger"
+        zh: "第8轮观众人数：共9,789人，其中柴桢对阵吴哥猛虎7,502人"
+        ru: "Посещаемость 8-го тура: 9 789 зрителей, из них 7 502 на матче «Свайриенг» — «Ангкор Тайгер»"
