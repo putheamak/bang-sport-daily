@@ -1,5 +1,526 @@
 [
   {
+    "id": "2026-11-23-athl-a5664c",
+    "slug": "manny-pacquiao-the-street-fighter-who-conquered-eight-divisi",
+    "date": "2026-11-23",
+    "created": "2026-11-23T16:46:21+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Boxing",
+    "tags": [
+      "Manny Pacquiao",
+      "Boxing",
+      "World Champions",
+      "Philippines",
+      "Freddie Roach"
+    ],
+    "athletes": [
+      "Manny Pacquiao"
+    ],
+    "image_subjects": [
+      "Manny Pacquiao",
+      "Freddie Roach",
+      "General Santos"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Manny Pacquiao - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Manny_Pacquiao"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyvmbZva2v3rZvcN--d2wShDFmgPq4SOayaLOu_VmXPcYyy2kipH2Q0i6vouOq5zlQ7LYeuz_mV7MVtaXXDrWikH5vDHltYjMmltMH2pb1JOlQWkYhUaXQTFLucHcOpfM="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPbPz3khcg5IRF6v1IoypVjN1FxPSrOQ9y_fjddY_KjdswdpLnsgz0iqLSMzEKYLxPaAjpxoB2sMNLuY645FGsYxlz4ey0DiwggEXYpGdTOxXge2Pv0LWipxlWkOs2E7Mn"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOV35BMVjhaxlfEgiyMh6hJytTjpG71tp4pG6gd2IqjiuHahnHxAZ3bh48RHFEEQu_fQFgLtwsvDCHKoaTpJ_H_tRPDFwbuWVxxGpuTiKubZS4CrmHNT1zWtcKqVD_jA0y6oIzl1Gjw1mQxA_9eqfYvMDhAw=="
+      },
+      {
+        "title": "arabnews.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4VDZ9Avw4ZGUMh0SIbImswfJkUaAkX5_RZIWr-LVopW64EVvTpu97cI0QbV13XiU5bbk2a4TWspFSKuBgH0yVd9j28KXc4pUWqyiloeqm2Hrb75mCRo3jR72mLP-LYtF8SfG44yiWt1xhgrGMzud1afyApJYHoNs-MXGcC5Rzo6Og1SXARuNLBZSbSbcbBBpStCu70BLdJW1GpFZlbIuNnLQf1ZEh"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.001,
+      "longest": 8,
+      "phrases": [
+        "founding the semi professional maharlika pilipinas basketball league"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions",
+      "seo_title": "Manny Pacquiao: Life Story of Boxing's Eight-Division King",
+      "subheadline": "From sleeping on Manila pavements to winning belts across four decades, the Filipino icon built an unmatched legacy.",
+      "body_markdown": "Before Manny Pacquiao became the only eight-division champion in boxing history, he stood on construction sites in Manila at age 14, weighing less than 100 pounds and deciding whether his spare coins should purchase food or be mailed back to his mother in General Santos.\n\nThat struggle defined one of the most remarkable careers in world sport. Over a professional journey spanning three decades and 73 bouts, Pacquiao compiled a record of 62 wins, eight defeats and two draws, claiming 12 major world championships and becoming the only boxer to capture titles across four separate calendar decades.\n\n## The Dirt Rings of General Santos\n\nEmmanuel Dapidran Pacquiao was born on December 17, 1978, in Kibawe, Bukidnon, before his family relocated to General Santos in South Cotabato. He was the fourth of six children born to Rosalio Pacquiao and Dionisia Dapidran. When his parents separated during his sixth-grade school year, the household plunged into deep financial distress. Pacquiao completed his primary education at Saavedra Saway Elementary School, but crippling household poverty forced him to leave formal schooling behind as a teenager.\n\nHis path shifted in February 1990. At 11 years old, Pacquiao watched 42-to-1 underdog James \"Buster\" Douglas knock out undisputed heavyweight champion Mike Tyson in Tokyo. His maternal uncle, Sardo Mejia, noticed the boy's fascination and constructed a makeshift gym in a home backyard. Six months later, Pacquiao was competing in public park fights in General Santos, earning small cash prizes that bought sacks of rice.\n\nBy 15, he had established himself as the top amateur junior in Mindanao, compiling a 60–4 amateur record. Seeking greater competition and income to support his family, he boarded a boat to Manila as a stowaway, working day jobs on building sites and sleeping in boxing gyms before making his paid debut in January 1995 as a 106-pound junior flyweight at age 16.\n\n## Conquering Eight Divisions\n\nPacquiao claimed his first world championship on December 4, 1998, knocking out Chatchai Sasakul in Thailand to capture the WBC flyweight title just two weeks shy of his 20th birthday. Yet it was his move to the United States in 2001, pairing with trainer Freddie Roach at the Wild Card Gym in Hollywood, that triggered his meteoric rise.\n\nStepping in on two weeks' notice in June 2001, Pacquiao stopped IBF super bantamweight champion Lehlohonolo Ledwaba in Las Vegas. Over the next decade, his hand speed and southpaw angles dismantled a generation of future Hall of Famers. He stopped Marco Antonio Barrera in 2003, engaged in a celebrated trilogy with Érik Morales, and contested four dramatic bouts against Mexican rival Juan Manuel Márquez.\n\nAs Pacquiao added muscle without sacrificing punching speed, he shattered conventional limits on weight climbing. In December 2008, he moved up two divisions to dismantle Oscar De La Hoya, forcing the boxing superstar to retire on his stool after eight rounds. Five months later, in May 2009, he knocked Ricky Hatton unconscious in round two at the MGM Grand to capture the Ring light welterweight crown.\n\nBy the time he punished Antonio Margarito over 12 brutal rounds for the WBC super welterweight belt in November 2010, Pacquiao had secured world titles across eight distinct weight classes—a feat unmatched in boxing annals. He captured lineal championships in four weight categories (flyweight, featherweight, super featherweight and light welterweight), and collected belts in four of the sport's original divisions.\n\nLongevity remained his signature trademark. In July 2019, at 40 years and seven months old, Pacquiao handed Keith Thurman his first professional defeat in Las Vegas, capturing the WBA welterweight crown to become the oldest welterweight titleholder in boxing history.\n\n## Life Beyond the Ropes\n\nOutside the ring, Pacquiao transformed his fame into business ventures and civic leadership. He earned his secondary school equivalency diploma in February 2007 before entering public office. Voters in Sarangani elected him to the Philippine House of Representatives in 2010, where he served two terms before winning a nationwide seat in the Philippine Senate in 2016.\n\nBetween legislative sessions and world title camps, he played and coached in the Philippine Basketball Association for Kia from 2014 to 2017, later founding the semi-professional Maharlika Pilipinas Basketball League. In music, his recording of \"Sometimes When We Touch\" climbed to number 19 on the US Billboard Adult Contemporary chart.\n\nPacquiao retired from boxing in September 2021 to mount a campaign for the Philippine presidency, finishing third in the May 2022 election won by Ferdinand Marcos Jr. After stepping back from electoral contests following the 2025 midterm cycle, Marcos named him head of the National Anti-Poverty Commission in 2026—bringing the former street laborer full circle to address the systemic deprivation that first sent him into a boxing ring.",
+      "social_post": "From sleeping on Manila pavements at 14 to winning 12 world titles across eight weight divisions, Manny Pacquiao's journey is one of sport's greatest achievements. He remains the only boxer in history to hold belts across four decades. Where does the Filipino southpaw rank on your all-time pound-for-pound list? Let us know in the comments below."
+    },
+    "zh": {
+      "headline": "曼尼·帕奎奥：征服八个级别的街头拳王传奇",
+      "seo_title": "曼尼·帕奎奥传奇：横跨八个级别拳王的史诗人生",
+      "subheadline": "从露宿马尼拉街头的瘦弱少年到跨越四个十年的拳坛神话，这位菲律宾国宝级拳王铸就了无可复制的丰碑。",
+      "body_markdown": "在成为拳击史上独一无二的“八级别世界拳王”之前，年仅14岁的曼尼·帕奎奥（Manny Pacquiao）曾站在马尼拉灰尘漫天的工地上。当时体重不足100磅的他，手中攥着仅有的几枚硬币，常常陷入两难：究竟是买一顿果腹的饭菜，还是把钱寄回位于桑托斯将军城的母亲手中？\n\n正是这种残酷的生活磨砺，淬炼出了世界体坛最波澜壮阔的生涯之一。在长达30年、共计73场职业比赛的漫长征程中，帕奎奥交出了62胜8负2平的惊人战绩，夺得12条主要世界拳王金腰带，更成为史上唯一一位横跨四个不同年代均斩获世界头衔的拳击手。\n\n## 桑托斯将军城的泥地拳台\n\n1978年12月17日，帕奎奥（全名埃马努埃尔·达皮德兰·帕奎奥）出生于布基农省的基巴韦，随后举家迁往南哥打巴托省的桑托斯将军城。他是罗萨里奥·帕奎奥和迪奥尼西亚·达皮德兰所生的六个孩子中的老四。小学六年级时，父母离异，整个家庭瞬间陷入赤贫。帕奎奥在萨维德拉·萨瓦伊小学完成了初等教育，但严酷的生计问题迫使他提早告别了正规学堂。\n\n命运的齿轮在1990年2月悄然转动。11岁的帕奎奥在电视机前目睹了一场世纪冷门：赔率高达1赔42的“毁灭者”詹姆斯·道格拉斯（James \"Buster\" Douglas）在东京巨蛋击倒了无可匹敌的重量级霸主迈克·泰森。他的舅舅萨尔多·梅希亚（Sardo Mejia）敏锐察觉到了外甥对拳击的狂热，于是在后院亲手搭建了一处简陋的训练场。短短六个月后，帕奎奥就登上了桑托斯将军城公园里的业余擂台，靠着微薄的出场费换取一袋袋救命的大米。\n\n到了15岁，他已在棉兰老岛打出名气，交出60胜4负的业余战绩，成为当地最顶尖的青少年选手。为了寻求更广阔的舞台并赚钱养家，他作为偷渡客登上了开往马尼拉的货船。在首都，他白天在工地上打零工，夜晚蜷缩在拳馆地板上过夜。1995年1月，年仅16岁、体重仅106磅的帕奎奥出战次蝇量级职业拳赛，正式开启了职业生涯。\n\n## 席卷八个级别的风暴\n\n1998年12月4日，距离20岁生日还差两周的帕奎奥客场远征泰国，强势KO查猜·萨萨库尔（Chatchai Sasakul），斩获WBC蝇量级世界拳王头衔，初尝世界冠军滋味。然而，真正令其战力升华的转折点发生在2001年——他远赴重洋来到好莱坞的野牌拳馆（Wild Card Gym），与传奇教头弗雷迪·罗奇（Freddie Roach）相遇。\n\n2001年6月，在仅有两周备战通知的情况下，帕奎奥在拉斯维加斯终结了IBF超最轻量级拳王莱罗霍诺洛·莱德瓦巴（Lehlohonolo Ledwaba），一战名动赌城。在接下来的十年里，他那狂风骤雨般的出拳速度与鬼魅的左撇子切入角度，接连击垮了整整一代未来的名人堂巨星。2003年，他重创马可·安东尼奥·巴雷拉（Marco Antonio Barrera）；随后与埃里克·莫拉莱斯（Érik Morales）联手奉献了名垂青史的三部曲；并与宿敌胡安·曼努埃尔·马奎兹（Juan Manuel Márquez）展开了四场惊心动魄的史诗对决。\n\n在体重不断攀升的同时，帕奎奥不仅没有丧失杀伤速度，反而在力量上完成了进化，彻底打破了拳坛连跨量级必遭反噬的铁律。2008年12月，他跳升两个级别痛击拳坛超级巨星奥斯卡·德·拉·霍亚（Oscar De La Hoya），第八回合打得后者不得不弃权认输。五个月后的2009年5月，他又在米高梅大酒店的拳台上两回合将里奇·哈顿（Ricky Hatton）彻底击晕，摘下《拳台》杂志轻沉量级金腰带。\n\n2010年11月，在经过12回合无情的重击惩罚安东尼奥·马加里托（Antonio Margarito）夺得WBC超次中量级金腰带后，帕奎奥正式达成了横跨八个不同级别的无双神迹，这在拳击编年史上至今无人企及。他斩获了四个量级的正统拳王头衔（蝇量级、羽量级、超羽量级和轻沉量级），并包揽了拳击原始八大核心级别中的四个冠军头衔。\n\n惊人的长青状态更成为了他的金字招牌。2019年7月，已年满40岁零7个月的帕奎奥在拉斯维加斯打破了基斯·瑟曼（Keith Thurman）的不败金身，夺得WBA次中量级世界拳王，成为拳击史上年纪最大的次中量级冠军。\n\n## 围绳之外的多元人生\n\n走下拳台，帕奎奥成功将巨大的国民声望转化为商业版图与参政资本。在进入政坛之前，他于2007年2月通过考试拿到了高中同等学力文凭。2010年，他在萨兰加尼省当选为菲律宾国会众议员并成功连任两届；2016年，他更进一步，通过全国普选跻身菲律宾参议院。\n\n在紧张的立法会议与世界冠军卫冕战集训的间隙，他还于2014至2017年间代表起亚队征战菲律宾篮球联赛（PBA），兼任球员与教练，此后还创立了半职业的“菲律宾马哈利卡篮球联赛”。在音乐领域，他翻唱的单曲《Sometimes When We Touch》曾杀入美国公告牌成人抒情榜第19位。\n\n2021年9月，帕奎奥正式宣布退役并投身菲律宾总统竞选，最终在2022年5月的大选中位列第三，小费迪南德·马科斯赢得大选。在2025年中期选举周期淡出竞选舞台后，马科斯总统于2026年任命帕奎奥出任国家反贫困委员会负责人——这位曾经在街头苦苦挣扎的底层少年，终于完成了一个完整的命运轮回，站到了消除贫困的国家第一线，而正是当年那种刻骨铭心的贫穷，最初将他推上了拳击擂台。",
+      "social_post": "从14岁流落马尼拉街头，到横跨8个级别豪取12座世界拳王金腰带，曼尼·帕奎奥的故事无疑是体坛最壮丽的史诗之一。他至今仍是拳击史上唯一横跨四个年代皆斩获金腰带的传奇。在你的史上P4P排名中，这位菲律宾传奇名列第几？欢迎在评论区留下你的看法！\n\n#拳击 #帕奎奥 #拳王传奇 #体坛巨星"
+    },
+    "ru": {
+      "headline": "Мэнни Пакьяо: уличный боец, покоривший восемь весовых категорий",
+      "seo_title": "Мэнни Пакьяо: биография чемпиона мира в восьми весовых категориях",
+      "subheadline": "От ночевок на тротуарах Манилы до титулов на протяжении четырех десятилетий: феноменальный путь филиппинской легенды.",
+      "body_markdown": "Прежде чем вписать свое имя в историю бокса в качестве единственного чемпиона мира в восьми весовых категориях, 14-летний Мэнни Пакьяо (Manny Pacquiao) вкалывал на стройках Манилы. При весе меньше 45 килограммов он ежедневно решал мучительную дилемму: потратить последние гроши на скудную еду или отправить их матери в Генерал-Сантос.\n\nЭта борьба за выживание закалила характер человека, чья карьера стала одной из величайших в истории мирового спорта. За три десятилетия на профессиональном ринге Пакьяо провел 73 боя, одержал 62 победы при 8 поражениях и 2 ничьих, завоевал 12 мировых титулов по престижным версиям и стал единственным боксером, становившимся чемпионом в четырех разных календарных десятилетиях.\n\n## Пыльные ринги провинции\n\nЭммануэль Дапидран Пакьяо родился 17 декабря 1978 года в Кибаве (провинция Букиднон), откуда его семья позже перебралась в Генерал-Сантос (Южный Котабато). Он был четвертым из шести детей в семье Росалио Пакьяо и Дионисии Дапидран. Когда мальчик учился в шестом классе, родители развелись, и семья оказалась на грани нищеты. Мэнни успел окончить начальную школу Сааведра Савай, но катастрофическая нехватка денег вынудила подростка навсегда бросить учебу.\n\nВсе изменилось в феврале 1990 года. 11-летний Пакьяо увидел по телевизору, как андердог Джеймс «Бастер» Даглас с коэффициентом 42 к 1 сенсационно нокаутировал в Токио абсолютного чемпиона в тяжелом весе Майка Тайсона. Дядя мальчика по материнской линии, Сардо Мехия (Sardo Mejia), заметив блеск в глазах племянника, соорудил на заднем дворе самодельный ринг. Уже через полгода Пакьяо дрался в городском парке Генерал-Сантоса, выигрывая копеечные гонорары, которых хватало ровно на мешок риса.\n\nК 15 годам он был безоговорочно сильнейшим юниором острова Минданао с любительским рекордом 60-4. В поисках настоящих вызовов и заработка для семьи Мэнни «зайцем» сел на паром до Манилы. Днем он работал разнорабочим на стройплощадках, ночью спал прямо на рингах в боксерских залах, а в январе 1995 года, едва отметив 16-летие, дебютировал в профи в лимите первого наилегчайшего веса (до 48,1 кг).\n\n## Восемь покоренных дивизионов\n\nСвой первый пояс чемпиона мира Мэнни взял 4 декабря 1998 года, за две недели до 20-летия, нокаутировав в Таиланде Чатчая Сасакула (Chatchai Sasakul) в бою за титул WBC в наилегчайшем весе. Но подлинным катализатором его взлета на мировой Олимп стал переезд в США в 2001 году и знакомство с тренером Фредди Роучем (Freddie Roach) в знаменитом зале Wild Card в Голливуде.\n\nВыйдя на замену всего за две недели до боя в июне 2001-го в Лас-Вегасе, Пакьяо сенсационно остановил чемпиона IBF во втором легчайшем весе Лехлохоноло Ледвабу (Lehlohonolo Ledwaba). В течение последующих десяти лет его феноменальная ручная скорость, взрывные атаки под нестандартными углами и стойка левши сокрушили целое поколение будущих членов Зала славы. В 2003 году он деклассировал Марко Антонио Барреру, затем выдал культовую трилогию с Эриком Моралесом и провел четыре драматичнейших поединка против главного мексиканского антагониста — Хуана Мануэля Маркеса.\n\nНабирая мышечную массу без малейшей потери резкости, Пакьяо раз раз за разом опровергал законы физиологии при смене весовых категорий. В декабре 2008 года филиппинец перепрыгнул сразу через два дивизиона и буквально уничтожил суперзвезду Оскара Де Ла Хойю, заставив того капитулировать на табуретке после восьмого раунда. Спустя пять месяцев, в мае 2009-го, он наглухо вырубил Рикки Хаттона во втором раунде в MGM Grand, прибрав к рукам пояс The Ring в первом полусреднем весе.\n\nКогда в ноябре 2010 года Мэнни устроил 12-раундовую показательную порку Антонио Маргарито в битве за вакантный титул WBC в первом среднем весе, он покорил свой восьмой весовой дивизион — рекорд, не побитый по сей день. Пакьяо владел линейными чемпионскими титулами в четырех категориях (наилегчайшей, полулегкой, втором полулегком и первом полусреднем весах) и собрал чемпионские пояса в четырех классических исторических дивизионах бокса.\n\nДолголетие стало его фирменным знаком. В июле 2019 года, в возрасте 40 лет и 7 месяцев, Пакьяо нанес первое поражение в карьере Киту Турману в Лас-Вегасе, завоевав пояс WBA в полусреднем весе и став самым возрастным чемпионом этого дивизиона в истории.\n\n## Жизнь за пределами канатов\n\nВне ринга Пакьяо конвертировал колоссальную народную любовь в успешный бизнес и политическую деятельность. Еще в феврале 2007 года он экстерном сдал экзамены за среднюю школу. В 2010-м жители провинции Сарангани избрали его в Палату представителей Филиппин, где он отработал два срока, а в 2016-м победил на общенациональных выборах в Сенат Филиппин.\n\nВ перерывах между парламентскими сессиями и чемпионскими лагерями Мэнни с 2014 по 2017 год выступал в Филиппинской баскетбольной ассоциации (PBA) за клуб «Киа» в роли играющего тренера, а позже основал полупрофессиональную лигу Maharlika Pilipinas Basketball League. На музыкальном поприще его кавер-версия баллады «Sometimes When We Touch» добралась до 19-й строчки чарта US Billboard Adult Contemporary.\n\nВ сентябре 2021 года Пакьяо объявил о завершении боксерской карьеры ради участия в президентских выборах, на которых в мае 2022 года финишировал третьим, уступив Фердинанду Маркосу-младшему. Завершив участие в электоральных баталиях после промежуточных выборов 2025 года, Пакьяо получил назначение от президента Маркоса: в 2026 году он возглавил Национальную комиссию по борьбе с бедностью. Круг замкнулся: бывший бездомный мальчишка встал во главе государственной системы борьбы с той самой нищетой, которая когда-то заставила его впервые выйти на боксерский ринг.",
+      "social_post": "От ночевок на тротуарах Манилы в 14 лет до 12 мировых поясов в восьми весовых категориях — путь Мэнни Пакьяо навсегда останется в золотом фонде мирового спорта. Он единственный в истории боксер, бравший титулы в четырех разных десятилетиях. Какое место филиппинец занимает в вашем рейтинге лучших вне зависимости от весовой категории (P4P)? Делитесь в комментариях!\n\n#бокс #пакьяо #легендыбокса #спорт"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg",
+        "artist": "Robert Oswald P. Alfiler for the Philippine News Agency (state-owned publication)",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "'THRILLA' ANNIVERSARY. Former senator and Filipino world boxing icon Manny Pacquiao graces the press conference for the 50th anniversary celebration of the historic \"Thrilla in Manila,\" the milestone ",
+        "width": 1200,
+        "height": 1583,
+        "year": 2025,
+        "subject": "Manny Pacquiao",
+        "asked": "Manny Pacquiao",
+        "page_title": "Manny Pacquiao",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:former_senator_manny_pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg|Manny Pacquiao",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Manny Pacquiao speaking into a microphone",
+          "reason": "The image clearly depicts Filipino boxing champion Manny Pacquiao at a press conference.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Freddie_Roach_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Freddie_Roach_2010.jpg",
+        "artist": "Bryan Horowitz",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Freddie Roach at the press conference for the fight between Amir Khan and Paulie Malignaggi.",
+        "width": 1200,
+        "height": 1491,
+        "year": 2010,
+        "subject": "Freddie Roach",
+        "asked": "Freddie Roach",
+        "page_title": "Freddie Roach",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:freddie_roach_2010.jpg|Freddie Roach",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "boxing trainer Freddie Roach at a press conference",
+          "reason": "The image clearly shows famed boxing trainer Freddie Roach, known for training Manny Pacquiao, at a 2010 boxing press event.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg/1280px-Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg",
+        "artist": "Patrickroque01",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "General Santos City drone shot",
+        "width": 1200,
+        "height": 900,
+        "year": 2026,
+        "subject": "General Santos",
+        "asked": "General Santos",
+        "page_title": "General Santos",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:gensan_dadiangas_south,_p._acharon_boulevard,_gensan_public_market_drone_(general_santos_city;_03-24-2026).jpg|General Santos",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "aerial view of General Santos City coastline and buildings",
+          "reason": "The drone photo accurately depicts General Santos City, the hometown of Manny Pacquiao mentioned in the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-23-news-23b075",
+    "slug": "trefilov-rejects-2028-olympic-medal-guarantee-by-russian-han",
+    "date": "2026-11-23",
+    "created": "2026-11-23T16:43:46+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Handball",
+    "tags": [
+      "Handball",
+      "Olympics",
+      "Los Angeles 2028",
+      "Yevgeni Trefilov",
+      "Sergey Shishkarev",
+      "Russian Handball"
+    ],
+    "athletes": [
+      "Yevgeni Trefilov",
+      "Ekaterina Ilyina"
+    ],
+    "image_subjects": [
+      "Yevgeni Trefilov",
+      "Sergey Shishkarev",
+      "Russia women's national handball team",
+      "2028 Summer Olympics"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "The outcome of HFR talks with IHF president Hassan Moustafa concerning the proposed wild card for the 2027 World Championship"
+    ],
+    "sources": [
+      {
+        "title": "Трефилов — о шансах женской сборной по гандболу на медали Олимпиады-2028: «Деньги и победы любят тишину» - Спорт-Экспресс",
+        "url": "https://www.sport-express.ru/olympics/summer/handball/news/trefilov-o-shansah-zhenskoy-sbornoy-po-gandbolu-na-medali-olimpiady-2028-dengi-i-pobedy-lyubyat-tishinu-2477786/"
+      },
+      {
+        "title": "Трефилов призвал изменить отношение к гандболу в России, напомнив о победе на Олимпиаде - Sport24",
+        "url": "https://sport24.ru/other/news-709841-trefilov-prizval-izmenit-otnosheniye-k-gandbolu-v-rossii-napomniv-o-pobede-na-olimpiade"
+      },
+      {
+        "title": "Шишкарев: «Я вам обещаю — сборная России по гандболу будет на пьедестале на Олимпиаде-2028 в Лос-Анджелесе» - Спорт-Экспресс",
+        "url": "https://www.sport-express.ru/handball/news/shishkarev-ya-vam-obeschayu-sbornaya-rossii-po-gandbolu-budet-na-pedestale-na-olimpiade-2028-v-los-andzhelese-2477157/"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5wKDMqMCZ3wJ0HzlzFUndN6CuYoKdNKiZ3InAIhlUA8F-GUNIvECSyyflBOViy-MUWybwvV8y2EhVCMEPbEwunIFB6uO5aB0LX2k05QpLLY_ciKxvUREigo6YusJas9azZJZmZ7Q26-k-k0-5R9jsYgBdI3C9pWf0yoqYDIAtX2W6ohvJwcTCpfj_NpZPkj516rEyir0F_hOMfucgg2a4lTWtJgrIHZt5nglUucOdOwDZVeInDHrBB35XkKyNelsuHNWt5yauxB5Z69Z4aOZHhtoLfiqf426zCoOSTV6-CJFVxA=="
+      },
+      {
+        "title": "sportmail.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3iB_j-TIrE-Ox4AMrZ_7faDVaMqIAZxbE4NT5G0Rm2gXmCe-d0iGU-uaDUl7lg-PzDje1f59yYXHf5uXrmh-xvCOcR5J4p_z4WWfgcCniAkWVK9_-X1_U5gP3ryKPq1o="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9b6yjE-2iWVMafRVc443xQZswAJTNaaAqAvTaSu-Tqlfe14K2RQGvFQfLjimUUAZEOyMXJwNApUL8aQDafpDdopTnzxzSnUVq-fjf-sk-GkvaXNWqZqF23Xu4GPVWPJDDLgiB"
+      },
+      {
+        "title": "legalbet.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaK_uPrhgZafZ7SyT14ajSIJVV3hyXcqqWaliotBNfLscWp1srH3x2R8vOkKt_FGFg84CA42ncp-FlQBgZdJW3ez_AOhVhFf6hJIqTqpoZWJcxuG9MvtE_fQRGQ1R7_EgucMb7esC4Oz0Al7FlKxAuvaPw6NR5iIuErEQ704pxvcaTeHSA6Z5YyA3S6-NBgGwD"
+      },
+      {
+        "title": "sport24.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT-BNqZy1DcvLprhMXiea7fdBaWfVeFrPg4RJAfwgvvRm3Uxouv8NDAIaOqyyIymaNfqcCGFuWg2zGTWvgqpYZ_mNRQTFXJvo69QHKZFV0s6Awn_DuvKy35nVNB5iLlfQcMpYTdNnfZsbEPpMijIR158s4hX2c4iDVAVCYxElKEHDiWdxEcpPAKHaLjmt_vfIpSEXf-QQXsiOx9t2vjb8Z_87xGO32bJAF25tnhjMvW_02"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPKSkXGV_2cXSrZuAiqUICOpQWzIk0344wT8C0vhlHR9mk5Hqm3mwlV0OeVXlxeYM1Fu3GgfuQCZ2k82tn4U_InN4-RcwAohOCpVJ01bFjHuLSllyuhhAGH7iSqOqP379snIOnjI3vYKg597DNTce6SysSvk_1gERsl4mY4gAhiJE4kgtLRAeoMVFZLcPo766DujW6146zPInjAUy1FtaUsQHnTVEoLu3l9YDdCftsMu1v_KadoBPYNXi42vgKfbemNJQhE4bknW4eEpeemlEOsGpDVfRdOPEti8d_84t5gv7WUeuojLLsTw=="
+      },
+      {
+        "title": "sportmail.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmdxrv0jfT_oeYPq_XnS5APNXW_wj0XDMq_LPAsN_2TthtcA9VqIvV0ORuiqkGO6cIZ39ur4CaKwZCYyjBurPZHaM-NsDXB6s5DD5_1mISAHkG96w8It1HkqhyDGmj-0o="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTwvnFSbUktj9wPFaSAtolKJWCfmQGlJX1zQDoE96Av8XF7GkolUjTyD2BSUvVD5Rq1VbsR-ABTDrj07TMN1gbge8PqWn-qm6J4o-E-bvEviNAnme6BHdRjF0-p0AI0K33-7DHFo0="
+      },
+      {
+        "title": "mnogoobuvidn.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE28qIWyOFfyiKdmuTveSjXKa_HZZnNULqfwnqe4I_xIIMPXkpoIj6_p2SC4yHm0tj5grdA7ITVlJ8JYKZI1dyPZqFiDUiy5PjMmxuLhbOeQyIqZgZs3XbPHR7Z6PNMM7NfUQy_KRf96ntJpqA="
+      },
+      {
+        "title": "irbis.spb.ru: Евгений Трефилов: «Хотел бы, чтобы к гандболу относились немного по-другому. Наши девочки результатами на Олимпиаде показали, что это не последний вид спорта для России»",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVRWVzZqZFAyUVNMUk9hd3dkOEdkci1lY0E3RnhBUzdMOXlPbnI5VHhUTGthWmVRVDVvZlZyNUpoQ1ZtLTZTT3QwOFI4SEVMV0dVcGFrNjdFbFhRQVY4QmxnSDB2bEZaOFJSQzhPSV96S25MTUh1c2lLbEdqcWlidnF2NUFFWEdFMTAzWXJDTE0xSXVkX0c5MTRGcUtHQTJmYVlGUF9QOWdnSkY1TS1Xb0Jnek5fZldJVGFNNkRuRk9JbUVfbFd5aEJBNGE0R1dudG90S3Jn?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Trefilov Rejects 2028 Olympic Medal Guarantee by Russian Handball Chief",
+      "seo_title": "Trefilov Urges Caution on Russia 2028 Olympic Handball Hopes",
+      "subheadline": "The 2016 Rio gold medal coach cautions against bold podium pledges as officials pursue a wild card path to Los Angeles.",
+      "body_markdown": "Former Russian women's national handball coach Yevgeni Trefilov dismissed public guarantees of an Olympic podium finish at Los Angeles 2028, telling newspaper Sport-Express on Sunday, 22 November 2026, that \"money loves silence, and victories do too\". His comments directly addressed statements made two days earlier by Sergey Shishkarev, chairman of the Supreme Council of the Handball Federation of Russia (HFR), who vowed that the national squad would medal when the Games take place in July 2028.\n\n\"The chances are always 50-50. I wouldn't get so hot-headed,\" the 71-year-old Trefilov said to Sport-Express. \"Everything should be done quietly. As they say, money loves silence, and victories do too. Of course, I would like to see our national team on the podium all the time. It is very pleasant and warms the soul\".\n\n## Contrasting Visions at Moscow Film Premiere\n\nThe exchange followed the premiere of the documentary film *Miracle in Rio* (*Chudo v Rio*), directed by Nikolai Akelkin, held in Moscow on Friday, 20 November 2026. The documentary chronicles Russia’s run to the gold medal at the 2016 Rio de Janeiro Olympics, where Trefilov coached the squad to a 22-19 victory over France in the final after an overtime semifinal win against Norway featuring decisive penalty conversions by Ekaterina Ilyina.\n\nSpeaking at the screening, Shishkarev projected a return to the Olympic rostrum: \"There is a specific date — July 2028, the city is Los Angeles. I promise you that the Russian national team will stand on the podium there\". Trefilov struck a more reserved tone from the same stage on Friday. \"We talk a lot and do little. Victory is just a moment. After a victory, you need to go back to the gym for another second of victory,\" Trefilov said. \"I would like handball to be treated a little differently. Our girls showed with their results at the Olympics that handball is not the last sport for Russia\".\n\n## The Hurdles Facing Los Angeles 2028\n\nRussia captured women's handball gold at Rio 2016 and followed it with silver at Tokyo 2020, but the national side has not contested an Olympic fixture since August 2021 following international bans from world and European competitions instituted in 2022. The 2028 Summer Olympic Games in Los Angeles are scheduled to run from 14 to 30 July 2028, leaving a narrow qualification window.\n\nTo establish a qualification route, Russian officials are seeking entry into the 2027 IHF Women's World Championship. Shishkarev confirmed plans to hold talks with International Handball Federation (IHF) president Hassan Moustafa to request a wild card invitation for the Russian team, which would allow them to compete for the Olympic tournament berths awarded at the event.",
+      "social_post": "Former Russia women's handball coach Yevgeni Trefilov has urged caution over bold promises of a medal at Los Angeles 2028, warning that \"money loves silence, and victories do too.\" His remarks answered federation head Sergey Shishkarev, who pledged an Olympic podium finish at the Moscow premiere of the documentary \"Miracle in Rio.\" Can Russian handball overcome years of isolation to reach the LA 2028 podium? Share your thoughts below! #Handball #Olympics #LA2028 #RussianSport"
+    },
+    "zh": {
+      "headline": "俄手球功勋主帅特雷菲洛夫驳斥2028奥运夺牌保证：“胜利和金钱一样，需要低调”",
+      "seo_title": "特雷菲洛夫谈2028奥运：手球夺牌承诺言之尚早",
+      "subheadline": "率队夺得2016年里约奥运金牌的名帅呼吁保持冷静，俄罗斯手协正谋求洛杉矶奥运外卡资格。",
+      "body_markdown": "俄罗斯女手前功勋主帅叶夫根尼·特雷菲洛夫（Yevgeni Trefilov）对官方公开许诺2028年洛杉矶奥运会必定站上领奖台的言论泼了冷水。2026年11月22日（周日），特雷菲洛夫在接受《体育快报》（Sport-Express）采访时直言：“金钱喜欢安静，胜利也是如此。”这番言论直接回应了俄罗斯手球联合会（HFR）最高委员会主席谢尔盖·希什卡廖夫（Sergey Shishkarev）两天前的高调誓言——后者此前坚称，国家队在2028年7月的奥运会上必夺奖牌。\n\n“概率永远是五五开，我不建议头脑太热，”71岁的特雷菲洛夫对《体育快报》表示，“做任何事都应该沉下心来。俗话说得好，金钱喜欢安静，胜利也是如此。当然，我也希望能一直看到国家队站上领奖台，这让人非常高兴，也倍感温暖。”\n\n## 莫斯科纪录片首映礼上的分歧\n\n这场言语交锋始于2026年11月20日（周五）在莫斯科举行的纪录片《里约奇迹》（*Chudo v Rio*，导演尼古拉·阿克尔金/Nikolai Akelkin）首映式。该片重温了俄罗斯女手在2016年里约奥运会的夺金传奇——当时特雷菲洛夫率队在半决赛通过加时险胜挪威（叶卡捷琳娜·伊利英娜/Ekaterina Ilyina罚入关键球锁定胜局），随后在决赛中以22比19击败法国摘金。\n\n希什卡廖夫在首映式发言中毫不掩饰对重返奥运领奖台的笃定：“我们有一个明确的目标日期——2028年7月，地点在洛杉矶。我向大家保证，俄罗斯国家队一定会站在那里的领奖台上。”\n\n而同台亮相的特雷菲洛夫发言则内敛得多：“我们说得太多，做得太少。胜利往往只是一瞬间。欢庆之后，你必须立刻回到训练馆，去为下一秒的胜利付出努力，”特雷菲洛夫说道，“我希望大家能对手球这项运动抱有不一样的态度。姑娘们在奥运会上的战绩已经证明，手球对俄罗斯而言绝非可有可无的项目。”\n\n## 进军2028洛杉矶的现实阻碍\n\n俄罗斯女手在2016年里约摘金后，又在2020年东京奥运会夺得银牌。然而，受2022年国际体坛禁赛制裁影响，该队自2021年8月以来未曾参加过任何一场国际正式比赛。2028年洛杉矶夏季奥运会定于7月14日至30日举行，留给队伍冲击席位的窗口期极为紧迫。\n\n为了开辟资格赛通道，俄罗斯官员正在全力谋求2027年IHF女子手球世锦赛的参赛资格。希什卡廖夫证实，计划与国际手球联合会（IHF）主席哈桑·穆斯塔法（Hassan Moustafa）展开会谈，正式为俄罗斯队申请一张世锦赛外卡，以期获得进军洛杉矶奥运会的入场券。",
+      "social_post": "里约奥运金牌教头特雷菲洛夫给手协高层的豪言降温：“金钱喜欢安静，胜利也是如此。”针对俄罗斯手协主席希什卡廖夫承诺的“2028洛杉矶必夺奖牌”，老帅呼吁少说多练、踏实做事。经历多年国际禁赛的俄罗斯女手，真能如愿在洛杉矶杀回领奖台吗？欢迎在评论区聊聊你的看法！#手球 #奥运会 #洛杉矶2028 #俄罗斯体育"
+    },
+    "ru": {
+      "headline": "«Победы любят тишину»: Трефилов осадил Шишкарёва за обещание медалей Олимпиады-2028",
+      "seo_title": "Трефилов осадил Шишкарёва: о медалях Олимпиады-2028 говорить рано",
+      "subheadline": "Триумфатор Рио-2016 призвал не горячиться с прогнозами, пока чиновники лишь пытаются выбить wild card в Лос-Анджелес.",
+      "body_markdown": "Бывший главный тренер женской сборной России по гандболу Евгений Трефилов скептически отнёсся к публичным обещаниям завоевать медали на Олимпийских играх 2028 года в Лос-Анджелесе. В воскресенье, 22 ноября 2026 года, мэтр отечественного тренерского цеха напомнил в интервью «Спорт-Экспрессу» старую истину: «Деньги любят тишину, и победы — тоже».\n\nЗаявление Трефилова стало прямой реакцией на слова председателя Высшего совета Федерации гандбола России (ФГР) Сергея Шишкарёва, который двумя днями ранее поклялся, что национальная команда гарантированно поднимется на пьедестал в июле 2028-го.\n\n«Шансы всегда 50 на 50. Я бы так не горячился, — подчеркнул 71-летний Трефилов в беседе со «Спорт-Экспрессом». — Всё надо делать тихо. Как говорят, деньги любят тишину, и победы — тоже. Конечно, хочется постоянно видеть сборную на пьедестале. Это очень приятно и греет душу».\n\n## Разные взгляды со сцены кинотеатра\n\nЗаочной полемике предшествовала премьера документального фильма Николая Акелькина «Чудо в Рио», прошедшая в Москве в пятницу, 20 ноября 2026 года. Картина посвящена легендарному золоту Олимпиады-2016 в Рио-де-Жанейро: тогда подопечные Трефилова в драматичном овертайме полуфинала вырвали победу у Норвегии благодаря хладнокровным семиметровым Екатерины Ильиной, а в финале сломили сопротивление Франции — 22:19.\n\nВыступая на показе, Шишкарёв уверенно анонсировал триумфальное возвращение: «Есть конкретная дата — июль 2028 года, город Лос-Анджелес. Я вам обещаю, что сборная России будет стоять там на пьедестале».\n\nТрефилов, стоя на той же сцене, предпочёл остудить победный пафос: «Мы много говорим и мало делаем. Победа — это миг. После победы нужно снова идти в зал ради ещё одной секунды триумфа, — напомнил специалист. — Хочется, чтобы к гандболу относились немного иначе. Девчонки своими результатами на Олимпиадах доказали, что гандбол для России — далеко не последний вид спорта».\n\n## Тернистый путь в Лос-Анджелес\n\nПосле золота Рио-2016 российские гандболистки завоевали серебро на Играх-2020 в Токио, однако не провели ни одного олимпийского матча с августа 2021 года из-за отстранения от турниров под эгидой IHF и EHF, введённого в 2022 году. Сами Игры в Лос-Анджелесе пройдут с 14 по 30 июля 2028 года, и времени на отбор остаётся катастрофически мало.\n\nЕдинственным реальным мостом в олимпийскую квалификацию для сборной России остаётся женский чемпионат мира 2027 года. Шишкарёв подтвердил намерение провести переговоры с президентом Международной федерации гандбола (IHF) Хассаном Мустафой (Hassan Moustafa) о предоставлении российской команде специального приглашения (wild card), которое позволит включиться в борьбу за путёвки на Олимпиаду-2028.",
+      "social_post": "«Деньги любят тишину, и победы — тоже». Евгений Трефилов осадил главу ФГР Сергея Шишкарёва, пообещавшего медаль женской сборной на Олимпиаде-2028 в Лос-Анджелесе. Триумфатор Рио призвал не сотрясать воздух громкими клятвами, а молча пахать в зале. Смогут ли наши гандболистки пробиться на Игры сквозь годы изоляции? Делитесь мнением в комментариях! #гандбол #Олимпиада2028 #Трефилов #спорт"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg",
+        "artist": "Semenforyou",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Sergey Shishkarev 2023",
+        "width": 1200,
+        "height": 800,
+        "year": 2023,
+        "subject": "Sergey Shishkarev",
+        "asked": "Sergey Shishkarev",
+        "page_title": "Sergey Shishkarev",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:sergey_shishkarev_2023.jpg|Sergey Shishkarev",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of Sergey Shishkarev in a suit",
+          "reason": "Accurately depicts Russian Handball Federation president Sergey Shishkarev, relevant to the story.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The outcome of HFR talks with IHF president Hassan Moustafa concerning the proposed wild card for the 2027 World Championship"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-23-news-b02637",
+    "slug": "russian-mma-fighter-amir-aliev-released-after-paris-detentio",
+    "date": "2026-11-23",
+    "created": "2026-11-23T16:42:11+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "MMA",
+    "tags": [
+      "Amir Aliev",
+      "Ares Fighting Championship",
+      "MMA",
+      "Combat Sports"
+    ],
+    "athletes": [
+      "Amir Aliev",
+      "Matheus Malta"
+    ],
+    "image_subjects": [
+      "Adidas Arena",
+      "Montreuil, Seine-Saint-Denis",
+      "Grozny"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Whether the Bobigny prosecutor's office has formally classified the complaint as dismissed without further procedural steps."
+    ],
+    "sources": [
+      {
+        "title": "Le Parisien",
+        "url": "https://www.leparisien.fr"
+      },
+      {
+        "title": "TASS",
+        "url": "https://tass.ru"
+      },
+      {
+        "title": "Sport-Express",
+        "url": "https://www.sport-express.ru"
+      },
+      {
+        "title": "svoboda.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5I9JTZfW6rYJhjMF6IlU--bh91eQA5hJMWldVF7s8pvMcxbDC2g5fiu6QN1WV4x5Xhc1y---B0o43Y_hA_onadJ-lU1oQx3uLUQwtX-UFBn6Y80Zl4Gmo2AkxS1u6brvRdjEOPam54bGjqbxY0sMsyk7hGjd7VsmS9qTcLanZ9YNIu66G15ZJap0ERNDSGyjQFATi3y51nqGj3hZqfbP_-Fjoy7AG-SD806vbIG1rMUeg5w2PrJ53RQ=="
+      },
+      {
+        "title": "mymmanews.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ2n-7K1_I4RcKwW8_Nw5EdyPAvzJacDSG31F6eG7q9WerM6_nqTYt1aV8eakHrTYsj9bRqmC9LPhRCtHvTF1_N4-80x76QlV4CXqcFIhOO2MTRg9kYCrMQammylyooz4EllBhD3d818noiACrosj5sfb0UqbH_a1KTbIw_H78n8PVOLsmPffWdAMUgihYzhehPIAvThMp"
+      },
+      {
+        "title": "rtvi.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphoCVXyUlxRcSi_c1hcdcTIf2c0n5a5rG8wlXXqmHitX7PaPMWQRi-6BQgd913fB2R8Iy4eupzhj4uLJ7QFgJ0xUhS_EcgJ7gRqwVvAZjOSx6AXA6tKcdT3iK03XdImkPojmQxFqOcCQ2cdzpMhxdhy7V91cjq8cdDR8h5v04WQoDuoqX9sINL5p2ygKB4JNkQAvHxAVGdtXhvSQStGyscO5Px5AZ0Ym1BjGJ"
+      },
+      {
+        "title": "sportmail.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4gIWo4t-HOc_pQunScTz6glfT0Bnt88InIh_9OyjMS6uo2-ScTZbTrc-F728npn5XSVOIONvRq_u8Bi3jo-b61kVdFDXyIxnCDZEZWN9-C5tjeuJwghZ97_T7N8="
+      },
+      {
+        "title": "74.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYMYiwFI1d-JBJE-md__fmV-qkgrSk_nHXyRaAPDWcNA7WgpWAhkY8-DzVQ6aDHlhEOscFcLC7ZnZw7Q23F3p2G0Z7zvBK28bEJaCQcC-mF0m0XjBlA1UXub-TdFcOaKe1wmxGKy2p"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFonriIW9JHGwFsrhegIdZfZZvkLzpOoPHrIGYujt2eqeCNYe6FFLibyD_Z3s3oOdBmf1ZhjWIXxsscoBl8-GMS087QlgODc_qICtp19l9CeFxuy53NR4cSdKobkhQTghdtBdbM7OmV9qhsX_aPEFkp0bs7t_Ie8IDB8j8MkOSJ1DD5e9H-tMPj1Nb4UUJErndRCzV_RKbc0gyU_QxymBosIjD5zZHCUB-CnDX0NgnedfAOE9NCCp-J1kCoVBPvDCQg"
+      },
+      {
+        "title": "echofm.online",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYM2zNWtKVgqY7eE6keV_gcTuC-Cf_CYNsJ_J_15Lf8U7n2tKRW32-tw22B8jQoCww5FHpW4uXPY44uYOt9yFiJFY1O6TdV7zhewIoA9ayrcf7KctvYnBc-YWK1R_K1CteRvvoGlLHnEFF8KUa25x9QO4NSe54Yz_GyN3DGgnoUvgAP29dlcZ0UjhYILX8ia02yqA1dNxVdV1J5cZMEGRj63xwi8Aj3SpgoOlamKE="
+      },
+      {
+        "title": "e1.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAbp6NNVIKBRVy87Ok3ohOT6w8THMUAL-EcDL_qG2j0O3Hm0vJVPk0ueqO9nwLnt_hJinhEPoBdl6aEpcevzjhVvEr_4d_TH2G1Sg4dNpHDHzbx4siGcviTwqei03ltV-D2QjylhONI4dQbg=="
+      },
+      {
+        "title": "Общественная служба новостей: Российский боец ММА Алиев освобожден после задержания во Франции",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmYwY3BqczNVWGZXc2hsc0RLTDUwcjNabTVCZ1N2Ymp4X2JQbEwzU1NlaGV6eUppbjJaOHpYeWdSYW9qN253VEpSY0xuMGNMVGN3TlExVldrbk11Njk2eFlEWkltOUlpUW9CZW8tdHpCWENncGFXWFRuMmg1OHItTG1aZ3lqZmdubzdCTVFyU19OYXNaRWdJZDZaQ282QUlHeWc?oc=5"
+      },
+      {
+        "title": "ГИПОРТ: Бойца ММА Амира Алиева освободили после задержания в Париже",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3F5TU5hY0ZXaDREOEREazVqeEg3aDVXMnFvZ3RpcVVZd2VNNERER2xZWWxHRUg1UUxoRnFacGt1YThCZ2VhMWxzSEkzZ1hzdXBocXV6M09zYlJHWUtXSG1FQnpfY1dSNHY2ekNLRy1yQkZubWI0bGVkaExQZlhHR0tycW03bk9KaVIxUEUzWXFoNGhFN193TjJ3RkM4OEZabFk3bHo3eHdpU2t5ZFlhWkRTZ21Xdw?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Бойца ММА Алиева освободили после задержания во Франции",
+        "url": "https://www.sport-express.ru/martial/mma/news/boyca-mma-alieva-osvobodili-posle-zaderzhaniya-vo-francii-2477813/"
+      },
+      {
+        "title": "sport-express.net: Бойца ММА Алиева освободили после задержания во Франции",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3ZNOGRRN2x2eWMtQjdCTUxKMndqcmRjblhud3NGS1QxbXBmRm1sWWwwX3VoREdrQ0NVLW9fRGtMdGQ1OV9DZTJUam9CM3hrUW9VQXhXaFNrWUZ0NXFkdXVQTGppT1BQZGZRTFlZZlhKeWp5NnJNQ2ptOVp5VURjYVIwYnc3TmpvU1hld1VaU3ZMMWh2dngwQUozTmNyaVBJZm5rLUdhLU1NV1FBbGkxVXZQMA?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Russian MMA Fighter Amir Aliev Released After Paris Detention",
+      "seo_title": "Amir Aliev Released After Paris Detention",
+      "subheadline": "The 27-year-old bantamweight was freed without charge following police questioning over an alleged incident in Montreuil.",
+      "body_markdown": "Russian mixed martial arts fighter Amir Aliev was released from police custody in France on Sunday, November 22, 2026, two days after being detained in Paris following his bout at ARES 45. The 27-year-old bantamweight had been taken into custody on Friday night, November 20, at the Adidas Arena in Paris, where French police acted on an investigation into a rape complaint. Speaking to Russian state news agency TASS on Sunday, Aliev confirmed that he was freed without charge, stating that authorities recognized the allegations as groundless.\n\n## Detention following ARES 45 victory\n\nThe detention unfolded moments after Aliev earned a unanimous decision victory over Brazilian opponent Matheus Malta at the Adidas Arena in the 61-kilogram division. Around 10:30 p.m. local time on November 20, officers approached Aliev inside the venue. According to reports from French newspaper Le Parisien, Aliev complied without resistance and was escorted to a police commissariat in Montreuil, located in the Seine-Saint-Denis department east of Paris.\n\nThe Bobigny prosecutor's office confirmed that investigators placed him under garde à vue, a French legal framework enabling temporary police detention for questioning. The complaint under scrutiny pertained to an alleged incident reported to have occurred in Montreuil several days prior to the fight. French custody rules permit an initial detention period of up to 48 hours for questioning, which was extended on November 22 before prosecutors allowed the window to conclude without issuing formal charges.\n\n## Fighter's response and promotional career\n\nAliev stated that the complaint originated from a verbal altercation earlier in the week. \"It is a lie, and such a thing on my part is completely excluded,\" Aliev told TASS. \"The French police acknowledged that a mistake was made and there were no grounds to accuse me.\" Aliev added that members of his corner, including his manager, had also been questioned before being released alongside him. While Aliev stated that investigators closed the matter, French judicial officials had not issued a formal public statement regarding the administrative status of the case by Monday, November 23.\n\nBorn in Grozny, Russia, Aliev spent the majority of his professional mixed martial arts career competing in Russian circuits, including ACA Young Eagles and Hardcore MMA. He transitioned to the French-based Ares Fighting Championship in 2026. The unanimous decision over Malta marked his third consecutive promotional victory under the ARES banner, keeping his European campaign intact following his release.",
+      "social_post": "Russian bantamweight Amir Aliev has been released from French police custody following his detention in Paris on Friday, November 20. Officers detained the 27-year-old at the Adidas Arena moments after his unanimous decision win over Matheus Malta at ARES 45. Aliev was questioned in Montreuil under garde à vue regarding an alleged complaint before being released without charges on Sunday. Speaking to TASS, Aliev stated police acknowledged the accusation was baseless. What are your thoughts on how the situation was handled? Share your views below."
+    },
+    "zh": {
+      "headline": "在巴黎遭拘留两天后，俄罗斯MMA名将阿利耶夫无罪获释",
+      "seo_title": "阿利耶夫巴黎获释：遭警方拘留后未被指控",
+      "subheadline": "这位27岁的雏量级选手在蒙特勒伊接受警方就一起涉嫌强奸案的讯问后，已被无指控释放。",
+      "body_markdown": "2026年11月22日（周日），俄罗斯综合格斗选手阿米尔·阿利耶夫（Amir Aliev）在法国被警方拘留两天后获释。此前，他在巴黎参加完ARES 45期赛事后随即被警方带走。这位27岁的雏量级选手于11月20日（周五）晚在巴黎阿迪达斯体育馆（Adidas Arena）被拘留，法国警方当时正就一起强奸指控展开调查。阿利耶夫周日向俄罗斯国家通讯社塔斯社（TASS）证实，自己已在未受任何指控的情况下重获自由，并表示有关部门已认定指控毫无根据。\n\n## 赢下ARES 45后遭现场拘留\n\n拘留事件发生在阿利耶夫刚结束比赛不久。在61公斤级的较量中，他通过一致判定击败了巴西选手马特乌斯·马尔塔（Matheus Malta）。当地时间11月20日晚10点30分左右，执法人员在场馆内走向阿利耶夫。据法国《巴黎人报》（Le Parisien）报道，阿利耶夫全程予以配合、未做反抗，随后被带往位于巴黎东部塞纳-圣但尼省的蒙特勒伊（Montreuil）警察局。\n\n博比尼（Bobigny）检察官办公室证实，调查人员依法对他实施了“羁押侦讯”（garde à vue，即法国法律规定用于讯问的临时拘留措施）。调查所针对的指控涉及比赛前几天发生在蒙特勒伊的一起涉嫌事件。根据法国拘留相关规定，最初拘留讯问期限最长为48小时，该期限在11月22日被依法延长，随后检方在未提出正式指控的情况下结束了拘留程序。\n\n## 选手回应与职业生涯战绩\n\n阿利耶夫表示，该指控源于本周早些时候发生的一场口角。“这是彻头彻尾的谎言，我绝不可能做出这种事，”阿利耶夫对塔斯社表示，“法国警方承认这是一场误会，根本没有任何理由对我提出指控。”阿利耶夫补充称，包括经纪人在内的教练组成员也接受了警方问讯，随后与他一同获释。尽管阿利耶夫称调查人员已了结此案，但截至11月23日（周一），法国司法部门尚未就该案的行政程序状态发布官方公开声明。\n\n阿利耶夫出生于俄罗斯格罗兹尼，职业生涯大部分时间活跃于俄罗斯本土赛事，包括ACA Young Eagles和Hardcore MMA。2026年，他转战总部位于法国的Ares Fighting Championship赛事。本次一致判定战胜马尔塔，是他斩获的ARES赛事三连胜；获释之后，他在欧洲赛场的征程也得以继续推进。",
+      "social_post": "俄罗斯雏量级选手阿米尔·阿利耶夫已从法国警方拘留中获释。11月20日晚，27岁的阿利耶夫在巴黎ARES 45期一致判定击败巴西选手马尔塔后，于阿迪达斯体育馆被警方带走。在蒙特勒伊因一起强奸指控接受羁押讯问后，他已于周日无罪获释。阿利耶夫对塔斯社表示警方已认定指控毫无根据。大家对这起风波怎么看？欢迎在评论区留言讨论！"
+    },
+    "ru": {
+      "headline": "Российский боец ММА Амир Алиев освобожден из-под стражи в Париже",
+      "seo_title": "Амир Алиев освобожден после задержания в Париже",
+      "subheadline": "27-летний представитель легчайшего веса отпущен без предъявления обвинений после допроса в полиции Монтрёя.",
+      "body_markdown": "Российский боец смешанных единоборств Амир Алиев в воскресенье, 22 ноября 2026 года, был освобожден из-под стражи во Франции — спустя два дня после задержания в Париже по окончании поединка на турнире ARES 45. 27-летний боец легчайшего дивизиона был взят под стражу в пятницу вечером, 20 ноября, прямо на арене «Адидас Арена» (Adidas Arena) в рамках расследования заявления об изнасиловании. В беседе с агентством ТАСС в воскресенье Алиев подтвердил, что вышел на свободу без предъявления обвинений, подчеркнув: власти сочли обвинения полностью беспочвенными.\n\n## Задержание сразу после триумфа на ARES 45\n\nЗадержание произошло спустя считанные минуты после того, как Алиев единогласным решением судей одолел бразильца Матеуса Малту (Matheus Malta) в весовой категории до 61 кг. Около 22:30 по местному времени 20 ноября сотрудники полиции подошли к Алиеву внутри спортивного комплекса. По информации французской газеты Le Parisien, спортсмен подчинился требованиям правоохранителей без сопротивления и был доставлен в комиссариат полиции Монтрёя в департаменте Сен-Сен-Дени к востоку от Парижа.\n\nПрокуратура Бобиньи подтвердила, что следователи поместили россиянина под стражу в рамках режима garde à vue — французской правовой процедуры предварительного задержания для проведения допросов. Заявление, ставшее предметом разбирательства, касалось предполагаемого инцидента, который произошел в Монтрёе за несколько дней до боя. Французское законодательство позволяет задерживать подозреваемых на срок до 48 часов; 22 ноября этот срок был продлен, после чего прокуратура закрыла период временного содержания, так и не предъявив официальных обвинений.\n\n## Реакция бойца и продолжение карьеры\n\nСам Алиев заявил, что поводом для обращения в полицию стала словесная перепалка, произошедшая ранее на той же неделе. «Это клевета, с моей стороны подобное полностью исключено, — прокомментировал ситуацию Алиев в интервью ТАСС. — Французская полиция признала, что произошла ошибка и никаких оснований обвинять меня не было». Спортсмен также добавил, что допросу подверглись и члены его команды, включая менеджера — их отпустили вместе с ним. И хотя Алиев заверил, что следователи закрыли дело, французские судебные органы по состоянию на понедельник, 23 ноября, официальных заявлений о правовом статусе дела не опубликовали.\n\nУроженец Грозного, Алиев провел большую часть профессиональной карьеры в российских лигах, среди которых ACA Young Eagles и Hardcore MMA. В 2026 году боец перебрался во французский промоушен Ares Fighting Championship. Убедительная победа судейским решением над Малтой стала для него третьей подряд под эгидой ARES, и после освобождения его европейский поход остается в силе.",
+      "social_post": "Российский боец легчайшего веса Амир Алиев освобожден из-под стражи во Франции. 27-летнего спортсмена задержали на арене «Адидас Арена» в Париже сразу после победы единогласным решением над Матеусом Малтой на турнире ARES 45. Алиева допрашивали в комиссариате Монтрёя в рамках процедуры garde à vue по заявлению о преступлении сексуального характера, но в воскресенье отпустили без предъявления обвинений. В интервью ТАСС Алиев подчеркнул, что полиция признала обвинения безосновательными. Что думаете о произошедшем? Делитесь мнением в комментариях!"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg",
+        "artist": "ManoSolo13241324",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Façade du stade Adidas Arena, à Paris 18e.",
+        "width": 1200,
+        "height": 654,
+        "year": 2026,
+        "subject": "Adidas Arena",
+        "asked": "Adidas Arena",
+        "page_title": "Adidas Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:adidas_arena_fa%c3%a7ade_(cropped).jpg|Adidas Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "the exterior facade of the Adidas Arena in Paris",
+          "reason": "The building is clearly labeled 'adidas arena', confirming it matches the caption accurately.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg",
+        "artist": "Chabe01",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Hôtel de ville de Montreuil, Seine-Saint-Denis.",
+        "width": 1200,
+        "height": 871,
+        "year": 2019,
+        "subject": "Montreuil, Seine-Saint-Denis",
+        "asked": "Montreuil, Seine-Saint-Denis",
+        "page_title": "Montreuil, Seine-Saint-Denis",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:h%c3%b4tel_ville_montreuil_seine_st_denis_15.jpg|Montreuil, Seine-Saint-Denis",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Hôtel de ville (city hall) of Montreuil, Seine-Saint-Denis",
+          "reason": "The photo clearly shows the town hall of Montreuil, matching the caption for the location referenced in the story.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg/1280px-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg",
+        "artist": "Rasul70",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "The \"Heart of Chechnya\" Mosque and the Spiritual Administration of the Muslims of the Chechen Republic office, Grozny.",
+        "width": 1200,
+        "height": 675,
+        "year": 2013,
+        "subject": "Grozny",
+        "asked": "Grozny",
+        "page_title": "Grozny",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:%d0%9c%d0%b5%d1%87%d0%b5%d1%82%d1%8c_%22%d0%a1%d0%b5%d1%80%d0%b4%d1%86%d0%b5_%d0%a7%d0%b5%d1%87%d0%bd%d0%b8%22.jpg|Grozny",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "The Heart of Chechnya Mosque and city skyline in Grozny",
+          "reason": "The photo accurately shows the city of Grozny, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "Private-life or legal topic ('police'). Only include it if it is the news itself, confirmed by a major outlet, and stated neutrally"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Whether the Bobigny prosecutor's office has formally classified the complaint as dismissed without further procedural steps."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://www.leparisien.fr, https://tass.ru, https://www.sport-express.ru"
+      }
+    ]
+  },
+  {
     "id": "2026-11-23-athl-db5356",
     "slug": "from-middle-school-backup-to-9-83-seconds-the-life-and-scien",
     "date": "2026-11-23",

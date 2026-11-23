@@ -4,6 +4,56 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Russian MMA Fighter Amir Aliev Released After Paris Detention
+`2026-11-23-news-b02637` · 2026-11-23
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Adidas Arena**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg)<br>AI sees: _the exterior facade of the Adidas Arena in Paris_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Montreuil, Seine-Saint-Denis**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg)<br>AI sees: _Hôtel de ville (city hall) of Montreuil, Seine-Saint-Denis_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg/1280px-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Grozny**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg)<br>AI sees: _The Heart of Chechnya Mosque and city skyline in Grozny_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Trefilov Rejects 2028 Olympic Medal Guarantee by Russian Handball Chief
+`2026-11-23-news-23b075` · 2026-11-23
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Sergey Shishkarev in a suit_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions
+`2026-11-23-athl-a5664c` · 2026-11-23
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Manny Pacquiao**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Former_senator_Manny_Pacquiao_speaks_in_event_(10-01-2025)_(cropped).jpg)<br>AI sees: _Manny Pacquiao speaking into a microphone_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Freddie_Roach_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Freddie Roach**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Freddie_Roach_2010.jpg)<br>AI sees: _boxing trainer Freddie Roach at a press conference_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg/1280px-Gensan_Dadiangas_South%2C_P._Acharon_Boulevard%2C_Gensan_Public_Market_drone_%28General_Santos_City%3B_03-24-2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **General Santos**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg)<br>AI sees: _aerial view of General Santos City coastline and buildings_
+<br clear="left">
+
+---
+
 ## ✅ live · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
 `2026-11-23-news-bb407c` · 2026-11-23
 
