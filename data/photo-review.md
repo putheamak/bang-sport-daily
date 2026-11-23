@@ -37,16 +37,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## 📝 DRAFT · Svay Rieng and Phnom Penh Crown chase a historic AFC Champions League Two double
 `2026-11-23-news-00ad68` · 2026-11-23
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/SVR11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Svay Rieng Stadium**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:SVR11.jpg)<br>AI sees: _Svay Rieng Stadium stand and pitch_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Morodok Techo National Stadium**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)<br>AI sees: _interior of Morodok Techo National Stadium in Cambodia_
-<br clear="left">
-
 🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl) — {'en': 'Official CPL 2026/27 table after Week 8', 'zh': '柬埔寨超级联赛2026/27赛季第8轮后官方积分榜', 'ru': 'Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура'}
 
 🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml) — {'en': 'Official Week 8 results, 21–22 November 2026', 'zh': '第8轮官方赛果（2026年11月21日至22日）', 'ru': 'Официальные результаты 8-го тура, 21–22 ноября 2026 года'}
