@@ -1,5 +1,230 @@
 [
   {
+    "id": "2026-11-23-news-dbb56e",
+    "slug": "carlos-alcaraz-defeats-alexander-zverev-in-turin-to-claim-ma",
+    "date": "2026-11-23",
+    "created": "2026-11-23T23:51:24+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Tennis",
+    "tags": [
+      "Tennis",
+      "ATP Finals",
+      "Carlos Alcaraz",
+      "Alexander Zverev",
+      "Nitto ATP Finals"
+    ],
+    "athletes": [
+      "Carlos Alcaraz",
+      "Alexander Zverev",
+      "Jannik Sinner"
+    ],
+    "image_subjects": [
+      "Carlos Alcaraz",
+      "Alexander Zverev",
+      "Inalpi Arena",
+      "ATP Finals"
+    ],
+    "match": {
+      "competition": "Nitto ATP Finals",
+      "date": "22 November 2026",
+      "home": "Carlos Alcaraz",
+      "away": "Alexander Zverev",
+      "home_score": 2,
+      "away_score": 0,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Alcaraz wins final 6-2, 7-6(7) at Inalpi Arena"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Алькарас завершил сезон с 47 победами и шестью титулами. Он впервые выиграл Итоговый турнир ATP",
+        "url": "https://www.sport-express.ru/tennis/atp/news/karlos-alkaras-zavershil-sezon-2026-goda-s-47-pobedami-i-shestyu-titulami-on-vpervye-vyigral-itogovyy-turnir-atp-2477816/"
+      },
+      {
+        "title": "«Выходит на уровень, где до него никто не бывал». Макки — о победе Алькараса на Итоговом",
+        "url": "https://www.championat.com/tennis/news-6710872-vyhodit-na-uroven-gde-do-nego-nikto-ne-byval-makki-o-pobede-alkarasa-na-itogovom.html"
+      },
+      {
+        "title": "Алькарас впервые в карьере стал победителем Итогового турнира ATP",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SOXdUaWFLMFhHX1IzTjF3NUJwa1lDR2xLbjR3WERfZk9tNVIzVXNOcVJKUnFJN09UdEtMV2ctdGRhRmpYLUtqQTVFc3dacVA3TWllcQ?oc=5"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDr1_FKkJHNu0aGDLFY5nX7X3RbNTfLat5lK1F703KcENxGMtlfXfPl4GKifyzh4mkB6ixdrAMTLh7YQLEhUleGBCijKKvSMGf0uXrMGnZxmofHva5nItF4IlVq6RgTqJqHPcDHGmZFsR4dJKSJhPWjcNCNvMLXIlxsbDbpcIje0w4Sa61WM5u5fgmmhnZiFWakW-9KiEZYxAU5EpAyqGBz5M5wYyNzrmKdbRXVVzMVubF4j-8drrkoOZJqVS1He2neYzvCDxNFcEz3sEwqOTmhjSCN95TBOY="
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDAQg9lWlCFST5prOcRVOVk_kvORC35lwfhS0uKIM4JHCkHDhnz0A9kx1CpMAdMAGaWT3bSZh3jT2l_W2sDVERQsyYPSV-MZz-Gau65okuoJv7-YflImv8vEuJotSbpQZT6NjRr5RxAskthdZxgvd98R4Jn57bNK6CDem595LbYLV-v3FE3RCdwJMDJx6R_YZRC2WLzces0GCYsYio1yyViDbLiQtKCQ=="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9wDc-zR0Oz9sxZKXpOVn6gJsGOZswUcZB0EfH22mU3hRP32CNTDrTk2NB9uNWfdUCiZM3TsqF4z4W_rzD8eshsZscSqK0UtwyaPlYTa4ZJMBCtZlNyYb4xuzY6fmQYPjq"
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHveQveM9S6BsrIv-Lqe3pFZL0xRuLnHl52RkWXKvIUH6odJwxi3PTNCJmhBSrGULYQCPA6LN3hHJUWeRd5BO2cWfN5GmaIBn9nTW5vfJh3Dsr3A0DKeMMTfzY5dV3OORlfZb3skDv8mTjLUsHKcazQQJ0ZM_sZWAbxy__yjdABm3MvSQ_24l7cPJ3YB3QskwwJB8yt-dN3OF_s-u_XCc-VIpdA89LyMSh2J11bVC-iZJYVXmio"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7wOU_M7kHwuLffRtNuodGKrC2rcR7ZpA4db1kMdADZQdQV1SWdkRbjERxIifG8EzeRbGJAwRto1efiSUcZETb4ijIQnzh0b54n8nilNE2fGUewLuDGQjH36vrd1fbVreY"
+      },
+      {
+        "title": "nationalbankopen.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN7voaaEdhNpet2750gQkTn_sZ_1XiL5PsAqaG_9C2WcxScJsQo0UB2NJvrhi8alNmpMy9rjwgxBzRIiL4jz6AnvusGPEmuPSXjcNQbjnyfTraM8lAcxXjhy3Oha1KLpJfWk90wRVGmue91DMN4RQvGNRFHWQPRWMMGb6H9-YgKUYeW_kc4yylnVWeXYkV1f5v1WCQ2bBaipxGbjVGUw=="
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnT3FjtbvaAaCL7QJkMvUr7EZSRj2qRogkw8a07qsVRMCvRBc8Re41CEz8U4Oum0cUOJaxch6rGC9j5dulu8J7IcUVDI8ZzW24JR42SI0tbLfI5aB6fxPCm6GbZE5wpIZ2PrZO3Q=="
+      },
+      {
+        "title": "sportmail.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqbsGp_NLJ3LUVtkry-eRqOVDrBf87FhuI7_Wky7Yw9TNf3x039bqLZY5YioDHIL3dv1AH1jt9_nqGssBR9RIULyZqPHZhoXUBflAedkwHq63UcNinpPHuYUW3YSvl7Y="
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERwGV2M1ia3Eh4EKHRVttlzt_Z_4hcXRadkKFcjvEPjF__0Pe-YWYwpeddaLD6ubRbm71T0ttrR6m9wvV43bTLR7C-iTaAqz3x34vtZ2yhKiR-RtwDtfxuPrc2R1BDrjr5of2gilQLmkG9pg46IvVsBI_SY6aPXyO2l506FmxUZMlVPSomakgc2WKH21vPZ3aAz5Y-1CTfJ5YdgHlJbCayrmFqPwBvfqdujVC7JCoOA1NK5T7WvNlWFCH8_6D_tJDkMmjKg14L5OaaEgFmZ-hC7rU78hled0TtMDDyqvE="
+      },
+      {
+        "title": "sportarena.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK5Hf9PUM4CkfrgJ_yLWAH7cFL6_o4LuHP9VKYAKP6yA4H1OEg9PM72bgu1-EQYeT8x2eC27N8Q1JOx-0MDQwzWxFFuHZUy6vKIoo7z117L0Nq1A0S-g1YRiS2dWb2u1gK2x3Uh_a-u9l_XTTPOrH8x7o34undMMP3zU-ksQxyeJnEH0zAucc086MfWRortM9QjhIlLgqJPiUCSxe5BHkEEX60mQo4qGVZAvv8QH-JJt3qfADgoqPRtg=="
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNnoNMqJfaHFHh6RXq9z6c7aEb5kOkvnbH_WJQ2e16Q-xDcWaxw5NNV5QDulEOfR1YHV1Z1vUkMCpnLAWuCyNHwIDPTvdotnPCwatiHl1LHA9AYy3e1XGpgGXuoyROSXw="
+      },
+      {
+        "title": "Sport.ru: Медведев назвал причину поражения от Зверева в полуфинале Итогового турнира АТР",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUNXQTRVQXJFaXZtSDZTY2dPcnJDSTg3VjJHb1Bha3A0bUZNUGwwMzdTQTE5LUt4SVNJeWN4dE1pdEpXNnZPSTc2Z3NpTFhNNWk3RENDTU1PYW1IT1N2d0pwdlVxOFBSZkR2VEFrWmR4R1N0WmYwQUljUk9OUndycmVjSXBCSldPUExURTRQakNRNGE1ZkZpenhEQzFGckFmN3N5akhtaUQzYVdSTVU2OVJoVnhnSllFdWVueDU1dWk2Zw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Carlos Alcaraz Defeats Alexander Zverev in Turin to Claim Maiden ATP Finals Title",
+      "seo_title": "Carlos Alcaraz beats Alexander Zverev to win ATP Finals",
+      "subheadline": "The 23-year-old Spaniard joins Agassi, Federer and Djokovic as the fourth man to win all four Grand Slams and the year-end championship.",
+      "body_markdown": "## What happened\n\nOn Sunday, 22 November 2026, Carlos Alcaraz defeated world No. 1 Alexander Zverev 6-2, 7-6 (9-7) in the final of the Nitto ATP Finals at the Inalpi Arena in Turin. The 23-year-old Spaniard broke Zverev's serve four times during a match that lasted two hours and one minute. In the second-set tiebreak, Zverev erased an early deficit to create three set points, but Alcaraz erased all three before converting his second championship point with a backhand winner to claim the season-ending trophy for the first time in his career.\n\n## Why it is being talked about\n\nThe victory makes Alcaraz only the fourth male player in tennis history to win all four Grand Slam tournaments and the ATP Finals, joining Andre Agassi, Roger Federer and Novak Djokovic. At 23 years of age, he is the youngest man to complete that combination of titles. The outcome in Turin also delivered an emphatic conclusion to the 2026 season: while Zverev won Roland Garros and the US Open to finish the year ranked world No. 1, Alcaraz defeated him head-to-head in the season finale. \"You are an absolute legend of our sport, and you are only 23,\" Zverev told Alcaraz during the trophy ceremony.\n\n## Key facts and numbers\n\nAlcaraz went through the tournament with an undefeated 5-0 match record, dropping only a single set across wins over Frances Tiafoe, Daniil Medvedev, Flavio Cobolli, Ben Shelton and Zverev. By finishing unbeaten, the Spaniard collected a record payout of $5.171 million from the event's $15.75 million prize pool, along with 1,500 ATP ranking points. \n\nThe trophy was Alcaraz's 30th career tour-level singles title and his sixth of 2026, adding to autumn tournament wins in Tokyo, Vienna and the Paris Masters. Alcaraz concluded his 2026 campaign with a 47-5 win-loss record despite missing four and a half months during the spring and summer because of a right wrist injury. Zverev finished his year with a 69-win record, 10,320 points and the year-end No. 1 ranking.\n\n## What happens next\n\nThe ATP Tour now enters its brief winter off-season before the 2027 calendar begins in Australia in January. Alcaraz finishes 2026 ranked world No. 3, trailing world No. 2 Jannik Sinner by 350 points and Zverev at the top of the standings. Sinner, who missed the Turin finale with a knee injury scheduled for surgery on 24 November, is expected to return alongside Alcaraz and Zverev for the Australian Open.",
+      "social_post": "Carlos Alcaraz defeated world No. 1 Alexander Zverev 6-2, 7-6 (9-7) in Turin to capture his first ATP Finals title and a record $5.17 million payout. At 23, the Spaniard becomes the youngest man ever to win all four Grand Slams and the ATP Finals, joining Agassi, Federer and Djokovic. Despite missing four months with a wrist injury, Alcaraz finished 2026 with six titles and a 47-5 record. Can anyone challenge Alcaraz and Zverev at the top in 2027? Share your thoughts below. #ATPFinals #CarlosAlcaraz #Tennis"
+    },
+    "zh": {
+      "headline": "阿尔卡拉斯都灵力克兹维列夫 斩获个人首座ATP年终总决赛冠军",
+      "seo_title": "阿尔卡拉斯2-0兹维列夫：首夺ATP年终总决赛冠军",
+      "subheadline": "23岁的西班牙天才比肩阿加西、费德勒与德约科维奇，成为男子网坛历史上第四位集齐四大满贯和年终总决赛冠军的球员。",
+      "body_markdown": "## 比赛回顾\n\n2026年11月22日，星期日，都灵伊纳尔皮竞技场（Inalpi Arena），卡洛斯·阿尔卡拉斯在ATP年终总决赛男单争冠战中以6-2、7-6（9-7）力克世界第一亚历山大·兹维列夫。在这场耗时2小时01分钟的强强对话中，23岁的西班牙人先后四次破掉对手的发球局。进入第二盘抢七局，兹维列夫在开局落后的情况下顽强反扑，一度拿到三个盘点；但阿尔卡拉斯顶住压力全部化解，并在第二个冠军点上凭借一记反手制胜分锁定胜局，职业生涯首次捧起年终总决赛冠军奖杯。\n\n## 载入史册的壮举\n\n这场胜利让阿尔卡拉斯成为男子网球历史上仅有的第四位包揽全部四大满贯冠军和ATP年终总决赛冠军的球员，跻身安德烈·阿加西、罗杰·费德勒和诺瓦克·德约科维奇的传奇殿堂。年仅23岁的他，更是完成这一全满贯加年终壮举的最年轻男选手。都灵的这场决战也为2026赛季画上了一个极具戏剧性的句号：尽管兹维列夫夺得法网和美网桂冠并锁定年终世界第一，但在赛季终极收官之战中，笑到最后的依然是阿尔卡拉斯。“你已经是我们这项运动不折不扣的传奇了，而你才只有23岁，”兹维列夫在颁奖仪式上由衷地对阿尔卡拉斯说道。\n\n## 关键数据与纪录\n\n阿尔卡拉斯以5战全胜的不败战绩横扫本届赛事，在击败弗朗西斯·蒂亚福、丹尼尔·梅德韦杰夫、弗拉维奥·科博利（Flavio Cobolli）、本·谢尔顿以及兹维列夫的征程中仅丢一盘。凭借全胜夺冠的表现，西班牙人从高达1575万美元的总奖金池中独揽创纪录的517.1万美元巨奖，并斩获1500个ATP积分。\n\n这座奖杯是阿尔卡拉斯职业生涯第30个巡回赛单打冠军，也是他2026赛季的第6冠——此前他在秋季连续攻下东京、维也纳和巴黎大师赛。尽管因右手腕伤势在春夏季缺阵长达四个半月，阿尔卡拉斯依然交出了47胜5负的耀眼赛季成绩单。兹维列夫则以69场胜利、10320个积分结束了2026年的征程，守住了年终世界第一宝座。\n\n## 后续展望\n\n随着都灵总决赛落幕，ATP巡回赛正式进入短暂的冬歇期，2027赛季将于明年1月在澳大利亚重燃战火。阿尔卡拉斯以世界第三结束本赛季，落后世界第二扬尼克·辛纳350分，紧随领跑的兹维列夫之后。辛纳此前因膝伤无缘都灵总决赛，并定于11月24日接受手术，预计他将在明年澳网与阿尔卡拉斯、兹维列夫一同重返赛场。",
+      "social_post": "卡洛斯·阿尔卡拉斯在都灵以6-2、7-6（9-7）力挫世界第一兹维列夫，斩获生涯首座ATP年终总决赛冠军并独揽创纪录的517.1万美元巨奖！年仅23岁的他成为历史上第四位集齐四大满贯+年终总决赛冠军的男单选手，比肩阿加西、费德勒与德约科维奇。尽管手腕受伤休战四个半月，他仍在2026赛季交出6冠与47胜5负的恐怖战绩。2027年谁能打破阿尔卡拉斯与兹维列夫的统治？在评论区留下你的看法！#ATP年终总决赛 #阿尔卡拉斯 #网球"
+    },
+    "ru": {
+      "headline": "Карлос Алькарас обыграл Александра Зверева в Турине и впервые завоевал титул Итогового турнира ATP",
+      "seo_title": "Алькарас — Зверев 2:0: испанец впервые выиграл Итоговый турнир ATP",
+      "subheadline": "23-летний испанец вошел в элитный клуб Агасси, Федерера и Джоковича, став четвертым теннисистом в истории с победами на всех четырех «Шлемах» и ATP Finals.",
+      "body_markdown": "## Как прошел финал\n\nВ воскресенье, 22 ноября 2026 года, Карлос Алькарас в финале Nitto ATP Finals на туринской арене «Иналпи» (Inalpi Arena) обыграл первую ракетку мира Александра Зверева со счетом 6:2, 7:6 (9:7). 23-летний испанец четырежды взял подачу Зверева за матч, продлившийся 2 часа и 1 минуту. На тай-брейке второй партии Зверев отыграл ранее отставание и заработал три сетбола, однако Алькарас ликвидировал каждый из них, после чего реализовал свой второй чемпионшип-пойнт ударом с бэкхенда навылет и впервые в карьере поднял над головой трофей Итогового турнира.\n\n## Историческое достижение\n\nБлагодаря этому триумфу Алькарас стал всего четвертым теннисистом в истории мужского тура, выигравшим все четыре турнира «Большого шлема» и Итоговый чемпионат ATP, встав в один ряд с Андре Агасси, Роджером Федерером и Новаком Джоковичем. В возрасте 23 лет он оказался самым молодым игроком, собравшим эту престижную коллекцию. Финал в Турине поставил эффектную точку в сезоне-2026: Зверев взял «Ролан Гаррос» и US Open, гарантировав себе звание первой ракетки мира по итогам года, но Алькарас нанес ему поражение в очной дуэли на главном турнире осени. «Ты настоящая легенда нашего спорта, а ведь тебе всего 23 года», — сказал Зверев испанцу на церемонии награждения.\n\n## Цифры и факты\n\nАлькарас прошел всю дистанцию турнира без единой осечки (5-0), уступив лишь один сет на пути к кубку в матчах против Фрэнсиса Тиафо, Даниила Медведева, Флавио Коболли, Бена Шелтона и самого Зверева. Пройдя турнир без поражений, испанец заработал рекордные 5,171 млн долларов призовых из общего фонда в 15,75 млн, а также получил 1500 рейтинговых очков.\n\nЭтот титул стал для Алькараса 30-м в карьере на уровне ATP и шестым в 2026 году — ранее осенью он праздновал победы в Токио, Вене и на «Мастерсе» в Париже. Испанец завершил год с внушительным балансом побед и поражений 47-5, несмотря на то, что пропустил четыре с половиной месяца весной и летом из-за травмы правого запястья. Зверев же финишировал в сезоне с 69 победами в активе, 10 320 очками и званием первой ракетки мира по итогам года.\n\n## Что дальше\n\nATP-тур уходит на короткие зимние каникулы перед тем, как в январе в Австралии стартует календарь 2027 года. Алькарас закончил 2026 год третьей ракеткой планеты, уступая 350 очков Яннику Синнеру (№ 2) и Звереву на вершине таблицы. Синнер, пропустивший Турин из-за травмы колена (операция назначена на 24 ноября), должен вернуться на корт вместе с Алькарасом и Зверевым к Australian Open.",
+      "social_post": "Карлос Алькарас переиграл первую ракетку мира Александра Зверева со счетом 6:2, 7:6 (9:7) в Турине и впервые стал чемпионом ATP Finals, забрав рекордные 5,17 млн долларов призовых. В свои 23 года испанец стал самым молодым игроком в истории, собравшим карьерный «Шлем» и титул Итогового — теперь он в одной компании с Агасси, Федерером и Джоковичем! Пропустив четыре с половиной месяца из-за травмы, Карлос завершил 2026 год с 6 титулами и балансом 47-5. Сумеет ли кто-то навязать борьбу Алькарасу и Звереву в 2027-м? Пишите в комментариях! #ATPFinals #Алькарас #Теннис"
+    },
+    "format": "explainer",
+    "region": "global",
+    "trending_key": "6323e268d6",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg",
+        "artist": "Barcex",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Carlos Alcaraz, the rising Spanish tennis sensation, showcases his youthful charisma on the red carpet at the 25th Laureus World Sports Awards in Madrid.",
+        "width": 1200,
+        "height": 1669,
+        "year": 2024,
+        "subject": "Carlos Alcaraz",
+        "asked": "Carlos Alcaraz",
+        "page_title": "Carlos Alcaraz",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:25th_laureus_world_sports_awards_-_red_carpet_-_carlos_alcaraz_-_240422_192324_(cropped).jpg|Carlos Alcaraz",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Carlos Alcaraz in a black tuxedo on a red carpet",
+          "reason": "The photo clearly shows tennis player Carlos Alcaraz matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Alexander Zverev prior to his match at the 2026 Miami Open.",
+        "width": 1200,
+        "height": 1600,
+        "year": 2026,
+        "subject": "Alexander Zverev",
+        "asked": "Alexander Zverev",
+        "page_title": "Alexander Zverev",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:alexander_zverev_in_miami.jpg|Alexander Zverev",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Alexander Zverev wearing a black headband and shirt",
+          "reason": "The photo clearly shows tennis player Alexander Zverev matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg/1280px-Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Piazzale_Grande_Torino,_Turin,_Italy.jpg",
+        "artist": "SetteTreSette",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Piazzale Grande Torino, Turin, Italy",
+        "width": 1200,
+        "height": 574,
+        "year": 2023,
+        "subject": "Inalpi Arena",
+        "asked": "Inalpi Arena",
+        "page_title": "Inalpi Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:piazzale_grande_torino,_turin,_italy.jpg|Inalpi Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Inalpi Arena (formerly Pala Alpitour) and Piazzale Grande Torino in Turin",
+          "reason": "The image shows the venue (formerly Pala Alpitour, renamed Inalpi Arena), host of the ATP Finals in Turin.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-23-news-dbb56e.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Carlos Alcaraz 2 - 0 Alexander Zverev · Nitto ATP Finals",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
     "id": "2026-11-23-news-00ad68",
     "slug": "svay-rieng-and-phnom-penh-crown-chase-a-historic-afc-champio",
     "date": "2026-11-23",

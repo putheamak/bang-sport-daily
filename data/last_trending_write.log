@@ -1,18 +1,21 @@
-2026-11-22 09:00:18,800 INFO Kept (result after our pre-event story): Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar
-2026-11-22 09:00:18,800 INFO Writing explainer fc263a5a2e: Navajo Stirling knocks out Jiri Prochazka at UFC Fight Night in Qatar
-2026-11-22 09:00:19,141 INFO Writing news (EN) ...
-2026-11-22 09:00:19,790 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-22 09:01:00,651 INFO Adapting to zh, ru ...
-2026-11-22 09:01:40,850 INFO Looking up photos for 2026-11-22-news-1b71a7: ['Navajo Stirling', 'Jiří Procházka', 'Carlos Ulberg', 'City Kickboxing']
-2026-11-22 09:01:41,708 INFO Photo check JiriProchazka2022.png (Wikimedia Commons, 520x679): OK, licence 'CC BY 3.0'
-2026-11-22 09:01:41,708 INFO Photo for 'Jiří Procházka': JiriProchazka2022.png (Show Jana Krause, CC BY 3.0)
-2026-11-22 09:01:42,009 INFO Photo check Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg (Wikimedia Commons, 1001x1557): OK, licence 'Public domain'
-2026-11-22 09:01:42,009 INFO Photo for 'Carlos Ulberg': Motorcycle_stunts_on_the_South_Lawn_of_the_White_House_ahead_of_UFC_Freedom_250,_Saturday,_June_13,_2026_-_11(cropped).jpg (The White House, Public domain)
-2026-11-22 09:01:42,296 INFO Photo check City_Kickboxing.jpg (Wikimedia Commons, 288x288): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
-2026-11-22 09:01:42,297 WARNING No free-licence photo for 'City Kickboxing' (City_Kickboxing.jpg)
-2026-11-22 09:01:42,312 INFO Cover photo of 2026-11-22-news-1b71a7 changed: another story already uses that picture
-2026-11-22 09:01:49,462 INFO Photo check 2026-11-22-news-1b71a7 #1 'Carlos Ulberg': OK — file looks like a non-sport scene (White House)
-2026-11-22 09:01:56,393 INFO Photo check 2026-11-22-news-1b71a7 #2 'Jiří Procházka': OK
-2026-11-22 09:01:57,666 INFO Website built: 67 published stories, 246 pages
-2026-11-22 09:01:57,667 INFO Explainers written: 1 (1 kept for review)
-2026-11-22 09:01:57,668 INFO Gemini today (2026-11-22, Pacific): gemini-3.8-flash 13 ok / 0 failed (25,359 in / 24,626 out tokens) · estimated cost if billed: US$0.111
+2026-11-23 16:49:50,192 INFO Writing explainer 6323e268d6: Алькарас победил Зверева и впервые выиграл Итоговый турнир ATP
+2026-11-23 16:49:52,873 INFO Writing news (EN) ...
+2026-11-23 16:49:53,750 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-23 16:50:47,855 INFO Adapting to zh, ru ...
+2026-11-23 16:51:24,337 INFO Kept (result after our pre-event story): China's Wang Zhiyi retains badminton Hong Kong Open title
+2026-11-23 16:51:24,337 INFO Skipped (we already have this story): China's Wang Zhiyi retains badminton Hong Kong Open title
+2026-11-23 16:51:24,338 WARNING Talking point 06c40807a9 not written: we already have this story, or it is a pre-match piece: China's Wang Zhiyi retains badminton Hong Kong Open title
+2026-11-23 16:51:24,999 INFO Looking up photos for 2026-11-23-news-dbb56e: ['Carlos Alcaraz', 'Alexander Zverev', 'Inalpi Arena', 'ATP Finals', 'Jannik Sinner']
+2026-11-23 16:51:25,233 INFO Photo check 25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg (Wikimedia Commons, 1000x1391): OK, licence 'CC BY-SA 4.0'
+2026-11-23 16:51:25,233 INFO Photo for 'Carlos Alcaraz': 25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg (Barcex, CC BY-SA 4.0)
+2026-11-23 16:51:25,409 INFO Photo check Alexander_Zverev_in_Miami.jpg (Wikimedia Commons, 1200x1600): OK, licence 'CC BY-SA 4.0'
+2026-11-23 16:51:25,409 INFO Photo for 'Alexander Zverev': Alexander_Zverev_in_Miami.jpg (Rick Munroe, CC BY-SA 4.0)
+2026-11-23 16:51:25,579 INFO Photo check Piazzale_Grande_Torino,_Turin,_Italy.jpg (Wikimedia Commons, 5120x2448): OK, licence 'CC BY-SA 4.0'
+2026-11-23 16:51:25,579 INFO Photo for 'Inalpi Arena': Piazzale_Grande_Torino,_Turin,_Italy.jpg (SetteTreSette, CC BY-SA 4.0)
+2026-11-23 16:51:25,652 INFO Match card added to 2026-11-23-news-dbb56e
+2026-11-23 16:51:33,311 INFO Photo check 2026-11-23-news-dbb56e #1 'Carlos Alcaraz': OK
+2026-11-23 16:51:39,874 INFO Photo check 2026-11-23-news-dbb56e #2 'Alexander Zverev': OK
+2026-11-23 16:51:47,024 INFO Photo check 2026-11-23-news-dbb56e #3 'Inalpi Arena': OK
+2026-11-23 16:51:48,699 INFO Website built: 74 published stories, 267 pages
+2026-11-23 16:51:48,700 INFO Explainers written: 1 (1 kept for review)
+2026-11-23 16:51:48,702 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 22 ok / 0 failed (44,813 in / 50,449 out tokens) · estimated cost if billed: US$0.223
