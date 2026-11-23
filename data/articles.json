@@ -214,6 +214,31 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Official medal reallocation date (19 May 2022) by the IOC for the Tokyo 2020 men's 4x100m relay bronze, and physical ceremony date (4 October 2023 in Hangzhou)."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://worldathletics.org/news/news/su-bingtian-retirement"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://english.news.cn/20251226/8966bfcb3bb748a38db4dbef0dbe7d7c/c.html"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrfyP5wi4sMOjwl1bUoGCSD-VNk1ujPjVifXFWJMfcvTSKr0zE5nRhk7wz_DF8gYsbxSrnZjbng6bwkYZadbVzmtkOAHqKgdOhf4zYKLCqGHpzn9jTBFVDWIpp89-9M8Vi_WehpfaMdUBo3VTyF7iI5h9DzavEMlXPVmZYA75ajYvOK_Dw3xVuy0fZr9Z62nACDVnbHpOqZGLzXrNAD_1"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEToGwHaR1s5-4Emn9TZy520p3cBSAMF8rCyvaWMxhdl3lVZzlQyileTenFApMJgF2pF1tQQd36oWsVQOAbvoPFObTIYG_HaclV_-oznvO7hABSrRBoUq_LbwEMPiNVY3wm3oF6A8euKPjFxYtJ4yBbwelpmxtrGhr7RidpBNiENy24fjNpG9cw87jlRIeB"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8CWilu7EeUiRhRq-gdRXS4PCysqQAvshD1K3D3wxf0tsEOkVH0L9AUCsjDB6_3vMzV4odaA-yrvr6o4kG0I3CD6g39C-DfBSdUCeAeaJ-F0saekNj1RJ6Zog1B02ELd0upR4IcjE="
       }
     ]
   },
@@ -394,6 +419,36 @@
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.daily-sun.com/post/776510"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.thedailystar.net/sports/football/news/bangladesh-women-begin-dhaka-preparations-ahead-singapore-friendlies-3759161"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqmobGxOZJWdjaUhUH0Gw6HW45Ibe8Il6wZtUnF1PG0y5SXI5GmnNrkil7uHi7tJp_GkSxpZ7W_oM-hGgeaqxJpCpfmuFyGM9-Ph-OLWV7cCGCkEUvkHmOLI4zTXCK4-IMRMXSD-uz8oUOAHDdJqGD0gsxabNj-hHC9Y4v5ezPlMwD3ChD7Nok7kgawKhGjlOb"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNevPwLVWkUGdRR626BbC3YA_y6bFk1YxOtrDyOCNQUqb6yDUZE7at1c-LW__qyCVJQpIox6t2VlVFzvIfF-guBNqQtYW9PCHqmpVmFvUvVOpujfIjC5HZDx9kyHujMpTduIbNTKZI8HWDVOi-vyifAxJ609dqx2yGujDXPpnexrfHzsptbP78sWwrdtsOXJVgpRT8OsjH6l6kO9hfI72ZBwrgwJ0BNdhE"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYm-C7fmgKUBcvhrujlEKgjvfsiOAo7NoyEnFGn8MyW00rovxjNyL2gerzRT8bTGAPj1JsIim2ntNNtKQbZJKYCjbP9dcNqIAQa1HYzoIpJr84f_n0U_x-62w="
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVWeoY10YP1GzpOjHuXld-AUMz-KusbFFROJ1cgR-LjBfvXdbsh3VIh1suzEuvAIzI2x7R3m1sriEou4ihrElmiYpRINYcW911iu7xyR20fz-T9Tl91QW9ZLOm1WWTBX8Ewf839x4uS_i02qiLuf5zgGrAQKKmA5GWK61h8_wNLwU95zoNYigK_dXcpiuexK_39vecJfs="
       }
     ]
   },
@@ -610,6 +665,11 @@
         "level": "WARN",
         "area": "sources",
         "msg": "2 source(s) are homepages, not articles: https://www.leparisien.fr, https://www.aresfighting.com"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.leparisien.fr"
       }
     ]
   },
@@ -798,6 +858,11 @@
         "level": "WARN",
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: https://www.sherdog.com"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-83rNyPt2_dErgeWYZa1PkKdq4YJH72pxRPNvKX7G4yPeWgb6RonSHjJu1Czgdp-mJOVNJA3gaCCot57DCyAhdGRJOYry10uGSOfxssy7g36W9YQLqMycGtuH4-IDcDswkj-wbLyD3QjMse4E_ow4LU3mmOOocG4H-d7GZ74FGdQT9OHS8KzKs9cJ1e8YSiqOR_KMQ8M8g=="
       }
     ],
     "editor_notes": [
@@ -1006,7 +1071,18 @@
         "height": 675
       }
     ],
-    "standards": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.thestar.com.my/sport/badminton/2026/11/22/wei-chong-kai-wun-end-malaysias-27-year-wait-for-hong-kong-open-mens-doubles-title"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.malaymail.com/news/sports/2026/11/21/malaysias-man-wei-chong-tee-kai-wun-stun-world-no-6-indian-pair-to-reach-hong-kong-open-badminton-final/199342"
+      }
+    ],
     "published_at": "2026-11-22T16:36:28+07:00"
   },
   {
@@ -1249,7 +1325,33 @@
         }
       }
     ],
-    "standards": [],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.aljazeera.com/sports/2026/11/22/max-verstappen-wins-las-vegas-gp-formula-one-red-bull"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.formula1.com/en/latest/article/verstappen-wins-las-vegas-gp-2026.html"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4JzDYfju83Y9Jgs0pK6h3RrIJV9sqi_WhF3OBd0dJ-ZtiSAMCoTFum3CDb9WwDtnkgpbuuJp-B7Z4aFzNbh4JRCH89K4L2WTuATkaWPcjyMncNiV_rxwKUqM_mpoKt70xNtKDY6wvRUVSyFAI6MP7wbfBn8eAywrN-JiIbvDkCHv7lN7_pEtoFoQLvH57hH7U7S7PQUvUx48fw=="
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2LRmI_feUZKZZS06mL7fozyqBIh5vn7XVvT7VvFHYwkFVj7WiCk9KP77x6fdNcWm-euI9anHVj0DqPV11TvMQUXhMtscVifHmOiMByC-Uf-FinEyfstKZxbBBJbgiunAF4g-2SF3VZbvPKveDec9S7HhfBttQK3UlwDID5Ej0Hm3eBIdLY12AWA4="
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/autosport/formula1/news/formula-1-rezultat-gran-pri-las-vegasa-22-noyabrya-2026-2477529/"
+      }
+    ],
     "published_at": "2026-11-22T16:36:26+07:00"
   },
   {
@@ -1455,6 +1557,21 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.theguardian.com/sport/2013/nov/22/magnus-carlsen-vishy-anand-world-chess-champion"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-dethroned-magnus-carlsen-new-world-chess-champion/articleshow/26218765.cms"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlIJR35EYHDzfrWi6WF9mh4a2ITEjdZ3Y3MBFIINVKDv3Utmnh7DYdRUQkbBgwfY0mI1tQInPo95QYOAvByj8oqxVVkS0SHIiPazyhMuHA3VSVk3b8zQuY1WthHFnQS1TpVO40flV2iC4zNgu19yHgL4d_UJSnYwiwH6pQdMv5_agLcmuNiF6YOJvxesBVuZ6OSLiFoD0-VXhvOP81B7Mjb6JCmLYK7SD9dzA8ctc="
       }
     ],
     "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Magnus Carlsen\", \"commons\": \"File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg\"}, {\"caption\": \"Viswanathan Anand\", \"commons\": \"File:Viswanathan_Anand_(2016)_(cropped).jpeg\"}]}",
@@ -1944,6 +2061,16 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR4bcO1BHAvWrN-36asNpocMJU_wTILIQSf3acjXFTiJ8uEcR52lrz9lnEDtGscTbWYIeMGa2dADuvXyyuit3HKymWN2tnjF1mnAmsMq5otiC0Py4r6z5zHgce7O1laWr-"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsomSdyVrPtFY7mGyJVLLsTn6W1Coc5o64vEvB2WXbQg_kMisnCxGFiWoKRjKHUYB1Nptb7y-1einWp5LoRRPKHPWbfXGdT_sE5f0tTyp-ZSapFix61iSpd_9SclMjzk9cKbKFRbzhcwdeiVMLwmdof8CxQJ01NKbhmD-9EaLLdGhoZKH_s1EIamgGTukXPDDUcIAVlwcQaetPyxPv5uoEVZHxGM_fRg=="
       }
     ],
     "published_at": "2026-11-22T14:56:03+07:00"
@@ -2202,6 +2329,16 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.realmadrid.com/en-US/about-real-madrid/history/football-legends/cristiano-ronaldo-dos-santos-aveiro"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhMrpo1y4v7GgqbVFfDS9D-sax9IFmz3PPq_grcvRmgxXI6H09QUDw0UYqhaSTllmlInQ9XBM3mNp1eXV7AnYiyPcPHwBmuckBbNbLLuyJ_z-nwlu20-Z-8AG_MvcPed8G8mh0Zom7r5bFC0gXyuM08EGLUI="
       }
     ],
     "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"max\": 4, \"wikipedia_all\": \"Cristiano Ronaldo\"}, {\"caption\": \"Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional\", \"wikipedia\": \"Estádio José Alvalade\"}, {\"caption\": \"Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or\", \"wikipedia\": \"Old Trafford\"}]}",
@@ -2640,6 +2777,16 @@
         "level": "WARN",
         "area": "sources",
         "msg": "3 source(s) are homepages, not articles: https://mmasucka.com, https://www.mmafighting.com, https://www.ufc.com"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (429), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdClT3KehHgawohs5LCq4SbByb14klSwC7xtJZFT_QQzaaY8caBy6ClmM9dNqZPS2RyxI_UK89CzDvjWscFcpooh7pwYk963xLMUbtx-7_C7-tTkp3BR0hEUA1lj_Dvq6VxhftYRdCRbGCKAN7Rgxzsm39K41Ji6X3VRdpf7a54aE64OYEqlCIZEk="
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_hjAmOfeupSEM7fqLoeSUdezLEzVLfyCM0Aycs25CioI_SAs9wiB8h-gXpfUAKe7paTNwyedpTutL4DbPfvRmTDEqR_Gv1cgWRZy3t4kqaTb5ZgZ7E-O2l5mzGXcHJUKdYKQFvBM7PZpucRhiwFBQxqSu5EQ0J4sz1K07RTBJy3ggW2P1IhMMnTem5_l-1N3xyQ9AMs8I_mtnWRM_VzxRGfq8-6occAaymypk0FOrvRfu3gp0Q67ZmQm-ixwNeG9-FMlafI0="
       }
     ],
     "published_at": "2026-11-21T20:49:06+07:00"
@@ -2789,6 +2936,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.cnn.com/2020/10/24/sport/khabib-nurmagomedov-retires-ufc-254-spt-intl/index.html"
       }
     ],
     "published_at": "2026-11-21T12:24:26+07:00"
@@ -2974,6 +3126,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxHJjY4ye4pgLJ3rO6bFnNWSXR_tGOhzhmDUkRpTwzRkR9Ua6yrJbXEeT3wt0YkZVWh_eTyrPGx-jS3YL_xzRcsjgGiGeD-4UqlmUwG5U5pgenggrs56TeCC9YWSpTbh2sATUdaQl-2OfkpDrrVa67gZm7gc9GUi9xAk61LnxW-KeOufoWsbvugsZrLDpn"
       }
     ],
     "published_at": "2026-11-21T12:24:28+07:00",
@@ -3377,6 +3534,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.fotmob.com/matches/qatar-vs-ecuador/2lffg5"
       }
     ],
     "published_at": "2026-11-21T12:24:22+07:00"
@@ -3566,12 +3728,7 @@
       {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
+        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "INFO",
@@ -3582,6 +3739,26 @@
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://aseanutdfc.com/news/shopee-cup-group-b-pkr-svay-rieng-fc-4-1-port-fc"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://aseanutdfc.com/news/jdt-bounce-back-to-down-cong-an-ha-noi-and-stay-perfect-in-shopee-cup"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmADn3I-Nb7-MKUM0kiyzEXImi3AYs87NrntXpFSP4YXHE-YrXQrS38K6rW1YNwlkGQGjhs8dfja3po3tUFOfuTv5HD8bTtO9tu7wkv40lzgbKPaIau0p96rp-K_ZwYRefAR7w3VZpjFDmSg55wcB7QaYwm1rRAIUiwrvrEks-baqCAixZ8-lfhOawdyyXL8El9zUX6EJjOf0wgPHQ"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoblomQZUtBCMjoGKmKDvAEGDAFCIxSbjzgnFLuBZ0bIMBDTzcK1vrmOvStTJ3V6HjXHmb44UNU7aIPoFWxuDIzT5RLbpfysu8xONpub8UTJOmLraLzWViGHkBB9tkgbjTDw18Zh-_-R5v5EjtJFSGE9700itH4t2fWu7CjAtEztKS88FBUBS7_1wQMK0ltVtp14UxFG3L_jZNCSJO"
       }
     ],
     "published_at": "2026-11-21T12:24:23+07:00",
@@ -3833,6 +4010,21 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.sportbible.com/mma/ufc/jake-paul-khabib-nurmagomedov-offer-return-mma-823871-20261118"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://sportmail.ru/news/martial-arts/68832961/"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExDBe4JF-xpnBVBZs0HiAF8kpY40GOvFYCkXmaukCWNgr4I916OXGCK83YRBvo71t8TAi-tPdg8_R4WRKPtjK-5g-zeVWMg9jwAIEqT1KA8jIpg5nAgn4aVMTmXfyXOIZeyXFdJ0Est2FB8J2ZctEecQoSzVGSD3f7grXU3ixGdKzvyXiCht_qkgxSdDZt4lBUSvaPy00ZGJE8JoGIrt9yap0zoPhKwi8oLXCe7w=="
       }
     ],
     "published_at": "2026-11-21T12:24:25+07:00"
@@ -4145,7 +4337,13 @@
       "body_markdown": "## Что произошло\n\n«Спартак» и «Металлург» (Магнитогорск) 18 ноября 2026 года провели обмен с участием четырёх нападающих, сообщила Континентальная хоккейная лига.\n\n«Металлург» получил нападающего Михаила Мальцева и права на нападающего Ивана Морозова. «Спартак» получил нападающих Руслана Исхакова и Игоря Нечаева, права на защитника Всеволода Комарова, выступающего в Северной Америке, и денежную компенсацию. Клубы не раскрыли её размер. Sports.ru со ссылкой на «Спорт-Экспресс» называет сумму в 50 миллионов рублей.\n\n## Игроки\n\nУ Мальцева в этом сезоне 8 очков (5 шайб и 3 передачи) в 22 матчах КХЛ за «Спартак», по данным лиги. Морозов, выступавший за «Спартак» с 2023 года, в июле расторг контракт с клубом и в этом сезоне не играл, сообщил Sports.ru.\n\nВ обратном направлении: у Исхакова 17 очков (8 шайб и 9 передач) в 25 матчах за «Металлург», у Нечаева — 14 очков (6 шайб и 8 передач) в 24 матчах.\n\n## Что говорят в «Металлурге»\n\nСпортивный директор «Металлурга» Евгений Бирюков сказал, что клуб давно искал центрального нападающего и обмен строился исходя из позиций, сообщил Sports.ru. По его словам, Мальцев — центрфорвард, одинаково полезный в атаке и обороне, один из лучших на своей позиции, а Морозов — опытный и креативный атакующий игрок. Он отметил, что оба хоккеиста подписали с «Металлургом» двухлетние контракты.\n\n«Расставаться с игроками всегда сложно», — сказал Бирюков, добавив, что особенно жаль отпускать любимцев болельщиков, но реалии рынка не оставили выбора. «Рассчитываем, что оба форварда добавят команде агрессивности и глубины в центральной оси», — сказал он.\n\n## Что дальше\n\nРегулярный чемпионат КХЛ продолжается. Клубы не сообщили, когда новички проведут первые матчи за новые команды.",
       "social_post": "Крупный обмен в КХЛ: «Спартак» отдал Михаила Мальцева и права на Ивана Морозова в «Металлург» за Руслана Исхакова (17 очков в сезоне), Игоря Нечаева, права на Всеволода Комарова и компенсацию. #КХЛ #Спартак #Металлург"
     },
-    "standards": [],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/hockey/khl/news/spartak-obmenyal-malceva-i-prava-na-morozova-v-metallurg-na-ishakova-nechaeva-i-kompensaciyu-2476187/"
+      }
+    ],
     "published_at": "2026-11-18T17:33:51+07:00"
   },
   {
@@ -4451,6 +4649,11 @@
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.nippon.com/en/news/yjj2026072300876/"
       }
     ],
     "published_at": "2026-11-18T13:46:14+07:00"
@@ -4610,6 +4813,11 @@
         "level": "WARN",
         "area": "professional",
         "msg": "Only 249 words (minimum 250 for news). Thin content hurts AdSense approval"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.sport-express.ru/hockey/nhl/news/filadelfiya-baffalo-schet-4-3-rezultat-matcha-regulyarnogo-chempionata-nhl-18-noyabrya-2026-goda-2476058/"
       }
     ],
     "published_at": "2026-11-18T12:45:10+07:00"
@@ -5115,6 +5323,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Financial terms of the agreement"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (404): https://www.championat.com/boxing/news-5785086-aleksandr-volkov-podpisal-novyj-kontrakt-s-ufc.html"
       }
     ],
     "updated_at": "2026-11-17T22:38:10+07:00",
@@ -5484,6 +5697,21 @@
         "level": "INFO",
         "area": "sources",
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (URLError): https://m.phnompenhpost.com/sport/cpl-director-calls-for-fans-to-back-svay-rieng-as-security-drills-conducted-ahead-of-afc-final"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.khmertimeskh.com/501639005/akihiro-kato-stadium-becomes-a-new-fan-favourite-venue-in-the-cpl/"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://www.khmertimeskh.com/501380161/angkor-tiger-and-wonderpass-create-nations-1st-digital-stadium/"
       }
     ],
     "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"The National Olympic Stadium in Phnom Penh, where 20,005 watched Boeung Ket against Svay Rieng in December 2025\", \"commons\": \"Olympic_Stadium_Phnom_Penh_SG2023.png\"}, {\"caption\": \"Phnom Penh Crown Stadium (Smart RSN Stadium), home of Phnom Penh Crown\", \"wikipedia\": \"RSN Stadium\"}, {\"caption\": \"The RCAF Old Stadium in Phnom Penh, home of the Royal Cambodian Armed Forces club\", \"wikipedia\": \"RCAF Old Stadium\"}, {\"caption\": \"Where the 11 Cambodian Premier League clubs play in 2026-27\", \"credit\": \"Bang Sport Daily (map; map data Natural Earth, public domain)\", \"file\": \"cpl-clubs-map-2026.png\", \"license\": \"Own work\"}]}",
@@ -5631,6 +5859,11 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "Source blocks automatic checks (403), open it by hand: https://amp.scmp.com/sport/china/article/3091825/china-badminton-hero-lin-dan-calls-it-quits-after-20-years-and-two"
       }
     ],
     "updated_at": "2026-11-17T13:24:11+07:00",
@@ -6230,11 +6463,6 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'first woman to': confirm it in a source before publishing"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
     ],
     "published_at": "2026-11-16T22:52:27+07:00"
@@ -8016,11 +8244,6 @@
         "level": "INFO",
         "area": "sources",
         "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (429), open it by hand: https://ki-media.blogspot.com/2011/10/cambodias-muhammad-ali-fights-for.html"
       }
     ],
     "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Eh Phouthong\", \"commons\": \"EhPhouthong_pradalserey.jpg\"}, {\"caption\": \"Eh Phouthong (right) with his coach, Chhit Sarim\", \"commons\": \"Chhitsarimehphouthong.jpg\"}, {\"caption\": \"The National Olympic Stadium in Phnom Penh, where Eh Phouthong fought in 2008\", \"wikipedia\": \"National Olympic Stadium (Cambodia)\"}, {\"caption\": \"A Kun Khmer bout, the martial art in which Eh Phouthong was national champion\", \"wikipedia\": \"Kun Khmer\"}]}",
@@ -8288,11 +8511,6 @@
       "seo_title": "Япония — Бразилия 3:2: победный гол Сакамото в добавленное время"
     },
     "standards": [
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
-      },
       {
         "level": "WARN",
         "area": "sources",
@@ -9904,11 +10122,6 @@
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Source link does not open (TimeoutError): https://vnexpress.net/truc-tiep-viet-nam-vs-singapore-5144002-tong-thuat.html"
       }
     ],
     "published_at": "2026-11-13T14:40:34+07:00",
@@ -13688,6 +13901,11 @@
         "level": "INFO",
         "area": "sources",
         "msg": "Source blocks automatic checks (403), open it by hand: https://www.theborneopost.com/2021/09/13/china-gifts-new-150-million-national-stadium-to-cambodia/"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "Source link does not open (TimeoutError): https://www.nst.com.my/amp/sports/football/2021/05/689998/myanmar-hopes-hit-footballers-pull-out-over-coup"
       }
     ],
     "published_at": "2026-11-09T23:06:46+07:00",
