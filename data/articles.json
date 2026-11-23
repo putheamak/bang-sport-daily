@@ -5,7 +5,7 @@
     "date": "2026-11-23",
     "created": "2026-11-23T01:43:32+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Athletics (sprint)",
     "tags": [
@@ -99,7 +99,20 @@
         "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvH1A_GOr5k2h9RSvzd3bMxoHWt7b82FSYsdTFKwdklUBja173MiSwK4BYPZ_tHnPCWln_36kC4wTQ46JY6NSyq6isJoMofRSgYjOD2hHaUNxPO3YKmIv1c5f2Zv8L-QW40IspKbyhoJlYNO8yy2xoilUCZCg3tW-kq_ZlIwA="
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-23T16:37:38+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-23T16:37:38+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-23T16:37:39+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.007,
       "longest": 9,
@@ -214,33 +227,9 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Verify: Official medal reallocation date (19 May 2022) by the IOC for the Tokyo 2020 men's 4x100m relay bronze, and physical ceremony date (4 October 2023 in Hangzhou)."
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Source link does not open (404): https://worldathletics.org/news/news/su-bingtian-retirement"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Source link does not open (404): https://english.news.cn/20251226/8966bfcb3bb748a38db4dbef0dbe7d7c/c.html"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrfyP5wi4sMOjwl1bUoGCSD-VNk1ujPjVifXFWJMfcvTSKr0zE5nRhk7wz_DF8gYsbxSrnZjbng6bwkYZadbVzmtkOAHqKgdOhf4zYKLCqGHpzn9jTBFVDWIpp89-9M8Vi_WehpfaMdUBo3VTyF7iI5h9DzavEMlXPVmZYA75ajYvOK_Dw3xVuy0fZr9Z62nACDVnbHpOqZGLzXrNAD_1"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Source link does not open (TimeoutError): https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEToGwHaR1s5-4Emn9TZy520p3cBSAMF8rCyvaWMxhdl3lVZzlQyileTenFApMJgF2pF1tQQd36oWsVQOAbvoPFObTIYG_HaclV_-oznvO7hABSrRBoUq_LbwEMPiNVY3wm3oF6A8euKPjFxYtJ4yBbwelpmxtrGhr7RidpBNiENy24fjNpG9cw87jlRIeB"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8CWilu7EeUiRhRq-gdRXS4PCysqQAvshD1K3D3wxf0tsEOkVH0L9AUCsjDB6_3vMzV4odaA-yrvr6o4kG0I3CD6g39C-DfBSdUCeAeaJ-F0saekNj1RJ6Zog1B02ELd0upR4IcjE="
       }
-    ]
+    ],
+    "published_at": "2026-11-23T16:37:39+07:00"
   },
   {
     "id": "2026-11-23-news-bb407c",
@@ -248,7 +237,7 @@
     "date": "2026-11-23",
     "created": "2026-11-23T01:41:06+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -332,7 +321,20 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY09vU05fYU9JNVE2VFlmZHpEOTNHc0pyRnZMR0NfamJKdkE3bnQ4Ukh4TklWd290azh6cWNNNjBEd0RRbWtTLTB5NlBxbEM4d3BmcmZjZE90LWdoLXF6UWxhVk5JQlRfWmtFelp6RUYxeVVoSDBBTHJiSEZ3MnJhSXZ3WWVVN193ZkgzUjM5Smo0N0FiazFaVjhSX3JnZi0xNS1BYjBzb3FtOHJT?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-23T16:37:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-23T16:37:40+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-23T16:37:40+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -419,38 +421,9 @@
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://www.daily-sun.com/post/776510"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "Source link does not open (404): https://www.thedailystar.net/sports/football/news/bangladesh-women-begin-dhaka-preparations-ahead-singapore-friendlies-3759161"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqmobGxOZJWdjaUhUH0Gw6HW45Ibe8Il6wZtUnF1PG0y5SXI5GmnNrkil7uHi7tJp_GkSxpZ7W_oM-hGgeaqxJpCpfmuFyGM9-Ph-OLWV7cCGCkEUvkHmOLI4zTXCK4-IMRMXSD-uz8oUOAHDdJqGD0gsxabNj-hHC9Y4v5ezPlMwD3ChD7Nok7kgawKhGjlOb"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNevPwLVWkUGdRR626BbC3YA_y6bFk1YxOtrDyOCNQUqb6yDUZE7at1c-LW__qyCVJQpIox6t2VlVFzvIfF-guBNqQtYW9PCHqmpVmFvUvVOpujfIjC5HZDx9kyHujMpTduIbNTKZI8HWDVOi-vyifAxJ609dqx2yGujDXPpnexrfHzsptbP78sWwrdtsOXJVgpRT8OsjH6l6kO9hfI72ZBwrgwJ0BNdhE"
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYm-C7fmgKUBcvhrujlEKgjvfsiOAo7NoyEnFGn8MyW00rovxjNyL2gerzRT8bTGAPj1JsIim2ntNNtKQbZJKYCjbP9dcNqIAQa1HYzoIpJr84f_n0U_x-62w="
-      },
-      {
-        "level": "INFO",
-        "area": "sources",
-        "msg": "Source blocks automatic checks (403), open it by hand: https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVWeoY10YP1GzpOjHuXld-AUMz-KusbFFROJ1cgR-LjBfvXdbsh3VIh1suzEuvAIzI2x7R3m1sriEou4ihrElmiYpRINYcW911iu7xyR20fz-T9Tl91QW9ZLOm1WWTBX8Ewf839x4uS_i02qiLuf5zgGrAQKKmA5GWK61h8_wNLwU95zoNYigK_dXcpiuexK_39vecJfs="
       }
-    ]
+    ],
+    "published_at": "2026-11-23T16:37:40+07:00"
   },
   {
     "id": "2026-11-23-news-99b867",

@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
-`2026-11-23-news-bb407c` · 2026-11-23
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/JalanBesarStadium2022.jpg/1280px-JalanBesarStadium2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jalan Besar Stadium**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:JalanBesarStadium2022.jpg)<br>AI sees: _Jalan Besar Stadium during a football match_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG/1280px-Bishan_Stadium%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Bishan Stadium**<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG)<br>AI sees: _exterior of Bishan Stadium during the 2010 Youth Olympic Games_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Amir Aliev Detained by French Police in Paris Following ARES 45 Victory
 `2026-11-23-news-99b867` · 2026-11-23
 
@@ -44,20 +29,35 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · From Middle-School Backup to 9.83 Seconds: The Life and Science of Su Bingtian
+## ✅ live · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
+`2026-11-23-news-bb407c` · 2026-11-23
+
+<img src="../docs/photos/c/c2b57e6f06a90625-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jalan Besar Stadium**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:JalanBesarStadium2022.jpg)<br>AI sees: _Jalan Besar Stadium during a football match_
+<br clear="left">
+
+<img src="../docs/photos/c/07d2ccabc8282e14-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Bishan Stadium**<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bishan_Stadium,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816-02.JPG)<br>AI sees: _exterior of Bishan Stadium during the 2010 Youth Olympic Games_
+<br clear="left">
+
+---
+
+## ✅ live · From Middle-School Backup to 9.83 Seconds: The Life and Science of Su Bingtian
 `2026-11-23-athl-db5356` · 2026-11-23
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg/1280px-2013_World_Championships_in_Athletics_%28August%2C_10%29_by_Dmitry_Rozhkov_63.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/803327fb242fea46-640.jpg" width="240" align="left" hspace="10">
 
 **1. 🟢 OK** · cover<br>Caption: **Su Bingtian**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:2013_World_Championships_in_Athletics_(August,_10)_by_Dmitry_Rozhkov_63.jpg)<br>AI sees: _Chinese sprinter Su Bingtian walking with a backpack in athletic stadium_
 <br clear="left">
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Xie_Zhenye.jpg/1280px-Xie_Zhenye.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/327344913ab9a14d-640.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Xie Zhenye**<br>2017 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Xie_Zhenye.jpg)<br>AI sees: _Sprinter Xie Zhenye competing in a race in Madrid_
 <br clear="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Zhang_Peimeng_%28Moscow_2013%29_by_Dmitry_Rozhkov_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/7d1b40e49facb422-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Zhang Peimeng**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Zhang_Peimeng_(Moscow_2013)_by_Dmitry_Rozhkov_35.jpg)<br>AI sees: _Chinese sprinter Zhang Peimeng in team China gear_
 <br clear="left">
