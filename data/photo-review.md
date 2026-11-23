@@ -47,6 +47,12 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 **2. 🟢 OK**<br>Caption: **Morodok Techo National Stadium**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)<br>AI sees: _interior of Morodok Techo National Stadium in Cambodia_
 <br clear="left">
 
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl) — {'en': 'Official CPL 2026/27 table after Week 8', 'zh': '柬埔寨超级联赛2026/27赛季第8轮后官方积分榜', 'ru': 'Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура'}
+
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml) — {'en': 'Official Week 8 results, 21–22 November 2026', 'zh': '第8轮官方赛果（2026年11月21日至22日）', 'ru': 'Официальные результаты 8-го тура, 21–22 ноября 2026 года'}
+
+🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid01S7vWskCqLio1oj9h6EKXYfTxVVQ5GD3vsLBdfPQyLBTFYPZu8zS1YebuicRCSAEl) — {'en': 'Week 8 attendance: 9,789 fans, including 7,502 at Svay Rieng v Angkor Tiger', 'zh': '第8轮观众人数：共9,789人，其中柴桢对阵吴哥猛虎7,502人', 'ru': 'Посещаемость 8-го тура: 9 789 зрителей, из них 7 502 на матче «Свайриенг» — «Ангкор Тайгер»'}
+
 ---
 
 ## 📝 DRAFT · Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions
