@@ -60,11 +60,12 @@ def page_image_name(title: str, wiki: str = "en") -> tuple[str | None, str | Non
     return (pages[0].get("pageimage"), t) if pages and not pages[0].get("missing") else (None, None)
 
 
-def commons_info(filename: str, width: int = 1200, min_width: int = 400) -> dict | None:
+def commons_info(filename: str, width: int = 1200, min_width: int = 400, allow_logo: bool = False) -> dict | None:
     """Licence-checked info for a file. Non-free ('fair use') files are rejected.
     Old public-domain photos are sometimes kept on English Wikipedia instead of Commons: those are accepted
-    too, but only with a public-domain licence (never fair use)."""
-    if BAD_NAME.search(filename):
+    too, but only with a public-domain licence (never fair use).
+    allow_logo: the editor named this file in photos.yaml, so a logo or SVG is allowed, still licence-checked."""
+    if BAD_NAME.search(filename) and not allow_logo:
         return None
     params = {"action": "query", "titles": "File:" + filename, "prop": "imageinfo",
               "iiprop": "url|extmetadata|size", "iiurlwidth": width}
@@ -208,7 +209,7 @@ def resolve_entry(e: dict) -> dict | None:
     if e.get("commons"):
         name = e["commons"].split("File:")[-1].replace("_", " ").strip()
         name = urllib.parse.unquote(name.split("/")[-1]) if name.startswith("http") else name
-        info = commons_info(name.replace(" ", "_"), min_width=200)
+        info = commons_info(name.replace(" ", "_"), min_width=200, allow_logo=True)
         if not info:
             log.warning("Commons file %r not usable (missing or not a free licence)", e["commons"])
             return None
