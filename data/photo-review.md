@@ -4,31 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Amir Aliev Detained by French Police in Paris Following ARES 45 Victory
-`2026-11-23-news-99b867` · 2026-11-23
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Adidas Arena**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg)<br>AI sees: _exterior of the Adidas Arena in Paris_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/UFC_131_Carwin_vs._JDS.jpg/1280px-UFC_131_Carwin_vs._JDS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Mixed martial arts**<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:UFC_131_Carwin_vs._JDS.jpg)<br>AI sees: _MMA fighters facing off inside an Octagon cage during a fight_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Montreuil, Seine-Saint-Denis**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg)<br>AI sees: _Hôtel de Ville (town hall) of Montreuil, Seine-Saint-Denis_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-23-news-99b867.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **Amir Aliev def. Matheus Malta · Unanimous decision · Round 3 · 5:00 · ARES 45**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## ✅ live · Bangladesh and Singapore finalize preparations ahead of December women's friendlies
 `2026-11-23-news-bb407c` · 2026-11-23
 
