@@ -34,6 +34,21 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
+## 📝 DRAFT · Svay Rieng and Phnom Penh Crown chase a historic AFC Champions League Two double
+`2026-11-23-news-00ad68` · 2026-11-23
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/SVR11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Svay Rieng Stadium**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:SVR11.jpg)<br>AI sees: _Svay Rieng Stadium stand and pitch_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Morodok Techo National Stadium**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)<br>AI sees: _interior of Morodok Techo National Stadium in Cambodia_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Manny Pacquiao: The Street Fighter Who Conquered Eight Divisions
 `2026-11-23-athl-a5664c` · 2026-11-23
 

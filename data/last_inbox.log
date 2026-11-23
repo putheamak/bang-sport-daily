@@ -1,8 +1,17 @@
-2026-11-18 10:32:02,681 INFO Importing editor's article: 2026-11-18-spartak-metallurg-trade.md
-2026-11-18 10:32:02,973 INFO Photo check Мальцев_Михаил_(хоккеист).jpg (Wikimedia Commons, 1200x1600): OK, licence 'CC0'
-2026-11-18 10:32:03,155 INFO Photo check 2023_AHL_All-Star_Classic_Game_-_Ruslan_Iskhakov_(52673708091).jpg (Wikimedia Commons, 6000x4000): OK, licence 'CC BY 2.0'
-2026-11-18 10:32:03,422 INFO Photo check Views_of_Magnitogorsk-2021_-_72.jpeg (Wikimedia Commons, 3910x1478): OK, licence 'CC BY-SA 4.0'
-2026-11-18 10:32:03,651 INFO Exported 7 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-18
-2026-11-18 10:32:04,442 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-18 10:32:04,861 INFO Website built: 55 published stories, 210 pages
-2026-11-18 10:32:04,862 INFO Imported 1 editor's article(s): 2026-11-18-news-3dca37
+2026-11-23 10:09:05,442 INFO Importing editor's article: 2026-11-23-cambodia-acl-two-preview.md
+2026-11-23 10:09:05,442 INFO Adapting to zh, ru ...
+2026-11-23 10:09:06,174 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-23 10:10:07,299 INFO Looking up photos for 2026-11-23-news-00ad68: ['Morodok Techo National Stadium', 'Svay Rieng Stadium']
+2026-11-23 10:10:07,510 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
+2026-11-23 10:10:07,510 INFO Photo for 'Morodok Techo National Stadium': Morodok_Techno_Stadium_in_2021.png (中国新闻社, CC BY-SA 3.0)
+2026-11-23 10:10:07,723 INFO Photo check SVR11.jpg (Wikimedia Commons, 960x406): OK, licence 'CC BY-SA 4.0'
+2026-11-23 10:10:07,723 INFO Photo for 'Svay Rieng Stadium': SVR11.jpg (Ly Saroth, CC BY-SA 4.0)
+2026-11-23 10:10:07,755 INFO Cover photo of 2026-11-23-news-00ad68 changed: another story already uses that picture
+2026-11-23 10:10:14,646 INFO Photo check 2026-11-23-news-00ad68 #1 'Svay Rieng Stadium': OK
+2026-11-23 10:10:23,991 INFO Photo check 2026-11-23-news-00ad68 #2 'Morodok Techo National Stadium': OK
+2026-11-23 10:10:24,416 INFO Exported 7 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-23
+2026-11-23 10:10:25,888 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-23 10:10:27,083 INFO IndexNow: 6 page(s) submitted (HTTP 200)
+2026-11-23 10:10:28,212 INFO Website built: 72 published stories, 261 pages
+2026-11-23 10:10:28,213 INFO Imported 1 editor's article(s): 2026-11-23-news-00ad68
+2026-11-23 10:10:28,214 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 17 ok / 0 failed (35,564 in / 39,700 out tokens) · estimated cost if billed: US$0.176
