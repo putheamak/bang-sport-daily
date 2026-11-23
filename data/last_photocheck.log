@@ -1,4 +1,6 @@
-2026-11-23 10:25:13,576 INFO Photo check Cambodian_Premier_League_logo.svg: file not found
-2026-11-23 10:25:13,576 WARNING Commons file 'File:Cambodian_Premier_League_logo.svg' not usable (missing or not a free licence)
-2026-11-23 10:25:13,576 INFO Photos for 2026-11-23-news-00ad68 set from photos.yaml (0 photo(s))
-2026-11-23 10:25:14,886 INFO Website built: 72 published stories, 261 pages
+2026-11-23 10:39:45,274 INFO Photo check Cambodian_Premier_League_logo.png (English Wikipedia only, 1024x1024): OK, licence 'PD'
+2026-11-23 10:39:45,274 INFO Photos for 2026-11-23-news-00ad68 set from photos.yaml (1 photo(s))
+2026-11-23 10:39:45,282 INFO Photo check 2026-11-23-news-00ad68 #1 'Cambodian Premier League (CPL) logo': OK
+2026-11-23 10:39:46,000 INFO IndexNow: 6 page(s) submitted (HTTP 200)
+2026-11-23 10:39:46,160 INFO Photo copies: 1 new photo(s) saved on our own site
+2026-11-23 10:39:47,203 INFO Website built: 74 published stories, 267 pages

@@ -52,6 +52,11 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## ✅ live · Svay Rieng and Phnom Penh Crown chase a historic AFC Champions League Two double
 `2026-11-23-news-00ad68` · 2026-11-23
 
+<img src="../docs/photos/c/19d59ff5a515f50b-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Cambodian Premier League (CPL) logo**<br>2025 · PD · [source](https://en.wikipedia.org/wiki/File:Cambodian_Premier_League_logo.png)
+<br clear="left">
+
 🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02CPwVjauvNKcVzepP9hkio7gLfzFCAMPkUpkF19nbjX1vVqcSDjHTR1nSwJZDN6yQl) — {'en': 'Official CPL 2026/27 table after Week 8', 'zh': '柬埔寨超级联赛2026/27赛季第8轮后官方积分榜', 'ru': 'Официальная таблица чемпионата Камбоджи 2026/27 после 8-го тура'}
 
 🔗 Embedded post: [Cambodian Premier League (official Facebook)](https://www.facebook.com/theofficialcpl/posts/pfbid02Tyeustz4U58pGcdoYFtX5ZQB3BD4PSdyGP4aP1QSDsCqZdFGtH8WEKHT7DcaokCml) — {'en': 'Official Week 8 results, 21–22 November 2026', 'zh': '第8轮官方赛果（2026年11月21日至22日）', 'ru': 'Официальные результаты 8-го тура, 21–22 ноября 2026 года'}
