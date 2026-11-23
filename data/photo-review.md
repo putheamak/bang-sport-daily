@@ -4,31 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Carlos Alcaraz Defeats Alexander Zverev in Turin to Claim Maiden ATP Finals Title
-`2026-11-23-news-dbb56e` · 2026-11-23
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Carlos Alcaraz**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg)<br>AI sees: _Carlos Alcaraz in a black tuxedo on a red carpet_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black headband and shirt_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg/1280px-Piazzale_Grande_Torino%2C_Turin%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Inalpi Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Piazzale_Grande_Torino,_Turin,_Italy.jpg)<br>AI sees: _Inalpi Arena (formerly Pala Alpitour) and Piazzale Grande Torino in Turin_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-23-news-dbb56e.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **Carlos Alcaraz 2 - 0 Alexander Zverev · Nitto ATP Finals**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Russian MMA Fighter Amir Aliev Released After Paris Detention
 `2026-11-23-news-b02637` · 2026-11-23
 
@@ -55,6 +30,31 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Sergey Shishkarev in a suit_
+<br clear="left">
+
+---
+
+## ✅ live · Carlos Alcaraz Defeats Alexander Zverev in Turin to Claim Maiden ATP Finals Title
+`2026-11-23-news-dbb56e` · 2026-11-23
+
+<img src="../docs/photos/c/00782970522c3eba-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Carlos Alcaraz**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_(cropped).jpg)<br>AI sees: _Carlos Alcaraz in a black tuxedo on a red carpet_
+<br clear="left">
+
+<img src="../docs/photos/c/df69886f32165bfc-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black headband and shirt_
+<br clear="left">
+
+<img src="../docs/photos/c/e1a56de500ed5d35-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Inalpi Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Piazzale_Grande_Torino,_Turin,_Italy.jpg)<br>AI sees: _Inalpi Arena (formerly Pala Alpitour) and Piazzale Grande Torino in Turin_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-23-news-dbb56e.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Carlos Alcaraz 2 - 0 Alexander Zverev · Nitto ATP Finals**<br>2026 · Own work
 <br clear="left">
 
 ---

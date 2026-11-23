@@ -5,7 +5,7 @@
     "date": "2026-11-23",
     "created": "2026-11-23T23:51:24+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Tennis",
     "tags": [
@@ -101,7 +101,20 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUNXQTRVQXJFaXZtSDZTY2dPcnJDSTg3VjJHb1Bha3A0bUZNUGwwMzdTQTE5LUt4SVNJeWN4dE1pdEpXNnZPSTc2Z3NpTFhNNWk3RENDTU1PYW1IT1N2d0pwdlVxOFBSZkR2VEFrWmR4R1N0WmYwQUljUk9OUndycmVjSXBCSldPUExURTRQakNRNGE1ZkZpenhEQzFGckFmN3N5akhtaUQzYVdSTVU2OVJoVnhnSllFdWVueDU1dWk2Zw?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-23T23:57:13+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-23T23:57:13+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-23T23:57:14+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -222,7 +235,8 @@
         "area": "facts",
         "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-23T23:57:14+07:00"
   },
   {
     "id": "2026-11-23-news-00ad68",
