@@ -298,6 +298,19 @@ def public_board(cfg: dict, items: list[dict], prev: dict | None = None) -> tupl
                 loc.append(s)
         local[lang] = loc[:3]
     prev["spotlight_history"] = hist_all
+
+    def clean(lst):                    # no Google News links on the public page; outlets recounted without them
+        out = []
+        for s in lst:
+            refs = [r for r in s.get("refs", []) if "news.google.com/" not in r.get("link", "")]
+            n = len({r.get("source") for r in refs})
+            if refs and (n >= 2 or s.get("kun_khmer")):
+                out.append(dict(s, refs=refs, outlets=n))
+        return out
+    board = {k: clean(v) for k, v in board.items()}
+    local = {k: clean(v) for k, v in local.items()}
+    spot = {k: (dict(v, items=clean(v.get("items", []))) if v else v) for k, v in spot.items()}
+    spot = {k: (v if v and len(v.get("items", [])) >= 2 else {}) for k, v in spot.items()}
     return board, spot, local
 
 
