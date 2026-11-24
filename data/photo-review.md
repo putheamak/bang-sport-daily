@@ -1,6 +1,6 @@
 # Photo review — 2026-11-24
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -30,21 +30,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
 
 **3. 🟢 our score card**<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
-<br clear="left">
-
----
-
-## 📝 DRAFT · Massillon 13-6 Canton: The 1906 Clash That Sparked Pro Football's First Scandal
-`2026-11-24-hist-ea6294` · 2026-11-24
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Robert_Maxwell_1989_%283x4_cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🔴 WRONG** · cover<br>Caption: **Robert Maxwell**<br>1989 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Robert_Maxwell_1989_(3x4_cropped_2).jpg)<br>AI sees: _British media proprietor Robert Maxwell at an economic panel in 1989_<br>Why: The photo shows the late 20th-century businessman Robert Maxwell, not early 1900s American football player Robert 'Tiny' Maxwell.
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-24-hist-ea6294.png" width="240" align="left" hspace="10">
-
-**2. 🟢 our score card**<br>Caption: **Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League**<br>2026 · Own work
 <br clear="left">
 
 ---
