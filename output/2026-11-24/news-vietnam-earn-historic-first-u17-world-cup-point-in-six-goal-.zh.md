@@ -1,0 +1,50 @@
+# 六球对攻战逼平新西兰，越南斩获U17世界杯队史首个积分
+
+*补时第92分钟张阮维康头球绝平，首度亮相多哈赛场的越南青年军三度落后三度扳平。*
+
+**新闻** · 2026-11-24
+
+11月23日星期一，在卡塔尔多哈进行的FIFA U-17世界杯上，越南队在三度落后的绝境下顽强爆发，最终以3-3战平新西兰队，拿下了队史在U-17世界杯上的首个积分。
+
+替补登场的张阮维康（Truong Nguyen Duy Khang）在第92分钟头球破门完成绝平，为主帅克里斯蒂亚诺·罗兰（Cristiano Roland）的球队锁定了这场宝贵的平局。这是该队在这届扩军至48支球队的锦标赛G组打出的第二场较量。凭借这场平局，越南队在周四末轮对阵马里队前，依然保留着晋级32强的希望。
+
+## 多哈惊险战：三度落后三度追平
+
+新西兰队在第19分钟首开记录，马蒂亚斯·努涅斯（Matias Nunez）送出低平横传，杰克·克莱格（Jack Clegg）门前推射破门。下半场开场仅4分钟，越南队便抹平分差：第49分钟，中场球员朱玉阮力（Chu Ngoc Nguyen Luc）直接任意球兜出弧线，攻破了守门员约瑟夫·查拉比（Joseph Chalabi）十指关。
+
+第52分钟，新西兰“小全白军团”再度领先，约翰·沃尔德吉奥吉斯（John Woldegiorgis）接詹姆斯·温塞斯劳（James Wenceslao）的传中头球破门。仅仅6分钟后，越南队再度予以回应：朱玉阮力送出直塞，黎仲大人（Le Trong Dai Nhan）在第58分钟冷静低射入网。这粒进球最初被边裁判定越位在先，但经过足球视频支持系统（FVS）回看后被改判有效。
+
+第66分钟，新西兰队队长伊森·戴尔（Ethan Dyer）利用定位球混战将球挡入球门，再度改写比分。眼看败局将定，伤停补时第92分钟，杜阮维康在小禁区内抓住补射机会冲顶破门，把比分定格在荡气回肠的3-3。
+
+克莱格当选本场比赛的FIFA最佳球员；全场射门数方面，新西兰以13次领先越南的10次。大洋洲足联指出，新西兰队自2019年以来在U17世界杯中仍旧一胜难求。
+
+## G组积分榜与出线形势
+
+这场平局是越南男子足球在U17世界杯正赛历史上的第一个积分。此前在11月20日的首轮比赛中，他们以2-3惜败于欧洲亚军比利时队，当时黎士百（Le Sy Bach）和朱玉阮力分别建功。
+
+在周一较早进行的G组另一场较量中，马里队以2-1力克比利时队，积6分锁定小组头名并提前突围。比利时队积3分位居次席。越南队积1分、净胜球为-1（进5球失6球）排在第三，新西兰队同积1分因净胜球劣势（-3）位列第四。
+
+根据规则，12个小组的前两名以及8支成绩最好的小组第三将晋级32强淘汰赛。11月26日周四，越南队将迎来小组赛最后一场决战对阵马里队，而新西兰队则将迎战比利时队。
+
+---
+**来源**
+
+- [Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans - VietNamNet](https://vietnamnet.vn)
+- [FIFA U-17 World Cup - Uzbekistan back on track; historic point for Vietnam - The AFC](https://www.the-afc.com)
+- [ground.news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVcmUw2r1DOpOc5kvBsTvKz6_SrQuKvUPgwv__foaYpXRpFwtjpxNr3NOWos4TypqWXWg_4dvi6GxHssWR6WnyVjQ8iAuNUWcojPmB5rriow3Q-Tv85vL75REzFH5tvglkY7YoQ2zh4bP7cOFGx6XeTrBfphijqDxPn6I-1wKscb6iTLsVlLb7qi-VhunkMxrnLlR9hfXoe48_wujk2T143AQ0m3nSZRpAERshYH5pyIra6M3J6OySmQ2PoYORQJ2G_BbTOeLpUzonT_z9rck=)
+- [the-afc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzH7Ld9NGWcbzXtMVLVb-xjwXSDoS1YJhc3hRzXCxjnPDJcut482ttnXgUChDpZJ0SiybVoHYQHn-c3dXwg70lkYCv3ao3FqMB2aJnDC2pB7JUW2XLITUnfdbO5_nxWNQrF_qZewHqMaUtHI269LjRyQjiyEU4iuS7F9pQWwnOyRnHTIU9MuC7G0EkzRWnxXSomSeOs7LgGuC4aA0AHfhVD9RvzUmHjEn5RA==)
+- [baomoi.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_BPlIdZ77Wo3_DWhvk9konqNSYbfO6jZcV8PihxBENAutJdQg3b0-XpsTwBDTsoXysuulPXYZZPqSTAA2b4Ab08GIV1xn7iFi5C4AyB-EK7vQ0_BxRJZ9P8YCeZmVGvGRS7N94QRDjjX82rnxxEPy1MR4B1yHLwV_FpD7tkAIxyMEdnRfGAUZ7XHB6XzAoygbl2aQpXUW)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBk6hjRyJjM6g6yk0Vk1t8SlzFgwuDf_aFuV7_9aQoLL7OzJqj7PKK7AFoO_-OLWVPgtzhIkhcrILq99wQwGnmCIwm0OuvNmSBVOBSXfNZ9wSr8dLTrn_crl2fHRTaEc=)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE96fj9-1LuwWyISs_NXk5nVPby9S8tXnFHwAtzYaMhYzruy7LzwvCpksbl7oUfKT8GymIIf8w6DjU5XTDLbKLSbWKtYN4fxBaDSW2-NbOvPd5shWk1sd5hp9My7LNo2MgD445E-Xi9wtwxgA==)
+- [laodong.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2_iHvMuYRhHL2YXlSJmJOSLeaw462krOlRNig-BfXMK3IhSoTBfR5fyhRYfmxngfw_DHFfcFRy1bm8FWAQxo_fqR7aIO164pRjMQLGjf1yjKtX3Ox20IGO5iH27HaLvOayUuWe1eWeWKG_kDNiOaQzoiOG-uMpKbanGS3eII_g7w4mLsNJQDV4QapEWFy-mKXLID4e4QCMQEUnLTYg17S25K1)
+- [thethao247.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsiTR6h6O1-rOXdmO3zvqzOWoTmyviaVV12olSF7L_Na6n_E-PlJFLtw0ryLFTpSqryEge5WMakPchddhXUIuIJcV8n3vJkpvgPkdxeEyOMryWe_-F8jV_9BoWVbjBcRCa5qB307pQ2WbHw2h0dZLguHPzJY446nGkrOuggsh17N4kqlwIRGHnhmEBIFaPMAI3Y1EeHJf6ZIzEMrPQFA5tMI1XWGv14RNMraHr2R1g-MI=)
+- [tuoitre.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6b3IgOxUhu_S9EuwJdtGoR9topXPOYMBmsNRHxKp6jUWve8q3r7bcRP2wrbQtOOcqVg42fwXTLGr9DF1uccYTn8YhNvE9eBjU48DgMKiCQiEq5tiO7qSF2Q0rza4ZfCmZTLCDkfkVrRX7CpptiRFNcm_JOF1SuhImNCcqHfxgtn-u_Y_6_WIept2VoD-6OGeI8z9gNjcnYt0FaGBuFqU=)
+- [vov.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb7adEHmbqFbBZ0CGYyOLZDFtliZ0IoXbKOGaOfcn3YEm2vN-yq5JVc9r0JWaUAMKcHR91ftfBpDezT115qT9U9oDy5i-yEMW7TmDc3FZZy5NFEs4UTZXHtXHlkF4BdDAV_YJNonc-6eP9BXPhmG6VhMGty1zHTU7Z0jW5MSx3C52Z3fIJx6ShF7rr2vseeCqOJaY1rKK6GuFx0pY2)
+- [bongda.com.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsQDftxPSjI81krKPxL6bYoOxqEs0uNo7xiK8sDnV1qRiwZBX6br4Vtpzd6Z25JFZBLg_LVbI1tolM9m4_zgLMQ-cR8pcZlPi3eLXU2Ee0b-8FmsJgON-uEYIvTdkn5VcoekEA8a7OnSjvzOEF12MEWSA3mYVZjVqFzDhuIGKu9i7sCQcm7jILhViXaGkvZEkbw7KZ1gJ43Hk7sTC1DA==)
+- [vietnamnet.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3B-qGggiY1Y6orwJnv1b63Di9vlGsWIV4d5s0HM3AN6UjT8F6xLkkX3GxqOx0MHX8Yx9vRiY0oPElmB1Scu7RaQKKoVThaowBFug-XSwZPScVBQDhKbeOCJbW2GRoA0_AxNojxlojze1pOYYLN4CZ_MH03mWJtsKbs51Ka3kfEIHgIQltoY-cF6UnLr9VhauIEIOQI4eSG3tn7JE9sw0H4n0SCfhD)
+- [vietnamnet.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGINjpZjZdmaXeYc0L37daJ01d75S5xt6qiPksdmBuYb4j_pBTLGDP8Fcht_hOywTCmnsJB9svMejk0W4lnydml69SE8EiGihz69JJJoJAtxIWQu2I46uyH_d1PU5yQE68U9nBP2fNLI851sSK4YtRAZts67Q9tCV5D521W5QdnqrdBONiDlnMZphBjwblJnMOj2pnqm0lZDhI=)
+- [vov.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkV45s6qQrO9hmY92HA8_OjFiowS8HjiEMH5aaFJY3oWEOT2FzC248oxSskpvAbwf1WDdRcV_pLd-_23gBlRNzRjpa5NYNdMBK8-StuDGNI4Zmb7N3Qk0B7XRf6rlJ0D4k21SUgaNVMk88mL0R8Yh1s3pVjxZSzh2rTAyNdQIJ8aYwD1kWTQeBovsay-s-AU1VD3pbyJjIoznjhRvCpi44)
+- [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Vmy-dPoDNZIm4ELeb0xnECqMz12lwtXKXacvM6AhgOE3fPJ18MJk_pMNdNklAtLMPneLYyI_XR5jTYE53PkIkBoMlGo1DUmdnQxSwTHygwy8nj8tzgaKLmAbDvN3RI0=)
+- [vietnamnet.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSEd4g_x64FCY7Wy3po-Xql_fMtvDF17_w3CVgk5HSm-pDbq9g6Ip-HLwWZQycDFXHffX3xXsTYYlq7_qV5Z_IXgz47ORFxZiRfZkeiJw2QoZvKDo79fgUu6DWULDJCzplGPIXbH2RrQlvlc5rGsD5tI9EQQDrNG0BUIHVIc1wunl-Q==)
+- [Báo VietNamNet: Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans](https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1R4MHJKczd0OENNYkJNc1ppWS1wYllmajVIVU9xWF95dXAzMHFUVlc2YkJaa1lzRzdOclZJaXJuSC1CVnpxN0N6anphdEFkQ3VQSWo0QlROTVlLcWRneUJPeHFSTWxEQnc2S0d5ZGd6NmpHelJnNHYyUzkxTXNJaUR4RGpRbnBKT0ZHa1ZMcTh6S09nZ3NHejlWb1o0NVFUTkpfcWowbzhMNVdDZ3FEZTEwYw?oc=5)
+- [The AFC: FIFA U-17 World Cup - Uzbekistan back on track; historic point for Vietnam](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmt3dHNibk5Sc3RPUmN2VVhDaGtmcmpKRlNld19jSml6Uzh2dDFBcUlMaVJobWFZX3BjeHR2R285Tlh2RTZSTi1Fc3Z6WUUzQ3dWR2V0UmRRbVl4azN5cXlYWTI5LUpuQXlxXzR5SUhHaVFvTEtwLWNtQm9PRmRyQ3JFSnQxc1NhdjdyRUxXRjJlZkZVYjAxUk5BdWMtbV9qODZacWhBTUNIUTN2V0lqOXhTQ0JRMFdE?oc=5)

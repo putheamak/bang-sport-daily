@@ -1,5 +1,624 @@
 [
   {
+    "id": "2026-11-24-news-0390f5",
+    "slug": "kazakhstan-names-11-boxers-for-season-ending-world-boxing-cu",
+    "date": "2026-11-24",
+    "created": "2026-11-24T18:43:05+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "Boxing",
+      "World Boxing",
+      "Kazakhstan Boxing",
+      "Uzbekistan",
+      "Tashkent 2026"
+    ],
+    "athletes": [
+      "Karina Ibragimova",
+      "Oner Seilkhan",
+      "Valeriya Aksenova",
+      "Dina Islambekova",
+      "Javokhir Ummataliev"
+    ],
+    "image_subjects": [
+      "Karina Ibragimova",
+      "World Boxing",
+      "Tashkent"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Confirmation whether Oner Seilkhan or Dias Molzhigitov is finalized as the sole Kazakh 80kg representative at the official technical meeting on 27 November."
+    ],
+    "sources": [
+      {
+        "title": "Kazakhstan reveals squad for 2026 World Boxing Cup Finals in Tashkent - Qazinform",
+        "url": "https://www.inform.kz"
+      },
+      {
+        "title": "World Boxing Cup Finals explained - World Boxing",
+        "url": "https://worldboxing.org"
+      },
+      {
+        "title": "Сборная Казахстана объявила состав на финал Кубка мира World Boxing в Узбекистане - Kursiv.kz",
+        "url": "https://kursiv.kz"
+      },
+      {
+        "title": "Казахстан изменил состав сборной на финал Кубка мира по боксу в Узбекистане - Sportnews.kz",
+        "url": "https://sportnews.kz"
+      },
+      {
+        "title": "inform.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp2o5-w2tT4Rt2zc_N8DKhKDW-uQUaqoVuiosh9DiD8zFvSIP7m8TZTwT7RO7pMhLZV587H5d1mLt7ieyd0tvZ-qI8KCqtUCqSgSEw8irlZaJKHDD0AqXARPFt4k8WnGPwyDf7M8dT-4kxXW-EGNJkvcZw-FkTmzkrvBreXFflgOM-ephXtQljvCXA1Nt9bzn60EB7LcoHYu8g4u0xPGLD4CKIsW6HBkU="
+      },
+      {
+        "title": "sports.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGJVoiytfpUrSdVgBIwVKDYBNtdI1NrS42cbBKaVvg-xLihngN8PraPZG4pdKSOlZNjMkO423ZMk-JuH32Ey5QPg8TUiwM3IKDwJ2FUE52MZnmApqlVfxCioM1My7kbu7SR9s9w8EdaYbO4u8MafwvFzGuMaS1igU55juIEpkiobwyjxP_ARgfz6aXwRHAVybAdQ84mYPoPXAXYJs="
+      },
+      {
+        "title": "sportnews.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGykgS4FQrNNfQk7i0Avpl4LTBa2UIWzgWFF7OiPwOqtRxBMg-Cpl6iilfX_hbi_Nkn3T0koj9xvuoqjnZoK82lJtZ1ff_DhMnEskp-CIrzvYX8nnv1SfovCzKTTbRpKBfY5ZrquoJ1i59dcEO3vla9-GaQYoD67HlenY4L4NJIST_hZp-uMLHXJhGynW4b033cnNH7FN0F5fw5szcjJdkdgjU="
+      },
+      {
+        "title": "kursiv.media",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFabL0iUig8VwylfoHbvINWXR7gBhuq1vrYF80A_k8w3LBUYli5TtrbMiJLP_TjSBcWPIAVQ85DUv1DnF5v93fI4mv6UH3_pntSHl-UyJnsgxx5OnCqo6uiGBucq4NIzm4MpCWvIISAlUr308CxC8ktROHELyqf0RCdfSS3VxM-9581edd37bECbmFztQjVZZzBiDSKZkOsCy1bLT858FmdKT56j9hZZENmf69_IkZuPp4="
+      },
+      {
+        "title": "sportnews.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxvTYmlM1vx3gBEwKVcZ4T_moQ9jnovX8wcHwT2luruTjCgaEjGPkcT6epYFPm2oBoHUurk-UmC1_ZbE-RdoGt3ZL2HyaYoGiNBaWayDw_BThrmGQ9sshSLCJ1m2cvWgiMPIJOgoy2X_8uBI3Zh_KO4VJyLEk2u14tau8VzXwYyxQUS9NLlJAoAdKsoUWXNf8ti7HT0ASo_APfFjIGZiW0LC_jV0TMIjsle2r"
+      },
+      {
+        "title": "zamin.uz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETpRQfAkYDjZvBcwQaJ9ANkO4Dt5EkUX9l7xcky7ZTRrLXtQkfB5j_o87wMTCmHdXypM8SruPZnrW6cB1IYjeD6kf4OD8RtHHhWUMlE2q7RPP6IwM0Xa114Y7vK_k9r2Ptzpd-3FSWid-kpTPDc47AqFR4tIpr3iK50KJKLh1YOypvK__ggBydXirqKwGCf2w4kRxlpp5WSTiDmMxLkQ=="
+      },
+      {
+        "title": "meta-ratings.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPocBrYYuBMnXIgKHyAgVgDaDud8fmdNhgHgamnQeEuB5nEHgpWs5c2yfmnbPfT2uWzq64cgZs666JWaxSuw1gr0-g3oHffC6PnEQVKY2bXlS2WH9ccOHwZBKFQ99tGFYl5uBa2UMDHNz-Tt6SY-LdoXALXH9dq2Krx4YFyU7NkgJMrdOSMmeEvnydosLz38X6jd4m85CsH_V7fJuo1t-lRXwkrwdh9Q=="
+      },
+      {
+        "title": "tengrisport.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6nVNLyJmsRYSTT5UcXQ4ByqikIqc90rMPDJXb3pKdXDfYjSL0uiwfdJBBqzKO-UTWQ4w7XViTyrZYkUk6jVJp--wcO6PSdEq3_CfbwfZe4gfXEPpBLdVn1xTuBK_OY4WUNMk2o3O8sLkqkk20oQIchmLUrEMKigPC4yRzwFaJaY2UCBHkdKaRj89au2u66oohjjMtxnGcZw=="
+      },
+      {
+        "title": "Казинформ: Казахстан объявил состав сборной по боксу на финальный этап Кубка мира в Ташкенте",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc19HcTZNaDJsYXIwbDl0b3BQdEU5NEVjUF9LbWk5VzFzZURhZHZWcTBTdGVZMEtzTWNNOHN2Z2xYZTd5cl9vMy0xTmh0WGVEODAwQnE3Z0ozcFhlM1VrNXd1d2FFVVVIMlFLSVJsb0tkcG4tZlZnUWZ0djBld2NYY0VWZVBoTHZLemRXQXhxSXZPYnZqRUVQU1d1MjV2WDVSVUxTSjhQZkJISklPeVp6MFlQRmzSAbYBQVVfeXFMUHJqNGZkMVByXzBpMHNKX2N1Y05CcUIyeFR0bmgzLTNGeFhYRjExby1OTEZIY05ZSnAxV0ZtYVBhZ3h3clZYYnpxOE1KOVZldjNlck1WVlVzUThEV0E2bXRuZHB3OVpUdHpnV3pIX0lvOGtCR3M0TzJtcFMwanU2VWpzUVRRM2JlVGFPcEdiRlNZU3M0XzNUWW5ZTzd0YVdrVUFNLThrdFZMbkhUbUo5cHM2UG0tMXc?oc=5"
+      },
+      {
+        "title": "TengriSport: Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHI0UjhEZjRkbkZ4Ti1ZaThueWprZXVINzRPdzFVS3FfbFVXdm9tQklnVEk2VWxJUGs0Z2lQRWh2MDZNYnN4emVTdUQwckkwVnk4SjBFTThidDdicEh3eV9VMHdrYXlfclh4eUp0OHVrYVlIbjc1V2VqX2h1bTRYMlJTcjNqeVM3X0stSi0xTHI1RWlxUzJqbk1qTjVOVFnSAaQBQVVfeXFMT2FCXzZpUkZnM2hHSUxveFZqb3RDRlVoSE1PZGluVXh1MGdlck1aRHpBREpaLUYzV2dYTmpteHIzOVZJdEFRYW9mbHdBRUhJVE9IUi1tajhqOEVlUEpIbTZTVzN3SHZmaXhiYUFUQVZTZ0lvQ0NWU3Zod1pkZFVoMDVwZUxqSjdVZmp6c0hnWlpwajdEQ3RpazZjWHd3ZTY5TVdiMnc?oc=5"
+      },
+      {
+        "title": "Sportarena.kz: Сборная Казахстана по боксу объявила звёздный состав на Кубок мира в Узбекистане",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmc0VHZMR0NFcTRKSl85RGlVRlJnVEtrbk5xcm5heXVtbzZnMzBTLVJ5aGE4c3BJZUl6VFRWaEgwYWxPTkVlaEcyTXd4MXo1dVpXMG9NM3dIVm94V3pOZEpodVgtMEpTc1NXSlk0eG9OUV9TWS1scmJ1QnY2TkhSOVJDUkN5VUFSSGVRamNLNWVLZ19DYms2LUZoZE1aT014UWFBVXlDVXBCRGtaZFB5RDVEMUVRbFJ3bGZhRmh4SmTSAcYBQVVfeXFMUDRYN1FWb3cwLWRfSlZ3NkNFc041OU5Kb2dFR3VLVk16NXZwQ2h2MXNRSDlYMzJ3alhISE1oQi1xRW1SWDV3dEt4Y2t3R3lsdy0yUkZSSml4Y0lvMnNsaURUVVRPTUkzMEZqTWtScFBWWjBscldiN2R5anR3U1R6OGpTdDZDM1B4NklQMUc3UTlONEY0cnM2V0JxT3ZGUVo2R2FCOGh5WnROUS1DZ3NsLUpjSktjZ1N1bHhnSVMtWktNeWh0eVN3?oc=5"
+      },
+      {
+        "title": "Offside.kz: Казахстан определился с составом на финал Кубка мира по боксу в Ташкенте",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3ZzVVNvcjJjdkxITXlZVjgyRzA4VDlkclp1NXpTUHVPYzl0bEZCN3lPUGk3OGYzNDk4Nl9ENVQwY2xfOHRxMmZYRXBsM3J6U1BWOThFWVZPZ0pEbGFKRGFFUnc1dkROeklnRWV2UXJtWDJqdFIxcWh3QVl4bWl2NFluelhBUjlPUmtmWlJSc0FNTkhERFVDQTNDM1BoMGRoWS1OZWkwcw?oc=5"
+      },
+      {
+        "title": "Ұлттық олимпиадалық комитет: Этап Кубка мира по боксу в Ташкенте: состав команды Казахстана",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFFNkhfYTk1RmZuR1ZMcVEwVTlteWNiM1FiTFdhMFQtU3V4ZTVad2RRUGtIMGlzN3FrWHZoZG50aGNqaXdOSFd2WGZfNnlGc0xyYWktZTJHXzJmNmotT3FrQkVFZEwyTlJ6akdUVjBvc2hjUW5YY2ZiS2gtRWpfVXJXM1U4Zll0TkRhZ2ZMQzVqUXFOM0w5ckVOVlNaLURB?oc=5"
+      },
+      {
+        "title": "Vesti.kz: Казахстан объявил состав на финальный этап Кубка мира по боксу в Узбекистане",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmtHVFo0c0FfMjcxYlR1Y1dsYWRPekNVSXN3T2Q2MG5tclhERXpINmhmVVFpdDJHRTNzNHVyUHNWOExnQnIxTkp1aGMtQk5PVEF5S1ExSWVlblg5QS1PeHJYMGR2eUNEaUFGX2JnUWMzWHNKNlRrYlJIbzBMTzBHTEZiUW83NklOY3lCamlGTlZGU1ZU0gGaAUFVX3lxTE5pWUttOWpCeFNpQnNrWWJxV3dEbEM2aWxkTlRqR0pNWVRIT05YS1g2dVVMb1gwNUxWQmpiV0NGOWJXYzYtVTRXQ0xtSGNjVDlISnZIOEpRRFZEYzZDVTR6NlBTLUNKNXV5ckoxdkFaaThfV2hsWXBRRlZIbThaSERvNHQ4ZzJBMDJ5VVpocGhVV1FQWDVDNmNrVHc?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Kazakhstan Names 11 Boxers for Season-Ending World Boxing Cup Finals in Tashkent",
+      "seo_title": "Kazakhstan boxing team: 11 selected for Tashkent finals",
+      "subheadline": "Karina Ibragimova leads a squad of six men and five women heading to Uzbekistan for the 31-nation tournament.",
+      "body_markdown": "Kazakhstan's Boxing Federation and National Olympic Committee announced on Tuesday, 24 November 2026, an 11-boxer roster for the season-ending World Boxing Cup Finals in Tashkent, Uzbekistan.\n\nThe six-day competition runs from 28 November to 3 December at the Martial Arts Arena in Tashkent's Olympic Village. A total of 142 boxers from 31 nations will contest 20 weight categories—ten for men and ten for women—with brackets capped at eight competitors per division following qualification stages earlier this year in Brazil and China.\n\n## Youth champions and veteran leadership\n\nThree-time World Championship medallist and Paris 2024 Olympian Karina Ibragimova headlines the Kazakh women's selection at 57kg. She is joined in the women's draw by Bakhyt Seidish (70kg), Shugyla Nalibay (75kg), Valeriya Aksenova (80kg), and Dina Islambekova (+80kg). Both Aksenova and Islambekova secured their berths after claiming bronze medals at the Guiyang stage in June.\n\nThe men's lineup includes Daniyal Sabit (50kg), Farukh Toktasynov (70kg), Aman Konysbekov (75kg), Sultanbek Aibaruly (85kg), and Daulet Tolemisov (90kg). In the 80kg category, 2024 world youth champion Oner Seilkhan was drafted into the squad after defeating fellow squad hopeful Dias Molzhigitov by a 3-2 split decision at the national championships in Taraz earlier this month.\n\n## Central Asian rivalry moves to Tashkent\n\nThe Tashkent tournament renews the long-standing ring rivalry between Kazakhstan and host nation Uzbekistan, who entered an 18-boxer delegation that features men's 80kg world champion Javokhir Ummataliev and heavyweight Jahongir Zokirov. \n\nKazakhstan enjoyed strong momentum across the 2026 World Boxing Cup circuit. At the opening leg in Foz do Iguaçu, Brazil, in April, Kazakh fighters claimed three gold, one silver, and three bronze medals. Two months later in Guiyang, China, the team took five golds and three bronzes, finishing second in the medal table behind hosts China while eclipsing Uzbekistan's four gold medals.\n\nThe official tournament draw takes place on 27 November. Quarter-final bouts begin the following afternoon, leading to all 20 gold-medal finals on 3 December, with tournament ranking points directly affecting seeding for the 2027 and 2028 Olympic qualification cycle.",
+      "social_post": "Kazakhstan has named its 11-fighter boxing roster for the 2026 World Boxing Cup Finals in Tashkent, taking place 28 November to 3 December. Headlined by Karina Ibragimova and youth world champion Oner Seilkhan, the Kazakh squad will face rivals Uzbekistan and elite boxers from 31 nations across 20 weight divisions. Can Kazakhstan top the medal standings in Tashkent? Share your predictions below."
+    },
+    "zh": {
+      "headline": "哈萨克斯坦拳击队公布世界杯总决赛名单：11人出征塔什干收官战",
+      "seo_title": "哈萨克斯坦拳击队公布世界杯总决赛11人名单",
+      "subheadline": "卡琳娜·伊布拉吉莫娃领衔六男五女阵容出征乌兹别克斯坦，迎战31国拳坛劲旅。",
+      "body_markdown": "哈萨克斯坦拳击联合会与国家奥委会于2026年11月24日（周二）正式公布了出征乌兹别克斯坦塔什干、参加本赛季拳击世界杯总决赛（World Boxing Cup Finals）的11人参赛名单。\n\n本次为期六天的年终收官大战将于11月28日至12月3日在塔什干奥林匹克城的武道馆（Martial Arts Arena）打响。在经历今年早些时候巴西站与中国站的资格赛角逐后，共有来自31个国家和地区的142名拳手跻身总决赛，争夺20个级别（男子10个、女子10个）的至高荣誉，每个级别参赛选手上限为8人。\n\n## 青年冠军入选 老将稳坐中军\n\n女子方面，三届世锦赛奖牌得主、巴黎奥运会参赛选手卡琳娜·伊布拉吉莫娃（Karina Ibragimova）领衔出战57公斤级。与她同行的女队成员还包括巴希特·塞迪什（Bakhyt Seidish，70公斤级）、舒吉拉·纳利拜（Shugyla Nalibay，75公斤级）、瓦莱里娅·阿克谢诺娃（Valeriya Aksenova，80公斤级）以及迪娜·伊斯兰别科娃（Dina Islambekova，80公斤以上级）。其中，阿克谢诺娃与伊斯兰别科娃均是在今年6月的贵阳站收获铜牌后锁定总决赛入场券的。\n\n男子组名单涵盖了达尼亚尔·萨比特（Daniyal Sabit，50公斤级）、法鲁赫·托克塔西诺夫（Farukh Toktasynov，70公斤级）、阿曼·科尼斯别科夫（Aman Konysbekov，75公斤级）、苏尔坦别克·艾巴鲁利（Sultanbek Aibaruly，85公斤级）以及达乌列特·托列米索夫（Daulet Tolemisov，90公斤级）。在80公斤级名额的争夺中，2024年世青赛冠军奥内尔·赛尔汗（Oner Seilkhan）脱颖而出——本月早些时候在塔拉兹举行的全国锦标赛上，他以3-2的分歧判定险胜强劲对手迪亚斯·莫尔日吉托夫（Dias Molzhigitov），顺利拿下了宝贵的参赛资格。\n\n## 中亚双雄争霸转战塔什干擂台\n\n本届塔什干总决赛也让中亚两大拳击强国——哈萨克斯坦与东道主乌兹别克斯坦的宿敌对决再度升温。乌兹别克斯坦此次派出了由18名拳手组成的庞大代表团，其中包括男子80公斤级世界冠军贾沃希尔·乌马塔利耶夫（Javokhir Ummataliev）以及重量级新星贾洪吉尔·佐基罗夫（Jahongir Zokirov）。\n\n回看2026年拳击世界杯各分站赛，哈萨克斯坦状态火热。在4月份的巴西伊瓜苏揭幕战中，哈萨克斯坦健儿斩获3金1银3铜；两个月后的中国贵阳站，队伍更是豪取5金3铜，在金牌数上不仅超越了老对手乌兹别克斯坦的4金，更在奖牌榜上仅次于东道主中国位列次席。\n\n大赛官方抽签仪式定于11月27日举行。四分之一决赛将于次日下午全面开打，所有20个级别的金牌争夺战则将在12月3日集中上演。本次赛事的积分将直接关联2027年及2028年奥运资格周期的种子排位。",
+      "social_post": "哈萨克斯坦拳击队正式公布出征2026拳击世界杯塔什干总决赛的11人名单！名将伊布拉吉莫娃与世青赛冠军赛尔汗领衔，比赛将于11月28日至12月3日打响。直面宿敌东道主乌兹别克斯坦，哈萨克斯坦能否再度问鼎奖牌榜？欢迎在评论区留下你的比分预测！#拳击 #哈萨克斯坦拳击 #拳击世界杯"
+    },
+    "ru": {
+      "headline": "Казахстан назвал состав из 11 боксеров на финал Кубка мира в Ташкенте",
+      "seo_title": "Кубок мира по боксу: состав сборной Казахстана на финал в Ташкенте",
+      "subheadline": "Карина Ибрагимова возглавит команду из шести мужчин и пяти женщин на престижном турнире в Узбекистане.",
+      "body_markdown": "Казахстанская федерация бокса и Национальный олимпийский комитет объявили во вторник, 24 ноября 2026 года, заявку национальной сборной из 11 спортсменов на финальный этап Кубка мира в Ташкенте (Узбекистан), подводящий черту под международным сезоном.\n\nШестидневный турнир пройдет с 28 ноября по 3 декабря на «Арене боевых искусств» в Олимпийском городке Ташкента. В ринг выйдут 142 боксера из 31 страны. Они оспорят награды в 20 весовых категориях — по десять у мужчин и женщин. Турнирная сетка в каждом дивизионе ограничена восемью участниками, пробившимися через сито квалификационных этапов, которые прошли ранее в этом году в Бразилии и Китае.\n\n## Опыт лидеров и амбиции молодежи\n\nГлавной звездой женской сборной Казахстана станет трехкратный призер чемпионатов мира и участница Олимпийских игр 2024 года в Париже Карина Ибрагимова, заявленная в категории до 57 кг. Вместе с ней в женской сетке выступят Бакыт Сейдиш (Bakhyt Seidish, до 70 кг), Шугыла Налибай (Shugyla Nalibay, до 75 кг), Валерия Аксенова (Valeriya Aksenova, до 80 кг) и Дина Исламбекова (Dina Islambekova, свыше 80 кг). И Аксенова, и Исламбекова забронировали путевки в финал благодаря бронзовым медалям июньского этапа в китайском Гуйяне.\n\nВ мужскую команду вошли Даниял Сабит (Daniyal Sabit, до 50 кг), Фарух Токтасынов (Farukh Toktasynov, до 70 кг), Аман Конысбеков (Aman Konysbekov, до 75 кг), Султанбек Айбарулы (Sultanbek Aibaruly, до 85 кг) и Даулет Толемисов (Daulet Tolemisov, до 90 кг). В весе до 80 кг место в сборной завоевал чемпион мира среди молодежи 2024 года Онер Сеилхан (Oner Seilkhan). Путевку на турнир он вырвал в упорнейшем бою на недавнем чемпионате страны в Таразе, одолев прямого конкурента Диаса Молжигитова (Dias Molzhigitov) раздельным решением судей — 3:2.\n\n## Центральноазиатское дерби перемещается в Ташкент\n\nПредстоящий турнир в Ташкенте ознаменует новый виток принципиального противостояния Казахстана и хозяев соревнований из Узбекистана. Узбекская сборная заявила внушительный состав из 18 боксеров, куда вошли чемпион мира в категории до 80 кг Жавохир Умматалиев (Javokhir Ummataliev) и супертяжеловес Жахонгир Зокиров (Jahongir Zokirov).\n\nНа протяжении серии Кубка мира 2026 года казахстанцы демонстрировали отличный ход. На стартовом апрельском этапе в бразильском Фос-ду-Игуасу наши бойцы завоевали три золотые, одну серебряную и три бронзовые медали. Спустя два месяца в Гуйяне сборная взяла пять золотых и три бронзовые награды, расположившись на второй строчке медального зачета вслед за Китаем и опередив Узбекистан, у которого в активе было четыре золота.\n\nОфициальная жеребьевка турнира в Ташкенте состоится 27 ноября. Четвертьфинальные поединки стартуют во второй половине следующего дня, а решающие финальные бои во всех 20 весовых категориях пройдут 3 декабря. Рейтинговые очки по итогам финала напрямую повлияют на посев спортсменов в олимпийском квалификационном цикле 2027 и 2028 годов.",
+      "social_post": "Сборная Казахстана по боксу назвала состав из 11 спортсменов на финал Кубка мира 2026 года в Ташкенте (28 ноября — 3 декабря)! Во главе с Кариной Ибрагимовой и чемпионом мира среди молодежи Онером Сеилханом наша команда бросит вызов сборной Узбекистана и сильнейшим бойцам из 31 страны. Сумеет ли Казахстан занять первое место в общекомандном зачете? Делитесь прогнозами в комментариях! #Бокс #Казахстан #КубокМираПоБоксу"
+    },
+    "region": "global",
+    "images": [],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirmation whether Oner Seilkhan or Dias Molzhigitov is finalized as the sole Kazakh 80kg representative at the official technical meeting on 27 November."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "4 source(s) are homepages, not articles: https://www.inform.kz, https://worldboxing.org, https://kursiv.kz"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-24-news-c9ef21",
+    "slug": "vietnam-earn-historic-first-u17-world-cup-point-in-six-goal-",
+    "date": "2026-11-24",
+    "created": "2026-11-24T18:42:00+07:00",
+    "type": "news",
+    "status": "rejected",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "FIFA U-17 World Cup",
+      "Vietnam U-17",
+      "New Zealand U-17",
+      "Cristiano Roland",
+      "Chu Ngoc Nguyen Luc",
+      "AFC"
+    ],
+    "athletes": [
+      "Chu Ngoc Nguyen Luc",
+      "Truong Nguyen Duy Khang",
+      "Le Trong Dai Nhan",
+      "Jack Clegg",
+      "Ethan Dyer",
+      "John Woldegiorgis"
+    ],
+    "image_subjects": [
+      "Cristiano Roland",
+      "Vietnam national under-17 football team",
+      "New Zealand national under-17 football team",
+      "2026 FIFA U-17 World Cup"
+    ],
+    "match": {
+      "competition": "FIFA U-17 World Cup 2026",
+      "date": "23 November 2026",
+      "home": "Vietnam U17",
+      "away": "New Zealand U17",
+      "home_score": 3,
+      "away_score": 3,
+      "home_scorers": [
+        "Chu Ngoc Nguyen Luc 49'",
+        "Dai Nhan 58'",
+        "Duy Khang 90+2'"
+      ],
+      "away_scorers": [
+        "Clegg 19'",
+        "Woldegiorgis 52'",
+        "Dyer 66'"
+      ],
+      "note": "Vietnam earn their first ever U17 World Cup point"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans - VietNamNet",
+        "url": "https://vietnamnet.vn"
+      },
+      {
+        "title": "FIFA U-17 World Cup - Uzbekistan back on track; historic point for Vietnam - The AFC",
+        "url": "https://www.the-afc.com"
+      },
+      {
+        "title": "ground.news",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVcmUw2r1DOpOc5kvBsTvKz6_SrQuKvUPgwv__foaYpXRpFwtjpxNr3NOWos4TypqWXWg_4dvi6GxHssWR6WnyVjQ8iAuNUWcojPmB5rriow3Q-Tv85vL75REzFH5tvglkY7YoQ2zh4bP7cOFGx6XeTrBfphijqDxPn6I-1wKscb6iTLsVlLb7qi-VhunkMxrnLlR9hfXoe48_wujk2T143AQ0m3nSZRpAERshYH5pyIra6M3J6OySmQ2PoYORQJ2G_BbTOeLpUzonT_z9rck="
+      },
+      {
+        "title": "the-afc.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzH7Ld9NGWcbzXtMVLVb-xjwXSDoS1YJhc3hRzXCxjnPDJcut482ttnXgUChDpZJ0SiybVoHYQHn-c3dXwg70lkYCv3ao3FqMB2aJnDC2pB7JUW2XLITUnfdbO5_nxWNQrF_qZewHqMaUtHI269LjRyQjiyEU4iuS7F9pQWwnOyRnHTIU9MuC7G0EkzRWnxXSomSeOs7LgGuC4aA0AHfhVD9RvzUmHjEn5RA=="
+      },
+      {
+        "title": "baomoi.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_BPlIdZ77Wo3_DWhvk9konqNSYbfO6jZcV8PihxBENAutJdQg3b0-XpsTwBDTsoXysuulPXYZZPqSTAA2b4Ab08GIV1xn7iFi5C4AyB-EK7vQ0_BxRJZ9P8YCeZmVGvGRS7N94QRDjjX82rnxxEPy1MR4B1yHLwV_FpD7tkAIxyMEdnRfGAUZ7XHB6XzAoygbl2aQpXUW"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBk6hjRyJjM6g6yk0Vk1t8SlzFgwuDf_aFuV7_9aQoLL7OzJqj7PKK7AFoO_-OLWVPgtzhIkhcrILq99wQwGnmCIwm0OuvNmSBVOBSXfNZ9wSr8dLTrn_crl2fHRTaEc="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE96fj9-1LuwWyISs_NXk5nVPby9S8tXnFHwAtzYaMhYzruy7LzwvCpksbl7oUfKT8GymIIf8w6DjU5XTDLbKLSbWKtYN4fxBaDSW2-NbOvPd5shWk1sd5hp9My7LNo2MgD445E-Xi9wtwxgA=="
+      },
+      {
+        "title": "laodong.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2_iHvMuYRhHL2YXlSJmJOSLeaw462krOlRNig-BfXMK3IhSoTBfR5fyhRYfmxngfw_DHFfcFRy1bm8FWAQxo_fqR7aIO164pRjMQLGjf1yjKtX3Ox20IGO5iH27HaLvOayUuWe1eWeWKG_kDNiOaQzoiOG-uMpKbanGS3eII_g7w4mLsNJQDV4QapEWFy-mKXLID4e4QCMQEUnLTYg17S25K1"
+      },
+      {
+        "title": "thethao247.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsiTR6h6O1-rOXdmO3zvqzOWoTmyviaVV12olSF7L_Na6n_E-PlJFLtw0ryLFTpSqryEge5WMakPchddhXUIuIJcV8n3vJkpvgPkdxeEyOMryWe_-F8jV_9BoWVbjBcRCa5qB307pQ2WbHw2h0dZLguHPzJY446nGkrOuggsh17N4kqlwIRGHnhmEBIFaPMAI3Y1EeHJf6ZIzEMrPQFA5tMI1XWGv14RNMraHr2R1g-MI="
+      },
+      {
+        "title": "tuoitre.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6b3IgOxUhu_S9EuwJdtGoR9topXPOYMBmsNRHxKp6jUWve8q3r7bcRP2wrbQtOOcqVg42fwXTLGr9DF1uccYTn8YhNvE9eBjU48DgMKiCQiEq5tiO7qSF2Q0rza4ZfCmZTLCDkfkVrRX7CpptiRFNcm_JOF1SuhImNCcqHfxgtn-u_Y_6_WIept2VoD-6OGeI8z9gNjcnYt0FaGBuFqU="
+      },
+      {
+        "title": "vov.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb7adEHmbqFbBZ0CGYyOLZDFtliZ0IoXbKOGaOfcn3YEm2vN-yq5JVc9r0JWaUAMKcHR91ftfBpDezT115qT9U9oDy5i-yEMW7TmDc3FZZy5NFEs4UTZXHtXHlkF4BdDAV_YJNonc-6eP9BXPhmG6VhMGty1zHTU7Z0jW5MSx3C52Z3fIJx6ShF7rr2vseeCqOJaY1rKK6GuFx0pY2"
+      },
+      {
+        "title": "bongda.com.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsQDftxPSjI81krKPxL6bYoOxqEs0uNo7xiK8sDnV1qRiwZBX6br4Vtpzd6Z25JFZBLg_LVbI1tolM9m4_zgLMQ-cR8pcZlPi3eLXU2Ee0b-8FmsJgON-uEYIvTdkn5VcoekEA8a7OnSjvzOEF12MEWSA3mYVZjVqFzDhuIGKu9i7sCQcm7jILhViXaGkvZEkbw7KZ1gJ43Hk7sTC1DA=="
+      },
+      {
+        "title": "vietnamnet.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3B-qGggiY1Y6orwJnv1b63Di9vlGsWIV4d5s0HM3AN6UjT8F6xLkkX3GxqOx0MHX8Yx9vRiY0oPElmB1Scu7RaQKKoVThaowBFug-XSwZPScVBQDhKbeOCJbW2GRoA0_AxNojxlojze1pOYYLN4CZ_MH03mWJtsKbs51Ka3kfEIHgIQltoY-cF6UnLr9VhauIEIOQI4eSG3tn7JE9sw0H4n0SCfhD"
+      },
+      {
+        "title": "vietnamnet.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGINjpZjZdmaXeYc0L37daJ01d75S5xt6qiPksdmBuYb4j_pBTLGDP8Fcht_hOywTCmnsJB9svMejk0W4lnydml69SE8EiGihz69JJJoJAtxIWQu2I46uyH_d1PU5yQE68U9nBP2fNLI851sSK4YtRAZts67Q9tCV5D521W5QdnqrdBONiDlnMZphBjwblJnMOj2pnqm0lZDhI="
+      },
+      {
+        "title": "vov.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkV45s6qQrO9hmY92HA8_OjFiowS8HjiEMH5aaFJY3oWEOT2FzC248oxSskpvAbwf1WDdRcV_pLd-_23gBlRNzRjpa5NYNdMBK8-StuDGNI4Zmb7N3Qk0B7XRf6rlJ0D4k21SUgaNVMk88mL0R8Yh1s3pVjxZSzh2rTAyNdQIJ8aYwD1kWTQeBovsay-s-AU1VD3pbyJjIoznjhRvCpi44"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Vmy-dPoDNZIm4ELeb0xnECqMz12lwtXKXacvM6AhgOE3fPJ18MJk_pMNdNklAtLMPneLYyI_XR5jTYE53PkIkBoMlGo1DUmdnQxSwTHygwy8nj8tzgaKLmAbDvN3RI0="
+      },
+      {
+        "title": "vietnamnet.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSEd4g_x64FCY7Wy3po-Xql_fMtvDF17_w3CVgk5HSm-pDbq9g6Ip-HLwWZQycDFXHffX3xXsTYYlq7_qV5Z_IXgz47ORFxZiRfZkeiJw2QoZvKDo79fgUu6DWULDJCzplGPIXbH2RrQlvlc5rGsD5tI9EQQDrNG0BUIHVIc1wunl-Q=="
+      },
+      {
+        "title": "Báo VietNamNet: Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1R4MHJKczd0OENNYkJNc1ppWS1wYllmajVIVU9xWF95dXAzMHFUVlc2YkJaa1lzRzdOclZJaXJuSC1CVnpxN0N6anphdEFkQ3VQSWo0QlROTVlLcWRneUJPeHFSTWxEQnc2S0d5ZGd6NmpHelJnNHYyUzkxTXNJaUR4RGpRbnBKT0ZHa1ZMcTh6S09nZ3NHejlWb1o0NVFUTkpfcWowbzhMNVdDZ3FEZTEwYw?oc=5"
+      },
+      {
+        "title": "The AFC: FIFA U-17 World Cup - Uzbekistan back on track; historic point for Vietnam",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmt3dHNibk5Sc3RPUmN2VVhDaGtmcmpKRlNld19jSml6Uzh2dDFBcUlMaVJobWFZX3BjeHR2R285Tlh2RTZSTi1Fc3Z6WUUzQ3dWR2V0UmRRbVl4azN5cXlYWTI5LUpuQXlxXzR5SUhHaVFvTEtwLWNtQm9PRmRyQ3JFSnQxc1NhdjdyRUxXRjJlZkZVYjAxUk5BdWMtbV9qODZacWhBTUNIUTN2V0lqOXhTQ0JRMFdE?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Vietnam Earn Historic First U17 World Cup Point in Six-Goal Thriller Against New Zealand",
+      "seo_title": "Vietnam 3-3 New Zealand: U17 World Cup dramatic point",
+      "subheadline": "Truong Nguyen Duy Khang heads home in the 92nd minute as the debutants fight back three times in Doha.",
+      "body_markdown": "Vietnam secured their first-ever point at a FIFA U-17 World Cup on Monday, November 23, coming from behind three times to draw 3-3 with New Zealand in Doha, Qatar.\n\nSubstitute Truong Nguyen Duy Khang headed home a 92nd-minute equalizer to secure the result for head coach Cristiano Roland's team in their second Group G match at the 48-team tournament. The draw keeps Vietnam in contention for a place in the round of 32 ahead of their final group fixture against Mali on Thursday.\n\n## Three deficits erased in Doha thriller\n\nNew Zealand opened the scoring in the 19th minute when Jack Clegg tapped in a low cross from Matias Nunez. Vietnam equalized four minutes into the second half as midfielder Chu Ngoc Nguyen Luc curled a direct free-kick past goalkeeper Joseph Chalabi in the 49th minute.\n\nThe Junior All Whites regained the lead in the 52nd minute when John Woldegiorgis headed in a delivery from James Wenceslao. Vietnam answered six minutes later; Nguyen Luc played a through ball to Le Trong Dai Nhan, who slotted home in the 58th minute. The goal was initially flagged for offside before being awarded following a Football Video Support (FVS) review.\n\nNew Zealand captain Ethan Dyer restored his side's advantage in the 66th minute by bundling the ball into the net from a set piece. With defeat looming in stoppage time, Duy Khang met a rebounded delivery inside the six-yard box in the 92nd minute to level the match at 3-3.\n\nClegg received FIFA Player of the Match honors, while New Zealand produced 13 attempts on goal to Vietnam's 10. The Oceania Football Confederation noted that New Zealand remain without a victory at the U17 World Cup since 2019.\n\n## Group G standings and qualification path\n\nThe result marked Vietnam's first point in the history of the men's U17 World Cup, following their opening 3-2 defeat to European runners-up Belgium on November 20, where Le Sy Bach and Nguyen Luc were on target.\n\nIn Monday's earlier Group G fixture, Mali defeated Belgium 2-1 to secure first place with six points and guaranteed qualification. Belgium sit second with three points. Vietnam hold third place with one point and a minus-one goal difference (five goals scored, six conceded), while New Zealand sit fourth with one point and a minus-three goal difference.\n\nThe top two teams from each group, along with the eight best third-placed teams across the 12 groups, advance to the round of 32. Vietnam face group leaders Mali on Thursday, November 26, while New Zealand play Belgium.",
+      "social_post": "Vietnam have earned their first-ever FIFA U-17 World Cup point after a dramatic 3-3 draw against New Zealand in Doha! Head coach Cristiano Roland's side came from behind three times, with Truong Nguyen Duy Khang heading in the decisive equalizer in the 92nd minute. The result leaves Vietnam third in Group G ahead of Thursday's showdown against Mali. Can Vietnam make the knockout stage? Share your thoughts below! #U17WC #VietnamFootball #FIFAWorldCup"
+    },
+    "zh": {
+      "headline": "六球对攻战逼平新西兰，越南斩获U17世界杯队史首个积分",
+      "seo_title": "越南3-3新西兰：三度落后绝平拿首分",
+      "subheadline": "补时第92分钟张阮维康头球绝平，首度亮相多哈赛场的越南青年军三度落后三度扳平。",
+      "body_markdown": "11月23日星期一，在卡塔尔多哈进行的FIFA U-17世界杯上，越南队在三度落后的绝境下顽强爆发，最终以3-3战平新西兰队，拿下了队史在U-17世界杯上的首个积分。\n\n替补登场的张阮维康（Truong Nguyen Duy Khang）在第92分钟头球破门完成绝平，为主帅克里斯蒂亚诺·罗兰（Cristiano Roland）的球队锁定了这场宝贵的平局。这是该队在这届扩军至48支球队的锦标赛G组打出的第二场较量。凭借这场平局，越南队在周四末轮对阵马里队前，依然保留着晋级32强的希望。\n\n## 多哈惊险战：三度落后三度追平\n\n新西兰队在第19分钟首开记录，马蒂亚斯·努涅斯（Matias Nunez）送出低平横传，杰克·克莱格（Jack Clegg）门前推射破门。下半场开场仅4分钟，越南队便抹平分差：第49分钟，中场球员朱玉阮力（Chu Ngoc Nguyen Luc）直接任意球兜出弧线，攻破了守门员约瑟夫·查拉比（Joseph Chalabi）十指关。\n\n第52分钟，新西兰“小全白军团”再度领先，约翰·沃尔德吉奥吉斯（John Woldegiorgis）接詹姆斯·温塞斯劳（James Wenceslao）的传中头球破门。仅仅6分钟后，越南队再度予以回应：朱玉阮力送出直塞，黎仲大人（Le Trong Dai Nhan）在第58分钟冷静低射入网。这粒进球最初被边裁判定越位在先，但经过足球视频支持系统（FVS）回看后被改判有效。\n\n第66分钟，新西兰队队长伊森·戴尔（Ethan Dyer）利用定位球混战将球挡入球门，再度改写比分。眼看败局将定，伤停补时第92分钟，杜阮维康在小禁区内抓住补射机会冲顶破门，把比分定格在荡气回肠的3-3。\n\n克莱格当选本场比赛的FIFA最佳球员；全场射门数方面，新西兰以13次领先越南的10次。大洋洲足联指出，新西兰队自2019年以来在U17世界杯中仍旧一胜难求。\n\n## G组积分榜与出线形势\n\n这场平局是越南男子足球在U17世界杯正赛历史上的第一个积分。此前在11月20日的首轮比赛中，他们以2-3惜败于欧洲亚军比利时队，当时黎士百（Le Sy Bach）和朱玉阮力分别建功。\n\n在周一较早进行的G组另一场较量中，马里队以2-1力克比利时队，积6分锁定小组头名并提前突围。比利时队积3分位居次席。越南队积1分、净胜球为-1（进5球失6球）排在第三，新西兰队同积1分因净胜球劣势（-3）位列第四。\n\n根据规则，12个小组的前两名以及8支成绩最好的小组第三将晋级32强淘汰赛。11月26日周四，越南队将迎来小组赛最后一场决战对阵马里队，而新西兰队则将迎战比利时队。",
+      "social_post": "历史性突破！越南在多哈上演的进球大战中三度落后三度扳平，最终3-3战平新西兰，斩获U17世界杯队史首个积分！替补奇兵张阮维康补时第92分钟头球绝平，为主帅罗兰的队伍保留了从G组突围的希望。周四末轮决战马里，大家看好越南青年军杀入32强淘汰赛吗？欢迎留下你的看法！#U17世界杯 #越南足球 #FIFA世界杯"
+    },
+    "ru": {
+      "headline": "Вьетнам добыл историческое первое очко на ЧМ U-17 в голевом триллере с Новой Зеландией",
+      "seo_title": "Вьетнам — Новая Зеландия 3:3: историческое очко на ЧМ U-17",
+      "subheadline": "Чыонг Нгуен Зуй Кханг замкнул навес головой на 92-й минуте: дебютанты трижды отыгрывались по ходу матча в Дохе.",
+      "body_markdown": "В понедельник, 23 ноября, юношеская сборная Вьетнама набрала первое в своей истории очко на чемпионатах мира FIFA U-17, проявив характер и трижды отыгравшись в захватывающем матче против Новой Зеландии в Дохе (3:3).\n\nВышедший на замену Чыонг Нгуен Зуй Кханг (Truong Nguyen Duy Khang) на 92-й минуте ударом головой вырвал ничью для команды Криштиану Роланда (Cristiano Roland). Это была вторая игра вьетнамцев в группе G на турнире с участием 48 сборных. Ничейный исход оставляет Вьетнаму шансы на выход в 1/16 финала перед заключительным матчем против Мали в четверг.\n\n## Три отыгрыша в безумном матче в Дохе\n\nНовозеландцы открыли счет уже на 19-й минуте: Джек Клегг (Jack Clegg) в касание замкнул прострел Матиаса Нуньеса (Matias Nunez). Ответ Вьетнама последовал спустя четыре минуты после перерыва — полузащитник Чу Нгок Нгуен Люк (Chu Ngoc Nguyen Luc) на 49-й минуте филигранным прямым ударом со штрафного переиграл голкипера Джозефа Чалаби (Joseph Chalabi).\n\n«Олл Уайтс» вновь вышли вперед на 52-й минуте, когда Джон Волдегиоргис (John Woldegiorgis) головой переправил мяч в сетку после подачи Джеймса Венсеслао (James Wenceslao). Вьетнамцам потребовалось всего шесть минут, чтобы восстановить паритет: Нгуен Люк разрезал оборону проникающей передачей на Ле Чонг Дай Няня (Le Trong Dai Nhan), и тот на 58-й минуте хладнокровно поразил цель. Лайнсмен сначала зафиксировал офсайд, однако гол был засчитан после вмешательства системы видеоподдержки (FVS).\n\nНа 66-й минуте капитан Новой Зеландии Итан Дайер (Ethan Dyer) протолкнул мяч в сетку после розыгрыша стандарта, и его команда повела в третий раз. Когда казалось, что поражения дебютантам уже не избежать, на 92-й минуте компенсированного времени Зуй Кханг сориентировался на отскоке во вратарской и вонзил мяч головой в сетку — 3:3!\n\nКлегг был признан лучшим игроком матча по версии ФИФА. Новозеландцы нанесли 13 ударов по воротам против 10 у вьетнамцев. Конфедерация футбола Океании отметила, что Новая Зеландия не знает побед на чемпионатах мира U-17 с 2019 года.\n\n## Расклады в группе G и борьба за плей-офф\n\nЭтот результат принес Вьетнаму первое очко в истории мужских юношеских мундиалей после стартового поражения от вице-чемпионов Европы бельгийцев со счетом 2:3 (20 ноября), где точными ударами отметились Ле Ши Бать (Le Sy Bach) и Нгуен Люк.\n\nВ более раннем матче квартета G в понедельник сборная Мали обыграла Бельгию со счетом 2:1, набрала шесть очков, возглавила группу и гарантировала себе путевку в плей-офф. Бельгия идет второй с тремя очками. Вьетнам занимает третье место с одним баллом и разницей мячей «минус один» (5 забито, 6 пропущено), тогда как Новая Зеландия идет четвертой с одним очком и разницей «минус три».\n\nНапомним, что в 1/16 финала выходят по две лучшие команды из каждого квартета, а также восемь лучших сборных, занявших третьи места в 12 группах. В четверг, 26 ноября, Вьетнам сыграет с лидером группы Мали, а Новая Зеландия встретится с Бельгией.",
+      "social_post": "Исторический момент для Вьетнама на ЧМ U-17! 🔥 В Дохе вьетнамцы выдали триллер против Новой Зеландии (3:3), трижды отыгрываясь по ходу встречи. Спасительный мяч на 92-й минуте ударом головой оформил Чыонг Нгуен Зуй Кханг. Команда Криштиану Роланда сохраняет реальные шансы на выход в плей-офф перед матчем с Мали в четверг. Выйдут ли вьетнамцы в 1/16? Пишите в комментариях! #ЧМU17 #Вьетнам #Футбол"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg/1280px-Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg",
+        "artist": "Unknown author Unknown author",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Truong Chinh, General Secretary of the Party",
+        "width": 1200,
+        "height": 1722,
+        "year": 1951,
+        "subject": "Trường Chinh",
+        "asked": "Truong Nguyen Duy Khang",
+        "page_title": "Trường Chinh",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:truong_chinh_circa_1951_edit_crop_provisional.jpg|Trường Chinh",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Truong Nguyen Duy Khang' but the photo comes from the page 'Trường Chinh'",
+            "photo is from 1951: too old for a story about current athletes"
+          ],
+          "shows": "portrait of Vietnamese communist political leader Trường Chinh",
+          "reason": "This is a 1951 historical portrait of a political leader, entirely unrelated to a modern U17 football match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-24-news-c9ef21.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup 2026",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Trường Chinh' looks WRONG (shows portrait of Vietnamese communist political leader Trường Chinh; asked for 'Truong Nguyen Duy Khang' but the photo comes from the page 'Trường Chinh'; photo is from 1951: too old for a story about current athletes; ). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 1951. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'first-ever': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://vietnamnet.vn, https://www.the-afc.com"
+      }
+    ],
+    "auto_rejected": [
+      "duplicate: we already have this story (2026-11-24-news-98e731)"
+    ]
+  },
+  {
+    "id": "2026-11-24-news-2b4378",
+    "slug": "mirra-andreeva-earns-10-65-million-to-enter-global-top-five-",
+    "date": "2026-11-24",
+    "created": "2026-11-24T18:39:20+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Tennis",
+      "Mirra Andreeva",
+      "Elena Rybakina",
+      "Alexander Zverev",
+      "WTA Tour",
+      "ATP Tour"
+    ],
+    "athletes": [
+      "Mirra Andreeva",
+      "Elena Rybakina",
+      "Alexander Zverev",
+      "Carlos Alcaraz",
+      "Jannik Sinner"
+    ],
+    "image_subjects": [
+      "Mirra Andreeva",
+      "Elena Rybakina",
+      "Alexander Zverev",
+      "WTA Finals"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Мирра Андреева вошла в топ‑5 по сумме призовых среди всех теннисистов в 2026 году — Sportico",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2269225_Mirra_Andrejeva_voshla_v_top_5_po_summe_prizovyh_sredi_vseh_tennisistov_v_2026_godu__Sportico"
+      },
+      {
+        "title": "Андреева вошла в топ-5 теннисистов мира по призовым за 2026 год",
+        "url": "https://legalbet.ru/news/andreeva-voshla-v-top-5-tennisistov-mira-po-prizovim-za-2026-god/"
+      },
+      {
+        "title": "Top 5 tennis players with the highest prize money in 2026",
+        "url": "https://sport.news.am/eng/news/170445/top-5-tennis-players-with-the-highest-prize-money-in-2026.html"
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoATRndcXU6FcvWTZOeTKIN9nFjAVUJ7vLs7X5hI3vi4bnZhvukIQVPe64zma7rYq37_XIL3NEc3PVnlqScYiyTWthcuDboTBtDnIReZqMcacLR4abPfWMy9NFJujKNgUFKH5llN-rOYyiSej0Kqh8FgLzDQBPrNk-Ml59bAMzOiJNGQPHizIL87zvO5PXeU3CL9QknMRsfMEFPq0SR0M2IstpkoSHfbMqnFegh8-X1s8JbZMiExA5NrQyqQLEa-YKudg="
+      },
+      {
+        "title": "metaratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4oeK_7V9zDiiW8zB-RNFau3B7cxDKs63XjjusWvBN7ZzZTY9QOmexSNbs3_FUqAKReezxnD_V_FYe7IiyNAgwRP9UYLOrkwvlaFe9xPZTrj8BvauHPIe4MR-WFhhqLJv0bAN5LkBqqcSeVzaur8C0PCS-U1Yhw=="
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuI-GTQrcAANCWmRsytokaTdG2zVtcqf6Tg8DbFnwUMdu1oA7fB7l-VZwanlmHurHW04Idg4McsfHzpwHVYdn6pKDzh4pbI9PUnBhg18mOXey_yaZIEbsAUXYGnxKL2Y4n86JOWxE7rlhmmrIA02uO24E7dOJF7vbf7_VgQkeKiSsukdol7cCHeQQSCGJ2ZJW1eUUIA22--DJXXShH_onlh1HMe-aTfOpFvmESwg9wktrZM0Ce2LFXQFbxYFrZWn4n3hqVy9wGkh0U1AVJxZmiMg=="
+      },
+      {
+        "title": "legalbet.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0yIm37AcPJN6Qb1uFg2hjT3z6xp_Jxf8qTtzK0g6MvkM9AQSi-5ViHfWN4vOOl7Gigf-3-wXD7ibj78p0OkIwqHkhGSWyGjSZ63ihVuVXMWFm4NoUOkszM4aSHMvT4NjI-1J97QK3xgie10J67KufaXLLWzpEIe1bmpcfi4JCjZA7d1Bt18JNS6oZ42ePYjIbQ=="
+      },
+      {
+        "title": "tennisworldusa.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcyV6u7lK_p3pDqW3v5tz18CPLoDhqJYupvRUdS5WNItzkdPLQ-KQyKX2Gro-sjn79IDr3oTQfMJEEr7VduucXCxrHM-BgrLJiP8lpaCZzE2L5EhW86ijRGHKjE3h_cNF7vDKjA5oXt0fH6XGKj2hOrVHO4sCon14OpslRWhoJd4IyTUXAVuGmBqiYCD0X8mWkCHeEQO4EbRfOLxdtAMAIOLuMUjzJ-LPHTqCk3M17sAMnRLF_NtQjkK9JMXydYPAbXDIKAdE_iA=="
+      },
+      {
+        "title": "tennis365.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwmxmAmjg3paPGqbVl_uv3XKX90M5oXrV3SAFADZ-jqXfunxaR4fG3G0jDi88OXAqo4INIuAhB3gahRi5pFOO8IlHVSps4uW_ZeMHl2MIVv2ElOPLykgKMUjmyyRXcKNGaswiwKVFWlSvoPkzWNOKS_ksk45Ql6zvcCn1JfFPEUM6Vaqk-kFghYu9fUJVYPPSXuLHi1uxwhZtauOZnUwK7n0Pd2vw="
+      },
+      {
+        "title": "gornovosti.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTIN5I8iXipcXMVHeDW_1uT1JatryuLlx8-OIUKnOF-oQxNmwQJUi51hH8DUPhAWh4ornhPQvwXjL0K5lFJE5qgZ9aJhQcDz3beGg15sbmA8B8PEDuA5PYjqqdGxKW5gdMJZMid7wINwdZVsIJvuRrc-NF0yKIwb_IvecL0TK4jQrBF3-G-Dbi9cSmzEKRg4Jw16t8P2bDC0s="
+      },
+      {
+        "title": "essentiallysports.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV4lf1iD87fJ2ylHPH2wdl9hh_x2R8mUVKOq1XrG-NiisUBtWRZdtJq9xjGPKuI781z6aVOaWuzjgZi0S3OkAehAE-ekzPJjOlfyzeCNNvKGnPmFQT3-NG4E5_RHBeReIa6beMWnt3wYxDoe7e6FSiyCbMgZjeYWDGTpQUVBjiaIajxCNHJL7QYly5ScHosI_06mFUJ_Fs2D52rRd4qRuGbA=="
+      },
+      {
+        "title": "news.am",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfZVbr0_6m5AXQBk0ruNEuZ8q1uDWN_TBTUkvSRmNOCijkMZjN2hkVGHTlblIcK7OefF3sPKbQLY4TX3A8zCZ47S3nPPxSyir3VvxSreWk6NGIuH4OpVDhdjqcagz9nPtvrcqwIh6LcNyeCiG9MOQqyBukNvRli-MYAKXK4jVE962JxynLhWdasxbA6ycBKXn99_OMFAQ_LVTJ"
+      },
+      {
+        "title": "Газета: Мирра Андреева вошла в топ-5 по призовым в 2026 году среди всех теннисистов",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51R2hDRnE5ajNWM21WSXpMeXdSelJ3OGI3V2RFWVI5RUo1LTIwNHRNNVRtaWJDVUpmajBlTUNtWXE1SlNTWExVUGNON216VEo3OERic3F1ZENWOHFvcGFZU0JGVkNUTXVlZWtxVVR0NDh1dk3SAXNBVV95cUxOdUdoQ0ZxOWozVjNtVkl6THl3UnpSdzhiN1dkRVlSOUVKNS0yMDR0TTVUbWliQ1VKZmowZU1DbVlxNUpTU1hMVVBjTjdtelRKNzhEYnNxdWRDVjhxb3BhWVNCRlZDVE11ZWVrcVVUdDQ4dXZN?oc=5"
+      },
+      {
+        "title": "Sportarena.kz: Елена Рыбакина заняла четвёртое место по призовым среди всех теннисистов в 2026 году",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaW9IbGMzWnNVb2pMTlVubnRXTlY1cTZsRDE2X2lYcnd0UjEwdF95N1JfcEFSVXlDLWc5ZmR1Tmc5ZEZXRmRoR0JjV0NtMFhpTl93dlZrSWhaNFV1N09YYnJpSFVQQ1FRQk42dXhtWnQyMEh5TWFvbXZRMDg2WnZMREVkY0lyODEwUC10dFdZeUw3OVhlV0tpTXl5c1VTODNqZl9fZUpVWUJZajRHdFo4dTktTG1QeWlNRndsMmE5NFhWMExJSXZBajZxVGbSAcwBQVVfeXFMT2lvSGxjM1pzVW9qTE5Vbm50V05WNXE2bEQxNl9pWHJ3dFIxMHRfeTdSX3BBUlV5Qy1nOWZkdU5nOWRGV0ZkaEdCY1dDbTBYaU5fd3ZWa0loWjRVdTdPWGJyaUhVUENRUUJONnV4bVp0MjBIeU1hb212UTA4Nlp2TERFZGNJcjgxMFAtdHRXWXlMNzlYZVdLaU15eXNVUzgzamZfX2VKVVlCWWo0R3RaOHU5LUxtUHlpTUZ3bDJhOTRYVjBMSUl2QWo2cVRm?oc=5"
+      },
+      {
+        "title": "Metaratings: Мирра Андреева вошла в топ-5 теннисистов по призовым за 2026 год",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzM213ZjRVanJabEdNUkk4d0thWDNaZVh6Ui0wRVJuNFVPY0JFR1ROaTdmcW1sX2RId0lFLVVnbm1USS0xSk5DYlZPelhLRnA3a0dPb1V3eE1aaGZ4eTk2b3Vfc1dkak02Um5Zd3ZrZGxKbUU?oc=5"
+      },
+      {
+        "title": "Чемпионат: Мирра Андреева попала в топ-5 по призовым среди всех теннисистов в 2026 году — Sportico",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQjBncnpOdnBDWGE3LTFsaG93dXZ0UG0wbm8tc0JzYTlYd3czMlM4QWZJMEFnRjIzTDZ4V2ptQjJpX0ItU3FfT3pqUWdId2RuUFFEMmZGNVFsUzh5ZHlOMmtkT0dLQ3RsRmMwdkNlQnpyTFQ1LUFjMzhacWJpY3pNTEx1a29XSTM3akptX2NjVFBNcy1FZ0JNVnJvSmRhVDFVODMzQjdyQ3hwUVI2SjVGX19FS2plcWs3dlZ0NDFlNGpOMWFDNUo4OEhjV29xMDI3MUE?oc=5"
+      },
+      {
+        "title": "Sport.ru: Мирра Андреева вошла в пятёрку теннисистов с самыми большими призовыми в 2026 году",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT01qTWNVelJ3YmE0QU02Y0lOZUlYeUJrOXpEcGh6UURhMGEtVlNrYWQ0bkdwNV9ZbUs4N1ViX0wtdTdPOEYyWmNuNnBDSlhELVFXdHBma3Qxa3c3Vnc1R1g2UUxjTVF6X2ZqYXhaTm5MM185aHlaRVBQUHJZYzNRcnd5czJKNmNKYm9fcHR1Tkw5R1djbll2WVdBRTlwYmlBaDV5cnNPSWFEbF9uMldDMEstTXhweXVGVXZGckVDYno?oc=5"
+      },
+      {
+        "title": "legalbet.ru: Андреева вошла в топ-5 теннисистов мира по призовым за 2026 год — Новости Тенниса",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXQ3VGtZbkNHWWoweS1HclJkRTJtR3pSMHpHV0pvd2Y1cUQyWW1fSEJ2Ql9qYWNjRVB2bEJNSFNybVpTUU1nWVdyWmlWUGtGTU1INnBQWjUwU2dKVnhlVU5YS3FoU3QxOFVQV0pPa0NZUkl1enBYYjl3LUpQODBpLVNNVXJ3UXpjLUJ3WWQ5RWoyU1NFM3Y0?oc=5"
+      },
+      {
+        "title": "Sport24.ru: Мирра Андреева вошла в пятерку теннисистов с наибольшими призовыми в 2026 году",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnljRGR3eEQ1YzdkakU1TXQwb2E0TlZ6akZ1aTE1WDBaUDd5ZVFUMDV6c0NDa1J0TEpLM2RGUWhPWWNEbW4wY3FtRndYUk5tWFBycGltUTk3SnlkVTMxVVNvZEdxYjAzLUQ4VUxfT0x1Tk5uU2ZpaFp4bmZHZ2VOVHdvaVBuMHZ6N2JwN0hwZ0paWldIQUdNUGpfdVl3R2Y3VW0wRWdiSmpJNjEzQk11a2JlZlJnemMwNGRz0gHAAUFVX3lxTE1JOW9neTl5X05UaTBMR0d5NFhXUUM3eVk2MExXSzNBRzJJRVJwOEM2c2ZWSUV5R0ZadEltWnZjemRQdC05V1dBUzhSV0wtVkYwVEoydjVDR2lQZzVycTg2YU5hazFZcjFYMEJfblRudGM1Z2dLYzFLLUltOHloRUpIdllINHFPS3pINDltMXFBeng1eVA4dVZfUEZ5dFVScXcyenhOQlU4LWZodzU2RHllZzdSNVlfeEVIdVFMeDd0MA?oc=5"
+      },
+      {
+        "title": "Sportbox: Мирра Андреева вошла в топ‑5 по сумме призовых среди всех теннисистов в 2026 году — Sportico",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR3BPcG5xdXFFUGlXeHcwSHo4Q2IydDY3dVhiNk5ueVlZOXNETDRtT1d2d0JyUkZGM1FqQmlTSnRPNmhOXzdDY3FIRjRzRmZjNjZlZTNOMkpkd05zTmo3U1I0UEVZdzFMcmZ3NmlCYVI4bEIwQ0l6OW5lLXpFem9LMHpxcWpmSlc1WldtemhLZnZkcVhzSXhxYi1EZlRmY05vSXZoYWlvaldpOXJ4cU5fa080TGVEUDBRczBHMl9HRmZhYlZEa1hIc0tYbThrSEI2VlNVUDFaSU1odkJaenpoMjY4V3RzaVQwUXc?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Mirra Andreeva Earns $10.65 Million to Enter Global Top Five in 2026 Prize Money",
+      "seo_title": "Mirra Andreeva: $10.65M in 2026 Tennis Prize Money",
+      "subheadline": "The 19-year-old French Open champion finished second among female players, trailing only Kazakhstan's Elena Rybakina in Sportico's year-end rankings.",
+      "body_markdown": "Russian 19-year-old Mirra Andreeva generated $10.65 million in prize money during the 2026 tennis season, placing fifth across all players worldwide in financial rankings published by Sportico on November 23. The world No. 2 finished behind only Kazakhstan’s world No. 1 Elena Rybakina among female players, joining three ATP stars atop the combined tour earnings list.\n\nGermany’s Alexander Zverev led all players in the 2026 calculations with $18.18 million, supported by men's singles titles at the French Open and the US Open. Carlos Alcaraz finished second with $12.55 million following his title run at the ATP Finals in Turin, while Wimbledon champion Jannik Sinner placed third at $11.61 million. Rybakina secured fourth overall and led the WTA Tour with $11.13 million, leaving Andreeva fifth at $10.65 million.\n\n## Roland Garros triumph anchors Andreeva's rise\n\nAndreeva, born in Krasnoyarsk, compiled a tour-leading 55 singles victories across 71 matches during 2026. Her season featured four WTA singles titles, highlighted by her first Grand Slam singles championship at Roland Garros and an undefeated title run at the WTA Finals. \n\nThe $10.65 million purse marked a sharp acceleration in Andreeva's career on-court compensation. After collecting $25,811 in 2022, she took home $750,477 in 2023, $1.92 million in 2024, and $4.7 million in 2025 before crossing the eight-figure barrier in her second full year as a senior top-10 competitor.\n\n## Central Asian and global milestones\n\nRybakina's $11.13 million haul established the highest single-season prize total recorded by a tennis player representing Kazakhstan. Her season included Grand Slam victories at the Australian Open and the US Open, alongside WTA tournament titles in Stuttgart and Ningbo. \n\nAryna Sabalenka finished sixth overall on the combined leaderboard with $8.61 million. Ben Shelton of the United States and Linda Noskova of the Czech Republic followed in a tie for seventh at $8.29 million each. Coco Gauff ranked ninth with $7.76 million, and Jessica Pegula placed 10th with $6.47 million. \n\nRussian men's No. 1 Daniil Medvedev finished 13th overall with $5.66 million, sitting between Ukraine's Elina Svitolina ($6.15 million), Czech finalist Karolina Muchova ($5.67 million), and Italian semifinalist Flavio Cobolli ($5.31 million). Frances Tiafoe rounded out the top 15 with $5.21 million. Andreeva and Rybakina are scheduled to open their 2027 campaigns in Australia in January as the top two seeds for the Australian Open in Melbourne.",
+      "social_post": "Russian 19-year-old Mirra Andreeva earned $10.65 million in tournament prize money in 2026, finishing fifth among all tennis players worldwide and second on the WTA Tour, according to Sportico. Only Elena Rybakina ($11.13M), Jannik Sinner ($11.61M), Carlos Alcaraz ($12.55M), and Alexander Zverev ($18.18M) finished ahead. Andreeva ended the year at world No. 2 with four titles, including Roland Garros and the WTA Finals. Will Andreeva or Rybakina take the Australian Open title in January? Let us know below! #MirraAndreeva #ElenaRybakina #WTATour #Tennis"
+    },
+    "zh": {
+      "headline": "米拉·安德烈耶娃2026年斩获1065万美元奖金 跻身全球网坛前五",
+      "seo_title": "米拉·安德烈耶娃2026年奖金1065万美元 跻身全球前五",
+      "subheadline": "这位19岁的法网冠军在Sportico年终榜单中位列女球员次席，仅次于哈萨克斯坦名将莱巴金娜。",
+      "body_markdown": "在刚刚落幕的2026赛季，年仅19岁的俄罗斯新星米拉·安德烈耶娃（Mirra Andreeva）单赛季狂揽1065万美元奖金。根据《Sportico》于11月23日公布的年终奖金排行榜，这位现世界第二在男女网坛综合榜单中高居全球第五。在女子选手中，她仅次于高居榜首的哈萨克斯坦世界第一莱巴金娜，与三位ATP巨星一同筑起了网坛吸金榜的最前沿。\n\n德国名将亚历山大·兹维列夫凭借法网和美网两座大满贯男单冠军，以1818万美元领跑2026年全网坛。在都灵ATP年终总决赛问鼎的卡洛斯·阿尔卡拉斯以1255万美元位列次席；温网冠军扬尼克·辛纳以1161万美元排名第三。莱巴金娜以1113万美元排名总榜第四并领跑WTA巡回赛，安德烈耶娃则以1065万美元紧随其后位列第五。\n\n## 罗兰·加洛斯问鼎奠定腾飞之基\n\n出生于克拉斯诺亚尔斯克的安德烈耶娃，在2026年共出战71场单打比赛，并以55场胜利领跑巡回赛胜场榜。她的这个赛季收获了4座WTA单打冠军，其中最耀眼的莫过于在罗兰·加洛斯斩获的职业生涯首座大满贯单打金杯，以及在WTA年终总决赛以全胜战绩登顶的壮举。\n\n这笔1065万美元的巨额奖金，也标志着安德烈耶娃赛场收入的爆发式飞跃。回看她的成长轨迹：2022年她仅进账25,811美元，2023年升至750,477美元，2024年达到192万美元，2025年飙升至470万美元；而在她跻身成年组世界前十的第二个完整赛季，年度奖金直接冲破了千万美元大关。\n\n## 中亚里程碑与世界群雄格局\n\n莱巴金娜斩获的1113万美元，创下了代表哈萨克斯坦出战的网球运动员单赛季奖金历史新高。她在本赛季豪取澳网和美网双料大满贯，并斩获了斯图加特和宁波站的WTA赛事冠军。\n\n在男女联合排行榜上，阿丽娜·萨巴伦卡以861万美元位列第六。美国新星本·谢尔顿与捷克名将琳达·诺斯科娃以829万美元并列第七。科科·高芙以776万美元排在第九，杰西卡·佩古拉则以647万美元跻身前十。\n\n俄罗斯男网一哥丹尼尔·梅德韦杰夫以566万美元位列总榜第13位，排在乌克兰名将埃琳娜·斯维托丽娜（615万美元）和捷克大满贯亚军卡罗琳娜·穆霍娃（567万美元）之后，领先意大利四强选手弗拉维奥·科博利（531万美元）。弗朗西斯·蒂亚福以521万美元守住前15名的门槛。按赛程安排，安德烈耶娃与莱巴金娜将于明年1月赴澳开启2027赛季征程，届时她们将以赛会前两号种子的身份出战墨尔本公园的澳大利亚网球公开赛。",
+      "social_post": "据Sportico统计，19岁的俄罗斯小将米拉·安德烈耶娃在2026赛季狂揽1065万美元赛事奖金，位列全球男女网坛第五、WTA第二！排在她身前的仅有莱巴金娜（1113万）、辛纳（1161万）、阿尔卡拉斯（1255万）和兹维列夫（1818万）。四冠在手、问鼎法网与年终总决赛，世界第二的安德烈耶娃风头正盛。明年1月的澳网，你看好安德烈耶娃还是莱巴金娜夺冠？欢迎在评论区聊聊！#米拉安德烈耶娃 #莱巴金娜 #网球 #WTA"
+    },
+    "ru": {
+      "headline": "Мирра Андреева заработала $10,65 млн за 2026 год и вошла в топ-5 теннисистов планеты по призовым",
+      "seo_title": "Мирра Андреева: $10,65 млн призовых в 2026 году и топ-5 в мире",
+      "subheadline": "19-летняя чемпионка «Ролан Гаррос» уступила по доходам на корте только первой ракетке мира Елене Рыбакиной из Казахстана, сообщает Sportico.",
+      "body_markdown": "19-летняя российская теннисистка Мирра Андреева заработала $10,65 млн призовых за сезон-2026, заняв пятое место среди всех игроков планеты в финансовом рейтинге, опубликованном изданием Sportico 23 ноября. Вторая ракетка мира среди женщин уступила лишь лидеру рейтинга WTA Елене Рыбакиной из Казахстана, разбавив звездную компанию трех лидеров ATP на вершине сводного списка.\n\nПервую строчку по итогам 2026 года оккупировал немец Александр Зверев, чей счет пополнился на $18,18 млн благодаря триумфам на «Ролан Гаррос» и US Open. Вторым финишировал Карлос Алькарас ($12,55 млн), завоевавший титул на Итоговом турнире ATP в Турине, а чемпион Уимблдона Янник Синнер занял третью строчку с $11,61 млн. Рыбакина остановилась на четвертой позиции в общем зачете и возглавила женский тур с показателем в $11,13 млн, оставив Андрееву следом с ее $10,65 млн.\n\n## Триумф на «Ролан Гаррос» как фундамент прорыва\n\nУроженка Красноярска провела феноменальный сезон: 55 выигранных одиночных матчей из 71 — лучший показатель в туре. В активе Мирры четыре одиночных титула WTA, главными из которых стали дебютный трофей «Большого шлема» на кортах Парижа и безупречная победная серия без единого поражения на Итоговом турнире WTA.\n\nПризовые в размере $10,65 млн наглядно иллюстрируют стремительный взлет доходов россиянки. В 2022 году она заработала лишь $25 811, в 2023-м сумма выросла до $750 477, в 2024-м достигла $1,92 млн, а в 2025-м подобралась к $4,7 млн. И вот, проводя лишь второй полноценный сезон в статусе игрока топ-10, Мирра с легкостью преодолела восьмизначный рубеж.\n\n## Исторический рубеж Казахстана и общая картина топа\n\nЗаработанные Рыбакиной $11,13 млн стали абсолютным рекордом за один сезон для представителей Казахстана. Ее чемпионский график включил в себя победы на Australian Open и US Open, а также трофеи на турнирах WTA в Штутгарте и Нинбо.\n\nШестое место в сводной классификации заняла Арина Соболенко ($8,61 млн). Строчки с седьмой по восьмую поделили американец Бен Шелтон и чешка Линда Носкова — оба заработали по $8,29 млн. Кори Гауфф расположилась на девятой позиции ($7,76 млн), а десятку замкнула Джессика Пегула ($6,47 млн).\n\nПервая ракетка России у мужчин Даниил Медведев завершил год на 13-й строчке с $5,66 млн. Он пропустил вперед украинку Элину Свитолину ($6,15 млн) и финалистку мэйджора из Чехии Каролину Мухову ($5,67 млн), но обошел итальянского полуфиналиста Флавио Коболли ($5,31 млн). Топ-15 замкнул Фрэнсис Тиафо ($5,21 млн). Новый сезон Андреева и Рыбакина откроют в январе в Австралии, где возглавят посев на Открытом чемпионате Австралии в Мельбурне в статусе первого и второго номеров турнира.",
+      "social_post": "19-летняя Мирра Андреева сорвала солидный куш в 2026 году — $10,65 млн призовых! По данным Sportico, россиянка заняла 5-е место среди всех теннисистов планеты и 2-е в туре WTA. Впереди только Елена Рыбакина ($11,13 млн), Янник Синнер ($11,61 млн), Карлос Алькарас ($12,55 млн) и Александр Зверев ($18,18 млн). На счету 2-й ракетки мира 4 титула, включая «Ролан Гаррос» и Итоговый турнир WTA. Кто заберет Australian Open в январе — Мирра или Рыбакина? Делитесь в комментариях! #МирраАндреева #ЕленаРыбакина #Теннис #WTA"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/1280px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Elena Rybakina playing in the first round of doubles at the 2025 Washington Open",
+        "width": 1200,
+        "height": 1604,
+        "year": 2025,
+        "subject": "Elena Rybakina",
+        "asked": "Elena Rybakina",
+        "page_title": "Elena Rybakina",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:elena_rybakina_(2025_dc_open)_11_(cropped).jpg|Elena Rybakina",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "tennis player Elena Rybakina smiling on court",
+          "reason": "The image clearly shows professional tennis player Elena Rybakina, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Mirra Andreeva in June 2023",
+        "width": 1200,
+        "height": 1603,
+        "year": 2023,
+        "subject": "Mirra Andreeva",
+        "asked": "Mirra Andreeva",
+        "page_title": "Mirra Andreeva",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:mirra_andreeva_wmq23_(cropped).jpg|Mirra Andreeva",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Mirra Andreeva playing tennis in tennis attire",
+          "reason": "The image clearly shows professional tennis player Mirra Andreeva, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg",
+        "artist": "Rick Munroe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Alexander Zverev prior to his match at the 2026 Miami Open.",
+        "width": 1200,
+        "height": 1600,
+        "year": 2026,
+        "subject": "Alexander Zverev",
+        "asked": "Alexander Zverev",
+        "page_title": "Alexander Zverev",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:alexander_zverev_in_miami.jpg|Alexander Zverev",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Alexander Zverev on a tennis court",
+          "reason": "The image clearly shows German tennis player Alexander Zverev in tennis attire on court.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-24-hist-a02660",
     "slug": "how-the-1906-canton-massillon-rematch-sparked-pro-football-s",
     "date": "2026-11-24",
