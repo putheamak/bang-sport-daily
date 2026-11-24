@@ -23,8 +23,8 @@ def resolve(url: str, cache: dict | None = None) -> str | None:
     if not is_gn(url):
         return url
     cache = cache if cache is not None else read_json(CACHE, {})
-    if url in cache:
-        return cache[url] or None
+    if cache.get(url):
+        return cache[url]
     try:
         from googlenewsdecoder import gnewsdecoder
         r = gnewsdecoder(url, interval=1)
@@ -32,7 +32,8 @@ def resolve(url: str, cache: dict | None = None) -> str | None:
     except Exception as e:  # noqa: BLE001
         log.warning("Google News link not resolved: %s", e)
         return None                       # not cached: try again next time
-    cache[url] = out or ""
+    if out:                               # only successes are cached; failures are retried next time
+        cache[url] = out
     return out
 
 
