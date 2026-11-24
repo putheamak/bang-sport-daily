@@ -4,26 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Russian MMA Fighter Amir Aliev Released After Paris Detention
-`2026-11-23-news-b02637` · 2026-11-23
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg/1280px-Adidas_Arena_fa%C3%A7ade_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Adidas Arena**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Adidas_Arena_fa%C3%A7ade_(cropped).jpg)<br>AI sees: _the exterior facade of the Adidas Arena in Paris_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg/1280px-H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Montreuil, Seine-Saint-Denis**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_ville_Montreuil_Seine_St_Denis_15.jpg)<br>AI sees: _Hôtel de ville (city hall) of Montreuil, Seine-Saint-Denis_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg/1280px-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Grozny**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C_%22%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8%22.jpg)<br>AI sees: _The Heart of Chechnya Mosque and city skyline in Grozny_
-<br clear="left">
-
----
-
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24
 
