@@ -1,4 +1,4 @@
-# Photo review — 2026-11-24
+# Photo review — 2026-11-25
 
 Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
@@ -335,98 +335,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/7d22a100c61eb8fe-640.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Viswanathan Anand**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg)
-<br clear="left">
-
----
-
-## ✅ live · Kevin Vallejos Targets Title Shot Ahead of Aljamain Sterling Clash at UFC Qatar
-`2026-11-21-news-d01c57` · 2026-11-21
-
-<img src="../docs/photos/c/893d689ff65c956d-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Aljamain Sterling**<br>2018 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Alijamain_Sterling_at_UFC_228.jpg)<br>AI sees: _UFC fighter Aljamain Sterling_
-<br clear="left">
-
-<img src="../docs/photos/c/4f2b6d1f32222fb7.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)<br>AI sees: _Czech mixed martial artist Jiří Procházka during an interview_
-<br clear="left">
-
----
-
-## ✅ live · Jiří Procházka and Navajo Stirling Make Weight Ahead of UFC Qatar Main Event
-`2026-11-21-news-14e91f` · 2026-11-21
-
-<img src="../docs/photos/c/4f2b6d1f32222fb7.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)
-<br clear="left">
-
----
-
-## ✅ live · Vietnam Push Belgium to the Brink in Spirited 3-2 U-17 World Cup Debut
-`2026-11-21-news-10e4ee` · 2026-11-21
-
-<img src="../docs/photos/c/3a1f1ebb96c754a1-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone at night with fireworks_<br>⚑ file looks like a non-sport scene (Fireworks)
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-21-news-10e4ee.png" width="240" align="left" hspace="10">
-
-**2. 🟢 our score card**<br>Caption: **Belgium U17 3 - 2 Vietnam U17 · FIFA U-17 World Cup 2026**<br>2026 · Own work
-<br clear="left">
-
-🔗 Embedded post: [Mohamed Farag - FIFA/FIFA via Getty Images](https://www.gettyimages.com/detail/2306053490) — {'en': "Vietnam's players line up for the team photo before their U-17 World Cup opener against Belgium at the Aspire Zone", 'zh': '越南队球员在精英学院与比利时队的U-17世界杯首战开赛前合影', 'ru': 'Игроки сборной Вьетнама фотографируются перед стартовым матчем юношеского ЧМ против Бельгии на арене Aspire Zone'}
-
----
-
-## ✅ live · The Boy from Madeira Who Rewrote Football: The Life and Legacy of Cristiano Ronaldo
-`2026-11-21-athl-6d2c08` · 2026-11-21
-
-<img src="../docs/photos/c/afc309c3e1c30a3f-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **"Cristiano Ronaldo"**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:%22Cristiano_Ronaldo%22_(5098214382).jpg)<br>AI sees: _Cristiano Ronaldo playing for Real Madrid in a Champions League football match_
-<br clear="left">
-
-<img src="../docs/photos/c/a0530c67f3c644f8-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Cristiano Ronaldo playing for Portugal in the quarterfinal game against Poland at the UEFA Euro 2016**<br>2016 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:1_cristiano_ronaldo_2016.jpg)<br>AI sees: _Cristiano Ronaldo jumping during Portugal vs Poland at UEFA Euro 2016_
-<br clear="left">
-
-<img src="../docs/photos/c/e2a0933965ab99d6-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Turin (Italy), Olympic "Grande Torino" Stadium, November 2, 2019. Juventus' forward Cristiano Ronaldo leave the pitch at the end of the victorius Turin derby between Torino FC and Juventus FC (0-1), M**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2019-20_Serie_A_-_Torino_v_Juventus_-_Cristiano_Ronaldo_(cropped).jpg)<br>AI sees: _Cristiano Ronaldo playing for Juventus in 2019_
-<br clear="left">
-
-<img src="../docs/photos/c/56ea4f3d4107763b-640.jpg" width="240" align="left" hspace="10">
-
-**4. 🟢 OK**<br>Caption: **CR7 museum and hotel in Funchal, Madeira**<br>2016 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:CR7_museum_and_hotel_in_Funchal,_Madeira.JPG)<br>AI sees: _The Pestana CR7 Hotel and CR7 Museu in Funchal, Madeira_
-<br clear="left">
-
-<img src="../docs/photos/c/9cb7ecc7d8baa523-640.jpg" width="240" align="left" hspace="10">
-
-**5. 🟢 OK**<br>Caption: **Estádio José Alvalade in Lisbon, home of Sporting CP, where Ronaldo turned professional**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Jos%C3%A9_Alvalade_antes_do_jogo_Sporting_-_Arouca.jpg)<br>AI sees: _interior of Estádio José Alvalade with green seats and pitch_
-<br clear="left">
-
-<img src="../docs/photos/c/b2d0994eade48a4d-640.jpg" width="240" align="left" hspace="10">
-
-**6. 🟢 OK**<br>Caption: **Old Trafford, Manchester United's home, where Ronaldo won his first Ballon d'Or**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg)<br>AI sees: _Aerial view of Old Trafford football stadium_
-<br clear="left">
-
----
-
-## ✅ live · Khabib Nurmagomedov's Path From the Dagestan Mountains to 29-0 MMA Perfection
-`2026-11-21-athl-4ed038` · 2026-11-21
-
-<img src="../docs/photos/c/91ac6e510e408907.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Abdulmanap Nurmagomedov**<br>2016 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0%D0%BF_%D0%9D%D1%83%D1%80%D0%BC%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D0%B4%D0%BE%D0%B2.png)<br>AI sees: _Abdulmanap Nurmagomedov wearing a Reebok shirt_
-<br clear="left">
-
-<img src="../docs/photos/c/8f93c8d58b394525-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Khabib Nurmagomedov**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Khabib_nurmagomedov.jpg)<br>AI sees: _Khabib Nurmagomedov being interviewed at a UFC Hall of Fame event_
 <br clear="left">
 
 ---
