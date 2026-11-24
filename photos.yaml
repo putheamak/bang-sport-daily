@@ -290,3 +290,19 @@
         en: "Week 8 attendance: 9,789 fans, including 7,502 at Svay Rieng v Angkor Tiger"
         zh: "第8轮观众人数：共9,789人，其中柴桢对阵吴哥猛虎7,502人"
         ru: "Посещаемость 8-го тура: 9 789 зрителей, из них 7 502 на матче «Свайриенг» — «Ангкор Тайгер»"
+
+# 24 Nov 2026: wrong cover (drawing of Tran Nhan Tong) removed; stadium + our score card instead.
+2026-11-24-news-98e731:
+  mode: replace
+  photos:
+    - wikipedia: "Aspire Zone"
+      caption: "Aspire Zone, Doha, host of the FIFA U-17 World Cup"
+
+# 24 Nov 2026: only 1 picture; add the headliner and the co-main fighter.
+2026-11-24-news-f01fca:
+  mode: add
+  photos:
+    - wikipedia: "Taylor Lapilus"
+      caption: "Taylor Lapilus"
+    - wikipedia: "Fabian Edwards"
+      caption: "Fabian Edwards"
