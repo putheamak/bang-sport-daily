@@ -329,3 +329,22 @@
         en: "Official K-1 video: Chhut Serey Vannthong's decision win over Riki"
         zh: "K-1官方视频：Chhut Serey Vannthong判定战胜立基"
         ru: "Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей"
+
+# 24 Nov 2026 evening drafts
+2026-11-24-news-0390f5:
+  mode: add
+  photos:
+    - wikipedia: "Humo Arena"
+      caption: "Humo Arena, Tashkent"
+    - wikipedia: "Tashkent"
+      caption: "Tashkent, host city of the World Boxing Cup Finals"
+2026-11-24-news-4177ff:
+  mode: add
+  photos:
+    - wikipedia: "Panama City"
+      caption: "Panama City, where the World Boxing congress voted"
+2026-11-24-news-95243b:
+  mode: replace
+  photos:
+    - wikipedia: "Aspire Academy"
+      caption: "Aspire Academy in Doha's Aspire Zone, home of the FIFA U-17 World Cup"
