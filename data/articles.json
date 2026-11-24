@@ -305,6 +305,30 @@
     "region": "global",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/1280px-Lyon-part-dieu-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg",
+        "artist": "Aldg692VX",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Skyline (ligne d'horizon) des tours du quartier de la Part-Dieu, avec de gauche à droite : les tours Incity, Swiss life, Oxygène, Part-Dieu, To-Lyon et Silex 2.",
+        "width": 1200,
+        "height": 803,
+        "year": 2023,
+        "subject": "Lyon, host city of the PFL event on 19 December",
+        "asked": "Lyon",
+        "page_title": "Lyon",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:lyon-part-dieu-2023.jpg|Lyon, host city of the PFL event on 19 December",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Skyline of Lyon featuring Part-Dieu skyscrapers",
+          "reason": "The photo accurately shows the city skyline of Lyon, the host city described in the caption.",
+          "by": "ai"
+        }
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg/1280px-LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg",
         "artist": "Chabe01",
@@ -322,18 +346,13 @@
           "key": "https://commons.wikimedia.org/wiki/file:ldlc_arena_-_d%c3%a9cines-charpieu_(fr69)_-_2023-12-28_-_1.jpg|LDLC Arena",
           "verdict": "ok",
           "flags": [],
-          "shows": "Exterior of LDLC Arena at night with crowds entering",
-          "reason": "The image shows the illuminated modern exterior of the LDLC Arena in Décines-Charpieu near Lyon.",
+          "shows": "Exterior of the LDLC Arena at night with crowds entering",
+          "reason": "The photo clearly shows the exterior of the LDLC Arena in Décines-Charpieu (Lyon).",
           "by": "ai"
         }
       }
     ],
     "standards": [
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
       {
         "level": "WARN",
         "area": "ethics",
@@ -350,7 +369,7 @@
         "msg": "2 source(s) are homepages, not articles: https://pflmma.com, https://mmasucka.com"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Taylor Lapilus\", \"wikipedia\": \"Taylor Lapilus\"}, {\"caption\": \"Fabian Edwards\", \"wikipedia\": \"Fabian Edwards\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Lyon, host city of the PFL event on 19 December\", \"wikipedia\": \"Lyon\"}]}"
   },
   {
     "id": "2026-11-24-news-98e731",

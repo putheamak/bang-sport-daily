@@ -1,11 +1,7 @@
-2026-11-24 04:05:23,374 WARNING No free-licence lead photo for Wikipedia article 'Taylor Lapilus'
-2026-11-24 04:05:23,870 WARNING No free-licence lead photo for Wikipedia article 'Fabian Edwards'
-2026-11-24 04:05:23,870 INFO Photos for 2026-11-24-news-f01fca set from photos.yaml (1 photo(s))
-2026-11-24 04:05:24,153 INFO Photo check Asian_Games_Doha_2006_fireworks.jpg (Wikimedia Commons, 1776x1181): OK, licence 'CC BY-SA 2.0'
-2026-11-24 04:05:24,225 INFO Match card added to 2026-11-24-news-98e731
-2026-11-24 04:05:24,225 INFO Photos for 2026-11-24-news-98e731 set from photos.yaml (2 photo(s))
-2026-11-24 04:05:24,962 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 04:05:31,709 INFO Photo check 2026-11-24-news-f01fca #1 'LDLC Arena': OK
-2026-11-24 04:05:39,235 INFO Photo check 2026-11-24-news-98e731 #1 'Aspire Zone, Doha, host of the FIFA U-17': OK — file looks like a non-sport scene (Fireworks)
-2026-11-24 04:05:39,985 INFO Website built: 75 published stories, 270 pages
-2026-11-24 04:05:39,987 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 34 ok / 0 failed (68,272 in / 77,766 out tokens) · estimated cost if billed: US$0.343
+2026-11-24 04:06:26,295 INFO Photo check Lyon-part-dieu-2023.jpg (Wikimedia Commons, 5347x3576): OK, licence 'CC BY-SA 4.0'
+2026-11-24 04:06:26,295 INFO Photos for 2026-11-24-news-f01fca set from photos.yaml (2 photo(s))
+2026-11-24 04:06:27,134 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 04:06:33,919 INFO Photo check 2026-11-24-news-f01fca #1 'Lyon, host city of the PFL event on 19 D': OK
+2026-11-24 04:06:40,840 INFO Photo check 2026-11-24-news-f01fca #2 'LDLC Arena': OK
+2026-11-24 04:06:41,492 INFO Website built: 75 published stories, 270 pages
+2026-11-24 04:06:41,494 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 36 ok / 0 failed (71,317 in / 78,146 out tokens) · estimated cost if billed: US$0.347
