@@ -396,7 +396,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T18:39:20+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -505,7 +505,20 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR3BPcG5xdXFFUGlXeHcwSHo4Q2IydDY3dVhiNk5ueVlZOXNETDRtT1d2d0JyUkZGM1FqQmlTSnRPNmhOXzdDY3FIRjRzRmZjNjZlZTNOMkpkd05zTmo3U1I0UEVZdzFMcmZ3NmlCYVI4bEIwQ0l6OW5lLXpFem9LMHpxcWpmSlc1WldtemhLZnZkcVhzSXhxYi1EZlRmY05vSXZoYWlvaldpOXJ4cU5fa080TGVEUDBRczBHMl9HRmZhYlZEa1hIc0tYbThrSEI2VlNVUDFaSU1odkJaenpoMjY4V3RzaVQwUXc?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T19:21:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T19:21:28+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T19:21:29+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -616,7 +629,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-24T19:21:29+07:00"
   },
   {
     "id": "2026-11-24-hist-a02660",

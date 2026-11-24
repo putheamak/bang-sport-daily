@@ -34,26 +34,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Mirra Andreeva Earns $10.65 Million to Enter Global Top Five in 2026 Prize Money
-`2026-11-24-news-2b4378` · 2026-11-24
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/1280px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Elena Rybakina**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg)<br>AI sees: _tennis player Elena Rybakina smiling on court_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Mirra Andreeva**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg)<br>AI sees: _Mirra Andreeva playing tennis in tennis attire_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev on a tennis court_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Kazakhstan Names 11 Boxers for Season-Ending World Boxing Cup Finals in Tashkent
 `2026-11-24-news-0390f5` · 2026-11-24
 
@@ -120,6 +100,26 @@ _No photos._
 <br clear="left">
 
 🔗 Embedded post: [K-1 Worldwide (@K1_ReBoot)](https://x.com/K1_ReBoot/status/2124823613643858283) — {'en': "Official K-1 video: Chhut Serey Vannthong's decision win over Riki", 'zh': 'K-1官方视频：Chhut Serey Vannthong判定战胜立基', 'ru': 'Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей'}
+
+---
+
+## ✅ live · Mirra Andreeva Earns $10.65 Million to Enter Global Top Five in 2026 Prize Money
+`2026-11-24-news-2b4378` · 2026-11-24
+
+<img src="../docs/photos/c/5c76f1f4f9d63138-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Elena Rybakina**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg)<br>AI sees: _tennis player Elena Rybakina smiling on court_
+<br clear="left">
+
+<img src="../docs/photos/c/eb2a094d21553351-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Mirra Andreeva**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg)<br>AI sees: _Mirra Andreeva playing tennis in tennis attire_
+<br clear="left">
+
+<img src="../docs/photos/c/df69886f32165bfc-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev on a tennis court_
+<br clear="left">
 
 ---
 
