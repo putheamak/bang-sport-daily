@@ -311,3 +311,14 @@
   photos:
     - wikipedia: "Yevgeni Trefilov"
       caption: "Yevgeni Trefilov in August 2016"
+
+# 24 Nov 2026: our own result card for Chhut's K-1 win (added after his photo).
+2026-11-24-news-928d27:
+  fight:
+    event: "K-1 Revenge II · Korakuen Hall, Tokyo"
+    date: "23 November 2026"
+    winner: "Chhut Serey Vannthong"
+    loser: "Riki"
+    method: "Unanimous decision (30-27, 30-28, 30-28)"
+    round: 3
+    note: "Super-featherweight (-60 kg)"
