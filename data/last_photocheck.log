@@ -1,7 +1,6 @@
-2026-11-24 04:06:26,295 INFO Photo check Lyon-part-dieu-2023.jpg (Wikimedia Commons, 5347x3576): OK, licence 'CC BY-SA 4.0'
-2026-11-24 04:06:26,295 INFO Photos for 2026-11-24-news-f01fca set from photos.yaml (2 photo(s))
-2026-11-24 04:06:27,134 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 04:06:33,919 INFO Photo check 2026-11-24-news-f01fca #1 'Lyon, host city of the PFL event on 19 D': OK
-2026-11-24 04:06:40,840 INFO Photo check 2026-11-24-news-f01fca #2 'LDLC Arena': OK
-2026-11-24 04:06:41,492 INFO Website built: 75 published stories, 270 pages
-2026-11-24 04:06:41,494 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 36 ok / 0 failed (71,317 in / 78,146 out tokens) · estimated cost if billed: US$0.347
+2026-11-24 04:08:07,027 INFO Photo check Architektur-Drahtgewebe.jpg (English Wikipedia only, 319x359): REFUSED, licence 'CC BY-SA-3.0' (a file kept only on Wikipedia must be public domain)
+2026-11-24 04:08:07,027 WARNING No free-licence lead photo for Wikipedia article 'Aspire Tower'
+2026-11-24 04:08:07,097 INFO Match card added to 2026-11-24-news-98e731
+2026-11-24 04:08:07,098 INFO Photos for 2026-11-24-news-98e731 set from photos.yaml (1 photo(s))
+2026-11-24 04:08:07,206 INFO IndexNow: 3 page(s) waiting for the next run
+2026-11-24 04:08:07,756 INFO Website built: 76 published stories, 273 pages

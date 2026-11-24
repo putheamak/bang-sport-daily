@@ -556,32 +556,6 @@
     "region": "sea",
     "images": [
       {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg",
-        "artist": "Rafeek Manchayil",
-        "license": "CC BY-SA 2.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "description": "Fireworks from the opening ceremony of the 2006 Asian Games at Doha",
-        "width": 1200,
-        "height": 798,
-        "year": 2006,
-        "subject": "Aspire Zone, Doha, host of the FIFA U-17 World Cup",
-        "asked": "Aspire Zone",
-        "page_title": "Aspire Zone",
-        "editor": false,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:asian_games_doha_2006_fireworks.jpg|Aspire Zone, Doha, host of the FIFA U-17 World Cup",
-          "verdict": "ok",
-          "flags": [
-            "file looks like a non-sport scene (Fireworks)"
-          ],
-          "shows": "Aspire Tower and Khalifa International Stadium at Aspire Zone in Doha at night",
-          "reason": "The photo shows the Aspire Zone complex including the Torch tower and Khalifa Stadium in Doha.",
-          "by": "ai"
-        }
-      },
-      {
         "url": "../photos/card-2026-11-24-news-98e731.png",
         "page": "",
         "artist": "Bang Sport Daily (graphic)",
@@ -597,14 +571,9 @@
     ],
     "standards": [
       {
-        "level": "WARN",
-        "area": "photos",
-        "msg": "Cover photo is from 2006. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
         "level": "BLOCK",
         "area": "photos",
-        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
       },
       {
         "level": "WARN",
@@ -617,7 +586,7 @@
         "msg": "4 source(s) are homepages, not articles: https://laodong.vn, https://bongdaplus.vn, https://vov.vn"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Zone, Doha, host of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Zone\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Tower above Aspire Zone, Doha, host of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Tower\"}]}"
   },
   {
     "id": "2026-11-23-news-dbb56e",
