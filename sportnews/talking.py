@@ -106,6 +106,18 @@ def _time(iso: str | None, lang: str) -> str:
     return f'<time class="ago" datetime="{E(d.isoformat())}">{d.strftime("%d %b, %H:%M")} UTC</time>'
 
 
+def _since(st: dict) -> str | None:
+    """The earlier of: first seen by our radar, the lead outlet's publication time."""
+    vals = []
+    for v in (st.get("first_seen"), st.get("published")):
+        try:
+            d = datetime.fromisoformat(v)
+            vals.append(d if d.tzinfo else d.replace(tzinfo=timezone.utc))
+        except (TypeError, ValueError):
+            pass
+    return min(vals).isoformat() if vals else None
+
+
 def _discuss(cfg, lang: str, url: str, text: str) -> str:
     s = T[lang]
     links = "".join(f'<a class="sh-{svc}" href="{E(_share_url(svc, url, text))}" target="_blank" rel="noopener nofollow">{NAMES[svc]}</a>'
@@ -130,7 +142,7 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
     sport = E((st.get("sport") or "sport").replace("_", " "))
     return (f'<li class="tp-item" id="{anchor}"><span class="tp-rank">{rank}</span><div class="tp-body">'
             f'<div class="tp-meta">{kun}<span class="tp-sport k-{E(st.get("sport") or "default")}">{sport}</span>'
-            f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["since"])} {_time(st.get("first_seen") or st.get("published"), lang)}</span></div>'
+            f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["since"])} {_time(_since(st), lang)}</span></div>'
             f'<h2>{E(title)}</h2><p class="tp-src">{E(s["sources"])}: {src}{more}</p>'
             f'<div class="tp-actions">{_discuss(cfg, lang, story_url or page_url, title)}'
             + (f'<a class="tp-story" href="{E(ours["slug"])}.html">{E(s["story"])}</a>' if ours else "")

@@ -188,7 +188,9 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None, top: int
 
 SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|MLB|NHL trade|waiver wire|"
         r"school|schools|schoolboys|grassroots|amateur|8U|U8|U10|U12|7s|"
-        r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies)\b")
+        r"Jaguars|Vikings|Bills|49ers|Raiders|Cardinals|Hokies|Bengals|Commanders|Chiefs|Steelers|Packers|Cowboys|"
+        r"Patriots|Dolphins|Ravens|Browns|Texans|Colts|Titans|Broncos|Chargers|Seahawks|Saints|Buccaneers|Falcons|"
+        r"MNF|SNF|TNF|Monday Night Football|Sunday Night Football|Thursday Night Football|NFL Draft)\b")
 
 FLAG = {"en": "🇬🇧", "zh": "🇨🇳", "ru": "🇷🇺", "km": "🇰🇭"}
 
