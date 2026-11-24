@@ -81,8 +81,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:rahumeaspradalserey.jpg|Chhut Serey Vannthong",
           "verdict": "ok",
           "flags": [],
-          "shows": "A Kun Khmer fighter posing in a gym wearing Kun Khmer shorts",
-          "reason": "The fighter is wearing Kun Khmer shorts in front of a gym banner matching the sport and subject.",
+          "shows": "Kun Khmer fighter Chhut Serey Vannthong in a training gym",
+          "reason": "Plausibly and accurately shows the captioned Kun Khmer boxer in combat sports gear at a gym.",
           "by": "ai"
         }
       },
@@ -104,8 +104,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:20170104_korakuen_hall.jpg|Korakuen Hall",
           "verdict": "ok",
           "flags": [],
-          "shows": "Exterior of the Korakuen Hall building in Tokyo",
-          "reason": "The image clearly shows the entrance and signage for Korakuen Hall in Tokyo, matching the caption.",
+          "shows": "Exterior of Korakuen Hall building with signs in Tokyo",
+          "reason": "The image clearly shows Korakuen Hall's building entrance and signs in Japanese.",
           "by": "ai"
         }
       }
@@ -120,7 +120,21 @@
       "round": 3,
       "note": "Super-featherweight (-60 kg)"
     },
-    "photos_override": "{\"fight\": {\"date\": \"23 November 2026\", \"event\": \"K-1 Revenge II · Korakuen Hall, Tokyo\", \"loser\": \"Riki\", \"method\": \"Unanimous decision (30-27, 30-28, 30-28)\", \"note\": \"Super-featherweight (-60 kg)\", \"round\": 3, \"winner\": \"Chhut Serey Vannthong\"}}"
+    "photos_override": "{\"embeds\": [{\"account\": \"K-1 Worldwide (@K1_ReBoot)\", \"caption\": {\"en\": \"Official K-1 video: Chhut Serey Vannthong's decision win over Riki\", \"ru\": \"Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей\", \"zh\": \"K-1官方视频：Chhut Serey Vannthong判定战胜立基\"}, \"code\": \"https://x.com/K1_ReBoot/status/2124823613643858283\"}], \"fight\": {\"date\": \"23 November 2026\", \"event\": \"K-1 Revenge II · Korakuen Hall, Tokyo\", \"loser\": \"Riki\", \"method\": \"Unanimous decision (30-27, 30-28, 30-28)\", \"note\": \"Super-featherweight (-60 kg)\", \"round\": 3, \"winner\": \"Chhut Serey Vannthong\"}}",
+    "embeds": [
+      {
+        "platform": "X",
+        "url": "https://x.com/K1_ReBoot/status/2124823613643858283",
+        "src": "https://platform.twitter.com/embed/Tweet.html?id=2124823613643858283&dnt=true&theme=light",
+        "caption": {
+          "en": "Official K-1 video: Chhut Serey Vannthong's decision win over Riki",
+          "zh": "K-1官方视频：Chhut Serey Vannthong判定战胜立基",
+          "ru": "Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей"
+        },
+        "account": "K-1 Worldwide (@K1_ReBoot)",
+        "height": 720
+      }
+    ]
   },
   {
     "id": "2026-11-24-hist-ea6294",

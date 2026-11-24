@@ -1,5 +1,5 @@
-2026-11-24 04:46:23,680 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 04:46:30,212 INFO Photo check 2026-11-24-news-928d27 #1 'Chhut Serey Vannthong': OK
-2026-11-24 04:46:36,692 INFO Photo check 2026-11-24-news-928d27 #2 'Korakuen Hall': OK
-2026-11-24 04:46:38,097 INFO Website built: 78 published stories, 279 pages
-2026-11-24 04:46:38,099 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 44 ok / 0 failed (83,039 in / 83,426 out tokens) · estimated cost if billed: US$0.375
+2026-11-24 05:22:05,252 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 05:22:11,792 INFO Photo check 2026-11-24-news-928d27 #1 'Chhut Serey Vannthong': OK
+2026-11-24 05:22:18,709 INFO Photo check 2026-11-24-news-928d27 #2 'Korakuen Hall': OK
+2026-11-24 05:22:20,134 INFO Website built: 78 published stories, 279 pages
+2026-11-24 05:22:20,137 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 46 ok / 0 failed (85,997 in / 83,775 out tokens) · estimated cost if billed: US$0.379

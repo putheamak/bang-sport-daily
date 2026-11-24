@@ -9,13 +9,15 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Rahumeaspradalserey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Chhut Serey Vannthong**<br>2023 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Rahumeaspradalserey.jpg)<br>AI sees: _A Kun Khmer fighter posing in a gym wearing Kun Khmer shorts_
+**1. 🟢 OK** · cover<br>Caption: **Chhut Serey Vannthong**<br>2023 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Rahumeaspradalserey.jpg)<br>AI sees: _Kun Khmer fighter Chhut Serey Vannthong in a training gym_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20170104_Korakuen_Hall.jpg/1280px-20170104_Korakuen_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Korakuen Hall**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:20170104_Korakuen_Hall.jpg)<br>AI sees: _Exterior of the Korakuen Hall building in Tokyo_
+**2. 🟢 OK**<br>Caption: **Korakuen Hall**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:20170104_Korakuen_Hall.jpg)<br>AI sees: _Exterior of Korakuen Hall building with signs in Tokyo_
 <br clear="left">
+
+🔗 Embedded post: [K-1 Worldwide (@K1_ReBoot)](https://x.com/K1_ReBoot/status/2124823613643858283) — {'en': "Official K-1 video: Chhut Serey Vannthong's decision win over Riki", 'zh': 'K-1官方视频：Chhut Serey Vannthong判定战胜立基', 'ru': 'Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей'}
 
 ---
 
