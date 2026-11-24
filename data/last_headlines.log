@@ -1,24 +1,24 @@
-2026-11-24 00:11:30,927 INFO BBC Sport                         54 items
-2026-11-24 00:11:31,050 INFO The Guardian Sport                25 items
-2026-11-24 00:11:31,094 INFO ESPN                               0 items
-2026-11-24 00:11:31,281 INFO Sky Sports                        20 items
-2026-11-24 00:11:31,518 INFO Google News – Sports (EN)         59 items
-2026-11-24 00:11:32,069 INFO Google News – 体育 (ZH)             58 items
-2026-11-24 00:11:32,612 INFO Google News – Спорт (RU)          41 items
-2026-11-24 00:11:33,615 INFO Championat                        31 items
-2026-11-24 00:11:34,440 INFO Sports.ru                         19 items
-2026-11-24 00:11:35,906 INFO Спорт-Экспресс                   425 items
-2026-11-24 00:11:36,864 INFO РИА Новости Спорт                 20 items
-2026-11-24 00:11:38,100 INFO 中国新闻网 体育                          23 items
-2026-11-24 00:11:38,467 INFO Google News – Cambodia sport       5 items
-2026-11-24 00:11:38,999 INFO Google News – Southeast Asia sport  44 items
-2026-11-24 00:11:39,568 INFO Google News – Combat promotions   94 items
-2026-11-24 00:11:39,980 INFO Google News – Boxing              32 items
-2026-11-24 00:11:40,217 INFO Google News – Kun Khmer            1 items
-2026-11-24 00:11:40,422 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 00:11:40,984 INFO Google News – Единоборства (RU)   99 items
-2026-11-24 00:11:41,469 INFO Google News – 格斗 (ZH)             38 items
-2026-11-24 00:11:41,729 INFO MMA Fighting                      10 items
-2026-11-24 00:11:41,992 INFO Google News – Khmer Times sport    5 items
-2026-11-24 00:11:42,902 INFO Candidate stories after clustering: 990
-2026-11-24 00:11:43,763 INFO Website built: 75 published stories, 270 pages
+2026-11-24 02:53:35,497 INFO BBC Sport                         53 items
+2026-11-24 02:53:35,595 INFO The Guardian Sport                25 items
+2026-11-24 02:53:35,643 INFO ESPN                              41 items
+2026-11-24 02:53:35,708 INFO Sky Sports                        20 items
+2026-11-24 02:53:43,985 WARNING Feed unreadable Google News – Sports (EN): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:53:53,758 WARNING Feed unreadable Google News – 体育 (ZH): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:01,915 WARNING Feed unreadable Google News – Спорт (RU): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:02,599 INFO Championat                        30 items
+2026-11-24 02:54:03,231 INFO Sports.ru                         19 items
+2026-11-24 02:54:03,914 INFO Спорт-Экспресс                   396 items
+2026-11-24 02:54:04,528 INFO РИА Новости Спорт                 20 items
+2026-11-24 02:54:04,777 INFO 中国新闻网 体育                          21 items
+2026-11-24 02:54:11,935 WARNING Feed unreadable Google News – Cambodia sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:21,187 WARNING Feed unreadable Google News – Southeast Asia sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:27,918 WARNING Feed unreadable Google News – Combat promotions: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:33,128 WARNING Feed unreadable Google News – Boxing: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:42,350 WARNING Feed unreadable Google News – Kun Khmer: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:49,837 WARNING Feed unreadable Google News – គុនខ្មែរ (Khmer): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:54:59,215 WARNING Feed unreadable Google News – Единоборства (RU): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:55:04,497 WARNING Feed unreadable Google News – 格斗 (ZH): <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:55:04,570 INFO MMA Fighting                      10 items
+2026-11-24 02:55:10,584 WARNING Feed unreadable Google News – Khmer Times sport: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 02:55:11,038 INFO Candidate stories after clustering: 595
+2026-11-24 02:55:11,734 INFO Website built: 75 published stories, 270 pages
