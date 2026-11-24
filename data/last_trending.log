@@ -1,65 +1,71 @@
-2026-11-24 11:44:35,192 INFO BBC Sport                         47 items
-2026-11-24 11:44:35,279 INFO The Guardian Sport                26 items
-2026-11-24 11:44:35,328 INFO ESPN                              42 items
-2026-11-24 11:44:35,388 INFO Sky Sports                        20 items
-2026-11-24 11:44:35,576 INFO Google News – Sports (EN)         60 items
-2026-11-24 11:44:36,189 INFO Google News – 体育 (ZH)             62 items
-2026-11-24 11:44:36,785 INFO Google News – Спорт (RU)          48 items
-2026-11-24 11:44:37,469 INFO Championat                        28 items
-2026-11-24 11:44:37,980 INFO Sports.ru                         19 items
-2026-11-24 11:44:38,853 INFO Спорт-Экспресс                   404 items
-2026-11-24 11:44:39,782 INFO РИА Новости Спорт                 20 items
-2026-11-24 11:44:39,944 INFO 中国新闻网 体育                          26 items
-2026-11-24 11:44:40,234 INFO Google News – Cambodia sport      11 items
-2026-11-24 11:44:40,607 INFO Google News – Southeast Asia sport  35 items
-2026-11-24 11:44:41,114 INFO Google News – Combat promotions   96 items
-2026-11-24 11:44:41,502 INFO Google News – Boxing              32 items
-2026-11-24 11:44:41,717 INFO Google News – Kun Khmer            1 items
-2026-11-24 11:44:41,971 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 11:44:42,509 INFO Google News – Единоборства (RU)   99 items
-2026-11-24 11:44:43,007 INFO Google News – 格斗 (ZH)             39 items
-2026-11-24 11:44:43,054 INFO MMA Fighting                      10 items
-2026-11-24 11:44:43,285 INFO Google News – Khmer Times sport    7 items
-2026-11-24 11:44:43,753 INFO Google News – Tennis              80 items
-2026-11-24 11:44:44,195 INFO Google News – Basketball          94 items
-2026-11-24 11:44:44,666 INFO Google News – Motorsport          94 items
-2026-11-24 11:44:45,161 INFO Google News – Badminton, athletics, table tennis  73 items
-2026-11-24 11:44:45,598 INFO Google News – Cricket            100 items
-2026-11-24 11:44:46,071 INFO Google News – 网球与篮球 (ZH)           6 items
-2026-11-24 11:44:46,569 INFO Google News – 羽毛球与乒乓 (ZH)         59 items
-2026-11-24 11:44:47,074 INFO Google News – Теннис и баскетбол (RU) 100 items
-2026-11-24 11:44:47,644 INFO Google News – Формула-1 и биатлон (RU)  99 items
-2026-11-24 11:44:49,591 INFO Candidate stories after clustering: 1639
-2026-11-24 11:44:52,603 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
-2026-11-24 11:44:52,607 INFO Trending skipped (not our audience): Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs 
-2026-11-24 11:44:52,608 INFO Trending skipped (not our audience): What PFF grades say about 49ers' plan in blowout win over Vikings in Mexico City
-2026-11-24 11:44:52,611 INFO Trending skipped (politics): Медведев вновь угрожает ядерным ударом: ISW объяснил, чего добивается Кремль
-2026-11-24 11:44:52,613 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 11:44:52,613 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 11:44:55,847 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
-2026-11-24 11:44:55,851 INFO Trending skipped (not our audience): Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs 
-2026-11-24 11:44:55,852 INFO Trending skipped (not our audience): What PFF grades say about 49ers' plan in blowout win over Vikings in Mexico City
-2026-11-24 11:44:55,855 INFO Trending skipped (politics): Медведев вновь угрожает ядерным ударом: ISW объяснил, чего добивается Кремль
-2026-11-24 11:44:55,857 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 11:44:55,857 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 11:44:56,992 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
-2026-11-24 11:44:56,994 INFO Trending skipped (not our audience): Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs 
-2026-11-24 11:44:56,995 INFO Trending skipped (not our audience): What PFF grades say about 49ers' plan in blowout win over Vikings in Mexico City
-2026-11-24 11:44:56,997 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 11:44:58,137 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
-2026-11-24 11:44:58,139 INFO Trending skipped (not our audience): Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs 
-2026-11-24 11:44:58,140 INFO Trending skipped (not our audience): What PFF grades say about 49ers' plan in blowout win over Vikings in Mexico City
-2026-11-24 11:44:58,142 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 11:44:58,228 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 11:44:58,314 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 11:45:01,568 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-24 11:45:01,568 INFO   1. [en 15 outlets, heat 33.8] Carlos Alcaraz ‘goes with the flow’ in season-end statement to clinch first ATP Finals crown
-2026-11-24 11:45:01,568 INFO   2. [en 12 outlets, heat 26.4] Carl Cox and FISHER race LEGO cars at the Las Vegas Grand Prix
-2026-11-24 11:45:01,569 INFO   3. [ru 11 outlets, heat 25.4] Мирра Андреева вошла в топ-5 теннисистов по призовым за 2026 год
-2026-11-24 11:45:01,569 INFO   4. [en 9 outlets, heat 20.7] Welshmen Donald & Salt demolish Australia as England level series
-2026-11-24 11:45:01,569 INFO   5. [ru 7 outlets, heat 18.1] Казахстан объявил состав сборной по боксу на финальный этап Кубка мира в Ташкенте
-2026-11-24 11:45:01,569 INFO   C1. [ru 7 outlets, heat 18.1] Казахстан объявил состав сборной по боксу на финальный этап Кубка мира в Ташкенте
-2026-11-24 11:45:01,569 INFO   C2. [en 4 outlets, heat 10.9] Ilia Topuria proposes UFC card for Paddy Pimblett fight alongside Conor McGregor
-2026-11-24 11:45:01,569 INFO   C3. [en 4 outlets, heat 9.2] Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot
-2026-11-24 11:45:01,569 INFO   C4. [en 3 outlets, heat 9.1] “He Did Not Win”: Josh Hokit Reveals Message to UFC After Ciryl Gane Loss
-2026-11-24 11:45:01,569 INFO   C5. [ru 3 outlets, heat 9.0] Магомед Зайнуков проведет бой в UFC 16 января
+2026-11-24 12:07:01,691 INFO BBC Sport                         45 items
+2026-11-24 12:07:01,887 INFO The Guardian Sport                25 items
+2026-11-24 12:07:01,911 INFO ESPN                               0 items
+2026-11-24 12:07:02,092 INFO Sky Sports                        20 items
+2026-11-24 12:07:02,531 INFO Google News – Sports (EN)         60 items
+2026-11-24 12:07:03,610 INFO Google News – 体育 (ZH)             62 items
+2026-11-24 12:07:04,515 INFO Google News – Спорт (RU)          46 items
+2026-11-24 12:07:05,580 INFO Championat                        28 items
+2026-11-24 12:07:06,226 INFO Sports.ru                         19 items
+2026-11-24 12:07:07,917 INFO Спорт-Экспресс                   409 items
+2026-11-24 12:07:08,861 INFO РИА Новости Спорт                 20 items
+2026-11-24 12:07:10,276 INFO 中国新闻网 体育                          28 items
+2026-11-24 12:07:10,605 INFO Google News – Cambodia sport      11 items
+2026-11-24 12:07:11,028 INFO Google News – Southeast Asia sport  34 items
+2026-11-24 12:07:11,634 INFO Google News – Combat promotions   98 items
+2026-11-24 12:07:12,013 INFO Google News – Boxing              34 items
+2026-11-24 12:07:12,254 INFO Google News – Kun Khmer            1 items
+2026-11-24 12:07:12,451 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 12:07:13,090 INFO Google News – Единоборства (RU)   97 items
+2026-11-24 12:07:13,516 INFO Google News – 格斗 (ZH)             38 items
+2026-11-24 12:07:13,699 INFO MMA Fighting                      10 items
+2026-11-24 12:07:13,924 INFO Google News – Khmer Times sport    7 items
+2026-11-24 12:07:14,121 INFO BBC Sport – Tennis                 1 items
+2026-11-24 12:07:14,575 INFO BBC Sport – Formula 1              1 items
+2026-11-24 12:07:14,811 INFO BBC Sport – Cricket                7 items
+2026-11-24 12:07:14,969 INFO BBC Sport – Boxing                 2 items
+2026-11-24 12:07:15,256 INFO BBC Sport – Athletics              0 items
+2026-11-24 12:07:15,617 INFO The Guardian – Tennis              2 items
+2026-11-24 12:07:15,670 INFO The Guardian – Formula 1           1 items
+2026-11-24 12:07:15,731 INFO The Guardian – Cricket             5 items
+2026-11-24 12:07:15,748 INFO ESPN – NBA                         0 items
+2026-11-24 12:07:15,765 INFO ESPN – Tennis                      0 items
+2026-11-24 12:07:15,967 WARNING Feed unreadable MMA Junkie: <unknown>:2:0: syntax error
+2026-11-24 12:07:17,922 INFO Sherdog                            8 items
+2026-11-24 12:07:18,062 INFO Sky Sports – Football             20 items
+2026-11-24 12:07:18,796 INFO Чемпионат – Теннис                31 items
+2026-11-24 12:07:19,581 INFO Чемпионат – Хоккей                28 items
+2026-11-24 12:07:20,129 INFO Google News – Tennis              77 items
+2026-11-24 12:07:20,621 INFO Google News – Basketball          94 items
+2026-11-24 12:07:21,149 INFO Google News – Motorsport          94 items
+2026-11-24 12:07:21,673 INFO Google News – Badminton, athletics, table tennis  74 items
+2026-11-24 12:07:22,261 INFO Google News – Cricket             97 items
+2026-11-24 12:07:22,736 INFO Google News – 网球与篮球 (ZH)           6 items
+2026-11-24 12:07:23,178 INFO Google News – 羽毛球与乒乓 (ZH)         59 items
+2026-11-24 12:07:23,742 INFO Google News – Теннис и баскетбол (RU) 100 items
+2026-11-24 12:07:24,266 INFO Google News – Формула-1 и биатлон (RU)  98 items
+2026-11-24 12:07:26,894 INFO Candidate stories after clustering: 1652
+2026-11-24 12:07:32,346 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-24 12:07:32,355 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 12:07:32,356 INFO Trending skipped (not our audience): What PFF grades say about 49ers' plan in blowout win over Vikings in Mexico City
+2026-11-24 12:07:32,361 INFO Trending skipped (politics): Медведев вновь угрожает ядерным ударом: ISW объяснил, чего добивается Кремль
+2026-11-24 12:07:32,362 INFO Trending skipped (not our audience): NFL Week 11 winners and losers: Cowboys offense makes history in get-right win, Steelers s
+2026-11-24 12:07:32,363 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 12:07:32,364 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 12:07:34,076 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-24 12:07:34,079 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
+2026-11-24 12:07:34,152 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-24 12:07:34,153 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
+2026-11-24 12:07:34,223 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-24 12:07:34,224 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
+2026-11-24 12:07:37,651 INFO Talking points sent to Telegram (5 stories)
+2026-11-24 12:07:37,651 INFO   1. [en 14 outlets, heat 38.4] Welshmen Donald & Salt demolish Australia as England level series
+2026-11-24 12:07:37,652 INFO   2. [en 14 outlets, heat 28.8] Carlos Alcaraz's statement year-end crown at ATP Finals 2026
+2026-11-24 12:07:37,652 INFO   3. [en 13 outlets, heat 28.2] ‘This isn’t F1’: Max Verstappen criticises overtake-heavy Las Vegas Grand Prix
+2026-11-24 12:07:37,652 INFO   4. [ru 11 outlets, heat 25.3] Россиянка Мирра Андреева стала главным «прорывом года» в теннисе
+2026-11-24 12:07:37,652 INFO   5. [ru 4 outlets, heat 10.8] "Перестаньте строить из себя святых": Стерлинг ответил Махачеву
+2026-11-24 12:07:37,652 INFO   C1. [en 5 outlets, heat 12.7] Alex Pereira vs Israel Adesanya: Ranking the five greatest GLORY kickboxers in UFC history
+2026-11-24 12:07:37,652 INFO   C2. [en 4 outlets, heat 10.9] Conor McGregor Makes Surprising Training Return for Potential Final UFC Fight Against Max Holloway
+2026-11-24 12:07:37,652 INFO   C3. [en 4 outlets, heat 10.7] Dustin Poirier Reacts After Ilia Topuria Puts Justin Gaethje in Co-Main Event of Dream UFC Card
+2026-11-24 12:07:37,652 INFO   C4. [ru 3 outlets, heat 9.3] Назван состав сборной России по боксу на Кубок мира
+2026-11-24 12:07:37,652 INFO   C5. [en 4 outlets, heat 9.2] Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot
