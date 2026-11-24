@@ -1,7 +1,5 @@
-2026-11-24 04:30:04,165 INFO Photo check Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg (Wikimedia Commons, 4864x3648): OK, licence 'FAL'
-2026-11-24 04:30:04,165 INFO Photos for 2026-11-23-news-23b075 set from photos.yaml (2 photo(s))
-2026-11-24 04:30:04,990 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 04:30:11,295 INFO Photo check 2026-11-23-news-23b075 #1 'Yevgeni Trefilov in August 2016': OK
-2026-11-24 04:30:18,797 INFO Photo check 2026-11-23-news-23b075 #2 'Sergey Shishkarev': OK
-2026-11-24 04:30:19,864 INFO Website built: 77 published stories, 276 pages
-2026-11-24 04:30:19,866 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 39 ok / 0 failed (75,808 in / 78,929 out tokens) · estimated cost if billed: US$0.353
+2026-11-24 04:46:23,680 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 04:46:30,212 INFO Photo check 2026-11-24-news-928d27 #1 'Chhut Serey Vannthong': OK
+2026-11-24 04:46:36,692 INFO Photo check 2026-11-24-news-928d27 #2 'Korakuen Hall': OK
+2026-11-24 04:46:38,097 INFO Website built: 78 published stories, 279 pages
+2026-11-24 04:46:38,099 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 44 ok / 0 failed (83,039 in / 83,426 out tokens) · estimated cost if billed: US$0.375

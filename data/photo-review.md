@@ -9,7 +9,7 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Rahumeaspradalserey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Chhut Serey Vannthong**<br>2023 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Rahumeaspradalserey.jpg)<br>AI sees: _A Kun Khmer fighter posing in a training gym wearing Kun Khmer shorts_
+**1. 🟢 OK** · cover<br>Caption: **Chhut Serey Vannthong**<br>2023 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Rahumeaspradalserey.jpg)<br>AI sees: _A Kun Khmer fighter posing in a gym wearing Kun Khmer shorts_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20170104_Korakuen_Hall.jpg/1280px-20170104_Korakuen_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">

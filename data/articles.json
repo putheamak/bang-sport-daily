@@ -81,8 +81,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:rahumeaspradalserey.jpg|Chhut Serey Vannthong",
           "verdict": "ok",
           "flags": [],
-          "shows": "A Kun Khmer fighter posing in a training gym wearing Kun Khmer shorts",
-          "reason": "The fighter is in Kun Khmer attire in a gym setting with 'KUN' visible, matching the captioned athlete.",
+          "shows": "A Kun Khmer fighter posing in a gym wearing Kun Khmer shorts",
+          "reason": "The fighter is wearing Kun Khmer shorts in front of a gym banner matching the sport and subject.",
           "by": "ai"
         }
       },
@@ -105,12 +105,22 @@
           "verdict": "ok",
           "flags": [],
           "shows": "Exterior of the Korakuen Hall building in Tokyo",
-          "reason": "The large exterior signage clearly identifies the building as Korakuen Hall (後楽園ホール).",
+          "reason": "The image clearly shows the entrance and signage for Korakuen Hall in Tokyo, matching the caption.",
           "by": "ai"
         }
       }
     ],
-    "standards": []
+    "standards": [],
+    "fight": {
+      "event": "K-1 Revenge II · Korakuen Hall, Tokyo",
+      "date": "23 November 2026",
+      "winner": "Chhut Serey Vannthong",
+      "loser": "Riki",
+      "method": "Unanimous decision (30-27, 30-28, 30-28)",
+      "round": 3,
+      "note": "Super-featherweight (-60 kg)"
+    },
+    "photos_override": "{\"fight\": {\"date\": \"23 November 2026\", \"event\": \"K-1 Revenge II · Korakuen Hall, Tokyo\", \"loser\": \"Riki\", \"method\": \"Unanimous decision (30-27, 30-28, 30-28)\", \"note\": \"Super-featherweight (-60 kg)\", \"round\": 3, \"winner\": \"Chhut Serey Vannthong\"}}"
   },
   {
     "id": "2026-11-24-hist-ea6294",
