@@ -1302,3 +1302,11 @@ def test_fight_card_leads_when_asked(tmp_path, monkeypatch):
                    "method": "KO", "round": 2, "time": "4:58", "card_first": True}}
     assert images.ensure_match_card(a)
     assert a["images"][0]["card"] and a["images"][0]["subject"].startswith("Navajo Stirling def. Jiří Procházka · KO · Round 2 · 4:58")
+
+
+def test_parse_embed_x_post():
+    from sportnews.images import parse_embed
+    e = parse_embed({"code": '<blockquote class="twitter-tweet"><a href="https://t.co/abc">pic</a> '
+                             '<a href="https://x.com/K1_ReBoot/status/2124823613643858283?ref_src=twsrc%5Etfw">Nov</a>'})
+    assert e["platform"] == "X" and e["url"] == "https://x.com/K1_ReBoot/status/2124823613643858283"
+    assert "dnt=true" in e["src"] and e["account"] == "@K1_ReBoot"

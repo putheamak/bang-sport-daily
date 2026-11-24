@@ -345,6 +345,7 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
 
 EMBED_IG = re.compile(r"https?://(?:www\.)?instagram\.com/(?:[\w.]+/)?(p|reel|tv)/([\w-]+)", re.I)
 EMBED_FB = re.compile(r"https?://(?:www\.|m\.|web\.)?facebook\.com/\S+", re.I)
+EMBED_X = re.compile(r"https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/([A-Za-z0-9_]+)/status(?:es)?/(\d+)", re.I)
 
 
 def _cap(c):
@@ -403,7 +404,14 @@ def parse_embed(e) -> dict | None:
                f"&show_text=true&width=500")
         return {"platform": "Facebook", "url": clean, "src": src,
                 "caption": _cap(e.get("caption")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
-    log.warning("Embed %r skipped: only Instagram, Facebook and Getty Images are supported", url[:120])
+    m = EMBED_X.search(url)                       # an X (Twitter) post link, or the whole "Embed post" code
+    if m:
+        user, sid = m.group(1), m.group(2)
+        clean = f"https://x.com/{user}/status/{sid}"
+        src = f"https://platform.twitter.com/embed/Tweet.html?id={sid}&dnt=true&theme=light"
+        return {"platform": "X", "url": clean, "src": src, "caption": _cap(e.get("caption")),
+                "account": str(e.get("account", "") or "@" + user), "height": int(e.get("height", 720))}
+    log.warning("Embed %r skipped: only Instagram, Facebook, X and Getty Images are supported", url[:120])
     return None
 
 

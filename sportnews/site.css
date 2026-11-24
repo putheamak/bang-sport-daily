@@ -284,5 +284,7 @@ figure.inline figcaption{font-size:11.5px}
 .embed-load small{opacity:.85;font-size:.72em}
 .prose figure.embed figcaption{font-size:.78em;color:#777;margin-top:6px}
 .embed-facebook .embed-load{background:linear-gradient(135deg,#0866ff,#1877f2 60%,#4a90f5)}
+.embed-x .embed-load{background:linear-gradient(135deg,#000,#16181c 60%,#2f3336)}
+.embed-x .embed-cta{color:#000}
 .embed-getty-images .embed-load{background:linear-gradient(135deg,#1b1b1b,#333 60%,#4a4a4a)}
 .embed-getty-images .embed-load::before{border-radius:4px;background:linear-gradient(#fff,#fff) center/22px 3px no-repeat,linear-gradient(#fff,#fff) center 14px/22px 3px no-repeat}
