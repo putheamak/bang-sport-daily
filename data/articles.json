@@ -217,7 +217,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T03:34:37+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -274,7 +274,20 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHp0ZVdyWlRoYW1NNzRial9kTl9Yd3RwSm4xNmZqdk5BTHVlZjI1UF82UnpOaTd4dlhUeF96OTdFZHh6MzYzTTFUaFpoSG14SkhNRUFrQ3pkWW9LX3hGQm9aSE1JV25FY05EZUhzcDR6TEpKNnB4S0R5bFQ0WEg2VEVpVlVtV1FxX3o2clhHaVI?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T11:07:13+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T11:07:14+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T11:07:14+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -369,7 +382,8 @@
         "msg": "2 source(s) are homepages, not articles: https://pflmma.com, https://mmasucka.com"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Lyon, host city of the PFL event on 19 December\", \"wikipedia\": \"Lyon\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Lyon, host city of the PFL event on 19 December\", \"wikipedia\": \"Lyon\"}]}",
+    "published_at": "2026-11-24T11:07:14+07:00"
   },
   {
     "id": "2026-11-24-news-98e731",

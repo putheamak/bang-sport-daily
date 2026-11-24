@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
-`2026-11-24-news-f01fca` · 2026-11-24
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/1280px-Lyon-part-dieu-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Lyon, host city of the PFL event on 19 December**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg)<br>AI sees: _Skyline of Lyon featuring Part-Dieu skyscrapers_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg/1280px-LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **LDLC Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg)<br>AI sees: _Exterior of the LDLC Arena at night with crowds entering_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand
 `2026-11-24-news-98e731` · 2026-11-24
 
@@ -60,6 +45,21 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Sergey Shishkarev in a suit_
+<br clear="left">
+
+---
+
+## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
+`2026-11-24-news-f01fca` · 2026-11-24
+
+<img src="../docs/photos/c/c8741db355cddd98-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Lyon, host city of the PFL event on 19 December**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg)<br>AI sees: _Skyline of Lyon featuring Part-Dieu skyscrapers_
+<br clear="left">
+
+<img src="../docs/photos/c/4482d7c8f22d028e-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **LDLC Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg)<br>AI sees: _Exterior of the LDLC Arena at night with crowds entering_
 <br clear="left">
 
 ---
