@@ -4,16 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand
-`2026-11-24-news-98e731` · 2026-11-24
-
-<img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
-
-**1. 🟢 our score card** · cover<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Russian MMA Fighter Amir Aliev Released After Paris Detention
 `2026-11-23-news-b02637` · 2026-11-23
 
@@ -55,6 +45,16 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/4482d7c8f22d028e-640.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **LDLC Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:LDLC_Arena_-_D%C3%A9cines-Charpieu_(FR69)_-_2023-12-28_-_1.jpg)<br>AI sees: _Exterior of the LDLC Arena at night with crowds entering_
+<br clear="left">
+
+---
+
+## ✅ live · Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand
+`2026-11-24-news-98e731` · 2026-11-24
+
+<img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
+
+**1. 🟢 our score card** · cover<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
 <br clear="left">
 
 ---

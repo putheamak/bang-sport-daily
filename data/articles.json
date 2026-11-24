@@ -391,7 +391,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T03:33:19+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -525,7 +525,20 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQkZOSzBIWWVyeHdXal82b1hueUpJM1Iwa1ZYbkh6U25qbk5vcXJDRWo5bVVfODdYQm1vR1ZWcEFwbXVDTFZHY3hGUE10WXNENXc?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T11:11:20+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T11:11:21+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T11:11:22+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -586,7 +599,8 @@
         "msg": "4 source(s) are homepages, not articles: https://laodong.vn, https://bongdaplus.vn, https://vov.vn"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Khalifa International Stadium in Aspire Zone, Doha, home of the FIFA U-17 World Cup\", \"wikipedia\": \"Khalifa International Stadium\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Khalifa International Stadium in Aspire Zone, Doha, home of the FIFA U-17 World Cup\", \"wikipedia\": \"Khalifa International Stadium\"}]}",
+    "published_at": "2026-11-24T11:11:22+07:00"
   },
   {
     "id": "2026-11-23-news-dbb56e",
