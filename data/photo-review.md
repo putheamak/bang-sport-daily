@@ -1,8 +1,38 @@
 # Photo review — 2026-11-24
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Tian Bingyi Appointed China Badminton Head Coach for Los Angeles 2028 Cycle
+`2026-11-24-news-3d085d` · 2026-11-24
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Zhang_Nan.jpg/1280px-Zhang_Nan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Zhang Nan (badminton)**<br>2013 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Zhang_Nan.jpg)<br>AI sees: _Zhang Nan playing badminton_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Li_Yonbgo_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Li Yongbo**<br>2015 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Li_Yonbgo_portrait.jpg)<br>AI sees: _Chinese badminton coach Li Yongbo in national team apparel_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Morocco Deny China Historic U17 World Cup Win With 99th-Minute Equalizer
+`2026-11-24-news-376868` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Satoshi_Yamaguchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Satoshi Yamaguchi (footballer, born 1978)**<br>Asked for: Satoshi Ukishima → got page: Satoshi Yamaguchi (footballer, born 1978)<br>2011 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Satoshi_Yamaguchi.jpg)<br>AI sees: _Satoshi Yamaguchi playing for Gamba Osaka in 2011_<br>Why: The photo accurately shows Japanese footballer Satoshi Yamaguchi wearing the number 5 Gamba Osaka kit from 2011.<br>⚑ asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-24-news-376868.png" width="240" align="left" hspace="10">
+
+**2. 🟢 our score card**<br>Caption: **China 2 - 2 Morocco · FIFA U-17 World Cup**<br>2026 · Own work
+<br clear="left">
+
+---
 
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24
