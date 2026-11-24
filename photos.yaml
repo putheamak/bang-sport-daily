@@ -304,3 +304,10 @@
   photos:
     - wikipedia: "Lyon"
       caption: "Lyon, host city of the PFL event on 19 December"
+
+# 24 Nov 2026: add Trefilov himself (only Shishkarev before).
+2026-11-23-news-23b075:
+  mode: add
+  photos:
+    - wikipedia: "Yevgeni Trefilov"
+      caption: "Yevgeni Trefilov"
