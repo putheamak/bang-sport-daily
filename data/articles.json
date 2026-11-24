@@ -135,12 +135,42 @@
       "social_post": "Сборная Казахстана по боксу назвала состав из 11 спортсменов на финал Кубка мира 2026 года в Ташкенте (28 ноября — 3 декабря)! Во главе с Кариной Ибрагимовой и чемпионом мира среди молодежи Онером Сеилханом наша команда бросит вызов сборной Узбекистана и сильнейшим бойцам из 31 страны. Сумеет ли Казахстан занять первое место в общекомандном зачете? Делитесь прогнозами в комментариях! #Бокс #Казахстан #КубокМираПоБоксу"
     },
     "region": "global",
-    "images": [],
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/1280px-Humo_Arena_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Humo_Arena_2019.jpg",
+        "artist": "Mysportedit",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Хумо Арена весной 2019 года",
+        "width": 1200,
+        "height": 554,
+        "year": 2019,
+        "subject": "Humo Arena, Tashkent",
+        "asked": "Humo Arena",
+        "page_title": "Humo Arena",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:humo_arena_2019.jpg|Humo Arena, Tashkent",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of Humo Arena in Tashkent",
+          "reason": "The photo clearly shows Humo Arena in Tashkent with its visible logo, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
     "standards": [
       {
         "level": "BLOCK",
         "area": "photos",
-        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "INFO",
@@ -157,7 +187,8 @@
         "area": "sources",
         "msg": "4 source(s) are homepages, not articles: https://www.inform.kz, https://worldboxing.org, https://kursiv.kz"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Humo Arena, Tashkent\", \"wikipedia\": \"Humo Arena\"}, {\"caption\": \"Tashkent, host city of the World Boxing Cup Finals\", \"wikipedia\": \"Tashkent\"}]}"
   },
   {
     "id": "2026-11-24-news-c9ef21",
@@ -960,6 +991,30 @@
     "region": "russia",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Panama_Papers_%28148830809%29.jpeg/1280px-Panama_Papers_%28148830809%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).jpeg",
+        "artist": "Dronepicr",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "500px provided description: Panama-Stadt mit ca. 1,5 Millionen Einwohnern ist die Hauptstadt und der Regierungssitz des mittelamerikanischen Staates Panama. [#city ,#architecture ,#panama ,#aerial ,#p",
+        "width": 1200,
+        "height": 675,
+        "year": 2016,
+        "subject": "Panama City, where the World Boxing congress voted",
+        "asked": "Panama City",
+        "page_title": "Panama City",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:panama_papers_(148830809).jpeg|Panama City, where the World Boxing congress voted",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aerial view of the Panama City skyline and waterfront",
+          "reason": "The image accurately depicts Panama City, matching the caption illustrating the host city of the congress.",
+          "by": "ai"
+        }
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gennady_Golovkin_%28KAZ%29_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "page": "https://commons.wikimedia.org/wiki/File:Gennady_Golovkin_(KAZ)_2017.png",
         "artist": "Box Azteca",
@@ -977,24 +1032,20 @@
           "key": "https://commons.wikimedia.org/wiki/file:gennady_golovkin_(kaz)_2017.png|Gennady Golovkin",
           "verdict": "ok",
           "flags": [],
-          "shows": "boxer Gennady Golovkin in a suit",
-          "reason": "The image clearly depicts famous world champion boxer Gennady Golovkin.",
+          "shows": "Gennady Golovkin in a suit",
+          "reason": "The photo clearly depicts famous professional boxer Gennady Golovkin.",
           "by": "ai"
         }
       }
     ],
     "standards": [
       {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
-      {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+        "msg": "Cover photo is from 2016. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Panama City, where the World Boxing congress voted\", \"wikipedia\": \"Panama City\"}]}"
   },
   {
     "id": "2026-11-24-news-95243b",
@@ -1129,56 +1180,6 @@
     "region": "china",
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Satoshi_Yamaguchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Satoshi_Yamaguchi.jpg",
-        "artist": "TAKA@P.P.R.S",
-        "license": "CC BY-SA 2.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-        "description": "Satoshi Yamaguchi cropped from, 2011.07.10 Omiya Ardija 2-3 Gamba Osaka_105",
-        "width": 1200,
-        "height": 1572,
-        "year": 2011,
-        "subject": "Satoshi Yamaguchi (footballer, born 1978)",
-        "asked": "Satoshi Ukishima",
-        "page_title": "Satoshi Yamaguchi (footballer, born 1978)",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:satoshi_yamaguchi.jpg|Satoshi Yamaguchi (footballer, born 1978)",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'"
-          ],
-          "shows": "footballer Satoshi Yamaguchi playing for Gamba Osaka",
-          "reason": "The story features coach Satoshi Ukishima, but the photo shows a different person, footballer Satoshi Yamaguchi.",
-          "by": "ai"
-        }
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg/1280px-Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Sifan_Hassan_2023_Chicago_Marathon_(cropped).jpg",
-        "artist": "Chad Veal",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Sifan Hassan at the 2023 Chicago Marathon which she won in the 2nd fastest marathon time to date.",
-        "width": 1200,
-        "height": 1799,
-        "year": 2023,
-        "subject": "Sifan Hassan",
-        "asked": "He Sifan",
-        "page_title": "Sifan Hassan",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:sifan_hassan_2023_chicago_marathon_(cropped).jpg|Sifan Hassan",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'He Sifan' but the photo comes from the page 'Sifan Hassan'"
-          ],
-          "shows": "marathon runner Sifan Hassan competing in the 2023 Chicago Marathon",
-          "reason": "The story is about Chinese youth football player He Sifan, not Dutch distance runner Sifan Hassan.",
-          "by": "ai"
-        }
-      },
-      {
         "url": "../photos/card-2026-11-24-news-95243b.png",
         "page": "",
         "artist": "Bang Sport Daily (graphic)",
@@ -1196,22 +1197,7 @@
       {
         "level": "BLOCK",
         "area": "photos",
-        "msg": "Photo 1 (cover) captioned 'Satoshi Yamaguchi (footballer, born 1978)' looks WRONG (shows footballer Satoshi Yamaguchi playing for Gamba Osaka; asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'; The story features coach Satoshi Ukishima, but the p). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Photo 2 captioned 'Sifan Hassan' looks WRONG (shows marathon runner Sifan Hassan competing in the 2023 Chicago Marathon; asked for 'He Sifan' but the photo comes from the page 'Sifan Hassan'; The story is about Chinese youth football player He Sifan, not Dutch dista). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
         "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
-      {
-        "level": "WARN",
-        "area": "photos",
-        "msg": "Cover photo is from 2011. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "WARN",
@@ -1223,7 +1209,8 @@
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: http://www.news.cn"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Academy in Doha's Aspire Zone, home of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Academy\"}]}"
   },
   {
     "id": "2026-11-24-news-928d27",
