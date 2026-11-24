@@ -1,25 +1,48 @@
-2026-11-24 08:11:40,082 INFO BBC Sport                         44 items
-2026-11-24 08:11:40,207 INFO The Guardian Sport                27 items
-2026-11-24 08:11:40,287 INFO ESPN                              42 items
-2026-11-24 08:11:40,408 INFO Sky Sports                        20 items
-2026-11-24 08:11:40,642 INFO Google News – Sports (EN)         64 items
-2026-11-24 08:11:41,564 INFO Google News – 体育 (ZH)             62 items
-2026-11-24 08:11:42,245 INFO Google News – Спорт (RU)          40 items
-2026-11-24 08:11:43,383 INFO Championat                        28 items
-2026-11-24 08:11:43,860 INFO Sports.ru                         18 items
-2026-11-24 08:11:44,953 INFO Спорт-Экспресс                   363 items
-2026-11-24 08:11:46,124 INFO РИА Новости Спорт                 20 items
-2026-11-24 08:11:47,146 INFO 中国新闻网 体育                          25 items
-2026-11-24 08:11:47,580 INFO Google News – Cambodia sport      12 items
-2026-11-24 08:11:48,061 INFO Google News – Southeast Asia sport  47 items
-2026-11-24 08:11:48,636 INFO Google News – Combat promotions   99 items
-2026-11-24 08:11:48,936 INFO Google News – Boxing              26 items
-2026-11-24 08:11:49,154 INFO Google News – Kun Khmer            1 items
-2026-11-24 08:11:49,327 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 08:11:49,915 INFO Google News – Единоборства (RU)  100 items
-2026-11-24 08:11:50,198 INFO Google News – 格斗 (ZH)             26 items
-2026-11-24 08:11:50,310 INFO MMA Fighting                      10 items
-2026-11-24 08:11:50,538 INFO Google News – Khmer Times sport    7 items
-2026-11-24 08:11:51,362 INFO Candidate stories after clustering: 983
-2026-11-24 08:11:52,050 INFO IndexNow: 3 page(s) submitted (HTTP 200)
-2026-11-24 08:11:52,901 INFO Website built: 79 published stories, 282 pages
+2026-11-24 12:11:41,587 INFO BBC Sport                         45 items
+2026-11-24 12:11:41,726 INFO The Guardian Sport                25 items
+2026-11-24 12:11:41,808 INFO ESPN                              42 items
+2026-11-24 12:11:41,996 INFO Sky Sports                        20 items
+2026-11-24 12:11:42,231 INFO Google News – Sports (EN)         59 items
+2026-11-24 12:11:42,887 INFO Google News – 体育 (ZH)             60 items
+2026-11-24 12:11:43,497 INFO Google News – Спорт (RU)          44 items
+2026-11-24 12:11:44,616 INFO Championat                        28 items
+2026-11-24 12:11:45,507 INFO Sports.ru                         18 items
+2026-11-24 12:11:47,775 INFO Спорт-Экспресс                   411 items
+2026-11-24 12:11:48,610 INFO РИА Новости Спорт                 20 items
+2026-11-24 12:11:49,044 INFO 中国新闻网 体育                          28 items
+2026-11-24 12:11:49,434 INFO Google News – Cambodia sport      13 items
+2026-11-24 12:11:49,815 INFO Google News – Southeast Asia sport  33 items
+2026-11-24 12:11:50,383 INFO Google News – Combat promotions   96 items
+2026-11-24 12:11:50,846 INFO Google News – Boxing              35 items
+2026-11-24 12:11:51,063 INFO Google News – Kun Khmer            1 items
+2026-11-24 12:11:51,239 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 12:11:51,781 INFO Google News – Единоборства (RU)   97 items
+2026-11-24 12:11:52,125 INFO Google News – 格斗 (ZH)             38 items
+2026-11-24 12:11:52,258 INFO MMA Fighting                       0 items
+2026-11-24 12:11:52,474 INFO Google News – Khmer Times sport    6 items
+2026-11-24 12:11:52,769 INFO BBC Sport – Tennis                 1 items
+2026-11-24 12:11:53,032 INFO BBC Sport – Formula 1              1 items
+2026-11-24 12:11:53,252 INFO BBC Sport – Cricket                7 items
+2026-11-24 12:11:53,545 INFO BBC Sport – Boxing                 2 items
+2026-11-24 12:11:53,800 INFO BBC Sport – Athletics              0 items
+2026-11-24 12:11:53,996 INFO The Guardian – Tennis              2 items
+2026-11-24 12:11:54,386 INFO The Guardian – Formula 1           1 items
+2026-11-24 12:11:54,590 INFO The Guardian – Cricket             5 items
+2026-11-24 12:11:54,647 INFO ESPN – NBA                        13 items
+2026-11-24 12:11:54,693 INFO ESPN – Tennis                      3 items
+2026-11-24 12:11:55,555 WARNING Feed unreadable MMA Junkie: <unknown>:2:0: syntax error
+2026-11-24 12:11:55,643 INFO Sherdog                            8 items
+2026-11-24 12:11:55,725 INFO Sky Sports – Football             20 items
+2026-11-24 12:11:56,685 INFO Чемпионат – Теннис                31 items
+2026-11-24 12:11:57,618 INFO Чемпионат – Хоккей                28 items
+2026-11-24 12:11:58,142 INFO Google News – Tennis              77 items
+2026-11-24 12:11:58,605 INFO Google News – Basketball          94 items
+2026-11-24 12:11:59,160 INFO Google News – Motorsport          93 items
+2026-11-24 12:11:59,697 WARNING Feed unreadable Google News – Badminton, athletics, table tennis: <unknown>:2:252: not well-formed (invalid token)
+2026-11-24 12:12:00,259 INFO Google News – Cricket             98 items
+2026-11-24 12:12:00,758 INFO Google News – 网球与篮球 (ZH)          10 items
+2026-11-24 12:12:01,124 INFO Google News – 羽毛球与乒乓 (ZH)         59 items
+2026-11-24 12:12:01,709 INFO Google News – Теннис и баскетбол (RU) 100 items
+2026-11-24 12:12:02,278 INFO Google News – Формула-1 и биатлон (RU)  98 items
+2026-11-24 12:12:04,260 INFO Candidate stories after clustering: 1632
+2026-11-24 12:12:05,215 INFO Website built: 79 published stories, 282 pages
