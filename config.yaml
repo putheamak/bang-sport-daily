@@ -186,6 +186,22 @@ feeds:
   - {name: "MMA Fighting", url: "https://www.mmafighting.com/rss/current.xml", lang: en}
   - {name: "Google News – Khmer Times sport", url: "https://news.google.com/rss/search?q=site:khmertimeskh.com+(sport+OR+football+OR+boxing+OR+%22Kun+Khmer%22)+when:3d&hl=en-US&gl=US&ceid=US:en", lang: en}   # direct feed is malformed XML
 
+  # 24 Nov 2026: publishers' own feeds (the public Talking Points page uses only these, never Google News)
+  - {name: "BBC Sport – Tennis", url: "https://feeds.bbci.co.uk/sport/tennis/rss.xml", lang: en}
+  - {name: "BBC Sport – Formula 1", url: "https://feeds.bbci.co.uk/sport/formula1/rss.xml", lang: en}
+  - {name: "BBC Sport – Cricket", url: "https://feeds.bbci.co.uk/sport/cricket/rss.xml", lang: en}
+  - {name: "BBC Sport – Boxing", url: "https://feeds.bbci.co.uk/sport/boxing/rss.xml", lang: en}
+  - {name: "BBC Sport – Athletics", url: "https://feeds.bbci.co.uk/sport/athletics/rss.xml", lang: en}
+  - {name: "The Guardian – Tennis", url: "https://www.theguardian.com/sport/tennis/rss", lang: en}
+  - {name: "The Guardian – Formula 1", url: "https://www.theguardian.com/sport/formulaone/rss", lang: en}
+  - {name: "The Guardian – Cricket", url: "https://www.theguardian.com/sport/cricket/rss", lang: en}
+  - {name: "ESPN – NBA", url: "https://www.espn.com/espn/rss/nba/news", lang: en}
+  - {name: "ESPN – Tennis", url: "https://www.espn.com/espn/rss/tennis/news", lang: en}
+  - {name: "MMA Junkie", url: "https://mmajunkie.usatoday.com/feed", lang: en}
+  - {name: "Sherdog", url: "https://www.sherdog.com/rss/news.xml", lang: en}
+  - {name: "Sky Sports – Football", url: "https://www.skysports.com/rss/11095", lang: en}
+  - {name: "Чемпионат – Теннис", url: "https://www.championat.com/rss/news/tennis/", lang: ru}
+  - {name: "Чемпионат – Хоккей", url: "https://www.championat.com/rss/news/hockey/", lang: ru}
   # 24 Nov 2026: more sports for variety on the Talking Points page (tennis, basketball, motorsport, Olympic sports, cricket)
   - {name: "Google News – Tennis", url: "https://news.google.com/rss/search?q=%28ATP+OR+WTA+OR+%22Davis+Cup%22+OR+%22Billie+Jean+King+Cup%22+OR+%22Grand+Slam%22%29+tennis+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
   - {name: "Google News – Basketball", url: "https://news.google.com/rss/search?q=%28NBA+OR+EuroLeague+OR+FIBA+OR+%22Basketball+Champions+League%22%29+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}

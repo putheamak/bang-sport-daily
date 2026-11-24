@@ -106,5 +106,13 @@ outlets' headlines, with links. To stay within Google's rules:
 - **Our own value:** talking points we have covered show an "Our story" card (our headline, our reviewed summary,
   a link) and are listed first. When most top items carry our own stories, indexing can be reconsidered — ads stay off.
 - **Share buttons are plain links** (Facebook, WhatsApp, X, Telegram, VK, Weibo): no third-party scripts or cookies.
-- **Google News RSS:** several feeds are Google News searches. Check Google's terms for commercial use of those
-  feeds before monetising; the direct publisher feeds are the safer source.
+- **Google News RSS (checked 24 Nov 2026):** every Google News feed says it is made available only for showing
+  results "within a personal feed reader for personal, non-commercial use" and that any other use is prohibited. So:
+  - the public Talking Points page and home box use **only stories from publishers' own feeds** (BBC, Guardian,
+    ESPN, Sky, MMA Junkie, Sherdog, Championat, Sports.ru, ...), never Google News items;
+  - published stories never show Google News links: `gnlinks.fix_sources` replaces them with the outlet's own
+    address (when a link can't be resolved, the source name is shown without a link);
+  - Google News searches are still used privately, as an editor's research tool, to discover stories (the
+    editor's Telegram list and the writer). Every published fact is cited to the original outlet.
+  - **Before applying for AdSense:** replace the remaining Google News searches (Kun Khmer, Cambodia, Southeast
+    Asia, Chinese and Russian combat) with direct feeds or official sources where possible.

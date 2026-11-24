@@ -344,6 +344,12 @@ def summary_lines(issues: list[dict], limit: int = 12) -> list[str]:
 
 def stamp(cfg: dict, articles: list[dict], today: str | None = None) -> None:
     """Store the current check result on each story (shown in review messages and the audit)."""
+    try:                               # outlets' own links instead of Google News redirect links
+        from .gnlinks import fix_sources
+        fix_sources(articles)
+    except Exception as e:  # noqa: BLE001
+        import logging
+        logging.getLogger("sportnews").warning("Source link check skipped: %s", e)
     try:                               # give each new story its own cover before it is checked
         from .common import load_articles
         from .images import unique_covers

@@ -266,6 +266,9 @@ def public_board(cfg: dict, items: list[dict], prev: dict | None = None) -> tupl
     prev = prev or {}
     hist_all = prev.get("spotlight_history") or {}
     board, spot, local = {}, {}, {}
+    # Google News feeds are for personal use in a feed reader only, so the PUBLIC page uses only stories found
+    # through the publishers' own feeds (the editor's private Telegram list still uses everything).
+    items = [it for it in items if not str(it.get("feed", "")).startswith("Google News")]
     kun_all = [s for s in rank_combat(cfg, items, prev, top=50) if s.get("kun_khmer")]
     every = rank(cfg, items, prev, 200, max_lang=200, max_sport=200)
     cam = [s for s in every if LOCAL_RX.search(s["title"] + " " + " ".join(r.get("title", "") for r in s.get("refs", [])))]

@@ -158,6 +158,9 @@ def main(argv=None):
         from .site import build_site
         from .images import apply_overrides, backfill, load_overrides
         arts = load_articles()
+        from .gnlinks import fix_sources
+        if fix_sources(arts):
+            save_articles(arts)
         changed = backfill(arts) if cfg["publish"].get("photos", True) else 0
         changed += apply_overrides(arts, load_overrides())
         from .images import unique_covers

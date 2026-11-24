@@ -7,3 +7,4 @@ python-docx>=1.1
 pyyaml>=6.0
 pypdf>=4.0
 pillow>=10.0
+googlenewsdecoder>=0.2

@@ -545,7 +545,9 @@ def _article_page(cfg, a, lang, related, latest, wire):
     L = a[lang]
     key = sport_key(cfg, a)
     alternates = {l: f"{l}/{a['slug']}.html" for l in LANGS if a.get(l) and not stale(a, l)}
-    src = "".join(f'<li><a href="{E(s["url"])}" rel="noopener nofollow" target="_blank">{E(s["title"])}</a></li>' for s in a.get("sources", []))
+    src = "".join((f'<li>{E(s["title"])}</li>' if "news.google.com/" in (s.get("url") or "")   # never show Google News links
+                   else f'<li><a href="{E(s["url"])}" rel="noopener nofollow" target="_blank">{E(s["title"])}</a></li>')
+                  for s in a.get("sources", []))
     rel = "".join(_card(cfg, r, lang) for r in related)
     name = byline_name(cfg, a, lang)
     imgs = a.get("images") or []
