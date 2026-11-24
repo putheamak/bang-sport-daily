@@ -1317,10 +1317,20 @@ def test_talking_points_labels_and_box():
     assert label(7, "en")[0] == "tp-wide" and label(3, "en")[0] == "tp-conf" and label(1, "en")[0] == "tp-unconf"
     st = {"key": "abc", "title": "A & B", "outlets": 3, "sport": "football", "refs": [{"source": "X", "link": "https://x.y/1"}],
           "first_seen": "2026-11-24T05:00:00+00:00"}
-    data = {"updated": "2026-11-24T06:00:00+00:00", "board": {"en": [st]}, "board_combat": {"en": []}}
+    data = {"updated": "2026-11-24T06:00:00+00:00", "board": {"en": [st]}, "spotlight": {}, "local": {}}
     box = home_box({}, "en", data, [])
     assert "A &amp; B" in box and "talking-points.html#tp-abc" in box
     body = page_body({}, "en", data, [{"trending_key": "abc", "status": "published", "slug": "a-b", "en": {"headline": "Our A"}}],
                      "https://example.com")
     assert "Our A" in body and "facebook.com/sharer" in body and 'href="a-b.html"' in body
     assert home_box({}, "en", {"board": {}}, []) == ""
+
+
+def test_spotlight_rotates_between_sports():
+    from sportnews.trending import pick_spotlight
+    h = []
+    for _ in range(5):
+        h.append(pick_spotlight({"football": 9, "combat": 4, "tennis": 3}, h))
+    assert h == ["football", "combat", "tennis", "football", "combat"]
+    assert pick_spotlight({"football": 9}, ["football", "football"]) == "football"   # alone in the news: keeps it
+    assert pick_spotlight({"other": 5, "tennis": 1}, []) is None

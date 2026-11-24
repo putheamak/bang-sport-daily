@@ -236,21 +236,66 @@ def save_md(data: dict) -> None:
 BOARD_LANGS = ("en", "zh", "ru")
 
 
-def public_board(cfg: dict, items: list[dict], prev: dict | None = None) -> tuple[dict, dict]:
-    """The website's Talking Points page, one list per language edition: up to 10 stories from outlets in that
-    language (at most 3 per sport) and up to 6 combat stories. Kun Khmer stories from any language are always
-    added to every edition's combat list. No AI; same grouping and outlet counting as the editor's list."""
+LOCAL_RX = re.compile(r"(cambodi|khmer|phnom penh|svay rieng|siem reap|kun lbokator|bokator|柬埔寨|高棉|金边|камбодж|кхмер|пномпень)", re.I)
+
+
+def pick_spotlight(counts: dict[str, int], history: list[str], min_count: int = 2) -> str | None:
+    """Which sport gets the Spotlight panel this scan (variety rule):
+    1. eligible: a sport with at least `min_count` extra talking points beyond the main list ("other" never);
+    2. a sport that held the spotlight in either of the last 2 scans is skipped while another sport is eligible;
+    3. among the rest: most talking points first; on a tie, the sport that had the spotlight longest ago (or never).
+    So over the 5 scans of a day the panel moves between sports, but a sport that is alone in the news keeps it."""
+    eligible = [k for k, n in counts.items() if k and k != "other" and n >= min_count]
+    if not eligible:
+        return None
+    recent = set(history[-2:])
+    fresh = [k for k in eligible if k not in recent] or eligible
+    def last_seen(k):                      # index from the end; never shown = very old
+        return next((i for i, h in enumerate(reversed(history)) if h == k), 999)
+    return sorted(fresh, key=lambda k: (-counts[k], -last_seen(k)))[0]
+
+
+def public_board(cfg: dict, items: list[dict], prev: dict | None = None) -> tuple[dict, dict, dict]:
+    """The website's Talking Points page, one set per language edition (no AI; same grouping and outlet counting
+    as the editor's list):
+      board     — top 10 from outlets in that language, at most 3 per sport;
+      spotlight — {sport, total, items}: up to 6 MORE stories of one sport (pick_spotlight's variety rule);
+      local     — Kun Khmer and Cambodia stories from any language (shown only when there are some)."""
     tp = cfg.get("talking_points") or {}
-    n_top, n_combat = tp.get("top", 10), tp.get("combat", 6)
-    board, board_combat = {}, {}
+    n_top = tp.get("top", 10)
+    prev = prev or {}
+    hist_all = prev.get("spotlight_history") or {}
+    board, spot, local = {}, {}, {}
     kun_all = [s for s in rank_combat(cfg, items, prev, top=50) if s.get("kun_khmer")]
+    every = rank(cfg, items, prev, 200, max_lang=200, max_sport=200)
+    cam = [s for s in every if LOCAL_RX.search(s["title"] + " " + " ".join(r.get("title", "") for r in s.get("refs", [])))]
     for lang in BOARD_LANGS:
         mine = [it for it in items if it.get("lang") == lang]
         board[lang] = rank(cfg, mine, prev, n_top, max_lang=n_top, max_sport=tp.get("max_per_sport", 3))
-        combat = [s for s in rank_combat(cfg, mine, prev, top=n_combat) if not s.get("kun_khmer")]
-        kun = [s for s in kun_all if s["key"] not in {c["key"] for c in combat}]
-        board_combat[lang] = (kun[:2] + combat)[:n_combat]
-    return board, board_combat
+        pool = rank(cfg, mine, prev, 200, max_lang=200, max_sport=200)
+        shown = {s["key"] for s in board[lang]}
+        extra: dict[str, list] = {}
+        total: dict[str, int] = {}
+        for s in pool:
+            k = s.get("sport") or "other"
+            total[k] = total.get(k, 0) + 1
+            if s["key"] not in shown:
+                extra.setdefault(k, []).append(s)
+        hist = list(hist_all.get(lang) or [])
+        sport = pick_spotlight({k: len(v) for k, v in extra.items()}, hist, tp.get("spotlight_min", 2))
+        if sport:
+            spot[lang] = {"sport": sport, "total": total.get(sport, 0), "items": extra[sport][:tp.get("spotlight", 6)]}
+            hist_all[lang] = (hist + [sport])[-10:]
+        else:
+            spot[lang] = {}
+        seen, loc = set(), []
+        for s in kun_all + cam:
+            if s["key"] not in seen:
+                seen.add(s["key"])
+                loc.append(s)
+        local[lang] = loc[:3]
+    prev["spotlight_history"] = hist_all
+    return board, spot, local
 
 
 def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dict:
@@ -265,12 +310,14 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
     data.update(updated=now.isoformat(timespec="seconds"), stories=stories, combat=combat)
     known = data.setdefault("known", {})
     seen = data.setdefault("first_seen", {})           # when each talking point first appeared (for "trending for 5h")
-    board, board_combat = public_board(cfg, items, data)
-    for st in stories + combat + [s for v in list(board.values()) + list(board_combat.values()) for s in v]:
+    board, spotlight, local = public_board(cfg, items, data)
+    for st in stories + combat + [s for v in list(board.values()) + list(local.values()) for s in v] + [
+            s for v in spotlight.values() for s in v.get("items", [])]:
         st["first_seen"] = seen.setdefault(st["key"], now.isoformat(timespec="seconds"))
     for k in list(seen)[:-300]:
         seen.pop(k, None)
-    data.update(board=board, board_combat=board_combat)
+    data.update(board=board, spotlight=spotlight, local=local)
+    data.pop("board_combat", None)
     for st in stories + combat:
         known[st["key"]] = st
     for k in list(known)[:-80]:                          # keep the newest 80

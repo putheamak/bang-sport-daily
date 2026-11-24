@@ -1,6 +1,6 @@
 """Talking Points on the website: a page per language and a box on the home page.
 
-Built from data/trending.json ("board" and "board_combat", written by the trending radar every 4 hours).
+Built from data/trending.json ("board", "spotlight" and "local", written by the trending radar every 4 hours).
 No AI and no visitor data: each talking point shows how many independent outlets cover it, our source label,
 the outlets' links, and share links so readers can discuss it on Facebook, WhatsApp, X, Telegram, VK or Weibo.
 Share links are plain links: nothing loads from those services until a reader clicks one.
@@ -16,7 +16,7 @@ from .common import DATA, read_json
 PAGE = "talking-points.html"
 
 T = {
-    "en": {"other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
+    "en": {"spot": "{s} Spotlight", "spot_note": "{n} {s} talking points right now. The spotlight moves between sports so every sport gets its turn.", "local": "Kun Khmer & Cambodia", "local_note": "Trending stories from Cambodian sport.", "other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
            "intro": "What the sports world is talking about right now, ranked by how many independent news outlets are covering it.",
            "updated": "Updated every 4 hours · last update", "combat": "Combat Watch",
            "combat_note": "MMA, boxing, kickboxing, Muay Thai and Kun Khmer. Kun Khmer is always listed.",
@@ -30,7 +30,7 @@ T = {
            "all": "All talking points", "empty": "No talking points right now. The next update is within 4 hours.",
            "box": "Talking Points", "box_note": "Most-covered stories right now", "share_on": "Share and discuss on",
            "desc": "The sport stories most covered by independent news outlets right now, updated every 4 hours."},
-    "zh": {"other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
+    "zh": {"spot": "{s}聚焦", "spot_note": "此刻共有 {n} 个{s}热议话题。聚焦栏目在各项目之间轮换。", "local": "高棉拳与柬埔寨", "local_note": "柬埔寨体育的热议新闻。", "other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
            "intro": "体育圈此刻在谈论什么——按报道该话题的独立新闻媒体数量排序。",
            "updated": "每 4 小时更新 · 最近更新", "combat": "格斗观察",
            "combat_note": "综合格斗、拳击、踢拳、泰拳与高棉拳。高棉拳话题始终列出。",
@@ -43,7 +43,7 @@ T = {
            "all": "查看全部热议话题", "empty": "暂无热议话题，4 小时内更新。",
            "box": "热议话题", "box_note": "此刻报道最多的体育新闻", "share_on": "分享并讨论",
            "desc": "此刻被最多独立新闻媒体报道的体育新闻，每 4 小时更新。"},
-    "ru": {"other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
+    "ru": {"spot": "В центре внимания: {s}", "spot_note": "Сейчас {n} тем по разделу «{s}». Раздел в центре внимания меняется, чтобы каждый вид спорта получил своё место.", "local": "Кун кхмер и Камбоджа", "local_note": "Обсуждаемые новости камбоджийского спорта.", "other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
            "intro": "О чём сейчас говорит спортивный мир: темы по числу независимых СМИ, которые о них пишут.",
            "updated": "Обновляется каждые 4 часа · последнее обновление", "combat": "Единоборства",
            "combat_note": "ММА, бокс, кикбоксинг, муай-тай и кун кхмер. Кун кхмер показываем всегда.",
@@ -178,16 +178,26 @@ def page_body(cfg, lang: str, data: dict, articles: list[dict], base: str) -> st
     s = T[lang]
     ours = _stories_by_key(articles)
     stories = (data.get("board") or {}).get(lang) or []
-    combat = (data.get("board_combat") or {}).get(lang) or []
     items = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(stories, 1))
-    citems = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(combat, 1))
+    spot = (data.get("spotlight") or {}).get(lang) or {}
+    local = (data.get("local") or {}).get(lang) or []
+    sitems = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(spot.get("items") or [], 1))
+    litems = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(local, 1))
+    spot_html = ""
+    if sitems:
+        name = _sport_name(cfg, spot["sport"], lang)
+        spot_html = (f'<section class="tp-spot k-{E(spot["sport"])}"><h2>{E(s["spot"].format(s=name))}</h2>'
+                     f'<p>{E(s["spot_note"].format(n=spot.get("total") or len(spot["items"]), s=name))}</p>'
+                     f'<ol class="tp-list tp-dark">{sitems}</ol></section>')
+    local_html = (f'<section class="tp-local"><h2>{E(s["local"])}</h2><p>{E(s["local_note"])}</p>'
+                  f'<ol class="tp-list tp-dark">{litems}</ol></section>') if litems else ""
     main = (f'<ol class="tp-list">{items}</ol>' if items else f'<p class="empty">{E(s["empty"])}</p>')
     return f"""<div class="wrap tp-head"><h1>{E(s["title"])}</h1><p class="tp-intro">{E(s["intro"])}</p>
 <p class="tp-upd">{E(s["updated"])} {_time(data.get("updated"), lang)} <span class="tp-clock" data-at="{E(data.get("updated") or "")}"></span>
  · {E(s["next"])} <span class="tp-next" data-at="{E(data.get("updated") or "")}"></span></p></div>
 <div class="wrap homegrid tp-grid"><div class="maincol">{_filters(cfg, lang, stories)}{main}</div>
 <aside class="rail">
-{f'<section class="tp-combat"><h2>{E(s["combat"])}</h2><p>{E(s["combat_note"])}</p><ol class="tp-list tp-dark">{citems}</ol></section>' if citems else ''}
+{local_html}{spot_html}
 <section class="box tp-how"><h4 class="boxh">{E(s["how"])}</h4>
 <p><span class="tp-label tp-wide">{E(s["wide"])}</span> {E(s["how_wide"])}</p>
 <p><span class="tp-label tp-conf">{E(s["conf"])}</span> {E(s["how_conf"])}</p>
@@ -203,7 +213,7 @@ def home_box(cfg, lang: str, data: dict, articles: list[dict]) -> str:
     stories = ((data.get("board") or {}).get(lang) or [])[:5]
     if not stories:
         return ""
-    kun = next((c for c in (data.get("board_combat") or {}).get(lang) or [] if c.get("kun_khmer")), None)
+    kun = next(iter((data.get("local") or {}).get(lang) or []), None)
     rows = ""
     for i, st in enumerate(stories, 1):
         cls, lab = label(st["outlets"], lang)
