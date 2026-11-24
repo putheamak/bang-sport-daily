@@ -4,6 +4,21 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Kun Khmer champion Chhut Serey Vannthong outpoints Riki at K-1 Revenge II in Tokyo
+`2026-11-24-news-928d27` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Rahumeaspradalserey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Chhut Serey Vannthong**<br>2023 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Rahumeaspradalserey.jpg)<br>AI sees: _A Kun Khmer fighter posing in a training gym wearing Kun Khmer shorts_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/20170104_Korakuen_Hall.jpg/1280px-20170104_Korakuen_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Korakuen Hall**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:20170104_Korakuen_Hall.jpg)<br>AI sees: _Exterior of the Korakuen Hall building in Tokyo_
+<br clear="left">
+
+---
+
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24
 

@@ -1,17 +1,16 @@
-2026-11-23 10:09:05,442 INFO Importing editor's article: 2026-11-23-cambodia-acl-two-preview.md
-2026-11-23 10:09:05,442 INFO Adapting to zh, ru ...
-2026-11-23 10:09:06,174 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-23 10:10:07,299 INFO Looking up photos for 2026-11-23-news-00ad68: ['Morodok Techo National Stadium', 'Svay Rieng Stadium']
-2026-11-23 10:10:07,510 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
-2026-11-23 10:10:07,510 INFO Photo for 'Morodok Techo National Stadium': Morodok_Techno_Stadium_in_2021.png (中国新闻社, CC BY-SA 3.0)
-2026-11-23 10:10:07,723 INFO Photo check SVR11.jpg (Wikimedia Commons, 960x406): OK, licence 'CC BY-SA 4.0'
-2026-11-23 10:10:07,723 INFO Photo for 'Svay Rieng Stadium': SVR11.jpg (Ly Saroth, CC BY-SA 4.0)
-2026-11-23 10:10:07,755 INFO Cover photo of 2026-11-23-news-00ad68 changed: another story already uses that picture
-2026-11-23 10:10:14,646 INFO Photo check 2026-11-23-news-00ad68 #1 'Svay Rieng Stadium': OK
-2026-11-23 10:10:23,991 INFO Photo check 2026-11-23-news-00ad68 #2 'Morodok Techo National Stadium': OK
-2026-11-23 10:10:24,416 INFO Exported 7 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-23
-2026-11-23 10:10:25,888 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-23 10:10:27,083 INFO IndexNow: 6 page(s) submitted (HTTP 200)
-2026-11-23 10:10:28,212 INFO Website built: 72 published stories, 261 pages
-2026-11-23 10:10:28,213 INFO Imported 1 editor's article(s): 2026-11-23-news-00ad68
-2026-11-23 10:10:28,214 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 17 ok / 0 failed (35,564 in / 39,700 out tokens) · estimated cost if billed: US$0.176
+2026-11-24 04:44:42,116 INFO Importing editor's article: 2026-11-24-chhut-serey-vannthong-k1.md
+2026-11-24 04:44:42,116 INFO Adapting to zh, ru ...
+2026-11-24 04:44:42,842 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 04:45:24,286 INFO Looking up photos for 2026-11-24-news-928d27: ['Chhut Serey Vannthong', 'Korakuen Hall']
+2026-11-24 04:45:24,508 INFO Photo check Rahumeaspradalserey.jpg (Wikimedia Commons, 509x622): OK, licence 'CC0'
+2026-11-24 04:45:24,509 INFO Photo for 'Chhut Serey Vannthong': Rahumeaspradalserey.jpg (JusticeSociety1, CC0)
+2026-11-24 04:45:24,683 INFO Photo check 20170104_Korakuen_Hall.jpg (Wikimedia Commons, 4608x3456): OK, licence 'CC BY-SA 4.0'
+2026-11-24 04:45:24,683 INFO Photo for 'Korakuen Hall': 20170104_Korakuen_Hall.jpg (Bject, CC BY-SA 4.0)
+2026-11-24 04:45:32,246 INFO Photo check 2026-11-24-news-928d27 #1 'Chhut Serey Vannthong': OK
+2026-11-24 04:45:39,739 INFO Photo check 2026-11-24-news-928d27 #2 'Korakuen Hall': OK
+2026-11-24 04:45:40,022 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-24
+2026-11-24 04:45:40,772 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-24 04:45:41,536 INFO IndexNow: 3 page(s) submitted (HTTP 200)
+2026-11-24 04:45:42,783 INFO Website built: 78 published stories, 279 pages
+2026-11-24 04:45:42,784 INFO Imported 1 editor's article(s): 2026-11-24-news-928d27
+2026-11-24 04:45:42,786 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 42 ok / 0 failed (80,081 in / 83,064 out tokens) · estimated cost if billed: US$0.372
