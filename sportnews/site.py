@@ -326,7 +326,8 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
     tg = cfg["site"].get(f"telegram_{lang}") or ""
     from .talking import T as TP_T
     nav = (f'<a href="index.html" class="{"on" if active == "home" else ""}">{UI2[lang]["home"]}</a>'
-           f'<a href="talking-points.html" class="tp-nav {"on" if active == "talking" else ""}">{TP_T[lang]["nav"]}</a>') + "".join(
+           + (f'<a href="talking-points.html" class="tp-nav {"on" if active == "talking" else ""}">{TP_T[lang]["nav"]}</a>'
+              if _tp_has(lang) or active == "talking" else "")) + "".join(
         f'<a href="{section_file(k)}" class="k-{k} {"on" if active == k else ""}">{E(section_name(cfg, k, lang))}</a>'
         for k in NAV_ORDER if k in (cfg.get("columnists") or {}))
     tick = ""
@@ -652,6 +653,12 @@ def _tp_box(cfg, lang) -> str:
 
 
 NO_ADS = {"talking"}
+
+
+def _tp_has(lang) -> bool:
+    """Show the Talking Points menu link only in editions that have talking points right now."""
+    d = _TP.get("data")
+    return d is None or bool((d.get("board") or {}).get(lang))
 
 
 def _talking_page(cfg, lang, data, articles) -> str:

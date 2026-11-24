@@ -199,9 +199,6 @@ feeds:
   - {name: "Sky Sports – Football", url: "https://www.skysports.com/rss/11095", lang: en}
   - {name: "Чемпионат – Теннис", url: "https://www.championat.com/rss/news/tennis/", lang: ru}
   - {name: "Чемпионат – Хоккей", url: "https://www.championat.com/rss/news/hockey/", lang: ru}
-  - {name: "人民网 体育", url: "http://www.people.com.cn/rss/sports.xml", lang: zh}
-  - {name: "新华网 体育", url: "http://www.xinhuanet.com/sports/news_sports.xml", lang: zh}
-  - {name: "中国日报 体育", url: "http://www.chinadaily.com.cn/rss/sports_rss.xml", lang: en}
   - {name: "MMA Fighting – latest", url: "https://www.mmafighting.com/rss/index.xml", lang: en}
   # 24 Nov 2026: more sports for variety on the Talking Points page (tennis, basketball, motorsport, Olympic sports, cricket)
   - {name: "Google News – Tennis", url: "https://news.google.com/rss/search?q=%28ATP+OR+WTA+OR+%22Davis+Cup%22+OR+%22Billie+Jean+King+Cup%22+OR+%22Grand+Slam%22%29+tennis+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
