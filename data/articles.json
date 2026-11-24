@@ -1182,7 +1182,7 @@
     "date": "2026-11-23",
     "created": "2026-11-23T16:43:46+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Handball",
     "tags": [
@@ -1226,7 +1226,20 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaVRWVzZqZFAyUVNMUk9hd3dkOEdkci1lY0E3RnhBUzdMOXlPbnI5VHhUTGthWmVRVDVvZlZyNUpoQ1ZtLTZTT3QwOFI4SEVMV0dVcGFrNjdFbFhRQVY4QmxnSDB2bEZaOFJSQzhPSV96S25MTUh1c2lLbEdqcWlidnF2NUFFWEdFMTAzWXJDTE0xSXVkX0c5MTRGcUtHQTJmYVlGUF9QOWdnSkY1TS1Xb0Jnek5fZldJVGFNNkRuRk9JbUVfbFd5aEJBNGE0R1dudG90S3Jn?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T11:32:51+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T11:32:52+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T11:32:52+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -1316,7 +1329,8 @@
         "msg": "Verify: The outcome of HFR talks with IHF president Hassan Moustafa concerning the proposed wild card for the 2027 World Championship"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Yevgeni Trefilov in August 2016\", \"wikipedia\": \"Yevgeni Trefilov\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Yevgeni Trefilov in August 2016\", \"wikipedia\": \"Yevgeni Trefilov\"}]}",
+    "published_at": "2026-11-24T11:32:52+07:00"
   },
   {
     "id": "2026-11-23-news-b02637",
