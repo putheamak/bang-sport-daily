@@ -322,9 +322,9 @@ figure.inline figcaption{font-size:11.5px}
 .sh-facebook{background:#1877f2}.sh-whatsapp{background:#128c4a}.sh-x{background:#000}.sh-telegram{background:#1f8fd6}.sh-vk{background:#0077ff}.sh-weibo{background:#d52b1e}
 .tp-menu button{background:var(--bg);color:var(--ink);border:1px solid var(--line)}
 .tp-story{display:inline-flex;align-items:center;min-height:40px;padding:0 16px;border-radius:999px;border:1px solid var(--ink);font-weight:600;font-size:14px}
-.tp-combat{background:#0d1117;color:#e9ecef;border-radius:6px;padding:18px}
-.tp-combat h2{font:700 22px var(--head);text-transform:uppercase;margin:0 0 4px}
-.tp-combat>p{margin:0 0 12px;font-size:13px;color:#9aa3ad}
+.tp-combat,.tp-spot{background:#0d1117;color:#e9ecef;border-radius:6px;padding:18px;border-top:6px solid var(--red)}
+.tp-spot h2,.tp-local h2,.tp-combat h2{font:700 22px var(--head);text-transform:uppercase;margin:0 0 4px}
+.tp-spot>p,.tp-local>p,.tp-combat>p{margin:0 0 12px;font-size:13px;color:#9aa3ad}
 .tp-dark .tp-item{background:transparent;border:0;border-top:1px solid #2a313b;border-radius:0;padding:12px 0;gap:10px}
 .tp-dark .tp-rank{font-size:22px;min-width:20px}
 .tp-dark .tp-body h2{font:700 15.5px/1.35 var(--ui);text-transform:none;letter-spacing:0;color:#e9ecef}
@@ -358,3 +358,9 @@ figure.inline figcaption{font-size:11.5px}
 .tp-chip.on{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 .tp-chip.on b{background:rgba(255,255,255,.18);color:var(--bg)}
 .tp-item[hidden]{display:none}
+.tp-spot.k-football{border-top-color:var(--k-football)}.tp-spot.k-basketball{border-top-color:var(--k-basketball)}.tp-spot.k-tennis{border-top-color:var(--k-tennis)}.tp-spot.k-combat{border-top-color:var(--k-combat)}.tp-spot.k-motorsport{border-top-color:var(--k-motorsport)}.tp-spot.k-olympic{border-top-color:var(--k-olympic)}.tp-spot.k-hockey{border-top-color:var(--k-hockey)}.tp-spot.k-cricket{border-top-color:var(--k-cricket)}
+.tp-local{background:#7a0c08;color:#fff;border-radius:6px;padding:16px 18px;border-top:6px solid #032ea1}
+.tp-local .tp-item{border-top-color:rgba(255,255,255,.2)}
+.tp-local .tp-label{background:#fff}
+.tp-local .tp-src,.tp-local .tp-since,.tp-local>p{color:#f3d2d0}
+.tp-local .tp-rank{color:#fff}
