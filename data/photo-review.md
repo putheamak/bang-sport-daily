@@ -14,21 +14,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Russian Boxing Federation Voted In as Full World Boxing Member in Panama
-`2026-11-24-news-4177ff` · 2026-11-24
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Panama_Papers_%28148830809%29.jpeg/1280px-Panama_Papers_%28148830809%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Panama City, where the World Boxing congress voted**<br>2016 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).jpeg)<br>AI sees: _Aerial view of the Panama City skyline and waterfront_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Gennady_Golovkin_%28KAZ%29_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Gennady Golovkin**<br>2017 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Gennady_Golovkin_(KAZ)_2017.png)<br>AI sees: _Gennady Golovkin in a suit_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Kazakhstan Names 11 Boxers for Season-Ending World Boxing Cup Finals in Tashkent
 `2026-11-24-news-0390f5` · 2026-11-24
 
@@ -83,6 +68,21 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <br clear="left">
 
 🔗 Embedded post: [K-1 Worldwide (@K1_ReBoot)](https://x.com/K1_ReBoot/status/2124823613643858283) — {'en': "Official K-1 video: Chhut Serey Vannthong's decision win over Riki", 'zh': 'K-1官方视频：Chhut Serey Vannthong判定战胜立基', 'ru': 'Официальное видео K-1: победа Чхута Серей Ваннтонга над Рики решением судей'}
+
+---
+
+## ✅ live · Russian Boxing Federation Voted In as Full World Boxing Member in Panama
+`2026-11-24-news-4177ff` · 2026-11-24
+
+<img src="../docs/photos/c/1ab2e1880eb4c300-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Panama City, where the World Boxing congress voted**<br>2016 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).jpeg)<br>AI sees: _Aerial view of the Panama City skyline and waterfront_
+<br clear="left">
+
+<img src="../docs/photos/c/aaa7daf6a162cf8f.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Gennady Golovkin**<br>2017 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Gennady_Golovkin_(KAZ)_2017.png)<br>AI sees: _Gennady Golovkin in a suit_
+<br clear="left">
 
 ---
 

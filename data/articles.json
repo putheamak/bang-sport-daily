@@ -871,7 +871,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T15:40:18+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Boxing",
     "tags": [
@@ -960,7 +960,20 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3o1RWZWLTlJNTc5ZS1wVFZHOHM2cGFsTFJXckdNSFI0YXlhZ1BLeGZsQzlwdW45NDhiNWhLVk4tV2l2NjRBRko2ZmtaMlAwRHBkbGJBZ3ZSMjBFRlQ4c2I0NnAtTllTUTg4RHRSeFhqRnYxSXg2REVTTGtoeXNEWWtaS0dvUkZCTzBVTkliTHhTQy11LWFiM2g1N0xTejRENWNCV3o2NGtxNTVDZllOVg?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T19:25:27+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T19:25:28+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T19:25:29+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -1045,7 +1058,8 @@
         "msg": "Cover photo is from 2016. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Panama City, where the World Boxing congress voted\", \"wikipedia\": \"Panama City\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Panama City, where the World Boxing congress voted\", \"wikipedia\": \"Panama City\"}]}",
+    "published_at": "2026-11-24T19:25:29+07:00"
   },
   {
     "id": "2026-11-24-news-95243b",
