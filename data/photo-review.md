@@ -41,21 +41,6 @@ _No photos._
 
 ---
 
-## 📝 DRAFT · How the 1906 Canton-Massillon Rematch Sparked Pro Football's First Match-Fixing Scandal
-`2026-11-24-hist-a02660` · 2026-11-24
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/1909_Peggy_Parratt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Peggy Parratt**<br>2024 · Public domain · [source](https://commons.wikimedia.org/wiki/File:1909_Peggy_Parratt.jpg)<br>AI sees: _vintage portrait of football player and coach Peggy Parratt_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-24-hist-a02660.png" width="240" align="left" hspace="10">
-
-**2. 🟢 our score card**<br>Caption: **Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League Championship**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24
 
