@@ -1,100 +1,123 @@
-2026-11-24 14:37:45,959 INFO BBC Sport                         46 items
-2026-11-24 14:37:47,028 INFO The Guardian Sport                28 items
-2026-11-24 14:37:47,193 INFO ESPN                               0 items
-2026-11-24 14:37:47,951 INFO Sky Sports                        20 items
-2026-11-24 14:37:48,776 INFO Google News – Sports (EN)         57 items
-2026-11-24 14:37:49,525 INFO Google News – 体育 (ZH)             51 items
-2026-11-24 14:37:50,337 INFO Google News – Спорт (RU)          42 items
-2026-11-24 14:37:53,137 INFO Championat                        29 items
-2026-11-24 14:37:54,470 WARNING Feed unreadable Sports.ru: <unknown>:2:0: syntax error
-2026-11-24 14:37:57,043 INFO Спорт-Экспресс                   437 items
-2026-11-24 14:38:00,196 INFO РИА Новости Спорт                 20 items
-2026-11-24 14:38:02,381 INFO 中国新闻网 体育                          29 items
-2026-11-24 14:38:02,815 INFO Google News – Cambodia sport      19 items
-2026-11-24 14:38:03,232 INFO Google News – Southeast Asia sport  33 items
-2026-11-24 14:38:03,826 INFO Google News – Combat promotions   98 items
-2026-11-24 14:38:04,313 INFO Google News – Boxing              26 items
-2026-11-24 14:38:04,502 INFO Google News – Kun Khmer            1 items
-2026-11-24 14:38:04,646 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 14:38:05,372 INFO Google News – Единоборства (RU)   96 items
-2026-11-24 14:38:05,914 INFO Google News – 格斗 (ZH)             34 items
-2026-11-24 14:38:06,959 INFO MMA Fighting                      10 items
-2026-11-24 14:38:07,171 INFO Google News – Khmer Times sport    4 items
-2026-11-24 14:38:08,241 INFO BBC Sport – Tennis                 1 items
-2026-11-24 14:38:08,606 INFO BBC Sport – Formula 1              1 items
-2026-11-24 14:38:09,391 INFO BBC Sport – Cricket               10 items
-2026-11-24 14:38:10,142 INFO BBC Sport – Boxing                 2 items
-2026-11-24 14:38:11,268 INFO BBC Sport – Athletics              0 items
-2026-11-24 14:38:11,881 INFO The Guardian – Tennis              2 items
-2026-11-24 14:38:12,516 INFO The Guardian – Formula 1           1 items
-2026-11-24 14:38:12,933 INFO The Guardian – Cricket             5 items
-2026-11-24 14:38:13,165 INFO Sherdog                            8 items
-2026-11-24 14:38:13,430 INFO Sky Sports – Football             20 items
-2026-11-24 14:38:15,301 INFO Чемпионат – Теннис                31 items
-2026-11-24 14:38:16,463 INFO Чемпионат – Хоккей                27 items
-2026-11-24 14:38:17,090 INFO MMA Fighting – latest             10 items
-2026-11-24 14:38:17,718 INFO Google News – Tennis              74 items
-2026-11-24 14:38:18,250 INFO Google News – Basketball          91 items
-2026-11-24 14:38:18,922 INFO Google News – Motorsport          98 items
-2026-11-24 14:38:19,551 INFO Google News – Badminton, athletics, table tennis  77 items
-2026-11-24 14:38:20,268 INFO Google News – Cricket            100 items
-2026-11-24 14:38:20,948 INFO Google News – 网球与篮球 (ZH)          16 items
-2026-11-24 14:38:21,553 INFO Google News – 羽毛球与乒乓 (ZH)         59 items
-2026-11-24 14:38:22,314 INFO Google News – Теннис и баскетбол (RU) 100 items
-2026-11-24 14:38:23,026 INFO Google News – Формула-1 и биатлон (RU)  99 items
-2026-11-24 14:38:25,667 INFO Candidate stories after clustering: 1652
-2026-11-24 14:38:25,764 INFO Skipped (we already have this story): Стал известен состав сборной России на финал Кубка мира по боксу в Ташкенте
-2026-11-24 14:38:25,881 INFO Skipped (we already have this story): Швеция объявила состав сборной на этап Кубка мира в Руке
-2026-11-24 14:38:25,953 INFO Skipped (we already have this story): Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
-2026-11-24 14:38:26,005 INFO Skipped (pre-match piece, no previews): «Акрон» — ЦСКА: стартовые составы на кубковый матч
-2026-11-24 14:38:26,090 INFO Skipped (we already have this story): PFL Lyon Full Fight Card Confirmed for December 19
-2026-11-24 14:38:26,187 INFO Skipped (we already have this story): Alcaraz Defeats Zverev To Win First Career ATP Finals Title
-2026-11-24 14:38:26,195 INFO Skipped (we already have this story): Boxing News: Prices Becomes Undisputed Welterweight Champ Defeating Kotaskova » November 23, 2026
-2026-11-24 14:38:26,237 INFO Skipped (we already have this story): Мирра Андреева вошла в пятёрку теннисистов с самыми большими призовыми в 2026 году
-2026-11-24 14:38:26,576 INFO Skipped (pre-match piece, no previews): WTT Finals Hong Kong lineup unveiled
-2026-11-24 14:38:26,671 INFO Skipped (we already have this story): Сборная Казахстана по боксу объявила звёздный состав на Кубок мира в Узбекистане
-2026-11-24 14:38:26,688 INFO Skipped (we already have this story): Late Heartbreak for New Zealand in Six-Goal Thriller Against Vietnam
-2026-11-24 14:38:26,916 INFO Skipped (pre-match piece, no previews): Czechia v Canada: Preview
-2026-11-24 14:38:27,199 INFO Skipped (pre-match piece, no previews): 获释后首发声！乌斯曼引用古罗马谚语回应风波，签约UFC蒙上阴影
-2026-11-24 14:38:27,286 INFO Skipped (pre-match piece, no previews): Latest Vietnam National Team News: Holding Top 100 FIFA Ranking, Kim Sang-sik Faces Challenges Ahead of Asian Cup
-2026-11-24 14:38:27,311 INFO Skipped (pre-match piece, no previews): Кубок мира по биатлону 2026/2027 стартует в Контиолахти: составы сборных и фавориты сезона
-2026-11-24 14:38:27,391 INFO Skipped (pre-match piece, no previews): Latest UFC 336 Fight Card, Paramount+ Lineup
-2026-11-24 14:38:27,491 INFO Skipped (pre-match piece, no previews): Kings of Leon complete star-studded line-up for Abu Dhabi GP
-2026-11-24 14:38:27,601 INFO Skipped (we already have this story): Chhut Serey Vannthong Beats Riki By Unanimous Decision At K-1 Revenge II — Highlights
-2026-11-24 14:38:28,072 INFO Skipped (pre-match piece, no previews): Disney анонсировала новые материалы «Мстителей: Доктор Дум»: показ состоится перед премьерой
-2026-11-24 14:38:28,454 INFO Google News search                 8 items
-2026-11-24 14:38:28,455 INFO Skipped (same event as a stronger story): Vaibhav Sooryavanshi hits 52-ball double century, shatters world records
-2026-11-24 14:38:28,685 INFO Google News search                 8 items
-2026-11-24 14:38:28,686 INFO Skipped (same event as a stronger story): Россиянка Мирра Андреева стала главным «прорывом года» в теннисе
-2026-11-24 14:38:28,686 INFO Skipped (same event as a stronger story): ESPN признал теннисистку Андрееву «Прорывом 2026 года»
-2026-11-24 14:38:29,121 INFO Google News search                56 items
-2026-11-24 14:38:29,122 INFO Skipped (only 1 outlet): UK nations in dark over whether they will get automatic entry to 2035 Women’s World Cup
-2026-11-24 14:38:29,123 INFO Confirmed by 2+ outlets: 21 of 25 candidates (3 searches)
-2026-11-24 14:38:29,136 INFO Picked [china olympic 6.5 · 5 outlets] 田秉毅任国家羽毛球队主教练
-2026-11-24 14:38:29,137 INFO Writing news (EN) ...
-2026-11-24 14:38:29,939 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 14:39:13,351 INFO Adapting to zh, ru ...
-2026-11-24 14:39:42,105 INFO Picked [china football 5.4 · 3 outlets] 补时被绝平，U17男足世界杯中国队2比2摩洛哥队
-2026-11-24 14:39:42,106 INFO Writing news (EN) ...
-2026-11-24 14:40:18,722 INFO Adapting to zh, ru ...
-2026-11-24 14:41:01,233 INFO History story for 2026-11-24 already written (2026-11-24-hist-a02660): not repeated
-2026-11-24 14:41:01,251 INFO Looking up photos for 2026-11-24-news-3d085d: ['Tian Bingyi', 'Zhang Nan (badminton)', 'China national badminton team', 'Li Yongbo', 'Zhang Nan', 'Ge Fei']
-2026-11-24 14:41:04,030 INFO Photo check Zhang_Nan.jpg (Wikimedia Commons, 2197x2913): OK, licence 'CC BY-SA 4.0'
-2026-11-24 14:41:04,031 INFO Photo for 'Zhang Nan (badminton)': Zhang_Nan.jpg (Nardisoero, CC BY-SA 4.0)
-2026-11-24 14:41:04,370 WARNING No free-licence photo for 'China national badminton team' (Flag_of_the_People's_Republic_of_China.svg)
-2026-11-24 14:41:05,034 INFO Photo check Li_Yonbgo_portrait.jpg (Wikimedia Commons, 440x651): OK, licence 'CC BY-SA 2.0'
-2026-11-24 14:41:05,035 INFO Photo for 'Li Yongbo': Li_Yonbgo_portrait.jpg (Vinqui, CC BY-SA 2.0)
-2026-11-24 14:41:07,449 INFO Looking up photos for 2026-11-24-news-376868: ['China national under-17 football team', 'Morocco national under-17 football team', 'Satoshi Ukishima', 'Aspire Academy', 'Zhao Songyuan', 'Ziyad Baha']
-2026-11-24 14:41:12,072 INFO Photo check Satoshi_Yamaguchi.jpg (Wikimedia Commons, 1158x1517): OK, licence 'CC BY-SA 2.0'
-2026-11-24 14:41:12,072 INFO Photo for 'Satoshi Ukishima': Satoshi_Yamaguchi.jpg (TAKA@P.P.R.S, CC BY-SA 2.0)
-2026-11-24 14:41:15,628 INFO Match card added to 2026-11-24-news-376868
-2026-11-24 14:41:31,127 INFO Photo check 2026-11-24-news-3d085d #1 'Zhang Nan (badminton)': OK
-2026-11-24 14:41:38,950 INFO Photo check 2026-11-24-news-3d085d #2 'Li Yongbo': OK
-2026-11-24 14:41:52,245 INFO Photo check 2026-11-24-news-376868 #1 'Satoshi Yamaguchi (footballer, born 1978': WRONG — asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'
-2026-11-24 14:41:52,355 INFO Drafts for review: 2 of 2 (others auto-rejected by the standards check)
-2026-11-24 14:41:52,453 INFO Wrote 2 new articles for 2026-11-24
-2026-11-24 14:41:52,934 INFO Exported 12 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-24
-2026-11-24 14:41:55,434 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-24 14:41:56,149 INFO IndexNow: 12 page(s) submitted (HTTP 200)
-2026-11-24 14:41:57,613 INFO Website built: 83 published stories, 294 pages
-2026-11-24 14:41:57,615 INFO Gemini today (2026-11-24, Pacific): gemini-3.8-flash 30 ok / 0 failed (56,870 in / 75,299 out tokens) · estimated cost if billed: US$0.325
+2026-11-24 19:41:18,892 INFO BBC Sport                         40 items
+2026-11-24 19:41:19,064 INFO The Guardian Sport                20 items
+2026-11-24 19:41:19,105 INFO ESPN                               0 items
+2026-11-24 19:41:19,272 INFO Sky Sports                        20 items
+2026-11-24 19:41:19,666 INFO Google News – Sports (EN)         64 items
+2026-11-24 19:41:20,698 INFO Google News – 体育 (ZH)             44 items
+2026-11-24 19:41:21,012 INFO Google News – Спорт (RU)          47 items
+2026-11-24 19:41:21,750 INFO Championat                        31 items
+2026-11-24 19:41:22,526 INFO Sports.ru                         20 items
+2026-11-24 19:41:30,640 INFO Спорт-Экспресс                   467 items
+2026-11-24 19:41:31,690 INFO РИА Новости Спорт                 20 items
+2026-11-24 19:41:32,626 INFO 中国新闻网 体育                          24 items
+2026-11-24 19:41:33,033 INFO Google News – Cambodia sport      12 items
+2026-11-24 19:41:33,503 INFO Google News – Southeast Asia sport  35 items
+2026-11-24 19:41:34,078 INFO Google News – Combat promotions   97 items
+2026-11-24 19:41:34,507 INFO Google News – Boxing              35 items
+2026-11-24 19:41:34,760 INFO Google News – Kun Khmer            1 items
+2026-11-24 19:41:34,977 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 19:41:35,568 INFO Google News – Единоборства (RU)   97 items
+2026-11-24 19:41:36,013 INFO Google News – 格斗 (ZH)             29 items
+2026-11-24 19:41:36,169 INFO MMA Fighting                      10 items
+2026-11-24 19:41:36,429 INFO Google News – Khmer Times sport    1 items
+2026-11-24 19:41:36,699 INFO BBC Sport – Tennis                 1 items
+2026-11-24 19:41:36,825 INFO BBC Sport – Formula 1              1 items
+2026-11-24 19:41:37,053 INFO BBC Sport – Cricket               10 items
+2026-11-24 19:41:37,344 INFO BBC Sport – Boxing                 2 items
+2026-11-24 19:41:37,587 INFO BBC Sport – Athletics              0 items
+2026-11-24 19:41:37,729 INFO The Guardian – Tennis              3 items
+2026-11-24 19:41:38,076 INFO The Guardian – Formula 1           1 items
+2026-11-24 19:41:38,227 INFO The Guardian – Cricket             5 items
+2026-11-24 19:41:38,340 INFO Sherdog                            8 items
+2026-11-24 19:41:38,469 INFO Sky Sports – Football             20 items
+2026-11-24 19:41:39,291 INFO Чемпионат – Теннис                31 items
+2026-11-24 19:41:40,124 INFO Чемпионат – Хоккей                30 items
+2026-11-24 19:41:40,200 INFO MMA Fighting – latest             10 items
+2026-11-24 19:41:40,771 INFO Google News – Tennis              85 items
+2026-11-24 19:41:41,371 INFO Google News – Basketball          96 items
+2026-11-24 19:41:41,940 INFO Google News – Motorsport         100 items
+2026-11-24 19:41:42,490 INFO Google News – Badminton, athletics, table tennis  75 items
+2026-11-24 19:41:43,007 INFO Google News – Cricket            100 items
+2026-11-24 19:41:43,466 INFO Google News – 网球与篮球 (ZH)          14 items
+2026-11-24 19:41:43,992 INFO Google News – 羽毛球与乒乓 (ZH)         59 items
+2026-11-24 19:41:44,621 INFO Google News – Теннис и баскетбол (RU)  93 items
+2026-11-24 19:41:45,265 INFO Google News – Формула-1 и биатлон (RU) 100 items
+2026-11-24 19:41:48,158 INFO Candidate stories after clustering: 1690
+2026-11-24 19:41:48,237 INFO Skipped (we already have this story): Сборная России назвала состав на финальный этап Кубка мира по боксу в Узбекистане
+2026-11-24 19:41:48,303 INFO Skipped (match still in progress, live update): Arsenal v Borussia Dortmund: Champions League – live
+2026-11-24 19:41:48,449 INFO Skipped (we already have this story): Этап Кубка мира по боксу в Ташкенте: состав команды Казахстана
+2026-11-24 19:41:48,497 INFO Skipped (pre-match piece, no previews): «Рейнджерс» – «Абердин»: стартовые составы команд на матч Премьершипа, 24 ноября 2026 года
+2026-11-24 19:41:48,538 INFO Skipped (pre-match piece, no previews): WTT Finals Hong Kong lineup unveiled
+2026-11-24 19:41:48,539 INFO Skipped (pre-match piece, no previews): Orlando Magic vs. Detroit Pistons: Game Preview
+2026-11-24 19:41:48,585 INFO Skipped (pre-match piece, no previews): Feds Set Their Sights on Terry Rozier’s Attorney Ahead of NBA Betting Trial
+2026-11-24 19:41:48,604 INFO Skipped (pre-match piece, no previews): 2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 24
+2026-11-24 19:41:48,611 INFO Skipped (pre-match piece, no previews): «Акрон» — ЦСКА: стартовые составы на кубковый матч
+2026-11-24 19:41:48,788 INFO Skipped (match still in progress, live update): «Галатасарай» победил «Астон Виллу» в Лиге чемпионов, Батраков был заменён на 74-й минуте
+2026-11-24 19:41:48,822 INFO Skipped (pre-match piece, no previews): «Слован» — «Бетис»: стартовые составы на матч Лиги чемпионов
+2026-11-24 19:41:48,822 INFO Skipped (match still in progress, live update): Portsmouth vs West Ham LIVE!
+2026-11-24 19:41:48,876 INFO Skipped (match still in progress, live update): Godfrey starts for Rangers vs Aberdeen LIVE!
+2026-11-24 19:41:48,904 INFO Skipped (match still in progress, live update): Saliba only on bench as Kepa replaces Raya against Dortmund LIVE!
+2026-11-24 19:41:48,942 INFO Skipped (we already have this story): Boxing News: Prices Becomes Undisputed Welterweight Champ Defeating Kotaskova » November 23, 2026
+2026-11-24 19:41:48,993 INFO Skipped (we already have this story): Мирра Андреева вошла в пятёрку теннисистов с самыми большими призовыми в 2026 году
+2026-11-24 19:41:49,010 INFO Skipped (match still in progress, live update): Gul breaks deadlock for Galatasaray against Aston Villa LIVE!
+2026-11-24 19:41:49,010 INFO Skipped (pre-match piece, no previews): What time is the 2026 Qatar GP and how can I watch it?
+2026-11-24 19:41:49,186 INFO Skipped (match still in progress, live update): MLB free agency news, live updates: Freddy Peralta, Orioles reportedly agree on 5-year, $125M contract; Teruaki Satō agrees to 6-year deal with Cubs
+2026-11-24 19:41:49,205 INFO Skipped (match still in progress, live update): «Галатасарай» — «Астон Вилла»: Гюль открыл счёт на 77-й минуте
+2026-11-24 19:41:49,252 INFO Skipped (pre-match piece, no previews): Man City vs Napoli team news as De Bruyne starts LIVE!
+2026-11-24 19:41:49,265 INFO Skipped (pre-match piece, no previews): «Реал» Мадрид — ПСВ: стартовые составы команд на матч 5-го тура общего этапа ЛЧ
+2026-11-24 19:41:49,424 INFO Skipped (match still in progress, live update): Transfer Centre LIVE! Heaven open to leaving Man Utd in January
+2026-11-24 19:41:49,532 INFO Skipped (pre-match piece, no previews): Юрий Караев анонсировал "скрытое оружие" гродненского "Немана" на следующий сезон БВЛ
+2026-11-24 19:41:49,544 INFO Skipped (we already have this story): Late Heartbreak for New Zealand in Six-Goal Thriller Against Vietnam
+2026-11-24 19:41:49,553 INFO Skipped (pre-match piece, no previews): Italy v Korea, Rep.: Preview
+2026-11-24 19:41:49,933 INFO Skipped (pre-match piece, no previews): 获释后首发声！乌斯曼引用古罗马谚语回应风波，签约UFC蒙上阴影
+2026-11-24 19:41:49,962 INFO Skipped (pre-match piece, no previews): Кубок мира по биатлону 2026/2027 стартует в Контиолахти: составы сборных и фавориты сезона
+2026-11-24 19:41:50,089 INFO Skipped (we already have this story): Chhut Serey Vannthong Beats Riki By Unanimous Decision At K-1 Revenge II — Highlights
+2026-11-24 19:41:50,458 INFO Skipped (pre-match piece, no previews): Disney анонсировала новые материалы «Мстителей: Доктор Дум»: показ состоится перед премьерой
+2026-11-24 19:41:50,743 INFO Google News search                 7 items
+2026-11-24 19:41:51,019 INFO Google News search                 7 items
+2026-11-24 19:41:51,020 INFO Skipped (same event as a stronger story): Мирра Андреева признана "Прорывом года" по версии ESPN
+2026-11-24 19:41:51,363 INFO Google News search                 8 items
+2026-11-24 19:41:51,368 INFO Skipped (politics): Трамп объявил о проведении женского чемпионата мира-2031 в США
+2026-11-24 19:41:51,368 INFO Confirmed by 2+ outlets: 23 of 25 candidates (3 searches)
+2026-11-24 19:41:51,386 INFO Picked [russia olympic 8.1 · 7 outlets] Валиева пропустит чемпионат России по фигурному катанию в Челябинске
+2026-11-24 19:41:51,386 INFO Writing news (EN) ...
+2026-11-24 19:41:52,055 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 19:42:19,809 INFO Adapting to zh, ru ...
+2026-11-24 19:42:46,361 INFO Picked [sea football 8.7 · 5 outlets] Hodak appointed head coach of Malaysia national team
+2026-11-24 19:42:46,361 INFO Writing news (EN) ...
+2026-11-24 19:43:19,357 INFO Adapting to zh, ru ...
+2026-11-24 19:43:48,934 INFO Writing athlete_story (EN) ...
+2026-11-24 19:44:36,113 INFO Adapting to zh, ru ...
+2026-11-24 19:45:39,532 INFO Looking up photos for 2026-11-25-news-d8cd04: ['Kamila Valieva', 'Eteri Tutberidze', 'Russian Figure Skating Championships', 'Chelyabinsk', 'Alexandra Ignatova', 'Petr Gumennik']
+2026-11-24 19:45:40,358 INFO Photo check Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_(cropped).jpg (Wikimedia Commons, 2247x3118): OK, licence 'CC BY 4.0'
+2026-11-24 19:45:40,358 INFO Photo for 'Kamila Valieva': Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_(cropped).jpg (Министерство спорта Республики Татарстан, CC BY 4.0)
+2026-11-24 19:45:40,487 INFO Photo check Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg (Wikimedia Commons, 1540x2048): OK, licence 'CC BY 4.0'
+2026-11-24 19:45:40,488 INFO Photo for 'Eteri Tutberidze': Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg (SpiritedMichelle, CC BY 4.0)
+2026-11-24 19:45:41,151 INFO Photo check Saint_Alexander_Nevsky_Church_(Chelyabinsk).jpg (Wikimedia Commons, 3102x1774): OK, licence 'CC BY-SA 4.0'
+2026-11-24 19:45:41,151 INFO Photo for 'Chelyabinsk': Saint_Alexander_Nevsky_Church_(Chelyabinsk).jpg (IEPCBM, CC BY-SA 4.0)
+2026-11-24 19:45:41,151 INFO Looking up photos for 2026-11-25-news-b8d792: ['Bojan Hodak', 'Malaysia national football team', 'Football Association of Malaysia', 'Tan Cheng Hoe']
+2026-11-24 19:45:41,242 INFO Photo check BojanHodak2014.jpg (Wikimedia Commons, 1254x720): OK, licence 'CC BY 3.0'
+2026-11-24 19:45:41,242 INFO Photo for 'Bojan Hodak': BojanHodak2014.jpg (YouTube channel holder, CC BY 3.0)
+2026-11-24 19:45:42,242 INFO Photo check Tan_Cheng_Hoe_2014.png (Wikimedia Commons, 700x960): OK, licence 'CC BY 4.0'
+2026-11-24 19:45:42,242 INFO Photo for 'Tan Cheng Hoe': Tan_Cheng_Hoe_2014.png (TRWTV, CC BY 4.0)
+2026-11-24 19:45:42,242 INFO Looking up photos for 2026-11-25-athl-a5a295: ['Ratchanok Intanon', 'Li Xuerui', 'Tai Tzu-ying', 'Banthongyord Badminton School']
+2026-11-24 19:45:42,363 INFO Photo check Ratchanok_Intanon_Indonesia_Masters_2025.jpg (Wikimedia Commons, 540x720): OK, licence 'CC BY 3.0'
+2026-11-24 19:45:42,364 INFO Photo for 'Ratchanok Intanon': Ratchanok_Intanon_Indonesia_Masters_2025.jpg (Jurnal Bulutangkis, CC BY 3.0)
+2026-11-24 19:45:42,464 INFO Photo check Li_Xuerui_2012_(portrait).jpg (Wikimedia Commons, 1554x2240): OK, licence 'CC BY-SA 3.0'
+2026-11-24 19:45:42,464 INFO Photo for 'Li Xuerui': Li_Xuerui_2012_(portrait).jpg (Marek69, CC BY-SA 3.0)
+2026-11-24 19:45:42,596 INFO Photo check Tai_Tzu-ying_in_2024.jpg (Wikimedia Commons, 621x961): OK, licence 'CC BY 2.0'
+2026-11-24 19:45:42,596 INFO Photo for 'Tai Tzu-ying': Tai_Tzu-ying_in_2024.jpg (總統府, CC BY 2.0)
+2026-11-24 19:46:02,041 INFO Photo check 2026-11-25-news-d8cd04 #1 'Kamila Valieva': OK
+2026-11-24 19:46:11,046 INFO Photo check 2026-11-25-news-d8cd04 #2 'Eteri Tutberidze': OK
+2026-11-24 19:46:19,011 INFO Photo check 2026-11-25-news-d8cd04 #3 'Chelyabinsk': OK
+2026-11-24 19:46:26,709 INFO Photo check 2026-11-25-news-b8d792 #1 'Bojan Hodak': OK
+2026-11-24 19:46:33,635 INFO Photo check 2026-11-25-news-b8d792 #2 'Tan Cheng Hoe': OK
+2026-11-24 19:46:39,202 INFO Photo check 2026-11-25-athl-a5a295 #1 'Ratchanok Intanon': OK
+2026-11-24 19:46:46,443 INFO Photo check 2026-11-25-athl-a5a295 #2 'Li Xuerui': OK
+2026-11-24 19:46:55,260 INFO Photo check 2026-11-25-athl-a5a295 #3 'Tai Tzu-ying': OK
+2026-11-24 19:46:55,454 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
+2026-11-24 19:46:55,565 INFO Wrote 3 new articles for 2026-11-25
+2026-11-24 19:46:55,730 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-25
+2026-11-24 19:46:57,764 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-24 19:46:59,388 INFO Website built: 83 published stories, 294 pages
+2026-11-24 19:46:59,390 INFO Gemini today (2026-11-24, Pacific): gemini-3.8-flash 44 ok / 0 failed (82,129 in / 100,706 out tokens) · estimated cost if billed: US$0.439

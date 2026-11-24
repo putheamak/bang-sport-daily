@@ -1,0 +1,51 @@
+# 从糖果厂球场到羽坛传奇：拉差诺·因达农的羽球人生
+
+*这位2013年世锦赛冠军战胜贫困、伤病与丧母之痛，铸就东南亚羽坛最具代表性的单打标杆。*
+
+**人物故事** · 2026-11-25
+
+1995年2月5日，拉差诺·因达农（Ratchanok Intanon）出生于泰国东北部的益梭通府，随后跟随父母维纳塔猜·因达农（Winatthachai Intanon）与坎潘·苏万娜萨拉（Kamphan Suwannasara）迁往曼谷。父母在班通育（Banthongyord）糖果厂做苦工，车间里盛满滚烫糖浆和沸水的大桶，对在厂区内穿梭跑动的孩子们构成了日常的安全隐患。糖果厂老板卡马拉·通功（Kamala Thongkorn）主动介入，把年仅六岁的拉差诺带离了轰鸣的机器，领进厂区内的私人羽毛球场，让她在父母干活时能有一个安全玩耍的地方。这一善举随后演变为班通育羽毛球学校的创立，中国教练谢芝华（Xie Zhihua）也由此接过教鞭，负责她日复一日的基础与技术训练。
+
+绰号“May”的拉差诺七岁便拿下了个人首个全国青少年赛事冠军；2008年，年仅13岁的她在老挝国际系列赛上完成国际成年组首秀，一举闯入女单决赛。2009年4月，14岁的她在越南国际挑战赛上斩获成年组国际赛事首冠。七个月后在马来西亚亚罗士打，她以21–15、21–23、21–10击败同胞波恩蒂普（Porntip Buranaprasertsuk），成为世界羽联世青赛历史上最年轻的单打冠军。拉差诺随后用实力证明这绝非昙花一现：2010年在瓜达拉哈拉战胜日本选手松友美佐纪卫冕，2011年在桃园力克印尼选手伊丽莎白·普尔瓦宁蒂亚斯（Elyzabeth Purwaningtyas），由此成为羽毛球世青赛历史上首位成就女单三连冠的球员。
+
+## 广州加冕与登顶世界第一
+
+2012年伦敦奥运会，17岁的拉差诺踏上世界顶尖舞台打入八强，在先下一城的情况下苦战三局憾负中国队二号种子汪鑫。2013年3月的伯明翰全英公开赛，她杀入决赛惜败于丹麦名将蒂娜·鲍恩（Tine Baun），成为该项百年赛事历史上最年轻的单打决赛选手。一个月后，她在印度公开赛战胜德国名将朱利安·申克（Juliane Schenk），以18岁2个月零22天的年纪拿下个人首个世界羽联超级系列赛冠军。
+
+属于她的历史性时刻在2013年8月11日的广州世锦赛上降临。作为赛会四号种子，她在八强战打满三局击败西班牙选手卡罗琳娜·马林（Carolina Marín），半决赛直落两局横扫印度新星P·V·辛杜（P. V. Sindhu）。决赛面对世界排名第一的卫冕奥运冠军李雪芮，拉差诺在长达65分钟的鏖战中屡次逆境翻盘，最终以22–20、18–21、21–14掀翻李雪芮。以18岁6个月零6天的年龄，她打破历史纪录，成为羽毛球史上最年轻的单打世界冠军，也是泰国历史上首位羽毛球世界冠军。
+
+2016年4月，拉差诺在世界羽联巡回赛上打出了前所未见的体能奇迹。连续三周内，她接连斩获新德里印度公开赛、莎阿南马来西亚公开赛和新加坡公开赛三座超级赛冠军——其中在新加坡站决赛中，她以18–21、21–11、21–14逆转战胜中国选手孙瑜。这一波帽子戏法让拉差诺在2016年4月21日登顶女单世界第一，成为历史上首位坐上世界羽联世界第一宝座的泰国羽毛球运动员。四个月后，她荣膺2016年里约奥运会泰国代表团旗手。
+
+## 伤痛、告别与继续击球的动力
+
+立足世界顶尖舞台的岁月里，反复发作的膝伤、背伤和肩伤不断考验着拉差诺。但她一次次从低谷中重新崛起：2015年在武汉亚锦赛决赛战胜李雪芮折桂，并在2018年和2019年连夺马来西亚大师赛冠军。受疫情影响延期至2021年7月的东京奥运会上，她再次杀入八强，随后以21–14、18–21、18–21惜败于中国台北的老对手戴资颖。
+
+然而，从东京回到曼谷仅仅数日，拉差诺便遭遇了生命中最沉重的打击。2021年8月19日，母亲坎潘·苏万娜萨拉突发急性呼吸衰竭。拉差诺在家里拼尽全力进行心肺复苏，但母亲仍在送医途中被宣告不治。伤心欲绝的拉差诺随后退出了苏迪曼杯和尤伯杯。当她最终鼓起勇气重返训练场时，她向公众许下誓言：为了告慰母亲的在天之灵，自己绝不会停下击球的脚步。
+
+她将这份思念化作了站上最高领奖台的动力。2022年7月的吉隆坡马来西亚公开赛，拉差诺以21–15、13–21、21–16力克奥运冠军陈雨菲夺冠，将胜利献给亡母。2024年3月，她在马德里斩获西班牙大师赛冠军，打破了长达两年的冠军荒。领奖时，她佩戴着一条特殊的银质项链，坠子里嵌有一块取自母亲老家的石头。“我从她的生活痕迹里、从她的老家挑了一块石头随身带着，因为她一辈子从未出过国，所以现在我要带她走遍世界各地，”她在接受Olympics.com采访时这样说道。
+
+2024年巴黎奥运会是拉差诺第四次出战五环盛会。7月31日的小组赛，她与老对手戴资颖迎来了两人职业生涯的第36次交锋。拉差诺以21–19、21–15赢下比赛，两位传奇老将在网前久久相拥、泣不成声。随后，拉差诺在拉夏贝尔门体育馆一路打进八强，最终遗憾负于印尼选手格蕾戈丽亚·玛丽斯卡·东宗（Gregoria Mariska Tunjung）。如今，已近而立之年的拉差诺依然在班通育羽毛球学校挥汗如雨。从当年糖果厂生产线旁的小女孩，到如今泰国羽毛球国家队不可或缺的定海神针，她始终践行着那些支撑她一路登顶的承诺。
+
+---
+**来源**
+
+- [Ratchanok Intanon - Wikipedia](https://en.wikipedia.org/wiki/Ratchanok_Intanon)
+- [BWF Madrid Spain Masters 2024: Ratchanok Intanon pays tribute to late mother - Olympics.com](https://olympics.com/en/news/bwf-madrid-spain-masters-2024-quarterfinals-ratchanok-intanon-interview)
+- [Promise to mum keeps Thai star Ratchanok going - The Star](https://www.thestar.com.my/sport/badminton/2024/05/22/promise-to-mum-keeps-thai-star-ratchanok-going)
+- [Paris 2024 Olympic Games Badminton Competition Results - BWF](https://bwfbadminton.com/tournament/5149/paris-2024-olympic-games-badminton-competition/results)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjMoN92GnVtKhEYn3iob6jcLnmXgOA1hbuNT0wg81IY54wuyr0iWyJYhBLKg-4_hwUuFw_eTYH3eZzEiKWXssqWtVmRSv4GGKjDzKmA0fz2I9xRlAPAshZbXYb8NFA0d30bos35g==)
+- [badmintonplanet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdJS9EeMInBQTOvazCaK8vlTySdMK4auUiXDvBcWKJ2IdIIF8_pqJq4oToV5htG4-yDV9irJCu_Gl3O_bFvMTu_Z4Vefv-fGaf-0_E-huCacCUmu221X31JWyXFbw87bKzRgIwX2icGRozYZtDXwnj4BGz7Y3E0eMIdkwgg9fnMjEeEAUlCrppy2mQ5cd4RdGjfMPKqw==)
+- [kiddle.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7y4tNbD5wbraMrQF8bqn7uUHN3mJSoWC5uXysYB1iHiXv0RD-Ci_iLMY3q80Lb0SkUk8X5bYNFdy4lKv6V-NhEokSNOfHBr9FNRdcroJUK8Yj3pmfVEHpTXEQUyOi)
+- [straitstimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQYt4QMv-4PVpFBRwWVb7WyFbOxVuAgzODXRPpK99zfnuQ8mdXFfzHHzFFMya8AbNkBU8WDu3NJUwNjcIOky00DL9WLWm6KB4s-LS5QPchxLLVvGixk7K-v_jLI3-9y-Lrti8Bnm6mqkRRbQdNiwlp64t1ffv2-S7NzwdSR1cMECV1qHxjEBCYTLJL_bAZNEZ9gjTHCDZk-gorOuzAi6-g)
+- [thethaiger.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7EFKyfc6GYgTh0f5CDFcXB2K6BDABYjFWjFTKLpEBXTKddtIHr5lKfdNUQWReJxR_L8XHG9FUp2jPgQfN6t4ZqNR0WJZFS93I7xxtzO9jXmQV7ygpKNa0y0n-Ywi0)
+- [olympics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkfrVyYdv46oogUu4Lngxy1DKqs8oVzRZ63xQ_m1f6GtHD2oqwEyQIBAukKM8dASayNJlB2NNq3u4B48STezbCNc8ljhNOo-8wtrshOSMfeym6lmuwnOFv048_4xsB3lMQXPSvWUpy7wNFTKo=)
+- [womensbadminton.co.uk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2zPc2RTWL5gVsPsIP_a8QaY4VcpA4QfOISAa_EK-73bmOXqRoFRTB6otBTI_GpeWn9lwiXMfq9qVsrbmQF0VgBhNVFSq1AyuyRn968pVWk3zXE8_zZ9reDf32iG2-kF4dHgYcAdn9ENekHkEgervHWomg6IicKpStMY0vmf4mUunDH8T1wotr2tKK)
+- [bwfbadminton.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3j3Bsl7jRB546zzGg-BRjhHJeoP66oc9OmDTlklcvzU6nb6oMNSOaeL0szNI9L7u5pnwDEpR3Isg-N7JzjzltfPSiGQ3kSlwq2VAfu-whuu72G4l7XyYs9f26i1zP379Yz52x5pYPqASCMdEB4WJYWfuJNlTHDnDLurtuS5cpNQX32e0oO7d40WuYiAegsyzlYRLZMg8TOSFSGYVaiO8ZZOD2399SnFb6iOqyY9rg)
+- [thestar.com.my](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo9t-A8ZoCVZtzqbYnXi6UMBP0uHhFO7nPyq1_fUBxHk93-VILau0knIO8x5xNCwCAgfQrAYhDG-foLodQsg6UBJQTHb6LGtIhvprabqWJoWvHELmXtriWim9t-0tOE3NpFLiLGDmqh-tJuzh7nP_5w17GEGmpXQuWk60yXZX4LtE_S0BhQ_SwDti-Ea46x2csw1jSWkf-OyNB)
+- [nst.com.my](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlaSXQjaBn3Cj_Rjl15aKh6uULEK-dE7N0dLSwn_RIXkVRZi-PiKM1FnhZg2ZsKlxkPH9nqLWDR9JllbbqbhRx6dE9ygkkgM2QDiUQJ8wyi04vi8uNKrSonH6U5bOsGwiS1efbaenXiUpa154kTeu3dK5b8696t20uE8bo64C21QCueNAb9RHwusxO7-8HjBiKiYOjOOJP94=)
+- [badmintonplanet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHplnN1FmVJ0nLgdRf5UsaWOQv4T5DwRoudadOZoMeeMXY8Z6gXuPSGNsRgRauJGb1KjXA6x3BoKNSf69CKW3WoMkFIo9JnHGwfQz7zzUk6yH8zgwjb7QNjCzscbz8aZKdl8DM45o751AV9d2CMZ-dwHerN3G12kSg89Asw1W0UGl2sASafjVxBQzyyBxgZXHDDJq-LqSv390sRiXRZw2eUmVzJwKGlHRYBXEi1FGHD1w==)
+- [badmintonplanet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi4m6rPJncBI1eXxXynt7EAjFKhlzQLWUHGIPhaLE008MV6pdsYBthJe9FTKRWIxZ-BOZTFKJoP4Jill8uNyYqNwlEhyKJsNNibMM-XsVgheor6el4i09JF6YKIjxZq8F4Vh0VsbU_N5GURisSfZjGV7LNhrTvMB4qnVhYWnp2SjQT9zLKxPlVk3c6FE2fXzoYvkVDJvMZIAKyQKEA-1znW5kRyRuQpdw=)
+- [olympics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGibehoT4vNfdibu2W4_T0AA-2swtArTwz3GBUmIU-ArcOMH-_EST_bkHQT7nzDXie--_lnPcyEni9heDKMuasSyzaLeRXf_eD92rRDhDkPdQEYLZlxYh_WKYNpSnw7VaCeVe2DLa53u-DWjXgYHaO7eqHg3FUCCgJiBCoFR-C-1p94tjwJqLYvq1exigMCapyAeJ8hv-Rw1gdLxGqMa8Mj3wcyW4Z68C3ICYdWwzQ5WwZ77A==)
+- [olympics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjuJNpBp9AGwUHqaoBwi4LqKmnDSl5yrWplBpS0l5-cbiBHL2JMc874blXfRAKMD2s2ICM79r-rrWYUyDSm5bGUhhPV1V4VpUj9oIcXet6OVdwgO3ILczsQGuTKQ8nFeu2Lv-iaUUsJg4n8n1_FsK0R5jpOCW6memr9NeQ_pmVF_JgpVEK)
+- [headtopics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThM4NMVKvb3lhEgtBItcn7U9x9O3ZQ5RVGEZQ-XKKYtF5tL8vm2GSJq1vqgtVCB-dCdsxj6GejIJWVsFEqkV_FsT51ujvRhnvM7JrA2E7kgzfmFIF4C_E0jYZl7E0NrhXiGViSHkote6N_PjvF0VenA2rl_xuxpBVeInTCYLr4PwPUAw7rqX5Kb99iEuLAFxUrHolaQ==)
+- [bwfbadminton.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHloyg4Clv8KH_bguQ2cEHEr9zNOEwlD0cwfEB9WapFU1_FKhkMqdv5BPuKuch1kESmBEYif_zKbNgGzYxgPOoIBJj4vmV5IcVTU8GLpc507EO25-BlJoM3NkQXzztzNcNC2gbe8H24zhaqfLv6YFMPIj6TXvHIto_8vjXwThkstI7EwNjYIstlqrXbjfccBWfItclVdBD82NLVj-Ofqw==)

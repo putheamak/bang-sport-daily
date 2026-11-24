@@ -1,0 +1,36 @@
+# 霍达克重返马来西亚出任国家队主帅，“马来亚虎”架构调整陈清和转任总监
+
+*55岁的克罗地亚名帅接过帅印，临时主帅陈清和则退居幕后专职协调国家队架构运营。*
+
+**新闻** · 2026-11-25
+
+八打灵再也讯——马来西亚足球协会（FAM）于2026年11月24日星期二正式宣布，任命波扬·霍达克（Bojan Hodak）为男足国家队新任主教练。这位55岁的克罗地亚教头接替了临时主帅陈清和（Tan Cheng Hoe）的职务。陈清和此前在彼得·克拉莫夫斯基（Peter Cklamovski）离任后，于6月25日临危受命接过教鞭，如今他将全职转任国家队总监。
+
+## 东南亚赛场的“荣誉收割机”
+
+霍达克在东南亚足坛摸爬滚打了20年，尤其在马来西亚赛场战绩斐然。他在当地最负盛名的执教战绩当属2012年：率领吉兰丹队（Kelantan）包揽马来西亚超级联赛、足总杯和马来西亚杯，加冕国内三冠王。
+
+此后数年间，霍达克屡屡在不同球队收获奖杯。他先是率领柔佛新山（Johor Darul Ta'zim）斩获2014年马超联赛冠军；数年后转战吉隆坡城队（Kuala Lumpur City FC），爆冷夺得2021年马来西亚杯冠军，更在2022年一路杀入亚协杯（AFC Cup）决赛获得亚军。
+
+不仅在俱乐部成绩彪炳，霍达克对马来西亚国字号队伍也绝不陌生。2017至2019年间，他曾执掌马来西亚U-19男足帅印，并率队在印度尼西亚泗水夺得了2018年东南亚U-19锦标赛冠军。在马来西亚之外，霍达克还曾率领金边皇冠（Phnom Penh Crown）问鼎柬埔寨联赛，并在印尼先后执教马卡萨（PSM Makassar）和万隆（Persib Bandung）。
+
+## 足协的战略考量与未来任务
+
+马来西亚足协主席拿督阿卜·加尼·哈桑（Datuk Ab Ghani Hassan）表示，霍达克对本土球员的深入了解以及对区域足球格局的精准把握，使其成为了主帅位置的不二人选。
+
+“大马足协深信，霍达克在马来西亚及东南亚足坛深耕多年的经历，让他对本土足球环境和大马球员的潜力有着天然的深刻洞察，”阿卜·加尼在周二的官方公告中指出，“他在马来西亚和印尼多支俱乐部的出色履历，也证明了他打造具备争冠实力球队的卓越能力。”
+
+随着陈清和出任总监负责统筹管理架构，霍达克的当务之急是组建“马来亚虎”（Harimau Malaya）一线队阵容，全力备战即将到来的区域赛事及亚洲杯预选赛窗口期，力求稳定国家队战绩并提升FIFA世界排名。
+
+---
+**来源**
+
+- [Hodak appointed head coach of Malaysia national team](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHchuaWhhulIwXjn3QcmeG1BEHaQf4pdNCI6MuRMgbtCu68fICnS8l8H86jXmKcCPlMjVQ4isWe7EYwZkFMbNuI7pHOQindwnPNPbwoa_Zg2d9hWHUZVoLj1s-RIAml7mvjWPKUyvB4ZuVXpQssyK7Ar59gqPChcYZ7F0hjvyc916ZlyKC7VU_jPlRp)
+- [Hodak appointed Harimau Malaya head coach | FMT](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0jcf1NkBcZVaVf7jvRUPyIajvIMU1HCbGAoLutOnY2hyj3_QBIQxyAm9UHj6aSXrQADdIAlpZmrmB2M9cGwoRf-PR7mDv61G6EEkVknr19a3qBkV1yw5uDJwdXjyJkF2kuDk_07yW4kglfVM8j8wCe8RR6ndUQsOwJS_g2mBiZTcUwQzQkHzZWiv2skVJD5Ogu6LXLcHkQqYq-h-FdQ==)
+- [Seasoned Hodak takes charge of Harimau Malaya, Cheng Hoe stays on as director](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYYrZ_X0W-OrHzPuqYylUbu_yq1dBQEQhD3tgbZ3BqFjrABG8RYNiPyRA9hsWiONQ9dgKx1hhu-NUK55fuikDO_NOtuhUcP6mahqqQuOV5a9_VNjr07S79y7qJ9DHitJmuvr-cMszT9edt2xO188JKE-Tp8DmJfr8boWK7rsTJhGSKEidnluDRXPk6yvH6DeJPzswJSbPAE0vslchkJP6kxXVQC1ScvYVy6Cl7YHtU2kW9j49GBgc=)
+- [laodong.vn](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Yxc53MPaUl4pHBaNGOUWckJnvRT4RMjX7TMBNeW6s6chK59PRkeMtyxkIPUqQn_dxCkmNp27WzfQ2TkAk0GpXIEEcCWtfEe28H6idtIl5VNQrtLWCClfWtET7olH7gTkXUtst9hP-0Y_ry4bCPdE43jFNfhhXlT4DcV5IhEoVPoJ1kzA484=)
+- [ASEAN Football Federation: Hodak appointed head coach of Malaysia national team](https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXNZM0d4VmxFUGQ5SE9MSUo0Nk52ejY4RVRJSzYyR21zWFlCc0gySUVQaGhEMEJ1b2JCcmlLVThUUlVuM0E4cU81a2lyRU03T2tETGdVN1BFeWEycnJQLUlxX3JyM0h2dUxrcmtKcDlxOXdodlo3S3JBTW5FbWJKVmRwUE9HQ2VzNFhhUUtYMA?oc=5)
+- [Laodong.vn: Malaysia national team has new coach](https://news.google.com/rss/articles/CBMiigFBVV95cUxObzFUY2dVa2FRb081RTNsVHZncWg5T0Nmalc2blRnVTZPcERlNW1pek9xQ2tsRnlGY0x3blBObUtPNVFBQWhnR0U2ZjduQm44RVJRZVBUNy1QWWtpUms1aTJSRFQwckphRkpqMnlqWEhHZFNWVWhPVDUtQk1zVHJqaXFkeHBwVnlYd0E?oc=5)
+- [ESPN Global: Bojan Hodak named new Malaysia national team coach](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGNZRXZSU01wNzF0WTZOYlkzS21CYVpSd2tTdHozUTE0Ni1lS1ZsMEIxb2UxM21fdGNfTXNRa1ZIMHc0LTJsUTBjbjVVbmRVQlJrMTJtNEZSVTR0WFdWYzhrTXFCZmw1N1R0blA1Y0p0R0xRd2ZPaURlLXBURVRMVlZJa2NhNEhublFySGV6dmhVb2VCT0libA?oc=5)
+- [NST Online: FAM appoints Hodak as national team coach [WATCH]](https://news.google.com/rss/articles/CBMipgFBVV95cUxONnhXSE1Uc3RnektiMGk2SFJEUUlOLWRBRWxfRXZIUmZTX3hqQkxuUlhDM25BNE1mc0FwWTdCQ0I4ZzN0TUtYR0pZX2M0RXB5WDdVMm84OUZHRGZNaWJKZGI0YndmQWpEMVFncm14UElZdVNJWVFJc1VuQ3czLTZVdUd1dEhkc0dZLVc0aGhlYWpPaEg3VGR0WV80R2FTU29OQ013Z1hB0gGmAUFVX3lxTE42eFdITVRzdGd6S2IwaTZIUkRRSU4tZEFFbF9FdkhSZlNfeGpCTG5SWEMzbkE0TWZzQXBZN0JDQjhnM3RNS1hHSllfYzRFcHlYN1Uybzg5RkdEZk1pYkpkYjRid2ZBakQxUWdybXhQSVl1U0lZUUlzVW5DdzMtNlV1R3V0SGRzR1ktVzRoaGVhak9oSDdUZHRZXzRHYVNTb05DTXdnWEE?oc=5)
+- [Free Malaysia Today: Hodak appointed Harimau Malaya head coach](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmwwUHdDRXdIazJCeU9SZ0xvMGlQb3YzbElBY25YdGozd0tGNWN2RHZlRTV1cFhEX19BNkVQdUx5WXpCbURYUkQwejRMRUhUVU5FUGJlc2xDNFExRms3eTlaZ3Q1LXIwVktFbG9pdEdnQzRoZ2E5b183V3U4QkFFam93UUxzUHhWVUk1dzF4Qk9NQjBSLUh3bEY0bERwT0p1MG9xYk4ya2g?oc=5)

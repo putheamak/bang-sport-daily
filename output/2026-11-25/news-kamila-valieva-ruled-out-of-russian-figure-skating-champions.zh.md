@@ -1,0 +1,49 @@
+# 因身体状况与负荷受限，卡米拉·瓦利耶娃遗憾缺席车里雅宾斯克全俄锦标赛
+
+*在医生限制其训练负荷后，这位20岁名将未出现在俄罗斯花滑联合会公布的初步参赛名单中。*
+
+**新闻** · 2026-11-25
+
+卡米拉·瓦利耶娃（Kamila Valieva）将不会出战即将于12月17日至20日在车里雅宾斯克举行的俄罗斯花样滑冰锦标赛，这也意味着她将错过这项本国最重要的年度大赛。周二晚间，俄罗斯花样滑冰联合会（FFKKR）公布了初步参赛名单，这位20岁的花滑名将榜上无名，证实了此前俄罗斯国家通讯社塔斯社（TASS）与俄新社（RIA Novosti）的报道。
+
+瓦利耶娃的退赛源于今秋以来持续受困的健康问题与受限的训练节奏。10月下旬，医疗团队建议她暂停跳跃训练一个月。尽管瓦利耶娃已于11月12日恢复上冰，但团队内部人士向俄新社透露，她目前尚未恢复到出战国家级大赛所需的高强度训练状态。
+
+## 健康波折打乱秋季参赛计划
+
+训练的中断迫使瓦利耶娃放弃了本赛季俄罗斯大奖赛的全部赛站。此前她先是因病退出了10月17日至18日的喀山站揭幕战，随后又缺席了11月14日至15日进行的鄂木斯克总决赛。
+
+由于2021年12月曲美他嗪检测呈阳性，国际体育仲裁法庭（CAS）对其处以四年禁赛。在结束这一禁赛期后，瓦利耶娃于2026年1月的俄罗斯跳跃锦标赛上完成首秀重返赛场。虽然她在今年9月参加了莫斯科举行的国家队测试滑，但自解禁以来，她尚未参加过一场包含短节目与自由滑的完整双节目正式赛事。
+
+## 重投恩师门下与参赛资格波折
+
+对瓦利耶娃而言，2026–27赛季伴随着巨大的人事与环境变动。在斯韦特兰娜·索科洛夫斯卡娅（Svetlana Sokolovskaia）教练组训练了一年多后，她于今年秋天重返“水晶”冰场（Khrustalny），再次投奔功勋教练埃特丽·图特贝里泽（Eteri Tutberidze）。
+
+然而，她的国际赛参赛资格仍未解冻。国际滑冰联盟（ISU）虽在8月授予了瓦利耶娃中立运动员身份，但随后在9月撤销了该认证。
+
+俄罗斯花滑界普遍认为，瓦利耶娃的缺席对车里雅宾斯克全国锦标赛是一个沉重的打击。著名教练亚历山大·茹林（Alexander Zhulin）在接受俄新社采访时表示：“缺少了她，全俄锦标赛的观赏性无疑会大打折扣。”1988年冬奥会冰舞冠军娜塔莉亚·贝斯特米扬诺娃（Natalia Bestemianova）则向塔斯社坦言，瓦利耶娃“心里有数，她经历了太多风雨”，当下最重要的是把身体健康放在首位。
+
+在瓦利耶娃抱憾挂起免战牌之际，车里雅宾斯克的阵容依旧星光熠熠：北京2022年冬奥会女单银牌得主亚历山德拉·伊格纳托娃（Alexandra Ignatova，原姓特鲁索娃）领衔女子单人滑；男子单人滑则由彼得·古门尼克（Petr Gumennik）和弗拉季斯拉夫·季基吉（Vladislav Dikidzhi）联袂坐镇。
+
+---
+**来源**
+
+- [ТАСС: Валиева пропустит чемпионат России в Челябинске](https://www.sport-express.ru/figure-skating/news/tass-valieva-propustit-chempionat-rossii-v-chelyabinske-2274889/)
+- [Камила Валиева пропустит чемпионат России по фигурному катанию - Гродно 24](https://grodno24.com/2026/11/kamila-valieva-propustit-chempionat-rossii-po-figurnomu-kataniyu.html)
+- [Валиева пропустит чемпионат России в Челябинске - БИЗНЕС Online](https://m.sport.business-gazeta.ru/news/311956)
+- [business-gazeta.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNQI867JNi9tG80Q2fPhJkSwWWrdtQAGnL7KygW_BAVhnFNNtKZlqkWLxfx--sGV3TQBrKJ4mtpkY3nQuZTxGWPwvRT2nmDwEGOU42tCePCjV5UzROvNHVBIQVM8o_oiYuGsIFIw==)
+- [grodno24.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHahtYEfOig6b9dVzdAjn1s28HVx_jNLTagCy-KopRHnIBazwzZ0zotytJsxdUclwSpJ_-jw7OanIx665K41wEf5_C69qnYqf1XJlPUV86Tixo_-ulfCTA37yNt3GbVAFAD-xuywMe6ZmcAG3HZxkllOAx1XZVUlmfCbeKkd0JuTqqvN9lQew4eLGKOMTusp8QVaxu6qcF5ug==)
+- [matchtv.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhAuYtOPwX5vrmKz8Xg9uU1mGUYlLOf1NzBTfie7Lg-V5wdK_ncN5JN9fbwWqziIMjLV_veyAKUbA5xhlNsEYU-cVdLy3A2WaMaq5ofb0LPFdyyBOm8j-WVhtmHtN8vVp8X-EvbcTA5cg91ZNUztyJ_UPv1s9c1cGxo1xT9f1q4CK-Klgyqwff2fwD2ZhgsYpKxNcNFBmJ55bP0fcpNIcw7PxpraGi5e_9UqRbepTbHftdQNTQd-P0ogcvRio-M10Npr3g7ocl-4z3KcfjUjPLM0YA6FzQmvYbBFfyUozIZXo1RLQiyIusTlT_lg==)
+- [bookmaker-ratings.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGWY18fB7blu8OeJDmxMR0HrXhn0grrVd9RmhD9PiNUAsGP57vDaGyB-xHoqTr9k-MO5BlduZs_D6a1qXfCAUH7WLMqqSnxpC9wL9wqrvBIiQa7UhGxVkXMNbYRe9RRYhG1K9n0ktQy_3S9jGxt164guaGbb4eygNw8lzpzELwlVgMcGKVimexw==)
+- [olympics.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBicveWjJzcjpzyQm_XSv00ppFN1pbEmpwX0HDA5Th6mWi_Rwst8nyIslq8WDzwjWThuL-8F52EvK7LZq7AH3wO4Pjtui0l6DMl5mwJjRcpQFQTgZKkGjxK_cHTC6Lk4lTsZYMDgKAqc0-92IdZHlJOYTDPjVdukg7MCyFduR6-NzF9KZDoAt5CBxfyjafWTtTiomzW5c1S66o091wjSOiN7pt9ONfCLvRv0B5A==)
+- [7news.com.au](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkjKAvBiCsAC-5liVG4RQFbOoQ_6t_x0xj3E9CYYrxvYwOBQt7IVjm4stdkDkYpCZ0ZkwKQYSOIWEPUilbu4oHBJ5_obehxOItAWvfIO2DKjzntujm1s3xIIaazgaARIxvXjjF6RVgsbziBmoIoE3Z17AgFQRwtSrHMel9J0LXEU9UhXXxEfMaAMr_oJLKAefZwLmuxd6W3vj3E35Hly-BS1qJBhEBLUjtFuyRwuOtdQP49qKBErKX3f_tYkvzazRZjZ-E7i6gXmibKEEh1R5M)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqhD39XydpXKoW2yGqeDtVJuKQJCYVEh3aed7867A4RJNKVUOWWM-NGvQIciTLzkBNA2ADVhZIsVjcQWgRqK-CF8BPTT0EFAzXha9KkjuNZ5_ebHHaxa0DqaIQI1-vOwITIyt7UDBpu33kcRM8t0YzEJmv8EMvOTiLwsUL3v3s4UZBVh2S_xwXeVeDM0FL3nGKolOqrn_cM7JrFfkKa1Y=)
+- [spbdnevnik.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9-Fxy4rmP9kA8EHJFWCUOgR7rWmDNqoYfDgjxXVEuo_hWGU7CsWUiEryfOmZPeDzNOP_YgY6gBhj1wQ_gSgIwjYKzUzyIIEDbR8ABcbuJ5EITfpVaMeBJ8o3WfAIUerw5QOrGilx3QQP5fg4dCCLpx6pqBoKzytFwkZLh5Wv-wJWFOBtryoRRgRMz_StXWTZ_7s6plfP)
+- [sports.kz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSrkyYBKZFoZmXy_4QKyaRzImQMJzAucDgkGlfX2705ls1vM9wmxV8iyoa3TZD3B8crt0JlcOHfhfWCkiibJtzEAMdTD_Ofhj5lGNmfZ2nONBxDo9k5gu6QUbcDMzvpB2YmBSJ00MEBVzICgNJz1n2Y3fdY3eWa_yP4FyQ__3XbV5I-hLKFe-ABA=)
+- [sport24.ru](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhEuQI-84pMgL9A_xUldzBAYtdU1y9Gi04idjhexJsW0VD9iuqN3sUTdNecEXVmycIb_dZWbbUEMpW239RuQ9oA4K-9-CjSUeHZiTH5JCwQdV9hlYfFg1ez2ZawO_4uthklO47TkR9Hg7wMRRo13h0kmwX4sUnCWsvPp72qc4eWCz2-OeEwb3O1mjKjYFzRw5fIIsDNUTxnX56iRtas9cg5g8qwH8M6ceFVIVvftbEp5PN-uN2FPshdI1Mp2-Vtnw0Soat_Eiz)
+- [Миллиард Татар: Валиева пропустит чемпионат России по фигурному катанию в Челябинске](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVqWUNpODk0bzkzUkREdlNtQnVMbHJKNkRqUlhhVUdvUHM5YVlSdDlPS0xFQ2ZzZ043MnZxWkREdmZtQ1pLbmpJd0dQSkxueUFTN1VsMnJhaWZzdHoyajkxSnRCOXozMzZXQnFWTkpMVVNNWmhULUgyUjJDUVN0QkFGazF1YmJWRFFIZEIyR21SNzlGUHdndGc1ZF9wZXRndHFkQy11OA?oc=5)
+- [StavkiPrognozy.ru: Валиева не выступит на чемпионате России по фигурному катанию](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTV1VU9qYl9adGhwYXJQMjRqcTFtYmlHbjFqb0h3c25KRzZnQjJXTjlHbDEyX2xFSXNwQ0xkQnZVX21lZ1FsTG1ubFdhbWhQRjdOY1V5ZXRUTWFoWUdSZVB5SHBVaFItNnpUaHVUcjJGaktxUERZakpZbnFwUUdkaUlERU5yMjF1a0QwRU52WUlvVktZczdmUlBEVXVRYjNSMk5ZTkJOYzdpUmY4NV9RYWpDSElBeW8?oc=5)
+- [Вечерний Санкт-Петербург: Камила Валиева пропустит чемпионат России по фигурному катанию](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFM0Wi1IMElPaUhfV0lVVDNZUlFRb1o4YnI3QVBpV0hxWnFheTdCdzBfSXVEaTY5WFcybEM1V2V6TVdrVEZqQUc2X19wYWVHNTBVNV9mR3hjSVJrSGZheUttalo0dHBIWWI3VWtjSmZ5cXhqTFE5dWw3ejV2SjJiT19TcXNfdGduRzVmdWRVdU5uX1RvYWtoWFUxSUJHc1E4?oc=5)
+- [Metaratings: Камила Валиева пропустит чемпионат России по фигурному катанию](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmRiUzdfS2dOakphdHBmeXU5d2NpLWhYMEdjZG1vaFJLOXUwNUhucWlGR2lnd2xXZ190ZndVZk9Ua3pDTXNPRlBkMTdDaExBanlvdGo1RExrZ21XNV9TNDRIREE2TTFvZVFTNmdNVWJlbGx2dTZsaXV0aGpxRlAzcEwyQTFTc042OVdyX205bnRCNkI4Q0cxOEdMaWdhWko2QkE?oc=5)
+- [Спорт-Экспресс: ТАСС: Валиева пропустит чемпионат России в Челябинске](https://www.sport-express.ru/figure-skating/chempionat-rossii/news/tass-figuristka-kamila-valieva-propustit-chempionat-rossii-v-chelyabinske-2478327/)
+- [БО Спорт: Валиева пропустит чемпионат России в Челябинске](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WaU9LTndpZjlhSkVjdzhGdm5KMkVGSGl5YWlXWkhFTTFMZVJKdlRQMXVQd2E3QjhjRXo0S3dROTNaU19DWVl0Ty1pTmItdUhBN3ByZHdUbw?oc=5)
+- [Sport.ru: Валиева пропустит чемпионат России по фигурному катанию](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUx1RXBiSXQ2Y3JnSFZiUHdDQUR1SDI2bW5CSW9rOVBkTldvR3FpekQzU2x4Z0E0RUluLVpVZXFRUTZiS1NKcFlSeEZqQjN2NTBucUhCR2dCa3lXS0lwLXl5YVA4RUJBRDI5ZFhFamlocHFaMWgxZzRUeVRadmVIWFh2bkY2OG5McWpyYVNTSlowVlBTdVVGTUNuTXNwRTZqWkZ0cl9Kd2RIalhMcHVj?oc=5)

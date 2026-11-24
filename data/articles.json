@@ -1,5 +1,595 @@
 [
   {
+    "id": "2026-11-25-athl-a5a295",
+    "slug": "from-a-sweet-factory-court-to-badminton-history-the-life-of-",
+    "date": "2026-11-25",
+    "created": "2026-11-25T02:45:39+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Badminton",
+    "tags": [
+      "Badminton",
+      "Ratchanok Intanon",
+      "Thailand",
+      "BWF World Championships",
+      "Olympics"
+    ],
+    "athletes": [
+      "Ratchanok Intanon"
+    ],
+    "image_subjects": [
+      "Ratchanok Intanon",
+      "Li Xuerui",
+      "Tai Tzu-ying",
+      "Banthongyord Badminton School"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Ratchanok Intanon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ratchanok_Intanon"
+      },
+      {
+        "title": "BWF Madrid Spain Masters 2024: Ratchanok Intanon pays tribute to late mother - Olympics.com",
+        "url": "https://olympics.com/en/news/bwf-madrid-spain-masters-2024-quarterfinals-ratchanok-intanon-interview"
+      },
+      {
+        "title": "Promise to mum keeps Thai star Ratchanok going - The Star",
+        "url": "https://www.thestar.com.my/sport/badminton/2024/05/22/promise-to-mum-keeps-thai-star-ratchanok-going"
+      },
+      {
+        "title": "Paris 2024 Olympic Games Badminton Competition Results - BWF",
+        "url": "https://bwfbadminton.com/tournament/5149/paris-2024-olympic-games-badminton-competition/results"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjMoN92GnVtKhEYn3iob6jcLnmXgOA1hbuNT0wg81IY54wuyr0iWyJYhBLKg-4_hwUuFw_eTYH3eZzEiKWXssqWtVmRSv4GGKjDzKmA0fz2I9xRlAPAshZbXYb8NFA0d30bos35g=="
+      },
+      {
+        "title": "badmintonplanet.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdJS9EeMInBQTOvazCaK8vlTySdMK4auUiXDvBcWKJ2IdIIF8_pqJq4oToV5htG4-yDV9irJCu_Gl3O_bFvMTu_Z4Vefv-fGaf-0_E-huCacCUmu221X31JWyXFbw87bKzRgIwX2icGRozYZtDXwnj4BGz7Y3E0eMIdkwgg9fnMjEeEAUlCrppy2mQ5cd4RdGjfMPKqw=="
+      },
+      {
+        "title": "kiddle.co",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7y4tNbD5wbraMrQF8bqn7uUHN3mJSoWC5uXysYB1iHiXv0RD-Ci_iLMY3q80Lb0SkUk8X5bYNFdy4lKv6V-NhEokSNOfHBr9FNRdcroJUK8Yj3pmfVEHpTXEQUyOi"
+      },
+      {
+        "title": "straitstimes.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQYt4QMv-4PVpFBRwWVb7WyFbOxVuAgzODXRPpK99zfnuQ8mdXFfzHHzFFMya8AbNkBU8WDu3NJUwNjcIOky00DL9WLWm6KB4s-LS5QPchxLLVvGixk7K-v_jLI3-9y-Lrti8Bnm6mqkRRbQdNiwlp64t1ffv2-S7NzwdSR1cMECV1qHxjEBCYTLJL_bAZNEZ9gjTHCDZk-gorOuzAi6-g"
+      },
+      {
+        "title": "thethaiger.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7EFKyfc6GYgTh0f5CDFcXB2K6BDABYjFWjFTKLpEBXTKddtIHr5lKfdNUQWReJxR_L8XHG9FUp2jPgQfN6t4ZqNR0WJZFS93I7xxtzO9jXmQV7ygpKNa0y0n-Ywi0"
+      },
+      {
+        "title": "olympics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkfrVyYdv46oogUu4Lngxy1DKqs8oVzRZ63xQ_m1f6GtHD2oqwEyQIBAukKM8dASayNJlB2NNq3u4B48STezbCNc8ljhNOo-8wtrshOSMfeym6lmuwnOFv048_4xsB3lMQXPSvWUpy7wNFTKo="
+      },
+      {
+        "title": "womensbadminton.co.uk",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2zPc2RTWL5gVsPsIP_a8QaY4VcpA4QfOISAa_EK-73bmOXqRoFRTB6otBTI_GpeWn9lwiXMfq9qVsrbmQF0VgBhNVFSq1AyuyRn968pVWk3zXE8_zZ9reDf32iG2-kF4dHgYcAdn9ENekHkEgervHWomg6IicKpStMY0vmf4mUunDH8T1wotr2tKK"
+      },
+      {
+        "title": "bwfbadminton.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3j3Bsl7jRB546zzGg-BRjhHJeoP66oc9OmDTlklcvzU6nb6oMNSOaeL0szNI9L7u5pnwDEpR3Isg-N7JzjzltfPSiGQ3kSlwq2VAfu-whuu72G4l7XyYs9f26i1zP379Yz52x5pYPqASCMdEB4WJYWfuJNlTHDnDLurtuS5cpNQX32e0oO7d40WuYiAegsyzlYRLZMg8TOSFSGYVaiO8ZZOD2399SnFb6iOqyY9rg"
+      },
+      {
+        "title": "thestar.com.my",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo9t-A8ZoCVZtzqbYnXi6UMBP0uHhFO7nPyq1_fUBxHk93-VILau0knIO8x5xNCwCAgfQrAYhDG-foLodQsg6UBJQTHb6LGtIhvprabqWJoWvHELmXtriWim9t-0tOE3NpFLiLGDmqh-tJuzh7nP_5w17GEGmpXQuWk60yXZX4LtE_S0BhQ_SwDti-Ea46x2csw1jSWkf-OyNB"
+      },
+      {
+        "title": "nst.com.my",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlaSXQjaBn3Cj_Rjl15aKh6uULEK-dE7N0dLSwn_RIXkVRZi-PiKM1FnhZg2ZsKlxkPH9nqLWDR9JllbbqbhRx6dE9ygkkgM2QDiUQJ8wyi04vi8uNKrSonH6U5bOsGwiS1efbaenXiUpa154kTeu3dK5b8696t20uE8bo64C21QCueNAb9RHwusxO7-8HjBiKiYOjOOJP94="
+      },
+      {
+        "title": "badmintonplanet.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHplnN1FmVJ0nLgdRf5UsaWOQv4T5DwRoudadOZoMeeMXY8Z6gXuPSGNsRgRauJGb1KjXA6x3BoKNSf69CKW3WoMkFIo9JnHGwfQz7zzUk6yH8zgwjb7QNjCzscbz8aZKdl8DM45o751AV9d2CMZ-dwHerN3G12kSg89Asw1W0UGl2sASafjVxBQzyyBxgZXHDDJq-LqSv390sRiXRZw2eUmVzJwKGlHRYBXEi1FGHD1w=="
+      },
+      {
+        "title": "badmintonplanet.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi4m6rPJncBI1eXxXynt7EAjFKhlzQLWUHGIPhaLE008MV6pdsYBthJe9FTKRWIxZ-BOZTFKJoP4Jill8uNyYqNwlEhyKJsNNibMM-XsVgheor6el4i09JF6YKIjxZq8F4Vh0VsbU_N5GURisSfZjGV7LNhrTvMB4qnVhYWnp2SjQT9zLKxPlVk3c6FE2fXzoYvkVDJvMZIAKyQKEA-1znW5kRyRuQpdw="
+      },
+      {
+        "title": "olympics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGibehoT4vNfdibu2W4_T0AA-2swtArTwz3GBUmIU-ArcOMH-_EST_bkHQT7nzDXie--_lnPcyEni9heDKMuasSyzaLeRXf_eD92rRDhDkPdQEYLZlxYh_WKYNpSnw7VaCeVe2DLa53u-DWjXgYHaO7eqHg3FUCCgJiBCoFR-C-1p94tjwJqLYvq1exigMCapyAeJ8hv-Rw1gdLxGqMa8Mj3wcyW4Z68C3ICYdWwzQ5WwZ77A=="
+      },
+      {
+        "title": "olympics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjuJNpBp9AGwUHqaoBwi4LqKmnDSl5yrWplBpS0l5-cbiBHL2JMc874blXfRAKMD2s2ICM79r-rrWYUyDSm5bGUhhPV1V4VpUj9oIcXet6OVdwgO3ILczsQGuTKQ8nFeu2Lv-iaUUsJg4n8n1_FsK0R5jpOCW6memr9NeQ_pmVF_JgpVEK"
+      },
+      {
+        "title": "headtopics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThM4NMVKvb3lhEgtBItcn7U9x9O3ZQ5RVGEZQ-XKKYtF5tL8vm2GSJq1vqgtVCB-dCdsxj6GejIJWVsFEqkV_FsT51ujvRhnvM7JrA2E7kgzfmFIF4C_E0jYZl7E0NrhXiGViSHkote6N_PjvF0VenA2rl_xuxpBVeInTCYLr4PwPUAw7rqX5Kb99iEuLAFxUrHolaQ=="
+      },
+      {
+        "title": "bwfbadminton.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHloyg4Clv8KH_bguQ2cEHEr9zNOEwlD0cwfEB9WapFU1_FKhkMqdv5BPuKuch1kESmBEYif_zKbNgGzYxgPOoIBJj4vmV5IcVTU8GLpc507EO25-BlJoM3NkQXzztzNcNC2gbe8H24zhaqfLv6YFMPIj6TXvHIto_8vjXwThkstI7EwNjYIstlqrXbjfccBWfItclVdBD82NLVj-Ofqw=="
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "From a Sweet Factory Court to Badminton History: The Life of Ratchanok Intanon",
+      "seo_title": "Ratchanok Intanon: Career of Thailand's Badminton Icon",
+      "subheadline": "The 2013 world champion overcame poverty, chronic injuries and personal loss to remain Southeast Asia's defining singles shuttler.",
+      "body_markdown": "Ratchanok Intanon was born on 5 February 1995 in Yasothon province in northeastern Thailand, before moving to Bangkok with her parents, Winatthachai Intanon and Kamphan Suwannasara. Her parents took jobs as laborers at the Banthongyord sweet factory, where large vats of boiling syrup and sugar posed an everyday risk to children roaming the production floor. Factory owner Kamala Thongkorn stepped in to move six-year-old Ratchanok away from the machinery, guiding her onto the factory's private badminton courts so she could play safely while her parents worked. That decision formed the foundation of the Banthongyord Badminton School, where Chinese coach Xie Zhihua took charge of her daily technical education.\n\nNicknamed \"May,\" Ratchanok won her first national junior tournament at age seven and made her international senior debut at 13 at the 2008 Laos International Series, reaching the women's singles final. In April 2009, at 14, she secured her maiden senior international title at the Vietnam International Challenge. Seven months later in Alor Setar, Malaysia, she defeated compatriot Porntip Buranaprasertsuk 21–15, 21–23, 21–10 to become the youngest-ever BWF World Junior champion. She proved that achievement was no anomaly by defending the world junior crown against Japan's Misaki Matsutomo in Guadalajara in 2010, and against Indonesia's Elyzabeth Purwaningtyas in Taoyuan in 2011, making her the first player to win three consecutive singles titles at the World Junior Championships.\n\n## The Breakthrough in Guangzhou and World Number One\n\nRatchanok stepped onto the senior global stage with a quarter-final run at the London 2012 Olympic Games at age 17, losing in three sets to China's second seed Wang Xin after taking the opening game. In March 2013, she reached the final of the All England Open in Birmingham, falling to Denmark's Tine Baun to become the tournament's youngest singles finalist. A month later, she defeated Germany's Juliane Schenk at the India Open to capture her maiden BWF Superseries title at 18 years, two months and 22 days.\n\nHer defining triumph arrived on 11 August 2013 at the BWF World Championships in Guangzhou, China. Seeded fourth, she eliminated Spain's Carolina Marín in a three-game quarter-final and India's P. V. Sindhu in straight sets in the semi-finals. In the final, Ratchanok faced world number one and reigning Olympic champion Li Xuerui. In a 65-minute contest, Ratchanok recovered from deficits to defeat Li 22–20, 18–21, 21–14. At 18 years, six months and six days, she became the youngest singles world champion in badminton history and the first Thai shuttler to win a world championship title.\n\nIn April 2016, Ratchanok achieved an unprecedented physical run on the BWF circuit. Over three consecutive weeks, she won three straight Superseries titles: the India Open in New Delhi, the Malaysia Open in Shah Alam, and the Singapore Open, where she fought back to beat China's Sun Yu 18–21, 21–11, 21–14 in the final. The hat-trick lifted her to the women's singles world number one spot on 21 April 2016, making her the first Thai shuttler to top the BWF world rankings. Four months later, she served as Thailand's flag bearer at the 2016 Rio Olympic Games.\n\n## Heartbreak, Loss and the Drive to Keep Playing\n\nRatchanok's career at the highest level was continually tested by recurring knee, back and shoulder ailments. Yet she repeatedly rallied into form, winning the Asia Championships in Wuhan in 2015 by beating Li Xuerui in the final, and adding the Malaysia Masters titles in 2018 and 2019. At the delayed Tokyo Olympics in July 2021, she reached the quarter-finals before falling 21–14, 18–21, 18–21 to longtime rival Tai Tzu-ying of Chinese Taipei.\n\nJust days after returning to Bangkok from Tokyo, Ratchanok suffered the deepest loss of her life. On 19 August 2021, her mother, Kamphan Suwannasara, suffered sudden respiratory failure. Ratchanok performed CPR at home, but her mother was pronounced dead on the way to the hospital. Devastated, Ratchanok withdrew from the Sudirman Cup and Uber Cup. When she eventually resumed training, she made a public vow to continue competing in memory of her mother.\n\nShe carried that motivation back onto the podium. In July 2022, Ratchanok defeated Olympic gold medalist Chen Yufei 21–15, 13–21, 21–16 to claim the Malaysia Open in Kuala Lumpur, dedicating the victory to her late mother. In March 2024, she ended another two-year title drought by winning the Spain Masters in Madrid, wearing a silver necklace containing a stone taken from her mother's home. \"I choose one from her life, from her home, to take with me because she also never went overseas so now I take her everywhere,\" she told Olympics.com.\n\nAt the Paris 2024 Olympic Games, her fourth appearance at the Games, Ratchanok faced Tai Tzu-ying in their 36th career encounter during the group stage on 31 July. Ratchanok won 21–19, 21–15, and the two veterans shared a prolonged embrace and tears at the net. Ratchanok reached the quarter-finals at the Porte de la Chapelle Arena before losing to Indonesia's Gregoria Mariska Tunjung. Now in her late twenties, the shuttler who grew up alongside the sweet factory production lines continues to train at Banthongyord, anchoring Thailand's national team and honoring the promises that sustained her rise.",
+      "social_post": "From sleeping beside boiling syrup vats in a Bangkok sweet factory to becoming the youngest singles world champion in badminton history at age 18, Ratchanok Intanon built a career defined by grace and resilience. Her journey through four Olympic Games and deep personal tragedy remains a benchmark for Thai sport. What is your favorite memory of Ratchanok on the court? Let us know below."
+    },
+    "zh": {
+      "headline": "从糖果厂球场到羽坛传奇：拉差诺·因达农的羽球人生",
+      "seo_title": "拉差诺·因达农：泰国羽毛球天后的传奇生涯",
+      "subheadline": "这位2013年世锦赛冠军战胜贫困、伤病与丧母之痛，铸就东南亚羽坛最具代表性的单打标杆。",
+      "body_markdown": "1995年2月5日，拉差诺·因达农（Ratchanok Intanon）出生于泰国东北部的益梭通府，随后跟随父母维纳塔猜·因达农（Winatthachai Intanon）与坎潘·苏万娜萨拉（Kamphan Suwannasara）迁往曼谷。父母在班通育（Banthongyord）糖果厂做苦工，车间里盛满滚烫糖浆和沸水的大桶，对在厂区内穿梭跑动的孩子们构成了日常的安全隐患。糖果厂老板卡马拉·通功（Kamala Thongkorn）主动介入，把年仅六岁的拉差诺带离了轰鸣的机器，领进厂区内的私人羽毛球场，让她在父母干活时能有一个安全玩耍的地方。这一善举随后演变为班通育羽毛球学校的创立，中国教练谢芝华（Xie Zhihua）也由此接过教鞭，负责她日复一日的基础与技术训练。\n\n绰号“May”的拉差诺七岁便拿下了个人首个全国青少年赛事冠军；2008年，年仅13岁的她在老挝国际系列赛上完成国际成年组首秀，一举闯入女单决赛。2009年4月，14岁的她在越南国际挑战赛上斩获成年组国际赛事首冠。七个月后在马来西亚亚罗士打，她以21–15、21–23、21–10击败同胞波恩蒂普（Porntip Buranaprasertsuk），成为世界羽联世青赛历史上最年轻的单打冠军。拉差诺随后用实力证明这绝非昙花一现：2010年在瓜达拉哈拉战胜日本选手松友美佐纪卫冕，2011年在桃园力克印尼选手伊丽莎白·普尔瓦宁蒂亚斯（Elyzabeth Purwaningtyas），由此成为羽毛球世青赛历史上首位成就女单三连冠的球员。\n\n## 广州加冕与登顶世界第一\n\n2012年伦敦奥运会，17岁的拉差诺踏上世界顶尖舞台打入八强，在先下一城的情况下苦战三局憾负中国队二号种子汪鑫。2013年3月的伯明翰全英公开赛，她杀入决赛惜败于丹麦名将蒂娜·鲍恩（Tine Baun），成为该项百年赛事历史上最年轻的单打决赛选手。一个月后，她在印度公开赛战胜德国名将朱利安·申克（Juliane Schenk），以18岁2个月零22天的年纪拿下个人首个世界羽联超级系列赛冠军。\n\n属于她的历史性时刻在2013年8月11日的广州世锦赛上降临。作为赛会四号种子，她在八强战打满三局击败西班牙选手卡罗琳娜·马林（Carolina Marín），半决赛直落两局横扫印度新星P·V·辛杜（P. V. Sindhu）。决赛面对世界排名第一的卫冕奥运冠军李雪芮，拉差诺在长达65分钟的鏖战中屡次逆境翻盘，最终以22–20、18–21、21–14掀翻李雪芮。以18岁6个月零6天的年龄，她打破历史纪录，成为羽毛球史上最年轻的单打世界冠军，也是泰国历史上首位羽毛球世界冠军。\n\n2016年4月，拉差诺在世界羽联巡回赛上打出了前所未见的体能奇迹。连续三周内，她接连斩获新德里印度公开赛、莎阿南马来西亚公开赛和新加坡公开赛三座超级赛冠军——其中在新加坡站决赛中，她以18–21、21–11、21–14逆转战胜中国选手孙瑜。这一波帽子戏法让拉差诺在2016年4月21日登顶女单世界第一，成为历史上首位坐上世界羽联世界第一宝座的泰国羽毛球运动员。四个月后，她荣膺2016年里约奥运会泰国代表团旗手。\n\n## 伤痛、告别与继续击球的动力\n\n立足世界顶尖舞台的岁月里，反复发作的膝伤、背伤和肩伤不断考验着拉差诺。但她一次次从低谷中重新崛起：2015年在武汉亚锦赛决赛战胜李雪芮折桂，并在2018年和2019年连夺马来西亚大师赛冠军。受疫情影响延期至2021年7月的东京奥运会上，她再次杀入八强，随后以21–14、18–21、18–21惜败于中国台北的老对手戴资颖。\n\n然而，从东京回到曼谷仅仅数日，拉差诺便遭遇了生命中最沉重的打击。2021年8月19日，母亲坎潘·苏万娜萨拉突发急性呼吸衰竭。拉差诺在家里拼尽全力进行心肺复苏，但母亲仍在送医途中被宣告不治。伤心欲绝的拉差诺随后退出了苏迪曼杯和尤伯杯。当她最终鼓起勇气重返训练场时，她向公众许下誓言：为了告慰母亲的在天之灵，自己绝不会停下击球的脚步。\n\n她将这份思念化作了站上最高领奖台的动力。2022年7月的吉隆坡马来西亚公开赛，拉差诺以21–15、13–21、21–16力克奥运冠军陈雨菲夺冠，将胜利献给亡母。2024年3月，她在马德里斩获西班牙大师赛冠军，打破了长达两年的冠军荒。领奖时，她佩戴着一条特殊的银质项链，坠子里嵌有一块取自母亲老家的石头。“我从她的生活痕迹里、从她的老家挑了一块石头随身带着，因为她一辈子从未出过国，所以现在我要带她走遍世界各地，”她在接受Olympics.com采访时这样说道。\n\n2024年巴黎奥运会是拉差诺第四次出战五环盛会。7月31日的小组赛，她与老对手戴资颖迎来了两人职业生涯的第36次交锋。拉差诺以21–19、21–15赢下比赛，两位传奇老将在网前久久相拥、泣不成声。随后，拉差诺在拉夏贝尔门体育馆一路打进八强，最终遗憾负于印尼选手格蕾戈丽亚·玛丽斯卡·东宗（Gregoria Mariska Tunjung）。如今，已近而立之年的拉差诺依然在班通育羽毛球学校挥汗如雨。从当年糖果厂生产线旁的小女孩，到如今泰国羽毛球国家队不可或缺的定海神针，她始终践行着那些支撑她一路登顶的承诺。",
+      "social_post": "从曼谷糖果厂沸腾糖浆桶旁跑闹的小女孩，到18岁登顶世锦赛成为羽坛史上最年轻的世界冠军，拉差诺·因达农的职业生涯交织着灵动球风与百折不挠的坚韧。历经四届奥运会的淬炼与丧母之痛的洗礼，她早已是泰国体育的一座丰碑。赛场上的拉差诺，哪一个瞬间最让你难忘？欢迎在评论区留言分享。"
+    },
+    "ru": {
+      "headline": "От корта на кондитерской фабрике до величия в бадминтоне: путь Ратчанок Интанон",
+      "seo_title": "Ратчанок Интанон: биография и карьера звезды бадминтона",
+      "subheadline": "Чемпионка мира 2013 года преодолела бедность, хронические травмы и смерть матери, оставшись главным символом бадминтона Юго-Восточной Азии.",
+      "body_markdown": "Ратчанок Интанон родилась 5 февраля 1995 года в провинции Ясотхон на северо-востоке Таиланда, после чего вместе с родителями, Винаттхачаем Интаноном и Кампхан Суваннасарой, переехала в Бангкок. Супруги устроились простыми рабочими на кондитерскую фабрику «Бантхонгйод» (Banthongyord), где огромные чаны с кипящим сиропом представляли постоянную опасность для детей, слонявшихся по цехам. Владелица производства Камала Тхонгкорн решила увести шестилетнюю Ратчанок подальше от станков и отвела ее на личные фабричные корты для бадминтона, чтобы девочка могла безопасно играть, пока родители заняты тяжелым трудом. Этот шаг заложил фундамент будущей бадминтонной школы «Бантхонгйод», а китайский тренер Се Чжихуа (Xie Zhihua) взял на себя ежедневную техническую подготовку юного дарования.\n\nПолучившая домашнее прозвище «Мэй», Ратчанок выиграла свой первый национальный юношеский турнир уже в семь лет. В 13 лет она дебютировала на взрослой международной арене, дойдя до финала в женском одиночном разряде на Laos International Series 2008 года. В апреле 2009-го 14-летняя спортсменка завоевала первый взрослый международный трофей на Vietnam International Challenge. Семь месяцев спустя в малайзийском Алор-Сетаре она обыграла соотечественницу Порнтип Буранапрасертсук со счетом 21:15, 21:23, 21:10, став самой молодой чемпионкой мира среди юниоров в истории BWF. То, что этот триумф не был случайностью, Интанон доказала защитой титула: в 2010 году в Гвадалахаре она победила японку Мисаки Мацутомо, а в 2011-м в Таоюане сломила сопротивление индонезийки Элизабет Пурванингтьяс, став первой бадминтонисткой, взявшей три одиночных юниорских золота чемпионатов мира подряд.\n\n## Прорыв в Гуанчжоу и первая строчка мирового рейтинга\n\nНа взрослую олимпийскую арену Ратчанок ворвалась в 17 лет на Играх в Лондоне 2012 года: добравшись до четвертьфинала, она забрала стартовую партию у второй сеяной китаянки Ван Синь, но уступила в трехсетовом триллере. В марте 2013 года на турнире All England Open в Бирмингеме тайка дошла до финала, уступив датчанке Тине Баун и став самой юной финалисткой в истории соревнований. Спустя месяц она переиграла немку Юлиане Шенк на India Open, оформив первый титул серии BWF Superseries в возрасте 18 лет, двух месяцев и 22 дней.\n\nГлавный триумф ее карьеры состоялся 11 августа 2013 года на чемпионате мира BWF в Гуанчжоу. Будучи четвертой сеяной, Интанон в трех партиях выбила в четвертьфинале испанку Каролину Марин, а в полуфинале в двух сетах разобралась с индианкой П. В. Синдху. В финале Ратчанок противостояла первая ракетка планеты и действующая олимпийская чемпионка Ли Сюэжуй. В изнурительной 65-минутной битве тайка отыграла отставание и сломила сопротивление фаворитки — 22:20, 18:21, 21:14. В возрасте 18 лет, шести месяцев и шести дней она стала самой молодой чемпионкой мира в одиночном разряде в истории бадминтона и принесла Таиланду первое в истории золото мировых первенств.\n\nВ апреле 2016 года Ратчанок выдала феноменальный спурт в туре BWF: за три недели подряд она выиграла три турнира Superseries кряду — India Open в Нью-Дели, Malaysia Open в Шах-Аламе и Singapore Open, где в финале совершила камбэк против китаянки Сунь Юй (18:21, 21:11, 21:14). Этот золотой хет-трик позволил ей 21 апреля 2016 года возглавить женский мировой рейтинг, сделав первой представительницей Таиланда на вершине табели о рангах BWF. Четыре месяца спустя она несла флаг своей страны на церемонии открытия Олимпийских игр в Рио-де-Жанейро.\n\n## Травмы, невосполнимая утрата и жажда борьбы\n\nКарьеру Интанон на высшем уровне регулярно омрачали рецидивы травм коленей, спины и плеча. Но каждый раз она находила в себе силы возвращаться: в 2015 году взяла золото чемпионата Азии в Ухане, вновь переиграв в финале Ли Сюэжуй, а в 2018 и 2019 годах праздновала победы на Malaysia Masters. На перенесенной Олимпиаде в Токио в июле 2021 года она дошла до 1/4 финала, где в упорнейшей борьбе уступила принципиальной сопернице Дай Цзыин из Китайского Тайбэя со счетом 21:14, 18:21, 18:21.\n\nСпустя считаные дни после возвращения из Токио в Бангкок на Ратчанок обрушилась страшная трагедия. 19 августа 2021 года у ее матери Кампхан Суваннасары внезапно развилась дыхательная недостаточность. Спортсменка сама делала матери искусственное дыхание и непрямой массаж сердца дома, но врачи констатировали смерть по пути в больницу. Раздавленная горем Интанон снялась с Кубка Судирмана и Кубка Убер. Вернувшись к тренировкам, она публично пообещала продолжать играть ради памяти матери.\n\nЭту мотивацию она превратила в новые победы. В июле 2022 года Ратчанок в финале Malaysia Open в Куала-Лумпуре одолела олимпийскую чемпионку Чэнь Юйфэй (21:15, 13:21, 21:16), посвятив титул ушедшей маме. В марте 2024 года она прервала двухлетнюю засуху без трофеев, выиграв турнир Spain Masters в Мадриде. На ее шее красовался серебряный кулон с кусочком камня, привезенным из дома матери. «Я взяла частичку ее жизни, камень из ее дома, потому что мама никогда не бывала за границей. Теперь я беру ее с собой повсюду», — призналась она в интервью Olympics.com.\n\nНа Играх 2024 года в Париже — четвертой Олимпиаде в карьере — Ратчанок 31 июля встретилась с Дай Цзыин в их 36-м очном поединке на групповом этапе. Интанон победила 21:19, 21:15, после чего ветераны тура долго обнимались у сетки, не сдерживая слез. Ратчанок добралась до четвертьфинала на арене «Порт-де-ла-Шапель», где уступила индонезийке Грегории Мариске Тунджунг. Сейчас, разменяв вторую половину третьего десятка, бадминтонистка, выросшая среди производственных линий кондитерской фабрики, продолжает тренироваться в «Бантхонгйоде» — оставаясь стержнем национальной сборной Таиланда и сохраняя верность обещаниям, определившим ее путь к вершине.",
+      "social_post": "От детских игр возле чанов с кипящим сиропом на фабрике в Бангкоке до статуса самой юной чемпионки мира в истории бадминтона в 18 лет: Ратчанок Интанон построила карьеру, ставшую эталоном изящества и несгибаемого характера. Четыре Олимпиады, преодоление тяжелейших травм и личной трагедии сделали ее легендой мирового спорта. А какой матч Ратчанок больше всего запомнился вам? Делитесь в комментариях!"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ratchanok_Intanon_Indonesia_Masters_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Ratchanok_Intanon_Indonesia_Masters_2025.jpg",
+        "artist": "Jurnal Bulutangkis",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Ratchanok Intanon Indonesia Masters 2025",
+        "width": 1200,
+        "height": 1600,
+        "year": 2025,
+        "subject": "Ratchanok Intanon",
+        "asked": "Ratchanok Intanon",
+        "page_title": "Ratchanok Intanon",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:ratchanok_intanon_indonesia_masters_2025.jpg|Ratchanok Intanon",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Ratchanok Intanon holding a badminton tournament gold medal",
+          "reason": "Clearly shows Thai badminton player Ratchanok Intanon posing with a Daihatsu tournament winner's medal.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Li_Xuerui_2012_%28portrait%29.jpg/1280px-Li_Xuerui_2012_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Li_Xuerui_2012_(portrait).jpg",
+        "artist": "Marek69",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Chinese badminton player Li Xuerui, at The London 2012 Summer Olympic Games",
+        "width": 1200,
+        "height": 1730,
+        "year": 2012,
+        "subject": "Li Xuerui",
+        "asked": "Li Xuerui",
+        "page_title": "Li Xuerui",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:li_xuerui_2012_(portrait).jpg|Li Xuerui",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Chinese badminton player Li Xuerui at London 2012",
+          "reason": "The photo correctly shows Olympic badminton champion Li Xuerui wearing a London 2012 lanyard.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tai_Tzu-ying_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Tai_Tzu-ying_in_2024.jpg",
+        "artist": "總統府",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Official Photo by Simon Liu / Office of the President",
+        "width": 1200,
+        "height": 1857,
+        "year": 2024,
+        "subject": "Tai Tzu-ying",
+        "asked": "Tai Tzu-ying",
+        "page_title": "Tai Tzu-ying",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:tai_tzu-ying_in_2024.jpg|Tai Tzu-ying",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Badminton player Tai Tzu-ying holding a framed certificate",
+          "reason": "The image correctly shows Taiwanese badminton star Tai Tzu-ying attending an official government ceremony.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-b8d792",
+    "slug": "bojan-hodak-appointed-malaysia-head-coach-as-harimau-malaya-",
+    "date": "2026-11-25",
+    "created": "2026-11-25T02:43:48+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "Malaysia",
+      "Harimau Malaya",
+      "Bojan Hodak",
+      "Football Association of Malaysia",
+      "Southeast Asian Football"
+    ],
+    "athletes": [
+      "Bojan Hodak",
+      "Tan Cheng Hoe"
+    ],
+    "image_subjects": [
+      "Bojan Hodak",
+      "Malaysia national football team",
+      "Football Association of Malaysia",
+      "Tan Cheng Hoe"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Hodak appointed head coach of Malaysia national team",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHchuaWhhulIwXjn3QcmeG1BEHaQf4pdNCI6MuRMgbtCu68fICnS8l8H86jXmKcCPlMjVQ4isWe7EYwZkFMbNuI7pHOQindwnPNPbwoa_Zg2d9hWHUZVoLj1s-RIAml7mvjWPKUyvB4ZuVXpQssyK7Ar59gqPChcYZ7F0hjvyc916ZlyKC7VU_jPlRp"
+      },
+      {
+        "title": "Hodak appointed Harimau Malaya head coach | FMT",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0jcf1NkBcZVaVf7jvRUPyIajvIMU1HCbGAoLutOnY2hyj3_QBIQxyAm9UHj6aSXrQADdIAlpZmrmB2M9cGwoRf-PR7mDv61G6EEkVknr19a3qBkV1yw5uDJwdXjyJkF2kuDk_07yW4kglfVM8j8wCe8RR6ndUQsOwJS_g2mBiZTcUwQzQkHzZWiv2skVJD5Ogu6LXLcHkQqYq-h-FdQ=="
+      },
+      {
+        "title": "Seasoned Hodak takes charge of Harimau Malaya, Cheng Hoe stays on as director",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYYrZ_X0W-OrHzPuqYylUbu_yq1dBQEQhD3tgbZ3BqFjrABG8RYNiPyRA9hsWiONQ9dgKx1hhu-NUK55fuikDO_NOtuhUcP6mahqqQuOV5a9_VNjr07S79y7qJ9DHitJmuvr-cMszT9edt2xO188JKE-Tp8DmJfr8boWK7rsTJhGSKEidnluDRXPk6yvH6DeJPzswJSbPAE0vslchkJP6kxXVQC1ScvYVy6Cl7YHtU2kW9j49GBgc="
+      },
+      {
+        "title": "laodong.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Yxc53MPaUl4pHBaNGOUWckJnvRT4RMjX7TMBNeW6s6chK59PRkeMtyxkIPUqQn_dxCkmNp27WzfQ2TkAk0GpXIEEcCWtfEe28H6idtIl5VNQrtLWCClfWtET7olH7gTkXUtst9hP-0Y_ry4bCPdE43jFNfhhXlT4DcV5IhEoVPoJ1kzA484="
+      },
+      {
+        "title": "ASEAN Football Federation: Hodak appointed head coach of Malaysia national team",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXNZM0d4VmxFUGQ5SE9MSUo0Nk52ejY4RVRJSzYyR21zWFlCc0gySUVQaGhEMEJ1b2JCcmlLVThUUlVuM0E4cU81a2lyRU03T2tETGdVN1BFeWEycnJQLUlxX3JyM0h2dUxrcmtKcDlxOXdodlo3S3JBTW5FbWJKVmRwUE9HQ2VzNFhhUUtYMA?oc=5"
+      },
+      {
+        "title": "Laodong.vn: Malaysia national team has new coach",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzFUY2dVa2FRb081RTNsVHZncWg5T0Nmalc2blRnVTZPcERlNW1pek9xQ2tsRnlGY0x3blBObUtPNVFBQWhnR0U2ZjduQm44RVJRZVBUNy1QWWtpUms1aTJSRFQwckphRkpqMnlqWEhHZFNWVWhPVDUtQk1zVHJqaXFkeHBwVnlYd0E?oc=5"
+      },
+      {
+        "title": "ESPN Global: Bojan Hodak named new Malaysia national team coach",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGNZRXZSU01wNzF0WTZOYlkzS21CYVpSd2tTdHozUTE0Ni1lS1ZsMEIxb2UxM21fdGNfTXNRa1ZIMHc0LTJsUTBjbjVVbmRVQlJrMTJtNEZSVTR0WFdWYzhrTXFCZmw1N1R0blA1Y0p0R0xRd2ZPaURlLXBURVRMVlZJa2NhNEhublFySGV6dmhVb2VCT0libA?oc=5"
+      },
+      {
+        "title": "NST Online: FAM appoints Hodak as national team coach [WATCH]",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONnhXSE1Uc3RnektiMGk2SFJEUUlOLWRBRWxfRXZIUmZTX3hqQkxuUlhDM25BNE1mc0FwWTdCQ0I4ZzN0TUtYR0pZX2M0RXB5WDdVMm84OUZHRGZNaWJKZGI0YndmQWpEMVFncm14UElZdVNJWVFJc1VuQ3czLTZVdUd1dEhkc0dZLVc0aGhlYWpPaEg3VGR0WV80R2FTU29OQ013Z1hB0gGmAUFVX3lxTE42eFdITVRzdGd6S2IwaTZIUkRRSU4tZEFFbF9FdkhSZlNfeGpCTG5SWEMzbkE0TWZzQXBZN0JDQjhnM3RNS1hHSllfYzRFcHlYN1Uybzg5RkdEZk1pYkpkYjRid2ZBakQxUWdybXhQSVl1U0lZUUlzVW5DdzMtNlV1R3V0SGRzR1ktVzRoaGVhak9oSDdUZHRZXzRHYVNTb05DTXdnWEE?oc=5"
+      },
+      {
+        "title": "Free Malaysia Today: Hodak appointed Harimau Malaya head coach",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmwwUHdDRXdIazJCeU9SZ0xvMGlQb3YzbElBY25YdGozd0tGNWN2RHZlRTV1cFhEX19BNkVQdUx5WXpCbURYUkQwejRMRUhUVU5FUGJlc2xDNFExRms3eTlaZ3Q1LXIwVktFbG9pdEdnQzRoZ2E5b183V3U4QkFFam93UUxzUHhWVUk1dzF4Qk9NQjBSLUh3bEY0bERwT0p1MG9xYk4ya2g?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Bojan Hodak Appointed Malaysia Head Coach as Harimau Malaya Reorganise",
+      "seo_title": "Bojan Hodak Appointed Malaysia Head Coach",
+      "subheadline": "The 55-year-old Croatian returns to Malaysian football as Tan Cheng Hoe transitions into the national team director role.",
+      "body_markdown": "PETALING JAYA — The Football Association of Malaysia (FAM) confirmed on Tuesday, November 24, 2026, the appointment of Bojan Hodak as the new head coach of the men's national team. The 55-year-old Croatian tactician succeeds interim head coach Tan Cheng Hoe, who took charge on June 25 following the departure of Peter Cklamovski. Cheng Hoe will now move into a full-time role as national team director.\n\n## A Proven Regional Track Record\n\nHodak brings two decades of coaching experience across Southeast Asian football, particularly in Malaysia. His most celebrated domestic run occurred in 2012, when he guided Kelantan to a domestic treble by capturing the Malaysia Super League, the FA Cup, and the Malaysia Cup. \n\nHe continued to accumulate domestic silverware across subsequent stints, steering Johor Darul Ta'zim to the 2014 Malaysia Super League title. Years later, he led Kuala Lumpur City FC to an unexpected triumph in the 2021 Malaysia Cup before guiding the capital club to the 2022 AFC Cup final, where they finished as runners-up.\n\nHodak also possesses previous experience within the national setup. Between 2017 and 2019, he managed the Malaysia Under-19 side, guiding them to victory at the 2018 AFF Under-19 Championship in Surabaya, Indonesia. Beyond Malaysia, Hodak collected league silverware in Cambodia with Phnom Penh Crown and spent time managing Indonesian clubs PSM Makassar and Persib Bandung.\n\n## FAM Mandate and Strategic Direction\n\nFAM president Datuk Ab Ghani Hassan explained that Hodak's deep familiarity with domestic players and regional competition made him the premier candidate for the role.\n\n\"FAM believes Hodak's extensive experience in Malaysian and Southeast Asian football will give him an advantage in understanding the local football environment and the potential of Malaysian players,\" Ab Ghani stated in an official announcement on Tuesday. \"His track record with several clubs in Malaysia and Indonesia also demonstrates his ability to build competitive teams capable of vying for success.\"\n\nWith Cheng Hoe coordinating structural operations as director, Hodak's immediate focus turns to assembling Harimau Malaya's senior squad for upcoming regional matches and AFC Asian Cup qualification windows, aiming to stabilise performance and improve the nation's FIFA ranking.",
+      "social_post": "Bojan Hodak has officially been appointed as the new head coach of Malaysia, taking over from interim boss Tan Cheng Hoe, who transitions into the national team director role. With a 2012 treble at Kelantan, a league title at JDT, an AFC Cup final with KL City, and an AFF U-19 title on his resume, the Croatian arrives with immense regional pedigree. Can Hodak lead Harimau Malaya back to competitive success? Let us know your thoughts below! #HarimauMalaya #FAM #MalaysianFootball"
+    },
+    "zh": {
+      "headline": "霍达克重返马来西亚出任国家队主帅，“马来亚虎”架构调整陈清和转任总监",
+      "seo_title": "霍达克出任马来西亚主帅：陈清和转任国家队总监",
+      "subheadline": "55岁的克罗地亚名帅接过帅印，临时主帅陈清和则退居幕后专职协调国家队架构运营。",
+      "body_markdown": "八打灵再也讯——马来西亚足球协会（FAM）于2026年11月24日星期二正式宣布，任命波扬·霍达克（Bojan Hodak）为男足国家队新任主教练。这位55岁的克罗地亚教头接替了临时主帅陈清和（Tan Cheng Hoe）的职务。陈清和此前在彼得·克拉莫夫斯基（Peter Cklamovski）离任后，于6月25日临危受命接过教鞭，如今他将全职转任国家队总监。\n\n## 东南亚赛场的“荣誉收割机”\n\n霍达克在东南亚足坛摸爬滚打了20年，尤其在马来西亚赛场战绩斐然。他在当地最负盛名的执教战绩当属2012年：率领吉兰丹队（Kelantan）包揽马来西亚超级联赛、足总杯和马来西亚杯，加冕国内三冠王。\n\n此后数年间，霍达克屡屡在不同球队收获奖杯。他先是率领柔佛新山（Johor Darul Ta'zim）斩获2014年马超联赛冠军；数年后转战吉隆坡城队（Kuala Lumpur City FC），爆冷夺得2021年马来西亚杯冠军，更在2022年一路杀入亚协杯（AFC Cup）决赛获得亚军。\n\n不仅在俱乐部成绩彪炳，霍达克对马来西亚国字号队伍也绝不陌生。2017至2019年间，他曾执掌马来西亚U-19男足帅印，并率队在印度尼西亚泗水夺得了2018年东南亚U-19锦标赛冠军。在马来西亚之外，霍达克还曾率领金边皇冠（Phnom Penh Crown）问鼎柬埔寨联赛，并在印尼先后执教马卡萨（PSM Makassar）和万隆（Persib Bandung）。\n\n## 足协的战略考量与未来任务\n\n马来西亚足协主席拿督阿卜·加尼·哈桑（Datuk Ab Ghani Hassan）表示，霍达克对本土球员的深入了解以及对区域足球格局的精准把握，使其成为了主帅位置的不二人选。\n\n“大马足协深信，霍达克在马来西亚及东南亚足坛深耕多年的经历，让他对本土足球环境和大马球员的潜力有着天然的深刻洞察，”阿卜·加尼在周二的官方公告中指出，“他在马来西亚和印尼多支俱乐部的出色履历，也证明了他打造具备争冠实力球队的卓越能力。”\n\n随着陈清和出任总监负责统筹管理架构，霍达克的当务之急是组建“马来亚虎”（Harimau Malaya）一线队阵容，全力备战即将到来的区域赛事及亚洲杯预选赛窗口期，力求稳定国家队战绩并提升FIFA世界排名。",
+      "social_post": "官方消息：波扬·霍达克正式出任马来西亚男足国家队新任主教练！临时主帅陈清和转任国家队总监。从吉兰丹的三冠王、柔佛新山的联赛冠军，到吉隆坡城的亚协杯亚军及大马U-19东南亚夺冠，这位克罗地亚名帅履历含金量十足。你认为他能率领“马来亚虎”重回巅峰吗？欢迎在评论区聊聊！ #马来西亚足球 #HarimauMalaya #FAM #东南亚足球"
+    },
+    "ru": {
+      "headline": "Боян Ходак возглавил сборную Малайзии в рамках реорганизации штаба",
+      "seo_title": "Боян Ходак возглавил сборную Малайзии: Ченг Хоэ стал директором",
+      "subheadline": "55-летний хорватский специалист возвращается в малайзийский футбол, а Тан Ченг Хоэ переходит на должность директора сборной.",
+      "body_markdown": "ПЕТАЛИНГ-ДЖАЯ — Футбольная ассоциация Малайзии (FAM) во вторник, 24 ноября 2026 года, официально объявила о назначении Бояна Ходака (Bojan Hodak) на пост главного тренера мужской национальной сборной. 55-летний хорватский специалист сменил исполняющего обязанности наставника Тана Ченг Хоэ (Tan Cheng Hoe), который руководил командой с 25 июня после ухода Питера Кламовски (Peter Cklamovski). Ченг Хоэ отныне переходит на должность директора национальной сборной на постоянной основе.\n\n## Солидный послужной список в регионе\n\nЗа плечами Ходака — два десятилетия тренерской работы в Юго-Восточной Азии, и в первую очередь в Малайзии. Его самым громким триумфом на внутренней арене стал сезон 2012 года: тогда во главе «Келантана» (Kelantan) он оформил «золотой требл», выиграв Суперлигу Малайзии, Кубок футбольной ассоциации и Кубок Малайзии.\n\nСпециалист продолжил штамповать трофеи и в других клубах: в 2014 году он привел «Джохор Дарул Тазим» (Johor Darul Ta'zim) к золотым медалям Суперлиги. Несколько лет спустя под его началом «Куала-Лумпур Сити» (Kuala Lumpur City FC) сенсационно завоевал Кубок Малайзии 2021 года, а в 2022 году столичная команда под руководством хорвата добралась до финала Кубка АФК, завоевав серебряные медали турнира.\n\nЗнаком Ходак и с системой сборных Малайзии. С 2017 по 2019 год он возглавлял молодежную сборную страны (до 19 лет) и в 2018 году привел ее к триумфу на чемпионате АСЕАН U-19 в индонезийской Сурабае. За пределами Малайзии Ходак выигрывал чемпионат Камбоджи с «Пномпень Краун» (Phnom Penh Crown), а также тренировал индонезийские клубы ПСМ «Макасар» (PSM Makassar) и «Персиб Бандунг» (Persib Bandung).\n\n## Доверие руководства и новые задачи\n\nПрезидент FAM датук Аб Гани Хассан (Datuk Ab Ghani Hassan) подчеркнул, что прекрасное знание местных футболистов и специфики региональных соревнований сделали Ходака фаворитом в борьбе за этот пост.\n\n«В FAM уверены: колоссальный опыт Ходака в футболе Малайзии и всей Юго-Восточной Азии даст ему преимущество в понимании местного контекста и потенциала малайзийских игроков, — подчеркнул Аб Гани в официальном заявлении во вторник. — Его успехи с рядом клубов в Малайзии и Индонезии также наглядно доказывают его умение строить боеспособные команды, претендующие на самые высокие награды».\n\nПока Ченг Хоэ займется координацией структурных процессов в роли директора, первоочередной задачей Ходака станет формирование состава «Малайских тигров» (Harimau Malaya) к предстоящим региональным матчам и окнам квалификации Кубка Азии. Главные цели штаба — стабилизировать результаты и поднять сборную в рейтинге ФИФА.",
+      "social_post": "Официально: Боян Ходак стал новым главным тренером сборной Малайзии! Хорват сменил Тана Ченг Хоэ, который теперь займет пост директора национальной команды. Требл с «Келантаном», чемпионство с «Джохором», финал Кубка АФК и победа на юношеском турнире АСЕАН — с таким региональным багажом специалист готов возвращать «Малайских тигров» на победные рельсы. Получится? Делитесь мнением в комментариях! #Малайзия #СборнаяМалайзии #HarimauMalaya #Футбол"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/BojanHodak2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:BojanHodak2014.jpg",
+        "artist": "YouTube channel holder",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Bojan Hodak during a Johor Darul Ta'zim press conference in July 2014. Screenshot from YouTube video.",
+        "width": 1200,
+        "height": 689,
+        "year": 2014,
+        "subject": "Bojan Hodak",
+        "asked": "Bojan Hodak",
+        "page_title": "Bojan Hodak",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:bojanhodak2014.jpg|Bojan Hodak",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Bojan Hodak speaking at a football press conference",
+          "reason": "The photo clearly shows football manager Bojan Hodak at a press conference wearing a Johor Darul Ta'zim polo shirt.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tan_Cheng_Hoe_2014.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Tan_Cheng_Hoe_2014.png",
+        "artist": "TRWTV",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Tan Cheng Hoe as Kedah coach speaking at a press conference after a friendly match against Kelantan TRW in Kota Bharu, 6 August 2014",
+        "width": 1200,
+        "height": 1646,
+        "year": 2014,
+        "subject": "Tan Cheng Hoe",
+        "asked": "Tan Cheng Hoe",
+        "page_title": "Tan Cheng Hoe",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:tan_cheng_hoe_2014.png|Tan Cheng Hoe",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Tan Cheng Hoe wearing a Kedah football team polo shirt",
+          "reason": "The image clearly shows Malaysian football manager Tan Cheng Hoe wearing Kedah team gear, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2014. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-d8cd04",
+    "slug": "kamila-valieva-ruled-out-of-russian-figure-skating-champions",
+    "date": "2026-11-25",
+    "created": "2026-11-25T02:42:46+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Figure Skating",
+    "tags": [
+      "Kamila Valieva",
+      "Figure Skating",
+      "Russian Championships",
+      "Eteri Tutberidze",
+      "Winter Sports"
+    ],
+    "athletes": [
+      "Kamila Valieva",
+      "Alexandra Ignatova",
+      "Petr Gumennik",
+      "Vladislav Dikidzhi"
+    ],
+    "image_subjects": [
+      "Kamila Valieva",
+      "Eteri Tutberidze",
+      "Russian Figure Skating Championships",
+      "Chelyabinsk"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "ТАСС: Валиева пропустит чемпионат России в Челябинске",
+        "url": "https://www.sport-express.ru/figure-skating/news/tass-valieva-propustit-chempionat-rossii-v-chelyabinske-2274889/"
+      },
+      {
+        "title": "Камила Валиева пропустит чемпионат России по фигурному катанию - Гродно 24",
+        "url": "https://grodno24.com/2026/11/kamila-valieva-propustit-chempionat-rossii-po-figurnomu-kataniyu.html"
+      },
+      {
+        "title": "Валиева пропустит чемпионат России в Челябинске - БИЗНЕС Online",
+        "url": "https://m.sport.business-gazeta.ru/news/311956"
+      },
+      {
+        "title": "business-gazeta.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNQI867JNi9tG80Q2fPhJkSwWWrdtQAGnL7KygW_BAVhnFNNtKZlqkWLxfx--sGV3TQBrKJ4mtpkY3nQuZTxGWPwvRT2nmDwEGOU42tCePCjV5UzROvNHVBIQVM8o_oiYuGsIFIw=="
+      },
+      {
+        "title": "grodno24.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHahtYEfOig6b9dVzdAjn1s28HVx_jNLTagCy-KopRHnIBazwzZ0zotytJsxdUclwSpJ_-jw7OanIx665K41wEf5_C69qnYqf1XJlPUV86Tixo_-ulfCTA37yNt3GbVAFAD-xuywMe6ZmcAG3HZxkllOAx1XZVUlmfCbeKkd0JuTqqvN9lQew4eLGKOMTusp8QVaxu6qcF5ug=="
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhAuYtOPwX5vrmKz8Xg9uU1mGUYlLOf1NzBTfie7Lg-V5wdK_ncN5JN9fbwWqziIMjLV_veyAKUbA5xhlNsEYU-cVdLy3A2WaMaq5ofb0LPFdyyBOm8j-WVhtmHtN8vVp8X-EvbcTA5cg91ZNUztyJ_UPv1s9c1cGxo1xT9f1q4CK-Klgyqwff2fwD2ZhgsYpKxNcNFBmJ55bP0fcpNIcw7PxpraGi5e_9UqRbepTbHftdQNTQd-P0ogcvRio-M10Npr3g7ocl-4z3KcfjUjPLM0YA6FzQmvYbBFfyUozIZXo1RLQiyIusTlT_lg=="
+      },
+      {
+        "title": "bookmaker-ratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGWY18fB7blu8OeJDmxMR0HrXhn0grrVd9RmhD9PiNUAsGP57vDaGyB-xHoqTr9k-MO5BlduZs_D6a1qXfCAUH7WLMqqSnxpC9wL9wqrvBIiQa7UhGxVkXMNbYRe9RRYhG1K9n0ktQy_3S9jGxt164guaGbb4eygNw8lzpzELwlVgMcGKVimexw=="
+      },
+      {
+        "title": "olympics.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBicveWjJzcjpzyQm_XSv00ppFN1pbEmpwX0HDA5Th6mWi_Rwst8nyIslq8WDzwjWThuL-8F52EvK7LZq7AH3wO4Pjtui0l6DMl5mwJjRcpQFQTgZKkGjxK_cHTC6Lk4lTsZYMDgKAqc0-92IdZHlJOYTDPjVdukg7MCyFduR6-NzF9KZDoAt5CBxfyjafWTtTiomzW5c1S66o091wjSOiN7pt9ONfCLvRv0B5A=="
+      },
+      {
+        "title": "7news.com.au",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkjKAvBiCsAC-5liVG4RQFbOoQ_6t_x0xj3E9CYYrxvYwOBQt7IVjm4stdkDkYpCZ0ZkwKQYSOIWEPUilbu4oHBJ5_obehxOItAWvfIO2DKjzntujm1s3xIIaazgaARIxvXjjF6RVgsbziBmoIoE3Z17AgFQRwtSrHMel9J0LXEU9UhXXxEfMaAMr_oJLKAefZwLmuxd6W3vj3E35Hly-BS1qJBhEBLUjtFuyRwuOtdQP49qKBErKX3f_tYkvzazRZjZ-E7i6gXmibKEEh1R5M"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqhD39XydpXKoW2yGqeDtVJuKQJCYVEh3aed7867A4RJNKVUOWWM-NGvQIciTLzkBNA2ADVhZIsVjcQWgRqK-CF8BPTT0EFAzXha9KkjuNZ5_ebHHaxa0DqaIQI1-vOwITIyt7UDBpu33kcRM8t0YzEJmv8EMvOTiLwsUL3v3s4UZBVh2S_xwXeVeDM0FL3nGKolOqrn_cM7JrFfkKa1Y="
+      },
+      {
+        "title": "spbdnevnik.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9-Fxy4rmP9kA8EHJFWCUOgR7rWmDNqoYfDgjxXVEuo_hWGU7CsWUiEryfOmZPeDzNOP_YgY6gBhj1wQ_gSgIwjYKzUzyIIEDbR8ABcbuJ5EITfpVaMeBJ8o3WfAIUerw5QOrGilx3QQP5fg4dCCLpx6pqBoKzytFwkZLh5Wv-wJWFOBtryoRRgRMz_StXWTZ_7s6plfP"
+      },
+      {
+        "title": "sports.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSrkyYBKZFoZmXy_4QKyaRzImQMJzAucDgkGlfX2705ls1vM9wmxV8iyoa3TZD3B8crt0JlcOHfhfWCkiibJtzEAMdTD_Ofhj5lGNmfZ2nONBxDo9k5gu6QUbcDMzvpB2YmBSJ00MEBVzICgNJz1n2Y3fdY3eWa_yP4FyQ__3XbV5I-hLKFe-ABA="
+      },
+      {
+        "title": "sport24.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhEuQI-84pMgL9A_xUldzBAYtdU1y9Gi04idjhexJsW0VD9iuqN3sUTdNecEXVmycIb_dZWbbUEMpW239RuQ9oA4K-9-CjSUeHZiTH5JCwQdV9hlYfFg1ez2ZawO_4uthklO47TkR9Hg7wMRRo13h0kmwX4sUnCWsvPp72qc4eWCz2-OeEwb3O1mjKjYFzRw5fIIsDNUTxnX56iRtas9cg5g8qwH8M6ceFVIVvftbEp5PN-uN2FPshdI1Mp2-Vtnw0Soat_Eiz"
+      },
+      {
+        "title": "Миллиард Татар: Валиева пропустит чемпионат России по фигурному катанию в Челябинске",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUVqWUNpODk0bzkzUkREdlNtQnVMbHJKNkRqUlhhVUdvUHM5YVlSdDlPS0xFQ2ZzZ043MnZxWkREdmZtQ1pLbmpJd0dQSkxueUFTN1VsMnJhaWZzdHoyajkxSnRCOXozMzZXQnFWTkpMVVNNWmhULUgyUjJDUVN0QkFGazF1YmJWRFFIZEIyR21SNzlGUHdndGc1ZF9wZXRndHFkQy11OA?oc=5"
+      },
+      {
+        "title": "StavkiPrognozy.ru: Валиева не выступит на чемпионате России по фигурному катанию",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTV1VU9qYl9adGhwYXJQMjRqcTFtYmlHbjFqb0h3c25KRzZnQjJXTjlHbDEyX2xFSXNwQ0xkQnZVX21lZ1FsTG1ubFdhbWhQRjdOY1V5ZXRUTWFoWUdSZVB5SHBVaFItNnpUaHVUcjJGaktxUERZakpZbnFwUUdkaUlERU5yMjF1a0QwRU52WUlvVktZczdmUlBEVXVRYjNSMk5ZTkJOYzdpUmY4NV9RYWpDSElBeW8?oc=5"
+      },
+      {
+        "title": "Вечерний Санкт-Петербург: Камила Валиева пропустит чемпионат России по фигурному катанию",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFM0Wi1IMElPaUhfV0lVVDNZUlFRb1o4YnI3QVBpV0hxWnFheTdCdzBfSXVEaTY5WFcybEM1V2V6TVdrVEZqQUc2X19wYWVHNTBVNV9mR3hjSVJrSGZheUttalo0dHBIWWI3VWtjSmZ5cXhqTFE5dWw3ejV2SjJiT19TcXNfdGduRzVmdWRVdU5uX1RvYWtoWFUxSUJHc1E4?oc=5"
+      },
+      {
+        "title": "Metaratings: Камила Валиева пропустит чемпионат России по фигурному катанию",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmRiUzdfS2dOakphdHBmeXU5d2NpLWhYMEdjZG1vaFJLOXUwNUhucWlGR2lnd2xXZ190ZndVZk9Ua3pDTXNPRlBkMTdDaExBanlvdGo1RExrZ21XNV9TNDRIREE2TTFvZVFTNmdNVWJlbGx2dTZsaXV0aGpxRlAzcEwyQTFTc042OVdyX205bnRCNkI4Q0cxOEdMaWdhWko2QkE?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: ТАСС: Валиева пропустит чемпионат России в Челябинске",
+        "url": "https://www.sport-express.ru/figure-skating/chempionat-rossii/news/tass-figuristka-kamila-valieva-propustit-chempionat-rossii-v-chelyabinske-2478327/"
+      },
+      {
+        "title": "БО Спорт: Валиева пропустит чемпионат России в Челябинске",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WaU9LTndpZjlhSkVjdzhGdm5KMkVGSGl5YWlXWkhFTTFMZVJKdlRQMXVQd2E3QjhjRXo0S3dROTNaU19DWVl0Ty1pTmItdUhBN3ByZHdUbw?oc=5"
+      },
+      {
+        "title": "Sport.ru: Валиева пропустит чемпионат России по фигурному катанию",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUx1RXBiSXQ2Y3JnSFZiUHdDQUR1SDI2bW5CSW9rOVBkTldvR3FpekQzU2x4Z0E0RUluLVpVZXFRUTZiS1NKcFlSeEZqQjN2NTBucUhCR2dCa3lXS0lwLXl5YVA4RUJBRDI5ZFhFamlocHFaMWgxZzRUeVRadmVIWFh2bkY2OG5McWpyYVNTSlowVlBTdVVGTUNuTXNwRTZqWkZ0cl9Kd2RIalhMcHVj?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Kamila Valieva Ruled Out of Russian Figure Skating Championships in Chelyabinsk",
+      "seo_title": "Kamila Valieva Out of Russian Figure Skating Nationals",
+      "subheadline": "The 20-year-old was omitted from the preliminary entry list after doctors restricted her training workload following health issues.",
+      "body_markdown": "Kamila Valieva will not compete at the upcoming Russian Figure Skating Championships in Chelyabinsk, missing the country’s marquee domestic competition scheduled for Dec. 17–20. The 20-year-old was absent from the preliminary entry list released by the Figure Skating Federation of Russia (FFKKR) on Tuesday evening, confirming reports first published by Russian state news agencies TASS and RIA Novosti.\n\nValieva’s withdrawal follows an autumn disrupted by health concerns and training restrictions. In late October, medical staff advised the skater to suspend jumping elements for a month. While Valieva resumed on-ice practice on Nov. 12, team insiders told RIA Novosti that she has yet to return to full-intensity training routines required for national-level competition.\n\n## Medical setback halts autumn schedule\n\nThe training halt forced Valieva to skip the entire Russian Grand Prix circuit this season. She withdrew from the opening stage in Kazan on Oct. 17–18 due to illness and subsequently missed the series finale in Omsk on Nov. 14–15.\n\nValieva made her initial competitive return in January 2026 at the Russian jumping championships after completing a four-year suspension imposed by the Court of Arbitration for Sport (CAS) for a positive trimetazidine test dating back to December 2021. She skated in the national test skates in Moscow in September, but she has not contested a full two-program competitive event since the ban expired.\n\n## Coaching transition and eligibility shifts\n\nThe 2026–27 season has brought considerable structural changes for Valieva. After spending more than a year in Svetlana Sokolovskaia’s training group, she returned this autumn to the Khrustalny rink to work once again with veteran coach Eteri Tutberidze.\n\nHer international status remains blocked. Although the International Skating Union (ISU) granted Valieva neutral athlete status in August, the governing body rescinded that designation in September.\n\nDomestic figures acknowledged that Valieva’s absence represents a substantial blow to the tournament in Chelyabinsk. Renowned coach Alexander Zhulin told RIA Novosti that \"the Russian championship will lose in spectacle due to her absence,\" while 1988 Olympic ice dance champion Natalia Bestemianova told TASS that Valieva \"knows what she is doing, she has been through a lot\" and must prioritize her health.\n\nWhile Valieva sits out, the FFKKR’s preliminary field in Chelyabinsk features Beijing 2022 Olympic silver medalist Alexandra Ignatova (formerly Trusova) in the women's event, alongside a men's field headlined by Petr Gumennik and Vladislav Dikidzhi.",
+      "social_post": "Kamila Valieva will not compete at the Russian Figure Skating Championships in Chelyabinsk next month. The 20-year-old was left off the federation's preliminary entry list after doctors restricted her jump training in late October, forcing her to miss the full Grand Prix series. Alexandra Ignatova (Trusova) headlines the women's field instead. Do you think Valieva can regain top form later this season? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "因身体状况与负荷受限，卡米拉·瓦利耶娃遗憾缺席车里雅宾斯克全俄锦标赛",
+      "seo_title": "瓦利耶娃缺席全俄锦标赛 因伤病限制无缘出战",
+      "subheadline": "在医生限制其训练负荷后，这位20岁名将未出现在俄罗斯花滑联合会公布的初步参赛名单中。",
+      "body_markdown": "卡米拉·瓦利耶娃（Kamila Valieva）将不会出战即将于12月17日至20日在车里雅宾斯克举行的俄罗斯花样滑冰锦标赛，这也意味着她将错过这项本国最重要的年度大赛。周二晚间，俄罗斯花样滑冰联合会（FFKKR）公布了初步参赛名单，这位20岁的花滑名将榜上无名，证实了此前俄罗斯国家通讯社塔斯社（TASS）与俄新社（RIA Novosti）的报道。\n\n瓦利耶娃的退赛源于今秋以来持续受困的健康问题与受限的训练节奏。10月下旬，医疗团队建议她暂停跳跃训练一个月。尽管瓦利耶娃已于11月12日恢复上冰，但团队内部人士向俄新社透露，她目前尚未恢复到出战国家级大赛所需的高强度训练状态。\n\n## 健康波折打乱秋季参赛计划\n\n训练的中断迫使瓦利耶娃放弃了本赛季俄罗斯大奖赛的全部赛站。此前她先是因病退出了10月17日至18日的喀山站揭幕战，随后又缺席了11月14日至15日进行的鄂木斯克总决赛。\n\n由于2021年12月曲美他嗪检测呈阳性，国际体育仲裁法庭（CAS）对其处以四年禁赛。在结束这一禁赛期后，瓦利耶娃于2026年1月的俄罗斯跳跃锦标赛上完成首秀重返赛场。虽然她在今年9月参加了莫斯科举行的国家队测试滑，但自解禁以来，她尚未参加过一场包含短节目与自由滑的完整双节目正式赛事。\n\n## 重投恩师门下与参赛资格波折\n\n对瓦利耶娃而言，2026–27赛季伴随着巨大的人事与环境变动。在斯韦特兰娜·索科洛夫斯卡娅（Svetlana Sokolovskaia）教练组训练了一年多后，她于今年秋天重返“水晶”冰场（Khrustalny），再次投奔功勋教练埃特丽·图特贝里泽（Eteri Tutberidze）。\n\n然而，她的国际赛参赛资格仍未解冻。国际滑冰联盟（ISU）虽在8月授予了瓦利耶娃中立运动员身份，但随后在9月撤销了该认证。\n\n俄罗斯花滑界普遍认为，瓦利耶娃的缺席对车里雅宾斯克全国锦标赛是一个沉重的打击。著名教练亚历山大·茹林（Alexander Zhulin）在接受俄新社采访时表示：“缺少了她，全俄锦标赛的观赏性无疑会大打折扣。”1988年冬奥会冰舞冠军娜塔莉亚·贝斯特米扬诺娃（Natalia Bestemianova）则向塔斯社坦言，瓦利耶娃“心里有数，她经历了太多风雨”，当下最重要的是把身体健康放在首位。\n\n在瓦利耶娃抱憾挂起免战牌之际，车里雅宾斯克的阵容依旧星光熠熠：北京2022年冬奥会女单银牌得主亚历山德拉·伊格纳托娃（Alexandra Ignatova，原姓特鲁索娃）领衔女子单人滑；男子单人滑则由彼得·古门尼克（Petr Gumennik）和弗拉季斯拉夫·季基吉（Vladislav Dikidzhi）联袂坐镇。",
+      "social_post": "卡米拉·瓦利耶娃将缺席下月在车里雅宾斯克举行的全俄花滑锦标赛。因10月下旬医生限制跳跃负荷，这位20岁名将接连错过了全套俄大奖赛分站，也落选了联合会的初步参赛名单。女子单人滑将由伊格纳托娃（特鲁索娃）领衔。你认为瓦利耶娃本赛季后半段还能重回巅峰吗？欢迎在评论区聊聊！#花样滑冰 #瓦利耶娃 #全俄锦标赛"
+    },
+    "ru": {
+      "headline": "Камила Валиева не выступит на чемпионате России в Челябинске из-за ограничений по здоровью",
+      "seo_title": "Камила Валиева пропустит чемпионат России в Челябинске",
+      "subheadline": "20-летняя фигуристка не вошла в предварительный состав участников: врачи ограничили ее тренировочные нагрузки.",
+      "body_markdown": "Камила Валиева не примет участия в предстоящем чемпионате России по фигурному катанию, который пройдет в Челябинске с 17 по 20 декабря. 20-летней фигуристки не оказалось в предварительном списке участников, опубликованном Федерацией фигурного катания на коньках России (ФФККР) во вторник вечером. Таким образом подтвердились сообщения, ранее распространенные ТАСС и РИА Новости.\n\nПропуск главного национального старта стал следствием скомканной осени: фигуристку подвели проблемы со здоровьем. В конце октября медицинский штаб рекомендовал Валиевой на месяц исключить прыжковые элементы. И хотя 12 ноября Камила вернулась к тренировкам на льду, источники РИА Новости в команде сообщили, что она пока не вышла на соревновательный объем нагрузок, необходимый для турнира такого уровня.\n\n## Осенний простой из-за проблем со здоровьем\n\nВынужденная пауза в тренировках вычеркнула Валиеву из всей серии Гран-при России текущего сезона. Сначала из-за болезни она снялась с первого этапа в Казани (17–18 октября), а затем пропустила и заключительный этап в Омске (14–15 ноября).\n\nНапомним, соревновательное возвращение Валиевой состоялось в январе 2026 года на чемпионате России по прыжкам после отбытия четырехлетней дисквалификации, наложенной Спортивным арбитражным судом (CAS) из-за положительной пробы на триметазидин от декабря 2021 года. В сентябре она выступила на контрольных прокатах сборной в Москве, однако после истечения срока бана фигуристка пока не провела ни одного полноценного официального турнира с двумя программами.\n\n## Переход к Тутберидзе и статус на международной арене\n\nСезон-2026/27 принес фигуристке кардинальные перемены. Проведя больше года в группе Светланы Соколовской, осенью Валиева вернулась в «Хрустальный» к своему прежнему наставнику Этери Тутберидзе.\n\nМежду тем международный допуск фигуристки по-прежнему заблокирован: Международный союз конькобежцев (ISU) присвоил ей статус нейтрального атлета в августе, но уже в сентябре отозвал свое решение.\n\nВ российском фигурном катании признают, что отсутствие Валиевой — ощутимый удар по турниру в Челябинске. Известный тренер Александр Жулин заявил РИА Новости, что «чемпионат России потеряет в зрелищности из-за ее отсутствия». Олимпийская чемпионка 1988 года в танцах на льду Наталья Бестемьянова в комментарии ТАСС отметила: «Камила знает, что делает, она через многое прошла», подчеркнув, что сейчас здоровье спортсменки должно стоять на первом месте.\n\nНесмотря на пропуск турнира Валиевой, предварительный состав челябинского чемпионата остается статусным: в женском одиночном катании заявлена серебряный призер Олимпиады-2022 Александра Игнатова (Трусова), а у мужчин главными действующими лицами станут Петр Гуменник и Владислав Дикиджи.",
+      "social_post": "Камила Валиева не выступит на чемпионате России в Челябинске. 20-летней фигуристки нет в предварительной заявке ФФККР: из-за предписания врачей ограничить прыжки в конце октября она пропустила всю серию Гран-при и пока не набрала кондиции. Лидером женского турнира станет Александра Игнатова (Трусова). Верите, что Камила сможет набрать форму по ходу сезона? Делитесь мнением в комментариях! #фигурноекатание #камилавалиева #фкккр"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_%28cropped%29.jpg/1280px-Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_(cropped).jpg",
+        "artist": "Министерство спорта Республики Татарстан",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Kamila Valieva - 2023 Russian GP Stage 4 in Kazan",
+        "width": 1200,
+        "height": 1665,
+        "year": 2023,
+        "subject": "Kamila Valieva",
+        "asked": "Kamila Valieva",
+        "page_title": "Kamila Valieva",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:kamila_valieva_-_2023_russian_gp_stage_4_-_06_(cropped).jpg|Kamila Valieva",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Kamila Valieva figure skating in a red dress on ice",
+          "reason": "The image correctly depicts Russian figure skater Kamila Valieva during a competitive performance.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg/1280px-Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg",
+        "artist": "SpiritedMichelle",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Eteri Tutberidze at the boards at 2025 Skate Canada International at the SaskTel Center in Saskatoon, Saskatchewan, Canada.",
+        "width": 1200,
+        "height": 1596,
+        "year": 2025,
+        "subject": "Eteri Tutberidze",
+        "asked": "Eteri Tutberidze",
+        "page_title": "Eteri Tutberidze",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:eteri_tutberidze_at_2025_skate_canada_international.jpg|Eteri Tutberidze",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "figure skating coach Eteri Tutberidze standing by the rink boards",
+          "reason": "The photo clearly shows the well-known Russian figure skating coach Eteri Tutberidze at a figure skating venue.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Saint_Alexander_Nevsky_Church_%28Chelyabinsk%29.jpg/1280px-Saint_Alexander_Nevsky_Church_%28Chelyabinsk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Saint_Alexander_Nevsky_Church_(Chelyabinsk).jpg",
+        "artist": "IEPCBM",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Saint Alexander Nevsky Church (Chelyabinsk)",
+        "width": 1200,
+        "height": 686,
+        "year": 2018,
+        "subject": "Chelyabinsk",
+        "asked": "Chelyabinsk",
+        "page_title": "Chelyabinsk",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:saint_alexander_nevsky_church_(chelyabinsk).jpg|Chelyabinsk",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Saint Alexander Nevsky Church in Chelyabinsk",
+          "reason": "The photo accurately shows a well-known church landmark in Chelyabinsk, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-24-news-376868",
     "slug": "morocco-deny-china-historic-u17-world-cup-win-with-99th-minu",
     "date": "2026-11-24",

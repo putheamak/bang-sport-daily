@@ -4,6 +4,61 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Kamila Valieva Ruled Out of Russian Figure Skating Championships in Chelyabinsk
+`2026-11-25-news-d8cd04` · 2026-11-25
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_%28cropped%29.jpg/1280px-Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Kamila Valieva**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_(cropped).jpg)<br>AI sees: _Kamila Valieva figure skating in a red dress on ice_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg/1280px-Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Eteri Tutberidze**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg)<br>AI sees: _figure skating coach Eteri Tutberidze standing by the rink boards_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Saint_Alexander_Nevsky_Church_%28Chelyabinsk%29.jpg/1280px-Saint_Alexander_Nevsky_Church_%28Chelyabinsk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Chelyabinsk**<br>2018 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Saint_Alexander_Nevsky_Church_(Chelyabinsk).jpg)<br>AI sees: _Saint Alexander Nevsky Church in Chelyabinsk_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Bojan Hodak Appointed Malaysia Head Coach as Harimau Malaya Reorganise
+`2026-11-25-news-b8d792` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BojanHodak2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Bojan Hodak**<br>2014 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:BojanHodak2014.jpg)<br>AI sees: _Bojan Hodak speaking at a football press conference_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Tan_Cheng_Hoe_2014.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Tan Cheng Hoe**<br>2014 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tan_Cheng_Hoe_2014.png)<br>AI sees: _Tan Cheng Hoe wearing a Kedah football team polo shirt_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From a Sweet Factory Court to Badminton History: The Life of Ratchanok Intanon
+`2026-11-25-athl-a5a295` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Ratchanok_Intanon_Indonesia_Masters_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Ratchanok Intanon**<br>2025 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Ratchanok_Intanon_Indonesia_Masters_2025.jpg)<br>AI sees: _Ratchanok Intanon holding a badminton tournament gold medal_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Li_Xuerui_2012_%28portrait%29.jpg/1280px-Li_Xuerui_2012_%28portrait%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Li Xuerui**<br>2012 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Li_Xuerui_2012_(portrait).jpg)<br>AI sees: _Chinese badminton player Li Xuerui at London 2012_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tai_Tzu-ying_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tai Tzu-ying**<br>2024 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Tai_Tzu-ying_in_2024.jpg)<br>AI sees: _Badminton player Tai Tzu-ying holding a framed certificate_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Tian Bingyi Appointed China Badminton Head Coach for Los Angeles 2028 Cycle
 `2026-11-24-news-3d085d` · 2026-11-24
 
