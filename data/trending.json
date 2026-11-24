@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:32:03+00:00",
+  "updated": "2026-11-24T09:34:26+00:00",
   "stories": [
     {
       "key": "a1a5bc0968",
@@ -58,7 +58,7 @@
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 15.3,
+      "heat": 15.29,
       "published": "2026-11-24T09:00:00+00:00",
       "refs": [
         {
@@ -102,7 +102,7 @@
       "sport": "hockey",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.47,
+      "heat": 10.46,
       "published": "2026-11-24T05:00:29+00:00",
       "refs": [
         {
@@ -165,7 +165,7 @@
       "sport": "football",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.68,
+      "heat": 8.67,
       "published": "2026-11-23T22:31:27+00:00",
       "refs": [
         {
@@ -188,64 +188,6 @@
     }
   ],
   "known": {
-    "960a847eb2": {
-      "key": "960a847eb2",
-      "title": "Lauren Price Targets Undisputed Boxing History in Cardiff",
-      "summary": "Lauren Price Targets Undisputed Boxing History in Cardiff Limapagi",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.25,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-20T10:13:01+00:00",
-      "refs": [
-        {
-          "source": "Limapagi",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BaV9WdGxVcjZzRDUtaWowS3dJQ2toaWNuaXdaS1JVZjhTUUludnJFMVc2VWZTV3doY0dsZ2dWa2MxeVN1a085NFFaZGxIel9vVXlWNW1qcjRMZVFQLVBLSVpQN2hXeTA3MHZBbXpTMkdKZw?oc=5",
-          "title": "Lauren Price Targets Undisputed Boxing History in Cardiff"
-        },
-        {
-          "source": "SuaraGarut.ID",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zc2FpLWJsUGFURHA1OGotZ1p2S1I0OWpvNzNndzJxM0syeVkzeHE0ZmJUb3UwWTgtVFlXZGhPYzFldVJ2SzBOOUlrY0NoM3JMQ3hiMFVDVnIwYWtxVm4xRURRTjVsYUcyRTNYZ1JrMA?oc=5",
-          "title": "Lauren Price Targets Undisputed Glory in Cardiff"
-        },
-        {
-          "source": "World Boxing Association",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWk82X1loU1hhYXAzZm5BOWtZZGk2dWhLZmNoa0lja0k4WV9sUTJXTVZYZjV6c1FxVURFbm5sTHVtZjZreWR2eVllV0VhODBudk1hc3lFZm95dTdiMVdMTEx0bDRsS3RucFFkRjRPempGYkhuWktuSW5ISEI3MkQwNlJqdFl6MVJfVXRhTExIX29EV0pTSXMwVDRqVmFjS2Na?oc=5",
-          "title": "Lauren Price defends her WBA crown against Michaela Kotaskova"
-        }
-      ]
-    },
-    "8c2e2baa59": {
-      "key": "8c2e2baa59",
-      "title": "Arteta warns Arsenal players over FPL team news leak",
-      "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.95,
-      "published": "2026-11-20T14:08:55+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
-          "title": "Arteta warns Arsenal players over FPL team news leak"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-          "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/news/12040/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
-          "title": "Guimaraes growing at Arsenal - but Arteta still wants more"
-        }
-      ]
-    },
     "5225897496": {
       "key": "5225897496",
       "title": "Shakur Stevenson and Raymond Muratalla fail to reach agreement, heads to purse bids",
@@ -2640,7 +2582,7 @@
       "sport": "football",
       "outlets": 3,
       "growth": 0,
-      "heat": 8.68,
+      "heat": 8.67,
       "published": "2026-11-23T22:31:27+00:00",
       "refs": [
         {
@@ -3066,9 +3008,9 @@
       "summary": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан Inbusiness.kz",
       "lang": "ru",
       "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.3,
+      "outlets": 6,
+      "growth": 3,
+      "heat": 19.79,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-24T09:00:00+00:00",
@@ -3087,6 +3029,21 @@
           "source": "Ұлттық олимпиадалық комитет",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFFNkhfYTk1RmZuR1ZMcVEwVTlteWNiM1FiTFdhMFQtU3V4ZTVad2RRUGtIMGlzN3FrWHZoZG50aGNqaXdOSFd2WGZfNnlGc0xyYWktZTJHXzJmNmotT3FrQkVFZEwyTlJ6akdUVjBvc2hjUW5YY2ZiS2gtRWpfVXJXM1U4Zll0TkRhZ2ZMQzVqUXFOM0w5ckVOVlNaLURB?oc=5",
           "title": "Этап Кубка мира по боксу в Ташкенте: состав команды Казахстана"
+        },
+        {
+          "source": "TengriSport",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHI0UjhEZjRkbkZ4Ti1ZaThueWprZXVINzRPdzFVS3FfbFVXdm9tQklnVEk2VWxJUGs0Z2lQRWh2MDZNYnN4emVTdUQwckkwVnk4SjBFTThidDdicEh3eV9VMHdrYXlfclh4eUp0OHVrYVlIbjc1V2VqX2h1bTRYMlJTcjNqeVM3X0stSi0xTHI1RWlxUzJqbk1qTjVOVFnSAaQBQVVfeXFMT2FCXzZpUkZnM2hHSUxveFZqb3RDRlVoSE1PZGluVXh1MGdlck1aRHpBREpaLUYzV2dYTmpteHIzOVZJdEFRYW9mbHdBRUhJVE9IUi1tajhqOEVlUEpIbTZTVzN3SHZmaXhiYUFUQVZTZ0lvQ0NWU3Zod1pkZFVoMDVwZUxqSjdVZmp6c0hnWlpwajdEQ3RpazZjWHd3ZTY5TVdiMnc?oc=5",
+          "title": "Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане"
+        },
+        {
+          "source": "Sportarena.kz",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmc0VHZMR0NFcTRKSl85RGlVRlJnVEtrbk5xcm5heXVtbzZnMzBTLVJ5aGE4c3BJZUl6VFRWaEgwYWxPTkVlaEcyTXd4MXo1dVpXMG9NM3dIVm94V3pOZEpodVgtMEpTc1NXSlk0eG9OUV9TWS1scmJ1QnY2TkhSOVJDUkN5VUFSSGVRamNLNWVLZ19DYms2LUZoZE1aT014UWFBVXlDVXBCRGtaZFB5RDVEMUVRbFJ3bGZhRmh4SmTSAcYBQVVfeXFMUDRYN1FWb3cwLWRfSlZ3NkNFc041OU5Kb2dFR3VLVk16NXZwQ2h2MXNRSDlYMzJ3alhISE1oQi1xRW1SWDV3dEt4Y2t3R3lsdy0yUkZSSml4Y0lvMnNsaURUVVRPTUkzMEZqTWtScFBWWjBscldiN2R5anR3U1R6OGpTdDZDM1B4NklQMUc3UTlONEY0cnM2V0JxT3ZGUVo2R2FCOGh5WnROUS1DZ3NsLUpjSktjZ1N1bHhnSVMtWktNeWh0eVN3?oc=5",
+          "title": "Сборная Казахстана по боксу объявила звёздный состав на Кубок мира в Узбекистане"
+        },
+        {
+          "source": "Vesti.kz",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmtHVFo0c0FfMjcxYlR1Y1dsYWRPekNVSXN3T2Q2MG5tclhERXpINmhmVVFpdDJHRTNzNHVyUHNWOExnQnIxTkp1aGMtQk5PVEF5S1ExSWVlblg5QS1PeHJYMGR2eUNEaUFGX2JnUWMzWHNKNlRrYlJIbzBMTzBHTEZiUW83NklOY3lCamlGTlZGU1ZU0gGaAUFVX3lxTE5pWUttOWpCeFNpQnNrWWJxV3dEbEM2aWxkTlRqR0pNWVRIT05YS1g2dVVMb1gwNUxWQmpiV0NGOWJXYzYtVTRXQ0xtSGNjVDlISnZIOEpRRFZEYzZDVTR6NlBTLUNKNXV5ckoxdkFaaThfV2hsWXBRRlZIbThaSERvNHQ4ZzJBMDJ5VVpocGhVV1FQWDVDNmNrVHc?oc=5",
+          "title": "Казахстан объявил состав на финальный этап Кубка мира по боксу в Узбекистане"
         }
       ],
       "first_seen": "2026-11-24T09:32:03+00:00"
@@ -3099,7 +3056,7 @@
       "sport": "hockey",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.47,
+      "heat": 10.46,
       "published": "2026-11-24T05:00:29+00:00",
       "refs": [
         {
@@ -3282,6 +3239,73 @@
         }
       ],
       "first_seen": "2026-11-24T09:32:03+00:00"
+    },
+    "ad7f37c792": {
+      "key": "ad7f37c792",
+      "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot",
+      "summary": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 9.41,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T20:26:42+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjJYNm16QnlGSGt2a25QQVVEeFFLTlF6VExLOVlteHpHVkZCcWhSTExzS0RnUFlfbjBOZE8zekdfbVpGd21BNUROOG9uMWE3aWpGREZLX3llM2E1dEVmTlhNSnRnLVNaZDVyMzJBMTJJcWF3UTdmb3RRU1N1alpzNmEzMVVwd3ZBUjdiMGlYQklIalE?oc=5",
+          "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU1iT2RwOFpETGl0VWs0bExiY1pxM2pDaWx6bmZ1T0hlTkw4ZkNNaEU0a0EzN1FXWF91Z1hDWEo0MHExMVRnVUtVVENuQlNSc1NMVTFwMmF4cG94LV9iNnVDbXhrWVRUQXAtLVNIQlFMZkpwSWZnZ2w1aDVSUVZOVEVYTl9lazJCQ09EMGpZQWptb0thNkZyYmU2QThkOGZMNlc0a3JxRENHY2p4bU5WRmxmckNFQQ?oc=5",
+          "title": "Ex-UFC Champ Magomed Ankalaev Answers Fight Callout After Stunning UFC Qatar Result"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlNDZFJWcm9GMllraTJ6enJhZW9ZenNoSTRadVhtanVpcGFHN3gxTHJTWE5EZ1RvNW5YZ2M2eGRYS09DWVUwS2IwempuSmFZTkE5dDhjMG5CNF81bDNTTjc3bUtkaDBDUVQ5ekJBT2tZSkxRM2dVZEp1RkY4NXFTMzlHR1JTNkpBeWFkMkJ1c3NtTHphLWJScEtfUUExWmkzMDFfRHVHejM3RTNiYTZrZDQ5R0lTTVdzT09tc1cydzg?oc=5",
+          "title": "Former UFC champ accepts Qatar callout from Navajo Stirling — even offers home-field advantage"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN2lpalpBTXlidjQ0ckxwTi1lQ2dZY3dlTE83SkFreldlVXhNdVNJN1NLRTkzdFZWOVdXQmxiZHVNbkprNEFlTHdPckJKMVk0TEFQZTRON0p6amthR1owYllmSWl1Y3VaeEx4cldERlh3MkdkUmVna1ZRVlY0a1lSRW1hcWVLS20wNlR4S3k3dkNWcnBJdFJycE1sR2E3RVhRQm9vYVdzWlM3dE1oZVdDYmxDNW1BYkxvVWdZUXRtNzZfblU0MkpZa096c2ZBdjBJUEtaOHFtZ2V4S0VpVk9lMlMzemkzM0txNHRiMm8wVDVSYl9iYnJROElfa0FGWDFnTFE?oc=5",
+          "title": "Joaquin Buckley urges Navajo Stirling to fight teammate Carlos Ulberg for UFC title"
+        }
+      ],
+      "first_seen": "2026-11-24T09:34:26+00:00"
+    },
+    "27cc172b60": {
+      "key": "27cc172b60",
+      "title": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar",
+      "summary": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 8.67,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-24T08:45:20+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG9YV2dFNGFzX29YckpJQ28wYnkyYldqQVhVZUNwZHo5NG5ZVEhWVmRCc0pfVXI0MVJDN3FoSnJIS05MOWZGSWtVNjBsLUwtSHBuT2dHdWV0ellvVGFORnMtWXlpOXhOZl85V241LXRsTk01cUMyLVhJQVVRdUppN0RtNFNPX3V5VDFnSG5abHREczd0YmhHVHJKY1p2SWxPT1EzSFRhTU9EeUs5S0Nra1ZBdGZjbGxkNTVYd2ZXMTBGZFlfWHc?oc=5",
+          "title": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMzdPdlZ4WUU5RDU0OElzSzViRW5MamVPYkJhUUp4T1p0N01FOXNQNzlhRTZ6ejhsLWhKZkFTMFhVbHRfZDdJWVZfcnBzUXpkVTRxOTJMWkY0T1JRcVp3QXBHLWFPT0ZUS1lxQjJZRUtwcDd5Ql9MMnJlbHVHaGxQRGx2dWN2MDhSb01USHNRaC1jTXpKTGdfbzZlWDhIUDlvam8xOUNzYTZDSDNjMzh5YjlMR2wwb3g1MWVtbW9XbVFGRElsQW05Y0ZXa1NFYjVELWVwMUQxdzlOaTA?oc=5",
+          "title": "Jorge Masvidal: 'Total package' Kevin Vallejos should get next UFC title shot"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYm9IWWtVN2tkc1dqX2JianFDRmZzMjVpYm1Ea3NhQmIxUGZ6TGJOTVM1WDhZMW9YM1dDNHZPNjVfb1o2a2ZGazlTUDFYSy1zd2hlUjJ3cENEQWZsaG9acFpIZy1VQ1Fic3VYYy1tdmswMzNCS0JtdE1sN0RBQTA5NHRtVDlPd0NfT2tYdGQ3b3BQUWZQMXhFaUtxbVo4UUtJOFRKUmpsSmdnTGJiYTN1TVlWZ2Vrb3FaZUUyMUJtTmdhVUE2dnpaSEZVaUtnNUN6WGh2c1ZZc3drd2FBZUE?oc=5",
+          "title": "Navajo Stirling and Kevin Vallejos skyrocket into title contention in latest UFC rankings update"
+        }
+      ],
+      "first_seen": "2026-11-24T09:34:26+00:00"
     }
   },
   "sent": [
@@ -3475,6 +3499,52 @@
   "tg_offset": 360028013,
   "combat": [
     {
+      "key": "6627fbd188",
+      "title": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан",
+      "summary": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан Inbusiness.kz",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 3,
+      "heat": 19.79,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-24T09:00:00+00:00",
+      "refs": [
+        {
+          "source": "Inbusiness.kz",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlBQdElNTmhXWW9tUkhpRjlzMkd2aVc5QWRqRWk0WWxtSW9TQzV6UXluQzVUS05PSWdIUkxyN250N2d6WVdrQzRwRUp6Mks0Mnh3dnNxSFRlZzVWa2VSMjVuOFpnN1FtSWU5QVg0Nk5YcVhnandIWkhONDZWZnFfOFAwM2VyQWJqZ1J6MHpLN1pJTDlHSUU5RlA3MFpuamJoQndPdEU5dw?oc=5",
+          "title": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3ZzVVNvcjJjdkxITXlZVjgyRzA4VDlkclp1NXpTUHVPYzl0bEZCN3lPUGk3OGYzNDk4Nl9ENVQwY2xfOHRxMmZYRXBsM3J6U1BWOThFWVZPZ0pEbGFKRGFFUnc1dkROeklnRWV2UXJtWDJqdFIxcWh3QVl4bWl2NFluelhBUjlPUmtmWlJSc0FNTkhERFVDQTNDM1BoMGRoWS1OZWkwcw?oc=5",
+          "title": "Казахстан определился с составом на финал Кубка мира по боксу в Ташкенте"
+        },
+        {
+          "source": "Ұлттық олимпиадалық комитет",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFFNkhfYTk1RmZuR1ZMcVEwVTlteWNiM1FiTFdhMFQtU3V4ZTVad2RRUGtIMGlzN3FrWHZoZG50aGNqaXdOSFd2WGZfNnlGc0xyYWktZTJHXzJmNmotT3FrQkVFZEwyTlJ6akdUVjBvc2hjUW5YY2ZiS2gtRWpfVXJXM1U4Zll0TkRhZ2ZMQzVqUXFOM0w5ckVOVlNaLURB?oc=5",
+          "title": "Этап Кубка мира по боксу в Ташкенте: состав команды Казахстана"
+        },
+        {
+          "source": "TengriSport",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHI0UjhEZjRkbkZ4Ti1ZaThueWprZXVINzRPdzFVS3FfbFVXdm9tQklnVEk2VWxJUGs0Z2lQRWh2MDZNYnN4emVTdUQwckkwVnk4SjBFTThidDdicEh3eV9VMHdrYXlfclh4eUp0OHVrYVlIbjc1V2VqX2h1bTRYMlJTcjNqeVM3X0stSi0xTHI1RWlxUzJqbk1qTjVOVFnSAaQBQVVfeXFMT2FCXzZpUkZnM2hHSUxveFZqb3RDRlVoSE1PZGluVXh1MGdlck1aRHpBREpaLUYzV2dYTmpteHIzOVZJdEFRYW9mbHdBRUhJVE9IUi1tajhqOEVlUEpIbTZTVzN3SHZmaXhiYUFUQVZTZ0lvQ0NWU3Zod1pkZFVoMDVwZUxqSjdVZmp6c0hnWlpwajdEQ3RpazZjWHd3ZTY5TVdiMnc?oc=5",
+          "title": "Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане"
+        },
+        {
+          "source": "Sportarena.kz",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmc0VHZMR0NFcTRKSl85RGlVRlJnVEtrbk5xcm5heXVtbzZnMzBTLVJ5aGE4c3BJZUl6VFRWaEgwYWxPTkVlaEcyTXd4MXo1dVpXMG9NM3dIVm94V3pOZEpodVgtMEpTc1NXSlk0eG9OUV9TWS1scmJ1QnY2TkhSOVJDUkN5VUFSSGVRamNLNWVLZ19DYms2LUZoZE1aT014UWFBVXlDVXBCRGtaZFB5RDVEMUVRbFJ3bGZhRmh4SmTSAcYBQVVfeXFMUDRYN1FWb3cwLWRfSlZ3NkNFc041OU5Kb2dFR3VLVk16NXZwQ2h2MXNRSDlYMzJ3alhISE1oQi1xRW1SWDV3dEt4Y2t3R3lsdy0yUkZSSml4Y0lvMnNsaURUVVRPTUkzMEZqTWtScFBWWjBscldiN2R5anR3U1R6OGpTdDZDM1B4NklQMUc3UTlONEY0cnM2V0JxT3ZGUVo2R2FCOGh5WnROUS1DZ3NsLUpjSktjZ1N1bHhnSVMtWktNeWh0eVN3?oc=5",
+          "title": "Сборная Казахстана по боксу объявила звёздный состав на Кубок мира в Узбекистане"
+        },
+        {
+          "source": "Vesti.kz",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmtHVFo0c0FfMjcxYlR1Y1dsYWRPekNVSXN3T2Q2MG5tclhERXpINmhmVVFpdDJHRTNzNHVyUHNWOExnQnIxTkp1aGMtQk5PVEF5S1ExSWVlblg5QS1PeHJYMGR2eUNEaUFGX2JnUWMzWHNKNlRrYlJIbzBMTzBHTEZiUW83NklOY3lCamlGTlZGU1ZU0gGaAUFVX3lxTE5pWUttOWpCeFNpQnNrWWJxV3dEbEM2aWxkTlRqR0pNWVRIT05YS1g2dVVMb1gwNUxWQmpiV0NGOWJXYzYtVTRXQ0xtSGNjVDlISnZIOEpRRFZEYzZDVTR6NlBTLUNKNXV5ckoxdkFaaThfV2hsWXBRRlZIbThaSERvNHQ4ZzJBMDJ5VVpocGhVV1FQWDVDNmNrVHc?oc=5",
+          "title": "Казахстан объявил состав на финальный этап Кубка мира по боксу в Узбекистане"
+        }
+      ],
+      "first_seen": "2026-11-24T09:32:03+00:00"
+    },
+    {
       "key": "cec0574347",
       "title": "Магомед Зайнуков проведет бой в UFC 16 января",
       "summary": "Магомед Зайнуков проведет бой в UFC 16 января Allboxing",
@@ -3511,6 +3581,42 @@
       "first_seen": "2026-11-24T09:32:03+00:00"
     },
     {
+      "key": "ad7f37c792",
+      "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot",
+      "summary": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 9.41,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T20:26:42+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjJYNm16QnlGSGt2a25QQVVEeFFLTlF6VExLOVlteHpHVkZCcWhSTExzS0RnUFlfbjBOZE8zekdfbVpGd21BNUROOG9uMWE3aWpGREZLX3llM2E1dEVmTlhNSnRnLVNaZDVyMzJBMTJJcWF3UTdmb3RRU1N1alpzNmEzMVVwd3ZBUjdiMGlYQklIalE?oc=5",
+          "title": "Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTU1iT2RwOFpETGl0VWs0bExiY1pxM2pDaWx6bmZ1T0hlTkw4ZkNNaEU0a0EzN1FXWF91Z1hDWEo0MHExMVRnVUtVVENuQlNSc1NMVTFwMmF4cG94LV9iNnVDbXhrWVRUQXAtLVNIQlFMZkpwSWZnZ2w1aDVSUVZOVEVYTl9lazJCQ09EMGpZQWptb0thNkZyYmU2QThkOGZMNlc0a3JxRENHY2p4bU5WRmxmckNFQQ?oc=5",
+          "title": "Ex-UFC Champ Magomed Ankalaev Answers Fight Callout After Stunning UFC Qatar Result"
+        },
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlNDZFJWcm9GMllraTJ6enJhZW9ZenNoSTRadVhtanVpcGFHN3gxTHJTWE5EZ1RvNW5YZ2M2eGRYS09DWVUwS2IwempuSmFZTkE5dDhjMG5CNF81bDNTTjc3bUtkaDBDUVQ5ekJBT2tZSkxRM2dVZEp1RkY4NXFTMzlHR1JTNkpBeWFkMkJ1c3NtTHphLWJScEtfUUExWmkzMDFfRHVHejM3RTNiYTZrZDQ5R0lTTVdzT09tc1cydzg?oc=5",
+          "title": "Former UFC champ accepts Qatar callout from Navajo Stirling — even offers home-field advantage"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN2lpalpBTXlidjQ0ckxwTi1lQ2dZY3dlTE83SkFreldlVXhNdVNJN1NLRTkzdFZWOVdXQmxiZHVNbkprNEFlTHdPckJKMVk0TEFQZTRON0p6amthR1owYllmSWl1Y3VaeEx4cldERlh3MkdkUmVna1ZRVlY0a1lSRW1hcWVLS20wNlR4S3k3dkNWcnBJdFJycE1sR2E3RVhRQm9vYVdzWlM3dE1oZVdDYmxDNW1BYkxvVWdZUXRtNzZfblU0MkpZa096c2ZBdjBJUEtaOHFtZ2V4S0VpVk9lMlMzemkzM0txNHRiMm8wVDVSYl9iYnJROElfa0FGWDFnTFE?oc=5",
+          "title": "Joaquin Buckley urges Navajo Stirling to fight teammate Carlos Ulberg for UFC title"
+        }
+      ],
+      "first_seen": "2026-11-24T09:34:26+00:00"
+    },
+    {
       "key": "134141f3b4",
       "title": "Томпсон: Махачев добился большего, чем Хабиб",
       "summary": "Томпсон: Махачев добился большего, чем Хабиб Meta MMA",
@@ -3542,97 +3648,35 @@
       "first_seen": "2026-11-24T09:32:03+00:00"
     },
     {
-      "key": "6627fbd188",
-      "title": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан",
-      "summary": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан Inbusiness.kz",
-      "lang": "ru",
+      "key": "27cc172b60",
+      "title": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar",
+      "summary": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar MMA Sucka",
+      "lang": "en",
       "sport": "combat",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.3,
+      "heat": 8.67,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-24T09:00:00+00:00",
+      "published": "2026-11-24T08:45:20+00:00",
       "refs": [
         {
-          "source": "Inbusiness.kz",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlBQdElNTmhXWW9tUkhpRjlzMkd2aVc5QWRqRWk0WWxtSW9TQzV6UXluQzVUS05PSWdIUkxyN250N2d6WVdrQzRwRUp6Mks0Mnh3dnNxSFRlZzVWa2VSMjVuOFpnN1FtSWU5QVg0Nk5YcVhnandIWkhONDZWZnFfOFAwM2VyQWJqZ1J6MHpLN1pJTDlHSUU5RlA3MFpuamJoQndPdEU5dw?oc=5",
-          "title": "Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан"
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRG9YV2dFNGFzX29YckpJQ28wYnkyYldqQVhVZUNwZHo5NG5ZVEhWVmRCc0pfVXI0MVJDN3FoSnJIS05MOWZGSWtVNjBsLUwtSHBuT2dHdWV0ellvVGFORnMtWXlpOXhOZl85V241LXRsTk01cUMyLVhJQVVRdUppN0RtNFNPX3V5VDFnSG5abHREczd0YmhHVHJKY1p2SWxPT1EzSFRhTU9EeUs5S0Nra1ZBdGZjbGxkNTVYd2ZXMTBGZFlfWHc?oc=5",
+          "title": "Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar"
         },
         {
-          "source": "Offside.kz",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3ZzVVNvcjJjdkxITXlZVjgyRzA4VDlkclp1NXpTUHVPYzl0bEZCN3lPUGk3OGYzNDk4Nl9ENVQwY2xfOHRxMmZYRXBsM3J6U1BWOThFWVZPZ0pEbGFKRGFFUnc1dkROeklnRWV2UXJtWDJqdFIxcWh3QVl4bWl2NFluelhBUjlPUmtmWlJSc0FNTkhERFVDQTNDM1BoMGRoWS1OZWkwcw?oc=5",
-          "title": "Казахстан определился с составом на финал Кубка мира по боксу в Ташкенте"
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMzdPdlZ4WUU5RDU0OElzSzViRW5MamVPYkJhUUp4T1p0N01FOXNQNzlhRTZ6ejhsLWhKZkFTMFhVbHRfZDdJWVZfcnBzUXpkVTRxOTJMWkY0T1JRcVp3QXBHLWFPT0ZUS1lxQjJZRUtwcDd5Ql9MMnJlbHVHaGxQRGx2dWN2MDhSb01USHNRaC1jTXpKTGdfbzZlWDhIUDlvam8xOUNzYTZDSDNjMzh5YjlMR2wwb3g1MWVtbW9XbVFGRElsQW05Y0ZXa1NFYjVELWVwMUQxdzlOaTA?oc=5",
+          "title": "Jorge Masvidal: 'Total package' Kevin Vallejos should get next UFC title shot"
         },
         {
-          "source": "Ұлттық олимпиадалық комитет",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFFNkhfYTk1RmZuR1ZMcVEwVTlteWNiM1FiTFdhMFQtU3V4ZTVad2RRUGtIMGlzN3FrWHZoZG50aGNqaXdOSFd2WGZfNnlGc0xyYWktZTJHXzJmNmotT3FrQkVFZEwyTlJ6akdUVjBvc2hjUW5YY2ZiS2gtRWpfVXJXM1U4Zll0TkRhZ2ZMQzVqUXFOM0w5ckVOVlNaLURB?oc=5",
-          "title": "Этап Кубка мира по боксу в Ташкенте: состав команды Казахстана"
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYm9IWWtVN2tkc1dqX2JianFDRmZzMjVpYm1Ea3NhQmIxUGZ6TGJOTVM1WDhZMW9YM1dDNHZPNjVfb1o2a2ZGazlTUDFYSy1zd2hlUjJ3cENEQWZsaG9acFpIZy1VQ1Fic3VYYy1tdmswMzNCS0JtdE1sN0RBQTA5NHRtVDlPd0NfT2tYdGQ3b3BQUWZQMXhFaUtxbVo4UUtJOFRKUmpsSmdnTGJiYTN1TVlWZ2Vrb3FaZUUyMUJtTmdhVUE2dnpaSEZVaUtnNUN6WGh2c1ZZc3drd2FBZUE?oc=5",
+          "title": "Navajo Stirling and Kevin Vallejos skyrocket into title contention in latest UFC rankings update"
         }
       ],
-      "first_seen": "2026-11-24T09:32:03+00:00"
-    },
-    {
-      "key": "0e32297333",
-      "title": "Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане",
-      "summary": "Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане TengriSport",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.12,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-24T07:14:31+00:00",
-      "refs": [
-        {
-          "source": "TengriSport",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHI0UjhEZjRkbkZ4Ti1ZaThueWprZXVINzRPdzFVS3FfbFVXdm9tQklnVEk2VWxJUGs0Z2lQRWh2MDZNYnN4emVTdUQwckkwVnk4SjBFTThidDdicEh3eV9VMHdrYXlfclh4eUp0OHVrYVlIbjc1V2VqX2h1bTRYMlJTcjNqeVM3X0stSi0xTHI1RWlxUzJqbk1qTjVOVFnSAaQBQVVfeXFMT2FCXzZpUkZnM2hHSUxveFZqb3RDRlVoSE1PZGluVXh1MGdlck1aRHpBREpaLUYzV2dYTmpteHIzOVZJdEFRYW9mbHdBRUhJVE9IUi1tajhqOEVlUEpIbTZTVzN3SHZmaXhiYUFUQVZTZ0lvQ0NWU3Zod1pkZFVoMDVwZUxqSjdVZmp6c0hnWlpwajdEQ3RpazZjWHd3ZTY5TVdiMnc?oc=5",
-          "title": "Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане"
-        },
-        {
-          "source": "Sportarena.kz",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUmc0VHZMR0NFcTRKSl85RGlVRlJnVEtrbk5xcm5heXVtbzZnMzBTLVJ5aGE4c3BJZUl6VFRWaEgwYWxPTkVlaEcyTXd4MXo1dVpXMG9NM3dIVm94V3pOZEpodVgtMEpTc1NXSlk0eG9OUV9TWS1scmJ1QnY2TkhSOVJDUkN5VUFSSGVRamNLNWVLZ19DYms2LUZoZE1aT014UWFBVXlDVXBCRGtaZFB5RDVEMUVRbFJ3bGZhRmh4SmTSAcYBQVVfeXFMUDRYN1FWb3cwLWRfSlZ3NkNFc041OU5Kb2dFR3VLVk16NXZwQ2h2MXNRSDlYMzJ3alhISE1oQi1xRW1SWDV3dEt4Y2t3R3lsdy0yUkZSSml4Y0lvMnNsaURUVVRPTUkzMEZqTWtScFBWWjBscldiN2R5anR3U1R6OGpTdDZDM1B4NklQMUc3UTlONEY0cnM2V0JxT3ZGUVo2R2FCOGh5WnROUS1DZ3NsLUpjSktjZ1N1bHhnSVMtWktNeWh0eVN3?oc=5",
-          "title": "Сборная Казахстана по боксу объявила звёздный состав на Кубок мира в Узбекистане"
-        },
-        {
-          "source": "Vesti.kz",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmtHVFo0c0FfMjcxYlR1Y1dsYWRPekNVSXN3T2Q2MG5tclhERXpINmhmVVFpdDJHRTNzNHVyUHNWOExnQnIxTkp1aGMtQk5PVEF5S1ExSWVlblg5QS1PeHJYMGR2eUNEaUFGX2JnUWMzWHNKNlRrYlJIbzBMTzBHTEZiUW83NklOY3lCamlGTlZGU1ZU0gGaAUFVX3lxTE5pWUttOWpCeFNpQnNrWWJxV3dEbEM2aWxkTlRqR0pNWVRIT05YS1g2dVVMb1gwNUxWQmpiV0NGOWJXYzYtVTRXQ0xtSGNjVDlISnZIOEpRRFZEYzZDVTR6NlBTLUNKNXV5ckoxdkFaaThfV2hsWXBRRlZIbThaSERvNHQ4ZzJBMDJ5VVpocGhVV1FQWDVDNmNrVHc?oc=5",
-          "title": "Казахстан объявил состав на финальный этап Кубка мира по боксу в Узбекистане"
-        }
-      ],
-      "first_seen": "2026-11-24T09:32:03+00:00"
-    },
-    {
-      "key": "21e0134b51",
-      "title": "Экс-чемпион UFC Анкалаев принял вызов Стирлинга после нокаута над Прохазкой в Катаре",
-      "summary": "Экс-чемпион UFC Анкалаев принял вызов Стирлинга после нокаута над Прохазкой в Катаре Sportarena.kz",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.65,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-24T08:31:35+00:00",
-      "refs": [
-        {
-          "source": "Sportarena.kz",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTnBHd2MtMjZtU0dLUVZnYm9GSkFrZDltRzZaVnAwSHhxbDF0UDBvY2NSNnpzSWNtMk1VVTh2R2kyYUVPRFZwMlR5bXEwR0FyMGxMdF85LTFHZjh5U0wyOGd0N2ZNeGg3T2M3YXIwU2JZNUNzdFBwMmZmcFlSbGtlRElyQ19RRmljckVpUlpqNDE5ekwwSklQdi1PaVVBQXRwREFkd2xabFVyVjRHY0tpSWxMekpOV3gtVExDLXcxRlZpWnFfc0E3TtIBzgFBVV95cUxOd3pRdGp6ZHQ0T0Rnb1lyVzIyOGF0d0VUYzc5NmNjeWswNVhsVHFsTVpCSVU0RVA3Zy1JUXVaaExweEMxSktKOUxLQ0JaQ0xIVGNOdThrdXljZ0pjQ0FyY1BkOEdkUDlLaENFSXdBampkd0VYWHNWYWZ4R3B2OHdBb1lrc0h6WVdZc1EzU09oUjhXdlBxZmgzUDhraWJfUElqY3pRYTlzZ3A4MUlQSTJVSk5Ma1VGa0wtenlWX19qUmJWamN3REY5dm9uUUpGUQ?oc=5",
-          "title": "Экс-чемпион UFC Анкалаев принял вызов Стирлинга после нокаута над Прохазкой в Катаре"
-        },
-        {
-          "source": "vRINGe.com",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12Z0RLT2xDaE9pQW93ZGZrMk5pZldCTnVKVjZaRUZLR0ZRVWN5VGZHYjNEZ05GS2FHQkljV1ZMV2JLUVBra3FQRzdfLXlfQ2pzQ2NUb1RzSzRYMW1EYlRQQXNEWDZrN0NQSFdyN19GTC1uS2c?oc=5",
-          "title": "Новости ММА за 23 ноября: Анкалаев и Стирлинг, Топурия, Стерлинг"
-        },
-        {
-          "source": "RUTUBE Спорт",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3BrWVVYRTNXczFaMmdyOVVoY3N0bzdKRk40RjNLWVhveGNoZmQwWFU0a25NWnNsV3RrYm1Zckl0YnlVdnhNTVNSUXpjekotMUlaMk1NUDVQREQ2VHVQbXlTVTJKbnMxaUxFWXNLZmY0OFpHMVYwUkNhNlFzRjIzYzItNUVybVJHLUpUVXRMQ2c?oc=5",
-          "title": "Иржи Прохазка против Навахо Стирлинг (видео). UFC Fight Night"
-        }
-      ],
-      "first_seen": "2026-11-24T09:32:03+00:00"
+      "first_seen": "2026-11-24T09:34:26+00:00"
     }
   ],
   "combat_sent": [
@@ -3835,7 +3879,15 @@
     "7aa8296222": "2026-11-24T09:32:03+00:00",
     "19267ad4bf": "2026-11-24T09:32:03+00:00",
     "9174b944f3": "2026-11-24T09:32:03+00:00",
-    "407b89e179": "2026-11-24T09:32:03+00:00"
+    "407b89e179": "2026-11-24T09:32:03+00:00",
+    "ad7f37c792": "2026-11-24T09:34:26+00:00",
+    "27cc172b60": "2026-11-24T09:34:26+00:00",
+    "1899b3e70b": "2026-11-24T09:34:26+00:00",
+    "369c4e6640": "2026-11-24T09:34:26+00:00",
+    "5bc7d2d28b": "2026-11-24T09:34:26+00:00",
+    "454267a967": "2026-11-24T09:34:26+00:00",
+    "d3a37dd721": "2026-11-24T09:34:26+00:00",
+    "a67132cf60": "2026-11-24T09:34:26+00:00"
   },
   "board": {
     "en": [
@@ -3847,7 +3899,7 @@
         "sport": "combat",
         "outlets": 6,
         "growth": 0,
-        "heat": 14.75,
+        "heat": 14.74,
         "published": "2026-11-24T09:30:20+00:00",
         "refs": [
           {
@@ -3993,7 +4045,7 @@
         "sport": "football",
         "outlets": 3,
         "growth": 0,
-        "heat": 8.68,
+        "heat": 8.67,
         "published": "2026-11-23T22:31:27+00:00",
         "refs": [
           {
@@ -4015,62 +4067,28 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
-        "key": "7301006852",
-        "title": "Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game",
-        "summary": "Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game Bleacher Report Mystery solved: Here's why the 'Monday Night Football' lights went out on Bengals-Commanders Yahoo Sports Lights go out on Commanders before they beat Bengals in final seconds The Guardian Stadium lights go out during Bengals-Commanders game because vendor forgot about Monday Night Football Fox",
+        "key": "1899b3e70b",
+        "title": "Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans",
+        "summary": "Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans Báo VietNamNet",
         "lang": "en",
         "sport": "football",
-        "outlets": 3,
+        "outlets": 2,
         "growth": 0,
-        "heat": 8.25,
-        "published": "2026-11-24T03:10:27+00:00",
+        "heat": 6.84,
+        "published": "2026-11-24T04:33:00+00:00",
         "refs": [
           {
-            "source": "Bleacher Report",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblhST0JSc3J1LW9KYTNOdDZwczJYVUJLbVhqSFQyQ3RUMHZITVdBWW1NeFpGYnpORkRSVUlibnp2dS1FUlMzZzlHUFkyODJ2OHl6Wm5uUUVUVDBMejhjcGVQQzJta282TkdubkM0eVRMX01UcmhVYlJXcy1CZ1liTkkxLW93eUJuZ3ZvM1FneXA4MHVidWdfdDRfVjR3VUpLR1kzamw4dFN6eGNFaWFQTkdTYVQ1Q1NyRGc?oc=5",
-            "title": "Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game"
+            "source": "Báo VietNamNet",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1R4MHJKczd0OENNYkJNc1ppWS1wYllmajVIVU9xWF95dXAzMHFUVlc2YkJaa1lzRzdOclZJaXJuSC1CVnpxN0N6anphdEFkQ3VQSWo0QlROTVlLcWRneUJPeHFSTWxEQnc2S0d5ZGd6NmpHelJnNHYyUzkxTXNJaUR4RGpRbnBKT0ZHa1ZMcTh6S09nZ3NHejlWb1o0NVFUTkpfcWowbzhMNVdDZ3FEZTEwYw?oc=5",
+            "title": "Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans"
           },
           {
-            "source": "Sky Sports",
-            "link": "https://www.skysports.com/nfl/news/12040/13615867/nfl-washington-commanders-beat-joe-burrows-cincinnati-bengals-in-upset-after-last-second-field-goal-from-drew-stevens",
-            "title": "Commanders upset Burrow's Bengals after last-second winner"
-          },
-          {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/sport/2026/nov/23/lights-go-out-on-commanders-before-they-beat-bengals-in-final-seconds",
-            "title": "Lights go out on Commanders before they beat Bengals in final seconds"
+            "source": "Aktualita.co",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmVBVVRuU0VCS0czTExVX2Jwa1lXSmVnVUlhSEwzOHhTcms4OTF3Y2J3QTJwRlFteV84dmFGU296a1VHeGR1X1FzU0czUzBMSXhnVlEtVWR5Sy1MRUg1MUJmbkNRRVd2bnFGVDRtQ2R3WEVEZnhLVGFGZTY3VGpSMw?oc=5",
+            "title": "Latest Vietnam National Team News: Holding Top 100 FIFA Ranking, Kim Sang-sik Faces Challenges Ahead of Asian Cup"
           }
         ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
-      },
-      {
-        "key": "cf6ec71906",
-        "title": "Lucas: Monmouth Rapid Reactions - University of North Carolina Athletics",
-        "summary": "Lucas: Monmouth Rapid Reactions - University of North Carolina Athletics University of North Carolina Athletics Men's Basketball Welcomes Monmouth Monday - University of North Carolina Athletics University of North Carolina Athletics North Carolina 85-45 Monmouth (Nov 23, 2026) Game Recap ESPN Gallery: UNC Dominates Monmouth Hawks in Smith Center 247Sports Instant Takeaways From UNC's Dominant Win",
-        "lang": "en",
-        "sport": "basketball",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 8.19,
-        "published": "2026-11-24T03:07:16+00:00",
-        "refs": [
-          {
-            "source": "University of North Carolina Athletics",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUdqcHhGY18wY09WR2Vjei1aclFmOHJFZVo4NlpaRXlGSE51VEhQSE8yQ3JQQ3FOQzlvUm56d1V0NUVzb2t0cnZXcm9zZnJMLXYxN3J6V3pHSjliM05mX2ZESHp5RUljUDN1UmhmcGNpV0JURU9OYlcxTzFoMmhSTE92T0g5N2R1cUE?oc=5",
-            "title": "Lucas: Monmouth Rapid Reactions - University of North Carolina Athletics"
-          },
-          {
-            "source": "CBS Sports",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHJrV1hfalEtN05uTm9IMktRS3BTSkQ2eTY5OWZnMU9VaXliRElTQUVYUmkyREtSd0NaekpxSHpYdVVBaVZZUlg2cEM0WlJIdjlzU3BROEswVTIzRXhfeGFWLTNlRmkzbmkzM3k4Y1ZvNDFzc2FzMDJoRDU2MGJLdGdLRzh0NmVtUHk3VTNNaFhaY1ZWdmpTWDBHY0w4QjZEZ0w4LVRuOFItZFYtZ0p2RFhlY21lLWI3QWlvV2RuRWttQm55a3NjRDdn?oc=5",
-            "title": "CJ Rosser commits to North Carolina: Five-star forward is the next big recruiting win for Michael Malone"
-          },
-          {
-            "source": "Baltimore Ravens",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVNqdzNnWV9ZX2RVeXFtZ0VWN0d6dW5RemNZeXN3S1lIRFlja2JWazNrREtTVXRLSXZ6c0NWQmFqdnJHckwyWEFMbkwxNnBXT0VGOTdIZDhGN1ZwVldCQm1oVEkyLVRKNTNDZGpZMkVBdUdqRHdHZzlzcFdBb01OUVB6c1BJVnlUX2tMYjhBZG5ENXZFM0lhTTdTdUJIYWpsVUttakgxQS1fbjVZR3VTSm94MGdHNmRXNXROV0Q5Yw?oc=5",
-            "title": "Late for Work: Pundits React to Ravens Losing Sixth Straight in Wild Game at Carolina"
-          }
-        ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
+        "first_seen": "2026-11-24T09:34:26+00:00"
       },
       {
         "key": "a51b15ac07",
@@ -4128,7 +4146,7 @@
         "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 5.34,
+        "heat": 5.33,
         "published": "2026-11-23T21:27:58+00:00",
         "refs": [
           {
@@ -4143,29 +4161,58 @@
           }
         ],
         "first_seen": "2026-11-24T09:32:03+00:00"
+      },
+      {
+        "key": "369c4e6640",
+        "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic",
+        "summary": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic The New York Times Tarik Skubal gives union 450 million more reasons to fight salary cap ESPN The Dodgers had neither the roster need nor the financial appetite to acquire Tarik Skubal Yahoo Sports Hot Stove Rumors: Skubal fallout, King, Peralta, Sato, Morejon, Webb MLB.com Mets owner Steve Cohen paid $",
+        "lang": "en",
+        "sport": null,
+        "outlets": 2,
+        "growth": 0,
+        "heat": 5.3,
+        "published": "2026-11-23T16:42:11+00:00",
+        "refs": [
+          {
+            "source": "The New York Times",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEI1Nk83cTZtS25nNVF2QlVlQzI1MDRIYkVXWkhIemllb0Q4UDZzWWlPRXRZeXZrUGx4ZzZxUmdVdkJoTU5Fa0gtWHJ3TjFkVHFLdlg3QzJkYjV1MDJlM1RXYzJTSVNqY2pTdHowX2g0bjNueXZqdDZUQmlEMGRYN294QTRIamJuQVA0MW44Si0yNTVIemNYekNfNU9Xc28?oc=5",
+            "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic"
+          },
+          {
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+            "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history"
+          }
+        ],
+        "first_seen": "2026-11-24T09:34:26+00:00"
       }
     ],
     "zh": [
       {
-        "key": "b55f77acdb",
-        "title": "中国足协发布《红图计划》",
-        "summary": "中国足协发布《红图计划》 湖南省人民政府 红图需落地，宏图方可期 新华网 回应《红图计划》，国少踢出了赏心悦目的技术足球 ThePaper.cn 中国足协主席宋凯：中国足球要踢出与大国地位相称的气势和胆魄 观察者网 从 13 岁开始打433，宋凯说别怕起步慢，就怕方向摇摆|中国足协|邵佳一|克瑞斯|宋凯|红图计划|青训_新浪新闻 手机新浪网",
+        "key": "6881603491",
+        "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕",
+        "summary": "陕西省青少年体育俱乐部拳击联赛总决赛落幕 Sohu",
         "lang": "zh",
-        "sport": "football",
-        "outlets": 2,
+        "sport": "combat",
+        "outlets": 3,
         "growth": 0,
-        "heat": 7.08,
-        "published": "2026-11-24T06:54:00+00:00",
+        "heat": 6.86,
+        "published": "2026-11-23T15:03:00+00:00",
         "refs": [
           {
-            "source": "湖南省人民政府",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZENyVVVSNTJGZXdIRnNVRjZ6WnFVMlROOXREYzREd3U2Z3EzMHRqdGVIVHA2OTBaN3Z4My1BSy1LYU8xS1RvRWppQWFtUGFSWGU0VnZCQ3JlYUJ5Q09QWTdvVHNQLWxSRW1zb2haN0R5ZEZ6Ny1Ebg?oc=5",
-            "title": "中国足协发布《红图计划》"
+            "source": "Sohu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFXRlZTeTNsQUVNc0JvZk1IMEVsbmktd0Q0WDYtaldwOUI1SlloVUc1OWlIQVRxaVBCZ1lOSExzT0dLVFl3LXpKR01VVlBxZkZqRU83Y3A1OVpPZUcybUhRUzY4Q2pjUE95STZHT0U3Y0RNNWJrUVRhcDhNX0todmZDc1VMLUlGcHpjag?oc=5",
+            "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕"
           },
           {
-            "source": "中国新闻网 体育",
-            "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
-            "title": "中国足协发布《红图计划》 统一青少年足球培养理念"
+            "source": "新浪财经",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVpjVlhKMWcwRVBqbWNyY0FOQXA5S3VBWmJBdWJ6bm9xelp0SFhNT09BN1d5bmp5V2NGeF9wT2hSclNKUW5SSFdFOHQtSUFYSWxXQmZaM3VsTW1IQXJDQ2RPN3dZQ0NXbnNFTllVYUhSZXNfbGZ3eFNsVEktUEg5T05QakNvbGc?oc=5",
+            "title": "陕西青少年俱乐部拳击赛事首次新增标准化综合测评 创新青少年拳击人才考评体系"
+          },
+          {
+            "source": "中国新闻网",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mVm8zT0htUUQ0WWRmVG15VFJJdHI0M3pyOEtOb3N5djBodUZuQkVqSEpqLTFhWThpWXZIVDZRYU5hbnpSY2tUcGZNakxHeDdhN3NNaVFqUFB6UlRlV3JtSUJMUTJkcDk1?oc=5",
+            "title": "2026中国业余高尔夫球队际公开赛年度总决赛落幕"
           }
         ],
         "first_seen": "2026-11-24T09:32:03+00:00"
@@ -4173,12 +4220,12 @@
       {
         "key": "da30e479d3",
         "title": "足球——U17世界杯：中国队战平摩洛哥队",
-        "summary": "足球——U17世界杯：中国队战平摩洛哥队 新华网 U17国足主帅：最后时刻被扳平很遗憾 中国网新闻中心 新浪网· 手机新浪网 浮嶋敏：希望大家不要说让我们打斐济两位数，球员会有压力 懂球帝 战平世界第五梯队不容易！U17国足主教练浮嶋敏赛后激励球员 Sohu",
+        "summary": "足球——U17世界杯：中国队战平摩洛哥队 新华网 媒体人热议赵松源：等着五大联赛的offer吧，中国足球又看到亮光 新浪新闻_手机新浪网 U17国足主帅：最后时刻被扳平很遗憾 新华网 赵松源：虽然斐济输了两场但是不能轻敌，要拿到更多的净胜球 懂球帝 U-17世界杯 | 赵松源梅开二度 中国队2比2遗憾战平摩洛哥队 中国足球协会",
         "lang": "zh",
         "sport": "football",
         "outlets": 2,
         "growth": 0,
-        "heat": 6.54,
+        "heat": 6.53,
         "published": "2026-11-24T01:34:21+00:00",
         "refs": [
           {
@@ -4219,6 +4266,30 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
+        "key": "5bc7d2d28b",
+        "title": "中国球员要敢于踢现代化、技术型足球——中国足协技术总监解读《红图计划》",
+        "summary": "中国球员要敢于踢现代化、技术型足球——中国足协技术总监解读《红图计划》 新华网客户端 在Google 新闻上查看更多头条新闻和观点",
+        "lang": "zh",
+        "sport": "football",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 6.09,
+        "published": "2026-11-24T01:36:22+00:00",
+        "refs": [
+          {
+            "source": "新华网客户端",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjAyNXVPcjlmTi1ZcFhHOUlEUTFwdFBIQnpqN2tKME5ZWWZzc28zVThFdTlaQk1SLWs5VEFnMHl3TWwzSTJOYmczdWI1Zm9OQWpVeE0xX0pmOXVwcEZRZGtQaEdKeUljcGM3QUNoTnJpM1owZWFDa2NsdTR0cVNFQjZacEQ4VU03b3ltVGwzaGw5TWEyYy1Cdlln?oc=5",
+            "title": "中国球员要敢于踢现代化、技术型足球——中国足协技术总监解读《红图计划》"
+          },
+          {
+            "source": "中国新闻网 体育",
+            "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
+            "title": "中国足协发布《红图计划》 统一青少年足球培养理念"
+          }
+        ],
+        "first_seen": "2026-11-24T09:34:26+00:00"
+      },
+      {
         "key": "6ff6e1123d",
         "title": "阿尔卡拉斯成为第四位集齐四大满贯和年终总决赛冠军的球员意味着什么？",
         "summary": "阿尔卡拉斯成为第四位集齐四大满贯和年终总决赛冠军的球员意味着什么？ 手机新浪网 阿尔卡拉斯首夺ATP年终总决赛冠军 新华网 收获507W美元奖金！阿尔卡拉斯战胜兹维列夫，首夺年终总决赛冠军 新浪新闻_手机新浪网 伤愈后站上年终总决赛巅峰，这是阿尔卡拉斯的王者归来 ThePaper.cn ATP年终总决赛：梅德韦杰夫末轮出线 阿尔卡拉斯全胜晋级 新华网",
@@ -4238,30 +4309,6 @@
             "source": "中国新闻网 体育",
             "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736322.shtml",
             "title": "西班牙网球名将阿尔卡拉斯首夺ATP年终总决赛冠军"
-          }
-        ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
-      },
-      {
-        "key": "be868883a5",
-        "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官",
-        "summary": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官 山东新闻 全国花滑青锦赛收官 小将刘玉萱夺冠 新华网 长春都市圈冰壶邀请赛正式开赛 Sohu 2026/2027赛季全国花样滑冰青年锦标赛在山东青岛举行 山东新闻 年轻速滑运动员点赞长春五环体育馆，祝前辈大冬会取得优异成绩 ThePaper.cn",
-        "lang": "zh",
-        "sport": null,
-        "outlets": 2,
-        "growth": 0,
-        "heat": 5.95,
-        "published": "2026-11-24T02:16:00+00:00",
-        "refs": [
-          {
-            "source": "山东新闻",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuSlhvODNwUVZ1WFk2RmZNenUwN0lSeTh4TW1uRDNBTXZjZDNobWdwcld4WEFzbjVXV0xqdnR1MkI5THJMa2I4dnNFSXRPdU51QmZZNk1RM0hFX1Fkc1RhbzJJMzE0dw?oc=5",
-            "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官"
-          },
-          {
-            "source": "中国新闻网 体育",
-            "link": "https://www.chinanews.com.cn/ty/2026/11-24/10736778.shtml",
-            "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛收官"
           }
         ],
         "first_seen": "2026-11-24T09:32:03+00:00"
@@ -4315,52 +4362,28 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
-        "key": "6881603491",
-        "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕",
-        "summary": "陕西省青少年体育俱乐部拳击联赛总决赛落幕 Sohu",
+        "key": "454267a967",
+        "title": "足协杯决赛票价出炉！海港迎战玉昆，五档分区专属球迷看台",
+        "summary": "足协杯决赛票价出炉！海港迎战玉昆，五档分区专属球迷看台 手机网易网 最低180！足协杯70周年，海港与玉昆争冠，苏奥票务出炉 懂球帝 [流言板]足协杯决赛对阵：上海海港vs云南玉昆，12月6日在苏州进行 虎扑 备战足协杯决赛！玉昆官方：已启程前往深圳拉练，将踢2场热身赛 Sohu 双赛齐发，家门口的重磅对决来了！ ByDrug",
         "lang": "zh",
-        "sport": "combat",
+        "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 4.86,
-        "published": "2026-11-23T15:03:00+00:00",
+        "heat": 4.12,
+        "published": "2026-11-23T06:23:30+00:00",
         "refs": [
-          {
-            "source": "Sohu",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFXRlZTeTNsQUVNc0JvZk1IMEVsbmktd0Q0WDYtaldwOUI1SlloVUc1OWlIQVRxaVBCZ1lOSExzT0dLVFl3LXpKR01VVlBxZkZqRU83Y3A1OVpPZUcybUhRUzY4Q2pjUE95STZHT0U3Y0RNNWJrUVRhcDhNX0todmZDc1VMLUlGcHpjag?oc=5",
-            "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕"
-          },
-          {
-            "source": "中国新闻网",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mVm8zT0htUUQ0WWRmVG15VFJJdHI0M3pyOEtOb3N5djBodUZuQkVqSEpqLTFhWThpWXZIVDZRYU5hbnpSY2tUcGZNakxHeDdhN3NNaVFqUFB6UlRlV3JtSUJMUTJkcDk1?oc=5",
-            "title": "2026中国业余高尔夫球队际公开赛年度总决赛落幕"
-          }
-        ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
-      },
-      {
-        "key": "f9040e144b",
-        "title": "上海海港战胜北京国安晋级足协杯决赛",
-        "summary": "上海海港战胜北京国安晋级足协杯决赛 新华网 一部分国安球迷觉得，北京国安在足协杯半决赛被淘汰... 懂球帝 [流言板]蒙哥马利反问记者：你觉得国家队备战对球队有影响吗 虎扑 武磊300球里程碑，维塔尔头球建功！海港2-0完胜国安，挺进足协杯决赛！ ThePaper.cn 澳波系只剩他俩！国安、海港死磕中国足协杯半决赛，一次关于务实足球的选择 Sohu",
-        "lang": "zh",
-        "sport": "football",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 4.45,
-        "published": "2026-11-23T01:32:51+00:00",
-        "refs": [
-          {
-            "source": "新华网",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckdKaFFtajVMQ0lYeEdheTUwaEFhMzd5dmdvV016NW55REdXS09Vc1NjclpEcnUyYWJDRGt6T2JvQnR6cWNLZHFZd1Q2Wm53YmJhZEJlVGd1WVZUQTNfejk5bjgtSzB5c1NQVUJ3d3lvcTR0WFF3WnlDSUZ0Q0RUYQ?oc=5",
-            "title": "上海海港战胜北京国安晋级足协杯决赛"
-          },
           {
             "source": "手机网易网",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tOG9YNnQyV1BIeGVxZTFnZm9uTV9OY0twazFnbmlhcWxZaFlTUXg1NFBRLWMxcE5jY2F1UFVxR29xMGcxOGsyZ2J1MlM0Z3RCZ1Zsdno1WnNHOEctZkNjWFdB?oc=5",
             "title": "足协杯决赛票价出炉！海港迎战玉昆，五档分区专属球迷看台"
+          },
+          {
+            "source": "新华网",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckdKaFFtajVMQ0lYeEdheTUwaEFhMzd5dmdvV016NW55REdXS09Vc1NjclpEcnUyYWJDRGt6T2JvQnR6cWNLZHFZd1Q2Wm53YmJhZEJlVGd1WVZUQTNfejk5bjgtSzB5c1NQVUJ3d3lvcTR0WFF3WnlDSUZ0Q0RUYQ?oc=5",
+            "title": "上海海港战胜北京国安晋级足协杯决赛"
           }
         ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
+        "first_seen": "2026-11-24T09:34:26+00:00"
       }
     ],
     "ru": [
@@ -4421,7 +4444,7 @@
         "sport": "combat",
         "outlets": 6,
         "growth": 0,
-        "heat": 15.3,
+        "heat": 15.29,
         "published": "2026-11-24T09:00:00+00:00",
         "refs": [
           {
@@ -4499,7 +4522,7 @@
         "sport": "hockey",
         "outlets": 4,
         "growth": 0,
-        "heat": 10.47,
+        "heat": 10.46,
         "published": "2026-11-24T05:00:29+00:00",
         "refs": [
           {
@@ -4526,6 +4549,35 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
+        "key": "d3a37dd721",
+        "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом",
+        "summary": "",
+        "lang": "ru",
+        "sport": "football",
+        "outlets": 3,
+        "growth": 0,
+        "heat": 9.8,
+        "published": "2026-11-24T09:33:40+00:00",
+        "refs": [
+          {
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261124/futbol-2133589252.html",
+            "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/football/news-6712074-zhenskaya-sbornaya-rossii-provedyot-dva-tovarischeskih-matcha-s-tunisom.html",
+            "title": "Женская сборная России по футболу проведёт два товарищеских матча с Тунисом"
+          },
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/football/women/news/zhenskaya-sbornaya-rossii-po-futbolu-provedet-dva-tovarischeskih-matcha-s-tunisom-2478319/",
+            "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом"
+          }
+        ],
+        "first_seen": "2026-11-24T09:34:26+00:00"
+      },
+      {
         "key": "64c514f203",
         "title": "Наумов о «Локомотиве»: «Галактионову надо было не лапки складывать, а работать с тем, что осталось. Овчинников взял полностью разобранную команду, до нуля! С «Родиной» отскочили»",
         "summary": "Бывший президент «Локомотива» Николай Наумов оценил победу железнодорожников над « Родиной » в 15-м туре Альфа-Банк РПЛ (1:0). «Очень плохие впечатления от игры « Локомотива ». Отскочили, вымучили победу. «Родина» была сильнее и могла выиграть, но не повезло. Но сейчас любая победа очень нужна, важен результат. Это только доказывает, что Сергей Овчинников взял полностью разобранную команду, до нул",
@@ -4533,7 +4585,7 @@
         "sport": "football",
         "outlets": 3,
         "growth": 0,
-        "heat": 8.89,
+        "heat": 8.88,
         "published": "2026-11-24T09:25:00+00:00",
         "refs": [
           {
@@ -4584,30 +4636,6 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
-        "key": "850fe30679",
-        "title": "Женская сборная России по футболу проведёт два товарищеских матча с Тунисом",
-        "summary": "Российский футбольный союз на своём официальном сайте объявил, что женская сборная России проведёт два товарищеских матча с национальной командой Туниса.",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 7.34,
-        "published": "2026-11-24T09:28:28+00:00",
-        "refs": [
-          {
-            "source": "Championat",
-            "link": "https://www.championat.com/football/news-6712074-zhenskaya-sbornaya-rossii-provedyot-dva-tovarischeskih-matcha-s-tunisom.html",
-            "title": "Женская сборная России по футболу проведёт два товарищеских матча с Тунисом"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/women/news/zhenskaya-sbornaya-rossii-po-futbolu-provedet-dva-tovarischeskih-matcha-s-tunisom-2478319/",
-            "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом"
-          }
-        ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
-      },
-      {
         "key": "6f2828aa6a",
         "title": "Капризов признан второй звездой игрового дня в НХЛ",
         "summary": "Нападающий «Миннесоты» Кирилл Капризов признан второй звездой игрового дня в НХЛ, сообщает пресс-служба лиги.",
@@ -4632,6 +4660,30 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       },
       {
+        "key": "a67132cf60",
+        "title": "Камила Валиева пропустит чемпионат России – 2027",
+        "summary": "Фигуристка Камила Валиева не выступит на чемпионате России – 2027, который пройдёт в середине декабря в Челябинске.",
+        "lang": "ru",
+        "sport": null,
+        "outlets": 2,
+        "growth": 0,
+        "heat": 6.69,
+        "published": "2026-11-24T09:32:53+00:00",
+        "refs": [
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/figureskating/news-6712110-kamila-valieva-propustit-chempionat-rossii-2027.html",
+            "title": "Камила Валиева пропустит чемпионат России – 2027"
+          },
+          {
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261124/valieva--2133586373.html",
+            "title": "Валиева пропустит чемпионат России, сообщил источник"
+          }
+        ],
+        "first_seen": "2026-11-24T09:34:26+00:00"
+      },
+      {
         "key": "3a62a8decd",
         "title": "Федченко рассказала о форс-мажоре при подготовке Горбачёвой в этапу Гран-при ISU в Японии",
         "summary": "Софья Федченко, тренер бронзового призёра чемпионата России по фигурному катанию Алины Горбачёвой, рассказала о подготовке подопечной к предстоящему этапу Гран-при ISU в Токио, который стартует 27 ноября.",
@@ -4654,30 +4706,6 @@
           }
         ],
         "first_seen": "2026-11-24T09:32:03+00:00"
-      },
-      {
-        "key": "6632410b79",
-        "title": "Украинка Свитолина назвала провокацией слова поддержки от россиянки Андреевой после финала Итогового турнира WTA",
-        "summary": "Украинка Свитолина назвала провокацией слова поддержки от россиянки Андреевой после финала Итогового турнира WTA Sport24.ru Украинка Свитолина назвала провокацией слова Андреевой после финала Итогового турнира WTA Советский спорт Украинская теннисистка Свитолина раскритиковала слова поддержки от Мирры Андреевой rosbalt.ru Свитолина назвала слова Андреевой про нее провокацией Рейтинг Букмекеров Дом",
-        "lang": "ru",
-        "sport": "tennis",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 6.62,
-        "published": "2026-11-24T05:20:24+00:00",
-        "refs": [
-          {
-            "source": "Sport24.ru",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUEUtWVljNzlfRm5zOGdQTTFqbGFITnNkaVEyZUJ2OXJ3dnpSLXI2S0ZlSnljOElZR3loNGhvdk9WeVlLcy03LVdrWGxCZjZPS3ozOF9DeElOSXEyX3h0QlduTjVndmtUSkI3RlVsY0JZY2RmU3I5OVI1M2hQUE1MYWpyNTA2R1VoUjlGUTFBUE05dUdnWktNQ0NYSjZuLWxSTnJDY2FRXzBEZFdkbWtWS2Mtal9jdDZoTmR6ZzI4LTZGLTNCdVlkcmRsQ0Ribjkwcl9qSjdkdEtfaFJJZGpKQjRMU2JCU2FDRm130gHwAUFVX3lxTE1FM0FCd29WU3FvVVR3T1d3bklhQnBhTTlGT01PME1KYTRMaEl0RmJMT1I2b1ZoT0p0emY5dExudG1rTGYxdHJPSGNRRGgwam1LR0padGZfN29VN2VuaS1OTjRGWmZfN2dzcWpSYUkyai1VaEZWUTJWelFmSzBnNHcwZGVCb2hwTEdoMVY0emJacFMzUTQ3N05yOUN6aU5UQ2hyQldGc3NFbDFHdUhxVjlIbjhUeDNnajN3MFhHVTNxOHJsblVvUUZIeDFubjZHU3ViVHlRT0wwZ3dGTTNMMVVqNHA1eTFKSDVEZVAtYTBYNw?oc=5",
-            "title": "Украинка Свитолина назвала провокацией слова поддержки от россиянки Андреевой после финала Итогового турнира WTA"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/tennis/wta/news/ukrainka-svitolina-nazvala-slova-podderzhki-ot-andreevoy-na-nagrazhdenii-itogovogo-turnira-wta-provokaciey-2478177/",
-            "title": "Украинка Свитолина назвала слова поддержки от Андреевой на награждении Итогового турнира WTA провокацией"
-          }
-        ],
-        "first_seen": "2026-11-24T09:32:03+00:00"
       }
     ]
   },
@@ -4691,7 +4719,7 @@
         "sport": "combat",
         "outlets": 3,
         "growth": 0,
-        "heat": 8.43,
+        "heat": 8.42,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-24T06:22:51+00:00",
@@ -4738,8 +4766,8 @@
             "title": "Full card announced for PFL Lyon: Lapilus vs McKee"
           },
           {
-            "source": "Yahoo Sports",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2x1dTR6TE90UE9tZHJoUXk5WHBJeEw1NllsUkd0c1hMc0NpMFFVRy1iNU1aS1BKR0NFcVh4UjI0UE11dW92N0pFM1JaVlZfNjJhb2ljUGVrM0RqeEVjMTlobHVhbmU2dWViWDJuNzlqUGt5SUN6djIwU0F2ZWVPbVhrTlo?oc=5",
+            "source": "ONE Championship",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHp0ZVdyWlRoYW1NNzRial9kTl9Yd3RwSm4xNmZqdk5BTHVlZjI1UF82UnpOaTd4dlhUeF96OTdFZHh6MzYzTTFUaFpoSG14SkhNRUFrQ3pkWW9LX3hGQm9aSE1JV25FY05EZUhzcDR6TEpKNnB4S0R5bFQ0WEg2VEVpVlVtV1FxX3o2clhHaVI?oc=5",
             "title": "Full Card Revealed For ONE Friday Fights 180 On November 27"
           }
         ],
@@ -4753,7 +4781,7 @@
         "sport": "combat",
         "outlets": 3,
         "growth": 0,
-        "heat": 7.89,
+        "heat": 7.88,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-23T22:08:51+00:00",
@@ -4784,7 +4812,7 @@
         "sport": "combat",
         "outlets": 2,
         "growth": 0,
-        "heat": 6.89,
+        "heat": 6.88,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-24T07:57:00+00:00",
@@ -4855,7 +4883,34 @@
         "first_seen": "2026-11-24T09:32:03+00:00"
       }
     ],
-    "zh": [],
+    "zh": [
+      {
+        "key": "6881603491",
+        "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕",
+        "summary": "陕西省青少年体育俱乐部拳击联赛总决赛落幕 Sohu",
+        "lang": "zh",
+        "sport": "combat",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 4.86,
+        "kun_khmer": false,
+        "needs_source": false,
+        "published": "2026-11-23T15:03:00+00:00",
+        "refs": [
+          {
+            "source": "Sohu",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFXRlZTeTNsQUVNc0JvZk1IMEVsbmktd0Q0WDYtaldwOUI1SlloVUc1OWlIQVRxaVBCZ1lOSExzT0dLVFl3LXpKR01VVlBxZkZqRU83Y3A1OVpPZUcybUhRUzY4Q2pjUE95STZHT0U3Y0RNNWJrUVRhcDhNX0todmZDc1VMLUlGcHpjag?oc=5",
+            "title": "陕西省青少年体育俱乐部拳击联赛总决赛落幕"
+          },
+          {
+            "source": "新浪财经",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVpjVlhKMWcwRVBqbWNyY0FOQXA5S3VBWmJBdWJ6bm9xelp0SFhNT09BN1d5bmp5V2NGeF9wT2hSclNKUW5SSFdFOHQtSUFYSWxXQmZaM3VsTW1IQXJDQ2RPN3dZQ0NXbnNFTllVYUhSZXNfbGZ3eFNsVEktUEg5T05QakNvbGc?oc=5",
+            "title": "陕西青少年俱乐部拳击赛事首次新增标准化综合测评 创新青少年拳击人才考评体系"
+          }
+        ],
+        "first_seen": "2026-11-24T09:32:03+00:00"
+      }
+    ],
     "ru": [
       {
         "key": "cec0574347",
@@ -4931,8 +4986,8 @@
         "lang": "ru",
         "sport": "combat",
         "outlets": 3,
-        "growth": 0,
-        "heat": 9.3,
+        "growth": -3,
+        "heat": 9.29,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-24T09:00:00+00:00",
@@ -4963,7 +5018,7 @@
         "sport": "combat",
         "outlets": 3,
         "growth": 0,
-        "heat": 9.12,
+        "heat": 9.11,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-24T07:14:31+00:00",
@@ -4994,7 +5049,7 @@
         "sport": "combat",
         "outlets": 3,
         "growth": 0,
-        "heat": 8.65,
+        "heat": 8.64,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-24T08:31:35+00:00",
@@ -5025,7 +5080,7 @@
         "sport": "combat",
         "outlets": 3,
         "growth": 0,
-        "heat": 7.94,
+        "heat": 7.93,
         "kun_khmer": false,
         "needs_source": false,
         "published": "2026-11-23T19:43:34+00:00",

@@ -1,38 +1,40 @@
-2026-11-24 09:31:50,317 INFO BBC Sport                         45 items
-2026-11-24 09:31:50,455 INFO The Guardian Sport                26 items
-2026-11-24 09:31:50,541 INFO ESPN                               0 items
-2026-11-24 09:31:50,712 INFO Sky Sports                        20 items
-2026-11-24 09:31:51,057 INFO Google News – Sports (EN)         61 items
-2026-11-24 09:31:51,560 INFO Google News – 体育 (ZH)             62 items
-2026-11-24 09:31:51,852 INFO Google News – Спорт (RU)          41 items
-2026-11-24 09:31:52,773 INFO Championat                        30 items
-2026-11-24 09:31:53,465 INFO Sports.ru                         20 items
-2026-11-24 09:31:55,080 INFO Спорт-Экспресс                   369 items
-2026-11-24 09:31:55,958 INFO РИА Новости Спорт                 20 items
-2026-11-24 09:31:56,451 INFO 中国新闻网 体育                          25 items
-2026-11-24 09:31:56,741 INFO Google News – Cambodia sport       9 items
-2026-11-24 09:31:57,127 INFO Google News – Southeast Asia sport  31 items
-2026-11-24 09:31:57,705 INFO Google News – Combat promotions   99 items
-2026-11-24 09:31:57,999 INFO Google News – Boxing              24 items
-2026-11-24 09:31:58,246 INFO Google News – Kun Khmer            1 items
-2026-11-24 09:31:58,425 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 09:31:58,914 INFO Google News – Единоборства (RU)  100 items
-2026-11-24 09:31:59,250 INFO Google News – 格斗 (ZH)             28 items
-2026-11-24 09:31:59,465 INFO MMA Fighting                      10 items
-2026-11-24 09:31:59,672 INFO Google News – Khmer Times sport    6 items
-2026-11-24 09:32:00,678 INFO Candidate stories after clustering: 934
-2026-11-24 09:32:02,965 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 09:32:02,966 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 09:32:03,869 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
-2026-11-24 09:32:04,055 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 09:32:06,329 INFO Talking points sent to Telegram (5 stories)
-2026-11-24 09:32:06,329 INFO   1. [ru 7 outlets, heat 15.7] Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили
-2026-11-24 09:32:06,329 INFO   2. [ru 6 outlets, heat 15.3] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
-2026-11-24 09:32:06,329 INFO   3. [ru 4 outlets, heat 10.5] Капризов побил рекорд "Миннесоты" по продолжительности результативной серии
-2026-11-24 09:32:06,329 INFO   4. [en 3 outlets, heat 8.8] Football: Seasoned Hodak takes charge of Harimau Malaya, Cheng Hoe stays on as director
-2026-11-24 09:32:06,329 INFO   5. [en 3 outlets, heat 8.7] Janelt scores stunner as Brentford beat 10-man Everton
-2026-11-24 09:32:06,329 INFO   C1. [ru 4 outlets, heat 11.5] Магомед Зайнуков проведет бой в UFC 16 января
-2026-11-24 09:32:06,329 INFO   C2. [ru 3 outlets, heat 9.3] Томпсон: Махачев добился большего, чем Хабиб
-2026-11-24 09:32:06,329 INFO   C3. [ru 3 outlets, heat 9.3] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
-2026-11-24 09:32:06,329 INFO   C4. [ru 3 outlets, heat 9.1] Сборная Казахстана по боксу объявила состав на этап Кубка мира в Узбекистане
-2026-11-24 09:32:06,329 INFO   C5. [ru 3 outlets, heat 8.7] Экс-чемпион UFC Анкалаев принял вызов Стирлинга после нокаута над Прохазкой в Катаре
+2026-11-24 09:34:10,751 INFO BBC Sport                         45 items
+2026-11-24 09:34:11,040 INFO The Guardian Sport                26 items
+2026-11-24 09:34:11,118 INFO ESPN                               0 items
+2026-11-24 09:34:11,377 INFO Sky Sports                        20 items
+2026-11-24 09:34:11,770 INFO Google News – Sports (EN)         60 items
+2026-11-24 09:34:12,629 INFO Google News – 体育 (ZH)             63 items
+2026-11-24 09:34:13,025 INFO Google News – Спорт (RU)          42 items
+2026-11-24 09:34:14,223 INFO Championat                        30 items
+2026-11-24 09:34:14,904 INFO Sports.ru                         20 items
+2026-11-24 09:34:16,426 INFO Спорт-Экспресс                   368 items
+2026-11-24 09:34:17,400 INFO РИА Новости Спорт                 20 items
+2026-11-24 09:34:20,282 INFO 中国新闻网 体育                          26 items
+2026-11-24 09:34:20,690 INFO Google News – Cambodia sport      13 items
+2026-11-24 09:34:21,084 INFO Google News – Southeast Asia sport  31 items
+2026-11-24 09:34:21,694 INFO Google News – Combat promotions   99 items
+2026-11-24 09:34:22,029 INFO Google News – Boxing              23 items
+2026-11-24 09:34:22,291 INFO Google News – Kun Khmer            1 items
+2026-11-24 09:34:22,522 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 09:34:23,066 INFO Google News – Единоборства (RU)  100 items
+2026-11-24 09:34:23,471 INFO Google News – 格斗 (ZH)             40 items
+2026-11-24 09:34:23,717 INFO MMA Fighting                      10 items
+2026-11-24 09:34:23,990 INFO Google News – Khmer Times sport    7 items
+2026-11-24 09:34:24,873 INFO Candidate stories after clustering: 951
+2026-11-24 09:34:26,364 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 09:34:26,367 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 09:34:26,367 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 09:34:26,924 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 09:34:26,925 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 09:34:27,059 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 09:34:28,123 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
+2026-11-24 09:34:28,123 INFO   1. [ru 7 outlets, heat 15.7] Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили
+2026-11-24 09:34:28,123 INFO   2. [ru 6 outlets, heat 15.3] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
+2026-11-24 09:34:28,123 INFO   3. [ru 4 outlets, heat 10.5] Капризов побил рекорд "Миннесоты" по продолжительности результативной серии
+2026-11-24 09:34:28,123 INFO   4. [en 3 outlets, heat 8.8] Football: Seasoned Hodak takes charge of Harimau Malaya, Cheng Hoe stays on as director
+2026-11-24 09:34:28,123 INFO   5. [en 3 outlets, heat 8.7] Janelt scores stunner as Brentford beat 10-man Everton
+2026-11-24 09:34:28,123 INFO   C1. [ru 6 outlets, heat 19.8] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
+2026-11-24 09:34:28,123 INFO   C2. [ru 4 outlets, heat 11.5] Магомед Зайнуков проведет бой в UFC 16 января
+2026-11-24 09:34:28,123 INFO   C3. [en 4 outlets, heat 9.4] Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot
+2026-11-24 09:34:28,124 INFO   C4. [ru 3 outlets, heat 9.3] Томпсон: Махачев добился большего, чем Хабиб
+2026-11-24 09:34:28,124 INFO   C5. [en 3 outlets, heat 8.7] Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar
