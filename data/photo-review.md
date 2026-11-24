@@ -1,6 +1,6 @@
 # Photo review — 2026-11-24
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -17,19 +17,14 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## 📝 DRAFT · Vietnam Earn Historic First U17 World Cup Point in 3-3 Thriller Against New Zealand
 `2026-11-24-news-98e731` · 2026-11-24
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🔴 WRONG** · cover<br>Caption: **Trần Nhân Tông**<br>Asked for: Lê Trọng Đại Nhân → got page: Trần Nhân Tông<br>2023 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png)<br>AI sees: _historical drawing of a Buddhist monk holding prayer beads_<br>Why: The image is an ancient drawing of a monk, completely unrelated to modern football and the U17 World Cup match.<br>⚑ asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'<br>⚑ looks like a drawing / old portrait (Drawing)
-<br clear="left">
-
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
+**1. 🟢 OK** · cover<br>Caption: **Aspire Zone, Doha, host of the FIFA U-17 World Cup**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium at Aspire Zone in Doha at night_<br>⚑ file looks like a non-sport scene (Fireworks)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
 
-**3. 🟢 our score card**<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
+**2. 🟢 our score card**<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
 <br clear="left">
 
 ---

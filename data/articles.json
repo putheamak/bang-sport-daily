@@ -323,7 +323,7 @@
           "verdict": "ok",
           "flags": [],
           "shows": "Exterior of LDLC Arena at night with crowds entering",
-          "reason": "The image shows the exterior of LDLC Arena in Décines-Charpieu near Lyon, matching the caption.",
+          "reason": "The image shows the illuminated modern exterior of the LDLC Arena in Décines-Charpieu near Lyon.",
           "by": "ai"
         }
       }
@@ -349,7 +349,8 @@
         "area": "sources",
         "msg": "2 source(s) are homepages, not articles: https://pflmma.com, https://mmasucka.com"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Taylor Lapilus\", \"wikipedia\": \"Taylor Lapilus\"}, {\"caption\": \"Fabian Edwards\", \"wikipedia\": \"Fabian Edwards\"}]}"
   },
   {
     "id": "2026-11-24-news-98e731",
@@ -522,32 +523,6 @@
     "region": "sea",
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Emperor_Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.png",
-        "artist": "Unknown author Unknown author",
-        "license": "Public domain",
-        "license_url": "",
-        "description": "Drawing of Tran Nhan Tong in the work Truc Lam, the great painter.",
-        "width": 1200,
-        "height": 1200,
-        "year": 2023,
-        "subject": "Trần Nhân Tông",
-        "asked": "Lê Trọng Đại Nhân",
-        "page_title": "Trần Nhân Tông",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:portrait_of_emperor_tr%e1%ba%a7n_nh%c3%a2n_t%c3%b4ng.png|Trần Nhân Tông",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'",
-            "looks like a drawing / old portrait (Drawing)"
-          ],
-          "shows": "historical drawing of a Buddhist monk holding prayer beads",
-          "reason": "The image is an ancient drawing of a monk, completely unrelated to modern football and the U17 World Cup match.",
-          "by": "ai"
-        }
-      },
-      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg",
         "artist": "Rafeek Manchayil",
@@ -557,18 +532,19 @@
         "width": 1200,
         "height": 798,
         "year": 2006,
-        "subject": "Aspire Zone",
+        "subject": "Aspire Zone, Doha, host of the FIFA U-17 World Cup",
         "asked": "Aspire Zone",
         "page_title": "Aspire Zone",
+        "editor": false,
         "check": {
           "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:asian_games_doha_2006_fireworks.jpg|Aspire Zone",
+          "key": "https://commons.wikimedia.org/wiki/file:asian_games_doha_2006_fireworks.jpg|Aspire Zone, Doha, host of the FIFA U-17 World Cup",
           "verdict": "ok",
           "flags": [
             "file looks like a non-sport scene (Fireworks)"
           ],
-          "shows": "Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha",
-          "reason": "The image shows the Aspire Zone complex in Doha, matching the caption.",
+          "shows": "Aspire Tower and Khalifa International Stadium at Aspire Zone in Doha at night",
+          "reason": "The photo shows the Aspire Zone complex including the Torch tower and Khalifa Stadium in Doha.",
           "by": "ai"
         }
       },
@@ -588,9 +564,14 @@
     ],
     "standards": [
       {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2006. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
         "level": "BLOCK",
         "area": "photos",
-        "msg": "Photo 1 (cover) captioned 'Trần Nhân Tông' looks WRONG (shows historical drawing of a Buddhist monk holding prayer beads; asked for 'Lê Trọng Đại Nhân' but the photo comes from the page 'Trần Nhân Tông'; looks like a drawing / old portrait (Drawing); The image is an ancient d). Replace or remove it in photos.yaml — see data/photo-review.md"
+        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
       },
       {
         "level": "WARN",
@@ -602,7 +583,8 @@
         "area": "sources",
         "msg": "4 source(s) are homepages, not articles: https://laodong.vn, https://bongdaplus.vn, https://vov.vn"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Zone, Doha, host of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Zone\"}]}"
   },
   {
     "id": "2026-11-23-news-dbb56e",
