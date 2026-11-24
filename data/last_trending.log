@@ -1,42 +1,61 @@
-2026-11-24 10:11:32,325 INFO BBC Sport                         45 items
-2026-11-24 10:11:32,500 INFO The Guardian Sport                26 items
-2026-11-24 10:11:32,542 INFO ESPN                               0 items
-2026-11-24 10:11:32,706 INFO Sky Sports                        20 items
-2026-11-24 10:11:33,139 WARNING Feed unreadable Google News – Sports (EN): <unknown>:2:252: not well-formed (invalid token)
-2026-11-24 10:11:33,783 INFO Google News – 体育 (ZH)             63 items
-2026-11-24 10:11:34,535 INFO Google News – Спорт (RU)          43 items
-2026-11-24 10:11:35,703 INFO Championat                        30 items
-2026-11-24 10:11:36,620 INFO Sports.ru                         18 items
-2026-11-24 10:11:38,545 INFO Спорт-Экспресс                   380 items
-2026-11-24 10:11:40,437 INFO РИА Новости Спорт                 20 items
-2026-11-24 10:11:40,907 INFO 中国新闻网 体育                          27 items
-2026-11-24 10:11:41,362 INFO Google News – Cambodia sport      11 items
-2026-11-24 10:11:41,836 INFO Google News – Southeast Asia sport  30 items
-2026-11-24 10:11:42,528 INFO Google News – Combat promotions   98 items
-2026-11-24 10:11:42,989 INFO Google News – Boxing              35 items
-2026-11-24 10:11:43,229 INFO Google News – Kun Khmer            1 items
-2026-11-24 10:11:43,454 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 10:11:44,086 INFO Google News – Единоборства (RU)  100 items
-2026-11-24 10:11:44,580 INFO Google News – 格斗 (ZH)             40 items
-2026-11-24 10:11:44,732 INFO MMA Fighting                      10 items
-2026-11-24 10:11:44,962 INFO Google News – Khmer Times sport    7 items
-2026-11-24 10:11:46,013 INFO Candidate stories after clustering: 912
-2026-11-24 10:11:47,785 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
-2026-11-24 10:11:47,786 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 10:11:49,865 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
-2026-11-24 10:11:49,866 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 10:11:50,149 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
-2026-11-24 10:11:50,427 INFO Trending skipped (not our audience): Commanders upset Burrow's Bengals after last-second winner
-2026-11-24 10:11:50,489 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 10:11:50,552 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 10:11:53,268 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-24 10:11:53,269 INFO   1. [en 7 outlets, heat 15.4] Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor
-2026-11-24 10:11:53,269 INFO   2. [ru 6 outlets, heat 15.2] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
-2026-11-24 10:11:53,269 INFO   3. [ru 3 outlets, heat 9.7] Женская сборная России по футболу проведет два товарищеских матча с Тунисом
-2026-11-24 10:11:53,269 INFO   4. [ru 3 outlets, heat 8.8] ТАСС: Валиева пропустит чемпионат России в Челябинске
-2026-11-24 10:11:53,269 INFO   5. [en 3 outlets, heat 8.7] Football: Seasoned Hodak takes charge of Harimau Malaya, Cheng Hoe stays on as director
-2026-11-24 10:11:53,269 INFO   C1. [ru 6 outlets, heat 15.2] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
-2026-11-24 10:11:53,269 INFO   C2. [ru 4 outlets, heat 12.9] Магомед Зайнуков проведет бой в UFC 16 января
-2026-11-24 10:11:53,269 INFO   C3. [en 4 outlets, heat 9.3] Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot
-2026-11-24 10:11:53,269 INFO   C4. [en 3 outlets, heat 8.6] Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar
-2026-11-24 10:11:53,269 INFO   C5. [ru 3 outlets, heat 8.6] Экс-чемпион UFC Анкалаев принял вызов Стирлинга после нокаута над Прохазкой в Катаре
+2026-11-24 10:20:13,999 INFO BBC Sport                         45 items
+2026-11-24 10:20:14,172 INFO The Guardian Sport                26 items
+2026-11-24 10:20:14,250 INFO ESPN                               0 items
+2026-11-24 10:20:14,346 INFO Sky Sports                        20 items
+2026-11-24 10:20:14,666 INFO Google News – Sports (EN)         61 items
+2026-11-24 10:20:15,513 INFO Google News – 体育 (ZH)             62 items
+2026-11-24 10:20:16,417 INFO Google News – Спорт (RU)          43 items
+2026-11-24 10:20:17,394 INFO Championat                        30 items
+2026-11-24 10:20:17,993 INFO Sports.ru                         18 items
+2026-11-24 10:20:19,597 INFO Спорт-Экспресс                   384 items
+2026-11-24 10:20:20,628 INFO РИА Новости Спорт                 20 items
+2026-11-24 10:20:21,359 INFO 中国新闻网 体育                          27 items
+2026-11-24 10:20:21,725 INFO Google News – Cambodia sport       9 items
+2026-11-24 10:20:22,191 INFO Google News – Southeast Asia sport  33 items
+2026-11-24 10:20:22,875 INFO Google News – Combat promotions   99 items
+2026-11-24 10:20:23,296 INFO Google News – Boxing              23 items
+2026-11-24 10:20:23,565 INFO Google News – Kun Khmer            1 items
+2026-11-24 10:20:23,769 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 10:20:24,391 INFO Google News – Единоборства (RU)   99 items
+2026-11-24 10:20:24,772 INFO Google News – 格斗 (ZH)             28 items
+2026-11-24 10:20:24,959 INFO MMA Fighting                      10 items
+2026-11-24 10:20:25,199 INFO Google News – Khmer Times sport    7 items
+2026-11-24 10:20:25,708 INFO Google News – Tennis              81 items
+2026-11-24 10:20:26,178 INFO Google News – Basketball          95 items
+2026-11-24 10:20:26,794 INFO Google News – Motorsport          88 items
+2026-11-24 10:20:27,368 INFO Google News – Badminton, athletics, table tennis  78 items
+2026-11-24 10:20:27,937 INFO Google News – Cricket            100 items
+2026-11-24 10:20:28,444 INFO Google News – 网球与篮球 (ZH)           7 items
+2026-11-24 10:20:28,879 INFO Google News – 羽毛球与乒乓 (ZH)         60 items
+2026-11-24 10:20:29,428 INFO Google News – Теннис и баскетбол (RU) 100 items
+2026-11-24 10:20:29,903 INFO Google News – Формула-1 и биатлон (RU)  87 items
+2026-11-24 10:20:32,191 INFO Candidate stories after clustering: 1538
+2026-11-24 10:20:36,735 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 10:20:36,740 INFO Trending skipped (not our audience): Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB hi
+2026-11-24 10:20:36,740 INFO Trending skipped (politics): Медведев вновь угрожает ядерным ударом: ISW объяснил, чего добивается Кремль
+2026-11-24 10:20:36,743 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 10:20:36,743 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 10:20:41,626 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 10:20:41,631 INFO Trending skipped (not our audience): Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB hi
+2026-11-24 10:20:41,631 INFO Trending skipped (politics): Медведев вновь угрожает ядерным ударом: ISW объяснил, чего добивается Кремль
+2026-11-24 10:20:41,633 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 10:20:41,634 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 10:20:43,318 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 10:20:43,323 INFO Trending skipped (not our audience): Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB hi
+2026-11-24 10:20:43,325 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 10:20:45,004 INFO Trending skipped (not our audience): Lights Go Out in Bengals vs. Commanders, Top Photos & Videos of Rare Delay from MNF Game
+2026-11-24 10:20:45,007 INFO Trending skipped (not our audience): Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB hi
+2026-11-24 10:20:45,008 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 10:20:45,115 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 10:20:45,222 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 10:20:50,966 INFO Talking points sent to Telegram (5 stories)
+2026-11-24 10:20:50,966 INFO   1. [en 17 outlets, heat 36.8] Deposits open for 2027 Las Vegas Grand Prix tickets
+2026-11-24 10:20:50,966 INFO   2. [ru 13 outlets, heat 29.3] Мирра Андреева признана прорывом года по версии ESPN
+2026-11-24 10:20:50,967 INFO   3. [en 13 outlets, heat 26.8] Carlos Alcaraz ‘goes with the flow’ in season-end statement to clinch first ATP Finals crown
+2026-11-24 10:20:50,967 INFO   4. [ru 6 outlets, heat 15.2] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
+2026-11-24 10:20:50,967 INFO   5. [en 6 outlets, heat 14.8] Marc Marquez responds to Valentino Rossi’s silence on his 2026 MotoGP title
+2026-11-24 10:20:50,967 INFO   C1. [ru 6 outlets, heat 15.2] Этап Кубка мира по боксу в Ташкенте: сколько боксеров представят Казахстан
+2026-11-24 10:20:50,967 INFO   C2. [en 5 outlets, heat 12.4] PFL Lyon Full Fight Card Confirmed for December 19
+2026-11-24 10:20:50,967 INFO   C3. [en 4 outlets, heat 9.3] Magomed Ankalaev Accepts Navajo Stirling’s Challenge as UFC 337 Emerges as Potential Landing Spot
+2026-11-24 10:20:50,967 INFO   C4. [ru 3 outlets, heat 9.1] Магомед Зайнуков проведет бой в UFC 16 января
+2026-11-24 10:20:50,967 INFO   C5. [en 3 outlets, heat 8.6] Kevin Vallejos Gets Massive UFC Ranking Upgrade Post UFC Qatar
