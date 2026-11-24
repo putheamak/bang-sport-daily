@@ -186,6 +186,17 @@ feeds:
   - {name: "MMA Fighting", url: "https://www.mmafighting.com/rss/current.xml", lang: en}
   - {name: "Google News – Khmer Times sport", url: "https://news.google.com/rss/search?q=site:khmertimeskh.com+(sport+OR+football+OR+boxing+OR+%22Kun+Khmer%22)+when:3d&hl=en-US&gl=US&ceid=US:en", lang: en}   # direct feed is malformed XML
 
+  # 24 Nov 2026: more sports for variety on the Talking Points page (tennis, basketball, motorsport, Olympic sports, cricket)
+  - {name: "Google News – Tennis", url: "https://news.google.com/rss/search?q=%28ATP+OR+WTA+OR+%22Davis+Cup%22+OR+%22Billie+Jean+King+Cup%22+OR+%22Grand+Slam%22%29+tennis+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Basketball", url: "https://news.google.com/rss/search?q=%28NBA+OR+EuroLeague+OR+FIBA+OR+%22Basketball+Champions+League%22%29+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Motorsport", url: "https://news.google.com/rss/search?q=%28%22Formula+1%22+OR+F1+OR+MotoGP+OR+%22Grand+Prix%22%29+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Badminton, athletics, table tennis", url: "https://news.google.com/rss/search?q=%28badminton+OR+BWF+OR+%22World+Athletics%22+OR+%22table+tennis%22+OR+WTT%29+when%3A3d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – Cricket", url: "https://news.google.com/rss/search?q=%28cricket+OR+%22Test+match%22+OR+T20I+OR+ODI+OR+IPL%29+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
+  - {name: "Google News – 网球与篮球 (ZH)", url: "https://news.google.com/rss/search?q=%28%E7%BD%91%E7%90%83+OR+%E9%83%91%E9%92%A6%E6%96%87+OR+%E7%AF%AE%E7%90%83+OR+CBA+OR+NBA%29+when%3A2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
+  - {name: "Google News – 羽毛球与乒乓 (ZH)", url: "https://news.google.com/rss/search?q=%28%E7%BE%BD%E6%AF%9B%E7%90%83+OR+%E4%B9%92%E4%B9%93%E7%90%83+OR+%E7%94%B0%E5%BE%84+OR+%E6%B8%B8%E6%B3%B3%29+when%3A3d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", lang: zh}
+  - {name: "Google News – Теннис и баскетбол (RU)", url: "https://news.google.com/rss/search?q=%28%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D1%81+OR+%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB+OR+%22%D0%95%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F+%D0%BB%D0%B8%D0%B3%D0%B0%22+OR+%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2+OR+%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2+OR+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B0%29+when%3A2d&hl=ru&gl=RU&ceid=RU:ru", lang: ru}
+  - {name: "Google News – Формула-1 и биатлон (RU)", url: "https://news.google.com/rss/search?q=%28%22%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1%22+OR+%D0%B1%D0%B8%D0%B0%D1%82%D0%BB%D0%BE%D0%BD+OR+%22%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%BE%D0%B5+%D0%BA%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%22+OR+%D0%BB%D1%8B%D0%B6%D0%B8%29+when%3A2d&hl=ru&gl=RU&ceid=RU:ru", lang: ru}
+
 # ---------- Bylines: disclosed pen-name columnists ----------
 # Each story is signed by the columnist for its sport. These are PEN NAMES, not real people:
 # every article shows "Pen name · AI-assisted · edited by <author>" and links to the About page.
