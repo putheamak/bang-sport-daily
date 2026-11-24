@@ -5,7 +5,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T18:43:05+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -106,7 +106,20 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmtHVFo0c0FfMjcxYlR1Y1dsYWRPekNVSXN3T2Q2MG5tclhERXpINmhmVVFpdDJHRTNzNHVyUHNWOExnQnIxTkp1aGMtQk5PVEF5S1ExSWVlblg5QS1PeHJYMGR2eUNEaUFGX2JnUWMzWHNKNlRrYlJIbzBMTzBHTEZiUW83NklOY3lCamlGTlZGU1ZU0gGaAUFVX3lxTE5pWUttOWpCeFNpQnNrWWJxV3dEbEM2aWxkTlRqR0pNWVRIT05YS1g2dVVMb1gwNUxWQmpiV0NGOWJXYzYtVTRXQ0xtSGNjVDlISnZIOEpRRFZEYzZDVTR6NlBTLUNKNXV5ckoxdkFaaThfV2hsWXBRRlZIbThaSERvNHQ4ZzJBMDJ5VVpocGhVV1FQWDVDNmNrVHc?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T19:26:05+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T19:26:06+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T19:26:07+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -188,7 +201,8 @@
         "msg": "4 source(s) are homepages, not articles: https://www.inform.kz, https://worldboxing.org, https://kursiv.kz"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Humo Arena, Tashkent\", \"wikipedia\": \"Humo Arena\"}, {\"caption\": \"Tashkent, host city of the World Boxing Cup Finals\", \"wikipedia\": \"Tashkent\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Humo Arena, Tashkent\", \"wikipedia\": \"Humo Arena\"}, {\"caption\": \"Tashkent, host city of the World Boxing Cup Finals\", \"wikipedia\": \"Tashkent\"}]}",
+    "published_at": "2026-11-24T19:26:07+07:00"
   },
   {
     "id": "2026-11-24-news-c9ef21",
@@ -1067,7 +1081,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T15:39:14+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -1163,7 +1177,20 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yWE1haE5yQWtpZHJNVzctMHZLbHFXZC02WGdDMjFfRUtGNGN0Umt2WVEweFRZV0VDUTN0MHkzZ0xBcmluZkppaGNtM1RfQUdOU0VzX3EtandKbDdxTG5zbi1WTWZMNDJoVnRNRTBTRnJubFZmYnhQV2lyWjZFNUE?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T19:26:07+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T19:26:08+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T19:26:08+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -1224,7 +1251,8 @@
         "msg": "1 source(s) are homepages, not articles: http://www.news.cn"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Academy in Doha's Aspire Zone, home of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Academy\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Aspire Academy in Doha's Aspire Zone, home of the FIFA U-17 World Cup\", \"wikipedia\": \"Aspire Academy\"}]}",
+    "published_at": "2026-11-24T19:26:08+07:00"
   },
   {
     "id": "2026-11-24-news-928d27",

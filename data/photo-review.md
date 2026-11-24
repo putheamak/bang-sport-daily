@@ -4,26 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · China U17 Earn First World Cup Point in 21 Years After 2-2 Morocco Draw
-`2026-11-24-news-95243b` · 2026-11-24
-
-<img src="../docs/photos/card-2026-11-24-news-95243b.png" width="240" align="left" hspace="10">
-
-**1. 🟢 our score card** · cover<br>Caption: **China U-17 2 - 2 Morocco U-17 · FIFA U-17 World Cup**<br>2026 · Own work
-<br clear="left">
-
----
-
-## 📝 DRAFT · Kazakhstan Names 11 Boxers for Season-Ending World Boxing Cup Finals in Tashkent
-`2026-11-24-news-0390f5` · 2026-11-24
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/1280px-Humo_Arena_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Humo Arena, Tashkent**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Humo_Arena_2019.jpg)<br>AI sees: _Exterior of Humo Arena in Tashkent_
-<br clear="left">
-
----
-
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24
 
@@ -45,6 +25,16 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-24-news-98e731.png" width="240" align="left" hspace="10">
 
 **1. 🟢 our score card** · cover<br>Caption: **Vietnam U17 3 - 3 New Zealand U17 · FIFA U-17 World Cup**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## ✅ live · China U17 Earn First World Cup Point in 21 Years After 2-2 Morocco Draw
+`2026-11-24-news-95243b` · 2026-11-24
+
+<img src="../docs/photos/card-2026-11-24-news-95243b.png" width="240" align="left" hspace="10">
+
+**1. 🟢 our score card** · cover<br>Caption: **China U-17 2 - 2 Morocco U-17 · FIFA U-17 World Cup**<br>2026 · Own work
 <br clear="left">
 
 ---
@@ -102,6 +92,16 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/df69886f32165bfc-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev on a tennis court_
+<br clear="left">
+
+---
+
+## ✅ live · Kazakhstan Names 11 Boxers for Season-Ending World Boxing Cup Finals in Tashkent
+`2026-11-24-news-0390f5` · 2026-11-24
+
+<img src="../docs/photos/c/07fbc0dee528d262-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Humo Arena, Tashkent**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Humo_Arena_2019.jpg)<br>AI sees: _Exterior of Humo Arena in Tashkent_
 <br clear="left">
 
 ---
