@@ -1302,8 +1302,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:sergey_shishkarev_2023.jpg|Sergey Shishkarev",
           "verdict": "ok",
           "flags": [],
-          "shows": "portrait of Sergey Shishkarev in a suit",
-          "reason": "Accurately depicts Russian Handball Federation president Sergey Shishkarev, relevant to the story.",
+          "shows": "portrait of Russian Handball Federation president Sergey Shishkarev",
+          "reason": "Accurately depicts Russian businessman and Handball Federation chief Sergey Shishkarev in a formal portrait.",
           "by": "ai"
         }
       }
@@ -1319,7 +1319,8 @@
         "area": "facts",
         "msg": "Verify: The outcome of HFR talks with IHF president Hassan Moustafa concerning the proposed wild card for the 2027 World Championship"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Yevgeni Trefilov\", \"wikipedia\": \"Yevgeni Trefilov\"}]}"
   },
   {
     "id": "2026-11-23-news-b02637",

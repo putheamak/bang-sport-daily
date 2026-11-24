@@ -1,6 +1,8 @@
-2026-11-24 04:08:07,027 INFO Photo check Architektur-Drahtgewebe.jpg (English Wikipedia only, 319x359): REFUSED, licence 'CC BY-SA-3.0' (a file kept only on Wikipedia must be public domain)
-2026-11-24 04:08:07,027 WARNING No free-licence lead photo for Wikipedia article 'Aspire Tower'
-2026-11-24 04:08:07,097 INFO Match card added to 2026-11-24-news-98e731
-2026-11-24 04:08:07,098 INFO Photos for 2026-11-24-news-98e731 set from photos.yaml (1 photo(s))
-2026-11-24 04:08:07,206 INFO IndexNow: 3 page(s) waiting for the next run
-2026-11-24 04:08:07,756 INFO Website built: 76 published stories, 273 pages
+2026-11-24 04:28:54,068 INFO Photo check Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg (Wikimedia Commons, 4864x3648): REFUSED, licence 'FAL' is not a free licence
+2026-11-24 04:28:54,068 WARNING No free-licence lead photo for Wikipedia article 'Yevgeni Trefilov'
+2026-11-24 04:28:54,068 INFO Photos for 2026-11-23-news-23b075 set from photos.yaml (1 photo(s))
+2026-11-24 04:28:55,051 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 04:29:03,005 INFO Photo check 2026-11-23-news-23b075 #1 'Sergey Shishkarev': OK
+2026-11-24 04:29:04,510 INFO IndexNow: 6 page(s) submitted (HTTP 200)
+2026-11-24 04:29:05,437 INFO Website built: 77 published stories, 276 pages
+2026-11-24 04:29:05,439 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 37 ok / 0 failed (72,812 in / 78,410 out tokens) · estimated cost if billed: US$0.349

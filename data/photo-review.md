@@ -29,7 +29,7 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Sergey Shishkarev in a suit_
+**1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Russian Handball Federation president Sergey Shishkarev_
 <br clear="left">
 
 ---
