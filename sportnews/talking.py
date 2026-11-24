@@ -7,6 +7,7 @@ Share links are plain links: nothing loads from those services until a reader cl
 """
 from __future__ import annotations
 
+import re
 import urllib.parse
 from datetime import datetime, timezone
 from html import escape as E
@@ -16,7 +17,7 @@ from .common import DATA, read_json
 PAGE = "talking-points.html"
 
 T = {
-    "en": {"spot": "{s} Spotlight", "spot_note": "{n} {s} talking points right now. The spotlight moves between sports so every sport gets its turn.", "local": "Kun Khmer & Cambodia", "local_note": "Trending stories from Cambodian sport.", "other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
+    "en": {"ours": "Our story", "spot": "{s} Spotlight", "spot_note": "{n} {s} talking points right now. The spotlight moves between sports so every sport gets its turn.", "local": "Kun Khmer & Cambodia", "local_note": "Trending stories from Cambodian sport.", "other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
            "intro": "What the sports world is talking about right now, ranked by how many independent news outlets are covering it.",
            "updated": "Updated every 4 hours · last update", "combat": "Combat Watch",
            "combat_note": "MMA, boxing, kickboxing, Muay Thai and Kun Khmer. Kun Khmer is always listed.",
@@ -30,7 +31,7 @@ T = {
            "all": "All talking points", "empty": "No talking points right now. The next update is within 4 hours.",
            "box": "Talking Points", "box_note": "Most-covered stories right now", "share_on": "Share and discuss on",
            "desc": "The sport stories most covered by independent news outlets right now, updated every 4 hours."},
-    "zh": {"spot": "{s}聚焦", "spot_note": "此刻共有 {n} 个{s}热议话题。聚焦栏目在各项目之间轮换。", "local": "高棉拳与柬埔寨", "local_note": "柬埔寨体育的热议新闻。", "other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
+    "zh": {"ours": "本站报道", "spot": "{s}聚焦", "spot_note": "此刻共有 {n} 个{s}热议话题。聚焦栏目在各项目之间轮换。", "local": "高棉拳与柬埔寨", "local_note": "柬埔寨体育的热议新闻。", "other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
            "intro": "体育圈此刻在谈论什么——按报道该话题的独立新闻媒体数量排序。",
            "updated": "每 4 小时更新 · 最近更新", "combat": "格斗观察",
            "combat_note": "综合格斗、拳击、踢拳、泰拳与高棉拳。高棉拳话题始终列出。",
@@ -43,7 +44,7 @@ T = {
            "all": "查看全部热议话题", "empty": "暂无热议话题，4 小时内更新。",
            "box": "热议话题", "box_note": "此刻报道最多的体育新闻", "share_on": "分享并讨论",
            "desc": "此刻被最多独立新闻媒体报道的体育新闻，每 4 小时更新。"},
-    "ru": {"spot": "В центре внимания: {s}", "spot_note": "Сейчас {n} тем по разделу «{s}». Раздел в центре внимания меняется, чтобы каждый вид спорта получил своё место.", "local": "Кун кхмер и Камбоджа", "local_note": "Обсуждаемые новости камбоджийского спорта.", "other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
+    "ru": {"ours": "Наш материал", "spot": "В центре внимания: {s}", "spot_note": "Сейчас {n} тем по разделу «{s}». Раздел в центре внимания меняется, чтобы каждый вид спорта получил своё место.", "local": "Кун кхмер и Камбоджа", "local_note": "Обсуждаемые новости камбоджийского спорта.", "other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
            "intro": "О чём сейчас говорит спортивный мир: темы по числу независимых СМИ, которые о них пишут.",
            "updated": "Обновляется каждые 4 часа · последнее обновление", "combat": "Единоборства",
            "combat_note": "ММА, бокс, кикбоксинг, муай-тай и кун кхмер. Кун кхмер показываем всегда.",
@@ -91,6 +92,39 @@ def load() -> dict:
 
 def _stories_by_key(articles: list[dict]) -> dict:
     return {a["trending_key"]: a for a in articles if a.get("trending_key") and a.get("status") == "published"}
+
+
+_NAME = re.compile(r"\b[A-ZА-ЯЁ][\w'’-]{3,}")
+
+
+def _marks(text: str, lang: str) -> set[str]:
+    """Rough fingerprint of a headline: proper-name stems (Latin/Cyrillic), or character pairs for Chinese."""
+    if lang == "zh":
+        han = re.sub(r"[^\u4e00-\u9fff]", "", text)
+        return {han[i:i + 2] for i in range(len(han) - 1)}
+    return {w.lower()[:6] for w in _NAME.findall(text)}
+
+
+def match_story(st: dict, lang: str, recent: list[dict], by_key: dict) -> dict | None:
+    """Our published story about this talking point, if any: the story written from it (same radar key), else a
+    story from the last 4 days whose headline in this language shares the same names (2+ names; 4+ pairs in Chinese)."""
+    if st["key"] in by_key:
+        return by_key[st["key"]]
+    mine = _marks(st["title"], lang)
+    need = 4 if lang == "zh" else 2
+    best, score = None, 0
+    for a in recent:
+        h = (a.get(lang) or {}).get("headline") or ""
+        n = len(mine & _marks(h, lang))
+        if n >= need and n > score:
+            best, score = a, n
+    return best
+
+
+def _recent(articles: list[dict], days: int = 4) -> list[dict]:
+    from datetime import timedelta
+    cut = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    return [a for a in articles if a.get("status") == "published" and (a.get("published_at") or a.get("created") or "") >= cut[:10]]
 
 
 def _time(iso: str | None, lang: str) -> str:
@@ -158,17 +192,20 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
     anchor = f'tp-{st["key"]}'
     story_url = f'{base}/{lang}/{ours["slug"]}' if ours and base else ""
     page_url = f"{base}/{lang}/talking-points#{anchor}" if base else f"#{anchor}"
-    title = (ours or {}).get(lang, {}).get("headline") if ours else None
-    title = title or st["title"]
+    L = (ours or {}).get(lang) or {}
+    title = L.get("headline") or st["title"]
     refs = st.get("refs") or []
     src = ", ".join(f'<a href="{E(r["link"])}" target="_blank" rel="noopener nofollow">{E(r["source"])}</a>' for r in refs[:4])
     more = f' +{len(refs) - 4}' if len(refs) > 4 else ""
     kun = '<span class="tp-kun">Kun Khmer</span>' if st.get("kun_khmer") else ""
     sport = E(_sport_name(cfg, st.get("sport"), lang))
-    return (f'<li class="tp-item" id="{anchor}" data-sport="{E(st.get("sport") or "other")}"><span class="tp-rank">{rank}</span><div class="tp-body">'
-            f'<div class="tp-meta">{kun}<span class="tp-sport k-{E(st.get("sport") or "default")}">{sport}</span>'
+    our_tag = f'<span class="tp-ourtag">{E(s["ours"])}</span>' if ours else ""
+    head = (f'<h2><a href="{E(ours["slug"])}.html">{E(title)}</a></h2>' if ours else f"<h2>{E(title)}</h2>")
+    summary = f'<p class="tp-sum">{E(L["subheadline"])}</p>' if ours and L.get("subheadline") else ""
+    return (f'<li class="tp-item{" tp-ours" if ours else ""}" id="{anchor}" data-sport="{E(st.get("sport") or "other")}"><span class="tp-rank">{rank}</span><div class="tp-body">'
+            f'<div class="tp-meta">{our_tag}{kun}<span class="tp-sport k-{E(st.get("sport") or "default")}">{sport}</span>'
             f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["since"])} {_time(_since(st), lang)}</span></div>'
-            f'<h2>{E(title)}</h2><p class="tp-src">{E(s["sources"])}: {src}{more}</p>'
+            f'{head}{summary}<p class="tp-src">{E(s["sources"])}: {src}{more}</p>'
             f'<div class="tp-actions">{_discuss(cfg, lang, story_url or page_url, title)}'
             + (f'<a class="tp-story" href="{E(ours["slug"])}.html">{E(s["story"])}</a>' if ours else "")
             + "</div></div></li>")
@@ -176,8 +213,21 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
 
 def page_body(cfg, lang: str, data: dict, articles: list[dict], base: str) -> str:
     s = T[lang]
-    ours = _stories_by_key(articles)
+    by_key, recent = _stories_by_key(articles), _recent(articles)
     stories = (data.get("board") or {}).get(lang) or []
+    found, used = {}, set()
+    for st in stories:                                  # one card per story of ours: the best-covered talking point
+        m = match_story(st, lang, recent, by_key)
+        found[st["key"]] = m if m and m.get("id") not in used else None
+        if found[st["key"]]:
+            used.add(m.get("id"))
+    stories = sorted(stories, key=lambda st: found[st["key"]] is None)       # our own reviewed stories first
+    ours = {k: v for k, v in found.items() if v}
+    for extra in ((data.get("spotlight") or {}).get(lang) or {}).get("items", []) + ((data.get("local") or {}).get(lang) or []):
+        m = match_story(extra, lang, recent, by_key)
+        if m and m.get("id") not in used:
+            used.add(m.get("id"))
+            ours[extra["key"]] = m
     items = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(stories, 1))
     spot = (data.get("spotlight") or {}).get(lang) or {}
     local = (data.get("local") or {}).get(lang) or []

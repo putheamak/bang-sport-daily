@@ -56,6 +56,8 @@ def detect_sport(text: str, sports: dict) -> str | None:
     if "combat" in sports and COMBAT_RX.search(text or ""):
         return "combat"
     text = NOT_SPORT_RX.sub(" ", (text or "")).lower()
+    if "olympic" in sports and re.search(r"table tennis|乒乓|настольн\w* теннис|\bwtt\b", text):
+        return "olympic"                                    # table tennis is not tennis
     best, hits = None, 0
     for name, spec in sports.items():
         n = sum(1 for k in spec.get("keywords", []) if _hit(k, text))

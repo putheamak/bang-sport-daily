@@ -1334,3 +1334,15 @@ def test_spotlight_rotates_between_sports():
     assert h == ["football", "combat", "tennis", "football", "combat"]
     assert pick_spotlight({"football": 9}, ["football", "football"]) == "football"   # alone in the news: keeps it
     assert pick_spotlight({"other": 5, "tennis": 1}, []) is None
+
+
+def test_talking_points_never_ads_or_indexed():
+    from sportnews.talking import match_story
+    st = {"key": "k1", "title": "Carlos Alcaraz beats Alexander Zverev in Turin final"}
+    a = {"status": "published", "en": {"headline": "Carlos Alcaraz Defeats Alexander Zverev in Turin"}}
+    b = {"status": "published", "en": {"headline": "Zverev to rest in December"}}
+    assert match_story(st, "en", [b, a], {}) is a
+    assert match_story({"key": "k2", "title": "Manchester United sack manager"}, "en", [a, b], {}) is None
+    import sportnews.site as site
+    cfg = {"site": {"adsense_client": "ca-pub-1", "name": "B"}}
+    assert "talking" in site.NO_ADS

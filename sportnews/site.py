@@ -316,7 +316,9 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
     # max-image-preview:large lets Google Discover show our 1200px+ cover photos as large cards
     robots = ('\n<meta name="robots" content="noindex,follow">' if noindex
               else '\n<meta name="robots" content="max-image-preview:large">')
-    ads_id = cfg["site"].get("adsense_client") or ""
+    # No Google ads on pages that are mostly other outlets' headlines (AdSense "replicated content" policy):
+    # the Talking Points pages never load the ad code. See COMPLIANCE.md.
+    ads_id = "" if active in NO_ADS else (cfg["site"].get("adsense_client") or "")
     adsense = (f'\n<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(ads_id)}" crossorigin="anonymous"></script>'
                if ads_id else "")
     switch = "".join(f'<a href="../{p}" class="{"on" if l == lang else ""}" hreflang="{HTML_LANG[l]}">{LANG_LABEL[l]}</a>'
@@ -647,13 +649,16 @@ def _tp_box(cfg, lang) -> str:
     return box + SCRIPT if box else ""
 
 
+NO_ADS = {"talking"}
+
+
 def _talking_page(cfg, lang, data, articles) -> str:
     from .talking import page_body, T as TP_T
     alternates = {l: f"{l}/talking-points.html" for l in LANGS}
     body = page_body(cfg, lang, data, articles, _base(cfg))
     s = TP_T[lang]
     return _page(cfg, lang, f'{s["title"]} — {_site_name(cfg, lang)}', s["desc"], body, alternates,
-                 f"{lang}/talking-points.html", active="talking", noindex=not (data.get("board") or {}).get(lang))
+                 f"{lang}/talking-points.html", active="talking", noindex=True)   # not indexed: see COMPLIANCE.md
 
 
 def _section_page(cfg, lang, key, items, wire):
@@ -860,8 +865,6 @@ def build_site(cfg: dict) -> None:
                 if sec_items:
                     urls.append(f"{lang}/{section_file(k)}")
         (d / "talking-points.html").write_text(_talking_page(cfg, lang, _TP["data"], all_articles), encoding="utf-8")
-        if (_TP["data"].get("board") or {}).get(lang):
-            urls.append(f"{lang}/talking-points.html")
         (d / "feed.xml").write_text(_rss(cfg, lang, items), encoding="utf-8")
         (d / "about.html").write_text(_about_page(cfg, lang), encoding="utf-8")
         urls.append(f"{lang}/about.html")

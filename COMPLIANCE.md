@@ -91,3 +91,20 @@ Quality matters more than quantity.
 - **Getty Images embeds** (`code:` in `photos.yaml`): free for editorial (news) use inside Getty's own viewer only; Getty may show ads in the viewer, track viewers and remove a photo at any time. Never download, screenshot or crop a Getty photo, and never use it as the cover. Click-to-load like the posts below.
 - **Official Instagram/Facebook posts** (`embeds:` in `photos.yaml`, use the post's "Copy link"): the picture stays on the club's account and is credited to it. It is never the cover photo and is never copied to our site.
 - **Click-to-load until AdSense (editor's decision, 21 Nov 2026).** Embedded posts load only when the reader clicks "Show the post", because Meta sets cookies when a post loads and the privacy policy says the site uses no cookies. **When AdSense goes live:** add a Google-certified consent tool (CMP) for EEA/UK/Switzerland visitors, update the privacy policy (cookies: AdSense + Meta embeds), and only then let embedded posts load automatically for visitors who consent. Until then, keep click-to-load.
+
+## Talking Points pages (added 24 Nov 2026)
+
+The Talking Points page (`/en|zh|ru/talking-points.html`) and the home-page box are built automatically from other
+outlets' headlines, with links. To stay within Google's rules:
+
+- **No ads, ever, on the Talking Points pages.** AdSense does not allow ads on "replicated content": content copied
+  from other sites, or automatically generated, without added value or manual review. `site.NO_ADS` keeps the
+  AdSense code off these pages even after `adsense_client` is set.
+- **Not indexed** (`noindex,follow`) and not in the sitemap, so Google does not judge the site by an automatic list
+  (spam policies: scraped / combined RSS content). Google still follows its links to our own stories.
+- **Only headlines and links** are shown, never article text. Betting and tipster sites are never counted or linked.
+- **Our own value:** talking points we have covered show an "Our story" card (our headline, our reviewed summary,
+  a link) and are listed first. When most top items carry our own stories, indexing can be reconsidered — ads stay off.
+- **Share buttons are plain links** (Facebook, WhatsApp, X, Telegram, VK, Weibo): no third-party scripts or cookies.
+- **Google News RSS:** several feeds are Google News searches. Check Google's terms for commercial use of those
+  feeds before monetising; the direct publisher feeds are the safer source.
