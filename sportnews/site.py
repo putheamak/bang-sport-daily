@@ -322,7 +322,9 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
     switch = "".join(f'<a href="../{p}" class="{"on" if l == lang else ""}" hreflang="{HTML_LANG[l]}">{LANG_LABEL[l]}</a>'
                      for l, p in alternates.items())
     tg = cfg["site"].get(f"telegram_{lang}") or ""
-    nav = f'<a href="index.html" class="{"on" if active == "home" else ""}">{UI2[lang]["home"]}</a>' + "".join(
+    from .talking import T as TP_T
+    nav = (f'<a href="index.html" class="{"on" if active == "home" else ""}">{UI2[lang]["home"]}</a>'
+           f'<a href="talking-points.html" class="tp-nav {"on" if active == "talking" else ""}">{TP_T[lang]["nav"]}</a>') + "".join(
         f'<a href="{section_file(k)}" class="k-{k} {"on" if active == k else ""}">{E(section_name(cfg, k, lang))}</a>'
         for k in NAV_ORDER if k in (cfg.get("columnists") or {}))
     tick = ""
@@ -406,8 +408,8 @@ def _fresh_wire(items: list, max_hours: int = 48) -> list:
     return out
 
 
-def _rail(cfg, lang, wire, latest=None) -> str:
-    parts = []
+def _rail(cfg, lang, wire, latest=None, tp: str = "") -> str:
+    parts = [tp] if tp else []
     if latest:
         parts.append(f'<section class="box"><h4 class="boxh">{UI2[lang]["latest_side"]}</h4><ol class="latest">'
                      + "".join(f'<li><a href="{a["slug"]}.html">{_kicker(cfg, a, lang)}<span>{E(a[lang]["headline"])}</span></a></li>' for a in latest)
@@ -629,11 +631,29 @@ def _home_page(cfg, lang, items, wire):
     {f'<section class="sec first"><h2 class="sech"><span>{UI2[lang]["top"]}</span></h2><div class="grid g3">{"".join(_card(cfg, a, lang) for a in top)}</div></section>' if top else ''}
     {secs}
   </div>
-  {_rail(cfg, lang, wire)}
+  {_rail(cfg, lang, wire, tp=_tp_box(cfg, lang))}
 </div>
 {feat}"""
     return _page(cfg, lang, f"{_site_name(cfg, lang)} — {_tagline(cfg, lang)}", _tagline(cfg, lang), body, alternates,
                  f"{lang}/index.html", ticker=items, og_image=(lead.get("images") or [{}])[0].get("url", ""), active="home")
+
+
+_TP: dict = {}
+
+
+def _tp_box(cfg, lang) -> str:
+    from .talking import home_box, SCRIPT
+    box = home_box(cfg, lang, _TP.get("data") or {}, _TP.get("articles") or [])
+    return box + SCRIPT if box else ""
+
+
+def _talking_page(cfg, lang, data, articles) -> str:
+    from .talking import page_body, T as TP_T
+    alternates = {l: f"{l}/talking-points.html" for l in LANGS}
+    body = page_body(cfg, lang, data, articles, _base(cfg))
+    s = TP_T[lang]
+    return _page(cfg, lang, f'{s["title"]} — {_site_name(cfg, lang)}', s["desc"], body, alternates,
+                 f"{lang}/talking-points.html", active="talking", noindex=not (data.get("board") or {}).get(lang))
 
 
 def _section_page(cfg, lang, key, items, wire):
@@ -811,6 +831,8 @@ def build_site(cfg: dict) -> None:
     except Exception as e:  # noqa: BLE001
         log.warning("Photo copies skipped: %s", str(e)[:200])
     pub.sort(key=lambda a: a.get("published_at") or a["created"], reverse=True)
+    from .talking import load as tp_load
+    _TP.update(data=tp_load(), articles=all_articles)
     urls = []
     for lang in LANGS:
         d = DOCS / lang
@@ -837,6 +859,9 @@ def build_site(cfg: dict) -> None:
                 (d / section_file(k)).write_text(_section_page(cfg, lang, k, sec_items[:60], wire), encoding="utf-8")
                 if sec_items:
                     urls.append(f"{lang}/{section_file(k)}")
+        (d / "talking-points.html").write_text(_talking_page(cfg, lang, _TP["data"], all_articles), encoding="utf-8")
+        if (_TP["data"].get("board") or {}).get(lang):
+            urls.append(f"{lang}/talking-points.html")
         (d / "feed.xml").write_text(_rss(cfg, lang, items), encoding="utf-8")
         (d / "about.html").write_text(_about_page(cfg, lang), encoding="utf-8")
         urls.append(f"{lang}/about.html")

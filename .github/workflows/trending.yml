@@ -12,7 +12,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: trending
+  group: sportnews
   cancel-in-progress: false
 
 jobs:
@@ -31,11 +31,13 @@ jobs:
           TELEGRAM_REVIEW_CHAT: ${{ secrets.TELEGRAM_REVIEW_CHAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m sportnews trending
+      - name: Update the Talking Points pages on the website
+        run: python -m sportnews site
       - name: Save
         run: |
           git config user.name  "sportnews-bot"
           git config user.email "sportnews-bot@users.noreply.github.com"
-          git add data/trending.json data/trending.md data/last_trending.log
+          git add data/trending.json data/trending.md data/last_trending.log docs data/photo-review.md
           git diff --cached --quiet || git commit -m "Trending radar"
           git pull --rebase --autostash || true
           git push

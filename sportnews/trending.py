@@ -58,7 +58,8 @@ def _same(a: dict, b: dict, rare) -> bool:
 
 
 NOT_COMBAT = re.compile(r"(\bNBA\b|basketball|篮球|篮板|火箭|勇士|湖人|баскетбол|\bНБА\b)", re.I)   # a punch in an NBA game
-BET_SOURCE = re.compile(r"(stavk|prognoz|ставк|прогноз|букмек|betting|sportsbook|odds)", re.I)
+BET_SOURCE = re.compile(r"(stavk|prognoz|ставк|прогноз|букмек|betting|sportsbook|odds|legalbet|bookmaker|tipster|"
+                        r"1xbet|fonbet|winline|olimpbet|betcity|pari\.ru|liga ?stavok|bet365|betway|oddschecker)", re.I)
 COMBAT_PREVIEW = (r"(face-?off|weigh-?in|press conference|presser|warning|predict|preview|odds|what time|how to watch|"
                   r"ahead of|in the lead-?up|build-?up|в преддверии|накануне|"
                   r"live fight coverage|live coverage|live updates|live blog|live results|^live\b|midnight mania|"
@@ -80,7 +81,7 @@ def _group(items: list[dict]) -> list[dict]:
             groups.append(g)
         g["kun"] = g.get("kun") or bool(it.get("kun"))
         for r in refs:
-            if BET_SOURCE.search(r.get("source", "")):        # betting sites are never a source
+            if BET_SOURCE.search(r.get("source", "")) or BET_SOURCE.search(r.get("link", "").split("/")[2] if "//" in r.get("link", "") else ""):        # betting sites are never a source
                 continue
             k = _src_key(r.get("source", ""))
             if k not in g["outlets"]:
@@ -99,7 +100,8 @@ def _blocked(text: str) -> str | None:
     return None
 
 
-def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -> list[dict]:
+def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5,
+         max_lang: int | None = None, max_sport: int = 2) -> list[dict]:
     """Top stories by outlet count + growth since the last scan + freshness. At least 2 outlets each."""
     tcfg = cfg.get("trending") or {}
     prev_n = {s["key"]: s["outlets"] for s in (prev or {}).get("stories", [])}
@@ -132,7 +134,7 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
     picked, per_lang, per_sport = [], {}, {}
     for s in out:
         sp = s["sport"] or "other"
-        if per_lang.get(s["lang"], 0) >= tcfg.get("max_per_language", 3) or (s["sport"] and per_sport.get(sp, 0) >= 2):
+        if per_lang.get(s["lang"], 0) >= (max_lang or tcfg.get("max_per_language", 3)) or (s["sport"] and per_sport.get(sp, 0) >= max_sport):
             continue
         picked.append(s)
         per_lang[s["lang"]] = per_lang.get(s["lang"], 0) + 1
@@ -143,7 +145,7 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5) -
 
 
 
-def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[dict]:
+def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None, top: int | None = None) -> list[dict]:
     """Combat watch: the top combat-sport stories (MMA, kickboxing, Muay Thai, Kun Khmer, boxing, bare-knuckle).
     Kun Khmer stories are always listed, even with one outlet (marked: needs a 2nd source before writing)."""
     from .collect import COMBAT_RX
@@ -182,7 +184,7 @@ def rank_combat(cfg: dict, items: list[dict], prev: dict | None = None) -> list[
                     "sport": "combat", "outlets": n, "growth": growth, "heat": heat, "kun_khmer": kun,
                     "needs_source": n < need, "published": it.get("published"), "refs": g["refs"][:8]})
     out.sort(key=lambda s: -s["heat"])
-    return out[:cw.get("top", 5)]
+    return out[:top or cw.get("top", 5)]
 
 SKIP = (r"\b(NFL|NCAA|college football|fantasy|Super Bowl|quarterback|touchdown|MLB|NHL trade|waiver wire|"
         r"school|schools|schoolboys|grassroots|amateur|8U|U8|U10|U12|7s|"
@@ -229,6 +231,26 @@ def save_md(data: dict) -> None:
     (DATA / "trending.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 
+BOARD_LANGS = ("en", "zh", "ru")
+
+
+def public_board(cfg: dict, items: list[dict], prev: dict | None = None) -> tuple[dict, dict]:
+    """The website's Talking Points page, one list per language edition: up to 10 stories from outlets in that
+    language (at most 3 per sport) and up to 6 combat stories. Kun Khmer stories from any language are always
+    added to every edition's combat list. No AI; same grouping and outlet counting as the editor's list."""
+    tp = cfg.get("talking_points") or {}
+    n_top, n_combat = tp.get("top", 10), tp.get("combat", 6)
+    board, board_combat = {}, {}
+    kun_all = [s for s in rank_combat(cfg, items, prev, top=50) if s.get("kun_khmer")]
+    for lang in BOARD_LANGS:
+        mine = [it for it in items if it.get("lang") == lang]
+        board[lang] = rank(cfg, mine, prev, n_top, max_lang=n_top, max_sport=tp.get("max_per_sport", 3))
+        combat = [s for s in rank_combat(cfg, mine, prev, top=n_combat) if not s.get("kun_khmer")]
+        kun = [s for s in kun_all if s["key"] not in {c["key"] for c in combat}]
+        board_combat[lang] = (kun[:2] + combat)[:n_combat]
+    return board, board_combat
+
+
 def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dict:
     from .collect import collect
     from .publishers import telegram_send
@@ -240,6 +262,13 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
     now = datetime.now(timezone.utc)
     data.update(updated=now.isoformat(timespec="seconds"), stories=stories, combat=combat)
     known = data.setdefault("known", {})
+    seen = data.setdefault("first_seen", {})           # when each talking point first appeared (for "trending for 5h")
+    board, board_combat = public_board(cfg, items, data)
+    for st in stories + combat + [s for v in list(board.values()) + list(board_combat.values()) for s in v]:
+        st["first_seen"] = seen.setdefault(st["key"], now.isoformat(timespec="seconds"))
+    for k in list(seen)[:-300]:
+        seen.pop(k, None)
+    data.update(board=board, board_combat=board_combat)
     for st in stories + combat:
         known[st["key"]] = st
     for k in list(known)[:-80]:                          # keep the newest 80

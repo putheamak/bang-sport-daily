@@ -1310,3 +1310,17 @@ def test_parse_embed_x_post():
                              '<a href="https://x.com/K1_ReBoot/status/2124823613643858283?ref_src=twsrc%5Etfw">Nov</a>'})
     assert e["platform"] == "X" and e["url"] == "https://x.com/K1_ReBoot/status/2124823613643858283"
     assert "dnt=true" in e["src"] and e["account"] == "@K1_ReBoot"
+
+
+def test_talking_points_labels_and_box():
+    from sportnews.talking import label, home_box, page_body
+    assert label(7, "en")[0] == "tp-wide" and label(3, "en")[0] == "tp-conf" and label(1, "en")[0] == "tp-unconf"
+    st = {"key": "abc", "title": "A & B", "outlets": 3, "sport": "football", "refs": [{"source": "X", "link": "https://x.y/1"}],
+          "first_seen": "2026-11-24T05:00:00+00:00"}
+    data = {"updated": "2026-11-24T06:00:00+00:00", "board": {"en": [st]}, "board_combat": {"en": []}}
+    box = home_box({}, "en", data, [])
+    assert "A &amp; B" in box and "talking-points.html#tp-abc" in box
+    body = page_body({}, "en", data, [{"trending_key": "abc", "status": "published", "slug": "a-b", "en": {"headline": "Our A"}}],
+                     "https://example.com")
+    assert "Our A" in body and "facebook.com/sharer" in body and 'href="a-b.html"' in body
+    assert home_box({}, "en", {"board": {}}, []) == ""
