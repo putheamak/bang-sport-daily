@@ -5,7 +5,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T11:45:24+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "combat",
     "tags": [],
@@ -41,7 +41,20 @@
         "url": "https://www.k-1.world/archives/2125"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-24T12:22:47+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-24T12:22:48+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-24T12:22:48+07:00"
+      }
+    ],
     "en": {
       "headline": "Kun Khmer champion Chhut Serey Vannthong outpoints Riki at K-1 Revenge II in Tokyo",
       "subheadline": "The Cambodian won all three scorecards at Korakuen Hall, the latest Kun Khmer fighter to make his mark in K-1's super-featherweight division",
@@ -108,6 +121,19 @@
           "reason": "The image clearly shows Korakuen Hall's building entrance and signs in Japanese.",
           "by": "ai"
         }
+      },
+      {
+        "url": "../photos/card-2026-11-24-news-928d27.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Chhut Serey Vannthong def. Riki · Unanimous decision (30-27, 30-28, 30-28) · Round 3 · K-1 Revenge II · Korakuen Hall, Tokyo",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [],
@@ -134,7 +160,8 @@
         "account": "K-1 Worldwide (@K1_ReBoot)",
         "height": 720
       }
-    ]
+    ],
+    "published_at": "2026-11-24T12:22:48+07:00"
   },
   {
     "id": "2026-11-24-hist-ea6294",
