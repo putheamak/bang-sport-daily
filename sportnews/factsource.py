@@ -65,6 +65,12 @@ def wiki_extract(title: str, chars: int = 7000) -> tuple[str, str]:
         return "", ""
 
 
+# Sports our readers (Asia, China, Russia) don't follow: never chosen for an "On this day" story (24 Nov 2026:
+# a 1906 American football story was written twice in one day).
+OFF_AUDIENCE = re.compile(r"American football|gridiron football|National Football League|\bNFL\b|Super Bowl|"
+                          r"college football|Ohio League|Canton Bulldogs|Massillon Tigers|Canadian football|Grey Cup", re.I)
+
+
 def on_this_day(month_day: str, focus: str = "global") -> dict | None:
     """Best sport event for this calendar date from Wikipedia's 'On this day' feed.
     Prefers the region behind its target; skips tragedies (an 'on this day' feature should not turn
@@ -82,7 +88,7 @@ def on_this_day(month_day: str, focus: str = "global") -> dict | None:
             pages = ev.get("pages") or []
             blob = ev.get("text", "") + " " + " ".join((p.get("description") or "") + " " + (p.get("extract") or "")[:300]
                                                      for p in pages)
-            if not _is_sport_event(ev):
+            if not _is_sport_event(ev) or OFF_AUDIENCE.search(blob):
                 continue
             region = classify(blob)
             score = 2 if region == focus and focus != "global" else 0

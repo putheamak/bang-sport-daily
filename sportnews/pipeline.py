@@ -273,8 +273,8 @@ def run_daily(publish_now: bool | None = None, once: bool = False) -> list[dict]
         from datetime import date as _D
         even = _D.fromisoformat(date).toordinal() % 2 == 0
         do_history, do_athlete = (do_history and even), (do_athlete and not even)
-    done_hist = [a for a in load_articles() if a.get("type") == "history" and a.get("status") != "rejected"
-                 and a.get("date") == date]
+    # a rejected history story also counts: the same day's event would only be written again
+    done_hist = [a for a in load_articles() if a.get("type") == "history" and a.get("date") == date]
     if do_history and done_hist:
         log.info("History story for %s already written (%s): not repeated", date, done_hist[0]["id"])
     if do_history and not done_hist and "skip: history" not in memo:
