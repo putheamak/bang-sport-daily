@@ -1,8 +1,53 @@
 # Photo review — 2026-11-24
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · China U17 Earn First World Cup Point in 21 Years After 2-2 Morocco Draw
+`2026-11-24-news-95243b` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Satoshi_Yamaguchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Satoshi Yamaguchi (footballer, born 1978)**<br>Asked for: Satoshi Ukishima → got page: Satoshi Yamaguchi (footballer, born 1978)<br>2011 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Satoshi_Yamaguchi.jpg)<br>AI sees: _footballer Satoshi Yamaguchi playing for Gamba Osaka_<br>Why: The story features coach Satoshi Ukishima, but the photo shows a different person, footballer Satoshi Yamaguchi.<br>⚑ asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg/1280px-Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🔴 WRONG**<br>Caption: **Sifan Hassan**<br>Asked for: He Sifan → got page: Sifan Hassan<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sifan_Hassan_2023_Chicago_Marathon_(cropped).jpg)<br>AI sees: _marathon runner Sifan Hassan competing in the 2023 Chicago Marathon_<br>Why: The story is about Chinese youth football player He Sifan, not Dutch distance runner Sifan Hassan.<br>⚑ asked for 'He Sifan' but the photo comes from the page 'Sifan Hassan'
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-24-news-95243b.png" width="240" align="left" hspace="10">
+
+**3. 🟢 our score card**<br>Caption: **China U-17 2 - 2 Morocco U-17 · FIFA U-17 World Cup**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Russian Boxing Federation Voted In as Full World Boxing Member in Panama
+`2026-11-24-news-4177ff` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Gennady_Golovkin_%28KAZ%29_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Gennady Golovkin**<br>2017 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Gennady_Golovkin_(KAZ)_2017.png)<br>AI sees: _boxer Gennady Golovkin in a suit_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · How the 1906 Canton-Massillon Rematch Sparked Pro Football's First Match-Fixing Scandal
+`2026-11-24-hist-a02660` · 2026-11-24
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/1909_Peggy_Parratt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Peggy Parratt**<br>2024 · Public domain · [source](https://commons.wikimedia.org/wiki/File:1909_Peggy_Parratt.jpg)<br>AI sees: _vintage portrait of football player and coach Peggy Parratt_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-24-hist-a02660.png" width="240" align="left" hspace="10">
+
+**2. 🟢 our score card**<br>Caption: **Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League Championship**<br>2026 · Own work
+<br clear="left">
+
+---
 
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
 `2026-11-24-news-f01fca` · 2026-11-24

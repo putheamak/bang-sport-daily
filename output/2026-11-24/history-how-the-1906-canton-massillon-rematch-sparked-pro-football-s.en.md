@@ -1,0 +1,45 @@
+# How the 1906 Canton-Massillon Rematch Sparked Pro Football's First Match-Fixing Scandal
+
+*On November 24, 1906, the Massillon Tigers beat the Canton Bulldogs 13–6, unleashing bribery allegations that halted Ohio pro football for years.*
+
+**On this day** · 2026-11-24
+
+On Saturday, November 24, 1906, the Massillon Tigers defeated the Canton Bulldogs 13–6 in Massillon, Ohio, to capture the Ohio League championship, but the victory immediately unraveled into the first match-fixing scandal in American professional football history. Eight days after Canton had taken the first leg of their two-game series 10–5 at Mahaffey Park, the rematch at Massillon's grounds ended with allegations that players and coaches had conspired to manipulate the results for gambling profits and box-office gates.
+
+## Rivalry and telegraph wires in Stark County
+Separated by 15 miles in northeastern Ohio, Massillon and Canton had spent the 1906 season assembling high-priced rosters of collegiate and independent stars. Massillon had claimed the previous three Ohio League titles from 1903 through 1905, while Canton, established under the Canton Athletic Club banner in 1904, hired former Pennsylvania player Charles Edgar "Blondy" Wallace to build a rival squad. Wallace raided Massillon's backfield before the 1906 campaign, signing Jack Hayden, Jack Lang, Herman Kerkhoff, and Clark Schrontz to Canton contracts. Massillon countered by hiring University of Chicago alumnus Sherburn Wightman as head coach, shifting former coach Ed Stewart to general manager, and signing quarterback Peggy Parratt.
+
+The two Stark County clubs scheduled a two-game set in November 1906, agreeing to split gate receipts evenly and place $3,000 performance bonds in local banks. The first game, played on Friday, November 16, drew 8,000 spectators to Mahaffey Park in Canton. The Bell Telephone Company installed telegraph equipment along the sidelines, dispatching play-by-play updates to major American cities as Canton earned a 10–5 win. Massillon's 13–6 victory on November 24 tied the season series in wins, but gave the Tigers the 1906 league crown on total points scored across the two meetings.
+
+## The bribe claims of the Massillon Independent
+The sporting result was eclipsed within days when Stewart used his position as editor of the *Massillon Independent* to publish accusations of match-fixing. Stewart alleged that Wallace and Massillon end Walter East had plotted to fix the series, proposing that Canton win the first game and Massillon win the second to manufacture demand for an immensely lucrative third game. An alternate version published by Stewart accused Wallace of offering cash bribes to Massillon players to throw the contest, using anticipated betting winnings to cover the payments.
+
+East retaliated by producing a contract for the *Akron Beacon Journal*, alleging that Massillon coach Wightman and Akron baseball executive John T. Windsor had agreed to throw the November 16 game for $4,000. Wightman denied the claim in *The Plain Dealer*, while Canton officials maintained that Massillon invented the entire conspiracy to avoid financial ruin and tarnish Canton's reputation. On the night of November 24, simmering hostility between the camps erupted into a physical brawl at Canton's Courtland Hotel bar before city police dispersed the crowd into the street.
+
+## Financial ruin and the road to Canton 1920
+Neither club produced definitive legal evidence of a fix, but the public controversy dismantled professional football across the state. Canton fulfilled its Thanksgiving Day obligation by defeating the Latrobe Athletic Association 16–0 on November 29, 1906, finishing with a 10–1 record, but spectator trust evaporated. The Bulldogs lost an estimated several thousand dollars over the 1906 campaign and ceased operations entirely, failing to field a team in 1907. Massillon played a diminished 1907 schedule before disbanding its professional roster, leaving the rivalry dormant until 1911.
+
+The collapse of the two flagship franchises stalled professional football in Ohio for nearly a decade. Stability returned only after Canton oilman Jack Cusack revived the Bulldogs and signed Olympic gold medalist Jim Thorpe in 1915 for $250 a game. Five years later, on September 17, 1920, representatives from Canton, Massillon, Akron, and seven other clubs met at Ralph Hay's Hupmobile showroom in Canton to establish the American Professional Football Association, which was later renamed the National Football League.
+
+---
+**Sources**
+
+- [Canton Bulldogs–Massillon Tigers betting scandal - Wikipedia](https://en.wikipedia.org/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal)
+- [1906 Canton Bulldogs season - Wikipedia](https://en.wikipedia.org/wiki/1906_Canton_Bulldogs_season)
+- [Walter East: Deadball Minor Leaguer and Pro Football's First Scandal - SABR](https://sabr.org/journal/article/walter-east-deadball-minor-leaguer-and-pro-footballs-first-scandal/)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Y9HnLTSQp0fm-vsZa5j8He0td5kb5XAUop107BSjGHPvdJRnMPRCW7WyECPOhbpr6T7gv46w-tz9gIgzAZCMuUbjN7WgJcntm2nlN43_EvbStfXFL0xm6oioV8UhE541XxX00IWfCtgl5fy9o-2aW1YGnUi-eHDHzpCiTrOGaAXjiJ7n-bb9z4GpuA==)
+- [ntxe-news.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvkwHZtiiRhU4gINtJlzkd9xkZtPygTK8_nh2m-KNY5MVuP1L2aFhAP96R3hPu5K5Km9YQO1giUVI3alciyTPUAnE1YeQ1by4BDogFT-JPOZgI_ZaO7vowNLnRQpkFGflH3__vPiIHin-y2GVE8peUur4)
+- [historycollection.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIJ3EDQk7LYgReayk4iGk3lMc0_Ua3AkfmiFIxoFSU6kGkKhT58QneR44QUVV10Jd9RDDXOFMcd5GcGHEb9zEYtKtWvNWdIzb5J4xw9wI5I74-sR2XEUQtNEcLoC_b6sbosfidcCCdhFQmJOPM65ITH8A5ss9RuDrZJdv568qaKHPkZDgk3UwkHHgj_Szi2P34xdml8a1yCj62psiGFh8=)
+- [fandom.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuAWn4Sa5S-rBJSBPXmmWv815Oti4uOaegidL7uu4tO_wD6k2kcluc_jFYU63oHp9ZzT_UTgqr42ZA4sbF_Ch-B0qzIo-ui3lU_16_AfYQUBkflhSY6i3kAuSrxn0YEO-PxWlZePFHxUyZQLKKqOdkvvFuTsBY)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwrqtdeE1SKZyu_iUS_47KbX014Yf-JGaJwR0F4eP2d6VeIZ9feg-m7y6koPv2u823mEE4qYMe3ta_9GkLvz2bOHWOmqkcpeROgampXWZBKnyp5SD2KCQNaJ9rrvdqd01SXmXvqA==)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiV3mrxyBJCx8OZd-lKfDHQ2RlZzh6e0TN4Q0smzfUBXryh5U5OZBFG5AAMnpWAYhbkqIlYBkOiiFn605LlRqlXzU82pS5Kn7YW-8lu425b4t28gFQFGdLY4IztwDlMHRsFolmFpNAPC3Bl5oqfF-doJWrKAwPt4uzgQbPFUnyOBRcrWXRVUwb7u6Z6g==)
+- [quora.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2AbyZEH4ze-W2gN3A9Jr6DtvwACeQeysFmBBhdmALw4q97HOvEEHJe0dmA0p8MFm92JWpnXljeg6m_fooohEpWoGt2oefK__KnIiYEB8zAawbvJsdz5OQIh57EHSQA3HRl93dYOq1P3HmOMEiK5s5jFBrX3_R8QMFYKzM0RlFHakblJWOwrjBkfAgUMdQT-l3bZggcjNpOjYMyEoaA2hvyQexeuQxj857Gg==)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5_kYmyS4ikAFcet8RJB5iuLp1Prqc-TVhukF4oDdXMv0VhkXAPfMVloTYHGws14PpVekl5zpm3w7rXHeA_mHi4bQYRMFKydfOuHHQc2UvnfinhlKKT-xF3ewewlqUtw28v-93grreOuTV5KIdGYvuT9XmqXvfXsm-xzZAZjwpQkikv-hshAay6TyVZamR)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMAl3dBv97dbUgyT0W8GVz4dynXt0oBLU9xf-SxhkbgpNJz6mxR8KPi_99Wcv3xENPud6WQOEXE1BKdaE-eTeBkgTCQOAEtoKWckje-wFVhh_sW2qAkdu8w8gtytpevcdXzlpC3pmRtakgHTIk_xfRPO5yV16x)
+- [wikipedia.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWzKUG0PewzTcn1XQfBooDQi9n_ZZ3coI4Jq7bcvmLozUQkU2wTdp8YPoYcnSTK8Wbgy0TOJ88BGhrpnixEjbgYlhRCEWMD5n4oyeGOnqojw9zrfpDGWpoND53aN4Vq2N5TUKAuCxlZVYhiNLXlsk=)
+- [sabr.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG04Fbud4DAUMM8sGiU2Oz_swdpPu7yXPIT16nw_e45_qZtpv_GUxfiEU0zPQAB8wqKK_hNQy4bZa4EFp34HVGpj6Nt5TN8gKmXB0QNITM2GE6Fqwg2UXQHrbnMI1u_rfukWmrk7C-2HO6gkivOuPRif3byP_KIeX6Q6_EK7Kl3xcoTYysoV2E60xFS76ZLNMg7fWoXOP1GQxNv)
+- [clevelandmagazine.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1fgFnT99jOEKNvp-cOW1hWsrVal2jURLBjNRXgdgTonPCyWviQG25VC-_RLVl9JgT58XqylyAe3dmdTbpHcdxUGPUM4AhtaeaPAkvSURQYwxHp9SR9g_K3QG1XldqUE20XeL9SzBU45t7wAlUSEb1GH5_7ST5A2-5qEE5ZHTpLuO)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPnBR8yb5867ozz803mcxKPGBKsq-PPvO_gCyirJdTRI_5NBg_gHSGvsAwPt0hczQezZ1H8z1wj6Gvk06dHHx3u_ib_aq6A_EESA3361389DON3amJc72D_thjXu3DbpSvCJPNjAmufUwELGO_oejLE8Ie5iPrqOM7y3PlG9eU7NY2kYTOovUXeBjk3zjQsBFUor5l)
+- [profootballhof.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuntXCs68hSKOAoSujcqVj0Cu5PGIoPYn-Ggp0Vr4vjgKO7WVdc2QjxKhkXpmxQUfmT4Id2dYMwhg6w2CKWyG8-eUKsfVnvFYlitE7YLjAbMY7VEgzE5XsQakUg5C8Voi5M2-ydS8hICT9ek36XQXQPGTCRQUBh8ThqorB6WTbxw_gRB8)
+- [funwhileitlasted.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCfTt4EumjkCp7kExl2Rd0XIXtOSgBbiw4BHc9vJLTL0YkyVki-blb0Ppv2TvVscbVmPKVwFAematKLZja5N-ss0pQ68q1PrEebHvkrJDIKbIOxPpm-FltZph_sCd5aMHWjmEv6jrMbfn1Rc5NEAP_fjIx-53ICfAwugrN5ct_5njg)
+- [Wikipedia: American football](https://en.wikipedia.org/wiki/American_football)

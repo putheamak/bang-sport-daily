@@ -1,5 +1,598 @@
 [
   {
+    "id": "2026-11-24-hist-a02660",
+    "slug": "how-the-1906-canton-massillon-rematch-sparked-pro-football-s",
+    "date": "2026-11-24",
+    "created": "2026-11-24T15:42:22+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "American football",
+    "tags": [
+      "American football",
+      "Ohio League",
+      "Canton Bulldogs",
+      "Massillon Tigers",
+      "Sports History"
+    ],
+    "athletes": [
+      "Blondy Wallace",
+      "Walter East",
+      "Peggy Parratt",
+      "Sherburn Wightman",
+      "Jim Thorpe"
+    ],
+    "image_subjects": [
+      "Canton Bulldogs",
+      "Massillon Tigers",
+      "Blondy Wallace",
+      "E. J. Stewart"
+    ],
+    "match": {
+      "competition": "Ohio League Championship",
+      "date": "24 November 1906",
+      "home": "Massillon Tigers",
+      "away": "Canton Bulldogs",
+      "home_score": 13,
+      "away_score": 6,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Massillon retained the Ohio League title before match-fixing accusations surfaced"
+    },
+    "fight": null,
+    "facts_to_verify": [
+      "Whether aggregate points across the two games was the formal rule for awarding the 1906 Ohio League title or if Massillon claimed the crown simply by winning the final game of the series."
+    ],
+    "sources": [
+      {
+        "title": "Canton Bulldogs–Massillon Tigers betting scandal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Canton_Bulldogs%E2%80%93Massillon_Tigers_betting_scandal"
+      },
+      {
+        "title": "1906 Canton Bulldogs season - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1906_Canton_Bulldogs_season"
+      },
+      {
+        "title": "Walter East: Deadball Minor Leaguer and Pro Football's First Scandal - SABR",
+        "url": "https://sabr.org/journal/article/walter-east-deadball-minor-leaguer-and-pro-footballs-first-scandal/"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Y9HnLTSQp0fm-vsZa5j8He0td5kb5XAUop107BSjGHPvdJRnMPRCW7WyECPOhbpr6T7gv46w-tz9gIgzAZCMuUbjN7WgJcntm2nlN43_EvbStfXFL0xm6oioV8UhE541XxX00IWfCtgl5fy9o-2aW1YGnUi-eHDHzpCiTrOGaAXjiJ7n-bb9z4GpuA=="
+      },
+      {
+        "title": "ntxe-news.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvkwHZtiiRhU4gINtJlzkd9xkZtPygTK8_nh2m-KNY5MVuP1L2aFhAP96R3hPu5K5Km9YQO1giUVI3alciyTPUAnE1YeQ1by4BDogFT-JPOZgI_ZaO7vowNLnRQpkFGflH3__vPiIHin-y2GVE8peUur4"
+      },
+      {
+        "title": "historycollection.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIJ3EDQk7LYgReayk4iGk3lMc0_Ua3AkfmiFIxoFSU6kGkKhT58QneR44QUVV10Jd9RDDXOFMcd5GcGHEb9zEYtKtWvNWdIzb5J4xw9wI5I74-sR2XEUQtNEcLoC_b6sbosfidcCCdhFQmJOPM65ITH8A5ss9RuDrZJdv568qaKHPkZDgk3UwkHHgj_Szi2P34xdml8a1yCj62psiGFh8="
+      },
+      {
+        "title": "fandom.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuAWn4Sa5S-rBJSBPXmmWv815Oti4uOaegidL7uu4tO_wD6k2kcluc_jFYU63oHp9ZzT_UTgqr42ZA4sbF_Ch-B0qzIo-ui3lU_16_AfYQUBkflhSY6i3kAuSrxn0YEO-PxWlZePFHxUyZQLKKqOdkvvFuTsBY"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwrqtdeE1SKZyu_iUS_47KbX014Yf-JGaJwR0F4eP2d6VeIZ9feg-m7y6koPv2u823mEE4qYMe3ta_9GkLvz2bOHWOmqkcpeROgampXWZBKnyp5SD2KCQNaJ9rrvdqd01SXmXvqA=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiV3mrxyBJCx8OZd-lKfDHQ2RlZzh6e0TN4Q0smzfUBXryh5U5OZBFG5AAMnpWAYhbkqIlYBkOiiFn605LlRqlXzU82pS5Kn7YW-8lu425b4t28gFQFGdLY4IztwDlMHRsFolmFpNAPC3Bl5oqfF-doJWrKAwPt4uzgQbPFUnyOBRcrWXRVUwb7u6Z6g=="
+      },
+      {
+        "title": "quora.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2AbyZEH4ze-W2gN3A9Jr6DtvwACeQeysFmBBhdmALw4q97HOvEEHJe0dmA0p8MFm92JWpnXljeg6m_fooohEpWoGt2oefK__KnIiYEB8zAawbvJsdz5OQIh57EHSQA3HRl93dYOq1P3HmOMEiK5s5jFBrX3_R8QMFYKzM0RlFHakblJWOwrjBkfAgUMdQT-l3bZggcjNpOjYMyEoaA2hvyQexeuQxj857Gg=="
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5_kYmyS4ikAFcet8RJB5iuLp1Prqc-TVhukF4oDdXMv0VhkXAPfMVloTYHGws14PpVekl5zpm3w7rXHeA_mHi4bQYRMFKydfOuHHQc2UvnfinhlKKT-xF3ewewlqUtw28v-93grreOuTV5KIdGYvuT9XmqXvfXsm-xzZAZjwpQkikv-hshAay6TyVZamR"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMAl3dBv97dbUgyT0W8GVz4dynXt0oBLU9xf-SxhkbgpNJz6mxR8KPi_99Wcv3xENPud6WQOEXE1BKdaE-eTeBkgTCQOAEtoKWckje-wFVhh_sW2qAkdu8w8gtytpevcdXzlpC3pmRtakgHTIk_xfRPO5yV16x"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWzKUG0PewzTcn1XQfBooDQi9n_ZZ3coI4Jq7bcvmLozUQkU2wTdp8YPoYcnSTK8Wbgy0TOJ88BGhrpnixEjbgYlhRCEWMD5n4oyeGOnqojw9zrfpDGWpoND53aN4Vq2N5TUKAuCxlZVYhiNLXlsk="
+      },
+      {
+        "title": "sabr.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG04Fbud4DAUMM8sGiU2Oz_swdpPu7yXPIT16nw_e45_qZtpv_GUxfiEU0zPQAB8wqKK_hNQy4bZa4EFp34HVGpj6Nt5TN8gKmXB0QNITM2GE6Fqwg2UXQHrbnMI1u_rfukWmrk7C-2HO6gkivOuPRif3byP_KIeX6Q6_EK7Kl3xcoTYysoV2E60xFS76ZLNMg7fWoXOP1GQxNv"
+      },
+      {
+        "title": "clevelandmagazine.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1fgFnT99jOEKNvp-cOW1hWsrVal2jURLBjNRXgdgTonPCyWviQG25VC-_RLVl9JgT58XqylyAe3dmdTbpHcdxUGPUM4AhtaeaPAkvSURQYwxHp9SR9g_K3QG1XldqUE20XeL9SzBU45t7wAlUSEb1GH5_7ST5A2-5qEE5ZHTpLuO"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPnBR8yb5867ozz803mcxKPGBKsq-PPvO_gCyirJdTRI_5NBg_gHSGvsAwPt0hczQezZ1H8z1wj6Gvk06dHHx3u_ib_aq6A_EESA3361389DON3amJc72D_thjXu3DbpSvCJPNjAmufUwELGO_oejLE8Ie5iPrqOM7y3PlG9eU7NY2kYTOovUXeBjk3zjQsBFUor5l"
+      },
+      {
+        "title": "profootballhof.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjuntXCs68hSKOAoSujcqVj0Cu5PGIoPYn-Ggp0Vr4vjgKO7WVdc2QjxKhkXpmxQUfmT4Id2dYMwhg6w2CKWyG8-eUKsfVnvFYlitE7YLjAbMY7VEgzE5XsQakUg5C8Voi5M2-ydS8hICT9ek36XQXQPGTCRQUBh8ThqorB6WTbxw_gRB8"
+      },
+      {
+        "title": "funwhileitlasted.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCfTt4EumjkCp7kExl2Rd0XIXtOSgBbiw4BHc9vJLTL0YkyVki-blb0Ppv2TvVscbVmPKVwFAematKLZja5N-ss0pQ68q1PrEebHvkrJDIKbIOxPpm-FltZph_sCd5aMHWjmEv6jrMbfn1Rc5NEAP_fjIx-53ICfAwugrN5ct_5njg"
+      },
+      {
+        "title": "Wikipedia: American football",
+        "url": "https://en.wikipedia.org/wiki/American_football"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "How the 1906 Canton-Massillon Rematch Sparked Pro Football's First Match-Fixing Scandal",
+      "seo_title": "Massillon 13-6 Canton: 1906 Football Fixing Scandal",
+      "subheadline": "On November 24, 1906, the Massillon Tigers beat the Canton Bulldogs 13–6, unleashing bribery allegations that halted Ohio pro football for years.",
+      "body_markdown": "On Saturday, November 24, 1906, the Massillon Tigers defeated the Canton Bulldogs 13–6 in Massillon, Ohio, to capture the Ohio League championship, but the victory immediately unraveled into the first match-fixing scandal in American professional football history. Eight days after Canton had taken the first leg of their two-game series 10–5 at Mahaffey Park, the rematch at Massillon's grounds ended with allegations that players and coaches had conspired to manipulate the results for gambling profits and box-office gates.\n\n## Rivalry and telegraph wires in Stark County\nSeparated by 15 miles in northeastern Ohio, Massillon and Canton had spent the 1906 season assembling high-priced rosters of collegiate and independent stars. Massillon had claimed the previous three Ohio League titles from 1903 through 1905, while Canton, established under the Canton Athletic Club banner in 1904, hired former Pennsylvania player Charles Edgar \"Blondy\" Wallace to build a rival squad. Wallace raided Massillon's backfield before the 1906 campaign, signing Jack Hayden, Jack Lang, Herman Kerkhoff, and Clark Schrontz to Canton contracts. Massillon countered by hiring University of Chicago alumnus Sherburn Wightman as head coach, shifting former coach Ed Stewart to general manager, and signing quarterback Peggy Parratt.\n\nThe two Stark County clubs scheduled a two-game set in November 1906, agreeing to split gate receipts evenly and place $3,000 performance bonds in local banks. The first game, played on Friday, November 16, drew 8,000 spectators to Mahaffey Park in Canton. The Bell Telephone Company installed telegraph equipment along the sidelines, dispatching play-by-play updates to major American cities as Canton earned a 10–5 win. Massillon's 13–6 victory on November 24 tied the season series in wins, but gave the Tigers the 1906 league crown on total points scored across the two meetings.\n\n## The bribe claims of the Massillon Independent\nThe sporting result was eclipsed within days when Stewart used his position as editor of the *Massillon Independent* to publish accusations of match-fixing. Stewart alleged that Wallace and Massillon end Walter East had plotted to fix the series, proposing that Canton win the first game and Massillon win the second to manufacture demand for an immensely lucrative third game. An alternate version published by Stewart accused Wallace of offering cash bribes to Massillon players to throw the contest, using anticipated betting winnings to cover the payments.\n\nEast retaliated by producing a contract for the *Akron Beacon Journal*, alleging that Massillon coach Wightman and Akron baseball executive John T. Windsor had agreed to throw the November 16 game for $4,000. Wightman denied the claim in *The Plain Dealer*, while Canton officials maintained that Massillon invented the entire conspiracy to avoid financial ruin and tarnish Canton's reputation. On the night of November 24, simmering hostility between the camps erupted into a physical brawl at Canton's Courtland Hotel bar before city police dispersed the crowd into the street.\n\n## Financial ruin and the road to Canton 1920\nNeither club produced definitive legal evidence of a fix, but the public controversy dismantled professional football across the state. Canton fulfilled its Thanksgiving Day obligation by defeating the Latrobe Athletic Association 16–0 on November 29, 1906, finishing with a 10–1 record, but spectator trust evaporated. The Bulldogs lost an estimated several thousand dollars over the 1906 campaign and ceased operations entirely, failing to field a team in 1907. Massillon played a diminished 1907 schedule before disbanding its professional roster, leaving the rivalry dormant until 1911.\n\nThe collapse of the two flagship franchises stalled professional football in Ohio for nearly a decade. Stability returned only after Canton oilman Jack Cusack revived the Bulldogs and signed Olympic gold medalist Jim Thorpe in 1915 for $250 a game. Five years later, on September 17, 1920, representatives from Canton, Massillon, Akron, and seven other clubs met at Ralph Hay's Hupmobile showroom in Canton to establish the American Professional Football Association, which was later renamed the National Football League.",
+      "social_post": "On this day in 1906, the Massillon Tigers defeated the Canton Bulldogs 13–6, clinching the Ohio League championship. But the contest triggered American professional football's first match-fixing scandal, as allegations between coach Blondy Wallace and manager Ed Stewart collapsed both teams and alienated fans for a decade. How do you think modern sports leagues would handle an all-out newspaper war between rival management? Let us know in the comments below! #AmericanFootball #SportsHistory #NFLHistory"
+    },
+    "zh": {
+      "headline": "1906年坎顿与马西隆的巅峰重赛，如何引爆职业橄榄球史上首桩假球丑闻",
+      "seo_title": "马西隆13-6坎顿：1906橄榄球假球丑闻",
+      "subheadline": "1906年11月24日，马西隆老虎队以13比6击退坎顿斗牛犬队，却随即掀起一场席卷全州的受贿指控，令俄亥俄职业橄榄球陷入数年停滞。",
+      "body_markdown": "1906年11月24日，星期六。俄亥俄州马西隆，马西隆老虎队（Massillon Tigers）在主场以13比6击败宿敌坎顿斗牛犬队（Canton Bulldogs），加冕俄亥俄联盟（Ohio League）冠军。然而，终场哨声带来的不是纯粹的狂喜，而是一场迅速发酵的风暴——美式职业橄榄球历史上第一桩假球丑闻就此拉开序幕。就在八天前，坎顿刚在马哈菲公园（Mahaffey Park）的首回合对决中以10比5先下一城；谁料转战马西隆主场的次回合较量才刚尘埃落定，针对球员与教练串通操纵比赛以谋取赌资和票房分成的指控便甚嚣尘上。\n\n## 斯塔克县的死敌恩怨与电报专线\n马西隆与坎顿两座城镇相距仅15英里，同处俄亥俄州东北部的斯塔克县。为了备战1906赛季，两队不惜砸下重金招揽大学精英和独立球星。马西隆此前曾在1903至1905年连夺三届俄亥俄联盟冠军；而坎顿在1904年以坎顿竞技俱乐部（Canton Athletic Club）之名建队后，聘请了前宾夕法尼亚大学名宿查尔斯·埃德加·“金发女郎”·华莱士（Charles Edgar \"Blondy\" Wallace）挂帅，誓要打造一支能与死敌抗衡的豪门。1906赛季开打前，华莱士直接从马西隆的后场阵容大肆挖角，接连将杰克·海登（Jack Hayden）、杰克·朗（Jack Lang）、赫尔曼·科克霍夫（Herman Kerkhoff）以及克拉克·施朗茨（Clark Schrontz）网罗至麾下。马西隆随即反制，请来芝加哥大学校友谢尔本·怀特曼（Sherburn Wightman）执掌教鞭，原主帅埃德·斯图尔特（Ed Stewart）转任总经理，并火速签下了四分卫佩吉·帕拉特（Peggy Parratt）。\n\n这两支斯塔克县劲旅在1906年11月敲定了两回合决战，协议平分门票收入，并各自在当地银行存入3000美元的履约保证金。11月16日星期五的首战吸引了8000名观众涌入坎顿的马哈菲公园。贝尔电话公司（Bell Telephone Company）在边线架设了电报设备，将逐波攻防的实时赛况电传至全美各大城市。最终坎顿以10比5拔得头筹。11月24日的二番战中，马西隆以13比6回敬对手，两队各胜一场战平；但凭借两回合总得分（18比16）的微弱优势，马西隆老虎队捧起了1906年的联盟奖杯。\n\n## 《马西隆独立报》的受贿重磅爆料\n然而，体育竞技本身的胜负在数日之内便彻底被口水战吞没。身兼《马西隆独立报》（Massillon Independent）编辑的总经理斯图尔特利用手中报纸，公开发表了一系列操纵比赛的指控。斯图尔特指称，坎顿主帅华莱士与马西隆端锋沃尔特·伊斯特（Walter East）暗中串通，密谋安排坎顿赢下首战、马西隆拿下次回合，从而刻意制造打决胜第三场的巨大市场需求以攫取暴利。斯图尔特随后还刊出了另一版指控，称华莱士曾用预计能赢下的赌资作为诱饵，向马西隆球员开出真金白银的贿赂，试图收买他们故意放水。\n\n面对指控，伊斯特迅速反击，向《阿克伦烽火报》（Akron Beacon Journal）出示了一份合同，反咬马西隆主帅怀特曼与阿克伦当地棒球圈主管约翰·T·温莎（John T. Windsor）曾达成协议，意图以4000美元为代价故意输掉11月16日的首战。怀特曼随后在《克利夫兰老实人报》（The Plain Dealer）上坚决否认了这一指控；坎顿管理层则一口咬定是马西隆为了掩盖自身的财务危机、蓄意抹黑坎顿而凭空捏造了整场阴谋。11月24日当晚，双方阵营压抑已久的敌意在坎顿考特兰酒店（Courtland Hotel）的酒吧彻底爆发为群殴，最终由当地警方介入才将涉事人群驱散至街头。\n\n## 经济崩盘与通往1920年坎顿之路\n尽管两家俱乐部最终都未能拿出证明打假球的决定性法律证据，但铺天盖地的公众争议已经彻底摧毁了全州职业橄榄球的生存土壤。11月29日感恩节当天，坎顿队履行了既定赛程，以16比0完胜拉特罗布竞技协会（Latrobe Athletic Association），将赛季战绩定格在10胜1负，但球迷的信任已荡然无存。整个1906赛季下来，斗牛犬队亏损数千美元，最终无力为继直接停摆，甚至未能在1907年组队参赛。马西隆虽然勉强撑到了1907年，但在赛程大幅缩减后也不得不解散职业阵容，这桩著名的县域德比自此陷入长达数年的死寂，直至1911年才艰难重启。\n\n这两大领头羊球队的溃败，让俄亥俄州的职业橄榄球陷入了近十年的休眠期。直到1915年，坎顿石油商人杰克·库萨克（Jack Cusack）重组斗牛犬队，并以每场250美元的天价签下奥运金牌得主吉姆·索普（Jim Thorpe），联盟格局才重现生机。五年后的1920年9月17日，来自坎顿、马西隆、阿克伦等十家俱乐部的代表齐聚坎顿当地拉尔夫·海伊（Ralph Hay）的哈普汽车（Hupmobile）展厅，正式成立了美国职业橄榄球协会（APFA）——这，便是如今享誉全球的国家橄榄球联盟（NFL）的前身。",
+      "social_post": "1906年的今天，马西隆老虎队以13比6击退坎顿斗牛犬队捧起俄亥俄联盟奖杯，却随即引爆美式职业橄榄球史上首桩假球丑闻！主帅华莱士与总经理斯图尔特隔空论战，两队深陷财务泥潭近十年。换作今天，职业联盟会如何应对管理层之间的媒体大战？欢迎在评论区分享你的看法！ #美式橄榄球 #体育历史 #NFL历史"
+    },
+    "ru": {
+      "headline": "Как реванш «Кантона» и «Массиллона» в 1906 году спровоцировал первый «договорняк» в истории профи-футбола",
+      "seo_title": "«Массиллон» — «Кантон» 13:6: договорной матч 1906 года",
+      "subheadline": "24 ноября 1906 года «Массиллон Тайгерс» обыграли «Кантон Бульдогс» со счетом 13:6. Но титульный триумф обернулся громким коррупционным скандалом, на годы парализовавшим футбол в Огайо.",
+      "body_markdown": "В субботу, 24 ноября 1906 года, «Массиллон Тайгерс» (Massillon Tigers) одолели «Кантон Бульдогс» (Canton Bulldogs) со счетом 13:6 в родном Массиллоне, штат Огайо, и завоевали чемпионский титул Лиги Огайо (Ohio League). Однако долго радоваться триумфу не пришлось: победа мгновенно переросла в первый скандал с договорными матчами в истории американского профессионального футбола. Всего за восемь дней до этого «Кантон» взял верх в первой встрече двухматчевой серии на стадионе «Махаффи Парк» (Mahaffey Park) — 10:5. Но после ответной игры на поле соперника поползли упорные слухи: игроки и тренеры вступили в сговор, чтобы нажиться на тотализаторе и взвинтить кассовые сборы.\n\n## Вражда соседей и телеграфные провода округа Старк\nМассиллон и Кантон разделяли всего 15 миль по дорогам северо-востока Огайо. Перед сезоном 1906 года оба клуба потратили целое состояние, собирая элитные составы из университетских звезд и свободных агентов. «Массиллон» безраздельно властвовал в регионе, забирая титулы Лиги Огайо три года подряд с 1903 по 1905 год. «Кантон», созданный в 1904 году под эгидой Атлетического клуба Кантона (Canton Athletic Club), ответил приглашением бывшего игрока Пенсильванского университета Чарльза Эдгара «Блонди» Уоллеса (Charles Edgar \"Blondy\" Wallace), поручив ему сколотить команду-чемпиона. Уоллес без зазрения совести переманил лидеров задней линии «Массиллона»: Джек Хейден (Jack Hayden), Джек Лэнг (Jack Lang), Херман Керкхофф (Herman Kerkhoff) и Кларк Шронц (Clark Schrontz) подписали контракты с «Кантоном». В ответ «Тайгерс» наняли выпускника Чикагского университета Шерберна Уайтмана (Sherburn Wightman) главным тренером, перевели прежнего наставника Эда Стюарта (Ed Stewart) на пост генерального менеджера и подписали контракт с квотербеком Пегги Парраттом (Peggy Parratt).\n\nДва клуба из округа Старк договорились о мини-серии из двух матчей в ноябре 1906 года, условившись поровну поделить выручку от билетов и положить в местные банки по 3000 долларов в качестве гарантийного залога. Первый матч, прошедший в пятницу 16 ноября, собрал на трибунах кантонского «Махаффи Парка» 8000 зрителей. Компания Bell Telephone проложила вдоль бровки поля телеграфные линии, передавая текстовые отчеты об игре в режиме реального времени в крупнейшие города США, пока «Кантон» оформлял победу 10:5. Ответный успех «Массиллона» со счетом 13:6 уравнял команды по победам в сезоне, но за счет разницы набранных очков в очных встречах титул чемпионов Лиги 1906 года достался «Тайгерс».\n\n## Обвинения во взятках на полосах Massillon Independent\nСпортивный результат отошел на второй план буквально через несколько дней, когда Стюарт, воспользовавшись своим креслом редактора местной газеты *Massillon Independent*, опубликовал разгромную статью с обвинениями в нечестной игре. Стюарт утверждал, что Уоллес и энд «Массиллона» Уолтер Ист (Walter East) вступили в тайный сговор: они якобы договорились, что «Кантон» выиграет первую игру, а «Массиллон» — вторую, чтобы искусственно разогреть ажиотаж вокруг невероятно прибыльного третьего матча. В альтернативной версии Стюарт прямо обвинял Уоллеса в попытке подкупить игроков «Массиллона» наличными за сдачу матча, рассчитывая расплатиться с ними за счет выигрыша на ставках.\n\nИст пошел в контратаку через издание *Akron Beacon Journal*, предъявив некий контракт и заявив, будто тренер «Массиллона» Уайтман и бейсбольный функционер из Акрона Джон Т. Виндзор (John T. Windsor) сами планировали сдать матч 16 ноября за взятку в 4000 долларов. Уайтман категорически опроверг это обвинение на страницах *The Plain Dealer*, а руководство «Кантона» объявило, что вся теория заговора выдумана «Массиллоном» лишь для спасения от собственного банкротства и очернения репутации соперника. В ночь на 24 ноября тлеющая ненависть вылилась в пьяную драку между болельщиками и представителями команд в баре кантонского отеля «Кортленд» (Courtland Hotel), которую городская полиция смогла разогнать только на улице.\n\n## Банкротство клубов и путь к рождению НФЛ в 1920 году\nНи одна из сторон так и не представила юридических доказательств сдачи игр, но разразившийся скандал нанес сокрушительный удар по профессиональному футболу во всем штате. 29 ноября 1906 года, на День благодарения, «Кантон» завершил сезон победой над «Латроб Атлетик Ассосиэйшн» (Latrobe Athletic Association) со счетом 16:0, показав великолепный баланс 10–1, но доверие публики вернуть не удалось. Из-за раздутой ведомости и скандала «Бульдогс» зафиксировали многотысячные убытки и фактически прекратили существование, пропустив сезон 1907 года. «Массиллон» отыграл урезанное расписание в 1907 году, после чего распустил профессиональный состав. Принципиальнейшее соперничество заглохло вплоть до 1911 года.\n\nКрах двух флагманов отбросил профессиональный футбол в Огайо почти на десять лет назад. Возрождение началось лишь в 1915 году, когда местный нефтяной магнат Джек Кьюсак (Jack Cusack) возродил «Бульдогс» и подписал легендарного олимпийского чемпиона Джима Торпа (Jim Thorpe) со ставкой 250 долларов за матч. А еще через пять лет, 17 сентября 1920 года, представители «Кантона», «Массиллона», «Акрона» и еще семи клубов собрались в автосалоне Hupmobile Ральфа Хэя (Ralph Hay) в Кантоне, чтобы основать Американскую профессиональную футбольную ассоциацию (APFA), которую позже весь мир узнает под именем НФЛ.",
+      "social_post": "В этот день в 1906 году «Массиллон Тайгерс» обыграли «Кантон Бульдогс» (13:6), взяв титул Лиги Огайо. Но матч спровоцировал первый в истории профессионального футбола скандал с «договорняком»! Взаимные обвинения менеджеров в прессе похоронили обе франшизы на долгие годы. Как думаете, что произошло бы с клубами за подобную газетную войну в наши дни? Делитесь в комментариях! #АмериканскийФутбол #ИсторияСпорта #NFL"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/1909_Peggy_Parratt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:1909_Peggy_Parratt.jpg",
+        "artist": "Case School of Applied Science",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "1909 Peggy Parratt - Case School of Applied Science - NFL - Football - Cleveland, Ohio",
+        "width": 1200,
+        "height": 1830,
+        "year": 2024,
+        "subject": "Peggy Parratt",
+        "asked": "Peggy Parratt",
+        "page_title": "Peggy Parratt",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:1909_peggy_parratt.jpg|Peggy Parratt",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "vintage portrait of football player and coach Peggy Parratt",
+          "reason": "The image plausibly shows early 20th-century football player Peggy Parratt matching historical photographs of him.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-24-hist-a02660.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Massillon Tigers 13 - 6 Canton Bulldogs · Ohio League Championship",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "Private-life or legal topic ('police'). Only include it if it is the news itself, confirmed by a major outlet, and stated neutrally"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Whether aggregate points across the two games was the formal rule for awarding the 1906 Ohio League title or if Massillon claimed the crown simply by winning the final game of the series."
+      }
+    ]
+  },
+  {
+    "id": "2026-11-24-news-4177ff",
+    "slug": "russian-boxing-federation-voted-in-as-full-world-boxing-memb",
+    "date": "2026-11-24",
+    "created": "2026-11-24T15:40:18+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Boxing",
+    "tags": [
+      "World Boxing",
+      "Russian Boxing Federation",
+      "Gennadiy Golovkin",
+      "Olympic Boxing",
+      "Los Angeles 2028"
+    ],
+    "athletes": [
+      "Gennady Golovkin",
+      "Alexander Besputin"
+    ],
+    "image_subjects": [
+      "Boxing Federation of Russia",
+      "Gennady Golovkin",
+      "World Boxing",
+      "Alexander Besputin"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Матч ТВ: Федерация бокса России стала полноправным членом World Boxing",
+        "url": "https://matchtv.ru/boxing/matchtvnews_NI2266857_Federacija_boksa_Rossii_stala_polnopravnym_chlenom_World_Boxing"
+      },
+      {
+        "title": "Спорт-Экспресс: Федерация бокса России получила полноправное членство в World Boxing",
+        "url": "https://www.sport-express.ru/boxing/amateur/news/federaciya-boksa-rossii-poluchila-polnopravnoe-chlenstvo-v-world-boxing-2384784/"
+      },
+      {
+        "title": "World Boxing: Congress Approves Key Decisions on Road to LA28",
+        "url": "https://worldboxing.org/world-boxing-congress-approves-key-decisions-on-road-to-la28/"
+      },
+      {
+        "title": "vk.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaRMafFLnQ3hS4Fk5f3-eIp-603mNZz_ZLNz1cecXx2ltV39Du7VA_1o7YrQPJdMfGZPyLlUBdUI9reVkS_7mDzHqIaSUR6CGzSLYNtzq4zD5XmtwsLEqEEgxg"
+      },
+      {
+        "title": "worldboxing.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbIB8563paxN_qwMQJu4MQ7gIQ5xJA0anPz6l1dip8gCZTD9aOdOczOvE1w1H9W-PbT_wcqnhrAp3bNdWqa1ecTvYk29fbhNmaxfvbXSlbYeBRo19IboigoSY-X8YIY21PZUZSfIVOPCDGfISWN_ntpSSaAyMX6HZyl7KqqwgwpLthx3efA-aK9WgisWVI0FWzkMfIQyPzdfjHH3ypuCezSAVId-02j5xqM54TeRqRszYQ"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg3vULUQumiA9944_dOpzVvIgqhY1h-KkLgMek3hY4haNrIZpG9zqplQtTTVgQR6z8bW9UprarjuE_lkiiRRI5jYLBXnUCGTHLREP3JbmvWN-gJAiphReiFL3aA1de6EVdb0ztYebC2ah9re4M-al3NusF3M5_kG5zOIvFQYcO8fDbbzeaFnisFRzOnrSNAUuS7GtQOqJ3rD4NwemBAa8GCe4jTKZVDcmci76shOn27ORsudkjxajMU2v_4mC_CNR54M3WqW6yZ0tvDxS71Ng9oAqfTkxvtwQsN9_RLdtasY200t6-Uw=="
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgThIzjiPGlqLSU28AwwPWk-G2bcn7YB5JcziLcde_k4nwbbteSTsdBdCtjDcFx-VexZmK_l8hzbYQOz3Um_PAiVRWZ9HkaAJSpDF0NfONE5wnLPx6L0qE3aoHOOEQRBzWKAiS6O5z0belqSe1gTjxLXCNjcerx9KM7OCgdWe5DulqZhochqPVEsnaUuqa1nNNJ9h6J170rkJ6RKKd2liIBhS8tAk="
+      },
+      {
+        "title": "worldboxing.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ-M71jq3zn8yS6TIMclQK2MDgEOAA3FMJpY1kTNCmUrQPOYgnAqF6H9t4xFGSW7qmTadHSk_uJBYqS7IV9gtgCNgvCm_crjh_wiDrbirS98hKaD5sEtmISPwGlV7kpfQt0i2JLz2GzZSwf3vDN3AnlB20Wdp8LiOCCzujIc4g0FLB_Ir-mwG71wYfJA=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAHGug24iP5NnTMNk5GeTB0PkgTo712ucCab-vZb8tADUTwIQIpUlM5k6zBfEJkaM2snMfdclAnkMfZo00d7X-dWmiYWsG5F_BIEwk7FZ_opbWfnhNUTontBvOoB7A8e4="
+      },
+      {
+        "title": "worldboxing.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH42NBxInqx7xH-r4wY7b4hCSZX-ko5E32C9rZe2bwG8L9ZHhDgapfAoAIsUGjp7G6J6u7k0TblQb47IHzL3CJ1snfGCeqoj5CbOHiqEw1vIPW1aCR8hLj4Mqpx5Bo="
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6J6K-bnkjhavk6rIxTjmGQVIp4Md_uqPH7g08En0u2EMpMl_Cs07047fbx070Q1sRPmLeBuGAtucA4qOvlJvZ4MmGrMl8lU0p2l70lmA1EfOJBzHenAUIjRR8WsoStkuUmz4giP_uT_rTTFAqkjM_3SkA9Hz8CGzzSjWkOhVfSd1X2PYssZ_2J1YuX40JCembbhDKk7FxdBR96t21Fi94UMHfzOa3gKQueLFVKaDIitkMD1q61jNxbWkpXtYaAYDTkolUdUOvYSmAOWMYVthuchDU5nWjEsd2Sg=="
+      },
+      {
+        "title": "sport-interfax.ru: Федерация бокса России стала полноправным членом World Boxing",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjdqejJSN055NXVvblduWGNfRFNid3I5VzV4Vjg2QTBkMWVoSXZQMXBEdXcwLXVKVnZ1LVFrVzh6UVZja2w4VENvd1pmd9IBU0FVX3lxTE9ZakE5LV8ybms0ZElhcU5pUEFzNDZ3WnFFRDhkM1JTU2hYSjlyOGcydWhTbjk0djVrWHlqdEhwdXRFbHpzY0RYVHBLdFFQcl90NTBj?oc=5"
+      },
+      {
+        "title": "Спорт Mail: Федерация бокса России вступила в World Boxing в качестве полноправного члена",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Q3ZkbmtjNm9fVlg3LXZzZFhKVDZxNFZ0N2pwcWp4d25xN1Z5V1Q2bmM0U1MwRTNWVzByTmg5UkRta2ZRdnFPeks0Z1JjUnFtYzIwVllmdG4?oc=5"
+      },
+      {
+        "title": "Meta MMA: Федерация бокса России стала полноправным членом World Boxing",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRJNTlwUWhhYWxnT1hZUUI3XzRmZXZVb1VtRDVEbXRhRWxhbFFOZngxWUV6Rm1vaFZPWmc3a18zaWJOU24yT3BuVDlrdk5BX3I3MTU3ZGNsUFZJSk9SNVpXRUY0SVQyODh2cENvWkhrRi0zSlM5YTV0YkZoNjdtazAyb2RVOE93MFN1bXRCYURrUHBvUmludlBqU3BTcmhxcHBGU0d3?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Федерация бокса России стала полноправным членом World Boxing по итогам конгресса в Панаме",
+        "url": "https://www.sport-express.ru/martial/boxing/news/federaciya-boksa-rossii-stala-polnopravnym-chlenom-world-boxing-po-itogam-kongressa-v-paname-2478013/"
+      },
+      {
+        "title": "Матч ТВ: Федерация бокса России стала полноправным членом World Boxing",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3o1RWZWLTlJNTc5ZS1wVFZHOHM2cGFsTFJXckdNSFI0YXlhZ1BLeGZsQzlwdW45NDhiNWhLVk4tV2l2NjRBRko2ZmtaMlAwRHBkbGJBZ3ZSMjBFRlQ4c2I0NnAtTllTUTg4RHRSeFhqRnYxSXg2REVTTGtoeXNEWWtaS0dvUkZCTzBVTkliTHhTQy11LWFiM2g1N0xTejRENWNCV3o2NGtxNTVDZllOVg?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Russian Boxing Federation Voted In as Full World Boxing Member in Panama",
+      "seo_title": "Russia Wins Full World Boxing Membership in Panama Vote",
+      "subheadline": "Delegates at the fourth annual World Boxing Congress approve full voting rights for Russia as the Olympic governing body expands ahead of LA 2028.",
+      "body_markdown": "The Russian Boxing Federation has become a full member of World Boxing following a majority vote by delegates at the international body's fourth annual Congress in Panama City on 20 November 2026.\n\nThe decision grants Russia official voting rights under World Boxing's \"one country, one vote\" constitutional principle at future general assemblies. Andrei Istomin, Deputy General Secretary of the Russian Boxing Federation, represented the delegation in Panama under instructions from General Secretary Alexander Besputin. \n\n\"The most important result for us was the admission of the Russian Boxing Federation into World Boxing as a full member, which the majority of countries voted for,\" Istomin said.\n\n## The Shift from Endorsed to Full Status\n\nRussia's accession to full status completes an eight-month procedural transition. World Boxing initially accepted the Russian Boxing Federation's application in March 2026 as an endorsed member without voting privileges. \n\nThe vote in Panama was part of a broader expansion, with the Congress approving applications from 47 national federations to lift the governing body to 170 full voting members and one associate member.\n\nWorld Boxing President Gennadiy Golovkin, the former unified world middleweight champion from Kazakhstan who oversees the federation, addressed the assembly following the votes. \n\n\"Today marked another important milestone for World Boxing and the future of our sport,\" Golovkin said. \"The decisions made by our member federations confirm our shared commitment to putting boxers first, strengthening our organisation, and doing everything possible to ensure boxing continues to develop as a credible and respected Olympic sport. I am particularly pleased that our members supported the course we have set leading up to the 2028 Olympic Games in Los Angeles and beyond.\"\n\n## Governance and the Road to LA28\n\nWorld Boxing was founded in April 2023 by member associations seeking an alternative international federation capable of securing the sport's long-term future in the Olympic programme following the International Olympic Committee's de-recognition of the International Boxing Association (IBA).\n\nFull membership integrates Russia into World Boxing's governance structure, committee appointments and constitutional ballots. Russian coaching council chairman Eduard Kravtsov told Match TV that full status normalises the country's position: \"We were non-full members in World Boxing, and for Russia that was unacceptable. Everything has fallen into place.\"\n\nWhile full membership formalises Russia's standing inside the governing body, Olympic qualifying events under World Boxing oversight are scheduled to begin in 2027 as the sport prepares for the 2028 Games in Los Angeles.",
+      "social_post": "The Russian Boxing Federation has officially secured full membership in World Boxing following a majority vote at the fourth annual Congress in Panama City. The move grants Russia voting rights within the Olympic-recognised body led by Gennadiy Golovkin, which now counts 170 full member nations ahead of the 2027 Olympic qualifiers. How do you see this decision impacting the global amateur boxing landscape ahead of Los Angeles 2028? Share your thoughts below! #Boxing #WorldBoxing #OlympicBoxing #Russia"
+    },
+    "zh": {
+      "headline": "俄罗斯拳击联合会在巴拿马大会获表决通过，正式成为World Boxing全权会员",
+      "seo_title": "俄罗斯拳协成World Boxing正式会员：表决获投票权",
+      "subheadline": "第四届World Boxing大会代表投票授予俄罗斯正式表决权，该奥运拳击管理机构在2028年洛杉矶奥运周期进一步扩军。",
+      "body_markdown": "2026年11月20日，在巴拿马城举行的世界拳击联合会（World Boxing）第四届年度代表大会上，经与会代表多数票表决，俄罗斯拳击联合会正式成为该组织的正式会员。\n\n这一决议意味着在未来的代表大会上，俄罗斯将依据World Boxing“一国一票”的宪章原则，正式享有官方投票权。受俄罗斯拳协秘书长亚历山大·贝斯普京（Alexander Besputin）的委派，俄拳协副秘书长安德烈·伊斯托明（Andrei Istomin）率代表团出席了巴拿马大会。\n\n“对我们而言，最重要的成果莫过于俄罗斯拳击联合会被吸纳为World Boxing正式会员，并且大多数国家都投下了赞成票，”伊斯托明表示。\n\n## 从认可会员到全权会员的跨越\n\n俄罗斯获得正式会员身份，标志着为期八个月的程序性过渡圆满完成。2026年3月，World Boxing最初受理了俄罗斯拳击联合会的申请，当时给予其没有表决权的认可会员（endorsed member）资格。\n\n巴拿马大会的这次投票也是该国际组织更大规模扩军的一部分：大会集中批准了47个国家和地区单项协会的入会申请，使World Boxing旗下的全权投票会员协会增至170个，另有1个准会员。\n\n投票结束后，掌舵该组织的哈萨克斯坦名宿、前职业中量级统一拳王根纳季·戈洛夫金（Gennadiy Golovkin）向全体与会代表发表了讲话。\n\n“今天标志着World Boxing以及拳击运动未来发展的又一个重要里程碑，”戈洛夫金说，“各会员协会做出的决定，印证了我们共同的承诺——以拳手为先，夯实我们的组织架构，并不遗余力地确保拳击作为一项值得信赖、受人尊重的奥运项目继续蓬勃发展。令我尤为欣慰的是，各会员协会完全支持我们为2028年洛杉矶奥运会及长远未来所确立的路线。”\n\n## 治理格局与通往LA28之路\n\n在国际奥委会（IOC）取消对国际拳击协会（IBA）的承认后，各会员协会于2023年4月创立了World Boxing，旨在建立一个能够确保拳击运动长期留在奥运设项中的替代性国际单项体育组织。\n\n获得正式会员资格后，俄罗斯将全面融入World Boxing的内部治理结构，深度参与各专业委员会的人选任命以及章程投票。俄罗斯拳击教练委员会主席爱德华·克拉夫佐夫（Eduard Kravtsov）在接受俄罗斯体育电视台（Match TV）采访时直言，转正让俄罗斯重回应有的位置：“我们此前在World Boxing只是非正式会员，这对俄罗斯来说是不可接受的。如今一切终于各就其位。”\n\n随着俄罗斯在管理机构内部的法定地位得以确立，在World Boxing监管下的奥运资格赛预计将于2027年打响，这项运动也将正式全面进入2028年洛杉矶奥运会的备战轨道。",
+      "social_post": "在巴拿马城举行的第四届代表大会上，经多数票表决，俄罗斯拳击联合会正式成为World Boxing全权会员！这意味着俄罗斯将在戈洛夫金掌舵的奥运拳击组织中拥有正式投票权。目前该组织全权会员已扩充至170个国家和地区协会。随着2027年奥运资格赛临近，你认为这一变局对2028洛杉矶奥运周期业余拳击格局会带来哪些影响？欢迎在评论区畅所欲言！ #拳击 #WorldBoxing #奥运拳击 #俄罗斯拳击"
+    },
+    "ru": {
+      "headline": "Федерация бокса России принята в полноправные члены World Boxing на конгрессе в Панаме",
+      "seo_title": "Федерация бокса России стала полноправным членом World Boxing",
+      "subheadline": "Делегаты четвертого ежегодного конгресса World Boxing большинством голосов предоставили России право голоса в преддверии Олимпиады-2028 в Лос-Анджелесе.",
+      "body_markdown": "Федерация бокса России официально получила статус полноправного члена международной организации World Boxing. Решение было принято большинством голосов делегатов на четвертом ежегодном конгрессе организации, который прошел 20 ноября 2026 года в Панаме.\n\nДанный вердикт наделяет Россию официальным правом голоса на будущих генеральных ассамблеях в соответствии с уставным принципом World Boxing «одна страна — один голос». Российскую делегацию в Панаме по поручению генерального секретаря Александра Беспутина представлял заместитель генерального секретаря Федерации бокса России Андрей Истомин.\n\n«Самым главным результатом для нас стало принятие Федерации бокса России в World Boxing в качестве полноправного члена, за что проголосовало большинство стран», — подчеркнул Истомин.\n\n## От временного статуса к полноправному членству\n\nПринятие России в статусе полноправного члена завершило восьмимесячный процедурный переход. World Boxing одобрила заявку Федерации бокса России еще в марте 2026 года, однако тогда организация получила статус одобренного члена (endorsed member) без права голоса.\n\nГолосование в Панаме стало частью масштабного расширения организации: делегаты конгресса одобрили заявки 47 национальных федераций. В результате число полноправных членов с правом голоса в международной структуре достигло 170, еще одна федерация имеет статус ассоциированного члена.\n\nПрезидент World Boxing, бывший абсолютный чемпион мира в среднем весе из Казахстана Геннадий Головкин, возглавляющий организацию, обратился к делегатам после завершения голосования.\n\n«Сегодняшний день стал еще одной важнейшей вехой для World Boxing и будущего нашего вида спорта, — заявил Головкин. — Решения, принятые нашими федерациями-членами, подтверждают нашу общую приверженность принципу ставить интересы боксеров на первое место, укреплять нашу организацию и делать все возможное, чтобы бокс продолжал развиваться как авторитетный и уважаемый олимпийский вид спорта. Мне особенно приятно, что члены организации поддержали курс, который мы наметили в преддверии Олимпийских игр 2028 года в Лос-Анджелесе и на последующий период».\n\n## Управление и путь к Лос-Анджелесу-2028\n\nОрганизация World Boxing была основана в апреле 2023 года национальными федерациями, искавшими альтернативную международную структуру, способную гарантировать долгосрочное сохранение бокса в программе Олимпийских игр после лишения признания Международной ассоциации бокса (IBA) со стороны МОК.\n\nПолноправное членство полностью интегрирует Россию в систему управления World Boxing, включая выдвижение представителей в комитеты и участие в голосовании по уставным вопросам. Председатель тренерского совета Федерации бокса России Эдуард Кравцов в эфире «Матч ТВ» подчеркнул, что этот шаг восстанавливает статус-кво: «Мы были неполноправными членами в World Boxing, для России это было неприемлемо. Все встало на свои места».\n\nПока полноправное членство оформляет официальный статус России внутри управляющей структуры, олимпийские квалификационные турниры под эгидой World Boxing должны стартовать в 2027 году в рамках подготовки к Играм-2028 в Лос-Анджелесе.",
+      "social_post": "Федерация бокса России официально принята в полноправные члены World Boxing по итогам четвертого ежегодного конгресса в Панаме! Россия получила официальное право голоса в международной федерации под руководством Геннадия Головкина, которая объединяет уже 170 стран. Олимпийские отборочные старты намечены на 2027 год. Как вы оцениваете это решение и его влияние на мировой олимпийский бокс перед Играми-2028 в Лос-Анджелесе? Делитесь мнением в комментариях! #бокс #WorldBoxing #Олимпиада #ФедерацияБоксаРоссии"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gennady_Golovkin_%28KAZ%29_2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Gennady_Golovkin_(KAZ)_2017.png",
+        "artist": "Box Azteca",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Gennady Golovkin in 2017",
+        "width": 1200,
+        "height": 1485,
+        "year": 2017,
+        "subject": "Gennady Golovkin",
+        "asked": "Gennady Golovkin",
+        "page_title": "Gennady Golovkin",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:gennady_golovkin_(kaz)_2017.png|Gennady Golovkin",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "boxer Gennady Golovkin in a suit",
+          "reason": "The image clearly depicts famous world champion boxer Gennady Golovkin.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-24-news-95243b",
+    "slug": "china-u17-earn-first-world-cup-point-in-21-years-after-2-2-m",
+    "date": "2026-11-24",
+    "created": "2026-11-24T15:39:14+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "FIFA U-17 World Cup",
+      "China national under-17 football team",
+      "Morocco national under-17 football team",
+      "Zhao Songyuan",
+      "Satoshi Ukishima"
+    ],
+    "athletes": [
+      "Zhao Songyuan",
+      "Ziyad Baha",
+      "He Sifan",
+      "Nan Zixun",
+      "Satoshi Ukishima"
+    ],
+    "image_subjects": [
+      "Zhao Songyuan",
+      "Satoshi Ukishima",
+      "China national under-17 football team",
+      "Morocco national under-17 football team"
+    ],
+    "match": {
+      "competition": "FIFA U-17 World Cup",
+      "date": "23 November 2026",
+      "home": "China U-17",
+      "away": "Morocco U-17",
+      "home_score": 2,
+      "away_score": 2,
+      "home_scorers": [
+        "Zhao Songyuan 2'",
+        "Zhao Songyuan 57'"
+      ],
+      "away_scorers": [
+        "Baha 64' (pen)",
+        "Loghmani 90+9'"
+      ],
+      "note": "China collect first U17 World Cup point in 21 years"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "U17世界杯：中国队2:2战平摩洛哥",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10736849.shtml"
+      },
+      {
+        "title": "足球——U17世界杯：中国队战平摩洛哥队",
+        "url": "http://www.news.cn"
+      },
+      {
+        "title": "sohu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnYCdXzdqBb7xtEFXo2Kq9yJafCm6lIV21b466TvBzhEEILzQWac94CKMsNaEA2DDIiF76dL9vAgU_hlZ85F21lsvcS5-nfUaFy1nLi7MVg98r6aUh8STZyizO8nJ0"
+      },
+      {
+        "title": "sohu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_ybf49zX2xexNFVirGJhsd2NusQUxtQ28zA1Jg5QzYX4JEOX-CerjtEU0qirR3FDGJyN_1sikB12hJv8SIjSj_089bXXHmIisH5HEzF7J2Q0_XEYbipBLMiif7rCpPn0Hwpdx8tmQeJmjmCK7wq8Hbp-LLkGxIkmLErEevZ4XBCe1twS24muxlhU="
+      },
+      {
+        "title": "sohu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBfKSY7jX7owm0T5gKoUecE7mlC6RIZKAqvEtacnFRFNE-8HCMNREbOBFae6lUK98x3HfjZpogWr1FlCM0GBImK-GVdIyPh_owaQi9KrGJjmiMMfPVDt3Cg5_6615UkBefDDEto3J4YN1_SBk3ObNJsAQxoKlAGrh6PWtkbw6jH-tL9s6E6WBQDak="
+      },
+      {
+        "title": "yzwb.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc167kfrLWcCHqGDxdrn_vXyCXjSVytpHcyw3ntGqmht96QK6KpNOKjJfrB7h2MiqRzuxejxxxzlWng2xvJZSwpC0MikbiTISLn1v1JH3eJGzCuozR5C7J3UzfUUaJSo5y7FBqljdNj79YY_pl6UM="
+      },
+      {
+        "title": "news.cn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9KQyumzHWkUXcwmTr7O7ZazGtPKEjIC82sAyh27QG1ErTIePQJsAvgn5qGvv5V1fkzuzneJ-u_SQ79yl0w0gKXXO6nMWzp-bf-MbcVJnWIt5GqL1DnIQGIkxhQYwDD1sLMYslc3MJU-3nYFaUjJ6M52zvjgddcDqIIkjop-XFEw=="
+      },
+      {
+        "title": "jfdaily.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_Au8lWOnr2WWksD19ZMGZmdrVAAhNl1BQhQjsihhwjWPLgt9Rq8CVhZeYYcMCiBIn2i5vDcJTCwzgt52lChdRLt6DbvGQUuVIhm5x-F8zzxJmY9Y8PZbnmEk9qOuyIdtYeoUU"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJWFHMqN1SvRw5fXdnUgZ3OkuYxXFjrEgpiggWdCcmjvcPj9mReMhCKGOj4L2d8CEBjXwCj10Wsd80gAuoR5-LZfTThQovBOH_7cLPa_EtKvaxAR4mjIFdgOWHUMaCJM1O"
+      },
+      {
+        "title": "sohu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANr2kfVIGdly25lOatXtF0Z3ZpswcNG74-VaxZw7fkahY_loqvYEAES3OTUwyiRE9-eozERn61buck1gznNxk-VJvpCGcrGK82f-hAky4cOjZWhXRPOF9totaX-6bjSFLmG-142swNMzHKZeTiPJsq11Mobil1BI6yfNyNcbgyh850h34XtYkDKg="
+      },
+      {
+        "title": "163.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd78gJh96DxH81bDczmR-JbMTs93hKygwjFPlCGCelTQxxRCUCWvRBh6NXk9mKzqOBL6pQzH01AhU8Sf87NqxFGpe_IOjWP1dS5ZzR8yGwSB3hQ4WZlEoNcZH-l45YbnxTRUP8e9t_twYt"
+      },
+      {
+        "title": "baidu.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgmRbnND8wRhOFDwYvXd3w2EnJAx8g9Y7bJ3j7AKe1sCT4o8gSGSwDSERbsIBkHUmBBHEk5iU_0VWfj6bTEa0nJ73kRtcQPAXl3zp0f7ZFw2ktXX84-DKBwleXCPIipRJkk7GEcnCRcD2RXCtjTsbRa0CayQDZqAHfIufFtg="
+      },
+      {
+        "title": "新华网: 足球——U17世界杯：中国队战平摩洛哥队",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yWE1haE5yQWtpZHJNVzctMHZLbHFXZC02WGdDMjFfRUtGNGN0Umt2WVEweFRZV0VDUTN0MHkzZ0xBcmluZkppaGNtM1RfQUdOU0VzX3EtandKbDdxTG5zbi1WTWZMNDJoVnRNRTBTRnJubFZmYnhQV2lyWjZFNUE?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "China U17 Earn First World Cup Point in 21 Years After 2-2 Morocco Draw",
+      "seo_title": "China 2-2 Morocco: Zhao Songyuan double in U17 World Cup",
+      "subheadline": "Striker Zhao Songyuan scored twice in Doha before a 99th-minute equalizer denied Satoshi Ukishima's side victory.",
+      "body_markdown": "The China under-17 national team earned their first point at the FIFA U-17 World Cup since 2005 after a 2-2 draw against Morocco in Doha on Monday, November 23, 2026. Striker Zhao Songyuan scored twice to give China a 2-0 lead before Morocco mounted a late comeback, sealing the draw with an equalizer in the ninth minute of second-half stoppage time.\n\n## Zhao ends 21-year goal drought\n\nChina entered the Group H fixture under pressure following a 5-0 loss to Spain in their tournament opener on November 20. Head coach Satoshi Ukishima made one change to his lineup, starting Pan Chaowei, and his side took the lead inside two minutes. Zhao intercepted a clearance in Morocco's half, drove past two defenders into the penalty area, and slid a low shot into the bottom corner. The strike was China's first goal at a men's U-17 World Cup in 21 years, dating back to Yang Xu's quarter-final goal against Turkey at Peru 2005.\n\nMorocco, who reached the quarter-finals at both the 2023 and 2025 editions and brought a squad featuring 14 players based at European clubs, struggled to break down China's organized lines before the interval. In the 57th minute, China doubled their advantage on the counter-attack. Winger He Sifan delivered a cross from the right flank, allowing the 1.94-metre Zhao to arrive inside the six-yard box and turn the ball home for his second goal of the match.\n\n## Morocco's stoppage-time equalizer\n\nThe momentum shifted in the 64th minute when Chinese defender Nan Zixun committed a pulling foul inside the penalty area. Morocco forward Ziyad Baha converted the spot-kick to reduce the deficit to 2-1. Morocco subsequently pinned China back into their own half, culminating in the 99th minute when Loghmani turned home a close-range rebound to level the score.\n\n\"I was very happy to help the team with two goals, but we could not hold onto our advantage,\" Zhao said after the match. \"Conceding at the very end was really regrettable\". Ukishima gathered the squad on the pitch immediately following the final whistle. \"The players executed the plan well against individual quality, but we dropped into a defensive mindset too early and lost concentration at the end,\" Ukishima said.\n\n## Fiji finale decides Group H fate\n\nThe result leaves Spain atop Group H with six points after a 15-0 victory over Fiji on Monday. Morocco sit second on four points with a plus-six goal difference, while China are third with one point and a minus-five goal difference. Fiji remain fourth with zero points and 21 goals conceded across two matches.\n\nWith the expanded 48-team tournament featuring 12 groups, the top two finishers in each pool and the eight best third-placed teams qualify for the Round of 32. China conclude their Group H schedule against Fiji on Thursday, November 26, in Doha, where a victory is required to keep their knockout qualification hopes alive.",
+      "social_post": "China Under-17 secured their first FIFA U-17 World Cup point in 21 years with a 2-2 draw against Morocco in Doha. Striker Zhao Songyuan scored a brace to build a 2-0 lead before Morocco pulled level with a 99th-minute equalizer. China face Fiji on November 26 needing a victory to chase a Round of 32 berth. Can Satoshi Ukishima's side advance? Share your thoughts below! #U17WorldCup #ChinaFootball #FIFAU17"
+    },
+    "zh": {
+      "headline": "时隔21年的世界杯积分！中国U17战平摩洛哥，赵松源双响遭读秒绝平",
+      "seo_title": "中国2-2摩洛哥：赵松源双响国少获近21年世少赛首分",
+      "subheadline": "赵松源梅开二度力拔头筹，摩洛哥第99分钟补时绝平，浮岛敏麾下国少痛失好局。",
+      "body_markdown": "2026年11月23日（周一），在多哈进行的国际足联U-17男足世界杯H组次轮较量中，中国U-17国家男子足球队以2-2战平摩洛哥队，拿到了自2005年以来在世少赛上的首个积分。前锋赵松源梅开二度帮助中国队确立两球优势，但顽强的摩洛哥队随后发起反扑，并在下半场补时第9分钟打入绝平球，将比分定格为2-2。\n\n## 赵松源打破21年球荒\n\n首轮以0-5不敌西班牙后，中国队带着巨大压力迎来了这场关键战。主教练浮岛敏（Satoshi Ukishima）对首发阵容仅作出一处调整，派遣潘超伟首发登场。开场仅2分钟，中国队便打破僵局：赵松源在摩洛哥半场机敏拦截对方解围，连过两人突入禁区，一脚低射直窜球门下角入网。这是中国男子U-17国家队在世少赛赛场上时隔21年斩获的首粒进球，上一球还要追溯到2005年秘鲁世少赛四分之一决赛中杨旭攻破土耳其队大门。\n\n摩洛哥队在2023年和2025年两届赛事中均闯入八强，阵中拥有14名效力于欧洲俱乐部的球员。面对中国队组织严密的防线，他们在上半场很难找到破门良机。第57分钟，中国队抓住反击机会扩大战果：边锋何思凡右路送出精准传中，身高1米94的高中锋赵松源包抄至小禁区内推射破门，完成个人本场比赛的梅开二度。\n\n## 摩洛哥补时绝平\n\n比赛的转折点出现在第64分钟，中国队后卫南子勋在禁区内拉人犯规被判罚点球。摩洛哥前锋齐亚德·巴哈（Ziyad Baha）主罚命中，将比分扳为1-2。随后，摩洛哥队全线压上将中国队死死压制在本方半场，并在第99分钟迎来了回报：洛格马尼（Loghmani）门前近距离补射破网，完成了这记读秒绝平。\n\n“能用两粒进球帮助球队我很开心，但遗憾的是我们没能守住胜利果实，”赵松源在赛后难掩落寞，“在最后一刻丢球真的非常遗憾。”终场哨响后，浮岛敏第一时间将全体队员召集在场地中央：“面对个人技术出色的对手，队员们在战术执行上做得很好，但我们过早退缩防守，并在最后关头注意力出现了松懈。”\n\n## 末轮战斐济定生死\n\n在同组早前进行的另一场比赛中，西班牙队以15-0狂胜斐济队，积6分暂列H组榜首；摩洛哥队积4分、以正6个净胜球位居次席；中国队积1分、净胜球为负5球排在第三位；斐济队两战皆墨净负21球垫底。\n\n根据本届48队规模的世少赛赛制，12个小组的前两名以及8支成绩最好的小组第三将晋级32强。11月26日（周四），中国队将在多哈迎来小组赛末轮与斐济队的生死战，唯有取胜才能保留晋级淘汰赛的希望。",
+      "social_post": "时隔21年！中国U17在多哈2-2战平摩洛哥，收获世少赛宝贵1分。高中锋赵松源独中两元闪耀全场，可惜摩洛哥在第99分钟打入绝平球。11月26日小组赛末轮迎战斐济，中国队唯有取胜才能冲击32强淘汰赛席位。大家觉得浮岛敏的球队能顺利出线吗？欢迎在评论区聊聊！ #中国男足 #国少队 #U17世界杯 #赵松源"
+    },
+    "ru": {
+      "headline": "Сборная Китая U-17 набрала первое за 21 год очко на ЧМ, сыграв вничью с Марокко — 2:2",
+      "seo_title": "Китай — Марокко 2:2: дубль Чжао Сунъюаня на ЧМ U-17",
+      "subheadline": "Форвард Чжао Сунъюань оформил дубль в Дохе, но гол на 99-й минуте лишил команду Сатоси Укисимы победы.",
+      "body_markdown": "Юношеская сборная Китая (до 17 лет) завоевала свое первое очко на чемпионатах мира FIFA U-17 с 2005 года, сыграв вничью 2:2 с командой Марокко в понедельник, 23 ноября 2026 года, в Дохе. Нападающий Чжао Сунъюань (Zhao Songyuan) оформил дубль и обеспечил китайцам комфортное преимущество в два мяча, однако марокканцы совершили камбэк, сравняв счет на девятой добавленной минуте ко второму тайму.\n\n## Чжао прервал 21-летнюю безголевую засуху\n\nКитайская сборная подошла ко второму туру группы H под серьезным давлением после сокрушительного поражения от Испании (0:5) на старте турнира 20 ноября. Главный тренер Сатоси Укисима (Satoshi Ukishima) сделал всего одно изменение в стартовом составе, выпустив Пань Чаовэя (Pan Chaowei), и эта ставка сыграла уже на второй минуте. Чжао перехватил неточный вынос марокканцев на чужой половине поля, на дриблинге прошел двоих защитников, ворвался в штрафную и низовым ударом уложил мяч в нижний угол. Этот гол стал для мужской сборной Китая U-17 первым на мировых первенствах за 21 год — предыдущий мяч забил Ян Сюй (Yang Xu) в четвертьфинале ЧМ-2005 в Перу против Турции.\n\nМарокканцы, доходившие до четвертьфиналов на двух предыдущих мундиалях (в 2023 и 2025 годах) и привезшие в Доху состав с 14 футболистами из европейских клубов, до перерыва безуспешно пытались вскрыть организованную оборону соперника. А на 57-й минуте Китай удвоил преимущество в стремительной контратаке: вингер Хэ Сыфань (He Sifan) навесил с правого фланга, и 194-сантиметровый Чжао в районе вратарской замкнул передачу, оформив дубль.\n\n## Драма на 99-й минуте\n\nПерелом наступил на 64-й минуте, когда китайский защитник Нань Цзысюнь (Nan Zixun) сфолил в своей штрафной, придержав оппонента руками. Форвард сборной Марокко Зияд Баха (Ziyad Baha) хладнокровно реализовал пенальти, сократив отставание до 2:1. В оставшееся время «Атласские львы» практически не выпускали соперника с его половины поля, и на 99-й минуте Логмани (Loghmani) первым успел на добивание с близкого расстояния, восстановив паритет.\n\n«Я был счастлив помочь команде двумя мячами, но нам не удалось удержать победу, — признался после матча Чжао. — Пропустить на последних секундах — это невероятно обидно». Сразу после финального свистка Укисима собрал подопечных в круг прямо на газоне: «Парни здорово справились с тактическим планом против столь индивидуально сильного соперника, однако мы слишком рано прижались к воротам и потеряли концентрацию в самой концовке».\n\n## Все решится в матче с Фиджи\n\nПосле этого тура Испания возглавляет квартет H с шестью очками, разгромив Фиджи в понедельник со счетом 15:0. Марокко идет на втором месте с четырьмя баллами (разница мячей «+6»), Китай занимает третью строчку с одним очком (разница «-5»), а Фиджи замыкает таблицу без набранных очков и с 21 пропущенным мячом за две игры.\n\nВ расширенном формате турнира с участием 48 сборных и 12 групп в 1/16 финала выходят по две лучшие команды из каждого квартета, а также восемь лучших сборных, занявших третьи места. Китай завершит групповой этап матчем против Фиджи в четверг, 26 ноября, в Дохе — для продолжения борьбы за плей-офф азиатской команде необходима только победа.",
+      "social_post": "Первое очко за 21 год! Сборная Китая U-17 упустила победу над Марокко (2:2) в Дохе, ведя 2:0 благодаря дублю 194-сантиметрового Чжао Сунъюаня — марокканцы спаслись на 99-й минуте. 26 ноября подопечные Сатоси Укисимы сыграют с Фиджи, где победа откроет дорогу в 1/16 финала. Удастся ли Китаю выйти из группы? Делитесь мнением в комментариях! #ЧМU17 #ФутболКитая #FIFAU17"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Satoshi_Yamaguchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Satoshi_Yamaguchi.jpg",
+        "artist": "TAKA@P.P.R.S",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Satoshi Yamaguchi cropped from, 2011.07.10 Omiya Ardija 2-3 Gamba Osaka_105",
+        "width": 1200,
+        "height": 1572,
+        "year": 2011,
+        "subject": "Satoshi Yamaguchi (footballer, born 1978)",
+        "asked": "Satoshi Ukishima",
+        "page_title": "Satoshi Yamaguchi (footballer, born 1978)",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:satoshi_yamaguchi.jpg|Satoshi Yamaguchi (footballer, born 1978)",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'"
+          ],
+          "shows": "footballer Satoshi Yamaguchi playing for Gamba Osaka",
+          "reason": "The story features coach Satoshi Ukishima, but the photo shows a different person, footballer Satoshi Yamaguchi.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg/1280px-Sifan_Hassan_2023_Chicago_Marathon_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Sifan_Hassan_2023_Chicago_Marathon_(cropped).jpg",
+        "artist": "Chad Veal",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Sifan Hassan at the 2023 Chicago Marathon which she won in the 2nd fastest marathon time to date.",
+        "width": 1200,
+        "height": 1799,
+        "year": 2023,
+        "subject": "Sifan Hassan",
+        "asked": "He Sifan",
+        "page_title": "Sifan Hassan",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:sifan_hassan_2023_chicago_marathon_(cropped).jpg|Sifan Hassan",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'He Sifan' but the photo comes from the page 'Sifan Hassan'"
+          ],
+          "shows": "marathon runner Sifan Hassan competing in the 2023 Chicago Marathon",
+          "reason": "The story is about Chinese youth football player He Sifan, not Dutch distance runner Sifan Hassan.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-24-news-95243b.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "China U-17 2 - 2 Morocco U-17 · FIFA U-17 World Cup",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Satoshi Yamaguchi (footballer, born 1978)' looks WRONG (shows footballer Satoshi Yamaguchi playing for Gamba Osaka; asked for 'Satoshi Ukishima' but the photo comes from the page 'Satoshi Yamaguchi (footballer, born 1978)'; The story features coach Satoshi Ukishima, but the p). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 2 captioned 'Sifan Hassan' looks WRONG (shows marathon runner Sifan Hassan competing in the 2023 Chicago Marathon; asked for 'He Sifan' but the photo comes from the page 'Sifan Hassan'; The story is about Chinese youth football player He Sifan, not Dutch dista). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2011. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: http://www.news.cn"
+      }
+    ]
+  },
+  {
     "id": "2026-11-24-news-928d27",
     "slug": "kun-khmer-champion-chhut-serey-vannthong-outpoints-riki-at-k",
     "date": "2026-11-24",

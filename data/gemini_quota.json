@@ -1,13 +1,13 @@
 {
-  "day": "2026-11-23",
+  "day": "2026-11-24",
   "exhausted": [],
   "no_search": false,
   "usage": {
     "gemini-3.8-flash": {
-      "ok": 46,
+      "ok": 10,
       "fail": 0,
-      "in": 85997,
-      "out": 83775
+      "in": 21334,
+      "out": 36334
     }
   }
 }
