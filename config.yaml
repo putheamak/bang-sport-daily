@@ -107,7 +107,7 @@ sports:
   motorsport: {weight: 0.8, keywords: ["formula 1", "f1", "grand prix", "motogp", "一级方程式", "формула-1", "формула 1"]}
   olympic:    {weight: 1.0, keywords: ["olympic", "athletics", "swimming", "gymnastics", "figure skating", "table tennis", "badminton", "volleyball", "奥运", "乒乓", "羽毛球", "排球", "олимп", "фигурн", "хоккей"]}
   hockey:     {weight: 0.8, keywords: ["nhl", "khl", "ice hockey", "冰球", "кхл", "нхл"]}
-  cricket:    {weight: 0.5, keywords: ["cricket", "ipl", "test match"]}
+  cricket:    {weight: 0.5, keywords: ["cricket", "ipl", "test match", "twenty20", "t20i", "the ashes", "板球", "крикет"]}
 
 # Extra score for the biggest events
 boost: ["world cup", "champions league final", "olympics", "nba finals", "grand slam", "wimbledon", "super bowl",

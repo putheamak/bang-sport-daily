@@ -16,7 +16,7 @@ from .common import DATA, read_json
 PAGE = "talking-points.html"
 
 T = {
-    "en": {"nav": "Talking Points", "title": "Talking Points",
+    "en": {"other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
            "intro": "What the sports world is talking about right now, ranked by how many independent news outlets are covering it.",
            "updated": "Updated every 4 hours · last update", "combat": "Combat Watch",
            "combat_note": "MMA, boxing, kickboxing, Muay Thai and Kun Khmer. Kun Khmer is always listed.",
@@ -30,7 +30,7 @@ T = {
            "all": "All talking points", "empty": "No talking points right now. The next update is within 4 hours.",
            "box": "Talking Points", "box_note": "Most-covered stories right now", "share_on": "Share and discuss on",
            "desc": "The sport stories most covered by independent news outlets right now, updated every 4 hours."},
-    "zh": {"nav": "热议话题", "title": "热议话题",
+    "zh": {"other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
            "intro": "体育圈此刻在谈论什么——按报道该话题的独立新闻媒体数量排序。",
            "updated": "每 4 小时更新 · 最近更新", "combat": "格斗观察",
            "combat_note": "综合格斗、拳击、踢拳、泰拳与高棉拳。高棉拳话题始终列出。",
@@ -43,7 +43,7 @@ T = {
            "all": "查看全部热议话题", "empty": "暂无热议话题，4 小时内更新。",
            "box": "热议话题", "box_note": "此刻报道最多的体育新闻", "share_on": "分享并讨论",
            "desc": "此刻被最多独立新闻媒体报道的体育新闻，每 4 小时更新。"},
-    "ru": {"nav": "Темы дня", "title": "Темы дня",
+    "ru": {"other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
            "intro": "О чём сейчас говорит спортивный мир: темы по числу независимых СМИ, которые о них пишут.",
            "updated": "Обновляется каждые 4 часа · последнее обновление", "combat": "Единоборства",
            "combat_note": "ММА, бокс, кикбоксинг, муай-тай и кун кхмер. Кун кхмер показываем всегда.",
@@ -106,6 +106,31 @@ def _time(iso: str | None, lang: str) -> str:
     return f'<time class="ago" datetime="{E(d.isoformat())}">{d.strftime("%d %b, %H:%M")} UTC</time>'
 
 
+def _sport_name(cfg, key: str | None, lang: str) -> str:
+    if not key:
+        return T[lang]["other"]
+    from .site import section_name
+    return section_name(cfg, key, lang)
+
+
+def _filters(cfg, lang: str, stories: list[dict]) -> str:
+    """Sport tabs with counts, in the site's section order; plain buttons (a small script shows/hides cards)."""
+    from .site import NAV_ORDER
+    s = T[lang]
+    counts: dict[str, int] = {}
+    for st in stories:
+        k = st.get("sport") or "other"
+        counts[k] = counts.get(k, 0) + 1
+    if len(counts) < 2:
+        return ""
+    order = ([k for k in NAV_ORDER if k in counts] + [k for k in counts if k not in NAV_ORDER and k != "other"]
+             + (["other"] if "other" in counts else []))
+    chips = f'<button type="button" class="tp-chip on" data-f="all" aria-pressed="true">{E(s["all_f"])} <b>{len(stories)}</b></button>'
+    chips += "".join(f'<button type="button" class="tp-chip" data-f="{E(k)}" aria-pressed="false">'
+                     f'{E(_sport_name(cfg, None if k == "other" else k, lang))} <b>{counts[k]}</b></button>' for k in order)
+    return f'<div class="tp-filters" role="group" aria-label="{E(s["filter"])}">{chips}</div>'
+
+
 def _since(st: dict) -> str | None:
     """The earlier of: first seen by our radar, the lead outlet's publication time."""
     vals = []
@@ -139,8 +164,8 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
     src = ", ".join(f'<a href="{E(r["link"])}" target="_blank" rel="noopener nofollow">{E(r["source"])}</a>' for r in refs[:4])
     more = f' +{len(refs) - 4}' if len(refs) > 4 else ""
     kun = '<span class="tp-kun">Kun Khmer</span>' if st.get("kun_khmer") else ""
-    sport = E((st.get("sport") or "sport").replace("_", " "))
-    return (f'<li class="tp-item" id="{anchor}"><span class="tp-rank">{rank}</span><div class="tp-body">'
+    sport = E(_sport_name(cfg, st.get("sport"), lang))
+    return (f'<li class="tp-item" id="{anchor}" data-sport="{E(st.get("sport") or "other")}"><span class="tp-rank">{rank}</span><div class="tp-body">'
             f'<div class="tp-meta">{kun}<span class="tp-sport k-{E(st.get("sport") or "default")}">{sport}</span>'
             f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["since"])} {_time(_since(st), lang)}</span></div>'
             f'<h2>{E(title)}</h2><p class="tp-src">{E(s["sources"])}: {src}{more}</p>'
@@ -158,8 +183,9 @@ def page_body(cfg, lang: str, data: dict, articles: list[dict], base: str) -> st
     citems = "".join(_item(cfg, lang, i, st, ours.get(st["key"]), base) for i, st in enumerate(combat, 1))
     main = (f'<ol class="tp-list">{items}</ol>' if items else f'<p class="empty">{E(s["empty"])}</p>')
     return f"""<div class="wrap tp-head"><h1>{E(s["title"])}</h1><p class="tp-intro">{E(s["intro"])}</p>
-<p class="tp-upd">{E(s["updated"])} {_time(data.get("updated"), lang)}</p></div>
-<div class="wrap homegrid tp-grid"><div class="maincol">{main}</div>
+<p class="tp-upd">{E(s["updated"])} {_time(data.get("updated"), lang)} <span class="tp-clock" data-at="{E(data.get("updated") or "")}"></span>
+ · {E(s["next"])} <span class="tp-next" data-at="{E(data.get("updated") or "")}"></span></p></div>
+<div class="wrap homegrid tp-grid"><div class="maincol">{_filters(cfg, lang, stories)}{main}</div>
 <aside class="rail">
 {f'<section class="tp-combat"><h2>{E(s["combat"])}</h2><p>{E(s["combat_note"])}</p><ol class="tp-list tp-dark">{citems}</ol></section>' if citems else ''}
 <section class="box tp-how"><h4 class="boxh">{E(s["how"])}</h4>
@@ -197,6 +223,12 @@ document.querySelectorAll('time.ago').forEach(function(t){var m=(Date.now()-new 
 t.textContent=m<60?f.format(-Math.max(1,Math.round(m)),'minute'):m<2880?f.format(-Math.round(m/60),'hour'):f.format(-Math.round(m/1440),'day')});
 document.querySelectorAll('[data-copy-url]').forEach(function(b){b.addEventListener('click',function(){var u=b.getAttribute('data-copy-url');
 (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(function(){b.textContent=b.dataset.done}).catch(function(){prompt('',u)})})});
+var tf={hour:'2-digit',minute:'2-digit'};
+document.querySelectorAll('.tp-clock').forEach(function(c){var d=new Date(c.dataset.at);if(!isNaN(d))c.textContent='('+d.toLocaleTimeString(l,tf)+')'});
+document.querySelectorAll('.tp-next').forEach(function(c){var d=new Date(c.dataset.at);if(isNaN(d))return;c.textContent=new Date(d.getTime()+4*3600000).toLocaleTimeString(l,tf)});
+document.querySelectorAll('.tp-filters').forEach(function(g){var bs=g.querySelectorAll('.tp-chip'),list=g.parentNode.querySelector('.tp-list');
+bs.forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.f;bs.forEach(function(x){var on=x===b;x.classList.toggle('on',on);x.setAttribute('aria-pressed',on)});
+list.querySelectorAll('.tp-item').forEach(function(it){it.hidden=!(f==='all'||it.dataset.sport===f)})})})});
 document.querySelectorAll('.tp-discuss').forEach(function(d){d.addEventListener('toggle',function(){if(d.open)document.querySelectorAll('.tp-discuss[open]').forEach(function(o){if(o!==d)o.open=false})})});
 })();
 </script>"""

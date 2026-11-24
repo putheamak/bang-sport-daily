@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" href="feed.xml" title="RSS">
 <link rel="preload" href="../fonts/oswald-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="icon" href="../favicon.ico" sizes="32x32"><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="stylesheet" href="../style.css?v=e2a507f1">
+<link rel="stylesheet" href="../style.css?v=91a0870e">
 <meta name="robots" content="max-image-preview:large">
 
 </head>
@@ -47,6 +47,12 @@ document.querySelectorAll('time.ago').forEach(function(t){var m=(Date.now()-new 
 t.textContent=m<60?f.format(-Math.max(1,Math.round(m)),'minute'):m<2880?f.format(-Math.round(m/60),'hour'):f.format(-Math.round(m/1440),'day')});
 document.querySelectorAll('[data-copy-url]').forEach(function(b){b.addEventListener('click',function(){var u=b.getAttribute('data-copy-url');
 (navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(function(){b.textContent=b.dataset.done}).catch(function(){prompt('',u)})})});
+var tf={hour:'2-digit',minute:'2-digit'};
+document.querySelectorAll('.tp-clock').forEach(function(c){var d=new Date(c.dataset.at);if(!isNaN(d))c.textContent='('+d.toLocaleTimeString(l,tf)+')'});
+document.querySelectorAll('.tp-next').forEach(function(c){var d=new Date(c.dataset.at);if(isNaN(d))return;c.textContent=new Date(d.getTime()+4*3600000).toLocaleTimeString(l,tf)});
+document.querySelectorAll('.tp-filters').forEach(function(g){var bs=g.querySelectorAll('.tp-chip'),list=g.parentNode.querySelector('.tp-list');
+bs.forEach(function(b){b.addEventListener('click',function(){var f=b.dataset.f;bs.forEach(function(x){var on=x===b;x.classList.toggle('on',on);x.setAttribute('aria-pressed',on)});
+list.querySelectorAll('.tp-item').forEach(function(it){it.hidden=!(f==='all'||it.dataset.sport===f)})})})});
 document.querySelectorAll('.tp-discuss').forEach(function(d){d.addEventListener('toggle',function(){if(d.open)document.querySelectorAll('.tp-discuss[open]').forEach(function(o){if(o!==d)o.open=false})})});
 })();
 </script><section class="box cta"><h4>关注我们的 Telegram 频道</h4><a class="btn" href="https://t.me/bangsportdaily_zh" target="_blank" rel="noopener">加入频道 →</a> <a class="btn fbbtn" href="https://www.facebook.com/bangsportdaily" target="_blank" rel="noopener">Facebook →</a></section><section class="box"><h4 class="boxh">关于作者</h4><div class="authorbox"><span class="mono">M</span><div><b>Mak</b><p>Mak 是棒体育日报的创办人兼主编，常驻柬埔寨金边，多年关注世界体育，每篇文章发布前均由他审核。</p><a class="pen" href="author">全部文章</a> · <a class="pen" href="editorial">编辑方针</a></div></div></section></aside>
