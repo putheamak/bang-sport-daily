@@ -1,8 +1,7 @@
-2026-11-24 04:28:54,068 INFO Photo check Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg (Wikimedia Commons, 4864x3648): REFUSED, licence 'FAL' is not a free licence
-2026-11-24 04:28:54,068 WARNING No free-licence lead photo for Wikipedia article 'Yevgeni Trefilov'
-2026-11-24 04:28:54,068 INFO Photos for 2026-11-23-news-23b075 set from photos.yaml (1 photo(s))
-2026-11-24 04:28:55,051 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 04:29:03,005 INFO Photo check 2026-11-23-news-23b075 #1 'Sergey Shishkarev': OK
-2026-11-24 04:29:04,510 INFO IndexNow: 6 page(s) submitted (HTTP 200)
-2026-11-24 04:29:05,437 INFO Website built: 77 published stories, 276 pages
-2026-11-24 04:29:05,439 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 37 ok / 0 failed (72,812 in / 78,410 out tokens) · estimated cost if billed: US$0.349
+2026-11-24 04:30:04,165 INFO Photo check Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg (Wikimedia Commons, 4864x3648): OK, licence 'FAL'
+2026-11-24 04:30:04,165 INFO Photos for 2026-11-23-news-23b075 set from photos.yaml (2 photo(s))
+2026-11-24 04:30:04,990 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-24 04:30:11,295 INFO Photo check 2026-11-23-news-23b075 #1 'Yevgeni Trefilov in August 2016': OK
+2026-11-24 04:30:18,797 INFO Photo check 2026-11-23-news-23b075 #2 'Sergey Shishkarev': OK
+2026-11-24 04:30:19,864 INFO Website built: 77 published stories, 276 pages
+2026-11-24 04:30:19,866 INFO Gemini today (2026-11-23, Pacific): gemini-3.8-flash 39 ok / 0 failed (75,808 in / 78,929 out tokens) · estimated cost if billed: US$0.353

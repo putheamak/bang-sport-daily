@@ -1257,6 +1257,30 @@
     "region": "russia",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg/1280px-Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg",
+        "artist": "A.Savin",
+        "license": "FAL",
+        "license_url": "http://artlibre.org/licence/lal/en",
+        "description": "Yevgeny Trefilov (b. 1955) is head coach of Russia women's handball team",
+        "width": 1200,
+        "height": 900,
+        "year": 2016,
+        "subject": "Yevgeni Trefilov in August 2016",
+        "asked": "Yevgeni Trefilov",
+        "page_title": "Yevgeni Trefilov",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:handball_yevgeny_trefilov_moscowtass_08-2016.jpg|Yevgeni Trefilov in August 2016",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Yevgeni Trefilov at a press conference",
+          "reason": "The photo clearly shows Russian handball coach Yevgeni Trefilov at a press conference in 2016.",
+          "by": "ai"
+        }
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg",
         "artist": "Semenforyou",
@@ -1274,17 +1298,17 @@
           "key": "https://commons.wikimedia.org/wiki/file:sergey_shishkarev_2023.jpg|Sergey Shishkarev",
           "verdict": "ok",
           "flags": [],
-          "shows": "portrait of Russian Handball Federation president Sergey Shishkarev",
-          "reason": "Accurately depicts Russian businessman and Handball Federation chief Sergey Shishkarev in a formal portrait.",
+          "shows": "portrait of Russian handball chief Sergey Shishkarev in a suit",
+          "reason": "The photo accurately portrays Sergey Shishkarev, the president of the Handball Federation of Russia referenced in the headline.",
           "by": "ai"
         }
       }
     ],
     "standards": [
       {
-        "level": "BLOCK",
+        "level": "WARN",
         "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+        "msg": "Cover photo is from 2016. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
       },
       {
         "level": "INFO",
@@ -1292,7 +1316,7 @@
         "msg": "Verify: The outcome of HFR talks with IHF president Hassan Moustafa concerning the proposed wild card for the 2027 World Championship"
       }
     ],
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Yevgeni Trefilov\", \"wikipedia\": \"Yevgeni Trefilov\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"Yevgeni Trefilov in August 2016\", \"wikipedia\": \"Yevgeni Trefilov\"}]}"
   },
   {
     "id": "2026-11-23-news-b02637",

@@ -27,9 +27,14 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## 📝 DRAFT · Trefilov Rejects 2028 Olympic Medal Guarantee by Russian Handball Chief
 `2026-11-23-news-23b075` · 2026-11-23
 
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg/1280px-Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Yevgeni Trefilov in August 2016**<br>2016 · FAL · [source](https://commons.wikimedia.org/wiki/File:Handball_Yevgeny_Trefilov_MoscowTass_08-2016.jpg)<br>AI sees: _Yevgeni Trefilov at a press conference_
+<br clear="left">
+
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Sergey_Shishkarev_2023.jpg/1280px-Sergey_Shishkarev_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Russian Handball Federation president Sergey Shishkarev_
+**2. 🟢 OK**<br>Caption: **Sergey Shishkarev**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Sergey_Shishkarev_2023.jpg)<br>AI sees: _portrait of Russian handball chief Sergey Shishkarev in a suit_
 <br clear="left">
 
 ---
