@@ -1,350 +1,193 @@
 {
-  "updated": "2026-11-24T01:42:21+00:00",
+  "updated": "2026-11-24T05:42:23+00:00",
   "stories": [
     {
-      "key": "89e63f7590",
-      "title": "Федерация бокса России стала полноправным членом World Boxing",
-      "summary": "Федерация бокса России стала полноправным членом World Boxing sport-interfax.ru",
-      "lang": "ru",
+      "key": "af79b04d7e",
+      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
+      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 15.91,
+      "published": "2026-11-23T18:30:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
+          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
+          "title": "Conor McGregor returns to MMA training for final UFC fight"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
+          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
+          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
+        },
+        {
+          "source": "BVM Sports",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWFrWExYeHhWR3VwN1R4S2NJNE1rMDR6eEx0eFdhTjE5WVIxQnlYNERJQURhM3hpc2pXVllMUi1UbnBmRWdkbWJadUIzMmRwdnZJOGRzYzFsaC1IVVdmUmlfbUxoeEFmck1XVDJjTHRPcmpFRGx1bVlqcW83Z051aF9iMW94UEpxY0VLbVpzUm5Iel9zNFVCWg?oc=5",
+          "title": "Conor McGregor Returns to Gym as Knee Recovers From Surgery"
+        },
+        {
+          "source": "DAZN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
+          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
+        }
+      ]
+    },
+    {
+      "key": "7ce00d92ec",
+      "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane",
+      "summary": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane Sherdog",
+      "lang": "en",
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 15.31,
-      "published": "2026-11-23T19:23:53+00:00",
+      "heat": 14.52,
+      "published": "2026-11-24T03:29:39+00:00",
       "refs": [
         {
-          "source": "sport-interfax.ru",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjdqejJSN055NXVvblduWGNfRFNid3I5VzV4Vjg2QTBkMWVoSXZQMXBEdXcwLXVKVnZ1LVFrVzh6UVZja2w4VENvd1pmd9IBU0FVX3lxTE9ZakE5LV8ybms0ZElhcU5pUEFzNDZ3WnFFRDhkM1JTU2hYSjlyOGcydWhTbjk0djVrWHlqdEhwdXRFbHpzY0RYVHBLdFFQcl90NTBj?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXg4elhGdG9KWG9RQ3NQcFZ6UktxaVRYZFV0Z1pTdTJmTVVBZ2M0SEpvRDB0Tmd0eHJUN0lQVE5IUXBDNEl2YVB1czhER1ppS1JDa1pHc0w3OUx5TlpJOHBTVjRMRi1YT0tOWVpNdmdFWjFuRmhBb3BEY3lEb29pQ3FtcEFTcTZzUmlnQjd0R05SREJIdm5mRTVieU1TX0VST3UzNXlsS0x5N1drUWJ1all0dkwwTDdGaExSbmktZFZReDlGa0RlYnl30gHPAUFVX3lxTE96OVYzcFphN0RSaTk2TmRHSExRWk1DWVc0RnNmYzZTRGE4RlgyV19UbWEwemJTZ1J3bTFnV2xiNnpsa3VkQjFfczRuVjgtejRVN3YtX3RyRTFVd1ludHRvVmdTaUZKODUtQWI1eW5IcFdfMzZTYUtha3FBaTJhZWNYVkZNTm1XZGVvVXZTV25UX3RDdW5uVXJSTlNZMXNQRDROdjVadWgybGd5THdDZll0N1ExOU5fdWEwZW04azVJVU53azExQTNWckk3REVscw?oc=5",
+          "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane"
         },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS14dXVPREdFNmloX1JOWC1iaXFkOW5RclNqZjFzY0NhV0lPNDRLU3RPR3VHSTBrVlpCSXl0TXdzV3I4LU1odS1VRnBWWlQzdWJvYVRRRWpwa0hKUC13MmdnbWY4UjVOdHJiSktBMDFsV0E4VG1jQzRZelZnYW9sS2lsWFZhN2FYME1xd0JtTkVLR18xdXM2Y0Jodk1PX25fRmtuMmdxN3A?oc=5",
+          "title": "UFC Star Josh Hokit Unloads on Ciryl Gane After UFC 334 Vision Accusation"
+        },
+        {
+          "source": "The Lufkin Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGJFaEVoejFOTk5fU1lfNnpfNnhsY2FRTXNpSU5LOU5jMjRGTjY1NjlaMmZNZTRqckV0ZWR6RGZxZzd3MlRtQmhZczVNSzVSQ2E2QXNLX3YtTXMtT0d1d0w0NGlwUnpNUlREeWc4czdpWjBMZXBfaHZxeEd1amNud3duMEJJc0xVc3NJMzdvVGJ2VzBScmhUdjNNSU9YNll0V0tXeC1oRG9DcFlIRTZpcEFURGpuWi1BWUlXZzh5dDhocFIzaFUyb2cyaFFKLXJrdU56a1N6ZDZTWFkwZ2dRVURLZjNMLVNyNFN3VQ?oc=5",
+          "title": "Josh Hokit, UFC Freedom 250/White House media day interview"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbk92NkpsXy1SQl9laWt1NGNZUTRMcVI3djRnc2xnTExRNEl5bV9BaTJObWN4WmFfY05JOHZmZlRtd2E5c1d1SGh5SFQxd0dGWXpteWM5b29HZklVRm51TnpYd3k0b3lvcDNJUzFPZE51bmpiMTlQTkhLTFI2YVdleHpEYjFjbnhsMUlaaXg2V3F3d0VfTzg2aGc4REJwdVJERGNfaFhyczdZM1dqdGVWQVFYNE04TkJBWHVSdzJHejhZbHc4TVIzb2JSOURTSk1odHJ6Zw?oc=5",
+          "title": "Josh Hokit responds to Jon Jones' insinuation of dating underage girls"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFVGQ0RvZzNYcWhJN1Z0WHFoTVNIVDloQzlNTjZVYmE1cDFiblc1eDgxTTRIUkxXcXJlZ3ZjRTlnVkdIU0ExZ3F1R0pRT3NUNjFxNUhGZkFyUlVNUm5HR0xRdXJ2b3RNd3FoS0RjMFN6SHplRXZBSVRaOWtndkxyRk95dm5ROGg1TVBxWGZhMUpOVFVJa3c0eE90QmtHQzIzYzRiaFJpaHpvLUh1VDliYnNwVXNISjd1LWx6RFpGSVhiNGZJVXFJWGh3NVVDMEtlMW1PYXdPUWVDTWc?oc=5",
+          "title": "Josh Hokit details old sparring sessions with 'clout demon' Jon Jones: 'I got the better of him'"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjhYczVYdXBMeXhyWTU1cTFQMDU3bmdHNmRyVlpmVEJfdUJad2JHcDNQTm1FZjg2RzQ1NVhNUTdyblRoZkJDM1BRT0w0cmNGQ3duYWtPcEk3V0xHYmZEUk4zcGZ1aGRtb0kya2ZaSjNMNEd4a1hwX29YTzFsdG01ZGMyVU43Q0pkUlM5UGhwV2NCUHg2bUVGSTk2OVdTWTI0bEVKUEZHUUs2OEF0bE90Rng2U3E2SWdJT2FOdGFUOGk1YWZQMUlDeFpaT3pFMTVwZ2Exdy0wR1h3bmw5YjU4Y0x1bGpteFh0dUxmTFhlZEg?oc=5",
+          "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time"
+        }
+      ]
+    },
+    {
+      "key": "ac95dfe905",
+      "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ",
+      "summary": "",
+      "lang": "ru",
+      "sport": "hockey",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.93,
+      "published": "2026-11-24T05:41:17+00:00",
+      "refs": [
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261123/boks-2133476962.html",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
+          "link": "https://ria.ru/20261124/khokkey-2133541731.html",
+          "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ"
         },
         {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Q3ZkbmtjNm9fVlg3LXZzZFhKVDZxNFZ0N2pwcWp4d25xN1Z5V1Q2bmM0U1MwRTNWVzByTmg5UkRta2ZRdnFPeks0Z1JjUnFtYzIwVllmdG4?oc=5",
-          "title": "Федерация бокса России вступила в World Boxing в качестве полноправного члена"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRJNTlwUWhhYWxnT1hZUUI3XzRmZXZVb1VtRDVEbXRhRWxhbFFOZngxWUV6Rm1vaFZPWmc3a18zaWJOU24yT3BuVDlrdk5BX3I3MTU3ZGNsUFZJSk9SNVpXRUY0SVQyODh2cENvWkhrRi0zSlM5YTV0YkZoNjdtazAyb2RVOE93MFN1bXRCYURrUHBvUmludlBqU3BTcmhxcHBGU0d3?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6711818-san-hose-sharks-minnesota-uajld-rezultat-matcha-24-noyabrya-2026-goda-schet-2-5-regulyarnyj-chempionat-nhl-2026-2027.html",
+          "title": "Гол и три результативные передачи Капризова помогли «Миннесоте» победить «Сан-Хосе»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/news/federaciya-boksa-rossii-stala-polnopravnym-chlenom-world-boxing-po-itogam-kongressa-v-paname-2478013/",
-          "title": "Федерация бокса России стала полноправным членом World Boxing по итогам конгресса в Панаме"
+          "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-ustanovil-novyy-rekord-minnesoty-po-dline-rezultativnoy-serii-2478232/",
+          "title": "Капризов побил свой же новый рекорд в «Миннесоте» по длине результативной серии"
         },
         {
-          "source": "Челны-ТВ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbG52NnptTWF1ZGQ0dXMzbk5NWDZJbmlVZlJteU1rWU5MT25YWTMxTmpKRXhGaVM0bXdhUnlucmJrTW1aTHdRdXlfdk9Vcm5ma0Y4dFVRei11anhONENGd0t3WHM0WktqajI2ak1XNm9iY1dnRmxNeGNWRnVlNVRQVWxpd0VmZjlqTHV4bE85eHFBZXA0bWREaGFSQ0hRSTNlbHFsWTdkajVNVnpLdFE?oc=5",
-          "title": "📰 Федерацию бокса России приняли в World Boxing — голосовали в Панаме"
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117446224-nxl-ajlenders-primut-toronto-monreal-protiv-los-andzhelesa.html",
+          "title": "НХЛ. «Айлендерс» проиграли «Торонто», «Монреаль» уступил «Лос-Анджелесу», «Миннесота» забросила 5 шайб «Сан-Хосе»"
         }
       ]
     },
     {
-      "key": "407b89e179",
-      "title": "Баку и Алматы примут турниры UFC в 2027 году",
-      "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.22,
-      "published": "2026-11-23T15:37:59+00:00",
-      "refs": [
-        {
-          "source": "Вестник Кавказа",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDBneDRqdTZkNXFmQlBmYnZpUjhTeEpBLVFScExFTnR4bFhJdjFnVm9UMkppVmVIVUsxLUcwU1N1R3UyOThUSGY4bmNGTmZ0Mm43T3U5TUVwNGRzaE5xSHpfcWs2aW9SNjJLRHdqdVdRUEQwai1GQ1VqZW1UVUxtUVlTS0zSAUpBVV95cUxQR1BEZ3AxbEhuTC1lQXJ6c2FJdzRUeWR1bUx0RWZQalgtcWVqTWVBdl95cTNGTmt5NzAyRk5TdWZtaVZPVExlVGpBUQ?oc=5",
-          "title": "Баку и Алматы примут турниры UFC в 2027 году"
-        },
-        {
-          "source": "Советский спорт",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2tvbnFIQUhieHBoNnlNdXIwTEZPbk5XcTdWeDZKTGw4VUN1QnBRMzFqNnhVRzQxUXdwQTlWdkNRckdNbUQwSHJDbEdESmRfRlBPUWhfYkRZNE43TGZxeHU1aVp0TDNjOTJSQjlGcWJnMXh3RDhVZjUxVF9LU0VENjBPcU90am0yWFhlU2N2eVRITFBFclEza0ZzTmREU3g4ZDhKeUcxTnR0XzZwVTdEQQ?oc=5",
-          "title": "Источник: UFC может провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1BpZTFCTDZDVUl4dHVRdW5IeUNBOGthbmRBcnFkNU1jMjJfVG1KcVRWbW1fUUZfQ2g2bkRRQnVoQktrWWNVOGlQMmtCWUZqMUFINGpVVE12Y1huUlRESXpPeGh4aUU5d0czQUYzTDRWd1M5TFlFYlRzLXVpMUIxUnpaOHBDMzFoM2E4SVNGckZ6U3BfSHR5Vg?oc=5",
-          "title": "UFC проведёт турниры в Алма-Ате и Баку в 2027 году"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-ufc-planiruet-provesti-turniry-v-kazahstane-i-azerbaydzhane-v-2027-godu-2477936/",
-          "title": "ТАСС: UFC планирует провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
-          "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFVQUmVORENLRUdpaGRrcUJwR2JkLW45TlN3T3V6N1p6dXRGOWhWQWVQdVdLdWE3a2JCSm93QzJNVHhtbnVCTUtabFVRQ3VWa3M3U3N0NldzM0dRT0ZUakpYN2RxVnA4VWpkaUJTY0pPVGYxRXgxQXViNEowMEllVUlOeU1RNF91WWo5eW55Zm9TclZvU3R1dDNhSdIBoAFBVV95cUxNVkFfRnVnME8xZXJlNHJSUEVNaFd0emxBM0pJS1VoWGZlcmp6b3BsR05MVFdrNzBud0dZTl96NVNjN0t2aWtDd3h3RVBPWDlsdjA5TUVxTEw2SU9UbXJnd2hpN3cyb3BFR01pd0dGZlRScUlYemI1VUpzbDh1ek1PZnl3Wmp5NnpPV19pYjNxQTBHNHF2SGk1SFNxQ2dBR1pJ?oc=5",
-          "title": "Источник: UFC проведет турниры в Алма-Ате и Баку в 2027 году"
-        }
-      ]
-    },
-    {
-      "key": "3cc7cb12cc",
-      "title": "\"Брентфорд\" разгромил \"Эвертон\" в матче чемпионата Англии по футболу",
+      "key": "cbe782c193",
+      "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\"",
       "summary": "",
       "lang": "ru",
       "sport": "football",
       "outlets": 4,
       "growth": 0,
-      "heat": 11.44,
-      "published": "2026-11-23T22:12:55+00:00",
+      "heat": 10.72,
+      "published": "2026-11-23T19:04:13+00:00",
       "refs": [
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261124/futbol-2133512991.html",
-          "title": "\"Брентфорд\" разгромил \"Эвертон\" в матче чемпионата Англии по футболу"
+          "link": "https://ria.ru/20261123/tsska-2133500427.html",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\""
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSHhnRXVQZVJVOTlHWkg0LWgwaFQ3SVpCdlB3QlNpX3BBSXVSZmhLNkNXM1puTmV2SWVZN0xQWUk4UmFoWnJjOTdKb3NRWmhqa19SN0dvTzk5Wk8tSkZ0WkFzV3hwN28xTE50OTI4SmE2bHR2ZWZPQzlwX3k2NE5TdW1GVEFNYU1MRHFCczItT1ZLNDZVa2tSdTRqdzRHZFhNck5NU3RNUW5CMi1uVmk0MUl6Vk1oS3AyT29od1hmb0ZaR2ZEU0xFQVpzS0pQX3JSdlljRTk2UE1oMDJiS2FPX2h4M0RKVHd2a0VIeWZaUjB1OHJFMllwMmxXZ0hNdktUamcwNExvY3pXM1dubjJuUFM4aw?oc=5",
+          "title": "«Какая‑то системная дискредитация судейства и РПЛ». ЦСКА обратился в ЭСК по пенальти в матче с «Ахматом»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/england/news/brentford-everton-schet-i-rezultat-matcha-11-tura-chempionata-anglii-23-noyabrya-2026-2478192/",
-          "title": "«Брентфорд» разгромил «Эвертон» в матче чемпионата Англии"
+          "link": "https://www.sport-express.ru/football/rfpl/news/cska-obratilsya-v-esk-po-penalti-v-matche-s-ahmatom-2478141/",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче с «Ахматом»"
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117443253-chempionat-anglii-man-siti-primet-fakel-chelsi-sygraet-s-lidsom-arsena.html",
-          "title": "Чемпионат Англии. «Брентфорд» разгромил «Эвертон»"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/football/news-6711568-brentford-everton-rezultat-matcha-23-noyabrya-2026-schet-4-0-11-j-tur-anglijskoj-premer-ligi-apl.html",
-          "title": "«Брентфорд» в большинстве разгромил «Эвертон» в заключительном матче 11-го тура АПЛ"
+          "link": "https://www.sports.ru/football/1117446740-fonbet-kubok-rossii-put-rpl-czska-v-gostyax-u-akrona-zenit-primet-kryl.html",
+          "title": "Фонбет Кубок России. Путь РПЛ. ЦСКА в гостях у «Акрона», «Зенит» примет «Крылья», «Краснодар» сыграет с «Ахматом» в среду"
         }
       ]
     },
     {
-      "key": "a78d1ab8e6",
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
-      "lang": "en",
+      "key": "0002011b7e",
+      "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости",
+      "summary": "1. Европейская комиссия предложила запретить российским спортсменам выступать под национальным флагом в ЕС. Также в рамках нового пакета санкций готовят запреты на спонсорство и посты в федерациях . 2. ФФККР обновила критерии отбора на главные старты: будут учитывать психологическую готовность и конкурентоспособность фигуристов. Получается, состав на Евро просто назначат? 3. «ПСЖ» хочет продлить к",
+      "lang": "ru",
       "sport": "football",
       "outlets": 3,
       "growth": 0,
-      "heat": 9.47,
-      "published": "2026-11-23T22:31:27+00:00",
+      "heat": 9.64,
+      "published": "2026-11-24T04:10:00+00:00",
       "refs": [
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-          "title": "Janelt scores stunner as Brentford beat 10-man Everton"
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117446656-es-ogranichit-rossijskij-sport-ffkkr-menyaet-otbor-safonovu-gotovyat-k.html",
+          "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости"
         },
         {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-          "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/news/mat-kostylevoy-soobschila-chto-na-nee-napisali-zayavlenie-v-policiyu-2478012/",
+          "title": "Мать Костылевой сообщила, что на нее написали заявление в полицию"
         },
         {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-          "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton"
-        }
-      ]
-    },
-    {
-      "key": "92a8125dab",
-      "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic",
-      "summary": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic The New York Times Mets owner Steve Cohen paid $450 million for Tarik Skubal. His fellow MLB owners want to stop him from doing it again CNN Tarik Skubal gives union 450 million more reasons to fight salary cap ESPN 'Sku-bino has fallen': Biggest MLB rumors we're hearing on the feeding frenzy USA Today ",
-      "lang": "en",
-      "sport": null,
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.1,
-      "published": "2026-11-23T16:42:11+00:00",
-      "refs": [
-        {
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEI1Nk83cTZtS25nNVF2QlVlQzI1MDRIYkVXWkhIemllb0Q4UDZzWWlPRXRZeXZrUGx4ZzZxUmdVdkJoTU5Fa0gtWHJ3TjFkVHFLdlg3QzJkYjV1MDJlM1RXYzJTSVNqY2pTdHowX2g0bjNueXZqdDZUQmlEMGRYN294QTRIamJuQVA0MW44Si0yNTVIemNYekNfNU9Xc28?oc=5",
-          "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
-          "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnBsak5MVUoxUDdSUm5FWmRwbUNKN1FrMXRieUUtdk5DMVJiVjF1YmprYnVnZXZJQXpVR2djRVJHcHlXYU9xUE5XbDlRU01EVzZTTTVKb1UzMk53bG5JcHUtODJIUG5mcHlkWmdEdDVuS2dkY0o0YllMcUllTzZtajlWaGhYZTBrUDlZbFpaNXR3OUhULUNNQk5ITTQ?oc=5",
-          "title": "Source: Mets agree to 1-year deal with veteran 1B Paul Goldschmidt"
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iSkpncndFMkhUZHl3TVktd2pTVEV0Z3ZZVFk0M0dzZ0NVRHBMUFhTTGl0R1ZUNXZUN0gwbk5YcXltc0dKMDBwLTNDYWpYVWNaR081OEFsbkV4c1ZHZmhlM1JMekNkUXpTRHFNaEp30gFzQVVfeXFMTjhrNU9KSm1ReGFvaWJyMUJvemR3MXhSOHBsaWZ0M2YwVkVmZUJ1RWlDa0FSbG90YXlzQVIxUDFaZHpjSFZ5cEN3OE9sRmlrQXpqUkFjMThDeDhoZFdRNVN2QXYwY2lxMjUxc2RIbTdiQXRnOA?oc=5",
+          "title": "На мать фигуристки Костылевой написали заявление в полицию"
         }
       ]
     }
   ],
   "known": {
-    "6fe547e0ab": {
-      "key": "6fe547e0ab",
-      "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight",
-      "summary": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight MMA Fighting",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.5,
-      "published": "2026-11-20T07:44:13+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDA4c0pKdnFBX2NKVUhPVmNfVVUzaHprSTdyODJNbmxkb0NEUE56c2VfUUUzUHZQTWFNS1N1ck5wTDloSlh3M29YX3AzaWJMV0daakF5dDVBTVk1ZTkxaHZUUnlDa0I1Z0E5OFQwYUJQN2lTS3lNdUk5R3ZIWGh3YkFjaXprTk13NEttalFWUm1aT1FHakZ6SEpuUUw3WENKWFJ5QVNDbThGSkd5RGtCZ2dwQVJiXzJVVl9yaElFWlAydmtCeWJqOVlDZEI?oc=5",
-          "title": "UFC Qatar weigh-in results: Jiri Prochazka vs. Navajo Stirling official, 1 fighter misses weight"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuamFJU0NsYXkxcENEUUwzSzhtSTE3cUNYMExkcUQ4NjdfamdJS0c1SmhMMnYxNTNTMlBUVlo5c1lYU2s0dTlvR3gzV0p0UWVJcl9WZzhEcml1cnVpeWZ5eDdoN2VXSmRnTmc?oc=5",
-          "title": "UFC Fight Night: Prochazka vs Stirling | UFC Qatar"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ19QSElQSzlVMFdEamJ6MDJNWFlJZGRVWHNxSHducmhONXZvQnhoQXVLQkVxSXJuUjhBem5rUldGQ2hUb1VzZmVZN2tIbVNuTFpscUhhbnE0XzZPUUNDT2dwczNzQ1lROHhUeHZaSHh1NHlVbG9vTTZCcS1vVEVidA?oc=5",
-          "title": "UFC Qatar weigh-in video: Prochazka vs. Stirling"
-        },
-        {
-          "source": "Cageside Press",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOFlPdlRhTUxSSWlOZmhnNlZabEdOMHVEU0YzZmF5bHN3T1FZVHNnZklpaGliN0JILXdFUFBmLThINmdVZFZTS21rZFF3STNWZmVGQlRlRjRwYV9wbjlnYkQ1RGRZRDZtd1NtRzMyV3IyS0xwNFRIaVhUcGdXVGR5T2pDLXBZeWtySDRGbDVDbw?oc=5",
-          "title": "UFC Qatar: Prochazka vs. Stirling Weigh-In Results"
-        },
-        {
-          "source": "RotoGrinders",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQllRVGt0eHB1T0M1RDltR19MOG9TLTkxWFpnMm5QVjgyLVFITmRPZU9iZmFkdHAyWDUzS0VBZ1E1WnBEUVJkV1JyX3pVdms1NXl4Nm93SGNiXzFrLTJkUGhINFBmYUs0SHgzMWVXRGFQUk0zMTBBOGZvaGlTU0JUNGFvekZkTm9HLWM0em1PMWstTmZSNlMwenRCeW9HcTF5NXByMEdxNGE?oc=5",
-          "title": "UFC Fight Night - Prochazka vs. Stirling: MMA DFS Picks & Betting Breakdown"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdEYtRUpNVVlWdEQ2aEd6TDYxZVVzTDZfLVF0SE11bnBpMl9mNjJqSUxtY25Nbi1XTDR2TXVoTk91XzVWcmJ2OG81enAwOGFPdUNGMHpQakhFZzhNT0FuTFU4NWtGSUxuRmJlRmxMbmFOZURkZVJuTjVCQ2F6bWYtNHBQa0ZzYldqYWVsamZsbWR1X1poZ2ZRTVlqZUdPZEV5WjVsSVNLQS15NHNrbHhfb2dRNU9PVzV0V051T3prRmt3ZzFMZHh6SzNackl4YmFjTkdnVg?oc=5",
-          "title": "Ex-UFC champ says it's 'a little premature' for Navajo Stirling to fight Jiri Prochazka"
-        }
-      ]
-    },
-    "09a47b853b": {
-      "key": "09a47b853b",
-      "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294",
-      "summary": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294 Спорт Шредингера",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.96,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-20T08:16:43+00:00",
-      "refs": [
-        {
-          "source": "Спорт Шредингера",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOE9MclFmaDFUM040MXp1c2Qtdm9FaWNFSEZaZ1drY3NlcVRFVDdORllGOGJiajkzMlB0WDN0UGxfM3ozSXEyYlhtNTc1SFI4a1lNLXNpa1FPNXhRVnBjQXlvbmw4ZF82ZDZ4Z2dZYzg4WTEyS25CMkxxQ25haDd5MTNSOGpFQ2NRVG05cHNORmNuSUY2TWx4OG9tWVBDMVVjMm1pM29kY1lBLWM?oc=5",
-          "title": "Асу Алмабаев и Дияр Нургожай уложились в вес перед боями на UFC Fight Night 294"
-        },
-        {
-          "source": "airpress.kz",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tTG1RS0c0VkhQVU1VTnFvVDllTUNkZDJ4NkhzU2dDR2pCQ29jMGp6ZkM1elpCWjhKbDVYVEtWMVRlUzBCeTdDYWdCU1JzSHo2Nk9oczNCakd5Z2Y4SDRhZTkwX3VabkNpdlFEYlRQOFhQNEdQS0E?oc=5",
-          "title": "Алмабаев и Нургожай прошли взвешивание перед UFC в Дохе"
-        },
-        {
-          "source": "Kursiv Media",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNktFUWIza2REZThqeUR5N0RnWHFyZ2Vva2V6VV9DSVEwczdKT3lSWFN6NEF5YnpvU0dxNERjbkZzVmNReDRZSnpyd2dEZGxOUTRQMTZoRTJUUEtrZmVZS19NRlFrS1EwV2RaVGsxSzgzaGtHUHZ5R3N4QXJNdEdHOFRKYlh1UTZWdnZVemRDTGhUX2NWaElDaXdPZDRKalBGU0o1UmU5clJPMlgxc000c3Fzc1U?oc=5",
-          "title": "Дияр Нургожай рассказал об улучшенном контракте с UFC на четыре боя"
-        }
-      ]
-    },
-    "873a3b2d08": {
-      "key": "873a3b2d08",
-      "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам",
-      "summary": "«Вашингтон Кэпиталз» проведёт церемонию в честь клубного рекорда Александра Овечкина по результативным передачам перед домашним матчем Национальной хоккейной лиги с «Филадельфией Флайерз», сообщается на сайте столичной команды.",
-      "lang": "ru",
-      "sport": "olympic",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.54,
-      "published": "2026-11-20T08:09:04+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6706654-vashington-provedyot-ceremoniyu-v-chest-rekorda-ovechkina-po-peredacham.html",
-          "title": "«Вашингтон» проведёт церемонию в честь рекорда Овечкина по передачам"
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdXBJM3hLeEdzN0ZfX2lyMXM3VEJTbGIyLUZOeHk2d0tSTjVTVTByTUR5UlFEWEFSeVpNMnk0WGlkRktxOWlnamhBbV90RnUwdFZXREF4aDhBZ25ucDItcmhxcXRrZkszUWZvTDc1d09KdHFrMjl4SVNPYlhsZWw2dkhLNW1wU3c3WXBwUkdZakJkS3lHMV9WWERoeTNzOHkwckdMMlpUSTFCWktSM0dqY0p2Xzd5dm02czdaQU5aVEp6Y0txMEppcE4tUk1selhlWkx1VXRubkJmLXZQNVpKSWd1SWk?oc=5",
-          "title": "«Вашингтон» проведет церемонию в честь рекорда Овечкина по результативным передачам"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-ustroit-chestvovanie-ovechkina-v-chest-rekorda-po-peredacham-2476842/",
-          "title": "«Вашингтон» устроит чествование Овечкина в честь рекорда по передачам"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261120/ovechkin-2132870521.html",
-          "title": "\"Вашингтон\" проведет церемонию в честь рекорда Овечкина по передачам"
-        }
-      ]
-    },
-    "7cef1f36b2": {
-      "key": "7cef1f36b2",
-      "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях",
-      "summary": "Шведская миграционная служба намерена отказывать в выдаче виз российским спортсменам, планирующим принять участие в соревнованиях, проводимых на территории страны.",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.9,
-      "published": "2026-11-20T08:52:34+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/skiing/news-6706706-shveciya-planiruet-ne-vydavat-vizy-rossijskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah.html",
-          "title": "Швеция планирует не выдавать визы российским спортсменам для участия в соревнованиях"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/skiing/1117442369-shvecziya-ne-budet-vydavat-vizy-rossijskim-sportsmenam.html",
-          "title": "Швеция не будет выдавать визы российским спортсменам"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/others/news/shveciya-otkazalas-vydavat-vizy-rossiyskim-sportsmenam-dlya-uchastiya-v-sorevnovaniyah-2476900/",
-          "title": "Швеция отказалась выдавать визы российским спортсменам для участия в соревнованиях"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261120/shvetsiya-2132905308.html",
-          "title": "Швеция отказалась выдавать визы российским спортсменам"
-        }
-      ]
-    },
-    "2241dad522": {
-      "key": "2241dad522",
-      "title": "Lyon outclass Arsenal for Champions League win",
-      "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 7.85,
-      "published": "2026-11-19T22:56:07+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-          "title": "Lyon outclass Arsenal for Champions League win"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-          "title": "Arsenal 0-2 OL Lyonnes: Women’s Champions League – as it happened"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
-          "title": "Arsenal outclassed in defeat to dominant Lyon"
-        }
-      ]
-    },
     "134b673e90": {
       "key": "134b673e90",
       "title": "UFC Flyweight Manon Fiorot, Former Title Challenger, Suspended for Doping Violation",
@@ -427,36 +270,36 @@
     },
     "7ce00d92ec": {
       "key": "7ce00d92ec",
-      "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch",
-      "summary": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch MMA Mania",
+      "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane",
+      "summary": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane Sherdog",
       "lang": "en",
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 9.55,
+      "heat": 10.52,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-19T18:29:53+00:00",
+      "published": "2026-11-24T03:29:39+00:00",
       "refs": [
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFg3UGNGeGt0TjdBNDJUVW42YUFqZnEydHFIZk5sVVlyZUp2LU1jM3VhSXlPRmRYX1daWGROMkxzMHQ0dGtkLTZMTUo0TTE4NGhJd0R5SnFfT2JpOVdVbjNOVERZTHVlM1hnWWdjbWZ2LW1PZmVwMm5fdjNLTWw5Q1JsVjllS0VKLXhsbjdrMU5pZEtiSS1VSl9OR1N1OUJkd05PbW8zUFZDd0o5SXF0R0RnanJlMEN6d1Zj?oc=5",
-          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXg4elhGdG9KWG9RQ3NQcFZ6UktxaVRYZFV0Z1pTdTJmTVVBZ2M0SEpvRDB0Tmd0eHJUN0lQVE5IUXBDNEl2YVB1czhER1ppS1JDa1pHc0w3OUx5TlpJOHBTVjRMRi1YT0tOWVpNdmdFWjFuRmhBb3BEY3lEb29pQ3FtcEFTcTZzUmlnQjd0R05SREJIdm5mRTVieU1TX0VST3UzNXlsS0x5N1drUWJ1all0dkwwTDdGaExSbmktZFZReDlGa0RlYnl30gHPAUFVX3lxTE96OVYzcFphN0RSaTk2TmRHSExRWk1DWVc0RnNmYzZTRGE4RlgyV19UbWEwemJTZ1J3bTFnV2xiNnpsa3VkQjFfczRuVjgtejRVN3YtX3RyRTFVd1ludHRvVmdTaUZKODUtQWI1eW5IcFdfMzZTYUtha3FBaTJhZWNYVkZNTm1XZGVvVXZTV25UX3RDdW5uVXJSTlNZMXNQRDROdjVadWgybGd5THdDZll0N1ExOU5fdWEwZW04azVJVU53azExQTNWckk3REVscw?oc=5",
+          "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane"
         },
         {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVHJCeVAzNGFzR1gzcG1iLWd6QkJnMkZVSDkxSHJhSkpWMHRaT0RoSDhJVDFsQU1mcmdLdnU3X1E4OWFJTzYxSnM2dElCVUozMGNNVFBqeXdBU0NhcEhHVXhUakpCcTBKeHBMT29ESDRuZk44OU5OMXJyaEk4WWc?oc=5",
-          "title": "UFC pushing for Josh Hokit vs. Ciryl Gane 2, but ‘ethical issue’ may prevent immediate rematch"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS14dXVPREdFNmloX1JOWC1iaXFkOW5RclNqZjFzY0NhV0lPNDRLU3RPR3VHSTBrVlpCSXl0TXdzV3I4LU1odS1VRnBWWlQzdWJvYVRRRWpwa0hKUC13MmdnbWY4UjVOdHJiSktBMDFsV0E4VG1jQzRZelZnYW9sS2lsWFZhN2FYME1xd0JtTkVLR18xdXM2Y0Jodk1PX25fRmtuMmdxN3A?oc=5",
+          "title": "UFC Star Josh Hokit Unloads on Ciryl Gane After UFC 334 Vision Accusation"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1MxVHNrdHBFa3luMmkzQ3ZHX2VuSDJ4VXFVeTlJX0lKbDlNRG5SbDlzcEZTYzhGUlMxLXJXMDAwdzdid1lNU2lXeWgtNlI0eS1QZDFxRl93QnJpbERXLVkxQzg4NEFHYnRSUHZ1R1IycF9zU1BmbmpIVmNtejNTbS1wam8teVNQVGoybWRJeEFDelJvQkVjQTNCc3FlY1NPRjNCekNrOWt4NDVtbENCYmxTSk9XUDVkZkJEODBFQTUwaEszYU02TjMydHp3XzlpQmcxVkVtNV9fOWNxRUVUVVh2RzRMZUlGNVRUYnNzaGJLekh1VDU1ZFdBWDlHUVZI?oc=5",
+          "title": "Josh Hokit: 'My eye is still blurry' from Ciryl Gane poke at UFC 334"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUZ2Qm44UkFRbkttMl9XRm5OOXhCUl83WFBfNnlYSTVqUUJnZzNFdzZuaVB0TnlrRnItTGk4QWNmQVlvV08zT2h4d3M3SXNtRE9aNV80NHZ0MjJQMk5NYlFKblQ0Q09ZRGh5M1VwVjRXUTZrMjBaOF9qSTBmLWlaLU8yc2V3eUhQZU5ERWF0aEVUc1U4Z2dqVThSczRqY0lqanJWMHRrNFV6eTdDRkZBWWVkal9GWXAwUTVHVGx0QldGVjdnUUJrSTNFeW1iM2NGOExicDl3?oc=5",
-          "title": "On To the Next One: What’s next for Ciryl Gane, Josh Hokit after Fight of the Year contender at UFC 334?"
-        },
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0hISm9DLVJPNkRjbWRjeUFvUUYteEFPM3VXWnFLb2VEczNxWnFhWTVvN1cyR2V4SmVWYnNsVmFqRFREc09vOGR6c3A3cFNybU8tR2tKSGw4U0pfRlF6MUNva0VJbENPclhId1ZLemV3em9KeEZxSUxVX0JSS2RXSTRKekR5V1NYX0EwTmdQT1otZjR3cmIyWGxUWmhvWlZwU0Zj?oc=5",
-          "title": "UFC 334 Takeaways: Ciryl Gane defends heavyweight title over Josh Hokit"
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjhYczVYdXBMeXhyWTU1cTFQMDU3bmdHNmRyVlpmVEJfdUJad2JHcDNQTm1FZjg2RzQ1NVhNUTdyblRoZkJDM1BRT0w0cmNGQ3duYWtPcEk3V0xHYmZEUk4zcGZ1aGRtb0kya2ZaSjNMNEd4a1hwX29YTzFsdG01ZGMyVU43Q0pkUlM5UGhwV2NCUHg2bUVGSTk2OVdTWTI0bEVKUEZHUUs2OEF0bE90Rng2U3E2SWdJT2FOdGFUOGk1YWZQMUlDeFpaT3pFMTVwZ2Exdy0wR1h3bmw5YjU4Y0x1bGpteFh0dUxmTFhlZEg?oc=5",
+          "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time"
         }
       ]
     },
@@ -3100,12 +2943,12 @@
       "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
       "lang": "ru",
       "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.22,
+      "outlets": 5,
+      "growth": -1,
+      "heat": 12.93,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T15:37:59+00:00",
+      "published": "2026-11-23T19:43:34+00:00",
       "refs": [
         {
           "source": "Вестник Кавказа",
@@ -3131,11 +2974,6 @@
           "source": "legalbet.ru",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
           "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFVQUmVORENLRUdpaGRrcUJwR2JkLW45TlN3T3V6N1p6dXRGOWhWQWVQdVdLdWE3a2JCSm93QzJNVHhtbnVCTUtabFVRQ3VWa3M3U3N0NldzM0dRT0ZUakpYN2RxVnA4VWpkaUJTY0pPVGYxRXgxQXViNEowMEllVUlOeU1RNF91WWo5eW55Zm9TclZvU3R1dDNhSdIBoAFBVV95cUxNVkFfRnVnME8xZXJlNHJSUEVNaFd0emxBM0pJS1VoWGZlcmp6b3BsR05MVFdrNzBud0dZTl96NVNjN0t2aWtDd3h3RVBPWDlsdjA5TUVxTEw2SU9UbXJnd2hpN3cyb3BFR01pd0dGZlRScUlYemI1VUpzbDh1ek1PZnl3Wmp5NnpPV19pYjNxQTBHNHF2SGk1SFNxQ2dBR1pJ?oc=5",
-          "title": "Источник: UFC проведет турниры в Алма-Ате и Баку в 2027 году"
         }
       ]
     },
@@ -3187,10 +3025,10 @@
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.84,
+      "heat": 10.62,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T23:37:51+00:00",
+      "published": "2026-11-24T01:31:41+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
@@ -3281,300 +3119,39 @@
           "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
         }
       ]
-    }
-  },
-  "sent": [
-    {
-      "key": "89e63f7590",
-      "title": "Федерация бокса России стала полноправным членом World Boxing",
-      "summary": "Федерация бокса России стала полноправным членом World Boxing sport-interfax.ru",
-      "lang": "ru",
+    },
+    "af79b04d7e": {
+      "key": "af79b04d7e",
+      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
+      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
+      "lang": "en",
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 15.31,
-      "published": "2026-11-23T19:23:53+00:00",
-      "refs": [
-        {
-          "source": "sport-interfax.ru",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjdqejJSN055NXVvblduWGNfRFNid3I5VzV4Vjg2QTBkMWVoSXZQMXBEdXcwLXVKVnZ1LVFrVzh6UVZja2w4VENvd1pmd9IBU0FVX3lxTE9ZakE5LV8ybms0ZElhcU5pUEFzNDZ3WnFFRDhkM1JTU2hYSjlyOGcydWhTbjk0djVrWHlqdEhwdXRFbHpzY0RYVHBLdFFQcl90NTBj?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261123/boks-2133476962.html",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Q3ZkbmtjNm9fVlg3LXZzZFhKVDZxNFZ0N2pwcWp4d25xN1Z5V1Q2bmM0U1MwRTNWVzByTmg5UkRta2ZRdnFPeks0Z1JjUnFtYzIwVllmdG4?oc=5",
-          "title": "Федерация бокса России вступила в World Boxing в качестве полноправного члена"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRJNTlwUWhhYWxnT1hZUUI3XzRmZXZVb1VtRDVEbXRhRWxhbFFOZngxWUV6Rm1vaFZPWmc3a18zaWJOU24yT3BuVDlrdk5BX3I3MTU3ZGNsUFZJSk9SNVpXRUY0SVQyODh2cENvWkhrRi0zSlM5YTV0YkZoNjdtazAyb2RVOE93MFN1bXRCYURrUHBvUmludlBqU3BTcmhxcHBGU0d3?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/news/federaciya-boksa-rossii-stala-polnopravnym-chlenom-world-boxing-po-itogam-kongressa-v-paname-2478013/",
-          "title": "Федерация бокса России стала полноправным членом World Boxing по итогам конгресса в Панаме"
-        },
-        {
-          "source": "Челны-ТВ",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbG52NnptTWF1ZGQ0dXMzbk5NWDZJbmlVZlJteU1rWU5MT25YWTMxTmpKRXhGaVM0bXdhUnlucmJrTW1aTHdRdXlfdk9Vcm5ma0Y4dFVRei11anhONENGd0t3WHM0WktqajI2ak1XNm9iY1dnRmxNeGNWRnVlNVRQVWxpd0VmZjlqTHV4bE85eHFBZXA0bWREaGFSQ0hRSTNlbHFsWTdkajVNVnpLdFE?oc=5",
-          "title": "📰 Федерацию бокса России приняли в World Boxing — голосовали в Панаме"
-        }
-      ]
-    },
-    {
-      "key": "407b89e179",
-      "title": "Баку и Алматы примут турниры UFC в 2027 году",
-      "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.22,
-      "published": "2026-11-23T15:37:59+00:00",
-      "refs": [
-        {
-          "source": "Вестник Кавказа",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDBneDRqdTZkNXFmQlBmYnZpUjhTeEpBLVFScExFTnR4bFhJdjFnVm9UMkppVmVIVUsxLUcwU1N1R3UyOThUSGY4bmNGTmZ0Mm43T3U5TUVwNGRzaE5xSHpfcWs2aW9SNjJLRHdqdVdRUEQwai1GQ1VqZW1UVUxtUVlTS0zSAUpBVV95cUxQR1BEZ3AxbEhuTC1lQXJ6c2FJdzRUeWR1bUx0RWZQalgtcWVqTWVBdl95cTNGTmt5NzAyRk5TdWZtaVZPVExlVGpBUQ?oc=5",
-          "title": "Баку и Алматы примут турниры UFC в 2027 году"
-        },
-        {
-          "source": "Советский спорт",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2tvbnFIQUhieHBoNnlNdXIwTEZPbk5XcTdWeDZKTGw4VUN1QnBRMzFqNnhVRzQxUXdwQTlWdkNRckdNbUQwSHJDbEdESmRfRlBPUWhfYkRZNE43TGZxeHU1aVp0TDNjOTJSQjlGcWJnMXh3RDhVZjUxVF9LU0VENjBPcU90am0yWFhlU2N2eVRITFBFclEza0ZzTmREU3g4ZDhKeUcxTnR0XzZwVTdEQQ?oc=5",
-          "title": "Источник: UFC может провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1BpZTFCTDZDVUl4dHVRdW5IeUNBOGthbmRBcnFkNU1jMjJfVG1KcVRWbW1fUUZfQ2g2bkRRQnVoQktrWWNVOGlQMmtCWUZqMUFINGpVVE12Y1huUlRESXpPeGh4aUU5d0czQUYzTDRWd1M5TFlFYlRzLXVpMUIxUnpaOHBDMzFoM2E4SVNGckZ6U3BfSHR5Vg?oc=5",
-          "title": "UFC проведёт турниры в Алма-Ате и Баку в 2027 году"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-ufc-planiruet-provesti-turniry-v-kazahstane-i-azerbaydzhane-v-2027-godu-2477936/",
-          "title": "ТАСС: UFC планирует провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
-          "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFVQUmVORENLRUdpaGRrcUJwR2JkLW45TlN3T3V6N1p6dXRGOWhWQWVQdVdLdWE3a2JCSm93QzJNVHhtbnVCTUtabFVRQ3VWa3M3U3N0NldzM0dRT0ZUakpYN2RxVnA4VWpkaUJTY0pPVGYxRXgxQXViNEowMEllVUlOeU1RNF91WWo5eW55Zm9TclZvU3R1dDNhSdIBoAFBVV95cUxNVkFfRnVnME8xZXJlNHJSUEVNaFd0emxBM0pJS1VoWGZlcmp6b3BsR05MVFdrNzBud0dZTl96NVNjN0t2aWtDd3h3RVBPWDlsdjA5TUVxTEw2SU9UbXJnd2hpN3cyb3BFR01pd0dGZlRScUlYemI1VUpzbDh1ek1PZnl3Wmp5NnpPV19pYjNxQTBHNHF2SGk1SFNxQ2dBR1pJ?oc=5",
-          "title": "Источник: UFC проведет турниры в Алма-Ате и Баку в 2027 году"
-        }
-      ]
-    },
-    {
-      "key": "3cc7cb12cc",
-      "title": "\"Брентфорд\" разгромил \"Эвертон\" в матче чемпионата Англии по футболу",
-      "summary": "",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.44,
-      "published": "2026-11-23T22:12:55+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261124/futbol-2133512991.html",
-          "title": "\"Брентфорд\" разгромил \"Эвертон\" в матче чемпионата Англии по футболу"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/england/news/brentford-everton-schet-i-rezultat-matcha-11-tura-chempionata-anglii-23-noyabrya-2026-2478192/",
-          "title": "«Брентфорд» разгромил «Эвертон» в матче чемпионата Англии"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117443253-chempionat-anglii-man-siti-primet-fakel-chelsi-sygraet-s-lidsom-arsena.html",
-          "title": "Чемпионат Англии. «Брентфорд» разгромил «Эвертон»"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/football/news-6711568-brentford-everton-rezultat-matcha-23-noyabrya-2026-schet-4-0-11-j-tur-anglijskoj-premer-ligi-apl.html",
-          "title": "«Брентфорд» в большинстве разгромил «Эвертон» в заключительном матче 11-го тура АПЛ"
-        }
-      ]
-    },
-    {
-      "key": "a78d1ab8e6",
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
-      "lang": "en",
-      "sport": "football",
-      "outlets": 3,
-      "growth": 0,
-      "heat": 9.47,
-      "published": "2026-11-23T22:31:27+00:00",
-      "refs": [
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-          "title": "Janelt scores stunner as Brentford beat 10-man Everton"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-          "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton"
-        },
-        {
-          "source": "Sky Sports",
-          "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-          "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton"
-        }
-      ]
-    },
-    {
-      "key": "92a8125dab",
-      "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic",
-      "summary": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic The New York Times Mets owner Steve Cohen paid $450 million for Tarik Skubal. His fellow MLB owners want to stop him from doing it again CNN Tarik Skubal gives union 450 million more reasons to fight salary cap ESPN 'Sku-bino has fallen': Biggest MLB rumors we're hearing on the feeding frenzy USA Today ",
-      "lang": "en",
-      "sport": null,
-      "outlets": 3,
-      "growth": 0,
-      "heat": 8.1,
-      "published": "2026-11-23T16:42:11+00:00",
-      "refs": [
-        {
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEI1Nk83cTZtS25nNVF2QlVlQzI1MDRIYkVXWkhIemllb0Q4UDZzWWlPRXRZeXZrUGx4ZzZxUmdVdkJoTU5Fa0gtWHJ3TjFkVHFLdlg3QzJkYjV1MDJlM1RXYzJTSVNqY2pTdHowX2g0bjNueXZqdDZUQmlEMGRYN294QTRIamJuQVA0MW44Si0yNTVIemNYekNfNU9Xc28?oc=5",
-          "title": "Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
-          "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnBsak5MVUoxUDdSUm5FWmRwbUNKN1FrMXRieUUtdk5DMVJiVjF1YmprYnVnZXZJQXpVR2djRVJHcHlXYU9xUE5XbDlRU01EVzZTTTVKb1UzMk53bG5JcHUtODJIUG5mcHlkWmdEdDVuS2dkY0o0YllMcUllTzZtajlWaGhYZTBrUDlZbFpaNXR3OUhULUNNQk5ITTQ?oc=5",
-          "title": "Source: Mets agree to 1-year deal with veteran 1B Paul Goldschmidt"
-        }
-      ]
-    }
-  ],
-  "sent_at": "2026-11-24T01:42:21+00:00",
-  "tg_offset": 360028013,
-  "combat": [
-    {
-      "key": "407b89e179",
-      "title": "Баку и Алматы примут турниры UFC в 2027 году",
-      "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.22,
+      "heat": 13.91,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T15:37:59+00:00",
+      "published": "2026-11-23T18:30:00+00:00",
       "refs": [
         {
-          "source": "Вестник Кавказа",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDBneDRqdTZkNXFmQlBmYnZpUjhTeEpBLVFScExFTnR4bFhJdjFnVm9UMkppVmVIVUsxLUcwU1N1R3UyOThUSGY4bmNGTmZ0Mm43T3U5TUVwNGRzaE5xSHpfcWs2aW9SNjJLRHdqdVdRUEQwai1GQ1VqZW1UVUxtUVlTS0zSAUpBVV95cUxQR1BEZ3AxbEhuTC1lQXJ6c2FJdzRUeWR1bUx0RWZQalgtcWVqTWVBdl95cTNGTmt5NzAyRk5TdWZtaVZPVExlVGpBUQ?oc=5",
-          "title": "Баку и Алматы примут турниры UFC в 2027 году"
-        },
-        {
-          "source": "Советский спорт",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2tvbnFIQUhieHBoNnlNdXIwTEZPbk5XcTdWeDZKTGw4VUN1QnBRMzFqNnhVRzQxUXdwQTlWdkNRckdNbUQwSHJDbEdESmRfRlBPUWhfYkRZNE43TGZxeHU1aVp0TDNjOTJSQjlGcWJnMXh3RDhVZjUxVF9LU0VENjBPcU90am0yWFhlU2N2eVRITFBFclEza0ZzTmREU3g4ZDhKeUcxTnR0XzZwVTdEQQ?oc=5",
-          "title": "Источник: UFC может провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "Sport.ru",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1BpZTFCTDZDVUl4dHVRdW5IeUNBOGthbmRBcnFkNU1jMjJfVG1KcVRWbW1fUUZfQ2g2bkRRQnVoQktrWWNVOGlQMmtCWUZqMUFINGpVVE12Y1huUlRESXpPeGh4aUU5d0czQUYzTDRWd1M5TFlFYlRzLXVpMUIxUnpaOHBDMzFoM2E4SVNGckZ6U3BfSHR5Vg?oc=5",
-          "title": "UFC проведёт турниры в Алма-Ате и Баку в 2027 году"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-ufc-planiruet-provesti-turniry-v-kazahstane-i-azerbaydzhane-v-2027-godu-2477936/",
-          "title": "ТАСС: UFC планирует провести турниры в Казахстане и Азербайджане в 2027 году"
-        },
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
-          "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFVQUmVORENLRUdpaGRrcUJwR2JkLW45TlN3T3V6N1p6dXRGOWhWQWVQdVdLdWE3a2JCSm93QzJNVHhtbnVCTUtabFVRQ3VWa3M3U3N0NldzM0dRT0ZUakpYN2RxVnA4VWpkaUJTY0pPVGYxRXgxQXViNEowMEllVUlOeU1RNF91WWo5eW55Zm9TclZvU3R1dDNhSdIBoAFBVV95cUxNVkFfRnVnME8xZXJlNHJSUEVNaFd0emxBM0pJS1VoWGZlcmp6b3BsR05MVFdrNzBud0dZTl96NVNjN0t2aWtDd3h3RVBPWDlsdjA5TUVxTEw2SU9UbXJnd2hpN3cyb3BFR01pd0dGZlRScUlYemI1VUpzbDh1ek1PZnl3Wmp5NnpPV19pYjNxQTBHNHF2SGk1SFNxQ2dBR1pJ?oc=5",
-          "title": "Источник: UFC проведет турниры в Алма-Ате и Баку в 2027 году"
-        }
-      ]
-    },
-    {
-      "key": "89e63f7590",
-      "title": "Федерация бокса России стала полноправным членом World Boxing",
-      "summary": "Федерация бокса России стала полноправным членом World Boxing sport-interfax.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.31,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T19:23:53+00:00",
-      "refs": [
-        {
-          "source": "sport-interfax.ru",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjdqejJSN055NXVvblduWGNfRFNid3I5VzV4Vjg2QTBkMWVoSXZQMXBEdXcwLXVKVnZ1LVFrVzh6UVZja2w4VENvd1pmd9IBU0FVX3lxTE9ZakE5LV8ybms0ZElhcU5pUEFzNDZ3WnFFRDhkM1JTU2hYSjlyOGcydWhTbjk0djVrWHlqdEhwdXRFbHpzY0RYVHBLdFFQcl90NTBj?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261123/boks-2133476962.html",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Q3ZkbmtjNm9fVlg3LXZzZFhKVDZxNFZ0N2pwcWp4d25xN1Z5V1Q2bmM0U1MwRTNWVzByTmg5UkRta2ZRdnFPeks0Z1JjUnFtYzIwVllmdG4?oc=5",
-          "title": "Федерация бокса России вступила в World Boxing в качестве полноправного члена"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRJNTlwUWhhYWxnT1hZUUI3XzRmZXZVb1VtRDVEbXRhRWxhbFFOZngxWUV6Rm1vaFZPWmc3a18zaWJOU24yT3BuVDlrdk5BX3I3MTU3ZGNsUFZJSk9SNVpXRUY0SVQyODh2cENvWkhrRi0zSlM5YTV0YkZoNjdtazAyb2RVOE93MFN1bXRCYURrUHBvUmludlBqU3BTcmhxcHBGU0d3?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/news/federaciya-boksa-rossii-stala-polnopravnym-chlenom-world-boxing-po-itogam-kongressa-v-paname-2478013/",
-          "title": "Федерация бокса России стала полноправным членом World Boxing по итогам конгресса в Панаме"
-        }
-      ]
-    },
-    {
-      "key": "74c259e3d5",
-      "title": "Conor McGregor Back in the Gym Preparing for UFC Return",
-      "summary": "Conor McGregor Back in the Gym Preparing for UFC Return Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.76,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T22:50:53+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1xdHB3SVhxb3JkTDdCRTV4V2NuRk9jSmtObmtkak5seE9LOTZPUkNmTnFISHFnZlp3RmsyU3dlUXFId0ZqQktGV3FsVFQ5UExWcmw4dERuQlV1bVYtclhhMHY4MHE0al9DekdwdVVJOUtIeTFBTUVMQXhQbTVZdXI5cHNEd0lzbkE?oc=5",
-          "title": "Conor McGregor Back in the Gym Preparing for UFC Return"
-        },
-        {
-          "source": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCd0hBMU9RWnBaN1FqdFZWTDh4VGlra1pnSUJtdFJtOHBFWnV3QXJlN3dtRUFrXzd3TGVLTVM1T2ZnUXN3OWNhZDBGMHpQNDd4ZTVrRU5OdmtSRlEwNjdGTElZZ0lyY3NNX0F0S2pmczJxSkJhVDI5M0lCenBMdw?oc=5",
-          "title": "Conor McGregor 'fully back in the gym,' gearing for final UFC fight"
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
+          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
         },
         {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVFxTEF1UFdxTmszeWhEYnhtVkxHbWFxYl90eHQ2a1BYWkxDZDdNcHlUdlQ1a3BxR29SUlVpYW5FT3llV0FFMnFlUjMzUVFVZDE1UVgwWGZYR0lQN3hBNGlZY1lkUTVEWEJ0aTdKdmE0aWNWZVdqV2U5S29Jb2I0aWkxckdlbnoxNUhqT3BOX2xZdk1RdzE2MmxKazlkNEhPdGNHLUN5UXhIS0pJMTNwYm5zYU14Y00yTGwxQzVXVkxJV2oyemkxSEZVMDZ2SzdjOUE?oc=5",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
           "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
+          "title": "Conor McGregor returns to MMA training for final UFC fight"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
+          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
         },
         {
           "source": "Sports Illustrated",
@@ -3582,49 +3159,469 @@
           "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
         },
         {
+          "source": "DAZN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
+          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
+        }
+      ]
+    },
+    "ac95dfe905": {
+      "key": "ac95dfe905",
+      "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ",
+      "summary": "",
+      "lang": "ru",
+      "sport": "hockey",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.93,
+      "published": "2026-11-24T05:41:17+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261124/khokkey-2133541731.html",
+          "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6711818-san-hose-sharks-minnesota-uajld-rezultat-matcha-24-noyabrya-2026-goda-schet-2-5-regulyarnyj-chempionat-nhl-2026-2027.html",
+          "title": "Гол и три результативные передачи Капризова помогли «Миннесоте» победить «Сан-Хосе»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-ustanovil-novyy-rekord-minnesoty-po-dline-rezultativnoy-serii-2478232/",
+          "title": "Капризов побил свой же новый рекорд в «Миннесоте» по длине результативной серии"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117446224-nxl-ajlenders-primut-toronto-monreal-protiv-los-andzhelesa.html",
+          "title": "НХЛ. «Айлендерс» проиграли «Торонто», «Монреаль» уступил «Лос-Анджелесу», «Миннесота» забросила 5 шайб «Сан-Хосе»"
+        }
+      ]
+    },
+    "cbe782c193": {
+      "key": "cbe782c193",
+      "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\"",
+      "summary": "",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.72,
+      "published": "2026-11-23T19:04:13+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261123/tsska-2133500427.html",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\""
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSHhnRXVQZVJVOTlHWkg0LWgwaFQ3SVpCdlB3QlNpX3BBSXVSZmhLNkNXM1puTmV2SWVZN0xQWUk4UmFoWnJjOTdKb3NRWmhqa19SN0dvTzk5Wk8tSkZ0WkFzV3hwN28xTE50OTI4SmE2bHR2ZWZPQzlwX3k2NE5TdW1GVEFNYU1MRHFCczItT1ZLNDZVa2tSdTRqdzRHZFhNck5NU3RNUW5CMi1uVmk0MUl6Vk1oS3AyT29od1hmb0ZaR2ZEU0xFQVpzS0pQX3JSdlljRTk2UE1oMDJiS2FPX2h4M0RKVHd2a0VIeWZaUjB1OHJFMllwMmxXZ0hNdktUamcwNExvY3pXM1dubjJuUFM4aw?oc=5",
+          "title": "«Какая‑то системная дискредитация судейства и РПЛ». ЦСКА обратился в ЭСК по пенальти в матче с «Ахматом»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/rfpl/news/cska-obratilsya-v-esk-po-penalti-v-matche-s-ahmatom-2478141/",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче с «Ахматом»"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117446740-fonbet-kubok-rossii-put-rpl-czska-v-gostyax-u-akrona-zenit-primet-kryl.html",
+          "title": "Фонбет Кубок России. Путь РПЛ. ЦСКА в гостях у «Акрона», «Зенит» примет «Крылья», «Краснодар» сыграет с «Ахматом» в среду"
+        }
+      ]
+    },
+    "0002011b7e": {
+      "key": "0002011b7e",
+      "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости",
+      "summary": "1. Европейская комиссия предложила запретить российским спортсменам выступать под национальным флагом в ЕС. Также в рамках нового пакета санкций готовят запреты на спонсорство и посты в федерациях . 2. ФФККР обновила критерии отбора на главные старты: будут учитывать психологическую готовность и конкурентоспособность фигуристов. Получается, состав на Евро просто назначат? 3. «ПСЖ» хочет продлить к",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.64,
+      "published": "2026-11-24T04:10:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117446656-es-ogranichit-rossijskij-sport-ffkkr-menyaet-otbor-safonovu-gotovyat-k.html",
+          "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/news/mat-kostylevoy-soobschila-chto-na-nee-napisali-zayavlenie-v-policiyu-2478012/",
+          "title": "Мать Костылевой сообщила, что на нее написали заявление в полицию"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iSkpncndFMkhUZHl3TVktd2pTVEV0Z3ZZVFk0M0dzZ0NVRHBMUFhTTGl0R1ZUNXZUN0gwbk5YcXltc0dKMDBwLTNDYWpYVWNaR081OEFsbkV4c1ZHZmhlM1JMekNkUXpTRHFNaEp30gFzQVVfeXFMTjhrNU9KSm1ReGFvaWJyMUJvemR3MXhSOHBsaWZ0M2YwVkVmZUJ1RWlDa0FSbG90YXlzQVIxUDFaZHpjSFZ5cEN3OE9sRmlrQXpqUkFjMThDeDhoZFdRNVN2QXYwY2lxMjUxc2RIbTdiQXRnOA?oc=5",
+          "title": "На мать фигуристки Костылевой написали заявление в полицию"
+        }
+      ]
+    },
+    "a1a5bc0968": {
+      "key": "a1a5bc0968",
+      "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили",
+      "summary": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили Meta MMA",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.07,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T17:11:21+00:00",
+      "refs": [
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHBPMXZzX0VaOHhpMmo1TzRKaTFGRV9JaGtUeGJmSzRsamhlRU91cmk0aHJBUUFmSHlQQXhnUWhqUVYwMEhHb3NReDl2c1hkc2xMbUxiNUFQM2pUSDU1MEc0R2dyVXdHRjFLTUVRMlZ1MzhLdU1LRkR4cFo4TEswMk5wUm03Z2VJdkN1R0hsQXhCMDZQT2ZIOUVyUGc5OTNzZlk1Sk55YmxtMUhKQ19EM3FLUnpEVVFFN0gwejBLVEN6R0k3bmt4ZE1pV2NMbktVYlE?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили"
+        },
+        {
+          "source": "Чемпионат",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmluVG5VVzFlVU5rNHZZbXlZaFh4b0dScWdQZktMb1hJZGN2MWo0N1lQbm5hWTFyNU15blVlcmhPV0FPaUltSW5SUmtvSkdtdGZrem9CNWtST1lhTGsxWlp6OU56Qk9QeFcyY29rb0htRFFSRzlWYkdUel83WHpfOVRzX0dRekJERFR1ZVZsQ3d2QmRGclFlWDcwVEpTTVhVRVFjM1lQeExfY0JvbzBXc3JmNkp4TXQzblpvUGFLWDlnX0J3elYyX3F2NFM?oc=5",
+          "title": "Брендан Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год"
+        },
+        {
+          "source": "1istochnik",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xV1kxVmtmaGtrT3NzaVpBMndvYV9hYzExX1FmS3M5TDhIdDEtb2FVV3FPeEVCajVNR1dzN1paSERPYmlTN3FYV1dR?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана и отстранить его"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NeGNTTV9xNkJXSThyWFJZX0x4b3JfYk9TVVp1OEs5ODd6cVVycHU1eXZ0YTRBTDlPN0lrZ2FoZFJKVjlscmNhY2F3eVVFdEZEdlo0ZDB1NC1DM1BGYXhLTkVJVmtfRkNua3dySW9n0gFzQVVfeXFMTVI4ZUE3X29iVWtwQW5OWnRyLTR3OG1lQnJVWlktRTdhU3NwSHQ3SGZDd3V2dk9WUUN2U3Z5VmoxM0VnRnIzeGY4R05yOVZfWEo1MXMwX1VjdjNyUXlFY2FNYjhxdzNmS2VtcjF5YlV1anJFRQ?oc=5",
+          "title": "«Следовало бы остаться в чертовой тюрьме»: боец UFC о драке Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2FOQ3hmdUlpazRGYVl6N2NweXFhZzJ2RllFVDFMREVJQVdjajRmRmZ2OWt2djBPUWlXM09DZkNkZ0I0YVRIRDJvMVhWTUtRZDJ0RE1BUWhiaTJucTgtZ0ZxNVBQeW14MmVFZjFjN1NhZmVWZWE1eklLQ3IxRVZzQzRYN2NUb2RyTllpYW5idWJfaFV0MFkyRVREYW95ZWhMTGFuVHUwV0hFcWtXU3JfM2VCRERHWkR1OHo0WktSeDlkUQ?oc=5",
+          "title": "Экс-чемпион UFC Стерлинг осудил Махачева за поддержку Нурмагомедова, напавшего на Двалишвили"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/usman-nurmagomedov-opublikoval-foto-s-bratom-umarom-skripim-no-edem-2478105/",
+          "title": "Усман Нурмагомедов опубликовал фото с братом Умаром: «Скрипим, но едем»"
+        }
+      ]
+    }
+  },
+  "sent": [
+    {
+      "key": "af79b04d7e",
+      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
+      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 15.91,
+      "published": "2026-11-23T18:30:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
+          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
+          "title": "Conor McGregor returns to MMA training for final UFC fight"
+        },
+        {
           "source": "MMA Sucka",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
           "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
+          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
+        },
+        {
+          "source": "BVM Sports",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWFrWExYeHhWR3VwN1R4S2NJNE1rMDR6eEx0eFdhTjE5WVIxQnlYNERJQURhM3hpc2pXVllMUi1UbnBmRWdkbWJadUIzMmRwdnZJOGRzYzFsaC1IVVdmUmlfbUxoeEFmck1XVDJjTHRPcmpFRGx1bVlqcW83Z051aF9iMW94UEpxY0VLbVpzUm5Iel9zNFVCWg?oc=5",
+          "title": "Conor McGregor Returns to Gym as Knee Recovers From Surgery"
+        },
+        {
+          "source": "DAZN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
+          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
         }
       ]
     },
     {
-      "key": "18c8dbcd29",
-      "title": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе",
-      "summary": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе legalbet.ru",
-      "lang": "ru",
+      "key": "7ce00d92ec",
+      "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane",
+      "summary": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane Sherdog",
+      "lang": "en",
       "sport": "combat",
-      "outlets": 5,
+      "outlets": 6,
       "growth": 0,
-      "heat": 12.67,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T10:13:14+00:00",
+      "heat": 14.52,
+      "published": "2026-11-24T03:29:39+00:00",
       "refs": [
         {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0NVeUszTWczN3dmYU5KMDZXS2JMbHVaZVFjOGRGaXRZMzV6c3dkeTdNQXZIRTZmb196RWRROHZaamxmQUZZSEFLUlpHX3FhVFlzdVVFd3RtYjlKUTNHRC1HT3R0TDhTSV95UHZzaTBqYk5Vd25vYmpkckVKTXBhQ29BYjhTci1QNFV5SWQwdHJ1VnJLVWc?oc=5",
-          "title": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе"
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXg4elhGdG9KWG9RQ3NQcFZ6UktxaVRYZFV0Z1pTdTJmTVVBZ2M0SEpvRDB0Tmd0eHJUN0lQVE5IUXBDNEl2YVB1czhER1ppS1JDa1pHc0w3OUx5TlpJOHBTVjRMRi1YT0tOWVpNdmdFWjFuRmhBb3BEY3lEb29pQ3FtcEFTcTZzUmlnQjd0R05SREJIdm5mRTVieU1TX0VST3UzNXlsS0x5N1drUWJ1all0dkwwTDdGaExSbmktZFZReDlGa0RlYnl30gHPAUFVX3lxTE96OVYzcFphN0RSaTk2TmRHSExRWk1DWVc0RnNmYzZTRGE4RlgyV19UbWEwemJTZ1J3bTFnV2xiNnpsa3VkQjFfczRuVjgtejRVN3YtX3RyRTFVd1ludHRvVmdTaUZKODUtQWI1eW5IcFdfMzZTYUtha3FBaTJhZWNYVkZNTm1XZGVvVXZTV25UX3RDdW5uVXJSTlNZMXNQRDROdjVadWgybGd5THdDZll0N1ExOU5fdWEwZW04azVJVU53azExQTNWckk3REVscw?oc=5",
+          "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane"
         },
         {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb29NYTZyY2FCbG02R1NYbExYcGRod3pFOFBEdUhHU3VHMlFhNVA4WkRaSC1nZzd0Nl84NHo4bURJdWg1MHJpZ1lBMzFqdlF3U3hESFBsZWtqR3NiX005RFFWajM5WTBXT2RYSmhxRU1TenhTS1o2c0FmZXh1ZFQzZk94cFdEdWlXclJYdk84bG9jX3FORUpLYzh3ZGFoVVFENDktTkxyVGhieDc2MzlTWjVn0gG3AUFVX3lxTE81Ym0ySUs4VkltN18zYVhqN28zSjdOclRUSGNIMlI4aFlGdXpoVTg4aC1GN1BKXzZqSlYzVEZqMGxsLXFJdmJrVFVNVGtCVHc2LWJIYmxfemxYOEFYVVlDQ2Z5MEZERlJiTEJhUUhpdVVIWW5CR1RNVzh2ZWdOY1o4cnBHRnFZQ3pFMkF2N2xRazdoYmdsTi1FTHU2c2pmcVVNS0JGMjFfWlhzUm5UeTViaHBrTHlFTQ?oc=5",
-          "title": "Официально: Зайнуков подерется с Гуайлупо на январском турнире UFC в Далласе"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS14dXVPREdFNmloX1JOWC1iaXFkOW5RclNqZjFzY0NhV0lPNDRLU3RPR3VHSTBrVlpCSXl0TXdzV3I4LU1odS1VRnBWWlQzdWJvYVRRRWpwa0hKUC13MmdnbWY4UjVOdHJiSktBMDFsV0E4VG1jQzRZelZnYW9sS2lsWFZhN2FYME1xd0JtTkVLR18xdXM2Y0Jodk1PX25fRmtuMmdxN3A?oc=5",
+          "title": "UFC Star Josh Hokit Unloads on Ciryl Gane After UFC 334 Vision Accusation"
         },
         {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGlJV0JISzh5Mnd3ZXZEOVVpdEZzdm9SRjRzRFRoZXpITVZueFZKOFUwUGpDSXZlMGU1SFZqdXJOS3UyekgxQ0dKRDVuLUFUQTJxSDlKeGVjOFdTeG1mekpOVzJFSGxNM0wtNXdYb1hZcU42Q05IZjhRT1lzUEtnQlV3VmZDZjVwLVBOMjI1X3p3OUk2UG82aVd5Wmt0MGQtWVlWYS01MmNlQS0wUTZvUUo5X1hOWHZ0MnZFRQ?oc=5",
-          "title": "Россиянин Зайнуков проведет бой на первом турнире UFC в 2027 году"
+          "source": "The Lufkin Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVGJFaEVoejFOTk5fU1lfNnpfNnhsY2FRTXNpSU5LOU5jMjRGTjY1NjlaMmZNZTRqckV0ZWR6RGZxZzd3MlRtQmhZczVNSzVSQ2E2QXNLX3YtTXMtT0d1d0w0NGlwUnpNUlREeWc4czdpWjBMZXBfaHZxeEd1amNud3duMEJJc0xVc3NJMzdvVGJ2VzBScmhUdjNNSU9YNll0V0tXeC1oRG9DcFlIRTZpcEFURGpuWi1BWUlXZzh5dDhocFIzaFUyb2cyaFFKLXJrdU56a1N6ZDZTWFkwZ2dRVURLZjNMLVNyNFN3VQ?oc=5",
+          "title": "Josh Hokit, UFC Freedom 250/White House media day interview"
         },
         {
-          "source": "РИА Дагестан",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlZ6TzZWM0R5eVpnWlNqRTFCZXk4UmU1VEpDWW9ZTVlCcFZFWm9yMHFlb2tkVlNXbFhONlNtcnJ0THZhQWVjRzBBS2MyZVV0SWN3ckZqUmRsbGdZRG1GOWtxenBxaEo0OVdQYTQ1cExjdzgwSk5OMzJvcXBmWDVoM2RWb1N1cVlzekxmTkxzLWVqZmhZbUdRUlRLTDNsd04yQVZ1TlhIRQ?oc=5",
-          "title": "Магомед Зайнуков проведет бой на первом турнире UFC в 2027 году"
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbk92NkpsXy1SQl9laWt1NGNZUTRMcVI3djRnc2xnTExRNEl5bV9BaTJObWN4WmFfY05JOHZmZlRtd2E5c1d1SGh5SFQxd0dGWXpteWM5b29HZklVRm51TnpYd3k0b3lvcDNJUzFPZE51bmpiMTlQTkhLTFI2YVdleHpEYjFjbnhsMUlaaXg2V3F3d0VfTzg2aGc4REJwdVJERGNfaFhyczdZM1dqdGVWQVFYNE04TkJBWHVSdzJHejhZbHc4TVIzb2JSOURTSk1odHJ6Zw?oc=5",
+          "title": "Josh Hokit responds to Jon Jones' insinuation of dating underage girls"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFVGQ0RvZzNYcWhJN1Z0WHFoTVNIVDloQzlNTjZVYmE1cDFiblc1eDgxTTRIUkxXcXJlZ3ZjRTlnVkdIU0ExZ3F1R0pRT3NUNjFxNUhGZkFyUlVNUm5HR0xRdXJ2b3RNd3FoS0RjMFN6SHplRXZBSVRaOWtndkxyRk95dm5ROGg1TVBxWGZhMUpOVFVJa3c0eE90QmtHQzIzYzRiaFJpaHpvLUh1VDliYnNwVXNISjd1LWx6RFpGSVhiNGZJVXFJWGh3NVVDMEtlMW1PYXdPUWVDTWc?oc=5",
+          "title": "Josh Hokit details old sparring sessions with 'clout demon' Jon Jones: 'I got the better of him'"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjhYczVYdXBMeXhyWTU1cTFQMDU3bmdHNmRyVlpmVEJfdUJad2JHcDNQTm1FZjg2RzQ1NVhNUTdyblRoZkJDM1BRT0w0cmNGQ3duYWtPcEk3V0xHYmZEUk4zcGZ1aGRtb0kya2ZaSjNMNEd4a1hwX29YTzFsdG01ZGMyVU43Q0pkUlM5UGhwV2NCUHg2bUVGSTk2OVdTWTI0bEVKUEZHUUs2OEF0bE90Rng2U3E2SWdJT2FOdGFUOGk1YWZQMUlDeFpaT3pFMTVwZ2Exdy0wR1h3bmw5YjU4Y0x1bGpteFh0dUxmTFhlZEg?oc=5",
+          "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time"
+        }
+      ]
+    },
+    {
+      "key": "ac95dfe905",
+      "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ",
+      "summary": "",
+      "lang": "ru",
+      "sport": "hockey",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.93,
+      "published": "2026-11-24T05:41:17+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261124/khokkey-2133541731.html",
+          "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/hockey/news-6711818-san-hose-sharks-minnesota-uajld-rezultat-matcha-24-noyabrya-2026-goda-schet-2-5-regulyarnyj-chempionat-nhl-2026-2027.html",
+          "title": "Гол и три результативные передачи Капризова помогли «Миннесоте» победить «Сан-Хосе»"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/zaynukov-provedet-poedinok-s-guaylupo-na-turnire-ufc-fight-night-296-17-yanvarya-2477927/",
-          "title": "Зайнуков проведет поединок с Гуайлупо на турнире UFC Fight Night 296 17 января"
+          "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-ustanovil-novyy-rekord-minnesoty-po-dline-rezultativnoy-serii-2478232/",
+          "title": "Капризов побил свой же новый рекорд в «Миннесоте» по длине результативной серии"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/hockey/1117446224-nxl-ajlenders-primut-toronto-monreal-protiv-los-andzhelesa.html",
+          "title": "НХЛ. «Айлендерс» проиграли «Торонто», «Монреаль» уступил «Лос-Анджелесу», «Миннесота» забросила 5 шайб «Сан-Хосе»"
+        }
+      ]
+    },
+    {
+      "key": "cbe782c193",
+      "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\"",
+      "summary": "",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.72,
+      "published": "2026-11-23T19:04:13+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261123/tsska-2133500427.html",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\""
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSHhnRXVQZVJVOTlHWkg0LWgwaFQ3SVpCdlB3QlNpX3BBSXVSZmhLNkNXM1puTmV2SWVZN0xQWUk4UmFoWnJjOTdKb3NRWmhqa19SN0dvTzk5Wk8tSkZ0WkFzV3hwN28xTE50OTI4SmE2bHR2ZWZPQzlwX3k2NE5TdW1GVEFNYU1MRHFCczItT1ZLNDZVa2tSdTRqdzRHZFhNck5NU3RNUW5CMi1uVmk0MUl6Vk1oS3AyT29od1hmb0ZaR2ZEU0xFQVpzS0pQX3JSdlljRTk2UE1oMDJiS2FPX2h4M0RKVHd2a0VIeWZaUjB1OHJFMllwMmxXZ0hNdktUamcwNExvY3pXM1dubjJuUFM4aw?oc=5",
+          "title": "«Какая‑то системная дискредитация судейства и РПЛ». ЦСКА обратился в ЭСК по пенальти в матче с «Ахматом»"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/football/rfpl/news/cska-obratilsya-v-esk-po-penalti-v-matche-s-ahmatom-2478141/",
+          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче с «Ахматом»"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117446740-fonbet-kubok-rossii-put-rpl-czska-v-gostyax-u-akrona-zenit-primet-kryl.html",
+          "title": "Фонбет Кубок России. Путь РПЛ. ЦСКА в гостях у «Акрона», «Зенит» примет «Крылья», «Краснодар» сыграет с «Ахматом» в среду"
+        }
+      ]
+    },
+    {
+      "key": "0002011b7e",
+      "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости",
+      "summary": "1. Европейская комиссия предложила запретить российским спортсменам выступать под национальным флагом в ЕС. Также в рамках нового пакета санкций готовят запреты на спонсорство и посты в федерациях . 2. ФФККР обновила критерии отбора на главные старты: будут учитывать психологическую готовность и конкурентоспособность фигуристов. Получается, состав на Евро просто назначат? 3. «ПСЖ» хочет продлить к",
+      "lang": "ru",
+      "sport": "football",
+      "outlets": 3,
+      "growth": 0,
+      "heat": 9.64,
+      "published": "2026-11-24T04:10:00+00:00",
+      "refs": [
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/football/1117446656-es-ogranichit-rossijskij-sport-ffkkr-menyaet-otbor-safonovu-gotovyat-k.html",
+          "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/news/mat-kostylevoy-soobschila-chto-na-nee-napisali-zayavlenie-v-policiyu-2478012/",
+          "title": "Мать Костылевой сообщила, что на нее написали заявление в полицию"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iSkpncndFMkhUZHl3TVktd2pTVEV0Z3ZZVFk0M0dzZ0NVRHBMUFhTTGl0R1ZUNXZUN0gwbk5YcXltc0dKMDBwLTNDYWpYVWNaR081OEFsbkV4c1ZHZmhlM1JMekNkUXpTRHFNaEp30gFzQVVfeXFMTjhrNU9KSm1ReGFvaWJyMUJvemR3MXhSOHBsaWZ0M2YwVkVmZUJ1RWlDa0FSbG90YXlzQVIxUDFaZHpjSFZ5cEN3OE9sRmlrQXpqUkFjMThDeDhoZFdRNVN2QXYwY2lxMjUxc2RIbTdiQXRnOA?oc=5",
+          "title": "На мать фигуристки Костылевой написали заявление в полицию"
+        }
+      ]
+    }
+  ],
+  "sent_at": "2026-11-24T05:42:23+00:00",
+  "tg_offset": 360028013,
+  "combat": [
+    {
+      "key": "a1a5bc0968",
+      "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили",
+      "summary": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили Meta MMA",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.07,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T17:11:21+00:00",
+      "refs": [
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHBPMXZzX0VaOHhpMmo1TzRKaTFGRV9JaGtUeGJmSzRsamhlRU91cmk0aHJBUUFmSHlQQXhnUWhqUVYwMEhHb3NReDl2c1hkc2xMbUxiNUFQM2pUSDU1MEc0R2dyVXdHRjFLTUVRMlZ1MzhLdU1LRkR4cFo4TEswMk5wUm03Z2VJdkN1R0hsQXhCMDZQT2ZIOUVyUGc5OTNzZlk1Sk55YmxtMUhKQ19EM3FLUnpEVVFFN0gwejBLVEN6R0k3bmt4ZE1pV2NMbktVYlE?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили"
+        },
+        {
+          "source": "Чемпионат",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmluVG5VVzFlVU5rNHZZbXlZaFh4b0dScWdQZktMb1hJZGN2MWo0N1lQbm5hWTFyNU15blVlcmhPV0FPaUltSW5SUmtvSkdtdGZrem9CNWtST1lhTGsxWlp6OU56Qk9QeFcyY29rb0htRFFSRzlWYkdUel83WHpfOVRzX0dRekJERFR1ZVZsQ3d2QmRGclFlWDcwVEpTTVhVRVFjM1lQeExfY0JvbzBXc3JmNkp4TXQzblpvUGFLWDlnX0J3elYyX3F2NFM?oc=5",
+          "title": "Брендан Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год"
+        },
+        {
+          "source": "1istochnik",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xV1kxVmtmaGtrT3NzaVpBMndvYV9hYzExX1FmS3M5TDhIdDEtb2FVV3FPeEVCajVNR1dzN1paSERPYmlTN3FYV1dR?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана и отстранить его"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NeGNTTV9xNkJXSThyWFJZX0x4b3JfYk9TVVp1OEs5ODd6cVVycHU1eXZ0YTRBTDlPN0lrZ2FoZFJKVjlscmNhY2F3eVVFdEZEdlo0ZDB1NC1DM1BGYXhLTkVJVmtfRkNua3dySW9n0gFzQVVfeXFMTVI4ZUE3X29iVWtwQW5OWnRyLTR3OG1lQnJVWlktRTdhU3NwSHQ3SGZDd3V2dk9WUUN2U3Z5VmoxM0VnRnIzeGY4R05yOVZfWEo1MXMwX1VjdjNyUXlFY2FNYjhxdzNmS2VtcjF5YlV1anJFRQ?oc=5",
+          "title": "«Следовало бы остаться в чертовой тюрьме»: боец UFC о драке Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2FOQ3hmdUlpazRGYVl6N2NweXFhZzJ2RllFVDFMREVJQVdjajRmRmZ2OWt2djBPUWlXM09DZkNkZ0I0YVRIRDJvMVhWTUtRZDJ0RE1BUWhiaTJucTgtZ0ZxNVBQeW14MmVFZjFjN1NhZmVWZWE1eklLQ3IxRVZzQzRYN2NUb2RyTllpYW5idWJfaFV0MFkyRVREYW95ZWhMTGFuVHUwV0hFcWtXU3JfM2VCRERHWkR1OHo0WktSeDlkUQ?oc=5",
+          "title": "Экс-чемпион UFC Стерлинг осудил Махачева за поддержку Нурмагомедова, напавшего на Двалишвили"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/usman-nurmagomedov-opublikoval-foto-s-bratom-umarom-skripim-no-edem-2478105/",
+          "title": "Усман Нурмагомедов опубликовал фото с братом Умаром: «Скрипим, но едем»"
+        }
+      ]
+    },
+    {
+      "key": "af79b04d7e",
+      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
+      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 13.91,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T18:30:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
+          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
+          "title": "Conor McGregor returns to MMA training for final UFC fight"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
+          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
+          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
+        },
+        {
+          "source": "DAZN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
+          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
+        }
+      ]
+    },
+    {
+      "key": "407b89e179",
+      "title": "Баку и Алматы примут турниры UFC в 2027 году",
+      "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": -1,
+      "heat": 12.93,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T19:43:34+00:00",
+      "refs": [
+        {
+          "source": "Вестник Кавказа",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDBneDRqdTZkNXFmQlBmYnZpUjhTeEpBLVFScExFTnR4bFhJdjFnVm9UMkppVmVIVUsxLUcwU1N1R3UyOThUSGY4bmNGTmZ0Mm43T3U5TUVwNGRzaE5xSHpfcWs2aW9SNjJLRHdqdVdRUEQwai1GQ1VqZW1UVUxtUVlTS0zSAUpBVV95cUxQR1BEZ3AxbEhuTC1lQXJ6c2FJdzRUeWR1bUx0RWZQalgtcWVqTWVBdl95cTNGTmt5NzAyRk5TdWZtaVZPVExlVGpBUQ?oc=5",
+          "title": "Баку и Алматы примут турниры UFC в 2027 году"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2tvbnFIQUhieHBoNnlNdXIwTEZPbk5XcTdWeDZKTGw4VUN1QnBRMzFqNnhVRzQxUXdwQTlWdkNRckdNbUQwSHJDbEdESmRfRlBPUWhfYkRZNE43TGZxeHU1aVp0TDNjOTJSQjlGcWJnMXh3RDhVZjUxVF9LU0VENjBPcU90am0yWFhlU2N2eVRITFBFclEza0ZzTmREU3g4ZDhKeUcxTnR0XzZwVTdEQQ?oc=5",
+          "title": "Источник: UFC может провести турниры в Казахстане и Азербайджане в 2027 году"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1BpZTFCTDZDVUl4dHVRdW5IeUNBOGthbmRBcnFkNU1jMjJfVG1KcVRWbW1fUUZfQ2g2bkRRQnVoQktrWWNVOGlQMmtCWUZqMUFINGpVVE12Y1huUlRESXpPeGh4aUU5d0czQUYzTDRWd1M5TFlFYlRzLXVpMUIxUnpaOHBDMzFoM2E4SVNGckZ6U3BfSHR5Vg?oc=5",
+          "title": "UFC проведёт турниры в Алма-Ате и Баку в 2027 году"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/tass-ufc-planiruet-provesti-turniry-v-kazahstane-i-azerbaydzhane-v-2027-godu-2477936/",
+          "title": "ТАСС: UFC планирует провести турниры в Казахстане и Азербайджане в 2027 году"
+        },
+        {
+          "source": "legalbet.ru",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
+          "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
         }
       ]
     },
@@ -3636,10 +3633,10 @@
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.84,
+      "heat": 10.62,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T23:37:51+00:00",
+      "published": "2026-11-24T01:31:41+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
@@ -3660,23 +3657,148 @@
           "source": "ONE Championship",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHp0ZVdyWlRoYW1NNzRial9kTl9Yd3RwSm4xNmZqdk5BTHVlZjI1UF82UnpOaTd4dlhUeF96OTdFZHh6MzYzTTFUaFpoSG14SkhNRUFrQ3pkWW9LX3hGQm9aSE1JV25FY05EZUhzcDR6TEpKNnB4S0R5bFQ0WEg2VEVpVlVtV1FxX3o2clhHaVI?oc=5",
           "title": "Full Card Revealed For ONE Friday Fights 180 On November 27"
+        }
+      ]
+    },
+    {
+      "key": "7ce00d92ec",
+      "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane",
+      "summary": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane Sherdog",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.52,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-24T03:29:39+00:00",
+      "refs": [
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXg4elhGdG9KWG9RQ3NQcFZ6UktxaVRYZFV0Z1pTdTJmTVVBZ2M0SEpvRDB0Tmd0eHJUN0lQVE5IUXBDNEl2YVB1czhER1ppS1JDa1pHc0w3OUx5TlpJOHBTVjRMRi1YT0tOWVpNdmdFWjFuRmhBb3BEY3lEb29pQ3FtcEFTcTZzUmlnQjd0R05SREJIdm5mRTVieU1TX0VST3UzNXlsS0x5N1drUWJ1all0dkwwTDdGaExSbmktZFZReDlGa0RlYnl30gHPAUFVX3lxTE96OVYzcFphN0RSaTk2TmRHSExRWk1DWVc0RnNmYzZTRGE4RlgyV19UbWEwemJTZ1J3bTFnV2xiNnpsa3VkQjFfczRuVjgtejRVN3YtX3RyRTFVd1ludHRvVmdTaUZKODUtQWI1eW5IcFdfMzZTYUtha3FBaTJhZWNYVkZNTm1XZGVvVXZTV25UX3RDdW5uVXJSTlNZMXNQRDROdjVadWgybGd5THdDZll0N1ExOU5fdWEwZW04azVJVU53azExQTNWckk3REVscw?oc=5",
+          "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS14dXVPREdFNmloX1JOWC1iaXFkOW5RclNqZjFzY0NhV0lPNDRLU3RPR3VHSTBrVlpCSXl0TXdzV3I4LU1odS1VRnBWWlQzdWJvYVRRRWpwa0hKUC13MmdnbWY4UjVOdHJiSktBMDFsV0E4VG1jQzRZelZnYW9sS2lsWFZhN2FYME1xd0JtTkVLR18xdXM2Y0Jodk1PX25fRmtuMmdxN3A?oc=5",
+          "title": "UFC Star Josh Hokit Unloads on Ciryl Gane After UFC 334 Vision Accusation"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1MxVHNrdHBFa3luMmkzQ3ZHX2VuSDJ4VXFVeTlJX0lKbDlNRG5SbDlzcEZTYzhGUlMxLXJXMDAwdzdid1lNU2lXeWgtNlI0eS1QZDFxRl93QnJpbERXLVkxQzg4NEFHYnRSUHZ1R1IycF9zU1BmbmpIVmNtejNTbS1wam8teVNQVGoybWRJeEFDelJvQkVjQTNCc3FlY1NPRjNCekNrOWt4NDVtbENCYmxTSk9XUDVkZkJEODBFQTUwaEszYU02TjMydHp3XzlpQmcxVkVtNV9fOWNxRUVUVVh2RzRMZUlGNVRUYnNzaGJLekh1VDU1ZFdBWDlHUVZI?oc=5",
+          "title": "Josh Hokit: 'My eye is still blurry' from Ciryl Gane poke at UFC 334"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjhYczVYdXBMeXhyWTU1cTFQMDU3bmdHNmRyVlpmVEJfdUJad2JHcDNQTm1FZjg2RzQ1NVhNUTdyblRoZkJDM1BRT0w0cmNGQ3duYWtPcEk3V0xHYmZEUk4zcGZ1aGRtb0kya2ZaSjNMNEd4a1hwX29YTzFsdG01ZGMyVU43Q0pkUlM5UGhwV2NCUHg2bUVGSTk2OVdTWTI0bEVKUEZHUUs2OEF0bE90Rng2U3E2SWdJT2FOdGFUOGk1YWZQMUlDeFpaT3pFMTVwZ2Exdy0wR1h3bmw5YjU4Y0x1bGpteFh0dUxmTFhlZEg?oc=5",
+          "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time"
         }
       ]
     }
   ],
   "combat_sent": [
     {
+      "key": "a1a5bc0968",
+      "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили",
+      "summary": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили Meta MMA",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 14.07,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T17:11:21+00:00",
+      "refs": [
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVHBPMXZzX0VaOHhpMmo1TzRKaTFGRV9JaGtUeGJmSzRsamhlRU91cmk0aHJBUUFmSHlQQXhnUWhqUVYwMEhHb3NReDl2c1hkc2xMbUxiNUFQM2pUSDU1MEc0R2dyVXdHRjFLTUVRMlZ1MzhLdU1LRkR4cFo4TEswMk5wUm03Z2VJdkN1R0hsQXhCMDZQT2ZIOUVyUGc5OTNzZlk1Sk55YmxtMUhKQ19EM3FLUnpEVVFFN0gwejBLVEN6R0k3bmt4ZE1pV2NMbktVYlE?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили"
+        },
+        {
+          "source": "Чемпионат",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmluVG5VVzFlVU5rNHZZbXlZaFh4b0dScWdQZktMb1hJZGN2MWo0N1lQbm5hWTFyNU15blVlcmhPV0FPaUltSW5SUmtvSkdtdGZrem9CNWtST1lhTGsxWlp6OU56Qk9QeFcyY29rb0htRFFSRzlWYkdUel83WHpfOVRzX0dRekJERFR1ZVZsQ3d2QmRGclFlWDcwVEpTTVhVRVFjM1lQeExfY0JvbzBXc3JmNkp4TXQzblpvUGFLWDlnX0J3elYyX3F2NFM?oc=5",
+          "title": "Брендан Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год"
+        },
+        {
+          "source": "1istochnik",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xV1kxVmtmaGtrT3NzaVpBMndvYV9hYzExX1FmS3M5TDhIdDEtb2FVV3FPeEVCajVNR1dzN1paSERPYmlTN3FYV1dR?oc=5",
+          "title": "Шауб предложил UFC подписать Усмана и отстранить его"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NeGNTTV9xNkJXSThyWFJZX0x4b3JfYk9TVVp1OEs5ODd6cVVycHU1eXZ0YTRBTDlPN0lrZ2FoZFJKVjlscmNhY2F3eVVFdEZEdlo0ZDB1NC1DM1BGYXhLTkVJVmtfRkNua3dySW9n0gFzQVVfeXFMTVI4ZUE3X29iVWtwQW5OWnRyLTR3OG1lQnJVWlktRTdhU3NwSHQ3SGZDd3V2dk9WUUN2U3Z5VmoxM0VnRnIzeGY4R05yOVZfWEo1MXMwX1VjdjNyUXlFY2FNYjhxdzNmS2VtcjF5YlV1anJFRQ?oc=5",
+          "title": "«Следовало бы остаться в чертовой тюрьме»: боец UFC о драке Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2FOQ3hmdUlpazRGYVl6N2NweXFhZzJ2RllFVDFMREVJQVdjajRmRmZ2OWt2djBPUWlXM09DZkNkZ0I0YVRIRDJvMVhWTUtRZDJ0RE1BUWhiaTJucTgtZ0ZxNVBQeW14MmVFZjFjN1NhZmVWZWE1eklLQ3IxRVZzQzRYN2NUb2RyTllpYW5idWJfaFV0MFkyRVREYW95ZWhMTGFuVHUwV0hFcWtXU3JfM2VCRERHWkR1OHo0WktSeDlkUQ?oc=5",
+          "title": "Экс-чемпион UFC Стерлинг осудил Махачева за поддержку Нурмагомедова, напавшего на Двалишвили"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/usman-nurmagomedov-opublikoval-foto-s-bratom-umarom-skripim-no-edem-2478105/",
+          "title": "Усман Нурмагомедов опубликовал фото с братом Умаром: «Скрипим, но едем»"
+        }
+      ]
+    },
+    {
+      "key": "af79b04d7e",
+      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
+      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 13.91,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-23T18:30:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
+          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
+          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
+          "title": "Conor McGregor returns to MMA training for final UFC fight"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
+          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
+          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
+        },
+        {
+          "source": "DAZN",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
+          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
+        }
+      ]
+    },
+    {
       "key": "407b89e179",
       "title": "Баку и Алматы примут турниры UFC в 2027 году",
       "summary": "Баку и Алматы примут турниры UFC в 2027 году Вестник Кавказа",
       "lang": "ru",
       "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.22,
+      "outlets": 5,
+      "growth": -1,
+      "heat": 12.93,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T15:37:59+00:00",
+      "published": "2026-11-23T19:43:34+00:00",
       "refs": [
         {
           "source": "Вестник Кавказа",
@@ -3702,131 +3824,6 @@
           "source": "legalbet.ru",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjRVcjlodTNlQlA4al9WaklvZlUtTnE2WjBvYkRVaWFUSTdrVl9rVWpCem1jaFQ5eVRjRlI2NU04UEtUVnFWOHJ1NWVzaDNoX3Y0dERlTzhiSGg2Y2MzMnZqdmRIZ3NwcVRIVEZ3ck1UMEZZNWFsSDNjLUswX1pYZVhZLVhmYk1tQzYtUlhVWlVHdFJPYnBv?oc=5",
           "title": "UFC проведет турниры в Алма-Ате и Баку в 2027 году — Новости Единоборств"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFVQUmVORENLRUdpaGRrcUJwR2JkLW45TlN3T3V6N1p6dXRGOWhWQWVQdVdLdWE3a2JCSm93QzJNVHhtbnVCTUtabFVRQ3VWa3M3U3N0NldzM0dRT0ZUakpYN2RxVnA4VWpkaUJTY0pPVGYxRXgxQXViNEowMEllVUlOeU1RNF91WWo5eW55Zm9TclZvU3R1dDNhSdIBoAFBVV95cUxNVkFfRnVnME8xZXJlNHJSUEVNaFd0emxBM0pJS1VoWGZlcmp6b3BsR05MVFdrNzBud0dZTl96NVNjN0t2aWtDd3h3RVBPWDlsdjA5TUVxTEw2SU9UbXJnd2hpN3cyb3BFR01pd0dGZlRScUlYemI1VUpzbDh1ek1PZnl3Wmp5NnpPV19pYjNxQTBHNHF2SGk1SFNxQ2dBR1pJ?oc=5",
-          "title": "Источник: UFC проведет турниры в Алма-Ате и Баку в 2027 году"
-        }
-      ]
-    },
-    {
-      "key": "89e63f7590",
-      "title": "Федерация бокса России стала полноправным членом World Boxing",
-      "summary": "Федерация бокса России стала полноправным членом World Boxing sport-interfax.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.31,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T19:23:53+00:00",
-      "refs": [
-        {
-          "source": "sport-interfax.ru",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjdqejJSN055NXVvblduWGNfRFNid3I5VzV4Vjg2QTBkMWVoSXZQMXBEdXcwLXVKVnZ1LVFrVzh6UVZja2w4VENvd1pmd9IBU0FVX3lxTE9ZakE5LV8ybms0ZElhcU5pUEFzNDZ3WnFFRDhkM1JTU2hYSjlyOGcydWhTbjk0djVrWHlqdEhwdXRFbHpzY0RYVHBLdFFQcl90NTBj?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261123/boks-2133476962.html",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Q3ZkbmtjNm9fVlg3LXZzZFhKVDZxNFZ0N2pwcWp4d25xN1Z5V1Q2bmM0U1MwRTNWVzByTmg5UkRta2ZRdnFPeks0Z1JjUnFtYzIwVllmdG4?oc=5",
-          "title": "Федерация бокса России вступила в World Boxing в качестве полноправного члена"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFRJNTlwUWhhYWxnT1hZUUI3XzRmZXZVb1VtRDVEbXRhRWxhbFFOZngxWUV6Rm1vaFZPWmc3a18zaWJOU24yT3BuVDlrdk5BX3I3MTU3ZGNsUFZJSk9SNVpXRUY0SVQyODh2cENvWkhrRi0zSlM5YTV0YkZoNjdtazAyb2RVOE93MFN1bXRCYURrUHBvUmludlBqU3BTcmhxcHBGU0d3?oc=5",
-          "title": "Федерация бокса России стала полноправным членом World Boxing"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/news/federaciya-boksa-rossii-stala-polnopravnym-chlenom-world-boxing-po-itogam-kongressa-v-paname-2478013/",
-          "title": "Федерация бокса России стала полноправным членом World Boxing по итогам конгресса в Панаме"
-        }
-      ]
-    },
-    {
-      "key": "74c259e3d5",
-      "title": "Conor McGregor Back in the Gym Preparing for UFC Return",
-      "summary": "Conor McGregor Back in the Gym Preparing for UFC Return Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.76,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T22:50:53+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1xdHB3SVhxb3JkTDdCRTV4V2NuRk9jSmtObmtkak5seE9LOTZPUkNmTnFISHFnZlp3RmsyU3dlUXFId0ZqQktGV3FsVFQ5UExWcmw4dERuQlV1bVYtclhhMHY4MHE0al9DekdwdVVJOUtIeTFBTUVMQXhQbTVZdXI5cHNEd0lzbkE?oc=5",
-          "title": "Conor McGregor Back in the Gym Preparing for UFC Return"
-        },
-        {
-          "source": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCd0hBMU9RWnBaN1FqdFZWTDh4VGlra1pnSUJtdFJtOHBFWnV3QXJlN3dtRUFrXzd3TGVLTVM1T2ZnUXN3OWNhZDBGMHpQNDd4ZTVrRU5OdmtSRlEwNjdGTElZZ0lyY3NNX0F0S2pmczJxSkJhVDI5M0lCenBMdw?oc=5",
-          "title": "Conor McGregor 'fully back in the gym,' gearing for final UFC fight"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVFxTEF1UFdxTmszeWhEYnhtVkxHbWFxYl90eHQ2a1BYWkxDZDdNcHlUdlQ1a3BxR29SUlVpYW5FT3llV0FFMnFlUjMzUVFVZDE1UVgwWGZYR0lQN3hBNGlZY1lkUTVEWEJ0aTdKdmE0aWNWZVdqV2U5S29Jb2I0aWkxckdlbnoxNUhqT3BOX2xZdk1RdzE2MmxKazlkNEhPdGNHLUN5UXhIS0pJMTNwYm5zYU14Y00yTGwxQzVXVkxJV2oyemkxSEZVMDZ2SzdjOUE?oc=5",
-          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
-          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
-          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
-        }
-      ]
-    },
-    {
-      "key": "18c8dbcd29",
-      "title": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе",
-      "summary": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе legalbet.ru",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.67,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T10:13:14+00:00",
-      "refs": [
-        {
-          "source": "legalbet.ru",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0NVeUszTWczN3dmYU5KMDZXS2JMbHVaZVFjOGRGaXRZMzV6c3dkeTdNQXZIRTZmb196RWRROHZaamxmQUZZSEFLUlpHX3FhVFlzdVVFd3RtYjlKUTNHRC1HT3R0TDhTSV95UHZzaTBqYk5Vd25vYmpkckVKTXBhQ29BYjhTci1QNFV5SWQwdHJ1VnJLVWc?oc=5",
-          "title": "Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе"
-        },
-        {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb29NYTZyY2FCbG02R1NYbExYcGRod3pFOFBEdUhHU3VHMlFhNVA4WkRaSC1nZzd0Nl84NHo4bURJdWg1MHJpZ1lBMzFqdlF3U3hESFBsZWtqR3NiX005RFFWajM5WTBXT2RYSmhxRU1TenhTS1o2c0FmZXh1ZFQzZk94cFdEdWlXclJYdk84bG9jX3FORUpLYzh3ZGFoVVFENDktTkxyVGhieDc2MzlTWjVn0gG3AUFVX3lxTE81Ym0ySUs4VkltN18zYVhqN28zSjdOclRUSGNIMlI4aFlGdXpoVTg4aC1GN1BKXzZqSlYzVEZqMGxsLXFJdmJrVFVNVGtCVHc2LWJIYmxfemxYOEFYVVlDQ2Z5MEZERlJiTEJhUUhpdVVIWW5CR1RNVzh2ZWdOY1o4cnBHRnFZQ3pFMkF2N2xRazdoYmdsTi1FTHU2c2pmcVVNS0JGMjFfWlhzUm5UeTViaHBrTHlFTQ?oc=5",
-          "title": "Официально: Зайнуков подерется с Гуайлупо на январском турнире UFC в Далласе"
-        },
-        {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGlJV0JISzh5Mnd3ZXZEOVVpdEZzdm9SRjRzRFRoZXpITVZueFZKOFUwUGpDSXZlMGU1SFZqdXJOS3UyekgxQ0dKRDVuLUFUQTJxSDlKeGVjOFdTeG1mekpOVzJFSGxNM0wtNXdYb1hZcU42Q05IZjhRT1lzUEtnQlV3VmZDZjVwLVBOMjI1X3p3OUk2UG82aVd5Wmt0MGQtWVlWYS01MmNlQS0wUTZvUUo5X1hOWHZ0MnZFRQ?oc=5",
-          "title": "Россиянин Зайнуков проведет бой на первом турнире UFC в 2027 году"
-        },
-        {
-          "source": "РИА Дагестан",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlZ6TzZWM0R5eVpnWlNqRTFCZXk4UmU1VEpDWW9ZTVlCcFZFWm9yMHFlb2tkVlNXbFhONlNtcnJ0THZhQWVjRzBBS2MyZVV0SWN3ckZqUmRsbGdZRG1GOWtxenBxaEo0OVdQYTQ1cExjdzgwSk5OMzJvcXBmWDVoM2RWb1N1cVlzekxmTkxzLWVqZmhZbUdRUlRLTDNsd04yQVZ1TlhIRQ?oc=5",
-          "title": "Магомед Зайнуков проведет бой на первом турнире UFC в 2027 году"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/mma/ufc/news/zaynukov-provedet-poedinok-s-guaylupo-na-turnire-ufc-fight-night-296-17-yanvarya-2477927/",
-          "title": "Зайнуков проведет поединок с Гуайлупо на турнире UFC Fight Night 296 17 января"
         }
       ]
     },
@@ -3838,10 +3835,10 @@
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.84,
+      "heat": 10.62,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-23T23:37:51+00:00",
+      "published": "2026-11-24T01:31:41+00:00",
       "refs": [
         {
           "source": "MMA Sucka",
@@ -3862,6 +3859,41 @@
           "source": "ONE Championship",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZHp0ZVdyWlRoYW1NNzRial9kTl9Yd3RwSm4xNmZqdk5BTHVlZjI1UF82UnpOaTd4dlhUeF96OTdFZHh6MzYzTTFUaFpoSG14SkhNRUFrQ3pkWW9LX3hGQm9aSE1JV25FY05EZUhzcDR6TEpKNnB4S0R5bFQ0WEg2VEVpVlVtV1FxX3o2clhHaVI?oc=5",
           "title": "Full Card Revealed For ONE Friday Fights 180 On November 27"
+        }
+      ]
+    },
+    {
+      "key": "7ce00d92ec",
+      "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane",
+      "summary": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane Sherdog",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 4,
+      "growth": 0,
+      "heat": 10.52,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-24T03:29:39+00:00",
+      "refs": [
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXg4elhGdG9KWG9RQ3NQcFZ6UktxaVRYZFV0Z1pTdTJmTVVBZ2M0SEpvRDB0Tmd0eHJUN0lQVE5IUXBDNEl2YVB1czhER1ppS1JDa1pHc0w3OUx5TlpJOHBTVjRMRi1YT0tOWVpNdmdFWjFuRmhBb3BEY3lEb29pQ3FtcEFTcTZzUmlnQjd0R05SREJIdm5mRTVieU1TX0VST3UzNXlsS0x5N1drUWJ1all0dkwwTDdGaExSbmktZFZReDlGa0RlYnl30gHPAUFVX3lxTE96OVYzcFphN0RSaTk2TmRHSExRWk1DWVc0RnNmYzZTRGE4RlgyV19UbWEwemJTZ1J3bTFnV2xiNnpsa3VkQjFfczRuVjgtejRVN3YtX3RyRTFVd1ludHRvVmdTaUZKODUtQWI1eW5IcFdfMzZTYUtha3FBaTJhZWNYVkZNTm1XZGVvVXZTV25UX3RDdW5uVXJSTlNZMXNQRDROdjVadWgybGd5THdDZll0N1ExOU5fdWEwZW04azVJVU53azExQTNWckk3REVscw?oc=5",
+          "title": "Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNS14dXVPREdFNmloX1JOWC1iaXFkOW5RclNqZjFzY0NhV0lPNDRLU3RPR3VHSTBrVlpCSXl0TXdzV3I4LU1odS1VRnBWWlQzdWJvYVRRRWpwa0hKUC13MmdnbWY4UjVOdHJiSktBMDFsV0E4VG1jQzRZelZnYW9sS2lsWFZhN2FYME1xd0JtTkVLR18xdXM2Y0Jodk1PX25fRmtuMmdxN3A?oc=5",
+          "title": "UFC Star Josh Hokit Unloads on Ciryl Gane After UFC 334 Vision Accusation"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1MxVHNrdHBFa3luMmkzQ3ZHX2VuSDJ4VXFVeTlJX0lKbDlNRG5SbDlzcEZTYzhGUlMxLXJXMDAwdzdid1lNU2lXeWgtNlI0eS1QZDFxRl93QnJpbERXLVkxQzg4NEFHYnRSUHZ1R1IycF9zU1BmbmpIVmNtejNTbS1wam8teVNQVGoybWRJeEFDelJvQkVjQTNCc3FlY1NPRjNCekNrOWt4NDVtbENCYmxTSk9XUDVkZkJEODBFQTUwaEszYU02TjMydHp3XzlpQmcxVkVtNV9fOWNxRUVUVVh2RzRMZUlGNVRUYnNzaGJLekh1VDU1ZFdBWDlHUVZI?oc=5",
+          "title": "Josh Hokit: 'My eye is still blurry' from Ciryl Gane poke at UFC 334"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjhYczVYdXBMeXhyWTU1cTFQMDU3bmdHNmRyVlpmVEJfdUJad2JHcDNQTm1FZjg2RzQ1NVhNUTdyblRoZkJDM1BRT0w0cmNGQ3duYWtPcEk3V0xHYmZEUk4zcGZ1aGRtb0kya2ZaSjNMNEd4a1hwX29YTzFsdG01ZGMyVU43Q0pkUlM5UGhwV2NCUHg2bUVGSTk2OVdTWTI0bEVKUEZHUUs2OEF0bE90Rng2U3E2SWdJT2FOdGFUOGk1YWZQMUlDeFpaT3pFMTVwZ2Exdy0wR1h3bmw5YjU4Y0x1bGpteFh0dUxmTFhlZEg?oc=5",
+          "title": "Morning Report | Josh Hokit claims his vision is still blurry after UFC 334, promises ‘consequences’ for Ciryl Gane next time"
         }
       ]
     }

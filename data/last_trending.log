@@ -1,39 +1,41 @@
-2026-11-24 01:42:05,180 INFO BBC Sport                         53 items
-2026-11-24 01:42:05,287 INFO The Guardian Sport                25 items
-2026-11-24 01:42:05,345 INFO ESPN                               0 items
-2026-11-24 01:42:05,494 INFO Sky Sports                        20 items
-2026-11-24 01:42:05,809 INFO Google News – Sports (EN)         61 items
-2026-11-24 01:42:06,526 INFO Google News – 体育 (ZH)             59 items
-2026-11-24 01:42:07,453 INFO Google News – Спорт (RU)          39 items
-2026-11-24 01:42:08,723 INFO Championat                        31 items
-2026-11-24 01:42:09,856 INFO Sports.ru                         19 items
-2026-11-24 01:42:11,724 INFO Спорт-Экспресс                   407 items
-2026-11-24 01:42:13,320 INFO РИА Новости Спорт                 20 items
-2026-11-24 01:42:14,784 INFO 中国新闻网 体育                          21 items
-2026-11-24 01:42:15,265 INFO Google News – Cambodia sport       5 items
-2026-11-24 01:42:15,730 INFO Google News – Southeast Asia sport  26 items
-2026-11-24 01:42:16,366 INFO Google News – Combat promotions   96 items
-2026-11-24 01:42:16,954 INFO Google News – Boxing              35 items
-2026-11-24 01:42:17,228 INFO Google News – Kun Khmer            1 items
-2026-11-24 01:42:17,475 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 01:42:18,110 INFO Google News – Единоборства (RU)   99 items
-2026-11-24 01:42:18,464 INFO Google News – 格斗 (ZH)             23 items
-2026-11-24 01:42:18,680 INFO MMA Fighting                      10 items
-2026-11-24 01:42:18,952 INFO Google News – Khmer Times sport    5 items
-2026-11-24 01:42:19,843 INFO Candidate stories after clustering: 947
-2026-11-24 01:42:21,681 INFO Trending skipped (not our audience): Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football
-2026-11-24 01:42:21,683 INFO Trending skipped (not our audience): Week 12 Fantasy Football Waiver Wire: Chris Rodriguez Jr., Dylan Sampson among top pickups
-2026-11-24 01:42:21,686 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
-2026-11-24 01:42:21,688 INFO Trending skipped (not our audience): Metcalf denies poking DeJean in the eyes as NFL rules out suspension
-2026-11-24 01:42:21,688 INFO Trending skipped (not our audience): Trevor Lawrence, Liam Coen share the blame for the Jaguars' loss to the Giants
-2026-11-24 01:42:22,444 INFO Talking points sent to Telegram (5 stories)
-2026-11-24 01:42:22,444 INFO   1. [ru 6 outlets, heat 15.3] Федерация бокса России стала полноправным членом World Boxing
-2026-11-24 01:42:22,444 INFO   2. [ru 6 outlets, heat 15.2] Баку и Алматы примут турниры UFC в 2027 году
-2026-11-24 01:42:22,444 INFO   3. [ru 4 outlets, heat 11.4] "Брентфорд" разгромил "Эвертон" в матче чемпионата Англии по футболу
-2026-11-24 01:42:22,444 INFO   4. [en 3 outlets, heat 9.5] Janelt scores stunner as Brentford beat 10-man Everton
-2026-11-24 01:42:22,444 INFO   5. [en 3 outlets, heat 8.1] Mets made multiple offers to Tarik Skubal before landing on record deal: Sources - The Athletic
-2026-11-24 01:42:22,444 INFO   C1. [ru 6 outlets, heat 15.2] Баку и Алматы примут турниры UFC в 2027 году
-2026-11-24 01:42:22,444 INFO   C2. [ru 5 outlets, heat 13.3] Федерация бокса России стала полноправным членом World Boxing
-2026-11-24 01:42:22,444 INFO   C3. [en 5 outlets, heat 12.8] Conor McGregor Back in the Gym Preparing for UFC Return
-2026-11-24 01:42:22,444 INFO   C4. [ru 5 outlets, heat 12.7] Зайнуков проведёт бой с Гуайлупо на турнире UFC в Далласе
-2026-11-24 01:42:22,444 INFO   C5. [en 4 outlets, heat 10.8] PFL Lyon Full Fight Card Confirmed for December 19
+2026-11-24 05:42:11,872 INFO BBC Sport                         50 items
+2026-11-24 05:42:12,156 INFO The Guardian Sport                27 items
+2026-11-24 05:42:12,225 INFO ESPN                              42 items
+2026-11-24 05:42:12,397 INFO Sky Sports                        20 items
+2026-11-24 05:42:12,645 INFO Google News – Sports (EN)         62 items
+2026-11-24 05:42:13,292 INFO Google News – 体育 (ZH)             65 items
+2026-11-24 05:42:14,069 INFO Google News – Спорт (RU)          39 items
+2026-11-24 05:42:15,182 INFO Championat                        29 items
+2026-11-24 05:42:15,963 INFO Sports.ru                         20 items
+2026-11-24 05:42:16,967 INFO Спорт-Экспресс                   376 items
+2026-11-24 05:42:17,833 INFO РИА Новости Спорт                 20 items
+2026-11-24 05:42:18,174 INFO 中国新闻网 体育                          24 items
+2026-11-24 05:42:18,475 INFO Google News – Cambodia sport       8 items
+2026-11-24 05:42:18,852 INFO Google News – Southeast Asia sport  25 items
+2026-11-24 05:42:19,406 INFO Google News – Combat promotions   99 items
+2026-11-24 05:42:19,740 INFO Google News – Boxing              30 items
+2026-11-24 05:42:19,977 INFO Google News – Kun Khmer            1 items
+2026-11-24 05:42:20,143 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-24 05:42:20,749 INFO Google News – Единоборства (RU)  100 items
+2026-11-24 05:42:21,095 INFO Google News – 格斗 (ZH)             38 items
+2026-11-24 05:42:21,217 INFO MMA Fighting                      10 items
+2026-11-24 05:42:21,436 INFO Google News – Khmer Times sport    6 items
+2026-11-24 05:42:22,266 INFO Candidate stories after clustering: 986
+2026-11-24 05:42:23,601 INFO Trending skipped (not our audience): Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football
+2026-11-24 05:42:23,603 INFO Trending skipped (not our audience): Fantasy football free agents: Grab Rams and Packers quickly in a spread-out Week 12
+2026-11-24 05:42:23,605 INFO Trending skipped (not our audience): Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB hi
+2026-11-24 05:42:23,606 INFO Trending skipped (not our audience): Steelers receiver DK Metcalf denies trying to poke Eagles’ Cooper DeJean in the eye, won’t
+2026-11-24 05:42:23,606 INFO Trending skipped (clickbait): “光明会要杀我”拳击英雄富里，确诊精神分裂症‘震惊自白’……体重190公斤、可卡因成瘾“如同活在地狱”
+2026-11-24 05:42:23,607 INFO Trending skipped (not our audience): NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge
+2026-11-24 05:42:23,607 INFO Trending skipped (not our audience): NFL Week 11: A Travis Kelce game years in the making, and Dak Prescott keeps dealing
+2026-11-24 05:42:24,415 INFO Talking points sent to Telegram (5 stories)
+2026-11-24 05:42:24,415 INFO   1. [en 7 outlets, heat 15.9] Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor
+2026-11-24 05:42:24,415 INFO   2. [en 6 outlets, heat 14.5] Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane
+2026-11-24 05:42:24,415 INFO   3. [ru 4 outlets, heat 10.9] Гол и три передачи Капризова помогли "Миннесоте" обыграть "Сан-Хосе" в НХЛ
+2026-11-24 05:42:24,416 INFO   4. [ru 4 outlets, heat 10.7] ЦСКА обратился в ЭСК из-за пенальти в матче против "Ахмата"
+2026-11-24 05:42:24,416 INFO   5. [ru 3 outlets, heat 9.6] ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое инт
+2026-11-24 05:42:24,416 INFO   C1. [ru 6 outlets, heat 14.1] Шауб предложил UFC подписать Усмана Нурмагомедова и отстранить его на год за драку с Двалишвили
+2026-11-24 05:42:24,416 INFO   C2. [en 6 outlets, heat 13.9] Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor
+2026-11-24 05:42:24,416 INFO   C3. [ru 5 outlets, heat 12.9] Баку и Алматы примут турниры UFC в 2027 году
+2026-11-24 05:42:24,416 INFO   C4. [en 4 outlets, heat 10.6] PFL Lyon Full Fight Card Confirmed for December 19
+2026-11-24 05:42:24,416 INFO   C5. [en 4 outlets, heat 10.5] Josh Hokit reveals lingering vision problems after UFC 334, regrets not fouling Ciryl Gane
