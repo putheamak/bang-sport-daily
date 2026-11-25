@@ -1369,7 +1369,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T15:40:11+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "Biathlon",
     "tags": [
@@ -1571,7 +1571,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T15:39:10+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
