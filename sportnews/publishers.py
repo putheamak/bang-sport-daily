@@ -179,6 +179,33 @@ def facebook_check() -> str:
     return f"{d.get('name')} ({d.get('link', '')}){info}"
 
 
+def facebook_redo_reel(cfg: dict, a: dict, everything: list[dict]) -> str:
+    """Replace a Reel that is still waiting (scheduled) on the Page: delete it there, then send the new clip in the
+    same time slot. A Reel that is already public is left alone."""
+    from datetime import datetime, timezone
+    recs = [p for p in a.get("published_to") or [] if p.get("channel") == "facebook-reel"]
+    if not recs:
+        return "no Reel recorded"
+    rec = recs[-1]
+    when = rec.get("scheduled_for")
+    if not when or datetime.fromisoformat(when) <= datetime.now(timezone.utc) + __import__("datetime").timedelta(minutes=12):
+        return "Reel is already public (or about to be): not replaced"
+    page, token = fb_page_token()
+    req = urllib.request.Request(f"https://graph.facebook.com/{FB_API}/{rec['id']}?access_token={urllib.parse.quote(token)}",
+                                 method="DELETE")
+    try:
+        urllib.request.urlopen(req, timeout=30)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError("Facebook says: " + e.read().decode()[:400]) from e
+    a["published_to"].remove(rec)
+    from .reels import make_reel, upload_reel
+    clip = make_reel(cfg, a, "en")
+    ts = int(datetime.fromisoformat(when).timestamp())
+    vid = upload_reel(clip, f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}', ts)
+    a["published_to"].append({**rec, "id": vid, "at": now_iso(cfg), "replaced": rec["id"]})
+    return f"Reel replaced, still scheduled for {when[:16]}"
+
+
 def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True,
                      everything: list[dict] | None = None) -> list[str]:
     """Post already-published stories to the Facebook Page (post and/or Reel; never twice; spaced out)."""
