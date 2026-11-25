@@ -189,6 +189,16 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                 a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
             except Exception as e:  # noqa: BLE001
                 log.error("Facebook failed for %s: %s", a["id"], e)
+        if cfg["publish"].get("facebook_reels") and "facebook-reel" not in posted:
+            try:
+                from .reels import make_reel, upload_reel
+                clip = make_reel(cfg, a)                       # made even without Facebook: for TikTok by hand
+                if clip and cfg["publish"].get("facebook") and facebook_ready():
+                    desc = f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}'
+                    vid = upload_reel(clip, desc)
+                    a["published_to"].append({"channel": "facebook-reel", "id": vid, "at": now_iso(cfg)})
+            except Exception as e:  # noqa: BLE001
+                log.error("Facebook Reel failed for %s: %s", a["id"], e)
         if a.get("status") == "published" and a.get("published_at"):
             a["republished_at"] = now_iso(cfg)      # a correction keeps its original publication time
         else:
@@ -196,6 +206,11 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
         a["status"] = "published"
         done.append(a["id"])
     save_articles(articles)
+    try:
+        from .reels import prune
+        prune()
+    except Exception:  # noqa: BLE001
+        pass
     log.info("Published %d article(s)", len(done))
     return done
 

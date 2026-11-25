@@ -1354,3 +1354,13 @@ def test_duplicate_ignores_age_group_tags():
     b = {"id": "old", "date": "2026-11-24", "status": "published", "match": {"home": "China U-17", "away": "Morocco U-17"},
          "en": {"headline": "y"}}
     assert duplicate_of(a, [b]) == "old"
+
+
+def test_reel_licence_rules():
+    from sportnews.reels import video_safe
+    assert video_safe({"license": "CC0"})
+    assert video_safe({"license": "CC BY 3.0 br"})
+    assert video_safe({"license": "Public domain"})
+    assert video_safe({"url": "../photos/card-x.png", "license": ""})
+    assert not video_safe({"license": "CC BY-SA 4.0"})
+    assert not video_safe({"license": "All rights reserved"})

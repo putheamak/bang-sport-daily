@@ -10,7 +10,8 @@ stop and ask the editor.** When in doubt, do not publish.
 1. Nothing is published, rejected or posted without the editor's explicit "publish" / "reject" for that story.
    `publish.auto_publish` stays `false`.
 2. Facebook, WhatsApp, X and other social posts are written as drafts for the editor; the editor posts them
-   (unless the editor has turned on automatic posting for that platform).
+   (unless the editor has turned on automatic posting for that platform). Facebook Page posts and Reels: ON since
+   25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
 3. Never delete stories, photos, feeds or settings the editor made without being asked. Reject instead of delete.
 4. Report problems honestly, including your own mistakes. Never claim a check passed if you did not run it.
 

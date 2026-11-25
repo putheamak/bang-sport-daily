@@ -45,7 +45,7 @@ jobs:
           git config user.name  "sportnews-bot"
           git config user.email "sportnews-bot@users.noreply.github.com"
           mkdir -p data && touch data/.gitkeep
-          git add data docs
+          git add data docs output
           git diff --cached --quiet || git commit -m "${{ inputs.action }}: ${{ inputs.ids }}"
           for i in 1 2 3; do
             git pull --rebase --autostash && git push && break
