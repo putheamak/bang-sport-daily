@@ -85,15 +85,27 @@ def facebook_check() -> str:
     return f"{d.get('name')} ({d.get('link', '')})"
 
 
-def facebook_publish(cfg: dict, articles: list[dict]) -> list[str]:
-    """Post already-published stories to the Facebook Page (skips ones already posted there)."""
+def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True) -> list[str]:
+    """Post already-published stories to the Facebook Page (normal post and/or Reel; never the same one twice)."""
     out = []
     for a in articles:
-        if a.get("status") != "published" or any(p.get("channel") == "facebook" for p in a.get("published_to") or []):
+        if a.get("status") != "published":
             continue
-        fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
-        a.setdefault("published_to", []).append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
-        out.append(a["id"])
+        done = {p.get("channel") for p in a.get("published_to") or []}
+        a.setdefault("published_to", [])
+        if post and "facebook" not in done:
+            fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
+            a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
+            out.append(a["id"])
+        if reel and "facebook-reel" not in done:
+            from .reels import make_reel, upload_reel
+            for lang in ("zh", "ru"):                            # kept as files for Weibo / VK / Telegram by hand
+                make_reel(cfg, a, lang)
+            clip = make_reel(cfg, a, "en")
+            if clip:
+                vid = upload_reel(clip, f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}')
+                a["published_to"].append({"channel": "facebook-reel", "id": vid, "at": now_iso(cfg)})
+                out.append(a["id"] + " (Reel)")
     return out
 
 
@@ -192,6 +204,8 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
         if cfg["publish"].get("facebook_reels") and "facebook-reel" not in posted:
             try:
                 from .reels import make_reel, upload_reel
+                for lang in ("zh", "ru"):                      # kept as files for Weibo / VK / Telegram by hand
+                    make_reel(cfg, a, lang)
                 clip = make_reel(cfg, a)                       # made even without Facebook: for TikTok by hand
                 if clip and cfg["publish"].get("facebook") and facebook_ready():
                     desc = f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}'

@@ -1256,7 +1256,7 @@ def test_facebook_skips_without_token_and_text_has_no_link(monkeypatch):
     arts = [{"id": "a", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "telegram-en"}]},
             {"id": "b", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "facebook"}]},
             {"id": "c", "status": "draft", "en": {"social_post": "t"}}]
-    assert P.facebook_publish({"timezone": "Asia/Phnom_Penh"}, arts) == ["a"] and sent == [("t", "https://x/en/s")]
+    assert P.facebook_publish({"timezone": "Asia/Phnom_Penh"}, arts, reel=False) == ["a"] and sent == [("t", "https://x/en/s")]
 
 
 def test_duplicate_match_is_caught():
