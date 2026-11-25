@@ -1,0 +1,44 @@
+# 莱赫奇卡携手马哈奇横扫加拿大，捷克时隔12年重返戴维斯杯四强
+
+*队长伯蒂奇运筹帷幄，捷克队在博洛尼亚八强战中两场连胜拿下2022年冠军加拿大，自2014年以来首度跻身半决赛。*
+
+**新闻** · 2026-11-25
+
+2026年11月24日星期二，在意大利博洛尼亚的室内球场，捷克队在戴维斯杯八强淘汰赛中直落两场，以2比0力克2022年赛会冠军加拿大队，昂首挺进半决赛。在托马斯·马哈奇（Tomas Machac）苦战三盘为球队拔得头筹后，世界排名第14位的伊日·莱赫奇卡（Jiri Lehecka）顶住压力，以7-6（4）、6-2击败费利克斯·奥热-阿利亚西姆（Felix Auger-Aliassime），为捷克队锁定胜局。这场胜利宣告捷克男网长达12年的等待就此终结——他们上一次闯入这项男子团体顶级赛事的四强，还要追溯到遥远的2014年。
+
+## 莱赫奇卡关键分彰显大心脏，化解九个破发点
+
+现世界排名第17位的奥热-阿利亚西姆此前在两人的四次巡回赛交手中拿下三场，包括本赛季早些时候在迪拜室内赛的胜利。在这场决定两队命运的二号单打交锋中，加拿大名将首盘打得极具侵略性，先后拿到多达9个破发点，其中更包括5-4领先时的一个盘点。然而莱赫奇卡犹如铜墙铁壁，不可思议地化解了每一次危机。25岁的捷克名将在抢七战中稳扎稳打，并在6-4领先时轰出再见ACE球拿到盘点，随即以7-4先下一城，耗时68分钟艰难拿下首盘。
+
+「这是一场极其艰苦的对决，」莱赫奇卡在赛后场边采访中说道，「在面对那么多破发点和险境时，我必须竭尽全力咬住。在这样的室内场地下，费利克斯是极度危险的对手，我为自己能把握住关键机会感到非常自豪。」
+
+## 闪电破发奠定胜势，伯蒂奇变阵押注显奇效
+
+首盘涉险过关彻底释放了莱赫奇卡的进攻火力。第二盘一开局他便完成破发，迅速建立起3-0的领先优势。来到5-2的发球胜赛局，奥热-阿利亚西姆虽用一记反手制胜分救下一个赛点，但莱赫奇卡在第二个赛点上没有再给对手机会，随着加拿大人反手击球出界，捷克人耗时整整两小时收下比赛。「第一盘打得非常消耗体力，」奥热-阿利亚西姆赛后坦言，「也许我在第二盘开局出现了一点松懈。我试图发起反扑，但他今天完全进入了状态，牢不可破。」
+
+捷克队队长托马斯·伯蒂奇（Tomas Berdych）曾在2012年和2013年以核心球员身份连续捧得戴维斯杯，本场他在排兵布阵上展现出惊人魄力——出人意料地弃用了世界前20名将雅库布·门希克（Jakub Mensik），转而派上排名第59位的马哈奇出战第一单打。事实证明伯蒂奇眼光独到，马哈奇耗时1小时55分钟，以6-2、3-6、6-2力克世界排名第154位的利亚姆·德拉克斯尔（Liam Draxl）。首盘马哈奇早早打出4-0梦幻开局，决胜盘又在关键时刻破发取得4-2领先，为捷克队牢牢奠定了胜利基调。
+
+## 半决赛蓄势待发，静候意韩之战胜者
+
+加拿大队此役阵容严重受损，主力单打丹尼斯·沙波瓦洛夫（Denis Shapovalov）和加布里埃尔·迪亚洛（Gabriel Diallo）均因伤高挂免战牌，队长弗兰克·丹切维奇（Frank Dancevic）的队伍最终未能将比赛拖入决胜的双打较量。
+
+捷克队将在周五的博洛尼亚半决赛中亮相，对手将是卫冕冠军意大利队与韩国队之间的胜者。周三出战的韩国队同样志在创造历史，力争队史首个戴维斯杯四强席位。
+
+---
+**来源**
+
+- [Machac earns opening win for Czechia - Davis Cup](https://www.daviscup.com/en/news/334670.aspx)
+- [Czechs sweep Canada in Davis Cup quarterfinal, beating Auger-Aliassime and Draxl - CBC](https://www.cbc.ca/sports/tennis/davis-cup-finals-canada-czech-republic-nov-24-1.7391949)
+- [Captain Berdych spoiled for choice with Czech roster - Davis Cup](https://www.daviscup.com/en/news/334671.aspx)
+- [myMotherLode.com: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUttUnFnZDZyVG5oc3NqcEZEZHZHNTBtbzlXR3pMdEpuVEdYNVlsQ3YzOVdvaVdCd25EYVBFT0FMcVkwbGFyWDRoMzRVSTF4b3JmSlg2Qnl0cElqNmJnS19PdGQ3YzRFcTB0UWdHOUFXbmVYTm1IbHBQVGNHZTc1TEJpWFJ5T3U2b3dLSjZGSGczelNSTEF2bzBvcHBYYmJGclZGLXZZRWl4OFdhWmkyUWRNanBiM0VfV0RKd0gwaFJna1FubnVabi1GQThLbE1E0gHQAUFVX3lxTE9VS21ScWdkNnJUbmhzc2pwRkRkdkc1MG1vOVdHekx0Sm5UR1g1WWxDdjM5V29pV0J3bkRhUEVPQUxxWTBsYXJYNGgzNFVJMXhvcmZKWDZCeXRwSWo2YmdLX090ZDdjNEVxMHRRZ0c5QVduZVhObUhscFBUY0dlNzVMQmlYUnlPdTZvd0tKNkZIZzN6U1JMQXZvMG9wcFhiYkZyVkYtdllFaXg4V2FaaTJRZE1qcGIzRV9XREp3SDBoUmdrUW5udVpuLUZBOEtsTUQ?oc=5)
+- [CBC: Czechs sweep Canada in Davis Cup quarterfinal, beating Auger-Aliassime and Draxl](https://news.google.com/rss/articles/CBMikwFBVV95cUxPODFrRzRYLXA2akxNRVItS0VLYXJPbEMzVlB5T1Ytb2VoWXp0dW9MVkhHMm42Y3ZNNktrMDEtZk9DMG5IVDAzVVo3S25PLUt4ZElXU2FSN3g3aXQ5X09oWEo5UGxMN2NNMFgtMzF6a0xKWUdZT09Md21FVFNQaGNmYm1ObFZVazh4U1BHNjh6ckJjaFU?oc=5)
+- [Sportsnet.ca: Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup quarterfinal](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVW1Hano3ZkhfdWFWbF8tUzRJRUxaeERyNldSenhicDllRGJqVGZ3amczMGJTMXNmQUY5ckszYTNYdXVjVG5vY1NmMVJFc1diajNvSmhfb3NUcFc2eHdxMDZ5TExobU0xVXZpQ3RISkd2aDRVa3QzOUhxZEI3OF9FbFBzZ2RiSmNGVHBEb29JMklKaWdhNm5NZnBIam9Mbmc5M2JnSGtRNDFLMktia1d6OE1Kc3hLTVRj?oc=5)
+- [ATP Tour: Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis](https://news.google.com/rss/articles/CBMibkFVX3lxTE53V1BpVnZEb1JxbHFqei1oSWtYTWJ1WkdlVlIyZXlJY3ZHcTE3MDlMS1JGU3ZNaVQ1RnpLdXI0MG4wVDNNUUtSVWplSEpYM1BaYks5bHZnMDI2ZWpGcUdyYTZmT1BWSm9MampSUjZ3?oc=5)
+- [Reuters: Lehecka beats Auger-Aliassime to carry Czechs into Davis Cup semi-finals](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlkRko2eS16Z3NXcnZWTTdoMi1iMGQ2NmI3NXVpSlAzY0Y0TUpMaTU0eThxbUh2MkREVWpvWlpRcEdLcVByOHVXNk45MVF2YVd4bWpLTkRuWmJFUEJWU1FTVmFZQkloOEdBWGE2UHlOMlVibmJwZS1DUVBtbXRSd2NYRjg4UTlrYU9leHh4ZHZ6YnNLMTVhRU1MaXJ6RWpaMFg1dExVU0ptZ1pZNjhnUkQyVWZ6czQ?oc=5)
+- [Click2Houston: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1AtSnY0dzIwbjVlQUROc2FYWVg2aVpfRTVHcUV1eDI5MkRXZ292N01VTHpKVzg4OEZyZVRuXzVlc3B2QXZzTlc2cU1LUGc1UlczUm5ZZWd1SDd2Rm53dUtVdk5mNjNMVnlPSFZhZlk1ZDNQOEl6ZFVJZ2Q5RDA2Uk1NdWo0UVdIMy05NTRvbU9tZjkybDdBdkpJejVmNmFDMGhKRVg4WUdoelZTY0E5TDF0Y1EtUm9ISlhGdE1kQzlZeWJvRDl1SnNVRjh5TWlHX2llVg?oc=5)
+- [Toronto Star: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSHFpVDhHTnJPMmd0QUFGOWxVNHBpODFQNGtpay01SDJEZGRjMHQ5ZDJkRzlUSkdqaDlWOC13cmFkRG9qUlVkTnZWaEtmelhPdmVPUnhXQkdlS1dXREFWZWRwZmdXeU5ESVdaVEVaWkZSQkt0WFh1aXFKVTZrVm5HdlgzVGFIVHBTckpfb1dpSmo5LW9VZ2hqZXZ3ZlNfY0ROYy1ZZllLYkQ1SXI5Ql9uanJlbTgwLUtSTWVYN0pCZUlhZndHeDhQQW5UalFzaFM0aUU3c2R6YjZWdjF2REZFajg1cnc4NjZsZHpFaFFIYU9RLUk5SENhODhPelRIdw?oc=5)
+- [Oskaloosa Herald: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMijAJBVV95cUxPU096elBGNURyRTd5c25OVGJGcjk2LVcwbVlCb1Q5RVdQX1lBNHBIWERnVGV3V19WUjFBSFZqcnI0ZWlfMGt5LV9wSVQ2ekUxcVhaSFBia201NmZzdkpDeUtWZU1hQUJRUmFfQjAySWs4QTdrVmlSX2VWMF9jV2hUamxEeTcxcE8yVWpuWW9CdGFzNG9zb2FWRlBVOVFBNUxPbG45QnBaaXFoVGRheUEyVjlDT1F6Z0ZPdVZwYzRoNWdGZjJSdXFzRnlGbEpNRVVUeG9NamNpVzdYajlnc2ZLYXo2M0xIellEQ2w2MTFzLWlfOF9Ca3ZTbGxLWG5sQ293Yy1Vd2V1SE1MMjFN?oc=5)
+- [WHIO TV: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVpTQ05wM3lubFhycklPVDRDV3EzMnpNTTZtMUdrcUV0NGlabTRsczl6ZFpQeWNlUzhvVjJwUURoaG13aVNhcVdMQUEwRmJxd1FTT1AxVERYSGpXRmNFaEdQbDl6WW9DM0I4WmRvVUNHZ0FzdDZwU2RJa2syNjhxdDFXT284R2tyeWJwZHdDWElEbnJa0gGUAUFVX3lxTE9NWlNDTnAzeW5sWHJySU9UNENXcTMyek1NNm0xR2txRXQ0aVptNGxzOXpkWlB5Y2VTOG9WMnBRRGhobXdpU2FxV0xBQTBGYnF3UVNPUDFURFhIaldGY0VoR1BsOXpZb0MzQjhaZG9VQ0dnQXN0NnBTZElrazI2OHF0MVdPbzhHa3J5YnBkd0NYSURuclo?oc=5)
+- [RiverBender.com: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdENqOTZ2MVgybDhVQnUtM0dqRnZsVGhMb2VVUGRHSVpUM1l2UkF6WnhRRTY4dVRlcnNsVnRHdjZXcTRGOE4xV1QwLWszNW55WVV4eXZoNGltWjE3UDhLaUpSTWxzOEx6elNXYw?oc=5)
+- [Yahoo Sports – Tennis: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://sports.yahoo.com/articles/lehecka-lead-czechs-beat-canada-201242168.html)
+- [NEWS10 ABC: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VoUEVRbHV3Ukw0V0tTbjhzY2dHb244bWl6clVkbVpRV3IxYlVFVUFXRGpOT1Y4cTY4UmFIT3ZlZmhHVnpVSWdrcTdFYnNacXZNNGJDSHNqUC1yNHprbWp3YUZVd2d3WE5ZU3NOaEtpR1hoTFdMM2llTkthRy1LWU5UODEtYWlhaWRNdloxTTg5OEhzSXRVaVlvaHlEUk5sV0pYX2RPNFJuTzlUMF9qYk5jdXZRcDc5Vmg40gG7AUFVX3lxTE9zVWhQRVFsdXdSTDRXS1NuOHNjZ0dvbjhtaXpyVWRtWlFXcjFiVUVVQVdEak5PVjhxNjhSYUhPdmVmaEdWelVJZ2txN0Vic1pxdk00YkNIc2pQLXI0emttandhRlV3Z3dYTllTc05oS2lHWGhMV0wzaWVOS2FHLUtZTlQ4MS1haWFpZE12WjFNODk4SHNJdFVpWW9oeURSTmxXSlhfZE80Um5POVQwX2piTmN1dlFwNzlWaDg?oc=5)

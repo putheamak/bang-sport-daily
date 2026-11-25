@@ -1,5 +1,530 @@
 [
   {
+    "id": "2026-11-25-athl-f4dbe9",
+    "slug": "joseph-schooling-s-journey-from-childhood-dream-to-singapore",
+    "date": "2026-11-25",
+    "created": "2026-11-25T18:42:20+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Swimming",
+    "tags": [
+      "Joseph Schooling",
+      "Singapore",
+      "Olympics",
+      "Swimming",
+      "Michael Phelps",
+      "Rio 2016"
+    ],
+    "athletes": [
+      "Joseph Schooling",
+      "Michael Phelps",
+      "Caeleb Dressel",
+      "Chad le Clos"
+    ],
+    "image_subjects": [
+      "Joseph Schooling",
+      "Michael Phelps",
+      "University of Texas at Austin",
+      "Bolles School"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Joseph Schooling - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Schooling"
+      },
+      {
+        "title": "Joseph Schooling - International Swimming Hall of Fame",
+        "url": "https://ishof.org/wp-content/uploads/2025/09/Schooling-Joseph.jpeg"
+      },
+      {
+        "title": "Schooling retires: A look back at the career highs and lows of Singapore's sole Olympic champion - CNA",
+        "url": "https://www.channelnewsasia.com"
+      },
+      {
+        "title": "Deep dive: Joseph Schooling reflects on life post-swimming - Tatler Asia",
+        "url": "https://www.tatlerasia.com"
+      },
+      {
+        "title": "prestigeonline.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoyUdmW2oQHyQ1G0C-GBE6ViZuF1xLoDyUPoODxwNskvHEcWn9YoARz0siLYZgH6GdpiKa867B1_r5A160rfAckODKXeG1_xOD36VnOGuje4CMs6ViRiS6a6M90NRAkGdqKtFmv9uEvMCnTiSt0q4RjGjlSyC_Ay83x_u3QaOnPJaoqxxvIRmM6NA="
+      },
+      {
+        "title": "tatlerasia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDFjoVJmxZuBWROwThfKHSp6HTH0oByNpRiKiiO4GBwVpTmWG5rMgS1YU4RkfckGmVjQULRvcLS8wePMHpL3S-5eT8k5L5FPYzvuPjS30k4T1pLnfFqJVQn-OcZYVAPHFg9c6qhwVxahU6SExIRs_sTV-3cYUhqkiDMobjwUOFEkcDyXkS11zrzF44-moIdhav"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTxaom4SZVxMlT_Sz5KayZHKvfYfo65ejsJ7NJVIduadtTOaX3IGpeJB58O4NlURWwLo7dFehGx2nbyNzxAf5-zfIuM-QKFj_mZeZD0zaVvW_osRoz8kUm71eHgNMs0DcKZDs="
+      },
+      {
+        "title": "ishof.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXIQN_GL9fDtrJvMPABWEPR3qgzGTVkPUZhIFg4CWwoGZY6501wyp53jnYvQjYeBsOhwPT6N0yw45-_bsF4LrrU2Ii9t0EJ3TdN_KgUXCNqCHQy-mJuKwnDHFdjM8HcLs="
+      },
+      {
+        "title": "channelnewsasia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGHB4Ofzl7nygkymQa1t7C5xm_CdfCxpYwal7ebnxFANvmajUxlSWwW5Xbe7AT4XOZhY7G72L90DdyGSs51WxUbrNpptA1FZ6ZDfFb44MQFmitlnk-I9zBcnRJjYOIN3DqNpvNEyUSvT-1Iuvd5Nc4XxtZMOoic8UGFAkxyp7sR34c5j8SAZRmvZgDfd8vyS2tx-xAahtDx1q8XH1EgU7mgOFezoyVdhzwC2AaMCq9KDrFJDgWzFJ_jNk="
+      },
+      {
+        "title": "mothership.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhjTCz2E2YjMcskWagpVR4vsvCavskwWhffebX-DorGu4FlrC-yB5dNWg5_NTwrzBRw2H0q4Qn01uX5lFCVbiJGcYMCAHr-OlFpdk50sRDW78slPyxmVG3pGBQ0EHEmKwcwjgUxWBWen9dZ0b5aFzUryZL3csdPx4_X_k="
+      },
+      {
+        "title": "swimray.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL2UhIu52vpfs0RYGkNLx8K1vlXVY2b3_y9OdqZAB2NtKBU5h0YrFcKyG76wpxjhYNfRQDNLH_W4W_Zr3_D8IybxUPeWwBUwJ_x4CgY6cYXCjj7FJ0nauLVxXvzc0gF8FiOxfVfgY="
+      },
+      {
+        "title": "trustedbrands.asia",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUysy0KpMyw4CJIZgo8NGoPgBTBaG8NciSl3q2sZ111qC0C3yegXRkcADSHtBypd1dJ8AByOvM3N087UsuCenF6WOxARckT7uuMnuPdmELmZidyyBKo8zuW0M3wjXLe2VlB1ykdg=="
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.011,
+      "longest": 14,
+      "phrases": [
+        "in the 100 yard butterfly and 1 37 97 in the 200 yard butterfly",
+        "he enrolled at the university of texas at austin",
+        "for hall of fame coaches eddie reese and",
+        "ncaa and us open records of 44 01"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Joseph Schooling's Journey: From Childhood Dream to Singapore's First Olympic Gold",
+      "seo_title": "Joseph Schooling: Life Story of Singapore's Swim Champion",
+      "subheadline": "How family sacrifice, American training and an Olympic record over Michael Phelps shaped the life of Singapore's greatest swimmer.",
+      "body_markdown": "On 12 August 2016, 21-year-old Joseph Isaac Schooling entered lane four at the Olympic Aquatics Stadium in Rio de Janeiro and stopped the clock in 50.39 seconds. That swim took 0.19 seconds off Michael Phelps's 2008 Olympic record, forced Phelps, Chad le Clos and László Cseh into an unprecedented three-way tie for silver at 51.14 seconds, and delivered Singapore's first and only Olympic gold medal. Born on 16 June 1995 to Colin and May Schooling, the fourth-generation Singaporean had pursued that specific wall touch since boyhood, tracing a lineage of Olympic ambition that began almost seven decades earlier.\n\nSchooling's Olympic motivation originated with his grand-uncle Lloyd Valberg, a high jumper who competed at the 1948 London Games as Singapore's first Olympian. Schooling was raised in Singapore as the only child in a sporting household: his father Colin, educated at Raffles Institution, represented Singapore in softball after competing in water polo and hurdles, while his mother May had played professional tennis in Malaysia before moving from Perak. After attending Anglo-Chinese School (Junior) and Anglo-Chinese School (Independent), Schooling met Phelps in Singapore in 2008 when the American stopped over ahead of the Beijing Games. A photograph captured the 13-year-old Singaporean standing beside his swimming idol.\n\nDetermined to pursue world-class competition, Schooling left Singapore in 2009 at age 14 to attend the Bolles School in Jacksonville, Florida, training under Spanish Olympic medallist Sergio López Miró. The relocation required significant financial and family sacrifice. Colin and May Schooling sold a residential property in Australia and spent more than S$1 million to finance their son's coaching, schooling and living costs, alternating shifts between Jacksonville and Singapore to run their business while supporting him.\n\n## From London Heartbreak to Asian Games Glory\n\nSchooling earned his first Olympic \"A\" qualifying standard at the 2011 Southeast Asian Games in Palembang, winning the 200m butterfly in 1:56.67. His Olympic debut at the 2012 London Games, however, ended in disappointment. Minutes before his 200m butterfly heat at the London Aquatics Centre, swimming officials rejected his swim cap and goggles for non-compliance with equipment rules. Forced to scramble for replacements before the buzzer, Schooling clocked 2:01.31, finished 26th overall, and missed the semi-finals.\n\nThe setback launched an accelerated climb. In July 2014, Schooling became Singapore's first swimming medallist at the Commonwealth Games, securing silver in the 100m butterfly in Glasgow. Two months later at the Incheon Asian Games, he won bronze in the 200m butterfly, silver in the 50m butterfly, and gold in the 100m butterfly with a Games record of 51.76 seconds, ending a 32-year title drought for Singapore's male swimmers. Later that year, he enrolled at the University of Texas at Austin to swim for Hall of Fame coaches Eddie Reese and Kris Kubik. In June 2015, Schooling collected nine gold medals and nine Games records at the Southeast Asian Games on home soil, clocking 22.47 seconds in the 50m freestyle to erase Ang Peng Siong's 33-year-old national record. Two months later at the Kazan World Championships, he took bronze in the 100m butterfly with an Asian-record time of 50.96 seconds, securing Singapore's first world aquatics medal.\n\n## The Rio Pinnacle and Collegiate Supremacy\n\nSchooling arrived at the Rio 2016 Olympics following a dominant collegiate run for the Texas Longhorns, where he set NCAA and US Open records of 44.01 seconds in the 100-yard butterfly and 1:37.97 in the 200-yard butterfly. In Rio's 100m butterfly semi-finals on 11 August, he qualified fastest in an Asian record of 50.83 seconds. In the final on 12 August, Schooling opened with a split of 23.64 seconds at the halfway mark before finishing in 50.39 seconds, beating Phelps, Le Clos and Cseh by 0.75 seconds.\n\nThe swim earned Schooling S$1 million under Singapore's Multi-Million Dollar Award Programme, with 20 percent reinvested into the Singapore Swimming Association for youth development. The NCAA cleared the payment under regulations governing state rewards to foreign student-athletes. Upon his return, tens of thousands lined Singapore's streets for an open-top bus victory parade. Swimming outlet SwimSwam ranked the performance fourth on its list of the top swims of 2016, behind Katinka Hosszú, Katie Ledecky and Adam Peaty.\n\n## Adversity, National Service and Life After the Pool\n\nSchooling completed his collegiate swimming career at Texas in 2017 with 12 NCAA titles (four individual and eight relays). At the 2017 Budapest World Championships, he claimed joint bronze in the 100m butterfly (50.83 seconds) behind Caeleb Dressel. He defended his 100m butterfly crown at the 2018 Jakarta Asian Games in 51.04 seconds and added the 50m butterfly title. However, technical adjustments, weight fluctuations and coaching transitions disrupted his preparation for the delayed Tokyo 2020 Olympics. In Tokyo in July 2021, Schooling finished 44th in the 100m butterfly heats with a time of 53.12 seconds, exiting in the preliminary round.\n\nPersonal loss followed four months later when his father Colin died of cancer on 18 November 2021 at age 73. In January 2022, Schooling enlisted for Singapore's mandatory National Service. In August 2022, he received an official censure from the Singapore National Olympic Council after admitting to consuming cannabis overseas while on leave during the Southeast Asian Games in Hanoi, resulting in the withdrawal of his sports training privileges for the remainder of his military term.\n\nOn 2 April 2024, at age 28, Schooling announced his retirement from competitive swimming. In business, he directs his academy, Swim Schooling, and operates as a founding partner at venture capital firm Swaen Schooling Capital alongside Cliff Go and Ben Ling. In 2025, the International Swimming Hall of Fame confirmed his induction as its first Singaporean member, capping a career that redefined Southeast Asian swimming.",
+      "social_post": "From meeting Michael Phelps at age 13 in Singapore to beating him for Olympic gold at Rio 2016 in 50.39 seconds, Joseph Schooling made sporting history. After weathering Olympic heartbreak, family sacrifice and military service, Singapore's only Olympic champion retired in 2024 to lead his swim school and venture investments. What is your favourite memory of Schooling's career? Let us know in the comments! #JosephSchooling #Swimming #Singapore #Olympics"
+    },
+    "zh": {
+      "headline": "约瑟·斯库林的传奇之路：从儿时梦想到新加坡历史首枚奥运金牌",
+      "seo_title": "约瑟林奥运夺金回顾：击败菲尔普斯的新加坡游泳传奇",
+      "subheadline": "倾尽家财的家庭付出、赴美深造的严苛历练，以及里约力克菲尔普斯创造的奥运纪录，如何铸就这位新加坡泳坛巨星的非凡人生。",
+      "body_markdown": "2016年8月12日，里约热内卢奥林匹克水上运动中心第4泳道，21岁的新加坡名将约瑟·伊萨克·斯库林（Joseph Isaac Schooling，中文媒体常称约瑟林）如离弦之箭跃入水中，最终将计时器定格在50秒39。这一成绩打破了菲尔普斯（Michael Phelps）在2008年北京奥运会创造的赛会纪录，快了0.19秒；更让菲尔普斯、南非名将勒克洛（Chad le Clos）与匈牙利老将切赫（László Cseh）以51秒14罕见地并列摘银。这记触壁，为新加坡赢得了建国以来首枚也是迄今唯一一枚奥运金牌。1995年6月16日，约瑟林出生在科林（Colin）与梅（May）的家庭中，作为第四代新加坡人，他自幼便对触壁夺金心驰神往，而这份奥运执念甚至可以追溯到近七十年前的家族渊源。\n\n约瑟林的奥运梦想最早启蒙自他的叔公公劳埃德·瓦尔伯格（Lloyd Valberg）——这位跳高选手曾在1948年伦敦奥运会上亮相，成为新加坡历史上的首位奥运选手。作为独生子，约瑟林在一个体育世家中长大：父亲科林曾就读于莱佛士书院，在涉足水球和跨栏后代表新加坡出战垒球比赛；母亲梅在从马来西亚霹雳州移居新加坡之前曾是一名职业网球选手。在先后就读英华学校（附小）与英华自主中学期间，约瑟林于2008年迎来人生的关键契机：菲尔普斯在出征北京奥运前夕经停新加坡，一张著名的合影记录下了当时仅13岁的新加坡少年与泳坛偶像并肩站立的青涩瞬间。\n\n怀揣着角逐世界顶级赛场的决心，约瑟林于2009年年仅14岁时离开新加坡，远赴美国佛罗里达州杰克逊维尔的博尔思学校（Bolles School），师从西班牙奥运奖牌得主塞尔吉奥·洛佩斯·米罗（Sergio López Miró）。这次跨国求学意味着家庭在经济与精力上的巨大付出。科林与梅卖掉了位于澳大利亚的一处房产，累计投入超过100万新元以承担儿子的训练、学费及生活开支，夫妻俩更常年在杰克逊维尔与新加坡之间轮流奔波，一边兼顾生意，一边悉心照料儿子。\n\n## 从伦敦折戟到亚运折桂\n\n2011年巨港东南亚运动会上，约瑟林在200米蝶泳中游出1分56秒67，首次达到奥运A标。然而，他在2012年伦敦奥运会的初登场却以心碎告终。就在伦敦水上运动中心男子200米蝶泳预赛开赛前几分钟，赛事官员认定他的泳帽和泳镜不符合器材规则。猝不及防的约瑟林在发令枪响前仓促寻找替代装备，最终仅游出2分01秒31，总排名第26位，无缘半决赛。\n\n这次挫折反而成为他加速崛起的跳板。2014年7月，约瑟林在格拉斯哥英联邦运动会上摘得男子100米蝶泳银牌，成为新加坡历史上首位英联邦运动会游泳奖牌得主。两个月后的仁川亚运会，他更是大放异彩，斩获200米蝶泳铜牌、50米蝶泳银牌，并在100米蝶泳中以51秒76破赛会纪录的成绩夺冠，打破了新加坡男子游泳长达32年的亚运金牌荒。同年晚些时候，他进入得克萨斯大学奥斯汀分校，投身国际游泳名人堂名帅埃迪·里斯（Eddie Reese）与克里斯·库比克（Kris Kubik）麾下。2015年6月在本土举行的东南亚运动会上，约瑟林狂揽9枚金牌并打破9项赛会纪录，其中50米自由泳游出22秒47，打破了洪秉祥（Ang Peng Siong）保持33年之久的全国纪录。两个月后的喀山世锦赛，他又以50秒96打破亚洲纪录夺得100米蝶泳铜牌，斩获新加坡历史上首枚水上运动世锦赛奖牌。\n\n## 里约登顶与全美大学赛场的统治力\n\n带着在NCAA赛场的统治级表现，约瑟林自信满满地踏上2016年里约奥运会赛场。在此之前，他代表得克萨斯长角牛队创造了男子100码蝶泳（44秒01）和200码蝶泳（1分37秒97）的NCAA及全美公开赛纪录。8月11日的里约100米蝶泳半决赛中，他以50秒83打破亚洲纪录，头名晋级。8月12日的决战，约瑟林半程50米便以23秒64一马当先，最终以50秒39强势封王，将菲尔普斯、勒克洛和切赫甩开了0.75秒之多。\n\n凭借这一历史性突破，约瑟林根据新加坡的“百万元体坛百万元奖励计划”（Multi-Million Dollar Award Programme）获得了100万新元奖金，其中20%按规定回馈给新加坡游泳协会用于青少年发展。NCAA依据针对外国学生运动员国家级奖励的相关规定批准了该项奖金发放。凯旋回国后，数万名新加坡市民涌上街头，夹道迎接敞篷双层大巴胜利巡游。著名游泳媒体SwimSwam将这次夺冠评为2016年度第四大高光表现，仅次于霍苏·考廷考（Katinka Hosszú）、凯蒂·莱德基（Katie Ledecky）和亚当·佩蒂（Adam Peaty）。\n\n## 逆境、服役与泳池之外的新篇章\n\n2017年，约瑟林在得克萨斯大学结束了辉煌的大学泳池生涯，名下揽获12个NCAA冠军头衔（4项个人、8项接力）。在2017年布达佩斯世锦赛上，他在100米蝶泳中以50秒83与对手并列摘铜，仅次于横空出世的凯勒布·德雷塞尔（Caeleb Dressel）。2018年雅加达亚运会，他以51秒04成功卫冕100米蝶泳金牌，并加冕50米蝶泳冠军。然而，随后的技术动作调整、体重波动以及教练团队更迭，打乱了他备战推迟举行的2020东京奥运会的节奏。2021年7月在东京，约瑟林在100米蝶泳预赛中仅游出53秒12，位列第44名，惨遭淘汰。\n\n仅仅四个月后，沉重打击接踵而至：2021年11月18日，父亲科林因癌症辞世，享年73岁。2022年1月，约瑟林依法入伍服新加坡国民服役。2022年8月，他在河内东南亚运动会休假期间承认在境外吸食大麻，遭到新加坡国家奥委会的正式训诫，其剩余服役期间的体育特训休假特权随即被全面取消。\n\n2024年4月2日，28岁的约瑟林正式宣布退役，告别竞技泳坛。在商业领域，他不仅全心经营自己的游泳学院“Swim Schooling”，还与柯利弗·高（Cliff Go）和本·凌（Ben Ling）携手作为创始合伙人创立了风险投资机构Swaen Schooling Capital。2025年，国际游泳名人堂确认吸收约瑟林入堂，他由此成为首位获此殊荣的新加坡人，为这段彻底改写东南亚游泳历史的传奇生涯画上了完美的句点。",
+      "social_post": "从13岁在新加坡与菲尔普斯合影，到2016年里约以50秒39打破奥运纪录斩获金牌，约瑟·斯库林谱写了新加坡体育的历史。历经伦敦遗憾、家庭倾囊相助与兵役起伏，这位新加坡唯一一位奥运金牌得主已于2024年退役转向商业投资。斯库林最令你难忘的高光时刻是哪一幕？欢迎在评论区分享！🏊‍♂️🇸🇬 #约瑟林 #游泳 #新加坡体育 #奥运冠军"
+    },
+    "ru": {
+      "headline": "Путь Джозефа Скулинга: от детской мечты до первого олимпийского золота в истории Сингапура",
+      "seo_title": "Джозеф Скулинг: биография сингапурца, победившего Фелпса на Олимпиаде",
+      "subheadline": "Колоссальные семейные жертвы, американская закалка и олимпийский рекорд в дуэли против Майкла Фелпса: история величайшего пловца Сингапура.",
+      "body_markdown": "12 августа 2016 года на арене Олимпийского водного стадиона в Рио-де-Жанейро 21-летний Джозеф Айзек Скулинг (Joseph Isaac Schooling) вышел на четвертую дорожку и остановил секундомер на отметке 50,39 секунды. Этот заплыв не просто снял 0,19 секунды с олимпийского рекорда Майкла Фелпса (Michael Phelps) образца 2008 года — он привел к беспрецедентной тройной ничьей за серебро, где Фелпс, Чад ле Кло (Chad le Clos) и Ласло Чех (László Cseh) показали одинаковое время 51,14 секунды. Главное же — этот триумф принес Сингапуру первую и до сих пор единственную золотую медаль в олимпийской истории. Скулинг, сингапурец в четвертом поколении, родившийся 16 июня 1995 года в семье Колина и Мэй Скулинг, шел к этому решающему касанию бортика с раннего детства, продолжая семейную олимпийскую эстафету длиной почти в семь десятилетий.\n\nОлимпийская мечта Скулинга зародилась благодаря его двоюродному деду Ллойду Вальбергу (Lloyd Valberg) — прыгуну в высоту, который выступил на Играх 1948 года в Лондоне и стал первым олимпийцем в истории Сингапура. Сам Джозеф рос единственным ребенком в очень спортивной семье: отец Колин, выпускник Института Раффлз, выступал за сборную Сингапура по софтболу, а до этого занимался водным поло и барьерным бегом; мать Мэй играла в профессиональный теннис в Малайзии до переезда из штата Перак. Проучившись в Anglo-Chinese School (Junior) и Anglo-Chinese School (Independent), Скулинг в 2008 году впервые лично встретил Фелпса — американец сделал остановку в Сингапуре по пути на Олимпиаду в Пекине. Знаменитый снимок запечатлел 13-летнего сингапурского подростка рядом со своим кумиром.\n\nТвердо решив пробиваться в мировую элиту, Скулинг в 2009 году, в возрасте 14 лет, покинул Сингапур и поступил в школу Боллс (Bolles School) в Джексонвилле, штат Флорида, где стал тренироваться под руководством испанского олимпийского медалиста Серхио Лопеса Миро (Sergio López Miró). Этот переезд потребовал от родителей колоссальных финансовых и личных жертв. Колин и Мэй Скулинг продали жилую недвижимость в Австралии и потратили более 1 миллиона сингапурских долларов на оплату тренировок, учебы и проживания сына, годами разрываясь между Джексонвиллом и Сингапуром, чтобы вести семейный бизнес и при этом постоянно находиться рядом с сыном.\n\n## От лондонского удара до триумфа на Азиатских играх\n\nСвой первый олимпийский норматив категории «А» Скулинг выполнил на Играх Юго-Восточной Азии 2011 года в Палембанге, выиграв 200-метровку баттерфляем с результатом 1:56,67. Однако олимпийский дебют на Играх 2012 года в Лондоне обернулся шоком и разочарованием. За считанные минуты до старта предварительного заплыва на 200 метров баттерфляем в Лондонском центре водных видов спорта судьи признали его шапочку и очки не соответствующими регламенту экипировки. В панике разыскивая замену прямо перед вызовом на старт, Скулинг показал лишь 2:01,31, занял 26-е место в общем зачете и выбыл из борьбы, не попав даже в полуфинал.\n\nЭта осечка лишь ускорила его взлет. В июле 2014 года Скулинг завоевал серебро на дистанции 100 метров баттерфляем в Глазго, став первым сингапурским призером по плаванию в истории Игр Содружества. Спустя два месяца на Азиатских играх в Инчхоне он оформил бронзу на 200 м баттерфляем, серебро на 50 м и сенсационное золото на стометровке с рекордом Игр — 51,76 секунды, прервав 32-летнюю бестрофейную засуху сингапурских пловцов-мужчин. В том же году он поступил в Техасский университет в Остине, попав в руки тренеров из Зала славы Эдди Риза (Eddie Reese) и Криса Кубика (Kris Kubik). В июне 2015 года на домашних Играх Юго-Восточной Азии Скулинг собрал урожай из девяти золотых медалей и девяти рекордов соревнований, а на дистанции 50 метров вольным стилем проплыл за 22,47 секунды, стерев национальный рекорд Анг Пенг Сионга (Ang Peng Siong), державшийся 33 года. Еще два месяца спустя на чемпионате мира в Казани он завоевал бронзу на 100 м баттерфляем с рекордом Азии (50,96 секунды), принеся Сингапуру первую в истории медаль чемпионатов мира по водным видам спорта.\n\n## Вершина Рио и студенческое доминирование\n\nК Олимпиаде в Рио-2016 Скулинг подошел после сокрушительного сезона в студенческой лиге за «Техас Лонгхорнс», где он установил рекорды NCAA и Открытого чемпионата США на короткой воде — 44,01 секунды на 100 ярдах баттерфляем и 1:37,97 на 200 ярдах. 11 августа в полуфинале стометровки баттерфляем в Рио он показал лучшее время с рекордом Азии — 50,83 секунды. В финале 12 августа Скулинг преодолел первую половину дистанции за 23,64 секунды и финишировал с результатом 50,39, «привезя» Фелпсу, Ле Кло и Чеху внушительные 0,75 секунды.\n\nЗа этот заплыв Скулинг получил 1 миллион сингапурских долларов по государственной премиальной программе Multi-Million Dollar Award Programme, 20% из которых было перечислено Сингапурской ассоциации плавания на развитие детско-юношеского спорта. Ассоциация NCAA разрешила получение выплаты в соответствии с правилами о государственных наградах для иностранных студентов-спортсменов. На родине пловца встречали как национального героя: десятки тысяч жителей выстроились вдоль улиц, приветствуя чемпионский парад на открытом автобусе. Профильное издание SwimSwam поставило это выступление на четвертое место в списке лучших заплывов 2016 года — сразу вслед за результатами Катинки Хоссу (Katinka Hosszú), Кэти Ледеки (Katie Ledecky) и Адама Пити (Adam Peaty).\n\n## Испытания, служба в армии и жизнь вне бассейна\n\nСкулинг завершил студенческую карьеру в Техасе в 2017 году, завоевав 12 чемпионских титулов NCAA (четыре личных и восемь в эстафетах). На чемпионате мира 2017 года в Будапеште он завоевал бронзу на стометровке баттерфляем (50,83 секунды), разделив третье место в заплыве, где первенствовал Кейлеб Дрессел (Caeleb Dressel). На Азиатских играх 2018 года в Джакарте он защитил свой титул на 100 м баттерфляем (51,04 секунды) и добавил к нему золото на полтиннике. Однако технические перестройки, проблемы с весом и смены тренеров подорвали его подготовку к перенесенной Олимпиаде-2020 в Токио. В июле 2021 года в японской столице Скулинг занял лишь 44-е место в предварительных заплывах на 100 м баттерфляем со скромным временем 53,12 секунды и выбыл на ранней стадии.\n\nСпустя четыре месяца спортсмена постигла тяжелая личная утрата: 18 ноября 2021 года в возрасте 73 лет от рака скончался его отец Колин. В январе 2022 года Скулинг был призван на обязательную действительную военную службу в Сингапуре. В августе 2022 года он получил официальный выговор от Национального олимпийского комитета Сингапура после признания в употреблении каннабиса за рубежом во время отпуска на Играх Юго-Восточной Азии в Ханое, из-за чего до конца армейской службы был лишен привилегий спортивных увольнений.\n\n2 апреля 2024 года в возрасте 28 лет Джозеф Скулинг объявил о завершении спортивной карьеры. Сейчас он руководит собственной академией плавания Swim Schooling, а также выступает партнером-основателем венчурного фонда Swaen Schooling Capital вместе с Клиффом Го (Cliff Go) и Беном Лингом (Ben Ling). В 2025 году Международный зал славы плавания подтвердил включение Скулинга в свои ряды — он стал первым представителем Сингапура, удостоенным этой чести, поставив золотую точку в карьере, изменившей представление о плавании в Юго-Восточной Азии.",
+      "social_post": "От детской фотографии с Майклом Фелпсом в 13 лет до золота Рио-2016 с олимпийским рекордом 50,39 секунды: Джозеф Скулинг навсегда вписал свое имя в мировую историю плавания. Пережив слезы Лондона, финансовые жертвы семьи и армейские будни, единственный олимпийский чемпион Сингапура в 2024 году завершил карьеру. Какой момент в карьере Скулинга запомнился вам больше всего? Ждем мнений в комментариях! 🏊‍♂️🥇 #ДжозефСкулинг #Плавание #Олимпиада #Сингапур #Фелпс"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Joseph_Schooling_Kazan_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Joseph_Schooling_Kazan_2015.jpg",
+        "artist": "Oleg Bkhambri (Voltmetro)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Joseph Schooling, World Championships, Kazan",
+        "width": 1200,
+        "height": 1621,
+        "year": 2015,
+        "subject": "Joseph Schooling",
+        "asked": "Joseph Schooling",
+        "page_title": "Joseph Schooling",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:joseph_schooling_kazan_2015.jpg|Joseph Schooling",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Joseph Schooling on the podium holding his medal at a swimming competition",
+          "reason": "The image clearly shows swimmer Joseph Schooling with his name visible on the bib at a FINA event.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg",
+        "artist": "Agência Brasil Fotografias",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Cropped from image: Rio de Janeiro - O nadador Michael Phelps, norte-americano recordista de medalhas olímpicas, 22, concede entrevista no Parque Olímpico dos Jogos Rio 2016 (Fernando Frazão/Agência B",
+        "width": 1200,
+        "height": 1586,
+        "year": 2016,
+        "subject": "Michael Phelps",
+        "asked": "Michael Phelps",
+        "page_title": "Michael Phelps",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:michael_phelps_rio_olympics_2016.jpg|Michael Phelps",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Michael Phelps smiling during an interview or event",
+          "reason": "The photo clearly shows American Olympic swimmer Michael Phelps.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg/1280px-Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg",
+        "artist": "Ebyabe",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Jacksonville, Florida : San Jose Estates Thematic Resource Area : House at 7356 San Jose Boulevard",
+        "width": 1200,
+        "height": 1600,
+        "year": 2011,
+        "subject": "The Bolles School",
+        "asked": "Bolles School",
+        "page_title": "The Bolles School",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:jax_fl_7356_san_jose_blvd_house_bolles_school_stone01.jpg|The Bolles School",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "A stone crest of The Bolles School mounted on a stucco wall",
+          "reason": "The plaque clearly displays the name 'BOLLES' and the official school crest, matching the captioned institution where Joseph Schooling trained.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "Exact date of a death is stated. Make sure a source gives that exact date; otherwise write 'has died, it was announced on ...'"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://www.channelnewsasia.com, https://www.tatlerasia.com"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-4afcf1",
+    "slug": "former-lionesses-captain-rosnani-azman-retires-from-internat",
+    "date": "2026-11-25",
+    "created": "2026-11-25T18:40:36+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "Rosnani Azman",
+      "Lionesses",
+      "Singapore Football",
+      "FAS",
+      "Women's Football"
+    ],
+    "athletes": [
+      "Rosnani Azman"
+    ],
+    "image_subjects": [
+      "Rosnani Azman",
+      "Singapore women's national football team",
+      "INAC Kobe Leonessa",
+      "Football Association of Singapore"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Rosnani Azman retires from international football after distinguished service to the Lionesses - Football Association of Singapore",
+        "url": "https://fas.org.sg"
+      },
+      {
+        "title": "Rosnani Azman - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rosnani_Azman"
+      },
+      {
+        "title": "fas.org.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxkQgTL1sx776-FoQA1Mb1fRhf6n2-wAmMxqXUq0GzmWxWYh6Omq7qacLNhQ3coPw9xgueW8hGnN_QbLMjcKexMQ_IkgPmGqn9VHhabefk22AT7TeuJKEO8Ohsm9gJp1OUmkiSfuKpOA7E8x_Ch6Zd7X4NiTFWYtYnLggXKStloQipsw7KjWNCJDihjJVhLUhpUkueCTYoIt8-HSCw7JCyzaeatFsyfsg="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhH9a9H8gTzHTgIyWL1OfvA_ufW7NXxJLpM75Msn4YBc49UDBh0yTMRiL6ZggIgWTRk5FZO__uDuxDlhC1ir5ak1d4IG8Yu2e3sFVpqP9EBwcwUhBDC74mZstGpbccvMAU"
+      },
+      {
+        "title": "fas.org.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtnQRbl2RlwQNrST9qj_G828_pWBQf0DN3LIiZEkFOUacQxbj_j5dfWxKIey6dXG36UcRofMw6_K_N2GpQVbABYZ34E_Sb4taRDWCWXRgldATOZifr-lGrlFr50A_XVPoHJ-VDns6D_3-9kkTUb4XYer9dkrjf0vQ3so5cZCk6_KCeL9j_sRARGMgrIw=="
+      },
+      {
+        "title": "sportplus.sg",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfjEXxFG7QX-7MmL9VceVv02hOn3pxFFj3y5qnJxNnUC_keLhIo6XOa_pRsVtZqIqqzzlaLKvkQT4v-405Rm004SmFg7m7SJwYyujkWfvSBeBHwvDh8G636f18aefCff1tp2COJ45FtxwFVpQcRYm_5r6vR3NRSW48aYwD8N0rY-DycqahGCzZR6RSRwL7DcDepv75sYVVM1cU9WEITrtck8IfqGZu0A=="
+      },
+      {
+        "title": "Football Association of Singapore (FAS): Rosnani Azman retires from international football after distinguished service to the Lionesses",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3FPUTZxekd4OFc2bkRuTHN4NFlQMnhZdUZPS2djSjhvekxrTmQwRkJiaFlUOXlMRVFYZ1BfdkVGZE12Tjl5TWpPS0tnUUpiYlpfUVJrNUlQZDFqeVRZdlRzQUt2NDM3X09oUnRraW5zUVEyMXFhSktvSkZhLThjWEpoSlRHdjdESUEwQkhBcEFtUlpDV1ktbHdhRXVkMGVmYmpldDkxUjZWYWxONF9yTHp6SGM?oc=5"
+      },
+      {
+        "title": "Laodong.vn: Youth football",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVWx5b1hEcjNXczdPdDh3bmZUb3RVUFlqQncybm1IUnpMZkxlMGM2MGZqdU5sRVd5OUZCQmxzWERlWFhJajJfZGlvODdiVmN3Qmxlemd2NzB2anJ6eWMyTlBiQWRsNTQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Former Lionesses Captain Rosnani Azman Retires from International Football",
+      "seo_title": "Rosnani Azman Retires: Singapore Women's Captain Steps Down",
+      "subheadline": "The 29-year-old defender steps aside after 58 caps, an overseas career in Japan and Australia, and over a decade of service to Singapore.",
+      "body_markdown": "Former Singapore women’s national team captain Siti Rosnani Azman announced her retirement from international football on Wednesday, 25 November 2026, concluding more than a decade of senior service to the Lionesses.\n\nThe 29-year-old defender accumulated 58 international caps during her tenure, anchoring Singapore’s back line across multiple regional tournaments. She featured at several editions of the Southeast Asian Games, including the 2023 tournament in Cambodia, and competed at the 19th Asian Games held in Hangzhou, China. Rosnani first captained Singapore in competitive action against Cambodia in May 2023 before officially being named the permanent national team captain later that year.\n\n“Representing Singapore has been one of the greatest honours of my football journey,” Rosnani said in a statement released by the Football Association of Singapore. “Wearing the national colours, leading my teammates as captain and sharing so many memorable moments with the team are experiences I will always be grateful for.”\n\n## A Trailblazing Overseas Path\n\nRosnani's international recognition developed alongside a pioneering club career abroad. After earning the inaugural FAS Women’s Premier League Player of the Year award in 2017, she moved to Australia to play for South West Queensland Thunder in the National Premier Leagues Women. \n\nIn September 2021, she made history as the first Singaporean female player to sign a professional contract in Japan when she joined WE League club INAC Kobe Leonessa. She later featured for Kibi International University Charme in Japan's Nadeshiko League before returning to Singapore's domestic circuit in 2023.\n\nHer experience in Japan and Australia provided the Lionesses with rare overseas top-flight pedigree during a transitional phase for women's football across Southeast Asia.\n\n## Domestic Silverware and Future in Coaching\n\nBack on the local circuit, Rosnani joined Albirex Niigata Singapore (later rebranded as FC Jurong), helping the side secure the Women’s Premier League championship in 2025. In 2026, she anchored the club’s defense during its inaugural appearance in the Asian Football Confederation’s Women’s Champions League.\n\nWhile her international playing chapter has closed, Rosnani confirmed she will remain active at the club level with FC Jurong and has begun pursuing coaching qualifications to mentor the next generation of Singaporean players.",
+      "social_post": "Former Singapore captain Siti Rosnani Azman has announced her retirement from international football after earning 58 caps across more than a decade with the Lionesses. The defender, who made history as the first Singaporean woman to play professionally in Japan, will continue playing at club level with FC Jurong while transitioning into coaching. How will you remember Rosnani's contributions to Singapore football? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "前新加坡女足队长罗斯娜妮宣布告别国家队，结束逾十年国脚生涯",
+      "seo_title": "罗斯娜妮退出国家队：前新加坡女足队长宣布挂靴",
+      "subheadline": "29岁后卫曾留洋日本和澳洲，代表“母狮队”出战58场，如今正式脱下国家队战袍。",
+      "body_markdown": "前新加坡女足国家队队长西蒂·罗斯娜妮·阿兹曼（Siti Rosnani Azman）于2026年11月25日（星期三）正式宣布退出国际赛场，结束了为“母狮队”效力超过十载的国脚生涯。\n\n这位29岁的中后场大闸在国家队生涯中累计出战58场，多次在区域大赛中坐镇新加坡后防线。她曾代表球队出战数届东南亚运动会（包括2023年柬埔寨东运会），并征战了在中国杭州举行的第19届亚运会。2023年5月对阵柬埔寨的比赛中，罗斯娜妮首次戴上队长袖标率队出战正赛，随后在同年晚些时候被正式任命为国家队常任队长。\n\n“代表新加坡出战是我足球生涯中至高无上的荣耀之一，”罗斯娜妮在新加坡足球总会发布的声明中表示，“身披国家队战袍、作为队长引领队友，并与球队共同度过那么多难忘的时刻，这些经历让我永远心存感激。”\n\n## 开创先河的留洋之路\n\n在国家队打出名堂的同时，罗斯娜妮在俱乐部层面的海外开拓同样具有开创性意义。在荣膺2017年首届新加坡足总女足超级联赛年度最佳球员后，她远赴澳大利亚，加盟征战国家超级联赛女足组（NPLW）的西南昆士兰雷霆队（South West Queensland Thunder）。\n\n2021年9月，她书写了新加坡足球的新历史——加盟日本WE联赛劲旅神户雌狮（INAC Kobe Leonessa），成为新加坡首位登陆日本职业联赛的女子足球运动员。此后，她还曾效力于日本抚子联赛的吉备国际大学Charme队（Kibi International University Charme），并于2023年重返新加坡本土联赛赛场。\n\n在东南亚女足整体处于转型发展的关键时期，她在日本和澳大利亚高水平联赛积累的留洋经验，为新加坡女足注入了弥足珍贵的顶尖赛事底蕴。\n\n## 斩获本土奖杯与执教转型\n\n重返本土赛场后，罗斯娜妮加盟了新加坡新泻天鹅女足（后更名为裕廊FC，FC Jurong），并在2025年力助球队斩获女足超级联赛冠军。2026年，她作为后防定海神针，率队出战了俱乐部历史上首次亚足联女足冠军联赛（女足亚冠）。\n\n尽管国家队篇章已然画上句号，但罗斯娜妮确认自己仍将作为裕廊FC的一员继续征战俱乐部赛事。与此同时，她已开始考取教练执教资质，致力于为新加坡足球培育新一代后起之秀。",
+      "social_post": "为新加坡“母狮队”征战逾十载、出场58次的前队长西蒂·罗斯娜妮·阿兹曼正式宣布退出国家队。作为首位登陆日本职业足坛的新加坡女足先驱，她将继续代表裕廊FC征战俱乐部赛事，并逐步开启执教生涯。回顾罗斯娜妮的国家队生涯，哪一幕最让你难忘？欢迎在评论区留言交流！"
+    },
+    "ru": {
+      "headline": "Экс-капитан сборной Сингапура Роснани Азман объявила о завершении международной карьеры",
+      "seo_title": "Роснани Азман завершила карьеру в сборной Сингапура",
+      "subheadline": "29-летняя защитница уходит из сборной после 58 матчей, опыта выступлений в Японии и Австралии и более десяти лет в футболке «львиц».",
+      "body_markdown": "Бывший капитан женской национальной сборной Сингапура Сити Роснани Азман (Siti Rosnani Azman) в среду, 25 ноября 2026 года, объявила о завершении карьеры на международной арене, подведя черту под более чем десятилетним периодом выступлений за главную команду страны.\n\n29-летняя защитница провела за сборную 58 матчей, на протяжении многих лет цементируя оборонительные порядки Сингапура на ключевых региональных турнирах. Она выступала на нескольких Играх Юго-Восточной Азии, включая турнир 2023 года в Камбодже, а также защищала цвета страны на XIX Азиатских играх в китайском Ханчжоу. Впервые с капитанской повязкой в официальном матче Роснани вывела команду в мае 2023 года против Камбоджи, а чуть позже в том же году была утверждена постоянным капитаном сборной.\n\n«Возможность представлять Сингапур — одна из величайших почестей в моем футбольном пути, — говорится в официальном заявлении Роснани, опубликованном Футбольной ассоциацией Сингапура. — Надевать форму национальных цветов, вести подруг по команде за собой в статусе капитана и переживать столько памятных моментов — опыт, за который я буду благодарна всегда».\n\n## Путь первопроходца за рубежом\n\nПризнание на международном уровне шло рука об руку с яркой и новаторской клубной карьерой за пределами родины. Получив в 2017 году награду лучшему игроку дебютного сезона Женской премьер-лиги Сингапура, она отправилась в Австралию, где выступала за «Саут-Уэст Квинсленд Тандер» (South West Queensland Thunder) в Национальной женской премьер-лиге.\n\nВ сентябре 2021 года защитница вписала свое имя в историю, став первой сингапурской футболисткой, подписавшей профессиональный контракт в Японии — ее новой командой стал клуб WE-лиги «ИНАК Кобе Леонесса» (INAC Kobe Leonessa). Позже она защищала цвета «Киби Интернэшнл Юниверсити Шарм» (Kibi International University Charme) в японской Лиге Надешико, а в 2023 году вернулась на внутреннюю арену Сингапура.\n\nОпыт выступлений в Японии и Австралии дал «львицам» редкую школу зарубежного топ-футбола в период масштабного обновления женского футбола по всей Юго-Восточной Азии.\n\n## Трофеи дома и тренерские перспективы\n\nВернувшись в местный чемпионат, Роснани усилила состав «Альбирекс Ниигата Сингапур» (позже переименованного в «ФК Джуронг» / FC Jurong) и помогла клубу завоевать чемпионский титул Женской премьер-лиги в 2025 году. В 2026-м она была столпом клубной обороны в дебютной для команды кампании в Женской Лиге чемпионов АФК.\n\nНесмотря на закрытие международной главы, Роснани подтвердила, что продолжит играть на клубном уровне за «ФК Джуронг», а также уже приступила к обучению на тренерские лицензии, чтобы передавать опыт новому поколению сингапурских игроков.",
+      "social_post": "Экс-капитан сборной Сингапура Сити Роснани Азман объявила о завершении международной карьеры: 58 матчей и более десяти лет во главе обороны «львиц»! Первая сингапурка в профессиональном футболе Японии продолжит играть за «ФК Джуронг» и параллельно осваивает тренерское ремесло. Каким вам запомнился ее след в сингапурском футболе? Делитесь в комментариях!"
+    },
+    "region": "sea",
+    "images": [],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://fas.org.sg"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-f7a857",
+    "slug": "lehecka-and-machac-sweep-canada-to-send-czechia-into-davis-c",
+    "date": "2026-11-25",
+    "created": "2026-11-25T18:39:42+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Davis Cup",
+      "Jiří Lehečka",
+      "Félix Auger-Aliassime",
+      "Tomáš Macháč",
+      "Czechia",
+      "Canada"
+    ],
+    "athletes": [
+      "Jiří Lehečka",
+      "Tomáš Macháč",
+      "Félix Auger-Aliassime",
+      "Liam Draxl",
+      "Tomáš Berdych"
+    ],
+    "image_subjects": [
+      "Jiří Lehečka",
+      "Félix Auger-Aliassime",
+      "Tomáš Macháč",
+      "Tomáš Berdych"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Confirmed that the doubles rubber between Czechia and Canada was omitted once the tie reached an unassailable 2-0 lead."
+    ],
+    "sources": [
+      {
+        "title": "Machac earns opening win for Czechia - Davis Cup",
+        "url": "https://www.daviscup.com/en/news/334670.aspx"
+      },
+      {
+        "title": "Czechs sweep Canada in Davis Cup quarterfinal, beating Auger-Aliassime and Draxl - CBC",
+        "url": "https://www.cbc.ca/sports/tennis/davis-cup-finals-canada-czech-republic-nov-24-1.7391949"
+      },
+      {
+        "title": "Captain Berdych spoiled for choice with Czech roster - Davis Cup",
+        "url": "https://www.daviscup.com/en/news/334671.aspx"
+      },
+      {
+        "title": "myMotherLode.com: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUttUnFnZDZyVG5oc3NqcEZEZHZHNTBtbzlXR3pMdEpuVEdYNVlsQ3YzOVdvaVdCd25EYVBFT0FMcVkwbGFyWDRoMzRVSTF4b3JmSlg2Qnl0cElqNmJnS19PdGQ3YzRFcTB0UWdHOUFXbmVYTm1IbHBQVGNHZTc1TEJpWFJ5T3U2b3dLSjZGSGczelNSTEF2bzBvcHBYYmJGclZGLXZZRWl4OFdhWmkyUWRNanBiM0VfV0RKd0gwaFJna1FubnVabi1GQThLbE1E0gHQAUFVX3lxTE9VS21ScWdkNnJUbmhzc2pwRkRkdkc1MG1vOVdHekx0Sm5UR1g1WWxDdjM5V29pV0J3bkRhUEVPQUxxWTBsYXJYNGgzNFVJMXhvcmZKWDZCeXRwSWo2YmdLX090ZDdjNEVxMHRRZ0c5QVduZVhObUhscFBUY0dlNzVMQmlYUnlPdTZvd0tKNkZIZzN6U1JMQXZvMG9wcFhiYkZyVkYtdllFaXg4V2FaaTJRZE1qcGIzRV9XREp3SDBoUmdrUW5udVpuLUZBOEtsTUQ?oc=5"
+      },
+      {
+        "title": "CBC: Czechs sweep Canada in Davis Cup quarterfinal, beating Auger-Aliassime and Draxl",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODFrRzRYLXA2akxNRVItS0VLYXJPbEMzVlB5T1Ytb2VoWXp0dW9MVkhHMm42Y3ZNNktrMDEtZk9DMG5IVDAzVVo3S25PLUt4ZElXU2FSN3g3aXQ5X09oWEo5UGxMN2NNMFgtMzF6a0xKWUdZT09Md21FVFNQaGNmYm1ObFZVazh4U1BHNjh6ckJjaFU?oc=5"
+      },
+      {
+        "title": "Sportsnet.ca: Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup quarterfinal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVW1Hano3ZkhfdWFWbF8tUzRJRUxaeERyNldSenhicDllRGJqVGZ3amczMGJTMXNmQUY5ckszYTNYdXVjVG5vY1NmMVJFc1diajNvSmhfb3NUcFc2eHdxMDZ5TExobU0xVXZpQ3RISkd2aDRVa3QzOUhxZEI3OF9FbFBzZ2RiSmNGVHBEb29JMklKaWdhNm5NZnBIam9Mbmc5M2JnSGtRNDFLMktia1d6OE1Kc3hLTVRj?oc=5"
+      },
+      {
+        "title": "ATP Tour: Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V1BpVnZEb1JxbHFqei1oSWtYTWJ1WkdlVlIyZXlJY3ZHcTE3MDlMS1JGU3ZNaVQ1RnpLdXI0MG4wVDNNUUtSVWplSEpYM1BaYks5bHZnMDI2ZWpGcUdyYTZmT1BWSm9MampSUjZ3?oc=5"
+      },
+      {
+        "title": "Reuters: Lehecka beats Auger-Aliassime to carry Czechs into Davis Cup semi-finals",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlkRko2eS16Z3NXcnZWTTdoMi1iMGQ2NmI3NXVpSlAzY0Y0TUpMaTU0eThxbUh2MkREVWpvWlpRcEdLcVByOHVXNk45MVF2YVd4bWpLTkRuWmJFUEJWU1FTVmFZQkloOEdBWGE2UHlOMlVibmJwZS1DUVBtbXRSd2NYRjg4UTlrYU9leHh4ZHZ6YnNLMTVhRU1MaXJ6RWpaMFg1dExVU0ptZ1pZNjhnUkQyVWZ6czQ?oc=5"
+      },
+      {
+        "title": "Click2Houston: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd1AtSnY0dzIwbjVlQUROc2FYWVg2aVpfRTVHcUV1eDI5MkRXZ292N01VTHpKVzg4OEZyZVRuXzVlc3B2QXZzTlc2cU1LUGc1UlczUm5ZZWd1SDd2Rm53dUtVdk5mNjNMVnlPSFZhZlk1ZDNQOEl6ZFVJZ2Q5RDA2Uk1NdWo0UVdIMy05NTRvbU9tZjkybDdBdkpJejVmNmFDMGhKRVg4WUdoelZTY0E5TDF0Y1EtUm9ISlhGdE1kQzlZeWJvRDl1SnNVRjh5TWlHX2llVg?oc=5"
+      },
+      {
+        "title": "Toronto Star: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSHFpVDhHTnJPMmd0QUFGOWxVNHBpODFQNGtpay01SDJEZGRjMHQ5ZDJkRzlUSkdqaDlWOC13cmFkRG9qUlVkTnZWaEtmelhPdmVPUnhXQkdlS1dXREFWZWRwZmdXeU5ESVdaVEVaWkZSQkt0WFh1aXFKVTZrVm5HdlgzVGFIVHBTckpfb1dpSmo5LW9VZ2hqZXZ3ZlNfY0ROYy1ZZllLYkQ1SXI5Ql9uanJlbTgwLUtSTWVYN0pCZUlhZndHeDhQQW5UalFzaFM0aUU3c2R6YjZWdjF2REZFajg1cnc4NjZsZHpFaFFIYU9RLUk5SENhODhPelRIdw?oc=5"
+      },
+      {
+        "title": "Oskaloosa Herald: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPU096elBGNURyRTd5c25OVGJGcjk2LVcwbVlCb1Q5RVdQX1lBNHBIWERnVGV3V19WUjFBSFZqcnI0ZWlfMGt5LV9wSVQ2ekUxcVhaSFBia201NmZzdkpDeUtWZU1hQUJRUmFfQjAySWs4QTdrVmlSX2VWMF9jV2hUamxEeTcxcE8yVWpuWW9CdGFzNG9zb2FWRlBVOVFBNUxPbG45QnBaaXFoVGRheUEyVjlDT1F6Z0ZPdVZwYzRoNWdGZjJSdXFzRnlGbEpNRVVUeG9NamNpVzdYajlnc2ZLYXo2M0xIellEQ2w2MTFzLWlfOF9Ca3ZTbGxLWG5sQ293Yy1Vd2V1SE1MMjFN?oc=5"
+      },
+      {
+        "title": "WHIO TV: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVpTQ05wM3lubFhycklPVDRDV3EzMnpNTTZtMUdrcUV0NGlabTRsczl6ZFpQeWNlUzhvVjJwUURoaG13aVNhcVdMQUEwRmJxd1FTT1AxVERYSGpXRmNFaEdQbDl6WW9DM0I4WmRvVUNHZ0FzdDZwU2RJa2syNjhxdDFXT284R2tyeWJwZHdDWElEbnJa0gGUAUFVX3lxTE9NWlNDTnAzeW5sWHJySU9UNENXcTMyek1NNm0xR2txRXQ0aVptNGxzOXpkWlB5Y2VTOG9WMnBRRGhobXdpU2FxV0xBQTBGYnF3UVNPUDFURFhIaldGY0VoR1BsOXpZb0MzQjhaZG9VQ0dnQXN0NnBTZElrazI2OHF0MVdPbzhHa3J5YnBkd0NYSURuclo?oc=5"
+      },
+      {
+        "title": "RiverBender.com: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdENqOTZ2MVgybDhVQnUtM0dqRnZsVGhMb2VVUGRHSVpUM1l2UkF6WnhRRTY4dVRlcnNsVnRHdjZXcTRGOE4xV1QwLWszNW55WVV4eXZoNGltWjE3UDhLaUpSTWxzOEx6elNXYw?oc=5"
+      },
+      {
+        "title": "Yahoo Sports – Tennis: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://sports.yahoo.com/articles/lehecka-lead-czechs-beat-canada-201242168.html"
+      },
+      {
+        "title": "NEWS10 ABC: Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VoUEVRbHV3Ukw0V0tTbjhzY2dHb244bWl6clVkbVpRV3IxYlVFVUFXRGpOT1Y4cTY4UmFIT3ZlZmhHVnpVSWdrcTdFYnNacXZNNGJDSHNqUC1yNHprbWp3YUZVd2d3WE5ZU3NOaEtpR1hoTFdMM2llTkthRy1LWU5UODEtYWlhaWRNdloxTTg5OEhzSXRVaVlvaHlEUk5sV0pYX2RPNFJuTzlUMF9qYk5jdXZRcDc5Vmg40gG7AUFVX3lxTE9zVWhQRVFsdXdSTDRXS1NuOHNjZ0dvbjhtaXpyVWRtWlFXcjFiVUVVQVdEak5PVjhxNjhSYUhPdmVmaEdWelVJZ2txN0Vic1pxdk00YkNIc2pQLXI0emttandhRlV3Z3dYTllTc05oS2lHWGhMV0wzaWVOS2FHLUtZTlQ4MS1haWFpZE12WjFNODk4SHNJdFVpWW9oeURSTmxXSlhfZE80Um5POVQwX2piTmN1dlFwNzlWaDg?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals",
+      "seo_title": "Davis Cup: Lehecka leads Czechia past Canada into semis",
+      "subheadline": "Captain Tomas Berdych guides Czechs to their first Davis Cup final-four appearance in 12 years with a 2-0 quarter-final triumph in Bologna.",
+      "body_markdown": "Czechia advanced to the Davis Cup semi-finals on Tuesday, November 24, 2026, defeating 2022 champions Canada 2-0 in the Final 8 quarter-finals at the indoor arena in Bologna, Italy. World No. 14 Jiri Lehecka sealed the tie with a 7-6 (4), 6-2 victory over Felix Auger-Aliassime after Tomas Machac opened proceedings by defeating Liam Draxl in three sets. The result ended a 12-year wait for Czechia, who had not reached the last four of the international men's team tournament since 2014.\n\n## Lehecka denies Auger-Aliassime on critical points\n\nAuger-Aliassime, ranked 17th in the world, entered the match having won three of their previous four ATP encounters, including an indoor meeting in Dubai earlier this season. In Tuesday's decisive second rubber, the Canadian generated nine break points in the opening set, including a set point at 5-4, but Lehecka repelled every threat. The 25-year-old Czech forced a tiebreak, firing an ace to secure set point at 6-4 before closing out the 68-minute opener.\n\n\"It was a super tough match,\" Lehecka said in his on-court interview. \"I was forced to play very well facing some break points and some tough situations. Felix is such a dangerous player in these conditions, so I'm very proud with the way I converted the chances I had.\"\n\n## Early breaks and Berdych's selection pay off\n\nLehecka maintained his momentum early in the second set, earning an immediate break of serve to establish a 3-0 lead. At 5-2, Auger-Aliassime saved a match point with a backhand winner, but Lehecka converted his second chance when the Canadian steered a backhand wide to conclude the contest in two hours. \"It was a gruelling first set,\" Auger-Aliassime said. \"Maybe there was just a bit of a dip on my end at the start of the second. I tried to fight back, but he was pretty locked in.\"\n\nCzech captain Tomas Berdych, who won consecutive Davis Cup titles as a player in 2012 and 2013, had surprised observers by selecting world No. 59 Machac over top-20 compatriot Jakub Mensik for the opening singles match. Machac validated the gamble, overcoming 154th-ranked Draxl 6-2, 3-6, 6-2 in one hour and 55 minutes. Machac stormed to a 4-0 lead in the first set and broke Draxl for a 4-2 lead in the decider to hand Czechia early control.\n\n## Semi-final awaits against Italy or South Korea\n\nCanada contested the tie without injured singles stars Denis Shapovalov and Gabriel Diallo, leaving Frank Dancevic's side unable to take the tie into a deciding doubles match.\n\nCzechia now move on to Friday's semi-final in Bologna, where they will face the winner of Wednesday's quarter-final clash between defending champions Italy and South Korea. The South Korean team enters Wednesday seeking to reach a historic first Davis Cup semi-final.",
+      "social_post": "Czechia have reached their first Davis Cup semi-final since 2014 with a clinical 2-0 quarter-final sweep of Canada in Bologna! Jiri Lehecka saved nine break points to beat Felix Auger-Aliassime after Tomas Machac downed Liam Draxl. Tomas Berdych's team now awaits either hosts Italy or South Korea in Friday's semi-finals. Can this young Czech lineup go all the way to the trophy? Share your thoughts below! #DavisCup #Tennis #Czechia"
+    },
+    "zh": {
+      "headline": "莱赫奇卡携手马哈奇横扫加拿大，捷克时隔12年重返戴维斯杯四强",
+      "seo_title": "戴维斯杯捷克2-0加拿大：莱赫奇卡建功进四强",
+      "subheadline": "队长伯蒂奇运筹帷幄，捷克队在博洛尼亚八强战中两场连胜拿下2022年冠军加拿大，自2014年以来首度跻身半决赛。",
+      "body_markdown": "2026年11月24日星期二，在意大利博洛尼亚的室内球场，捷克队在戴维斯杯八强淘汰赛中直落两场，以2比0力克2022年赛会冠军加拿大队，昂首挺进半决赛。在托马斯·马哈奇（Tomas Machac）苦战三盘为球队拔得头筹后，世界排名第14位的伊日·莱赫奇卡（Jiri Lehecka）顶住压力，以7-6（4）、6-2击败费利克斯·奥热-阿利亚西姆（Felix Auger-Aliassime），为捷克队锁定胜局。这场胜利宣告捷克男网长达12年的等待就此终结——他们上一次闯入这项男子团体顶级赛事的四强，还要追溯到遥远的2014年。\n\n## 莱赫奇卡关键分彰显大心脏，化解九个破发点\n\n现世界排名第17位的奥热-阿利亚西姆此前在两人的四次巡回赛交手中拿下三场，包括本赛季早些时候在迪拜室内赛的胜利。在这场决定两队命运的二号单打交锋中，加拿大名将首盘打得极具侵略性，先后拿到多达9个破发点，其中更包括5-4领先时的一个盘点。然而莱赫奇卡犹如铜墙铁壁，不可思议地化解了每一次危机。25岁的捷克名将在抢七战中稳扎稳打，并在6-4领先时轰出再见ACE球拿到盘点，随即以7-4先下一城，耗时68分钟艰难拿下首盘。\n\n「这是一场极其艰苦的对决，」莱赫奇卡在赛后场边采访中说道，「在面对那么多破发点和险境时，我必须竭尽全力咬住。在这样的室内场地下，费利克斯是极度危险的对手，我为自己能把握住关键机会感到非常自豪。」\n\n## 闪电破发奠定胜势，伯蒂奇变阵押注显奇效\n\n首盘涉险过关彻底释放了莱赫奇卡的进攻火力。第二盘一开局他便完成破发，迅速建立起3-0的领先优势。来到5-2的发球胜赛局，奥热-阿利亚西姆虽用一记反手制胜分救下一个赛点，但莱赫奇卡在第二个赛点上没有再给对手机会，随着加拿大人反手击球出界，捷克人耗时整整两小时收下比赛。「第一盘打得非常消耗体力，」奥热-阿利亚西姆赛后坦言，「也许我在第二盘开局出现了一点松懈。我试图发起反扑，但他今天完全进入了状态，牢不可破。」\n\n捷克队队长托马斯·伯蒂奇（Tomas Berdych）曾在2012年和2013年以核心球员身份连续捧得戴维斯杯，本场他在排兵布阵上展现出惊人魄力——出人意料地弃用了世界前20名将雅库布·门希克（Jakub Mensik），转而派上排名第59位的马哈奇出战第一单打。事实证明伯蒂奇眼光独到，马哈奇耗时1小时55分钟，以6-2、3-6、6-2力克世界排名第154位的利亚姆·德拉克斯尔（Liam Draxl）。首盘马哈奇早早打出4-0梦幻开局，决胜盘又在关键时刻破发取得4-2领先，为捷克队牢牢奠定了胜利基调。\n\n## 半决赛蓄势待发，静候意韩之战胜者\n\n加拿大队此役阵容严重受损，主力单打丹尼斯·沙波瓦洛夫（Denis Shapovalov）和加布里埃尔·迪亚洛（Gabriel Diallo）均因伤高挂免战牌，队长弗兰克·丹切维奇（Frank Dancevic）的队伍最终未能将比赛拖入决胜的双打较量。\n\n捷克队将在周五的博洛尼亚半决赛中亮相，对手将是卫冕冠军意大利队与韩国队之间的胜者。周三出战的韩国队同样志在创造历史，力争队史首个戴维斯杯四强席位。",
+      "social_post": "捷克队杀入戴维斯杯四强！在博洛尼亚进行的八强战中，捷克2-0干净利落横扫加拿大，时隔12年再度跻身半决赛！马哈奇三盘力克德拉克斯尔，莱赫奇卡挽救首盘全部9个破发点挑落奥热-阿利亚西姆。传奇伯蒂奇执教的青年军，周五将迎战意大利与韩国的胜者，他们能一黑到底捧杯吗？留下你的看法！ #戴维斯杯 #网球 #捷克网球"
+    },
+    "ru": {
+      "headline": "Легечка и Махач сокрушили Канаду и вывели Чехию в полуфинал Кубка Дэвиса",
+      "seo_title": "Чехия — Канада 2:0: Легечка и Махач вывели сборную в полуфинал",
+      "subheadline": "Под руководством капитана Томаша Бердыха чехи оформили победу со счетом 2:0 в Болонье и впервые за 12 лет пробились в четверку сильнейших.",
+      "body_markdown": "Во вторник, 24 ноября 2026 года, сборная Чехии оформила путевку в полуфинал Кубка Дэвиса, всухую переиграв чемпионов 2022 года канадцев со счетом 2:0 в четвертьфинале «Финала восьми» на крытой арене в Болонье. Точку в противостоянии поставил 14-я ракетка мира Иржи Легечка (Jiří Lehečka), одолевший Феликса Оже-Альяссима (Félix Auger-Aliassime) со счетом 7:6 (4), 6:2. Ранее в первом одиночном матче Томаш Махач (Tomáš Macháč) в трех партиях сломил сопротивление Лиама Дракселя (Liam Draxl). Таким образом, чехи прервали 12-летнюю засуху: сборная не доходила до полуфинала престижнейшего командного турнира с 2014 года.\n\n## Легечка выстоял на брейк-пойнтах и сломал сопротивление Оже-Альяссима\n\nОже-Альяссим, занимающий 17-ю строчку в рейтинге ATP, подходил к поединку в статусе фаворита личных встреч — канадец выиграл три из четырех предыдущих матчей, включая дуэль на харде под крышей в Дубае в этом сезоне. Однако во второй одиночной встрече вторника Легечка проявил феноменальную выдержку. В стартовом сете канадец заработал девять брейк-пойнтов, включая сетбол при счете 5:4, но чех хладнокровно нейтрализовал каждую угрозу. 25-летний чешский теннисист перевел партию на тай-брейк, где при счете 6:4 подал навылет, закрыв тяжелейший 68-минутный сет.\n\n«Это был невероятно сложный матч, — признался Легечка в интервью на корте. — Мне пришлось показать свой лучший теннис, отыгрывая брейк-пойнты в сложнейших ситуациях. В таких условиях Феликс чрезвычайно опасен, поэтому я горжусь тем, как сумел реализовать свои шансы».\n\n## Быстрый брейк и смелая тренерская ставка Бердыха\n\nНа кураже Легечка начал вторую партию с быстрого брейка и оторвался в счете — 3:0. При счете 5:2 Оже-Альяссим отыграл один матчбол пушечным ударом слева навылет, однако со второй попытки чех дожал оппонента: канадец сорвал бэкхенд по ширине, зафиксировав итоговую победу Легечки за ровно два часа борьбы. «Первый сет получился изматывающим, — отметил Оже-Альяссим. — Возможно, в начале второго я немного просел. Пытался зацепиться и бороться до конца, но соперник поймал кураж и действовал абсолютно безошибочно».\n\nКапитан сборной Чехии Томаш Бердых (Tomáš Berdych), побеждавший в Кубке Дэвиса в качестве игрока в 2012 и 2013 годах, перед началом матчевой встречи удивил специалистов. Он оставил в запасе входящего в топ-20 Якуба Меншика (Jakub Menšík) и выставил на стартовую игру 59-ю ракетку мира Махача. Риск полностью оправдался: Томаш переиграл 154-го номера рейтинга Дракселя со счетом 6:2, 3-6, 6:2 за 1 час и 55 минут. Махач с ходу повел 4:0 в первом сете, а в решающей партии оформил ключевой брейк при счете 4:2, обеспечив чехам комфортное стратегическое преимущество.\n\n## Впереди полуфинал против Италии или Южной Кореи\n\nСборная Канады подошла к четвертьфиналу обескровленной: травмы вывели из строя лидеров одиночного разряда Дениса Шаповалова и Габриэля Диалло (Gabriel Diallo). В итоге подопечным Франка Данцевича (Frank Dancevic) даже не удалось перевести выяснение отношений в парную встречу.\n\nВ полуфинале, который состоится в Болонье в пятницу, сборная Чехии встретится с победителем среды — в этот день действующие чемпионы итальянцы сразятся со сборной Южной Кореи, мечтающей о своем историческом первом выходе в полуфинал Кубка Дэвиса.",
+      "social_post": "Чехия — в полуфинале Кубка Дэвиса впервые с 2014 года! 🇨🇿 В Болонье чехи всухую выбили Канаду (2:0): Махач сломил сопротивление Дракселя, а Легечка отыграл 9 брейк-пойнтов и остановил Оже-Альяссима. В пятницу банда Томаша Бердыха сыграет с победителем пары Италия — Южная Корея. По силам ли чехам взять салатницу? Пишите в комментариях! 👇 #КубокДэвиса #Теннис #DavisCup"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/1280px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Lehecka MCM23 (5)",
+        "width": 1200,
+        "height": 1799,
+        "year": 2023,
+        "subject": "Jiří Lehečka",
+        "asked": "Jiří Lehečka",
+        "page_title": "Jiří Lehečka",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:lehecka_mcm23_(5)_(52883527310).jpg|Jiří Lehečka",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Jiří Lehečka playing tennis",
+          "reason": "The photo clearly shows Czech tennis player Jiří Lehečka during a match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg/1280px-F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Auger-Aliassime_(2023_DC_Open)_01_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Félix Auger-Aliassime at the 2023 DC Open",
+        "width": 1200,
+        "height": 1800,
+        "year": 2023,
+        "subject": "Félix Auger-Aliassime",
+        "asked": "Félix Auger-Aliassime",
+        "page_title": "Félix Auger-Aliassime",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:f%c3%a9lix_auger-aliassime_(2023_dc_open)_01_(cropped).jpg|Félix Auger-Aliassime",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of tennis player Félix Auger-Aliassime",
+          "reason": "Clearly shows professional tennis player Félix Auger-Aliassime wearing an event lanyard.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg/1280px-Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_(2023_US_Open)_06.jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Tomáš Macháč after winning in the first round of qualifying at the 2023 US Open",
+        "width": 1200,
+        "height": 1800,
+        "year": 2023,
+        "subject": "Tomáš Macháč",
+        "asked": "Tomáš Macháč",
+        "page_title": "Tomáš Macháč",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:tom%c3%a1%c5%a1_mach%c3%a1%c4%8d_(2023_us_open)_06.jpg|Tomáš Macháč",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Czech tennis player Tomáš Macháč smiling after a match",
+          "reason": "The image correctly depicts Tomáš Macháč wearing tennis kit at a tournament venue.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirmed that the doubles rubber between Czechia and Canada was omitted once the tie reached an unassailable 2-0 lead."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-25-athl-9fb3af",
     "slug": "from-heartbreak-in-london-to-history-in-rio-the-life-of-hoan",
     "date": "2026-11-25",

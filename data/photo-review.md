@@ -4,6 +4,26 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
+`2026-11-25-news-f7a857` · 2026-11-25
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/1280px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jiří Lehečka**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg)<br>AI sees: _Jiří Lehečka playing tennis_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg/1280px-F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Félix Auger-Aliassime**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Auger-Aliassime_(2023_DC_Open)_01_(cropped).jpg)<br>AI sees: _portrait of tennis player Félix Auger-Aliassime_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg/1280px-Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tomáš Macháč**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_(2023_US_Open)_06.jpg)<br>AI sees: _Czech tennis player Tomáš Macháč smiling after a match_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Mirra Andreeva Named ESPN Breakthrough Player of the Year for 2026
 `2026-11-25-news-cad9bb` · 2026-11-25
 
@@ -24,6 +44,13 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
+## 📝 DRAFT · Former Lionesses Captain Rosnani Azman Retires from International Football
+`2026-11-25-news-4afcf1` · 2026-11-25
+
+_No photos._
+
+---
+
 ## 📝 DRAFT · Russian Biathlon Cup Second Stage Relocated from Uvat to Ufa Due to Lack of Snow
 `2026-11-25-news-24905a` · 2026-11-25
 
@@ -35,6 +62,26 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Biathlon_Schalke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Biathlon**<br>2006 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Biathlon_Schalke.jpg)<br>AI sees: _biathletes at a shooting range during a biathlon competition_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Joseph Schooling's Journey: From Childhood Dream to Singapore's First Olympic Gold
+`2026-11-25-athl-f4dbe9` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Joseph_Schooling_Kazan_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Joseph Schooling**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Joseph_Schooling_Kazan_2015.jpg)<br>AI sees: _Joseph Schooling on the podium holding his medal at a swimming competition_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Michael Phelps**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg)<br>AI sees: _Michael Phelps smiling during an interview or event_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg/1280px-Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **The Bolles School**<br>Asked for: Bolles School → got page: The Bolles School<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg)<br>AI sees: _A stone crest of The Bolles School mounted on a stucco wall_
 <br clear="left">
 
 ---
