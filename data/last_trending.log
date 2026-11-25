@@ -1,67 +1,77 @@
-2026-11-24 23:17:19,459 INFO BBC Sport                         34 items
-2026-11-24 23:17:19,625 INFO The Guardian Sport                23 items
-2026-11-24 23:17:19,663 INFO ESPN                               0 items
-2026-11-24 23:17:19,878 INFO Sky Sports                        19 items
-2026-11-24 23:17:20,185 INFO Google News – Sports (EN)         64 items
-2026-11-24 23:17:21,618 INFO Google News – 体育 (ZH)             41 items
-2026-11-24 23:17:21,922 INFO Google News – Спорт (RU)          43 items
-2026-11-24 23:17:22,652 INFO Championat                        31 items
-2026-11-24 23:17:23,238 INFO Sports.ru                         20 items
-2026-11-24 23:17:25,027 INFO Спорт-Экспресс                   451 items
-2026-11-24 23:17:26,140 INFO РИА Новости Спорт                 20 items
-2026-11-24 23:17:27,365 INFO 中国新闻网 体育                          18 items
-2026-11-24 23:17:27,724 INFO Google News – Cambodia sport      12 items
-2026-11-24 23:17:28,295 INFO Google News – Southeast Asia sport  47 items
-2026-11-24 23:17:28,914 INFO Google News – Combat promotions   98 items
-2026-11-24 23:17:29,293 INFO Google News – Boxing              35 items
-2026-11-24 23:17:29,562 INFO Google News – Kun Khmer            1 items
-2026-11-24 23:17:29,749 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-24 23:17:30,272 INFO Google News – Единоборства (RU)   99 items
-2026-11-24 23:17:30,748 INFO Google News – 格斗 (ZH)             31 items
-2026-11-24 23:17:30,937 INFO MMA Fighting                      10 items
-2026-11-24 23:17:31,161 INFO Google News – Khmer Times sport    1 items
-2026-11-24 23:17:31,379 INFO BBC Sport – Tennis                 1 items
-2026-11-24 23:17:31,619 INFO BBC Sport – Formula 1              1 items
-2026-11-24 23:17:31,846 INFO BBC Sport – Cricket                8 items
-2026-11-24 23:17:32,087 INFO BBC Sport – Boxing                 1 items
-2026-11-24 23:17:32,403 INFO BBC Sport – Athletics              0 items
-2026-11-24 23:17:32,564 INFO The Guardian – Tennis              3 items
-2026-11-24 23:17:32,709 INFO The Guardian – Formula 1           1 items
-2026-11-24 23:17:32,864 INFO The Guardian – Cricket             4 items
-2026-11-24 23:17:32,975 INFO Sherdog                            8 items
-2026-11-24 23:17:33,038 INFO Sky Sports – Football             19 items
-2026-11-24 23:17:33,797 INFO Чемпионат – Теннис                31 items
-2026-11-24 23:17:34,566 INFO Чемпионат – Хоккей                31 items
-2026-11-24 23:17:34,638 INFO MMA Fighting – latest             10 items
-2026-11-24 23:17:35,166 INFO Google News – Tennis              90 items
-2026-11-24 23:17:35,722 INFO Google News – Basketball          95 items
-2026-11-24 23:17:36,284 INFO Google News – Motorsport          99 items
-2026-11-24 23:17:36,784 INFO Google News – Badminton, athletics, table tennis  80 items
-2026-11-24 23:17:37,353 INFO Google News – Cricket             95 items
-2026-11-24 23:17:37,941 INFO Google News – 网球与篮球 (ZH)          14 items
-2026-11-24 23:17:38,679 INFO Google News – 羽毛球与乒乓 (ZH)         47 items
-2026-11-24 23:17:39,236 INFO Google News – Теннис и баскетбол (RU)  92 items
-2026-11-24 23:17:39,729 INFO Google News – Формула-1 и биатлон (RU)  98 items
-2026-11-24 23:17:42,509 INFO Candidate stories after clustering: 1666
-2026-11-24 23:17:48,012 INFO Trending skipped (not our audience): Varsity Coed Badminton White River High School - 11/24/2026 | Live & On Demand
-2026-11-24 23:17:48,015 INFO Trending skipped (not our audience): Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 12
-2026-11-24 23:17:48,021 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
-2026-11-24 23:17:48,023 INFO Trending skipped (not our audience): Winners and Losers of Teruaki Sato, Cubs Agreeing to $120M Contract in MLB Free Agency
-2026-11-24 23:17:48,026 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
-2026-11-24 23:17:49,794 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
-2026-11-24 23:17:49,796 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
-2026-11-24 23:17:49,858 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
-2026-11-24 23:17:49,918 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
-2026-11-24 23:17:51,537 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
-2026-11-24 23:17:53,133 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
-2026-11-24 23:17:53,135 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-24 23:17:53,135 INFO   1. [en 21 outlets, heat 45.1] Verstappen wins the Las Vegas Grand Prix for 3rd time in 4 years
-2026-11-24 23:17:53,135 INFO   2. [en 14 outlets, heat 31.0] Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup Final 8 quarterfinal
-2026-11-24 23:17:53,135 INFO   3. [ru 13 outlets, heat 29.9] Мирра Андреева признана прорывом года по версии ESPN — Новости Тенниса
-2026-11-24 23:17:53,135 INFO   4. [en 8 outlets, heat 19.1] County Antrim Table Tennis League round-up
-2026-11-24 23:17:53,135 INFO   5. [ru 5 outlets, heat 12.6] "Арсенал" сыграл вничью с "Боруссией" в матче Лиги чемпионов
-2026-11-24 23:17:53,135 INFO   C1. [en 8 outlets, heat 18.9] Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pe
-2026-11-24 23:17:53,135 INFO   C2. [en 7 outlets, heat 16.7] Jan Blachowicz Calls Out Jiri Prochazka: "Now or Never"
-2026-11-24 23:17:53,135 INFO   C3. [en 5 outlets, heat 12.9] Kevin Vallejos Won’t Beat Alex Volkanovski, Says Aljamain Sterling
-2026-11-24 23:17:53,135 INFO   C4. [en 4 outlets, heat 10.7] Israel Adesanya compares City Kickboxing split to bad breakup: ‘I ripped the Band-Aid off’
-2026-11-24 23:17:53,135 INFO   C5. [en 4 outlets, heat 10.5] Raoni Barcelos confident he will fight again after scary collapse: ‘I really want to come back’
+2026-11-25 01:42:16,286 INFO BBC Sport                         38 items
+2026-11-25 01:42:16,416 INFO The Guardian Sport                23 items
+2026-11-25 01:42:16,491 INFO ESPN                              39 items
+2026-11-25 01:42:16,563 INFO Sky Sports                        19 items
+2026-11-25 01:42:16,843 INFO Google News – Sports (EN)         61 items
+2026-11-25 01:42:17,427 INFO Google News – 体育 (ZH)             37 items
+2026-11-25 01:42:18,005 INFO Google News – Спорт (RU)          44 items
+2026-11-25 01:42:19,124 INFO Championat                        31 items
+2026-11-25 01:42:19,613 INFO Sports.ru                         19 items
+2026-11-25 01:42:20,729 INFO Спорт-Экспресс                   434 items
+2026-11-25 01:42:22,012 INFO РИА Новости Спорт                 20 items
+2026-11-25 01:42:22,572 INFO 中国新闻网 体育                          16 items
+2026-11-25 01:42:22,884 INFO Google News – Cambodia sport      12 items
+2026-11-25 01:42:23,442 INFO Google News – Southeast Asia sport  45 items
+2026-11-25 01:42:23,984 INFO Google News – Combat promotions   98 items
+2026-11-25 01:42:24,277 INFO Google News – Boxing              27 items
+2026-11-25 01:42:24,499 INFO Google News – Kun Khmer            1 items
+2026-11-25 01:42:24,665 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-25 01:42:25,216 INFO Google News – Единоборства (RU)   99 items
+2026-11-25 01:42:25,517 INFO Google News – 格斗 (ZH)             24 items
+2026-11-25 01:42:25,649 INFO MMA Fighting                      10 items
+2026-11-25 01:42:25,855 INFO Google News – Khmer Times sport    2 items
+2026-11-25 01:42:26,226 INFO BBC Sport – Tennis                 1 items
+2026-11-25 01:42:26,613 INFO BBC Sport – Formula 1              1 items
+2026-11-25 01:42:26,914 INFO BBC Sport – Cricket                8 items
+2026-11-25 01:42:27,249 INFO BBC Sport – Boxing                 1 items
+2026-11-25 01:42:27,562 INFO BBC Sport – Athletics              0 items
+2026-11-25 01:42:27,772 INFO The Guardian – Tennis              3 items
+2026-11-25 01:42:27,981 INFO The Guardian – Formula 1           0 items
+2026-11-25 01:42:28,197 INFO The Guardian – Cricket             4 items
+2026-11-25 01:42:28,302 INFO Sherdog                           10 items
+2026-11-25 01:42:28,424 INFO Sky Sports – Football             19 items
+2026-11-25 01:42:29,328 INFO Чемпионат – Теннис                31 items
+2026-11-25 01:42:30,944 INFO Чемпионат – Хоккей                31 items
+2026-11-25 01:42:31,015 INFO MMA Fighting – latest             10 items
+2026-11-25 01:42:31,510 INFO Google News – Tennis              92 items
+2026-11-25 01:42:32,058 INFO Google News – Basketball          91 items
+2026-11-25 01:42:32,588 INFO Google News – Motorsport          99 items
+2026-11-25 01:42:33,096 INFO Google News – Badminton, athletics, table tennis  82 items
+2026-11-25 01:42:33,651 INFO Google News – Cricket             89 items
+2026-11-25 01:42:34,054 INFO Google News – 网球与篮球 (ZH)          25 items
+2026-11-25 01:42:34,475 INFO Google News – 羽毛球与乒乓 (ZH)         53 items
+2026-11-25 01:42:35,033 INFO Google News – Теннис и баскетбол (RU)  88 items
+2026-11-25 01:42:35,632 INFO Google News – Формула-1 и биатлон (RU)  98 items
+2026-11-25 01:42:37,780 INFO Candidate stories after clustering: 1681
+2026-11-25 01:42:40,822 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-25 01:42:40,825 INFO Trending skipped (clickbait): MotoGP's Marc Marquez Breaks Championship and Points Deficit Records After An Insane Comeb
+2026-11-25 01:42:40,825 INFO Trending skipped (not our audience): Varsity Coed Badminton White River High School - 11/24/2026 | Live & On Demand
+2026-11-25 01:42:40,827 INFO Trending skipped (not our audience): Fantasy Football Rankings: Hayden Winks' RB Blueprint for Week 12
+2026-11-25 01:42:40,828 INFO Trending skipped (not our audience): Broncos' Payton: RB Dobbins suspended one game for detrimental conduct
+2026-11-25 01:42:40,831 INFO Trending skipped (clickbait): Анонсирован следующий поединок Гейбла Стивсона в UFC после сенсационного поражения
+2026-11-25 01:42:40,832 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
+2026-11-25 01:42:40,833 INFO Trending skipped (not our audience): Winners and Losers of Teruaki Sato, Cubs Agreeing to $120M Contract in MLB Free Agency
+2026-11-25 01:42:40,834 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
+2026-11-25 01:42:41,804 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-25 01:42:41,806 INFO Trending skipped (not our audience): Broncos' Payton: RB Dobbins suspended one game for detrimental conduct
+2026-11-25 01:42:41,806 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
+2026-11-25 01:42:41,807 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
+2026-11-25 01:42:41,879 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-25 01:42:41,879 INFO Trending skipped (not our audience): Broncos' Payton: RB Dobbins suspended one game for detrimental conduct
+2026-11-25 01:42:41,880 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
+2026-11-25 01:42:41,951 INFO Trending skipped (not our audience): 'Something switched inside me': Nick Foles on his Super Bowl flow state and move behind th
+2026-11-25 01:42:41,951 INFO Trending skipped (not our audience): Broncos' Payton: RB Dobbins suspended one game for detrimental conduct
+2026-11-25 01:42:41,951 INFO Trending skipped (not our audience): Commanders claim late win to come back against Bengals
+2026-11-25 01:42:42,762 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
+2026-11-25 01:42:43,574 INFO Trending skipped (clickbait): Вальверде — о победе «Реала» над ПСВ: «Второй тайм был невероятным»
+2026-11-25 01:42:44,787 INFO Talking points sent to Telegram (5 stories)
+2026-11-25 01:42:44,787 INFO   1. [en 21 outlets, heat 44.9] Verstappen wins the Las Vegas Grand Prix for 3rd time in 4 years
+2026-11-25 01:42:44,787 INFO   2. [ru 13 outlets, heat 29.3] Мирра Андреева признана прорывом года по версии ESPN — Новости Тенниса
+2026-11-25 01:42:44,787 INFO   3. [en 13 outlets, heat 28.9] Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis
+2026-11-25 01:42:44,787 INFO   4. [en 9 outlets, heat 20.7] Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pe
+2026-11-25 01:42:44,787 INFO   5. [zh 5 outlets, heat 13.1] 备战洛杉矶奥运国羽新帅揭晓：田秉毅出任主教练 张楠加入教练组
+2026-11-25 01:42:44,787 INFO   C1. [en 8 outlets, heat 18.7] Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pe
+2026-11-25 01:42:44,787 INFO   C2. [en 6 outlets, heat 16.2] Kevin Vallejos Won’t Beat Alex Volkanovski, Says Aljamain Sterling
+2026-11-25 01:42:44,787 INFO   C3. [en 6 outlets, heat 15.3] Jan Blachowicz Calls Out Jiri Prochazka: "Now or Never"
+2026-11-25 01:42:44,787 INFO   C4. [en 4 outlets, heat 11.2] Gabriel Bonfim vs. Sean Brady fight night event adds slew of undercard fights
+2026-11-25 01:42:44,787 INFO   C5. [en 4 outlets, heat 10.5] Israel Adesanya compares City Kickboxing split to bad breakup: ‘I ripped the Band-Aid off’
