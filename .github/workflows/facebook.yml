@@ -10,7 +10,7 @@ on:
       mode:
         description: "What to post for those stories"
         type: choice
-        options: ["post+reel", "reel", "post", "redo-reel"]
+        options: ["post+reel", "reel", "post", "redo-reel", "rescrape"]
         default: "post+reel"
 
 permissions:

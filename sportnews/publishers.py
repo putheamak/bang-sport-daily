@@ -179,6 +179,28 @@ def facebook_check() -> str:
     return f"{d.get('name')} ({d.get('link', '')}){info}"
 
 
+def facebook_rescrape(cfg: dict, a: dict) -> str:
+    """Ask Facebook to read the story page again, so its link preview shows the story, not "Page not found".
+    Needed because the publish run sends the post before the new page is live on the site."""
+    import time
+    url = article_url(cfg, a, "en")
+    for _ in range(40):                                     # wait (up to ~10 min) until the page is live
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}),
+                                        timeout=20) as r:
+                if r.status == 200 and b"Page not found" not in r.read(4000):
+                    break
+        except Exception:  # noqa: BLE001
+            pass
+        time.sleep(15)
+    page, token = fb_page_token()
+    try:
+        d = _post(f"https://graph.facebook.com/{FB_API}/", {"id": url, "scrape": "true", "access_token": token})
+    except urllib.error.HTTPError as e:
+        return "Facebook says: " + e.read().decode()[:300]
+    return f"preview now: {d.get('title', '?')}"
+
+
 def facebook_redo_reel(cfg: dict, a: dict, everything: list[dict]) -> str:
     """Replace a Reel that is still waiting (scheduled) on the Page: delete it there, then send the new clip in the
     same time slot. A Reel that is already public is left alone."""

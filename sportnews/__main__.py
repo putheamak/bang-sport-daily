@@ -34,7 +34,7 @@ def main(argv=None):
     sub.add_parser("publish-anyway").add_argument("ids", nargs="+")
     fb = sub.add_parser("facebook", help="check the Facebook Page token; optionally post published stories")
     fb.add_argument("ids", nargs="*", help="published story IDs to post to the Facebook Page")
-    fb.add_argument("--mode", choices=["post+reel", "post", "reel", "redo-reel"], default="post+reel",
+    fb.add_argument("--mode", choices=["post+reel", "post", "reel", "redo-reel", "rescrape"], default="post+reel",
                     help="what to post for those stories (reel = only the Reel, e.g. when the post was made by hand)")
     pc = sub.add_parser("photocheck", help="check photos (right person/place) and write data/photo-review.md")
     pc.add_argument("ids", nargs="*", help="story IDs, or 'recent' (default: drafts + last 3 days) or 'drafts'")
@@ -151,6 +151,12 @@ def main(argv=None):
         ids = [x.strip() for x in " ".join(a.ids).replace(",", " ").split() if x.strip()]
         if ids:
             arts = load_articles()
+            if a.mode == "rescrape":
+                from .publishers import facebook_rescrape
+                for x in arts:
+                    if x["id"] in ids:
+                        print(x["id"] + ": " + facebook_rescrape(cfg, x))
+                return
             if a.mode == "redo-reel":
                 from .publishers import facebook_redo_reel
                 for x in arts:

@@ -61,3 +61,14 @@ jobs:
             git pull --rebase --autostash && git push && break
             sleep 10
           done
+      - name: Refresh Facebook link previews once the new pages are live
+        if: inputs.action != 'reject'
+        continue-on-error: true
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          IDS: ${{ inputs.ids }}
+        run: |
+          [ -n "$FB_PAGE_TOKEN" ] || exit 0
+          python -m sportnews facebook --mode rescrape $IDS
