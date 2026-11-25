@@ -82,7 +82,17 @@ def facebook_check() -> str:
             d = json.loads(r.read().decode())
     except urllib.error.HTTPError as e:
         raise RuntimeError("Facebook says: " + e.read().decode()[:400]) from e
-    return f"{d.get('name')} ({d.get('link', '')})"
+    info = ""
+    try:                                                     # what the token may do (no secret is printed)
+        q = urllib.parse.urlencode({"input_token": token, "access_token": token})
+        with urllib.request.urlopen(f"https://graph.facebook.com/{FB_API}/debug_token?{q}", timeout=30) as r:
+            dt = json.loads(r.read().decode()).get("data", {})
+        exp = dt.get("expires_at")
+        info = (f" · token type {dt.get('type')}, expires {'never' if not exp else exp}, "
+                f"permissions: {', '.join(dt.get('scopes') or [])}")
+    except Exception as e:  # noqa: BLE001
+        info = f" · (token details unavailable: {str(e)[:80]})"
+    return f"{d.get('name')} ({d.get('link', '')}){info}"
 
 
 def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True) -> list[str]:
