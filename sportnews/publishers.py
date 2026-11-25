@@ -143,7 +143,8 @@ def facebook_send(cfg: dict, articles: list[dict], a: dict, post: bool = True, r
         out.append(channel + (f" (scheduled {rec['scheduled_for'][:16]})" if when else ""))
 
     if post and "facebook" not in done:
-        when = facebook_slot(cfg, articles)
+        log.info("Facebook link check for %s: %s", a["id"], facebook_rescrape(cfg, a))   # page must be live first:
+        when = facebook_slot(cfg, articles)                  # Facebook freezes the link preview when the post is made
         record("facebook", facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"), when), when)
     if reel and "facebook-reel" not in done:
         from .reels import make_reel, upload_reel
@@ -184,6 +185,8 @@ def facebook_rescrape(cfg: dict, a: dict) -> str:
     Needed because the publish run sends the post before the new page is live on the site."""
     import time
     url = article_url(cfg, a, "en")
+    if os.environ.get("SPORTNEWS_MOCK") == "1" or not facebook_ready() or not url:
+        return "skipped (tests / no Facebook token)"
     for _ in range(40):                                     # wait (up to ~10 min) until the page is live
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}),
@@ -199,6 +202,33 @@ def facebook_rescrape(cfg: dict, a: dict) -> str:
     except urllib.error.HTTPError as e:
         return "Facebook says: " + e.read().decode()[:300]
     return f"preview now: {d.get('title', '?')}"
+
+
+def facebook_redo_post(cfg: dict, a: dict) -> str:
+    """Replace a Page post whose link preview is wrong: delete it on Facebook and post it again, in the same
+    scheduled slot if that is still ahead, otherwise now. Only for posts this system made (recorded ids)."""
+    from datetime import datetime, timedelta, timezone
+    recs = [p for p in a.get("published_to") or [] if p.get("channel") == "facebook"]
+    if not recs:
+        return "no Facebook post recorded"
+    rec = recs[-1]
+    page, token = fb_page_token()
+    req = urllib.request.Request(f"https://graph.facebook.com/{FB_API}/{rec['id']}?access_token={urllib.parse.quote(token)}",
+                                 method="DELETE")
+    try:
+        urllib.request.urlopen(req, timeout=30)
+    except urllib.error.HTTPError as e:
+        return "not deleted, Facebook says: " + e.read().decode()[:300]
+    a["published_to"].remove(rec)
+    log.info("Facebook link check for %s: %s", a["id"], facebook_rescrape(cfg, a))
+    when = None
+    if rec.get("scheduled_for"):
+        ts = datetime.fromisoformat(rec["scheduled_for"])
+        if ts > datetime.now(timezone.utc) + timedelta(minutes=12):
+            when = int(ts.timestamp())
+    new = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"), when)
+    a["published_to"].append({**rec, "id": new, "at": now_iso(cfg), "replaced": rec["id"]})
+    return f"post replaced ({'scheduled ' + rec['scheduled_for'][:16] if when else 'posted now'})"
 
 
 def facebook_redo_reel(cfg: dict, a: dict, everything: list[dict]) -> str:
@@ -324,7 +354,9 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                     a["published_to"].append({"channel": f"telegram-{lang}", "at": now_iso(cfg)})
                 except Exception as e:  # noqa: BLE001
                     log.error("Telegram %s failed for %s: %s", lang, a["id"], e)
-        if cfg["publish"].get("facebook") and facebook_ready():
+        if os.environ.get("DEFER_FACEBOOK") == "1":
+            pass                                             # posted by the workflow's next step, once the page is live
+        elif cfg["publish"].get("facebook") and facebook_ready():
             try:
                 for x in facebook_send(cfg, articles, a, post=True, reel=bool(cfg["publish"].get("facebook_reels"))):
                     log.info("Facebook %s: %s", a["id"], x)

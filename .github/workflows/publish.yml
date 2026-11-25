@@ -39,6 +39,7 @@ jobs:
           TELEGRAM_CHANNEL_RU: ${{ secrets.TELEGRAM_CHANNEL_RU }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          DEFER_FACEBOOK: "1"
           SITE_URL: ${{ vars.SITE_URL }}
           IDS: ${{ inputs.ids }}
         run: python -m sportnews ${{ inputs.action }} "$IDS"
@@ -61,7 +62,7 @@ jobs:
             git pull --rebase --autostash && git push && break
             sleep 10
           done
-      - name: Refresh Facebook link previews once the new pages are live
+      - name: Facebook post + Reel, once the new pages are live (Facebook freezes the link preview at posting time)
         if: inputs.action != 'reject'
         continue-on-error: true
         env:
@@ -71,4 +72,11 @@ jobs:
           IDS: ${{ inputs.ids }}
         run: |
           [ -n "$FB_PAGE_TOKEN" ] || exit 0
-          python -m sportnews facebook --mode rescrape $IDS
+          git pull --rebase --autostash
+          python -m sportnews facebook --mode post+reel $IDS
+          git add data
+          git diff --cached --quiet || git commit -m "Facebook: ${{ inputs.ids }}"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done
