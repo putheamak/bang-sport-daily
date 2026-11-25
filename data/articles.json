@@ -1,5 +1,589 @@
 [
   {
+    "id": "2026-11-25-athl-077aa4",
+    "slug": "chan-vathanaka-the-kampot-prodigy-who-put-cambodian-football",
+    "date": "2026-11-25",
+    "created": "2026-11-25T21:42:51+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "Chan Vathanaka",
+      "Boeung Ket FC",
+      "Cambodia Football",
+      "Southeast Asian Football",
+      "CV11"
+    ],
+    "athletes": [
+      "Chan Vathanaka"
+    ],
+    "image_subjects": [
+      "Chan Vathanaka",
+      "Boeung Ket FC",
+      "Cambodia national football team",
+      "Phnom Penh Olympic Stadium"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Chan Vathanaka - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chan_Vathanaka"
+      },
+      {
+        "title": "BASEM Team flew to Cambodia performing ACL Surgery for Chan Vathanaka",
+        "url": "https://www.bangkokhospital.com"
+      },
+      {
+        "title": "Chan Vathanaka: Cambodia, Japan & Malaysia | Biography Compass",
+        "url": "https://biographycompass.com/chan-vathanaka-cambodia-japan-malaysia/"
+      },
+      {
+        "title": "grokipedia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGijNkx0umH-4kmWWe8nCCfyuVof4Eomcs_d5YPZt4ltEniXBLPOYRYVMZfcSC_ev4QbUR7Bi5vdXhNPsFwFRnTv1NHB73atxU7iZrooNBQQx8nuJIyQMwRg7LutcaDHUI="
+      },
+      {
+        "title": "biographycompass.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXAlz7RUCOxbyQSxXl6ea0fyLaW5FO2YaFiT1cVgHAlQtlJFKZpp0pYVbI_TADI_lGVjYtgkqm0GbqeMTDhyOVugPj-wrOWMwT4FVm53FCVx1G0TjfuAfOg6dvq0AyreS6NpHUJwqCHw=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKDVnCZZmRyc_n2qJSAKPu1SCsIY2l18R6JxIQckC-kNng4uUo0go8UbHz1_CIdr-VaPngCzkdeXCw6Z_G3pPJRYK8jMnh-HmsWcP4FGo5-XF6yJ53FlMUiba1mt4zxwY4ZQ=="
+      },
+      {
+        "title": "khmertimeskh.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHIREx0isEWpyMTP-_FEe506Y0U-DqavGBWhU-Qms1MXHd1MRsso7x5gcM7V1N1A3PabALUlA8zGLPlSd07ZmYlHQTHXEwH339oaYdsTajS4Lpl5fqfo4lDc6YZcICXG1eSO8tLvuWU6IRHgy8O-Ii7azelIpZRY4206T82bWyuYW7Sw=="
+      },
+      {
+        "title": "sofascore.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGETTOQZPq3h3b9vnIWkIyjXfKgkVDm-Fi5zA8tShTyldgfC6Tkms0qYAewfiGeJWT2y9wKQmdIlPImoQwgmfjdtZUx8mpiI1Yhb8T4BmldHtMaR_HjMqAqXDpdwzmkPeE4Fu-9rN7FK5V69vGAW_4HeUiVUjc="
+      },
+      {
+        "title": "aseanutdfc.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEulMP-U49_6yGyKcTrqyqG7nWT71r4r_wVI00x8HaYOls1Cv7eEHUKigMYJ7vtxZ4nkT0RfCffxUDmVhksuggH6oErfMw43gSAn7DnGcwltcTOy8YRlRaeq-t7-8PfKhob9HjjncqOFE5WoBuNu4PDF8yB0GzZnTmtByLcoHxOM4EEQVoKjnQf0pDXsGHFoaKW08bT6kvcU0IDaqr-Xw1o1VU="
+      },
+      {
+        "title": "bangkokhospital.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEItP1yUucc0O5CyubqXFl_fXbtnIQbCfNdwSOIAYsJ3x9JQixUCaDArVpGmNW7qY_i36U9p5ko2MnVDe6wJ22XArRHgzKcLn7csYd6eClzNyfY-HGrPUQhy0llpkGZq_rXi44wgIhs7jl41nf8u-aFRAZMh0XNUvkQIF1Keo540XA_F_qUlAU="
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.005,
+      "longest": 9,
+      "phrases": [
+        "scored all six goals in a 6 0 win",
+        "goals by kissing a tattoo on his right arm"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map",
+      "seo_title": "Chan Vathanaka: Career, Goals and Life Story of CV11",
+      "subheadline": "From Kampot to Japan's J3 League and record-setting scoring sprees with Boeung Ket, the journey of Cambodia's most prolific forward.",
+      "body_markdown": "Chan Vathanaka was born on 23 January 1994 in southern Cambodia's coastal province of Kampot. Armed with an incisive left foot, deceptive acceleration and dead-ball precision, he grew into the defining attacker of modern Cambodian football. Widely known across Southeast Asia under the moniker \"CV11\", Vathanaka transformed from a teenage prospect in Svay Rieng into an international standard-bearer who broke national scoring records and ventured into professional leagues in Japan and Malaysia.\n\nHis structured football education began in 2010 when he joined the youth academy of Preah Khan Reach Svay Rieng at age 16. He made his senior league debut during the 2011–12 Cambodian League season, scoring 10 goals in 17 appearances. That breakthrough prompted domestic giants Boeung Ket to secure his signature in June 2012. Vathanaka immediately validated the move by winning the Cambodian League Best Young Player of the Year award in 2012, followed by the Hun Sen Cup Golden Boot in 2013 and his first Cambodian League Player of the Season award in 2014.\n\n## The Record-Shattering Boeung Ket Era\n\nThe 2015 campaign established Vathanaka as a regional phenomenon. On 11 July 2015, he struck eight goals in a 12–2 rout of Kirivong Sok Sen Chey, establishing the highest single-match tally by a Cambodian-born player in league history and reaching 16 goals in his first eight matches of the season. Three weeks later, on 1 August 2015, he scored all six goals in a 6–0 win against Asia Europe United. In regional competition at the 2015 Mekong Club Championship, Vathanaka netted a hat-trick to defeat Vietnamese champions Becamex Binh Duong 3–2 in the semi-finals, before Boeung Ket finished as runners-up to Thailand's Buriram United. He concluded the tournament as top scorer with five goals and collected the Most Valuable Player award.\n\nVathanaka closed 2015 with 35 domestic league goals and 55 goals across all club and national-team competitions, the highest total recorded by any Southeast Asian footballer that calendar year.\n\nHis scoring rate remained relentless in 2016. In his first start of that league season, Vathanaka struck a hat-trick in under five minutes in a 6–0 win over CMAC FC. On 21 May 2016 against Svay Rieng, Boeung Ket trailed 1–0 before Vathanaka scored in the 85th, 89th and 93rd minutes—the first a left-foot volley from a high cross—to seal a 3–1 win. He topped the league scoring charts for a second straight year with 22 goals, guiding Boeung Ket to the 2016 Cambodian League championship by a single point on the final matchday and capturing both the league Golden Boot and Player of the Season honors.\n\n## Pioneering Stints in Japan and Malaysia\n\nVathanaka's domestic dominance opened rare foreign doors for Cambodian athletes. In January 2017, he signed on loan with J3 League outfit Fujieda MYFC in Japan, taking his customary number 11 shirt. The transition proved demanding; physical and tactical adaptations limited his game time, and he departed without starting a match, making a single late substitute appearance in the J3 League.\n\nHe moved south in December 2017, signing with Malaysia Super League side Pahang FA for the 2018 campaign. He made 10 league appearances and scored once before the club released him midway through the season to register Canadian forward Issey Nakajima. Following a brief return to Boeung Ket, where he contributed to another domestic title run, Vathanaka returned to Malaysia on 18 January 2019 by signing a free contract with PKNS FC.\n\nAt PKNS, he switched to jersey number 29. His second Malaysian stint proved more productive: he made over 13 league appearances, including a goal against his former club Pahang in April 2019.\n\n## International Milestones and Overcoming Adversity\n\nOn the international stage, Vathanaka debuted for Cambodia's senior national team on 22 March 2013 in an AFC Challenge Cup qualifier against Turkmenistan. During the 2018 FIFA World Cup qualifiers on 12 March 2015, he entered off the bench against Macau at the Phnom Penh Olympic Stadium to score twice, including a 30-yard free kick, securing a 3–0 first-leg win. In July 2016, he curled home another direct free kick in a friendly against Singapore. At the 2016 AFF Championship, Vathanaka scored both Cambodian goals in a 3–2 group-stage loss to Malaysia, later adding two more goals against Laos at the 2020 AFF Championship.\n\nOff the pitch, Vathanaka established rituals deeply tied to family and culture. After an injury layoff in September 2015, he spent seven hours recording songs in a studio with Cambodian singer Meas Soksophea. In October 2015, he began celebrating his goals by kissing a tattoo on his right arm, inked as a tribute to his parents and family. His profile led to commercial recognition, including an appointment as goodwill ambassador for telecommunications firm SEATEL in January 2016.\n\nAdversity tested his longevity in early 2022 when Vathanaka sustained a severe anterior cruciate ligament (ACL) tear during competitive play. The injury required specialized arthroscopic reconstruction in Cambodia performed by a surgical team from Bangkok Hospital's BASEM sports medicine department. Following nearly a year of intensive rehabilitation, he returned to Boeung Ket's frontline, continuing a career that elevated Cambodian football's profile across the continent.",
+      "social_post": "From Kampot to Japan's J3 League and record-setting scoring runs with Boeung Ket, Chan Vathanaka redefined what was possible for Cambodian football. With 55 goals across all competitions in 2015 and iconic moments for the Koupreys, CV11 remains a regional trailblazer. What is your favorite memory of Vathanaka's career? Share your thoughts below! #ChanVathanaka #CV11 #BoeungKet #CambodiaFootball"
+    },
+    "zh": {
+      "headline": "贡布神童占·瓦塔纳卡：将柬埔寨足球推向亚洲版图的传奇先驱",
+      "seo_title": "瓦塔纳卡：柬埔寨球王CV11的传奇生涯与进球纪录",
+      "subheadline": "从贡布渔乡到日本J3联赛，从万吉时期的进球狂潮到海外拓荒，回顾柬埔寨史上最高产前锋的非凡足迹。",
+      "body_markdown": "1994年1月23日，占·瓦塔纳卡（Chan Vathanaka）出生于柬埔寨南部沿海的贡布省。凭借犀利的左脚技术、极具欺骗性的瞬间爆发力以及精确制导般的定位球脚法，他成长为定义当代柬埔寨足球的领军攻击手。在东南亚足坛，他被球迷亲切地称为“CV11”；从柴桢走出的青涩少年，到打破国家进球纪录的国家队招牌，再到远赴日本与马来西亚职业联赛闯荡的拓荒者，瓦塔纳卡书写了一段属于柬埔寨足球的传奇。\n\n2010年，年仅16岁的瓦塔纳卡加入柴桢FC（Preah Khan Reach Svay Rieng）青训营，开启了正规足球训练。在2011–12赛季柬埔寨联赛中，他迎来一线队首秀，并在17次出场中斩获10球。一鸣惊人的表现让国内豪门万吉（Boeung Ket）在2012年6月将其招致麾下。来到新东家后，瓦塔纳卡立即展现出无缝衔接的统治力：2012年当选柬埔寨联赛最佳年轻球员，2013年斩获洪森杯金靴，紧接着在2014年首次荣膺柬埔寨联赛年度最佳球员。\n\n## 席卷一切的万吉时代：纪录粉碎机\n\n2015赛季让瓦塔纳卡的名字响彻整个东南亚。2015年7月11日，在万吉12-2狂胜奇里翁索森切（Kirivong Sok Sen Chey）的比赛中，他一人独中八元，创造了柬埔寨本土球员在顶级联赛单场进球的历史最高纪录，并在赛季前八场比赛中狂轰16球。三周后的8月1日，在对阵亚欧联（Asia Europe United）的比赛中，他又包办了全场所有进球，上演不可思议的单场“进球大满贯”助球队6-0完胜。在区域舞台2015年湄公河俱乐部锦标赛上，瓦塔纳卡半决赛上演帽子戏法，率队3-2掀翻越南豪门平阳贝卡麦克斯（Becamex Binh Duong）；尽管万吉在决赛中惜败泰国劲旅武里南联屈居亚军，但他仍以5粒进球夺得赛事金靴并荣膺最有价值球员（MVP）。\n\n整个2015自然年，瓦塔纳卡在国内联赛打进35球，在俱乐部和国家队各项赛事中总计轰入惊人的55球，成为该年度进球数最多的东南亚职业球员。\n\n进入2016年，他的破门势头丝毫未减。在当赛季首次联赛首发中，他便在五分钟内光速完成帽子戏法，助球队6-0轻取排雷中心（CMAC FC）。同年5月21日面对老东家柴桢，万吉0-1落后，危急关头瓦塔纳卡在第85、89和93分钟连入三球——包括第一粒接高球传中的凌空抽射破门——以天神下凡般的反戴帽带领球队3-1完成绝杀逆转。最终他以22球蝉联联赛金靴，并在收官战以1分优势率领万吉斩获2016赛季柬埔寨联赛冠军，同时将联赛最佳射手与赛季最佳球员两项大奖再度收入囊中。\n\n## 东瀛与大马：海外闯荡的先锋足迹\n\n在国内的统治级表现，为瓦塔纳卡叩开了极少向柬埔寨球员敞开的留洋大门。2017年1月，他以租借形式加盟日本J3联赛球队藤枝MYFC（Fujieda MYFC），披上标志性的11号球衣。然而，异国的适应期充满挑战，身体对抗与战术纪律的差异限制了他的出场机会。他未能在联赛首发出场，仅替补亮相一次便告别了J3赛场。\n\n2017年12月，瓦塔纳卡转战南洋，与马来西亚超级联赛球队彭亨（Pahang FA）签约备战2018赛季。他代表彭亨出场10次打进1球，但俱乐部为了在半程注册加拿大前锋中岛-法兰（Issey Nakajima），提前与他解约。在重返万吉并帮助球队再次冲击国内冠军后，2019年1月18日，瓦塔纳卡以自由身重返马超，加盟雪兰莪发展机构（PKNS FC）。\n\n在PKNS，他换上了29号球衣。这次的大马之旅明显更为成功：他完成了超过13次联赛出场，并在2019年4月面对旧主彭亨的比赛中破门得分。\n\n## 国家队高光与坚毅归来\n\n在国际赛场上，瓦塔纳卡于2013年3月22日对阵土库曼斯坦的亚足联挑战杯资格赛中完成国家队成年首秀。2018年世预赛亚洲区第一轮首回合于2015年3月12日打响，他在金边奥林匹克体育场替补登场完成梅开二度，其中包括一记技惊四座的30码直接任意球，帮助柬埔寨3-0战胜中国澳门。2016年7月对阵新加坡的热身赛中，他再次凭借弧线任意球直接破网。在2016年东南亚足球锦标赛（铃木杯）中，他在柬埔寨2-3惜败马来西亚的小组赛中包揽本队两粒进球；而在2020年铃木杯上，他又面对老挝梅开二度。\n\n球场之外，瓦塔纳卡有着深厚的家庭观念与个人仪式感。2015年9月因伤休养期间，他在录音棚里与柬埔寨著名女歌手玛·索索菲亚（Meas Soksophea）一起录歌长达7小时。自2015年10月起，每当取得进球，他都会亲吻右臂上献给父母和家人的纹身以示感恩。巨大的号召力也为他赢得了商业认可，2016年1月，他受邀出任东南亚电信（SEATEL）亲善大使。\n\n2022年初，竞技体育的残酷一面降临在瓦塔纳卡身上——他在比赛中遭遇前十字韧带（ACL）重度撕裂。随后，他在柬埔寨国内接受了由曼谷医院BASEM运动医学团队主刀的高难度关节镜重建手术。经历近一年的艰苦康复，他重新回到了万吉锋线，继续用双脚书写那段将柬埔寨足球带向全亚洲的传奇篇章。",
+      "social_post": "从贡布渔乡到日本J3联赛，从单场狂轰8球到2015自然年狂砍55球，瓦塔纳卡（Chan Vathanaka）打破了人们对柬埔寨足球的想象天花板！作为“高棉野牛”当之无愧的招牌人物，这位东南亚先驱曾带给你哪幕最难忘的瞬间？欢迎在评论区分享你的记忆！ #瓦塔纳卡 #CV11 #万吉 #柬埔寨足球"
+    },
+    "ru": {
+      "headline": "Чан Ватанака: самородок из Кампота, открывший Камбоджу на футбольной карте Азии",
+      "seo_title": "Чан Ватанака: карьера, голы и история легенды Камбоджи CV11",
+      "subheadline": "От побережья Кампота до японской J3-лиги и безумных голевых рекордов с «Боэнг Кет» — путь самого результативного камбоджийского форварда.",
+      "body_markdown": "Чан Ватанака (Chan Vathanaka) родился 23 января 1994 года в прибрежной провинции Кампот на юге Камбоджи. Филигранная левая нога, взрывной стартовый рывок и радиоуправляемые стандарты сделали его ключевой фигурой современного камбоджийского футбола. В Юго-Восточной Азии форвард получил звучное прозвище CV11: из перспективного юниора в провинции Свайриен он вырос в символ национального футбола, сокрушивший внутренние бомбардирские рекорды и рискнувший попробовать свои силы в профессиональных лигах Японии и Малайзии.\n\nФутбольный путь Ватанаки начался в 2010 году, когда в 16-летнем возрасте он поступил в академию клуба «Преа Кхан Рич Свайриен» (Preah Khan Reach Svay Rieng). В чемпионате Камбоджи сезона 2011/12 Чан дебютировал на взрослом уровне, забив 10 мячей в 17 встречах. Этот прорыв убедил столичного гранда «Боэнг Кет» (Boeung Ket) подписать форварда в июне 2012 года. Ватанака моментально оправдал трансфер: в 2012-м его признали лучшим молодым игроком лиги, в 2013-м он взял «Золотую бутсу» Кубка Хун Сена, а по итогам сезона-2014 впервые забрал приз лучшему футболисту чемпионата Камбоджи.\n\n## Историческая эпоха в «Боэнг Кет»: фабрика рекордов\n\nСезон 2015 года превратил Ватанаку в главную сенсацию региона. 11 июля 2015 года в матче против «Киривонг Сок Сен Тьей» (Kirivong Sok Sen Chey), закончившемся разгромом со счетом 12:2, он забил 8 голов — абсолютный рекорд результативности в одной игре среди уроженцев Камбоджи в истории лиги. К тому моменту на его счету было уже 16 мячей в первых 8 турах. Три недели спустя, 1 августа, в игре с клубом «Азия Европа Юнайтед» (Asia Europe United) Чан лично оформил все голы команды, добыв победу со счетом 6:0. На международной арене в рамках Клубного чемпионата Меконга 2015 года Ватанака отметился хет-триком в полуфинале против вьетнамского «Бекамекс Биньзыонг» (Becamex Binh Duong) (3:2), а в финале «Боэнг Кет» уступил лишь таиландскому гегемону «Бурирам Юнайтед». С 5 мячами Чан стал лучшим бомбардиром и самым ценным игроком (MVP) турнира.\n\nКалендарный 2015 год Ватанака завершил с 35 голами в чемпионате страны и фантастическими 55 мячами во всех турнирах за клуб и сборную — наивысший показатель среди футболистов Юго-Восточной Азии за тот год.\n\nВ 2016-м голевой конвейер не сбавил оборотов. В своем первом матче в старте в чемпионате Чан оформил хет-трик менее чем за пять минут в разгроме «КМАК» (CMAC FC) со счетом 6:0. 21 мая 2016 года в матче против родного «Свайриена» «Боэнг Кет» уступал 0:1, но на авансцену вышел Ватанака: точные удары на 85-й, 89-й и 93-й минутах (первый — хлесткий залп с левой ноги слета после верховой подачи) принесли клубу волевую победу 3:1. Забив 22 мяча, он второй год подряд стал главным снайпером первенства, а в заключительном туре помог «Боэнг Кет» вырвать чемпионский титул с перевесом всего в одно очко, попутно забрав «Золотую бутсу» и награду лучшему игроку сезона.\n\n## Пионерские вызовы в Японии и Малайзии\n\nАбсолютное доминирование дома распахнуло перед Ватанакой двери, которые для камбоджийских игроков прежде оставались наглухо запертыми. В январе 2017 года он отправился в аренду в клуб японской J3-лиги «Фудзиэда МИФК» (Fujieda MYFC), взяв любимый 11-й номер. Однако адаптация оказалась тяжелой: различия в тактической выучке и физических кондициях сказались на доверии тренеров. Чан покинул Страну восходящего солнца без единого выхода в старте, отметившись лишь одним появлением на замену в самой концовке встречи.\n\nВ декабре 2017 года нападающий подписал контракт с малайзийским «Пахангом» (Pahang FA) на сезон-2018. За клуб Суперлиги он провел 10 матчей и забил один гол, после чего контракт был расторгнут посреди кампании, чтобы заявить канадского легионера Иссея Накадзиму (Issey Nakajima). Ненадолго вернувшись в «Боэнг Кет» и приложив руку к очередному национальному триумфу, 18 января 2019 года Ватанака снова приехал в Малайзию, подписав соглашение в статусе свободного агента с «ПКНС» (PKNS FC).\n\nВ новой команде он сменил номер на 29-й. Второй заход в малайзийский чемпионат получился продуктивнее: Чан отыграл более 13 матчей и в апреле 2019 года распечатал ворота своего бывшего клуба «Паханг».\n\n## Сборная, признание и преодоление тяжелой травмы\n\nВ футболке национальной сборной Камбоджи Ватанака дебютировал 22 марта 2013 года в квалификации Кубка вызова АФК против Туркменистана. 12 марта 2015 года в рамках первого раунда отбора к ЧМ-2018 он вышел на замену в матче с Макао на Олимпийском стадионе в Пномпене и оформил дубль (включая роскошный удар со штрафного с 30 ярдов), принеся команде победу 3:0. В июле 2016 года Чан положил еще один радиоуправляемый штрафной в ворота сборной Сингапура. На чемпионате АСЕАН (AFF Championship) 2016 года он забил оба камбоджийских гола в триллере против Малайзии (2:3), а на турнире 2020 года отметился дублем в матче с Лаосом.\n\nЗа пределами газона Ватанака всегда подчеркивал привязанность к корням и семье. В сентябре 2015 года, восстанавливаясь после повреждения, он провел семь часов в студии звукозаписи, записав треки с камбоджийской поп-звездой Миес Соксопхеа (Meas Soksophea). Начиная с октября 2015 года его фирменным празднованием стал поцелуй татуировки на правом предплечье, набитой в честь родителей и близких. Огромная популярность привела и к спонсорским контрактам: в январе 2016 года Чан стал послом доброй воли телекоммуникационного гиганта SEATEL.\n\nВ начале 2022 года судьба приготовила футболисту суровое испытание: в одном из матчей Ватанака порвал переднюю крестообразную связку (ПКС). Операцию провели в Камбодже — артроскопическую пластику связки выполнила бригада специалистов отделения спортивной медицины BASEM из престижного госпиталя Бангкока. Проведя почти год в изнурительной реабилитации, кумир камбоджийских трибун вернулся в линию атаки «Боэнг Кет», продолжая вдохновлять целое поколение местных мальчишек.",
+      "social_post": "От побережья Кампота до японской J3-лиги и сумасшедших 55 голов за один календарный год: Чан Ватанака перевернул представления о возможностях камбоджийского футбола. Для фанатов «Боэнг Кет» и сборной «купреев» CV11 навсегда останется первопроходцем. Какой гол или момент в карьере Ватанаки вам запомнился больше всего? Делитесь в комментариях! #ЧанВатанака #CV11 #БоэнгКет #ФутболАзии"
+    },
+    "region": "cambodia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Chan_vathanaka_2013-11-04_11-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Chan_vathanaka_2013-11-04_11-18.jpg",
+        "artist": "User:Ricky pech007",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Boeung Ket Angkor FC forward Chan Vathanaka holding his Hun Sen Cup Golden Boot.",
+        "width": 1200,
+        "height": 1600,
+        "year": 2013,
+        "subject": "Chan Vathanaka",
+        "asked": "Chan Vathanaka",
+        "page_title": "Chan Vathanaka",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:chan_vathanaka_2013-11-04_11-18.jpg|Chan Vathanaka",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Chan Vathanaka holding a Golden Boot trophy on a football pitch",
+          "reason": "The photo plausibly shows Cambodian footballer Chan Vathanaka holding his Hun Sen Cup top scorer award.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png",
+        "artist": "EAKHFootball",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "The National Olympic Stadium (Phnom Penh) in the final match of 2023 Southeast Asian Games' men's football tournament",
+        "width": 1200,
+        "height": 675,
+        "year": 2023,
+        "subject": "Olympic Stadium (Phnom Penh)",
+        "asked": "Phnom Penh Olympic Stadium",
+        "page_title": "Olympic Stadium (Phnom Penh)",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:olympic_stadium_phnom_penh_sg2023.png|Olympic Stadium (Phnom Penh)",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Olympic Stadium in Phnom Penh during the 2023 SEA Games final",
+          "reason": "The venue matches the National Olympic Stadium in Phnom Penh during the 2023 Southeast Asian Games men's football final.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://www.bangkokhospital.com"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-e226ae",
+    "slug": "arthur-rinderknech-denies-itia-anti-doping-charge-over-alleg",
+    "date": "2026-11-25",
+    "created": "2026-11-25T21:41:09+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Arthur Rinderknech",
+      "ITIA",
+      "Tennis",
+      "ATP Tour",
+      "Anti-Doping",
+      "Marketa Vondrousova"
+    ],
+    "athletes": [
+      "Arthur Rinderknech",
+      "Markéta Vondroušová",
+      "Valentin Vacherot"
+    ],
+    "image_subjects": [
+      "Arthur Rinderknech",
+      "International Tennis Integrity Agency",
+      "Markéta Vondroušová"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Exact date and location of the independent tribunal hearing in early 2027",
+      "Status and hearing schedule of Marketa Vondrousova's appeal at the Court of Arbitration for Sport"
+    ],
+    "sources": [
+      {
+        "title": "French tennis star Arthur Rinderknech issues Instagram denial after being charged with refusing a doping test",
+        "url": "https://sports.yahoo.com/tennis/articles/french-tennis-star-arthur-rinderknech-141958625.html"
+      },
+      {
+        "title": "Rinderknech denies refusing doping test",
+        "url": "https://www.bbc.com/sport/tennis"
+      },
+      {
+        "title": "The Independent – Sport: French tennis star Arthur Rinderknech issues Instagram denial after being charged with refusing a doping test",
+        "url": "https://www.independent.co.uk/sport/tennis/arthur-rinderknech-doping-test-refusal-charge-instagram-b3091490.html"
+      },
+      {
+        "title": "Sportsnet.ca: French tennis player Arthur Rinderknech charged with refusing to give doping sample",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVFHdWFtd2p5dnhKdi1hOG4yZlNvVlVWaFQxSEFQcjNkZTRIdjlIazBKaVdTRTVDc1VsVDN2N2ptMVZwdFZqaDJ5VDZyNFdSaDNrNW81YTdOOVl1YUx4UENCRWJ2WHlSLWxpTFg1TEVVTTNVTVpCczBaUXl3UTJ5ckRXbGtMMmRFWEM5WEMxRGxySGM1UlBOUGdtZmdxemt0aTcxMTd3T2t0SUZORlhRU2NsUE12ZjZqZGczVWl3?oc=5"
+      },
+      {
+        "title": "BBC Sport: Rinderknech denies refusing doping test",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cr9d7gxjq99po?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Arthur Rinderknech Denies ITIA Anti-Doping Charge Over Alleged Test Refusal",
+      "seo_title": "Arthur Rinderknech Denies ITIA Doping Test Refusal Charge",
+      "subheadline": "The French world No. 57 rejects the allegations on social media and heads to an independent tribunal without a provisional ban.",
+      "body_markdown": "French tennis player Arthur Rinderknech was formally charged by the International Tennis Integrity Agency (ITIA) on Wednesday, November 25, 2026, for allegedly refusing to submit to an anti-doping control. The 31-year-old world No. 57 responded on social media, issuing a complete denial and confirming that he will contest the accusation before an independent panel.\n\n## Denial and Independent Tribunal Process\n\nIn a statement published on his Instagram account, Rinderknech expressed frustration that an inquiry meant to stay confidential had reached the media. He confirmed that he has formally contested the ITIA charge and exercised his right to have the dispute evaluated by an independent tribunal early in 2027.\n\nThe Frenchman asserted that he has never used prohibited substances and stated that presenting the full facts before arbitrators will result in his total exoneration. Following Rinderknech's public comments, the ITIA issued a statement confirming the charge. The governing body noted that it attempts to maintain confidentiality during ongoing proceedings and expressed disappointment that details entered the public domain prematurely.\n\nUnder tennis anti-doping regulations, an alleged test refusal does not carry a mandatory provisional suspension. Consequently, Rinderknech remains eligible to compete on the ATP Tour while awaiting his hearing.\n\n## Severity of Sanctions and the Vondrousova Precedent\n\nUnder the World Anti-Doping Code, refusing or evading a sample collection without compelling justification carries the same baseline penalty as an adverse analytical finding: a four-year ban from all sanctioned competition.\n\nThe case mirrors that of 2023 Wimbledon champion Marketa Vondrousova. In June 2026, the Czech player was handed a four-year suspension by the ITIA after being found to have refused an anti-doping control. Vondrousova has since lodged an appeal with the Court of Arbitration for Sport in Lausanne, where proceedings remain pending.\n\n## On-Court Context and Upcoming Schedule\n\nRinderknech achieved a career-high singles ranking of world No. 24 and has recorded notable results at the highest levels of the tour. In October 2025, he advanced to the final of the Shanghai Masters, an ATP Masters 1000 tournament, where he faced his cousin Valentin Vacherot.\n\nHis best Grand Slam result came at the 2025 US Open in New York, where he progressed to the fourth round of the men's singles draw. He also reached the third round at Wimbledon in both 2025 and 2026. Because no provisional suspension applies to his case, Rinderknech is eligible to enter tournaments at the start of the 2027 season, including the Australian Open preparation swing in January, ahead of his scheduled tribunal date.",
+      "social_post": "French world No. 57 Arthur Rinderknech has denied an International Tennis Integrity Agency charge for allegedly refusing a doping test, stating on Instagram that he has requested an independent tribunal to clear his name. Because the charge does not trigger a provisional suspension, the 31-year-old remains eligible to compete ahead of a hearing early next year. How do you view the handling of test-refusal cases in tennis? Share your thoughts below. #Tennis #ArthurRinderknech #ITIA #ATPTour"
+    },
+    "zh": {
+      "headline": "遭指控涉嫌拒绝接受药检，法国名将兰德克内希坚决否认ITIA违规指控",
+      "seo_title": "兰德克内希否认拒检指控 暂未被禁赛",
+      "subheadline": "这位现世界排名第57位的法国选手在社交媒体发声否认，并将在未受临时禁赛的情况下接受独立法庭审理。",
+      "body_markdown": "2026年11月25日（周三），法国网球选手阿蒂尔·兰德克内希（Arthur Rinderknech）因涉嫌拒绝接受反兴奋剂检查，正式受到国际网球诚信机构（ITIA）的指控。现年31岁、世界排名第57位的兰德克内希随后在社交媒体上作出回应，坚决否认该指控，并确认将向独立仲裁小组提出申辩。\n\n## 坚决否认指控 将通过独立法庭力证清白\n\n兰德克内希在其Instagram账号发布的声明中表示，原本属于保密性质的调查却被媒体曝光，令他感到十分沮丧。他证实自己已正式就ITIA的指控提出抗辩，并行使权利将此案提交至独立法庭，听证会预计于2027年初举行。\n\n这位法国名将重申自己从未服用过违禁物质，并坚信在仲裁员面前呈现全部事实真相后，自己将彻底洗清嫌疑。在兰德克内希公开表态后，ITIA也发表声明确认了该项指控。这家监管机构指出，他们一直在调查程序中尽力保护隐私，对相关细节过早流向公众视野表示失望。\n\n根据网球反兴奋剂条例，涉嫌拒绝受检并不会自动触发强制性临时禁赛。因此，兰德克内希在等待听证会期间仍有资格继续参加ATP巡回赛。\n\n## 严厉的禁赛处罚与万卓索娃前车之鉴\n\n依照《世界反兴奋剂条例》，无正当理由拒绝或逃避样本采集，其基准处罚与药检呈阳性相同：将被处以长达四年的禁赛期，禁止参加所有受认可的赛事。\n\n此案与2023年温网女单冠军马尔凯塔·万卓索娃（Marketa Vondrousova）的情况如出一辙。2026年6月，这位捷克名将因被认定拒绝反兴奋剂检查，遭到ITIA为期四年的禁赛处罚。万卓索娃随后向设在洛桑的国际体育仲裁法庭（CAS）提起上诉，目前案件仍在审理当中。\n\n## 赛场表现与后续参赛日程\n\n兰德克内希单打世界排名最高曾达到第24位，在顶级巡回赛中屡有亮眼战绩。2025年10月，他在ATP 1000上海大师赛一路闯入决赛，与表弟瓦朗坦·瓦舍罗（Valentin Vacherot）上演了一场瞩目的争冠战。\n\n在大满贯赛场上，他的最佳战绩是在2025年美网打进男单第四轮；此外，他还在2025年和2026年两度晋级温网第三轮。由于目前未受到临时禁赛限制，兰德克内希完全可以参加2027赛季初期的赛事，包括在听证会举行前的1月份参加澳网热身赛。",
+      "social_post": "现世界排名第57位的法国网球选手阿蒂尔·兰德克内希否认了ITIA关于其涉嫌拒绝药检的指控。他在Instagram上表示已申请由独立法庭审理此案，坚信自己将彻底洗清嫌疑。由于该指控并未触发临时禁赛，这位31岁的老将仍可正常参赛。你怎么看网坛近期频发的拒检风波？欢迎在评论区留言讨论。#网球 #兰德克内希 #ITIA #ATPTour"
+    },
+    "ru": {
+      "headline": "Артур Риндеркнеш опроверг обвинения ITIA в отказе от прохождения допинг-теста",
+      "seo_title": "Риндеркнеш отверг обвинения ITIA в отказе от допинг-теста",
+      "subheadline": "57-я ракетка мира из Франции категорически не согласен с обвинениями и ожидает независимого трибунала без наложения временного отстранения.",
+      "body_markdown": "В среду, 25 ноября 2026 года, Международное агентство по обеспечению честности в теннисе (ITIA) официально предъявило обвинения французскому теннисисту Артуру Риндеркнешу (Arthur Rinderknech) в предполагаемом отказе от сдачи допинг-пробы. 31-летний игрок, занимающий 57-ю строчку мирового рейтинга, отреагировал на это в соцсетях категорическим опровержением, заявив о намерении оспорить претензии перед независимым трибуналом.\n\n## Позиция Риндеркнеша и разбирательство в независимом трибунале\n\nВ заявлении, опубликованном на своей странице в Instagram, Риндеркнеш выразил разочарование тем, что конфиденциальное расследование утекло в СМИ. Теннисист подтвердил, что официально опротестовал обвинение ITIA и воспользовался правом на рассмотрение дела независимой арбитражной комиссией в начале 2027 года.\n\nФранцуз подчеркнул, что никогда в жизни не принимал запрещенных веществ, и выразил уверенность, что предоставление полной картины произошедшего арбитрам приведет к его полному оправданию. Вслед за заявлением спортсмена последовал и официальный комментарий ITIA: организация подтвердила факт предъявления обвинений, подчеркнув стремление соблюдать конфиденциальность до завершения разбирательств и выразив сожаление по поводу преждевременной утечки данных в публичное поле.\n\nПо действующим правилам теннисной антидопинговой программы подозрение в отказе от теста не влечет за собой автоматического временного отстранения. Таким образом, Риндеркнеш сохраняет право выступать на турнирах ATP Tour до вынесения вердикта.\n\n## Суровость санкций и прецедент Вондроушовой\n\nСогласно положениям Всемирного антидопингового кодекса, отказ от сдачи пробы или уклонение от тестирования без уважительной причины наказывается столь же сурово, как и положительная допинг-проба: базовый срок дисквалификации составляет четыре года запрета на участие во всех официальных соревнованиях.\n\nДанная ситуация перекликается с делом чемпионки Уимблдона-2023 Маркеты Вондроушовой. В июне 2026 года чешская теннисистка получила четырехлетнюю дисквалификацию от ITIA за аналогичный отказ от допинг-контроля. В настоящее время Вондроушова обжалует это решение в Спортивном арбитражном суде (CAS) в Лозанне, вердикт пока не вынесен.\n\n## Результаты на корте и график выступлений\n\nНаивысшим достижением Риндеркнеша в одиночном рейтинге была 24-я строчка, а в его активе значатся заметные успехи на крупнейших турнирах. В октябре 2025 года он дошел до финала турнира категории «Мастерс» в Шанхае, где его соперником стал двоюродный брат Валентен Вашеро (Valentin Vacherot).\n\nНа турнирах «Большого шлема» лучшим результатом Артура стал выход в четвертый круг US Open в Нью-Йорке в 2025 году. Кроме того, француз дважды добирался до третьего раунда Уимблдона — в 2025 и 2026 годах. Поскольку временное отстранение на него не наложено, Риндеркнеш вправе начать сезон 2027 года по расписанию и выступить на январских австралийских турнирах в преддверии слушаний трибунала.",
+      "social_post": "57-я ракетка мира Артур Риндеркнеш отверг обвинения ITIA в отказе от сдачи допинг-теста. 31-летний француз заявил в соцсетях, что намерен полностью доказать свою невиновность в независимом трибунале. Временного отстранения нет — Артур может продолжить выступления в туре. Что вы думаете о подобных делах об отказе от тестов? Делитесь в комментариях! #теннис #Риндеркнеш #ITIA #ATPTour"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg/1280px-Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Rinderknech_MCM22_(16)_(52036912945).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Rinderknech MCM22 (16)",
+        "width": 1200,
+        "height": 1799,
+        "year": 2022,
+        "subject": "Arthur Rinderknech",
+        "asked": "Arthur Rinderknech",
+        "page_title": "Arthur Rinderknech",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:rinderknech_mcm22_(16)_(52036912945).jpg|Arthur Rinderknech",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Arthur Rinderknech playing tennis on a clay court",
+          "reason": "The photo clearly shows French tennis player Arthur Rinderknech matching the caption and sport.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_%282023_US_Open%29_14.jpg/1280px-Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_%282023_US_Open%29_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_(2023_US_Open)_14.jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Markéta Vondroušová playing in the first round of the 2023 US Open",
+        "width": 1200,
+        "height": 1752,
+        "year": 2023,
+        "subject": "Markéta Vondroušová",
+        "asked": "Markéta Vondroušová",
+        "page_title": "Markéta Vondroušová",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:mark%c3%a9ta_vondrou%c5%a1ov%c3%a1_(2023_us_open)_14.jpg|Markéta Vondroušová",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Markéta Vondroušová on a tennis court",
+          "reason": "The image clearly shows Czech tennis player Markéta Vondroušová, recognizable by her appearance and distinctive tattoos.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Valentin_Vacherot_Swiss_Indoors_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Valentin_Vacherot_Swiss_Indoors_2026_(cropped).jpg",
+        "artist": "Skyscraper2010 / Peter Arnold derivative work: Kacir",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Valentin Vacherot holds the trophy after defeating eighth-seeded Jiri Lehecka (left) in the final of Swiss Indoors Basel 2026.",
+        "width": 1200,
+        "height": 1896,
+        "year": 2026,
+        "subject": "Valentin Vacherot",
+        "asked": "Valentin Vacherot",
+        "page_title": "Valentin Vacherot",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:valentin_vacherot_swiss_indoors_2026_(cropped).jpg|Valentin Vacherot",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "tennis player Valentin Vacherot holding a trophy",
+          "reason": "The image correctly shows Monegasque tennis player Valentin Vacherot holding a trophy.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2022. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Exact date and location of the independent tribunal hearing in early 2027"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Status and hearing schedule of Marketa Vondrousova's appeal at the Court of Arbitration for Sport"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-c4f690",
+    "slug": "jayson-tatum-pours-in-41-points-as-celtics-hold-off-wizards-",
+    "date": "2026-11-25",
+    "created": "2026-11-25T21:39:36+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "basketball",
+    "tags": [
+      "NBA",
+      "Boston Celtics",
+      "Washington Wizards",
+      "Jayson Tatum",
+      "NBA Cup"
+    ],
+    "athletes": [
+      "Jayson Tatum",
+      "Paul George",
+      "Neemias Queta",
+      "Anthony Davis",
+      "AJ Dybantsa",
+      "Baylor Scheierman",
+      "Trae Young"
+    ],
+    "image_subjects": [
+      "Jayson Tatum",
+      "Paul George",
+      "Anthony Davis",
+      "Capital One Arena"
+    ],
+    "match": {
+      "competition": "NBA Cup",
+      "date": "24 November 2026",
+      "home": "Washington Wizards",
+      "away": "Boston Celtics",
+      "home_score": 116,
+      "away_score": 131,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Celtics move to 3-0 in East Group C"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Reuters / Field Level Media: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3U5QXBDWTNacGl5SkdSV1ZtUmszYUtPY3ZkWVE3dTVCbW1OQ3hyR0NKU3ZXSW1zZjd3TnFPT0wzc2xCbTNZYXFORGRhUEpqcERzUkFIRnJheG5iTHVPTkZhdkM5OVZwUlRreURmY0laR2FENVc5VWFlZnZMUzYxX0VKa3NvRFhUT1BQNlprb0lnSl9jVkJsLXJHc0p1b3YzcTA5ZHRRbGltb3BwVXJR?oc=5"
+      },
+      {
+        "title": "Associated Press: Tatum scores 41 to help Celtics snap 4-game skid with a 131-116 win over Wizards",
+        "url": "https://apnews.com"
+      },
+      {
+        "title": "fieldlevelmedia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFul5wOGc5lYtIoX1VqlN7nnqHD-JNj5fuf6Y9HRkguuaRaG75EuDfYx5oiFEgjwmgL8PU9o_uMtA-GAb5zjYF9tnLdBMhQ96rnBK5XeRpiocP9QsQaeM-HAw2wbuyXtQdYpXCD8I2hGZT7wRlkgWsFwIHK7GXv9Y83ahFZozLqNjvZ0Zg_NbqL"
+      },
+      {
+        "title": "heavy.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2tGib4n9rGphSf0_VYK5NLrYYHWM-WXWok17qOQ1Ir6XNIJURu7KkGCOdVdoQpmamU1pX30EepE2Mma9tvdm0RxxSSRcHJrA_LX7qH0o50lvkqw8cBACBNFU1bCUpI972JrhXVoirC3pLwGCAu7a_d3y6ZtcxODgl9dA3RvSaNsQ2wrmuGLW0i36H"
+      },
+      {
+        "title": "fanduel.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUPVLpLNlnq4Etfl-ATlmemf1zxgyce1iQsfgCdc75xS4nVt5p6OghIjwSbk7bZDbLF8_En2lnmLnXiV3ZZky3jHdOelX91MtgvtDnObY4UIl7KU5ofyah2R2E-A8bVcYga9tEKcEqzEtb8W3NR0Cn-AxDuCxM3SEHORJyAxhkm2yhMvTpN-9FWubyEUZyvDIreEfsxjfKk2PER8LHGCZRyEefa8TId2exJS3U3-iQtw=="
+      },
+      {
+        "title": "wkzo.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7AxwhkxFav_piJ9D6zaTS8dGfVFTxqsegf1pBBeHPxzwwDSwZoVOg9xqnRtVnatxYFb2RruqFXU4SqiecjYjEhGBIRtxEcndBViUrRes1FkpTEauaAPilznxxF4s5SWWDZdu7HnGgsmGg0M1W3arAF2zIBe2G1In3z-vx0R3CZkh8LD4cTnrbXlQerHxa5fbdu_pYnKit3_UH"
+      },
+      {
+        "title": "si.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoKisxXMGZBdnTTQa-i3F-3pXwLtKFID9Tb9dLXEYsu_2DOn4xI1NxPUr8Gua5YRAY42lQmuo2XwR50NzFbXU55V9JrPDEHakcMWLxTqwvHEwkszyUTbxnHjcl8bqXV4eswm2PR3-HoO_fJVhOYHz-j4_Zvnz3Zoua9BlkpsdyxfXD4t9envtzSE0z3cS75gTmV7XwcjLeCWj2KCH90xp6FO2dVPkxzkY8j9Kq84yDAsTAt_pQKijwsujH"
+      },
+      {
+        "title": "yourvalley.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0GTuycceA6uoEXa4QCp2aBoLBcPC5TmFkAEXmU1J1omxOxvCeEpjKv3rMeViVrCjp9MJhEOAmS8IqoAMLhbdCdKwSiQ2m6yw5HF8s7fh9lA7d1Dv8ny255Q_uLYA-AJ6x1WYcB1Whc2JaS6LaglfAvJ-iUqZcBKAKueoTFD8-ON1LaOOXeOr_bo77O4GE3wmj7sjykAWvO1JrSRtNCh-xFUNk5K5r0vmbqITAZiULsA=="
+      },
+      {
+        "title": "yardbarker.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTd2eODOzQbZ6dbRfl9P-wrTV_foCFQM4YGvfft3C1JvmszOUemO0jmJi43wm3iji3W9PVJpu7e_Mu6NAvlzeKjTD4tlThP2rJwW-Qa8CscBDOs9RtDg22JsRq_GEWDPxI7_n_GCYecNwwpkqJ4kSmWvCv2oB3_jkdaSMCfyytavgUaFIrmJaea1RfpfpiRhl88cbYnsnDgVCZPR4T3dXUMddxeHQMpyC9k7rtjwSrEso="
+      },
+      {
+        "title": "gmanetwork.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0wFKggv-xqcTbTEexbVDjvQHe59r1GyrmLbjkxrnwCpgKDEdD8vy8FIDnSVQ6Ge8KZLY0QPC2ZT3BnmJK2AX-lM3_xJa4KiUFZdYjOKXPY-sOLx-kTnPs2y4RXZtzZlyVKBwsHyJo7VAX2oqCS9rIk4kz0WAAA1xb8NWPdP8nDEhjsRWxnziougsOPlqn-UczmDyAwBxM6-oTIzJWDSJM6GUmBTDBknzZMsC"
+      },
+      {
+        "title": "yardbarker.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGipbW5QbxS7-r7a8le8I2l-0NWED1AA0YRfGyJMAdw1D1WSUnc02Tqtc_omk-1XX8w3fpQohKFCYAHa0iaooa-FoxxTIjBw9BsbGOjoGw4SBcBusTWnczie99NaKUZydwePF2eFVoTU4tDZYDRMh1FLkk7Y4V7bWwA8kA_xAW5JPSAOtsoJ1cfs8JH3GGXMF6mtR61GuuKrZTsCmbzuCqsOU4fo7qbP9IrhVJ4Og=="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbk1cRljKjlhaj4gS4WLsBYSIwX-SJ3L8nIafqRcMGE4D_9_EpLpk0Ptf9jl3YmnTLOSp_VsXYA_RDQJFr-xiOtispTDpSeUWRob5Qs4Wbfo7hhXxlVaXamUUvZCyDrHd4"
+      },
+      {
+        "title": "San Luis Obispo Tribune: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qYmlVYkJNS0pGdmFlYlVaN0dhTW1aLTdtTm50Q3BtU0tudUFGTVkzV0hYaVdIOWZzNnNlRmtnVkU5b2Y4OTNmUjVvRkZTc3J2RnpITGt5UWNXU0lra1I0Zkd4NU1vSUdWRjBvaHFldw?oc=5"
+      },
+      {
+        "title": "Sacramento Bee: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HbjI4RGFkdTkydEo0Y3NGU3Z2dzFPZW13ZVQxcElUUjRGakF3TWFlMThyazNOYk16dHdMR3lfcm1aTDNpRVZROVRTODdZbVVxNjVTMVgySUNjem0wcHNaYjNnYlRrUQ?oc=5"
+      },
+      {
+        "title": "Rock Hill Herald: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pZU9oNFZSZUpiMTFVTlBneUlXVF94RklPbDRvVjJ3bXhpcWRhNEtVbE5xd3M2bE5jdl9qa2lSdHZlbEZfS1huNm94QVE1c3dvN2EyZm9XdThyTVMtcEJ5TE9ESDNoczhhUlRIel9n?oc=5"
+      },
+      {
+        "title": "Merced Sun-Star: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WVzRpVlo5cjVnb2NkdDRpY3VWSjJqMXRLVHlQdkRibndydk5nd3l3YXdUNzJpX1JlRTVjeEFsRzhfSlpOeFFqQVg0LTBjWWNnbWd1akVBcjdfOE5JcERMcDdUUkl5U2wyY0lBU1Zzbw?oc=5"
+      },
+      {
+        "title": "Miami Herald: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10aVg2VThlakFFUEpvaWl0aF80ZENhX2hPU3l3ejBVY2prNkJTZ0ZjME5vRXZ6cmt6TEhHT2dRb0h2UTlKQ3RvemVxQ0MyZWpTNGZrcXJpRkltYzYtZS1zcVNVQVV2Qi1iTHhWag?oc=5"
+      },
+      {
+        "title": "The Olympian: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CNC1KYml1QWpYaTl3WG1RYjh2MkZLWWQzNXVKdVczQldEbDZvTmVYbkd6bm1rVkNmQlU0ZENvVklzU25EaUhrQ0RyUEMzajFhTWVyeUJxeGFhbE9fTzZkM2pJTXcyV2RzdHJZdQ?oc=5"
+      },
+      {
+        "title": "Tri-City Herald: NBA roundup: Jayson Tatum pours in 41 as Celtics top Wizards to end skid",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSlZwWktBMUFFU2hUd3V5Z0d0bVBFYmZ3a1ZTUU1ySkVGN3RGZkRhU2pueUM5cGlLTk56V25kWjBhcnR4OXIzZjQyU2o2LVdCTXF4Mm85NWNaNU9Cdk1oMGlmWnhmTXduS2ZGYkl0dzA?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Jayson Tatum Pours in 41 Points as Celtics Hold Off Wizards 131-116 to Snap Four-Game Skid",
+      "seo_title": "Celtics 131-116 Wizards: Tatum Drops 41 to Snap Skid",
+      "subheadline": "Boston built a 34-point cushion behind a 46-point second quarter before weathering Washington's late rally to remain unbeaten in NBA Cup play.",
+      "body_markdown": "WASHINGTON — Jayson Tatum scored 41 points, grabbed six rebounds and dished eight assists on Tuesday night to guide the Boston Celtics to a 131-116 victory over the Washington Wizards at Capital One Arena, snapping Boston's four-game losing streak.\n\nThe result marked Boston's 12th consecutive victory over Washington, lifting the Celtics to 12-6 on the season and a 3-0 record in NBA Cup Eastern Group C.\n\n## First-half barrage builds 31-point cushion\n\nBoston seized control during the opening quarter behind center Neemias Queta, who scored 13 of his season-high 21 points before Washington center Anthony Davis made a field goal, sending Boston into the second period with a 34-28 advantage.\n\nThe Celtics produced 46 points in the second quarter, hitting 10 three-pointers. Tatum scored 28 points in the first half alone on 9-of-13 shooting from the field and 6-of-9 from deep, highlighted by three straight triples in a span of 1:43 to finish an 11-0 burst that made it 70-38. Paul George added 13 of his 28 points in the second period, guiding Boston to an 80-49 halftime lead and a peak margin of 34 points.\n\n## Wizards surge before Scheierman and Tatum close the door\n\nWashington countered with a 40-24 third quarter, spearheaded by Davis, who finished with 33 points and 13 rebounds. Kyshawn George contributed 24 points, rookie AJ Dybantsa recorded 20 points, 11 rebounds and seven assists, and Trae Young delivered 17 points and 12 assists.\n\nA driving bank shot from Dybantsa with 3:19 remaining capped a 29-point comeback effort to bring Washington within 117-112. Tatum responded on the following possession with a layup, before Baylor Scheierman drilled a corner three-pointer for his first points of the night. Scheierman subsequently added two free throws and another three-pointer, anchoring a closing 14-4 run that halted Washington's three-game winning streak.\n\n\"In the second half, I left a lot on the table that I'm going to be mad about tonight,\" Tatum told NBC Sports Boston. \"No lead is safe, and they get paid to play basketball too... So we just tried to weather the storm and answer.\"\n\n## Cup stakes and Friday group decider\n\nThe defeat mathematically eliminated Washington (7-12, 2-2 Cup play) from the tournament. Tatum finished shooting 13-of-25 from the floor and 6-of-15 from long range over 37 minutes. Boston returns home to TD Garden on Friday night to face the Atlanta Hawks, where the winner will claim top spot in Eastern Group C and advance to the quarterfinals.",
+      "social_post": "Jayson Tatum poured in 41 points to help the Boston Celtics snap their four-game skid with a 131-116 road win over the Washington Wizards! Boston survived a 29-point second-half comeback scare to move to 3-0 in NBA Cup Group C play. Can Boston carry this momentum to take the group on Friday against Atlanta? Share your thoughts below!"
+    },
+    "zh": {
+      "headline": "塔图姆狂轰41分！凯尔特人顶住奇才反扑131-116过关，终结四连败",
+      "seo_title": "凯尔特人131-116奇才：塔图姆狂砍41分止4连败",
+      "subheadline": "绿衫军次节轰下46分并一度领先34分，末节虽遭华盛顿疯狂追分仍稳住阵脚，在NBA杯保持全胜战绩。",
+      "body_markdown": "华盛顿——周二晚间，在第一资本竞技馆，杰森·塔图姆全场砍下41分、6个篮板并送出8次助攻，带领波士顿凯尔特人以131-116击败华盛顿奇才，终于终结了此前的四连败颓势。\n\n这场胜利让绿衫军延续了对阵奇才的12连胜，球队本赛季战绩改写为12胜6负，同时在NBA杯东部C组中取得了3胜0负的不败开局。\n\n## 半场三分雨倾泻，绿军一度狂揽34分优势\n\n比赛首节，波士顿便由中锋尼米亚斯·克塔（Neemias Queta）率先发难，他单节独得个人赛季新高21分中的13分，而此时奇才中锋安东尼·戴维斯甚至还没运动战进球。绿衫军以34-28领先结束首节。\n\n进入第二节，凯尔特人进攻彻底爆发，单节轰出46分并飙进10记三分球。塔图姆在上半场就火力全开，投篮13投9中、三分球9投6中狂揽28分。期间他在短短1分43秒内连进三记三分，以一波11-0的攻击波将比分扩大至70-38。保罗·乔治也在次节添上个人全场28分中的13分，帮助波士顿半场建立起80-49的巨大领先，分差最大时一度达到34分。\n\n## 奇才绝地反扑迫近分差，沙伊尔曼携手塔图姆终结悬念\n\n易边再战，奇才在第三节打出40-24的强势反击。安东尼·戴维斯扛起大旗，全场斩获33分和13个篮板；凯肖恩·乔治（Kyshawn George）贡献24分，新秀AJ·迪班萨（AJ Dybantsa）砍下20分、11个篮板和7次助攻的全面数据，特雷·杨也交出了17分和12次助攻。\n\n比赛还剩3分19秒时，迪班萨突破打板命中，奇才完成了一波疯狂抹平29分差距的反扑，将比分追至112-117。危急时刻，塔图姆在下一个回合突破上篮止血，随后贝勒·沙伊尔曼（Baylor Scheierman）底角命中个人今晚第一记进球——一记关键三分球。紧接着，沙伊尔曼两罚全中并再中一记远投，策动了一波14-4的收尾攻势，彻底浇灭了奇才的反扑希望，同时也终结了主队的三连胜。\n\n“下半场我错失了太多机会，今晚回去我肯定得为这事生自己的气，”塔图姆赛后接受NBC波士顿体育采访时表示，“在NBA没有领先是绝对安全的，对手也是职业球员，领着薪水在场上拼命……所以我们只能顶住风暴，然后给出回击。”\n\n## 杯赛形势明朗，周五迎小组出线生死战\n\n此役过后，奇才战绩来到7胜12负（杯赛2胜2负），在数学层面上已提前宣告无缘本届NBA杯淘汰赛。塔图姆本场出战37分钟，全场25投13中，其中三分球15投6中。周五晚间，凯尔特人将回到主场TD花园迎战亚特兰大老鹰，胜者将直接锁定东部C组头名，拿到一张晋级八强淘汰赛的门票。",
+      "social_post": "塔图姆狂揽41分+6板+8助，波士顿凯尔特人客场131-116击败奇才，终结四连败！尽管下半场险些被抹平29分领先，但绿军顶住反扑，NBA杯小组赛取得3胜0负。周五主场迎战老鹰的小组头名争夺战，绿军能否延续势头？欢迎聊聊你的看法！#NBA #凯尔特人 #塔图姆"
+    },
+    "ru": {
+      "headline": "41 очко Тейтума помогли «Бостону» одолеть «Вашингтон» 131:116 и прервать серию из четырех поражений",
+      "seo_title": "«Вашингтон» — «Бостон» 116:131: 41 очко Тейтума прервали серию неудач",
+      "subheadline": "«Селтикс» набрали 46 очков за вторую четверть и оторвались на «+34», после чего выдержали яростный камбэк хозяев и сохранили лидерство в Кубке НБА.",
+      "body_markdown": "ВАШИНГТОН — Джейсон Тейтум выдал мощный перформанс, набрав 41 очко, 6 подборов и 8 передач во вторник вечером на паркете «Кэпитал Уан Арены». «Бостон Селтикс» переиграли «Вашингтон Уизардс» со счетом 131:116 и прервали неприятную серию из четырех поражений подряд.\n\nЭтот успех стал для «Бостона» уже 12-й победой над столи Mishным клубом кряду. Текущий баланс «Селтикс» в регулярном чемпионате достиг 12-6, а в группе C Восточной конференции Кубка НБА команда идет со стопроцентным показателем — 3-0.\n\n## Снайперский залп до перерыва и отрыв в 34 очка\n\nГости захватили инициативу еще в стартовой двенадцатиминутке усилиями центрового Неэмиаса Кветы (Neemias Queta). Португалец набрал 13 из своих рекордных в сезоне 21 очка еще до того, как звездный центровой хозяев Энтони Дэвис забил свой первый мяч с игры. Первый отрезок завершился в пользу «Селтикс» — 34:28.\n\nВторая четверть превратилась в настоящий бенефис атаки «Бостона»: 46 набранных очков и 10 точных трехочковых. Тейтум за первую половину настрелял 28 очков, реализовав 9 из 13 с игры и 6 из 9 из-за дуги. Особо ярким получился отрезок, когда форвард за 1 минуту и 43 секунды забросил три «трехи» подряд, увенчав рывок 11:0 (счет стал 70:38). Пол Джордж добавил 13 из своих 28 очков во второй четверти, и команды ушли на перерыв при счете 80:49 в пользу «Бостона», чей перевес по ходу встречи достигал 34 очков.\n\n## Погоня «Уизардс» и решающий спурт Шайермана и Тейтума\n\n«Вашингтон» вернулся в игру в третьей четверти, выиграв ее 40:24. Вел хозяев за собой Дэвис, на счету которого в итоге оказалось 33 очка и 13 подборов. Кишон Джордж (Kyshawn George) добавил 24 очка, новичок Эй Джей Дибанца (AJ Dybantsa) отметился солидным триплом-даблом из 20 очков, 11 подборов и 7 передач, а Трэй Янг оформил дабл-дабл (17 очков и 12 передач).\n\nЗа 3:19 до финальной сирены Дибанца забил тяжелый бросок от щита в проходе, сократив отставание хозяев до пяти очков (117:112) — «Уизардс» почти отыграли 29-очковый дефицит. Однако в ответном владении Тейтум хладнокровно набрал два очка из-под кольца, после чего Бэйлор Шайерман (Baylor Scheierman) положил ключевой трехочковый из угла, набрав свои первые очки в матче. Следом Шайерман хладнокровно реализовал два штрафных и еще один дальний бросок. Рывок «Бостона» 14:4 под занавес встречи поставил крест на трехматчевой победной серии столичных.\n\n«Во второй половине я упустил слишком много своих моментов, и сегодня ночью это точно не даст мне покоя, — признался Тейтум в эфире NBC Sports Boston. — В этой лиге ни одно преимущество нельзя считать безопасным, соперникам тоже платят деньги за игру в баскетбол... Нам просто нужно было выстоять под этим шквалом и найти свой ответ».\n\n## Турнирные расклады Кубка и пятничный финал группы\n\nПоражение лишило «Вашингтон» (7-12 в сезоне, 2-2 в турнире) даже математических шансов на выход в плей-офф Кубка НБА. Тейтум провел на паркете 37 минут, показав 13 из 25 с игры (включая 6 из 15 из-за дуги). В пятницу «Бостон» возвращается на родной «ТД Гарден», где сойдется с «Атлантой Хокс»: победитель этой встречи займет первое место в группе C Востока и заберет путевку в четвертьфинал.",
+      "social_post": "41 очко Джейсона Тейтума спасает «Бостон» от нервной концовки! «Селтикс» обыграли «Вашингтон» на выезде (131:116), прервали серию поражений и идут 3-0 в Кубке НБА. Смогут ли забрать первое место в группе в пятничной битве с «Атлантой»? Делитесь мнениями в комментариях! 🏀☘️ #NBA #Celtics #Tatum"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Celtics_at_Wizards_2024-12-044_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Celtics_at_Wizards_2024-12-044_(cropped_2).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Boston Celtics 112–98 Washington Wizards in Washington, D.C.",
+        "width": 1200,
+        "height": 1865,
+        "year": 2024,
+        "subject": "Jayson Tatum",
+        "asked": "Jayson Tatum",
+        "page_title": "Jayson Tatum",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:celtics_at_wizards_2024-12-044_(cropped_2).jpg|Jayson Tatum",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Boston Celtics player Jayson Tatum wearing jersey number 0",
+          "reason": "The photo clearly shows basketball star Jayson Tatum in his Boston Celtics uniform.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1_paul_george_2026_%28cropped%29_%28cropped%29.jpg/1280px-1_paul_george_2026_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:1_paul_george_2026_(cropped)_(cropped).jpg",
+        "artist": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "paul george 2026 76ers",
+        "width": 1200,
+        "height": 1890,
+        "year": 2026,
+        "subject": "Paul George",
+        "asked": "Paul George",
+        "page_title": "Paul George",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:1_paul_george_2026_(cropped)_(cropped).jpg|Paul George",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Paul George in a Philadelphia 76ers jersey",
+          "reason": "Clearly shows NBA player Paul George wearing his Philadelphia 76ers uniform.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg/1280px-Anthony_Davis_pre-game_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_pre-game_(cropped).jpg",
+        "artist": "Erik Drost",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Los Angeles Lakers @ Cleveland Cavaliers, March 21, 2022",
+        "width": 1200,
+        "height": 1632,
+        "year": 2022,
+        "subject": "Anthony Davis",
+        "asked": "Anthony Davis",
+        "page_title": "Anthony Davis",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:anthony_davis_pre-game_(cropped).jpg|Anthony Davis",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Anthony Davis in a Lakers hoodie holding a basketball",
+          "reason": "The photo clearly shows NBA player Anthony Davis during warmups.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-25-news-c4f690.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Washington Wizards 116 - 131 Boston Celtics · NBA Cup",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "1 source(s) are homepages, not articles: https://apnews.com"
+      }
+    ]
+  },
+  {
     "id": "2026-11-25-athl-f4dbe9",
     "slug": "joseph-schooling-s-journey-from-childhood-dream-to-singapore",
     "date": "2026-11-25",

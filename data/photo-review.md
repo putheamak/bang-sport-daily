@@ -24,6 +24,26 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
+## 📝 DRAFT · Arthur Rinderknech Denies ITIA Anti-Doping Charge Over Alleged Test Refusal
+`2026-11-25-news-e226ae` · 2026-11-25
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg/1280px-Rinderknech_MCM22_%2816%29_%2852036912945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Arthur Rinderknech**<br>2022 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Rinderknech_MCM22_(16)_(52036912945).jpg)<br>AI sees: _Arthur Rinderknech playing tennis on a clay court_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_%282023_US_Open%29_14.jpg/1280px-Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_%282023_US_Open%29_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Markéta Vondroušová**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_(2023_US_Open)_14.jpg)<br>AI sees: _Markéta Vondroušová on a tennis court_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Valentin_Vacherot_Swiss_Indoors_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Valentin Vacherot**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Valentin_Vacherot_Swiss_Indoors_2026_(cropped).jpg)<br>AI sees: _tennis player Valentin Vacherot holding a trophy_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Mirra Andreeva Named ESPN Breakthrough Player of the Year for 2026
 `2026-11-25-news-cad9bb` · 2026-11-25
 
@@ -40,6 +60,31 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/1280px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Elena Rybakina**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg)<br>AI sees: _Elena Rybakina on a tennis court_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Jayson Tatum Pours in 41 Points as Celtics Hold Off Wizards 131-116 to Snap Four-Game Skid
+`2026-11-25-news-c4f690` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Celtics_at_Wizards_2024-12-044_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jayson Tatum**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Celtics_at_Wizards_2024-12-044_(cropped_2).jpg)<br>AI sees: _Boston Celtics player Jayson Tatum wearing jersey number 0_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1_paul_george_2026_%28cropped%29_%28cropped%29.jpg/1280px-1_paul_george_2026_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Paul George**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:1_paul_george_2026_(cropped)_(cropped).jpg)<br>AI sees: _Paul George in a Philadelphia 76ers jersey_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg/1280px-Anthony_Davis_pre-game_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Anthony Davis**<br>2022 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Anthony_Davis_pre-game_(cropped).jpg)<br>AI sees: _Anthony Davis in a Lakers hoodie holding a basketball_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-25-news-c4f690.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Washington Wizards 116 - 131 Boston Celtics · NBA Cup**<br>2026 · Own work
 <br clear="left">
 
 ---
@@ -82,6 +127,21 @@ _No photos._
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg/1280px-Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **The Bolles School**<br>Asked for: Bolles School → got page: The Bolles School<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg)<br>AI sees: _A stone crest of The Bolles School mounted on a stucco wall_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map
+`2026-11-25-athl-077aa4` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Chan_vathanaka_2013-11-04_11-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Chan Vathanaka**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Chan_vathanaka_2013-11-04_11-18.jpg)<br>AI sees: _Chan Vathanaka holding a Golden Boot trophy on a football pitch_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
 <br clear="left">
 
 ---
