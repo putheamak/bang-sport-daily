@@ -886,7 +886,22 @@
       "social_post": "Экс-капитан сборной Сингапура Сити Роснани Азман объявила о завершении международной карьеры: 58 матчей и более десяти лет во главе обороны «львиц»! Первая сингапурка в профессиональном футболе Японии продолжит играть за «ФК Джуронг». Каким вам запомнился ее след в сингапурском футболе? Делитесь в комментариях!"
     },
     "region": "sea",
-    "images": [],
+    "images": [
+      {
+        "url": "../photos/own-2026-11-25-news-4afcf1.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Rosnani Azman retires from international football: 58 caps, captain from 2023",
+        "via": "",
+        "own": true,
+        "editor": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
     "standards": [
       {
         "level": "BLOCK",
@@ -903,7 +918,22 @@
         "area": "sources",
         "msg": "1 source(s) are homepages, not articles: https://fas.org.sg"
       }
-    ]
+    ],
+    "embeds": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/p/DgKX2DyGaqc/",
+        "src": "https://www.instagram.com/p/DgKX2DyGaqc/embed/captioned/",
+        "caption": {
+          "en": "FAS announces Rosnani Azman's retirement from international football",
+          "zh": "新加坡足球总会宣布罗斯娜妮退出国家队",
+          "ru": "Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман"
+        },
+        "account": "Football Association of Singapore (official Instagram)",
+        "height": 720
+      }
+    ],
+    "photos_override": "{\"embeds\": [{\"account\": \"Football Association of Singapore (official Instagram)\", \"caption\": {\"en\": \"FAS announces Rosnani Azman's retirement from international football\", \"ru\": \"Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман\", \"zh\": \"新加坡足球总会宣布罗斯娜妮退出国家队\"}, \"url\": \"https://www.instagram.com/p/DgKX2DyGaqc/\"}]}"
   },
   {
     "id": "2026-11-25-news-f7a857",

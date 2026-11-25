@@ -348,3 +348,13 @@
   photos:
     - wikipedia: "Aspire Academy"
       caption: "Aspire Academy in Doha's Aspire Zone, home of the FIFA U-17 World Cup"
+
+2026-11-25-news-4afcf1:
+  # No free photo of Rosnani Azman exists, and the FAS crest is a non-free logo: cover = our own career graphic
+  embeds:
+    - url: "https://www.instagram.com/p/DgKX2DyGaqc/"
+      account: "Football Association of Singapore (official Instagram)"
+      caption:
+        en: "FAS announces Rosnani Azman's retirement from international football"
+        zh: "新加坡足球总会宣布罗斯娜妮退出国家队"
+        ru: "Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман"
