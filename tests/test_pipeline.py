@@ -1346,3 +1346,11 @@ def test_talking_points_never_ads_or_indexed():
     import sportnews.site as site
     cfg = {"site": {"adsense_client": "ca-pub-1", "name": "B"}}
     assert "talking" in site.NO_ADS
+
+
+def test_duplicate_ignores_age_group_tags():
+    from sportnews.standards import duplicate_of
+    a = {"id": "new", "date": "2026-11-24", "match": {"home": "China", "away": "Morocco"}, "en": {"headline": "x"}}
+    b = {"id": "old", "date": "2026-11-24", "status": "published", "match": {"home": "China U-17", "away": "Morocco U-17"},
+         "en": {"headline": "y"}}
+    assert duplicate_of(a, [b]) == "old"

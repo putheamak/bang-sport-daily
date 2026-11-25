@@ -272,7 +272,10 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
 
 
 def _team(s: str) -> str:
-    return " ".join(re.sub(r"[^a-z0-9 ]+", " ", (s or "").lower()).replace(" fc ", " ").split())
+    """Comparable team name: lower case, no punctuation, no 'FC' and no age-group tag ('China U-17' = 'China')."""
+    s = re.sub(r"[^a-z0-9 ]+", " ", (s or "").lower())
+    s = re.sub(r"\b(u ?\d{2}|under ?\d{2}|fc|women|w)\b", " ", s)
+    return " ".join(s.split())
 
 
 def duplicate_of(a: dict, existing: list[dict], days: int = 3) -> str | None:
