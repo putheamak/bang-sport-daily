@@ -817,7 +817,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T18:40:36+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -857,7 +857,32 @@
         "url": "https://en.wikipedia.org/wiki/Rosnani_Azman"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T22:10:23+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T22:10:24+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T22:10:24+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112228159544670",
+        "at": "2026-11-25T22:10:29+07:00",
+        "scheduled_for": "2026-11-26T04:00:00+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "1818091649466535",
+        "at": "2026-11-25T22:11:02+07:00",
+        "scheduled_for": "2026-11-26T05:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -904,19 +929,9 @@
     ],
     "standards": [
       {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 0 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
-      {
         "level": "WARN",
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "1 source(s) are homepages, not articles: https://fas.org.sg"
       }
     ],
     "embeds": [
@@ -933,7 +948,8 @@
         "height": 720
       }
     ],
-    "photos_override": "{\"embeds\": [{\"account\": \"Football Association of Singapore (official Instagram)\", \"caption\": {\"en\": \"FAS announces Rosnani Azman's retirement from international football\", \"ru\": \"Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман\", \"zh\": \"新加坡足球总会宣布罗斯娜妮退出国家队\"}, \"url\": \"https://www.instagram.com/p/DgKX2DyGaqc/\"}]}"
+    "photos_override": "{\"embeds\": [{\"account\": \"Football Association of Singapore (official Instagram)\", \"caption\": {\"en\": \"FAS announces Rosnani Azman's retirement from international football\", \"ru\": \"Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман\", \"zh\": \"新加坡足球总会宣布罗斯娜妮退出国家队\"}, \"url\": \"https://www.instagram.com/p/DgKX2DyGaqc/\"}]}",
+    "published_at": "2026-11-25T22:11:02+07:00"
   },
   {
     "id": "2026-11-25-news-f7a857",

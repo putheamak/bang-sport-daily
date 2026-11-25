@@ -69,13 +69,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Former Lionesses Captain Rosnani Azman Retires from International Football
-`2026-11-25-news-4afcf1` · 2026-11-25
-
-_No photos._
-
----
-
 ## 📝 DRAFT · Russian Biathlon Cup Second Stage Relocated from Uvat to Ufa Due to Lack of Snow
 `2026-11-25-news-24905a` · 2026-11-25
 
@@ -158,6 +151,18 @@ _No photos._
 
 **2. 🟢 OK**<br>Caption: **Tan Cheng Hoe**<br>2014 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tan_Cheng_Hoe_2014.png)<br>AI sees: _Tan Cheng Hoe wearing a Kedah football team polo shirt_
 <br clear="left">
+
+---
+
+## ✅ live · Former Singapore Captain Rosnani Azman Retires from International Football
+`2026-11-25-news-4afcf1` · 2026-11-25
+
+<img src="../docs/photos/own-2026-11-25-news-4afcf1.png" width="240" align="left" hspace="10">
+
+**1. ⚪ not checked** · cover<br>Caption: **Rosnani Azman retires from international football: 58 caps, captain from 2023**<br>2026 · Own work
+<br clear="left">
+
+🔗 Embedded post: [Football Association of Singapore (official Instagram)](https://www.instagram.com/p/DgKX2DyGaqc/) — {'en': "FAS announces Rosnani Azman's retirement from international football", 'zh': '新加坡足球总会宣布罗斯娜妮退出国家队', 'ru': 'Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман'}
 
 ---
 
