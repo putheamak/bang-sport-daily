@@ -129,6 +129,7 @@ publish:
                            # published (needs FB_PAGE_ID + FB_PAGE_TOKEN secrets; without them nothing is posted)
   facebook_reels: true     # also a 12-second Reel made from our own graphics (reels.py); the MP4 is kept 14 days in
                            # output/reels/ for TikTok / Instagram / YouTube Shorts by hand
+  reel_sound: false        # Bang Sport Daily's own sound (sound.py). Off until the editor picks the moods
   email_digest: true
   markdown: true
   docx: true

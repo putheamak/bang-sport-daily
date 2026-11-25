@@ -262,12 +262,12 @@ def frames(cfg, a: dict, lang: str = "en") -> list:
     return out
 
 
-def make_reel(cfg, a: dict, lang: str = "en") -> Path | None:
+def make_reel(cfg, a: dict, lang: str = "en", mood: str | None = None, suffix: str = "") -> Path | None:
     """Render the MP4 (H.264, silent AAC track) into output/reels/<id>.mp4. Returns the path, or None."""
     if os.environ.get("SPORTNEWS_MOCK") == "1":                  # tests: no video rendering
         return None
     OUT.mkdir(parents=True, exist_ok=True)
-    dest = OUT / f"{a['id']}-{lang}.mp4"
+    dest = OUT / f"{a['id']}-{lang}{suffix}.mp4"
     with tempfile.TemporaryDirectory() as tmp:
         paths = []
         for i, fr in enumerate(frames(cfg, a, lang)):
@@ -284,8 +284,18 @@ def make_reel(cfg, a: dict, lang: str = "en") -> Path | None:
               f"[v0][v1]xfade=transition=fade:duration={fade}:offset={dur-fade}[x1];"
               f"[x1][v2]xfade=transition=fade:duration={fade}:offset={2*dur-2*fade},format=yuv420p[v]")
         total = 3 * dur - 2 * fade
-        cmd = ["ffmpeg", "-y", "-loglevel", "error", *inputs, "-f", "lavfi", "-t", str(total), "-i",
-               "anullsrc=channel_layout=stereo:sample_rate=44100", "-filter_complex", fc, "-map", "[v]", "-map", "3:a",
+        audio = ["-f", "lavfi", "-t", str(total), "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
+        afilter = []
+        if (cfg.get("publish") or {}).get("reel_sound", True):
+            try:
+                from .sound import make as make_sound, mood_for
+                wav = make_sound(Path(tmp) / "sound.wav", mood or mood_for(a), total, 2 * dur - 2 * fade)
+                audio = ["-i", str(wav)]
+                afilter = ["-af", "loudnorm=I=-16:TP=-2:LRA=11,alimiter=limit=0.8:level=false"]   # the usual loudness for social video
+            except Exception as e:  # noqa: BLE001
+                log.warning("Reel sound failed, silent clip instead: %s", e)
+        cmd = ["ffmpeg", "-y", "-loglevel", "error", *inputs, *audio, "-filter_complex", fc, "-map", "[v]", "-map", "3:a",
+               *afilter,
                "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-c:a", "aac", "-shortest",
                "-movflags", "+faststart", str(dest)]
         try:
