@@ -1,74 +1,78 @@
-2026-11-25 13:42:04,019 INFO BBC Sport                         38 items
-2026-11-25 13:42:04,165 INFO The Guardian Sport                21 items
-2026-11-25 13:42:04,224 INFO ESPN                               0 items
-2026-11-25 13:42:04,339 INFO Sky Sports                        19 items
-2026-11-25 13:42:04,631 INFO Google News – Sports (EN)         46 items
-2026-11-25 13:42:05,258 INFO Google News – 体育 (ZH)             55 items
-2026-11-25 13:42:05,525 WARNING Feed unreadable Google News – Спорт (RU): <unknown>:2:252: not well-formed (invalid token)
-2026-11-25 13:42:06,229 INFO Championat                        27 items
-2026-11-25 13:42:06,937 INFO Sports.ru                         17 items
-2026-11-25 13:42:08,472 INFO Спорт-Экспресс                   460 items
-2026-11-25 13:42:09,309 INFO РИА Новости Спорт                 20 items
-2026-11-25 13:42:09,567 INFO 中国新闻网 体育                          20 items
-2026-11-25 13:42:09,985 INFO Google News – Cambodia sport      17 items
-2026-11-25 13:42:10,493 INFO Google News – Southeast Asia sport  41 items
-2026-11-25 13:42:11,113 INFO Google News – Combat promotions   97 items
-2026-11-25 13:42:11,491 INFO Google News – Boxing              18 items
-2026-11-25 13:42:11,753 INFO Google News – Kun Khmer            2 items
-2026-11-25 13:42:11,960 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-25 13:42:12,479 INFO Google News – Единоборства (RU)   98 items
-2026-11-25 13:42:12,875 INFO Google News – 格斗 (ZH)             38 items
-2026-11-25 13:42:13,049 INFO MMA Fighting                      10 items
-2026-11-25 13:42:13,301 INFO Google News – Khmer Times sport    9 items
-2026-11-25 13:42:13,856 INFO BBC Sport – Tennis                 2 items
-2026-11-25 13:42:14,372 INFO BBC Sport – Formula 1              1 items
-2026-11-25 13:42:14,885 INFO BBC Sport – Cricket                9 items
-2026-11-25 13:42:15,155 INFO BBC Sport – Boxing                 0 items
-2026-11-25 13:42:15,494 INFO BBC Sport – Athletics              0 items
-2026-11-25 13:42:15,644 INFO The Guardian – Tennis              2 items
-2026-11-25 13:42:15,792 INFO The Guardian – Formula 1           0 items
-2026-11-25 13:42:15,873 INFO The Guardian – Cricket             8 items
-2026-11-25 13:42:15,974 INFO Sherdog                           10 items
-2026-11-25 13:42:16,050 INFO Sky Sports – Football             18 items
-2026-11-25 13:42:16,790 INFO Чемпионат – Теннис                31 items
-2026-11-25 13:42:17,597 INFO Чемпионат – Хоккей                29 items
-2026-11-25 13:42:17,679 INFO MMA Fighting – latest             10 items
-2026-11-25 13:42:17,920 INFO BBC Sport – Football              32 items
-2026-11-25 13:42:18,089 INFO The Guardian – Football           20 items
-2026-11-25 13:42:18,542 INFO Yahoo Sports – Soccer             49 items
-2026-11-25 13:42:18,881 INFO Yahoo Sports – MMA                46 items
-2026-11-25 13:42:19,301 INFO Yahoo Sports – Tennis             47 items
-2026-11-25 13:42:20,078 INFO Yahoo Sports – NBA                47 items
-2026-11-25 13:42:20,245 INFO The Independent – Sport           50 items
-2026-11-25 13:42:20,822 INFO Google News – Tennis              82 items
-2026-11-25 13:42:21,352 INFO Google News – Basketball          92 items
-2026-11-25 13:42:21,965 INFO Google News – Motorsport          97 items
-2026-11-25 13:42:22,486 INFO Google News – Badminton, athletics, table tennis  83 items
-2026-11-25 13:42:23,074 INFO Google News – Cricket             96 items
-2026-11-25 13:42:23,519 INFO Google News – 网球与篮球 (ZH)          81 items
-2026-11-25 13:42:23,956 INFO Google News – 羽毛球与乒乓 (ZH)         66 items
-2026-11-25 13:42:24,512 INFO Google News – Теннис и баскетбол (RU) 100 items
-2026-11-25 13:42:25,030 INFO Google News – Формула-1 и биатлон (RU)  98 items
-2026-11-25 13:42:28,552 INFO Candidate stories after clustering: 1831
-2026-11-25 13:42:34,364 INFO Trending skipped (not our audience): Thanksgiving sports guide: The best NFL and NBA games to watch this week
-2026-11-25 13:42:34,366 INFO Trending skipped (politics): Журова - об обвинениях Свитолиной: "Странное поведение украинки, Андреева не делала никаки
-2026-11-25 13:42:34,368 INFO Trending skipped (not our audience): Padukone School Of Badminton Partners With IUSTUS For New Academy
-2026-11-25 13:42:34,373 INFO Trending skipped (not our audience): Saracens High School badminton club enters Barnet league after year of growth
-2026-11-25 13:42:34,376 INFO Trending skipped (not our audience): End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday
-2026-11-25 13:42:34,381 INFO Trending skipped (not our audience): NBA Fantasy: Dan Titus' takeaways on all 30 teams in Week 6
-2026-11-25 13:42:34,383 INFO Trending skipped (not our audience): NFL power rankings Week 12: How far do Bengals fall after Monday's loss to Commanders?
-2026-11-25 13:42:34,383 INFO Trending skipped (not our audience): 2027 SuperFlex Rookie Mock Draft 4.0 | 4 Rounds of NFL Prospects
-2026-11-25 13:42:36,468 INFO Trending skipped (not our audience): End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday
-2026-11-25 13:42:36,902 INFO Trending skipped (not our audience): End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday
-2026-11-25 13:42:37,333 INFO Trending skipped (not our audience): End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday
-2026-11-25 13:42:40,271 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-25 13:42:40,271 INFO   1. [ru 14 outlets, heat 34.3] Медведев назвал Бориса Джонсона провокатором за предложение ввести войска НАТО на Украину
-2026-11-25 13:42:40,271 INFO   2. [en 12 outlets, heat 26.6] Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals
-2026-11-25 13:42:40,271 INFO   3. [en 11 outlets, heat 26.0] Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate
-2026-11-25 13:42:40,271 INFO   4. [en 11 outlets, heat 25.7] Logistics, organization… The machine behind the Las Vegas Grand Prix show
-2026-11-25 13:42:40,271 INFO   5. [ru 7 outlets, heat 18.1] Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»
-2026-11-25 13:42:40,271 INFO   C1. [ru 6 outlets, heat 15.2] Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»
-2026-11-25 13:42:40,271 INFO   C2. [ru 6 outlets, heat 15.0] Умер тренер чемпионов UFC Эдди Ча — ему было 53 года
-2026-11-25 13:42:40,271 INFO   C3. [en 6 outlets, heat 13.5] Kevin Vallejos Won’t Beat Alex Volkanovski, Says Aljamain Sterling
-2026-11-25 13:42:40,271 INFO   C4. [en 5 outlets, heat 11.7] Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'
-2026-11-25 13:42:40,271 INFO   C5. [en 5 outlets, heat 11.4] Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pe
+2026-11-25 17:42:14,701 INFO BBC Sport                         41 items
+2026-11-25 17:42:15,122 INFO The Guardian Sport                23 items
+2026-11-25 17:42:15,195 INFO ESPN                              46 items
+2026-11-25 17:42:15,332 INFO Sky Sports                        18 items
+2026-11-25 17:42:15,895 INFO Google News – Sports (EN)         56 items
+2026-11-25 17:42:16,443 INFO Google News – 体育 (ZH)             56 items
+2026-11-25 17:42:17,074 INFO Google News – Спорт (RU)          56 items
+2026-11-25 17:42:18,178 INFO Championat                        27 items
+2026-11-25 17:42:18,856 INFO Sports.ru                         18 items
+2026-11-25 17:42:19,974 INFO Спорт-Экспресс                   515 items
+2026-11-25 17:42:20,681 INFO РИА Новости Спорт                 20 items
+2026-11-25 17:42:21,039 INFO 中国新闻网 体育                          16 items
+2026-11-25 17:42:21,445 INFO Google News – Cambodia sport      17 items
+2026-11-25 17:42:21,977 INFO Google News – Southeast Asia sport  54 items
+2026-11-25 17:42:22,570 INFO Google News – Combat promotions   97 items
+2026-11-25 17:42:22,931 INFO Google News – Boxing              18 items
+2026-11-25 17:42:23,175 INFO Google News – Kun Khmer            2 items
+2026-11-25 17:42:23,431 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-25 17:42:24,041 INFO Google News – Единоборства (RU)   97 items
+2026-11-25 17:42:24,429 INFO Google News – 格斗 (ZH)             41 items
+2026-11-25 17:42:24,569 INFO MMA Fighting                      10 items
+2026-11-25 17:42:24,805 INFO Google News – Khmer Times sport    7 items
+2026-11-25 17:42:25,461 INFO BBC Sport – Tennis                 3 items
+2026-11-25 17:42:28,250 INFO BBC Sport – Formula 1              2 items
+2026-11-25 17:42:28,617 INFO BBC Sport – Cricket                9 items
+2026-11-25 17:42:28,949 INFO BBC Sport – Boxing                 1 items
+2026-11-25 17:42:29,651 INFO BBC Sport – Athletics              0 items
+2026-11-25 17:42:30,046 INFO The Guardian – Tennis              1 items
+2026-11-25 17:42:30,468 INFO The Guardian – Formula 1           0 items
+2026-11-25 17:42:30,701 INFO The Guardian – Cricket            10 items
+2026-11-25 17:42:30,780 INFO Sherdog                           10 items
+2026-11-25 17:42:30,991 INFO Sky Sports – Football             19 items
+2026-11-25 17:42:31,860 INFO Чемпионат – Теннис                31 items
+2026-11-25 17:42:32,761 INFO Чемпионат – Хоккей                29 items
+2026-11-25 17:42:32,830 INFO MMA Fighting – latest             10 items
+2026-11-25 17:42:33,028 INFO BBC Sport – Football              34 items
+2026-11-25 17:42:33,165 INFO The Guardian – Football           24 items
+2026-11-25 17:42:33,490 INFO Yahoo Sports – Soccer             49 items
+2026-11-25 17:42:33,808 INFO Yahoo Sports – MMA                46 items
+2026-11-25 17:42:34,187 INFO Yahoo Sports – Tennis             48 items
+2026-11-25 17:42:34,945 INFO Yahoo Sports – NBA                46 items
+2026-11-25 17:42:35,171 INFO The Independent – Sport           46 items
+2026-11-25 17:42:35,758 INFO Google News – Tennis              90 items
+2026-11-25 17:42:36,370 INFO Google News – Basketball          94 items
+2026-11-25 17:42:36,927 INFO Google News – Motorsport          99 items
+2026-11-25 17:42:37,423 INFO Google News – Badminton, athletics, table tennis  80 items
+2026-11-25 17:42:38,011 INFO Google News – Cricket             96 items
+2026-11-25 17:42:38,647 INFO Google News – 网球与篮球 (ZH)          95 items
+2026-11-25 17:42:39,069 INFO Google News – 羽毛球与乒乓 (ZH)         62 items
+2026-11-25 17:42:39,621 INFO Google News – Теннис и баскетбол (RU) 100 items
+2026-11-25 17:42:40,199 INFO Google News – Формула-1 и биатлон (RU) 100 items
+2026-11-25 17:42:43,272 INFO Candidate stories after clustering: 2027
+2026-11-25 17:42:47,586 INFO Trending skipped (not our audience): The Best Bets of NFL Week 12
+2026-11-25 17:42:47,587 INFO Trending skipped (not our audience): Padukone School of Badminton partners with iUSTUS to launch multi-sport academy
+2026-11-25 17:42:47,587 INFO Trending skipped (politics): Дегтярев: Те, кто считал лимит «хотелкой» министра, теперь все поняли
+2026-11-25 17:42:47,587 INFO Trending skipped (not our audience): David Beckham, 51, surprises football clinic participants at Bedok South Secondary School
+2026-11-25 17:42:47,590 INFO Trending skipped (politics): Журова - об обвинениях Свитолиной: "Странное поведение украинки, Андреева не делала никаки
+2026-11-25 17:42:47,592 INFO Trending skipped (clickbait): Масалитин о матче ЦСКА — «Зенит»: «Хочется, чтобы после игры говорили о футболе, а не о ск
+2026-11-25 17:42:47,595 INFO Trending skipped (not our audience): Saracens High School badminton club enters Barnet league after year of growth
+2026-11-25 17:42:47,596 INFO Trending skipped (not our audience): Tennessee rises, Alabama and Indiana fall in the fourth College Football Playoff rankings 
+2026-11-25 17:42:47,597 INFO Trending skipped (not our audience): Sources: Rodgers excused from Steelers facility to process stunning benching
+2026-11-25 17:42:47,598 INFO Trending skipped (not our audience): Aiyuk to visit Commanders; GM Peters calls WR 'very motivated player'
+2026-11-25 17:42:47,598 INFO Trending skipped (politics): "Мировой спорт из Европы будет уходить": Дегтярёв — о санкциях против россиян
+2026-11-25 17:42:49,128 INFO Trending skipped (clickbait): Масалитин о матче ЦСКА — «Зенит»: «Хочется, чтобы после игры говорили о футболе, а не о ск
+2026-11-25 17:42:49,130 INFO Trending skipped (not our audience): Sources: Rodgers excused from Steelers facility to process stunning benching
+2026-11-25 17:42:49,518 INFO Trending skipped (not our audience): Sources: Rodgers excused from Steelers facility to process stunning benching
+2026-11-25 17:42:49,900 INFO Trending skipped (not our audience): Sources: Rodgers excused from Steelers facility to process stunning benching
+2026-11-25 17:42:52,004 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
+2026-11-25 17:42:52,004 INFO   1. [en 16 outlets, heat 35.8] Oracle Virtual Laps: Qatar Grand Prix 2026
+2026-11-25 17:42:52,004 INFO   2. [en 10 outlets, heat 28.3] Live: Davis Cup 2026 - Davis Cup Live - The World Cup of Tennis Final updates
+2026-11-25 17:42:52,004 INFO   3. [en 11 outlets, heat 26.7] "India has earned trust": BAI president Sarma on hosting 2028 Thomas and Uber Cup in New Delhi
+2026-11-25 17:42:52,004 INFO   4. [ru 12 outlets, heat 26.2] Медведев жёстко ответил на призыв Британии ввести войска НАТО на Украину
+2026-11-25 17:42:52,004 INFO   5. [ru 7 outlets, heat 15.8] Медведев потребовал повесить Бориса Джонсона за подстрекательство
+2026-11-25 17:42:52,004 INFO   C1. [en 5 outlets, heat 13.7] Famed striking coach Eddie Cha dies at 53
+2026-11-25 17:42:52,004 INFO   C2. [en 5 outlets, heat 13.0] UFC star Jean Silva hit by car during preparation for Ironman
+2026-11-25 17:42:52,004 INFO   C3. [en 5 outlets, heat 12.8] Aljamain Sterling Teases Quick UFC Return Following Close Loss
+2026-11-25 17:42:52,004 INFO   C4. [en 5 outlets, heat 12.6] Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him aft
+2026-11-25 17:42:52,004 INFO   C5. [en 5 outlets, heat 12.1] Carlos Prates says UFC interim title isn't the 'real' championship

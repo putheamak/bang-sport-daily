@@ -1,4 +1,4 @@
-# Photo review — 2026-11-25
+# Photo review — 2026-11-26
 
 Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
@@ -410,98 +410,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/3606a8d0203b424c-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **General Santos**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Gensan_Dadiangas_South,_P._Acharon_Boulevard,_Gensan_Public_Market_drone_(General_Santos_City;_03-24-2026).jpg)<br>AI sees: _aerial view of General Santos City coastline and buildings_
-<br clear="left">
-
----
-
-## ✅ live · Lauren Price Makes Welsh Boxing History With Shutout Win Over Michaela Kotaskova to Become Undisputed Champion
-`2026-11-22-news-e72338` · 2026-11-22
-
-<img src="../docs/photos/c/c7e76fa97f7d2359-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Lauren Price**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Lauren_Price_in_2021.png)<br>AI sees: _Welsh boxer Lauren Price in Great Britain team kit_
-<br clear="left">
-
-<img src="../docs/photos/c/273c14af424494c7-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Joe Calzaghe**<br>2009 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JoeCalzaghe-July2007.jpg)<br>AI sees: _Joe Calzaghe in a suit with raised fists_
-<br clear="left">
-
-<img src="../docs/photos/c/22ade3b168862523-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Cardiff International Arena**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Utilita_Arena_Cardiff_September_2023_10.jpg)<br>AI sees: _Exterior of Utilita Arena Cardiff (Cardiff International Arena)_
-<br clear="left">
-
----
-
-## ✅ live · Man Wei Chong and Tee Kai Wun End Malaysia's 27-Year Hong Kong Open Men's Doubles Title Drought
-`2026-11-22-news-ab9fc0` · 2026-11-22
-
-<img src="../docs/photos/c/9726f7cad828ba02-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Man Wei Chong**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:ManWC_PMO2025.jpg)<br>AI sees: _close-up portrait of badminton player Man Wei Chong_
-<br clear="left">
-
-<img src="../docs/photos/c/ac24e1aa3f3c3cf5.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Tee Kai Wun**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:TeeKW_PMO2025.jpg)<br>AI sees: _Badminton player Tee Kai Wun at Malaysia Open_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-22-news-ab9fc0.png" width="240" align="left" hspace="10">
-
-**3. 🟢 our score card**<br>Caption: **Man Wei Chong / Tee Kai Wun 2 - 0 Leo Rolly Carnando / Daniel Marthin · BWF Hong Kong Open 2026 (Men's Doubles Final)**<br>2026 · Own work
-<br clear="left">
-
----
-
-## ✅ live · Max Verstappen Wins Las Vegas Grand Prix as Russell Crash Sparks Post-Race Feud
-`2026-11-22-news-61a15b` · 2026-11-22
-
-<img src="../docs/photos/c/77017d99bfa80e7c-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Max Verstappen**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg)<br>AI sees: _Max Verstappen in Red Bull Racing race suit on a podium_
-<br clear="left">
-
-<img src="../docs/photos/c/e3824826913836b3-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Lando Norris**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg)<br>AI sees: _Lando Norris celebrating on an F1 podium in McLaren gear_
-<br clear="left">
-
-<img src="../docs/photos/c/de6ef0fca309ed53-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Oscar Piastri**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg)<br>AI sees: _F1 driver Oscar Piastri in McLaren team gear_
-<br clear="left">
-
----
-
-## ✅ live · Navajo Stirling Knocks Out Jiri Prochazka at UFC Qatar in Career-Defining Win
-`2026-11-22-news-1b71a7` · 2026-11-22
-
-<img src="../docs/photos/card-2026-11-22-news-1b71a7.png" width="240" align="left" hspace="10">
-
-**1. 🟢 our score card** · cover<br>Caption: **Navajo Stirling def. Jiří Procházka · KO · Round 2 · 4:58 · UFC Fight Night 294 · Doha**<br>2026 · Own work
-<br clear="left">
-
-<img src="../docs/photos/c/4f2b6d1f32222fb7.jpg" width="240" align="left" hspace="10">
-
-**2. ⚪ not checked**<br>Caption: **Jiří Procházka**<br>2022 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:JiriProchazka2022.png)
-<br clear="left">
-
-🔗 Embedded post: [Getty Images](https://www.gettyimages.com/detail/2306254634) — {'en': 'Navajo Stirling at UFC Fight Night 294 in Doha, 21 November 2026', 'zh': '纳瓦霍·斯特林在多哈UFC格斗之夜294（2026年11月21日）', 'ru': 'Наваджо Стирлинг на UFC Fight Night 294 в Дохе, 21 ноября 2026 года'}
-
----
-
-## ✅ live · On This Day in 2013: Magnus Carlsen Dethrones Viswanathan Anand in Chennai
-`2026-11-22-hist-478ccb` · 2026-11-22
-
-<img src="../docs/photos/c/d5feb7f2eb2ddc87-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Magnus Carlsen**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Magnus_Carlsen_Tata_2023_-_71_(cropped_v4).jpg)
-<br clear="left">
-
-<img src="../docs/photos/c/7d22a100c61eb8fe-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Viswanathan Anand**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(2016)_(cropped).jpeg)
 <br clear="left">
 
 ---
