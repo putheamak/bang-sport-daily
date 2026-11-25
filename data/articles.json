@@ -5,7 +5,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T21:42:51+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -85,7 +85,32 @@
         "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Hun_Sen_Cup"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T22:59:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T22:59:29+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T22:59:29+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112242067544670",
+        "at": "2026-11-25T22:59:32+07:00",
+        "scheduled_for": "2026-11-26T13:00:00+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "2130969564188074",
+        "at": "2026-11-25T22:59:53+07:00",
+        "scheduled_for": "2026-11-26T14:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.005,
       "longest": 9,
@@ -170,13 +195,9 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "1 source(s) are homepages, not articles: https://www.bangkokhospital.com"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T22:59:53+07:00"
   },
   {
     "id": "2026-11-25-news-e226ae",

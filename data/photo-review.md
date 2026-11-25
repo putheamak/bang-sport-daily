@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map
-`2026-11-25-athl-077aa4` · 2026-11-25
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Chan_vathanaka_2013-11-04_11-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Chan Vathanaka**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Chan_vathanaka_2013-11-04_11-18.jpg)<br>AI sees: _Chan Vathanaka holding a Golden Boot trophy on a football pitch_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
-<br clear="left">
-
----
-
 ## ✅ live · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
 `2026-11-25-news-f7a857` · 2026-11-25
 
@@ -182,6 +167,21 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/0f6b87b2254ce0c3-640.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol**<br>2016 · CC BY 3.0 br · [source](https://commons.wikimedia.org/wiki/File:Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg)<br>AI sees: _Aerial view of the National Shooting Center in Deodoro, Rio de Janeiro_
+<br clear="left">
+
+---
+
+## ✅ live · Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map
+`2026-11-25-athl-077aa4` · 2026-11-25
+
+<img src="../docs/photos/c/572469dd503648f8-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Chan Vathanaka**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Chan_vathanaka_2013-11-04_11-18.jpg)<br>AI sees: _Chan Vathanaka holding a Golden Boot trophy on a football pitch_
+<br clear="left">
+
+<img src="../docs/photos/c/084285315a90c207-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
 <br clear="left">
 
 ---
