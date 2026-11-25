@@ -5,7 +5,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T15:43:52+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Shooting",
     "tags": [
@@ -184,7 +184,8 @@
         "area": "sources",
         "msg": "3 source(s) are homepages, not articles: https://english.news.cn, https://www.koreaherald.com, https://laodong.vn"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T17:54:05+07:00"
   },
   {
     "id": "2026-11-25-news-24905a",
