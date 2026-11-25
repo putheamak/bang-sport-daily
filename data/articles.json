@@ -589,7 +589,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T18:42:20+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Swimming",
     "tags": [
@@ -661,7 +661,32 @@
         "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUysy0KpMyw4CJIZgo8NGoPgBTBaG8NciSl3q2sZ111qC0C3yegXRkcADSHtBypd1dJ8AByOvM3N087UsuCenF6WOxARckT7uuMnuPdmELmZidyyBKo8zuW0M3wjXLe2VlB1ykdg=="
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T21:50:45+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T21:50:45+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T21:50:46+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112223479544670",
+        "at": "2026-11-25T21:50:48+07:00",
+        "scheduled_for": "2026-11-25T15:47:43+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "1685876683173959",
+        "at": "2026-11-25T21:51:08+07:00",
+        "scheduled_for": "2026-11-25T23:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.011,
       "longest": 14,
@@ -782,7 +807,8 @@
         "area": "sources",
         "msg": "2 source(s) are homepages, not articles: https://www.channelnewsasia.com, https://www.tatlerasia.com"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T21:51:08+07:00"
   },
   {
     "id": "2026-11-25-news-4afcf1",

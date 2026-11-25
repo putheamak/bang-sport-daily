@@ -111,26 +111,6 @@ _No photos._
 
 ---
 
-## 📝 DRAFT · Joseph Schooling's Journey: From Childhood Dream to Singapore's First Olympic Gold
-`2026-11-25-athl-f4dbe9` · 2026-11-25
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Joseph_Schooling_Kazan_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Joseph Schooling**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Joseph_Schooling_Kazan_2015.jpg)<br>AI sees: _Joseph Schooling on the podium holding his medal at a swimming competition_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Michael Phelps**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg)<br>AI sees: _Michael Phelps smiling during an interview or event_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg/1280px-Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **The Bolles School**<br>Asked for: Bolles School → got page: The Bolles School<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg)<br>AI sees: _A stone crest of The Bolles School mounted on a stucco wall_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map
 `2026-11-25-athl-077aa4` · 2026-11-25
 
@@ -177,6 +157,26 @@ _No photos._
 <img src="../docs/photos/c/f644b7211351a2c7-640.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Tan Cheng Hoe**<br>2014 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tan_Cheng_Hoe_2014.png)<br>AI sees: _Tan Cheng Hoe wearing a Kedah football team polo shirt_
+<br clear="left">
+
+---
+
+## ✅ live · Joseph Schooling's Journey: From Childhood Dream to Singapore's First Olympic Gold
+`2026-11-25-athl-f4dbe9` · 2026-11-25
+
+<img src="../docs/photos/c/3d5b8b958d1f4412-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Joseph Schooling**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Joseph_Schooling_Kazan_2015.jpg)<br>AI sees: _Joseph Schooling on the podium holding his medal at a swimming competition_
+<br clear="left">
+
+<img src="../docs/photos/c/9fcb32d56ad5f273-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Michael Phelps**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg)<br>AI sees: _Michael Phelps smiling during an interview or event_
+<br clear="left">
+
+<img src="../docs/photos/c/92ae5a416195c270-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **The Bolles School**<br>Asked for: Bolles School → got page: The Bolles School<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg)<br>AI sees: _A stone crest of The Bolles School mounted on a stucco wall_
 <br clear="left">
 
 ---
