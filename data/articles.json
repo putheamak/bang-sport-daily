@@ -86,7 +86,20 @@
         "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWK5rfOJAkcz9mjDaJEPkVAC16Km_d-SZQTBzG0gY1U8dhszVp-YiG8U8WTDl0FhsdcZ02dmLuZE5U-0x6MkuDaw41T9E-nmPr2ZixpqEVVZuC46LQYpjK6-Zmyo1Y0VAWoLcqUoOQL5sk3ughaxUBRGGppTvs7b9-lfskutEgPYGcHO-G1QCgzsIxBuAPLf7GWKPppO6Fzti7QNE"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T17:52:30+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T17:52:30+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T17:52:30+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.003,
       "longest": 10,

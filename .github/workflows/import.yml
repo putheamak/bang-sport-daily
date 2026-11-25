@@ -38,4 +38,7 @@ jobs:
           mkdir -p data output && touch data/.gitkeep output/.gitkeep
           git add data docs output
           git diff --cached --quiet || git commit -m "Import editor's articles"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done

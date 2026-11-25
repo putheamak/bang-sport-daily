@@ -47,4 +47,7 @@ jobs:
           mkdir -p data && touch data/.gitkeep
           git add data docs
           git diff --cached --quiet || git commit -m "${{ inputs.action }}: ${{ inputs.ids }}"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done

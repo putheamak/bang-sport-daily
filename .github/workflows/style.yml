@@ -27,4 +27,7 @@ jobs:
           git config user.email "sportnews-bot@users.noreply.github.com"
           git add voice/style_profile.md
           git diff --cached --quiet || git commit -m "Update style profile from ebook samples"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done
