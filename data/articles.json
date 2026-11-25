@@ -637,7 +637,7 @@
     "date": "2026-11-24",
     "created": "2026-11-24T21:41:01+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
