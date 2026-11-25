@@ -49,6 +49,28 @@ def telegram_send(chat: str, text: str) -> None:
 FB_API = os.environ.get("FB_API_VERSION", "v24.0")
 
 
+_PAGE_TOKEN: dict = {}
+
+
+def fb_page_token() -> tuple[str, str]:
+    """(page id, Page access token). If the saved secret is the editor's long-lived USER token, ask Facebook for
+    the Page's own token with it (a Page token made from a long-lived user token does not expire)."""
+    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
+    if not (page and token):
+        raise RuntimeError("FB_PAGE_ID / FB_PAGE_TOKEN are not set in GitHub › Settings › Secrets › Actions")
+    if token in _PAGE_TOKEN:
+        return page, _PAGE_TOKEN[token]
+    page_tok = token
+    try:
+        q = urllib.parse.urlencode({"fields": "access_token", "access_token": token})
+        with urllib.request.urlopen(f"https://graph.facebook.com/{FB_API}/{page}?{q}", timeout=30) as r:
+            page_tok = json.loads(r.read().decode()).get("access_token") or token
+    except Exception:  # noqa: BLE001
+        pass                                                 # already a Page token (or no right to ask): use as is
+    _PAGE_TOKEN[token] = page_tok
+    return page, page_tok
+
+
 def facebook_ready() -> bool:
     return bool(os.environ.get("FB_PAGE_ID") and os.environ.get("FB_PAGE_TOKEN"))
 
@@ -61,9 +83,7 @@ def facebook_text(cfg: dict, a: dict) -> str:
 
 
 def facebook_post(text: str, link: str | None) -> str:
-    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
-    if not (page and token):
-        raise RuntimeError("FB_PAGE_ID / FB_PAGE_TOKEN not set")
+    page, token = fb_page_token()
     data = {"message": text, "access_token": token}
     if link:
         data["link"] = link
@@ -72,10 +92,7 @@ def facebook_post(text: str, link: str | None) -> str:
 
 def facebook_check() -> str:
     """Is the Page token valid and allowed to post? Returns the Page's name (raises with Facebook's message if not)."""
-    import urllib.request
-    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
-    if not (page and token):
-        raise RuntimeError("FB_PAGE_ID / FB_PAGE_TOKEN are not set in GitHub › Settings › Secrets › Actions")
+    page, token = fb_page_token()
     url = f"https://graph.facebook.com/{FB_API}/{page}?fields=name,link&access_token={urllib.parse.quote(token)}"
     try:
         with urllib.request.urlopen(url, timeout=30) as r:

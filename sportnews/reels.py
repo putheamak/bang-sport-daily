@@ -302,10 +302,8 @@ def upload_reel(path: Path, description: str) -> str:
     import json
     import urllib.parse
     import urllib.request
-    from .publishers import FB_API
-    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
-    if not (page and token):
-        raise RuntimeError("FB_PAGE_ID / FB_PAGE_TOKEN not set")
+    from .publishers import FB_API, fb_page_token
+    page, token = fb_page_token()
     base = f"https://graph.facebook.com/{FB_API}/{page}/video_reels"
 
     def post(url, data=None, headers=None, body=None):
