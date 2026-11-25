@@ -12,6 +12,12 @@ stop and ask the editor.** When in doubt, do not publish.
 2. Facebook, WhatsApp, X and other social posts are written as drafts for the editor; the editor posts them
    (unless the editor has turned on automatic posting for that platform). Facebook Page posts and Reels: ON since
    25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
+   Facebook items are spaced 90 min apart and never 00:00–06:00 Phnom Penh time (`facebook_gap_minutes`,
+   `facebook_quiet_hours`): a batch is *scheduled* on the Page, not posted at once. Don't bypass the spacing.
+   Facebook itself sometimes notifies the editor with a "Create event" form built from one of our posts (its own
+   suggestion, with a made-up date). Nothing is created until someone clicks "Create event". Tell the editor to
+   close it, and never create Facebook events from stories. Events only for real dated happenings (a watch
+   party, a fight night), and only when the editor asks.
 3. Never delete stories, photos, feeds or settings the editor made without being asked. Reject instead of delete.
 4. Report problems honestly, including your own mistakes. Never claim a check passed if you did not run it.
 
