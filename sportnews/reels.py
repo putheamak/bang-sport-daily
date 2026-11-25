@@ -307,7 +307,7 @@ def make_reel(cfg, a: dict, lang: str = "en", mood: str | None = None, suffix: s
     return dest
 
 
-def upload_reel(path: Path, description: str) -> str:
+def upload_reel(path: Path, description: str, when: int | None = None) -> str:
     """Publish a Reel on the Facebook Page (Graph API video_reels: start -> upload -> finish). Returns the video id."""
     import json
     import urllib.parse
@@ -330,7 +330,11 @@ def upload_reel(path: Path, description: str) -> str:
     blob = path.read_bytes()
     post(start.get("upload_url") or f"https://rupload.facebook.com/video-upload/{FB_API}/{vid}", body=blob,
          headers={"Authorization": f"OAuth {token}", "offset": "0", "file_size": str(len(blob))})
-    post(base, {"upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED", "description": description,
+    fin = {"upload_phase": "finish", "video_id": vid, "video_state": "SCHEDULED" if when else "PUBLISHED",
+           "description": description}
+    if when:
+        fin["scheduled_publish_time"] = str(when)
+    post(base, {**fin,
                 "access_token": token})
     return vid
 

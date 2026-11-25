@@ -152,7 +152,7 @@ def main(argv=None):
         if ids:
             arts = load_articles()
             done = facebook_publish(cfg, [x for x in arts if x["id"] in ids],
-                                    post=a.mode != "reel", reel=a.mode != "post")
+                                    post=a.mode != "reel", reel=a.mode != "post", everything=arts)
             save_articles(arts)
             print("Posted to Facebook: " + (", ".join(done) or "nothing (already posted or not published)"))
     elif a.cmd == "site":

@@ -1251,12 +1251,30 @@ def test_facebook_skips_without_token_and_text_has_no_link(monkeypatch):
     a = {"en": {"headline": "H", "social_post": "Post text #tag"}}
     assert P.facebook_text({}, a) == "Post text #tag"
     sent = []
-    monkeypatch.setattr(P, "facebook_post", lambda text, link: sent.append((text, link)) or "123_456")
+    monkeypatch.setattr(P, "facebook_post", lambda text, link, when=None: sent.append((text, link)) or "123_456")
     monkeypatch.setattr(P, "article_url", lambda cfg, a, lang: "https://x/en/s")
     arts = [{"id": "a", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "telegram-en"}]},
             {"id": "b", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "facebook"}]},
             {"id": "c", "status": "draft", "en": {"social_post": "t"}}]
-    assert P.facebook_publish({"timezone": "Asia/Phnom_Penh"}, arts, reel=False) == ["a"] and sent == [("t", "https://x/en/s")]
+    cfg = {"timezone": "Asia/Phnom_Penh", "publish": {"facebook_gap_minutes": 90}}
+    assert P.facebook_publish(cfg, arts, reel=False) == ["a: facebook"] and sent == [("t", "https://x/en/s")]
+
+
+def test_facebook_items_are_spaced_out():
+    import time
+    from datetime import datetime
+    from sportnews import publishers as P
+    cfg = {"publish": {"facebook_gap_minutes": 90, "facebook_quiet_hours": [0, 0]}}
+    assert P.facebook_slot(cfg, []) is None                                   # nothing recent: post now
+    just_now = datetime.fromtimestamp(time.time() - 600).astimezone().isoformat()
+    arts = [{"published_to": [{"channel": "facebook", "at": just_now}]}]
+    slot = P.facebook_slot(cfg, arts)
+    assert abs(slot - (time.time() + 80 * 60)) < 120                          # 90 min after the last one
+    soon = datetime.fromtimestamp(time.time() + 3 * 3600).astimezone().isoformat()
+    arts[0]["published_to"].append({"channel": "facebook-reel", "at": just_now, "scheduled_for": soon})
+    assert abs(P.facebook_slot(cfg, arts) - (time.time() + 4.5 * 3600)) < 120  # queued after the scheduled one
+    long_ago = datetime.fromtimestamp(time.time() - 85 * 60).astimezone().isoformat()
+    assert P.facebook_slot(cfg, [{"published_to": [{"channel": "facebook", "at": long_ago}]}]) >= time.time() + 600
 
 
 def test_duplicate_match_is_caught():
@@ -1364,3 +1382,17 @@ def test_reel_licence_rules():
     assert video_safe({"url": "../photos/card-x.png", "license": ""})
     assert not video_safe({"license": "CC BY-SA 4.0"})
     assert not video_safe({"license": "All rights reserved"})
+
+
+def test_facebook_quiet_hours_push_to_morning():
+    import time
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    from sportnews import publishers as P
+    tz = ZoneInfo("Asia/Phnom_Penh")
+    cfg = {"timezone": "Asia/Phnom_Penh", "publish": {"facebook_gap_minutes": 90, "facebook_quiet_hours": [0, 6]}}
+    night = datetime.fromtimestamp(time.time() + 86400, tz).replace(hour=1, minute=0, second=0, microsecond=0)
+    arts = [{"published_to": [{"channel": "facebook", "at": "2026-01-01T00:00:00+07:00",
+                               "scheduled_for": night.replace(hour=0, minute=0).isoformat()}]}]
+    got = datetime.fromtimestamp(P.facebook_slot(cfg, arts), tz)
+    assert (got.hour, got.minute) == (6, 30)

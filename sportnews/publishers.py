@@ -82,12 +82,79 @@ def facebook_text(cfg: dict, a: dict) -> str:
     return (L.get("social_post") or L.get("subheadline") or L.get("headline") or "").strip()
 
 
-def facebook_post(text: str, link: str | None) -> str:
+def facebook_post(text: str, link: str | None, when: int | None = None) -> str:
+    """Post now, or schedule it on the Page (when = unix time, at least 10 minutes ahead; Facebook publishes it)."""
     page, token = fb_page_token()
     data = {"message": text, "access_token": token}
     if link:
         data["link"] = link
-    return _post(f"https://graph.facebook.com/{FB_API}/{page}/feed", data).get("id", "")
+    if when:
+        data.update(published="false", scheduled_publish_time=str(when))
+    try:
+        return _post(f"https://graph.facebook.com/{FB_API}/{page}/feed", data).get("id", "")
+    except urllib.error.HTTPError as e:
+        raise RuntimeError("Facebook says: " + e.read().decode()[:400]) from e
+
+
+def facebook_slot(cfg: dict, articles: list[dict]) -> int | None:
+    """Spacing on the Page: every Facebook item (post or Reel) at least `facebook_gap_minutes` after the last one,
+    so a batch of stories is spread out instead of landing at once (bursts look like spam and get less reach).
+    Returns None = post now, or a unix time to schedule it."""
+    import time
+    from datetime import datetime
+    gap = int(cfg["publish"].get("facebook_gap_minutes", 90)) * 60
+    last = 0.0
+    for a in articles:
+        for p in a.get("published_to") or []:
+            if p.get("channel") in ("facebook", "facebook-reel"):
+                ts = p.get("scheduled_for") or p.get("at")
+                try:
+                    last = max(last, datetime.fromisoformat(ts).timestamp())
+                except Exception:  # noqa: BLE001
+                    pass
+    now = time.time()
+    slot = max(now, last + gap)
+    quiet = cfg["publish"].get("facebook_quiet_hours") or [0, 6]   # no posts while the Page's readers sleep
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo(cfg.get("timezone") or "Asia/Phnom_Penh")
+        loc = datetime.fromtimestamp(slot, tz)
+        if quiet[0] <= loc.hour < quiet[1]:
+            slot = loc.replace(hour=quiet[1], minute=30, second=0, microsecond=0).timestamp()
+    except Exception:  # noqa: BLE001
+        pass
+    if slot - now < 60:
+        return None
+    return int(max(slot, now + 11 * 60))                     # Facebook needs at least 10 minutes' notice
+
+
+def facebook_send(cfg: dict, articles: list[dict], a: dict, post: bool = True, reel: bool = True) -> list[str]:
+    """Normal Page post and/or Reel for one story, each in its own time slot. Records what was sent or scheduled."""
+    from datetime import datetime
+    out = []
+    a.setdefault("published_to", [])
+    done = {p.get("channel") for p in a["published_to"]}
+
+    def record(channel, item_id, when):
+        rec = {"channel": channel, "id": item_id, "at": now_iso(cfg)}
+        if when:
+            rec["scheduled_for"] = datetime.fromtimestamp(when).astimezone().isoformat(timespec="seconds")
+        a["published_to"].append(rec)
+        out.append(channel + (f" (scheduled {rec['scheduled_for'][:16]})" if when else ""))
+
+    if post and "facebook" not in done:
+        when = facebook_slot(cfg, articles)
+        record("facebook", facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"), when), when)
+    if reel and "facebook-reel" not in done:
+        from .reels import make_reel, upload_reel
+        for lang in ("zh", "ru"):                            # kept as files for Weibo / VK / Telegram by hand
+            make_reel(cfg, a, lang)
+        clip = make_reel(cfg, a, "en")
+        if clip:
+            when = facebook_slot(cfg, articles)
+            vid = upload_reel(clip, f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}', when)
+            record("facebook-reel", vid, when)
+    return out
 
 
 def facebook_check() -> str:
@@ -112,27 +179,13 @@ def facebook_check() -> str:
     return f"{d.get('name')} ({d.get('link', '')}){info}"
 
 
-def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True) -> list[str]:
-    """Post already-published stories to the Facebook Page (normal post and/or Reel; never the same one twice)."""
+def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True,
+                     everything: list[dict] | None = None) -> list[str]:
+    """Post already-published stories to the Facebook Page (post and/or Reel; never twice; spaced out)."""
     out = []
     for a in articles:
-        if a.get("status") != "published":
-            continue
-        done = {p.get("channel") for p in a.get("published_to") or []}
-        a.setdefault("published_to", [])
-        if post and "facebook" not in done:
-            fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
-            a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
-            out.append(a["id"])
-        if reel and "facebook-reel" not in done:
-            from .reels import make_reel, upload_reel
-            for lang in ("zh", "ru"):                            # kept as files for Weibo / VK / Telegram by hand
-                make_reel(cfg, a, lang)
-            clip = make_reel(cfg, a, "en")
-            if clip:
-                vid = upload_reel(clip, f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}')
-                a["published_to"].append({"channel": "facebook-reel", "id": vid, "at": now_iso(cfg)})
-                out.append(a["id"] + " (Reel)")
+        if a.get("status") == "published":
+            out += [f"{a['id']}: {x}" for x in facebook_send(cfg, everything or articles, a, post, reel)]
     return out
 
 
@@ -222,24 +275,19 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                     a["published_to"].append({"channel": f"telegram-{lang}", "at": now_iso(cfg)})
                 except Exception as e:  # noqa: BLE001
                     log.error("Telegram %s failed for %s: %s", lang, a["id"], e)
-        if cfg["publish"].get("facebook") and "facebook" not in posted and facebook_ready():
+        if cfg["publish"].get("facebook") and facebook_ready():
             try:
-                fid = facebook_post(facebook_text(cfg, a), article_url(cfg, a, "en"))
-                a["published_to"].append({"channel": "facebook", "id": fid, "at": now_iso(cfg)})
+                for x in facebook_send(cfg, articles, a, post=True, reel=bool(cfg["publish"].get("facebook_reels"))):
+                    log.info("Facebook %s: %s", a["id"], x)
             except Exception as e:  # noqa: BLE001
                 log.error("Facebook failed for %s: %s", a["id"], e)
-        if cfg["publish"].get("facebook_reels") and "facebook-reel" not in posted:
+        elif cfg["publish"].get("facebook_reels"):
             try:
-                from .reels import make_reel, upload_reel
-                for lang in ("zh", "ru"):                      # kept as files for Weibo / VK / Telegram by hand
+                from .reels import make_reel
+                for lang in ("en", "zh", "ru"):                # files only, for posting by hand
                     make_reel(cfg, a, lang)
-                clip = make_reel(cfg, a)                       # made even without Facebook: for TikTok by hand
-                if clip and cfg["publish"].get("facebook") and facebook_ready():
-                    desc = f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}'
-                    vid = upload_reel(clip, desc)
-                    a["published_to"].append({"channel": "facebook-reel", "id": vid, "at": now_iso(cfg)})
             except Exception as e:  # noqa: BLE001
-                log.error("Facebook Reel failed for %s: %s", a["id"], e)
+                log.error("Reel failed for %s: %s", a["id"], e)
         if a.get("status") == "published" and a.get("published_at"):
             a["republished_at"] = now_iso(cfg)      # a correction keeps its original publication time
         else:
