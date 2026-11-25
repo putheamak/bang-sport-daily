@@ -1,5 +1,636 @@
 [
   {
+    "id": "2026-11-25-athl-9fb3af",
+    "slug": "from-heartbreak-in-london-to-history-in-rio-the-life-of-hoan",
+    "date": "2026-11-25",
+    "created": "2026-11-25T15:43:52+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Shooting",
+    "tags": [
+      "Hoàng Xuân Vinh",
+      "Vietnam",
+      "Olympics",
+      "Rio 2016",
+      "Shooting",
+      "Air Pistol"
+    ],
+    "athletes": [
+      "Hoàng Xuân Vinh"
+    ],
+    "image_subjects": [
+      "Hoàng Xuân Vinh",
+      "Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol",
+      "Vietnam at the 2016 Summer Olympics",
+      "Vietnam People's Army"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Hoàng Xuân Vinh - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ho%C3%A0ng_Xu%C3%A2n_Vinh"
+      },
+      {
+        "title": "Feature: Two secrets of Vietnam's first Olympic gold medalist - Xinhua",
+        "url": "https://english.news.cn"
+      },
+      {
+        "title": "South Korean coach behind Vietnam's 1st Olympic gold - The Korea Herald",
+        "url": "https://www.koreaherald.com"
+      },
+      {
+        "title": "Tròn 10 năm xạ thủ Hoàng Xuân Vinh giành huy chương vàng Olympic - Báo Lao Động",
+        "url": "https://laodong.vn"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdThLNJ47NrtPd_q4V1C3eGd1HRkXcvtYO1fnYDyIGn4bjQjseyLZIOoVrqjOiybmA7G-9wxSPCKRNpIiHPlpFiQi7OPoC_6hzLEWmL7jpYDNm5w5vd7BMXWS6XhBbx2JOGRoADo0S-sxCjY="
+      },
+      {
+        "title": "koreaherald.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYzEqNLD_o_EYLClw8TltYlX85OLUUEhMc143PMaLbnNJIgiSQTQSguEeVHxO-XTNqjxnz1EpoHeI_oAcKHvh8Zo7elzaoUmhhk2aG7ALzyHe4CVI-49wK_zllwaY0jLU="
+      },
+      {
+        "title": "laodong.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrIVD0rTBXbDYNy4oSSUR1C-sNQ8p17Xlcd3hZrZCQQmeM5yCS4SJU3fSFBBh0jvcb3HYBcEYUqkESV8j8-JFnAbIqMeKmGdFpRIF00rMO0p8IlzMnpv4yveWYJV14qW7vVMps0ShBy9AtI2qr_Qjv6WJlhLnrWk1aV5_PhGUBSoqGBibKqYRqnq_pIUmzKhTW_zWB4GzpaLrSgE2UmJhOal4="
+      },
+      {
+        "title": "xinhuanet.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKFDl8pdUHvICspzUBYM9PG9cUth-v-3nLbaHKQ9ijwsogWOKglUmAP-ik-Rk1FToPSSR0dr39m3AS9EpErKH8In-tXlCrfRWmITJ1EuIWMTUNcI1NMZVuJPlCaF79zPHPfkkKGwzETnjynzX0CIWVkg=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFplpcX7g3sSYFnmkhcXpUDHkSUX-bZFwKJaEbiD72Q2F3um89L9BZiqeiH6N7kgbPZH-pimH7Tq5ZuNzD9TTdt4XW2nfy2zNl0sdl1YYgKwIlWEDmfs7kt26HCifzl5JdKIAz4kCKuswL_s_k="
+      },
+      {
+        "title": "tatlerasia.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8XYKGTazNkViTa0VL4Q0bH-0aCXaTXceuIiR7itXka-0M8FKAUEwZ9XyEEBEn8i2ttdhlTMXd4dejGdRqWyNBE8XjNVbHHQkXVIcqDTXbim8w5Smb1A_gISvY7oDqeTMaKaB_jC6vf4="
+      },
+      {
+        "title": "cafef.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdftk4hiuienp8g2YJQunfOpyKob-2_QtjzINivMlzGrqbr3EKved6ieMNZilub-jr0cQsCn2ogfdxGJOF1EIWSimdNROMV1aOt7ii3vxXSAYmLV33NJEYuFDCYUIy7GvAs4He456WZYjZEoPS9NNUwoT6iHj8hy7sPdt1TAAwEA=="
+      },
+      {
+        "title": "tuoitre.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0P7hNXFc-qnEA9ZrUeuoojIN9zSyjU--lT5zEF_YFoeBN1rkIk8eaWkQZS9x-vADYk60JXmKBqMcbgQrrEgDeSWmANHieofhbzfIyCQIG_xwhMKVBoQ_E0QiEbcADg9dabEKnrXCKeMLL05OCaRv8s8ccFBlGfiSCO7rAuK4NffARw1Bbz28awicKVAgDQnjy31Q5I5E="
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU6V9wTY5YAlJEiDNKU4CHUv3A0yq6u8XnOegaztXUrlJvw0Z58heyUzMTU4O56se4Od79Kc4j2zfdkQ0VZur-Zk0mTsdvpjd9vX2HE1DUA6SLrx8UE8psQOWwx2OJ7cM="
+      },
+      {
+        "title": "laodong.vn",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWK5rfOJAkcz9mjDaJEPkVAC16Km_d-SZQTBzG0gY1U8dhszVp-YiG8U8WTDl0FhsdcZ02dmLuZE5U-0x6MkuDaw41T9E-nmPr2ZixpqEVVZuC46LQYpjK6-Zmyo1Y0VAWoLcqUoOQL5sk3ughaxUBRGGppTvs7b9-lfskutEgPYGcHO-G1QCgzsIxBuAPLf7GWKPppO6Fzti7QNE"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.003,
+      "longest": 10,
+      "phrases": [
+        "to the rank of colonel in the vietnam people's army"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "From Heartbreak in London to History in Rio: The Life of Hoang Xuan Vinh",
+      "seo_title": "Hoang Xuan Vinh: Life Story of Vietnam's Olympic Champion",
+      "subheadline": "Overcoming childhood loss, severe nearsightedness and agonizing near-misses, the army officer delivered his country's first Olympic gold medal.",
+      "body_markdown": "On August 6, 2016, inside the Olympic Shooting Centre in Deodoro, Rio de Janeiro, 41-year-old military officer Hoang Xuan Vinh stood at firing point eight, trailing Brazilian shooter Felipe Almeida Wu by 0.2 points ahead of the twentieth and final shot of the men's 10-metre air pistol final. After Wu registered a 10.1 to ignite the home crowd, Xuan Vinh took several deep breaths, steadied his pistol, and delivered a 10.7 into the inner ring. The shot lifted his total to 202.5 points, established an Olympic record, and secured the first Olympic gold medal in the history of Vietnamese sports.\n\nFour days later, Xuan Vinh added an Olympic silver medal in the 50-metre free pistol behind South Korea's Jin Jong-oh with a score of 191.3. That campaign in Brazil ended a 64-year Olympic medal drought for Vietnam, but the road to that podium was marked by family loss, material scarcity, and repeated competitive heartbreak.\n\n## The Barracks and a Late Calling\n\nBorn on October 6, 1974, in Son Tay, Xuan Vinh experienced tragedy early when his mother, a factory worker, died when he was three years old. His father, a soldier in the Vietnam People's Army, moved Xuan Vinh and his toddler sister into a small apartment in Hanoi, raising them on modest military wages. Following high school, Xuan Vinh enlisted in the armed forces, studying at the Military Engineering Officer School in Song Be province and training for nearly two years at Army Officer School 2.\n\nGraduating in 1994, he received an assignment to the 239th Engineer Brigade in Thuong Tin, Ha Tay province. While performing his duties as an officer, his precision with military service rifles caught the attention of superiors during intra-army tournaments. In 1998, Xuan Vinh won first place at the national military shooting competition. The Army Club recruited him the following year, and at age 26 he transferred from active field command to join the national shooting programme. His late entrance into high-performance sport came alongside a physical handicap unusual for elite marksmen: Xuan Vinh competed while being severely nearsighted, using corrective shooting lenses to see the target.\n\nDomestic and regional success followed quickly. In 1999, Xuan Vinh took bronze in the men's air pistol team event at the National Cup in Hai Phong. In 2000, the year he married Phan Huong Giang, he broke the national record in the 10-metre air pistol with 580 points to win national gold. Beginning at the 2001 Southeast Asian Games in Malaysia and running through the 2011 Games in Indonesia, Xuan Vinh captured at least one gold medal across six consecutive SEA Games editions, highlighted by a three-gold haul in Thailand in 2007.\n\n## Agony by One-Tenth of a Point\n\nDespite regional dominance, Xuan Vinh's transition to world-level competition was haunted by late-round collapses. At the 2010 Asian Games in Guangzhou, he held first place in the men's 25-metre standard pistol before misfiring on his final shot during the rapid-fire stage, tumbling from the lead to 13th place.\n\nTwo years later, Xuan Vinh qualified for the 2012 London Olympics via the Asian Championship in Qatar. In London, he missed the 10-metre air pistol final by one point, finishing ninth with 582 points. In the 50-metre pistol final, Xuan Vinh entered the ninth shot needing only eight points to lock up an Olympic medal. He recorded a 7.3. Despite a 10.2 on his tenth shot for a 658.5 total, he missed the bronze medal by 0.1 points to China's Wang Zhiwei.\n\nDevastated by the margin, Xuan Vinh contemplated retirement. Instead, national coach Nguyen Thi Nhung instituted an unorthodox regimen to harden his mental discipline. Before daily workouts, Xuan Vinh was required to shout aloud: \"I am an Olympic medallist\". To master stillness under pressure, he spent one full year practicing a routine of standing upright and motionless for two continuous hours without speaking. Training conditions in Hanoi remained tight, with Xuan Vinh often limited to 100 live rounds per day—a fraction of the ammunition used by rivals in Europe and East Asia. South Korean coach Park Chung-gun joined the coaching staff in late 2014, organizing overseas camps in South Korea so Xuan Vinh could practice on modern electronic scoring targets.\n\nThe changes bore fruit. In late 2012, Xuan Vinh won Vietnam's first Asian Air Gun Championship gold in China with 683.3 points. At the 2013 ISSF World Cup in Changwon, South Korea, he avenged his London loss by edging Wang Zhiwei with 200.8 points to claim Vietnam's first World Cup title.\n\n## Legacy Beyond Rio\n\nFollowing his historic double-medal performance at Rio 2016, Xuan Vinh received promotion to the rank of colonel in the Vietnam People's Army and was voted Vietnam's Outstanding Athlete of 2016. He competed at his third Summer Games at the Tokyo Olympics in 2021, where he placed 22nd in the 10-metre air pistol qualifying round with 573 points.\n\nAfter retiring from international competition, Colonel Xuan Vinh moved into coaching as the head coach of the Army Sports Shooting Team and an instructor within the national squad. In 2023, he stood behind the line at the 19th Asian Games in Hangzhou, China, guiding his pupil Pham Quang Huy to the men's 10-metre air pistol gold medal—Vietnam's first Asian Games shooting title in the event. Today, Xuan Vinh directs the Army shooting programme from Hanoi, mentoring junior military shooters pursuing qualification for future Olympic Games.",
+      "social_post": "From losing his mother at age three to conquering the world with severe nearsightedness, Hoang Xuan Vinh's journey remains Vietnam's greatest Olympic tale. After agonizing near-misses in Guangzhou and London, the army officer delivered a 10.7 on his final shot in Rio to claim Vietnam's first Olympic gold medal. Now a colonel and head coach, he is guiding the next generation of Asian champions. What was your favourite moment from Xuan Vinh's historic career? Let us know in the comments below! #HoangXuanVinh #OlympicShooting #VietnamSport #Rio2016"
+    },
+    "zh": {
+      "headline": "从伦敦饮恨到里约封神：越南首枚奥运金牌得主黄春荣的传奇人生",
+      "seo_title": "黄春荣：越南奥运首位冠军的传奇逆袭路",
+      "subheadline": "幼年丧母、重度近视、屡次与奖牌擦肩而过，这位军中神枪手最终为越南射落历史奥运首金。",
+      "body_markdown": "2016年8月6日，里约热内卢德奥多罗奥林匹克射击中心。男子10米气手枪决赛第20枪、也就是最后一枪击发前，41岁的越南军官黄春荣（Hoang Xuan Vinh）落后东道主巴西选手费利佩·阿尔梅达·吴（Felipe Almeida Wu）0.2环，静静站在8号靶位上。随着吴打出10.1环引爆全场，黄春荣深吸了几口气，稳住枪身，扣动扳机——10.7环！这记近乎完美的绝杀将他的总成绩定格在202.5环，不仅打破奥运会纪录，更斩获了越南体育史上首枚奥运金牌。\n\n四天后，黄春荣又在男子50米手枪慢射决赛中打出191.3环，仅次于韩国名将秦钟午（Jin Jong-oh），再添一枚奥运银牌。这届里约奥运会终结了越南长达64年的奥运无金荒，但通往最高领奖台的道路，却写满了丧亲之痛、物资匮乏以及一次次令人心碎的功亏一篑。\n\n## 军营里的神枪手与迟来的起步\n\n1974年10月6日，黄春荣出生于山西市。不幸在童年早早降临：他三岁那年，身为工厂工人的母亲因病去世。父亲是越南人民军军人，带着黄春荣和尚在蹒跚学步的妹妹搬进河内一间狭窄的公寓，靠微薄的军饷将兄妹俩拉扯大。高中毕业后，黄春荣应征入伍，先在松卑省的工兵军官学校学习，随后在陆军第二军官学校接受了近两年的培训。\n\n1994年毕业后，他被分配至河西省常信县的第239工兵旅。在履行军职期间，他在全军射击比赛中使用军用步枪展现出的惊人精准度引起了上级的关注。1998年，黄春荣斩获全军射击比赛第一名。次年，军队体育俱乐部向他抛出橄榄枝；26岁那年，他告别野战部队一线岗位，正式入选国家射击队。在顶尖射击选手中，如此高龄才踏入高水平竞技体育实属罕见，更不用说他还背负着一个致命劣势：黄春荣患有重度近视，必须佩戴特制的矫正镜片才能看清靶心。\n\n然而，国内和区域赛事的胜利接踵而至。1999年海防全国锦标赛，他拿下男子气手枪团体铜牌。2000年，他与潘香江（Phan Huong Giang）结为连理，并在同年以580环打破男子10米气手枪全国纪录，夺得全国冠军。从2001年马来西亚东南亚运动会到2011年印尼东南亚运动会，黄春荣连续六届东运会均有金牌进账，其中2007年在泰国更是豪取三金。\n\n## 0.1环之痛与地狱级淬炼\n\n尽管称霸东南亚，但走向世界舞台的黄春荣却多次遭遇关键时刻崩盘的心魔。2010年广州亚运会男子25米标准手枪比赛中，一路领跑的他在速射阶段最后一发走火，瞬间从榜首跌落至第13名。\n\n两年后，黄春荣通过卡塔尔亚洲锦标赛获得2012年伦敦奥运会参赛资格。在伦敦，他在10米气手枪资格赛中打出582环，仅以1环之差位列第九无缘决赛。随后在50米手枪慢射决赛中，打到第九枪时他只需拿到8环即可稳获一枚奥运奖牌，但他却失准打出7.3环。尽管第十枪反弹打出10.2环、总成绩达到658.5环，他最终仍以0.1环之差输给中国选手王智伟，遗憾错失铜牌。\n\n如此微弱的分差几乎击垮了黄春荣，他一度心生退意。危急关头，国家队主教练阮氏绒（Nguyen Thi Nhung）为他量身制定了一套堪称严苛的心理训练法。每天开练前，黄春荣必须大声喊出：“我是奥运奖牌得主！”为了磨炼高压之下的定力，他整整一年坚持一项极端训练：保持笔直站立，连续两小时不发一言、纹丝不动。当时河内的训练条件依然艰苦，黄春荣每天往往只有100发实弹可用——与欧洲和东亚对手的弹药消耗量相比不过是九牛一毛。2014年底，韩国籍教练朴忠建（Park Chung-gun）加入教练组，多次组织队伍赴韩国集训，这才让黄春荣得以在现代化的电子靶系统上系统备战。\n\n蜕变很快转化为战果。2012年底，黄春荣在中国举行的亚洲气枪锦标赛上以683.3环夺金，为越南射下首枚亚锦赛金牌。2013年国际射联世界杯韩国昌原站，他以200.8环力克老对手王智伟，报了伦敦一箭之仇，为越南夺得历史首个射击世界杯冠军。\n\n## 传奇落幕，薪火相传\n\n里约奥运会一战成名并斩获一金一银后，黄春荣被晋升为越南人民军大校军衔，并毫无争议地当选2016年越南年度最佳运动员。2021年，他第三次出征奥运，在东京奥运会男子10米气手枪资格赛中以573环名列第22位。\n\n告别国际赛场后，黄春荣大校转型执教，担任陆军射击队主教练及国家队教练。2023年杭州第19届亚运会上，他在看台后方运筹帷幄，指导弟子范光辉（Pham Quang Huy）夺得男子10米气手枪金牌，实现了越南在该项目上亚运金牌零的突破。如今，黄春荣长驻河内主管军队射击队，正倾力栽培年轻的军旅神枪手，向着未来的奥运殿堂发起冲击。",
+      "social_post": "从3岁丧母、重度近视，到里约最后一枪绝杀夺金，黄春荣写下了越南体育史上最荡气回肠的传奇！在经历了广州亚运走火和伦敦奥运以0.1环失牌的折磨后，这位军中老将用一记10.7环为越南赢得奥运历史首金。如今身为大校和主教练的他，已带出新一代亚运冠军。你对黄春荣哪次惊天逆转印象最深？欢迎在评论区聊聊！ #黄春荣 #奥运射击 #越南体育 #里约2016"
+    },
+    "ru": {
+      "headline": "От лондонской драмы к золоту Рио: история Хоанг Суан Виня",
+      "seo_title": "Хоанг Суан Винь: история первого олимпийского чемпиона Вьетнама",
+      "subheadline": "Преодолев потерю матери, тяжелую близорукость и роковые неудачи на рубеже, офицер вьетнамской армии принес своей стране первое в истории олимпийское золото.",
+      "body_markdown": "6 августа 2016 года, Олимпийский стрелковый центр в районе Деодоро в Рио-де-Жанейро. 41-летний армейский офицер Хоанг Суан Винь (Hoang Xuan Vinh) стоял на восьмой стрелковой позиции. Перед двадцатым, заключительным выстрелом финала в стрельбе из пневматического пистолета с 10 метров он уступал бразильцу Фелипе Алмейде Ву (Felipe Almeida Wu) 0,2 очка. Хозяин соревнований выбил 10,1, заставив реветь трибуны. Суан Винь сделал несколько глубоких вдохов, зафиксировал пистолет и всадил пулю в яблочко — 10,7! Этот выстрел поднял его сумму до 202,5 очка, установил олимпийский рекорд и принес Вьетнаму первое олимпийское золото в истории.\n\nЧетыре дня спустя Суан Винь завоевал еще и серебро в стрельбе из произвольного пистолета на 50 метров с результатом 191,3 очка, уступив лишь легендарному южнокорейцу Чин Джон О (Jin Jong-oh). Бразильские Игры прервали 64-летнюю медальную засуху Вьетнама на Олимпиадах, однако дорога к этому триумфу была вымощена семейными трагедиями, жестоким дефицитом патронов и бесконечной чередой обиднейших срывов.\n\n## Казарма и позднее призвание\n\nХоанг Суан Винь родился 6 октября 1974 года в городе Шонтэй. Трагедия настигла его в три года: умерла мать, работавшая на фабрике. Отец, военнослужащий Вьетнамской народной армии, перевез Суан Виня и его младшую сестру в крошечную квартиру в Ханое, поднимая детей на скромное солдатское жалованье. Окончив школу, юноша ушел в армию: учился в офицерском военно-инженерном училище в провинции Шонгбе и почти два года стажировался во 2-м высшем военном училище сухопутных войск.\n\nВыпустившись в 1994 году, он был направлен в 239-ю инженерно-саперную бригаду в Тхыонгтине (провинция Хатай). На армейских турнирах исключительная меткость офицера при стрельбе из штатной винтовки сразу привлекла внимание командования. В 1998 году Суан Винь выиграл чемпионат вооруженных сил страны. Уже через год его зачислили в армейский спортивный клуб, а в 26 лет перевели из строевых частей в состав национальной сборной. Для стрелковой элиты такой поздний старт — редкость, но куда больше поражало другое: у спортсмена была тяжелая близорукость, и мишень он видел только через специальные стрелковые линзы с диоптриями.\n\nУспехи на внутренней и региональной арене пришли быстро. В 1999 году Суан Винь взял командную бронзу на Кубке страны в Хайфоне. В 2000-м, когда он женился на Фан Хыонг Зянг (Phan Huong Giang), стрелок побил национальный рекорд в упражнении ПП-60 (10 метров), набрав 580 очков и завоевав золото чемпионата Вьетнама. Начиная с Игр Юго-Восточной Азии 2001 года в Малайзии и вплоть до Игр-2011 в Индонезии, Суан Винь неизменно побеждал на шести турнирах SEA Games подряд, собрав рекордный урожай из трех золотых медалей в Таиланде в 2007 году.\n\n## Драма одной десятой\n\nНесмотря на абсолютное доминирование в регионе, выход на мировой уровень превратился для Суан Виня в кошмар решающих выстрелов. На Азиатских играх 2010 года в Гуанчжоу он уверенно лидировал в стрельбе из стандартного пистолета на 25 метров, но сорвал последний выстрел в скоростной серии и рухнул с первого места на 13-е.\n\nСпустя два года Суан Винь отобрался на Олимпиаду-2012 в Лондоне через чемпионат Азии в Катаре. В британской столице в стрельбе из пневматического пистолета ему не хватило всего одного очка для выхода в финал — девятое место с 582 очками. А в финале на дистанции 50 метров перед девятым выстрелом ему было достаточно попасть в «восьмерку», чтобы гарантировать себе медаль. Результат — катастрофические 7,3. Даже блестящие 10,2 десятым выстрелом (итоговые 658,5 очка) не спасли положение: бронзу у него с перевесом всего в 0,1 очка вырвал китаец Ван Чживэй (Wang Zhiwei).\n\nРаздавленный исходом, вьетнамец всерьез думал о завершении карьеры. Но главный тренер сборной Нгуен Тхи Ньюнг (Nguyen Thi Nhung) предложила парадоксальную систему закалки нервов. Каждую тренировку Суан Винь начинал с того, что во весь голос выкрикивал: «Я — призер Олимпийских игр!» Чтобы научиться справляться с мандражом, он целый год отрабатывал специальное упражнение: неподвижно стоял по два часа подряд, вытянувшись по стойке смирно и не произнося ни слова. Условия в Ханое оставались спартанскими — ему выдавали не более 100 боевых патронов в день, крохи по сравнению с тоннами свинца, которые сжигали конкуренты из Европы и Восточной Азии. В конце 2014 года в штаб сборной вошел южнокорейский наставник Пак Чун Гон (Park Chung-gun), организовавший сборы в Южной Корее, где Суан Винь наконец получил доступ к передовым электронным мишенным установкам.\n\nТитанический труд окупился. В конце 2012 года Суан Винь завоевал для Вьетнама первое в истории золото чемпионата Азии по пневматическому оружию в Китае (683,3 очка). А на этапе Кубка мира 2013 года в южнокорейском Чханвоне он взял реванш за лондонскую драму, опередил Ван Чживэя с суммой 200.8 очка и выиграл первый в истории страны титул обладателя Кубка мира.\n\n## Наследие за пределами Рио\n\nПосле исторического дубля в Рио-2016 Суан Виню было присвоено звание полковника Вьетнамской народной армии, а спортивные журналисты признали его лучшим спортсменом года в стране. В 2021 году он выступил на своих третьих Играх — в Токио, где занял 22-е место в квалификации стрельбы из пневматического пистолета (573 очка).\n\nЗавершив карьеру, полковник Суан Винь возглавил армейскую команду по пулевой стрельбе и вошел в тренерский штаб национальной сборной. В 2023 году на XIX Азиатских играх в Ханчжоу он уже в роли наставника привел своего ученика Фам Куанг Хюи (Pham Quang Huy) к золотой медали в стрельбе из пневматического пистолета с 10 метров — первой победе Вьетнама в этой дисциплине на Азиадах. Сегодня Хоанг Суан Винь руководит армейской стрелковой школой в Ханое, воспитывая новое поколение армейских стрелков для будущих олимпийских побед.",
+      "social_post": "От потери матери в три года и тяжелой близорукости — до высшей ступени олимпийского пьедестала! Путь Хоанг Суан Виня остается величайшей страницей в истории вьетнамского спорта. Пережив кошмарные осечки в Гуанчжоу и Лондоне, армейский офицер выбил 10,7 последним выстрелом в Рио и принес стране первое олимпийское золото. Сегодня он — полковник и тренер, воспитывающий новых чемпионов Азии. А какой момент карьеры Суан Виня больше всего запомнился вам? Делитесь в комментариях! #ХоангСуанВинь #ПулеваяСтрельба #Олимпиада #Рио2016 #СпортВьетнама"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hoang_Xuan_Vinh.jpg/1280px-Hoang_Xuan_Vinh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Hoang_Xuan_Vinh.jpg",
+        "artist": "Danilo Borges/Brasil2016.gov.br",
+        "license": "CC BY 3.0 br",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "description": "Hoàng Xuân Vinh in 2016 Rio 2016 Olympics",
+        "width": 1200,
+        "height": 1662,
+        "year": 2016,
+        "subject": "Hoàng Xuân Vinh",
+        "asked": "Hoàng Xuân Vinh",
+        "page_title": "Hoàng Xuân Vinh",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:hoang_xuan_vinh.jpg|Hoàng Xuân Vinh",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Hoàng Xuân Vinh holding his Rio 2016 Olympic gold medal",
+          "reason": "The photo accurately shows Vietnamese shooter Hoàng Xuân Vinh wearing his Rio 2016 gold medal.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg/1280px-Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg",
+        "artist": "Gabriel Heusi/Brasil2016.gov.br",
+        "license": "CC BY 3.0 br",
+        "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+        "description": "Centro Nacional de Tiro Esportivo",
+        "width": 1200,
+        "height": 800,
+        "year": 2016,
+        "subject": "Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol",
+        "asked": "Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol",
+        "page_title": "Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:rio2016_julho_zonab_deodoro_004_8180_-c-2016_gabrielheusi_heusiaction.jpg|Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aerial view of the National Shooting Center in Deodoro, Rio de Janeiro",
+          "reason": "Shows the Olympic shooting venue where the 2016 Men's 10m air pistol event took place.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://english.news.cn, https://www.koreaherald.com, https://laodong.vn"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-24905a",
+    "slug": "russian-biathlon-cup-second-stage-relocated-from-uvat-to-ufa",
+    "date": "2026-11-25",
+    "created": "2026-11-25T15:40:11+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Biathlon",
+    "tags": [
+      "Biathlon",
+      "Russian Biathlon Cup",
+      "Russian Biathlon Union",
+      "Winter Sports",
+      "Ufa",
+      "Uvat"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Russian Biathlon Union",
+      "Ufa",
+      "Uvat, Tyumen Oblast",
+      "Biathlon"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Второй этап Кубка России по биатлону перенесли из Тюменской области в Уфу - Спорт-Экспресс",
+        "url": "https://www.sport-express.ru/biathlon/news/vtoroy-etap-kubka-rossii-po-biatlonu-perenesli-iz-tyumenskoy-oblasti-v-ufu-2391624/"
+      },
+      {
+        "title": "Второй этап Кубка России по биатлону перенесли из Увата в Уфу - Legalbet",
+        "url": "https://legalbet.ru/news/vtoroj-etap-kubka-rossii-po-biatlonu-perenesli-iz-uvata-v-ufu/"
+      },
+      {
+        "title": "Второй этап Кубка России по биатлону перенесен из Увата в Уфу из‑за недостатка снега - Sportbox",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Biatlon/spbnews_NI2266858_Vtoroj_etap_Kubka_Rossii_po_biatlonu_perenesen_iz_Uvata_v_Ufu_iz_za_nedostatka_snega"
+      },
+      {
+        "title": "Этап Кубка России по биатлону перенесён из Увата в Уфу - Тюменская Арена",
+        "url": "https://asnta.ru/novosti/etap-kubka-rossii-po-biatlonu-perenesyen-iz-uvata-v-ufu_83363/"
+      },
+      {
+        "title": "sport-express.net",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE36vT7MDMLDDnr_zvOj2mo29Gvv2Wl3_IZr_w2LoqDPwCO4DAulANeubV5L4QMBcSo8LB2mMc6g3uXSUgSJu2z4WbB3xylgPItd_e0aBXPVABlxAsX1LYqAjqRhHyGCYFd1xkpK4tGHSAIIgPaxIVh2nMvHNIQt0kQfZmLY5qx829a-oY9TVXjxpTG_6HvbcquWFVK4WlVmHzrxn9w4voWg6Okl0JJdpKffAkLdhO9CXF0ol46"
+      },
+      {
+        "title": "metaratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHttMUVeF-Sf44MR9VKrPvwzFDJIIE-Qw7BM_efvnQeiZMWszggaaNW2Q8-wt5hXlExR6guGW6A860Lx26e1UfjVpNEeA-lDvY3T6-4DboTV6DVH4P7qTK_h7Fksh5i2Yjdcqgp3YwHaFeck8fLNU_9Wy_ZPqF47fS4WW-JP0lG6WloKQrQgI5QUmn0rU_pnNpSqOEIwek-"
+      },
+      {
+        "title": "asnta.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfuM2isC7I4-ZDPeulmGjJtAWBLgmCfzinFu_hsmdoFfqZ56S0tTj2dcKndS872PkzorhZnhnadc6e6cta18LhIY3A8P2tkjBGhWdLIefzivhde3NxrdOlonCBe1ONE6S3vzxfqqQVlCpKAokvCWN2IvN5mRHSi60wJnm5FosRBkOmy2aTVrkMBQq8mo="
+      },
+      {
+        "title": "sovsport.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYpqgrlQcxmcf5NOAq8zBarfexezAQ6mk39WPXmfaWUOwp82W-5-AHaS2YhmLXmaCqpvRfkCgropXhASi9mgmFjUDqeLEdLW8nvabDv4Q-9SCSBP6_aoEMZhEvwlJ3L6FfSmhp1wZXmh37Zx7U4tJLiRUzD6ca55XykGBLWDzGjCDdEB7flPLulukO810-6lB6LZahZOa2eYk="
+      },
+      {
+        "title": "legalbet.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG-5ZGAn0HJNE47YzvNJW45OKtkWQAqULe1IVtrp_8IaUNjs6LiK0AfgDGnqBUYegPuquBjTo1xQPNO7ZKyM7m0T1McM5qfe_a6VJqwyy93_gJmvRzVbba6UyCe8kV9sFVCwaSiM8LAjHNmGtXmfdb3VwsQAe-Vv3p626bs58qiuwqu9EuFO71h0S42kW9vxI_"
+      },
+      {
+        "title": "bookmaker-ratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6mmFnOzUeJWeVIJvlH6dm7p54_m7KDf0uowKf2OcoecpPbyNaPNElu0REkqzgqN8yaQ5QoMSzM6pPmUOGb6VYGCnsUwv7eBOszEWl4rGbfIIPN59EcKCb0jT9YwbZ4-FLDz7GaU0_FpathALfYBZcTMbwJrW3JP4k6gYlCWIj6ncGW3cYB1O1vJhtxu73HMnWcqeOGMrnzTaO96L4CdsGIqXZfg=="
+      },
+      {
+        "title": "sport24.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2RdKUNOPq-0O6zYz4-WsPD9Cx3Ums-wJN0bRRSoc23Rv-1zW4nsBLXzIYOmNCKhUB7eKAT2R9feBzi3UkKlyL8xbLk1D8lMQyA0Tk11MZkoKbQTdZ4TmL1gxyn7oJiH2AY-KCv22Oj3hJkrOaAAPDLnyPGpDYQ1qzv713dI-fNLpcjk8_oZwbmjcKkdm5o1Aggb1a"
+      },
+      {
+        "title": "Тюменская Арена: Этап Кубка России по биатлону перенесён из Увата в Уфу",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclBOcl9ZanA1VktXV0ROTGRvZnBBNFktNTEwOTVBSWZXbHMyd1RJMnVWbnYzWTVoVmVmUmpsUl9RNXdBUDFrckNzZkI1RWlDb0p3Q01NVnBnOHBvTVNLYmxhc2lkM25XUjlxdkVkd1VWalVhQnNYeDZob0tfeU5oZjNiSUt6RzBQdXd1ZEdLWGU?oc=5"
+      },
+      {
+        "title": "Sport5.by: Второй этап Кубка России по биатлону состоится в Уфе из-за проблем со снегом",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkhiQjlIRXZHbm52LS1HX1Uxa3BWM2N3MGRLQ3NpYlA3NzQweDZ2eExHVUMxYTFvMDg4ZXNnUzBqT182QmtzbGY0NFpUTGFpVEdMMWg5MmxUUXpYVm9oRTVtRDV2VnZWSmZoZUVXX292MGxkUTRLZWMzVWtCc1dRNUw3dk4zWXIxUG9hbE1sVFlNTWxTcGRFOUZIVjl3cG4xb2E2RUJtR0w3UXZV?oc=5"
+      },
+      {
+        "title": "Championat: Второй этап Кубка России по биатлону перенесён из Увата в Уфу из-за погодных условий",
+        "url": "https://www.championat.com/biathlon/news-6713270-vtoroj-etap-kubka-rossii-po-biatlonu-perenesyon-iz-uvata-v-ufu-iz-za-pogodnyh-uslovij.html"
+      },
+      {
+        "title": "Спорт-Экспресс: Второй этап Кубка России по биатлону перенесли из Тюменской области в Уфу",
+        "url": "https://www.sport-express.ru/biathlon/news/vtoroy-etap-kubka-rossii-po-biatlonu-perenesli-iz-tyumenskoy-oblasti-v-ufu-2478680/"
+      },
+      {
+        "title": "sport-express.net: Второй этап Кубка России по биатлону перенесли из Тюменской области в Уфу",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0RaWC16ZzIxdUs2N3puOWdNdXVpTXhkTW8wZGgzZllORVpabzA0QkNMT1VjcTAwS1M2aWVjUEQ2Qmo2NEd2cGFYT1VVaHpHcnNZRkdXVjY4WEJTNlQ4ZnZZOTE0S0w5bk93T0UxUU5vVXpkTHVYSnp2MTFpUFh1cTdESGZHUDBBdTR3cEtqeDNOQzlCbGdMRXlraVVSYkFMSXB6V3VZRXUwZG9jQ1Y3MEN3RFZ5VE0tMGIwc2JjQmdKWUlDV3c?oc=5"
+      },
+      {
+        "title": "legalbet.ru: Второй этап Кубка России по биатлону перенесли из Увата в Уфу — Новости спорта",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2lMYm5JVDBoOVFtRzY0UVJETE9ZV3pVM3NzZXZjM2xmZ3BuU25WYkh2eXR3S0tKTzcwMENhUWpOM2JPOWZnWF9yaWhsWl9iSTY2VzNiWTVxRXEtTVNEX25HbzZHY2hSVmRjd0NwbnJXOFRkUkFxZlRJTWVQYkUtZDRlS2RrNHBER3lsakdwbmN2S29rWXc?oc=5"
+      },
+      {
+        "title": "Sports.ru: Этап Кубка России по биатлону перенесли из Увата в Уфу из‑за проблем со снегом",
+        "url": "https://www.sports.ru/biathlon/1117447967-etap-kubka-rossii-po-biatlonu-perenesli-iz-uvata-v-ufu.html"
+      },
+      {
+        "title": "Sport24.ru: Второй этап Кубка России по биатлону перенесен из Увата в Уфу",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGhIM2tEeF80U0hqblNUb1F6SlVGbDJtY1pnM1UyUHE2aWJCSGhRRzJCRlpENUlaSWxQSE9hbjYwdzdOMVhsWTc4bjFzQmZuMm5fYnlLdmxaT0tINzJ2dDRqMXNIR0JjOU9vRXBnbnpYZTFGTERETUlFYWJLQXl4eWhiaTVMTEpkSWRSbTNFampVUlBuWlh2aDZB0gGfAUFVX3lxTE85UGhQNUZOTTFMRjdSSkMxOXBGWDFFZHhDMkpKV2YxMUVPOUluTV9OWUtqQjBBaHNlMlpYN01TVXdmdVZvZkYwSjg5c0QyRHA2WGJMRXdLeEl3WWZKRzVnc0JPcXRRX2d6ZEFydXpqZmh4UnZJYlB6bVlCMm9lRHFYYU4zSGVKYnZHWW1qSm1YVS01YVVWSmpnVjJYdWRyaw?oc=5"
+      },
+      {
+        "title": "РИА Новости Спорт: Второй этап Кубка России по биатлону перенесли из Увата в Уфу",
+        "url": "https://ria.ru/20261125/biatlon-2133796833.html"
+      },
+      {
+        "title": "Sportbox: Второй этап Кубка России по биатлону перенесен из Увата в Уфу из‑за недостатка снега",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVdrM01nU1RYQTMwRzlVeEFHdmJ2Q3Z5TkFzUjFWb3pUSWpKajZwME5jTDZHb3dqaEFWXy16R3FOUzVrWndaOEx3OGdfamVucnR4bGEwdlFmY3E0V21BY1loM3VzVmNxLXVaM2VXZnNTckVLZmpVeG1zQlpzbkY1c2d0dnhGcjRySWlWYzBVM04weGZDdEV3R0dDaGY3dm5sZ3R2UkhWRmlxQXFSUzN3NFZBTUFjTEN3cnQ3bFh0WHh5NS1EaDFDc2NoZ3pmazB2czN3ZE4tejlDOFVqZENr?oc=5"
+      },
+      {
+        "title": "Советский спорт: Второй этап Кубка России по биатлону перенесён из Увата в Уфу",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMFVMbi1EeVZhc2NYemhxaXBRZDBIUXhtMUJZTDFjN0pUcng5a2FTdjJTVzdjYkxEUWJEUW1aZkZPX3AtTHhYdWNJck1lWENZX3o5endiZmlOMUE4dGszV1QtWkszRkRweEU2Qkh3ajNHaEhDZ21iS0ZHOUVIdEFmaUl0QlNTX25XTWRlXzVIeGg0V0pOMUUtVmdhRDZPWUVy?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Russian Biathlon Cup Second Stage Relocated from Uvat to Ufa Due to Lack of Snow",
+      "seo_title": "Russian Biathlon Cup: Stage 2 Moved from Uvat to Ufa",
+      "subheadline": "The Russian Biathlon Union shifted the December event to Bashkortostan after unseasonably warm conditions left Tyumen Oblast without stable snow cover.",
+      "body_markdown": "The Russian Biathlon Union (RBU) announced on Wednesday, November 25, 2026, that the second stage of the 2026–27 Russian Biathlon Cup has been moved from the village of Uvat in Tyumen Oblast to Ufa, the capital of Bashkortostan.\n\nThe governing body confirmed the relocation after determining that the Uvat venue lacked the stable natural snow cover required to prepare competition tracks safely. Despite the sudden venue change, the event window remains intact, running from December 7 to December 14, 2026, with competitive race days scheduled from December 10 to December 13.\n\n## Weather Forces Early Calendar Shift\nA warmer start to the winter season across Western Siberia left organizers in Uvat unable to pack a durable snow base on the cross-country loops. With sub-zero temperatures failing to generate sufficient early snowfall in Tyumen Oblast, the RBU opted to move the stage west to avoid late postponements.\n\nThe second stage program includes men's and women's individual races, two sprint events, and mixed relay competitions. Ufa's biathlon complex, equipped with artificial snowmaking infrastructure and established trails, was cleared by federation officials to absorb the program without altering competition formats.\n\n## Back-to-Back Stages in Bashkortostan\nThe relocation creates a rare two-week competitive hub in Bashkortostan. Ufa was already scheduled on the RBU calendar to host the third stage of the Russian Cup from December 14 to December 21, 2026. Competitors, coaching staffs, and wax teams will now remain at the same facility for consecutive cup meetings.\n\nThe dual-stage arrangement eliminates extensive mid-month travel for regional teams across Russia. Following the extended stop in Ufa, the circuit is scheduled to continue through winter stops before heading to Zlatoust for the Russian Cup finals from March 1 to March 8, 2027, where sprint, pursuit, and mass start disciplines will conclude the season.\n\n## High Domestic Stakes for Banned Competitors\nThe domestic cup serves as the premier proving ground for Russia's elite biathletes, who have been suspended from International Biathlon Union (IBU) World Cup and World Championship events since early 2022. In the absence of international starts, national squad members compete almost exclusively across the Russian Cup circuit and the joint Russian-Belarusian Commonwealth Cup.\n\nPreserving all scheduled race days is critical for federation points, athlete stipends, and national squad evaluations. By shifting directly to Ufa, the RBU ensures full racing mileage for both seasoned Olympians and emerging regional talent without disrupting the winter timetable.",
+      "social_post": "A lack of snow in Tyumen Oblast has forced the Russian Biathlon Union to move the second stage of the Russian Cup from Uvat to Ufa. The dates remain unchanged for December 7–14, 2026, setting up back-to-back cup stages in Bashkortostan alongside the already-scheduled third round. With international competition still closed to Russian athletes, domestic form is paramount. Will two straight weeks on the same tracks favor the tour's top shooters? Let us know your thoughts below! #Biathlon #RussianCup #WinterSports"
+    },
+    "zh": {
+      "headline": "因赛道缺雪，俄罗斯冬季两项杯第二站由乌瓦特移师乌法",
+      "seo_title": "俄罗斯冬季两项杯：次站因缺雪移师乌法",
+      "subheadline": "秋明州反常暖冬导致无法铺设合格雪道，俄罗斯冬季两项联盟决定将12月分站赛迁往巴什科尔托斯坦。",
+      "body_markdown": "俄罗斯冬季两项联盟（RBU）于2026年11月25日星期三正式宣布，2026–27赛季俄罗斯冬季两项杯第二站比赛将不再在秋明州乌瓦特（Uvat）举行，比赛地整体移师巴什科尔托斯坦首府乌法。\n\n管理机构在实地评估后确认了这一易地决定：乌瓦特当地缺乏安全筹备比赛雪道所需的稳定天然积雪。尽管临时变更了承办地，原定赛期完全不受影响，仍将于2026年12月7日至14日举行，其中正赛争夺定于12月10日至13日打响。\n\n## 暖冬迫使赛历提前变动\n西伯利亚西部今冬开局偏暖，乌瓦特的赛事组织方迟迟无法在越野雪道上压制出坚固的雪基。随着零度以下的降温并未给秋明州带来足够的初雪，俄罗斯冬季两项联盟果断选择西移赛地，以避免开赛前出现仓促推迟的被动局面。\n\n第二站的竞赛规程涵盖男女个人赛、两场短距离赛以及混合接力赛。乌法的冬季两项中心拥有完善的人工造雪设施与成熟赛道，已获联盟官员批准全面接盘各项赛事，比赛项目设置保持不变。\n\n## 巴什科尔托斯坦迎来罕见“双周连战”\n这次易地在巴什科尔托斯坦促成了一个难得一见的连续两周竞技中心。按照联盟赛历原计划，乌法原本就将在2026年12月14日至21日承办俄罗斯杯第三站。如今，参赛选手、教练团队及打蜡师团队将直接留在同一座基地，接连征战两站杯赛。\n\n背靠背的赛程安排，免去了全俄各地区代表队在月中奔波转场的舟车劳顿。在结束乌法的漫长赛期后，巡回赛将继续穿梭于各冬季站点，最终于2027年3月1日至8日开赴兹拉托乌斯特（Zlatoust）展开俄罗斯杯总决赛，届时短距离、追逐赛和集体出发赛将为整个赛季收官。\n\n## 国际禁赛期内，国内赛场寸土必争\n对俄罗斯顶尖冬季两项运动员而言，国内杯赛就是他们最重要的练兵场。自2022年初遭到国际冬季两项联盟（IBU）禁赛以来，他们已无缘世界杯和世锦赛舞台。在缺失国际赛事的情况下，国家队选手几乎全部转战俄罗斯杯与俄白联合主办的“英联邦杯”。\n\n保住每一个既定比赛日，对选手的积分排位、薪资津贴以及国家队考核至关重要。通过直接转场乌法，俄罗斯冬季两项联盟确保了无论是功勋老将还是新星翘楚，都能在不打乱冬季赛历的前提下获得充足的实战历练。",
+      "social_post": "秋明州缺雪迫使俄罗斯冬季两项联盟将俄罗斯杯第二站从乌瓦特移至乌法！比赛时间仍维持在2026年12月7日至14日，这意味着乌法将背靠背承办第二与第三站比赛。在国际大门依然关闭的背景下，国内战场的每一枪都关乎饭碗与荣誉。连续两周滑行在同一片雪道，谁能在靶场笑到最后？欢迎在评论区留下你的预测！ #冬季两项 #俄罗斯杯 #冰雪运动"
+    },
+    "ru": {
+      "headline": "Второй этап Кубка России по биатлону перенесен из Увата в Уфу из-за дефицита снега",
+      "seo_title": "Кубок России по биатлону: второй этап перенесен из Увата в Уфу",
+      "subheadline": "СБР перенес декабрьские старты в Башкортостан: аномальное потепление оставило Тюменскую область без устойчивого снежного покрова.",
+      "body_markdown": "Союз биатлонистов России (СБР) в среду, 25 ноября 2026 года, официально объявил о переносе второго этапа Кубка России сезона-2026/27. Соревнования, которые должно было принять село Уват Тюменской области, состоятся в столице Башкортостана — Уфе.\n\nРуководство федерации пошло на этот шаг после того, как стало ясно: на уватском биатлонном комплексе нет достаточного слоя естественного снега, необходимого для безопасной подготовки соревновательных трасс. Несмотря на экстренную смену локации, временной слот турнира остался неизменным — с 7 по 14 декабря 2026 года, а соревновательные заезды пройдут с 10 по 13 декабря.\n\n## Погода вносит коррективы в календарь\nАномально теплое начало зимы в Западной Сибири не позволило уватским организаторам сформировать плотную снежную подушку на дистанциях. Морозных дней в Тюменской области оказалось недостаточно для обильных снегопадов, и в СБР предпочли оперативно перенести этап на запад страны, не доводя дело до срыва расписания.\n\nВ программу второго этапа включены мужская и женская индивидуальные гонки, два спринта, а также смешанные эстафеты. Спортивный комплекс в Уфе, оснащенный надежной системой искусственного оснежения и уже подготовленными трассами, получил одобрение инспекторов СБР — стадион готов принять турнир в полном объеме без изменения формата гонок.\n\n## Спаренный биатлонный марафон в Башкортостане\nВ результате этой рокировки Башкортостан станет центром притяжения российского биатлона сразу на две недели. Дело в том, что в календаре СБР Уфа уже значилась хозяйкой третьего этапа Кубка страны — с 14 по 21 декабря 2026 года. Теперь спортсменам, тренерам и сервис-бригадам не придется паковать лыжи: они останутся на одном и том же стадионе на два раунда подряд.\n\nТакой сдвоенный график избавит региональные команды от тяжелой и затратной логистики в середине декабря. После продолжительного пребывания в Уфе караван Кубка России продолжит движение по зимнему маршруту вплоть до финала, который пройдет в Златоусте с 1 по 8 марта 2027 года — там сезон закроют спринты, гонки преследования и масс-старты.\n\n## Внутренний календарь — главный приоритет в условиях изоляции\nКубок страны остается ключевой соревновательной площадкой для элиты отечественного биатлона, отстраненной от этапов Кубка мира и чемпионатов мира под эгидой IBU с начала 2022 года. В отсутствие международных стартов члены сборной выступают преимущественно на этапах Кубка России и совместного российско-белорусского Кубка Содружества.\n\nСохранение каждой запланированной гонки критически важно: от этого зависят рейтинговые очки федерации, ставки спортсменов и критерии отбора в сборную. Переезд в Уфу позволил СБР сберечь полноценный километраж боевой практики как для титулованных олимпийцев, так и для перспективной молодежи из регионов, не сломав при этом утвержденную сетку соревнований.",
+      "social_post": "Бесснежье в Тюменской области вынудило СБР перенести второй этап Кубка России из Увата в Уфу. Сроки неизменны: 7–14 декабря 2026 года. Башкортостан принимает сразу два этапа подряд! На фоне международного бана плотность борьбы на домашней лыжне зашкаливает. Сыграют ли две недели на знакомой уфимской трассе на руку чистым стрелкам? Делитесь мнением в комментариях! #Биатлон #КубокРоссии #ЗимнийСпорт"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%94%D0%BE%D0%BC_%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B3%D0%B0%D1%80%D0%B5%D0%B2%D0%B0%2C_%D0%A3%D1%84%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC_%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B3%D0%B0%D1%80%D0%B5%D0%B2%D0%B0,_%D0%A3%D1%84%D0%B0.jpg",
+        "artist": "Неизвестно",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Residential building Nagareva, Ufa",
+        "width": 1200,
+        "height": 800,
+        "year": 2018,
+        "subject": "Ufa",
+        "asked": "Ufa",
+        "page_title": "Ufa",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:%d0%94%d0%be%d0%bc_%d0%b6%d0%b8%d0%bb%d0%be%d0%b9_%d0%9d%d0%b0%d0%b3%d0%b0%d1%80%d0%b5%d0%b2%d0%b0,_%d0%a3%d1%84%d0%b0.jpg|Ufa",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "A historic brick building located in the city of Ufa",
+          "reason": "The photo accurately depicts a landmark building in Ufa, matching the caption representing the host city.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Biathlon_Schalke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Biathlon_Schalke.jpg",
+        "artist": "Unknown author",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "description": "",
+        "width": 1200,
+        "height": 1398,
+        "year": 2006,
+        "subject": "Biathlon",
+        "asked": "Biathlon",
+        "page_title": "Biathlon",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:biathlon_schalke.jpg|Biathlon",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "biathletes at a shooting range during a biathlon competition",
+          "reason": "The photo accurately depicts a biathlon competition, matching the generic caption and sport of the article.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2018. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-25-news-cad9bb",
+    "slug": "mirra-andreeva-named-espn-breakthrough-player-of-the-year-fo",
+    "date": "2026-11-25",
+    "created": "2026-11-25T15:39:10+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Mirra Andreeva",
+      "Elena Rybakina",
+      "WTA Tour",
+      "Roland Garros",
+      "WTA Finals",
+      "Conchita Martínez"
+    ],
+    "athletes": [
+      "Mirra Andreeva",
+      "Elena Rybakina",
+      "Aryna Sabalenka",
+      "Elina Svitolina",
+      "Maja Chwalinska",
+      "Diana Shnaider",
+      "Conchita Martínez"
+    ],
+    "image_subjects": [
+      "Mirra Andreeva",
+      "Conchita Martínez",
+      "Elena Rybakina",
+      "WTA Finals"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Мирра Андреева стала «прорывом года» в теннисе по версии ESPN - Матч ТВ",
+        "url": "https://matchtv.ru"
+      },
+      {
+        "title": "ESPN Names Rybakina Player of the Year, Andreeva Breakthrough - RallyHer",
+        "url": "https://rallyher.com"
+      },
+      {
+        "title": "ESPN names Elena Rybakina among best tennis players of 2026 - Qazinform",
+        "url": "https://www.inform.kz"
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFevBjExU0eOIXT4eqrEwhvXQmTJh3QOHo255YRAIURJMw4DjiWRom6qaBj8-un3fwPK6yPzdwpvxA3ZDLZPSEZQCaXvs7dsfVpyzOzmltalj_B19d7cbeye3c5PiYWGC0WbnN5C8i_aSEK8urcww6lH6IWji51MtBgkYDjjYDgnCtIhNqjAFNybAIcShmFPQR0ceIIuT7xhL9MaGWJAnlIWTw="
+      },
+      {
+        "title": "jiji.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH61K8_xZk6KPEz3yi0CRn2sDpaYqRVSMPnFzNKn_gfVAM3m_TRRDBWAlN8E-_dfUG5KFio6ea9eIT-NbEVeGwAspZyqbuc4h7XECTn4tDzzXG9ejwOIQYstIa-tmgcU38T6-PSdZkl0uEBdyW-ZJ-HfIKnMTaHNig3o5byFENl"
+      },
+      {
+        "title": "rallyher.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj96vRzMNtFlNP510-irnce0-FfQSTQ-6ueJzJmWev5sMnHwZlGw7Rxf_S2csigs99XdW-T_3hUiaPR8vhjtvskVe-rVCrz7SY1W-MEzQCCn_s3mYoHjDwzJx4rR2d9BPsXukHi2_nH37EHf4Awg=="
+      },
+      {
+        "title": "bookmaker-ratings.ru",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv6udwsnaPyq9waDfbLJL6Dm2q6YdncuZ5HN0tYtW428yw7tA1rEput4FXslcAGQK5ws1MKE9cmXk2DAq1Ik9pCZTxTFxRn-6P-Gf-vAL7GJnrubKfNt1OKQWMkl-ZeSMjfXvDci20NTr3rOMBeMiFW7eS0A5tNvfdcx6JbB2EN_ycLr7smd7IuUYfAUSK-TN_Cz0KshQUDaQ0dvAk9ADy8UepEomjMvWXeN7KzXopEEu8Q=="
+      },
+      {
+        "title": "sports.kz",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIlOKqzxGUfqu3mY-L6Bp9Va9s-wHGrCq35kOmCXo-wsOvqW2-2a1HvttXKetsQ11QGtVByUS5insaacs6_9ZTRLsJq2ePenQARfEoeDvVPHJNOuIZNJHqgOxZP8l8zn11t0bCKcz9YGoyX5lUN7Ns9DHpbOYk_lkO-29S"
+      },
+      {
+        "title": "ua.news",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERz2Yj8aDZ4Ib5_gybG1T6masH69RHdSrCesQa5UVaTn50tQlIFxua4iGDC2pIQl4ls7lFgdm6x_qKArMBtytSF3Hz54855XuOGojObSNENmAMVBdlU0SC4kkaY34kEd4JtFzgOK40nkO_dKfvZNVzLZaDzUlPMiwkNR0njbccFYFE7TsEIFlAtxGPM1GQCtT9fVXqB32uTybinSQqFg1-2Mhkhfgc2fgd"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGda2l8U5r7IKJMJM6FEHpyxMdvSdnCUVT0zX2AxgMHX5Qk-V20mlSiaBoTIrTSZydFPVRs-5Mfj-3wQ1lN7obYOiJ1NGiHz9EJz97579v3zajzILg3j5zsxeajY5AK5Q=="
+      },
+      {
+        "title": "ground.news",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpWeZ274oBOWIO9PNGII_2xpjfDutnaZyrN4np18acYDbSaGBjhRUnB6Vpav8yv1qgyiHk06IB_i0ovKvcUSvjwy9RMl_zu4fW1Ui3mCPErjf_ooKTkR5KdQfk92DE0WFcmSLuYxEH9IgtbGmjWmde_BSQkp9FRjfgp0rLtDfF8xedwgREux-9koFu2V0ZMA5Pv3eArZSeTXz_lPb-4iuMsPh5UY_2creSw0CUN5FHDnC1uw=="
+      },
+      {
+        "title": "newsbreak.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlR4Z6MQPELqL-ZGp-oSyhIdE1EsP-S46sQsrEpC4s2PW9yecMk2-BVKCoeD93eqNtC5D9eEDHPq8OJn0zQ4Ver3cQ3qcVPrfKeWyg60KTeaNl3nbKRwELekaBVwIC9xlBul-0gGaFoJ0geaTKrUhT75ZUNWSrdG6HSibjDpIPgWuk7Ck4FzD0CyCS226gRJzpLeg_azPChjYlrcp9P4hHBTr3-gc8UNZ1gcB31ijWnypnnTQsfDERnXFC66NZqaFT1R49QvdD2sLxKoyi6jh"
+      },
+      {
+        "title": "essentiallysports.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjpMfg93TBn4Ty0NN0UKpij-58BicTHfPe_obwOeFjiDqEOiVxhObU5z_QDGG4G5gWoNLOvF-nk3_T4VZpEWweoAYsRLQPdWqcFapkl7M1otgKvNo3910iTJmwXL9hp_UBqiOdRRjT1-YoELt-rCaGA_Vek_rqeraaOqurJ4frcQSAdjqYAhvtgEzH65e3uVz4nwTeU-AIKd9jGGHM1MPmtJIfiyCWzMfAjRsb3hFARQTSQ=="
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP1DPc01d5A2D19LDvR8tM8WMwqP1aHq_Eldo71toa7ls3onhJH-TiY5jD1ZNbHF0GWS6IK4z3xVitGbAAekAedRQa7i95mFVxh7zo3LSLFCsmuro75jcG-mIcu1DcEaL2Ww=="
+      },
+      {
+        "title": "kursiv.media",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9uJgv6GdYtsYeu-ksYBPbsiVbz2fw-RMMV1AeFVKi-EeUxmMpojWXOwaR_zQFlWTQOJZTclcFNXEPvsAWz2k3_155gjs9P0qf4ZpfrmahF4Qgna5RMSWHLIlyVfQsXEp_bX5Bl-VF1r8AvbCQYdhYjfdR4tAMtBJ20esFkL5fTRflUIv-J2bD_yoIkM79VNVhOFjRcqXal0enPWbvgZ4V"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH32qUXAv5I8z3IaqcoC-sBi0jelFadYM9pNzGWh05_zKbkj50OpQF6rc0bfOWwJZqdpPGF63aC-0jC46fybrJO6Qajte-caSyVm92ScKsBZl9iRIZYbuO0sDgm35LjYhO5-A39VVWZ-oP0BdK1mX6y9Ck7jfKHKa8u9XxOrHpGZfiPWqu0TyGXHlQOqhpSA17sb8UYqmjY"
+      },
+      {
+        "title": "Sport24.ru: Мирра Андреева признана «Прорывом 2026 года» по версии ESPN",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3dQMUpkMGJqZmVGUWpiY182UFlhNVd2Nm5ycEU5RUQzSFB2SUN5R0dTMGt5MnFLNFJBaHFPejd5NUM1dzFEZnZQN2JtNWNLVF8xT1I0TmRzLUNvallCRk9qeG1mLXpkMkVqcGxVZHNjUVhBWUMxSlpXQlBMdzN0TzdtQXFObllualQtYjdadmZoNTJGRUt6RXB1ZETSAaIBQVVfeXFMT0RwUGQxYVhod2JJU0dxX052TnA5NzIxTUVHbm5mQ0NVWUlGUnB6VkVONF9Jd2JvT2llNUpOSmNrdWxPOXVmZ1Vpa1FYQnRZMGo4R1VRTnpPU1ZnbGdMNEV4X2xlcTgzTHE4bEdpaGxGWV9GX3J4TVRoeEstaDlDQkhIUS1RMkdRU0swUU10ajk5M3RtYWxoZG5UUDlOa05SZXR3?oc=5"
+      },
+      {
+        "title": "legalbet.ru: Мирра Андреева признана прорывом года по версии ESPN — Новости Тенниса",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWdLYkhSSWZjTVRzQnFQLUw4TmRVakRObm9VTzFNYjlLSkpFMS0xTGN5QWVpcmdkNUgzNkcxdnJhUFg5V0RfQVJkazNnVVZTcUF5aTc1b3lmRHRyZGRFcDl1ckp1bkVvcFJ4dGJTS3FNNjhsZUxjNVh6M2IwRXlnemRMb1oxYS1VaHFhNE9fRks2YUtRY2ZB?oc=5"
+      },
+      {
+        "title": "sport-express.net: «Иметь потенциал и реализовать его — две разные вещи». Мирра Андреева стала «прорывом года» по версии ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMGNlTTBzTV9lcC1WLUI4XzA0UkpMM3p5djhoeDA2eTFZWFlyUDBkOXJFZ3VRdEI2MTkzMk9xREZCTFk4Ylg2dlE5SUtHYk4taVBkMjhmblM3MVR5M014MWVWNVRxUkMzRVhhelVhd2t3eFJaUW9YZ3VNeE1aSTFqcUg1bWljNmt4QW5xX1lxS05XWjUzaS00dllJN3cyZGowNENmeE9wdkdnLUV4OE9VUG9YUmpKMTBDbWNtMnIzcFNWRDJlVm9DV1lFUDN4cmdJU3dvaFpqT3ZKRmVzTlk1NGRQV0taQ1laYkN3Q1N3?oc=5"
+      },
+      {
+        "title": "sport-interfax.ru: Мирра Андреева признана \"Прорывом года\" по версии ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ra1dOcFBOMzlMRlhXejdUaVZhWUd6UW50bkQ3eGdpb2dzYUp3dk9wZ1RCdWp0YnlMMHZSckZ3MEVaSFJadHUwZzZqWG1VZ9IBU0FVX3lxTE16VnRXN19hVDRtdWpVUnVaTHR4VUVBbzVjdEkyT1lGQnBQN0ZqM2h2Q1Nzal8zTEN6S2VmQ1J5Uzd6blIxRjg2eEFtZU9KTVJ3Y2FR?oc=5"
+      },
+      {
+        "title": "Спорт Mail: ESPN признал теннисистку Андрееву «Прорывом 2026 года»",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TYjVUUUd2aWlpSkJoOGthS3hoZUdMMXJPN1hGWDlodlJ4UkVWMXhDT3NuQVhkclMzTmZ5TjBxY0NTZkpiY05zYVNDWDRqNDV3eDFoVDh1QXQ?oc=5"
+      },
+      {
+        "title": "Спорт-Экспресс: Мирра Андреева признана прорывом года по версии ESPN",
+        "url": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-priznana-proryvom-goda-po-versii-espn-2478343/"
+      },
+      {
+        "title": "Советский спорт: Российская теннисистка Мирра Андреева стала «Прорывом года» по версии ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3h5TnN1T0NaNXdvZlJGY3RXdU5oMy1XRy1PeUtGOS1qMTlmZnp6aXJyVG5NazRMUDRCWUxRUEtFOG5MOUlCUk4xdjhZNnpGODBUXzJnaWRRTnl2MmlxSm5SMllhZjFVQzVwZERkVjdFSGZEMGd6YUg4a3QzRTd5NWJ4MTFWTUxkbWxmYjNiQzFmR2ExMk9tTy0zM3FzTHJWbTVtUlVWRDdpQ1BXUGc?oc=5"
+      },
+      {
+        "title": "Рейтинг Букмекеров: Андреева стала «Прорывом года» по версии ESPN после побед на «Ролан Гаррос» и Итоговом турнире",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDJtRkluaTZqSXpHYVpxUEhIcllnMlpqeXUzZ1pQZXY5MzFma1otY1hHTVlFcUp1MWstV0ZxRjRPLWQ3V016dkg5QTlxTmZSYV80YlNiRlB6R0s4cE9PUXhNOVFxVWx6LXdYcUItV2s3czZnanlJRG1nLWZkNGI4WGZiNThVMUJPNVdtbE9SLU02eDY4VEFJRlhFU0ZOV083Umxvcl83RGIzQVR2VldkT1JKVnU2SFUxd2d0ZGtHcHBrUXc?oc=5"
+      },
+      {
+        "title": "Матч ТВ: Мирра Андреева стала «прорывом года» в теннисе по версии ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2IyaldINzQ3LUVibldJOUF2RGtFU1dlMWVfWUVINjZOcFFvWUh4RDJ5bG9pMWRpU1ItSU9jbmpBOW9sT2Jjc2ZyYnp4VHJKMkI4ckJuQXFQQU5kWUlydmxkLWt3VU43Um13LWNLa3V5OGpRVE9FTEtLYUFMTVFQclZ6ZkxSZjNZRW02R0steWVIN2kyWXA2bHRFakJiLXNzNVp1ZjhNWXdHY2tx?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Mirra Andreeva Named ESPN Breakthrough Player of the Year for 2026",
+      "seo_title": "Mirra Andreeva Named ESPN Breakthrough Player of 2026",
+      "subheadline": "The 19-year-old won Roland Garros and swept the WTA Finals to finish the season at world No. 2, just 293 points behind Elena Rybakina.",
+      "body_markdown": "United States sports broadcaster ESPN named 19-year-old Mirra Andreeva its Breakthrough Player of the Year for the 2026 tennis season on Tuesday, November 24. Andreeva concluded her campaign ranked world No. 2 after lifting four singles titles, including her maiden Grand Slam championship at Roland Garros and an undefeated run to the WTA Finals crown.\n\n## Paris triumph and WTA Finals sweep\n\nIn Paris in June, Andreeva dropped only one set across seven matches at Roland Garros before defeating Poland's Maja Chwalinska 6-3, 6-2 in the final. She closed out her season in November at the WTA Finals, winning all five matches in straight sets, including an 11-game streak to beat Aryna Sabalenka 6-4, 6-0 in the group stage and a 7-5, 6-3 victory over Elina Svitolina in the championship match. That victory earned Andreeva $3.37 million and made her the youngest winner of the season-ending tournament since Maria Sharapova lifted the trophy at age 17 in 2004.\n\n## Consistency across the WTA calendar\n\nCoached by former Wimbledon champion Conchita Martínez, Andreeva compiled 53 match wins in 2026, the highest total on the WTA Tour. Alongside her French Open title, she captured WTA 500 trophies in Adelaide and Linz, and reached two WTA 1000 finals in Madrid and Beijing. In doubles, Andreeva partnered Diana Shnaider to win the WTA 1000 title in Rome, adding to their silver medal at the 2024 Paris Olympics.\n\nIn its citation, ESPN noted Andreeva’s rapid progress from junior prodigy to major champion: \"Ever since Andreeva burst onto the tennis scene in 2023 at age 15, her future as a major champion seemed almost inevitable. But having potential and realizing it are two different things\".\n\n## The race for world No. 1\n\nESPN selected Kazakhstan's Elena Rybakina as its WTA Player of the Year after Rybakina won both the Australian Open and the US Open to finish at No. 1 with 8,099 points. Andreeva ended the year on 7,806 points, trailing Rybakina by 293 points. In their lone head-to-head meeting in 2026, Rybakina defeated Andreeva 7-5, 6-1 in the semifinals of the Porsche Tennis Grand Prix in Stuttgart in April.\n\nBoth players will resume their competition in Australia in January 2027, where the world No. 1 ranking will be contested at the Australian Open in Melbourne.",
+      "social_post": "At just 19 years old, Mirra Andreeva has been named ESPN's Breakthrough Player of the Year for 2026. The rising star won Roland Garros, swept the WTA Finals undefeated, and finished the season at world No. 2—trailing Elena Rybakina by just 293 points. Under coach Conchita Martínez, Andreeva led the WTA Tour with 53 wins this season. Can Andreeva take the world No. 1 spot in Australia this January? Share your thoughts below! #MirraAndreeva #WTA #Tennis"
+    },
+    "zh": {
+      "headline": "米拉·安德烈耶娃荣膺ESPN 2026年度最佳突破球员",
+      "seo_title": "米拉·安德烈耶娃获评ESPN年度突破球员",
+      "subheadline": "19岁的俄罗斯新星斩获法网女单桂冠并在WTA年终总决赛全胜捧杯，仅落后莱巴金娜293分位列年终世界第二。",
+      "body_markdown": "11月24日星期二，美国著名体育媒体ESPN将2026赛季WTA“年度最佳突破球员”殊荣授予了19岁的米拉·安德烈耶娃（Mirra Andreeva）。本赛季，安德烈耶娃共斩获四座单打冠军奖杯，不仅在罗兰·加洛斯夺得个人大满贯首冠，更以不败战绩加冕WTA年终总决赛，最终以世界第二的亮眼排名为整个赛季圆满收官。\n\n## 问鼎巴黎，年终总决赛全胜封后\n\n今年6月的巴黎红土场上，安德烈耶娃在罗兰·加洛斯的七场比赛中仅丢一盘，并在决赛中以6-3、6-2横扫波兰选手玛雅·赫瓦林斯卡（Maja Chwalinska）。11月的WTA年终总决赛上，她更是展现出统治级表现，五场比赛一盘未失、连赢十盘夺冠。小组赛中，她在面对阿丽娜·萨巴伦卡时打出一波连下11局的高潮，以6-4、6-0完胜对手；随后的争冠战中，她又以7-5、6-3力克埃莉娜·斯维托丽娜。这场胜利为安德烈耶娃赢得了337万美元的巨额奖金，也让她成为自2004年玛丽亚·莎拉波娃以17岁之龄夺冠以来，年终总决赛历史上最年轻的单打冠军。\n\n## 贯穿全年的惊人稳定性\n\n在前温网女单冠军孔奇塔·马丁内斯的悉心执教下，安德烈耶娃在2026赛季共取得53场巡回赛单打胜利，领跑整个WTA。除了法网夺冠，她还在阿德莱德和林茨两站WTA 500赛中笑到最后，并先后闯入马德里和北京两站WTA 1000赛事的决赛。双打赛场上，她搭档同胞季阿娜·施耐德摘得罗马WTA 1000赛女双冠军，延续了两人在2024年巴黎奥运会上摘得银牌的默契配合。\n\nESPN在颁奖词中由衷赞叹了她从天才少女到大满贯得主的蜕变速度：“自2023年年仅15岁的安德烈耶娃在职业网坛横空出世以来，她成为大满贯冠军似乎只是时间问题。但拥有无限潜质与真正兑现天赋，完全是两码事。”\n\n## 球后宝座之争进入白热化\n\n在年度最佳球员（WTA Player of the Year）的评选中，哈萨克斯坦名将叶莲娜·莱巴金娜凭借澳网和美网双料大满贯冠军的出色战绩当选，她以8099分锁定年终世界第一。安德烈耶娃则以7806分紧随其后，与球后的差距仅为293分。在两人2026年唯一一次正面交锋中，莱巴金娜于4月的斯图加特保时捷网球大奖赛半决赛中以7-5、6-1击败了安德烈耶娃。\n\n2027年1月，两位顶尖选手将齐聚澳大利亚重燃战火，届时墨尔本公园的澳大利亚网球公开赛也将成为决定新科球后归属的天王山之战。",
+      "social_post": "年仅19岁！米拉·安德烈耶娃荣膺ESPN 2026年度最佳突破球员。法网首夺大满贯、年终总决赛全胜加冕，单赛季53胜领跑WTA，距离世界第一仅差293分！明年1月澳网，她能超越莱巴金娜登顶球后宝座吗？留下你的看法！#安德烈耶娃 #WTA #网球"
+    },
+    "ru": {
+      "headline": "Мирра Андреева признана «Прорывом года» по версии ESPN за 2026 год",
+      "seo_title": "Мирра Андреева признана «Прорывом года» по версии ESPN в сезоне-2026",
+      "subheadline": "19-летняя теннисистка выиграла «Ролан Гаррос», непобежденной прошла Итоговый турнир WTA и закончила сезон второй ракеткой мира — всего в 293 очках от Елены Рыбакиной.",
+      "body_markdown": "Во вторник, 24 ноября, американский спортивный вещатель ESPN объявил 19-летнюю Мирру Андрееву победительницей в номинации «Прорыв года» (Breakthrough Player of the Year) по итогам теннисного сезона 2026 года. Андреева завершила этот впечатляющий соревновательный год в статусе второй ракетки мира, положив в копилку четыре одиночных титула, включая дебютный «Шлем» на «Ролан Гаррос» и триумфальное шествие без единого поражения на Итоговом турнире WTA.\n\n## Парижский триумф и доминирование на Итоговом\n\nВ июне на кортах Парижа Андреева за семь матчей «Ролан Гаррос» отдала соперницам лишь одну партию, а в финале уверенно переиграла польскую теннисистку Майю Хвалиньску (Maja Chwalinska) со счетом 6:3, 6:2. Точку в сезоне россиянка поставила в ноябре на Итоговом турнире WTA, где выиграла все пять поединков в двух сетах. На групповом этапе Мирра выдала впечатляющий отрезок из 11 выигранных геймов подряд против Арины Соболенко (6:4, 6:0), а в титульном матче взяла верх над Элиной Свитолиной — 7:5, 6:3. Эта победа принесла Андреевой 3,37 миллиона долларов призовых и сделала ее самой молодой победительницей Итогового чемпионата со времен 17-летней Марии Шараповой в 2004 году.\n\n## Стабильность на протяжении всего календаря WTA\n\nПод руководством бывшей чемпионки Уимблдона Кончиты Мартинес Андреева одержала 53 победы в матчах 2026 года — лучший показатель в туре. Помимо парижского мэйджора, она завоевала трофеи категории WTA 500 в Аделаиде и Линце, а также дошла до финалов на «тысячниках» в Мадриде и Пекине. В паре с Дианой Шнайдер Мирра выиграла турнир WTA 1000 в Риме, развив успех их серебряного выступления на Олимпийских играх 2024 года в Париже.\n\nВ сопроводительном комментарии ESPN подчеркнул стремительный путь Андреевой от вундеркинда до чемпионки турниров «Большого шлема»: «С тех самых пор, как 15-летняя Андреева ворвалась в тур в 2023 году, ее будущее в статусе чемпионки мэйджоров казалось неизбежным. Однако иметь потенциал и полностью его реализовать — это совершенно разные вещи».\n\n## Битва за звание первой ракетки мира\n\nЛучшей теннисисткой года (WTA Player of the Year) по версии ESPN была признана представительница Казахстана Елена Рыбакина. Победы на Australian Open и US Open позволили Рыбакиной финишировать на вершине рейтинга с 8 099 очками. Андреева завершила сезон с 7 806 баллами, уступая лидеру всего 293 очка. В их единственной очной дуэли в 2026 году сильнее оказалась Рыбакина, победившая Мирру в полуфинале апрельского турнира Porsche Tennis Grand Prix в Штутгарте со счетом 7:5, 6:1.\n\nПротивостояние за теннисную корону возобновится уже в январе 2027 года на кортах Австралии, где судьба первой строчки мирового рейтинга решится на Australian Open в Мельбурне.",
+      "social_post": "В 19 лет — официально лучшая! Мирра Андреева признана «Прорывом года» по версии ESPN за сезон-2026. Победа на «Ролан Гаррос», безупречный Итоговый турнир без единого проигранного сета и 53 победы за год под руководством Кончиты Мартинес. До первой строчки Елены Рыбакиной — всего 293 очка. Ждем битву за статус первой ракетки мира уже в январе на Australian Open! #МирраАндреева #WTA #Теннис"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_%28cropped%29.jpg/1280px-Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_(cropped).jpg",
+        "artist": "Robbie Mendelson",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "U.S. Open Champions Team Tennis Sept. 8, 2010",
+        "width": 1200,
+        "height": 1111,
+        "year": 2010,
+        "subject": "Conchita Martínez",
+        "asked": "Conchita Martínez",
+        "page_title": "Conchita Martínez",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:conchita_mart%c3%adnez_at_the_2010_us_open_02_(cropped).jpg|Conchita Martínez",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "former Spanish tennis player Conchita Martínez carrying a tennis bag",
+          "reason": "The photo clearly depicts former tennis player Conchita Martínez at a tennis venue.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Mirra Andreeva in June 2023",
+        "width": 1200,
+        "height": 1603,
+        "year": 2023,
+        "subject": "Mirra Andreeva",
+        "asked": "Mirra Andreeva",
+        "page_title": "Mirra Andreeva",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:mirra_andreeva_wmq23_(cropped).jpg|Mirra Andreeva",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Mirra Andreeva in tennis attire wearing a white Nike visor",
+          "reason": "The image clearly shows professional tennis player Mirra Andreeva, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/1280px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Elena Rybakina playing in the first round of doubles at the 2025 Washington Open",
+        "width": 1200,
+        "height": 1604,
+        "year": 2025,
+        "subject": "Elena Rybakina",
+        "asked": "Elena Rybakina",
+        "page_title": "Elena Rybakina",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:elena_rybakina_(2025_dc_open)_11_(cropped).jpg|Elena Rybakina",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Elena Rybakina on a tennis court",
+          "reason": "The photo clearly depicts professional tennis player Elena Rybakina wearing her Yonex kit.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2010. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'undefeated': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://matchtv.ru, https://rallyher.com, https://www.inform.kz"
+      }
+    ]
+  },
+  {
     "id": "2026-11-25-athl-a5a295",
     "slug": "from-a-sweet-factory-court-to-badminton-history-the-life-of-",
     "date": "2026-11-25",

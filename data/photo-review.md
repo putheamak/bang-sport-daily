@@ -4,6 +4,56 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Mirra Andreeva Named ESPN Breakthrough Player of the Year for 2026
+`2026-11-25-news-cad9bb` · 2026-11-25
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_%28cropped%29.jpg/1280px-Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Conchita Martínez**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Conchita_Mart%C3%ADnez_at_the_2010_US_Open_02_(cropped).jpg)<br>AI sees: _former Spanish tennis player Conchita Martínez carrying a tennis bag_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Mirra Andreeva**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Mirra_Andreeva_WMQ23_(cropped).jpg)<br>AI sees: _Mirra Andreeva in tennis attire wearing a white Nike visor_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg/1280px-Elena_Rybakina_%282025_DC_Open%29_11_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Elena Rybakina**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Elena_Rybakina_(2025_DC_Open)_11_(cropped).jpg)<br>AI sees: _Elena Rybakina on a tennis court_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Russian Biathlon Cup Second Stage Relocated from Uvat to Ufa Due to Lack of Snow
+`2026-11-25-news-24905a` · 2026-11-25
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/%D0%94%D0%BE%D0%BC_%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B3%D0%B0%D1%80%D0%B5%D0%B2%D0%B0%2C_%D0%A3%D1%84%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Ufa**<br>2018 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC_%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9_%D0%9D%D0%B0%D0%B3%D0%B0%D1%80%D0%B5%D0%B2%D0%B0,_%D0%A3%D1%84%D0%B0.jpg)<br>AI sees: _A historic brick building located in the city of Ufa_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Biathlon_Schalke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Biathlon**<br>2006 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Biathlon_Schalke.jpg)<br>AI sees: _biathletes at a shooting range during a biathlon competition_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From Heartbreak in London to History in Rio: The Life of Hoang Xuan Vinh
+`2026-11-25-athl-9fb3af` · 2026-11-25
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hoang_Xuan_Vinh.jpg/1280px-Hoang_Xuan_Vinh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Hoàng Xuân Vinh**<br>2016 · CC BY 3.0 br · [source](https://commons.wikimedia.org/wiki/File:Hoang_Xuan_Vinh.jpg)<br>AI sees: _Hoàng Xuân Vinh holding his Rio 2016 Olympic gold medal_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg/1280px-Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol**<br>2016 · CC BY 3.0 br · [source](https://commons.wikimedia.org/wiki/File:Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg)<br>AI sees: _Aerial view of the National Shooting Center in Deodoro, Rio de Janeiro_
+<br clear="left">
+
+---
+
 ## ✅ live · Kamila Valieva Ruled Out of Russian Figure Skating Championships in Chelyabinsk
 `2026-11-25-news-d8cd04` · 2026-11-25
 
