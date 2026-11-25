@@ -1,182 +1,17 @@
 {
-  "updated": "2026-11-25T10:55:53+00:00",
+  "updated": "2026-11-25T13:42:34+00:00",
   "stories": [
-    {
-      "key": "74513b0f25",
-      "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix",
-      "summary": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix Hypebeast",
-      "lang": "en",
-      "sport": "motorsport",
-      "outlets": 15,
-      "growth": -2,
-      "heat": 34.04,
-      "published": "2026-11-25T08:13:15+00:00",
-      "latest": "2026-11-25T10:37:30+00:00",
-      "refs": [
-        {
-          "source": "Hypebeast",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2JZNkR1RmJkaWI2ODA2cmEtdjZNcFFEYXIzVFVja2ZGaW9tbGtIZzlMZlBjYzJpQWRMRldacE5SMmNYN1NVeUdCbDZpX3RaWEx2bmlTUWYtNXlDWWtUd2VtYUZKUks0OHN0LWc2MXhaekNCRWM5SDRaZFhLQVp5aHBaQ1Q4UQ?oc=5",
-          "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix"
-        },
-        {
-          "source": "WWD",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVdGTlUycUlYS0syV0JydkJUVVE1eDRxLWRmM3A4SU9nS1ktbUc5M2ZZelVYUmYzejYyak5ON3hsM0xoUXN5R3pKN2tfM2tiZ2FkS0dlSmhWa1pQeGMtdWFnaFpDUTlDOFhhSU5TZjJoam9lU0VTTGpjd3F2R2pkODRRbVZzdElyUUoxS3FvX2VndTZTMUtod2hRV0l1LUtkQWQxbmdtN3hjc0szWl9aMm84ZlY?oc=5",
-          "title": "Lisa Teased an Unreleased Nike Racing Flat at F1 Las Vegas Grand Prix"
-        },
-        {
-          "source": "Formula 1",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1MzRzlvNEs1WGxrNmV3NmNNa3BydjV6WW4wMVRLOEpxdDR5elhMTVZmaHNrc3k0bWRnNkdkTmdvM05DbXlxd0F0Sm9YQTlKaXVKakJXWHVpQ3pGVHVWbEdIMHdCU1RkWlpqNDAxWDhqTEtPeUVVblg1ZDJBZ0xjYktGSjVKQ2luSWlUNlNuc0NoXzJCdDl0ZVVid1R2emlKRFZPcTBhVVVQaFliNHdBWkhLSmo3dHVkNDV1aWJyWDJVWVhKZHVhR2lUdll3Szlw?oc=5",
-          "title": "Why the Las Vegas Grand Prix is special"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVhveHNSREdYRFd0UkU5VVJ6aDY1dFk1WkhYRkhPS25UajZRTWZvV25fcDBSazR4NVN4YjJPYWdnX2tZdG9jRWlCMlRmVW1EemhxdmFCdmVvT0dWRGl4RV9xTFFXekJ0Ylg0amV6NkJSWUlTSjhrRWRwTU1NbzhQREgwNW1ZOTQt?oc=5",
-          "title": "Max Verstappen Spent 40 Hours Playing GTA VI in Las Vegas Before Winning Saturday's Grand Prix"
-        },
-        {
-          "source": "IGN",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJXRmprSHBjMDBDa1BhZWZadnhDaXZteDlQUllyOGFxRTNXVlZ0TTNOVG5ELWJKX0NTVzI2Q3ppZGtNb3c5STZkcDZvdE1rdDB4WU9sMXc2ZGRHZzNpaEFhOFZ4VmRlc2tySjFSb0hEOW9fVHJfWWprMkJVbG9CY05xNVNsUDd4bnhHR1lYWVp0aTYtTDV1bHRkWHkyQXh4cUFwRDlwdjI1YkI0RWRobw?oc=5",
-          "title": "Max Verstappen Spent 40 Hours Playing GTA 6 and Still Won the Las Vegas Grand Prix"
-        },
-        {
-          "source": "motogp.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVi1rSW1vS3M1bGRXQ2hZVEJfN185SlRvS2l2UXB2YjNxZ3VoTjZ6X3pJOXMzU2J1UFByWGNOOG95cG01ZUtSX3pIRnBBY0VTWU1RWVFMOTRlRmxTelZ1WHlJU3hYRWJ1V0RvU1gwbTlycTdCcDI1bkxqQWpWbFo0dTZOMWh2U0VjTm9CcnFYalRBMWVmZmdB?oc=5",
-          "title": "TIME SCHEDULE: Motul Grand Prix of Valencia"
-        },
-        {
-          "source": "BikeRadar",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnFQNzdKQU5obDJzUkVrV3VWTUE5S28yY2MwLWlTYmVKZ2NJRk9iM2tQZzh3ZUJVVHNfUU9TTmZuS0s2a2pOaGhNQXp5X2tqSWVnTDJuVTVOWHpEX3dnMHlwS2g4TWpaQVd4ZXhsS1lHSmE3aXRtWWlndVl5Qi1ZZk9vQWcyQnZyX2RVSTVueDV5OUhFektMUWVjQQ?oc=5",
-          "title": "This Continental Grand Prix 5000 S TR Black Friday bundle gets you a pair of tyres and bonus sealant for only £100"
-        },
-        {
-          "source": "Rolling Stone",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLU82RUFaNnlxUkJ1RU5sd2dfaWo1aVFCcUdVTmUyYUE5eVBkbkFLVXZfWnlnbC12c2hpZWd5c3JDYXNxVk0zV3VpQnVOZklFM2l5MVdUSUViYjEtVEd1WWhmMHBsVzR3NHNzY3dFaUs3czVIUlNyNzlVbnJMOURsUS1ib1MtNU1wSFNVNEJCMEw4RGRfdkRMSGZXS3VOaE1PNmFYWHlVd2twaExSVml5QUZvbEFMTFVDeG5vLXlXc1hHcHJGQW56czVpa2wyZjA?oc=5",
-          "title": "Inside 2026 F1 Las Vegas Grand Prix: Celebrities, Late-Night Parties and Race-Day Drama"
-        }
-      ],
-      "first_seen": "2026-11-25T09:42:30+00:00"
-    },
-    {
-      "key": "cdc4497dbb",
-      "title": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals",
-      "summary": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals Tennis Majors",
-      "lang": "en",
-      "sport": "tennis",
-      "outlets": 13,
-      "growth": 0,
-      "heat": 29.37,
-      "published": "2026-11-24T21:59:15+00:00",
-      "latest": "2026-11-25T08:00:00+00:00",
-      "refs": [
-        {
-          "source": "Tennis Majors",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUV4ck1vTk91TkRueC1ETlE2R0tZZEpJVEcxTTVBWUlkblpRU1JBYmY2Zy0zRi1IRWg1X1RDRnFYVFk0ZWFGN3FjekZMeUtuWXB1SGU1S0UzVjFoNjJDSW05cm51UVo4NXdsWjVveXYyeXE2WGNkSVE2c0d4Ql9GZHBEdWc0Z2dlak5WM2V4NjdBSGxwNzAzVzdvT0NjeXlkNkRELWdsT2hHTUNHS3BocjJzeXpPRkNDMS1CRXJmU3cyZmtaelVCYUFMbUZJM3RMOUw0cQ?oc=5",
-          "title": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnZYVXQ3aWF2WnpNaFV3aEUydk9pd1Jva3hwUnVVNE9NMEFTdVpOTjZkUEFvdVk4TEdlOGFvTmJIOW1Sd0FZVTA4Tl8zSG9wbjV1b0EzY1pYVjM0UWl2SjE3bHdQODllanByRERuTUd5bW1FOUR1V1drRjd4cFM1MjlmY2NXZ3VwVVhQQlZqY2dwR2dFVkVQcF94aTdLNDhtdnJr?oc=5",
-          "title": "Jiri Lehecka, Czechs beat Canada, reach Davis Cup semifinals"
-        },
-        {
-          "source": "Tennis Now",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRThFNjY3YmpwM19BLVFWUkZqNlZyazBfRllGaWNLVXU1N3NEaEtHX0xTWjJmVG9ONmZKcEF2aDZtQ0FtaV96eS1UMUtPd1lzZzdsTmtUc0JUS2x1VXRXMXpMX0V4S283STJIcm5ESzRFSnB0dTBCNGxIWGR2UjFVdVpKZ3luSGE0SXlUbzVjMDRhUQ?oc=5",
-          "title": "Lehecka, Machac Lead Czechia Past Canada into Davis Cup Semifinals"
-        },
-        {
-          "source": "The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTR6UERURlBwQUdscnNFMlBmWmRvQ3IwOW5UTnR0d05aQ3ZibWRfN1RvcDVndm1Rem1yRWZUOGprdjJFLXcxLXZVbURpUkpLdG5NM3FNbWQ5QVpKQXVfbFlMdVpaOGFwQnpkYWJGTnNES0V1eUVONGNrMl83eWNfUmdkdE5RY0tRZnVfdEhDSGVpV2VWZXM3ZWt4QmJlVUU?oc=5",
-          "title": "Czechia ousts Canada from Davis Cup Final 8"
-        },
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFRHdDJzems0VTZSSDllUWRPYUY4c1EyeURFQkJZMHB1ZUVuX0VRN3VDaWtxSFZxc3BfeDQtWXJKVllVcldsOWl4Y1Z6YmR6VmswQ3BXVWJDM25lbW8xOUNuazZ6OHJ1aURubjduYVlXZlNDVVc0S0ZyMk5vZFpFZ1V3T0s4dEUzWGhVNFVtTUY1QzJJOUNKeUVCQlBrQXhTb1dCVURBYmZ4VW5jVjhhdw?oc=5",
-          "title": "Machac beats Draxl, Czechia leads Canada in Davis Cup Final 8 quarterfinal"
-        },
-        {
-          "source": "Tennis Canada",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSWQ0ZnppR1o3RG5oVV9QVm5xVHlrZEFMcHRmbHpNcTFxRmNYOGdBazFNTUZKbDlYa1puWlBFTGgwWFI5ZG13ODh4TEFyQktDUjhtZTg3TE5DTWZ0QUlvLUFMeUdTWFlFbkIzeU52b3lDcE9OZ3NPalVXWFlIa1RLTjI1dW1Rd19EOWc?oc=5",
-          "title": "Czechia Knocks Canada Out of Davis Cup Final 8 with Two Singles Wins"
-        },
-        {
-          "source": "ATP Tour",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V1BpVnZEb1JxbHFqei1oSWtYTWJ1WkdlVlIyZXlJY3ZHcTE3MDlMS1JGU3ZNaVQ1RnpLdXI0MG4wVDNNUUtSVWplSEpYM1BaYks5bHZnMDI2ZWpGcUdyYTZmT1BWSm9MampSUjZ3?oc=5",
-          "title": "Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis"
-        },
-        {
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlkRko2eS16Z3NXcnZWTTdoMi1iMGQ2NmI3NXVpSlAzY0Y0TUpMaTU0eThxbUh2MkREVWpvWlpRcEdLcVByOHVXNk45MVF2YVd4bWpLTkRuWmJFUEJWU1FTVmFZQkloOEdBWGE2UHlOMlVibmJwZS1DUVBtbXRSd2NYRjg4UTlrYU9leHh4ZHZ6YnNLMTVhRU1MaXJ6RWpaMFg1dExVU0ptZ1pZNjhnUkQyVWZ6czQ?oc=5",
-          "title": "Lehecka beats Auger-Aliassime to carry Czechs into Davis Cup semi-finals"
-        }
-      ],
-      "first_seen": "2026-11-25T05:42:32+00:00"
-    },
-    {
-      "key": "d450fde961",
-      "title": "Usman Khawaja reveals message to Cricket Australia chief over Sandpapergate",
-      "summary": "Usman Khawaja reveals message to Cricket Australia chief over Sandpapergate The Independent",
-      "lang": "en",
-      "sport": "cricket",
-      "outlets": 12,
-      "growth": 0,
-      "heat": 27.94,
-      "published": "2026-11-25T10:32:00+00:00",
-      "latest": "2026-11-25T10:32:00+00:00",
-      "refs": [
-        {
-          "source": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0x4NnNvOG92RFY2T3dmRnRFMTk0VGQ2NXBRWS1iSTBnNVdiVm5DYnJXQzg1SmxVMDNJVzBneHVOZEV2NUdJNUU1Y2g2RUtsOXgtaFczRnVvYjFrSklZdnZIREFhR2xJOWRIc1ExZmY4MktPcXQzblNEOWI0Q2VGYTNmbXVkbF9SUE5aMnluV0xOX1hwc3hhX1BHMEFMdVpUbGFCeEc2aw?oc=5",
-          "title": "Usman Khawaja reveals message to Cricket Australia chief over Sandpapergate"
-        },
-        {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVhpSHh0UEVhQ0xialZ4T1hPOHdKY2p6Zk01MlZ5YWQ3V29XNU4tRjFrUWFYWWM4ZC1zYU4xTmNyNlBFX1hGbVh6UkxlWGZsV04xcUVrUTRra2NQMVNaUGZBYjZfbkp0TmM0alpSNk5sMmt5TXdscmotMzJWMXlSWHFYZUx6MU1JeDJGV1pXcU9vUFpWWlJES1ROd3BvYUNZNWNWSEp6N0x0bWhOdkc1VQ?oc=5",
-          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
-        },
-        {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo",
-          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
-        },
-        {
-          "source": "livetube.tv",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdklFQXIyOTB4VVhBQkJfazVuNHRxZXktM0lWXzVDT29KRGtZQWJZTFFMQ04zQktia3E0SWZKSGRwUWhwUUdNSmFNb3l6MmQyeExNWVp5VzJhYTdybnhsOE56WmJSejJFMXYzTWFTeE9HSkhaZzM2YnJEWEN4TS11ZVhJVU1XRkdjNWI3Y0dkTTVmOERvbHphNS1fU2Y3azVRakl5Sg?oc=5",
-          "title": "Video: Sandpapergate: Cricket's ball-tampering scandal back in the spotlight"
-        },
-        {
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIeVhkemQ1QjIzZjF5MHNTdThLemZ5c2R6UXp0N3hHMmUtUVdFMzRrbVF6ZnJwNXRNRTFxc0N2VUpQenNaN3RTUFpWX3p5VXpNTndGVlROMnRuek9HczhiYUpTV1htSDg?oc=5",
-          "title": "Sandpapergate: Cricket's ball-tampering scandal back in the spotlight"
-        },
-        {
-          "source": "CNA",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHZXWEJGVFNiV0N3MGZiMHFzMDR3cGl3Z0V2VHJFMEVWWmR2a2F3TEVjaW11dXVfRDloRmJRcGRyeG1aeEVXQmdTVjlkS1JfRWF4ZTU1djVQbzVDdGxIT0ZDMV9MRWdkZ0pqdGM1ZmxlTngxQU5uRmpCczNZV3M4VlNnRHVtcGhmYUctbzBMR3NOVDMtd3FJRTFMTnVZQzJZTU5iZzcyT293QnhsNDMtaTd6VHJxSG1mM3pwOThONVJRUQ?oc=5",
-          "title": "Khawaja says he sent Cricket Australia olive branch amid Sandpapergate fallout"
-        },
-        {
-          "source": "The Straits Times",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzg4cWhIeWpPNEF6SDZNeUFrS3pUZWhWVjJBel9WUThHZ3VsODlPUG9qblFxVTJKYVZfMlZaeTlTMlUzckZYVWhGQlA0X0RueWJxZ2Z0WWZtWnZrMkNKNS1lX3JyTXhDTUNfX3hJVHZHNTZUSmw5bmNWakFlbXZjdWVoQ0NaV3RFY1V1bWJMY2Jsb3pwRmpmZ05tWk00alVGbW55YkJLRlRVTV9CODFUZ2lvNA?oc=5",
-          "title": "Khawaja says he sent Cricket Australia olive branch amid Sandpapergate fallout"
-        },
-        {
-          "source": "The Independent – Sport",
-          "link": "https://www.independent.co.uk/sport/cricket/usman-khawaja-pat-cummins-sandpapergate-b3091259.html",
-          "title": "Usman Khawaja hits back at Pat Cummins over ‘personal attack’ in Sandpapergate latest"
-        }
-      ],
-      "first_seen": "2026-11-25T10:55:53+00:00"
-    },
     {
       "key": "f288875ddd",
       "title": "Медведев назвал Бориса Джонсона провокатором за предложение ввести войска НАТО на Украину",
       "summary": "Медведев назвал Бориса Джонсона провокатором за предложение ввести войска НАТО на Украину Независимая газета",
       "lang": "ru",
       "sport": null,
-      "outlets": 12,
-      "growth": 0,
-      "heat": 27.57,
+      "outlets": 14,
+      "growth": 2,
+      "heat": 34.26,
       "published": "2026-11-25T08:33:17+00:00",
-      "latest": "2026-11-25T09:11:00+00:00",
+      "latest": "2026-11-25T10:56:54+00:00",
       "refs": [
         {
           "source": "Независимая газета",
@@ -204,11 +39,6 @@
           "title": "Медведев пригрозил Джонсону из-за призывов ввести войска НАТО на Украину"
         },
         {
-          "source": "K-News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2tIcGFEUE0xTkphZnljeU5CMXQzTjFSSE0zaHhlVUdyY3pkdUJ0bnlmQXVrWWd2RzY3NFh4R2JfWExucWdrdGVfWU9qOUIwUVd2enVRSHgzWnlCb25PWWhHOEozc19FdnBIVC16d2owZDRVVFcwVGNOd2tHVFJ6RG9KVnZDV05rVWpfcHA5dWc1ZjA1OXdsTnZPSVM0UHcwVXFtSEl2aXJXT19BS1dsZExxRUR6MHBBY19FUg?oc=5",
-          "title": "Дмитрий Медведев заявил, что надо повесить экс-премьера Джонсона на Трафальгарской площади"
-        },
-        {
           "source": "Общественная служба новостей",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmd0ZlNoSTZQeF9USTgwMUlra25maEN3d1h2LTRZTjhBNUtaMjJtYW5BUzRzOWdXNGlZMElUOGQ1SV9Ga2hxWGkzY2ZOQTdyZi1IOWxyZkp4Q1k5ZFJMYmd4cTRLOElBNm5MRlBOalBlVU1rTTkzZFdKWEVKZnZLTTFqN1dZamhmUFhLUmR2ZGI4aXNCeU9IQ29heDJmWlk?oc=5",
           "title": "Медведев предложил повесить Джонсона на Трафальгарской площади"
@@ -217,218 +47,232 @@
           "source": "URA.RU",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51R1dwR0oyaHpJZnVnSlJTcjcwM1ZqYkY5aXNiVUQ3QmJ1M3ZQWS1XbUxaYjJDOEZHQlotZlpMVFcyLWM5RE84?oc=5",
           "title": "Медведев пригрозил повесить Джонсона на Трафальгарской площади"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kMGdmeWtSZkJFaW44UUpVTXE2OHBEdzk0VzNKeVNkZVh6VXBwbHV1Z3JnNzAzbDZ0UklFU1hBZ0ZKMmRqSktWODlrNm1YRnFSZ0l0c1NMNDBBckt2b0liQzZ1eVNndXZFRnk1UHg4MFF2WER0S3Jj0gF3QVVfeXFMTmQwZ2Z5a1JmQkVpbjhRSlVNcTY4cER3OTRXM0p5U2RlWHpVcHBsdXVncmc3MDNsNnRSSUVTWEFnRkoyZGpKS1Y4OWs2bVhGcVJnSXRzU0w0MEFyS3ZvSWJDNnV5U2d1dkVGeTVQeDgwUXZYRHRLcmM?oc=5",
+          "title": "Медведев предложил повесить «патлатого дегенерата» Джонсона в случае войны России с НАТО"
         }
       ],
       "first_seen": "2026-11-25T09:42:30+00:00"
     },
     {
-      "key": "5fe714ee3c",
-      "title": "田秉毅出任中国羽球队主教练 备战2028年洛杉矶奥运会",
-      "summary": "田秉毅出任中国羽球队主教练 备战2028年洛杉矶奥运会 联合早报",
-      "lang": "zh",
-      "sport": "olympic",
-      "outlets": 8,
-      "growth": 0,
-      "heat": 19.5,
-      "published": "2026-11-25T08:18:10+00:00",
-      "latest": "2026-11-25T08:18:10+00:00",
+      "key": "cdc4497dbb",
+      "title": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals",
+      "summary": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals Tennis Majors",
+      "lang": "en",
+      "sport": "tennis",
+      "outlets": 12,
+      "growth": -1,
+      "heat": 26.63,
+      "published": "2026-11-24T21:59:15+00:00",
+      "latest": "2026-11-25T08:00:00+00:00",
       "refs": [
         {
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTVBRcWc5c2ZZVmVmVWNNQTdvbFAxcmhEQ2JydHVwcC1SRWlUOUpBUVB6eXRLdTFYOEJUMVRaNDh5U3JPMTZzcWJRdEtBcFU3YmRYS3ROb3p2Wkw0UlFvM2prWlg5amZCUFFLbg?oc=5",
-          "title": "田秉毅出任中国羽球队主教练 备战2028年洛杉矶奥运会"
+          "source": "Tennis Majors",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUV4ck1vTk91TkRueC1ETlE2R0tZZEpJVEcxTTVBWUlkblpRU1JBYmY2Zy0zRi1IRWg1X1RDRnFYVFk0ZWFGN3FjekZMeUtuWXB1SGU1S0UzVjFoNjJDSW05cm51UVo4NXdsWjVveXYyeXE2WGNkSVE2c0d4Ql9GZHBEdWc0Z2dlak5WM2V4NjdBSGxwNzAzVzdvT0NjeXlkNkRELWdsT2hHTUNHS3BocjJzeXpPRkNDMS1CRXJmU3cyZmtaelVCYUFMbUZJM3RMOUw0cQ?oc=5",
+          "title": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals"
         },
         {
-          "source": "浙江在线",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNLUc4cmZocWhtaW9OQ3JDVDNrcFFvYmh0NEVtRENHa0NoYWFjR2ZZRkxHbXd4UVlUTUVJN0c4U0RNdVppbDRXcFdPRW5iNTZ3RlBvWk05MWRtcUpxRTh4S0dDcTFOWVJlWUdaa25oWQ?oc=5",
-          "title": "备战洛杉矶奥运国羽新帅揭晓：田秉毅出任主教练 张楠加入教练组"
+          "source": "ESPN",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnZYVXQ3aWF2WnpNaFV3aEUydk9pd1Jva3hwUnVVNE9NMEFTdVpOTjZkUEFvdVk4TEdlOGFvTmJIOW1Sd0FZVTA4Tl8zSG9wbjV1b0EzY1pYVjM0UWl2SjE3bHdQODllanByRERuTUd5bW1FOUR1V1drRjd4cFM1MjlmY2NXZ3VwVVhQQlZqY2dwR2dFVkVQcF94aTdLNDhtdnJr?oc=5",
+          "title": "Jiri Lehecka, Czechs beat Canada, reach Davis Cup semifinals"
         },
         {
-          "source": "Sohu",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Qc0hKYm11elhDb0pCLTJfTVlad0FURFNFcERhZ1pIaXY3d19JR29WbVVIMWlGV21OTzQ4V2dodlZneE53MmRkNHZtLUNlb0dzR3EwcEFpYWdpTnVCalpxS3NNY3dLcEU?oc=5",
-          "title": "【#田秉毅任国家羽毛球队主教练 】据中国羽毛球协会消息，为进一步做好2028洛杉矶奥运会备战参赛工作，经过充分酝酿、广泛征求意见，中国羽毛球协会研究决定聘请田秉毅担任国家羽毛球队主教练。（来源 新华社 编辑 柳爽）"
+          "source": "Tennis Now",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRThFNjY3YmpwM19BLVFWUkZqNlZyazBfRllGaWNLVXU1N3NEaEtHX0xTWjJmVG9ONmZKcEF2aDZtQ0FtaV96eS1UMUtPd1lzZzdsTmtUc0JUS2x1VXRXMXpMX0V4S283STJIcm5ESzRFSnB0dTBCNGxIWGR2UjFVdVpKZ3luSGE0SXlUbzVjMDRhUQ?oc=5",
+          "title": "Lehecka, Machac Lead Czechia Past Canada into Davis Cup Semifinals"
         },
         {
-          "source": "CCTV",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lelgwTHhmcjVlU0c1X2ZsTWZ6dGF1TXdkYXhrNkxyS25nV0M3Tm9UcjFjbnk0bEUyQ2ZqbG9DYWhjeDgzN2pfRTB6eW44ZE1PSkRBSDc0dGZsSmZHcmhXVGcxUzJ0WkJjVGxZZmR0VVZDb0dVYXc?oc=5",
-          "title": "[羽毛球]田秉毅担任国家羽毛球队主教练"
+          "source": "ATP Tour",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V1BpVnZEb1JxbHFqei1oSWtYTWJ1WkdlVlIyZXlJY3ZHcTE3MDlMS1JGU3ZNaVQ1RnpLdXI0MG4wVDNNUUtSVWplSEpYM1BaYks5bHZnMDI2ZWpGcUdyYTZmT1BWSm9MampSUjZ3?oc=5",
+          "title": "Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis"
         },
         {
-          "source": "新浪财经",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBodW9iSXlHRWJfUDFaVzVkeHVUWVJ5TFRQRjNkY1BYNGRZRWZlM3pFQlU5ODhqQU42NVJSS1hHTVhESV9IVTRmcDZ3aTVSYzJqWlBOYUVBS3pPTDVpLTZrLS1nblBYckxNaF84N2NQdEFVTEh2aGhtUw?oc=5",
-          "title": "中国羽协官宣！田秉毅出任国家羽毛球队主教练，张楠等人辅佐，正式开启奥运会系统性备战"
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlkRko2eS16Z3NXcnZWTTdoMi1iMGQ2NmI3NXVpSlAzY0Y0TUpMaTU0eThxbUh2MkREVWpvWlpRcEdLcVByOHVXNk45MVF2YVd4bWpLTkRuWmJFUEJWU1FTVmFZQkloOEdBWGE2UHlOMlVibmJwZS1DUVBtbXRSd2NYRjg4UTlrYU9leHh4ZHZ6YnNLMTVhRU1MaXJ6RWpaMFg1dExVU0ptZ1pZNjhnUkQyVWZ6czQ?oc=5",
+          "title": "Lehecka beats Auger-Aliassime to carry Czechs into Davis Cup semi-finals"
         },
         {
-          "source": "湖北日报传媒集团",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMUUZud1F2c1J1STR1STVDd1JqRUxrS0tjOHllLTRxTUtaX2xfX2psQWgwNUd3MnpUdk1MY1JOS05PYkh4cFAzVnBmZ2V5MDJKSi01bGRvVQ?oc=5",
-          "title": "田秉毅任国家羽毛球队主教练- 湖北日报新闻客户端"
+          "source": "Yahoo Sports – Tennis",
+          "link": "https://sports.yahoo.com/tennis/articles/felix-auger-aliassime-speaks-losing-080000417.html",
+          "title": "Felix Auger-Aliassime speaks after losing for Canada at the Davis Cup and confirms plans for 2027"
         },
         {
-          "source": "京报网",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hdWNBZUJ0NkFLRDVmaE5UdGFpQmE0NVhZT05Jd0tKcmZ6TzlWRTMwN1V1UUk0QUN0eHJzeU1ZejZReXBwaDJ5bW91SzZ0cEtiRkFEQlZJR3hvYnVnLWtISDRwb1U3dWNRTFlxNjhBSlpvQQ?oc=5",
-          "title": "田秉毅受聘为中国羽毛球队主教练 张楠进入教练团队"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWxxTmd5amhwSkR2RGFqTVBDNVB0Y1V0enpHLUs2MExDV3ZrMjRJWHpYa3hRc240Z3hNU2RNajhnZ2d1blNZS016Wm53OFRsSEdtbUFrdUxZT3ZIcTJFQWNFdTZZQjBWcC03VW0wOUlBOE1kVWZHTmJOMl9uVGE4UFJzWG1KSTQyWGFhR20tTGk4dEVpY3c?oc=5",
+          "title": "Felix Auger-Aliassime speaks after losing for Canada at the Davis Cup and confirms plans for 2027"
         },
         {
-          "source": "新华网",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzFLUVoySXhVdEtQUXBmYUV1eGdwWUdfamxkX3JBTUZXNEpZTVNYenZYYnZ5bmZic2QxbllFMGpsWm9tZ2RUbzF3enBxUjZIRVJJeC0zZU1aYXBQeUgwRlNNb0NnbG5NcXIxYXZITVlPLW10eTYzYzR5S25iRGN5Rw?oc=5",
-          "title": "田秉毅出任主教练 国羽冬训动员大会举行"
+          "source": "The Independent – Sport",
+          "link": "https://www.independent.co.uk/sport/tennis/jiri-lehecka-leads-czechs-to-davis-cup-quarterfinal-victory-over-2022-winners-canada-b3090999.html",
+          "title": "Jiri Lehecka leads Czechs to Davis Cup quarter-final victory over 2022 winners Canada"
         }
       ],
-      "first_seen": "2026-11-25T10:55:53+00:00"
+      "first_seen": "2026-11-25T05:42:32+00:00"
+    },
+    {
+      "key": "8e410dcfb1",
+      "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate",
+      "summary": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate The Guardian",
+      "lang": "en",
+      "sport": "cricket",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 25.97,
+      "published": "2026-11-25T10:53:00+00:00",
+      "latest": "2026-11-25T13:00:19+00:00",
+      "refs": [
+        {
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVhpSHh0UEVhQ0xialZ4T1hPOHdKY2p6Zk01MlZ5YWQ3V29XNU4tRjFrUWFYWWM4ZC1zYU4xTmNyNlBFX1hGbVh6UkxlWGZsV04xcUVrUTRra2NQMVNaUGZBYjZfbkp0TmM0alpSNk5sMmt5TXdscmotMzJWMXlSWHFYZUx6MU1JeDJGV1pXcU9vUFpWWlJES1ROd3BvYUNZNWNWSEp6N0x0bWhOdkc1VQ?oc=5",
+          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
+        },
+        {
+          "source": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0x4NnNvOG92RFY2T3dmRnRFMTk0VGQ2NXBRWS1iSTBnNVdiVm5DYnJXQzg1SmxVMDNJVzBneHVOZEV2NUdJNUU1Y2g2RUtsOXgtaFczRnVvYjFrSklZdnZIREFhR2xJOWRIc1ExZmY4MktPcXQzblNEOWI0Q2VGYTNmbXVkbF9SUE5aMnluV0xOX1hwc3hhX1BHMEFMdVpUbGFCeEc2aw?oc=5",
+          "title": "Usman Khawaja reveals message to Cricket Australia chief over Sandpapergate"
+        },
+        {
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzg4cWhIeWpPNEF6SDZNeUFrS3pUZWhWVjJBel9WUThHZ3VsODlPUG9qblFxVTJKYVZfMlZaeTlTMlUzckZYVWhGQlA0X0RueWJxZ2Z0WWZtWnZrMkNKNS1lX3JyTXhDTUNfX3hJVHZHNTZUSmw5bmNWakFlbXZjdWVoQ0NaV3RFY1V1bWJMY2Jsb3pwRmpmZ05tWk00alVGbW55YkJLRlRVTV9CODFUZ2lvNA?oc=5",
+          "title": "Khawaja says he sent Cricket Australia olive branch amid Sandpapergate fallout"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo",
+          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTZjZHhaaUFxaUQzaHRQUy1OY3k2MGRySzVaMVdxc3ZvNVNEMlVyNDU1dFBqMzhIQzh2cmNBVTRVY0Vtc3BiQlE0cXBoeDV0ejlTaDlVUVpCdFZ4cjgyV3p2N1QzWmhnNlJ3T0E5NlZHSjJHRGY0a3RuX2ZOTXd2QmRjRGw1Vlp5SVZqcVpLYVRMdkx6R3pmaHN2bTkzczlaOURtRDRqSGRObDRLa3VFUTBQRFVYaVBrX3VEODFYS1pTVXVqRkt3cQ?oc=5",
+          "title": "Usman Khawaja shocked by captain Pat Cummins' comments: Sky Sports Cricket Podcast"
+        },
+        {
+          "source": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFhlc1RJWVRjN2NDZ21aQkdTTnlaRDlzb09DUGFRbGhyR080Y1BSZURwdFUtS1BNRVZ4UUJlOWxiNWdHU3djLWVzZjNZazFpQVZKdzM2Vl9oSWU1VHo2VEtHSlh6bHEyTjJhMVdnMDZCNlR5SGZUVEhzWmExRU1xbFJWRzVQTTFHWHZLRURMUG82TlZ4LUdiVWxfT2RUQ3RBV1RqOHNYaktGdw?oc=5",
+          "title": "Usman Khawaja: Australia ball-tampered during the Ashes"
+        },
+        {
+          "source": "NDTV Sports",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXFmRzNlWEtyMVhDZk1Od1JaeUVBUjBZTF9PSThNbUo3bC1WcXpKQ0RRSkJvT1g5UlFDWDVpeFNzb0pFTkZmNEVCVnpHMUdBby03dklSZEMtTnF4b1FrVEF1WjJrY2luYXNNZ3I0Ymx4VnJkendfVVNJTl9INUV2djVmSGZrbDBRTGhveUlCLUhScjJXUkhKX2lpZ1RYc0d2aHM4LTBqdDVaY1E1Um43RlkwZGRzLVdjcWFnbXRFb1JKdw?oc=5",
+          "title": "Usman Khawaja Explains What Deepened Australian Cricket's Divide After Sandpapergate"
+        },
+        {
+          "source": "AFR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVFwSW5IaDlPbU0wOW9neFB5clVsbndERHhKWm9xb003NjJEZnhQb0NqbF9fYUZYNW40N3o1M0NWeENrNWVEVmlYTWlQT2ZydnNfU3psbHlrTlNXM3BmTG56dmdHd0gxdnZER2d5TnNFZ3BCZ0R6bDRQUlFnVVVYTEo1b013anZsZWxjUHRmS3gxd0ppaUJwMA?oc=5",
+          "title": "The lawyer at Cricket Australia’s ground zero"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    {
+      "key": "b3c910f261",
+      "title": "Logistics, organization… The machine behind the Las Vegas Grand Prix show",
+      "summary": "Logistics, organization… The machine behind the Las Vegas Grand Prix show www.autohebdof1.com",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 25.71,
+      "published": "2026-11-25T12:38:13+00:00",
+      "latest": "2026-11-25T12:55:00+00:00",
+      "refs": [
+        {
+          "source": "www.autohebdof1.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzNBZmsyYTJFb3FwLTk0eWo0cnViY1BKczNaNHg3dmdLNlFRdUZzNWZWTzFYcTZCZFU1eGx0MEppRUZlX2hmQUlmc2E4YmJ1a1pWbFotbEdvYkZwRlN3M1RBRXFNLUFyWXcwZWpSTDlzMGx3bXJHUmJMaFFFNWs1aWJEQ3l0UVFQVWpGaGZOTVptM3pYb3JHOTVxRmR4ZzNQb1hTWll1Q3ozb0hBTkxadTBFT3pVUQ?oc=5",
+          "title": "Logistics, organization… The machine behind the Las Vegas Grand Prix show"
+        },
+        {
+          "source": "Formula 1",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1MzRzlvNEs1WGxrNmV3NmNNa3BydjV6WW4wMVRLOEpxdDR5elhMTVZmaHNrc3k0bWRnNkdkTmdvM05DbXlxd0F0Sm9YQTlKaXVKakJXWHVpQ3pGVHVWbEdIMHdCU1RkWlpqNDAxWDhqTEtPeUVVblg1ZDJBZ0xjYktGSjVKQ2luSWlUNlNuc0NoXzJCdDl0ZVVid1R2emlKRFZPcTBhVVVQaFliNHdBWkhLSmo3dHVkNDV1aWJyWDJVWVhKZHVhR2lUdll3Szlw?oc=5",
+          "title": "Why the Las Vegas Grand Prix is special"
+        },
+        {
+          "source": "AutoRacing1.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjEyNEdYSVlzY2tsMzhkbHllOG5NSWJHU3BzcFhfTlM1ZnE5RXZNQV9lRWVLbFhiNU9PeUp6UzVmRUtrV2NfTzZ0MXkyTm5oM2JZSHRaSzRWXzQwWjBQMHZyTUxwWS04bmlmS0ZzMVdpdVF4VzN6Smo4WlNnNW9vODdJRC1TUmFyQnFn?oc=5",
+          "title": "Formula 1 News: 2026 Qatar Grand Prix Preview"
+        },
+        {
+          "source": "News-Herald",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0d0TzhBcURtTnBTVldrd0RyQnVpa1BMd0ZFX25Yejl2YXlyV2hHYVI5WEp1UFVxTkk2c0N4NndiUzhMdUc3S1RpRDNwbG1WUUhNNm9xR2ZZb1NLWm1JQ05TVFZncU91RE9YNzNEY0RVUjM5Z095VzZBRDJLZTBUOHJjamJicWR0RlM2UmUxb2Zkc0FDU1Y4WFNncUdQZWs1VXlUb0dn?oc=5",
+          "title": "Lake County-wide Puzzle Grand Prix heads into final competition"
+        },
+        {
+          "source": "motogp.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVi1rSW1vS3M1bGRXQ2hZVEJfN185SlRvS2l2UXB2YjNxZ3VoTjZ6X3pJOXMzU2J1UFByWGNOOG95cG01ZUtSX3pIRnBBY0VTWU1RWVFMOTRlRmxTelZ1WHlJU3hYRWJ1V0RvU1gwbTlycTdCcDI1bkxqQWpWbFo0dTZOMWh2U0VjTm9CcnFYalRBMWVmZmdB?oc=5",
+          "title": "TIME SCHEDULE: Motul Grand Prix of Valencia"
+        },
+        {
+          "source": "Hypebeast",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2JZNkR1RmJkaWI2ODA2cmEtdjZNcFFEYXIzVFVja2ZGaW9tbGtIZzlMZlBjYzJpQWRMRldacE5SMmNYN1NVeUdCbDZpX3RaWEx2bmlTUWYtNXlDWWtUd2VtYUZKUks0OHN0LWc2MXhaekNCRWM5SDRaZFhLQVp5aHBaQ1Q4UQ?oc=5",
+          "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix"
+        },
+        {
+          "source": "FOX Sports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2FNbU4xeFU0b1NnVUtKamY0RkJBQmtmRm9vUGp6YVdua1NGTGhfYkRabFF2WjlhRXVoa0R2RzZqaUpPc0o5a25vQXItRUIyNThBN1Q3R2puekxfYWRHT0dnZDl0Z0RQSWpzNWhtNTJlM1k5c180WFVZWDhqUXFrd3FYMEJnRFJ3TmJqeWthbFg5eU5fRXc?oc=5",
+          "title": "2027 Detroit Grand Prix Leaderboard - June 06, 2027 - IndyCar Series"
+        },
+        {
+          "source": "The Item",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE94dkQweFh2RFlfVzJBV0RpZnFXWXZ5SFZOX2JpWGZyZ2g4RUtabV8yVUZRbXVhcXUxajc2ejVFNUhkSUF0bFhKVEVaRlRvR2ZvZzlBbWJaVG1MU2FhVS02SnZrZ3dfU3ItTXU1bUlIbXZRNzB3M1p2NUF6SUxQMFFsUDdtMzFWQV9pU0hwNnhjLXNKQUo2Ym5YUUtUa3lNalpWenNB?oc=5",
+          "title": "Verstappen wins the Las Vegas Grand Prix for 3rd time in 4 years"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    {
+      "key": "9346fd5036",
+      "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»",
+      "summary": "Боец UFC Карлос Пратес поддержал чемпиона PFL Усмана Нурмагомедова после массовой драки с участием Мераба Двалишвили в Абу-Даби.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 18.14,
+      "published": "2026-11-25T12:17:00+00:00",
+      "latest": "2026-11-25T12:59:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/prates-podderzhal-usmana-nurmagomedova-posle-draki-s-dvalishvili-na-ulice-net-pravil-2478805/",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU9Wdm5LaHNHWktrblRRbExEVHc3aWZHMmFVem85ajMtbFlsMWtWWEx1bUUya2cyc2tQSUtGWWJWbDJCOUVTWXZ4QlpVejV4b0JXSGNWV0hGR2JFSkM2ckt5UER0cVVPY0FOZldOTXVsT2U0N2k3ZHJMM2xWTUlQRnkzOXdTSHdhQWg5Tm1RV2dDeUt2UTZrblJUVWtMNmdmRDdFcU9jOW82UTlVSzYtdUtYQmJQay1KMVY4NlFfeGYxNmdYU0wxazFQY3dCVE1IUHRfZTE3MF9XMmxU?oc=5",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261125/prates-2133847779.html",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG13b3RfaHo5YWhCZG5JRnQ1YkExUkZDNzR5TnhOLXdaVEhMTlpRTkJuNUxvUWxUVGczS0NPTUw5azJXam1LVFIwMndkYVJvSVM3V2dZd0NaeWxncTRtdkRnVmg5OEpENG56Z1pLRmU5SUZnYXQxb1lUY19ieHF4QlA5bkdGdWxLQ1pHOG1za2NtWUwwUWNVNWlNNGs2TUc0QjA1MDVRTW9KYVU0ZHRtTGRSZWkyUQ?oc=5",
+          "title": "«В уличных драках нет правил»: боец UFC объяснил конфликт Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFJ3aFVtMmVzbmI0clFaRTgwYWlWWlVEeE5haDBGSEcxMTh2MEdHdDk5YXVwYVNjU0VWUFdEelk1NnBLcGxJRU5NUXl4ZWNJWVhmamdmY3lzUmt2TWxGRFQ2c1p1cWlJWks0RkVzbXFTNXpPQ054NmZBMEVES1BKYnUxcm94ZmRSWDdYMFRYUlE4SVJGSU1nVlZ0OG1vdHRVZVljT2x6UG1JSnpORi1mM0xYZUR4WTFWM0ZqbWVUUGhVT2s?oc=5",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили: в уличной драке нет правил"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2lMMU1zeG1hUjQxRkxJZDFqeHlJbm0zd1dIOGUwSTN2RldyWGdlOEVwVWN0SG5obGlZcXV1T2dObGpza3RaZlRMNThqZTZxS21EcTUxUVFmQUpORG8tUXdEMzcxQ3pMLU1FN0NRQnJiRzU5cGFxSmxoajhUWmFueUZjd1lwZnFoTXZiQ0JycmdrQXU5VGVKTjZXRlMzSkVvaHZTUC0tX2NKTzdxTUlIcVZZNTFpRDllTTZKbVBYNjRFSE1hUWfSAcsBQVVfeXFMUF9pR3hZb0d5SnZQZUt0aTF5Yjl5ZHIxaG9pS3d1Ujc3aXdiLWNzaWlMcC13M0hnVloxT0YzN2MwTDlnZ3h0YWdqa3RBa3hNSDY2VE1PWXY5ZGtVaVZLZlo4aUFaLUhvRkFMdWlyM3BtUmFGaDdPQ1htWjdWYU1FeUJDOEZmTkRXR2lEVnpCSkgydmJ0X1N3eVZIUXAta3RLU3JRTGpJaVhmX3pvd2pyMVdLTlh4LTlPbWFnaFkwaUtxTVE5TjVPV2QxeW8?oc=5",
+          "title": "Пратес оценил поведение Усмана Нурмагомедова: «Это уличная драка, в ней нет никаких правил»"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNNLWlES2ZOeURqVmt1am9TVEl1U3BrZnBjWW9BYlFJNWFKd3F0czRzenRwamtiaVdrMHo2Q3ByenRFQk9WX0xPUksyanRIMlZqekxmMURiYzhEbHIwSTZrLUhMeVVGV0dsLTVONlFKV2JqZ3RqYjE1NHdkSmtjV0lRdEo0UlQzNU11STJ5RFNEblYxUmtlTEljcW5NcG1wb3hvbzEwWlo3dFlGRUJsaW5GUEE3Mi1ZUHFIcmZlR0lNTmFTLWpjLU9iTQ?oc=5",
+          "title": "Усман Нурмагомедов стал вторым в рейтинге бойцов ММА до 30 лет по версии ESPN"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
     }
   ],
   "known": {
-    "74c259e3d5": {
-      "key": "74c259e3d5",
-      "title": "Conor McGregor Back in the Gym Preparing for UFC Return",
-      "summary": "Conor McGregor Back in the Gym Preparing for UFC Return Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.76,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T22:50:53+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1xdHB3SVhxb3JkTDdCRTV4V2NuRk9jSmtObmtkak5seE9LOTZPUkNmTnFISHFnZlp3RmsyU3dlUXFId0ZqQktGV3FsVFQ5UExWcmw4dERuQlV1bVYtclhhMHY4MHE0al9DekdwdVVJOUtIeTFBTUVMQXhQbTVZdXI5cHNEd0lzbkE?oc=5",
-          "title": "Conor McGregor Back in the Gym Preparing for UFC Return"
-        },
-        {
-          "source": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCd0hBMU9RWnBaN1FqdFZWTDh4VGlra1pnSUJtdFJtOHBFWnV3QXJlN3dtRUFrXzd3TGVLTVM1T2ZnUXN3OWNhZDBGMHpQNDd4ZTVrRU5OdmtSRlEwNjdGTElZZ0lyY3NNX0F0S2pmczJxSkJhVDI5M0lCenBMdw?oc=5",
-          "title": "Conor McGregor 'fully back in the gym,' gearing for final UFC fight"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTVFxTEF1UFdxTmszeWhEYnhtVkxHbWFxYl90eHQ2a1BYWkxDZDdNcHlUdlQ1a3BxR29SUlVpYW5FT3llV0FFMnFlUjMzUVFVZDE1UVgwWGZYR0lQN3hBNGlZY1lkUTVEWEJ0aTdKdmE0aWNWZVdqV2U5S29Jb2I0aWkxckdlbnoxNUhqT3BOX2xZdk1RdzE2MmxKazlkNEhPdGNHLUN5UXhIS0pJMTNwYm5zYU14Y00yTGwxQzVXVkxJV2oyemkxSEZVMDZ2SzdjOUE?oc=5",
-          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
-          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
-          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
-        }
-      ]
-    },
-    "af79b04d7e": {
-      "key": "af79b04d7e",
-      "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor",
-      "summary": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor MMA Junkie",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 13.91,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-23T18:30:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1pubTAtNVdqX00yR3dKLU5aM2QxMHVEaDVZa0MzOUJJZkRTODFkM01QaGZXc1hrTWI2dnh4Y1BfYW45c3BuXzN4U1hiYUZ5SnJHcEluNGFZZ29Id1F2a2tGTmVNSjZ3UmFtZjNFRkVneGRDazdRRmpMRi1rQkFKbGFRSFJnWEkwTTg0TFZSQWN1V2F0bjJPTUVlTE9fSmh4d21OeDd2bE5iaVYxVkpRYUdTUjBjQ0hSY1I5R2VuUWs4ejktUlE?oc=5",
-          "title": "Ilia Topuria pitches 'TUF' season vs. Paddy Pimblett, jabs Conor McGregor"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/523055/ilia-topuria-pitches-tuf-coaching-gig-with-paddy-pimblett-mocks-justin-gaethje-and-conor-mcgregor",
-          "title": "Ilia Topuria pitches TUF coaching gig with Paddy Pimblett, mocks Justin Gaethje and Conor McGregor"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9jdkRjdVhPR1VTdkZZaHNhS2YzYjNaTUxHVHduTGxxOWxzUXJvTTlqbEtibkZ4SGZKME9iY2Q4Qy01LXdUUl9HTjM0TGVXVFZKc1RBVi1LS1Bqa1B2dzc5RXRwNGlsSUlmclR3VkZ3Z1dJWG9wQlRKbk5SUGVveWJDaDkyZ2lrb2RXcg?oc=5",
-          "title": "Conor McGregor returns to MMA training for final UFC fight"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHZrLWQybFVTWEJPSTZmSWU2aXgyaXpTWmV0WjNNQzRMcjhmSjl4MExJdXNoMTV1M0xwUDB6bEpDVTRVajlyaEZRN1ZFbWR0TkpTM3N4UWdlLU83RU9JdTBZdjhpdXEtRGhNT1c1U0VocFoxWXpXZW9NMm1mdGZoeTdPc3RjdkdjQ2taY0xRbXU5QnhSUHVEbXlrS00wdW5KX2ZnRlQza21oU3NhQTVsRWpsR0JjRDIzZHV6M09n?oc=5",
-          "title": "Paulie Malignaggi Claims Conor McGregor Will Never Fight in BKFC Unless Given an Easy Opponent"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObGVDNEF6OEFGZnczWHIwaTZuamV1RU5uLURLNWFvdFgtOTFURFlaemw4VUFKSGVaNXBPcXZzSXhBU1pyMklWQlRNWWUta1lHMmh3dnJuT1R6eS1STmtpMnladXdha2pJZ3E0R0xOZjFjaEp1Q24yN1hrRzBHclNSU2N6OFpMNFZyS01IbjVlalpibkhpcm0zRFhkS0xXUUFweFRCNkUxN29oU1J1?oc=5",
-          "title": "UFC Star Conor McGregor Reportedly Returns to Training After Devastating Injury"
-        },
-        {
-          "source": "DAZN",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2xITW5ySDJJSC1VTjlYLUR5cDAxeUpNMDlxNF8zZ1JRcnJZSlpRX0dXYlEyeFJBdWJYT2NFMDNzWVpaTXUtanB1UHRITWhmUGFrTjlSWFFKV3NrMUNHalZrWDVhcm03MVluandmTU0xblpSWDhSUjlqWWFscUZtc3NpaEViTDhuNmt1M0xjbldfX1MzcGJxS20ycjJaWkstaDBxT1NKOU9fUWtpUFJZSXprR0Y1WjJ0?oc=5",
-          "title": "Ilia Topuria launches furious response after brother's UFC defeat and makes 2027 promise"
-        }
-      ]
-    },
-    "ac95dfe905": {
-      "key": "ac95dfe905",
-      "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ",
-      "summary": "",
-      "lang": "ru",
-      "sport": "hockey",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.93,
-      "published": "2026-11-24T05:41:17+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261124/khokkey-2133541731.html",
-          "title": "Гол и три передачи Капризова помогли \"Миннесоте\" обыграть \"Сан-Хосе\" в НХЛ"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/hockey/news-6711818-san-hose-sharks-minnesota-uajld-rezultat-matcha-24-noyabrya-2026-goda-schet-2-5-regulyarnyj-chempionat-nhl-2026-2027.html",
-          "title": "Гол и три результативные передачи Капризова помогли «Миннесоте» победить «Сан-Хосе»"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-kirill-kaprizov-ustanovil-novyy-rekord-minnesoty-po-dline-rezultativnoy-serii-2478232/",
-          "title": "Капризов побил свой же новый рекорд в «Миннесоте» по длине результативной серии"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/hockey/1117446224-nxl-ajlenders-primut-toronto-monreal-protiv-los-andzhelesa.html",
-          "title": "НХЛ. «Айлендерс» проиграли «Торонто», «Монреаль» уступил «Лос-Анджелесу», «Миннесота» забросила 5 шайб «Сан-Хосе»"
-        }
-      ]
-    },
-    "cbe782c193": {
-      "key": "cbe782c193",
-      "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\"",
-      "summary": "",
-      "lang": "ru",
-      "sport": "football",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.72,
-      "published": "2026-11-23T19:04:13+00:00",
-      "refs": [
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261123/tsska-2133500427.html",
-          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче против \"Ахмата\""
-        },
-        {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSHhnRXVQZVJVOTlHWkg0LWgwaFQ3SVpCdlB3QlNpX3BBSXVSZmhLNkNXM1puTmV2SWVZN0xQWUk4UmFoWnJjOTdKb3NRWmhqa19SN0dvTzk5Wk8tSkZ0WkFzV3hwN28xTE50OTI4SmE2bHR2ZWZPQzlwX3k2NE5TdW1GVEFNYU1MRHFCczItT1ZLNDZVa2tSdTRqdzRHZFhNck5NU3RNUW5CMi1uVmk0MUl6Vk1oS3AyT29od1hmb0ZaR2ZEU0xFQVpzS0pQX3JSdlljRTk2UE1oMDJiS2FPX2h4M0RKVHd2a0VIeWZaUjB1OHJFMllwMmxXZ0hNdktUamcwNExvY3pXM1dubjJuUFM4aw?oc=5",
-          "title": "«Какая‑то системная дискредитация судейства и РПЛ». ЦСКА обратился в ЭСК по пенальти в матче с «Ахматом»"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/football/rfpl/news/cska-obratilsya-v-esk-po-penalti-v-matche-s-ahmatom-2478141/",
-          "title": "ЦСКА обратился в ЭСК из-за пенальти в матче с «Ахматом»"
-        },
-        {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/football/1117446740-fonbet-kubok-rossii-put-rpl-czska-v-gostyax-u-akrona-zenit-primet-kryl.html",
-          "title": "Фонбет Кубок России. Путь РПЛ. ЦСКА в гостях у «Акрона», «Зенит» примет «Крылья», «Краснодар» сыграет с «Ахматом» в среду"
-        }
-      ]
-    },
     "0002011b7e": {
       "key": "0002011b7e",
       "title": "ЕС ограничит российский спорт, ФФККР меняет отбор, Сафонову готовят контракт до 2032-го, большое интервью Стогниенко, на мать Костылевой написали заявление и другие новости",
@@ -2531,7 +2375,7 @@
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 11.78,
+      "heat": 11.44,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-24T19:00:00+00:00",
@@ -2552,14 +2396,14 @@
           "title": "UFC Legend Daniel Cormier Openly Critical of Navajo Stirling After UFC Qatar"
         },
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnJkZjJ2OXRXUkRkdkstelhHcnRNZUxKVDl3NE9nNURZTEJIdTFBVEVGaUNxVS11S0lDMG1FUmNpUnlxRkRIUDFnWXNEMmprbE9OcGhES01yLThCZDJMOUlGU05lMHVpWlRaY0lKODcwWmtlWUJJVUtRT0YzWloxbjg4LUlJa2Z4OU04QnVHeGI3SU9tQXZVMHVNTVA0NVhn?oc=5",
-          "title": "Josh Hokit Wants Alex Pereira Next up After UFC 334"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkxmUXNYTTMyZkJzME8xOUlOS3U2cWowUXhLNlZPeXNtNGpTQlV1WmQ2UzQ5Y2pubWo2LTdzcXVybmlWTXVaUEtFU0VoRlYybDMya2U5ay1FNl9iNjY5MEZuMWZvZXllUFpyX18zU0YzaTZQck1Na3Z1ODRMMkhiUjI3LWFWZ3plY3pETlpNQW1hdU5zMlRXWEtzRkpkYVNHSk9CTTdSdmVpeWV1b21EWmttb08?oc=5",
+          "title": "UFC Legend Daniel Cormier Openly Critical of Navajo Stirling After UFC Qatar"
         },
         {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtazJONk1jNUxQLUZ6MEhVMUduVmN5ZHEweGtYemxESXNjUDVIX1dyWnVmb2NOTFd5bVgtVE5RVlhHTjBtUTNF?oc=5",
-          "title": "Alex Pereira vs Sergei Pavlovich | Full Fight Marathon"
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnhzZnp2a3VrYWc1NmJvUnRxNHh4cjYyQzl5RDBnZk9DMzFGU0tZZW9XRm96M0h1Wl9uSS1BbVFVUlNSU2ZxbmFkc1hvUk5IMk9RRTNlTzY3WEZJVk8yTnBuUXZiWkFlUUdlYVhJUmxSMXJqeE9aWklZellaTG5Ud29faFBVVGZNVlBlWm5wbWRXOUE1dU5Xdnl1b3FpSC16cDlMdUpralBXNmI0NEFSUFNpcktnNVlGbkJjemdCdlVXdkp2THc?oc=5",
+          "title": "\"That's not your brother\" - Brendan Schaub Warns Navajo Stirling Against Avoiding Potential Carlos Ulberg Title Fight"
         }
       ],
       "first_seen": "2026-11-24T23:17:48+00:00"
@@ -2618,7 +2462,7 @@
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 13.75,
+      "heat": 13.47,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-24T22:13:26+00:00",
@@ -2645,13 +2489,13 @@
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUh3Nks5UHpwdlJLcXNua21TZkVDVC1wb19WX1FtYUdJdXlSMGpXMWkzUkY1a3owNGFBRVJoYk5RVFlkdFZKWGdLeGgxd0xIRVlDbm56VnlkRzJZcktrakhEaE5HX0FGQmJsVFBYTXl5UEpZOVRYODBpWFpCS2hXSTMzWUFhU0p4bjAyYjVBdGVsNDFaZDF3TUIwMVY2Nkl2SEtMWjhhUnlNaFJTYThacFhBd1drbG9haC1sdnRNS0VKaF9EMHc?oc=5",
-          "title": "“I Knew That the…”: Kevin Vallejos Explains Why He Didn’t Celebrate Before Decision Against Aljamain Sterling"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmwtcHNUVFFrWm01WUdXd1JWZjF0UklzYzlVQkNuVWFCOUlKZDhYQlhBd0JqNUdRa3l5OXd3T0RxOFZfNkNxazhGbWtOLVdvT3EzbGlxbWdfclp2TmN2dzBQNkpyOVJUQmZOWGE3UW8wWjBEZ0FQOGl4Q1k3WkRfMmJtNFl6UVNtQUJCTjR3MDFJUkhmS0JCSDF5ZXNqaGdsNmhld3pxNkFLUDM5LUxkUDJ3?oc=5",
+          "title": "\"Fight Volk\": UFC star backs Kevin Vallejos for title shot against Alexander Volkanovski"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUlucWx1RThBUWVsNUFqdGhzRkluQ3J4ajBNdlhGZUtFTFdaWk1ZYU03LVRMWVZaenhSUHZLZVljM01OTXQ3T1kwR3VIVUJaOHRHWHlGN2NrUk04emY3eVpLOEZTLUFlS3pkRkhpR1VoRFNFdVdvRnlnLTF3ejdLSXZQYWJTX1d1cTBBYmR4dDBMajdycWt6RGZIelhTeUpWVDNmMkE5bTU1S2E4Nzc5SWRpcmE1bWdUazZZXy1FNkR0cjBXRlc5UDlUeENGUENG?oc=5",
-          "title": "Kevin Vallejos denies cheating at UFC Qatar, slams Aljamain Sterling - ‘Doesn’t know how to lose’"
+          "source": "BVM Sports",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTA4djRTRmZWUl9wOUs4a252cGJ0S2FDVnNZcFdWaUN4WEVpQmQ3b0VrSU02bEpFNWhpMFFWdFNzTERyZ1M5R2kzenFwcnloWVlMNUNoeVFTdlRuVUEwMEdyVUl6aDNGcHlNMlBFUTZkVm5NLWEtT0hZR2xFV3FIZ2JPa2wxSEZCamhuRDdPSTdqaElQeUFhNzkwM1N0UQ?oc=5",
+          "title": "Kevin Vallejos Fires Back at Sterling’s UFC Qatar Robbery Claims"
         }
       ],
       "first_seen": "2026-11-24T23:17:48+00:00"
@@ -2922,9 +2766,9 @@
       "summary": "Lehecka and Machac send Czechia past Canada into Davis Cup semi-finals Tennis Majors",
       "lang": "en",
       "sport": "tennis",
-      "outlets": 13,
-      "growth": 0,
-      "heat": 29.37,
+      "outlets": 12,
+      "growth": -1,
+      "heat": 26.63,
       "published": "2026-11-24T21:59:15+00:00",
       "latest": "2026-11-25T08:00:00+00:00",
       "refs": [
@@ -2944,21 +2788,6 @@
           "title": "Lehecka, Machac Lead Czechia Past Canada into Davis Cup Semifinals"
         },
         {
-          "source": "The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTR6UERURlBwQUdscnNFMlBmWmRvQ3IwOW5UTnR0d05aQ3ZibWRfN1RvcDVndm1Rem1yRWZUOGprdjJFLXcxLXZVbURpUkpLdG5NM3FNbWQ5QVpKQXVfbFlMdVpaOGFwQnpkYWJGTnNES0V1eUVONGNrMl83eWNfUmdkdE5RY0tRZnVfdEhDSGVpV2VWZXM3ZWt4QmJlVUU?oc=5",
-          "title": "Czechia ousts Canada from Davis Cup Final 8"
-        },
-        {
-          "source": "Sportsnet.ca",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFRHdDJzems0VTZSSDllUWRPYUY4c1EyeURFQkJZMHB1ZUVuX0VRN3VDaWtxSFZxc3BfeDQtWXJKVllVcldsOWl4Y1Z6YmR6VmswQ3BXVWJDM25lbW8xOUNuazZ6OHJ1aURubjduYVlXZlNDVVc0S0ZyMk5vZFpFZ1V3T0s4dEUzWGhVNFVtTUY1QzJJOUNKeUVCQlBrQXhTb1dCVURBYmZ4VW5jVjhhdw?oc=5",
-          "title": "Machac beats Draxl, Czechia leads Canada in Davis Cup Final 8 quarterfinal"
-        },
-        {
-          "source": "Tennis Canada",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSWQ0ZnppR1o3RG5oVV9QVm5xVHlrZEFMcHRmbHpNcTFxRmNYOGdBazFNTUZKbDlYa1puWlBFTGgwWFI5ZG13ODh4TEFyQktDUjhtZTg3TE5DTWZ0QUlvLUFMeUdTWFlFbkIzeU52b3lDcE9OZ3NPalVXWFlIa1RLTjI1dW1Rd19EOWc?oc=5",
-          "title": "Czechia Knocks Canada Out of Davis Cup Final 8 with Two Singles Wins"
-        },
-        {
           "source": "ATP Tour",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53V1BpVnZEb1JxbHFqei1oSWtYTWJ1WkdlVlIyZXlJY3ZHcTE3MDlMS1JGU3ZNaVQ1RnpLdXI0MG4wVDNNUUtSVWplSEpYM1BaYks5bHZnMDI2ZWpGcUdyYTZmT1BWSm9MampSUjZ3?oc=5",
           "title": "Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis"
@@ -2967,6 +2796,21 @@
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXlkRko2eS16Z3NXcnZWTTdoMi1iMGQ2NmI3NXVpSlAzY0Y0TUpMaTU0eThxbUh2MkREVWpvWlpRcEdLcVByOHVXNk45MVF2YVd4bWpLTkRuWmJFUEJWU1FTVmFZQkloOEdBWGE2UHlOMlVibmJwZS1DUVBtbXRSd2NYRjg4UTlrYU9leHh4ZHZ6YnNLMTVhRU1MaXJ6RWpaMFg1dExVU0ptZ1pZNjhnUkQyVWZ6czQ?oc=5",
           "title": "Lehecka beats Auger-Aliassime to carry Czechs into Davis Cup semi-finals"
+        },
+        {
+          "source": "Yahoo Sports – Tennis",
+          "link": "https://sports.yahoo.com/tennis/articles/felix-auger-aliassime-speaks-losing-080000417.html",
+          "title": "Felix Auger-Aliassime speaks after losing for Canada at the Davis Cup and confirms plans for 2027"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWxxTmd5amhwSkR2RGFqTVBDNVB0Y1V0enpHLUs2MExDV3ZrMjRJWHpYa3hRc240Z3hNU2RNajhnZ2d1blNZS016Wm53OFRsSEdtbUFrdUxZT3ZIcTJFQWNFdTZZQjBWcC03VW0wOUlBOE1kVWZHTmJOMl9uVGE4UFJzWG1KSTQyWGFhR20tTGk4dEVpY3c?oc=5",
+          "title": "Felix Auger-Aliassime speaks after losing for Canada at the Davis Cup and confirms plans for 2027"
+        },
+        {
+          "source": "The Independent – Sport",
+          "link": "https://www.independent.co.uk/sport/tennis/jiri-lehecka-leads-czechs-to-davis-cup-quarterfinal-victory-over-2022-winners-canada-b3090999.html",
+          "title": "Jiri Lehecka leads Czechs to Davis Cup quarter-final victory over 2022 winners Canada"
         }
       ],
       "first_seen": "2026-11-25T05:42:32+00:00"
@@ -3198,11 +3042,11 @@
       "summary": "Медведев назвал Бориса Джонсона провокатором за предложение ввести войска НАТО на Украину Независимая газета",
       "lang": "ru",
       "sport": null,
-      "outlets": 12,
-      "growth": 0,
-      "heat": 27.57,
+      "outlets": 14,
+      "growth": 2,
+      "heat": 34.26,
       "published": "2026-11-25T08:33:17+00:00",
-      "latest": "2026-11-25T09:11:00+00:00",
+      "latest": "2026-11-25T10:56:54+00:00",
       "refs": [
         {
           "source": "Независимая газета",
@@ -3230,11 +3074,6 @@
           "title": "Медведев пригрозил Джонсону из-за призывов ввести войска НАТО на Украину"
         },
         {
-          "source": "K-News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2tIcGFEUE0xTkphZnljeU5CMXQzTjFSSE0zaHhlVUdyY3pkdUJ0bnlmQXVrWWd2RzY3NFh4R2JfWExucWdrdGVfWU9qOUIwUVd2enVRSHgzWnlCb25PWWhHOEozc19FdnBIVC16d2owZDRVVFcwVGNOd2tHVFJ6RG9KVnZDV05rVWpfcHA5dWc1ZjA1OXdsTnZPSVM0UHcwVXFtSEl2aXJXT19BS1dsZExxRUR6MHBBY19FUg?oc=5",
-          "title": "Дмитрий Медведев заявил, что надо повесить экс-премьера Джонсона на Трафальгарской площади"
-        },
-        {
           "source": "Общественная служба новостей",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmd0ZlNoSTZQeF9USTgwMUlra25maEN3d1h2LTRZTjhBNUtaMjJtYW5BUzRzOWdXNGlZMElUOGQ1SV9Ga2hxWGkzY2ZOQTdyZi1IOWxyZkp4Q1k5ZFJMYmd4cTRLOElBNm5MRlBOalBlVU1rTTkzZFdKWEVKZnZLTTFqN1dZamhmUFhLUmR2ZGI4aXNCeU9IQ29heDJmWlk?oc=5",
           "title": "Медведев предложил повесить Джонсона на Трафальгарской площади"
@@ -3243,6 +3082,11 @@
           "source": "URA.RU",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51R1dwR0oyaHpJZnVnSlJTcjcwM1ZqYkY5aXNiVUQ3QmJ1M3ZQWS1XbUxaYjJDOEZHQlotZlpMVFcyLWM5RE84?oc=5",
           "title": "Медведев пригрозил повесить Джонсона на Трафальгарской площади"
+        },
+        {
+          "source": "Газета",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kMGdmeWtSZkJFaW44UUpVTXE2OHBEdzk0VzNKeVNkZVh6VXBwbHV1Z3JnNzAzbDZ0UklFU1hBZ0ZKMmRqSktWODlrNm1YRnFSZ0l0c1NMNDBBckt2b0liQzZ1eVNndXZFRnk1UHg4MFF2WER0S3Jj0gF3QVVfeXFMTmQwZ2Z5a1JmQkVpbjhRSlVNcTY4cER3OTRXM0p5U2RlWHpVcHBsdXVncmc3MDNsNnRSSUVTWEFnRkoyZGpKS1Y4OWs2bVhGcVJnSXRzU0w0MEFyS3ZvSWJDNnV5U2d1dkVGeTVQeDgwUXZYRHRLcmM?oc=5",
+          "title": "Медведев предложил повесить «патлатого дегенерата» Джонсона в случае войны России с НАТО"
         }
       ],
       "first_seen": "2026-11-25T09:42:30+00:00"
@@ -3536,8 +3380,8 @@
       "lang": "ru",
       "sport": "combat",
       "outlets": 6,
-      "growth": 1,
-      "heat": 16.75,
+      "growth": 0,
+      "heat": 14.97,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-25T09:57:10+00:00",
@@ -3771,6 +3615,203 @@
         }
       ],
       "first_seen": "2026-11-25T10:55:53+00:00"
+    },
+    "8e410dcfb1": {
+      "key": "8e410dcfb1",
+      "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate",
+      "summary": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate The Guardian",
+      "lang": "en",
+      "sport": "cricket",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 25.97,
+      "published": "2026-11-25T10:53:00+00:00",
+      "latest": "2026-11-25T13:00:19+00:00",
+      "refs": [
+        {
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVhpSHh0UEVhQ0xialZ4T1hPOHdKY2p6Zk01MlZ5YWQ3V29XNU4tRjFrUWFYWWM4ZC1zYU4xTmNyNlBFX1hGbVh6UkxlWGZsV04xcUVrUTRra2NQMVNaUGZBYjZfbkp0TmM0alpSNk5sMmt5TXdscmotMzJWMXlSWHFYZUx6MU1JeDJGV1pXcU9vUFpWWlJES1ROd3BvYUNZNWNWSEp6N0x0bWhOdkc1VQ?oc=5",
+          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
+        },
+        {
+          "source": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0x4NnNvOG92RFY2T3dmRnRFMTk0VGQ2NXBRWS1iSTBnNVdiVm5DYnJXQzg1SmxVMDNJVzBneHVOZEV2NUdJNUU1Y2g2RUtsOXgtaFczRnVvYjFrSklZdnZIREFhR2xJOWRIc1ExZmY4MktPcXQzblNEOWI0Q2VGYTNmbXVkbF9SUE5aMnluV0xOX1hwc3hhX1BHMEFMdVpUbGFCeEc2aw?oc=5",
+          "title": "Usman Khawaja reveals message to Cricket Australia chief over Sandpapergate"
+        },
+        {
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzg4cWhIeWpPNEF6SDZNeUFrS3pUZWhWVjJBel9WUThHZ3VsODlPUG9qblFxVTJKYVZfMlZaeTlTMlUzckZYVWhGQlA0X0RueWJxZ2Z0WWZtWnZrMkNKNS1lX3JyTXhDTUNfX3hJVHZHNTZUSmw5bmNWakFlbXZjdWVoQ0NaV3RFY1V1bWJMY2Jsb3pwRmpmZ05tWk00alVGbW55YkJLRlRVTV9CODFUZ2lvNA?oc=5",
+          "title": "Khawaja says he sent Cricket Australia olive branch amid Sandpapergate fallout"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo",
+          "title": "Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSTZjZHhaaUFxaUQzaHRQUy1OY3k2MGRySzVaMVdxc3ZvNVNEMlVyNDU1dFBqMzhIQzh2cmNBVTRVY0Vtc3BiQlE0cXBoeDV0ejlTaDlVUVpCdFZ4cjgyV3p2N1QzWmhnNlJ3T0E5NlZHSjJHRGY0a3RuX2ZOTXd2QmRjRGw1Vlp5SVZqcVpLYVRMdkx6R3pmaHN2bTkzczlaOURtRDRqSGRObDRLa3VFUTBQRFVYaVBrX3VEODFYS1pTVXVqRkt3cQ?oc=5",
+          "title": "Usman Khawaja shocked by captain Pat Cummins' comments: Sky Sports Cricket Podcast"
+        },
+        {
+          "source": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFhlc1RJWVRjN2NDZ21aQkdTTnlaRDlzb09DUGFRbGhyR080Y1BSZURwdFUtS1BNRVZ4UUJlOWxiNWdHU3djLWVzZjNZazFpQVZKdzM2Vl9oSWU1VHo2VEtHSlh6bHEyTjJhMVdnMDZCNlR5SGZUVEhzWmExRU1xbFJWRzVQTTFHWHZLRURMUG82TlZ4LUdiVWxfT2RUQ3RBV1RqOHNYaktGdw?oc=5",
+          "title": "Usman Khawaja: Australia ball-tampered during the Ashes"
+        },
+        {
+          "source": "NDTV Sports",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXFmRzNlWEtyMVhDZk1Od1JaeUVBUjBZTF9PSThNbUo3bC1WcXpKQ0RRSkJvT1g5UlFDWDVpeFNzb0pFTkZmNEVCVnpHMUdBby03dklSZEMtTnF4b1FrVEF1WjJrY2luYXNNZ3I0Ymx4VnJkendfVVNJTl9INUV2djVmSGZrbDBRTGhveUlCLUhScjJXUkhKX2lpZ1RYc0d2aHM4LTBqdDVaY1E1Um43RlkwZGRzLVdjcWFnbXRFb1JKdw?oc=5",
+          "title": "Usman Khawaja Explains What Deepened Australian Cricket's Divide After Sandpapergate"
+        },
+        {
+          "source": "AFR",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVFwSW5IaDlPbU0wOW9neFB5clVsbndERHhKWm9xb003NjJEZnhQb0NqbF9fYUZYNW40N3o1M0NWeENrNWVEVmlYTWlQT2ZydnNfU3psbHlrTlNXM3BmTG56dmdHd0gxdnZER2d5TnNFZ3BCZ0R6bDRQUlFnVVVYTEo1b013anZsZWxjUHRmS3gxd0ppaUJwMA?oc=5",
+          "title": "The lawyer at Cricket Australia’s ground zero"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    "b3c910f261": {
+      "key": "b3c910f261",
+      "title": "Logistics, organization… The machine behind the Las Vegas Grand Prix show",
+      "summary": "Logistics, organization… The machine behind the Las Vegas Grand Prix show www.autohebdof1.com",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 25.71,
+      "published": "2026-11-25T12:38:13+00:00",
+      "latest": "2026-11-25T12:55:00+00:00",
+      "refs": [
+        {
+          "source": "www.autohebdof1.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzNBZmsyYTJFb3FwLTk0eWo0cnViY1BKczNaNHg3dmdLNlFRdUZzNWZWTzFYcTZCZFU1eGx0MEppRUZlX2hmQUlmc2E4YmJ1a1pWbFotbEdvYkZwRlN3M1RBRXFNLUFyWXcwZWpSTDlzMGx3bXJHUmJMaFFFNWs1aWJEQ3l0UVFQVWpGaGZOTVptM3pYb3JHOTVxRmR4ZzNQb1hTWll1Q3ozb0hBTkxadTBFT3pVUQ?oc=5",
+          "title": "Logistics, organization… The machine behind the Las Vegas Grand Prix show"
+        },
+        {
+          "source": "Formula 1",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV1MzRzlvNEs1WGxrNmV3NmNNa3BydjV6WW4wMVRLOEpxdDR5elhMTVZmaHNrc3k0bWRnNkdkTmdvM05DbXlxd0F0Sm9YQTlKaXVKakJXWHVpQ3pGVHVWbEdIMHdCU1RkWlpqNDAxWDhqTEtPeUVVblg1ZDJBZ0xjYktGSjVKQ2luSWlUNlNuc0NoXzJCdDl0ZVVid1R2emlKRFZPcTBhVVVQaFliNHdBWkhLSmo3dHVkNDV1aWJyWDJVWVhKZHVhR2lUdll3Szlw?oc=5",
+          "title": "Why the Las Vegas Grand Prix is special"
+        },
+        {
+          "source": "AutoRacing1.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjEyNEdYSVlzY2tsMzhkbHllOG5NSWJHU3BzcFhfTlM1ZnE5RXZNQV9lRWVLbFhiNU9PeUp6UzVmRUtrV2NfTzZ0MXkyTm5oM2JZSHRaSzRWXzQwWjBQMHZyTUxwWS04bmlmS0ZzMVdpdVF4VzN6Smo4WlNnNW9vODdJRC1TUmFyQnFn?oc=5",
+          "title": "Formula 1 News: 2026 Qatar Grand Prix Preview"
+        },
+        {
+          "source": "News-Herald",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0d0TzhBcURtTnBTVldrd0RyQnVpa1BMd0ZFX25Yejl2YXlyV2hHYVI5WEp1UFVxTkk2c0N4NndiUzhMdUc3S1RpRDNwbG1WUUhNNm9xR2ZZb1NLWm1JQ05TVFZncU91RE9YNzNEY0RVUjM5Z095VzZBRDJLZTBUOHJjamJicWR0RlM2UmUxb2Zkc0FDU1Y4WFNncUdQZWs1VXlUb0dn?oc=5",
+          "title": "Lake County-wide Puzzle Grand Prix heads into final competition"
+        },
+        {
+          "source": "motogp.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVi1rSW1vS3M1bGRXQ2hZVEJfN185SlRvS2l2UXB2YjNxZ3VoTjZ6X3pJOXMzU2J1UFByWGNOOG95cG01ZUtSX3pIRnBBY0VTWU1RWVFMOTRlRmxTelZ1WHlJU3hYRWJ1V0RvU1gwbTlycTdCcDI1bkxqQWpWbFo0dTZOMWh2U0VjTm9CcnFYalRBMWVmZmdB?oc=5",
+          "title": "TIME SCHEDULE: Motul Grand Prix of Valencia"
+        },
+        {
+          "source": "Hypebeast",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd2JZNkR1RmJkaWI2ODA2cmEtdjZNcFFEYXIzVFVja2ZGaW9tbGtIZzlMZlBjYzJpQWRMRldacE5SMmNYN1NVeUdCbDZpX3RaWEx2bmlTUWYtNXlDWWtUd2VtYUZKUks0OHN0LWc2MXhaekNCRWM5SDRaZFhLQVp5aHBaQ1Q4UQ?oc=5",
+          "title": "LISA Gives The Nike Zoom Streak 3 \"Black/Red\" an Early Debut at the F1 Las Vegas Grand Prix"
+        },
+        {
+          "source": "FOX Sports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2FNbU4xeFU0b1NnVUtKamY0RkJBQmtmRm9vUGp6YVdua1NGTGhfYkRabFF2WjlhRXVoa0R2RzZqaUpPc0o5a25vQXItRUIyNThBN1Q3R2puekxfYWRHT0dnZDl0Z0RQSWpzNWhtNTJlM1k5c180WFVZWDhqUXFrd3FYMEJnRFJ3TmJqeWthbFg5eU5fRXc?oc=5",
+          "title": "2027 Detroit Grand Prix Leaderboard - June 06, 2027 - IndyCar Series"
+        },
+        {
+          "source": "The Item",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE94dkQweFh2RFlfVzJBV0RpZnFXWXZ5SFZOX2JpWGZyZ2g4RUtabV8yVUZRbXVhcXUxajc2ejVFNUhkSUF0bFhKVEVaRlRvR2ZvZzlBbWJaVG1MU2FhVS02SnZrZ3dfU3ItTXU1bUlIbXZRNzB3M1p2NUF6SUxQMFFsUDdtMzFWQV9pU0hwNnhjLXNKQUo2Ym5YUUtUa3lNalpWenNB?oc=5",
+          "title": "Verstappen wins the Las Vegas Grand Prix for 3rd time in 4 years"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    "9346fd5036": {
+      "key": "9346fd5036",
+      "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»",
+      "summary": "Боец UFC Карлос Пратес поддержал чемпиона PFL Усмана Нурмагомедова после массовой драки с участием Мераба Двалишвили в Абу-Даби.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.2,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-25T12:17:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/prates-podderzhal-usmana-nurmagomedova-posle-draki-s-dvalishvili-na-ulice-net-pravil-2478805/",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU9Wdm5LaHNHWktrblRRbExEVHc3aWZHMmFVem85ajMtbFlsMWtWWEx1bUUya2cyc2tQSUtGWWJWbDJCOUVTWXZ4QlpVejV4b0JXSGNWV0hGR2JFSkM2ckt5UER0cVVPY0FOZldOTXVsT2U0N2k3ZHJMM2xWTUlQRnkzOXdTSHdhQWg5Tm1RV2dDeUt2UTZrblJUVWtMNmdmRDdFcU9jOW82UTlVSzYtdUtYQmJQay1KMVY4NlFfeGYxNmdYU0wxazFQY3dCVE1IUHRfZTE3MF9XMmxU?oc=5",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261125/prates-2133847779.html",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG13b3RfaHo5YWhCZG5JRnQ1YkExUkZDNzR5TnhOLXdaVEhMTlpRTkJuNUxvUWxUVGczS0NPTUw5azJXam1LVFIwMndkYVJvSVM3V2dZd0NaeWxncTRtdkRnVmg5OEpENG56Z1pLRmU5SUZnYXQxb1lUY19ieHF4QlA5bkdGdWxLQ1pHOG1za2NtWUwwUWNVNWlNNGs2TUc0QjA1MDVRTW9KYVU0ZHRtTGRSZWkyUQ?oc=5",
+          "title": "«В уличных драках нет правил»: боец UFC объяснил конфликт Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFJ3aFVtMmVzbmI0clFaRTgwYWlWWlVEeE5haDBGSEcxMTh2MEdHdDk5YXVwYVNjU0VWUFdEelk1NnBLcGxJRU5NUXl4ZWNJWVhmamdmY3lzUmt2TWxGRFQ2c1p1cWlJWks0RkVzbXFTNXpPQ054NmZBMEVES1BKYnUxcm94ZmRSWDdYMFRYUlE4SVJGSU1nVlZ0OG1vdHRVZVljT2x6UG1JSnpORi1mM0xYZUR4WTFWM0ZqbWVUUGhVT2s?oc=5",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили: в уличной драке нет правил"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNNLWlES2ZOeURqVmt1am9TVEl1U3BrZnBjWW9BYlFJNWFKd3F0czRzenRwamtiaVdrMHo2Q3ByenRFQk9WX0xPUksyanRIMlZqekxmMURiYzhEbHIwSTZrLUhMeVVGV0dsLTVONlFKV2JqZ3RqYjE1NHdkSmtjV0lRdEo0UlQzNU11STJ5RFNEblYxUmtlTEljcW5NcG1wb3hvbzEwWlo3dFlGRUJsaW5GUEE3Mi1ZUHFIcmZlR0lNTmFTLWpjLU9iTQ?oc=5",
+          "title": "Усман Нурмагомедов стал вторым в рейтинге бойцов ММА до 30 лет по версии ESPN"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    "16ef8abc5b": {
+      "key": "16ef8abc5b",
+      "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'",
+      "summary": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title' Yahoo Sports",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 11.71,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-25T00:38:00+00:00",
+      "refs": [
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkZDeVBCemlpVVlFUFBPRkFXMlprMmQtY1dUZTVycUVtc0xfVDJFM2Z3NTA3TUUyMFAxSjJPZS1qQTNpTmpTTS02MUZhZXpObzZRc2pUM3ZodUlkNHZYME5leHhyR3BKTW1jX09PWWpkMDRseHF6RkQ5QVpzeURXQmNfTWxwZ1kxc1ZweENtMXEyX2NQYURQZnVWb3VtTVlYbDdRdmdQZGhrSk10WGUxcFBrSUVRaFpHQXZPd28tZ2E0NUlSb1FzdG84c1Ytd1JvQk04bGg0TkdTSkRUbEE?oc=5",
+          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/article/carlos-prates-isnt-buying-into-ufc-336s-interim-championship-not-a-real-title-michael-morales-003828739.html",
+          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
+        },
+        {
+          "source": "MMA",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXM4SVRkUEIzY0ZZcFhlYjBsaWdaWXRSZTNVSDFQRUJPbE5Td05MdjFudkFIeFB6UUMtRDI4cklHdjdibHEyMmNyQ0tVVHVyaXA0U0g2eWxFam0yenVVUVFLSlo3NGlNem8xcTVOdFhKd21ydEZ2Mzd6MW1rX3ItRER3LUxKcTlSUVBnTXlLaElpRlNtVGQyVWtKLU5lbjhOR2hScXJSOXNRby1rWXc?oc=5",
+          "title": "‘You’re not the real champ’: Carlos Prates sets sights on undisputed UFC title - The Mac Life"
+        },
+        {
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEt0X3hnVElPVV9pMlpmSkRLVEd3V196eXZ0Z1d1UnRtM2haYnNGQjhXVURQNDRHSUk5WGl4ZDJwX0drSl9USVd0WHVnV0NVVE9jeTFwcjVVM3pNeXlOWnhydmZndlhNOWhBbzBrTngtUmszZWFaX3VCR3pVR0pEdnhuNHNKZzVZbjJObkpQTWNqY1BjZmt3TzJ1azdiYkpmRDZyYjMzWWtiUlRwLW5KOFJkZlY4UW05ZXpuMzJsOHE2VGvSAcgBQVVfeXFMUFhlaEhiVzJFLUxYd0ZlTzUxeE9VcldXbk9hMTlkRl9FWW94dFBmZEN1TjJnc3p3dHBrTWdUYTV4UDNnalMyRmFxMTNwTWlVN1FlczFscU5HWnpSZGhLbGYtcjRZdDRraS1WZk5HTjRXb3hQRzQ0S0E2OXVPT1EwZ2pOYTZsVjdiVHJiR3Qwa29CeVZpWVlqaVBraWdwSEpkTlF1eVBUMC1TaHAtaWZnMk10QmtTU1UtQWNLdlZvVVdVdG5oSno0VW0?oc=5",
+          "title": "Carlos Prates says UFC interim title isn't the 'real' championship, eyes undisputed gold"
+        },
+        {
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGh0cGk2YzBZMjVfRzlBak5LTDU3RFg2aElRQXYzel85STZfeWxpc0U1RjRrLUxJdFJtMnFndXdPY0hSbHhiaE5Hd0k2bGR3emc4NDNaYWxqU1hMUERCQU5tOElOTnA1WWFVVnE2QU55Y3ZZdmFQS011NkpQeDBfbUNB?oc=5",
+          "title": "Carlos Prates | Right Where He Expected To Be"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
     }
   },
   "sent": [
@@ -4044,14 +4085,60 @@
   "tg_offset": 360028013,
   "combat": [
     {
+      "key": "9346fd5036",
+      "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»",
+      "summary": "Боец UFC Карлос Пратес поддержал чемпиона PFL Усмана Нурмагомедова после массовой драки с участием Мераба Двалишвили в Абу-Даби.",
+      "lang": "ru",
+      "sport": "combat",
+      "outlets": 6,
+      "growth": 0,
+      "heat": 15.2,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-25T12:17:00+00:00",
+      "refs": [
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/martial/mma/ufc/news/prates-podderzhal-usmana-nurmagomedova-posle-draki-s-dvalishvili-na-ulice-net-pravil-2478805/",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLU9Wdm5LaHNHWktrblRRbExEVHc3aWZHMmFVem85ajMtbFlsMWtWWEx1bUUya2cyc2tQSUtGWWJWbDJCOUVTWXZ4QlpVejV4b0JXSGNWV0hGR2JFSkM2ckt5UER0cVVPY0FOZldOTXVsT2U0N2k3ZHJMM2xWTUlQRnkzOXdTSHdhQWg5Tm1RV2dDeUt2UTZrblJUVWtMNmdmRDdFcU9jOW82UTlVSzYtdUtYQmJQay1KMVY4NlFfeGYxNmdYU0wxazFQY3dCVE1IUHRfZTE3MF9XMmxU?oc=5",
+          "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261125/prates-2133847779.html",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили"
+        },
+        {
+          "source": "Offside.kz",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaG13b3RfaHo5YWhCZG5JRnQ1YkExUkZDNzR5TnhOLXdaVEhMTlpRTkJuNUxvUWxUVGczS0NPTUw5azJXam1LVFIwMndkYVJvSVM3V2dZd0NaeWxncTRtdkRnVmg5OEpENG56Z1pLRmU5SUZnYXQxb1lUY19ieHF4QlA5bkdGdWxLQ1pHOG1za2NtWUwwUWNVNWlNNGs2TUc0QjA1MDVRTW9KYVU0ZHRtTGRSZWkyUQ?oc=5",
+          "title": "«В уличных драках нет правил»: боец UFC объяснил конфликт Нурмагомедова с Двалишвили"
+        },
+        {
+          "source": "Meta MMA",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFJ3aFVtMmVzbmI0clFaRTgwYWlWWlVEeE5haDBGSEcxMTh2MEdHdDk5YXVwYVNjU0VWUFdEelk1NnBLcGxJRU5NUXl4ZWNJWVhmamdmY3lzUmt2TWxGRFQ2c1p1cWlJWks0RkVzbXFTNXpPQ054NmZBMEVES1BKYnUxcm94ZmRSWDdYMFRYUlE4SVJGSU1nVlZ0OG1vdHRVZVljT2x6UG1JSnpORi1mM0xYZUR4WTFWM0ZqbWVUUGhVT2s?oc=5",
+          "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили: в уличной драке нет правил"
+        },
+        {
+          "source": "Матч ТВ",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNNLWlES2ZOeURqVmt1am9TVEl1U3BrZnBjWW9BYlFJNWFKd3F0czRzenRwamtiaVdrMHo2Q3ByenRFQk9WX0xPUksyanRIMlZqekxmMURiYzhEbHIwSTZrLUhMeVVGV0dsLTVONlFKV2JqZ3RqYjE1NHdkSmtjV0lRdEo0UlQzNU11STJ5RFNEblYxUmtlTEljcW5NcG1wb3hvbzEwWlo3dFlGRUJsaW5GUEE3Mi1ZUHFIcmZlR0lNTmFTLWpjLU9iTQ?oc=5",
+          "title": "Усман Нурмагомедов стал вторым в рейтинге бойцов ММА до 30 лет по версии ESPN"
+        }
+      ],
+      "first_seen": "2026-11-25T13:42:34+00:00"
+    },
+    {
       "key": "f6d68f0331",
       "title": "Умер тренер чемпионов UFC Эдди Ча — ему было 53 года",
       "summary": "Умер тренер чемпионов UFC Эдди Ча — ему было 53 года airpress.kz",
       "lang": "ru",
       "sport": "combat",
       "outlets": 6,
-      "growth": 1,
-      "heat": 16.75,
+      "growth": 0,
+      "heat": 14.97,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-25T09:57:10+00:00",
@@ -4090,52 +4177,6 @@
       "first_seen": "2026-11-25T10:23:18+00:00"
     },
     {
-      "key": "f4b079c4a2",
-      "title": "Carlos Prates says UFC interim title isn't the 'real' championship",
-      "summary": "Carlos Prates says UFC interim title isn't the 'real' championship Sherdog",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 14.77,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-25T05:14:50+00:00",
-      "refs": [
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZy0xdHBaTGU2R292SmJfSmYtanJ6a2JIVlF0c21BTnZwUXhhcG91Y3M0c0RUdDlhcTlnOHhTZGFoOGF3cUxsblBGYTdRWTFibVo3NEpKWGduTkd5RTMzRHRyYUZPTk0tN1JaRmpVOVE2R044UThXX3l2Yl90dzY4Q2E2UWdNLV9icjIwVTRzdVl4Mk16QVE5X2lLb3ppYVNRWmFnY2ZqZ9IBrAFBVV95cUxOTlFIamczQUtJQVlIbk9DMDN6RklwR1RsTjBEYkVyWXItV0E3SFgtQ1psd2RJRElSbi0tTGZod0hBSXdSMy14dEpVNFFrQXBwRWlyMnVpNjNVZ0xYc0F3TVBmQ2lVNTE1YWVDYVlpRGVibXhPQXpfZVN3Y1NHNDlWOVdKeDFZZmg3ZUQyWnl1MVhqQmprSjZBb2pyVUVNNU56TGVFbWI3Zk1aVnN2?oc=5",
-          "title": "Carlos Prates says UFC interim title isn't the 'real' championship"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkZDeVBCemlpVVlFUFBPRkFXMlprMmQtY1dUZTVycUVtc0xfVDJFM2Z3NTA3TUUyMFAxSjJPZS1qQTNpTmpTTS02MUZhZXpObzZRc2pUM3ZodUlkNHZYME5leHhyR3BKTW1jX09PWWpkMDRseHF6RkQ5QVpzeURXQmNfTWxwZ1kxc1ZweENtMXEyX2NQYURQZnVWb3VtTVlYbDdRdmdQZGhrSk10WGUxcFBrSUVRaFpHQXZPd28tZ2E0NUlSb1FzdG84c1Ytd1JvQk04bGg0TkdTSkRUbEE?oc=5",
-          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/article/carlos-prates-isnt-buying-into-ufc-336s-interim-championship-not-a-real-title-michael-morales-003828739.html",
-          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
-        },
-        {
-          "source": "MMA",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXM4SVRkUEIzY0ZZcFhlYjBsaWdaWXRSZTNVSDFQRUJPbE5Td05MdjFudkFIeFB6UUMtRDI4cklHdjdibHEyMmNyQ0tVVHVyaXA0U0g2eWxFam0yenVVUVFLSlo3NGlNem8xcTVOdFhKd21ydEZ2Mzd6MW1rX3ItRER3LUxKcTlSUVBnTXlLaElpRlNtVGQyVWtKLU5lbjhOR2hScXJSOXNRby1rWXc?oc=5",
-          "title": "‘You’re not the real champ’: Carlos Prates sets sights on undisputed UFC title - The Mac Life"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0hUWUtLdE1rdGJfaFFSWVZVdXVycVg4aTBDVjhrU0ZwZ2NxUm5fdFNycGhmSFBIM0FkdDRhZHZ6ZkszNmNrYlBpSXNRSjlIZmxpc0ZNeERIQUZOd2pkNGVuRkMxblBWdFVnVWM3Nzktdm81Q2lVZmFybjN2OEI1TFUzZV9oUVMwWVlqOG8taTdMVU1xTkh5dV9JZU0?oc=5",
-          "title": "Carlos Prates' Major UFC Contract Before Interim Title Fight"
-        },
-        {
-          "source": "UFC.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGh0cGk2YzBZMjVfRzlBak5LTDU3RFg2aElRQXYzel85STZfeWxpc0U1RjRrLUxJdFJtMnFndXdPY0hSbHhiaE5Hd0k2bGR3emc4NDNaYWxqU1hMUERCQU5tOElOTnA1WWFVVnE2QU55Y3ZZdmFQS011NkpQeDBfbUNB?oc=5",
-          "title": "Carlos Prates | Right Where He Expected To Be"
-        }
-      ],
-      "first_seen": "2026-11-25T10:55:53+00:00"
-    },
-    {
       "key": "ddf6449837",
       "title": "Kevin Vallejos Won’t Beat Alex Volkanovski, Says Aljamain Sterling",
       "summary": "Kevin Vallejos Won’t Beat Alex Volkanovski, Says Aljamain Sterling Yahoo Sports",
@@ -4143,7 +4184,7 @@
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 13.75,
+      "heat": 13.47,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-24T22:13:26+00:00",
@@ -4170,93 +4211,98 @@
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUh3Nks5UHpwdlJLcXNua21TZkVDVC1wb19WX1FtYUdJdXlSMGpXMWkzUkY1a3owNGFBRVJoYk5RVFlkdFZKWGdLeGgxd0xIRVlDbm56VnlkRzJZcktrakhEaE5HX0FGQmJsVFBYTXl5UEpZOVRYODBpWFpCS2hXSTMzWUFhU0p4bjAyYjVBdGVsNDFaZDF3TUIwMVY2Nkl2SEtMWjhhUnlNaFJTYThacFhBd1drbG9haC1sdnRNS0VKaF9EMHc?oc=5",
-          "title": "“I Knew That the…”: Kevin Vallejos Explains Why He Didn’t Celebrate Before Decision Against Aljamain Sterling"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmwtcHNUVFFrWm01WUdXd1JWZjF0UklzYzlVQkNuVWFCOUlKZDhYQlhBd0JqNUdRa3l5OXd3T0RxOFZfNkNxazhGbWtOLVdvT3EzbGlxbWdfclp2TmN2dzBQNkpyOVJUQmZOWGE3UW8wWjBEZ0FQOGl4Q1k3WkRfMmJtNFl6UVNtQUJCTjR3MDFJUkhmS0JCSDF5ZXNqaGdsNmhld3pxNkFLUDM5LUxkUDJ3?oc=5",
+          "title": "\"Fight Volk\": UFC star backs Kevin Vallejos for title shot against Alexander Volkanovski"
         },
         {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUlucWx1RThBUWVsNUFqdGhzRkluQ3J4ajBNdlhGZUtFTFdaWk1ZYU03LVRMWVZaenhSUHZLZVljM01OTXQ3T1kwR3VIVUJaOHRHWHlGN2NrUk04emY3eVpLOEZTLUFlS3pkRkhpR1VoRFNFdVdvRnlnLTF3ejdLSXZQYWJTX1d1cTBBYmR4dDBMajdycWt6RGZIelhTeUpWVDNmMkE5bTU1S2E4Nzc5SWRpcmE1bWdUazZZXy1FNkR0cjBXRlc5UDlUeENGUENG?oc=5",
-          "title": "Kevin Vallejos denies cheating at UFC Qatar, slams Aljamain Sterling - ‘Doesn’t know how to lose’"
+          "source": "BVM Sports",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTA4djRTRmZWUl9wOUs4a252cGJ0S2FDVnNZcFdWaUN4WEVpQmQ3b0VrSU02bEpFNWhpMFFWdFNzTERyZ1M5R2kzenFwcnloWVlMNUNoeVFTdlRuVUEwMEdyVUl6aDNGcHlNMlBFUTZkVm5NLWEtT0hZR2xFV3FIZ2JPa2wxSEZCamhuRDdPSTdqaElQeUFhNzkwM1N0UQ?oc=5",
+          "title": "Kevin Vallejos Fires Back at Sterling’s UFC Qatar Robbery Claims"
         }
       ],
       "first_seen": "2026-11-24T23:17:48+00:00"
     },
     {
-      "key": "1a35b7d9e6",
-      "title": "Стал известен состав сборной Казахстана на первый этап Кубка мира по биатлону",
-      "summary": "Стал известен состав сборной Казахстана на первый этап Кубка мира по биатлону Almaty.tv",
-      "lang": "ru",
+      "key": "16ef8abc5b",
+      "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'",
+      "summary": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title' Yahoo Sports",
+      "lang": "en",
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.9,
+      "heat": 11.71,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-25T06:30:00+00:00",
+      "published": "2026-11-25T00:38:00+00:00",
       "refs": [
         {
-          "source": "Almaty.tv",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFp5SDB3VmFUaDVKUDlGOWYxZ1p5M1lVMHRzZHhzeTd2UmtpU2ROLUd0UEVkNzQ1UkhKWVJ5aEpTODUwcl9UVDB4UDY3UnV0bWRORXF3azFOOVBVRVdXX3d2QUNNZzc2eTZ1T2lSU2h0ZTJHWEp2R2dSVDBBZ09yUG9hRnEzd3hLZHRGYU9NRmZ1VGxQX3FYWEc5eHZTSTNxN0ZBeTRHLTJEM1dQNkVvT2pjNFIzS2RmTm9yUU54aGVtZmxGREZv?oc=5",
-          "title": "Стал известен состав сборной Казахстана на первый этап Кубка мира по биатлону"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkZDeVBCemlpVVlFUFBPRkFXMlprMmQtY1dUZTVycUVtc0xfVDJFM2Z3NTA3TUUyMFAxSjJPZS1qQTNpTmpTTS02MUZhZXpObzZRc2pUM3ZodUlkNHZYME5leHhyR3BKTW1jX09PWWpkMDRseHF6RkQ5QVpzeURXQmNfTWxwZ1kxc1ZweENtMXEyX2NQYURQZnVWb3VtTVlYbDdRdmdQZGhrSk10WGUxcFBrSUVRaFpHQXZPd28tZ2E0NUlSb1FzdG84c1Ytd1JvQk04bGg0TkdTSkRUbEE?oc=5",
+          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
         },
         {
-          "source": "Sport5.by",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ212ZURBMmlxWGJLNElKYmVFY0tGMnBlSFJLQjRIRlpMNXYyNE9TUVpEWUpzU3c5TVc1VW1QdWlsUVRRbTZNQ2tvSjJjbk5fTmJEVjBuOXd0YXBzY1VQeFlFdXZ4a3JPU3cyd0tTX2VBMWlwajZIOFg1RlkxTmhfNG5ocVdOQ3NDU0txM3J5Z0F2QzNidEwxY2VSVENrU3NxbkZPN1lJV2dfclE?oc=5",
-          "title": "Сборная Франции представила состав команды на первый этап Кубка мира по биатлону сезона-2026/27"
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/article/carlos-prates-isnt-buying-into-ufc-336s-interim-championship-not-a-real-title-michael-morales-003828739.html",
+          "title": "Carlos Prates isn't buying into UFC 336's interim championship: 'Not a real title'"
         },
         {
-          "source": "Матч ТВ",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFR5SHRXRUdQTUFSZnBvdFZFY0NfNm1FX1pYajQzWG1XMDMxMXlmS2FVR3VZMF90eGJaVnlCYzkzQ004SFUwc282TnY4QjZyU095Y1daM1hSY1B6RWpLbGtOM1luTGlvemRHNGQzSDR4RU9KeTZrd19uVUZ5dXk0Ny1qR1hWLUpBcGNSSUtTLXJLeEtiMWNuRFd1T05SdFQwczRzcUtOSjA1VV92MTA1YlBBa0puWFpaWkV4ck1ma0ZtUQ?oc=5",
-          "title": "Стал известен состав сборной России на финал Кубка мира по боксу в Ташкенте"
+          "source": "MMA",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXM4SVRkUEIzY0ZZcFhlYjBsaWdaWXRSZTNVSDFQRUJPbE5Td05MdjFudkFIeFB6UUMtRDI4cklHdjdibHEyMmNyQ0tVVHVyaXA0U0g2eWxFam0yenVVUVFLSlo3NGlNem8xcTVOdFhKd21ydEZ2Mzd6MW1rX3ItRER3LUxKcTlSUVBnTXlLaElpRlNtVGQyVWtKLU5lbjhOR2hScXJSOXNRby1rWXc?oc=5",
+          "title": "‘You’re not the real champ’: Carlos Prates sets sights on undisputed UFC title - The Mac Life"
         },
         {
-          "source": "КАРАВАН",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXVRTXVDY3JrWVR4ZkFXUVU4UFFHZTZtZEhCekhfYVZnbURWQmYycWNYRmhRSGxNWkFZUGtKVy0zWTdKMkR4NUJZQ2doNHV3V3A2MTVSOHIxTk5GY2pPSlBFdEZraTdoZ3dvb0xENlpvcjJtZDZQcHNFTnRIY0stbmNWWDdnX3Z4UENwdnBXSE9XSDg4dDBZMi1HUTVIT0NfRm1UekFHT1BES2ppdkk1N2tzRGJUWG9r?oc=5",
-          "title": "Финал Кубка мира по боксу в Ташкенте: сборная Казахстана выступит усечённым составом"
+          "source": "Sherdog",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEt0X3hnVElPVV9pMlpmSkRLVEd3V196eXZ0Z1d1UnRtM2haYnNGQjhXVURQNDRHSUk5WGl4ZDJwX0drSl9USVd0WHVnV0NVVE9jeTFwcjVVM3pNeXlOWnhydmZndlhNOWhBbzBrTngtUmszZWFaX3VCR3pVR0pEdnhuNHNKZzVZbjJObkpQTWNqY1BjZmt3TzJ1azdiYkpmRDZyYjMzWWtiUlRwLW5KOFJkZlY4UW05ZXpuMzJsOHE2VGvSAcgBQVVfeXFMUFhlaEhiVzJFLUxYd0ZlTzUxeE9VcldXbk9hMTlkRl9FWW94dFBmZEN1TjJnc3p3dHBrTWdUYTV4UDNnalMyRmFxMTNwTWlVN1FlczFscU5HWnpSZGhLbGYtcjRZdDRraS1WZk5HTjRXb3hQRzQ0S0E2OXVPT1EwZ2pOYTZsVjdiVHJiR3Qwa29CeVZpWVlqaVBraWdwSEpkTlF1eVBUMC1TaHAtaWZnMk10QmtTU1UtQWNLdlZvVVdVdG5oSno0VW0?oc=5",
+          "title": "Carlos Prates says UFC interim title isn't the 'real' championship, eyes undisputed gold"
         },
         {
-          "source": "Спорт Mail",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PRlBXSm1XdjMwODh1QUQxZFFZMW40XzJWUTZ6TlFNN2FkckxLWnlrQkNPYXJ5eDE2QWxxMG5OT2NJU3VXQjVsZmlTdUJ2ckE1TWloaEhqRE4?oc=5",
-          "title": "Сборная России объявила состав на Финал Кубка мира по боксу в Ташкенте"
+          "source": "UFC.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGh0cGk2YzBZMjVfRzlBak5LTDU3RFg2aElRQXYzel85STZfeWxpc0U1RjRrLUxJdFJtMnFndXdPY0hSbHhiaE5Hd0k2bGR3emc4NDNaYWxqU1hMUERCQU5tOElOTnA1WWFVVnE2QU55Y3ZZdmFQS011NkpQeDBfbUNB?oc=5",
+          "title": "Carlos Prates | Right Where He Expected To Be"
         }
       ],
-      "first_seen": "2026-11-25T10:55:53+00:00"
+      "first_seen": "2026-11-25T13:42:34+00:00"
     },
     {
-      "key": "1c91f59e14",
-      "title": "Калинин проведет поединок на голых кулаках против Николсона на турнире IBA Bare Knuckle в США",
-      "summary": "Калинин проведет поединок на голых кулаках против Николсона на турнире IBA Bare Knuckle в США Meta MMA",
-      "lang": "ru",
+      "key": "daacce3f4e",
+      "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’",
+      "summary": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’ Yahoo Sports",
+      "lang": "en",
       "sport": "combat",
-      "outlets": 4,
+      "outlets": 5,
       "growth": 0,
-      "heat": 10.77,
+      "heat": 11.44,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-25T08:13:59+00:00",
+      "published": "2026-11-24T19:00:00+00:00",
       "refs": [
         {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU284VDZCZEVINGtnWVFPSV92d1RzNzhtZFN6Y2wzdnU1ZXVib0ZMT0tCYS1lbWNRNWZ1MTZQVVRWT3lNTzRFTGdsNWJGSEo0cnZOaHFoMnRIWWZhUk5CVXBJTXFJU2xyRXA4b1d6UjVSdlByQktsaFYybmxyOWVIUXpxMlpneGVWTXhOaC15WmZ2Y0FLVlhQalRyM2E0OURhOGxwc3JRcC15UUJabzVVclhmZll6eVRuQnJxUlJxMEFQakl6N3V3UFhvQmVJUF83Tmc?oc=5",
-          "title": "Калинин проведет поединок на голых кулаках против Николсона на турнире IBA Bare Knuckle в США"
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWh5dUJ6OGVwLTA3bE5XMENlU2JSRHVxbWd3cUpSOEc1VkhDZW00NWZ2aENaM0FIc0c1dHhKTWh3dnZYcU9oQVlzNUN2V0tEZXNRd2NJWmc3b3RkQmVza0stWjVBSVJSdVhwMEVFMGxwYnlSNGRQY3lQR21YZ3RlMEdsZHpIbEgyUU5hRE1n?oc=5",
+          "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’"
         },
         {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/professional/news/sergey-kratos-kalinin-provedet-poedinok-na-golyh-kulakah-protiv-aleksa-nikolsona-na-turnire-iba-bare-knuckle-v-ssha-2478678/",
-          "title": "Сергей «Кратос» Калинин проведет поединок на голых кулаках против Алекса Николсона на турнире IBA Bare Knuckle в США"
+          "source": "MMA Fighting",
+          "link": "https://www.mmafighting.com/ufc/523146/daniel-cormier-warns-navajo-stirling-if-hes-unwilling-to-fight-teammate-carlos-ulberg-then-alex-pereira-can-get-title-fight-right-away",
+          "title": "Daniel Cormier warns Navajo Stirling if he’s unwilling to fight teammate Carlos Ulberg, then Alex Pereira can get ‘title fight right away’"
         },
         {
-          "source": "vRINGe.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2FjNjlNOGFTSDJwQ3E0TUVvTzRkbmZNZnVGSm1TVF9OaGtYcnVjVm55VjJUS0tnSjZ4VGUzRG1CVlpQZFFEUGhIVWZMeTl3bWluOVNtU3BQSm1DcmhHeHdhLVVhZkRqeG1XT3dKdXBmQ3laVkxTX1gtYnhCSjBXcjdKQjhZSzNpYW43VmxnSTNiQQ?oc=5",
-          "title": "Сергей «Кратос» Калинин — Алекс Николсон: бой на голых кулаках 14 декабря"
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/ufc-legend-daniel-cormier-openly-004103617.html",
+          "title": "UFC Legend Daniel Cormier Openly Critical of Navajo Stirling After UFC Qatar"
         },
         {
-          "source": "Чемпионат",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkVXT20xUFo0b1p0Z1RwSWp0bkVkOVlWb1lrV0piWnplbWRHeUg4SjZnNWZzV3RiS0k4Z2NEb3NmdWtUZ0RPY1k1R0JqcmFyYzQxU1ZjaTNIdnlTRWhRR0djV2xoaVRpby1Jd3RzWmlmZEJXbHJPMkpGQ0l4aDR1ZUZuYzNVeG53U1UtOXhNMjFaYmtjX0xUTjNQMktoeHN1VFM4QWxwOTNaWVoxT2UxNXVXV3ptaWF4UWQxc0d4RDVSVDhrVTlxSHJFQUd0MnphTnFjeXBzWQ?oc=5",
-          "title": "Сергей «Кратос» Калинин проведёт бой с экс-бойцом UFC на турнире IBA Bare Knuckle в Майами"
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkxmUXNYTTMyZkJzME8xOUlOS3U2cWowUXhLNlZPeXNtNGpTQlV1WmQ2UzQ5Y2pubWo2LTdzcXVybmlWTXVaUEtFU0VoRlYybDMya2U5ay1FNl9iNjY5MEZuMWZvZXllUFpyX18zU0YzaTZQck1Na3Z1ODRMMkhiUjI3LWFWZ3plY3pETlpNQW1hdU5zMlRXWEtzRkpkYVNHSk9CTTdSdmVpeWV1b21EWmttb08?oc=5",
+          "title": "UFC Legend Daniel Cormier Openly Critical of Navajo Stirling After UFC Qatar"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcnhzZnp2a3VrYWc1NmJvUnRxNHh4cjYyQzl5RDBnZk9DMzFGU0tZZW9XRm96M0h1Wl9uSS1BbVFVUlNSU2ZxbmFkc1hvUk5IMk9RRTNlTzY3WEZJVk8yTnBuUXZiWkFlUUdlYVhJUmxSMXJqeE9aWklZellaTG5Ud29faFBVVGZNVlBlWm5wbWRXOUE1dU5Xdnl1b3FpSC16cDlMdUpralBXNmI0NEFSUFNpcktnNVlGbkJjemdCdlVXdkp2THc?oc=5",
+          "title": "\"That's not your brother\" - Brendan Schaub Warns Navajo Stirling Against Avoiding Potential Carlos Ulberg Title Fight"
         }
       ],
-      "first_seen": "2026-11-25T09:42:30+00:00"
+      "first_seen": "2026-11-24T23:17:48+00:00"
     }
   ],
   "combat_sent": [
@@ -4472,27 +4518,6 @@
     }
   ],
   "first_seen": {
-    "a1a5bc0968": "2026-11-24T09:32:03+00:00",
-    "6627fbd188": "2026-11-24T09:32:03+00:00",
-    "f5bb99888e": "2026-11-24T09:32:03+00:00",
-    "f0b2c006bc": "2026-11-24T09:32:03+00:00",
-    "a78d1ab8e6": "2026-11-24T09:32:03+00:00",
-    "cec0574347": "2026-11-24T09:32:03+00:00",
-    "134141f3b4": "2026-11-24T09:32:03+00:00",
-    "0e32297333": "2026-11-24T09:32:03+00:00",
-    "21e0134b51": "2026-11-24T09:32:03+00:00",
-    "dd1f63a65a": "2026-11-24T09:32:03+00:00",
-    "df076ad461": "2026-11-24T09:32:03+00:00",
-    "78d584b2af": "2026-11-24T09:32:03+00:00",
-    "7301006852": "2026-11-24T09:32:03+00:00",
-    "cf6ec71906": "2026-11-24T09:32:03+00:00",
-    "a51b15ac07": "2026-11-24T09:32:03+00:00",
-    "0e87d1610c": "2026-11-24T09:32:03+00:00",
-    "f25507b052": "2026-11-24T09:32:03+00:00",
-    "b55f77acdb": "2026-11-24T09:32:03+00:00",
-    "da30e479d3": "2026-11-24T09:32:03+00:00",
-    "e51c1fdc3e": "2026-11-24T09:32:03+00:00",
-    "6ff6e1123d": "2026-11-24T09:32:03+00:00",
     "be868883a5": "2026-11-24T09:32:03+00:00",
     "f5cd513636": "2026-11-24T09:32:03+00:00",
     "83077efadb": "2026-11-24T09:32:03+00:00",
@@ -4771,144 +4796,60 @@
     "bcd3aa76f2": "2026-11-25T10:55:53+00:00",
     "efb9aa65a9": "2026-11-25T10:55:53+00:00",
     "fb59999e07": "2026-11-25T10:55:53+00:00",
-    "06bda5bb02": "2026-11-25T10:55:53+00:00"
+    "06bda5bb02": "2026-11-25T10:55:53+00:00",
+    "8e410dcfb1": "2026-11-25T13:42:34+00:00",
+    "b3c910f261": "2026-11-25T13:42:34+00:00",
+    "9346fd5036": "2026-11-25T13:42:34+00:00",
+    "16ef8abc5b": "2026-11-25T13:42:34+00:00",
+    "ff9798c9fa": "2026-11-25T13:42:34+00:00",
+    "c8b4b1c68f": "2026-11-25T13:42:34+00:00",
+    "249a507b9c": "2026-11-25T13:42:34+00:00",
+    "29a23a4980": "2026-11-25T13:42:34+00:00",
+    "fc84c0aea0": "2026-11-25T13:42:34+00:00",
+    "b629c7052c": "2026-11-25T13:42:34+00:00",
+    "63b3a9a4f5": "2026-11-25T13:42:34+00:00",
+    "d0d3deefe0": "2026-11-25T13:42:34+00:00",
+    "6d74d30cc8": "2026-11-25T13:42:34+00:00",
+    "9e7e49cfd7": "2026-11-25T13:42:34+00:00",
+    "11421214c8": "2026-11-25T13:42:34+00:00",
+    "2f60008364": "2026-11-25T13:42:34+00:00",
+    "527e57ee5b": "2026-11-25T13:42:34+00:00",
+    "c4a2f00f14": "2026-11-25T13:42:34+00:00",
+    "fbddb56eda": "2026-11-25T13:42:34+00:00",
+    "84c5094fee": "2026-11-25T13:42:34+00:00",
+    "84f7b29f35": "2026-11-25T13:42:34+00:00"
   },
   "board": {
     "en": [
       {
-        "key": "7ce00d92ec",
-        "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334",
-        "summary": "Josh Hokit wishes he had gotten one back on Ciryl Gane.",
+        "key": "ff9798c9fa",
+        "title": "Tennis star Jannik Sinner undergoes 'minor' knee surgery",
+        "summary": "After months of rehabilitation failed to resolve a right knee injury, Jannik Sinner opted for minor surgery.",
         "lang": "en",
-        "sport": "combat",
-        "outlets": 4,
-        "growth": 0,
-        "heat": 12.23,
-        "published": "2026-11-24T21:15:25+00:00",
-        "latest": "2026-11-25T04:41:19+00:00",
-        "refs": [
-          {
-            "source": "Yahoo Sports – MMA",
-            "link": "https://sports.yahoo.com/mma/articles/josh-hokit-reveals-only-regret-211525189.html",
-            "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334"
-          },
-          {
-            "source": "MMA Fighting",
-            "link": "https://www.mmafighting.com/ufc/523076/matt-brown-defends-josh-hokits-complaints-about-eye-poke-in-ciryl-gane-fight-a-fcking-point-deduction-at-minimum",
-            "title": "Matt Brown defends Josh Hokit’s complaints about eye poke in Ciryl Gane fight: ‘A f*cking point deduction at minimum’"
-          },
-          {
-            "source": "Sherdog",
-            "link": "https://www.sherdog.com/news/news/Josh-Hokit-wants-to-settle-Jon-Jones-feud-behind-closed-doors-203742",
-            "title": "Josh Hokit wants to settle Jon Jones feud behind closed doors"
-          },
-          {
-            "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/ufc/josh-hokit-jon-jones-record-ciryl-gane-aspinall-ufc-b3090609.html",
-            "title": "UFC’s Josh Hokit claims he ‘got the better’ of Jon Jones in sparring as feud escalates"
-          }
-        ],
-        "first_seen": "2026-11-24T11:44:52+00:00"
-      },
-      {
-        "key": "2322be272d",
-        "title": "Gyokeres, Madueke And Odegaard Get 7.5 | Arsenal Players Rated In Lackluster Draw Vs Borussia Dortmund",
-        "summary": "Arsenal entertained Borussia Dortmund at the Emirates Stadium earlier tonight as they hoped to earn a good result at home in the UEFA Champions League. The Gunners made a quick start to the game and s...",
-        "lang": "en",
-        "sport": "football",
-        "outlets": 4,
-        "growth": 0,
-        "heat": 12.09,
-        "published": "2026-11-25T09:30:00+00:00",
-        "latest": "2026-11-25T10:00:00+00:00",
-        "refs": [
-          {
-            "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/gyokeres-madueke-odegaard-7-5-093000468.html",
-            "title": "Gyokeres, Madueke And Odegaard Get 7.5 | Arsenal Players Rated In Lackluster Draw Vs Borussia Dortmund"
-          },
-          {
-            "source": "Sky Sports – Football",
-            "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/report/577669",
-            "title": "Wasteful Arsenal held by Borussia Dortmund"
-          },
-          {
-            "source": "The Guardian – Football",
-            "link": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
-            "title": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund"
-          },
-          {
-            "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/football/arsenal-borussia-dortmund-live-stream-score-champions-league-b3090541.html",
-            "title": "Arsenal v Borussia Dortmund LIVE: Gunners held to draw but remain unbeaten in Champions League"
-          }
-        ],
-        "first_seen": "2026-11-25T10:23:18+00:00"
-      },
-      {
-        "key": "97fadadfe9",
-        "title": "Michael Bisping: Jiri Prochazka has to address defensive flaws after UFC Qatar KO loss",
-        "summary": "Michael Bisping thinks Jiri Prochazka's defensive tendencies need to change.",
-        "lang": "en",
-        "sport": "combat",
+        "sport": "tennis",
         "outlets": 3,
         "growth": 0,
-        "heat": 12.09,
-        "published": "2026-11-25T00:55:25+00:00",
-        "latest": "2026-11-25T03:51:29+00:00",
+        "heat": 14.14,
+        "published": "2026-11-25T12:09:04+00:00",
+        "latest": "2026-11-25T13:00:00+00:00",
         "refs": [
           {
-            "source": "Yahoo Sports – MMA",
-            "link": "https://sports.yahoo.com/mma/articles/michael-bisping-jiri-prochazka-address-005525544.html",
-            "title": "Michael Bisping: Jiri Prochazka has to address defensive flaws after UFC Qatar KO loss"
-          },
-          {
-            "source": "MMA Fighting",
-            "link": "https://www.mmafighting.com/ufc/523018/between-the-links-whats-next-for-jiri-prochazka-josh-hokit-wants-ciryl-gane-rematch-more",
-            "title": "Between the Links: What’s next for Jiri Prochazka? Josh Hokit wants Ciryl Gane rematch, more"
-          },
-          {
-            "source": "Sherdog",
-            "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-gets-called-out-after-backtoback-KO-losses-203740",
-            "title": "Jiri Prochazka gets called out after back-to-back KO losses"
-          }
-        ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
-      },
-      {
-        "key": "1883c3da1f",
-        "title": "Jose Mourinho talks Bellingham, Tchouameni, Rudiger, Guler, Bernardo after Real Madrid 5-1 PSV",
-        "summary": "Real Madrid got another three points in the UEFA Champions League as they faced the Eredivisie side PSV Eindhoven at the Santiago Bernabeu last night. However, the Merengues once again made this game ...",
-        "lang": "en",
-        "sport": "football",
-        "outlets": 4,
-        "growth": 0,
-        "heat": 11.67,
-        "published": "2026-11-25T09:28:00+00:00",
-        "latest": "2026-11-25T10:08:00+00:00",
-        "refs": [
-          {
-            "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/jose-mourinho-talks-bellingham-tchouameni-092800571.html",
-            "title": "Jose Mourinho talks Bellingham, Tchouameni, Rudiger, Guler, Bernardo after Real Madrid 5-1 PSV"
+            "source": "Yahoo Sports – Tennis",
+            "link": "https://sports.yahoo.com/tennis/articles/tennis-star-jannik-sinner-undergoes-120904619.html",
+            "title": "Tennis star Jannik Sinner undergoes 'minor' knee surgery"
           },
           {
             "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/football/real-madrid-psv-champions-league-result-mbappe-b3091046.html",
-            "title": "Real Madrid fight back against PSV to storm to top of Champions League standings"
+            "link": "https://www.independent.co.uk/sport/tennis/jannik-sinner-knee-surgery-return-australian-open-b3090564.html",
+            "title": "Jannik Sinner undergoes knee surgery leaving Australian Open participation in doubt"
           },
           {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
-            "title": "Manchester City 2-2 Napoli, Real Madrid 5-1 PSV: Champions League clockwatch – as it happened"
-          },
-          {
-            "source": "Sky Sports – Football",
-            "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "title": "Mourinho calls Bellingham best midfielder in the world - your verdict!"
+            "source": "The Guardian – Tennis",
+            "link": "https://www.theguardian.com/sport/2026/nov/24/jannik-sinners-australian-open-in-great-doubt-after-he-has-to-have-knee-surgery",
+            "title": "Jannik Sinner’s Australian Open appearance in doubt after knee surgery"
           }
         ],
-        "first_seen": "2026-11-25T10:23:18+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       },
       {
         "key": "aee146718d",
@@ -4916,16 +4857,21 @@
         "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
         "lang": "en",
         "sport": null,
-        "outlets": 2,
+        "outlets": 3,
         "growth": 0,
-        "heat": 11.53,
+        "heat": 11.54,
         "published": "2026-11-25T08:37:44+00:00",
-        "latest": "2026-11-25T09:58:06+00:00",
+        "latest": "2026-11-25T13:00:00+00:00",
         "refs": [
           {
             "source": "BBC Sport",
             "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
             "title": "Khawaja 'disappointed' by Cummins' personal attack"
+          },
+          {
+            "source": "Sky Sports",
+            "link": "https://www.skysports.com/cricket/news/12040/13616325/sandpapergate-usman-khawaja-hurt-by-personal-attacks-from-pat-cummins-as-he-details-cameron-bancroft-relationship",
+            "title": "Khawaja 'hurt' by 'personal attacks' from Cummins in sandpaper denials"
           },
           {
             "source": "The Independent – Sport",
@@ -4936,337 +4882,442 @@
         "first_seen": "2026-11-25T10:23:18+00:00"
       },
       {
-        "key": "e71fef7d1f",
-        "title": "Cherki salvages draw with Napoli but Man City frustrate",
-        "summary": "Rayan Cherki’s late strike salvaged a 2-2 draw for Manchester City at home to Napoli in the Champions League but Enzo Maresca’s side again struggled to find their fluency.",
+        "key": "1883c3da1f",
+        "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
+        "summary": "Englishman hailed by teammates and manager Mourinho after coming on to completely change Champions League game against PSV Eindhoven “It was one of those moments when you’re just: ‘Wow.’” Bernardo Silva had a good view of Jude Bellingham scoring the goal, the golazo , that put Real Madrid into the lead and the Bernabéu on its feet, shock giving way to song, naa, naa, naa, na-na-na-naa, na-na-na-na",
         "lang": "en",
         "sport": "football",
         "outlets": 3,
         "growth": 0,
-        "heat": 9.82,
-        "published": "2026-11-24T12:09:00+00:00",
-        "latest": "2026-11-25T10:30:00+00:00",
-        "refs": [
-          {
-            "source": "Sky Sports",
-            "link": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674",
-            "title": "Cherki salvages draw with Napoli but Man City frustrate"
-          },
-          {
-            "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/manchester-city-manager-enzo-maresca-103000550.html",
-            "title": "Manchester City manager Enzo Maresca disagreed with Rayan Cherki's verdict that his side lacked energy in their 2-2 UEFA Champions League draw with Napoli."
-          },
-          {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-            "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue"
-          }
-        ],
-        "first_seen": "2026-11-25T01:42:40+00:00"
-      },
-      {
-        "key": "e140517968",
-        "title": "Jannik Sinner’s Australian Open appearance in doubt after knee surgery",
-        "summary": "Wimbledon champion sidelined since winning title ‘We’ve tried everything to treat injury without surgery’ Jannik Sinner faces further time off the court after undergoing knee surgery. The former world No 1 has been sidelined with pain in his right knee since winning his second consecutive Wimbledon title in July. Details on Sinner’s condition have been scarce but on Tuesday he announced he has had",
-        "lang": "en",
-        "sport": "tennis",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.49,
-        "published": "2026-11-24T18:36:11+00:00",
-        "latest": "2026-11-24T18:36:11+00:00",
+        "heat": 11.06,
+        "published": "2026-11-25T12:59:29+00:00",
+        "latest": "2026-11-25T12:59:29+00:00",
         "refs": [
           {
             "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/sport/2026/nov/24/jannik-sinners-australian-open-in-great-doubt-after-he-has-to-have-knee-surgery",
-            "title": "Jannik Sinner’s Australian Open appearance in doubt after knee surgery"
+            "link": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
+            "title": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+            "title": "Bellingham plays down Zidane comparison after wonder goal"
           },
           {
             "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/tennis/jannik-sinner-knee-surgery-return-australian-open-b3090564.html",
-            "title": "Jannik Sinner undergoes knee surgery leaving Australian Open participation in doubt"
-          },
-          {
-            "source": "Yahoo Sports – Tennis",
-            "link": "https://sports.yahoo.com/articles/carlos-alcaraz-match-one-novak-170000261.html",
-            "title": "Carlos Alcaraz can match one of Novak Djokovic’s personal records at the 2027 Australian Open"
+            "link": "https://www.independent.co.uk/sport/football/real-madrid-jude-bellingham-zinedine-zidane-champions-league-psv-goal-b3091218.html",
+            "title": "Jude Bellingham explains why he’s no match for Zinedine Zidane after shining for Real Madrid"
           }
         ],
         "first_seen": "2026-11-25T10:23:18+00:00"
       },
       {
-        "key": "101002e37a",
-        "title": "Portsmouth 1-0 West Ham United - fans' verdict",
-        "summary": "Here are your thoughts after Tuesday's Championship match between Portsmouth and West Ham United.",
+        "key": "c8b4b1c68f",
+        "title": "Raheem Sterling - from national icon to suspended jail sentence",
+        "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+        "lang": "en",
+        "sport": "football",
+        "outlets": 3,
+        "growth": 0,
+        "heat": 10.69,
+        "published": "2026-11-25T13:18:45+00:00",
+        "latest": "2026-11-25T13:18:45+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/soccer/articles/raheem-sterling-national-icon-suspended-125354880.html",
+            "title": "Raheem Sterling - from national icon to suspended jail sentence"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+            "title": "Sterling - from England icon to suspended jail sentence"
+          },
+          {
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+            "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide"
+          }
+        ],
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "249a507b9c",
+        "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here",
+        "summary": "After African football was dragged into needless disrepute the next step is to tackle two key areas of governance A journey of 310 days and three legal proceedings to confirm two things we know – that Senegal beat Morocco 1-0 to win the 2025 Africa Cup of Nations and, most importantly, that the decision of a referee remains final and sacrosanct – has produced the longest, most comical and embarras",
+        "lang": "en",
+        "sport": "football",
+        "outlets": 3,
+        "growth": 0,
+        "heat": 10.08,
+        "published": "2026-11-25T12:41:11+00:00",
+        "latest": "2026-11-25T12:41:11+00:00",
+        "refs": [
+          {
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/football/2026/nov/25/senegal-regaining-afcon-title-right-end-african-football",
+            "title": "Senegal regaining Afcon title is the right end to embarrassing farrago but issues do not stop here"
+          },
+          {
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/football/morocco-senegal-afcon-title-champions-cas-verdict-b3090841.html",
+            "title": "Morocco vow further legal action after Senegal reinstated Afcon champions"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+            "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament"
+          }
+        ],
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "7ce00d92ec",
+        "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334",
+        "summary": "Josh Hokit wishes he had gotten one back on Ciryl Gane.",
+        "lang": "en",
+        "sport": "combat",
+        "outlets": 3,
+        "growth": 0,
+        "heat": 9.49,
+        "published": "2026-11-24T21:15:25+00:00",
+        "latest": "2026-11-25T04:41:19+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – MMA",
+            "link": "https://sports.yahoo.com/mma/articles/josh-hokit-reveals-only-regret-211525189.html",
+            "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334"
+          },
+          {
+            "source": "MMA Fighting",
+            "link": "https://www.mmafighting.com/ufc/523018/between-the-links-whats-next-for-jiri-prochazka-josh-hokit-wants-ciryl-gane-rematch-more",
+            "title": "Between the Links: What’s next for Jiri Prochazka? Josh Hokit wants Ciryl Gane rematch, more"
+          },
+          {
+            "source": "Sherdog",
+            "link": "https://www.sherdog.com/news/news/Josh-Hokit-wants-to-settle-Jon-Jones-feud-behind-closed-doors-203742",
+            "title": "Josh Hokit wants to settle Jon Jones feud behind closed doors"
+          }
+        ],
+        "first_seen": "2026-11-24T11:44:52+00:00"
+      },
+      {
+        "key": "29a23a4980",
+        "title": "Bayern Munich insist Jamal Musiala’s health is ‘top priority’ following criticism",
+        "summary": "The German champions have moved to address speculation surrounding the midfielder’s recovery after criticism from FIFPRO",
         "lang": "en",
         "sport": null,
         "outlets": 3,
         "growth": 0,
-        "heat": 9.41,
-        "published": "2026-11-25T10:21:03+00:00",
-        "latest": "2026-11-25T10:21:03+00:00",
+        "heat": 9.39,
+        "published": "2026-11-25T12:35:45+00:00",
+        "latest": "2026-11-25T12:35:45+00:00",
         "refs": [
           {
             "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/portsmouth-1-0-west-ham-102103435.html",
-            "title": "Portsmouth 1-0 West Ham United - fans' verdict"
+            "link": "https://sports.yahoo.com/soccer/articles/bayern-munich-insist-jamal-musiala-123545639.html",
+            "title": "Bayern Munich insist Jamal Musiala’s health is ‘top priority’ following criticism"
           },
           {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
-            "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth"
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/football/jamal-musiala-bayern-munich-health-update-b3091403.html",
+            "title": "Bayern Munich insist Jamal Musiala’s health is ‘top priority’ following criticism"
           },
           {
-            "source": "Sky Sports – Football",
-            "link": "https://www.skysports.com/football/live-blog/11095/13616079/portsmouth-vs-west-ham-live-championship-match-updates-score-stream-and-free-highlights",
-            "title": "Boro win to go top; West Ham beaten by Portsmouth - EFL highlights"
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+            "title": "How to unearth young stars, the Bayern Munich way"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "56fec9238f",
+        "title": "UFC Hall of Famer Brutally Blunt Toward Jiri Prochazka Following TKO Loss",
+        "summary": "A prominent UFC Hall of Famer weighed in on Jiri Prochazka's recent loss in the UFC Qatar main event.",
+        "lang": "en",
+        "sport": "combat",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 9.24,
+        "published": "2026-11-24T19:09:42+00:00",
+        "latest": "2026-11-25T03:51:29+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – MMA",
+            "link": "https://sports.yahoo.com/mma/articles/ufc-hall-famer-brutally-blunt-190942383.html",
+            "title": "UFC Hall of Famer Brutally Blunt Toward Jiri Prochazka Following TKO Loss"
+          },
+          {
+            "source": "Sherdog",
+            "link": "https://www.sherdog.com/news/news/Jiri-Prochazka-gets-called-out-after-backtoback-KO-losses-203740",
+            "title": "Jiri Prochazka gets called out after back-to-back KO losses"
+          }
+        ],
+        "first_seen": "2026-11-25T10:23:18+00:00"
+      },
+      {
+        "key": "982152724b",
+        "title": "Millwall face partial stadium closure over chants",
+        "summary": "Millwall must play a home game in front of a partially-closed stadium as punishment for fans' discriminatory chants.",
+        "lang": "en",
+        "sport": null,
+        "outlets": 3,
+        "growth": 0,
+        "heat": 9.08,
+        "published": "2026-11-25T10:59:26+00:00",
+        "latest": "2026-11-25T10:59:26+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/articles/millwall-face-partial-stadium-closure-142354988.html",
+            "title": "Millwall face partial stadium closure over chants"
+          },
+          {
+            "source": "BBC Sport – Football",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c6wy474lxd22o?at_medium=RSS&at_campaign=rss",
+            "title": "Millwall face partial stadium closure after discriminatory chants"
+          },
+          {
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/football/millwall-fan-chants-partial-stadium-closure-b3090722.html",
+            "title": "Millwall punished with partial stadium closure over ‘ableist and homophobic chanting’"
+          }
+        ],
+        "first_seen": "2026-11-24T17:42:28+00:00"
       }
     ],
     "zh": [],
     "ru": [
       {
-        "key": "db20eddae7",
-        "title": "Инсайдер НХЛ: «Монреаль» заинтересован в переходе Никиты Кучерова",
-        "summary": "Инсайдер НХЛ Эллиотт Фридман сообщил, что «Монреаль Канадиенс» попытается подписать нападающего «Тампа-Бэй Лайтнинг» Никиту Кучерова, если он выйдет на рынок свободных агентов летом.",
+        "key": "fc84c0aea0",
+        "title": "Тони Надаль об Алькарасе: «Если нет Синнера, он лучший игрок»",
+        "summary": "Тони Надаль высказался о победе Карлоса Алькараса на итоговом турнире ATP . В финале испанец обыграл первую ракетку мира Александра Зверева – 6:2, 7:6(7). «Карлос был заметно сильнее большую часть матча. Потом ему стало немного сложнее, когда Зверев подтянулся и даже имел шансы выиграть второй сет. Но в итоге Карлос показал, что сейчас, особенно в отсутствие Синнера , он лучший игрок. На этом турн",
         "lang": "ru",
-        "sport": "hockey",
+        "sport": "tennis",
         "outlets": 3,
         "growth": 0,
-        "heat": 9.79,
-        "published": "2026-11-25T10:25:05+00:00",
-        "latest": "2026-11-25T10:25:05+00:00",
-        "refs": [
-          {
-            "source": "Championat",
-            "link": "https://www.championat.com/hockey/news-6713388-insajder-nhl-monreal-zainteresovan-v-perehode-nikity-kucherova.html",
-            "title": "Инсайдер НХЛ: «Монреаль» заинтересован в переходе Никиты Кучерова"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/hockey/nhl/news/monreal-mozhet-popytatsya-podpisat-kucherova-letom-2027-goda-2478702/",
-            "title": "«Монреаль» может попытаться подписать Кучерова летом 2027 года"
-          },
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/monreal-2133809010.html",
-            "title": "\"Монреаль\" может включиться в борьбу за Кучерова, пишут СМИ"
-          }
-        ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
-      },
-      {
-        "key": "c26f85fa8e",
-        "title": "Эмери не включил Гарначо в состав «Астон Виллы» на матч ЛЧ с «Галатасараем», несмотря на свободное место в заявке: «Здесь были лучшие игроки команды»",
-        "summary": "Главный тренер « Астон Виллы » Унаи Эмери прокомментировал решение не включать вингера Алехандро Гарначо в заявку на матч Лиги чемпионов против « Галатасарая » (0:1). В запас команды попали 11 игроков, хотя регламент турнира позволяет внести в заявку 12 футболистов. «Сегодня здесь были игроки, которые, на мой взгляд, являются лучшими в команде», – сказал Эмери.",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.78,
-        "published": "2026-11-25T10:30:00+00:00",
-        "latest": "2026-11-25T10:30:00+00:00",
+        "heat": 12.32,
+        "published": "2026-11-25T13:35:00+00:00",
+        "latest": "2026-11-25T13:35:00+00:00",
         "refs": [
           {
             "source": "Sports.ru",
-            "link": "https://www.sports.ru/football/1117448094-emeri-ne-vklyuchil-garnacho-v-sostav-villy-na-match-lch-nesmotrya-na-s.html",
-            "title": "Эмери не включил Гарначо в состав «Астон Виллы» на матч ЛЧ с «Галатасараем», несмотря на свободное место в заявке: «Здесь были лучшие игроки команды»"
+            "link": "https://www.sports.ru/tennis/1117448241-toni-nadal-ob-alkarase-esli-net-sinnera-on-luchshij-igrok.html",
+            "title": "Тони Надаль об Алькарасе: «Если нет Синнера, он лучший игрок»"
           },
           {
-            "source": "Championat",
-            "link": "https://www.championat.com/football/news-6713416-emeri-o-porazhenii-ot-galatasaraya-my-zasluzhivali-kak-minimum-nichej.html",
-            "title": "Эмери — о поражении «Астон Виллы» от «Галатасарая»: мы заслуживали как минимум ничьей"
+            "source": "Чемпионат – Теннис",
+            "link": "https://www.championat.com/tennis/news-6713610-toni-nadal-esli-net-sinnera-alkaras-luchshij-igrok.html",
+            "title": "Тони Надаль: если нет Синнера, Алькарас лучший игрок"
           },
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/champions-league/news/glavnyy-trener-aston-villy-emeri-nazval-fantasticheskoy-igru-batrakova-2478500/",
-            "title": "Главный тренер «Астон Виллы» Эмери назвал фантастической игру Батракова"
+            "link": "https://www.sport-express.ru/tennis/atp/news/toni-nadal-bez-sinnera-alkaras-luchshiy-tennisist-mira-2478830/",
+            "title": "Тони Надаль: «Без Синнера Алькарас — лучший теннисист мира»"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       },
       {
-        "key": "b8614694ff",
-        "title": "«Бавария» опубликовала заявление по ситуации с Джамалом Мусиалой",
-        "summary": "Мюнхенская «Бавария» выпустила официальное заявление по ситуации с атакующим полузащитником Джамалом Мусиалой.",
+        "key": "9346fd5036",
+        "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»",
+        "summary": "Боец UFC Карлос Пратес поддержал чемпиона PFL Усмана Нурмагомедова после массовой драки с участием Мераба Двалишвили в Абу-Даби.",
         "lang": "ru",
-        "sport": null,
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.47,
-        "published": "2026-11-25T10:33:04+00:00",
-        "latest": "2026-11-25T10:33:04+00:00",
+        "sport": "combat",
+        "outlets": 2,
+        "growth": -4,
+        "heat": 9.97,
+        "published": "2026-11-25T12:17:00+00:00",
+        "latest": "2026-11-25T12:17:00+00:00",
         "refs": [
           {
-            "source": "Championat",
-            "link": "https://www.championat.com/football/news-6713432-bavariya-opublikovala-zayavlenie-po-situacii-s-dzhamalom-musialoj.html",
-            "title": "«Бавария» опубликовала заявление по ситуации с Джамалом Мусиалой"
-          },
-          {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/germany/news/bavariya-poobeschala-musiale-polnuyu-podderzhku-posle-ocherednogo-obmoroka-i-sporov-o-ego-kontrakte-2478726/",
-            "title": "«Бавария» пообещала Мусиале полную поддержку после очередного обморока и споров о его контракте"
+            "link": "https://www.sport-express.ru/martial/mma/ufc/news/prates-podderzhal-usmana-nurmagomedova-posle-draki-s-dvalishvili-na-ulice-net-pravil-2478805/",
+            "title": "Пратес поддержал Усмана Нурмагомедова после драки с Двалишвили: «На улице нет правил»"
           },
           {
             "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/musiala-2133820632.html",
-            "title": "В \"Баварии\" прокомментировали ситуацию с восстановлением Мусиалы"
+            "link": "https://ria.ru/20261125/prates-2133847779.html",
+            "title": "Пратес поддержал Нурмагомедова в конфликте с Двалишвили"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       },
       {
-        "key": "b482bbd59c",
-        "title": "Умер заслуженный тренер СССР по вольной борьбе Габисов",
-        "summary": "",
+        "key": "951c557524",
+        "title": "Алькарас может пропустить четвертьфинал Кубка Дэвиса из-за проблем с бедром",
+        "summary": "Испанский теннисист Карлос Алькарас может пропустить четвертьфинальный матч Кубка Дэвиса против сборной Австрии, сообщает Punto de Break.",
         "lang": "ru",
-        "sport": null,
+        "sport": "tennis",
         "outlets": 2,
         "growth": 0,
-        "heat": 9.04,
-        "published": "2026-11-25T08:04:43+00:00",
-        "latest": "2026-11-25T08:04:43+00:00",
+        "heat": 9.02,
+        "published": "2026-11-25T05:22:00+00:00",
+        "latest": "2026-11-25T09:01:01+00:00",
         "refs": [
           {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/gabisov-2133798949.html",
-            "title": "Умер заслуженный тренер СССР по вольной борьбе Габисов"
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/tennis/davis-cup/news/alkaras-mozhet-propustit-chetvertfinal-kubka-devisa-iz-za-problem-s-bedrom-2478637/",
+            "title": "Алькарас может пропустить четвертьфинал Кубка Дэвиса из-за проблем с бедром"
           },
           {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/martial/wrestling/freestyle/news/zasluzhennyy-trener-sssr-i-rossii-po-volnoy-borbe-gabisov-umer-v-vozraste-96-let-2478650/",
-            "title": "Заслуженный тренер СССР и России по вольной борьбе Габисов умер в возрасте 96 лет"
+            "source": "Чемпионат – Теннис",
+            "link": "https://www.championat.com/tennis/news-6713318-ne-znayu-posmotrim-ferrer-ne-uveren-sygraet-li-alkaras-s-avstriej-na-kubke-devisa.html",
+            "title": "«Не знаю, посмотрим». Феррер не уверен, сыграет ли Алькарас с Австрией в Кубке Дэвиса"
           }
         ],
-        "first_seen": "2026-11-25T09:42:30+00:00"
+        "first_seen": "2026-11-25T05:42:32+00:00"
       },
       {
-        "key": "d1c2415c6e",
-        "title": "Сборная России по футзалу проведет два товарищеских матча с Афганистаном",
-        "summary": "",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 8.13,
-        "published": "2026-11-25T10:06:23+00:00",
-        "latest": "2026-11-25T10:06:23+00:00",
-        "refs": [
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/futzal-2133828290.html",
-            "title": "Сборная России по футзалу проведет два товарищеских матча с Афганистаном"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/women/news/zhenskaya-sbornaya-rossii-po-futbolu-provedet-dva-tovarischeskih-matcha-s-tunisom-2478319/",
-            "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом"
-          }
-        ],
-        "first_seen": "2026-11-25T10:23:18+00:00"
-      },
-      {
-        "key": "f71f4ec83d",
-        "title": "«Это была очень важная победа». Защитник «Зенита» Сантос — о матче с «Крыльями Советов»",
-        "summary": "Защитник «Зенита» Дуглас Сантос прокомментировал домашнюю победу над «Крыльями Советов» (1:0) в матче 6-го тура группового этапа Пути РПЛ Фонбет Кубка России.",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 7.89,
-        "published": "2026-11-25T10:53:04+00:00",
-        "latest": "2026-11-25T10:53:04+00:00",
-        "refs": [
-          {
-            "source": "Championat",
-            "link": "https://www.championat.com/football/news-6713398-eto-byla-ochen-vazhnaya-pobeda-zaschitnik-zenita-santos-o-matche-s-krylyami-sovetov.html",
-            "title": "«Это была очень важная победа». Защитник «Зенита» Сантос — о матче с «Крыльями Советов»"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/rus_cup/news/semak-nazval-neprostoy-pobedu-zenita-nad-krylyami-sovetov-2478540/",
-            "title": "Семак назвал непростой победу «Зенита» над «Крыльями Советов»"
-          }
-        ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
-      },
-      {
-        "key": "bcd3aa76f2",
-        "title": "Пловец Костин: «Было бы здорово, чтобы спортсмены могли выходить на спортивную пенсию за выслугу лет. Меня удивляет, что россияне в принципе не считают спорт какой-то профессией, работой»",
-        "summary": "Пятикратный чемпион мира в плавании на короткой воде Олег Костин предложил ввести спортивную пенсию за выслугу лет. – Ты бы что в своем спорте поменял? Если бы стал главой федерации или министром спорта? – В нынешнем плавании все сейчас грамотно. Разве что чисто технические детали – разрешить сальто-разворот в баттерфляе. А вот в целом в спорте... Было бы здорово, чтобы спортсмены имели возможност",
+        "key": "b629c7052c",
+        "title": "Агент Тодда о переходе Нэйтана в «Металлург»: «Ему было интересно оказаться в команде, способной бороться за Кубок Гагарина. «Ак Барс» мог проявить больше инициативы»",
+        "summary": "Хоккейный агент Ренат Мамашев рассказал, почему нападающий Нэйтан Тодд покинул «Ак Барс» и заключил контракт с « Металлургом ». 15 июня «Металлург» объявил о подписании двухлетнего контракта с Тоддом. В нынешнем сезоне канадец набрал 28 (13+15) очков в 30 играх Фонбет Чемпионата КХЛ. – У Нэйтана Тодда, кажется, все хорошо. Да и с Андреем Разиным у него было в порядке. – Он тоже по-своему уникальны",
         "lang": "ru",
         "sport": "olympic",
         "outlets": 2,
         "growth": 0,
-        "heat": 7.58,
-        "published": "2026-11-25T10:18:00+00:00",
-        "latest": "2026-11-25T10:18:00+00:00",
+        "heat": 7.97,
+        "published": "2026-11-25T13:26:00+00:00",
+        "latest": "2026-11-25T13:26:00+00:00",
         "refs": [
           {
             "source": "Sports.ru",
-            "link": "https://www.sports.ru/aquatics/1117448079-plovecz-kostin-bylo-by-zdorovo-chtoby-sportsmeny-mogli-vyxodit-na-spor.html",
-            "title": "Пловец Костин: «Было бы здорово, чтобы спортсмены могли выходить на спортивную пенсию за выслугу лет. Меня удивляет, что россияне в принципе не считают спорт какой-то профессией, работой»"
+            "link": "https://www.sports.ru/hockey/1117448238-agent-todda-o-perexode-v-metallurg-nejtanu-bylo-interesno-okazatsya-v-.html",
+            "title": "Агент Тодда о переходе Нэйтана в «Металлург»: «Ему было интересно оказаться в команде, способной бороться за Кубок Гагарина. «Ак Барс» мог проявить больше инициативы»"
           },
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/swimming/news/plovec-kostin-predlozhil-vvesti-dosrochnuyu-pensiyu-dlya-sportsmenov-2478648/",
-            "title": "Пловец Костин предложил ввести досрочную пенсию для спортсменов"
+            "link": "https://www.sport-express.ru/hockey/khl/news/agent-mamashev-o-perehode-todda-v-metallurg-kazancy-mogli-proyavit-nemnogo-bolshe-iniciativy-2478834/",
+            "title": "Агент Мамашев — о переходе Тодда в «Металлург»: «Казанцы могли проявить немного больше инициативы»"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       },
       {
-        "key": "efb9aa65a9",
-        "title": "Мужская сборная России сыграет с Бразилией, США и Италией в волейбольной Лиге наций-2027",
-        "summary": "Стали известны соперники мужской сборной России по волейболу на предварительном этапе Лиги наций-2027.",
+        "key": "63b3a9a4f5",
+        "title": "Дивеев поблагодарил болельщиков «Зенита» после выхода в плей-офф Кубка России",
+        "summary": "Защитник «Зенита» Игорь Дивеев обратился к болельщикам после победы над «Крыльями Советов» (1:0) в матче 6-го тура группового этапа Пути РПЛ FONBET Кубка России.",
+        "lang": "ru",
+        "sport": "football",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.87,
+        "published": "2026-11-25T13:36:00+00:00",
+        "latest": "2026-11-25T13:36:00+00:00",
+        "refs": [
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/football/rus_cup/news/diveev-poblagodaril-bolelschikov-zenita-posle-vyhoda-v-pley-off-kubka-rossii-2478849/",
+            "title": "Дивеев поблагодарил болельщиков «Зенита» после выхода в плей-офф Кубка России"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/football/news-6713618-diveev-obratilsya-k-bolelschikam-posle-pobedy-zenita-nad-krylyami-sovetov-v-matche-kubka.html",
+            "title": "Дивеев обратился к болельщикам после победы «Зенита» над «Крыльями Советов» в матче Кубка"
+          }
+        ],
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "d0d3deefe0",
+        "title": "Гаджи Гаджиев: «Если будем готовить игроков качественно, никакие лимиты нам не страшны. Сейчас мы не в состоянии готовить футболистов до уровня международных стандартов»",
+        "summary": "Экс-тренер сборной России Гаджи Гаджиев поделился мнением об ужесточении лимита на легионеров в Альфа-Банк РПЛ . Ранее министр спорта России Михаил Дегтярев заявил : «Результат ужесточения лимита – увеличение потока средств на детский спорт. Готов приказ, продолжающий движение по ужесточению. Подписать его несложно». «Я за гибкий переход. И это обсуждалось на встрече объединения отечественных трен",
+        "lang": "ru",
+        "sport": "football",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.77,
+        "published": "2026-11-25T13:14:00+00:00",
+        "latest": "2026-11-25T13:14:00+00:00",
+        "refs": [
+          {
+            "source": "Sports.ru",
+            "link": "https://www.sports.ru/football/1117448217-gadzhi-gadzhiev-esli-budem-gotovit-igrokov-kachestvenno-nikakie-limity.html",
+            "title": "Гаджи Гаджиев: «Если будем готовить игроков качественно, никакие лимиты нам не страшны. Сейчас мы не в состоянии готовить футболистов до уровня международных стандартов»"
+          },
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/football/rfpl/news/gadzhiev-esli-budem-kachestvenno-gotovit-svoih-futbolistov-to-nikakie-limity-nam-ne-strashny-2478827/",
+            "title": "Гаджиев: «Если будем качественно готовить своих футболистов, то никакие лимиты нам не страшны»"
+          }
+        ],
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "6d74d30cc8",
+        "title": "Радимов считает пенальти в матче ЦСКА — «Ахмат» спорным: «Точно не это сыграло главную роль»",
+        "summary": "Бывший полузащитник ЦСКА Владислав Радимов прокомментировал эпизод с назначенным пенальти в столкновении Данила Кругового и Георгия Мелкадзе в матче армейцев против «Ахмата» (1:2) в 15-м туре РПЛ.",
+        "lang": "ru",
+        "sport": "football",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.73,
+        "published": "2026-11-25T10:27:01+00:00",
+        "latest": "2026-11-25T13:15:04+00:00",
+        "refs": [
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/football/rfpl/news/radimov-schitaet-penalti-v-matche-cska-ahmat-spornym-tochno-ne-eto-sygralo-glavnuyu-rol-2478741/",
+            "title": "Радимов считает пенальти в матче ЦСКА — «Ахмат» спорным: «Точно не это сыграло главную роль»"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/football/news-6713616-trenerskaya-komanda-radimov-vyskazalsya-o-rabote-cherchesova-i-guseva-v-ahmate.html",
+            "title": "«Тренерская команда». Радимов высказался о работе Черчесова и Гусева в «Ахмате»"
+          }
+        ],
+        "first_seen": "2026-11-25T13:42:34+00:00"
+      },
+      {
+        "key": "9e7e49cfd7",
+        "title": "Листунова, Калмыкова и Маринов завоевали золото на Кубке Воронина",
+        "summary": "",
         "lang": "ru",
         "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 7.43,
-        "published": "2026-11-25T10:25:00+00:00",
-        "latest": "2026-11-25T10:25:00+00:00",
+        "heat": 7.65,
+        "published": "2026-11-25T13:33:33+00:00",
+        "latest": "2026-11-25T13:33:33+00:00",
         "refs": [
           {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/volleyball/nations-league-men/news/muzhskaya-sbornaya-rossii-sygraet-s-braziliey-ssha-i-italiey-v-voleybolnoy-lige-naciy-2027-2478732/",
-            "title": "Мужская сборная России сыграет с Бразилией, США и Италией в волейбольной Лиге наций-2027"
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261125/gimnastika-2133884906.html",
+            "title": "Листунова, Калмыкова и Маринов завоевали золото на Кубке Воронина"
           },
           {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/voleybol-2133829503.html",
-            "title": "Сборные России по волейболу начнут выступление в Лиге наций в Бразилии"
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/artistic-gymnastics/news/gimnasty-anna-kalmykova-i-daniel-marinov-vyigrali-mnogobore-na-kubke-voronina-rezultaty-24-noyabrya-2026-2478567/",
+            "title": "Калмыкова и Маринов выиграли многоборье на Кубке Воронина"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       },
       {
-        "key": "fb59999e07",
-        "title": "ИИХФ пойдет в Федеральный суд Швейцарии после несогласия с CAS по допуску России",
-        "summary": "Международная федерация хоккея (ИИХФ) обжалует решение Спортивного арбитражного суда (CAS) по допуску российских сборных до международных турниров в Федеральном суде Швейцарии. Об этом сообщает пресс-служба ИИХФ.",
+        "key": "11421214c8",
+        "title": "«Решили нас расчленить». Кожевников раскритиковал ИИХФ за решение обжаловать допуск России",
+        "summary": "Двукратный олимпийский чемпион Александр Кожевников назвал русофобией решение Международной федерации хоккея обжаловать решение Спортивного арбитражного суда (CAS) по допуску россиян в Федеральном суде Швейцарии.",
         "lang": "ru",
-        "sport": null,
+        "sport": "olympic",
         "outlets": 2,
         "growth": 0,
-        "heat": 7.36,
-        "published": "2026-11-25T10:08:00+00:00",
-        "latest": "2026-11-25T10:08:00+00:00",
+        "heat": 7.63,
+        "published": "2026-11-25T12:10:04+00:00",
+        "latest": "2026-11-25T12:10:04+00:00",
         "refs": [
           {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/hockey/world/news/iihf-poydet-v-federalnyy-sud-shveycarii-posle-nesoglasiya-s-cas-po-dopusku-rossii-2478729/",
-            "title": "ИИХФ пойдет в Федеральный суд Швейцарии после несогласия с CAS по допуску России"
+            "source": "Чемпионат – Хоккей",
+            "link": "https://www.championat.com/hockey/news-6713544-reshili-nas-raschlenit-kozhevnikov-raskritikoval-iihf-za-reshenie-obzhalovat-dopusk-rossii.html",
+            "title": "«Решили нас расчленить». Кожевников раскритиковал ИИХФ за решение обжаловать допуск России"
           },
           {
             "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261125/iihf-2133823524.html",
-            "title": "IIHF обжалует решение CAS о допуске России в Федеральном суде Швейцарии"
+            "link": "https://ria.ru/20261125/kozhevnikov-2133854278.html",
+            "title": "\"Решили нас расчленить\": Кожевников раскритиковал решение IIHF"
           }
         ],
-        "first_seen": "2026-11-25T10:55:53+00:00"
+        "first_seen": "2026-11-25T13:42:34+00:00"
       }
     ]
   },
@@ -5280,10 +5331,10 @@
       "football",
       "football",
       "combat",
-      "tennis"
+      "tennis",
+      "football"
     ],
     "ru": [
-      "olympic",
       "football",
       "hockey",
       "olympic",
@@ -5292,7 +5343,8 @@
       "tennis",
       "hockey",
       "hockey",
-      "tennis"
+      "tennis",
+      "football"
     ],
     "zh": [
       "olympic",
@@ -5300,61 +5352,256 @@
     ]
   },
   "spotlight": {
-    "en": {},
-    "zh": {},
-    "ru": {
-      "sport": "tennis",
-      "total": 2,
+    "en": {
+      "sport": "football",
+      "total": 12,
       "items": [
         {
-          "key": "951c557524",
-          "title": "Алькарас может пропустить четвертьфинал Кубка Дэвиса из-за проблем с бедром",
-          "summary": "Испанский теннисист Карлос Алькарас может пропустить четвертьфинальный матч Кубка Дэвиса против сборной Австрии, сообщает Punto de Break.",
-          "lang": "ru",
-          "sport": "tennis",
-          "outlets": 2,
+          "key": "2f60008364",
+          "title": "Erling Haaland has said Manchester City are conceding too easily after their 2-2 UEFA Champions League draw with Napoli at the Etihad Stadium.",
+          "summary": "Haaland, 26, failed to find the net on Tuesday night as Ayyoub Bouaddi and Rayan Cherki twice brought Manchester City level, with the Norway international seeing a penalty appeal waved away in the fir...",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 3,
           "growth": 0,
-          "heat": 7.17,
-          "published": "2026-11-25T05:22:00+00:00",
-          "latest": "2026-11-25T09:01:01+00:00",
+          "heat": 9.61,
+          "published": "2026-11-25T12:30:00+00:00",
+          "latest": "2026-11-25T12:39:00+00:00",
           "refs": [
             {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/tennis/davis-cup/news/alkaras-mozhet-propustit-chetvertfinal-kubka-devisa-iz-za-problem-s-bedrom-2478637/",
-              "title": "Алькарас может пропустить четвертьфинал Кубка Дэвиса из-за проблем с бедром"
+              "source": "Yahoo Sports – Soccer",
+              "link": "https://sports.yahoo.com/soccer/articles/erling-haaland-said-manchester-city-123000437.html",
+              "title": "Erling Haaland has said Manchester City are conceding too easily after their 2-2 UEFA Champions League draw with Napoli at the Etihad Stadium."
             },
             {
-              "source": "Чемпионат – Теннис",
-              "link": "https://www.championat.com/tennis/news-6713318-ne-znayu-posmotrim-ferrer-ne-uveren-sygraet-li-alkaras-s-avstriej-na-kubke-devisa.html",
-              "title": "«Не знаю, посмотрим». Феррер не уверен, сыграет ли Алькарас с Австрией в Кубке Дэвиса"
+              "source": "The Guardian Sport",
+              "link": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
+              "title": "Manchester City 2-2 Napoli, Real Madrid 5-1 PSV: Champions League clockwatch – as it happened"
+            },
+            {
+              "source": "The Independent – Sport",
+              "link": "https://www.independent.co.uk/sport/football/haaland-man-city-napoli-maresca-b3091070.html",
+              "title": "Erling Haaland brands Man City ‘not good enough’ after Napoli draw"
+            }
+          ],
+          "first_seen": "2026-11-25T13:42:34+00:00"
+        },
+        {
+          "key": "527e57ee5b",
+          "title": "Liverpool stole incredible transfer from Manchester United",
+          "summary": "Rio Ngumoha Set for New Liverpool Deal as Manchester United Miss Haunts Old TraffordThere is a particular cruelty in football when a club lets a gifted young player walk away, then has to watch him fl...",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 7.39,
+          "published": "2026-11-25T11:50:00+00:00",
+          "latest": "2026-11-25T11:50:00+00:00",
+          "refs": [
+            {
+              "source": "Yahoo Sports – Soccer",
+              "link": "https://sports.yahoo.com/soccer/articles/liverpool-stole-incredible-transfer-manchester-115000088.html",
+              "title": "Liverpool stole incredible transfer from Manchester United"
+            },
+            {
+              "source": "The Guardian – Football",
+              "link": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+              "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again"
+            }
+          ],
+          "first_seen": "2026-11-25T13:42:34+00:00"
+        },
+        {
+          "key": "c4a2f00f14",
+          "title": "Real Madrid fight back against PSV to storm to top of Champions League standings",
+          "summary": "Jose Mourinho’s side trailed at the break to PSV Eindhoven but hit back emphatically to win 5-1",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 7.36,
+          "published": "2026-11-24T22:44:53+00:00",
+          "latest": "2026-11-25T12:39:00+00:00",
+          "refs": [
+            {
+              "source": "The Independent – Sport",
+              "link": "https://www.independent.co.uk/sport/football/real-madrid-psv-champions-league-result-mbappe-b3091046.html",
+              "title": "Real Madrid fight back against PSV to storm to top of Champions League standings"
+            },
+            {
+              "source": "Yahoo Sports – Soccer",
+              "link": "https://sports.yahoo.com/soccer/articles/kylian-mbappe-surpasses-legendary-real-123900384.html",
+              "title": "Kylian Mbappe surpasses legendary Real Madrid forward in scoring tally after PSV brace"
+            }
+          ],
+          "first_seen": "2026-11-25T13:42:34+00:00"
+        },
+        {
+          "key": "fbddb56eda",
+          "title": "Hojlund criticised for ‘one club in Manchester’ celebration in 2-2 Man City draw",
+          "summary": "Rasmus Hojlund joked that there is ‘only one club in Manchester’ after netting against Manchester City in Napoli’s 2-2 Champions League draw at The Etihad on Tuesday evening, but his comments we...",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 7.24,
+          "published": "2026-11-25T11:14:00+00:00",
+          "latest": "2026-11-25T11:14:00+00:00",
+          "refs": [
+            {
+              "source": "Yahoo Sports – Soccer",
+              "link": "https://sports.yahoo.com/soccer/articles/hojlund-criticised-one-club-manchester-111400365.html",
+              "title": "Hojlund criticised for ‘one club in Manchester’ celebration in 2-2 Man City draw"
+            },
+            {
+              "source": "The Independent – Sport",
+              "link": "https://www.independent.co.uk/sport/football/rasmus-hojlund-man-city-napoli-celebration-man-utd-b3091050.html",
+              "title": "Rasmus Hojlund marks goal against Manchester City with provocative celebration"
+            }
+          ],
+          "first_seen": "2026-11-25T13:42:34+00:00"
+        },
+        {
+          "key": "a3fd64d0d8",
+          "title": "Wasteful Arsenal held by Borussia Dortmund",
+          "summary": "Arsenal were punished for failing to take their chances for the second game in a row as Maximilian Beier clinched a 1-1 draw for Borussia Dortmund in the Champions League.",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 3,
+          "growth": 0,
+          "heat": 7.05,
+          "published": "2026-11-24T21:56:00+00:00",
+          "latest": "2026-11-24T22:27:00+00:00",
+          "refs": [
+            {
+              "source": "Sky Sports – Football",
+              "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/report/577669",
+              "title": "Wasteful Arsenal held by Borussia Dortmund"
+            },
+            {
+              "source": "The Independent – Sport",
+              "link": "https://www.independent.co.uk/sport/football/arsenal-borussia-dortmund-live-stream-score-champions-league-b3090541.html",
+              "title": "Arsenal v Borussia Dortmund LIVE: Gunners held to draw but remain unbeaten in Champions League"
+            },
+            {
+              "source": "The Guardian Sport",
+              "link": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
+              "title": "Arsenal 1-1 Borussia Dortmund: Champions League – as it happened"
             }
           ],
           "first_seen": "2026-11-25T05:42:32+00:00"
         },
         {
-          "key": "06bda5bb02",
-          "title": "Стали известны первые обладатели уайлд-кард на Australian Open — 2027",
-          "summary": "Американские теннисисты Нишеш Басаваредди (109-я ракетка мира) и Риз Брантмайер (184-й номер рейтинга) получили первые уайлд-кард на Australian Open – 2027, сообщает пресс-служба Ассоциации тенниса США (USTA).",
-          "lang": "ru",
-          "sport": "tennis",
-          "outlets": 2,
+          "key": "55f961da0d",
+          "title": "Aston Villa’s winless run continues with damaging Champions League defeat at Galatasaray",
+          "summary": "Deniz Gul’s brave header in the 77th minute was enough to seal the win with the game’s first shot on target.",
+          "lang": "en",
+          "sport": "football",
+          "outlets": 3,
           "growth": 0,
-          "heat": 4.51,
-          "published": "2026-11-24T21:57:42+00:00",
-          "latest": "2026-11-24T21:57:42+00:00",
+          "heat": 7.04,
+          "published": "2026-11-24T21:16:25+00:00",
+          "latest": "2026-11-24T21:16:25+00:00",
           "refs": [
             {
-              "source": "Чемпионат – Теннис",
-              "link": "https://www.championat.com/tennis/news-6712910-stali-izvestny-pervye-obladateli-uajld-kard-na-australian-open-2027.html",
-              "title": "Стали известны первые обладатели уайлд-кард на Australian Open — 2027"
+              "source": "The Independent – Sport",
+              "link": "https://www.independent.co.uk/sport/football/aston-villa-galatasaray-champions-league-result-unai-emery-b3090965.html",
+              "title": "Aston Villa’s winless run continues with damaging Champions League defeat at Galatasaray"
+            },
+            {
+              "source": "Sky Sports – Football",
+              "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
+              "title": "Villa beaten late on at Galatasaray as winless run continues"
+            },
+            {
+              "source": "The Guardian – Football",
+              "link": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
+              "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss"
+            }
+          ],
+          "first_seen": "2026-11-24T23:17:48+00:00"
+        }
+      ]
+    },
+    "zh": {},
+    "ru": {
+      "sport": "football",
+      "total": 6,
+      "items": [
+        {
+          "key": "84c5094fee",
+          "title": "«Слишком уж сильные эмоции». Батраков — об эпизоде со стычкой в матче с «Астон Виллой»",
+          "summary": "Российский полузащитник «Галатасарая» Алексей Батраков поделился эмоциями после матча Лиги чемпионов с «Астон Виллой» и прокомментировал эпизод, в котором он схлестнулся с капитаном английской команды Джоном Макгинном — за эту стычку футболист получил жёлтую карточку.",
+          "lang": "ru",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 7.69,
+          "published": "2026-11-25T12:55:04+00:00",
+          "latest": "2026-11-25T12:55:04+00:00",
+          "refs": [
+            {
+              "source": "Championat",
+              "link": "https://www.championat.com/football/news-6713598-slishkom-uzh-silnye-emocii-batrakov-o-matche-s-aston-villoj-v-lch-i-epizode-so-stychkoj.html",
+              "title": "«Слишком уж сильные эмоции». Батраков — об эпизоде со стычкой в матче с «Астон Виллой»"
             },
             {
               "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/tennis/atp/news/yannik-sinner-uspeshno-perenes-operaciyu-na-kolene-i-propustit-australian-open-v-yanvare-2027-go-2478358/",
-              "title": "Синнер успешно перенес операцию на колене и пропустит Australian Open в январе 2027-го"
+              "link": "https://www.sport-express.ru/football/champions-league/news/kuzmichev-boyalsya-udaleniya-batrakova-v-matche-s-aston-villoy-moment-na-tonenkogo-2478677/",
+              "title": "Кузьмичев: «Боялся удаления Батракова в матче с «Астон Виллой» — момент на тоненького»"
             }
           ],
-          "first_seen": "2026-11-25T10:55:53+00:00"
+          "first_seen": "2026-11-25T13:42:34+00:00"
+        },
+        {
+          "key": "d1c2415c6e",
+          "title": "Сборная России по футзалу проведет два товарищеских матча с Афганистаном",
+          "summary": "",
+          "lang": "ru",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 7.38,
+          "published": "2026-11-25T10:06:23+00:00",
+          "latest": "2026-11-25T10:06:23+00:00",
+          "refs": [
+            {
+              "source": "РИА Новости Спорт",
+              "link": "https://ria.ru/20261125/futzal-2133828290.html",
+              "title": "Сборная России по футзалу проведет два товарищеских матча с Афганистаном"
+            },
+            {
+              "source": "Спорт-Экспресс",
+              "link": "https://www.sport-express.ru/football/women/news/zhenskaya-sbornaya-rossii-po-futbolu-provedet-dva-tovarischeskih-matcha-s-tunisom-2478319/",
+              "title": "Женская сборная России по футболу проведет два товарищеских матча с Тунисом"
+            }
+          ],
+          "first_seen": "2026-11-25T10:23:18+00:00"
+        },
+        {
+          "key": "84f7b29f35",
+          "title": "Бен Шелтон и Тринити Родман расстались — Daily Mail",
+          "summary": "Четвёртая ракетка мира американский теннисист Бен Шелтон и нападающая футбольного клуба «Вашингтон Спирит» и сборной США Тринити Родман расстались.",
+          "lang": "ru",
+          "sport": "football",
+          "outlets": 2,
+          "growth": 0,
+          "heat": 4.99,
+          "published": "2026-11-24T18:37:33+00:00",
+          "latest": "2026-11-24T18:37:33+00:00",
+          "refs": [
+            {
+              "source": "Чемпионат – Теннис",
+              "link": "https://www.championat.com/tennis/news-6712702-ben-shelton-i-triniti-rodman-rasstalis-daily-mail.html",
+              "title": "Бен Шелтон и Тринити Родман расстались — Daily Mail"
+            },
+            {
+              "source": "Спорт-Экспресс",
+              "link": "https://www.sport-express.ru/tennis/atp/news/daily-mail-ben-shelton-i-triniti-rodman-rasstalis-posle-pochti-dvuh-let-otnosheniy-2478501/",
+              "title": "Daily Mail: Бен Шелтон и Тринити Родман расстались после почти двух лет отношений"
+            }
+          ],
+          "first_seen": "2026-11-25T13:42:34+00:00"
         }
       ]
     }
