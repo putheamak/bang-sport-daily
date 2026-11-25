@@ -16,7 +16,27 @@ CACHE = DATA / "gn_links.json"
 
 
 def is_gn(url: str) -> bool:
-    return "news.google.com/" in (url or "")
+    """A Google link that stands in for the real article: Google News, or Gemini's search-grounding redirect."""
+    return "news.google.com/" in (url or "") or "vertexaisearch.cloud.google.com/" in (url or "")
+
+
+def _follow(url: str) -> str | None:
+    """Grounding redirects answer with a 302 to the real page: read the Location header, don't load the page."""
+    import urllib.error
+    import urllib.request
+
+    class NoRedirect(urllib.request.HTTPRedirectHandler):
+        def redirect_request(self, *a, **k):
+            return None
+    try:
+        urllib.request.build_opener(NoRedirect).open(urllib.request.Request(url, method="GET"), timeout=15)
+    except urllib.error.HTTPError as e:
+        loc = e.headers.get("Location")
+        if e.code in (301, 302, 303, 307, 308) and loc and "google.com" not in loc:
+            return loc
+    except Exception:  # noqa: BLE001
+        return None
+    return None
 
 
 def resolve(url: str, cache: dict | None = None) -> str | None:
@@ -30,9 +50,12 @@ def resolve(url: str, cache: dict | None = None) -> str | None:
     if isinstance(hit, dict) and hit.get("failed", "") > (datetime.now(timezone.utc) - timedelta(days=7)).isoformat():
         return None
     try:
-        from googlenewsdecoder import gnewsdecoder
-        r = gnewsdecoder(url, interval=1)
-        out = r.get("decoded_url") if r.get("status") else None
+        if "vertexaisearch" in url:
+            out = _follow(url)
+        else:
+            from googlenewsdecoder import gnewsdecoder
+            r = gnewsdecoder(url, interval=1)
+            out = r.get("decoded_url") if r.get("status") else None
     except Exception as e:  # noqa: BLE001
         log.warning("Google News link not resolved: %s", e)
         return None                       # not cached: try again next time
@@ -40,7 +63,7 @@ def resolve(url: str, cache: dict | None = None) -> str | None:
     return out
 
 
-def fix_sources(articles: list[dict], max_new: int = 10) -> int:
+def fix_sources(articles: list[dict], max_new: int = 40) -> int:
     """Resolve Google News links in every story's sources (and in-text references). Returns links fixed."""
     cache = read_json(CACHE, {})
     fixed, tries = 0, 0

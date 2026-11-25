@@ -542,13 +542,33 @@ def _body_with_images(a, lang) -> str:
     return "\n".join(paras)
 
 
+def _is_google_stub(url) -> bool:
+    return "news.google.com/" in (url or "") or "vertexaisearch.cloud.google.com/" in (url or "")
+
+
+def _shown_sources(sources: list[dict]) -> list[dict]:
+    """Sources as readers see them: an unresolved Google redirect whose outlet is already listed with a real link
+    is left out, and the same outlet without a link is shown once."""
+    from urllib.parse import urlparse
+    real = {urlparse(s.get("url") or "").netloc.removeprefix("www.") for s in sources if not _is_google_stub(s.get("url"))}
+    out, seen = [], set()
+    for s in sources:
+        if _is_google_stub(s.get("url")):
+            name = (s.get("title") or "").strip().lower().removeprefix("www.")
+            if name in seen or any(r == name or r.endswith("." + name) for r in real):
+                continue
+            seen.add(name)
+        out.append(s)
+    return out
+
+
 def _article_page(cfg, a, lang, related, latest, wire):
     L = a[lang]
     key = sport_key(cfg, a)
     alternates = {l: f"{l}/{a['slug']}.html" for l in LANGS if a.get(l) and not stale(a, l)}
-    src = "".join((f'<li>{E(s["title"])}</li>' if "news.google.com/" in (s.get("url") or "")   # never show Google News links
+    src = "".join((f'<li>{E(s["title"])}</li>' if _is_google_stub(s.get("url"))   # never show Google redirect links
                    else f'<li><a href="{E(s["url"])}" rel="noopener nofollow" target="_blank">{E(s["title"])}</a></li>')
-                  for s in a.get("sources", []))
+                  for s in _shown_sources(a.get("sources", [])))
     rel = "".join(_card(cfg, r, lang) for r in related)
     name = byline_name(cfg, a, lang)
     imgs = a.get("images") or []
