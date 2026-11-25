@@ -927,7 +927,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T18:39:42+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -1018,7 +1018,32 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1VoUEVRbHV3Ukw0V0tTbjhzY2dHb244bWl6clVkbVpRV3IxYlVFVUFXRGpOT1Y4cTY4UmFIT3ZlZmhHVnpVSWdrcTdFYnNacXZNNGJDSHNqUC1yNHprbWp3YUZVd2d3WE5ZU3NOaEtpR1hoTFdMM2llTkthRy1LWU5UODEtYWlhaWRNdloxTTg5OEhzSXRVaVlvaHlEUk5sV0pYX2RPNFJuTzlUMF9qYk5jdXZRcDc5Vmg40gG7AUFVX3lxTE9zVWhQRVFsdXdSTDRXS1NuOHNjZ0dvbjhtaXpyVWRtWlFXcjFiVUVVQVdEak5PVjhxNjhSYUhPdmVmaEdWelVJZ2txN0Vic1pxdk00YkNIc2pQLXI0emttandhRlV3Z3dYTllTc05oS2lHWGhMV0wzaWVOS2FHLUtZTlQ4MS1haWFpZE12WjFNODk4SHNJdFVpWW9oeURSTmxXSlhfZE80Um5POVQwX2piTmN1dlFwNzlWaDg?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T21:54:20+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T21:54:21+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T21:54:22+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112224367544670",
+        "at": "2026-11-25T21:54:27+07:00",
+        "scheduled_for": "2026-11-26T01:00:00+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "1788518712264764",
+        "at": "2026-11-25T21:54:54+07:00",
+        "scheduled_for": "2026-11-26T02:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -1129,7 +1154,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T21:54:54+07:00"
   },
   {
     "id": "2026-11-25-athl-9fb3af",

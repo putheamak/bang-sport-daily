@@ -4,26 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
-`2026-11-25-news-f7a857` · 2026-11-25
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/1280px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jiří Lehečka**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg)<br>AI sees: _Jiří Lehečka playing tennis_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg/1280px-F%C3%A9lix_Auger-Aliassime_%282023_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Félix Auger-Aliassime**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Auger-Aliassime_(2023_DC_Open)_01_(cropped).jpg)<br>AI sees: _portrait of tennis player Félix Auger-Aliassime_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg/1280px-Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_%282023_US_Open%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Tomáš Macháč**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_(2023_US_Open)_06.jpg)<br>AI sees: _Czech tennis player Tomáš Macháč smiling after a match_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Arthur Rinderknech Denies ITIA Anti-Doping Charge Over Alleged Test Refusal
 `2026-11-25-news-e226ae` · 2026-11-25
 
@@ -122,6 +102,26 @@ _No photos._
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Olympic_Stadium_Phnom_Penh_SG2023.png/1280px-Olympic_Stadium_Phnom_Penh_SG2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
+<br clear="left">
+
+---
+
+## ✅ live · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
+`2026-11-25-news-f7a857` · 2026-11-25
+
+<img src="../docs/photos/c/69fadbac68cd054b-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jiří Lehečka**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg)<br>AI sees: _Jiří Lehečka playing tennis_
+<br clear="left">
+
+<img src="../docs/photos/c/c77b6d817965a74a-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Félix Auger-Aliassime**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Auger-Aliassime_(2023_DC_Open)_01_(cropped).jpg)<br>AI sees: _portrait of tennis player Félix Auger-Aliassime_
+<br clear="left">
+
+<img src="../docs/photos/c/e0390f377d5828c7-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tomáš Macháč**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_(2023_US_Open)_06.jpg)<br>AI sees: _Czech tennis player Tomáš Macháč smiling after a match_
 <br clear="left">
 
 ---
