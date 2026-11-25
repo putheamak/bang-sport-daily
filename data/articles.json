@@ -164,7 +164,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T21:41:09+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -213,7 +213,32 @@
         "url": "https://www.bbc.co.uk/sport/tennis/articles/cr9d7gxjq99po?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T22:47:14+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T22:47:15+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T22:47:15+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112238779544670",
+        "at": "2026-11-25T22:47:17+07:00",
+        "scheduled_for": "2026-11-26T07:00:00+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "1826059265585647",
+        "at": "2026-11-25T22:47:47+07:00",
+        "scheduled_for": "2026-11-26T08:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -329,7 +354,8 @@
         "area": "facts",
         "msg": "Verify: Status and hearing schedule of Marketa Vondrousova's appeal at the Court of Arbitration for Sport"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T22:47:47+07:00"
   },
   {
     "id": "2026-11-25-news-c4f690",
@@ -337,7 +363,7 @@
     "date": "2026-11-25",
     "created": "2026-11-25T21:39:36+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "basketball",
     "tags": [
@@ -393,7 +419,32 @@
         "url": "https://www.boston.com/sports/boston-celtics/2026/11/25/jayson-tatum-41-celtics-snap-skid-wizards-takeaways/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-25T22:47:47+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-25T22:47:48+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-25T22:47:48+07:00"
+      },
+      {
+        "channel": "facebook",
+        "id": "1381139551757429_122112239319544670",
+        "at": "2026-11-25T22:47:51+07:00",
+        "scheduled_for": "2026-11-26T10:00:00+00:00"
+      },
+      {
+        "channel": "facebook-reel",
+        "id": "2475763366288103",
+        "at": "2026-11-25T22:48:20+07:00",
+        "scheduled_for": "2026-11-26T11:30:00+00:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -511,13 +562,9 @@
         "level": "INFO",
         "area": "facts",
         "msg": "Strong claim 'unbeaten': confirm it in a source before publishing"
-      },
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "1 source(s) are homepages, not articles: https://apnews.com"
       }
-    ]
+    ],
+    "published_at": "2026-11-25T22:48:20+07:00"
   },
   {
     "id": "2026-11-25-athl-f4dbe9",
