@@ -624,7 +624,7 @@ def test_old_cover_photo_warning(repo):
 
 
 def _t(title, source, lang="en", sport="football", score=3.0, summary=""):
-    return {"title": title, "summary": summary, "source": source, "link": "https://x/" + source.replace(" ", ""),
+    return {"title": title, "summary": summary, "source": source, "link": "https://" + "".join(c for c in source.lower() if c.isalnum()) + ".example/a",
             "lang": lang, "sport": sport, "score": score, "published": datetime.now(timezone.utc).isoformat()}
 
 
@@ -865,7 +865,7 @@ def test_combat_watch_lists_kun_khmer_and_c_numbers(repo):
     assert detect_sport("Glory for Arsenal in the derby", c["sports"]) != "combat"
     now = datetime.now(timezone.utc).isoformat()
     def it(t, src, sport="combat"):
-        return {"title": t, "summary": "", "lang": "en", "sport": sport, "source": src, "link": "https://x/" + src,
+        return {"title": t, "summary": "", "lang": "en", "sport": sport, "source": src, "link": "https://" + "".join(c for c in src.lower() if c.isalnum()) + ".example/a",
                 "published": now, "score": 1.0}
     items = [it("Islam Makhachev defends UFC title in Las Vegas", "ESPN"),
              it("Islam Makhachev beats Tsarukyan to keep UFC title", "BBC"),
@@ -889,7 +889,7 @@ def test_combat_watch_skips_previews_politics_and_betting_sources(repo):
     now = datetime.now(timezone.utc).isoformat()
     def it(t, src, lang="en", **k):
         return dict({"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src,
-                     "link": "https://x/" + src, "published": now, "score": 1.0}, **k)
+                     "link": "https://" + "".join(c for c in src.lower() if c.isalnum()) + ".example/a", "published": now, "score": 1.0}, **k)
     items = [it("Josh Hokit sends final warning before UFC 334", "Yahoo"),
              it("Watch the final faceoff before UFC 334", "MMA Fighting"),
              it("Россияне отказались участвовать в первенстве Европы по боксу без флага и гимна", "Спорт-Экспресс", "ru"),
@@ -914,7 +914,7 @@ def test_combat_watch_khmer_language_and_true_kun_khmer_only(repo):
     now = datetime.now(timezone.utc).isoformat()
     def it(t, src, lang="km", **k):
         return dict({"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src,
-                     "link": "https://x/" + src, "published": now, "score": 1.0}, **k)
+                     "link": "https://" + "".join(c for c in src.lower() if c.isalnum()) + ".example/a", "published": now, "score": 1.0}, **k)
     items = [it("ឯ ភូថង ឈ្នះ​ដាច់​លើ​គូប្រកួត​ថៃ ក្នុង​កម្មវិធី​គុនខ្មែរ", "Fresh News", kun=True),
              it("ឯ ភូថង ឈ្នះ​ដាច់​គូប្រកួត​ថៃ ក្នុង​កម្មវិធី​គុនខ្មែរ​ យប់​នេះ", "Kampuchea Thmey", kun=True),
              it("Russia's boxers withdraw from European youth championship in Croatia", "Match TV", "en"),
@@ -928,7 +928,7 @@ def test_combat_watch_ignores_nba_punch_and_ahead_of(repo):
     from sportnews import trending as T
     now = datetime.now(timezone.utc).isoformat()
     def it(t, src, lang="zh"):
-        return {"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src, "link": "https://x/" + src,
+        return {"title": t, "summary": "", "lang": lang, "sport": "combat", "source": src, "link": "https://" + "".join(c for c in src.lower() if c.isalnum()) + ".example/a",
                 "published": now, "score": 1.0}
     items = [it("联盟宣布：火箭后卫斯马特因拳击勇士巴锡面部被禁赛三场", "Sohu"),
              it("Shams：斯玛特因拳击巴锡被火箭队友劝阻 NBA禁赛三场", "虎扑"),

@@ -80,14 +80,27 @@ def _group(items: list[dict]) -> list[dict]:
             g = {"lead": it, "lang": it["lang"], "refs": [], "outlets": set()}
             groups.append(g)
         g["kun"] = g.get("kun") or bool(it.get("kun"))
+        if it.get("published") and (not g.get("latest") or it["published"] > g["latest"]):
+            g["latest"] = it["published"]          # newest report of this story (freshness, "latest report" on the page)
         for r in refs:
             if BET_SOURCE.search(r.get("source", "")) or BET_SOURCE.search(r.get("link", "").split("/")[2] if "//" in r.get("link", "") else ""):        # betting sites are never a source
                 continue
-            k = _src_key(r.get("source", ""))
+            k = _outlet_key(r, _src_key)
             if k not in g["outlets"]:
                 g["outlets"].add(k)
                 g["refs"].append(r)
     return groups
+
+
+def _outlet_key(r: dict, src_key) -> str:
+    """One key per outlet: its website (two feeds of the same site, e.g. "MMA Fighting" and "MMA Fighting – latest",
+    are ONE outlet). Google News links point at news.google.com, so those fall back to the outlet's name."""
+    link = r.get("link", "")
+    host = link.split("/")[2].lower() if "//" in link else ""
+    if host and "news.google." not in host:
+        host = host[4:] if host.startswith("www.") else host
+        return ".".join(host.split(".")[-3:]) if host.endswith((".co.uk", ".com.au", ".co.jp")) else ".".join(host.split(".")[-2:])
+    return src_key(re.split(r"\s+[–-]\s+", r.get("source", ""))[0])
 
 
 def _blocked(text: str) -> str | None:
@@ -120,15 +133,17 @@ def rank(cfg: dict, items: list[dict], prev: dict | None = None, top: int = 5,
         key = _key(it)
         growth = n - prev_n.get(key, n)
         age_h = 24.0
-        if it.get("published"):
+        if g.get("latest") or it.get("published"):
             try:
-                age_h = (now - datetime.fromisoformat(it["published"])).total_seconds() / 3600
+                age_h = (now - datetime.fromisoformat(g.get("latest") or it["published"])).total_seconds() / 3600
             except ValueError:
                 pass
-        heat = round(n * 2 + max(growth, 0) * 1.5 + max(0.0, 2 - age_h / 12) + (it.get("score", 0) * 0.3), 2)
+        if age_h > tcfg.get("max_age_hours", 24):         # the story has gone quiet: not a talking point any more
+            continue
+        heat = round(n * 2 + max(growth, 0) * 1.5 + max(0.0, 3 - age_h / 4) + (it.get("score", 0) * 0.3), 2)
         out.append({"key": key, "title": it["title"], "summary": (it.get("summary") or "")[:400], "lang": it["lang"],
                     "sport": it.get("sport"), "outlets": n, "growth": growth, "heat": heat,
-                    "published": it.get("published"), "refs": g["refs"][:8]})
+                    "published": it.get("published"), "latest": g.get("latest"), "refs": g["refs"][:8]})
     out.sort(key=lambda s: -s["heat"])
     # variety: at most 3 stories from one language and 2 from one sport, so ZH and RU stories get a place
     picked, per_lang, per_sport = [], {}, {}

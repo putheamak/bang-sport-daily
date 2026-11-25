@@ -17,7 +17,7 @@ from .common import DATA, read_json
 PAGE = "talking-points.html"
 
 T = {
-    "en": {"ours": "Our story", "spot": "{s} Spotlight", "spot_note": "{n} {s} talking points right now. The spotlight moves between sports so every sport gets its turn.", "local": "Kun Khmer & Cambodia", "local_note": "Trending stories from Cambodian sport.", "other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
+    "en": {"latest": "Latest report", "ours": "Our story", "spot": "{s} Spotlight", "spot_note": "{n} {s} talking points right now. The spotlight moves between sports so every sport gets its turn.", "local": "Kun Khmer & Cambodia", "local_note": "Trending stories from Cambodian sport.", "other": "Other sports", "all_f": "All", "next": "next update around", "filter": "Filter by sport", "nav": "Talking Points", "title": "Talking Points",
            "intro": "What the sports world is talking about right now, ranked by how many independent news outlets are covering it.",
            "updated": "Updated every 4 hours · last update", "combat": "Combat Watch",
            "combat_note": "MMA, boxing, kickboxing, Muay Thai and Kun Khmer. Kun Khmer is always listed.",
@@ -31,7 +31,7 @@ T = {
            "all": "All talking points", "empty": "No talking points right now. The next update is within 4 hours.",
            "box": "Talking Points", "box_note": "Most-covered stories right now", "share_on": "Share and discuss on",
            "desc": "The sport stories most covered by independent news outlets right now, updated every 4 hours."},
-    "zh": {"ours": "本站报道", "spot": "{s}聚焦", "spot_note": "此刻共有 {n} 个{s}热议话题。聚焦栏目在各项目之间轮换。", "local": "高棉拳与柬埔寨", "local_note": "柬埔寨体育的热议新闻。", "other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
+    "zh": {"latest": "最新报道", "ours": "本站报道", "spot": "{s}聚焦", "spot_note": "此刻共有 {n} 个{s}热议话题。聚焦栏目在各项目之间轮换。", "local": "高棉拳与柬埔寨", "local_note": "柬埔寨体育的热议新闻。", "other": "其他项目", "all_f": "全部", "next": "下次更新约", "filter": "按项目筛选", "nav": "热议话题", "title": "热议话题",
            "intro": "体育圈此刻在谈论什么——按报道该话题的独立新闻媒体数量排序。",
            "updated": "每 4 小时更新 · 最近更新", "combat": "格斗观察",
            "combat_note": "综合格斗、拳击、踢拳、泰拳与高棉拳。高棉拳话题始终列出。",
@@ -44,7 +44,7 @@ T = {
            "all": "查看全部热议话题", "empty": "暂无热议话题，4 小时内更新。",
            "box": "热议话题", "box_note": "此刻报道最多的体育新闻", "share_on": "分享并讨论",
            "desc": "此刻被最多独立新闻媒体报道的体育新闻，每 4 小时更新。"},
-    "ru": {"ours": "Наш материал", "spot": "В центре внимания: {s}", "spot_note": "Сейчас {n} тем по разделу «{s}». Раздел в центре внимания меняется, чтобы каждый вид спорта получил своё место.", "local": "Кун кхмер и Камбоджа", "local_note": "Обсуждаемые новости камбоджийского спорта.", "other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
+    "ru": {"latest": "Последняя публикация", "ours": "Наш материал", "spot": "В центре внимания: {s}", "spot_note": "Сейчас {n} тем по разделу «{s}». Раздел в центре внимания меняется, чтобы каждый вид спорта получил своё место.", "local": "Кун кхмер и Камбоджа", "local_note": "Обсуждаемые новости камбоджийского спорта.", "other": "Другие виды", "all_f": "Все", "next": "следующее обновление около", "filter": "Фильтр по видам спорта", "nav": "Темы дня", "title": "Темы дня",
            "intro": "О чём сейчас говорит спортивный мир: темы по числу независимых СМИ, которые о них пишут.",
            "updated": "Обновляется каждые 4 часа · последнее обновление", "combat": "Единоборства",
            "combat_note": "ММА, бокс, кикбоксинг, муай-тай и кун кхмер. Кун кхмер показываем всегда.",
@@ -204,7 +204,7 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
     summary = f'<p class="tp-sum">{E(L["subheadline"])}</p>' if ours and L.get("subheadline") else ""
     return (f'<li class="tp-item{" tp-ours" if ours else ""}" id="{anchor}" data-sport="{E(st.get("sport") or "other")}"><span class="tp-rank">{rank}</span><div class="tp-body">'
             f'<div class="tp-meta">{our_tag}{kun}<span class="tp-sport k-{E(st.get("sport") or "default")}">{sport}</span>'
-            f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["since"])} {_time(_since(st), lang)}</span></div>'
+            f'<span class="tp-label {cls}">{E(lab)}</span><span class="tp-since">{E(s["latest"])} {_time(st.get("latest") or st.get("published"), lang)}</span></div>'
             f'{head}{summary}<p class="tp-src">{E(s["sources"])}: {src}{more}</p>'
             f'<div class="tp-actions">{_discuss(cfg, lang, story_url or page_url, title)}'
             + (f'<a class="tp-story" href="{E(ours["slug"])}.html">{E(s["story"])}</a>' if ours else "")

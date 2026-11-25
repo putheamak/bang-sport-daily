@@ -200,6 +200,15 @@ feeds:
   - {name: "Чемпионат – Теннис", url: "https://www.championat.com/rss/news/tennis/", lang: ru}
   - {name: "Чемпионат – Хоккей", url: "https://www.championat.com/rss/news/hockey/", lang: ru}
   - {name: "MMA Fighting – latest", url: "https://www.mmafighting.com/rss/index.xml", lang: en}
+  - {name: "BBC Sport – Football", url: "https://feeds.bbci.co.uk/sport/football/rss.xml", lang: en}
+  - {name: "The Guardian – Football", url: "https://www.theguardian.com/football/rss", lang: en}
+  - {name: "Yahoo Sports – Soccer", url: "https://sports.yahoo.com/soccer/rss/", lang: en}
+  - {name: "Yahoo Sports – MMA", url: "https://sports.yahoo.com/mma/rss/", lang: en}
+  - {name: "Yahoo Sports – Tennis", url: "https://sports.yahoo.com/tennis/rss/", lang: en}
+  - {name: "Yahoo Sports – NBA", url: "https://sports.yahoo.com/nba/rss/", lang: en}
+  - {name: "MMA Mania", url: "https://www.mmamania.com/rss/current", lang: en}
+  - {name: "Bad Left Hook (boxing)", url: "https://www.badlefthook.com/rss/current", lang: en}
+  - {name: "The Independent – Sport", url: "https://www.independent.co.uk/sport/rss", lang: en}
   # 24 Nov 2026: more sports for variety on the Talking Points page (tennis, basketball, motorsport, Olympic sports, cricket)
   - {name: "Google News – Tennis", url: "https://news.google.com/rss/search?q=%28ATP+OR+WTA+OR+%22Davis+Cup%22+OR+%22Billie+Jean+King+Cup%22+OR+%22Grand+Slam%22%29+tennis+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
   - {name: "Google News – Basketball", url: "https://news.google.com/rss/search?q=%28NBA+OR+EuroLeague+OR+FIBA+OR+%22Basketball+Champions+League%22%29+when%3A2d&hl=en-US&gl=US&ceid=US:en", lang: en}
