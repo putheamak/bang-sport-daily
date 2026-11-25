@@ -93,3 +93,7 @@ sportnews/       code: collect · llm (Gemini/Claude) · writer · publishers ·
 docs/            the public website (generated)
 data/ output/    article database, daily .md/.docx, monthly books (generated)
 ```
+
+## Rules for agents
+
+Every AI agent or script working on this project must follow [AGENTS.md](AGENTS.md) (details: [COMPLIANCE.md](COMPLIANCE.md)).

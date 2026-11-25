@@ -1,5 +1,7 @@
 # Compliance checklist: Google Search, AdSense, privacy and copyright
 
+> **Binding short version for every agent: [AGENTS.md](AGENTS.md).**
+
 This file records what Bang Sport Daily does to stay within the rules, and what you still need to do before
 running ads. It is a practical guide, not legal advice. Policies change, so re-check them before applying
 for monetization.
