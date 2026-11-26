@@ -376,3 +376,13 @@
         en: "Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)"
         zh: "万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）"
         ru: "«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)"
+
+# 26 Nov 2026: wrong school photo removed (it showed Jurong West, not Bedok South). Free Commons photo of Beckham
+# as the cover (no newer free photo found), then Hassan Sunny.
+2026-11-26-news-494315:
+  mode: replace
+  photos:
+    - commons: "File:David_Beckham_UNICEF_(cropped2).jpg"
+      caption: "David Beckham"
+    - commons: "File:HassanSunny.jpg"
+      caption: "Singapore goalkeeper Hassan Sunny"
