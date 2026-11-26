@@ -133,7 +133,7 @@ def facebook_send(cfg: dict, articles: list[dict], a: dict, post: bool = True, r
     from datetime import datetime
     out = []
     a.setdefault("published_to", [])
-    done = {p.get("channel") for p in a["published_to"]}
+    done = {str(p.get("channel", "")).removesuffix("-cancelled") for p in a["published_to"]}   # cancelled = editor posts by hand
 
     def record(channel, item_id, when):
         rec = {"channel": channel, "id": item_id, "at": now_iso(cfg)}
@@ -256,6 +256,31 @@ def facebook_redo_reel(cfg: dict, a: dict, everything: list[dict]) -> str:
     vid = upload_reel(clip, f'{facebook_text(cfg, a)}\n\nFull story: {article_url(cfg, a, "en")}', ts)
     a["published_to"].append({**rec, "id": vid, "at": now_iso(cfg), "replaced": rec["id"]})
     return f"Reel replaced, still scheduled for {when[:16]}"
+
+
+def facebook_cancel(cfg: dict, a: dict) -> str:
+    """Delete this story's Page post and/or Reel that are still SCHEDULED (not yet public) on the Page, because the
+    editor will post it by hand. Items already public are left alone. The record stays, marked "-cancelled", so the
+    robot never posts that story again and the spacing ignores it."""
+    from datetime import datetime, timedelta, timezone
+    out = []
+    for rec in [p for p in a.get("published_to") or [] if p.get("channel") in ("facebook", "facebook-reel")]:
+        when = rec.get("scheduled_for")
+        if not when or datetime.fromisoformat(when) <= datetime.now(timezone.utc) + timedelta(minutes=2):
+            out.append(f"{rec['channel']} already public: left alone")
+            continue
+        page, token = fb_page_token()
+        req = urllib.request.Request(f"https://graph.facebook.com/{FB_API}/{rec['id']}?access_token="
+                                     f"{urllib.parse.quote(token)}", method="DELETE")
+        try:
+            urllib.request.urlopen(req, timeout=30)
+        except urllib.error.HTTPError as e:
+            out.append(f"{rec['channel']} NOT deleted, Facebook says: " + e.read().decode()[:200])
+            continue
+        rec["channel"] += "-cancelled"
+        rec["cancelled_at"] = now_iso(cfg)
+        out.append(f"{rec['channel'][:-10]} scheduled {when[:16]} deleted")
+    return "; ".join(out) or "nothing recorded"
 
 
 def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True,

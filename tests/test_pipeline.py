@@ -1396,3 +1396,23 @@ def test_facebook_quiet_hours_push_to_morning():
                                "scheduled_for": night.replace(hour=0, minute=0).isoformat()}]}]
     got = datetime.fromtimestamp(P.facebook_slot(cfg, arts), tz)
     assert (got.hour, got.minute) == (6, 30)
+
+
+def test_facebook_cancel_deletes_only_scheduled_and_never_reposts(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+    from sportnews import publishers
+    deleted = []
+    monkeypatch.setattr(publishers, "fb_page_token", lambda: ("page", "tok"))
+    monkeypatch.setattr(publishers.urllib.request, "urlopen", lambda req, timeout=30: deleted.append(req.full_url))
+    future = (datetime.now(timezone.utc) + timedelta(hours=3)).isoformat()
+    past = (datetime.now(timezone.utc) - timedelta(hours=1)).isoformat()
+    a = {"id": "x", "published_to": [{"channel": "facebook", "id": "P1", "scheduled_for": past},
+                                     {"channel": "facebook-reel", "id": "R1", "scheduled_for": future}]}
+    cfg = {"timezone": "Asia/Phnom_Penh", "publish": {"facebook_gap_minutes": 150}}
+    out = publishers.facebook_cancel(cfg, a)
+    assert len(deleted) == 1 and "/R1?" in deleted[0]
+    assert "already public" in out and "deleted" in out
+    assert [p["channel"] for p in a["published_to"]] == ["facebook", "facebook-reel-cancelled"]
+    # a cancelled Reel does not count for spacing and is never posted again by the robot
+    monkeypatch.setattr(publishers, "facebook_post", lambda *k, **kw: (_ for _ in ()).throw(AssertionError("posted")))
+    assert publishers.facebook_send(cfg, [a], a, post=True, reel=True) == []
