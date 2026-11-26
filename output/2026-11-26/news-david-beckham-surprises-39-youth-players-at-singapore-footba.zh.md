@@ -16,7 +16,7 @@
 
 ## 专项训练、签名用球与本土导师力量
 
-在上午的训练中，贝克汉姆亲自上阵参与传球练习，悉心向孩子们传授战术细节，并在活动尾声向小球员们赠送了亲笔签名足球。14岁的参训球员法伊赞·吉布拉埃尔·穆罕默德·费鲁尔（Faizaan Jibra'el Mohamed Fairul）向《海峡时报》透露，大家赛前确实知道会有一位球星到场，但万万没想到踏上草坪的竟是贝克汉姆本人。
+在上午的训练中，贝克汉姆亲自上阵参与传球练习，悉心向孩子们传授战术细节，并在活动尾声向小球员们赠送了亲笔签名足球。一名14岁的参训球员向《海峡时报》透露，大家赛前确实知道会有一位球星到场，但万万没想到踏上草坪的竟是贝克汉姆本人。
 
 新加坡财政部兼人力部高级政务次官、西海岸-裕廊西集选区议员，同时也是达信学院联合创始人的黄伟中（Shawn Huang），对贝克汉姆的到访表示热烈欢迎。“能以同大卫·贝克汉姆爵士的相聚开启这个早晨，真是莫大的荣幸！”黄伟中在社交平台Instagram上写道，并由衷赞扬贝克汉姆甘愿俯下身子、投身草根男女足青训的奉献精神。
 
@@ -25,6 +25,8 @@
 ---
 **来源**
 
+- [Mothership: David Beckham, 51, surprises football clinic participants at Bedok South Secondary School](https://mothership.sg/2026/11/beckham-singapore-2026/)
+- [Inside Asian Gaming: Sir David Beckham a surprise guest at Sands-backed football clinic in Singapore](https://asgam.com/2026/11/26/sir-david-beckham-a-surprise-guest-at-sands-backed-football-clinic-in-singapore-to-inspire-disadvantaged-youth/)
 - ['What an honour': David Beckham's arrival in Singapore delights MP Shawn Huang, surprises young footballers](https://www.asiaone.com/singapore/what-honour-david-beckhams-arrival-singapore-delights-mp-shawn-huang-surprises-young-footballers)
 - [David Beckham makes surprise appearance at youth football clinic in Bedok](https://www.youtube.com/shorts/AUW1AnmGopc)
 - [Marina Bay Sands backs youth football initiative in Singapore](https://www.ggrasia.com/marina-bay-sands-backs-youth-football-initiative-in-singapore/)

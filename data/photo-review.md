@@ -4,6 +4,41 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · Kristóf Rasovszky Sets Sights on 2028 Olympic Defence and Beijing Return
+`2026-11-26-news-0dacf4` · 2026-11-26
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_%28Men%27s_10_km_open_water%29.jpg/1280px-Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_%28Men%27s_10_km_open_water%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Kristóf Rasovszky**<br>2018 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_(Men%27s_10_km_open_water).jpg)<br>AI sees: _Kristóf Rasovszky holding his silver medal at the 2018 European Aquatics Championships_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bold_and_the_Beautiful_swim.jpg/1280px-Bold_and_the_Beautiful_swim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Open water swimming**<br>2016 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bold_and_the_Beautiful_swim.jpg)<br>AI sees: _A large crowd participating in an open water swim at a beach_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/1280px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Budapest**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:View_from_Gell%C3%A9rt_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg)<br>AI sees: _panoramic view of Budapest and the Danube River_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Oliver Bearman Signs Haas Contract Extension for 2027 Season
+`2026-11-26-news-0b230b` · 2026-11-26
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/1280px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Oliver Bearman**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg)<br>AI sees: _Oliver Bearman in Haas team kit signing autographs_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Rafael_C%C3%A2mara_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Rafael Câmara**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Rafael_C%C3%A2mara_in_2022.jpg)<br>AI sees: _portrait of racing driver Rafael Câmara near a track sign_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · On This Day in 1917: How an Owner Feud Birthed the National Hockey League
 `2026-11-26-hist-9bf47d` · 2026-11-26
 

@@ -16,7 +16,7 @@
 
 ## Отработка передач, автографы и поддержка местных кумиров
 
-В ходе полуторачасовой сессии Бекхэм лично участвовал в отработке передач, подсказывал ребятам тактические нюансы, а после финального свистка вручил каждому мяч с автографом. 14-летний участник матча Файзаан Джибраэль Мохамед Файрул (Faizaan Jibra'el Mohamed Fairul) признался изданию The Straits Times: игроки знали, что приедет профессиональный футболист, но никто даже представить не мог, что на школьный газон выйдет сам Бекхэм.
+В ходе полуторачасовой сессии Бекхэм лично участвовал в отработке передач, подсказывал ребятам тактические нюансы, а после финального свистка вручил каждому мяч с автографом. 14-летний участник матча признался изданию The Straits Times: игроки знали, что приедет профессиональный футболист, но никто даже представить не мог, что на школьный газон выйдет сам Бекхэм.
 
 Старший парламентский секретарь министерств финансов и трудовых ресурсов Шон Хуанг (Shawn Huang), ставший сооснователем Tasek Academy и представляющий в парламенте округ Уэст-Кост–Джуронг-Уэст, тепло приветствовал гостя. «Начать утро вместе с сэром Дэвидом Бекхэмом — колоссальная честь!» — написал Хуанг в Instagram, подчеркнув искреннее стремление англичанина работать бок о бок с мальчишками и девчонками из низовых команд.
 
@@ -25,6 +25,8 @@
 ---
 **Источники**
 
+- [Mothership: David Beckham, 51, surprises football clinic participants at Bedok South Secondary School](https://mothership.sg/2026/11/beckham-singapore-2026/)
+- [Inside Asian Gaming: Sir David Beckham a surprise guest at Sands-backed football clinic in Singapore](https://asgam.com/2026/11/26/sir-david-beckham-a-surprise-guest-at-sands-backed-football-clinic-in-singapore-to-inspire-disadvantaged-youth/)
 - ['What an honour': David Beckham's arrival in Singapore delights MP Shawn Huang, surprises young footballers](https://www.asiaone.com/singapore/what-honour-david-beckhams-arrival-singapore-delights-mp-shawn-huang-surprises-young-footballers)
 - [David Beckham makes surprise appearance at youth football clinic in Bedok](https://www.youtube.com/shorts/AUW1AnmGopc)
 - [Marina Bay Sands backs youth football initiative in Singapore](https://www.ggrasia.com/marina-bay-sands-backs-youth-football-initiative-in-singapore/)

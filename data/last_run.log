@@ -1,143 +1,133 @@
-2026-11-26 08:37:37,392 INFO BBC Sport                         46 items
-2026-11-26 08:37:37,522 INFO The Guardian Sport                26 items
-2026-11-26 08:37:37,579 INFO ESPN                               0 items
-2026-11-26 08:37:37,815 INFO Sky Sports                        20 items
-2026-11-26 08:37:38,070 INFO Google News – Sports (EN)         56 items
-2026-11-26 08:37:38,891 INFO Google News – 体育 (ZH)             53 items
-2026-11-26 08:37:39,146 INFO Google News – Спорт (RU)          41 items
-2026-11-26 08:37:39,882 INFO Championat                        27 items
-2026-11-26 08:37:40,715 INFO Sports.ru                         20 items
-2026-11-26 08:37:42,194 INFO Спорт-Экспресс                   462 items
-2026-11-26 08:37:42,956 INFO РИА Новости Спорт                 20 items
-2026-11-26 08:37:43,473 INFO 中国新闻网 体育                          17 items
-2026-11-26 08:37:43,899 INFO Google News – Cambodia sport      16 items
-2026-11-26 08:37:44,391 INFO Google News – Southeast Asia sport  60 items
-2026-11-26 08:37:44,986 INFO Google News – Combat promotions   98 items
-2026-11-26 08:37:45,344 INFO Google News – Boxing              36 items
-2026-11-26 08:37:45,589 INFO Google News – Kun Khmer            1 items
-2026-11-26 08:37:45,787 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-26 08:37:46,260 INFO Google News – Единоборства (RU)   93 items
-2026-11-26 08:37:46,694 INFO Google News – 格斗 (ZH)             37 items
-2026-11-26 08:37:46,937 INFO MMA Fighting                       9 items
-2026-11-26 08:37:47,191 INFO Google News – Khmer Times sport   11 items
-2026-11-26 08:37:47,383 INFO BBC Sport – Tennis                 3 items
-2026-11-26 08:37:47,589 INFO BBC Sport – Formula 1              2 items
-2026-11-26 08:37:47,847 INFO BBC Sport – Cricket                8 items
-2026-11-26 08:37:48,084 INFO BBC Sport – Boxing                 3 items
-2026-11-26 08:37:48,361 INFO BBC Sport – Athletics              0 items
-2026-11-26 08:37:48,409 INFO The Guardian – Tennis              0 items
-2026-11-26 08:37:48,458 INFO The Guardian – Formula 1           0 items
-2026-11-26 08:37:48,520 INFO The Guardian – Cricket             9 items
-2026-11-26 08:37:48,649 INFO Sherdog                           18 items
-2026-11-26 08:37:48,722 INFO Sky Sports – Football             18 items
-2026-11-26 08:37:49,491 INFO Чемпионат – Теннис                31 items
-2026-11-26 08:37:50,061 INFO Чемпионат – Хоккей                27 items
-2026-11-26 08:37:50,131 INFO MMA Fighting – latest              9 items
-2026-11-26 08:37:50,262 INFO BBC Sport – Football              43 items
-2026-11-26 08:37:50,396 INFO The Guardian – Football           23 items
-2026-11-26 08:37:51,149 INFO Yahoo Sports – Soccer             50 items
-2026-11-26 08:37:51,761 INFO Yahoo Sports – MMA                46 items
-2026-11-26 08:37:52,466 INFO Yahoo Sports – Tennis             42 items
-2026-11-26 08:37:53,201 INFO Yahoo Sports – NBA                47 items
-2026-11-26 08:37:53,324 INFO The Independent – Sport           49 items
-2026-11-26 08:37:53,855 INFO Google News – Tennis              91 items
-2026-11-26 08:37:54,364 INFO Google News – Basketball          99 items
-2026-11-26 08:37:54,910 INFO Google News – Motorsport          92 items
-2026-11-26 08:37:55,382 INFO Google News – Badminton, athletics, table tennis  74 items
-2026-11-26 08:37:55,946 INFO Google News – Cricket             99 items
-2026-11-26 08:37:56,418 INFO Google News – 网球与篮球 (ZH)          93 items
-2026-11-26 08:37:56,814 INFO Google News – 羽毛球与乒乓 (ZH)         67 items
-2026-11-26 08:37:57,374 INFO Google News – Теннис и баскетбол (RU) 100 items
-2026-11-26 08:37:57,820 INFO Google News – Формула-1 и биатлон (RU)  95 items
-2026-11-26 08:38:00,642 INFO Candidate stories after clustering: 1899
-2026-11-26 08:38:00,694 INFO Skipped (match still in progress, live update): World Table Tennis
-2026-11-26 08:38:00,864 INFO Skipped (pre-match piece, no previews): Football schedule today, November 26th: What time is the Vietnam U17 vs. Mali match?
-2026-11-26 08:38:00,914 INFO Skipped (pre-match piece, no previews): Knicks rally to beat Cavaliers behind unlikely hero, expanded lineup to keep slim NBA Cup hopes alive
-2026-11-26 08:38:01,032 INFO Skipped (we already have this story): UFC Icon urges Jiri Prochazka to Fix Defensive Flaws after Navajo Stirling Loss
-2026-11-26 08:38:01,216 INFO Skipped (we already have this story): Former Lionesses captain Siti Rosnani Azman retires from international football, Sports News
-2026-11-26 08:38:01,332 INFO Skipped (match still in progress, live update): Champions League LIVE: Sporting vs Man Utd & Club Brugge vs Liverpool score & updates from seven other games
-2026-11-26 08:38:01,351 INFO Skipped (match still in progress, live update): Sporting v Man United LIVE: United winner disallowed by VAR in bonkers Champions League clash
-2026-11-26 08:38:01,429 INFO Skipped (we already have this story): French tennis player Arthur Rinderknech charged with refusing to give doping sample
-2026-11-26 08:38:01,543 INFO Skipped (pre-match piece, no previews): ONE Championship Announces 1xBet As Official Betting Partner Of ONE Friday Fights
-2026-11-26 08:38:01,582 INFO Kept (result after our pre-event story): Navajo Stirling Claims Jiri Prochazka Felt ‘Weak’ in the Clinch: ‘I Could Have Easily Taken Him Down’
-2026-11-26 08:38:01,600 INFO Kept (result after our pre-event story): "I wrote it on my board" - Navajo Stirling Gets Real About Whether He's 'Fighter off the Year' After Jiri Prochazka Win
-2026-11-26 08:38:01,616 INFO Skipped (match still in progress, live update): «Локомотив» — «Ростов»: гости открыли счет на 2-й минуте
-2026-11-26 08:38:01,645 INFO Skipped (pre-match piece, no previews): «Сабах» — «Барселона»: стартовые составы команд
-2026-11-26 08:38:01,654 INFO Skipped (match still in progress, live update): «Ахмат» — «Краснодар»: Кристиан удвоил преимущество «быков»
-2026-11-26 08:38:01,670 INFO Skipped (we already have this story): Lehecka defeats Auger-Aliassime to send Czechia to Davis Cup semis
-2026-11-26 08:38:01,672 INFO Skipped (pre-match piece, no previews): «Локомотив» — «Ростов»: стартовые составы на кубковый матч
-2026-11-26 08:38:01,713 INFO Skipped (pre-match piece, no previews): 'New Zealand need the win': Cricket commentator previews Black Caps v India clash
-2026-11-26 08:38:01,755 INFO Skipped (pre-match piece, no previews): 还是你懂他！斯波赛前：詹姆斯能随时变回我们24年来熟悉的那个他
-2026-11-26 08:38:01,785 INFO Skipped (pre-match piece, no previews): Full Lineup Revealed for First Apex UFC Event of 2027
-2026-11-26 08:38:01,853 INFO Skipped (pre-match piece, no previews): Махачкалинское «Динамо» и «Балтика» назвали стартовые составы на матч кубка
-2026-11-26 08:38:02,038 INFO Skipped (pre-match piece, no previews): Kings of Leon complete star-studded line-up for Abu Dhabi GP
-2026-11-26 08:38:02,095 INFO Skipped (pre-match piece, no previews): Гран При Катара: Превью этапа
-2026-11-26 08:38:02,126 INFO Skipped (we already have this story): Lauren Price becomes Wales’ first undisputed world boxing champion, BBC Sport Wales reports
-2026-11-26 08:38:02,195 INFO Skipped (pre-match piece, no previews): Celtics' New Starting Lineup Delivers Encouraging Results Against Wizards
-2026-11-26 08:38:02,195 INFO Skipped (pre-match piece, no previews): Great Britain v Germany: Preview
-2026-11-26 08:38:02,327 INFO Skipped (we already have this story): Из-за проблем со снегом этап Кубка России по биатлону в Увате перенесли в Уфу
-2026-11-26 08:38:02,457 INFO Skipped (pre-match piece, no previews): 意媒：欧冠对阵罗马赛前，巴黎主场呈现壮观看台Tifo
-2026-11-26 08:38:02,539 INFO Skipped (match still in progress, live update): «ПСЖ» — «Рома»: Эрмосо вывел гостей вперед на 5-й минуте
-2026-11-26 08:38:02,567 INFO Skipped (pre-match piece, no previews): Czechia v Canada: Preview
-2026-11-26 08:38:02,576 INFO Skipped (match still in progress, live update): Birmingham ease to victory at troubled Burnley LIVE!
-2026-11-26 08:38:02,578 INFO Skipped (pre-match piece, no previews): «Спортинг» и «Манчестер Юнайтед» объявили стартовые составы на матч Лиги чемпионов
-2026-11-26 08:38:02,696 INFO Skipped (we already have this story): Этап Кубка России по биатлону перенесен из‑за отсутствия снежного покрова
-2026-11-26 08:38:03,580 INFO Google News search                54 items
-2026-11-26 08:38:03,581 INFO Skipped (same event as a stronger story): Knee surgery rules Sinner out of Australian Open
-2026-11-26 08:38:04,224 INFO Google News search               100 items
-2026-11-26 08:38:04,226 INFO Skipped (same event as a stronger story): Sir David Beckham joins football drills at Bedok South Secondary School, surprises youths on the pit
-2026-11-26 08:38:04,437 INFO Google News search                 1 items
-2026-11-26 08:38:04,437 INFO Skipped (only 1 outlet): 通往洛杉矶2028之路：手球奥运资格体系详解
-2026-11-26 08:38:04,438 INFO Skipped (same event as a stronger story): Alexander Zverev shares his big hope for Jannik Sinner after his surgery, ‘I texted him’
-2026-11-26 08:38:04,441 INFO Confirmed by 2+ outlets: 21 of 25 candidates (3 searches)
-2026-11-26 08:38:04,453 INFO Picked [global tennis 13.8 · 11 outlets] Australian Open says Jannik Sinner won’t play the first Grand Slam tennis tournament of 2027
-2026-11-26 08:38:04,453 INFO Writing news (EN) ...
-2026-11-26 08:38:05,377 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-26 08:38:44,490 INFO Adapting to zh, ru ...
-2026-11-26 08:39:16,129 INFO Picked [sea football 8.6 · 5 outlets] David Beckham surprises participants at youth football clinic in Singapore
-2026-11-26 08:39:16,129 INFO Writing news (EN) ...
-2026-11-26 08:39:50,945 INFO Adapting to zh, ru ...
-2026-11-26 08:40:25,308 INFO On this day 11-26: 1917 – Being unable to resolve disputes with Eddie Livingstone, owner of the Toronto Blueshirts,  (global)
-2026-11-26 08:40:25,310 INFO Writing history (EN) ...
-2026-11-26 08:41:23,944 INFO Adapting to zh, ru ...
-2026-11-26 08:42:12,280 INFO Looking up photos for 2026-11-26-news-cfdcd3: ['Jannik Sinner', 'Australian Open', 'Melbourne Park', 'Alexander Zverev', 'Daniil Medvedev', 'Novak Djokovic']
-2026-11-26 08:42:12,404 INFO Photo check Jannik_Sinner_2025_US_Open.jpg (Wikimedia Commons, 1200x1600): OK, licence 'Public domain'
-2026-11-26 08:42:12,404 INFO Photo for 'Jannik Sinner': Jannik_Sinner_2025_US_Open.jpg (The White House, Public domain)
-2026-11-26 08:42:12,455 WARNING No free-licence photo for 'Australian Open' (Australian_Open_Logo_2017.svg)
-2026-11-26 08:42:12,589 INFO Photo check Melbourne_Park_-_Tennis.jpg (Wikimedia Commons, 3888x2592): OK, licence 'CC BY-SA 2.0'
-2026-11-26 08:42:12,589 INFO Photo for 'Melbourne Park': Melbourne_Park_-_Tennis.jpg (annieb, CC BY-SA 2.0)
-2026-11-26 08:42:12,720 INFO Photo check Alexander_Zverev_in_Miami.jpg (Wikimedia Commons, 1200x1600): OK, licence 'CC BY-SA 4.0'
-2026-11-26 08:42:12,720 INFO Photo for 'Alexander Zverev': Alexander_Zverev_in_Miami.jpg (Rick Munroe, CC BY-SA 4.0)
-2026-11-26 08:42:12,720 INFO Looking up photos for 2026-11-26-news-494315: ['David Beckham', 'Hassan Sunny', 'Bedok South Secondary School', 'Marina Bay Sands', 'Izairida Shakira']
-2026-11-26 08:42:12,844 INFO Photo check David_Beckham_UNICEF_(cropped2).jpg (Wikimedia Commons, 535x723): OK, licence 'CC BY 3.0'
-2026-11-26 08:42:12,844 INFO Photo for 'David Beckham': David_Beckham_UNICEF_(cropped2).jpg (Soccer Aid for Unicef, CC BY 3.0)
-2026-11-26 08:42:13,005 INFO Photo check HassanSunny.jpg (Wikimedia Commons, 600x457): OK, licence 'CC BY 3.0'
-2026-11-26 08:42:13,005 INFO Photo for 'Hassan Sunny': HassanSunny.jpg (www.thai-fussball.com, CC BY 3.0)
-2026-11-26 08:42:13,137 INFO Photo check Jurong_West_Secondary_School.jpg (Wikimedia Commons, 5152x2896): OK, licence 'CC BY-SA 4.0'
-2026-11-26 08:42:13,137 INFO Photo for 'Bedok South Secondary School': Jurong_West_Secondary_School.jpg (Leejiaxin96, CC BY-SA 4.0)
-2026-11-26 08:42:13,137 INFO Looking up photos for 2026-11-26-hist-9bf47d: ['Eddie Livingstone', 'Frank Calder', 'Toronto Blueshirts', 'The Windsor Hotel (Montreal)', 'Cy Denneny', 'Frank Nighbor']
-2026-11-26 08:42:13,582 INFO Photo check Frank_Calder.jpg (Wikimedia Commons, 1416x2010): OK, licence 'Public domain'
-2026-11-26 08:42:13,582 INFO Photo for 'Frank Calder': Frank_Calder.jpg (Not mentioned in the source, Public domain)
-2026-11-26 08:42:13,851 WARNING No free-licence photo for 'Toronto Blueshirts' (Toronto_Arenas_Logo.svg)
-2026-11-26 08:42:14,369 INFO Photo check Dominion_Square_and_Windsor_Hotel,_Montreal,_QC,_about_1890.jpg (Wikimedia Commons, 737x558): OK, licence 'Public domain'
-2026-11-26 08:42:14,369 INFO Photo for 'The Windsor Hotel (Montreal)': Dominion_Square_and_Windsor_Hotel,_Montreal,_QC,_about_1890.jpg (Wm. Notman & Son, Public domain)
-2026-11-26 08:42:14,495 INFO Photo check Cy_Denneny.jpg (Wikimedia Commons, 280x300): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
-2026-11-26 08:42:14,495 WARNING No free-licence photo for 'Cy Denneny' (Cy_Denneny.jpg)
-2026-11-26 08:42:14,641 INFO Photo check Frank_Nighbor,_Vancouver_Millionaires.jpg (Wikimedia Commons, 572x750): OK, licence 'Public domain'
-2026-11-26 08:42:14,641 INFO Photo for 'Frank Nighbor': Frank_Nighbor,_Vancouver_Millionaires.jpg (Stuart Thomson, Public domain)
-2026-11-26 08:42:33,309 INFO Replaced 18 Google News links with the outlets' own links
-2026-11-26 08:42:39,536 INFO Photo check 2026-11-26-news-cfdcd3 #1 'Jannik Sinner': OK
-2026-11-26 08:42:46,276 INFO Photo check 2026-11-26-news-cfdcd3 #2 'Melbourne Park': OK
-2026-11-26 08:42:53,099 INFO Photo check 2026-11-26-news-cfdcd3 #3 'Alexander Zverev': OK
-2026-11-26 08:42:59,599 INFO Photo check 2026-11-26-news-494315 #1 'David Beckham': OK
-2026-11-26 08:43:12,634 INFO Photo check 2026-11-26-news-494315 #2 'Hassan Sunny': OK
-2026-11-26 08:43:30,803 INFO Photo check 2026-11-26-news-494315 #3 'List of secondary schools in Singapore': WRONG — asked for 'Bedok South Secondary School' but the photo comes from the page 'List of secondary schools in Singapore'
-2026-11-26 08:43:37,746 INFO Photo check 2026-11-26-hist-9bf47d #1 'Frank Calder': OK
-2026-11-26 08:43:44,622 INFO Photo check 2026-11-26-hist-9bf47d #2 'Windsor Hotel (Montreal)': OK
-2026-11-26 08:43:52,415 INFO Photo check 2026-11-26-hist-9bf47d #3 'Frank Nighbor': OK
-2026-11-26 08:43:52,556 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
-2026-11-26 08:43:52,645 INFO Wrote 3 new articles for 2026-11-26
-2026-11-26 08:43:52,757 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-26
-2026-11-26 08:43:55,353 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-26 08:43:56,835 INFO Website built: 94 published stories, 330 pages
-2026-11-26 08:43:56,837 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 15 ok / 0 failed (28,589 in / 26,712 out tokens) · estimated cost if billed: US$0.122
+2026-11-26 11:37:37,135 INFO BBC Sport                         47 items
+2026-11-26 11:37:37,347 INFO The Guardian Sport                25 items
+2026-11-26 11:37:37,382 INFO ESPN                               0 items
+2026-11-26 11:37:37,554 INFO Sky Sports                        20 items
+2026-11-26 11:37:37,864 INFO Google News – Sports (EN)         57 items
+2026-11-26 11:37:38,490 INFO Google News – 体育 (ZH)             58 items
+2026-11-26 11:37:38,741 INFO Google News – Спорт (RU)          43 items
+2026-11-26 11:37:39,747 INFO Championat                        28 items
+2026-11-26 11:37:40,630 INFO Sports.ru                         18 items
+2026-11-26 11:37:42,038 INFO Спорт-Экспресс                   472 items
+2026-11-26 11:37:42,896 INFO РИА Новости Спорт                 20 items
+2026-11-26 11:37:43,333 INFO 中国新闻网 体育                          21 items
+2026-11-26 11:37:43,704 INFO Google News – Cambodia sport      17 items
+2026-11-26 11:37:44,155 INFO Google News – Southeast Asia sport  47 items
+2026-11-26 11:37:44,675 INFO Google News – Combat promotions   97 items
+2026-11-26 11:37:45,015 INFO Google News – Boxing              31 items
+2026-11-26 11:37:45,245 INFO Google News – Kun Khmer            1 items
+2026-11-26 11:37:45,449 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-26 11:37:45,946 INFO Google News – Единоборства (RU)   95 items
+2026-11-26 11:37:46,326 INFO Google News – 格斗 (ZH)             35 items
+2026-11-26 11:37:46,511 INFO MMA Fighting                       8 items
+2026-11-26 11:37:46,729 INFO Google News – Khmer Times sport   11 items
+2026-11-26 11:37:46,894 INFO BBC Sport – Tennis                 3 items
+2026-11-26 11:37:47,083 INFO BBC Sport – Formula 1              4 items
+2026-11-26 11:37:47,250 INFO BBC Sport – Cricket                8 items
+2026-11-26 11:37:47,445 INFO BBC Sport – Boxing                 3 items
+2026-11-26 11:37:47,615 INFO BBC Sport – Athletics              0 items
+2026-11-26 11:37:47,664 INFO The Guardian – Tennis              0 items
+2026-11-26 11:37:47,791 INFO The Guardian – Formula 1           0 items
+2026-11-26 11:37:47,860 INFO The Guardian – Cricket            10 items
+2026-11-26 11:37:47,956 INFO Sherdog                           18 items
+2026-11-26 11:37:48,091 INFO Sky Sports – Football             19 items
+2026-11-26 11:37:48,849 INFO Чемпионат – Теннис                31 items
+2026-11-26 11:37:49,650 INFO Чемпионат – Хоккей                26 items
+2026-11-26 11:37:49,721 INFO MMA Fighting – latest              8 items
+2026-11-26 11:37:49,866 INFO BBC Sport – Football              44 items
+2026-11-26 11:37:50,004 INFO The Guardian – Football           24 items
+2026-11-26 11:37:50,353 INFO Yahoo Sports – Soccer             48 items
+2026-11-26 11:37:50,694 INFO Yahoo Sports – MMA                39 items
+2026-11-26 11:37:51,147 INFO Yahoo Sports – Tennis             41 items
+2026-11-26 11:37:51,838 INFO Yahoo Sports – NBA                47 items
+2026-11-26 11:37:51,991 INFO The Independent – Sport           44 items
+2026-11-26 11:37:52,428 WARNING Feed unreadable Google News – Tennis: <unknown>:2:252: not well-formed (invalid token)
+2026-11-26 11:37:52,921 INFO Google News – Basketball          98 items
+2026-11-26 11:37:53,456 INFO Google News – Motorsport          95 items
+2026-11-26 11:37:54,013 INFO Google News – Badminton, athletics, table tennis  76 items
+2026-11-26 11:37:54,613 INFO Google News – Cricket             93 items
+2026-11-26 11:37:55,009 INFO Google News – 网球与篮球 (ZH)          94 items
+2026-11-26 11:37:55,468 INFO Google News – 羽毛球与乒乓 (ZH)         72 items
+2026-11-26 11:37:55,924 WARNING Feed unreadable Google News – Теннис и баскетбол (RU): <unknown>:2:252: not well-formed (invalid token)
+2026-11-26 11:37:56,447 INFO Google News – Формула-1 и биатлон (RU)  97 items
+2026-11-26 11:37:58,921 INFO Candidate stories after clustering: 1792
+2026-11-26 11:37:59,010 INFO Skipped (pre-match piece, no previews): NBA Schedule
+2026-11-26 11:37:59,022 INFO Skipped (we already have this story): Jannik Sinner ruled out of Australian Open after knee surgery
+2026-11-26 11:37:59,085 INFO Skipped (pre-match piece, no previews): Бывший чемпион UFC Дю Плесси анонсировал возвращение в октагон в 2027 году
+2026-11-26 11:37:59,191 INFO Skipped (pre-match piece, no previews): 郑钦文奥运决赛前训练 最终夺冠
+2026-11-26 11:37:59,193 INFO Skipped (pre-match piece, no previews): Knicks rally to beat Cavaliers behind unlikely hero, expanded lineup to keep slim NBA Cup hopes alive
+2026-11-26 11:37:59,227 INFO Skipped (we already have this story): Янник Синнер пропустит Australian Open-2027 из-за операции
+2026-11-26 11:37:59,337 INFO Skipped (pre-match piece, no previews): Гран-При Катара: превью Pirelli
+2026-11-26 11:37:59,371 INFO Skipped (we already have this story): UFC Icon urges Jiri Prochazka to Fix Defensive Flaws after Navajo Stirling Loss
+2026-11-26 11:37:59,390 INFO Skipped (match still in progress, live update): [LIVE@TV] Kuching City vs Phnom Penh Crown Free Football Match Live Updates
+2026-11-26 11:37:59,402 INFO Skipped (pre-match piece, no previews): Lyon predicted XI v Lillestrøm: Rémi Himbert to earn chance to impress; Lois Openda back in the squad
+2026-11-26 11:37:59,455 INFO Skipped (we already have this story): Этап Кубка России по биатлону перенесли из Тюменской области в Уфу
+2026-11-26 11:37:59,585 INFO Skipped (we already have this story): Former Lionesses captain Siti Rosnani Azman retires from international football, Sports News
+2026-11-26 11:37:59,600 INFO Skipped (we already have this story): Marina Bay Sands backs youth football initiative in Singapore
+2026-11-26 11:37:59,668 INFO Skipped (pre-match piece, no previews): F1 2027 driver line-up: Full grid of 22 confirmed drivers and 11 teams
+2026-11-26 11:37:59,674 INFO Skipped (pre-match piece, no previews): «Формула-1» 2027: полные составы всех 11 команд и список пилотов
+2026-11-26 11:37:59,759 INFO Skipped (match still in progress, live update): Sporting v Man United LIVE: United winner disallowed by VAR in bonkers Champions League clash
+2026-11-26 11:37:59,808 INFO Skipped (pre-match piece, no previews): Стали известны составы всех команд «Формулы-1» на сезон-2027
+2026-11-26 11:37:59,809 INFO Skipped (pre-match piece, no previews): 2027 line-ups confirmed: Who's on the grid for next season?
+2026-11-26 11:37:59,834 INFO Skipped (we already have this story): David Beckham Surprises 39 Young Footballers in Singapore
+2026-11-26 11:37:59,848 INFO Skipped (pre-match piece, no previews): Breaking: Haas announce completed F1 driver line-up after mysterious delay
+2026-11-26 11:37:59,869 INFO Skipped (match still in progress, live update): Champions League LIVE: Sporting vs Man Utd & Club Brugge vs Liverpool score & updates from seven other games
+2026-11-26 11:37:59,917 INFO Skipped (we already have this story): Sir David Beckham a surprise guest at Sands-backed football clinic in Singapore to inspire disadvantaged youth
+2026-11-26 11:37:59,961 INFO Skipped (pre-match piece, no previews): ONE Championship Announces 1xBet As Official Betting Partner Of ONE Friday Fights
+2026-11-26 11:38:00,002 INFO Kept (result after our pre-event story): Navajo Stirling Claims Jiri Prochazka Felt ‘Weak’ in the Clinch: ‘I Could Have Easily Taken Him Down’
+2026-11-26 11:38:00,046 INFO Kept (result after our pre-event story): "I wrote it on my board" - Navajo Stirling Gets Real About Whether He's 'Fighter off the Year' After Jiri Prochazka Win
+2026-11-26 11:38:00,081 INFO Skipped (match still in progress, live update): «Локомотив» — «Ростов»: гости открыли счет на 2-й минуте
+2026-11-26 11:38:00,144 INFO Skipped (pre-match piece, no previews): «Сабах» — «Барселона»: стартовые составы команд
+2026-11-26 11:38:00,167 INFO Skipped (match still in progress, live update): «Ахмат» — «Краснодар»: Кристиан удвоил преимущество «быков»
+2026-11-26 11:38:00,185 INFO Skipped (pre-match piece, no previews): OLYMPIACOS VS. AC MILAN: MATCH PREVIEW
+2026-11-26 11:38:00,193 INFO Skipped (pre-match piece, no previews): «Локомотив» — «Ростов»: стартовые составы на кубковый матч
+2026-11-26 11:38:00,334 INFO Skipped (pre-match piece, no previews): Full Lineup Revealed for First Apex UFC Event of 2027
+2026-11-26 11:38:00,536 INFO Skipped (pre-match piece, no previews): Kings of Leon complete star-studded line-up for Abu Dhabi GP
+2026-11-26 11:38:00,543 INFO Skipped (we already have this story): David Beckham, 51, surprises football clinic participants at Bedok South Secondary School
+2026-11-26 11:38:00,640 INFO Skipped (we already have this story): Lauren Price becomes Wales’ first undisputed world boxing champion, BBC Sport Wales reports
+2026-11-26 11:38:00,689 INFO Skipped (pre-match piece, no previews): Celtics' New Starting Lineup Delivers Encouraging Results Against Wizards
+2026-11-26 11:38:00,746 INFO Skipped (pre-match piece, no previews): [流言板]雷霆首发：亚历山大、斯特茨、阿杰伊-米切尔、皮维、哈尔滕施泰因
+2026-11-26 11:38:00,888 INFO Skipped (we already have this story): French tennis player Arthur Rinderknech charged with refusing to give doping sample
+2026-11-26 11:38:00,987 INFO Skipped (match still in progress, live update): «ПСЖ» — «Рома»: Эрмосо вывел гостей вперед на 5-й минуте
+2026-11-26 11:38:01,004 INFO Skipped (pre-match piece, no previews): «Шахтер» — «Фенербахче»: стартовые составы на матч Лиги чемпионов
+2026-11-26 11:38:01,293 INFO Skipped (we already have this story): Второй этап Кубка России по биатлону состоится в Уфе из-за проблем со снегом
+2026-11-26 11:38:01,893 INFO Google News search                52 items
+2026-11-26 11:38:02,127 INFO Google News search                 1 items
+2026-11-26 11:38:02,128 INFO Skipped (same event as a stronger story): Real Madrid put in five-star second half to win against PSV
+2026-11-26 11:38:02,141 INFO Skipped (only 1 outlet): Fifa confirms internal data stolen in cyber attack
+2026-11-26 11:38:02,141 INFO Skipped (same event as a stronger story): BBC Women's Football Weekly
+2026-11-26 11:38:02,368 INFO Google News search                 2 items
+2026-11-26 11:38:02,368 INFO Confirmed by 2+ outlets: 22 of 25 candidates (4 searches)
+2026-11-26 11:38:02,380 INFO Picked [global motorsport 9.4 · 10 outlets] Oliver Bearman to remain with Haas for 2027 F1 season after new contract finally agreed ahead of Qatar GP
+2026-11-26 11:38:02,381 INFO Writing news (EN) ...
+2026-11-26 11:38:03,556 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-26 11:38:57,017 INFO Adapting to zh, ru ...
+2026-11-26 11:39:32,049 INFO Picked [china olympic 4.9 · 2 outlets] 奥运冠军拉绍夫斯基：期待重返中国，泳池激情依旧
+2026-11-26 11:39:32,050 INFO Writing news (EN) ...
+2026-11-26 11:40:14,618 INFO Adapting to zh, ru ...
+2026-11-26 11:40:44,150 INFO History story for 2026-11-26 already written (2026-11-26-hist-9bf47d): not repeated
+2026-11-26 11:40:44,165 INFO Looking up photos for 2026-11-26-news-0b230b: ['Oliver Bearman', 'Ayao Komatsu', 'Haas F1 Team', 'Lusail International Circuit', 'Rafael Câmara']
+2026-11-26 11:40:44,291 INFO Photo check 2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg (Wikimedia Commons, 1428x2218): OK, licence 'CC BY-SA 4.0'
+2026-11-26 11:40:44,291 INFO Photo for 'Oliver Bearman': 2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg (Liauzh, CC BY-SA 4.0)
+2026-11-26 11:40:44,595 WARNING No free-licence photo for 'Haas F1 Team' (TGR_Haas_F1_Team_Logo_(2026).svg)
+2026-11-26 11:40:44,642 WARNING No free-licence photo for 'Lusail International Circuit' (Lusail_International_Circuit_2023.svg)
+2026-11-26 11:40:44,779 INFO Photo check Rafael_Câmara_in_2022.jpg (Wikimedia Commons, 1024x1156): OK, licence 'CC BY-SA 4.0'
+2026-11-26 11:40:44,779 INFO Photo for 'Rafael Câmara': Rafael_Câmara_in_2022.jpg (KVYTICAL, CC BY-SA 4.0)
+2026-11-26 11:40:44,779 INFO Looking up photos for 2026-11-26-news-0dacf4: ['Kristóf Rasovszky', 'Open water swimming', 'Budapest']
+2026-11-26 11:40:44,906 INFO Photo check Kristóf_Rasovszky_-_2018_European_Aquatics_Championships_(Men's_10_km_open_water).jpg (Wikimedia Commons, 3672x4896): OK, licence 'CC BY-SA 4.0'
+2026-11-26 11:40:44,907 INFO Photo for 'Kristóf Rasovszky': Kristóf_Rasovszky_-_2018_European_Aquatics_Championships_(Men's_10_km_open_water).jpg (Cs-wolves, CC BY-SA 4.0)
+2026-11-26 11:40:45,015 INFO Photo check Bold_and_the_Beautiful_swim.jpg (Wikimedia Commons, 3264x2448): OK, licence 'CC BY-SA 4.0'
+2026-11-26 11:40:45,015 INFO Photo for 'Open water swimming': Bold_and_the_Beautiful_swim.jpg (Wittylama, CC BY-SA 4.0)
+2026-11-26 11:40:45,165 INFO Photo check View_from_Gellért_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg (Wikimedia Commons, 2500x1293): OK, licence 'CC BY 2.0'
+2026-11-26 11:40:45,165 INFO Photo for 'Budapest': View_from_Gellért_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg (Visions of Domino, CC BY 2.0)
+2026-11-26 11:40:57,102 INFO Replaced 9 Google News links with the outlets' own links
+2026-11-26 11:41:04,506 INFO Photo check 2026-11-26-news-0b230b #1 'Oliver Bearman': OK
+2026-11-26 11:41:11,661 INFO Photo check 2026-11-26-news-0b230b #2 'Rafael Câmara': OK
+2026-11-26 11:41:19,298 INFO Photo check 2026-11-26-news-0dacf4 #1 'Kristóf Rasovszky': OK
+2026-11-26 11:41:27,201 INFO Photo check 2026-11-26-news-0dacf4 #2 'Open water swimming': OK
+2026-11-26 11:41:33,755 INFO Photo check 2026-11-26-news-0dacf4 #3 'Budapest': OK
+2026-11-26 11:41:33,897 INFO Drafts for review: 2 of 2 (others auto-rejected by the standards check)
+2026-11-26 11:41:33,988 INFO Wrote 2 new articles for 2026-11-26
+2026-11-26 11:41:34,153 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-26
+2026-11-26 11:41:35,403 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-26 11:41:36,919 INFO Website built: 96 published stories, 336 pages
+2026-11-26 11:41:36,921 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 24 ok / 0 failed (43,898 in / 43,812 out tokens) · estimated cost if billed: US$0.197

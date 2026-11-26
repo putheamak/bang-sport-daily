@@ -20,14 +20,15 @@ His management confirmed in October that Sinner would sit out the remainder of t
 
 ## Melbourne Park Record and Australian Impact
 
-Melbourne Park has provided the venue for many of Sinner’s career highlights. In 2024, he secured his maiden Grand Slam title by coming from two sets down to defeat Daniil Medvedev in five sets. He retained the trophy in 2025 by defeating Zverev in straight sets in the final, before falling in the 2026 semi-finals to ten-time champion Novak Djokovic.
+Melbourne Park has provided the venue for many of Sinner’s career highlights. In 2024, he won his first Grand Slam title by beating Daniil Medvedev in five sets in the final. He retained the trophy in 2025 with victory over Zverev in the final, before losing in the 2026 semi-finals to Novak Djokovic.
 
-Across seven visits to the Australian Open, Sinner has built a 27-5 match record, achieving an 84 percent match-win rate. With Sinner absent from the 128-player men's singles field, Zverev is set to lead the tournament seedings when main-draw play commences in January.
+Across seven visits to the Australian Open, Sinner has built a 27-5 match record, an 84 percent success rate. Zverev, who has replaced him at the top of the rankings, now heads to Melbourne as world No. 1.
 
 ---
 **Sources**
 
-- [AP News - Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://apnews.com/)
+- [ESPN (AP): No. 2 Jannik Sinner missing 2027 Australian Open to rehab knee](https://www.espn.com/tennis/story/_/id/50599895/jannik-sinner-missing-2027-australian-open-rehab-knee)
+- [Al Jazeera (AFP): Jannik Sinner ruled out of 2027 Australian Open after knee surgery](https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis)
 - [The Washington Post - Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://www.washingtonpost.com/sports/tennis/2026/11/25/jannik-sinner-australian-open-knee-surgery/4e8442a8-abb0-11f1-a185-3bcff7a0322b_story.html)
 - [click2houston.com](https://www.click2houston.com/sports/2026/11/26/australian-open-says-jannik-sinner-wont-play-the-first-grand-slam-tennis-tournament-of-2027/)
 - [wsbtv.com](https://www.wsbtv.com/sports/australian-open-says/VRQZWA2CUU5QPB4A3SAAQMIXAA/)
@@ -41,5 +42,4 @@ Across seven visits to the Australian Open, Sinner has built a 27-5 match record
 - [Audacy: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzl6dG5pV0FBblRiYXJzZ1ZKNjY4bFoyWF93YTgxNnhYZlJqZVBWeEJpVDZnR2JYaGtzSVJzb3U1SWpnOHFOWTBBejlsQlZsWUpodXA0ei1wRFRERUYzRWxPNHBtMVVGeDU5MjNnWTFacjZCSGdxa2l0b3cxclpaZngtZEtoSGEwNFJWbTZqdmQtM0ZjRjJrTTNpQkdXQ1RkeFhMbEo3Y3IySWxBZWxiSjZLbEtkQQ?oc=5)
 - [Toronto Star: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMijAJBVV95cUxNUmoxM3BUMlVUNVhOQTQyRFN2ZXczYzU4MHVQaWdHeklUa05iMjNENDNBVjdqa0JFMHJtbWFuT0dCMTBma0xtcklKWFVjVFpGSWw5VTJhT2QxLWJ5UTYtZmVZYVNUQ2tNbXV5U1FNc0xSdTZReHNJNk1LSDlBZjA2cEhYRFpRYTAtR21tNHBKMUVkeUxxMlhtcHdjZURKQ2FqUVlSUUp4NlRxUV84U2Z2V3RUM05VTTJCN081ZjRYSVdpblJxbUtQWS1ZWFFLYk9TLTBIM3loVXFKQjhHU2FwdUlJSlUxb1N1dmhZZHhhdC1kOHNma2RQUGI0OGEwcjQ3VlBXT014ZHBNWHNi?oc=5)
 - [Yahoo Sports – Tennis: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://sports.yahoo.com/tennis/articles/australian-open-says-jannik-sinner-010011335.html)
-- [Davis Cup: The World Cup of Tennis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MFhEaHZsdmd4alZkR3cwTWc2T2N0NzFoX0FsTXlZb0k5YUZmRVp2M01BRW16UEhpX1UxcWVsdll5XzZ0SmxFTXRjeEt1MEpKNURHSnlLZWJabU83Y1E?oc=5)
 - [KSNT 27 News: Australian Open says Jannik Sinner won’t play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzl0U1Rrb0QwcHAxSmI1ZEdSVTBWWm56Z2hBbktFQ3VmRk00YUQ2LWY5LTRfSEN3WS1ZbFlKeXdESmxfZ2R5bHRPdlJya2pkR3lHTjZsTnpkV2IxZ2F3Q21jVWUtTnlWVVI3QkpyUlp5T1JsNXNsNThVeUdJOXQ0cGZ0UnpDNC1QZFFEQWxVbHJDT3V1bXZhXzcwVjVBVlVsMlN3amZmZWtJX3RWa1B6YmJ3Zy1jS1NmU2tUQUk1aGl6c0JmX2fSAcYBQVVfeXFMTlM5dFNUa29EMHBwMUpiNWRHUlUwVlpuemdoQW5LRUN1ZkZNNGFENi1mOS00X0hDd1ktWWxZSnl3REpsX2dkeWx0T3ZScmtqZEd5R042bE56ZFdiMWdhd0NtY1VlLU55VlVSN0JKclJaeU9SbDVzbDU4VXlHSTl0NHBmdFJ6QzQtUGRRREFsVWxyQ091dW12YV83MFY1QVZVbDJTd2pmZmVrSV90VmtQemJid2ctY0tTZlNrVEFJNWhpenNCZl9n?oc=5)

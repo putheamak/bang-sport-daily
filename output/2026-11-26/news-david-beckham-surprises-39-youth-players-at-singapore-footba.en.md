@@ -16,7 +16,7 @@ According to Community Chest managing director Jack Lim, more than half of the c
 
 ## Drills, Signed Match Balls, and Local Mentors
 
-During the morning session, Beckham participated directly in passing routines, gave tactical pointers, and distributed autographed footballs to the young players. Fourteen-year-old participant Faizaan Jibra'el Mohamed Fairul told The Straits Times that players knew a footballer would attend, but had no advance knowledge that Beckham would step onto the turf.
+During the morning session, Beckham participated directly in passing routines, gave tactical pointers, and distributed autographed footballs to the young players. A 14-year-old participant told The Straits Times that players knew a footballer would attend, but had no advance knowledge that Beckham would step onto the turf.
 
 Senior Parliamentary Secretary for Finance and Manpower Shawn Huang, who co-founded Tasek Academy and serves as MP for West Coast–Jurong West GRC, welcomed the visit. "What an honour to start the morning with Sir David Beckham!" Huang wrote in an Instagram post, praising Beckham's willingness to work alongside grassroots boys' and girls' teams.
 
@@ -25,6 +25,8 @@ Beckham's visit aligns with a recurring series of community clinics held across 
 ---
 **Sources**
 
+- [Mothership: David Beckham, 51, surprises football clinic participants at Bedok South Secondary School](https://mothership.sg/2026/11/beckham-singapore-2026/)
+- [Inside Asian Gaming: Sir David Beckham a surprise guest at Sands-backed football clinic in Singapore](https://asgam.com/2026/11/26/sir-david-beckham-a-surprise-guest-at-sands-backed-football-clinic-in-singapore-to-inspire-disadvantaged-youth/)
 - ['What an honour': David Beckham's arrival in Singapore delights MP Shawn Huang, surprises young footballers](https://www.asiaone.com/singapore/what-honour-david-beckhams-arrival-singapore-delights-mp-shawn-huang-surprises-young-footballers)
 - [David Beckham makes surprise appearance at youth football clinic in Bedok](https://www.youtube.com/shorts/AUW1AnmGopc)
 - [Marina Bay Sands backs youth football initiative in Singapore](https://www.ggrasia.com/marina-bay-sands-backs-youth-football-initiative-in-singapore/)

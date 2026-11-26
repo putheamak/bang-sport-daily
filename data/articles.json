@@ -1,5 +1,358 @@
 [
   {
+    "id": "2026-11-26-news-0dacf4",
+    "slug": "kristof-rasovszky-sets-sights-on-2028-olympic-defence-and-be",
+    "date": "2026-11-26",
+    "created": "2026-11-26T18:40:44+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Aquatics",
+    "tags": [
+      "Swimming",
+      "Open Water Swimming",
+      "Kristóf Rasovszky",
+      "Olympics",
+      "World Aquatics"
+    ],
+    "athletes": [
+      "Kristóf Rasovszky"
+    ],
+    "image_subjects": [
+      "Kristóf Rasovszky",
+      "Open water swimming",
+      "Budapest"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Interview: Olympic swimming champion Rasovszky draws on experience in pursuit of 2028 gold",
+        "url": "https://english.news.cn/20261126/80a05fd9db7a49bc97d779d097e98999/c.html"
+      },
+      {
+        "title": "专访奥运冠军拉绍夫斯基：期待重返中国，泳池激情依旧",
+        "url": "http://sports.news.cn/20261126/839ca17dfc744f4da6ea22d6455eb3c0/c.html"
+      },
+      {
+        "title": "极目新闻: 奥运冠军拉绍夫斯基：期待重返中国，泳池激情依旧",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yMEpvUjdBNUx5YWVDMmF1VFhDczZkWEZZZ3BJUXhqT1M3YjdySXJ6czJBOVlneFV6c1p5QnlkUUhrWkZlVW5zUndzLVdKenduVEROdkJfUTdxQjQ?oc=5"
+      },
+      {
+        "title": "新华网: 专访奥运冠军拉绍夫斯基：期待重返中国，泳池激情依旧",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUpYVzdJNS1IWXFFMGxBX3YyTWt4V1oyNjNNY1NsS2h4Y2Y3VDV1X290WTRtQ09JQ296TmxDcFoyZ00xVjNwYTY4b3NYNkI5OGcyckhhR3hTcTRjeDdwNld6UEZHSGlYN3JWS3lyZV9CY2NFSmpiS2dkSUY0Y3I2Z0Zn?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Kristóf Rasovszky Sets Sights on 2028 Olympic Defence and Beijing Return",
+      "seo_title": "Kristof Rasovszky Targets LA 2028 and Beijing 2029",
+      "subheadline": "The reigning Olympic marathon swimming champion has overcome knee surgery, targeting Budapest 2027, Los Angeles 2028, and China's 2029 World Aquatics Championships.",
+      "body_markdown": "Olympic marathon swimming champion Kristóf Rasovszky has resumed full training following knee surgery, setting his sights on defending his men's 10-kilometre title at the 2028 Los Angeles Games and seeking an eventual return to competition in China at the 2029 World Aquatics Championships in Beijing. Speaking in Budapest on Wednesday, November 25, 2026, the 29-year-old Hungarian told Xinhua that his hunger for competition remains undiminished after navigating an 18-month sequence of physical setbacks.\n\n## Knee Surgery and the Path to Budapest 2027\n\nIn autumn 2026, Rasovszky underwent surgery to remove two loose pieces of cartilage from his knee to prevent recurrent joint issues from disrupting his preparation for the Los Angeles Games. He returned to the pool less than three weeks after the operation and currently logs training distances averaging 10,000 metres per session, primarily in indoor facilities before transitioning to open water ahead of major meets.\n\n\"There have been ups and downs in my career. In a way, this low point came at the right time, between two Olympic Games,\" Rasovszky told Xinhua. \"I believe I am capable of more. Actually, I don't just believe it—I know I am capable of it.\"\n\nHis primary qualification target is the 2027 World Aquatics Championships in Budapest. Under World Aquatics qualification criteria, the top three finishers in the men's 10km event in Budapest will secure automatic quota spots for the 2028 Olympic Games. Rasovszky secured his qualification for Paris under a similar format by taking silver at the 2023 World Championships in Fukuoka, Japan. \"Representing my country at a world championship on home soil is an extra motivation in itself,\" Rasovszky said.\n\n## Chasing Longevity and a Chinese Return\n\nRasovszky claimed silver in the 10km event at the Tokyo Olympics in 2021 before taking gold in the Seine at Paris 2024. He also won 5km gold at the 2019 World Championships in Gwangju and 10km gold at the 2024 World Championships in Doha. When the Los Angeles Games open in 2028, he will be 31, but he dismissed concerns about age by pointing to Greece's Spyridon Gianniotis, who won Olympic silver at Rio 2016 at age 36.\n\n\"As I get older, I get faster,\" Rasovszky said. \"If I put in the same amount of work, or perhaps do it in a smarter and better way, I will probably be able to achieve the same result.\"\n\nThe Hungarian also highlighted his competitive history in China, where he won a FINA Open Water Swimming World Cup 10km leg at Qiandao Lake in Chun'an, Zhejiang Province, in 2017. With Beijing scheduled to stage the 2029 World Aquatics Championships, Rasovszky left the door open to competing there at age 32, while noting that the ongoing relocation of World Aquatics headquarters from Lausanne to Budapest could also offer post-retirement administrative avenues in aquatic sports.",
+      "social_post": "Two loose pieces of cartilage removed from his knee, less than three weeks out of the pool, and 10,000 metres a day in training: Hungary's Olympic 10km champion Kristóf Rasovszky is back on the water. The Paris 2024 gold medallist has outlined his plans for Budapest 2027, the LA 2028 Games, and a potential return to China for Beijing 2029. Can Rasovszky defend his Olympic title in 2028? Let us know your thoughts below! #Swimming #OpenWater #Olympics"
+    },
+    "zh": {
+      "headline": "拉索夫斯基剑指洛杉矶卫冕 盼2029年重返北京世锦赛",
+      "seo_title": "拉索夫斯基瞄准洛杉矶卫冕与2029北京世锦赛",
+      "subheadline": "匈牙利公开水域奥运冠军克服膝伤困扰，锁定布达佩斯、洛杉矶及北京三大赛事周期。",
+      "body_markdown": "奥运会男子马拉松游泳冠军克里斯托夫·拉索夫斯基（Kristóf Rasovszky）在接受膝关节手术后已全面恢复训练。这位匈牙利名将明确表示，自己的目标是在2028年洛杉矶奥运会上卫冕男子10公里冠军，并期待在2029年北京世界泳联世锦赛上重返中国赛场。2026年11月25日（星期三），29岁的拉索夫斯基在布达佩斯接受新华社采访时表示，在克服了长达18个月的一系列伤病困扰后，他对赛场的渴望丝毫未减。\n\n## 膝部手术与通往2027布达佩斯之路\n\n2026年秋季，拉索夫斯基接受了手术，取出了膝关节内的两块游离软骨碎片，以防止反复出现的关节问题干扰他备战洛杉矶奥运会。术后不到三周，他便重返泳池，目前单堂训练课的游程平均达到10000米。现阶段他主要在室内场馆进行训练，随后将在大赛前转入公开水域集训。\n\n“我的职业生涯经历过起起伏伏。从某种角度来说，这个低谷期出现在两届奥运会之间，来得正是时候，”拉索夫斯基对新华社表示，“我相信自己还能走得更远。其实不仅是相信——我确信自己有这个能力。”\n\n拉索夫斯基的首要资格赛目标是2027年布达佩斯世界泳联世锦赛。根据世界泳联的奥运资格选拔标准，布达佩斯世锦赛男子10公里项目的前三名将直接锁定2028年奥运会的参赛席位。此前，拉索夫斯基正是在2023年日本福冈世锦赛上摘银，以类似方式早早锁定巴黎奥运会入场券。“代表祖国在本土参加世锦赛，这本身就是一种巨大的动力，”拉索夫斯基坦言。\n\n## 续写泳坛常青树传奇 期待重返中国福地\n\n拉索夫斯基曾在2021年东京奥运会上摘得男子10公里银牌，并在2024年巴黎奥运会的塞纳河较量中勇夺金牌。此外，他还是2019年光州世锦赛男子5公里金牌得主，并在2024年多哈世锦赛上折桂10公里项目。2028年洛杉矶奥运会开幕时，他将年满31岁，但他对年龄问题不以为意，并以希腊老将斯皮里东·扬尼奥蒂斯（Spyridon Gianniotis）为例——后者在2016年里约奥运会上摘得银牌时已是36岁高龄。\n\n“随着年龄增长，我反而变得更快了，”拉索夫斯基说，“如果我付出同样多的努力，或者以更聪明、更高效的方式训练，我很可能取得同样的成绩。”\n\n这位匈牙利名将还特别提到了自己在中国的参赛渊源：2017年，他曾在浙江淳安千岛湖夺得国际泳联公开水域游泳世界杯男子10公里分站赛冠军。2029年世界泳联世锦赛将在北京举行，拉索夫斯基对届时以32岁之龄重返北京参赛持完全开放的态度；他还提到，世界泳联总部目前正从洛桑迁往布达佩斯，这或许也会为他退役后在水上运动管理领域的发展带来契机。",
+      "social_post": "取出两块游离软骨、术后不到三周火速复训、日均万米课量：巴黎奥运会男子公开水域10公里冠军拉索夫斯基已王者归来！这位匈牙利名将将目标锁定在2027布达佩斯世锦赛、2028洛杉矶奥运会，更期待在2029年重返北京世锦赛。你认为他能在洛杉矶成功卫冕吗？欢迎在评论区留下你的看法！#游泳 #公开水域 #奥运会 #世锦赛"
+    },
+    "ru": {
+      "headline": "Криштоф Рашовски нацелен на защиту олимпийского золота в 2028 году и поездку в Пекин-2029",
+      "seo_title": "Криштоф Рашовски нацелен на Лос-Анджелес-2028 и Пекин-2029",
+      "subheadline": "Действующий олимпийский чемпион по плаванию на открытой воде восстановился после операции на колене и планирует выступить в Будапеште-2027, Лос-Анджелесе-2028 и Китае.",
+      "body_markdown": "Олимпийский чемпион в плавании на открытой воде Криштоф Рашовски (Kristóf Rasovszky) вернулся к полноценным тренировкам после перенесенной операции на колене. Венгерский марафонец твердо намерен защитить свой титул на дистанции 10 километров на Играх 2028 года в Лос-Анджелесе, а также рассчитывает выступить в Китае на чемпионате мира по водным видам спорта 2029 года в Пекине. В среду, 25 ноября 2026 года, 29-летний пловец заявил агентству «Синьхуа» в Будапеште, что после полутора лет регулярных травм и проблем со здоровьем его соревновательный голод остался неизменным.\n\n## Операция на колене и курс на Будапешт-2027\n\nОсенью 2026 года Рашовски перенес хирургическое вмешательство: врачи удалили два отколовшихся фрагмента хряща в коленном суставе, чтобы предотвратить хронические рецидивы в период подготовки к Олимпиаде в США. Венгр вернулся на водную дорожку менее чем через три недели после операции. Сейчас его тренировочный объем составляет в среднем 10 000 метров за занятие — на данном этапе работа ведется преимущественно в бассейне, а непосредственно перед главными стартами начнется переход на открытую воду.\n\n«В моей карьере случались и взлеты, и падения. В каком-то смысле этот спад пришелся на самое подходящее время — между двумя Олимпийскими играми, — подчеркнул Рашовски в интервью „Синьхуа“. — Я верю, что способен на большее. Точнее, я не просто верю — я точно знаю, что могу».\n\nГлавный квалификационный рубеж для венгра — домашний чемпионат мира 2027 года в Будапеште. Согласно правилам отбора World Aquatics, первая тройка призеров на дистанции 10 км в Будапеште напрямую гарантирует олимпийские квоты в Лос-Анджелес-2028. По аналогичной схеме Рашовски завоевал путевку в Париж, взяв серебро на ЧМ-2023 в японской Фукуоке. «Выступать за свою страну на домашнем первенстве планеты — это сама по себе колоссальная мотивация», — отметил спортсмен.\n\n## Спортивное долголетие и китайские перспективы\n\nВ активе Рашовски — серебро на 10 км на Олимпиаде в Токио (2021) и триумфальное золото на Сене в Париже-2024. Он также побеждал на дистанции 5 км на чемпионате мира 2019 года в Кванджу и выигрывал 10-километровый марафон на мировом первенстве 2024 года в Дохе. К моменту открытия Игр-2028 в Лос-Анджелесе ему исполнится 31 год, однако пловец категорически отвергает сомнения по поводу возраста. В качестве примера он привел грека Спиридона Янниотиса (Spyridon Gianniotis), завоевавшего олимпийское серебро в Рио-2016 в 36 лет.\n\n«С возрастом я становлюсь только быстрее, — резюмировал Рашовски. — Если я сохраню прежний объем работы или буду подходить к процессу грамотнее и эффективнее, то наверняка смогу показать тот же результат».\n\nВенгерский марафонец с теплотой вспомнил и свои выступления в Китае: в 2017 году он выиграл этап Кубка мира FINA на 10 км на озере Цяньдаоху в уезде Чуньань провинции Чжэцзян. Поскольку Пекин примет чемпионат мира по водным видам спорта в 2029 году, Рашовски не исключает, что выйдет на старт в столице КНР в возрасте 32 лет. Кроме того, он добавил, что текущий переезд штаб-квартиры World Aquatics из Лозанны в Будапешт может открыть для него административные перспективы в водных видах спорта уже после завершения спортивной карьеры.",
+      "social_post": "Удаление фрагментов хряща, возвращение на дорожку менее чем через три недели и по 10 км за тренировку: олимпийский чемпион Парижа-2024 Криштоф Рашовски снова в строю! Венгерский стайер подтвердил планы отобраться на ЧМ-2027 в Будапеште, поехать на Олимпиаду-2028 в Лос-Анджелесе и заглянуть в Пекин-2029. Как думаете, удержит ли Рашовски корону открытой воды? Делитесь мнением в комментариях! #плавание #открытаявода #Олимпиада"
+    },
+    "region": "china",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_%28Men%27s_10_km_open_water%29.jpg/1280px-Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_%28Men%27s_10_km_open_water%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Krist%C3%B3f_Rasovszky_-_2018_European_Aquatics_Championships_(Men%27s_10_km_open_water).jpg",
+        "artist": "Cs-wolves",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "The silver medal for Kristóf Rasovszky (Hungary) in the men's 10 km open water event at the 2018 European Aquatics Championships at Loch Lomond.",
+        "width": 1200,
+        "height": 1600,
+        "year": 2018,
+        "subject": "Kristóf Rasovszky",
+        "asked": "Kristóf Rasovszky",
+        "page_title": "Kristóf Rasovszky",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:krist%c3%b3f_rasovszky_-_2018_european_aquatics_championships_(men%27s_10_km_open_water).jpg|Kristóf Rasovszky",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Kristóf Rasovszky holding his silver medal at the 2018 European Aquatics Championships",
+          "reason": "The image correctly depicts Hungarian swimmer Kristóf Rasovszky with his medal at Glasgow 2018.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Bold_and_the_Beautiful_swim.jpg/1280px-Bold_and_the_Beautiful_swim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bold_and_the_Beautiful_swim.jpg",
+        "artist": "Wittylama",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "The start of the return-leg of the daily \"bold and the beautiful\" swim from Manly to Shelly beach, Australia - Christmas day 2016.",
+        "width": 1200,
+        "height": 900,
+        "year": 2016,
+        "subject": "Open water swimming",
+        "asked": "Open water swimming",
+        "page_title": "Open water swimming",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:bold_and_the_beautiful_swim.jpg|Open water swimming",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "A large crowd participating in an open water swim at a beach",
+          "reason": "The photo genuinely depicts open water swimming, matching the general topic and caption of the story.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/1280px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:View_from_Gell%C3%A9rt_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg",
+        "artist": "Visions of Domino",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "Hungary - Budapest",
+        "width": 1200,
+        "height": 621,
+        "year": 2016,
+        "subject": "Budapest",
+        "asked": "Budapest",
+        "page_title": "Budapest",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:view_from_gell%c3%a9rt_hill_to_the_danube,_hungary_-_budapest_(28493220635).jpg|Budapest",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "panoramic view of Budapest and the Danube River",
+          "reason": "The photo accurately shows the city of Budapest with the Danube and Elisabeth Bridge, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2018. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-26-news-0b230b",
+    "slug": "oliver-bearman-signs-haas-contract-extension-for-2027-season",
+    "date": "2026-11-26",
+    "created": "2026-11-26T18:39:32+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Formula 1",
+    "tags": [
+      "Formula 1",
+      "Haas F1 Team",
+      "Oliver Bearman",
+      "Ayao Komatsu",
+      "Qatar Grand Prix",
+      "Rafael Câmara"
+    ],
+    "athletes": [
+      "Oliver Bearman",
+      "Rafael Câmara"
+    ],
+    "image_subjects": [
+      "Oliver Bearman",
+      "Ayao Komatsu",
+      "Haas F1 Team",
+      "Lusail International Circuit"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Bearman to continue with Haas for 2027 as he completes next year's grid",
+        "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.AUZIYQGfr--85tRnCwmIknxsEd3Z5riJDGQ1gH7wFC3mmNPZ-TAByx6qdhLC0_jG2WpJ9AfVuzyiolRu14lmlidflIgHAup-8hU4zGcRgGkBzIyreB0Mt8ujIqXVZZhUTWhQ-kg1bVTV7ZHfDSrld31xRLB1U6Qz6iwTIO5PtQlkNO243yiM8Wlh__5s9DeY95q5rSBCD0MumXMROZWib6gEG5Ve1-eMYGM0PYivo-zEhHPE9NFRzYFVf1Tt9S8nh4IA"
+      },
+      {
+        "title": "Haas retains Oliver Bearman for 2027 F1 season after contract standoff",
+        "url": "https://apnews.com/article/haas-retains-oliver-bearman-2027-f1-season-contract-standoff"
+      },
+      {
+        "title": "Haas finally announces Bearman for F1 2027",
+        "url": "https://www.autosport.com/f1/news/haas-finally-announces-bearman-for-f1-2027/10676458/"
+      },
+      {
+        "title": "formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE"
+      },
+      {
+        "title": "kvue.com",
+        "url": "https://www.kvue.com/article/syndication/associatedpress/haas-retains-oliver-bearman-for-2027-f1-season-after-contract-standoff/616-83732074-88ea-44da-823c-e5dacde6f486"
+      },
+      {
+        "title": "motorsport.com",
+        "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/"
+      },
+      {
+        "title": "grandepremio.com",
+        "url": "https://grandepremio.com/en/f1/f1-2027-grid-complete-all-22-drivers-and-11-teams-confirmed-after-haas-bearman-deal/"
+      },
+      {
+        "title": "autosport.com",
+        "url": "https://www.autosport.com/f1/news/haas-announce-bearman-f1-2027/10877815/"
+      },
+      {
+        "title": "ground.news",
+        "url": "https://ground.news/article/oliver-bearman-haas-retain-british-driver-for-2027-season"
+      },
+      {
+        "title": "grandepremio.com",
+        "url": "https://grandepremio.com/en/f1/haas-finally-confirms-bearman-for-2027-alongside-camara-after-months-of-f1-uncertainty/"
+      },
+      {
+        "title": "formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv"
+      },
+      {
+        "title": "formula1.com",
+        "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX"
+      },
+      {
+        "title": "Sky Sports: Oliver Bearman to remain with Haas for 2027 F1 season after new contract finally agreed ahead of Qatar GP",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbl9HaGZyQU1JeG9ydml6T2pGc25NT1B3ZjYwUzlBQlhfNjhYVXFsZS12dHVXM2dsVVZjVkh4dDAwRGdRNEt6bl9BeVZoTGl6T2JOLXNlWFhkTW5wM0FTNnZzVDlxM1dSZFA1MzBuZnktRkR1cjVvSTlDNG0wSDlwYVhRYkZOTUxvWWRvZG9BWmduSlUxYUJjSHFNVThjNVdvOUJ5QjNPVC1qSHlkdEQtM0VNUHNOdkdDYUprYVFPaXdkYS1RTnJmNnpiU1l2NEJWbGppMkVrYUhTOFJyM3BVTU1n?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: Ollie Bearman Finally Signs New Haas Deal for 2027 After Months of Contract Delays",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDRZRUc5QUJnRlpreXJ4LXBDY2pZTlhUNDVIRFpnUmxLWTBjR0dGY05GaEw0TGhVX3FtWFB1dEpRQzBPbkEwNFpZNzBjRWFDY1poM3VfeENCYTU5TVBEQkNXSnNET3o2RXhEYUZrWFJSSWJEQTd6dEtpUTg2Sk5SQjI3d0hNUldDVVRRaQ?oc=5"
+      },
+      {
+        "title": "The Killeen Daily Herald: Haas retains Oliver Bearman for 2027 F1 season after contract standoff",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlpxczk1cng5eEZKeFhJRDBGREttZzRpb2NMRFhCU3VSaFgydmZlb194ZnBEcjB0NXhOQ3o3bTh6MDdxOFlSbFFKTFRyTXE0MjIwak9CMjV0dGtBT0hjZkRJRTdtak9HeERuczFOSFhLZnhEcEV6N1o4b3RxU1kzM01iTmF3UFE4MVdtaWw1TEtJcHBBY3l3SWpzRlItTDFFbHBIMGFKTmJrRXdoVDV3NlQzV3JXcHZEdzVseEl4RW1HbGVqMmJwME9pb0FDQU92cHJobmIxYzFPQm9xQW45ZS03eDlucUJMOG1HVnVLcEttWm44N0xkSQ?oc=5"
+      },
+      {
+        "title": "WV News: Haas retains Oliver Bearman for 2027 F1 season after contract standoff",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdjQ3djNzTGNBaGFjV3c1YXFLbS1Xd2NIcU1hNXRkd3RjYjY3aFp1TWZqeVZaaWFwZEd3RHdWYlVCQVNZTHowdkFBeWx2MFJqR0lBWWpvTGI3cnZSUUNEQ1lVSmx4QmYxY1hHZXRyanZCdDdKQ0FQRlUwaExoUThUTWw4X2xkNGZORnNEN0xaNHJWUTZVMjNPek51alpNdG01WWp2M3ZZVzBTQ3BKNHA5SF91WUpIa3JxMlhEV3BWUGd4N0kwRXA3Zjc5by1pY2g4UHFBajBSbTJSTGFXZktBTmduRnZwSnpDSHc?oc=5"
+      },
+      {
+        "title": "AutoRacing1.com: Formula 1 News: Haas finally signs Bearman for 2027",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0FrUXU0T2tNa1Y2LUUtY3lzRVhZXzljSTlueEllTFl2Nk5XRHo4cHBOSDd2UFJyNjdodU9ROVhzcXM0UnN1WHdRb1ZvT0w0dHJIUElkT1JnUFB3U2RzZktORml0d2YtQnd5dHBGYVQzMzRHN3Q4eE53N0dLMkV1Yjc2dnFMWFVnbllrdjRhWTcyVms?oc=5"
+      },
+      {
+        "title": "BBC Sport: Bearman to continue with Haas in 2027",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Crash.net: Ollie Bearman finally confirmed at Haas for F1 2027 after contract saga",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWtzNzdLZF9VMkw3aHA1b19HWEE5RDcwclluOHE1ektTaVltcHZiU0RqdXNLaDdQT1Uxa1ZBWHhWRzR0Q21KdkZiMTREMmhuOUhSU3dOU3ppMmZOUGpnbndINlFzWjBGLUlyQWRMb240bDFuSHpXTHhsMFlIT0VNVUVobFgweTlhQ0NZYWxZdl9HRlNBNVc1MlcwaDJaRERpb1hLejdITQ?oc=5"
+      },
+      {
+        "title": "www.news.gp: Oliver Bearman to stay with Haas for 2027 F1 season",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbl9DNXR5dTdYQlUtY240d3B1bGpxcTRkcW1ueWQ5SmltNnVQOUU1LVRfczhVNVpnb1JrTFJ5a0RrRzkwdGhSYjlybWNfNE5VTHZuYWtTdTlQVkltVTNVSEJKc3JIMXNGOFNLcllXOTB1VEU2YUZFdmE1OVZfQUU?oc=5"
+      },
+      {
+        "title": "Autosport: Haas finally announces Bearman for F1 2027",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VM3dVVFpEcGhXYjc4ZlBmOHptZjhfSXRTWDJyV1lVVjhBT21FbTN4QnQ5dVJPdWtTemhWc2NrTVZHSVJTZEtpV3hPWnpSMlNLb0NyeEJmdkptcFpRQmpucUcwWVVMLWNxRlFsMFpjVmpDRlRheTBnckNuY0R0UQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Oliver Bearman Signs Haas Contract Extension for 2027 Season",
+      "seo_title": "Oliver Bearman signs Haas F1 contract extension for 2027",
+      "subheadline": "The 21-year-old Briton completes the 22-car Formula 1 grid ahead of the Qatar Grand Prix after weeks of contract delays.",
+      "body_markdown": "Oliver Bearman will remain with Haas for the 2027 Formula 1 season after signing a contract extension ahead of the Qatar Grand Prix at the Lusail International Circuit on Thursday, November 26, 2026. The agreement fills the 22nd and final vacant seat on the 2027 grid across Formula 1's 11 constructors, pairing the 21-year-old British racer with Brazilian rookie Rafael Câmara.\n\nThe confirmation resolved weeks of paddock debate, coming four days after Bearman admitted at the Las Vegas Grand Prix that he was \"quite disappointed\" to reach round 20 of the 2026 championship without signed paperwork. Bearman has served as Haas' primary points scorer this season, collecting 23 of the American outfit's 31 championship points to help the team hold seventh place in the Constructors' Championship ahead of Audi.\n\n## Outperforming expectations and anchoring Haas\n\nBearman secured his full-time Haas seat for the 2025 campaign after making three substitute Grand Prix appearances in 2024. He debuted at age 18 for Ferrari at the 2024 Saudi Arabian Grand Prix as an emergency replacement for Carlos Sainz, followed by two relief drives for Haas in Baku and São Paulo. During his first full season in 2025, Bearman finished fourth at the Mexico City Grand Prix, matching the best race result in Haas team history.\n\nAcross 48 career Formula 1 starts leading into the Qatar weekend, Bearman has recorded 71 points. Following an intra-team shakeup that saw Haas part ways with Esteban Ocon earlier in 2026, the British driver emerged as the team's operational leader.\n\n\"Continuing with Ollie into 2027 was a natural decision for us,\" Haas team principal Ayao Komatsu said in Thursday's announcement. \"We've seen his growth, his commitment, and the quality he brings to the team, both on and off the track. He has a tremendous work ethic and a strong desire to develop both himself and the team, and there is no better person, in my opinion, to lead this team forward.\"\n\n## The Ferrari link and the 2027 grid\n\nBearman's contract required alignment between Haas and Ferrari, whose Driver Academy the Briton joined in 2021. Ferrari supplies Haas with power units and technical support, and incoming teammate Câmara also emerged from the Scuderia's junior pipeline. With Charles Leclerc under a long-term agreement and Lewis Hamilton contracted through 2027 at Maranello, the Haas extension gives Bearman stability while maintaining his link to Ferrari's future plans.\n\n\"This team has played an integral role in my development, and I've felt a huge amount of belief and support from everyone here,\" Bearman said. \"We've got big ambitions to keep pushing forward, and I'm excited to lead that work, building on what we've achieved, and striving for even more together – we have unfinished business.\"\n\nHaas' confirmation concludes all driver market movements for 2027, locking in all 22 race seats before the final two rounds of 2026 in Qatar and Abu Dhabi.",
+      "social_post": "23 of Haas' 31 championship points in 2026 belong to Oliver Bearman, and the 21-year-old Briton has now secured his seat for 2027. Haas announced the extension on Thursday in Lusail ahead of the Qatar Grand Prix, pairing Bearman with Brazilian rookie Rafael Câmara. The deal officially completes the 22-driver Formula 1 grid across all 11 teams. Can Bearman turn Haas into regular podium contenders next season? Share your thoughts below! #F1 #HaasF1 #OliverBearman #QatarGP"
+    },
+    "zh": {
+      "headline": "尘埃落定！贝尔曼与哈斯续约至2027赛季，2027年F1车手席位全部出炉",
+      "seo_title": "贝尔曼与哈斯续约至2027赛季：锁定F1最后席位",
+      "subheadline": "历经数周合同波折，这位21岁的英国小将赶在卡塔尔大奖赛前完成续约，补全了2027赛季全场22个参赛席位。",
+      "body_markdown": "2026年11月26日星期四，就在卡塔尔大奖赛打响前夕，奥利弗·贝尔曼在卢赛尔国际赛道正式与哈斯车队签下续约合同，将继续留队征战2027赛季的一级方程式锦标赛。随着这份协议达成，2027年F1全部11支车队的第22个、也是最后一个正赛席位尘埃落定，这位21岁的英国车手将在新赛季与巴西新秀拉斐尔·卡马拉（Rafael Câmara）搭档出战。\n\n这一官宣为围场内持续数周的猜测画上了句号。就在四天前的拉斯维加斯大奖赛上，贝尔曼还曾坦言，在2026赛季已经战至第20轮时合同仍未落实，自己感到「相当失望」。本赛季迄今，贝尔曼一直是哈斯车队的绝对拿分主力：在车队收获的31个积分中，有23分出自他手，有力帮助这支美国车队在车队积分榜上力压奥迪稳居第七位。\n\n## 表现远超预期，坐稳哈斯领军席位\n\n贝尔曼在2024赛季作为替补车手出战过三场大奖赛，随后便锁定了哈斯车队2025赛季的正赛席位。2024年的沙特阿拉伯大奖赛上，年仅18岁的他在卡洛斯·塞恩斯突发伤病时临危受命，代表法拉利车队迎来F1首秀；此后他又两次代表哈斯在巴库和圣保罗披挂上阵。到了2025他的首个完整赛季，贝尔曼在墨西哥城大奖赛上一举斩获第四名，追平了哈斯车队队史的最佳单场战绩。\n\n在进入卡塔尔大奖赛周末前，贝尔曼职业生涯已起步48场，累计斩获71个积分。2026赛季早些时候，哈斯车队与埃斯特班·奥康分道扬镳，这位英国年轻小将顺理成章地挑起大梁，成为车队在赛场内外的核心领袖。\n\n「让奥利留队征战2027赛季对我们来说是水到渠成的决定，」哈斯车队领队小松礼雄在周四的官方声明中表示，「我们看到了他的飞速成长、全情投入，以及他在赛道内外为车队带来的非凡价值。他拥有极强的职业素养，时刻渴望让自己与车队变得更好。在我看来，他是带领车队继续向前的最佳人选。」\n\n## 法拉利纽带与2027赛季车手版图\n\n贝尔曼的续约还需要哈斯与法拉利之间达成一致——早在2021年，这位英国车手便加入了法拉利车手学院。法拉利不仅为哈斯提供动力单元和技术支持，新赛季即将加盟的队友卡马拉同样出自跃马的青训体系。目前，夏尔·勒克莱尔手握法拉利的长期合约，而刘易斯·汉密尔顿在马拉内罗的合同也将持续至2027年底；因此，哈斯给出的这份续约为贝尔曼提供了稳定的比赛环境，同时也维系了他在法拉利未来长远规划中的位置。\n\n「这支车队在我的成长过程中扮演了至关重要的角色，我真切感受到了这里每个人对我的信任与支持，」贝尔曼说道，「我们怀揣着继续向前冲的远大抱负。我非常兴奋能扛起重任，在现有的成绩基础上更进一步，共同去争取更多突破——我们还有未竟的目标。」\n\n哈斯此番官宣意味着2027年车手转会市场正式收官。在2026赛季最后两站卡塔尔与阿布扎比鸣枪开跑之前，全场22张正赛席位已悉数尘埃落定。",
+      "social_post": "在哈斯车队2026年斩获的31个积分中，有23分属于奥利弗·贝尔曼！这位21岁的英国超新星周四在卢赛尔正式锁定2027席位，将与巴西新秀卡马拉搭档。至此，2027赛季11支车队的22个席位全部确定！你觉得贝尔曼下赛季能带领哈斯冲击领奖台吗？来评论区聊聊！#F1 #哈斯车队 #贝尔曼 #卡塔尔大奖赛"
+    },
+    "ru": {
+      "headline": "Оливер Берман продлил контракт с «Хаасом» на сезон-2027",
+      "seo_title": "Оливер Берман продлил контракт с «Хаасом» на сезон-2027 в Ф-1",
+      "subheadline": "21-летний британец закрыл последнюю вакансию на стартовой решетке Формулы-1 перед Гран-при Катара после затянувшихся переговоров.",
+      "body_markdown": "Оливер Берман останется боевым пилотом «Хааса» в чемпионате Формулы-1 2027 года. О подписании нового контракта накануне Гран-при Катара на международном автодроме Лусаил команда объявила в четверг, 26 ноября 2026 года. Сделка заполнила 22-е, последнее вакантное место на стартовой решетке 2027 года среди 11 команд-конструкторов: напарником 21-летнего британца станет бразильский дебютант Рафаэл Камара (Rafael Câmara).\n\nОфициальное подтверждение положило конец многонедельным пересудам в паддоке и последовало всего через четыре дня после откровений самого Бермана. На Гран-при Лас-Вегаса он признался, что «крайне разочарован» подойти к 20-му этапу сезона-2026 без подписанных документов на руках. В этом году Берман — безоговорочный лидер «Хааса» по набранным очкам: он заработал 23 из 31 балла американской конюшни, что позволяет коллективу удерживать седьмую строчку в Кубке конструкторов, опережая «Ауди».\n\n## Выше ожиданий: Берман становится оплотом «Хааса»\n\nПолноценное место в кокпите «Хааса» Берман заслужил на сезон-2025 благодаря трем ярким подменам в 2024 году. В 18-летнем возрасте он экстренно дебютировал в составе «Феррари» на Гран-при Саудовской Аравии 2024 года, заменив выбывшего Карлоса Сайнса, а затем еще дважды выручал «Хаас» в Баку и Сан-Паулу. В свой первый полноценный сезон-2025 Оливер финишировал четвертым на Гран-при Мехико, повторив лучший результат в истории американской команды.\n\nК уик-энду в Катаре за плечами британца накопилось 48 стартов в Формуле-1 и 71 очко. После внутрикомандной перестройки и досрочного расставания «Хааса» с Эстебаном Оконом ранее в 2026 году именно британский гонщик взял на себя роль безоговорочного лидера на трассе и за ее пределами.\n\n«Продолжение сотрудничества с Олли на 2027 год было для нас абсолютно естественным решением, — отметил руководитель команды Аяо Комацу в официальном заявлении в четверг. — Мы видим его профессиональный рост, самоотдачу и тот огромный вклад, который он вносит в коллектив как на трассе, так и вне ее. Он обладает колоссальной трудовой этикой и искренним желанием развиваться вместе с нами. На мой взгляд, лучшего человека, чтобы вести команду вперед, просто не найти».\n\n## Связь с Маранелло и финальный расклад на 2027 год\n\nСделка Бермана требовала согласования с «Феррари», в чью Академию гонщиков британец пришел еще в 2021 году. Скудерия поставляет «Хаасу» силовые установки и оказывает техническую поддержку, а его будущий партнер по команде Камара — также выходец из молодежной программы итальянцев. С учетом долгосрочного контракта Шарля Леклера и соглашения Льюиса Хэмилтона, рассчитанного до конца 2027 года, новый контракт с «Хаасом» гарантирует Берману стабильность в чемпионате, сохраняя при этом его статус в будущих планах команды из Маранелло.\n\n«Эта команда сыграла ключевую роль в моем становлении, и я чувствую колоссальное доверие и поддержку каждого здесь, — подчеркнул Берман. — У нас серьезные амбиции двигаться дальше, и мне не терпится возглавить эту работу, развивать уже достигнутое и вместе добиваться большего — у нас здесь остались незаконченные дела».\n\nРешение «Хааса» окончательно закрыло рынок пилотов на сезон-2027: все 22 места официально распределены еще до финальных этапов 2026 года в Катаре и Абу-Даби.",
+      "social_post": "23 очка из 31 в активе «Хааса» в 2026 году принес Оливер Берман — и теперь 21-летний британец остается на сезон-2027! В Катаре американская команда официально объявила о контракте: напарником Олли станет бразилец Рафаэл Камара. Этим трансфером закрыты все 22 места на решетке из 11 команд. Сможет ли Берман превратить «Хаас» в претендентов на подиумы? Пишите в комментариях! #F1 #HaasF1 #ОливерБерман #ГранПриКатара"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/1280px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg",
+        "artist": "Liauzh",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "2025 Japan GP - Haas - Oliver Bearman - Thursday Pitlane walk",
+        "width": 1200,
+        "height": 1864,
+        "year": 2025,
+        "subject": "Oliver Bearman",
+        "asked": "Oliver Bearman",
+        "page_title": "Oliver Bearman",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2025_japan_gp_-_haas_-_oliver_bearman_-_thursday_(cropped).jpg|Oliver Bearman",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Oliver Bearman in Haas team kit signing autographs",
+          "reason": "The image clearly shows Formula 1 driver Oliver Bearman wearing Haas team apparel and interacting with fans.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rafael_C%C3%A2mara_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Rafael_C%C3%A2mara_in_2022.jpg",
+        "artist": "KVYTICAL",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Rafael Câmara at Round 3 of the 2022 Italian F4 Championship at the Circuit de Spa-Francorchamps",
+        "width": 1200,
+        "height": 1355,
+        "year": 2022,
+        "subject": "Rafael Câmara",
+        "asked": "Rafael Câmara",
+        "page_title": "Rafael Câmara",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:rafael_c%c3%a2mara_in_2022.jpg|Rafael Câmara",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of racing driver Rafael Câmara near a track sign",
+          "reason": "The image plausibly shows Brazilian racing driver Rafael Câmara in motorsport team wear at a racing circuit.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": []
+  },
+  {
     "id": "2026-11-26-hist-9bf47d",
     "slug": "on-this-day-in-1917-how-an-owner-feud-birthed-the-national-h",
     "date": "2026-11-26",
