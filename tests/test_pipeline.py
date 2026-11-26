@@ -1416,3 +1416,21 @@ def test_facebook_cancel_deletes_only_scheduled_and_never_reposts(monkeypatch):
     # a cancelled Reel does not count for spacing and is never posted again by the robot
     monkeypatch.setattr(publishers, "facebook_post", lambda *k, **kw: (_ for _ in ()).throw(AssertionError("posted")))
     assert publishers.facebook_send(cfg, [a], a, post=True, reel=True) == []
+
+
+def test_facebook_requeue_reorders_scheduled_items(monkeypatch):
+    from datetime import datetime, timedelta, timezone
+    from sportnews import publishers
+    deleted, sent = [], []
+    monkeypatch.setattr(publishers, "fb_page_token", lambda: ("page", "tok"))
+    monkeypatch.setattr(publishers.urllib.request, "urlopen", lambda req, timeout=30: deleted.append(req.full_url))
+    monkeypatch.setattr(publishers, "facebook_send", lambda cfg, arts, a, post, reel: sent.append(a["id"]) or ["ok"])
+    soon = (datetime.now(timezone.utc) + timedelta(hours=2)).isoformat()
+    past = (datetime.now(timezone.utc) - timedelta(hours=2)).isoformat()
+    arts = [{"id": "s", "status": "published", "published_to": [{"channel": "facebook", "id": "S1", "scheduled_for": soon}]},
+            {"id": "n", "status": "published", "published_to": [{"channel": "facebook", "id": "N0", "scheduled_for": past},
+                                                                 {"channel": "facebook-reel", "id": "N1", "scheduled_for": soon}]}]
+    publishers.facebook_requeue({"publish": {}}, arts, ["n", "s"])
+    assert sent == ["n", "s"]                                   # editor's order
+    assert len(deleted) == 2 and not any("/N0?" in u for u in deleted)   # public post kept
+    assert [p["id"] for p in arts[1]["published_to"]] == ["N0"] and arts[0]["published_to"] == []

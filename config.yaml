@@ -131,7 +131,7 @@ publish:
   facebook_reels: true     # also a 12-second Reel made from our own graphics (reels.py); the MP4 is kept 14 days in
                            # output/reels/ for TikTok / Instagram / YouTube Shorts by hand
   facebook_gap_minutes: 150 # 26 Nov 2026, editor: Page posts and Reels 2-3 h apart (was 90 min); a batch is scheduled, not posted at once
-  facebook_quiet_hours: [0, 6]  # Phnom Penh time: nothing goes out 00:00-06:00; queued items wait until 06:30
+  facebook_quiet_hours: [5, 6]  # 26 Nov 2026, editor: posts allowed 00:00-05:00 too; nothing 05:00-06:00, waits until 06:30 (was [0, 6])
   reel_sound: true         # 25 Nov 2026 editor approved: own sound (sound.py), mood by story: news / combat / story
   email_digest: true
   markdown: true

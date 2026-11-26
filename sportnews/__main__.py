@@ -34,7 +34,7 @@ def main(argv=None):
     sub.add_parser("publish-anyway").add_argument("ids", nargs="+")
     fb = sub.add_parser("facebook", help="check the Facebook Page token; optionally post published stories")
     fb.add_argument("ids", nargs="*", help="published story IDs to post to the Facebook Page")
-    fb.add_argument("--mode", choices=["post+reel", "post", "reel", "redo-reel", "rescrape", "redo-post", "cancel"], default="post+reel",
+    fb.add_argument("--mode", choices=["post+reel", "post", "reel", "redo-reel", "rescrape", "redo-post", "cancel", "requeue"], default="post+reel",
                     help="what to post for those stories (reel = only the Reel, e.g. when the post was made by hand)")
     pc = sub.add_parser("photocheck", help="check photos (right person/place) and write data/photo-review.md")
     pc.add_argument("ids", nargs="*", help="story IDs, or 'recent' (default: drafts + last 3 days) or 'drafts'")
@@ -157,6 +157,14 @@ def main(argv=None):
                     if x["id"] in ids:
                         print(x["id"] + ": " + facebook_redo_post(cfg, x))
                 save_articles(arts)
+                return
+            if a.mode == "requeue":
+                from .publishers import facebook_requeue
+                try:
+                    for line in facebook_requeue(cfg, arts, ids):
+                        print(line)
+                finally:
+                    save_articles(arts)
                 return
             if a.mode == "cancel":
                 from .publishers import facebook_cancel

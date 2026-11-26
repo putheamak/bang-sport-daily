@@ -13,8 +13,9 @@ stop and ask the editor.** When in doubt, do not publish.
    (unless the editor has turned on automatic posting for that platform). Facebook Page posts and Reels: ON since
    25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
    Facebook items (Page posts and Reels alike) are spaced 2.5 hours apart (editor, 26 Nov 2026: 2–3 hours, was
-   90 min) and never 00:00–06:00 Phnom Penh time (`facebook_gap_minutes`, `facebook_quiet_hours`): a batch is
-   *scheduled* on the Page, not posted at once. Don't bypass the spacing.
+   90 min) and never 05:00–06:00 Phnom Penh time (editor, 26 Nov 2026: night posts 00:00–05:00 allowed, was
+   00:00–06:00 quiet) (`facebook_gap_minutes`, `facebook_quiet_hours`): a batch is *scheduled* on the Page, not
+   posted at once. Don't bypass the spacing. The editor can re-order the queue with `facebook.yml` mode `requeue`.
    Facebook itself sometimes notifies the editor with a "Create event" form built from one of our posts (its own
    suggestion, with a made-up date). Nothing is created until someone clicks "Create event". Tell the editor to
    close it, and never create Facebook events from stories. Events only for real dated happenings (a watch

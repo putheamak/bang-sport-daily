@@ -283,6 +283,36 @@ def facebook_cancel(cfg: dict, a: dict) -> str:
     return "; ".join(out) or "nothing recorded"
 
 
+def facebook_requeue(cfg: dict, articles: list[dict], ids: list[str]) -> list[str]:
+    """Editor re-orders the Facebook queue: delete these stories' items that are still SCHEDULED (public ones are
+    left alone), then schedule them again in the order of `ids`, with the normal spacing and quiet hours."""
+    from datetime import datetime, timedelta, timezone
+    by_id = {a["id"]: a for a in articles}
+    out = []
+    for i in ids:
+        a = by_id.get(i)
+        if not a:
+            out.append(f"{i}: not found")
+            continue
+        for rec in [p for p in a.get("published_to") or [] if p.get("channel") in ("facebook", "facebook-reel")]:
+            when = rec.get("scheduled_for")
+            if not when or datetime.fromisoformat(when) <= datetime.now(timezone.utc) + timedelta(minutes=12):
+                continue                                     # already public (or about to be): keep it
+            page, token = fb_page_token()
+            req = urllib.request.Request(f"https://graph.facebook.com/{FB_API}/{rec['id']}?access_token="
+                                         f"{urllib.parse.quote(token)}", method="DELETE")
+            try:
+                urllib.request.urlopen(req, timeout=30)
+            except urllib.error.HTTPError as e:
+                raise RuntimeError(f"{i}: {rec['channel']} not deleted, Facebook says: " + e.read().decode()[:300]) from e
+            a["published_to"].remove(rec)
+            out.append(f"{i}: {rec['channel']} {when[:16]} removed from the queue")
+    for i in ids:
+        if i in by_id and by_id[i].get("status") == "published":
+            out += [f"{i}: {x}" for x in facebook_send(cfg, articles, by_id[i], post=True, reel=True)]
+    return out
+
+
 def facebook_publish(cfg: dict, articles: list[dict], post: bool = True, reel: bool = True,
                      everything: list[dict] | None = None) -> list[str]:
     """Post already-published stories to the Facebook Page (post and/or Reel; never twice; spaced out)."""
