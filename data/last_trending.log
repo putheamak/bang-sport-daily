@@ -1,86 +1,79 @@
-2026-11-25 22:46:43,692 INFO BBC Sport                         37 items
-2026-11-25 22:46:44,109 INFO The Guardian Sport                26 items
-2026-11-25 22:46:44,157 INFO ESPN                               0 items
-2026-11-25 22:46:44,291 INFO Sky Sports                        19 items
-2026-11-25 22:46:44,738 INFO Google News – Sports (EN)         57 items
-2026-11-25 22:46:45,337 INFO Google News – 体育 (ZH)             44 items
-2026-11-25 22:46:46,111 INFO Google News – Спорт (RU)          53 items
-2026-11-25 22:46:48,808 INFO Championat                        30 items
-2026-11-25 22:46:49,849 INFO Sports.ru                         19 items
-2026-11-25 22:46:51,655 INFO Спорт-Экспресс                   519 items
-2026-11-25 22:46:53,691 INFO РИА Новости Спорт                 20 items
-2026-11-25 22:46:54,623 INFO 中国新闻网 体育                          13 items
-2026-11-25 22:46:55,090 INFO Google News – Cambodia sport      12 items
-2026-11-25 22:46:55,695 INFO Google News – Southeast Asia sport  45 items
-2026-11-25 22:46:56,281 INFO Google News – Combat promotions   96 items
-2026-11-25 22:46:56,649 INFO Google News – Boxing              29 items
-2026-11-25 22:46:56,899 INFO Google News – Kun Khmer            2 items
-2026-11-25 22:46:57,156 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-25 22:46:57,801 INFO Google News – Единоборства (RU)   97 items
-2026-11-25 22:46:58,260 INFO Google News – 格斗 (ZH)             39 items
-2026-11-25 22:46:58,545 INFO MMA Fighting                       9 items
-2026-11-25 22:46:58,808 INFO Google News – Khmer Times sport    7 items
-2026-11-25 22:46:59,094 INFO BBC Sport – Tennis                 3 items
-2026-11-25 22:46:59,441 INFO BBC Sport – Formula 1              1 items
-2026-11-25 22:46:59,681 INFO BBC Sport – Cricket                9 items
-2026-11-25 22:47:00,288 INFO BBC Sport – Boxing                 3 items
-2026-11-25 22:47:00,548 INFO BBC Sport – Athletics              0 items
-2026-11-25 22:47:00,753 INFO The Guardian – Tennis              1 items
-2026-11-25 22:47:01,197 INFO The Guardian – Formula 1           0 items
-2026-11-25 22:47:01,712 INFO The Guardian – Cricket            10 items
-2026-11-25 22:47:01,863 INFO Sherdog                           10 items
-2026-11-25 22:47:01,922 INFO Sky Sports – Football             20 items
-2026-11-25 22:47:03,323 INFO Чемпионат – Теннис                31 items
-2026-11-25 22:47:04,428 INFO Чемпионат – Хоккей                28 items
-2026-11-25 22:47:04,525 INFO MMA Fighting – latest              9 items
-2026-11-25 22:47:04,641 INFO BBC Sport – Football              37 items
-2026-11-25 22:47:04,787 INFO The Guardian – Football           22 items
-2026-11-25 22:47:05,526 INFO Yahoo Sports – Soccer             50 items
-2026-11-25 22:47:06,204 INFO Yahoo Sports – MMA                48 items
-2026-11-25 22:47:06,915 INFO Yahoo Sports – Tennis             48 items
-2026-11-25 22:47:07,407 INFO Yahoo Sports – NBA                46 items
-2026-11-25 22:47:07,763 INFO The Independent – Sport           44 items
-2026-11-25 22:47:08,335 INFO Google News – Tennis              93 items
-2026-11-25 22:47:08,909 INFO Google News – Basketball          89 items
-2026-11-25 22:47:09,544 INFO Google News – Motorsport          99 items
-2026-11-25 22:47:10,142 INFO Google News – Badminton, athletics, table tennis  74 items
-2026-11-25 22:47:10,720 INFO Google News – Cricket             98 items
-2026-11-25 22:47:11,289 INFO Google News – 网球与篮球 (ZH)          89 items
-2026-11-25 22:47:11,838 INFO Google News – 羽毛球与乒乓 (ZH)         73 items
-2026-11-25 22:47:12,453 INFO Google News – Теннис и баскетбол (RU)  99 items
-2026-11-25 22:47:13,135 INFO Google News – Формула-1 и биатлон (RU)  99 items
-2026-11-25 22:47:16,452 INFO Candidate stories after clustering: 1959
-2026-11-25 22:47:21,011 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
-2026-11-25 22:47:21,013 INFO Trending skipped (not our audience): Padukone School of Badminton partners with iUSTUS to launch multi-sport academy
-2026-11-25 22:47:21,013 INFO Trending skipped (politics): Дегтярев: Те, кто считал лимит «хотелкой» министра, теперь все поняли
-2026-11-25 22:47:21,014 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
-2026-11-25 22:47:21,016 INFO Trending skipped (clickbait): «Чувствовал невероятную энергетику». Музетти — о победе в матче 1/4 финала Кубка Дэвиса
-2026-11-25 22:47:21,018 INFO Trending skipped (politics): Журова - об обвинениях Свитолиной: "Странное поведение украинки, Андреева не делала никаки
-2026-11-25 22:47:21,018 INFO Trending skipped (not our audience): NBA Fantasy: Week 6 risers in category leagues
-2026-11-25 22:47:21,019 INFO Trending skipped (not our audience): ‘You See What Happened to Me Last Year?’ ‘It’s Tough’ – NBA Icon Chris Paul Relates to Aar
-2026-11-25 22:47:21,021 INFO Trending skipped (clickbait): Масалитин о матче ЦСКА — «Зенит»: «Хочется, чтобы после игры говорили о футболе, а не о ск
-2026-11-25 22:47:21,025 INFO Trending skipped (not our audience): Saracens High School badminton club enters Barnet league after year of growth
-2026-11-25 22:47:21,027 INFO Trending skipped (not our audience): The Brock Purdy skeptics are finally starting to believe in the 49ers QB
-2026-11-25 22:47:22,702 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
-2026-11-25 22:47:22,704 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
-2026-11-25 22:47:22,705 INFO Trending skipped (clickbait): «Чувствовал невероятную энергетику». Музетти — о победе в матче 1/4 финала Кубка Дэвиса
-2026-11-25 22:47:22,707 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
-2026-11-25 22:47:23,012 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
-2026-11-25 22:47:23,014 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
-2026-11-25 22:47:23,016 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
-2026-11-25 22:47:23,311 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
-2026-11-25 22:47:23,313 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
-2026-11-25 22:47:23,315 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
-2026-11-25 22:47:24,532 INFO Trending skipped (clickbait): «Чувствовал невероятную энергетику». Музетти — о победе в матче 1/4 финала Кубка Дэвиса
-2026-11-25 22:47:25,747 INFO Trending skipped (clickbait): «Чувствовал невероятную энергетику». Музетти — о победе в матче 1/4 финала Кубка Дэвиса
-2026-11-25 22:47:25,751 INFO Talking points: 5 stories (not sent now: due=True quiet=True)
-2026-11-25 22:47:25,751 INFO   1. [en 21 outlets, heat 45.9] Qatar Grand Prix 2026 by James Martin
-2026-11-25 22:47:25,751 INFO   2. [en 13 outlets, heat 30.0] Badminton: New Delhi to host Thomas & Uber Cup Finals 2028
-2026-11-25 22:47:25,751 INFO   3. [en 10 outlets, heat 23.8] Usman Khawaja reveals peace deal text sent to Cricket Australia CEO over sandpapergate
-2026-11-25 22:47:25,751 INFO   4. [ru 10 outlets, heat 20.7] Медведев назвал Бориса Джонсона провокатором за предложение ввести войска НАТО на Украину
-2026-11-25 22:47:25,751 INFO   5. [ru 5 outlets, heat 13.6] "Мне его не хватает": Карлос Алькарас поддержал Янника Синнера после операции
-2026-11-25 22:47:25,751 INFO   C1. [en 6 outlets, heat 16.1] Daniel Dubois to defend heavyweight title against ex-Anthony Joshua rival in Manchester
-2026-11-25 22:47:25,751 INFO   C2. [en 5 outlets, heat 12.5] UFC star Jean Silva hit by car during preparation for Ironman
-2026-11-25 22:47:25,751 INFO   C3. [en 4 outlets, heat 11.6] Eddie Cha, famed coach of UFC champions, dies at 53
-2026-11-25 22:47:25,751 INFO   C4. [en 4 outlets, heat 10.8] Chris Weidman: 'Very dynamic' Shara Magomedov could outpoint Israel Adesanya
-2026-11-25 22:47:25,751 INFO   C5. [en 4 outlets, heat 10.3] Aljamain Sterling Teases Quick UFC Return Following Close Loss
+2026-11-26 01:42:08,297 INFO BBC Sport                         43 items
+2026-11-26 01:42:08,449 INFO The Guardian Sport                25 items
+2026-11-26 01:42:08,493 INFO ESPN                               0 items
+2026-11-26 01:42:08,655 INFO Sky Sports                        20 items
+2026-11-26 01:42:08,915 INFO Google News – Sports (EN)         59 items
+2026-11-26 01:42:09,673 INFO Google News – 体育 (ZH)             47 items
+2026-11-26 01:42:10,525 INFO Google News – Спорт (RU)          45 items
+2026-11-26 01:42:11,528 INFO Championat                        30 items
+2026-11-26 01:42:12,337 INFO Sports.ru                         18 items
+2026-11-26 01:42:13,920 INFO Спорт-Экспресс                   491 items
+2026-11-26 01:42:14,783 INFO РИА Новости Спорт                 20 items
+2026-11-26 01:42:14,841 INFO 中国新闻网 体育                          11 items
+2026-11-26 01:42:15,181 INFO Google News – Cambodia sport      13 items
+2026-11-26 01:42:15,769 INFO Google News – Southeast Asia sport  50 items
+2026-11-26 01:42:16,267 INFO Google News – Combat promotions   96 items
+2026-11-26 01:42:16,608 INFO Google News – Boxing              32 items
+2026-11-26 01:42:16,884 INFO Google News – Kun Khmer            1 items
+2026-11-26 01:42:17,088 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-26 01:42:17,731 INFO Google News – Единоборства (RU)   94 items
+2026-11-26 01:42:18,208 INFO Google News – 格斗 (ZH)             38 items
+2026-11-26 01:42:18,447 INFO MMA Fighting                       9 items
+2026-11-26 01:42:18,721 INFO Google News – Khmer Times sport   10 items
+2026-11-26 01:42:19,061 INFO BBC Sport – Tennis                 3 items
+2026-11-26 01:42:19,189 INFO BBC Sport – Formula 1              1 items
+2026-11-26 01:42:19,456 INFO BBC Sport – Cricket                8 items
+2026-11-26 01:42:19,695 INFO BBC Sport – Boxing                 3 items
+2026-11-26 01:42:19,929 INFO BBC Sport – Athletics              0 items
+2026-11-26 01:42:19,988 INFO The Guardian – Tennis              1 items
+2026-11-26 01:42:20,145 INFO The Guardian – Formula 1           0 items
+2026-11-26 01:42:20,211 INFO The Guardian – Cricket             8 items
+2026-11-26 01:42:20,337 INFO Sherdog                           10 items
+2026-11-26 01:42:20,402 INFO Sky Sports – Football             20 items
+2026-11-26 01:42:21,166 INFO Чемпионат – Теннис                31 items
+2026-11-26 01:42:21,942 INFO Чемпионат – Хоккей                27 items
+2026-11-26 01:42:22,013 INFO MMA Fighting – latest              9 items
+2026-11-26 01:42:22,287 INFO BBC Sport – Football              40 items
+2026-11-26 01:42:22,444 INFO The Guardian – Football           23 items
+2026-11-26 01:42:22,903 INFO Yahoo Sports – Soccer             50 items
+2026-11-26 01:42:23,176 INFO Yahoo Sports – MMA                48 items
+2026-11-26 01:42:23,603 INFO Yahoo Sports – Tennis             48 items
+2026-11-26 01:42:24,196 INFO Yahoo Sports – NBA                45 items
+2026-11-26 01:42:24,337 INFO The Independent – Sport           44 items
+2026-11-26 01:42:24,900 INFO Google News – Tennis              98 items
+2026-11-26 01:42:25,420 INFO Google News – Basketball          92 items
+2026-11-26 01:42:25,985 INFO Google News – Motorsport          98 items
+2026-11-26 01:42:26,555 INFO Google News – Badminton, athletics, table tennis  72 items
+2026-11-26 01:42:27,273 INFO Google News – Cricket             91 items
+2026-11-26 01:42:27,792 INFO Google News – 网球与篮球 (ZH)          88 items
+2026-11-26 01:42:28,325 INFO Google News – 羽毛球与乒乓 (ZH)         60 items
+2026-11-26 01:42:28,946 INFO Google News – Теннис и баскетбол (RU)  98 items
+2026-11-26 01:42:29,541 INFO Google News – Формула-1 и биатлон (RU)  97 items
+2026-11-26 01:42:32,417 INFO Candidate stories after clustering: 1898
+2026-11-26 01:42:37,133 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
+2026-11-26 01:42:37,136 INFO Trending skipped (politics): Дегтярев: Те, кто считал лимит «хотелкой» министра, теперь все поняли
+2026-11-26 01:42:37,137 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
+2026-11-26 01:42:37,142 INFO Trending skipped (politics): Журова - об обвинениях Свитолиной: "Странное поведение украинки, Андреева не делала никаки
+2026-11-26 01:42:37,143 INFO Trending skipped (not our audience): NBA Fantasy: Week 6 risers in category leagues
+2026-11-26 01:42:37,151 INFO Trending skipped (not our audience): Saracens High School badminton club enters Barnet league after year of growth
+2026-11-26 01:42:37,152 INFO Trending skipped (not our audience): NFL QB rankings, Week 12: Brock Purdy retakes throne; Jayden Daniels hits season high
+2026-11-26 01:42:38,856 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
+2026-11-26 01:42:38,859 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
+2026-11-26 01:42:38,862 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
+2026-11-26 01:42:39,220 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
+2026-11-26 01:42:39,223 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
+2026-11-26 01:42:39,224 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
+2026-11-26 01:42:39,579 INFO Trending skipped (not our audience): London Broncos’ promotion and 15-team Super League confirmed for 2027 season
+2026-11-26 01:42:39,581 INFO Trending skipped (not our audience): MLB sues players’ association in order to ensure lockout is declared legal
+2026-11-26 01:42:39,583 INFO Trending skipped (not our audience): Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings
+2026-11-26 01:42:43,166 INFO Talking points sent to Telegram (5 stories)
+2026-11-26 01:42:43,166 INFO   1. [en 19 outlets, heat 41.5] Qatar Grand Prix 2026 by James Martin
+2026-11-26 01:42:43,166 INFO   2. [en 16 outlets, heat 37.9] Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027
+2026-11-26 01:42:43,166 INFO   3. [en 13 outlets, heat 30.9] Italy Survives Korea in Doubles Thriller, Returns to Davis Cup Semifinals
+2026-11-26 01:42:43,166 INFO   4. [ru 7 outlets, heat 17.6] Сборная Италии вышла в полуфинал Кубка Дэвиса
+2026-11-26 01:42:43,166 INFO   5. [ru 5 outlets, heat 12.7] "Рубин" обыграл "Родину" в матче шестого тура группового этапа пути РПЛ
+2026-11-26 01:42:43,166 INFO   C1. [en 7 outlets, heat 19.3] Daniel Dubois to defend heavyweight title against ex-Anthony Joshua rival in Manchester
+2026-11-26 01:42:43,166 INFO   C2. [en 5 outlets, heat 13.2] Charges dismissed against Anthony Smith after July arrest; Smith releases statement
+2026-11-26 01:42:43,166 INFO   C3. [en 5 outlets, heat 12.8] Dan Hooker sounds off on Israel Adesanya, Carlos Ulberg and City Kickboxing drama: 'Days of our f***
+2026-11-26 01:42:43,166 INFO   C4. [en 5 outlets, heat 12.2] UFC star Jean Silva hit by car during preparation for Ironman
+2026-11-26 01:42:43,166 INFO   C5. [en 4 outlets, heat 11.0] Eddie Cha, famed coach of UFC champions, dies at 53
