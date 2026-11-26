@@ -1434,3 +1434,16 @@ def test_facebook_requeue_reorders_scheduled_items(monkeypatch):
     assert sent == ["n", "s"]                                   # editor's order
     assert len(deleted) == 2 and not any("/N0?" in u for u in deleted)   # public post kept
     assert [p["id"] for p in arts[1]["published_to"]] == ["N0"] and arts[0]["published_to"] == []
+
+
+def test_photo_waiver_turns_picture_rule_into_info(monkeypatch):
+    from sportnews import images, standards
+    a = {"id": "w1", "date": "2026-11-24", "type": "news", "images": [{"url": "https://x/a.jpg", "year": 2025}],
+         "en": {"headline": "H", "subheadline": "S", "body_markdown": "B", "social_post": "P"}, "sources": []}
+    cfg = {"standards": {}}
+    monkeypatch.setattr(images, "load_overrides", lambda: {})
+    pic = [i for i in standards.check_article(cfg, a, "2026-11-26") if "picture(s)" in i["msg"]]
+    assert pic and pic[0]["level"] == "BLOCK"
+    monkeypatch.setattr(images, "load_overrides", lambda: {"w1": {"photo_waiver": "accepted: no free photo"}})
+    pic = [i for i in standards.check_article(cfg, a, "2026-11-26") if "picture(s)" in i["msg"]]
+    assert pic == [{"level": "INFO", "area": "photos", "msg": "1 picture(s), accepted by the editor: accepted: no free photo"}]

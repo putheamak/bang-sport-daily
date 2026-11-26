@@ -308,7 +308,8 @@ def apply_overrides(articles: list[dict], overrides: dict) -> int:
                 a["fight"] = dict(spec["fight"])
                 a["images"] = [i for i in (a.get("images") or []) if not i.get("card")]
                 a.pop("photos_override", None)                  # redraw the card
-        key = json.dumps(spec, sort_keys=True, ensure_ascii=False)
+        key_spec = {k: v for k, v in spec.items() if k != "photo_waiver"} if isinstance(spec, dict) else spec
+        key = json.dumps(key_spec, sort_keys=True, ensure_ascii=False)   # a waiver note alone never re-fetches photos
         if a.get("photos_override") == key:
             continue
         if isinstance(spec, dict) and "photos" not in spec:   # only embeds: keep the photos as they are
@@ -422,6 +423,14 @@ def load_overrides() -> dict:
     if not p.exists():
         return {}
     return yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+
+
+def photo_waiver(article_id: str, overrides: dict | None = None) -> str:
+    """The editor's note in photos.yaml that a story may have fewer than 2 pictures (e.g. "accepted: no free photo",
+    "no picture by editor's choice"). Empty string = no waiver. Editor's rule, 26 Nov 2026."""
+    spec = (load_overrides() if overrides is None else overrides).get(article_id)
+    note = spec.get("photo_waiver") if isinstance(spec, dict) else None
+    return str(note).strip() if note else ""
 
 
 # ---------------------------------------------------------------- our own match card (always legal, always current)

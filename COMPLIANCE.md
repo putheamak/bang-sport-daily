@@ -92,6 +92,12 @@ Quality matters more than quantity.
 - **Photo check before publishing.** Every new draft's photos get free rule checks (wrong Wikipedia page, drawings/old portraits, non-sport scenes) and a Gemini look. 🔴 wrong = ⛔ BLOCK, 🟠 = look by eye. One-minute review: `data/photo-review.md`. Re-run: Actions › Photo check.
 - **Getty Images embeds** (`code:` in `photos.yaml`): free for editorial (news) use inside Getty's own viewer only; Getty may show ads in the viewer, track viewers and remove a photo at any time. Never download, screenshot or crop a Getty photo, and never use it as the cover. Click-to-load like the posts below.
 - **Official Instagram/Facebook posts** (`embeds:` in `photos.yaml`, use the post's "Copy link"): the picture stays on the club's account and is credited to it. It is never the cover photo and is never copied to our site.
+- **Photo waiver (editor's rule, 26 Nov 2026).** The 2-picture minimum stays. When no second free photo exists, or
+  the editor prefers no picture, the editor records it in `photos.yaml` as `photo_waiver: "accepted: no free photo"`
+  (or e.g. "no picture by editor's choice"). The standards check and the weekly audit then list it as ℹ️ INFO with the
+  note instead of ⛔ BLOCK / ⚠️ WARN, so the audit shows only real problems. Only the editor adds a waiver; a WRONG
+  photo is never waived. First waivers: `2026-11-24-news-0390f5`, `2026-11-24-news-95243b`, `2026-11-24-news-98e731`,
+  `2026-11-21-news-14e91f` (accepted: no free photo) and `2026-11-06-news-af8895` (no picture by editor's choice).
 - **Click-to-load until AdSense (editor's decision, 21 Nov 2026).** Embedded posts load only when the reader clicks "Show the post", because Meta sets cookies when a post loads and the privacy policy says the site uses no cookies. **When AdSense goes live:** add a Google-certified consent tool (CMP) for EEA/UK/Switzerland visitors, update the privacy policy (cookies: AdSense + Meta embeds), and only then let embedded posts load automatically for visitors who consent. Until then, keep click-to-load.
 
 ## Talking Points pages (added 24 Nov 2026)

@@ -134,7 +134,12 @@ def check_article(cfg: dict, a: dict, today: str | None = None) -> list[dict]:
                                                  "photos.yaml — see data/photo-review.md"))
         elif c.get("verdict") == "unsure":
             out.append(_issue("WARN", "photos", f"{what}: check it by eye ({detail[:200]}) — data/photo-review.md"))
-    if "images" in a and n_img < r.get("min_pictures", 2):
+    from .images import photo_waiver
+    waiver = photo_waiver(a.get("id", "")) if n_img < r.get("min_pictures", 2) else ""
+    if "images" in a and n_img < r.get("min_pictures", 2) and waiver:
+        # Editor-approved exception in photos.yaml ("photo_waiver"), editor's rule 26 Nov 2026: a note, not a problem.
+        out.append(_issue("INFO", "photos", f"{n_img} picture(s), accepted by the editor: {waiver}"))
+    elif "images" in a and n_img < r.get("min_pictures", 2):
         # A rule from 14 Nov 2026: new stories cannot be published with fewer pictures (older ones only get a warning).
         level = "BLOCK" if str(a.get("date", "")) >= r.get("min_pictures_from", "2026-11-14") else "WARN"
         out.append(_issue(level, "photos", f"Only {n_img} picture(s). Rule: at least {r.get('min_pictures', 2)} relevant "

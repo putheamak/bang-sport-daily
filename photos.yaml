@@ -43,6 +43,11 @@
 #            credit: "Photographer / FIFA via Getty Images"
 #            caption: "What the photo shows"
 #
+#   6) EDITOR'S WAIVER (editor's rule, 26 Nov 2026): when a story may keep fewer than 2 pictures, add a note:
+#        photo_waiver: "accepted: no free photo"            (or e.g. "no picture by editor's choice")
+#      Only the editor decides this. The standards check and the audit then show the note as INFO instead of a
+#      BLOCK/WARN for "Only N picture(s)". A wrong photo is never waived: remove or replace it.
+#
 # mode: replace  = use only these photos (first one is the large top photo)
 # mode: add      = put these first, keep the automatic ones after them
 #
@@ -58,6 +63,7 @@
 #     - commons: "File:Some free photo of Svay Rieng.jpg"
 #       caption: "Svay Rieng supporters"
 2026-11-06-news-af8895:
+  photo_waiver: "no picture by editor's choice"   # editor-approved 26 Nov 2026: fewer than 2 pictures is OK for this story
   mode: replace
   photos: []
 
@@ -200,6 +206,7 @@
 
 # 21 Nov 2026: the "Navajo Stirling" photo was Aljamain Sterling and the "Carlos Ulberg" one showed motorcycle stunts.
 2026-11-21-news-14e91f:
+  photo_waiver: "accepted: no free photo"   # editor-approved 26 Nov 2026: fewer than 2 pictures is OK for this story
   mode: replace
   photos:
     - commons: "File:JiriProchazka2022.png"
@@ -293,6 +300,7 @@
 
 # 24 Nov 2026: wrong cover (drawing of Tran Nhan Tong) removed; stadium + our score card instead.
 2026-11-24-news-98e731:
+  photo_waiver: "accepted: no free photo"   # editor-approved 26 Nov 2026: fewer than 2 pictures is OK for this story
   mode: replace
   photos:
     - wikipedia: "Khalifa International Stadium"
@@ -332,6 +340,7 @@
 
 # 24 Nov 2026 evening drafts
 2026-11-24-news-0390f5:
+  photo_waiver: "accepted: no free photo"   # editor-approved 26 Nov 2026: fewer than 2 pictures is OK for this story
   mode: add
   photos:
     - wikipedia: "Humo Arena"
@@ -344,6 +353,7 @@
     - wikipedia: "Panama City"
       caption: "Panama City, where the World Boxing congress voted"
 2026-11-24-news-95243b:
+  photo_waiver: "accepted: no free photo"   # editor-approved 26 Nov 2026: fewer than 2 pictures is OK for this story
   mode: replace
   photos:
     - wikipedia: "Aspire Academy"

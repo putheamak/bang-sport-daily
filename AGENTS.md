@@ -58,6 +58,10 @@ stop and ask the editor.** When in doubt, do not publish.
 3. Never use Google Images, club or league websites, agency photos, TV screenshots or match footage.
 4. The photo must show the right person or place. If the photo check says WRONG, remove it. Photo changes go in
    `photos.yaml`, never by editing images by hand.
+5. At least 2 relevant pictures per story. Only the editor can waive this, with a `photo_waiver:` note in
+   `photos.yaml` (e.g. "accepted: no free photo", "no picture by editor's choice"); the standards check and the
+   audit then show it as INFO with the note. Never add a waiver on your own, and never waive a WRONG photo
+   (editor, 26 Nov 2026).
 
 ## 5. Ads and monetisation (AdSense and all other programmes)
 
