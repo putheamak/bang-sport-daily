@@ -1,5 +1,603 @@
 [
   {
+    "id": "2026-11-27-athl-9e7b9b",
+    "slug": "from-a-paper-napkin-to-47-trophies-the-life-and-legacy-of-li",
+    "date": "2026-11-27",
+    "created": "2026-11-27T01:42:12+07:00",
+    "type": "athlete_story",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "Lionel Messi",
+      "Barcelona",
+      "Argentina",
+      "Inter Miami",
+      "World Cup"
+    ],
+    "athletes": [
+      "Lionel Messi",
+      "Carles Rexach",
+      "Gerard Piqué",
+      "Cesc Fàbregas"
+    ],
+    "image_subjects": [
+      "Lionel Messi",
+      "FC Barcelona",
+      "Argentina national football team",
+      "Inter Miami CF"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Lionel Messi - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lionel_Messi"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.028,
+      "longest": 15,
+      "phrases": [
+        "a club record 34 trophies including 10 la liga titles and four uefa champions leagues",
+        "cousins maximiliano and emanuel biancucchi both of whom later became professional",
+        "the most decorated player in the history of professional football",
+        "born on 24 june 1987 in rosario santa fe province",
+        "his mother celia cuccittini worked in a magnet manufacturing workshop"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "From a Paper Napkin to 47 Trophies: The Life and Legacy of Lionel Messi",
+      "seo_title": "Lionel Messi Life Story: From Rosario to Global Glory",
+      "subheadline": "Overcoming growth hormone deficiency in Rosario, the Argentine maestro built football's most decorated career across Barcelona, Paris, and Miami.",
+      "body_markdown": "Lionel Andrés Messi stands as the most decorated player in the history of professional football, with 47 senior team trophies across more than 1,200 career appearances. Over a senior career spanning more than two decades, the Argentine forward has scored over 930 goals and delivered more than 420 assists for club and country, earning eight Ballons d'Or, six European Golden Shoes, and eight FIFA world player awards.\n\nBorn on 24 June 1987 in Rosario, Santa Fe Province, Messi grew up in the working-class Las Heras district. His father, Jorge Messi, worked as a department head at an Acindar pressed steel plant in nearby Villa Constitución, while his mother, Celia Cuccittini, worked in a magnet manufacturing workshop. Messi was the third of four children, alongside his older brothers Rodrigo and Matías and his younger sister María Sol. Surrounding them in Rosario were football-playing cousins Maximiliano and Emanuel Biancucchi, both of whom later became professional players.\n\nMessi started kicking a ball at the age of four with local club Abanderado Grandoli, where his father served as coach. His maternal grandmother, Celia, regularly accompanied him to pitches across the neighbourhood and pushed coaches to give the diminutive boy playing time. Her death shortly before his eleventh birthday left an indelible mark on him. As a devout Catholic, Messi has marked virtually every goal of his career by pointing both index fingers toward the sky in her memory.\n\n## The Rosario Crucible and the Barcelona Napkin\n\nAt age seven, Messi joined Newell's Old Boys, the Rosario club he has supported throughout his life. Over six seasons with Newell's, he scored nearly 500 goals as a member of \"The Machine of '87,\" a youth squad named after their birth year that dominated youth circuits across the region. During half-time breaks of Newell's senior matches, Messi regularly juggled the ball on the pitch to entertain home supporters, idolising Brazilian striker Ronaldo and River Plate playmaker Pablo Aimar.\n\nCrisis struck when Messi was 10 years old. Doctors diagnosed him with a growth hormone deficiency, a condition requiring daily subcutaneous injections that cost at least 1,000 Argentine pesos per month. Jorge Messi's workplace health insurance covered only two years of treatment, and Newell's reneged on an agreement to fund the remainder. River Plate offered to sign him after a four-goal trial and pay for his hormone therapy, but Newell's refused to release his registration card.\n\nFaced with mounting medical costs, the family turned to relatives in Catalonia to arrange a trial with FC Barcelona in September 2000, when Messi was 13. Barcelona first-team director Carles Rexach was captivated by his trial matches, but the board hesitated to commit money to a foreign boy so young. On 14 December 2000, an ultimatum from Messi's camp led Rexach to draft a contract on a paper napkin at the Pompeia tennis club, pledging Barcelona's commitment.\n\nIn February 2001, the Messi family moved into an apartment near Camp Nou. The transition proved painful. Transfer paperwork disputes with Newell's restricted Messi to friendlies and Catalan league fixtures during his first year. In the dressing room, he spoke so quietly that teammates initially wondered if he was mute. Homesickness fractured the household; his mother and siblings returned to Rosario, leaving Messi alone in Barcelona with his father.\n\n## La Masia, Trophies, and Heartbreak in Blue and White\n\nBy February 2002, the Royal Spanish Football Federation cleared Messi for full competition. At 14, he completed his growth hormone therapy and took his place in Barcelona's \"Baby Dream Team\" alongside Cesc Fàbregas and Gerard Piqué. During the 2002–03 campaign, he scored 36 goals in 30 games for Cadetes A. In the Copa Catalunya final against Espanyol, played a week after suffering a fractured cheekbone, he discarded a protective plastic mask after several minutes of discomfort and scored two goals inside 10 minutes to seal a 4–1 win.\n\nMessi made his competitive senior debut for Barcelona in October 2004 at 17. Over the next 17 seasons, he accumulated a club-record 34 trophies, including 10 La Liga titles and four UEFA Champions Leagues. He scored 672 goals for Barcelona, establishing an all-time record for a single club. In the 2008–09 season, under Pep Guardiola, he led Barcelona to the first treble in Spanish football history. Six years later, alongside Luis Suárez and Neymar in the \"MSN\" frontline, he captured a historic second European treble in 2014–15.\n\nInternational success arrived at a far slower pace. After capturing Olympic gold at Beijing 2008, Messi assumed the Argentina captaincy in 2011. He carried his country to three consecutive major finals—the 2014 World Cup in Brazil, the 2015 Copa América in Chile, and the 2016 Copa América Centenario in the United States—all of which ended in extra-time or penalty-shootout defeats. Devastated, Messi announced his international retirement in June 2016 before reversing his decision two months later.\n\n## Final Glories from Lusail to South Florida\n\nFinancial mismanagement at Barcelona brought an abrupt end to Messi's stay in Catalonia in August 2021. He moved to Paris Saint-Germain on a free transfer, winning two Ligue 1 titles. Concurrently, his national team fortunes reversed. Messi captained Argentina to the 2021 Copa América title at the Maracanã, their first major trophy in 28 years. At the 2022 World Cup in Qatar, Messi scored seven goals and led Argentina past France in a dramatic final at Lusail Stadium, capturing the trophy that had eluded him.\n\nIn July 2023, Messi signed with Major League Soccer club Inter Miami, transforming the sport's profile across North America. He guided Miami to their first trophy in the 2023 Leagues Cup, consecutive MLS MVP awards, and followed with another continental title at the 2024 Copa América. In October 2026, after 208 caps and 126 goals for Argentina, Messi concluded his international career, cementing a life story defined by resilience, loyalty, and unmatched artistic brilliance.",
+      "social_post": "47 team trophies and over 930 career goals: Lionel Messi's journey from daily hormone injections in Rosario to lifting the World Cup in Qatar redefined modern football. From the famous paper napkin contract at age 13 to his crowning glory with Argentina, what do you consider his single greatest moment on a pitch? Share your thoughts below."
+    },
+    "zh": {
+      "headline": "从一张餐巾纸到47座冠军奖杯：里奥·梅西的传奇人生与不朽丰碑",
+      "seo_title": "梅西传奇生涯：从罗萨里奥到47冠历史第一人",
+      "subheadline": "少年时在罗萨里奥克服生长激素缺乏症，这位阿根廷球王在巴塞罗那、巴黎与迈阿密铸就了足坛历史上最无可比拟的荣耀史诗。",
+      "body_markdown": "在世界职业足球的浩瀚星空里，里奥内尔·安德烈斯·梅西（Lionel Andrés Messi）是无可争议的荣誉之王——职业生涯出场超过1200次，斩获47座成年队冠军奖杯。在这段跨越二十余载的职业长卷中，这位阿根廷巨星为俱乐部和国家队轰入超过930粒进球，送出逾420次助攻，将8座金球奖、6座欧洲金靴奖以及8次世界足球先生殊荣悉数收入囊中。\n\n1987年6月24日，梅西出生于圣菲省罗萨里奥市的工人阶级街区拉斯埃拉斯（Las Heras）。父亲豪尔赫·梅西（Jorge Messi）是附近孔斯蒂图西翁镇（Villa Constitución）阿辛达尔（Acindar）压延钢厂的一名工段主管，母亲塞利亚·库奇蒂尼（Celia Cuccittini）则在一家磁铁制造工坊工作。梅西在家中排行老三，上面有两个哥哥罗德里戈（Rodrigo）和马蒂亚斯（Matías），下面有一个妹妹玛丽亚·索尔（María Sol）。在这个热爱足球的大家庭中，表哥马克西米利亚诺（Maximiliano Biancucchi）和埃马努埃尔·比安库奇（Emanuel Biancucchi）日后也都成为了职业球员。\n\n四岁那年，梅西在当地社区球队阿班德拉多·格兰多利（Abanderado Grandoli）开启了自己的足球之路，当时他的父亲担任球队教练。外祖母塞利亚总是陪着他穿梭于街区球场之间，并极力说服教练给这个身材瘦小的小男孩出场机会。在外祖母于他十一岁生日前夕去世后，这份眷恋化为了永恒的印记。作为一名虔诚的天主教徒，梅西在日后漫长的职业生涯中，几乎每次进球都会双手指天，告慰天堂里的外祖母。\n\n## 罗萨里奥的淬炼与巴萨的餐巾纸契约\n\n七岁时，梅西加入了自己一生挚爱的罗萨里奥俱乐部——纽维尔老男孩。在效力纽维尔的六个赛季中，他作为“87一代战车”（The Machine of '87，因全队出生于1987年而得名）的核心成员狂揽近500球，横扫该地区各项青少年赛事。在纽维尔一线队主场比赛的中场休息时，梅西经常在球场中央颠球表演取悦主场球迷；那时，他的偶像正是巴西射手罗纳尔多和河床中场大师巴勃罗·艾马尔。\n\n然而，十岁那年危机突降。梅西被确诊患有生长激素缺乏症，这种疾病需要每日进行皮下注射治疗，每月开销至少高达1000阿根廷比索。父亲单位的医疗保险仅报销了前两年的费用，而纽维尔老男孩俱乐部最终违背了资助剩余治疗费用的承诺。阿根廷豪门河床队在试训中见识到梅西单场独中四元的惊艳表现后提出签约并全额承担激素治疗费用，但纽维尔拒绝开具转会证明。\n\n面对沉重的医疗开销，梅西一家向远在加泰罗尼亚的亲戚求助，并在2000年9月为年仅13岁的梅西安排了前往巴塞罗那俱乐部的试训。巴萨一线队总监卡莱斯·雷克萨奇（Carles Rexach）在试训赛中被梅西的天赋彻底折服，但巴萨高层却对为一名如此低龄的外国孩子押注巨资犹豫不决。2000年12月14日，在梅西团队下达最后通牒的关头，雷克萨奇在庞贝亚（Pompeia）网球俱乐部的餐厅里，当场在一张纸巾上起草了承诺签约的协议，锁定了这名不世出的天才。\n\n2001年2月，梅西举家迁至诺坎普球场附近的公寓，然而最初的异乡生活充满艰辛。由于与纽维尔老男孩的转会手续纠纷，梅西在第一年只能参加友谊赛和加泰罗尼亚地区联赛。更衣室里的他沉默寡言，甚至一度让队友误以为他是个哑巴。浓烈的思乡情绪让这个家庭分崩离析：母亲带着其他孩子返回了罗萨里奥，只留下梅西和父亲相依为命，孤守巴塞罗那。\n\n## 拉玛西亚的荣光与蓝白军团的梦碎\n\n直到2002年2月，西班牙皇家足协终于批准了梅西的正式参赛资格。14岁时，他彻底结束了生长激素治疗，与法布雷加斯、皮克并肩组成了巴萨著名的“黄金一代少年队”（Baby Dream Team）。2002–03赛季，他代表巴萨少年A队出场30次打入36球。在遭遇面颊骨折仅一周后的加泰罗尼亚杯决赛中，面对西班牙人队，梅西在因不适摘掉塑料保护面具后，短短10分钟内连下两城，率队以4–1大获全胜。\n\n2004年10月，年仅17岁的梅西迎来了巴萨一线队正式比赛首秀。在随后的17个赛季里，他为红蓝军团带来了创俱乐部纪录的34座奖杯，其中包括10座西甲冠军和4座欧冠冠军。他为巴萨轰入672球，创下了足坛历史单一俱乐部进球的最高纪录。2008–09赛季，在佩普·瓜迪奥拉的麾下，梅西率领巴萨夺得西班牙足球史上首个三冠王；六年后，他与路易斯·苏亚雷斯、内马尔组成威震足坛的“MSN”三叉戟，在2014–15赛季完成了史诗般的欧洲双三冠王伟业。\n\n然而，国家队生涯的荣耀却姗姗来迟。在随队斩获2008年北京奥运会金牌后，梅西于2011年正式接过阿根廷国家队队长袖标。他率领潘帕斯雄鹰连续杀入三届大赛决赛——2014年巴西世界杯、2015年智利美洲杯以及2016年百年美洲杯，却全部倒在加时赛或残酷的点球大战中。心碎至极的梅西曾在2016年6月黯然宣布退出国家队，但短短两个月后便选择回心转意、重披蓝白战袍。\n\n## 从卢塞尔到南佛罗里达的终极辉煌\n\n2021年8月，巴萨管理层的财务危机骤然终结了梅西的加泰罗尼亚传奇。他以自由身转会巴黎圣日耳曼，在此期间夺得两座法甲冠军。几乎在同一时期，他在国家队的命运迎来了惊天逆转。梅西以队长身份率领阿根廷队在马拉卡纳球场捧起2021年美洲杯冠军，打破了国家队队长达28年的无冠魔咒。在2022年卡塔尔世界杯上，梅西打入7球，在卢塞尔体育场那场载入史册的跌宕决战中击败法国，终于举起了梦寐以求的大力神杯。\n\n2023年7月，梅西登陆美国职业足球大联盟加盟迈阿密国际，凭一己之力重塑了足球运动在北美的地位。他不仅率领迈阿密夺得建队首冠——2023年中北美联赛杯，连续荣膺美职联常规赛最有价值球员（MLS MVP），还在2024年美洲杯上实现了卫冕。2026年10月，在为阿根廷国家队出战208场打入126球之后，梅西正式告别国际赛场。这段由坚韧、忠诚与无双球艺交织而成的足球史诗，自此化作绿茵场上永恒的丰碑。",
+      "social_post": "47座成年队奖杯、930多粒生涯进球：从当年罗萨里奥每天打生长激素针的瘦弱少年，到卢塞尔体育场亲吻大力神杯的一代球王，里奥·梅西重新定义了现代足球。从13岁那张传奇餐巾纸合同到阿根廷国家队的大圆满，你心中梅西生涯最不可思议的瞬间是哪一个？欢迎在评论区留下你的回忆！ #梅西 #球王 #阿根廷 #巴萨 #迈阿密国际"
+    },
+    "ru": {
+      "headline": "От бумажной салфетки до 47 трофеев: жизнь и наследие Лионеля Месси",
+      "seo_title": "Лионель Месси: биография, карьера и путь к 47 трофеям",
+      "subheadline": "Преодолев дефицит гормона роста в Росарио, аргентинский гений построил самую титулованную карьеру в истории мирового футбола — от Каталонии до Парижа и Майами.",
+      "body_markdown": "Лионель Андрес Месси по праву считается самым титулованным игроком в истории мирового футбола: в его активе 47 командных трофеев на взрослом уровне в более чем 1200 официальных матчах. За карьеру, охватившую свыше двух десятилетий, аргентинский форвард наколотил более 930 голов и отдал свыше 420 результативных передач за клубы и сборную, завоевав восемь «Золотых мячей», шесть «Золотых бутс» и восемь наград лучшему игроку мира по версии ФИФА.\n\nМесси родился 24 июня 1987 года в городе Росарио провинции Санта-Фе, в рабочем квартале Лас-Эрас. Его отец Хорхе Месси работал начальником участка на металлургическом комбинате Acindar в соседней Вилья-Конститусьон, а мать Селия Куччиттини трудилась в цехе по производству магнитов. Лионель был третьим из четырех детей в семье, рос вместе со старшими братьями Родриго и Матиасом и младшей сестрой Марией Соль. В футбол во дворе гоняли и его двоюродные братья Максимилиано и Эмануэль Бьянкукки (Maximiliano / Emanuel Biancucchi), которые позже также стали профессиональными футболистами.\n\nВпервые по мячу Месси ударил в четыре года в местном клубе «Абандерадо Грандоли», где тренером на общественных началах был его отец. Бабушка по материнской линии, Селия, регулярно водила внука на окрестные поля и буквально заставляла тренеров выпускать щуплого мальчишку на газон. Ее уход из жизни незадолго до одиннадцатилетия Лионеля оставил в его душе глубочайший след. Будучи набожным католиком, Месси практически каждый гол в карьере празднует одинаково — вскидывая указательные пальцы к небу в память о бабушке.\n\n## Горнило Росарио и историческая салфетка\n\nВ семь лет Месси перешел в «Ньюэллс Олд Бойз» — клуб из Росарио, за который болел с пеленок. За шесть сезонов в составе «Ньюэллс» он забил около 500 мячей за знаменитую команду «Машина 87-го» (The Machine of '87), названную так по году рождения игроков и громившую сверстников по всему региону. В перерывах матчей основы «Ньюэллс» юный Месси часто чеканил мяч на газоне на потеху трибунам, равняясь на кумиров — бразильского феномена Роналдо и плеймейкера «Ривер Плейт» Пабло Аймара.\n\nУдар грянул, когда Лионелю исполнилось 10 лет. Врачи диагностировали у него дефицит гормона роста. Заболевание требовало ежедневных подкожных инъекций, обходившихся как минимум в 1000 аргентинских песо в месяц. Рабочая страховка отца покрыла лишь два года терапии, а руководство «Ньюэллс» нарушило договоренность и отказалось оплачивать дальнейшее лечение. «Ривер Плейт» был готов забрать вундеркинда после просмотра, в котором тот оформил покер, и взять медицинские счета на себя, но «Ньюэллс» наотрез отказался отдавать трансферную карту игрока.\n\nОказавшись перед угрозой колоссальных расходов, семья через родственников в Каталонии организовала просмотр в «Барселоне» в сентябре 2000 года, когда Месси было 13 лет. Спортивный директор каталонцев Карлес Решак (Carles Rexach) был ошеломлен талантом аргентинца, однако совет директоров сомневался, стоит ли вкладывать столь серьезные деньги в столь юного иностранца. 14 декабря 2000 года, поставленный стороной Месси перед ультиматумом, Решак на обычной бумажной салфетке в теннисном клубе «Помпея» составил предварительное соглашение, гарантировавшее обязательства «Барселоны».\n\nВ феврале 2001 года семья Месси перебралась в квартиру рядом с «Камп Ноу». Адаптация оказалась мучительной. Из-за бюрократических препонов со стороны «Ньюэллс» весь первый год Лионель мог выходить на поле только в товарищеских встречах и матчах чемпионата Каталонии. В раздевалке он держался настолько тихо, что партнеры поначалу считали его немым. Тоска по родине надломила семью: мать с остальными детьми вернулась в Росарио, оставив Лионеля в Барселоне вдвоем с отцом.\n\n## «Ла Масия», лавина трофеев и боль «альбиселесте»\n\nК февралю 2002 года Королевская испанская футбольная федерация наконец оформила все документы, открыв Месси путь во все официальные турниры. В 14 лет он завершил курс инъекций гормона роста и занял законное место в легендарной юношеской команде «Барселоны» — Baby Dream Team — рядом с Сеском Фабрегасом и Жераром Пике. В сезоне 2002/03 он наколотил 36 мячей в 30 встречах за команду «Кадете А». А в финале Кубка Каталонии против «Эспаньола», проходившем всего через неделю после перелома скулы, Лионель уже через несколько минут сорвал мешавшую пластиковую маску и за десять минут оформил дубль, обеспечив победу со счетом 4:1.\n\nОфициальный дебют Месси за главную команду «Барселоны» состоялся в октябре 2004 года, когда ему было 17 лет. За следующие 17 сезонов он завоевал рекордные для клуба 34 трофея, включая 10 титулов чемпиона Ла Лиги и 4 кубка Лиги чемпионов УЕФА. Забив 672 гола за «сине-гранатовых», он установил абсолютный мировой рекорд по голам за один клуб. В сезоне 2008/09 под руководством Пепа Гвардиолы Месси привел «Барсу» к первому «треблу» в истории испанского футбола, а шесть лет спустя, объединившись в сокрушительное трио «МСН» с Луисом Суаресом и Неймаром, оформил второй исторический европейский «требл» в кампании 2014/15.\n\nВ национальной сборной триумфа пришлось ждать гораздо дольше. Выиграв олимпийское золото в Пекине-2008, Месси в 2011 году получил капитанскую повязку «альбиселесте». Он вывел Аргентину в три финала крупных турниров подряд — на чемпионате мира 2014 года в Бразилии, Кубке Америки 2015 года в Чили и юбилейном Кубке Америки 2016 года в США. Все три финала закончились трагическими поражениями в дополнительное время или в серии пенальти. Раздавленный Месси в июне 2016 года объявил об уходе из сборной, но уже через два месяца вернулся в команду.\n\n## От Лусаила до Южной Флориды: триумфальный финал\n\nФинансовый кризис и ошибки руководства «Барселоны» привели к внезапному расставанию с каталонским клубом в августе 2021 года. Месси на правах свободного агента перебрался в «Пари Сен-Жермен», где выиграл два титула Лиги 1. Одновременно фортуна наконец повернулась лицом к нему и в сборной. В 2021 году Месси в ранге капитана привел Аргентину к победе на Кубке Америки на стадионе «Маракана» — первому крупному трофею страны за 28 лет. А на чемпионате мира 2022 года в Катаре Лионель забил семь мячей и привел аргентинцев к победе над Францией в драматичнейшем финале на арене «Лусаил», завоевав главный трофей планеты, так долго ускользавший из его рук.\n\nВ июле 2023 года Месси подписал контракт с клубом MLS «Интер Майами», бесповоротно изменив статус соккера в Северной Америке. Он помог клубу завоевать первый трофей в истории — Кубок лиг 2023 года, дважды подряд признавался самым ценным игроком MLS (MVP) и защитил титул чемпиона континента на Кубке Америки 2024 года. В октябре 2026 года, проведя 208 матчей и забив 126 мячей за сборную Аргентины, Месси завершил международную карьеру, поставив точку в величайшей футбольной саге, сотканной из стойкости, преданности игре и непревзойденной магии таланта.",
+      "social_post": "47 трофеев и более 930 голов за карьеру: путь Лионеля Месси от ежедневных уколов гормона роста в Росарио до Кубка мира в Катаре навсегда изменил футбол. От легендарного контракта на салфетке в 13 лет до золотого дубля со сборной Аргентины — какой момент в его невероятной карьере вы считаете главным? Делитесь в комментариях! #Месси #Барселона #СборнаяАргентины #ИнтерМайами #ЧМ2022"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/1280px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Lionel Messi during Argentina v Egypt at the 2026 FIFA World Cup",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Lionel Messi",
+        "asked": "Lionel Messi",
+        "page_title": "Lionel Messi",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:leo_messi_argentina_v_egypt_7_july_2026-1.jpg|Lionel Messi",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Lionel Messi in an Argentina national football team kit",
+          "reason": "The photo clearly shows Lionel Messi in an Argentina football kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg",
+        "artist": "Дмитрий Неймырок",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Gerard Piqué at Euro 2012 match Spain-France",
+        "width": 1200,
+        "height": 1711,
+        "year": 2012,
+        "subject": "Gerard Piqué",
+        "asked": "Gerard Piqué",
+        "page_title": "Gerard Piqué",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:gerard_piqu%c3%a9_euro_2012_vs_france_01.jpg|Gerard Piqué",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Gerard Piqué in a Spain national team jacket",
+          "reason": "The image clearly shows Spanish footballer Gerard Piqué in official national team kit.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "Private-life or legal topic ('diagnosed'). Only include it if it is the news itself, confirmed by a major outlet, and stated neutrally"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-27-news-9ce70f",
+    "slug": "kuching-city-sweep-phnom-penh-crown-3-0-to-reopen-acl-two-gr",
+    "date": "2026-11-27",
+    "created": "2026-11-27T01:40:47+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "AFC Champions League Two",
+      "Kuching City FC",
+      "Phnom Penh Crown FC",
+      "Malaysian Football",
+      "Cambodian Football"
+    ],
+    "athletes": [
+      "Safawi Rasid",
+      "Ajdin Mujagić",
+      "Jerome Mpacko",
+      "Dylan Wenzel-Halls",
+      "Moses Dyer"
+    ],
+    "image_subjects": [
+      "Safawi Rasid",
+      "Aidil Sharin Sahak",
+      "Kuching City F.C.",
+      "Phnom Penh Crown FC"
+    ],
+    "match": {
+      "competition": "AFC Champions League Two",
+      "date": "26 November 2026",
+      "home": "Kuching City",
+      "away": "Phnom Penh Crown",
+      "home_score": 3,
+      "away_score": 0,
+      "home_scorers": [
+        "Safawi 32'",
+        "Mpacko 75'",
+        "Wenzel-Halls 90+1'"
+      ],
+      "away_scorers": [],
+      "note": "Kuching City climb into second place in Group H"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Group H: Kuching City FC (MAS) 3-0 Phnom Penh Crown FC (CAM) - The AFC",
+        "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html"
+      },
+      {
+        "title": "Kuching City Sink Phnom Penh Crown 3-0 - Sarawak Tribune",
+        "url": "https://www.sarawaktribune.com.my"
+      },
+      {
+        "title": "Kuching City thrash Phnom Penh Crown in ACL2 - New Straits Times",
+        "url": "https://www.nst.com.my"
+      },
+      {
+        "title": "sofascore.com",
+        "url": "https://www.sofascore.com/football/match/kuching-city-phnom-penh-crown/fmosJqKc"
+      },
+      {
+        "title": "nst.com.my",
+        "url": "https://www.nst.com.my/sports/football/2026/11/1586570/kuching-city-thrash-phnom-penh-crown-acl2?source=widget"
+      },
+      {
+        "title": "sarawaktribune.com",
+        "url": "https://www.sarawaktribune.com/kuching-city-sink-phnom-penh-crown-3-0/"
+      },
+      {
+        "title": "snesports.co",
+        "url": "https://snesports.co/acl-two-kuching-city-past-ppc-3-0-to-climb-second-in-group-h/"
+      },
+      {
+        "title": "suarasarawak.my",
+        "url": "https://suarasarawak.my/the-cats-benam-phnom-penh-3-0/"
+      },
+      {
+        "title": "365scores.com",
+        "url": "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kuching-city-fc-phnom-penh-crown-46828-51307-568"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://www.youtube.com/watch?v=_XrQde-7R5A"
+      },
+      {
+        "title": "sarawaktribune.com",
+        "url": "https://www.sarawaktribune.com/safawi-teamwork-makes-the-dream-work/"
+      },
+      {
+        "title": "Aktualita.co: Kuching FA 3–0 Phnom Penh Crown – AFC Champions League Two Result",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Cd0Yyd1VrZTZtNkQ1TmFFemtUUDd4M096QU5zcEloNFlZUC1HM3hOQlN2ZlZmUDZYVHpzcFo5dk5KUGtrYnlQOTNwR2pndEYtdDNvS1RGN20zZw?oc=5"
+      },
+      {
+        "title": "Sarawak Tribune: Kuching City Sink Phnom Penh Crown 3-0",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIcTBHM3ZrWTB1VTB0dUx4bGh3SW5pT20wc2NYMm1PdmpCLWI2dHdJclV2N0REM0VfYmxMUkgzS3hUTG9NR0pPcmhPMXFBcENDaXZ3VjBlVWR2WjFQLW44VHgxSWVaZnllb1RVRnJORkNOYlA3U2VvdWhB?oc=5"
+      },
+      {
+        "title": "TOD: Watch Kuching City vs Phnom Penh Crown",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVm1PZnhITlUyTWx3dlhlb1JYS0xqdkJkNWR4YTEwOEttNWttcExWX2x5SFdSN0pSTU5zY3ZDeFlBUlVKSV9nVGR3YUFPamJwSFlWQ2Rjc1Z5RFF5cHBMcTFJLWdCdmIzWGtOUEtlR3JUc0lPeWNBSFVtWlpJRlM1U29MdUdmS09HQ08wcVhGZlJ1eUhELXFwdWNqbS1MdEg1ZEFjeUlvdG51aThhZ3I3bkdwZVhldw?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Kuching City Sweep Phnom Penh Crown 3-0 to Reopen ACL Two Group H",
+      "seo_title": "Kuching City 3-0 Phnom Penh Crown: AFC Champions League Two",
+      "subheadline": "Safawi Rasid, Jerome Mpacko, and Dylan Wenzel-Halls strike as the Malaysian side avenge their September loss and climb into second place.",
+      "body_markdown": "Kuching City FC moved into second place in Group H of the AFC Champions League Two on Thursday, November 26, defeating Cambodian champions Phnom Penh Crown 3-0 at Stadium Taha Ariffin in Kuching, Malaysia. Malaysian international Safawi Rasid opened the scoring in the 32nd minute, before second-half substitutes Jerome Mpacko Etame and Dylan Wenzel-Halls secured the victory to take head coach Aidil Sharin Sahak's side to seven points after five rounds.\n\n## Safawi breaks the deadlock after early pressure\n\nThe hosts created early chances, striking the woodwork in the opening minute through an Ajdin Mujagić header before another Mujagić effort in the 11th minute was ruled out for offside. Kuching City controlled the first half with 62 percent possession and broke through at the 32-minute mark when Mujagić played a cross into the penalty box. Safawi controlled the ball past two Crown defenders and curled a left-footed shot past goalkeeper Um Vichet into the top corner. Phnom Penh Crown striker Moses Dyer forced Kuching goalkeeper Haziq Nadzli into a diving save six minutes before the break, preserving the home side's 1-0 advantage at halftime.\n\n## Second-half substitutes punish the visitors\n\nPhnom Penh Crown pushed forward early in the second half, but Kuching City doubled their margin in the 75th minute through an immediate impact from the bench. Seconds after replacing Safawi, Cameroonian forward Mpacko scored with his first touch of the match, finishing a low cross from Mujagić. In the 91st minute, Australian forward Wenzel-Halls collected a pass from Ahmad Sariweh, slipped past his marker, and drove a low shot into the net for the third goal.\n\nThe 3-0 result avenged Kuching City's 2-1 loss to Phnom Penh Crown at Morodok Techo National Stadium on September 17. \"When we lost in Phnom Penh, we didn't deserve to lose,\" Aidil told the Sarawak Tribune. \"Today proved that the boys want to show the quality they have. We don't need 11 players, we need everyone.\" Safawi, selected as Player of the Match, told reporters: \"Tonight wasn't for me, but for the team.\"\n\n## Group H permutations ahead of Matchday 6\n\nPhnom Penh Crown remain at the top of Group H with nine points from five games despite the defeat. Kuching City climbed to second on seven points, leading South Korea's Gangwon FC on goal difference, while Hong Kong club Kitchee SC sit fourth on five points. The group concludes on December 3, when Kuching City travel to Hong Kong to face Kitchee and Phnom Penh Crown host Gangwon, with only the top two teams qualifying for the round of 16.",
+      "social_post": "From Kuching to Phnom Penh 🇲🇾🇰🇭 Kuching City FC blew Group H wide open with a 3-0 win over Cambodian champions Phnom Penh Crown at Stadium Taha Ariffin on Thursday. Goals from Safawi Rasid, Jerome Mpacko, and Dylan Wenzel-Halls lifted the Malaysian side into second place with 7 points, just 2 behind Crown. With one match remaining against Kitchee SC on December 3, can Kuching City seal a historic round-of-16 spot? Share your predictions below! #ACLTwo #KuchingCity #PhnomPenhCrown #AsianFootball"
+    },
+    "zh": {
+      "headline": "古晋城3-0完胜金边王冠，亚冠二级联赛H组出线悬念重燃",
+      "seo_title": "古晋城3-0金边王冠：亚冠二级联赛出线悬念再起",
+      "subheadline": "沙法威、姆帕科与温策尔-霍尔斯接连建功，大马劲旅成功复仇并升至小组次席。",
+      "body_markdown": "11月26日星期四，亚冠二级联赛（ACL Two）H组第5轮展开争夺，坐镇主场塔哈阿里芬体育场的马来西亚古晋城足球俱乐部（Kuching City FC）表现强势，以3-0完胜柬埔寨联赛冠军金边王冠（Phnom Penh Crown）。此役，马来西亚国脚沙法威·拉希德（Safawi Rasid）在第32分钟打破僵局，下半场替补登场的杰罗姆·姆帕科·埃塔梅（Jerome Mpacko Etame）与迪伦·温策尔-霍尔斯（Dylan Wenzel-Halls）先后破门锁定胜局。主帅艾迪尔·沙林·萨哈克（Aidil Sharin Sahak）率队在5轮战罢后积分达到7分，强势跃居小组第二。\n\n## 攻势如潮，沙法威打破僵局\n\n主队古晋城开场便大举压上。开场仅1分钟，波黑前锋艾丁·穆亚吉奇（Ajdin Mujagić）的头球攻门便击中门框；第11分钟，穆亚吉奇再入一球，但因越位在先被判无效。上半场古晋城牢牢掌控局面，控球率高达62%。比赛进行到第32分钟，场上僵局终于被打破：穆亚吉奇起球传中送入禁区，沙法威灵巧摆脱两名金边王冠防守球员，随即起左脚轰出一记漂亮的弧线球，皮球直挂死角，客队门将乌姆·维切特（Um Vichet）鞭长莫及。半场结束前6分钟，金边王冠前锋摩西·戴尔（Moses Dyer）一脚极具威胁的攻门迫使古晋城门将哈齐克·纳兹利（Haziq Nadzli）做出飞身扑救，力保主队带着1-0的优势进入中场休息。\n\n## 替补神兵连下两城，主队锁定胜局\n\n易边再战，金边王冠试图吹响反击号角，但古晋城在第75分钟用极具针对性的换人给予对手致命一击。刚刚替补换下沙法威的喀麦隆前锋姆帕科，在登场后的首次触球便将穆亚吉奇送出的低平传中推进球门，为主队将领先优势扩大为两球。进入伤停补时第91分钟，澳大利亚前锋温策尔-霍尔斯接艾哈迈德·萨里韦（Ahmad Sariweh）传球后摆脱防守，冷静推射低平球入网，将比分定格在3-0。\n\n这场3-0的酣畅大胜，不仅让古晋城成功报了9月17日在莫罗多克国家体育场客场1-2负于对手的一箭之仇，也彻底盘活了本组的出线形势。“我们在金边输球时，那个结果并不能反映真实的比赛过程，”主帅艾迪尔在接受《砂拉越论坛报》采访时表示，“今天的表现证明了小伙子们渴望展现自己的实力。我们靠的不仅是场上的11个人，而是团队中的每一个人。”当选本场最佳球员的沙法威在赛后接受采访时同样强调：“今晚的荣耀不属于我个人，而属于全队。”\n\n## H组出线形势：末轮决战一触即发\n\n尽管遭遇这场失利，金边王冠目前仍以5战积9分的成绩暂列H组榜首。古晋城凭借这场胜利积7分升至第二位，以净胜球优势力压同积7分的韩国江原FC，中国香港杰志则积5分位列第四。H组的终极决战将于12月3日打响：古晋城将客场挑战杰志，金边王冠则坐镇主场迎战江原FC。根据赛制，唯有小组前两名方能拿到通往16强淘汰赛的入场券。",
+      "social_post": "从客场饮恨到主场扬眉吐气！🇲🇾🇰🇭 古晋城在主场塔哈阿里芬体育场以3-0干净利落地击败柬埔寨豪门金边王冠，让亚冠二级联赛H组的出线形势彻底扑朔迷离！沙法威、姆帕科与温策尔-霍尔斯建功，助大马劲旅积7分跃升至小组第二，仅落后榜首的金边王冠2分。12月3日末轮决战客战中国香港杰志，古晋城能否创造历史闯入16强？留下你的预测！#亚冠二级联赛 #古晋城 #金边王冠 #亚洲足球"
+    },
+    "ru": {
+      "headline": "«Кучинг Сити» разгромил «Пномпень Краун» 3:0 и обострил интригу в группе H Лиги чемпионов АФК 2",
+      "seo_title": "Кучинг Сити — Пномпень Краун 3:0: развязка в Лиге чемпионов АФК 2",
+      "subheadline": "Голы Рашида, Мпако и Венцеля-Холлса помогли малайзийцам взять реванш за сентябрьское поражение и подняться на вторую строчку.",
+      "body_markdown": "В четверг, 26 ноября, малайзийский «Кучинг Сити» (Kuching City FC) поднялся на второе место в группе H Лиги чемпионов АФК 2, разгромив на домашней арене «Таха Ариффин» чемпиона Камбоджи «Пномпень Краун» (Phnom Penh Crown) со счетом 3:0. Счет на 32-й минуте открыл вингер сборной Малайзии Сафави Рашид (Safawi Rasid), а вышедшие после перерыва Жером Мпако Этаме (Jerome Mpacko Etame) и Дилан Венцель-Холлс (Dylan Wenzel-Halls) закрепили успех. После пяти туров в активе подопечных Аидила Шарина Сахака (Aidil Sharin Sahak) стало семь очков.\n\n## Быстрый натиск и шедевр Сафави\n\nХозяева поля со стартового свистка обрушили шквал атак на чужие ворота. Уже на первой минуте босниец Айдин Муягич (Ajdin Mujagić) ударом головой проверил на прочность каркас ворот, а на 11-й минуте его же гол был отменен из-за офсайда. В первом тайме «Кучинг Сити» тотально доминировал, контролируя мяч 62% времени, и на 32-й минуте преимущество воплотилось в забитый мяч: Муягич навесил в штрафную, Сафави ловко убрал двух защитников камбоджийцев и обводящим ударом с левой ноги закрутил мяч точно в верхний угол ворот Ум Вичета (Um Vichet). За шесть минут до перерыва нападающий гостей Мозес Дайер (Moses Dyer) заставил голкипера малайзийцев Хазика Надзли (Haziq Nadzli) совершить эффектный сейв в броске, благодаря чему хозяева сохранили перевес в один мяч к свистку на перерыв.\n\n## Джокеры выходят на авансцену\n\nВ дебюте второго тайма «Пномпень Краун» попытался перехватить инициативу, однако «Кучинг Сити» на 75-й минуте остудил пыл соперника благодаря идеальному попаданию с заменой. Камерунский форвард Мпако, заменивший Сафави, отличился первым же касанием всего через несколько секунд после выхода на газон, замкнув прострел неутомимого Муягича. Точку в матче на 91-й минуте поставил австралийский нападающий Венцель-Холлс: приняв передачу от Ахмада Сариве (Ahmad Sariweh), он ловко ушел от опекуна и низом отправил мяч в сетку — 3:0.\n\nЭтот результат стал убедительным реваншем за гостевое поражение со счетом 1:2, которое малайзийцы потерпели на Национальном стадионе «Мородок Течо» 17 сентября. «Когда мы уступили в Пномпене, мы не заслуживали того поражения, — заявил главный тренер Аидил изданию Sarawak Tribune. — Сегодня парни доказали, каким классом они обладают. Нам нужны не просто одиннадцать игроков стартового состава, нам важен каждый футболист обоймы». Признанный лучшим игроком встречи Сафави лаконично отметил в общении с журналистами: «Сегодняшний вечер — это победа не моя лично, а всей команды».\n\n## Расклады в группе H перед заключительным туром\n\nНесмотря на разгром в Кучинге, «Пномпень Краун» сохранил за собой первую строчку в квартете H, имея в активе девять очков после пяти встреч. «Кучинг Сити» с семью баллами вышел на второе место, опережая южнокорейский «Канвон» (Gangwon FC) по дополнительным показателям разницы мячей. Гонконгский «Китчи» (Kitchee SC) замыкает таблицу с пятью очками. Развязка группового этапа наступит 3 декабря: «Кучинг Сити» отправится в гости к «Китчи», а «Пномпень Краун» примет на своем поле «Канвон». Напомним, что путевки в 1/8 финала получат только две лучшие команды группы.",
+      "social_post": "Жара в Лиге чемпионов АФК 2! 🇲🇾🇰🇭 «Кучинг Сити» взял убедительный реванш у «Пномпень Краун», разгромив лидера группы со счетом 3:0 на стадионе «Таха Ариффин». Голы Рашида, Мпако и Венцеля-Холлса позволили малайзийскому клубу набрать 7 очков и взлететь на второе место — до камбоджийцев теперь всего 2 балла! 3 декабря команду ждет решающий выезд против «Китчи». Сумеет ли «Кучинг» сотворить историю и выйти в плей-офф? Пишите ваши прогнозы в комментариях! 👇 #ЛигаЧемпионовАФК2 #АзиатскийФутбол #КучингСити #ПномпеньКраун"
+    },
+    "region": "cambodia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png",
+        "artist": "Hihi reny",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Picture of Safawi Rasid, transparent background",
+        "width": 1200,
+        "height": 930,
+        "year": 2026,
+        "subject": "Safawi Rasid",
+        "asked": "Safawi Rasid",
+        "page_title": "Safawi Rasid",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:safawi_rasid.png|Safawi Rasid",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of Malaysian footballer Safawi Rasid in a Malaysia national team polo",
+          "reason": "The image correctly shows Malaysian international footballer Safawi Rasid wearing national team apparel.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aidil_Sharin_Sahak.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Aidil_Sharin_Sahak.png",
+        "artist": "tribunjabar video",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Aidil Sharin Sahak speaking at a press conference while managing Persikabo 1973 in April 2023",
+        "width": 1200,
+        "height": 1279,
+        "year": 2023,
+        "subject": "Aidil Sharin Sahak",
+        "asked": "Aidil Sharin Sahak",
+        "page_title": "Aidil Sharin Sahak",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:aidil_sharin_sahak.png|Aidil Sharin Sahak",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aidil Sharin Sahak speaking at a football press conference",
+          "reason": "Plausibly shows football manager Aidil Sharin Sahak in team kit at a press conference.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-27-news-9ce70f.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Kuching City 3 - 0 Phnom Penh Crown · AFC Champions League Two",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://www.sarawaktribune.com.my, https://www.nst.com.my"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-27-news-bcbdd0",
+    "slug": "italy-survives-south-korea-scare-to-reach-davis-cup-semifina",
+    "date": "2026-11-27",
+    "created": "2026-11-27T01:39:40+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Davis Cup",
+      "Italy Tennis",
+      "South Korea Tennis",
+      "Soonwoo Kwon",
+      "Flavio Cobolli",
+      "Matteo Berrettini"
+    ],
+    "athletes": [
+      "Soonwoo Kwon",
+      "Flavio Cobolli",
+      "Matteo Berrettini",
+      "Andrea Vavassori",
+      "Lorenzo Musetti",
+      "Hyeon Chung",
+      "Hong Seong-chan"
+    ],
+    "image_subjects": [
+      "Soonwoo Kwon",
+      "Flavio Cobolli",
+      "Matteo Berrettini",
+      "Andrea Vavassori"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Berrettini & Vavassori help Italy survive South Korea in Davis Cup thriller",
+        "url": "https://www.atptour.com/en/news/italy-south-korea-davis-cup-2026-finals"
+      },
+      {
+        "title": "Berrettini and Vavassori win doubles to lead Italy past South Korea into Davis Cup semifinals",
+        "url": "https://apnews.com/article/davis-cup-italy-south-korea-berrettini-vavassori"
+      },
+      {
+        "title": "Korea knocked out of Davis Cup after narrow loss to Italy",
+        "url": "https://www.koreatimes.co.kr/www/sports/2026/11/davis-cup-italy-korea"
+      },
+      {
+        "title": "atptour.com",
+        "url": "https://www.atptour.com/en/news/italy-south-korea-davis-cup-2026"
+      },
+      {
+        "title": "koreatimes.co.kr",
+        "url": "https://www.koreatimes.co.kr/sports/20261126/korea-knocked-out-of-davis-cup-after-narrow-loss-to-italy"
+      },
+      {
+        "title": "koreaherald.com",
+        "url": "https://www.koreaherald.com/article/10949919"
+      },
+      {
+        "title": "middle-east-online.com",
+        "url": "https://middle-east-online.com/en/holders-italy-battle-past-south-korea-davis-cup"
+      },
+      {
+        "title": "yardbarker.com",
+        "url": "https://www.yardbarker.com/tennis/articles/flavio_cobolli_suffers_surprising_defeat_as_italys_bid_for_fourth_straight_davis_cup_title_hangs_in_balance/s1_17460_44618748"
+      },
+      {
+        "title": "starnewskorea.com",
+        "url": "https://www.starnewskorea.com/en/sports/2026/11/26/2026112612310879760"
+      },
+      {
+        "title": "chosun.com",
+        "url": "https://www.chosun.com/english/sports-en/2026/11/27/O7GLWGTXI5HPRLNSKL52ZMTMKM/"
+      },
+      {
+        "title": "apnews.com",
+        "url": "https://apnews.com/article/davis-cup-italy-south-korea-07de85886e38a84c9687e15a5805a8be"
+      },
+      {
+        "title": "tennistemple.com",
+        "url": "https://en.tennistemple.com/actu/cobolli-stunned-by-kwon-in-davis-cup-hes-better/I2hV"
+      },
+      {
+        "title": "tennisnow.com",
+        "url": "https://tennisnow.com/italy-survives-korea-in-doubles-thriller-returns-to-davis-cup-semifinals/"
+      },
+      {
+        "title": "daviscup.com",
+        "url": "https://www.daviscup.com/en/players/709e01c5-fd17-42ab-86da-65c795d51cde"
+      },
+      {
+        "title": "mk.co.kr",
+        "url": "https://www.mk.co.kr/en/sports/12219375"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://www.youtube.com/watch?v=7fzoRq7zJ7Y"
+      },
+      {
+        "title": "Davis Cup: The World Cup of Tennis",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUjdIOW54QjRoaHhQcFFYZlpIclMzOTFmMlFqVGJrczBYd000SDhiVDV3NkFUcC1nYzRyeFVta1JNWDBmdTZ6WkYzcVhXU0ZkblNPQU1tTlBMeWdjTkg0NmtZYUcwc0x1XzR3MV9sU2hYcTA5MGtFdnJxblQ4QQ?oc=5"
+      },
+      {
+        "title": "Tennishead: Flavio Cobolli claims he had one of his 'best performances' despite losing to the world number 139 in the Davis Cup",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTFVUUc3b3JaT2p4cHhrdVJIYWUwa3FYc0lMME83aDFNMUJobk9oNWJhOWkwUVh3WF9kbFV2d3RUNDliWW5EczFaTGhiaXlVVUlVcUpmSk0wV293Wi05YjQ3aUFvLTQ4VE91ZkVmQlNhdzRBbXZHOWFSUWZVa25QbDQxWVNGTnhyTTBJZjNVdTJzZ0FrRWxtYzZJS3VmdVlLcWUyTEVDQnBVVzROelBUTkpuUFgtWjBqem5OYW5HTnpDcExVS0RReEh5NkZMMTNkWk1r?oc=5"
+      },
+      {
+        "title": "ESPN Philippines: Angela Beard's Filipinas journey: From the Matildas to a historic World Cup",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHVoVS1SSkNSZ3JOODNMcFF6ZUhTSlUyYzhyYzZoWTBWb2VhSVViMHVZRXBiTS1SV1pxcG9GSUFkSkg3Z1R6eFJ0NVFRZzBsUDlyUlY3LXZxLUxGNG4tTDl4NnowaWJiOWxycFZqTmNsWTBSTkM1Y0NvV0JNNTRyWlZaSFRCWi1waXJta2podUxFYTFI?oc=5"
+      },
+      {
+        "title": "매일경제: Korean tennis lost to Italy in the 2026 Davis Cup Final 8. Although he lost, Kwon Soon-woo did well",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBycjJvQnBKSjE1RzlQR0o3MWFjNXh3OHo3emNzdXpsRGlScVFyR08yTmx6a3p2WDBNMFZhM01IOEkwd09qeHc4QnBrck0weWU3?oc=5"
+      },
+      {
+        "title": "ICC: ICC Men's Cricket World Cup Qualifier Playoff - All the squads",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3ZBSjhad1hKVlEtYV9keEV3aU9TbXNMV3BkbDliWEdlTWF3RjQ2RHQ2VElVanRQNGNLOXk0VVZpMDBHbDZmajFxU1dJVEdkcUNrTkQ2OUJYSFBUa095dTJYRFhvSXE1d3JrM0xOX2JVRldoYWxuaVpmVUM4dnI0bjEzckh6Y09NTl9WajY5SzlLNk8wZUUyRQ?oc=5"
+      },
+      {
+        "title": "Yahoo Sports – Tennis: Why American tennis fans should feel frustrated while watching the 2026 Davis Cup Finals",
+        "url": "https://sports.yahoo.com/tennis/articles/why-american-tennis-fans-feel-210000655.html"
+      },
+      {
+        "title": "The Independent – Sport: Spain thought it had the 2030 World Cup final. Morocco and Infantino have other plans",
+        "url": "https://www.independent.co.uk/sport/football/morocco-world-cup-final-spain-infantino-2030-b3091184.html"
+      },
+      {
+        "title": "Laodong.vn: U17 Vietnam vs U17 Mali football schedule at the 2026 U17 World Cup",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXVRcFJBc043Nlp0dWZzelNCcmx3UVNzWWhBNm5LcHBzVVl1dHlyRnJsZWk2ZWVsSi1GemctRlRoS0gzRjhsTGttX2JSODV3VUhHTXFKYW51TElxN1RuNTdTc0dVNlh1cjdwbWh6OTAwVUtiMWVDX2RzcWhmT3p4UjkxX3lUbVdKNGI2SHFyUnQyWEtpVE9PQkwxUWVZNzl2dF9FY2NMZmhCOE15SU9aQlNZQlQtZ3lFMjliQzVFVQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Italy Survives South Korea Scare to Reach Davis Cup Semifinals",
+      "seo_title": "Italy 2-1 South Korea: Davis Cup Quarterfinal",
+      "subheadline": "Matteo Berrettini and Andrea Vavassori win a deciding doubles thriller after world No. 139 Soonwoo Kwon stuns Flavio Cobolli.",
+      "body_markdown": "Three-time defending champion Italy held off an upset bid from South Korea on Wednesday, 25 November 2026, securing a 2-1 victory at BolognaFiere in Bologna to advance to the Davis Cup semifinals. Matteo Berrettini and Andrea Vavassori clinched the decisive doubles rubber, edging Soonwoo Kwon and Hyeon Chung 7-6 (7-2), 7-6 (13-11) after saving four second-set set points.\n\n## Kwon upsets French Open finalist Cobolli\n\nLorenzo Musetti opened the quarterfinal tie by giving the hosts a 1-0 advantage. The world No. 27 needed 90 minutes to dispatch Hong Seong-chan, ranked 787th, 6-0, 7-6 (7-5).\n\nSouth Korea leveled the contest in the second singles rubber through Kwon, who entered the match ranked 139th. The 28-year-old rallied past world No. 7 and 2026 French Open runner-up Flavio Cobolli 3-6, 7-6 (7-3), 7-6 (7-5) in two hours and 50 minutes. Kwon fell behind 3-1 in the third-set tiebreak before winning six of the final eight points to notch his sixth straight singles victory in Davis Cup play.\n\n\"We fought hard and I gave everything until the end,\" Cobolli told SuperTennis. \"I played one of my best matches in recent times, but I came up against a player who is better than his current ranking.\"\n\n## Marathon doubles rubber clinches tie\n\nKwon returned to the court 18 minutes after his singles win to team up with Chung, the 2018 Australian Open semifinalist. Neither pair surrendered a service break in the first set before Vavassori and Berrettini ran away with the tiebreak 7-2.\n\nBoth teams traded breaks in the second set to reach another tiebreak. South Korea overturned a 4-2 deficit to hold four set points, but Berrettini and Vavassori erased each opportunity and converted their third match point to end the contest after one hour and 54 minutes.\n\n\"I think I really enjoyed the game for the first time in a long time,\" Kwon said in his post-match press conference.\n\n## Italy's streak reaches 15\n\nThe result marked Italy's 15th consecutive tie victory in the competition, a run that started during the 2023 finals group stage. Captain Filippo Volandri's squad will face Czechia in the semifinals on Friday, 27 November 2026, after the Czech team swept Canada 2-0 on Tuesday.\n\nSouth Korea exited the tournament after reaching the Davis Cup quarterfinals for the first time since first entering the event in 1960. Despite entering the Final 8 as the only team without a player ranked inside the world's top 100, the South Korean squad forced four tiebreaks across the three rubbers against the host nation.",
+      "social_post": "132 ranking places separated them, but world No. 139 Soonwoo Kwon pushed three-time defending champion Italy to the absolute brink in Bologna. After Kwon shocked world No. 7 Flavio Cobolli 3-6, 7-6, 7-6, Matteo Berrettini and Andrea Vavassori had to save four set points in an epic 13-11 doubles tiebreak to seal a 2-1 victory for the hosts. Did South Korea deliver the performance of the tournament? Tell us your thoughts below! #DavisCup #Tennis #Bologna"
+    },
+    "zh": {
+      "headline": "惊魂过关！卫冕冠军意大利苦战力克韩国，挺进戴维斯杯半决赛",
+      "seo_title": "意大利2-1韩国：双打抢七决胜险进戴维斯杯四强",
+      "subheadline": "权纯雨爆冷击败法网亚军科博利，贝雷蒂尼与瓦瓦索里双打决胜局力挽狂澜。",
+      "body_markdown": "2026年11月25日，星期三。戴维斯杯三连冠得主意大利队在博洛尼亚展览中心（BolognaFiere）遭遇了韩国队的顽强狙击，最终惊险以2-1过关，锁定四强席位。马泰奥·贝雷蒂尼与安德烈亚·瓦瓦索里在决胜场双打中顶住巨大压力，在第二盘挽救四个盘点后，以7-6（7-2）、7-6（13-11）险胜权纯雨（Soonwoo Kwon）和郑泫（Hyeon Chung）。\n\n## 权纯雨爆冷掀翻法网亚军科博利\n\n洛伦佐·穆塞蒂在首场单打中为东道主拔得头筹。这位世界排名第27位的名将耗时90分钟，以6-0、7-6（7-5）击败了排名第787位的韩国选手洪性成（Hong Seong-chan）。\n\n然而，韩国队在第二场单打中吹响了反击号角。世界排名仅第139位的权纯雨上演惊天逆转，这位28岁的韩国名将苦战2小时50分钟，以3-6、7-6（7-3）、7-6（7-5）力挫世界排名第7、2026年法网亚军弗拉维奥·科博利。在决胜盘抢七中，权纯雨一度以1-3落后，随后在最后八分中狂揽六分，豪取个人戴维斯杯单打六连胜。\n\n“我们拼尽了全力，我也战斗到了最后一刻，”科博利在接受SuperTennis采访时表示，“我打出了近期状态最好的比赛之一，但我遇到了一位实力远超其排名的对手。”\n\n## 马拉松式双打决胜定乾坤\n\n单打鏖战结束仅仅18分钟后，权纯雨便再度披挂上阵，搭档2018年澳网四强选手郑泫出战双打。首盘双方均未送出任何破发点，瓦瓦索里与贝雷蒂尼在抢七中以7-2拔得头筹。\n\n次盘两队互破发球局，比赛再次被拖入抢七。韩国组合在2-4落后的逆境下连抓机会手握四个盘点，但贝雷蒂尼和瓦瓦索里临危不乱逐一化解，并在自己的第三个赛点上终结悬念，全场耗时1小时54分钟。\n\n“我想，这是我很长时间以来第一次真正享受网球比赛的纯粹快乐，”权纯雨在赛后新闻发布会上感慨道。\n\n## 意大利豪取戴维斯杯15连胜\n\n此役过后，意大利队在戴维斯杯赛场上的连胜场次扩大至15场，这一不败战绩自2023年总决赛小组赛便已开启。队长菲利波·沃兰德里率领的这支卫冕之师将在2026年11月27日周五的半决赛中迎战捷克队，后者在周二以2-0横扫加拿大队率先晋级。\n\n自1960年首次参赛以来首次闯入戴维斯杯八强的韩国队虽败犹荣。作为八强队伍中唯一一支没有任何世界前100球员坐镇的队伍，韩国队在面对东道主的三场对决中狂拼出四个抢七，赢得了全场的喝彩与尊重。",
+      "social_post": "排名相差132位，世界第139的权纯雨却把三连冠意大利逼到了悬崖边！在权纯雨以3-6、7-6、7-6惊天逆转世界第7科博利后，贝雷蒂尼与瓦瓦索里在双打抢七中狂救四个盘点，才以13-11艰难绝杀锁定2-1胜局。韩国队这场表现堪称本届赛事最佳逆袭战吗？评论区聊聊！ #戴维斯杯 #网球 #意大利网球"
+    },
+    "ru": {
+      "headline": "Италия едва не оступилась: чемпионы выстрадали победу над Южной Кореей в четвертьфинале Кубка Дэвиса",
+      "seo_title": "Италия — Южная Корея 2:1: чемпионы с трудом вышли в полуфинал",
+      "subheadline": "Маттео Берреттини и Андреа Вавассори вырвали победу в решающей парной битве после сенсационного триумфа Квон Сун Ву над Флавио Коболли.",
+      "body_markdown": "Действующие трехкратные чемпионы итальянцы в среду, 25 ноября 2026 года, с огромным трудом избежали сенсационного вылета от сборной Южной Кореи. Вырвав победу со счетом 2:1 на арене «Болонья Фьере» (BolognaFiere) в Болонье, хозяева пробились в полуфинал Кубка Дэвиса. Решающее очко в парной встрече принесли Маттео Берреттини и Андреа Вавассори, одолевшие Квон Сун Ву (Soonwoo Kwon) и Чон Хёна (Hyeon Chung) со счетом 7:6 (7:2), 7:6 (13:11), отыграв по ходу второго сета четыре сетбола.\n\n## Квон сенсационно остановил финалиста «Ролан Гаррос» Коболли\n\nЛоренцо Музетти вывел итальянцев вперед в первом одиночном поединке. 27-й ракетке мира понадобилось 90 минут, чтобы уверенно разобраться с Хон Сон Чханом (Hong Seong-chan), занимающим 787-ю строчку рейтинга — 6:0, 7:6 (7:5).\n\nОднако корейцы восстановили равновесие во втором матче благодаря Квону, вышедшему на корт в статусе 139-го номера планеты. 28-летний теннисист сотворил громкую сенсацию, сломив сопротивление седьмой ракетки мира и финалиста «Ролан Гаррос»-2026 Флавио Коболли со счетом 3:6, 7:6 (7:3), 7:6 (7:5). Битва продолжалась 2 часа 50 минут. Уступая на решающем тай-брейке 1:3, Квон забрал шесть из последующих восьми очков, продлив свою победную серию в одиночных встречах Кубка Дэвиса до шести матчей.\n\n«Мы отчаянно сражались, и я отдал все силы без остатка, — признался Коболли в интервью телеканалу SuperTennis. — Я провел один из лучших матчей за последнее время, но против меня играл соперник, чей уровень несоизмеримо выше текущего рейтинга».\n\n## Марафонская парная дуэль приносит путевку в полуфинал\n\nСпустя всего 18 минут после триумфа в одиночке Квон вернулся на площадку в паре с Чоном — полуфиналистом Australian Open 2018 года. В первой партии соперники держали свои подачи намертво, не допустив ни одного брейка, а на тай-брейке Вавассори и Берреттини уверенно дожали корейцев — 7:2.\n\nВо втором сете команды обменялись брейками и вновь дошли до тай-брейка. Корейский дуэт совершил рывок со счета 2:4 и заработал четыре сетбола, однако Берреттини и Вавассори ликвидировали каждую угрозу и реализовали свой третий матчбол, завершив триллер за 1 час 54 минуты.\n\n«Кажется, впервые за долгое время я получил искреннее удовольствие от игры», — сказал Квон на послематчевой пресс-конференции.\n\n## Победная серия «Скуадры адзурры» достигла 15 матчей\n\nЭтот успех стал для сборной Италии 15-й победой в противостояниях Кубка Дэвиса подряд — серия берет начало еще с группового этапа финальной части 2023 года. В полуфинале команда под руководством капитана Филиппо Воландри встретится в пятницу, 27 ноября 2026 года, со сборной Чехии, которая во вторник всухую переиграла Канаду (2:0).\n\nЮжная Корея покидает турнир с высоко поднятой головой, впервые добравшись до 1/4 финала за всю историю выступлений с 1960 года. Будучи единственной командой «Финала восьми» без единого представителя топ-100 в составе, корейцы навязали грандам жесточайшую борьбу и заставили хозяев сыграть четыре валидольных тай-брейка за три матча.",
+      "social_post": "Разница в рейтинге — 132 позиции, но Квон Сун Ву (№ 139) едва не сотворил главную сенсацию года в Болонье! После шокирующей победы Квона над седьмой ракеткой мира Флавио Коболли (3:6, 7:6, 7:6) Маттео Берреттини и Андреа Вавассори пришлось отыгрывать четыре сетбола на сумасшедшем тай-брейке 13:11, чтобы вырвать общую победу 2:1. Корея — главное открытие турнира? Делитесь мнением в комментариях! #КубокДэвиса #Теннис #DavisCup"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kwon_WMQ26_%284%29_%2855466987996%29.jpg/1280px-Kwon_WMQ26_%284%29_%2855466987996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "",
+        "width": 1200,
+        "height": 1800,
+        "year": 2026,
+        "subject": "Kwon Soon-woo",
+        "asked": "Soonwoo Kwon",
+        "page_title": "Kwon Soon-woo",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:kwon_wmq26_(4)_(55466987996).jpg|Kwon Soon-woo",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Soonwoo Kwon' but the photo comes from the page 'Kwon Soon-woo'"
+          ],
+          "shows": "tennis player Kwon Soon-woo in action",
+          "reason": "The photo clearly shows South Korean tennis player Kwon Soon-woo in tennis attire on court.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cobolli_RGQ23_%2852944096963%29.jpg/1280px-Cobolli_RGQ23_%2852944096963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Cobolli_RGQ23_(52944096963).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Cobolli RGQ23",
+        "width": 1200,
+        "height": 1800,
+        "year": 2023,
+        "subject": "Flavio Cobolli",
+        "asked": "Flavio Cobolli",
+        "page_title": "Flavio Cobolli",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:cobolli_rgq23_(52944096963).jpg|Flavio Cobolli",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "tennis player Flavio Cobolli holding a racquet during a match",
+          "reason": "The image correctly shows Italian tennis player Flavio Cobolli on court at the 2023 French Open qualifiers.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped)_(cropped).jpg",
+        "artist": "Vbrunophotog",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Matteo Berrettini, Italian tennis player, at the 2025 Miami Open at Hard Rock Stadium in Miami Gardens, Florida .",
+        "width": 1200,
+        "height": 1585,
+        "year": 2025,
+        "subject": "Matteo Berrettini",
+        "asked": "Matteo Berrettini",
+        "page_title": "Matteo Berrettini",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:matteo_berrettini_at_2025_miami_open_01_(cropped)_(cropped).jpg|Matteo Berrettini",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Matteo Berrettini wearing a cap and purple shirt",
+          "reason": "The image clearly shows Italian tennis player Matteo Berrettini.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 1 (cover) captioned 'Kwon Soon-woo' looks WRONG (shows tennis player Kwon Soon-woo in action; asked for 'Soonwoo Kwon' but the photo comes from the page 'Kwon Soon-woo'; The photo clearly shows South Korean tennis player Kwon Soon-woo in tennis attire on court.). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'for the first time': confirm it in a source before publishing"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
+  },
+  {
     "id": "2026-11-26-news-6daa79",
     "slug": "bennie-boatwright-debuts-as-kai-sotto-boosts-gilas-pilipinas",
     "date": "2026-11-26",

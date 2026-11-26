@@ -1,8 +1,63 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Italy Survives South Korea Scare to Reach Davis Cup Semifinals
+`2026-11-27-news-bcbdd0` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kwon_WMQ26_%284%29_%2855466987996%29.jpg/1280px-Kwon_WMQ26_%284%29_%2855466987996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🔴 WRONG** · cover<br>Caption: **Kwon Soon-woo**<br>Asked for: Soonwoo Kwon → got page: Kwon Soon-woo<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg)<br>AI sees: _tennis player Kwon Soon-woo in action_<br>Why: The photo clearly shows South Korean tennis player Kwon Soon-woo in tennis attire on court.<br>⚑ asked for 'Soonwoo Kwon' but the photo comes from the page 'Kwon Soon-woo'
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cobolli_RGQ23_%2852944096963%29.jpg/1280px-Cobolli_RGQ23_%2852944096963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Flavio Cobolli**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Cobolli_RGQ23_(52944096963).jpg)<br>AI sees: _tennis player Flavio Cobolli holding a racquet during a match_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Matteo Berrettini**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped)_(cropped).jpg)<br>AI sees: _Matteo Berrettini wearing a cap and purple shirt_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Kuching City Sweep Phnom Penh Crown 3-0 to Reopen ACL Two Group H
+`2026-11-27-news-9ce70f` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Safawi Rasid**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)<br>AI sees: _portrait of Malaysian footballer Safawi Rasid in a Malaysia national team polo_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Aidil_Sharin_Sahak.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Aidil Sharin Sahak**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Aidil_Sharin_Sahak.png)<br>AI sees: _Aidil Sharin Sahak speaking at a football press conference_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-27-news-9ce70f.png" width="240" align="left" hspace="10">
+
+**3. 🟢 our score card**<br>Caption: **Kuching City 3 - 0 Phnom Penh Crown · AFC Champions League Two**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From a Paper Napkin to 47 Trophies: The Life and Legacy of Lionel Messi
+`2026-11-27-athl-9e7b9b` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/1280px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Lionel Messi**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg)<br>AI sees: _Lionel Messi in an Argentina national football team kit_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Gerard Piqué**<br>2012 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg)<br>AI sees: _Gerard Piqué in a Spain national team jacket_
+<br clear="left">
+
+---
 
 ## ✅ live · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
 `2026-11-26-news-cfdcd3` · 2026-11-26
