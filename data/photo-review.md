@@ -24,41 +24,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Oliver Bearman Signs Haas Contract Extension for 2027 Season
-`2026-11-26-news-0b230b` · 2026-11-26
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/1280px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Oliver Bearman**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg)<br>AI sees: _Oliver Bearman in Haas team kit signing autographs_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Rafael_C%C3%A2mara_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Rafael Câmara**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Rafael_C%C3%A2mara_in_2022.jpg)<br>AI sees: _portrait of racing driver Rafael Câmara near a track sign_
-<br clear="left">
-
----
-
-## 📝 DRAFT · On This Day in 1917: How an Owner Feud Birthed the National Hockey League
-`2026-11-26-hist-9bf47d` · 2026-11-26
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Frank_Calder.jpg/1280px-Frank_Calder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Frank Calder**<br>2010 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Calder.jpg)<br>AI sees: _portrait of Frank Calder, first NHL president_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Dominion_Square_and_Windsor_Hotel%2C_Montreal%2C_QC%2C_about_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Windsor Hotel (Montreal)**<br>Asked for: The Windsor Hotel (Montreal) → got page: Windsor Hotel (Montreal)<br>2008 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dominion_Square_and_Windsor_Hotel,_Montreal,_QC,_about_1890.jpg)<br>AI sees: _Windsor Hotel and Dominion Square in Montreal_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Frank_Nighbor%2C_Vancouver_Millionaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Frank Nighbor**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Nighbor,_Vancouver_Millionaires.jpg)<br>AI sees: _Frank Nighbor in a Vancouver Millionaires hockey jersey_
-<br clear="left">
-
----
-
 ## ✅ live · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
 `2026-11-26-news-cfdcd3` · 2026-11-26
 
@@ -93,6 +58,41 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <br clear="left">
 
 🔗 Embedded post: [CNA (official Facebook page)](https://www.facebook.com/reel/1982174182757033/) — {'en': "CNA video: David Beckham's surprise visit to Bedok South Secondary School", 'zh': 'CNA视频：贝克汉姆突访勿洛南中学', 'ru': 'Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут'}
+
+---
+
+## ✅ live · Oliver Bearman Signs Haas Contract Extension for 2027 Season
+`2026-11-26-news-0b230b` · 2026-11-26
+
+<img src="../docs/photos/c/86fa85ae89f168bb-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Oliver Bearman**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg)<br>AI sees: _Oliver Bearman in Haas team kit signing autographs_
+<br clear="left">
+
+<img src="../docs/photos/c/4e9afceb20bc3ee9-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Rafael Câmara**<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Rafael_C%C3%A2mara_in_2022.jpg)<br>AI sees: _portrait of racing driver Rafael Câmara near a track sign_
+<br clear="left">
+
+---
+
+## ✅ live · On This Day in 1917: How an Owner Feud Birthed the National Hockey League
+`2026-11-26-hist-9bf47d` · 2026-11-26
+
+<img src="../docs/photos/c/7e90d3391cdb7032-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Frank Calder**<br>2010 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Calder.jpg)<br>AI sees: _portrait of Frank Calder, first NHL president_
+<br clear="left">
+
+<img src="../docs/photos/c/1b0df1219421a9ce-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Windsor Hotel (Montreal)**<br>Asked for: The Windsor Hotel (Montreal) → got page: Windsor Hotel (Montreal)<br>2008 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dominion_Square_and_Windsor_Hotel,_Montreal,_QC,_about_1890.jpg)<br>AI sees: _Windsor Hotel and Dominion Square in Montreal_
+<br clear="left">
+
+<img src="../docs/photos/c/c9910e7d6c740a42.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Frank Nighbor**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Nighbor,_Vancouver_Millionaires.jpg)<br>AI sees: _Frank Nighbor in a Vancouver Millionaires hockey jersey_
+<br clear="left">
 
 ---
 

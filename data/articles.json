@@ -163,7 +163,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T18:39:32+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Formula 1",
     "tags": [
@@ -273,7 +273,20 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VM3dVVFpEcGhXYjc4ZlBmOHptZjhfSXRTWDJyV1lVVjhBT21FbTN4QnQ5dVJPdWtTemhWc2NrTVZHSVJTZEtpV3hPWnpSMlNLb0NyeEJmdkptcFpRQmpucUcwWVVMLWNxRlFsMFpjVmpDRlRheTBnckNuY0R0UQ?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T18:48:23+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T18:48:24+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T18:48:24+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -350,7 +363,8 @@
         }
       }
     ],
-    "standards": []
+    "standards": [],
+    "published_at": "2026-11-26T18:48:24+07:00"
   },
   {
     "id": "2026-11-26-hist-9bf47d",
@@ -358,7 +372,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T15:42:12+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Ice hockey",
     "tags": [
@@ -448,7 +462,20 @@
         "url": "https://www.cbc.ca/news/canada/mystery-nhl-first-game-montreal-1.4049433"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T18:48:25+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T18:48:26+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T18:48:27+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.003,
       "longest": 9,
@@ -561,7 +588,8 @@
         "area": "sources",
         "msg": "3 weaker source(s) (blog/social). Do not rely on them alone"
       }
-    ]
+    ],
+    "published_at": "2026-11-26T18:48:27+07:00"
   },
   {
     "id": "2026-11-26-news-494315",
