@@ -59,6 +59,11 @@ OUTPUT: one JSON object inside <article_json> ... </article_json> tags, nothing 
 - body_markdown: {words} words, short paragraphs, up to 3 "##" subheadings written for THIS story
   (never generic headings like "My view", "Why this matters to me", "A view from ...").
 - social_post: 50-100 words for Telegram/Facebook, 2-4 hashtags, ends inviting readers to comment.
+  HOOK (editor's choice, 26 Nov 2026): the first sentence is the hook. If the story is about Cambodia or another
+  Southeast Asian country, team or athlete, open with the LOCAL ANGLE: the place, the flag emoji, what it means
+  there (e.g. "From Battambang to Korakuen Hall 🇰🇭 Cambodia's Chhut Serey Vannthong beats Japan's Riki at K-1.").
+  For every other story, open with the most SURPRISING NUMBER from the sources (e.g. "84 wins, 33 by knockout, and
+  now a clean sweep in Tokyo."). Only facts and numbers from the sources; no clickbait, no all-caps.
 - seo_title: the Google search title, max 60 characters. Start with the words fans type into Google: the two
   teams with the score for a match ("Brazil 7-0 Singapore: Vinícius 12-minute hat-trick"), or the athlete's or
   club's name and the key fact ("Pochettino named Manchester United manager"). Plain, accurate, no clickbait,
