@@ -359,8 +359,8 @@
         zh: "新加坡足球总会宣布罗斯娜妮退出国家队"
         ru: "Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман"
 
-# 26 Nov 2026: editor added two official Instagram posts (loaded on click, never copied). Placed after
-# paragraphs 5 and 9 (default).
+# 26 Nov 2026: editor added the CPL's official Instagram post (loaded on click, never copied), after paragraph 5.
+# The Boeung Ket Instagram video was removed at the editor's request.
 2026-11-25-athl-077aa4:
   embeds:
     - url: "https://www.instagram.com/p/DdeH7JXgVxy/"
@@ -369,9 +369,3 @@
         en: "Chan Vathanaka in an official Cambodian Premier League post"
         zh: "柬埔寨超级联赛官方帖子中的占·瓦塔纳卡"
         ru: "Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги"
-    - url: "https://www.instagram.com/reel/Dds7NIQBxJ0/"
-      account: "Boeung Ket FA (@boeungketofficial)"
-      caption:
-        en: "Chan Vathanaka in an official Boeung Ket video"
-        zh: "万吉俱乐部官方视频中的占·瓦塔纳卡"
-        ru: "Чан Ватанака в официальном видео клуба «Боэнг Кет»"
