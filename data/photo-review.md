@@ -186,6 +186,8 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 🔗 Embedded post: [Cambodian Premier League (@the_official_cpl)](https://www.instagram.com/p/DdeH7JXgVxy/) — {'en': 'Chan Vathanaka in an official Cambodian Premier League post', 'zh': '柬埔寨超级联赛官方帖子中的占·瓦塔纳卡', 'ru': 'Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги'}
 
+🔗 Embedded post: [Boeung Ket Football Club (official Facebook page)](https://www.facebook.com/reel/1012398621820953/) — {'en': 'Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)', 'zh': '万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）', 'ru': '«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)'}
+
 ---
 
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout

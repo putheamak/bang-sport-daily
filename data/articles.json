@@ -211,9 +211,21 @@
         },
         "account": "Cambodian Premier League (@the_official_cpl)",
         "height": 720
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/reel/1012398621820953/",
+        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1012398621820953%2F&show_text=true&width=500",
+        "caption": {
+          "en": "Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)",
+          "zh": "万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）",
+          "ru": "«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)"
+        },
+        "account": "Boeung Ket Football Club (official Facebook page)",
+        "height": 640
       }
     ],
-    "photos_override": "{\"embeds\": [{\"account\": \"Cambodian Premier League (@the_official_cpl)\", \"caption\": {\"en\": \"Chan Vathanaka in an official Cambodian Premier League post\", \"ru\": \"Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги\", \"zh\": \"柬埔寨超级联赛官方帖子中的占·瓦塔纳卡\"}, \"url\": \"https://www.instagram.com/p/DdeH7JXgVxy/\"}]}"
+    "photos_override": "{\"embeds\": [{\"account\": \"Cambodian Premier League (@the_official_cpl)\", \"caption\": {\"en\": \"Chan Vathanaka in an official Cambodian Premier League post\", \"ru\": \"Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги\", \"zh\": \"柬埔寨超级联赛官方帖子中的占·瓦塔纳卡\"}, \"url\": \"https://www.instagram.com/p/DdeH7JXgVxy/\"}, {\"account\": \"Boeung Ket Football Club (official Facebook page)\", \"caption\": {\"en\": \"Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)\", \"ru\": \"«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)\", \"zh\": \"万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）\"}, \"url\": \"https://www.facebook.com/reel/1012398621820953/\"}]}"
   },
   {
     "id": "2026-11-25-news-e226ae",
@@ -2158,7 +2170,7 @@
       },
       {
         "title": "laodong.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Yxc53MPaUl4pHBaNGOUWckJnvRT4RMjX7TMBNeW6s6chK59PRkeMtyxkIPUqQn_dxCkmNp27WzfQ2TkAk0GpXIEEcCWtfEe28H6idtIl5VNQrtLWCClfWtET7olH7gTkXUtst9hP-0Y_ry4bCPdE43jFNfhhXlT4DcV5IhEoVPoJ1kzA484="
+        "url": "https://news.laodong.vn/the-thao/tuyen-malaysia-co-huan-luyen-vien-moi-1806044.ldo"
       },
       {
         "title": "ASEAN Football Federation: Hodak appointed head coach of Malaysia national team",
@@ -2331,43 +2343,43 @@
       },
       {
         "title": "business-gazeta.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNQI867JNi9tG80Q2fPhJkSwWWrdtQAGnL7KygW_BAVhnFNNtKZlqkWLxfx--sGV3TQBrKJ4mtpkY3nQuZTxGWPwvRT2nmDwEGOU42tCePCjV5UzROvNHVBIQVM8o_oiYuGsIFIw=="
+        "url": "https://sport.business-gazeta.ru/article/322076"
       },
       {
         "title": "grodno24.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHahtYEfOig6b9dVzdAjn1s28HVx_jNLTagCy-KopRHnIBazwzZ0zotytJsxdUclwSpJ_-jw7OanIx665K41wEf5_C69qnYqf1XJlPUV86Tixo_-ulfCTA37yNt3GbVAFAD-xuywMe6ZmcAG3HZxkllOAx1XZVUlmfCbeKkd0JuTqqvN9lQew4eLGKOMTusp8QVaxu6qcF5ug=="
+        "url": "https://grodno24.com/2026/11/kamila-valieva-propustit-chempionat-rossii-po-figurnomu-kataniyu.html"
       },
       {
         "title": "matchtv.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhAuYtOPwX5vrmKz8Xg9uU1mGUYlLOf1NzBTfie7Lg-V5wdK_ncN5JN9fbwWqziIMjLV_veyAKUbA5xhlNsEYU-cVdLy3A2WaMaq5ofb0LPFdyyBOm8j-WVhtmHtN8vVp8X-EvbcTA5cg91ZNUztyJ_UPv1s9c1cGxo1xT9f1q4CK-Klgyqwff2fwD2ZhgsYpKxNcNFBmJ55bP0fcpNIcw7PxpraGi5e_9UqRbepTbHftdQNTQd-P0ogcvRio-M10Npr3g7ocl-4z3KcfjUjPLM0YA6FzQmvYbBFfyUozIZXo1RLQiyIusTlT_lg=="
+        "url": "https://matchtv.ru/figure-skating/matchtvnews_NI2388969_Kogan__o_vozmozhnom_propuske_Valijevoj_chempionata_Rossii_Objavim_uchastnikov_segodna_vecherom_tam_posmotrite_kto_uchastvujet"
       },
       {
         "title": "bookmaker-ratings.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHGWY18fB7blu8OeJDmxMR0HrXhn0grrVd9RmhD9PiNUAsGP57vDaGyB-xHoqTr9k-MO5BlduZs_D6a1qXfCAUH7WLMqqSnxpC9wL9wqrvBIiQa7UhGxVkXMNbYRe9RRYhG1K9n0ktQy_3S9jGxt164guaGbb4eygNw8lzpzELwlVgMcGKVimexw=="
+        "url": "https://bookmaker-ratings.ru/news/kamila-valieva-ne-vystupit-na-chempionate-rossii/"
       },
       {
         "title": "olympics.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpBicveWjJzcjpzyQm_XSv00ppFN1pbEmpwX0HDA5Th6mWi_Rwst8nyIslq8WDzwjWThuL-8F52EvK7LZq7AH3wO4Pjtui0l6DMl5mwJjRcpQFQTgZKkGjxK_cHTC6Lk4lTsZYMDgKAqc0-92IdZHlJOYTDPjVdukg7MCyFduR6-NzF9KZDoAt5CBxfyjafWTtTiomzW5c1S66o091wjSOiN7pt9ONfCLvRv0B5A=="
+        "url": "https://www.olympics.com/en/news/court-arbitration-sport-kamila-valieva-four-year-suspension-anti-doping-rule-violation"
       },
       {
         "title": "7news.com.au",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkjKAvBiCsAC-5liVG4RQFbOoQ_6t_x0xj3E9CYYrxvYwOBQt7IVjm4stdkDkYpCZ0ZkwKQYSOIWEPUilbu4oHBJ5_obehxOItAWvfIO2DKjzntujm1s3xIIaazgaARIxvXjjF6RVgsbziBmoIoE3Z17AgFQRwtSrHMel9J0LXEU9UhXXxEfMaAMr_oJLKAefZwLmuxd6W3vj3E35Hly-BS1qJBhEBLUjtFuyRwuOtdQP49qKBErKX3f_tYkvzazRZjZ-E7i6gXmibKEEh1R5M"
+        "url": "https://7news.com.au/sport/winter-olympics/teen-prodigy-kamila-valieva-resurfaces-in-russian-jumping-championships-days-before-winter-olympics-c-21501139"
       },
       {
         "title": "reddit.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqhD39XydpXKoW2yGqeDtVJuKQJCYVEh3aed7867A4RJNKVUOWWM-NGvQIciTLzkBNA2ADVhZIsVjcQWgRqK-CF8BPTT0EFAzXha9KkjuNZ5_ebHHaxa0DqaIQI1-vOwITIyt7UDBpu33kcRM8t0YzEJmv8EMvOTiLwsUL3v3s4UZBVh2S_xwXeVeDM0FL3nGKolOqrn_cM7JrFfkKa1Y="
+        "url": "https://www.reddit.com/r/FigureSkating/comments/1xylc7c/how_likely_will_we_see_kamila_valieva_at_russian/"
       },
       {
         "title": "spbdnevnik.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS9-Fxy4rmP9kA8EHJFWCUOgR7rWmDNqoYfDgjxXVEuo_hWGU7CsWUiEryfOmZPeDzNOP_YgY6gBhj1wQ_gSgIwjYKzUzyIIEDbR8ABcbuJ5EITfpVaMeBJ8o3WfAIUerw5QOrGilx3QQP5fg4dCCLpx6pqBoKzytFwkZLh5Wv-wJWFOBtryoRRgRMz_StXWTZ_7s6plfP"
+        "url": "https://spbdnevnik.ru/news/2026-11-24/kamila-valieva-ne-budet-ucastvovat-v-cempionate-rossii-2027"
       },
       {
         "title": "sports.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSrkyYBKZFoZmXy_4QKyaRzImQMJzAucDgkGlfX2705ls1vM9wmxV8iyoa3TZD3B8crt0JlcOHfhfWCkiibJtzEAMdTD_Ofhj5lGNmfZ2nONBxDo9k5gu6QUbcDMzvpB2YmBSJ00MEBVzICgNJz1n2Y3fdY3eWa_yP4FyQ__3XbV5I-hLKFe-ABA="
+        "url": "https://www.sports.kz/news/julin-otreagiroval-na-propusk-valievoy-chempionata-rossii"
       },
       {
         "title": "sport24.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhEuQI-84pMgL9A_xUldzBAYtdU1y9Gi04idjhexJsW0VD9iuqN3sUTdNecEXVmycIb_dZWbbUEMpW239RuQ9oA4K-9-CjSUeHZiTH5JCwQdV9hlYfFg1ez2ZawO_4uthklO47TkR9Hg7wMRRo13h0kmwX4sUnCWsvPp72qc4eWCz2-OeEwb3O1mjKjYFzRw5fIIsDNUTxnX56iRtas9cg5g8qwH8M6ceFVIVvftbEp5PN-uN2FPshdI1Mp2-Vtnw0Soat_Eiz"
+        "url": "https://sport24.ru/figureskating/news-900048-trevogi-za-neye-net-devushka-vzroslaya-bestemyanova-o-tom-chto-valiyeva-propustit-chempionat-rossii"
       },
       {
         "title": "Миллиард Татар: Валиева пропустит чемпионат России по фигурному катанию в Челябинске",
@@ -2735,31 +2747,31 @@
       },
       {
         "title": "news.cn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmHO39HVEFKDvonZ2KSm7VasCGilO-u24w0C_uA3Zd_XCNONtL_S3GSMF97cgEOW7JN074APYf1ttmUN5t8TA7Lg7NQNRf-irKDU8YWS8dyqU-KahsQU9Pp0McQ14RFbnvdMkDcZ0xQVY-0mLgxbXq-h4gskcrmMJSOrDXK2XpUcU="
+        "url": "https://www.news.cn/sports/20261124/07c8ec94c6414612b2debc11d733de6e/c.html"
       },
       {
         "title": "163.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQNChdtOzBqfj8_Kb1P6gwsKXsB1r4FgDejLMvHPhEvx0rfwqKg3FjwI6yYW3cqOtNypHDwc0pwXz5Mk761IlBfI18j4EZOzaHlGoT3yp1f__Dmq6Ht_64l_ozUcTJgz0_OFdcJ9A_4TrD"
+        "url": "https://www.163.com/dy/article/LCHGQKJR0529C95P.html"
       },
       {
         "title": "people.com.cn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkpdJuG2C43DdEiSPtL0eplidR8-7zzwNcnCwC_T-iL0JVRr1vThk-yxJcsCQlch437V3VoogIQVSa_tuFRj3Gs4kyTbbTfy1QVfGEZW10KfL9_FegoT0u6rgU6f88wMGh3TmNpAYOUhyOEJPRDx4="
+        "url": "http://ent.people.com.cn/n1/2026/1124/c1012-40839828.html"
       },
       {
         "title": "ifeng.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ_2YzqZY_v7vxqiSjOhgOrHdFU6uU1aT1G2dWfQiv1e6ycvZm8av8K46-bkMVwJzzH-ujprBUHK_ZYfMz8lZ7B7MIJg1DXA1bWeCaQr1CRqK5AIEoKDP-Lq8Qsg=="
+        "url": "https://sports.ifeng.com/c/8yJxtE0usxl"
       },
       {
         "title": "chinanews.com.cn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSqwkQ4zhBlfo2oZmlpdr2phroVyA5LWDpa_zQLD6oPir8i-kYqVVoAC9PlZ8OJR8yfwI3Geh1DxyXH-g-k8YTEuN-1D0fifVb9q1JMhHnXJhc0fDDS7KIiiD9R_O7zdnFQbLa4HNWTggG5aIQhA0="
+        "url": "https://www.chinanews.com.cn/ty/2026/11-24/10737252.shtml"
       },
       {
         "title": "wikipedia.org",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJbZnRm5Vus5uTLpoV_GZrsoBaMI4NvaRGkOSo1Y_gLUlOpr3jklVl9ZcJnwhpd59AtbCmWAIllfwQ3pttk_Yga1TobWyDTDGOxv53tgHFas2DC6ZTFBnlQS7KKjekVfHGla4Ql1xGA9X_jA3p4ysj"
+        "url": "https://zh.wikipedia.org/zh-tw/%E7%94%B0%E7%A7%89%E6%AF%85"
       },
       {
         "title": "wikipedia.org",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPP9Kji5Sluf3t0UO95SfBmPHXQ_3p7d8EjqGTDjAHaZo7wAdumoabcVhQOOsOpTFwf3xTnw17SKFsDlIsO-evn2QY150VWG0c5uvjW8I4T4_v4YDXe4irbJRDlC01SwMrUngF7wVjA=="
+        "url": "https://en.wikipedia.org/wiki/Zhang_Nan_(badminton)"
       },
       {
         "title": "深圳卫视: 田秉毅任国家羽毛球队主教练",
@@ -2938,23 +2950,23 @@
       },
       {
         "title": "inform.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp2o5-w2tT4Rt2zc_N8DKhKDW-uQUaqoVuiosh9DiD8zFvSIP7m8TZTwT7RO7pMhLZV587H5d1mLt7ieyd0tvZ-qI8KCqtUCqSgSEw8irlZaJKHDD0AqXARPFt4k8WnGPwyDf7M8dT-4kxXW-EGNJkvcZw-FkTmzkrvBreXFflgOM-ephXtQljvCXA1Nt9bzn60EB7LcoHYu8g4u0xPGLD4CKIsW6HBkU="
+        "url": "https://www.inform.kz/ru/kazahstan-obyavil-sostav-sbornoy-po-boksu-na-finalniy-etap-kubka-mira-v-tashkent-1f398266"
       },
       {
         "title": "sports.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGJVoiytfpUrSdVgBIwVKDYBNtdI1NrS42cbBKaVvg-xLihngN8PraPZG4pdKSOlZNjMkO423ZMk-JuH32Ey5QPg8TUiwM3IKDwJ2FUE52MZnmApqlVfxCioM1My7kbu7SR9s9w8EdaYbO4u8MafwvFzGuMaS1igU55juIEpkiobwyjxP_ARgfz6aXwRHAVybAdQ84mYPoPXAXYJs="
+        "url": "https://www.sports.kz/news/kazahstan-nazval-sostav-na-finalnyiy-etap-kubka-mira-po-boksu-v-uzbekistane"
       },
       {
         "title": "sportnews.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGykgS4FQrNNfQk7i0Avpl4LTBa2UIWzgWFF7OiPwOqtRxBMg-Cpl6iilfX_hbi_Nkn3T0koj9xvuoqjnZoK82lJtZ1ff_DhMnEskp-CIrzvYX8nnv1SfovCzKTTbRpKBfY5ZrquoJ1i59dcEO3vla9-GaQYoD67HlenY4L4NJIST_hZp-uMLHXJhGynW4b033cnNH7FN0F5fw5szcjJdkdgjU="
+        "url": "https://sportnews.kz/boxing/kazakhstan-obyavil-sostav-na-final-kubka-mira-po-boksu-v-tashkente-817192299268/"
       },
       {
         "title": "kursiv.media",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFabL0iUig8VwylfoHbvINWXR7gBhuq1vrYF80A_k8w3LBUYli5TtrbMiJLP_TjSBcWPIAVQ85DUv1DnF5v93fI4mv6UH3_pntSHl-UyJnsgxx5OnCqo6uiGBucq4NIzm4MpCWvIISAlUr308CxC8ktROHELyqf0RCdfSS3VxM-9581edd37bECbmFztQjVZZzBiDSKZkOsCy1bLT858FmdKT56j9hZZENmf69_IkZuPp4="
+        "url": "https://kz.kursiv.media/2026-11-24/mgpz-sbornaya-kazahstana-obyavila-sostav-na-final-kubka-mira-world-boxing-v-uzbekistane/"
       },
       {
         "title": "sportnews.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxvTYmlM1vx3gBEwKVcZ4T_moQ9jnovX8wcHwT2luruTjCgaEjGPkcT6epYFPm2oBoHUurk-UmC1_ZbE-RdoGt3ZL2HyaYoGiNBaWayDw_BThrmGQ9sshSLCJ1m2cvWgiMPIJOgoy2X_8uBI3Zh_KO4VJyLEk2u14tau8VzXwYyxQUS9NLlJAoAdKsoUWXNf8ti7HT0ASo_APfFjIGZiW0LC_jV0TMIjsle2r"
+        "url": "https://sportnews.kz/boxing/kazakhstan-izmenil-sostav-sbornoy-na-final-kubka-mira-po-boksu-v-uzbekistane-817205065857/"
       },
       {
         "title": "zamin.uz",
