@@ -386,3 +386,11 @@
       caption: "David Beckham"
     - commons: "File:HassanSunny.jpg"
       caption: "Singapore goalkeeper Hassan Sunny"
+  # 26 Nov 2026: CNA's verified Facebook reel (editor checked the page: CNA, blue tick), loaded on click, never copied.
+  embeds:
+    - url: "https://www.facebook.com/reel/1982174182757033/"
+      account: "CNA (official Facebook page)"
+      caption:
+        en: "CNA video: David Beckham's surprise visit to Bedok South Secondary School"
+        zh: "CNA视频：贝克汉姆突访勿洛南中学"
+        ru: "Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут"
