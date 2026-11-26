@@ -340,17 +340,7 @@
         "height": 1622,
         "year": 2021,
         "subject": "David Beckham",
-        "asked": "David Beckham",
-        "page_title": "David Beckham",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:david_beckham_unicef_(cropped2).jpg|David Beckham",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "portrait of David Beckham smiling",
-          "reason": "The photo clearly shows the captioned person, former footballer David Beckham.",
-          "by": "ai"
-        }
+        "editor": true
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/HassanSunny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -362,43 +352,8 @@
         "width": 1200,
         "height": 914,
         "year": 2015,
-        "subject": "Hassan Sunny",
-        "asked": "Hassan Sunny",
-        "page_title": "Hassan Sunny",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:hassansunny.jpg|Hassan Sunny",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "Goalkeeper Hassan Sunny on the pitch during a football match",
-          "reason": "The image plausibly shows Singapore international goalkeeper Hassan Sunny in action, matching his stint with Army United in 2015.",
-          "by": "ai"
-        }
-      },
-      {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jurong_West_Secondary_School.jpg/1280px-Jurong_West_Secondary_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "page": "https://commons.wikimedia.org/wiki/File:Jurong_West_Secondary_School.jpg",
-        "artist": "Leejiaxin96",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Jurong West Secondary School",
-        "width": 1200,
-        "height": 675,
-        "year": 2020,
-        "subject": "List of secondary schools in Singapore",
-        "asked": "Bedok South Secondary School",
-        "page_title": "List of secondary schools in Singapore",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:jurong_west_secondary_school.jpg|List of secondary schools in Singapore",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'Bedok South Secondary School' but the photo comes from the page 'List of secondary schools in Singapore'"
-          ],
-          "shows": "exterior entrance of Jurong West Secondary School",
-          "reason": "The image shows a school building rather than David Beckham, youth football players, or a football clinic.",
-          "by": "ai"
-        }
+        "subject": "Singapore goalkeeper Hassan Sunny",
+        "editor": true
       }
     ],
     "standards": [
@@ -422,7 +377,8 @@
         "area": "sources",
         "msg": "2 weaker source(s) (blog/social). Do not rely on them alone"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"David Beckham\", \"commons\": \"File:David_Beckham_UNICEF_(cropped2).jpg\"}, {\"caption\": \"Singapore goalkeeper Hassan Sunny\", \"commons\": \"File:HassanSunny.jpg\"}]}"
   },
   {
     "id": "2026-11-26-news-cfdcd3",
@@ -3606,15 +3562,15 @@
       },
       {
         "title": "zamin.uz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETpRQfAkYDjZvBcwQaJ9ANkO4Dt5EkUX9l7xcky7ZTRrLXtQkfB5j_o87wMTCmHdXypM8SruPZnrW6cB1IYjeD6kf4OD8RtHHhWUMlE2q7RPP6IwM0Xa114Y7vK_k9r2Ptzpd-3FSWid-kpTPDc47AqFR4tIpr3iK50KJKLh1YOypvK__ggBydXirqKwGCf2w4kRxlpp5WSTiDmMxLkQ=="
+        "url": "https://zamin.uz/en/sport/227582-uzbekistan-national-boxing-team-roster-for-the-world-cup-announced.html"
       },
       {
         "title": "meta-ratings.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPocBrYYuBMnXIgKHyAgVgDaDud8fmdNhgHgamnQeEuB5nEHgpWs5c2yfmnbPfT2uWzq64cgZs666JWaxSuw1gr0-g3oHffC6PnEQVKY2bXlS2WH9ccOHwZBKFQ99tGFYl5uBa2UMDHNz-Tt6SY-LdoXALXH9dq2Krx4YFyU7NkgJMrdOSMmeEvnydosLz38X6jd4m85CsH_V7fJuo1t-lRXwkrwdh9Q=="
+        "url": "https://meta-ratings.kz/news/sbornaya-kazakhstana-nazvala-sostav-na-final-kubka-mira-po-boksu-v-tashkente-674057/"
       },
       {
         "title": "tengrisport.kz",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6nVNLyJmsRYSTT5UcXQ4ByqikIqc90rMPDJXb3pKdXDfYjSL0uiwfdJBBqzKO-UTWQ4w7XViTyrZYkUk6jVJp--wcO6PSdEq3_CfbwfZe4gfXEPpBLdVn1xTuBK_OY4WUNMk2o3O8sLkqkk20oQIchmLUrEMKigPC4yRzwFaJaY2UCBHkdKaRj89au2u66oohjjMtxnGcZw=="
+        "url": "https://tengrisport.kz/tnsport/sbornaya-kazahstana-boksu-obyyavila-sostav-final-kubka-mira-613762/"
       },
       {
         "title": "Казинформ: Казахстан объявил состав сборной по боксу на финальный этап Кубка мира в Ташкенте",
@@ -3802,63 +3758,63 @@
       },
       {
         "title": "ground.news",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVcmUw2r1DOpOc5kvBsTvKz6_SrQuKvUPgwv__foaYpXRpFwtjpxNr3NOWos4TypqWXWg_4dvi6GxHssWR6WnyVjQ8iAuNUWcojPmB5rriow3Q-Tv85vL75REzFH5tvglkY7YoQ2zh4bP7cOFGx6XeTrBfphijqDxPn6I-1wKscb6iTLsVlLb7qi-VhunkMxrnLlR9hfXoe48_wujk2T143AQ0m3nSZRpAERshYH5pyIra6M3J6OySmQ2PoYORQJ2G_BbTOeLpUzonT_z9rck="
+        "url": "https://ground.news/article/the-vff-president-called-to-congratulate-the-vietnam-u17-team-expressing-pride-in-their-historic-points-at-the-2026-world-cup"
       },
       {
         "title": "the-afc.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzH7Ld9NGWcbzXtMVLVb-xjwXSDoS1YJhc3hRzXCxjnPDJcut482ttnXgUChDpZJ0SiybVoHYQHn-c3dXwg70lkYCv3ao3FqMB2aJnDC2pB7JUW2XLITUnfdbO5_nxWNQrF_qZewHqMaUtHI269LjRyQjiyEU4iuS7F9pQWwnOyRnHTIU9MuC7G0EkzRWnxXSomSeOs7LgGuC4aA0AHfhVD9RvzUmHjEn5RA=="
+        "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/uzbekistan-back-on-track-historic-point-for-vietnam"
       },
       {
         "title": "baomoi.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_BPlIdZ77Wo3_DWhvk9konqNSYbfO6jZcV8PihxBENAutJdQg3b0-XpsTwBDTsoXysuulPXYZZPqSTAA2b4Ab08GIV1xn7iFi5C4AyB-EK7vQ0_BxRJZ9P8YCeZmVGvGRS7N94QRDjjX82rnxxEPy1MR4B1yHLwV_FpD7tkAIxyMEdnRfGAUZ7XHB6XzAoygbl2aQpXUW"
+        "url": "https://baomoi.com/u17-viet-nam-go-hoa-phut-bu-gio-gianh-diem-dau-tien-tai-world-cup-c56585811.epi"
       },
       {
         "title": "youtube.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhBk6hjRyJjM6g6yk0Vk1t8SlzFgwuDf_aFuV7_9aQoLL7OzJqj7PKK7AFoO_-OLWVPgtzhIkhcrILq99wQwGnmCIwm0OuvNmSBVOBSXfNZ9wSr8dLTrn_crl2fHRTaEc="
+        "url": "https://www.youtube.com/watch?v=ON8R3WYlqJQ"
       },
       {
         "title": "wikipedia.org",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE96fj9-1LuwWyISs_NXk5nVPby9S8tXnFHwAtzYaMhYzruy7LzwvCpksbl7oUfKT8GymIIf8w6DjU5XTDLbKLSbWKtYN4fxBaDSW2-NbOvPd5shWk1sd5hp9My7LNo2MgD445E-Xi9wtwxgA=="
+        "url": "https://en.wikipedia.org/wiki/2026_FIFA_U-17_World_Cup"
       },
       {
         "title": "laodong.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2_iHvMuYRhHL2YXlSJmJOSLeaw462krOlRNig-BfXMK3IhSoTBfR5fyhRYfmxngfw_DHFfcFRy1bm8FWAQxo_fqR7aIO164pRjMQLGjf1yjKtX3Ox20IGO5iH27HaLvOayUuWe1eWeWKG_kDNiOaQzoiOG-uMpKbanGS3eII_g7w4mLsNJQDV4QapEWFy-mKXLID4e4QCMQEUnLTYg17S25K1"
+        "url": "https://news.laodong.vn/bong-da/kich-ban-nao-de-u17-viet-nam-vao-vong-knock-out-u17-world-cup-2026-1805564.ldo"
       },
       {
         "title": "thethao247.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsiTR6h6O1-rOXdmO3zvqzOWoTmyviaVV12olSF7L_Na6n_E-PlJFLtw0ryLFTpSqryEge5WMakPchddhXUIuIJcV8n3vJkpvgPkdxeEyOMryWe_-F8jV_9BoWVbjBcRCa5qB307pQ2WbHw2h0dZLguHPzJY446nGkrOuggsh17N4kqlwIRGHnhmEBIFaPMAI3Y1EeHJf6ZIzEMrPQFA5tMI1XWGv14RNMraHr2R1g-MI="
+        "url": "https://thethao247.vn/426-chinh-thuc-fifa-cong-bo-cau-thu-xuat-sac-nhat-tran-u17-viet-nam-vs-u17-new-zealand-c1-d446976.html"
       },
       {
         "title": "tuoitre.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6b3IgOxUhu_S9EuwJdtGoR9topXPOYMBmsNRHxKp6jUWve8q3r7bcRP2wrbQtOOcqVg42fwXTLGr9DF1uccYTn8YhNvE9eBjU48DgMKiCQiEq5tiO7qSF2Q0rza4ZfCmZTLCDkfkVrRX7CpptiRFNcm_JOF1SuhImNCcqHfxgtn-u_Y_6_WIept2VoD-6OGeI8z9gNjcnYt0FaGBuFqU="
+        "url": "https://tuoitre.vn/truc-tuyen-u17-viet-nam-u17-new-zealand-22h30-quyet-gianh-3-diem-100261123120503527.htm"
       },
       {
         "title": "vov.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb7adEHmbqFbBZ0CGYyOLZDFtliZ0IoXbKOGaOfcn3YEm2vN-yq5JVc9r0JWaUAMKcHR91ftfBpDezT115qT9U9oDy5i-yEMW7TmDc3FZZy5NFEs4UTZXHtXHlkF4BdDAV_YJNonc-6eP9BXPhmG6VhMGty1zHTU7Z0jW5MSx3C52Z3fIJx6ShF7rr2vseeCqOJaY1rKK6GuFx0pY2"
+        "url": "https://vov.vn/the-thao/man-ruot-duoi-ty-so-dien-ro-giua-u17-viet-nam-va-u17-new-zealand-post1352774.vov"
       },
       {
         "title": "bongda.com.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsQDftxPSjI81krKPxL6bYoOxqEs0uNo7xiK8sDnV1qRiwZBX6br4Vtpzd6Z25JFZBLg_LVbI1tolM9m4_zgLMQ-cR8pcZlPi3eLXU2Ee0b-8FmsJgON-uEYIvTdkn5VcoekEA8a7OnSjvzOEF12MEWSA3mYVZjVqFzDhuIGKu9i7sCQcm7jILhViXaGkvZEkbw7KZ1gJ43Hk7sTC1DA=="
+        "url": "https://bongda.com.vn/duy-khang-ghi-ban-phut-902-u17-viet-nam-gianh-diem-lich-su-o-world-cup-d856146.html"
       },
       {
         "title": "vietnamnet.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3B-qGggiY1Y6orwJnv1b63Di9vlGsWIV4d5s0HM3AN6UjT8F6xLkkX3GxqOx0MHX8Yx9vRiY0oPElmB1Scu7RaQKKoVThaowBFug-XSwZPScVBQDhKbeOCJbW2GRoA0_AxNojxlojze1pOYYLN4CZ_MH03mWJtsKbs51Ka3kfEIHgIQltoY-cF6UnLr9VhauIEIOQI4eSG3tn7JE9sw0H4n0SCfhD"
+        "url": "https://vietnamnet.vn/en/vietnam-earn-historic-u17-world-cup-point-drawing-praise-from-fifa-and-fans-2578099.html"
       },
       {
         "title": "vietnamnet.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGINjpZjZdmaXeYc0L37daJ01d75S5xt6qiPksdmBuYb4j_pBTLGDP8Fcht_hOywTCmnsJB9svMejk0W4lnydml69SE8EiGihz69JJJoJAtxIWQu2I46uyH_d1PU5yQE68U9nBP2fNLI851sSK4YtRAZts67Q9tCV5D521W5QdnqrdBONiDlnMZphBjwblJnMOj2pnqm0lZDhI="
+        "url": "https://vietnamnet.vn/en/vietnam-makes-world-cup-history-with-two-goals-against-belgium-2577417.html"
       },
       {
         "title": "vov.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkV45s6qQrO9hmY92HA8_OjFiowS8HjiEMH5aaFJY3oWEOT2FzC248oxSskpvAbwf1WDdRcV_pLd-_23gBlRNzRjpa5NYNdMBK8-StuDGNI4Zmb7N3Qk0B7XRf6rlJ0D4k21SUgaNVMk88mL0R8Yh1s3pVjxZSzh2rTAyNdQIJ8aYwD1kWTQeBovsay-s-AU1VD3pbyJjIoznjhRvCpi44"
+        "url": "https://english.vov.vn/en/sports/vietnam-u17-target-first-world-cup-win-against-new-zealand-post1352566.vov"
       },
       {
         "title": "youtube.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Vmy-dPoDNZIm4ELeb0xnECqMz12lwtXKXacvM6AhgOE3fPJ18MJk_pMNdNklAtLMPneLYyI_XR5jTYE53PkIkBoMlGo1DUmdnQxSwTHygwy8nj8tzgaKLmAbDvN3RI0="
+        "url": "https://www.youtube.com/watch?v=Y-tDfzrczZE"
       },
       {
         "title": "vietnamnet.vn",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSEd4g_x64FCY7Wy3po-Xql_fMtvDF17_w3CVgk5HSm-pDbq9g6Ip-HLwWZQycDFXHffX3xXsTYYlq7_qV5Z_IXgz47ORFxZiRfZkeiJw2QoZvKDo79fgUu6DWULDJCzplGPIXbH2RrQlvlc5rGsD5tI9EQQDrNG0BUIHVIc1wunl-Q=="
+        "url": "https://vietnamnet.vn/en/vietnam-eyes-u17-world-cup-knockout-spot-2577419.html"
       },
       {
         "title": "Báo VietNamNet: Vietnam earn historic U17 World Cup point, drawing praise from FIFA and fans",
@@ -4018,39 +3974,39 @@
       },
       {
         "title": "matchtv.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoATRndcXU6FcvWTZOeTKIN9nFjAVUJ7vLs7X5hI3vi4bnZhvukIQVPe64zma7rYq37_XIL3NEc3PVnlqScYiyTWthcuDboTBtDnIReZqMcacLR4abPfWMy9NFJujKNgUFKH5llN-rOYyiSej0Kqh8FgLzDQBPrNk-Ml59bAMzOiJNGQPHizIL87zvO5PXeU3CL9QknMRsfMEFPq0SR0M2IstpkoSHfbMqnFegh8-X1s8JbZMiExA5NrQyqQLEa-YKudg="
+        "url": "https://matchtv.ru/tennis/matchtvnews_NI2388825_Mirra_Andrejeva_voshla_v_top5_po_summe_prizovyh_sredi_vseh_tennisistov_v_2026_godu__Sportico"
       },
       {
         "title": "metaratings.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa4oeK_7V9zDiiW8zB-RNFau3B7cxDKs63XjjusWvBN7ZzZTY9QOmexSNbs3_FUqAKReezxnD_V_FYe7IiyNAgwRP9UYLOrkwvlaFe9xPZTrj8BvauHPIe4MR-WFhhqLJv0bAN5LkBqqcSeVzaur8C0PCS-U1Yhw=="
+        "url": "https://metaratings.ru/news/mirra-andreeva-prizovye-top-5-674035/"
       },
       {
         "title": "sportbox.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuI-GTQrcAANCWmRsytokaTdG2zVtcqf6Tg8DbFnwUMdu1oA7fB7l-VZwanlmHurHW04Idg4McsfHzpwHVYdn6pKDzh4pbI9PUnBhg18mOXey_yaZIEbsAUXYGnxKL2Y4n86JOWxE7rlhmmrIA02uO24E7dOJF7vbf7_VgQkeKiSsukdol7cCHeQQSCGJ2ZJW1eUUIA22--DJXXShH_onlh1HMe-aTfOpFvmESwg9wktrZM0Ce2LFXQFbxYFrZWn4n3hqVy9wGkh0U1AVJxZmiMg=="
+        "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2388825_Mirra_Andrejeva_voshla_v_top5_po_summe_prizovyh_sredi_vseh_tennisistov_v_2026_godu__Sportico"
       },
       {
         "title": "legalbet.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0yIm37AcPJN6Qb1uFg2hjT3z6xp_Jxf8qTtzK0g6MvkM9AQSi-5ViHfWN4vOOl7Gigf-3-wXD7ibj78p0OkIwqHkhGSWyGjSZ63ihVuVXMWFm4NoUOkszM4aSHMvT4NjI-1J97QK3xgie10J67KufaXLLWzpEIe1bmpcfi4JCjZA7d1Bt18JNS6oZ42ePYjIbQ=="
+        "url": "https://legalbet.ru/news/62021142-432142-andreeva-voshla-v-top-5-tennisistov-mira-po-prizov/"
       },
       {
         "title": "tennisworldusa.org",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcyV6u7lK_p3pDqW3v5tz18CPLoDhqJYupvRUdS5WNItzkdPLQ-KQyKX2Gro-sjn79IDr3oTQfMJEEr7VduucXCxrHM-BgrLJiP8lpaCZzE2L5EhW86ijRGHKjE3h_cNF7vDKjA5oXt0fH6XGKj2hOrVHO4sCon14OpslRWhoJd4IyTUXAVuGmBqiYCD0X8mWkCHeEQO4EbRfOLxdtAMAIOLuMUjzJ-LPHTqCk3M17sAMnRLF_NtQjkK9JMXydYPAbXDIKAdE_iA=="
+        "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171624/alexander-zverev-tops-2026-atp-prize-money-list-as-djokovic-earns-over-4-million/"
       },
       {
         "title": "tennis365.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwmxmAmjg3paPGqbVl_uv3XKX90M5oXrV3SAFADZ-jqXfunxaR4fG3G0jDi88OXAqo4INIuAhB3gahRi5pFOO8IlHVSps4uW_ZeMHl2MIVv2ElOPLykgKMUjmyyRXcKNGaswiwKVFWlSvoPkzWNOKS_ksk45Ql6zvcCn1JfFPEUM6Vaqk-kFghYu9fUJVYPPSXuLHi1uxwhZtauOZnUwK7n0Pd2vw="
+        "url": "https://www.tennis365.com/tennis-news/carlos-alcaraz-alexander-zverev-atp-finals-prize-money-ranking-points-2026"
       },
       {
         "title": "gornovosti.ru",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTIN5I8iXipcXMVHeDW_1uT1JatryuLlx8-OIUKnOF-oQxNmwQJUi51hH8DUPhAWh4ornhPQvwXjL0K5lFJE5qgZ9aJhQcDz3beGg15sbmA8B8PEDuA5PYjqqdGxKW5gdMJZMid7wINwdZVsIJvuRrc-NF0yKIwb_IvecL0TK4jQrBF3-G-Dbi9cSmzEKRg4Jw16t8P2bDC0s="
+        "url": "https://gornovosti.ru/news/krasnoyarka-mirra-andreeva-zarabotala-bolee-10-mln-dollarov-za-2026-god/"
       },
       {
         "title": "essentiallysports.com",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV4lf1iD87fJ2ylHPH2wdl9hh_x2R8mUVKOq1XrG-NiisUBtWRZdtJq9xjGPKuI781z6aVOaWuzjgZi0S3OkAehAE-ekzPJjOlfyzeCNNvKGnPmFQT3-NG4E5_RHBeReIa6beMWnt3wYxDoe7e6FSiyCbMgZjeYWDGTpQUVBjiaIajxCNHJL7QYly5ScHosI_06mFUJ_Fs2D52rRd4qRuGbA=="
+        "url": "https://www.essentiallysports.com/wta-tennis-what-is-mirra-andreevas-net-worth-and-career-earnings-in-2026/"
       },
       {
         "title": "news.am",
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfZVbr0_6m5AXQBk0ruNEuZ8q1uDWN_TBTUkvSRmNOCijkMZjN2hkVGHTlblIcK7OefF3sPKbQLY4TX3A8zCZ47S3nPPxSyir3VvxSreWk6NGIuH4OpVDhdjqcagz9nPtvrcqwIh6LcNyeCiG9MOQqyBukNvRli-MYAKXK4jVE962JxynLhWdasxbA6ycBKXn99_OMFAQ_LVTJ"
+        "url": "https://sport.news.am/eng/news/170445/top-5-tennis-players-with-the-highest-prize-money-in-2026.html"
       },
       {
         "title": "Газета: Мирра Андреева вошла в топ-5 по призовым в 2026 году среди всех теннисистов",

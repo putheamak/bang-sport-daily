@@ -1,6 +1,6 @@
 # Photo review — 2026-11-26
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -29,17 +29,12 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **David Beckham**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg)<br>AI sees: _portrait of David Beckham smiling_
+**1. ⚪ not checked** · cover<br>Caption: **David Beckham**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg)
 <br clear="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/HassanSunny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)<br>AI sees: _Goalkeeper Hassan Sunny on the pitch during a football match_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jurong_West_Secondary_School.jpg/1280px-Jurong_West_Secondary_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🔴 WRONG**<br>Caption: **List of secondary schools in Singapore**<br>Asked for: Bedok South Secondary School → got page: List of secondary schools in Singapore<br>2020 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Jurong_West_Secondary_School.jpg)<br>AI sees: _exterior entrance of Jurong West Secondary School_<br>Why: The image shows a school building rather than David Beckham, youth football players, or a football clinic.<br>⚑ asked for 'Bedok South Secondary School' but the photo comes from the page 'List of secondary schools in Singapore'
+**2. ⚪ not checked**<br>Caption: **Singapore goalkeeper Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)
 <br clear="left">
 
 ---
