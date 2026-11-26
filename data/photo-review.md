@@ -184,6 +184,10 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 **2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
 <br clear="left">
 
+🔗 Embedded post: [Cambodian Premier League (@the_official_cpl)](https://www.instagram.com/p/DdeH7JXgVxy/) — {'en': 'Chan Vathanaka in an official Cambodian Premier League post', 'zh': '柬埔寨超级联赛官方帖子中的占·瓦塔纳卡', 'ru': 'Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги'}
+
+🔗 Embedded post: [Boeung Ket FA (@boeungketofficial)](https://www.instagram.com/reel/Dds7NIQBxJ0/) — {'en': 'Chan Vathanaka in an official Boeung Ket video', 'zh': '万吉俱乐部官方视频中的占·瓦塔纳卡', 'ru': 'Чан Ватанака в официальном видео клуба «Боэнг Кет»'}
+
 ---
 
 ## ✅ live · PFL Confirms 14-Fight Lyon Card Headlined by Lapilus vs McKee Title Bout
