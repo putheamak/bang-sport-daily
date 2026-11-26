@@ -1,0 +1,45 @@
+# 右膝术后恢复不及预期，双届赛会冠军辛纳宣布退出2027年澳网
+
+*澳大利亚网球协会证实，这位两届墨尔本公园得主将缺席明年1月的大满贯，继续专注于伤病康复。*
+
+**新闻** · 2026-11-26
+
+澳大利亚网球协会于2026年11月26日（星期四）官方证实，赛会两届男单冠军扬尼克·辛纳（Jannik Sinner）因处于右膝手术康复期，将无缘2027年澳大利亚网球公开赛。现世界排名第二、25岁的意大利名将早在10月便宣布提前结束2026赛季以治疗膝关节炎症，并于本周早些时候接受了手术治疗。
+
+澳大利亚网球协会首席执行官安德鲁·阿卜杜（Andrew Abdo）正式确认了辛纳退出本届澳网的消息。2027赛季首项大满贯赛事定于1月17日在墨尔本公园挥拍开打。
+
+“我们一直与扬尼克的团队保持着密切沟通，他们已确认，鉴于刚刚接受的手术，扬尼克将无法参加明年1月的澳网，”阿卜杜在接受美联社采访时表示，“扬尼克非常热爱在墨尔本比赛，他十分期待在2028年重返澳网赛场。我们衷心祝愿他康复顺利，并期待尽快看到他重返赛场。”
+
+## 难耐保守治疗终动刀，远离巡回赛已数月
+
+此前在11月24日（星期二），辛纳对外宣布，在保守治疗未能彻底痊愈后，他接受了一次右膝“微创”手术。自2026年7月在温网成功卫冕、斩获个人职业生涯第五座大满贯男单冠军奖杯以来，这位意大利球星就再也没有参加过任何一场ATP巡回赛。
+
+他的经纪团队在10月即确认辛纳将缺席2026赛季剩余的所有比赛。这也是辛纳在两个赛季内遭遇的第二次长期休赛——此前在2025年，他曾因与世界反兴奋剂机构（WADA）达成协议而接受了为期三个月的停赛禁令。
+
+“眼下我必须严格遵守康复流程，因为如果操之过急，可能会引发更严重的隐患，”辛纳在11月上旬于米兰举行的新闻发布会上坦言。长时间的高挂免战牌，也让他丢掉了世界第一的宝座，榜首位置被德国名将亚历山大·兹维列夫取而代之。
+
+## 墨尔本福地战绩斐然，签表格局面临洗牌
+
+墨尔本公园见证了辛纳职业生涯中的多座里程碑。2024年，他在男单决赛中上演“让二追三”的惊天大逆转，鏖战五盘击败丹尼尔·梅德韦杰夫，捧起职业生涯首座大满贯金杯；2025年，他又在决赛中直落三盘横扫兹维列夫成功卫冕；直到2026年半决赛，他才遗憾不敌十届赛会冠军诺瓦克·德约科维奇。
+
+在辛纳迄今为止的七次澳网征程中，他取得了27胜5负的傲人战绩，胜率高达84%。随着这位双料冠军退出本届128签的男单正赛争夺，德国人兹维列夫将在明年1月的大满贯打响时以头号种子身份领衔出战。
+
+---
+**来源**
+
+- [AP News - Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://apnews.com/)
+- [The Washington Post - Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://www.washingtonpost.com/sports/tennis/2026/11/25/jannik-sinner-australian-open-knee-surgery/4e8442a8-abb0-11f1-a185-3bcff7a0322b_story.html)
+- [click2houston.com](https://www.click2houston.com/sports/2026/11/26/australian-open-says-jannik-sinner-wont-play-the-first-grand-slam-tennis-tournament-of-2027/)
+- [wsbtv.com](https://www.wsbtv.com/sports/australian-open-says/VRQZWA2CUU5QPB4A3SAAQMIXAA/)
+- [yourvalley.net](https://www.yourvalley.net/stories/australian-open-says-jannik-sinner-wont-play-the-first-grand-slam-tennis-tournament-of-2027,744306)
+- [myMotherLode.com: Australian Open says Jannik Sinner won’t play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPakQyN1lEeVV5RGQxZUp5M0R6Qm1Xbm9WMkJfNlFXYUxzcF93WW82VHhDZFpNQjlaSkw4UWM2RHBCYWpPNE5keUxNWDJ0VHJONkNmYVhsV2k2bERuRWwtTVNrOWh6UFQteTQ5LUZ0T1hUd1lpeUhwYlJxZU80TFV0OTZubTl1UURiNlVjVXhtVGxCWDJwaFZVQ3JzZzhVczk5ZWZvN1BzbXVOUmFJeVFWZmUtZl9RMnBiY2M4YnhGdklDTUh2OTlzZlVMSWxuRFZGLXBWcHk0RTRfSUtFWVNqNzIwTWtQQU0yZVdVS2t4aUwzdFQxbjBzRdIB-AFBVV95cUxPakQyN1lEeVV5RGQxZUp5M0R6Qm1Xbm9WMkJfNlFXYUxzcF93WW82VHhDZFpNQjlaSkw4UWM2RHBCYWpPNE5keUxNWDJ0VHJONkNmYVhsV2k2bERuRWwtTVNrOWh6UFQteTQ5LUZ0T1hUd1lpeUhwYlJxZU80TFV0OTZubTl1UURiNlVjVXhtVGxCWDJwaFZVQ3JzZzhVczk5ZWZvN1BzbXVOUmFJeVFWZmUtZl9RMnBiY2M4YnhGdklDTUh2OTlzZlVMSWxuRFZGLXBWcHk0RTRfSUtFWVNqNzIwTWtQQU0yZVdVS2t4aUwzdFQxbjBzRQ?oc=5)
+- [Castanet: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcU96X0J4bGxjNG5xRzFuR3BZNmQ3b0ZSMWZlQ0IzZmpadWVmNndzV2pQckJzRmhGWC1oYVdkRmNZZms0SHR4SlUyTDE1VFlaLVlhVWRWX1djSVd5RFU0VWxCcXA1MVo0LWgwcG5BbDRuZkxxbWlKSkxBWkJSRDdYRlFDUW9rc0RndEotTTVRQ1NjOEphV1dXNEhwWkFkcXM2VnFoNl9zbkxJbGpxYThNeVU5czM5Tzc3dElRVUJPNDZYQmhRR2RSakJYQ3ptVjdmcXc?oc=5)
+- [Bay to Bay News: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMiywFBVV95cUxObzRPeWtRc2htNEsxRElkUGl0bzdpa2FHM0NwZ1I3cXQ1cHZRTTNvdEdQZHZwNy1Ic2NpR2dWVEZtV3ZLU0ZBMEVvTE52NmZVRzRFNVRjQlkxYjdJOXV4SU5MbXdrempZMndwQmFCajVqalduZ3V4TlZHX3pVaW1Rekx5emJPaVUwdG5hcXk5Y216QkxfYkFsR1R5NHIwQkdmbjZ6THk2THdDdTJ4VzVXWHo0NEx5OERUTU12YTA2QkFXaEhuUnJHLVluTQ?oc=5)
+- [Herald Bulletin: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMioAJBVV95cUxOMF84Wl9YLXYwWWp5SVIxLWU3clFmbV9yRDMtTDJNbXBpZW9PVmh3OF9zcTNfVEZWX2stQ1pnd19FTTIyZVVLOXZXQ0ZQbDBxd2s3N085SGZDTVp1VFV1dG5QbWNBR3RqSC1HRW93NU9NV1J0YXBuV1lYbDJuSFppd2twbzh0bWRxRlFEWlpVVGdQVmdadGNUd1VTdFBlYl9rZExuSlVlN1FJUkJIUGItM1RqeWtiN3JzZ1g2Y0F1LWxXaW1wTUlrRmVrR3hRYWlURnpJU25VaEMtSzJUTm82aE53MFhPOW5OSDcyTW9HXzJoZk9ESHdtTnNCcEdWNDh0M1RmdFh4X3VKWlRzMDhRakloaFNPQjRNNXF2U2ZCcng?oc=5)
+- [巴士的報: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMDMtMGVwX0hmUzVKLWwxazFMQm5LOGJsVFM3M0xvenhZb00xaUowYkNtWHhrR0lIcVhXYzVxUGFENGxaalBQcGkzMU9oTnQyXzdoTlVfVHNySWxDU2dmbElMVGFUbnNaZkR0NkxlODgzV1k3MHdhQ0NkUTVMS2FudTljYi14UUc4RnVKRC1ROS1xSDBRZmh5ZkZOVFZzU1RsdnZkaWNGcW9QdThvY2JyY2VOUjg4OHV0UVo2NlZ2NVhyMjZ5c3pPMEs0ZmNJb3lqRVdGbEpKem54TTA?oc=5)
+- [Spectrum News NY1: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaXBRNEVwb0l2WEtFU2pyNThwNmxwSzlGRkJCXzFhS0NrSWgyOHNMSWE3OC1QVTcyV05GX1dIN0tCZDV6VTBucFdEZzNTQ2IyZ1VJYklLVkpYeHJuS2J0RW9tRmlXZmZXclFvMFdETnF0SXpSWmozOEtYaGtkaS1ZRktZNVBSRUw2OWkwMkNXNzhnaFZmWU1HalJZU3U5THlNNUNUU19ReUVnb2ZwMWhNLXNoaWpJX0g5NkU3dzEwQ0JhMy1naFI3bjZFWHpyOTZMSXk5a0VWaFZ6TUdnNmRzTA?oc=5)
+- [Audacy: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzl6dG5pV0FBblRiYXJzZ1ZKNjY4bFoyWF93YTgxNnhYZlJqZVBWeEJpVDZnR2JYaGtzSVJzb3U1SWpnOHFOWTBBejlsQlZsWUpodXA0ei1wRFRERUYzRWxPNHBtMVVGeDU5MjNnWTFacjZCSGdxa2l0b3cxclpaZngtZEtoSGEwNFJWbTZqdmQtM0ZjRjJrTTNpQkdXQ1RkeFhMbEo3Y3IySWxBZWxiSjZLbEtkQQ?oc=5)
+- [Toronto Star: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMijAJBVV95cUxNUmoxM3BUMlVUNVhOQTQyRFN2ZXczYzU4MHVQaWdHeklUa05iMjNENDNBVjdqa0JFMHJtbWFuT0dCMTBma0xtcklKWFVjVFpGSWw5VTJhT2QxLWJ5UTYtZmVZYVNUQ2tNbXV5U1FNc0xSdTZReHNJNk1LSDlBZjA2cEhYRFpRYTAtR21tNHBKMUVkeUxxMlhtcHdjZURKQ2FqUVlSUUp4NlRxUV84U2Z2V3RUM05VTTJCN081ZjRYSVdpblJxbUtQWS1ZWFFLYk9TLTBIM3loVXFKQjhHU2FwdUlJSlUxb1N1dmhZZHhhdC1kOHNma2RQUGI0OGEwcjQ3VlBXT014ZHBNWHNi?oc=5)
+- [Yahoo Sports – Tennis: Australian Open says Jannik Sinner won't play the first Grand Slam tennis tournament of 2027](https://sports.yahoo.com/tennis/articles/australian-open-says-jannik-sinner-010011335.html)
+- [Davis Cup: The World Cup of Tennis](https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MFhEaHZsdmd4alZkR3cwTWc2T2N0NzFoX0FsTXlZb0k5YUZmRVp2M01BRW16UEhpX1UxcWVsdll5XzZ0SmxFTXRjeEt1MEpKNURHSnlLZWJabU83Y1E?oc=5)
+- [KSNT 27 News: Australian Open says Jannik Sinner won’t play the first Grand Slam tennis tournament of 2027](https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzl0U1Rrb0QwcHAxSmI1ZEdSVTBWWm56Z2hBbktFQ3VmRk00YUQ2LWY5LTRfSEN3WS1ZbFlKeXdESmxfZ2R5bHRPdlJya2pkR3lHTjZsTnpkV2IxZ2F3Q21jVWUtTnlWVVI3QkpyUlp5T1JsNXNsNThVeUdJOXQ0cGZ0UnpDNC1QZFFEQWxVbHJDT3V1bXZhXzcwVjVBVlVsMlN3amZmZWtJX3RWa1B6YmJ3Zy1jS1NmU2tUQUk1aGl6c0JmX2fSAcYBQVVfeXFMTlM5dFNUa29EMHBwMUpiNWRHUlUwVlpuemdoQW5LRUN1ZkZNNGFENi1mOS00X0hDd1ktWWxZSnl3REpsX2dkeWx0T3ZScmtqZEd5R042bE56ZFdiMWdhd0NtY1VlLU55VlVSN0JKclJaeU9SbDVzbDU4VXlHSTl0NHBmdFJ6QzQtUGRRREFsVWxyQ091dW12YV83MFY1QVZVbDJTd2pmZmVrSV90VmtQemJid2ctY0tTZlNrVEFJNWhpenNCZl9n?oc=5)

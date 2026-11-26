@@ -1,8 +1,68 @@
 # Photo review — 2026-11-26
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
+`2026-11-26-news-cfdcd3` · 2026-11-26
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jannik Sinner**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Jannik_Sinner_2025_US_Open.jpg)<br>AI sees: _tennis player Jannik Sinner on court holding a racket_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Melbourne_Park_-_Tennis.jpg/1280px-Melbourne_Park_-_Tennis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Melbourne Park**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Melbourne_Park_-_Tennis.jpg)<br>AI sees: _aerial view of Melbourne Park and surrounding sports precinct_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black Adidas headband and shirt_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · David Beckham Surprises 39 Youth Players at Singapore Football Clinic
+`2026-11-26-news-494315` · 2026-11-26
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **David Beckham**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg)<br>AI sees: _portrait of David Beckham smiling_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/HassanSunny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)<br>AI sees: _Goalkeeper Hassan Sunny on the pitch during a football match_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Jurong_West_Secondary_School.jpg/1280px-Jurong_West_Secondary_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🔴 WRONG**<br>Caption: **List of secondary schools in Singapore**<br>Asked for: Bedok South Secondary School → got page: List of secondary schools in Singapore<br>2020 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Jurong_West_Secondary_School.jpg)<br>AI sees: _exterior entrance of Jurong West Secondary School_<br>Why: The image shows a school building rather than David Beckham, youth football players, or a football clinic.<br>⚑ asked for 'Bedok South Secondary School' but the photo comes from the page 'List of secondary schools in Singapore'
+<br clear="left">
+
+---
+
+## 📝 DRAFT · On This Day in 1917: How an Owner Feud Birthed the National Hockey League
+`2026-11-26-hist-9bf47d` · 2026-11-26
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Frank_Calder.jpg/1280px-Frank_Calder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Frank Calder**<br>2010 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Calder.jpg)<br>AI sees: _portrait of Frank Calder, first NHL president_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Dominion_Square_and_Windsor_Hotel%2C_Montreal%2C_QC%2C_about_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Windsor Hotel (Montreal)**<br>Asked for: The Windsor Hotel (Montreal) → got page: Windsor Hotel (Montreal)<br>2008 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dominion_Square_and_Windsor_Hotel,_Montreal,_QC,_about_1890.jpg)<br>AI sees: _Windsor Hotel and Dominion Square in Montreal_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Frank_Nighbor%2C_Vancouver_Millionaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Frank Nighbor**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Nighbor,_Vancouver_Millionaires.jpg)<br>AI sees: _Frank Nighbor in a Vancouver Millionaires hockey jersey_
+<br clear="left">
+
+---
 
 ## ✅ live · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
 `2026-11-25-news-f7a857` · 2026-11-25
