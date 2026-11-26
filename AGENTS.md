@@ -81,7 +81,10 @@ stop and ask the editor.** When in doubt, do not publish.
 
 1. Built automatically from **publishers' own feeds only**; at least 2 independent websites per item; items with
    no new report for 24 hours drop off.
-2. Not indexed (`noindex,follow`), not in the sitemap, no ads. Only headlines and links, never article text.
+2. Not indexed (`noindex,follow`), not in the sitemap, no ads. Never article text. Headlines are **our own**
+   neutral words (facts only, no clickbait, ≤110 characters, EN/ZH/RU), never an outlet's wording; the outlets'
+   names and links stay as the sources. Without AI, a plain label ("Liverpool, Club Brugge: Football") is shown
+   (editor, 26 Nov 2026).
 3. Our own source label (Widely reported / Confirmed / Unconfirmed) comes first; readers' opinions are only on
    social media and are labelled as theirs. Our reviewed stories are shown first as "Our story".
 4. Share buttons are plain links (no Meta/X/other scripts).

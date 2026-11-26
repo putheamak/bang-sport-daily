@@ -12,7 +12,8 @@ import urllib.parse
 from datetime import datetime, timezone
 from html import escape as E
 
-from .common import DATA, read_json
+from .common import DATA, log, read_json
+from .trending import BET_SOURCE
 
 PAGE = "talking-points.html"
 
@@ -121,6 +122,138 @@ def match_story(st: dict, lang: str, recent: list[dict], by_key: dict) -> dict |
     return best
 
 
+# ---------------------------------------------------------------- our own headlines (editor's rule, 26 Nov 2026)
+# Talking Points never show an outlet's headline wording: each item gets a short neutral headline in our own words
+# (AI, facts only, <=110 characters) or, when the AI is unavailable, a plain label such as
+# "Liverpool, Club Brugge: Football". The outlets' names and links are still shown as the sources.
+MAX_TP_HEADLINE = 110
+_STOP = {"the", "after", "before", "how", "why", "what", "when", "with", "from", "into", "over", "this", "that",
+         "their", "they", "will", "says", "said", "could", "would", "should", "here", "there", "live", "watch",
+         "report", "reports", "update", "news", "video", "photos", "breaking", "exclusive", "today", "tonight"}
+_PLAIN = {"en": "{names}: {sport}", "zh": "{sport}：{names}", "ru": "{names}: {sport}"}
+_TOPIC = {"en": "{sport}: a talking point", "zh": "{sport}热议话题", "ru": "{sport}: тема дня"}
+
+
+def _names(st: dict) -> list[str]:
+    """Proper names that appear in at least two of the outlets' headlines (or in the only one), most common first."""
+    titles = [st.get("title") or ""] + [r.get("title") or "" for r in st.get("refs") or []]
+    count: dict[str, int] = {}
+    shown: dict[str, str] = {}
+    inner: set[str] = set()                          # seen somewhere other than the first word of a headline
+
+    def title_case(t):                               # "Josh Hokit Offers To Save..." hides which words are names
+        w = re.findall(r"[^\W\d_][\w'’-]*", t)
+        return len(w) >= 4 and sum(x[0].isupper() for x in w) / len(w) > 0.6
+    sentence = [t for t in titles if t and not title_case(t)]
+    if sentence:
+        titles = sentence
+    for t in titles:
+        found = {}
+        for m in re.finditer(r"[A-ZА-ЯЁ][\w'’-]+(?:\s+[A-ZА-ЯЁ][\w'’-]+)*", t):
+            parts = [x for x in m.group(0).strip(".'’").split() if x.lower() not in _STOP and not BET_SOURCE.search(x)]
+            if not parts or len(" ".join(parts)) < 3:
+                continue
+            k = " ".join(parts).lower()
+            starts = t[:m.start()].strip(" «\"'“")
+            if starts:
+                inner.add(k)
+            found.setdefault(k, " ".join(parts))
+        for k, v in found.items():
+            count[k] = count.get(k, 0) + 1
+            shown.setdefault(k, v)
+    need = 2 if len([t for t in titles if t]) > 1 else 1
+    best = sorted((k for k in count if count[k] >= need and (k in inner or len(k.split()) > 1)),
+                  key=lambda k: (-count[k], titles[0].lower().find(k) % 999))
+    out: list[str] = []
+    for k in best:                                   # "Josh Hokit" rather than also "Josh Hokit Offers"
+        if any(k in o.lower() or o.lower() in k for o in out):
+            continue
+        out.append(shown[k])
+    return out
+
+
+def plain_label(cfg, st: dict, lang: str) -> str:
+    """Fallback when no AI headline exists: names + sport, never the outlet's wording."""
+    sport = _sport_name(cfg, st.get("sport"), lang)
+    names = _names(st)[:2]
+    if not names:
+        return _TOPIC[lang].format(sport=sport)
+    return _PLAIN[lang].format(names=", ".join(names), sport=sport)[:MAX_TP_HEADLINE]
+
+
+def own_title(cfg, st: dict, lang: str) -> str:
+    h = (st.get("headline_own") or "").strip()
+    return h if h and len(h) <= MAX_TP_HEADLINE else plain_label(cfg, st, lang)
+
+
+def _too_close(h: str, titles: list[str]) -> bool:
+    """Our headline must not repeat an outlet's wording: no identical headline and no 6-word run in common."""
+    def words(x):
+        return re.findall(r"\w+", x.lower())
+    mine = words(h)
+    runs = {tuple(mine[i:i + 6]) for i in range(len(mine) - 5)}
+    for t in titles:
+        w = words(t)
+        if w == mine or runs & {tuple(w[i:i + 6]) for i in range(len(w) - 5)}:
+            return True
+    return False
+
+
+def valid_own(h: str, titles: list[str]) -> bool:
+    from .standards import CLICKBAIT
+    h = (h or "").strip()
+    return bool(h) and len(h) <= MAX_TP_HEADLINE and not h.isupper() and not CLICKBAIT.search(h) \
+        and "?" not in h and "!" not in h and not _too_close(h, titles)
+
+
+def own_headlines(cfg, data: dict) -> int:
+    """Give every item on the public page our own neutral headline (cached per language and key in
+    data["own_headlines"], so each item costs one AI call at most). Returns how many new ones were written."""
+    import json
+    from .llm import generate, provider
+    cache = data.setdefault("own_headlines", {})
+    items: list[tuple[str, dict]] = []
+    for lang in ("en", "zh", "ru"):
+        lst = list((data.get("board") or {}).get(lang) or []) + list((data.get("local") or {}).get(lang) or []) \
+            + list(((data.get("spotlight") or {}).get(lang) or {}).get("items") or [])
+        items += [(lang, st) for st in lst]
+    todo = []
+    for lang, st in items:
+        ck = f'{lang}:{st["key"]}'
+        if cache.get(ck):
+            st["headline_own"] = cache[ck]
+        elif ck not in {f"{l}:{x['key']}" for l, x in todo}:
+            todo.append((lang, st))
+    new = 0
+    if todo and provider(cfg) != "mock":
+        lang_name = {"en": "English", "zh": "Simplified Chinese", "ru": "Russian"}
+        req = [{"id": f'{lang}:{st["key"]}', "language": lang_name[lang],
+                "outlet_headlines": [st.get("title") or ""] + [r.get("title") or "" for r in (st.get("refs") or [])[:5]]}
+               for lang, st in todo[:40]]
+        system = ("You write short, neutral news headlines for a sports website's list of talking points. Use only facts "
+                  "that appear in the outlet headlines given. Write in your own words: never copy an outlet's headline or "
+                  "a run of its words. No clickbait, no questions, no exclamation marks, no opinions, no all-caps, no "
+                  "outlet names. At most 100 characters. Write in the language asked for.")
+        prompt = ("Return only a JSON object mapping each id to one headline.\n" + json.dumps(req, ensure_ascii=False))
+        try:
+            text, _, _ = generate(cfg, system, prompt, search=False)
+            raw = text[text.find("{"): text.rfind("}") + 1]
+            got = json.loads(raw) if raw else {}
+        except Exception as e:  # noqa: BLE001
+            log.warning("Talking Points headlines: AI unavailable (%s); plain labels are used", str(e)[:120])
+            got = {}
+        for lang, st in todo:
+            ck = f'{lang}:{st["key"]}'
+            h = str(got.get(ck) or "").strip()
+            titles = [st.get("title") or ""] + [r.get("title") or "" for r in st.get("refs") or []]
+            if valid_own(h, titles):
+                cache[ck] = st["headline_own"] = h
+                new += 1
+    for ck in list(cache)[:-400]:                        # keep the newest 400
+        cache.pop(ck, None)
+    return new
+
+
 def _recent(articles: list[dict], days: int = 4) -> list[dict]:
     from datetime import timedelta
     cut = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
@@ -193,7 +326,7 @@ def _item(cfg, lang: str, rank: int, st: dict, ours: dict | None, base: str) -> 
     story_url = f'{base}/{lang}/{ours["slug"]}' if ours and base else ""
     page_url = f"{base}/{lang}/talking-points#{anchor}" if base else f"#{anchor}"
     L = (ours or {}).get(lang) or {}
-    title = L.get("headline") or st["title"]
+    title = L.get("headline") or own_title(cfg, st, lang)
     refs = st.get("refs") or []
     src = ", ".join(f'<a href="{E(r["link"])}" target="_blank" rel="noopener nofollow">{E(r["source"])}</a>' for r in refs[:4])
     more = f' +{len(refs) - 4}' if len(refs) > 4 else ""
@@ -267,11 +400,11 @@ def home_box(cfg, lang: str, data: dict, articles: list[dict]) -> str:
     rows = ""
     for i, st in enumerate(stories, 1):
         cls, lab = label(st["outlets"], lang)
-        rows += (f'<li><a href="talking-points.html#tp-{E(st["key"])}"><b>{i}</b><span>{E(st["title"])}'
+        rows += (f'<li><a href="talking-points.html#tp-{E(st["key"])}"><b>{i}</b><span>{E(own_title(cfg, st, lang))}'
                  f'<em class="tp-label {cls}">{E(lab)}</em></span></a></li>')
     if kun:
         rows += (f'<li class="tp-kunrow"><a href="talking-points.html#tp-{E(kun["key"])}"><b>KH</b><span>'
-                 f'<em class="tp-kun">Kun Khmer</em> {E(kun["title"])}</span></a></li>')
+                 f'<em class="tp-kun">Kun Khmer</em> {E(own_title(cfg, kun, lang))}</span></a></li>')
     return (f'<section class="tp-box"><h4><span class="tp-dot" aria-hidden="true"></span>{E(s["box"])}</h4>'
             f'<p>{E(s["box_note"])} · {_time(data.get("updated"), lang)}</p><ol>{rows}</ol>'
             f'<a class="tp-all" href="talking-points.html">{E(s["all"])} →</a></section>')

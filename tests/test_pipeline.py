@@ -1333,7 +1333,7 @@ def test_parse_embed_x_post():
 def test_talking_points_labels_and_box():
     from sportnews.talking import label, home_box, page_body
     assert label(7, "en")[0] == "tp-wide" and label(3, "en")[0] == "tp-conf" and label(1, "en")[0] == "tp-unconf"
-    st = {"key": "abc", "title": "A & B", "outlets": 3, "sport": "football", "refs": [{"source": "X", "link": "https://x.y/1"}],
+    st = {"key": "abc", "title": "Outlet words", "headline_own": "A & B", "outlets": 3, "sport": "football", "refs": [{"source": "X", "link": "https://x.y/1"}],
           "first_seen": "2026-11-24T05:00:00+00:00"}
     data = {"updated": "2026-11-24T06:00:00+00:00", "board": {"en": [st]}, "spotlight": {}, "local": {}}
     box = home_box({}, "en", data, [])
@@ -1447,3 +1447,36 @@ def test_photo_waiver_turns_picture_rule_into_info(monkeypatch):
     monkeypatch.setattr(images, "load_overrides", lambda: {"w1": {"photo_waiver": "accepted: no free photo"}})
     pic = [i for i in standards.check_article(cfg, a, "2026-11-26") if "picture(s)" in i["msg"]]
     assert pic == [{"level": "INFO", "area": "photos", "msg": "1 picture(s), accepted by the editor: accepted: no free photo"}]
+
+
+def test_talking_points_use_our_own_headlines(monkeypatch):
+    from sportnews import talking
+    refs = [{"source": "BBC", "link": "https://bbc.co.uk/1", "title": "Liverpool thrash Club Brugge in stunning Anfield rout"},
+            {"source": "Guardian", "link": "https://theguardian.com/2", "title": "Club Brugge humbled as Liverpool run riot"}]
+    st = {"key": "k9", "title": refs[0]["title"], "outlets": 2, "sport": "football", "refs": refs}
+    # no AI: a plain label of names + sport, never the outlet's wording
+    lab = talking.own_title({}, st, "en")
+    assert "Liverpool" in lab and "Club Brugge" in lab and "thrash" not in lab and "rout" not in lab and len(lab) <= 110
+    # an AI headline that copies the outlet is refused; a neutral one in our words is used
+    assert not talking.valid_own("Liverpool thrash Club Brugge in stunning Anfield rout", [refs[0]["title"]])
+    assert not talking.valid_own("SHOCKING: Liverpool beat Club Brugge!", [refs[0]["title"]])
+    st2 = dict(st, headline_own="Liverpool beat Club Brugge at Anfield in the Champions League")
+    data = {"updated": "2026-11-26T06:00:00+00:00", "board": {"en": [st2]}, "spotlight": {}, "local": {}}
+    body = talking.page_body({}, "en", data, [], "https://example.com")
+    box = talking.home_box({}, "en", data, [])
+    for html in (body, box):
+        assert "Liverpool beat Club Brugge at Anfield" in html and "stunning Anfield rout" not in html
+    assert "bbc.co.uk/1" in body and ">BBC<" in body            # outlet names and links stay
+    # mock mode (no AI key): nothing written, labels used
+    monkeypatch.setenv("SPORTNEWS_MOCK", "1")
+    assert talking.own_headlines({"ai": {}}, {"board": {"en": [dict(st)]}}) == 0
+
+
+def test_talking_points_noindex_no_ads_not_in_sitemap():
+    import sportnews.site as site
+    import inspect
+    assert "talking" in site.NO_ADS
+    src = inspect.getsource(site)
+    assert 'active="talking", noindex=True' in src
+    sm = src[src.find('"sitemap.xml"'):src.find('"news-sitemap.xml"')]
+    assert "talking" not in sm

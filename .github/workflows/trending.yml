@@ -30,6 +30,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_REVIEW_CHAT: ${{ secrets.TELEGRAM_REVIEW_CHAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # our own neutral Talking Points headlines (one call per run)
         run: python -m sportnews trending
       - name: Update the Talking Points pages on the website
         run: python -m sportnews site

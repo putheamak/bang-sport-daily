@@ -348,6 +348,11 @@ def scan(cfg: dict, items: list[dict] | None = None, notify: bool = True) -> dic
     for k in list(seen)[:-300]:
         seen.pop(k, None)
     data.update(board=board, spotlight=spotlight, local=local)
+    try:                                                 # our own neutral headlines for the public page
+        from .talking import own_headlines
+        log.info("Talking Points: %d new own headlines", own_headlines(cfg, data))
+    except Exception as e:  # noqa: BLE001
+        log.warning("Talking Points own headlines skipped: %s", e)
     data.pop("board_combat", None)
     for st in stories + combat:
         known[st["key"]] = st

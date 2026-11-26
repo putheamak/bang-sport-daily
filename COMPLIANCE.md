@@ -110,7 +110,12 @@ outlets' headlines, with links. To stay within Google's rules:
   AdSense code off these pages even after `adsense_client` is set.
 - **Not indexed** (`noindex,follow`) and not in the sitemap, so Google does not judge the site by an automatic list
   (spam policies: scraped / combined RSS content). Google still follows its links to our own stories.
-- **Only headlines and links** are shown, never article text. Betting and tipster sites are never counted or linked.
+- **Our own headlines, outlets' links (editor, 26 Nov 2026).** Each item shows a short neutral headline written in
+  our own words (`talking.own_headlines`: facts from the outlets' headlines only, no clickbait, no questions or
+  exclamation marks, ≤110 characters, in EN/ZH/RU; refused if it repeats an outlet headline or a 6-word run of it).
+  When the AI is unavailable, a plain label of names and sport is shown ("Liverpool, Club Brugge: Football"), never
+  the outlet's wording. The outlets' names and links stay as the sources. Never article text. Betting and tipster
+  sites are never counted or linked, and betting brand names are left out of the labels.
 - **Our own value:** talking points we have covered show an "Our story" card (our headline, our reviewed summary,
   a link) and are listed first. When most top items carry our own stories, indexing can be reconsidered — ads stay off.
 - **Share buttons are plain links** (Facebook, WhatsApp, X, Telegram, VK, Weibo): no third-party scripts or cookies.
