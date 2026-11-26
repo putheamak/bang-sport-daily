@@ -1,5 +1,451 @@
 [
   {
+    "id": "2026-11-26-news-6daa79",
+    "slug": "bennie-boatwright-debuts-as-kai-sotto-boosts-gilas-pilipinas",
+    "date": "2026-11-26",
+    "created": "2026-11-26T21:40:42+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Basketball",
+    "tags": [
+      "Basketball",
+      "Gilas Pilipinas",
+      "FIBA World Cup Qualifiers",
+      "Kai Sotto",
+      "Bennie Boatwright",
+      "Tim Cone",
+      "Philippines"
+    ],
+    "athletes": [
+      "Bennie Boatwright",
+      "Kai Sotto",
+      "AJ Edu",
+      "Quentin Millora-Brown",
+      "Mike Phillips",
+      "Dwight Ramos",
+      "CJ Perez",
+      "Scottie Thompson"
+    ],
+    "image_subjects": [
+      "Bennie Boatwright",
+      "Kai Sotto",
+      "Tim Cone",
+      "Philippines men's national basketball team"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Bennie Boatwright 'excited' for Gilas debut after long process - Sports Inquirer",
+        "url": "https://sports.inquirer.net/files/2026/11/bennie-boatwright-gilas-1200x900.jpg"
+      },
+      {
+        "title": "Gilas' height, versatility give Kai Sotto reason to be optimistic in FIBA window - ABS-CBN",
+        "url": "https://www.abs-cbn.com/sports/basketball/2026/11/25/gilas-height-versatility-give-kai-sotto-reason-to-be-optimistic-in-fiba-window-2312"
+      },
+      {
+        "title": "Gilas takes on Syria in FIBA Asian qualifier - Manila Standard",
+        "url": "https://manilastandard.net/sports/basketball/314823486/gilas-takes-on-syria-in-fiba-asian-qualfier.html"
+      },
+      {
+        "title": "Boatwright races to learn Cone's system ahead of Gilas debut - Tiebreaker Times",
+        "url": "https://tiebreakertimes.com.ph/tbt/boatwright-races-to-learn-cones-system-ahead-of-gilas-debut/390828"
+      },
+      {
+        "title": "inquirer.net",
+        "url": "https://sports.inquirer.net/708469/bennie-boatwright-excited-for-gilas-debut-after-long-process"
+      },
+      {
+        "title": "fiba.basketball",
+        "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/group-e-preview-fiba-basketball-world-cup-2027-asian-qualifiers-window-5"
+      },
+      {
+        "title": "tiebreakertimes.com.ph",
+        "url": "https://tiebreakertimes.com.ph/tbt/kai-sotto-excited-by-gilas-most-versatile-frontline-yet/390740"
+      },
+      {
+        "title": "basketnews.com",
+        "url": "https://basketnews.com/news-260138-kai-sotto-status-for-philippines-crucial-fiba-world-cup-qualifiers-revealed.html"
+      },
+      {
+        "title": "fiba.basketball",
+        "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/teams/philippines/235828-kai-sotto"
+      },
+      {
+        "title": "manilastandard.net",
+        "url": "https://manilastandard.net/sports/basketball/314822954/tall-gilas-ph-roster-excites-kai.html"
+      },
+      {
+        "title": "sundaypunch.ph",
+        "url": "https://sundaypunch.ph/rhenz-abando-returns-bennie-boatwright-joins-gilas-pilipinas-for-world-cup-qualifiers/"
+      },
+      {
+        "title": "philstar.com",
+        "url": "https://www.philstar.com/sports/2026/11/23/2571965/cone-relishes-full-gilas"
+      },
+      {
+        "title": "tiebreakertimes.com.ph",
+        "url": "https://tiebreakertimes.com.ph/tbt/tim-cone-sees-promising-signs-as-bennie-boatwright-settles-into-gilas-role/390749"
+      },
+      {
+        "title": "gmanetwork.com",
+        "url": "https://www.gmanetwork.com/news/sports/basketball/1010714/gilas-pilipinas-at-the-2026-fiba-world-cup-asian-qualifiers-window-5-schedule-lineup-and-recap/story/"
+      },
+      {
+        "title": "Olympics: Can Boatwright's arrival and Sotto's return give the Philippines the edge in FIBA World Cup qualifying?",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTV0X29kMkNraHBtSlpWa2ZQdTJnSkhNcWNZYlBtZEJaclJkQzdDS2lBZEwwVEkwWEoxV2J3bmZBRkJrcUF5bERpdnQwY291dTNZMkxWZ21LM2M1RkJHWGRLTWVOcHRxc0t5YTBkanZSYkNEX0JSTEhGWW12cjRUQUItQWZBczZkMWJKZzVoYjZOTVRMYVlBelBZbE90MnBISFM3V0UtZU9Va3RyM25SU3lJY19Od0RtbEN4bw?oc=5"
+      },
+      {
+        "title": "Davis Cup: The World Cup of Tennis",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSmNBX3J0TUVDcUppQWE3Vl9oRnYwOXhncmdlQUFIN2w2S21Kc25qSWFKeUI3aHgxVWpKQUxiSWoxSEtoejV2Y3pUam84UXFPci12RlM4MEViUm5Kb0JpS1RhMVJaWHJjUVVoTUFlLTB3b2czSHpDbGladWVlUQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Bennie Boatwright Debuts as Kai Sotto Boosts Gilas Pilipinas for FIBA Window 5",
+      "seo_title": "Gilas Pilipinas: Boatwright and Sotto in FIBA Qualifiers",
+      "subheadline": "Tim Cone unveils a towering frontline in Malaysia as the Philippines targets crucial Group E wins against Syria and Iran.",
+      "body_markdown": "Gilas Pilipinas finalized its preparations on Thursday in Seremban, Malaysia, ahead of Friday's 2027 FIBA Basketball World Cup Asian Qualifiers meeting with Syria at Karisma Arena. Head coach Tim Cone will hand 6-foot-10 naturalized forward Bennie Boatwright his international debut, pairing him alongside 7-foot-3 center Kai Sotto in an expanded frontline for the penultimate qualifying window.\n\n## A towering frontline for Seremban\n\nSotto, the 24-year-old center playing for Altiri Chiba in Japan's B.League, averaged 15.5 points and 15.0 rebounds per game during the fourth window in August 2026, when the Philippines defeated Jordan and Iran at the Mall of Asia Arena. Sotto confirmed during an online press conference on Tuesday that he is cleared to play despite managing knee swelling from his club campaign.\n\n\"Ako gusto ko lagi may kasama akong malaki na makakasama ko sa court,\" Sotto told reporters, noting that Boatwright's outside shooting allows the frontline to stretch the floor without losing size. Gilas also features 6-foot-10 AJ Edu, 6-foot-9 Quentin Millora-Brown, and 6-foot-8 Mike Phillips, with Kevin Quiambao and Troy Rosario bolstering the forward rotation.\n\n## Crash course in Cone's triangle\n\nBoatwright obtained his Philippine passport in October 2026, stepping into the naturalized player role following an injury to veteran Justin Brownlee. The 30-year-old former USC forward arrived in Seremban on November 22 after completing his stint with the Fujian Sturgeons in the Chinese Basketball Association. Gilas tested the combination on Tuesday, defeating Malaysian club KL Hornbills in a tune-up game.\n\n\"It's complicated,\" Boatwright said of Cone's triangle offense. \"You have to know reads. It's not just a simple call and play... but my teammates are making it very easy on me.\" Former San Miguel teammate CJ Perez helped guide Boatwright through the sets alongside backcourt regulars Scottie Thompson, Dwight Ramos, Chris Newsome, and Juan Gomez de Liaño.\n\n## The qualification race in Group E\n\nThe Philippines enters Window 5 sitting fifth in Group E with a 4-4 record (12 points), chasing Australia (8-0), New Zealand (6-2), Iran (5-3), and Jordan (5-3), while Syria stands at 2-6. The top three teams in each group, alongside the best fourth-placed team across both Asian qualifying pools, qualify for the 2027 FIBA Basketball World Cup in Qatar.\n\n\"What happens on paper doesn't necessarily translate to the floor,\" Cone said. \"That's why you have practice and you work with the guys on the floor.\" Gilas faces Syria on Friday, November 27, and meets Iran on Sunday, November 29, before closing the qualifying schedule on home soil in Cebu in February 2027.",
+      "social_post": "From Seremban to Manila 🇵🇭 Gilas Pilipinas unleashes its tallest frontline yet as Bennie Boatwright debuts alongside Kai Sotto in the FIBA World Cup Asian Qualifiers. Coach Tim Cone's squad sits fifth in Group E at 4-4, needing wins over Syria on Friday and Iran on Sunday to stay on track for Qatar 2027. With Boatwright replacing Justin Brownlee and Sotto cleared after knee swelling, how far can this new frontcourt go? Share your thoughts below! #GilasPilipinas #FIBAWC #LabanPilipinas"
+    },
+    "zh": {
+      "headline": "博特赖特首秀搭档索托 菲律宾男篮筑起制空内线出战世预赛第五窗口期",
+      "seo_title": "菲律宾男篮世预赛：博特赖特携手索托",
+      "subheadline": "主帅蒂姆·科恩在马来西亚排出一套罕见的超高锋线，菲律宾队力求在E组关键战中击败叙利亚与伊朗。",
+      "body_markdown": "周四，菲律宾男篮（Gilas Pilipinas）在马来西亚芙蓉市完成了赛前的最后一堂备战课。周五，球队将在卡里斯马体育馆（Karisma Arena）打响2027年男篮世界杯亚大区预选赛对阵叙利亚的比赛。主教练蒂姆·科恩（Tim Cone）将在这一倒数第二个窗口期派出前所未有的超高内线组合：身高6英尺10英寸（约2.08米）的归化前锋本尼·博特赖特（Bennie Boatwright）将迎来国家队首秀，与身高7英尺3英寸（约2.21米）的年轻中锋凯·索托（Kai Sotto）联袂登场。\n\n## 芙蓉赛场上的“空中长城”\n\n年仅24岁的索托目前效力于日本B联赛的千叶阿尔提里队（Altiri Chiba）。在2026年8月的世预赛第四窗口期中，他场均砍下15.5分和15.0个篮板的统治级两双，力助菲律宾队在亚洲购物中心体育馆连克约旦与伊朗。在周二举行的线上发布会上，索托亲自确认，尽管俱乐部比赛给膝盖带来了一些肿胀困扰，但他已经获准出战。\n\n“我一直希望场上能有一个身材高大的搭档和我一起作战，”索托向记者表示，他指出博特赖特出色的外线投射能力让球队在不牺牲内线高度的同时，还能拉开场上进攻空间。除了这对内线首发，菲律宾阵中还坐拥6英尺10英寸的AJ·埃杜（AJ Edu）、6英尺9英寸的昆汀·米洛拉-布朗（Quentin Millora-Brown）以及6英尺8英寸的迈克·菲利普斯（Mike Phillips），锋线位置则由凯文·基安保（Kevin Quiambao）与特洛伊·罗萨里奥（Troy Rosario）提供坚实轮换。\n\n## 火线参悟科恩的三角进攻\n\n博特赖特于2026年10月正式拿到菲律宾护照。由于功勋老将贾斯汀·布朗利（Justin Brownlee）遭遇伤病，这位30岁的前南加州大学（USC）前锋火线挑起归化球员重任。在刚刚结束了中国男子篮球职业联赛（CBA）福建鲟浔兴俱乐部的赛程后，他于11月22日赶赴芙蓉市与球队会合。周二的内部热身赛中，菲律宾队小试牛刀击败了马来西亚本土俱乐部吉隆坡犀鸟队（KL Hornbills）。\n\n“这套战术非常复杂，”博特赖特在谈及科恩主导的三角进攻时坦言，“你必须学会阅读防守，这绝不是叫个简单的战术跑位就能完成的……不过队友们帮了我大忙，让我融入得非常轻松。”他在前俱乐部生力啤酒人队（San Miguel Beermen）的队友CJ·佩雷斯（CJ Perez）与后场常规主力斯科蒂·汤普森（Scottie Thompson）、德怀特·拉莫斯（Dwight Ramos）、克里斯·纽瑟姆（Chris Newsome）及胡安·戈麦斯·德利亚尼奥（Juan Gomez de Liaño）一同为他梳理场上战术跑位。\n\n## E组刺刀见红的出线名额之争\n\n第五窗口期开打前，菲律宾男篮在E组以4胜4负积12分的成绩暂列第五，紧追暂居前列的澳大利亚（8胜0负）、新西兰（6胜2负）、伊朗（5胜3负）和约旦（5胜3负），而叙利亚则以2胜6负垫底。按照出线规则，亚大区两个预选赛小组各自的前三名，加上成绩最好的一支小组第四名球队，将携手进军2027年卡塔尔男篮世界杯。\n\n“纸面上的实力永远不等同于赛场上的实际表现，”科恩表示，“正因如此，你必须通过训练和球员在场上一步步去打磨。”菲律宾队将于11月27日周五迎战叙利亚，随后在11月29日周日面对伊朗。2027年2月，他们将回到宿务主场，完成世预赛最后阶段的收官战。",
+      "social_post": "从芙蓉市到马尼拉🇵🇭 菲律宾男篮迎来史上最高内线！归化前锋博特赖特迎来国家队首秀，携手7尺3寸的凯·索托出战世预赛第五窗口期。目前科恩的球队在E组以4胜4负位居第五，周五战叙利亚、周日碰伊朗，场场皆为通往2027卡塔尔世界杯的关键战役。博特赖特火线顶替布朗利，索托膝部无大碍，这对全新双塔能带菲律宾走多远？欢迎在评论区聊聊！#男篮世预赛 #菲律宾男篮 #FIBA"
+    },
+    "ru": {
+      "headline": "Дебют Ботрайта и возвращение Сотто: «Гилас Пилипинас» усиливает переднюю линию перед окном FIBA",
+      "seo_title": "Филиппины в отборе Кубка мира FIBA: дебют Ботрайта и Сотто",
+      "subheadline": "Тим Коун выставит мощный высокорослый фронткорт в Малайзии, где Филиппинам жизненно необходимы победы над Сирией и Ираном.",
+      "body_markdown": "В четверг национальная сборная Филиппин («Гилас Пилипинас») завершила подготовку в малайзийском Серембане к пятничному матчу азиатской квалификации Кубка мира FIBA 2027 года против Сирии на паркете арены «Карисма». Главный тренер Тим Коун (Tim Cone) предоставит шанс дебютировать на международной арене натурализованному форварду Бенни Ботрайту (Bennie Boatwright, рост 208 см), составив пару в передней линии с центровым Каем Сотто (Kai Sotto, 221 см) в рамках предпоследнего квалификационного окна.\n\n## Двухметровая стена в Серембане\n\n24-летний центровой Сотто, выступающий в японской Би-лиге за клуб «Алтири Тиба» (Altiri Chiba), в августе 2026 года в рамках четвертого окна набирал впечатляющие 15,5 очка и 15,0 подбора в среднем за матч, когда филиппинцы обыграли Иорданию и Иран на домашней «Молл оф Азия Арене». На вторничной онлайн-пресс-конференции Сотто подтвердил, что врачи допустили его к играм, несмотря на беспокоивший отек колена после выступлений за клуб.\n\n«Мне всегда хочется, чтобы рядом на площадке был еще один высокий игрок», — признался Сотто журналистам, отметив, что бросок Ботрайта с дистанции позволяет растягивать оборону соперника без потери габаритов под щитом. Помимо дуэта стартеров, в ротации Коуна заявлены Эй-Джей Эду (AJ Edu, 208 см), Квентин Миллора-Браун (Quentin Millora-Brown, 206 см) и Майк Филлипс (Mike Phillips, 203 см), а глубину на позиции форвардов обеспечивают Кевин Киамбао (Kevin Quiambao) и Трой Росарио (Troy Rosario).\n\n## Экспресс-курс треугольного нападения Коуна\n\nБотрайт оформил филиппинский паспорт в октябре 2026 года, заняв вакансию натурализованного игрока после травмы ветерана Джастина Браунли (Justin Brownlee). 30-летний выпускник университета Южной Калифорнии (USC) прибыл в Серембан 22 ноября, завершив контрактные обязательства перед китайским клубом «Фуцзянь Стердженс» (Fujian Sturgeons). Филиппинцы уже опробовали обновленный состав во вторник, одержав уверенную победу в спарринге над малайзийским клубом «КЛ Хорнбиллс».\n\n«Это сложная система, — поделился впечатлениями Ботрайт о знаменитом треугольном нападении Тима Коуна. — Нужно постоянно читать эпизоды. Тут нет шаблонных комбинаций по заказу... но партнеры здорово облегчают мне процесс адаптации». Экс-одноклубник по «Сан-Мигель» Си-Джей Перес (CJ Perez) помогает новичку осваивать комбинации наряду со старожилами задней линии — Скотти Томпсоном (Scottie Thompson), Дуайтом Рамосом (Dwight Ramos), Крисом Ньюсомом (Chris Newsome) и Хуаном Гомесом де Лианьо (Juan Gomez de Liaño).\n\n## Борьба за путевки в группе E\n\nПеред пятым окном сборная Филиппин занимает пятое место в группе E с балансом побед и поражений 4-4 (12 очков), ведя погоню за Австралией (8-0), Новой Зеландией (6-2), Ираном (5-3) и Иорданией (5-3); замыкает таблицу Сирия (2-6). Напрямую на Кубок мира FIBA 2027 года в Катаре выходят три лучшие команды из каждой группы, а также лучшая сборная среди занявших четвертые места в обоих азиатских пулах.\n\n«То, что написано на бумаге, далеко не всегда переносится на паркет, — подчеркнул Коун. — Именно поэтому мы проводим тренировки и отрабатываем все нюансы вживую». В пятницу, 27 ноября, «Гилас» сыграют с Сирией, в воскресенье, 29 ноября, встретятся с Ираном, а завершится квалификационный марафон для филиппинцев домашними матчами в Себу в феврале 2027 года.",
+      "social_post": "Из Серембана в Манилу 🇵🇭 Сборная Филиппин выкатывает самый внушительный фронткорт в своей истории! Натурализованный форвард Бенни Ботрайт дебютирует в связке с 221-сантиметровым Каем Сотто в окне отбора на Кубок мира FIBA. Команда Тима Коуна идет пятой в группе E (4-4), и победы над Сирией в пятницу и Ираном в воскресенье нужны как воздух. Сумеет ли обновленная связка больших вывести Филиппины в Катар-2027? Ждем ваши прогнозы в комментариях! #GilasPilipinas #FIBAWC #Баскетбол"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bennie_Boatwright_2026.jpg/1280px-Bennie_Boatwright_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg",
+        "artist": "MarcusAbacus",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Bennie Boatwright with the San Miguel Beermen in 2026",
+        "width": 1200,
+        "height": 1500,
+        "year": 2026,
+        "subject": "Bennie Boatwright",
+        "asked": "Bennie Boatwright",
+        "page_title": "Bennie Boatwright",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:bennie_boatwright_2026.jpg|Bennie Boatwright",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Bennie Boatwright in San Miguel Beermen uniform",
+          "reason": "The image correctly shows basketball player Bennie Boatwright during a PBA Commissioner's Cup game.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_sotto_yokohama_b_corsairs_b_league.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg",
+        "artist": "Jericho Martinez",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "kai sotto yokohama b corsairs b league",
+        "width": 1200,
+        "height": 1938,
+        "year": 2024,
+        "subject": "Kai Sotto",
+        "asked": "Kai Sotto",
+        "page_title": "Kai Sotto",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:kai_sotto_yokohama_b_corsairs_b_league.jpg|Kai Sotto",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Kai Sotto playing for Yokohama B-Corsairs",
+          "reason": "The photo clearly shows basketball player Kai Sotto in his Yokohama B-Corsairs uniform with his distinct arm tattoo.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg",
+        "artist": "Jess Escaros for the Philippine News Agency",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "The Ginebra champion team led by coach Tim Cone, team manager Al Francis Chua and Ramon Ang (right), chief of San Miguel Corporation, celebrate during the victory party held at the San Miguel Corporat",
+        "width": 1200,
+        "height": 1794,
+        "year": 2018,
+        "subject": "Tim Cone",
+        "asked": "Tim Cone",
+        "page_title": "Tim Cone",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:barangay_ginebra_pba_champions_victory_party_tim_cone(cropped).jpg|Tim Cone",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Basketball coach Tim Cone speaking into a microphone",
+          "reason": "The image clearly shows Gilas Pilipinas head coach Tim Cone.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-26-news-90b9af",
+    "slug": "daniel-dubois-to-defend-wbo-heavyweight-title-against-joseph",
+    "date": "2026-11-26",
+    "created": "2026-11-26T21:39:16+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "Daniel Dubois",
+      "Joseph Parker",
+      "Boxing",
+      "WBO",
+      "Heavyweight",
+      "Queensberry Promotions",
+      "DAZN"
+    ],
+    "athletes": [
+      "Daniel Dubois",
+      "Joseph Parker",
+      "Fabio Wardley",
+      "Anthony Joshua"
+    ],
+    "image_subjects": [
+      "Daniel Dubois",
+      "Joseph Parker (boxer)",
+      "Co-op Live",
+      "Frank Warren"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Daniel Dubois vs Joseph Parker - New Year's Retribution",
+        "url": "https://queensberry.co.uk/pages/daniel-dubois-vs-joseph-parker-new-years-retribution"
+      },
+      {
+        "title": "Daniel Dubois Set to Defend WBO Heavyweight Title Against Former Champion",
+        "url": "https://www.si.com/fannation/boxing/daniel-dubois-set-to-defend-wbo-heavyweight-title-against-former-champion-01kax72f8sva"
+      },
+      {
+        "title": "Daniel Dubois to defend WBO title against Joseph Parker",
+        "url": "https://www.the42.ie/daniel-dubois-joseph-parker-heavyweight-title-6878347-Nov2026/"
+      },
+      {
+        "title": "queensberry.co.uk",
+        "url": "https://queensberry.co.uk/pages/daniel-dubois-vs-joseph-parker-new-years-retribution"
+      },
+      {
+        "title": "newscord.org",
+        "url": "https://newscord.org/article/daniel-dubois-defends-wbo-heavyweight-title-against-joseph-parker-in-manchester--Story_20261125_Duboistodefendtitlea76403e34"
+      },
+      {
+        "title": "ringmagazine.com",
+        "url": "https://www.ringmagazine.com/news/dubois-parker-being-explored-for-january-30-in-england-JXndAvwuTvtUGy69w8iQ8"
+      },
+      {
+        "title": "boxingscene.com",
+        "url": "https://www.boxingscene.com/articles/daniel-dubois-joseph-parker-set-for-manchester-on-january-30"
+      },
+      {
+        "title": "operativmm.az",
+        "url": "https://operativmm.az/en/post/dubois-to-defend-wbo-heavyweight-title-against-parker/88722"
+      },
+      {
+        "title": "si.com",
+        "url": "https://www.si.com/fannation/boxing/daniel-dubois-set-to-defend-wbo-heavyweight-title-against-former-champion"
+      },
+      {
+        "title": "heavyweightboxing.com",
+        "url": "https://www.heavyweightboxing.com/post/daniel-dubois-joseph-parker-january-30-manchester"
+      },
+      {
+        "title": "the42.ie",
+        "url": "https://www.the42.ie/daniel-dubois-joseph-parker-7238352-Nov2026/"
+      },
+      {
+        "title": "fightmag.com",
+        "url": "https://www.fightmag.com/daniel-dubois-faces-joseph-parker-in-manchester-in-january/"
+      },
+      {
+        "title": "Geo Super: Daniel Dubois to defend WBO title against Joseph Parker",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMThRcU0xTC05dnVWamJFTDRLVEhjeVRsLXNCaWFkYzBwdHJINTdvTTVKUnFpQUhyYU5Zek9wZUZkejhtWGFtNEtlVjlGdndudWtqQ25QLWtLTmVkRmRUQ2NiLWtSaHp1U05CV053TWJ2ZEw1ZFdWRktna1FUWTMxUFRIZ0dnMW1Mc0ZHU19tTmFiTHVXdENF0gGTAUFVX3lxTE1kOG9kb284aWpyV0dDYlBzMU9GQUtEMmJBQU9OaUNBYlJyekdxdFJKLURodlpfWmVzNGN0dE1EVkpvdnRYemxJQ3BCNzZwdVIxSExtaWF1U3Z4UFo2SEhVNXRoelZYdEIwMDRzOWE1QldUeTNYVVgwMEQ3Tk9Jb2h6Snd6X3A0ZzlOR1F3REpqa2tzSQ?oc=5"
+      },
+      {
+        "title": "Sports Illustrated: Daniel Dubois Set to Defend WBO Heavyweight Title Against Former Champion",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVF9BcDF1eFlBQ2N2QjFBa1RIUHRyajdqalZqRzl6bGxfTktyTjBOZmdXMDdkR0J0QnFZZ0RXVHpkblVtWFFnemZRbTdaWE1kRDlnMUExQ2RZbURXR3F2WGtVUVNlYUFmWHJ5WkxZOURHakRFNHc0bFRBR012d0NXOUg1TFNDMkZDaHBVa2sxdFkzb0prT3JGRkhISG9UM3pKd20wVFlGRkxyTVVOZUE?oc=5"
+      },
+      {
+        "title": "The Independent – Sport: Daniel Dubois to defend heavyweight title against ex-Anthony Joshua rival in Manchester",
+        "url": "https://www.independent.co.uk/sport/boxing/daniel-dubois-joseph-parker-heavyweight-title-manchester-b3091799.html"
+      },
+      {
+        "title": "The Straits Times: Boxing: Daniel Dubois to defend WBO heavyweight belt against Joseph Parker in January",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXpFeUlvaVNWWHZJemYzcWFxYU55S1dPeVRqdXJxam8wMUZyWXA3YTZUdWxKZ3BZWWRaUC1iVWtpaG5uSURwN3pNOGJ1NXJmN0JaNVA5ZGtBVUNvVTFsbVpjSmNuUUhrWEdYd2dJQ1dFWVRYUmlZUWp2MGtfMkhmNFEtY3IzQ2I2TXBwMGpSWTlsVTd6VFJ0Z01oQ0pZbmJqZVFmOW9OQUdCU0c4dUlycFV3Ym1yeDk0UWxR?oc=5"
+      },
+      {
+        "title": "Reuters: Dubois to defend WBO heavyweight belt against Parker in January",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0wxZkFtRUprS25TazE5bzFweHp6czdaTi1paE41WnY5Q0pWQTRKTlFzdEtUaThBNnlBaHU1MGtOZDVDYWxVT2k4cFlqN2ktZGZsbW5zdVhuYzFhU29DOWZuazRvXzYxcEZ4NEhqNGpZeXAtTGFFUUlqcm9Jb2FoSWZ2YWF6NzBVYjFQQ0pJbWFqUGtCMHFwY01ZWDF2QUQyMWc?oc=5"
+      },
+      {
+        "title": "ESPN: Daniel Dubois to defend WBO heavyweight title vs. Joseph Parker Jan. 30",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWEzWFpJUWQwZkNza1JGN3c4NmwycEtMTzNCN1BIOTB5WDBmZ3Q5aFZna0RSSnI5TVptV2lobTJqaWliNXJjcXRVZEVvZ3d3Y094WVk4YUxWeEpnX2ZldTIyU3V0S2lTU004b2lzdWJackp4V0c5WlZaMTJBVnhlTHVJVFpRV3FRTkVTd0dIT0VYX2ZwUndVYVplM0U4UlV3eXhLdTJjOXN1eW8?oc=5"
+      },
+      {
+        "title": "BBC Sport: Dubois to defend title against Parker in Manchester",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC: Daniel Dubois to defend world title against Joseph Parker",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Zd3k3cExEeEdSWUNiMFlQVEF1UmF1bUxiQ3RsMnQzVXVTYlNqNjR1UXEyOXc5TzhYeTNfdlhTQWtxOVFjeHlkcExLelIyVElYMWRaemhIX0M2N0w1UTJXSXVqVlFUZw?oc=5"
+      },
+      {
+        "title": "news.bet365.com: Daniel Dubois to defend WBO title in Joseph Parker showdown",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm83T3dnSVBjQUR4T1RtR0g2aE9VSVRoUm0tM2REcmFYRjZFb0Y5S2w3bVRsUlg1NzJfdDlHSXp1Vm8xc2w5OUR2eHAxN19XbGZuRS0xVDJucDlOeWxtX2xfNHlZSU1rNFQ4VFIwMlFWeWpjT1JIQ21nRmlKVHNjSXZwVGl1c094REd6Z3RFMi1ueno1Qzdha0REOUNfY3RlckoyR1dEZUZuZzBJSklZSnJnc1VzVlZt?oc=5"
+      },
+      {
+        "title": "DAZN: Daniel Dubois vs. Joseph Parker confirmed for WBO heavyweight title showdown",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT1pSSmczY1dPTmd5cWpZSE9UWjhjLUxYYktnWkxnYlpZMlZrYnpVN084blhNM1JObXdPME04a0dTNnU3bFBsVDEzNTVxZjdqakpYdm9SQnhmLWpyY3VBemxOaGxZcnN2eTJFMXFpT0pIOTV4aHBfbWNtR2JDdlFjSDJxMTgzb19oV2YyQVg5WTJhYUpSVnVxVENRSDhHNUJkUF9DbG1VS0J4MFVLQXJvMUNacjRpWHdkM0x0OXZsWXVCUTNGcE42aThBbG92czFCT2V1UXlR?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: Daniel Dubois to defend WBO heavyweight title against Joseph Parker in January",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0RJU042aEt3UE5WLU9NLS15NmU0WlpUOXg4ZTNRQk9KWVVvdks3eU9TU19ZRDBHQ3ctZkNBTXluclE2Sm05eEtjb0F1N3NXSENUWjZrQS13NXRzOVBQUWpyWWp0enBGV3A3ekhVWnBNay1mSUxNOFliYmpKRkNaMExQRjB3YnlHb3pvd3Noakc1QnlISG12eWdTbHJsU2lVS2VWaGpETmQ3N3diNktCOVVBSU10ZUxBZnB6U1dRcWg1WVoxYldZTWtvODlqQQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Daniel Dubois to Defend WBO Heavyweight Title Against Joseph Parker in Manchester",
+      "seo_title": "Daniel Dubois vs Joseph Parker: WBO Title Fight Set",
+      "subheadline": "The heavyweight showdown at Co-op Live on 30 January 2027 settles unfinished business after their cancelled 2025 clash.",
+      "body_markdown": "Daniel Dubois will make the second defence of his WBO heavyweight world title against former champion Joseph Parker at Manchester's Co-op Live arena on Saturday, 30 January 2027. Promoter Frank Warren and Queensberry Promotions officially announced the bout, billed as \"New Year's Retribution\", on 25 November 2026, with DAZN securing live broadcast coverage.\n\nDubois, 29, enters the contest with a record of 24 victories and three defeats, having stopped 23 opponents inside the distance. The London heavyweight claimed the WBO belt in May 2026 with an 11th-round technical knockout of Fabio Wardley at the same Manchester arena, before halting Wardley in two rounds in an immediate London rematch on 17 October. Dubois previously held the IBF world title, which he defended in September 2024 by knocking out Anthony Joshua in front of 96,000 spectators at Wembley Stadium.\n\n## Unfinished business from Riyadh\n\nThe January clash resurrects a contest originally scheduled for February 2025 in Riyadh, Saudi Arabia, where Dubois was slated to face Parker. Dubois withdrew during fight week due to illness, leaving Parker to face late substitute Martin Bakole, whom the New Zealander stopped in the second round.\n\nDubois subsequently vacated his interim belt before regaining world championship status against Wardley. \"Daniel is entering his prime and when he is on his game it is hard to picture anybody beating him,\" Warren said in Queensberry's official fight announcement. \"But Joseph has long promised to become world champion again, and now he gets his chance.\"\n\n## Parker's path back to a belt\n\nParker, 34, carries a professional record of 36 wins and four defeats, with 24 knockouts. The Auckland-born heavyweight held the WBO belt between December 2016 and March 2018, losing the title on points to Joshua in Cardiff. Parker re-established himself in title contention with consecutive decisions over former champions Deontay Wilder and Zhilei Zhang between late 2023 and early 2024.\n\nThe challenger has not fought since October 2025, when he suffered a late stoppage loss against Wardley. Parker was handed a provisional anti-doping suspension following that bout, which was formally rescinded in August 2026.\n\n## The heavyweight landscape in 2027\n\nThe Manchester date opens the 2027 calendar for a division where unified champion Oleksandr Usyk and IBF titlist Filip Hrgovic hold the remaining belts. The winner at Co-op Live is positioned to enter unification negotiations later in the year, with Dubois pursuing undisputed status and Parker seeking a second WBO title reign nine years after his first championship victory.",
+      "social_post": "23 knockouts in 24 professional wins. Daniel Dubois will put his WBO heavyweight world title on the line against former champion Joseph Parker on 30 January 2027 at Manchester's Co-op Live. The bout settles unfinished business from their cancelled February 2025 clash and marks Parker's first ring appearance since his suspension was lifted in August. Can Dubois extend his knockout run, or will Parker reclaim the WBO belt? Give us your fight prediction below. #DuboisParker #Boxing #Heavyweight"
+    },
+    "zh": {
+      "headline": "杜布瓦曼彻斯特设擂卫冕WBO金腰带 迎战老对手帕克了结恩怨",
+      "seo_title": "杜布瓦vs帕克：WBO重量级拳王争霸战敲定",
+      "subheadline": "这场定于2027年1月30日在Co-op Live打响的重量级巅峰对决，将彻底了结两人在2025年擦肩而过的未竟恩怨。",
+      "body_markdown": "丹尼尔·杜布瓦（Daniel Dubois）将于2027年1月30日（周六）坐镇曼彻斯特Co-op Live竞技场，迎来自己WBO重量级世界拳王头衔的第二场卫冕战，对手是前世界拳王约瑟夫·帕克（Joseph Parker）。赛事推广人弗兰克·沃伦（Frank Warren）及旗下昆斯伯里推广公司（Queensberry Promotions）于2026年11月25日正式宣布了这场被冠以“新年复仇”（New Year's Retribution）之名的大战，流媒体巨头DAZN锁定了本场比赛的独家现场直播权。\n\n现年29岁的杜布瓦带着24胜3负、23次KO对手的惊人战绩奔赴擂台。这位来自伦敦的重量级名将是在2026年5月登顶的——同样是在曼彻斯特这座竞技场，他在第11回合以TKO方式击败法比奥·沃德利（Fabio Wardley），将WBO金腰带收入囊中；随后在10月17日的伦敦二番战中，他更是仅用两回合就彻底终结沃德利。在此之前，杜布瓦还曾持有IBF世界拳王头衔，那场让他在2024年9月名声大噪的卫冕战，是在温布利大球场9.6万名观众的狂热注视下残暴KO安东尼·约书亚（Anthony Joshua）。\n\n## 利雅得错过的宿命之战\n\n这场定于明年1月上演的较量，实际上重新点燃了一段旧日恩怨。两人原定于2025年2月在沙特阿拉伯利雅得正面交锋，但杜布瓦在比赛当周突发疾病被迫退赛。帕克不得不临时迎战替补登场的马丁·巴科勒（Martin Bakole），并在第二回合便摧枯拉朽般结束了战斗。\n\n杜布瓦随后放弃了自己的过渡拳王金腰带，直到战胜沃德利重夺正赛世界拳王荣誉。“丹尼尔正在迈入自己的职业生涯巅峰期，当他完全进入状态时，你很难想象有谁能击败他，”沃伦在昆斯伯里的官方公告中说道，“但约瑟夫长久以来一直渴望重登世界拳王宝座，现在他的机会终于来了。”\n\n## 帕克的重返巅峰之路\n\n34岁的帕克职业战绩为36胜4负，其中24次击倒对手获胜。这位出生于奥克兰的新西兰悍将曾在2016年12月至2018年3月期间持有WBO金腰带，最终在卡迪夫点数惜败于约书亚丢掉头衔。在2023年底至2024年初期间，帕克接连以判定战胜前拳王德昂泰·维尔德（Deontay Wilder）与张志磊，强势宣告重返顶级拳王竞争者行列。\n\n不过，自2025年10月在后半程遭沃德利终结落败之后，这位挑战者便再未踏入拳台。帕克在那场对决后曾面临反兴奋剂临时禁赛处罚，该禁令已于2026年8月被正式撤销。\n\n## 2027年重量级拳坛格局\n\n曼彻斯特的这场开年大戏拉开了2027年重量级拳坛的战幕。目前该级别的另外几条金腰带分别掌握在统一拳王亚历山大·乌西克（Oleksandr Usyk）和IBF拳王菲利普·赫尔戈维奇（Filip Hrgovic）手中。Co-op Live战役的胜者将直接在下半年进入无可争议拳王统一战的谈判桌——杜布瓦渴望借此扫清障碍登顶霸业，而帕克则在首夺拳王九年之后，全力冲击个人的第二段WBO冠军统治。",
+      "social_post": "职业生涯24胜23次KO！丹尼尔·杜布瓦将于2027年1月30日坐镇曼彻斯特Co-op Live，迎接前拳王约瑟夫·帕克的挑战，打响WBO重量级卫冕战。两人2025年利雅得的未竟恩怨终于迎来终章，这也将是帕克8月禁令解除后的首战。是杜布瓦延续恐怖的KO势头，还是帕克时隔九年夺回WBO金腰带？评论区留下你的比分预测！ #杜布瓦vs帕克 #拳击 #职业拳击"
+    },
+    "ru": {
+      "headline": "Даниэль Дюбуа проведет защиту титула WBO в супертяжелом весе против Джозефа Паркера в Манчестере",
+      "seo_title": "Дюбуа — Паркер: бой за титул WBO в супертяжелом весе",
+      "subheadline": "Битва супертяжеловесов на арене Co-op Live 30 января 2027 года закроет старый счет после сорвавшегося поединка 2025 года.",
+      "body_markdown": "Даниэль Дюбуа проведет вторую защиту титула чемпиона мира по версии WBO в супертяжелом весе против экс-чемпиона Джозефа Паркера в Манчестере на арене Co-op Live в субботу, 30 января 2027 года. Промоутер Фрэнк Уоррен и компания Queensberry Promotions официально анонсировали поединок под вывеской «New Year's Retribution» («Новогоднее возмездие») 25 ноября 2026 года; права на прямую трансляцию закрепил за собой стриминговый сервис DAZN.\n\n29-летний Дюбуа подходит к этому противостоянию с послужным списком из 24 побед и трех поражений, причем 23 виктории лондонец одержал досрочно. Пояс WBO британский супертяж завоевал в мае 2026 года, победив Фабио Уордли техническим нокаутом в 11-м раунде на той же самой манчестерской арене, а 17 октября в незамедлительном лондонском реванше нокаутировал Уордли всего за два раунда. Ранее Дюбуа владел титулом IBF, который он успешно защитил в сентябре 2024 года, сокрушив Энтони Джошуа на глазах у 96 000 зрителей на стадионе «Уэмбли».\n\n## Незакрытый счет из Эр-Рияда\n\nЯнварский бой вернет на ринг афишу, изначально запланированную на февраль 2025 года в Эр-Рияде (Саудовская Аравия). Тогда Дюбуа снялся буквально на неделе боя из-за болезни, и Паркеру пришлось драться с вышедшим на коротком уведомлении Мартином Баколе, которого новозеландец нокаутировал уже во втором раунде.\n\nВпоследствии Дюбуа освободил пояс временного чемпиона, прежде чем вернуть себе полновесный мировой титул в поединке против Уордли. «Даниэль выходит на свой пик, и когда он ловит свой кураж, сложно вообще представить кого-то, кто способен его одолеть, — заявил Уоррен в официальном анонсе Queensberry. — Но Джозеф давно обещал вновь стать чемпионом мира, и сейчас судьба дает ему этот шанс».\n\n## Путь Паркера обратно к титулу\n\n34-летний Паркер имеет в активе 36 побед и четыре поражения при 24 нокаутах. Уроженец Окленда удерживал титул WBO с декабря 2016 по март 2018 года, пока не уступил его по очкам Джошуа в Кардиффе. В чемпионскую гонку новозеландец триумфально вернулся на стыке 2023 и 2024 годов, поочередно деклассировав судейскими решениями экс-чемпионов Деонтея Уайлдера и Чжана Чжилэя.\n\nПретендент не боксировал с октября 2025 года, когда досрочно уступил в поздних раундах Уордли. После того боя Паркер получил временную допинговую дисквалификацию, однако в августе 2026 года все претензии с него были официально сняты.\n\n## Расклад в супертяжелом весе на 2027 год\n\nШоу в Манчестере откроет спортивный календарь 2027 года в дивизионе, где остальные пояса сосредоточены в руках объединенного чемпиона Александра Усика и обладателя титула IBF Филипа Хрговича. Победитель противостояния на Co-op Live получит прямую путевку в переговоры об объединении поясов в конце года: Дюбуа жаждет статуса абсолютного чемпиона, а Паркер нацелен начать свое второе правление с поясом WBO спустя девять лет после первого триумфа.",
+      "social_post": "23 нокаута в 24 победных боях! Даниэль Дюбуа поставит на кон титул WBO в супертяжелом весе против экс-чемпиона Джозефа Паркера 30 января 2027 года на арене Co-op Live в Манчестере. Этот бой закроет гештальт сорванной встречи в Эр-Рияде и станет для Паркера первым выходом в ринг после снятия отстранения в августе. Продлит ли Дюбуа серию нокаутов или Паркер вернет свой пояс спустя 9 лет? Ждем ваши прогнозы в комментариях! #ДюбуаПаркер #Бокс #Дюбуа #Паркер"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Daniel_Dubois_walkout_%28cropped%29.jpg/1280px-Daniel_Dubois_walkout_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Daniel_Dubois_walkout_(cropped).jpg",
+        "artist": "Editor083",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Daniel Dubois walking out in Wembley to fight Usyk",
+        "width": 1200,
+        "height": 1593,
+        "year": 2025,
+        "subject": "Daniel Dubois",
+        "asked": "Daniel Dubois",
+        "page_title": "Daniel Dubois",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:daniel_dubois_walkout_(cropped).jpg|Daniel Dubois",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Daniel Dubois making a ring walk surrounded by his team",
+          "reason": "The image clearly shows heavyweight boxer Daniel Dubois walking out for a fight.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Co-Op_Live_Arena_%28geograph_7796386%29.jpg/1280px-The_Co-Op_Live_Arena_%28geograph_7796386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Co-Op_Live_Arena_(geograph_7796386).jpg",
+        "artist": "Anthony Parkes",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "The Co-Op Live Arena",
+        "width": 1200,
+        "height": 709,
+        "year": 2024,
+        "subject": "Co-op Live",
+        "asked": "Co-op Live",
+        "page_title": "Co-op Live",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:the_co-op_live_arena_(geograph_7796386).jpg|Co-op Live",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of the Co-op Live arena in Manchester",
+          "reason": "The image clearly shows the exterior of the Co-op Live arena with visible branding.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Frank_Warren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Frank_Warren.jpg",
+        "artist": "Paul Barlow",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Frank Warren",
+        "width": 1200,
+        "height": 1600,
+        "year": 2010,
+        "subject": "Frank Warren (promoter)",
+        "asked": "Frank Warren",
+        "page_title": "Frank Warren (promoter)",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:frank_warren.jpg|Frank Warren (promoter)",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "boxing promoter Frank Warren in a suit and tie",
+          "reason": "The photo clearly shows British boxing promoter Frank Warren.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "ethics",
+        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
+      }
+    ]
+  },
+  {
     "id": "2026-11-26-news-0dacf4",
     "slug": "kristof-rasovszky-sets-sights-on-2028-olympic-defence-and-be",
     "date": "2026-11-26",
