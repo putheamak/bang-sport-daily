@@ -57,6 +57,8 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 **2. ⚪ not checked**<br>Caption: **Singapore goalkeeper Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)
 <br clear="left">
 
+🔗 Embedded post: [CNA (official Facebook page)](https://www.facebook.com/reel/1982174182757033/) — {'en': "CNA video: David Beckham's surprise visit to Bedok South Secondary School", 'zh': 'CNA视频：贝克汉姆突访勿洛南中学', 'ru': 'Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут'}
+
 ---
 
 ## ✅ live · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
