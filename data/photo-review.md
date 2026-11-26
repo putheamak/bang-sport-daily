@@ -4,41 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
-`2026-11-26-news-cfdcd3` · 2026-11-26
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jannik Sinner**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Jannik_Sinner_2025_US_Open.jpg)<br>AI sees: _tennis player Jannik Sinner on court holding a racket_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Melbourne_Park_-_Tennis.jpg/1280px-Melbourne_Park_-_Tennis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Melbourne Park**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Melbourne_Park_-_Tennis.jpg)<br>AI sees: _aerial view of Melbourne Park and surrounding sports precinct_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Alexander_Zverev_in_Miami.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black Adidas headband and shirt_
-<br clear="left">
-
----
-
-## 📝 DRAFT · David Beckham Surprises 39 Youth Players at Singapore Football Clinic
-`2026-11-26-news-494315` · 2026-11-26
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. ⚪ not checked** · cover<br>Caption: **David Beckham**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg)
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/HassanSunny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. ⚪ not checked**<br>Caption: **Singapore goalkeeper Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)
-<br clear="left">
-
----
-
 ## 📝 DRAFT · On This Day in 1917: How an Owner Feud Birthed the National Hockey League
 `2026-11-26-hist-9bf47d` · 2026-11-26
 
@@ -55,6 +20,41 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Frank_Nighbor%2C_Vancouver_Millionaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Frank Nighbor**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Nighbor,_Vancouver_Millionaires.jpg)<br>AI sees: _Frank Nighbor in a Vancouver Millionaires hockey jersey_
+<br clear="left">
+
+---
+
+## ✅ live · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
+`2026-11-26-news-cfdcd3` · 2026-11-26
+
+<img src="../docs/photos/c/d978a00801746da9-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Jannik Sinner**<br>2025 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Jannik_Sinner_2025_US_Open.jpg)<br>AI sees: _tennis player Jannik Sinner on court holding a racket_
+<br clear="left">
+
+<img src="../docs/photos/c/0c7ad74a9db38d8e-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Melbourne Park**<br>2010 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Melbourne_Park_-_Tennis.jpg)<br>AI sees: _aerial view of Melbourne Park and surrounding sports precinct_
+<br clear="left">
+
+<img src="../docs/photos/c/df69886f32165bfc-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black Adidas headband and shirt_
+<br clear="left">
+
+---
+
+## ✅ live · David Beckham Surprises 39 Youth Players at Singapore Football Clinic
+`2026-11-26-news-494315` · 2026-11-26
+
+<img src="../docs/photos/c/4bf9d41d7f57a9c7.jpg" width="240" align="left" hspace="10">
+
+**1. ⚪ not checked** · cover<br>Caption: **David Beckham**<br>2021 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg)
+<br clear="left">
+
+<img src="../docs/photos/c/e5381b19f982c289.jpg" width="240" align="left" hspace="10">
+
+**2. ⚪ not checked**<br>Caption: **Singapore goalkeeper Hassan Sunny**<br>2015 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:HassanSunny.jpg)
 <br clear="left">
 
 ---

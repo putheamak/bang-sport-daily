@@ -216,7 +216,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T15:40:24+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -299,7 +299,20 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3RQYTdndE9NOWZ3MnZ3cEhrQXFXMVRlR2h2dGc0YzZUYk5TN3VYOU9RRlkyeHZiZ3BtRXVrU2F3NHJaMnhOQlJhaFJhTHJpQkhOQ0F5d2x6RzRaUHBxSFRrYXF2V3NYOGdFSk1abXRnNVhBV1FEQ0dHbEdMdm9SLVJmZFNmYjVKQmdTZ1RqUTVoS3N2LXRlbjhpMEozcGtpZ21BcEF2Y1J0Umoyamc?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T16:31:45+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T16:31:46+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T16:31:47+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -358,11 +371,6 @@
     ],
     "standards": [
       {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Photo 3 captioned 'List of secondary schools in Singapore' looks WRONG (shows exterior entrance of Jurong West Secondary School; asked for 'Bedok South Secondary School' but the photo comes from the page 'List of secondary schools in Singapore'; The image shows a school building rather than ). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
         "level": "WARN",
         "area": "photos",
         "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
@@ -378,7 +386,8 @@
         "msg": "2 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"David Beckham\", \"commons\": \"File:David_Beckham_UNICEF_(cropped2).jpg\"}, {\"caption\": \"Singapore goalkeeper Hassan Sunny\", \"commons\": \"File:HassanSunny.jpg\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"David Beckham\", \"commons\": \"File:David_Beckham_UNICEF_(cropped2).jpg\"}, {\"caption\": \"Singapore goalkeeper Hassan Sunny\", \"commons\": \"File:HassanSunny.jpg\"}]}",
+    "published_at": "2026-11-26T16:31:47+07:00"
   },
   {
     "id": "2026-11-26-news-cfdcd3",
@@ -386,7 +395,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T15:39:16+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -478,7 +487,20 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzl0U1Rrb0QwcHAxSmI1ZEdSVTBWWm56Z2hBbktFQ3VmRk00YUQ2LWY5LTRfSEN3WS1ZbFlKeXdESmxfZ2R5bHRPdlJya2pkR3lHTjZsTnpkV2IxZ2F3Q21jVWUtTnlWVVI3QkpyUlp5T1JsNXNsNThVeUdJOXQ0cGZ0UnpDNC1QZFFEQWxVbHJDT3V1bXZhXzcwVjVBVlVsMlN3amZmZWtJX3RWa1B6YmJ3Zy1jS1NmU2tUQUk1aGl6c0JmX2fSAcYBQVVfeXFMTlM5dFNUa29EMHBwMUpiNWRHUlUwVlpuemdoQW5LRUN1ZkZNNGFENi1mOS00X0hDd1ktWWxZSnl3REpsX2dkeWx0T3ZScmtqZEd5R042bE56ZFdiMWdhd0NtY1VlLU55VlVSN0JKclJaeU9SbDVzbDU4VXlHSTl0NHBmdFJ6QzQtUGRRREFsVWxyQ091dW12YV83MFY1QVZVbDJTd2pmZmVrSV90VmtQemJid2ctY0tTZlNrVEFJNWhpenNCZl9n?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T16:31:47+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T16:31:48+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T16:31:49+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -578,13 +600,8 @@
         }
       }
     ],
-    "standards": [
-      {
-        "level": "WARN",
-        "area": "sources",
-        "msg": "1 source(s) are homepages, not articles: https://apnews.com/"
-      }
-    ]
+    "standards": [],
+    "published_at": "2026-11-26T16:31:49+07:00"
   },
   {
     "id": "2026-11-25-athl-077aa4",
