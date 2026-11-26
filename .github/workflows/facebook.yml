@@ -31,6 +31,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Video tools for Reels (ffmpeg, Chinese font)
+        if: ${{ !contains(fromJSON('["cancel","rescrape","redo-post"]'), inputs.mode) }}
+        timeout-minutes: 8
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-cjk >/dev/null
       - name: Test token / post
         env:
