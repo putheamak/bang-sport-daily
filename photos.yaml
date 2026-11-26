@@ -359,7 +359,8 @@
         zh: "新加坡足球总会宣布罗斯娜妮退出国家队"
         ru: "Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман"
 
-# 26 Nov 2026: editor added the CPL's official Instagram post (loaded on click, never copied), after paragraph 5.
+# 26 Nov 2026: editor added the CPL's official Instagram post (after paragraph 5) and Boeung Ket's verified Facebook
+# reel (in "Two Knees, Two Comebacks"), both loaded on click, never copied. Places set with [[embed:N]] in the text.
 # The Boeung Ket Instagram video was removed at the editor's request.
 2026-11-25-athl-077aa4:
   embeds:
@@ -369,3 +370,9 @@
         en: "Chan Vathanaka in an official Cambodian Premier League post"
         zh: "柬埔寨超级联赛官方帖子中的占·瓦塔纳卡"
         ru: "Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги"
+    - url: "https://www.facebook.com/reel/1012398621820953/"
+      account: "Boeung Ket Football Club (official Facebook page)"
+      caption:
+        en: "Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)"
+        zh: "万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）"
+        ru: "«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)"
