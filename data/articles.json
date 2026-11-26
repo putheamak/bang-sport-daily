@@ -5,7 +5,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T21:40:42+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Basketball",
     "tags": [
@@ -102,7 +102,20 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSmNBX3J0TUVDcUppQWE3Vl9oRnYwOXhncmdlQUFIN2w2S21Kc25qSWFKeUI3aHgxVWpKQUxiSWoxSEtoejV2Y3pUam84UXFPci12RlM4MEViUm5Kb0JpS1RhMVJaWHJjUVVoTUFlLTB3b2czSHpDbGladWVlUQ?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T22:00:43+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T22:00:43+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T22:00:44+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -208,7 +221,8 @@
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-26T22:00:44+07:00"
   },
   {
     "id": "2026-11-26-news-90b9af",
@@ -216,7 +230,7 @@
     "date": "2026-11-26",
     "created": "2026-11-26T21:39:16+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -337,7 +351,20 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0RJU042aEt3UE5WLU9NLS15NmU0WlpUOXg4ZTNRQk9KWVVvdks3eU9TU19ZRDBHQ3ctZkNBTXluclE2Sm05eEtjb0F1N3NXSENUWjZrQS13NXRzOVBQUWpyWWp0enBGV3A3ekhVWnBNay1mSUxNOFliYmpKRkNaMExQRjB3YnlHb3pvd3Noakc1QnlISG12eWdTbHJsU2lVS2VWaGpETmQ3N3diNktCOVVBSU10ZUxBZnB6U1dRcWg1WVoxYldZTWtvODlqQQ?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-26T22:00:44+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-26T22:00:45+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-26T22:00:45+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -437,13 +464,8 @@
         }
       }
     ],
-    "standards": [
-      {
-        "level": "WARN",
-        "area": "ethics",
-        "msg": "1 first-person word(s) (I/my/we/us) outside quotes. Journalism style is third person; never publish personal lines you did not write yourself"
-      }
-    ]
+    "standards": [],
+    "published_at": "2026-11-26T22:00:45+07:00"
   },
   {
     "id": "2026-11-26-news-0dacf4",

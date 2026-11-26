@@ -4,46 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Daniel Dubois to Defend WBO Heavyweight Title Against Joseph Parker in Manchester
-`2026-11-26-news-90b9af` · 2026-11-26
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Daniel_Dubois_walkout_%28cropped%29.jpg/1280px-Daniel_Dubois_walkout_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Daniel Dubois**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Daniel_Dubois_walkout_(cropped).jpg)<br>AI sees: _Daniel Dubois making a ring walk surrounded by his team_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Co-Op_Live_Arena_%28geograph_7796386%29.jpg/1280px-The_Co-Op_Live_Arena_%28geograph_7796386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Co-op Live**<br>2024 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:The_Co-Op_Live_Arena_(geograph_7796386).jpg)<br>AI sees: _Exterior of the Co-op Live arena in Manchester_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Frank_Warren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Frank Warren (promoter)**<br>2010 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Frank_Warren.jpg)<br>AI sees: _boxing promoter Frank Warren in a suit and tie_
-<br clear="left">
-
----
-
-## 📝 DRAFT · Bennie Boatwright Debuts as Kai Sotto Boosts Gilas Pilipinas for FIBA Window 5
-`2026-11-26-news-6daa79` · 2026-11-26
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bennie_Boatwright_2026.jpg/1280px-Bennie_Boatwright_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Bennie Boatwright**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg)<br>AI sees: _Bennie Boatwright in San Miguel Beermen uniform_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_sotto_yokohama_b_corsairs_b_league.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Kai Sotto**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg)<br>AI sees: _Kai Sotto playing for Yokohama B-Corsairs_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Tim Cone**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg)<br>AI sees: _Basketball coach Tim Cone speaking into a microphone_
-<br clear="left">
-
----
-
 ## ✅ live · Jannik Sinner Withdrawn From 2027 Australian Open Following Right Knee Surgery
 `2026-11-26-news-cfdcd3` · 2026-11-26
 
@@ -60,6 +20,46 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/df69886f32165bfc-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Alexander Zverev**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Zverev_in_Miami.jpg)<br>AI sees: _Alexander Zverev wearing a black Adidas headband and shirt_
+<br clear="left">
+
+---
+
+## ✅ live · Daniel Dubois to Defend WBO Heavyweight Title Against Joseph Parker in Manchester
+`2026-11-26-news-90b9af` · 2026-11-26
+
+<img src="../docs/photos/c/649b304ceab5c1c4-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Daniel Dubois**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Daniel_Dubois_walkout_(cropped).jpg)<br>AI sees: _Daniel Dubois making a ring walk surrounded by his team_
+<br clear="left">
+
+<img src="../docs/photos/c/2d542d3aef7cc5c9-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Co-op Live**<br>2024 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:The_Co-Op_Live_Arena_(geograph_7796386).jpg)<br>AI sees: _Exterior of the Co-op Live arena in Manchester_
+<br clear="left">
+
+<img src="../docs/photos/c/85d5dd8768d1d293.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Frank Warren (promoter)**<br>2010 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Frank_Warren.jpg)<br>AI sees: _boxing promoter Frank Warren in a suit and tie_
+<br clear="left">
+
+---
+
+## ✅ live · Bennie Boatwright Debuts as Kai Sotto Boosts Gilas Pilipinas for FIBA Window 5
+`2026-11-26-news-6daa79` · 2026-11-26
+
+<img src="../docs/photos/c/862a54e34c16fc9d-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Bennie Boatwright**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg)<br>AI sees: _Bennie Boatwright in San Miguel Beermen uniform_
+<br clear="left">
+
+<img src="../docs/photos/c/0d3fa0b9b925f047.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Kai Sotto**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg)<br>AI sees: _Kai Sotto playing for Yokohama B-Corsairs_
+<br clear="left">
+
+<img src="../docs/photos/c/b1e0247dd5f1d5d8-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tim Cone**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg)<br>AI sees: _Basketball coach Tim Cone speaking into a microphone_
 <br clear="left">
 
 ---
