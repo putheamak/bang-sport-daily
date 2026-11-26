@@ -126,7 +126,7 @@ publish:
   auto_publish: false      # false = drafts go to your private Telegram review chat + email; you approve
   website: true            # public reader site on GitHub Pages (published stories only)
   telegram: true           # one channel per language: TELEGRAM_CHANNEL_EN / _ZH / _RU
-  facebook: true           # 25 Nov 2026: editor turned on automatic posting. Posts each story to the Page when it is
+  facebook: false          # 26 Nov 2026 ~22:30: PAUSED by the editor (Facebook security checkpoint, "API access blocked"). 25 Nov: editor turned on automatic posting. Posts each story to the Page when it is
                            # published (needs FB_PAGE_ID + FB_PAGE_TOKEN secrets; without them nothing is posted)
   facebook_reels: true     # also a 12-second Reel made from our own graphics (reels.py); the MP4 is kept 14 days in
                            # output/reels/ for TikTok / Instagram / YouTube Shorts by hand

@@ -72,6 +72,7 @@ jobs:
           IDS: ${{ inputs.ids }}
         run: |
           [ -n "$FB_PAGE_TOKEN" ] || exit 0
+          python -c "import yaml,sys; sys.exit(0 if yaml.safe_load(open('config.yaml'))['publish'].get('facebook') else 1)" || { echo "Automatic Facebook posting is paused (publish.facebook: false)"; exit 0; }
           git pull --rebase --autostash
           python -m sportnews facebook --mode post+reel $IDS
           git add data

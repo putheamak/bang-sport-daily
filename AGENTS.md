@@ -10,8 +10,9 @@ stop and ask the editor.** When in doubt, do not publish.
 1. Nothing is published, rejected or posted without the editor's explicit "publish" / "reject" for that story.
    `publish.auto_publish` stays `false`.
 2. Facebook, WhatsApp, X and other social posts are written as drafts for the editor; the editor posts them
-   (unless the editor has turned on automatic posting for that platform). Facebook Page posts and Reels: ON since
-   25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
+   (unless the editor has turned on automatic posting for that platform). Facebook Page posts and Reels: PAUSED by the
+   editor on 26 Nov 2026 (security checkpoint on his account, "API access blocked"; `publish.facebook: false`);
+   turn back on only when the editor says so. Were ON since 25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
    Facebook items (Page posts and Reels alike) are spaced 2.5 hours apart (editor, 26 Nov 2026: 2–3 hours, was
    90 min) and never 05:00–06:00 Phnom Penh time (editor, 26 Nov 2026: night posts 00:00–05:00 allowed, was
    00:00–06:00 quiet) (`facebook_gap_minutes`, `facebook_quiet_hours`): a batch is *scheduled* on the Page, not
