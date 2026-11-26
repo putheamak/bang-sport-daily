@@ -1256,7 +1256,8 @@ def test_facebook_skips_without_token_and_text_has_no_link(monkeypatch):
     arts = [{"id": "a", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "telegram-en"}]},
             {"id": "b", "status": "published", "en": {"social_post": "t"}, "published_to": [{"channel": "facebook"}]},
             {"id": "c", "status": "draft", "en": {"social_post": "t"}}]
-    cfg = {"timezone": "Asia/Phnom_Penh", "publish": {"facebook_gap_minutes": 90}}
+    # quiet hours off: otherwise this test fails when it runs between 00:00 and 06:00 Phnom Penh time
+    cfg = {"timezone": "Asia/Phnom_Penh", "publish": {"facebook_gap_minutes": 90, "facebook_quiet_hours": [0, 0]}}
     assert P.facebook_publish(cfg, arts, reel=False) == ["a: facebook"] and sent == [("t", "https://x/en/s")]
 
 
