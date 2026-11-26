@@ -99,17 +99,19 @@
         "at": "2026-11-25T22:59:29+07:00"
       },
       {
-        "channel": "facebook-reel",
+        "channel": "facebook-reel-cancelled",
         "id": "2130969564188074",
         "at": "2026-11-25T22:59:53+07:00",
-        "scheduled_for": "2026-11-26T14:30:00+00:00"
+        "scheduled_for": "2026-11-26T14:30:00+00:00",
+        "cancelled_at": "2026-11-26T14:52:57+07:00"
       },
       {
-        "channel": "facebook",
+        "channel": "facebook-cancelled",
         "id": "1381139551757429_122112247017544670",
         "at": "2026-11-25T23:13:08+07:00",
         "scheduled_for": "2026-11-26T13:00:00+00:00",
-        "replaced": "1381139551757429_122112242067544670"
+        "replaced": "1381139551757429_122112242067544670",
+        "cancelled_at": "2026-11-26T14:53:03+07:00"
       }
     ],
     "originality": {
@@ -296,10 +298,11 @@
         "at": "2026-11-25T22:47:15+07:00"
       },
       {
-        "channel": "facebook-reel",
+        "channel": "facebook-reel-cancelled",
         "id": "1826059265585647",
         "at": "2026-11-25T22:47:47+07:00",
-        "scheduled_for": "2026-11-26T08:30:00+00:00"
+        "scheduled_for": "2026-11-26T08:30:00+00:00",
+        "cancelled_at": "2026-11-26T14:53:08+07:00"
       },
       {
         "channel": "facebook",
@@ -503,17 +506,19 @@
         "at": "2026-11-25T22:47:48+07:00"
       },
       {
-        "channel": "facebook-reel",
+        "channel": "facebook-reel-cancelled",
         "id": "2475763366288103",
         "at": "2026-11-25T22:48:20+07:00",
-        "scheduled_for": "2026-11-26T11:30:00+00:00"
+        "scheduled_for": "2026-11-26T11:30:00+00:00",
+        "cancelled_at": "2026-11-26T14:53:15+07:00"
       },
       {
-        "channel": "facebook",
+        "channel": "facebook-cancelled",
         "id": "1381139551757429_122112247101544670",
         "at": "2026-11-25T23:13:22+07:00",
         "scheduled_for": "2026-11-26T10:00:00+00:00",
-        "replaced": "1381139551757429_122112239319544670"
+        "replaced": "1381139551757429_122112239319544670",
+        "cancelled_at": "2026-11-26T14:53:20+07:00"
       }
     ],
     "originality": {
