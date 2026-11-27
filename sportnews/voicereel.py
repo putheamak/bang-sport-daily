@@ -16,6 +16,7 @@ import re
 import subprocess
 import tempfile
 import time
+import urllib.parse
 from pathlib import Path
 
 from .common import ROOT
@@ -61,37 +62,114 @@ def boundaries(paras: list[str], total: float, gaps: list[float], window: float 
     return starts
 
 
-def _card(cfg, a: dict, text: str, kind: str, n: int, lead_hint: str = ""):
+def _photo_block(im, d, photo: dict, height: int = 1240) -> None:
+    """Photo across the top of the card (cropped around its focus point), fading into the dark background,
+    with the photographer's credit (required by every free licence)."""
+    from PIL import Image, ImageOps
+    from .reels import BG, W, _font
+    p = Image.open(photo["path"]).convert("RGB")
+    fx, fy = (photo.get("focus") or [0.5, 0.35])[:2]
+    p = ImageOps.fit(p, (W, height), method=Image.LANCZOS, centering=(fx, fy))
+    im.paste(p, (0, 0))
+    shade = Image.new("RGB", (W, height), BG)
+    top = Image.linear_gradient("L").resize((W, 260)).transpose(Image.FLIP_TOP_BOTTOM).point(lambda v: int(v * .75))
+    bottom = Image.linear_gradient("L").resize((W, 380))
+    mask = Image.new("L", (W, height), 0)
+    mask.paste(top, (0, 0))
+    mask.paste(bottom, (0, height - 380))
+    im.paste(Image.composite(shade, im.crop((0, 0, W, height)), mask), (0, 0))
+    if photo.get("credit"):
+        d.text((70, height - 70), photo["credit"][:80], font=_font(28, False), fill=(205, 210, 218))
+
+
+def _card(cfg, a: dict, text: str, kind: str, n: int, lead_hint: str = "", photo: dict | None = None):
     from PIL import Image, ImageDraw
     from .reels import BG, H, RED, W, _brand, _font, _len, _sport, _text, _wrap, frames
     if kind == "cta":
         im = frames(cfg, a, "en")[2]
         d = ImageDraw.Draw(im)
     else:
-        bg = RED if kind == "brand" else (BG if n % 2 else (24, 30, 40))
+        bg = RED if kind == "brand" else (BG if (n % 2 or photo) else (24, 30, 40))
         im = Image.new("RGB", (W, H), bg)
         d = ImageDraw.Draw(im)
+        if photo and kind != "brand":                # photo = moving background, text = still layer on top
+            _photo_block(im, d, {**photo, "credit": ""})
+            bg_im, im = im, Image.new("RGBA", (W, H), (0, 0, 0, 0))
+            d = ImageDraw.Draw(im)
+            if photo.get("credit"):
+                d.text((70, 1240 - 70), photo["credit"][:80], font=_font(28, False), fill=(205, 210, 218))
         _brand(d, on_red=(bg == RED))
         if kind == "brand":
             _text(d, (70, 760), "THIS IS", 96, True, "white")
             _text(d, (70, 880), "BANG SPORT DAILY", 120, True, "white")
             _text(d, (70, 1060), lead_hint, 52, False, (255, 225, 222))
         else:
-            _text(d, (70, 470), _sport(cfg, a, "en"), 46, True, RED if bg != RED else "white")
-            size = 104 if kind == "hook" else (84 if len(text) < 120 else 72)
-            lead = int(size * (1.2 if kind == "hook" else 1.3))
-            lines = _wrap(d, text, size, kind == "hook", W - 140)
-            y = max(560, (H - len(lines) * lead) // 2 - 60)
+            head = kind == "hook"
+            if photo:                                # caption under the photo, like TV subtitles
+                size = 92 if head else (64 if len(text) < 130 else 56)
+                top_y, bottom_y = 1290, H - 170
+            else:
+                size = 104 if head else (84 if len(text) < 120 else 72)
+                top_y, bottom_y = 560, H - 170
+                _text(d, (70, 470), _sport(cfg, a, "en"), 46, True, RED)
+            lead = int(size * (1.2 if head else 1.3))
+            lines = _wrap(d, text, size, head, W - 140)
+            while photo and top_y + len(lines) * lead > bottom_y and size > 44:
+                size -= 4
+                lead = int(size * (1.2 if head else 1.3))
+                lines = _wrap(d, text, size, head, W - 140)
+            y = top_y if photo else max(top_y, (H - len(lines) * lead) // 2 - 60)
             for line in lines[:12]:
                 x = 70
                 for k, word in enumerate(line.split(" ")):       # numbers in red: the facts stand out
                     piece = word + (" " if k < len(line.split(" ")) - 1 else "")
-                    _text(d, (x, y), piece, size, kind == "hook", RED if re.search(r"\d", word) else "white")
-                    x += _len(d, piece, size, kind == "hook")
+                    _text(d, (x, y), piece, size, head, RED if re.search(r"\d", word) else "white")
+                    x += _len(d, piece, size, head)
                 y += lead
-            d.rectangle([70, y + 30, 270, y + 42], fill=RED if bg != RED else "white")
+            if not photo:
+                d.rectangle([70, y + 30, 270, y + 42], fill=RED)
     d.text((70, H - 130), "AI voice · facts from our reviewed story", font=_font(34, False), fill=(170, 176, 186))
+    if im.mode == "RGBA":
+        return bg_im, im
     return im
+
+
+def load_photos(sid: str) -> dict[int, dict]:
+    """voiceover/<id>.photos.yaml: {paragraph number (1 = first): {commons: "File name.jpg", focus: [x, y]}}.
+    The file is taken from output/voice/photos/<id>/ (saved by reelphotos) or fetched from Commons, where the
+    licence is checked again (images.commons_info); only video-safe licences are used (no share-alike)."""
+    import json
+    import yaml
+    from .reels import video_safe
+    f = SCRIPTS / f"{sid}.photos.yaml"
+    if not f.exists():
+        return {}
+    spec = yaml.safe_load(f.read_text(encoding="utf-8")) or {}
+    cache = OUT / "photos" / sid
+    index = {}
+    if (cache / "index.json").exists():
+        for e in json.loads((cache / "index.json").read_text(encoding="utf-8")):
+            index[urllib.parse.unquote(e["page"].split("File:")[-1])] = e
+    out = {}
+    for para, e in spec.items():
+        name = str(e["commons"]).replace(" ", "_")
+        info = index.get(name)
+        path = cache / f"{info['n']:02d}.jpg" if info else None
+        if not (path and path.exists()):
+            from .images import _download, commons_info
+            info = commons_info(name, width=1280, min_width=600)
+            if not info:
+                log.warning("Reel photo %s: not found or not free", name)
+                continue
+            cache.mkdir(parents=True, exist_ok=True)
+            path = cache / ("x-" + re.sub(r"[^\w.-]", "_", name)[:80])
+            path.write_bytes(_download(info["url"]))
+        if not video_safe(info):
+            log.warning("Reel photo %s: licence %s is share-alike, not used in videos", name, info.get("license"))
+            continue
+        out[int(para)] = {"path": path, "focus": e.get("focus"),
+                          "credit": f"Photo: {info.get('artist', '')} · {info.get('license', '')} · Wikimedia Commons"}
+    return out
 
 
 def make(cfg, a: dict, voice: str, lead_in: float = 1.3) -> Path | None:
@@ -110,21 +188,37 @@ def make(cfg, a: dict, voice: str, lead_in: float = 1.3) -> Path | None:
     total = duration(mix_mp3)
     times = [0.0] + [lead_in + s for s in starts[1:]] + [total]      # card 1 also covers the "Bang" logo
     dest = OUT / f"{sid}-{v}.mp4"
+    photos = load_photos(sid)
     with tempfile.TemporaryDirectory() as tmp:
-        lst = []
+        clips = []
         for i, cap in enumerate(caps):
             low = spoken[i].lower()
             kind = "hook" if i == 0 else "brand" if "this is bang sport daily" in low else \
                 "cta" if i == len(caps) - 1 and "bangsportdaily" in low else "text"
-            p = Path(tmp) / f"c{i}.png"
-            _card(cfg, a, cap, kind, i, "World sport, told with sources").save(p)
-            lst += [f"file '{p}'", f"duration {times[i + 1] - times[i]:.3f}"]
-        lst.append(f"file '{p}'")                                    # concat needs the last file twice
-        (Path(tmp) / "list.txt").write_text("\n".join(lst) + "\n", encoding="utf-8")
+            p, fg = Path(tmp) / f"c{i}.png", Path(tmp) / f"c{i}-text.png"
+            card = _card(cfg, a, cap, kind, i, "World sport, told with sources", photos.get(i + 1))
+            dur = times[i + 1] - times[i]
+            frames_n = max(1, round(dur * 30))
+            c = Path(tmp) / f"c{i}.mp4"
+            enc = ["-frames:v", str(frames_n), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-r", "30",
+                   "-pix_fmt", "yuv420p", str(c)]
+            if isinstance(card, tuple):              # slow zoom on the photo only; captions stay still
+                card[0].save(p)
+                card[1].save(fg)
+                fc = (f"[0:v]scale=2160:-1,zoompan=z='min(zoom+0.0005,1.05)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+                      f":d={frames_n + 2}:s=1080x1920:fps=30[bg];[bg][1:v]overlay=0:0")
+                cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", str(p),
+                       "-loop", "1", "-framerate", "30", "-i", str(fg), "-filter_complex", fc, *enc]
+            else:
+                card.save(p)
+                cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", str(p), *enc]
+            subprocess.run(cmd, check=True, timeout=300)
+            clips.append(c)
+        (Path(tmp) / "list.txt").write_text("".join(f"file '{c}'\n" for c in clips), encoding="utf-8")
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(Path(tmp) / "list.txt"),
-                        "-i", str(mix_mp3), "-map", "0:v", "-map", "1:a", "-vf", "fps=30,format=yuv420p",
-                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-c:a", "aac", "-b:a", "192k",
-                        "-shortest", "-movflags", "+faststart", str(dest)], check=True, timeout=600)
+                        "-i", str(mix_mp3), "-map", "0:v", "-map", "1:a", "-c:v", "copy",
+                        "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", str(dest)],
+                       check=True, timeout=600)
     log.info("Voice reel %s: %d cards, %.1f s -> %s", sid, len(caps), total, dest.relative_to(ROOT))
     return dest
 

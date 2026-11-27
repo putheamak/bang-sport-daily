@@ -1,0 +1,8 @@
+# Photos for the voiced Reel, by paragraph of the script (1 = first). Commons file names; licences are read from
+# Commons and only video-safe ones are used (CC0, public domain, CC BY; never share-alike). focus = [x, y] of the crop.
+1: {commons: "CINvMIA_2023-08-23_-_Lionel_Messi,_Tata_Martino_(PXL_20230824_010525464)_(Messi_crop).jpg", focus: [0.5, 0.12]}
+3: {commons: "Paseo_de_los_Olímpicos_Rosario_2019_110.jpg", focus: [0.5, 0.5]}
+4: {commons: "Moment_of_the_Champions_League_final_FC_Barcelona_-_Juventus_2015.jpg", focus: [0.35, 0.4]}
+5: {commons: "Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina,_9th_February_2011.jpg", focus: [0.8, 0.3]}
+6: {commons: "2022_wc_final_03.jpg", focus: [0.6, 0.5]}
+7: {commons: "Messi's_last_Argentina_game.jpg", focus: [0.4, 0.05]}
