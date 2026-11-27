@@ -251,8 +251,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:fc_salzburg_gegen_gnk_dinamo_zagreb_(2024-10-23_championsleague_dritte_runde)_04.jpg|Niko Kovač",
           "verdict": "ok",
           "flags": [],
-          "shows": "Niko Kovač at a football stadium",
-          "reason": "The photo clearly shows football manager Niko Kovač at a stadium.",
+          "shows": "Niko Kovač",
+          "reason": "The image clearly shows football manager Niko Kovač at a match venue.",
           "by": "ai"
         }
       },
@@ -274,8 +274,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:harry_kane_england_v_ghana_23_june_2026-024_(cropped).jpg|Harry Kane",
           "verdict": "ok",
           "flags": [],
-          "shows": "Harry Kane wearing an England national team kit",
-          "reason": "The image clearly shows professional footballer Harry Kane.",
+          "shows": "Harry Kane wearing an England football kit",
+          "reason": "The photo clearly shows the captioned footballer, Harry Kane.",
           "by": "ai"
         }
       },
@@ -298,7 +298,7 @@
           "verdict": "ok",
           "flags": [],
           "shows": "Aerial view of Westfalenstadion (Signal Iduna Park) in Dortmund",
-          "reason": "The distinctive yellow roof pylons and visible 'Signal Iduna Park' and 'Borusseum' signage confirm the stadium.",
+          "reason": "The image clearly shows Westfalenstadion with its iconic yellow roof pylons and Signal Iduna Park signage.",
           "by": "ai"
         }
       }
@@ -411,56 +411,20 @@
         "width": 1200,
         "height": 1665,
         "year": 2026,
-        "subject": "Marc Márquez",
-        "asked": "Marc Márquez",
-        "page_title": "Marc Márquez",
+        "subject": "Marc Marquez at the 2026 Spanish Grand Prix",
+        "editor": true,
         "check": {
           "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:marc_marquez_at_the_2026_spanish_grand_prix_(cropped).jpg|Marc Márquez",
+          "key": "https://commons.wikimedia.org/wiki/file:marc_marquez_at_the_2026_spanish_grand_prix_(cropped).jpg|Marc Marquez at the 2026 Spanish Grand Prix",
           "verdict": "ok",
           "flags": [],
-          "shows": "Marc Márquez in Ducati Corse team kit",
-          "reason": "Clearly shows MotoGP rider Marc Márquez wearing Ducati Lenovo team apparel.",
-          "by": "ai"
-        }
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ducati_350_cc_racer_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Ducati_350_cc_racer_1968.jpg",
-        "artist": "Yesterdays Antique Motorcycles",
-        "license": "CC BY-SA 4.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "description": "Ducati 350 cc racing motorcycle from 1968",
-        "width": 1200,
-        "height": 900,
-        "year": 2010,
-        "subject": "Ducati Corse",
-        "asked": "Ducati Lenovo Team",
-        "page_title": "Ducati Corse",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:ducati_350_cc_racer_1968.jpg|Ducati Corse",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'Ducati Lenovo Team' but the photo comes from the page 'Ducati Corse'"
-          ],
-          "shows": "A vintage 1968 Ducati 350 cc racing motorcycle",
-          "reason": "This is a vintage 1960s motorcycle, completely unrelated to modern MotoGP or the Ducati Corse racing team.",
-          "by": "ai"
+          "shows": "",
+          "reason": "",
+          "by": "editor"
         }
       }
     ],
     "standards": [
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Photo 2 captioned 'Ducati Corse' looks WRONG (shows A vintage 1968 Ducati 350 cc racing motorcycle; asked for 'Ducati Lenovo Team' but the photo comes from the page 'Ducati Corse'; This is a vintage 1960s motorcycle, completely unrelated to modern MotoGP or the Duca). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      },
       {
         "level": "WARN",
         "area": "sources",
@@ -468,7 +432,22 @@
       }
     ],
     "updated_at": "2026-11-27T19:22:33+07:00",
-    "translated_at": "2026-11-27T19:22:33+07:00"
+    "translated_at": "2026-11-27T19:22:33+07:00",
+    "embeds": [
+      {
+        "platform": "Facebook",
+        "url": "https://www.facebook.com/reel/1209291261533641/",
+        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1209291261533641%2F&show_text=true&width=500",
+        "caption": {
+          "en": "MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia",
+          "zh": "MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役",
+          "ru": "Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии"
+        },
+        "account": "MotoGP (official Facebook page)",
+        "height": 640
+      }
+    ],
+    "photos_override": "{\"embeds\": [{\"account\": \"MotoGP (official Facebook page)\", \"caption\": {\"en\": \"MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia\", \"ru\": \"Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии\", \"zh\": \"MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役\"}, \"url\": \"https://www.facebook.com/reel/1209291261533641/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"Marc Marquez at the 2026 Spanish Grand Prix\", \"commons\": \"File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg\"}]}"
   },
   {
     "id": "2026-11-27-athl-c4b783",

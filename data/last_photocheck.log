@@ -1,11 +1,9 @@
-2026-11-27 07:52:44,092 INFO Photo check Go_Kuroda_2025.jpg (Wikimedia Commons, 1756x2513): OK, licence 'CC BY 4.0'
-2026-11-27 07:52:44,188 INFO Photo check Safawi_Rasid.png (Wikimedia Commons, 1484x1150): OK, licence 'CC0'
-2026-11-27 07:52:44,275 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
-2026-11-27 07:52:44,379 INFO Match card added to 2026-11-27-news-cbc2c5
-2026-11-27 07:52:44,379 INFO Photos for 2026-11-27-news-cbc2c5 set from photos.yaml (4 photo(s))
-2026-11-27 07:52:45,285 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-27 07:52:51,863 INFO Photo check 2026-11-27-news-cbc2c5 #1 'Machida Zelvia coach Go Kuroda': OK
-2026-11-27 07:52:51,863 INFO Photo check 2026-11-27-news-cbc2c5 #2 'Safawi Rasid, who opened the scoring for': OK
-2026-11-27 07:52:51,863 INFO Photo check 2026-11-27-news-cbc2c5 #3 'Morodok Techo National Stadium in Phnom ': OK
-2026-11-27 07:52:54,149 INFO Website built: 102 published stories, 354 pages
-2026-11-27 07:52:54,150 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 56 ok / 0 failed (102,767 in / 121,297 out tokens) · estimated cost if billed: US$0.532
+2026-11-27 12:24:00,794 INFO Photo check Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg (Wikimedia Commons, 3331x4621): OK, licence 'CC BY-SA 4.0'
+2026-11-27 12:24:00,794 INFO Photos for 2026-11-27-news-eb82c2 set from photos.yaml (1 photo(s))
+2026-11-27 12:24:01,530 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-27 12:24:07,547 INFO Photo check 2026-11-27-news-ae7ce9 #1 'Niko Kovač': OK
+2026-11-27 12:24:13,603 INFO Photo check 2026-11-27-news-ae7ce9 #2 'Harry Kane': OK
+2026-11-27 12:24:20,318 INFO Photo check 2026-11-27-news-ae7ce9 #3 'Westfalenstadion': OK
+2026-11-27 12:24:20,318 INFO Photo check 2026-11-27-news-eb82c2 #1 'Marc Marquez at the 2026 Spanish Grand P': OK
+2026-11-27 12:24:21,803 INFO Website built: 103 published stories, 357 pages
+2026-11-27 12:24:21,805 INFO Gemini today (2026-11-27, Pacific): gemini-3.8-flash 28 ok / 0 failed (55,169 in / 73,670 out tokens) · estimated cost if billed: US$0.318

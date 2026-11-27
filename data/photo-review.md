@@ -1,6 +1,6 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -9,13 +9,10 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg/1280px-Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Marc Márquez**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg)<br>AI sees: _Marc Márquez in Ducati Corse team kit_
+**1. 🟢 OK** · cover<br>Caption: **Marc Marquez at the 2026 Spanish Grand Prix**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg)
 <br clear="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Ducati_350_cc_racer_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🔴 WRONG**<br>Caption: **Ducati Corse**<br>Asked for: Ducati Lenovo Team → got page: Ducati Corse<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Ducati_350_cc_racer_1968.jpg)<br>AI sees: _A vintage 1968 Ducati 350 cc racing motorcycle_<br>Why: This is a vintage 1960s motorcycle, completely unrelated to modern MotoGP or the Ducati Corse racing team.<br>⚑ asked for 'Ducati Lenovo Team' but the photo comes from the page 'Ducati Corse'
-<br clear="left">
+🔗 Embedded post: [MotoGP (official Facebook page)](https://www.facebook.com/reel/1209291261533641/) — {'en': 'MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia', 'zh': 'MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役', 'ru': 'Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии'}
 
 ---
 
@@ -24,12 +21,12 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg/1280px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Niko Kovač**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_GNK_Dinamo_Zagreb_(2024-10-23_Championsleague_Dritte_Runde)_04.jpg)<br>AI sees: _Niko Kovač at a football stadium_
+**1. 🟢 OK** · cover<br>Caption: **Niko Kovač**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_GNK_Dinamo_Zagreb_(2024-10-23_Championsleague_Dritte_Runde)_04.jpg)<br>AI sees: _Niko Kovač_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg/1280px-Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Harry Kane**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg)<br>AI sees: _Harry Kane wearing an England national team kit_
+**2. 🟢 OK**<br>Caption: **Harry Kane**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg)<br>AI sees: _Harry Kane wearing an England football kit_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Signal_iduna_park_stadium_dortmund_4.jpg/1280px-Signal_iduna_park_stadium_dortmund_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
