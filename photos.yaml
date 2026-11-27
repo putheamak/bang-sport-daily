@@ -381,6 +381,7 @@
         zh: "柬埔寨超级联赛官方帖子中的占·瓦塔纳卡"
         ru: "Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги"
     - url: "https://www.facebook.com/reel/1012398621820953/"
+      height: 591                                   # vertical Reel box (27 Nov 2026)
       account: "Boeung Ket Football Club (official Facebook page)"
       caption:
         en: "Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)"
@@ -399,6 +400,7 @@
   # 26 Nov 2026: CNA's verified Facebook reel (editor checked the page: CNA, blue tick), loaded on click, never copied.
   embeds:
     - url: "https://www.facebook.com/reel/1982174182757033/"
+      height: 591                                   # vertical Reel box (27 Nov 2026)
       account: "CNA (official Facebook page)"
       caption:
         en: "CNA video: David Beckham's surprise visit to Bedok South Secondary School"
@@ -441,6 +443,7 @@
       caption: "Marc Marquez at the 2026 Spanish Grand Prix"
   embeds:
     - url: "https://www.facebook.com/reel/1209291261533641/"
+      height: 591                                   # vertical Reel box (27 Nov 2026)
       account: "MotoGP (official Facebook page)"
       caption:
         en: "MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia"
