@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:09:16+00:00",
+  "updated": "2026-11-27T13:42:43+00:00",
   "stories": [
     {
       "key": "60cf9dd97d",
@@ -7,11 +7,11 @@
       "summary": "Great Britain overcome Germany to make first Davis Cup semi-final since 2019 Yahoo Sports",
       "lang": "en",
       "sport": "tennis",
-      "outlets": 22,
-      "growth": 0,
-      "heat": 48.42,
+      "outlets": 21,
+      "growth": -1,
+      "heat": 46.77,
       "published": "2026-11-26T21:19:14+00:00",
-      "latest": "2026-11-27T06:34:46+00:00",
+      "latest": "2026-11-27T13:00:00+00:00",
       "refs": [
         {
           "source": "Yahoo Sports",
@@ -34,11 +34,6 @@
           "title": "Great Britain overcome Germany to make first Davis Cup semi-final since 2019"
         },
         {
-          "source": "Sportscape Magazine",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjh2dWNLMDBMYk9VbVYxYk1VeFZNS0NUMF9md1ZINVVhUHo2WnZjM3A1blJDV0JjbFRtWEhWWkxOcmNWSldDRnZzWTUtYUV0ODBlMF9OaTJpaGhpLXdYVEhwTWdRU2ZSRi10b1JxLU5kTjhSZ3JfZFZhVjlBQ0p3aHhuUHktQzgweUFESVc2UEpyNkJSUUVGaXdNVlVrZ1FuQ2xmNzcwUlMzUjJYUUZvQ2pYSlY5VUE?oc=5",
-          "title": "Great Britain Defeat Germany to Reach Davis Cup Semifinals After Decisive Doubles Win"
-        },
-        {
           "source": "Tennis Majors",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjdjeWRhSWFWSWhuX3J1allEVlNTMmE4aDhvaWNmemd2cExMZ0NtR3JrQS1BYWxITkRva0FLRy1SbTF0VFhDWFJoX0dWME1fdXlKRVVScmNnQXJ2VklKdkpkWmFjRUR2aW1NYlZscVlKNVM5cmNFQXhDWWV0aGlYMVBoaEZaa280cmZMWUFQaUNsYVFsRXgtSXlBSVlYOTFYTDVobWt6U1hpbXM1Z2ZaZi1fTFc3VHhsaEd5ZG45OE10QXNlQ1NSblVYdnZ0enZERmFxMQ?oc=5",
           "title": "Great Britain knock out Zverev’s Germany to reach Davis Cup semi-finals"
@@ -49,6 +44,11 @@
           "title": "Davis Cup Finals 2026: Great Britain beat Germany to reach semi-finals"
         },
         {
+          "source": "Tennishead",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGhtay04cTB1ZWdUT3RoWV8ybFYxM3g4OTV6Ym04LTZhSlR0dnV6NE1DUkVOSmtmUnhMY0dhbGdxLTA0UTNmcElMQmdPZHBGeHZhWFRhYy1GWl96aXNTODlTaWkzelVORVNYMGZldDlJQ1hBa19uWmRtWjBRYkZ2eWpMVTdjY3V6bDVMRXlyWERVdDhkMlpab1JQZ1MtS0luLXB5YVpodjVEMGRZUGN6ajdaY3RsVURCdWNaNGE3eWw?oc=5",
+          "title": "David Ferrer suggests what Great Britain are the best in the world at ahead of Davis Cup semi-final"
+        },
+        {
           "source": "BBC Sport",
           "link": "https://www.bbc.co.uk/sport/tennis/videos/cmn0lrjdd9n5o?at_medium=RSS&at_campaign=rss",
           "title": "Skupski and Patten win to send GB into Davis Cup semi-finals"
@@ -57,21 +57,26 @@
       "first_seen": "2026-11-26T22:36:46+00:00"
     },
     {
-      "key": "db80cd6694",
-      "title": "Marc Marquez announces immediate MotoGP retirement at Valencia GP",
-      "summary": "Marc Marquez announces immediate MotoGP retirement at Valencia GP Investing.com",
+      "key": "8e89efe650",
+      "title": "A retirement in true Marc Marquez style",
+      "summary": "A retirement in true Marc Marquez style Autosport",
       "lang": "en",
       "sport": "motorsport",
-      "outlets": 12,
+      "outlets": 20,
       "growth": 0,
-      "heat": 28.39,
-      "published": "2026-11-27T10:02:12+00:00",
-      "latest": "2026-11-27T10:04:00+00:00",
+      "heat": 46.5,
+      "published": "2026-11-27T13:24:39+00:00",
+      "latest": "2026-11-27T13:27:02+00:00",
       "refs": [
         {
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGNLN1JvREVSVW8xS3JUMldERkp6YUNfVHdsQ19ybW8xdGtkb2k4T3F5T1Q3YnFYbTRPOG1wWVBVdFpySFpYdkFwb2FuZjhhOXpCUWljUXVQMzQ5dl9XXzZOMTVDZ1V5QWlvbm4zbHd4bVhvR2k2eUl0Mnh0aGQ1U29DelBjVVBFYjBaQ1RPYUZ1aEQ2YW84UDMteUwzRDhUelhlcW9ZS1J1WGp2SFZNWnd0OWVuYVliOHBlX185RQ?oc=5",
-          "title": "Marc Marquez announces immediate MotoGP retirement at Valencia GP"
+          "source": "Autosport",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHVtVmFJZmU2dkxZMjdrRGE2YkJ1WVVocjlLTm5SbTZMTm50TUF2Z3FPY0ZkZEc1ZThZMVpsYTNnbU14dFBKNU5nUDBTOGw4Wk1VZFRNZXQ5blJrTDFqaDlTZEZkN2h6ZVpQdDYtdXlPOU93Rl9La3JMMHh1Ui1vT0lVcUEyQnZWcU9zVUlQcEk?oc=5",
+          "title": "A retirement in true Marc Marquez style"
+        },
+        {
+          "source": "Crash.net",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkZHVXg2eTgxeGQxOVpFZHRhaTdlcndxUUpWNzEtMmFjNFNnQm5zMThrLXB3RFVRVjJYcnVLVWlBQTJyUXB3NVNGMEpBdnI4THF3dEFacjJFaEpHSjAyTVFGdFlTZTN5cm9ISEloYnpJYlF2SXQ5QlRDX0dfU1ZNeGRuQm5EbWdJeXRYaDg2VlQtQTNvcjBZbTlfS2FleEpWc3BCOTI2blUxNmtDN19yUzlmNkdvbWF0d1lxX3Z3?oc=5",
+          "title": "Marc Marquez made MotoGP retirement decision in October after “fear” over injuries"
         },
         {
           "source": "The Race",
@@ -79,504 +84,195 @@
           "title": "Marc Marquez stuns MotoGP with retirement announcement"
         },
         {
-          "source": "GPOne.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFNUZE9tZmJtMDNJWjFEc2xYckhTRFNWdEk5eDlLTGRyZ1hBZ3JyQ1h5VnFSd05oaU5IMVZDS0hYRy1xNmlsTGFrQmxMX3RXak1YbV93SFpOclVEQ2tyYWd6ZHkxUEZQNHBzeXdwMW1XZ2RCWnNMcTZsNmp1MFJPaDI5V1hlZjdaWUhHVGJXS1QtYl9EYk96SlpwZ3RhMkNFWkE?oc=5",
-          "title": "MotoGP, BREAKING NEWS: Marc Marquez announces retirement live!"
+          "source": "Motorsport.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDRjX1dIOWVGb3VZLUthaVdrZTZEZTJad1dYRUk3OUlwQm53azRpX3BJcGZ2TEd5OTFIdW50dmVfeXZUSWdqVjBEbHBKd0NtdVRJV2xOdElyaV82N3hoQnV4cjlETTNNendHUnBMTmttUmJMSE1aMHozUUFQTG9rUERVNC1tQzZxUTg1RzRkT0NacnNvTjJDb2pKbXctcU5YVDhtcl9B?oc=5",
+          "title": "Marc Marquez announces immediate retirement from MotoGP in bombshell announcement"
         },
         {
-          "source": "Crash.net",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVU3LXlNV21sN3hlOEZkZWdiS1g3SHRZZ3NrN0tRNGdLWENHTE5CdVQxeFpLUGJMamlGemxlVVpIdWhhcHdsdVQxQUxZeVBJcHRIMTBpWndCei1mUHZnWkxUcWVZT2lWM3hiUGFyejZkQlBnZ3B6TmVfaUsxSnZpQjN3NThlcmhPS1RqZklyaEJld1hNMUlHUVR6WEkxdlhtUnZ3Z1VLYzVhTnp6NXVaSmFTS3o?oc=5",
-          "title": "Marc Marquez announces MotoGP retirement days after winning 2026 title"
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXJLTF9ZcEN0NGh3cDBHVk5tWEdKWGd4OUpEd2kwNHRfN05SczVocTZOa3dmbm1pRG1IWnB3Wjg1TEtZVFBPSlN6d2YzUHdBaW5aSG0wZ0ZwZFUtYjBpelMwaXp1U0RYRndrSG5XV0dGWjU1MGxyTUtETHNrUUdpeWNWeV9ZaTA?oc=5",
+          "title": "Marc Márquez, MotoGP legend, announces shock retirement in ‘Love Actually’ style"
         },
         {
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5",
-          "title": "MotoGP champion Marquez to retire after 2026 season"
+          "source": "SPEEDWEEK.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanp4MTR0a2VMcXc4Q2tMZFZLOVdWdjBHUXZ6eFQwMnVDaEhwVFctZmZfZXRsWkRKYmd4SVF3N0dlM1RiMjMyR1Y0eHBSNXh3M2NlYlc5ZEZ3WlVMSlFMMlNqT2FyMkY0QmVHRGNyUTk1ak5CN2hmN25FQmQ5VXBRQnhVdEt2d2lURTdrb2VHNXNHcTVjTVMxZXczLXVqZ0Z2ajdfaUVfZXZIbGQ1akdF?oc=5",
+          "title": "Marc Marquez opens up: These are the reasons behind his MotoGP retirement"
         },
         {
-          "source": "Motorsport Week",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0Z5OGhCOFJCdk9paVdCMTFXQXdhc2hEUmpzU0p2bEFfb3RTbnBnc2IyYUhnSTdmb0ZkVGxfejV0bXZOREgtUkhDOGNXTDV0Y2JsTjVBZ2w1aVZVa3gxMlNBaEpWSkc5dWRDc2hFT0tVRUowVm4zcll4d0llTW1TQ1hIakd3bzRKWDJNX3ZoMDc4QnIyQXpMMWYwNGZyYnZ3RlRLdlh4NEpsTWc?oc=5",
-          "title": "Marc Marquez to retire from MotoGP at the end of the 2026 season"
-        },
-        {
-          "source": "Autosport",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnBSOGdzZERLbkx0aEQwczFLZ1hJMXRmbFJxdi11T1hqSk9oNEpnRTBpWHBjTnBleWs5RnJNVnZNV3FLUnRrckQzUXJXN2o1LWpsM0FQUG15a3B5bnJnTndHeE81MDU4V24xTkhGb3pESU15c0hSb3BiVDBRLTVvbTFoS19oTldGUmM4NDEwdDZBeWtXTVNrdTNXS0RCa0QzRUFoXzdyT1MyMmFCeGxMVExMYU9CNTUyVFBCWWt1Qm1UVEJYdnJPVw?oc=5",
-          "title": "Marquez to retire from MotoGP after Valencia GP"
-        },
-        {
-          "source": "RacingNews365",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1duVVFpR1Z6dGZPQ2N4ckJ2NHFlV0VFWG9JLXByNHRLTUtfNDFCZ2tLcGR1bV9abkh0NjZ2WkpyY253NjVvZ0x3RjVTcHpYaGtmMjE5M25xR25ubXhsOUt2ZTk2LWNPanZiYml4YmVGWmVHNjBOc2RHQ1FOSWxDRFpaTUt0dEt1a01PbC1vMA?oc=5",
-          "title": "Breaking: Marc Marquez stuns MotoGP with retirement after eighth title"
-        }
-      ],
-      "first_seen": "2026-11-27T10:09:16+00:00"
-    },
-    {
-      "key": "1a6fd70f0f",
-      "title": "Qatar Grand Prix addresses safety concerns ahead of F1 weekend",
-      "summary": "Qatar Grand Prix addresses safety concerns ahead of F1 weekend RacingNews365",
-      "lang": "en",
-      "sport": "motorsport",
-      "outlets": 10,
-      "growth": -1,
-      "heat": 23.67,
-      "published": "2026-11-27T08:50:00+00:00",
-      "latest": "2026-11-27T09:13:00+00:00",
-      "refs": [
-        {
-          "source": "RacingNews365",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEpFdnlyNmE0SEtmQTg0NURnYTdlMzhYd3cxY2wtZG1lSlR1UE1Xd1FzMm9vRUhzVk16MlZlbTBpN1BEM0p6elQycmNIaDRzWWdyWVFEVFdDcGExRzVOODJhSDljTkotSXRDWFdXMWRpUHN5VXJLYTQ4c3lqZEhzMlExQnZyNkhoRVNzRGRnSFBGZw?oc=5",
-          "title": "Qatar Grand Prix addresses safety concerns ahead of F1 weekend"
-        },
-        {
-          "source": "Formula 1",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWxtaUZtY2szWEs3NTR3aHNNOTVMZzFJWV9CdTNVTFdfa1d3WV82SEd1MzNyRV9PdEsyM1pVTHR6NnVaOTk0UDhOQzd4c1dsSlBERHB1eEY3Z1VCcnRxVE9SdVBxc2VZb2dqLThDTkhRYl9vbUF4eXFBR3UxTjF4bk1jTDRwS0hPVF9LcDRNRHNobFM2bWc?oc=5",
-          "title": "Weekend Warm-Up - 2026 Qatar Grand Prix"
-        },
-        {
-          "source": "BBC Sport – Formula 1",
-          "link": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-          "title": "How to follow Qatar Grand Prix on the BBC"
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/motorsport/videos/c5n4e3pxnengo?at_medium=RSS&at_campaign=rss",
+          "title": "Watch the moment Marc Marquez announced his retirement from Moto GP"
         },
         {
           "source": "motogp.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUV2d0YtODNJQUlNV2hwcVVpMnhiSG1aWjBnMFVsZzdSMU5wUlkwZDYzMU5uZFhhcGVwRC1BRTdWU0Z1bDdZYzRNNHRSbTVoZDkxdkFsbGtRelRtdG5xZ0tpMlF0UDVUbVl3Y1FoVVpLUkRuaHp5ZEJ5cXIwa2VIN0dSd2pWTElMbl9uY1JVNVZMQUpPY1ZZQzBEZGgxRjhqRU5sdFN1d0ZTUy1t?oc=5",
-          "title": "Moto3™ FP1: Motul Grand Prix of Valencia"
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFFDZ3k1anQyVFpvU1hnN3VBalVJYk00LXpMRlRaRkx6UWF1YW5ySm9HSFU4aDRwMTNuZ2tIQVdLYi1KQmt5NlQ4R1A0STJWUFpwajZmdVlyNWVsOEtWUzVER2hmb0ptbWZSQ3IyeXp4TTR6VzJYZmR6enNOUWE2TzRCUEkyTzVEcGZxNWRHeTNzbS16bl9CakRvc21ldVZJUVMxWjJ0NGh5TmtJRHFwODB6V3RRazNaVk80MU9KVm4?oc=5",
+          "title": "Bezzecchi fastest as Marc Marquez announces MotoGP retirement in Valencia"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    {
+      "key": "a15f9c9c69",
+      "title": "Rohit Sharma to captain Mumbai in 2027 IPL",
+      "summary": "Rohit Sharma to captain Mumbai in 2027 IPL The Straits Times",
+      "lang": "en",
+      "sport": "cricket",
+      "outlets": 19,
+      "growth": 0,
+      "heat": 44.1,
+      "published": "2026-11-27T13:31:00+00:00",
+      "latest": "2026-11-27T13:31:00+00:00",
+      "refs": [
+        {
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWlQOFoybl9EeElscGR1V3dYaEU5Z1dhZzZGN29YS1hPZVdoRzFpZTNwaDNjbWdfZndNcHFhM09LRU9ldnkxUjFBcEJBRGtscmxLY05XQm5fckMyTlppRVhoa1pVMExBSXV5ellyZGFEQlVXRlBkZllsd1NSTW14WFNMWQ?oc=5",
+          "title": "Rohit Sharma to captain Mumbai in 2027 IPL"
         },
         {
-          "source": "GM Authority",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnhqeDZoeUpoNzAxbVREVE9nRHp2cXFncU5jQ3F3ZXoySEQ2ZnloOUhsN19kay10MWRJVWFwVjdsSm4xT1AwS3JFUUlOTVg0Y1hOZjhfOGNKcVp6UE8wYW9VY3BzU3RISzhfYkFWTWsxT21zMWgzS0hqcUNJbnhrRmQyaVNacFV3U0pHLVNVTElNS1dCcVVzYw?oc=5",
-          "title": "Cadillac Setting Up Fan Zone At F1 Abu Dhabi Grand Prix"
+          "source": "The Federal",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenhmZTdkYXVybDJteEdKY3UyRU1GWEgySU5mY1N6QjFYOXpwU1ZoR0t4TjlrY3lOQlBTUzhMSHI3YU1Qc1pFdkNfeFRKeUtDdE83VVdXSmtrUEh5N3hNMlJxdzNrc08ydTRhZEF6cy1Dbk4yOU03Uk1yYUFQNFoweGJ5TUIzYTk2S3MwZmQ3Wno4bHlvMzBFY1I1by1GMWJLbzVhZ3ViWQ?oc=5",
+          "title": "Rohit Sharma returns as Mumbai Indians captain for IPL 2027"
         },
         {
           "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW1CRnhtRmRoWXctYkxDUkF5dFQwTERGeW5PdVhuamx1U05LQWFvclpSRlJVcTNrckJySkg0YkVHYW45RHpjQy04UGZOMXZzWlV1V2VKTUVxY1NiT21JanROd21FUDBuM3hFSTNEY3g3TnVhd3BBSWdLTGRBQUNrdE9lWjJUajdOdXJVZkF3?oc=5",
-          "title": "Max Verstappen Hit With Late Blow as Gianpiero Lambiase Pulls Out of Qatar Grand Prix"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORERfT29US2RtT3haZW9QV0lmVkJncGpLMUlUOGtzX0l5Y2RMSEhFRktsZnhzZkQ1M04wZmpRdXkzNmt2NUtDM3RIN1hsTG1KTjg0dzdKNnU1dWpOM0RwMkN5UWx1anFSZTQxN2dDLTlHZk83eGw1YzBmVEpfUFhHbjdDd25NYkNiaUdsYTBESzloVmFmOGc?oc=5",
+          "title": "'Returning to bring the glory': Fans rejoice as MI aim for sixth IPL title with Rohit Sharma back as captain after 1078 days"
         },
         {
-          "source": "Sky Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOG8xcW5nS3d4S1lSRUZ1ZjBkSzZSakM4UUJRazdUZjd5VnVDQlJnMVI4M0ViNl9EYnJHbmFud1ZzSjhucmdyY1RFeC1leVdmLUpWaXFfR1ZWajJISVVyeHZGLUlvUnhkWnQtYUVUQ2RvVzk3eWt6X3NVVGVKbXNuU3R1a2tZYzJBaFFjSnJuOU84RkdybzhhakpjY0w3THJDNkgtZ0hVSEs0Rmx6MGFVTXVhU3o1WTNCR0hqQklLZWM3LU5HTmFXclVJVkM5TWhqRXUwdDFvZXpRdGJq?oc=5",
-          "title": "George Russell admits feud with Max Verstappen is 'avoidable' and 'unnecessary' ahead of Qatar Grand Prix"
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFFxa3ZXdmotRVpLNER5OTZZd1AwOFM2azdKMjFwcE1tV0stWGxJOWtXS25zNnduNV9BbXJNckxoZ1k4N3dRZkNTajh2NmMtei15NTAtTnFYcEY4UTJJWDFTYVp5ZUlobUVwWHEwNUo0UTZKRE9UeEowVURjdDJpSTE2RWdXbjdtbnEwTV9jM3l5NEhOX3NSVHFnaWFCZGFoZG9IcHBlRmp5NWRzbFZwV2w2QXZiWV9jRDdWLVhSbGZDVC1pcWIzb3VlcUVTcGFBenlicUxHZDHSAd4BQVVfeXFMT0NXaXhlcElkWVRwU3hjLVlMLUxkZEdocTlBQ3g3a0duVmNwb2JBQklEU2tXZHdCMHlaeXVjUEFfRUY2S05pVFhoMkp1b0pCQWNqQW1DbGdxTk9xQnJyWVI0NnktMWFQejl0ejBoTjhqRHc4RUk5XzB2N0JUSFJIcDJuVWowVVFkNk5NOVBFX3NXRElXMEcxVjZKOXZtM1RydlVXNVNDdGFkeDFOaHI0Z0F4TUpwd3JXVkpqYjI0d0ZIanROSmVhdE1uZk96QUhvNm5fazBaQU01WmdIcWN3?oc=5",
+          "title": "IPL 2027: Rohit Sharma returns as MI's captain after Pandya's departure"
         },
         {
-          "source": "Sail-World.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UdFptcGtTX0lnNEV6X0pUU2g2eFFCMTl3ZmtXR2dPY3JwQnc0NkVndWpZY3dKQlJ4RUxNaEcyM0M0aGdXem5nSEM5LTVFM1RXdGQtSmJORHNFdlpQeFdYTlNUNmxpY1pxS2ptT1pSb3FrZU5HdUlj?oc=5",
-          "title": "9th Portugal Grand Prix - Day 1"
+          "source": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmVuRzdUaXBhci02c1F3bDU3NVVBbGpwLUx4LXlWYm9BSDdxcXpnQXVvVi1yNXp1UlpfaU4zWEhwM0gyRTh0cmhWWlB6OFpsVFpnMEJ0bnJXMXlmVGFUQ2lsMGVIUHNCUFpsUVlSSHlGRTJaWnJjUmNUOGZSOVMyRUtUbkdRbFdsTlhaM2E5R3lYX3hmeVM1eTFPb0R2RXpxd1Byb2YyaDg2dFFPYnR5ZFR1VFk5VTVnaUxZUTRfNFVTRkFnaUpkeG84cEEyZU9DX1E?oc=5",
+          "title": "IPL 2027: Rohit Sharma to return as Mumbai Indians captain after three seasons"
+        },
+        {
+          "source": "ESPN India",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTZCNXFDcFdYdGhqVl9XQ3hDRGk1NTJBVXdFa1p5aFBLc3dvYVhhc2pGMVFHSzZXYnpxQzNFM2N2QTY1Mmk5dHRGalE0RFBXXzQyTURzZGVSRUNBbTAySjNRdUZmLUNXbUpndjFOWDZKUlVVYlpnTmRoTUxfSHNpM0tSOFh4UW9hUk9fV3dsNW9WQ19BODFpdHFQMEUzNU9QV2o4M3RqTV84OUcwWk9sRzNLTmhBeVJ2akE?oc=5",
+          "title": "Rohit Sharma to lead Mumbai Indians again in IPL 2027"
+        },
+        {
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjBnaEZaT0Q5a3VrWjJjcG5iNVE0bmNMaHhwM29Oa1JBa291NUh6MjRzNlNOcUVCUDZvWVlkbHdYTnBMckg0UWthQi1fWnAwZFFrekpMRUcyWWJXUXhfSUtxNDBLeGNTY2hyRVlIY0R5NGdPUko5cGtMX1RFMjRhaTU4X1BIRmx1Rk9rQ18wOGpKd3JJdUZuV0U1NFVDX3g5TjlvMGlib0N0RHllVjZkVnpfeHFyVHNDeHfSAcABQVVfeXFMTUtCVkE1bzlybGNkTUVjeFRPUjVMWTVqalp0dWhpSmM0UlltQV9zZFA4MU95NFRZQUwwSTE5Tl80TXF1dEFQSkhwVF9rQkRXdlhCX0lJSV93MnY0Z2Rmb09kbUZwbDd2Wk1KZlRmOGVLOEhlWnZ2aUxUZGRCTzFxSXE1T0VOTTRvN1g2d1hUb2x0OXVGMzM4QWpDUmpSVEJGOS15cXV6SkFCVkhiNEluM1d3NXc5TTZJYTRlT2VPcmRG?oc=5",
+          "title": "At hour of crisis, Mumbai Indians turn to Rohit Sharma to lead in IPL 2027"
+        },
+        {
+          "source": "ANI News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmR6TU1NMUpjMXYzUkNwMHdoV040OUlhT1NzQVpMSVJNUmNWZmtaVFFfSThzeU5BUDBMbmNxYWlEUlZIbmxjRnZrbzlrU0RWUXRHbml2cjFERDJpOG54UnpLS3RwYy00dW9mZjJpYS1KU3o0RXFhWjlJajVMN3hCcDREeW1PSlBUZmNiY281RGdacHg5SWhvZkVMV3BjR2Fac1BJYTRPV2NjT1RCemtQNHQ1eFM?oc=5",
+          "title": "Rohit Sharma to captain Mumbai Indians in IPL 2027 season"
         }
       ],
-      "first_seen": "2026-11-26T05:42:40+00:00"
+      "first_seen": "2026-11-27T13:42:43+00:00"
     },
     {
-      "key": "2bee79a71b",
-      "title": "Горбачева занимает третье место после короткой программы на этапе Гран‑при ISU в Японии, Петросян идет восьмой",
-      "summary": "Горбачева занимает третье место после короткой программы на этапе Гран‑при ISU в Японии, Петросян идет восьмой Sportbox",
+      "key": "756938c03d",
+      "title": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции",
+      "summary": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции sport-express.net",
       "lang": "ru",
       "sport": "olympic",
       "outlets": 8,
       "growth": 0,
-      "heat": 20.31,
-      "published": "2026-11-27T09:05:28+00:00",
-      "latest": "2026-11-27T10:05:09+00:00",
+      "heat": 19.73,
+      "published": "2026-11-27T06:30:01+00:00",
+      "latest": "2026-11-27T12:59:22+00:00",
       "refs": [
         {
-          "source": "Sportbox",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORGZhWUFOQWpDSFJ2QVRkRTNVNXlZWXh2WmI4Qm8xRVF0amZOcWdTN1dMQTBpVnlOUTg0QUcyQjFnNWttS2lBQjBNbWY5d3J2aGZWYllfbS1nMUxEN1JBaS1OcVA2UlFUX3ctSDM1WEdZaHZRM0tXNTJMMjB6YkZUQnFhNU5BNU1SU0lYc1lWODl6eGplaXI3d0g3UTJTc1VwRDdKOExzQzQyRGNIYnVYY2xXcUVZYTdMQmxVTUVnUUpPa0hEQy1hVm53dUI0ck8xQzBUSDcxN2JSLWVQYnBDVHhkNE5IYjdQMWZxSVF3bW9aRGw2bi1yZFd3S1F3SFdCY29KYkRoamEydUVXNHhj?oc=5",
-          "title": "Горбачева занимает третье место после короткой программы на этапе Гран‑при ISU в Японии, Петросян идет восьмой"
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSGE4cjE0b0NuUG5DNnoteFRxTUpiNHk5SXdVOVBWUE1YdDlTaG9vaWYycVFrN01oUm45ZFdpRUJCZkFlVlNYeUVVNno5UXNsOXZINVRCX2d0UEViNkp6dktNS0VOMHV1MUl2bXZRT3dtd0NvdEJ5V3BDZTh6dnlXZ3lULUc3QU5DZm9jR3JlZWtXU2wxanFRYUxveUxfSnY0T05nakNoR0RQeGlxU0hDaVVCN1RWdTJRdFBlaVNFeEdEcEF1T1VBY21xeXZMWHYyc0k2WWluTkdFVUs2dVZTZ21faFdVWlZkVkdLTVg1RDRTRFY1cHJiSDhldnQxMDhVOHlscDN5MlZXWGVQUzc5ZGJKR0J6U3BZZ2huOEVVNFE?oc=5",
+          "title": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-yaponii-2026-zhenschiny-korotkaya-programma-raspisanie-i-rezultaty-27-noyabrya-petrosyan-gorbacheva-chiba-2479492/",
-          "title": "Гран-при Японии-2026, женщины: Горбачева идет третьей после короткой программы, Петросян — восьмая"
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-yaponii-po-figurnomu-kataniyu-2026-raspisanie-sorevnovaniy-2479145/",
+          "title": "Гран-при Японии по фигурному катанию-2026: расписание соревнований"
         },
         {
           "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261127/gorbacheva-2134325270.html",
-          "title": "Горбачева идет третьей после короткой программы на этапе Гран-при в Токио"
+          "link": "https://ria.ru/20261127/gumennik-2134377024.html",
+          "title": "Гуменник идет шестым после короткой программы на этапе Гран-при в Японии"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZks5WXZoaGtTa0o3V3dDdUVRdnJULXBSbWx4SGR1djItTFQ3SmtTRzh0WXBRbjNWT3Boazd6SllHVE1JaE9MTXNhR0VxNGdydzQtcUJGS0lNZkstVERuZU1vMmRpRVkzTG1tSGpYd2JBUzZkU202RmZPb3VNN0cyZXlvbVBOak1BUnU1UHhTNFA1R19UR0YyYTc5X0NYSnZmVTZnZEVybldPQUdtX2hzQnFoa0cteV9INWZ5T2RXUVhaSExWNWEzZjVPeXJEV05lY0h5ZVQyRWVQdW1PVzZ4N2c3Y1Nzc05sYXBrcWpSQlp6SV9aOFhWUDJJWnpnaVRTclF5YUVpeHFBRnl0?oc=5",
+          "title": "Гуменник занимает шестое место после короткой программы на этапе Гран‑при ISU в Японии, Дикиджи — девятое"
         },
         {
           "source": "Советский спорт",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0h1anVhdHRicVFRczc4Y3RGeWdIUVhWeEpSY0xxX1lKQ1ZzSWVBc055ZjVkOGV2aGl5Y0htVGg1ZHVEMlYtMjdOMFJwQ0JYWnpENkEyM2IxZVkzSnhaQUZkeW9oUXIwZlR5S2xuVlI1cnprN1d3eWU1YjZlT3lUUkpya2FaLUYwREwtc09iN1VvWVVYZmNIampvalFhTU1SLUZicWxTMlhVNTVIRlJrTUt1Z2RGQ2pSNVE?oc=5",
-          "title": "Алина Горбачёва чисто исполнила короткую программу на этапе Гран-при в Японии"
-        },
-        {
-          "source": "sport-express.net",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdm5mSVJJSzdZU0I1enk5bGJOX3IxQlJTcmFVcHBseERVU2hDQ3c1RGIzNkg1bnpIcXFOYzJUcGM2bmlreVBPaGY3Uk9qbXJ4WjVUa2pVVDByVlhnWVVuOXBpZFE2ZkpMMENVUGFCaW1UbFZnN1Z5Z0NIczJqSFhERThwOXQyZG5QUGVRam9IOTVidS1jZktKeFp2V1NGdWNRSnprTWxSR2JHTjJESy1yUGtxSTIwOTJDVTJRM2R3NENScENIb2JDclZJeWdjU3U2anJ2NHN2eXA2ZHpIZ1BJR3MtaEJyQnhMWHlKN3ZNOWdpMS16YjA4UWluTQ?oc=5",
-          "title": "Хазе и Володин выиграли короткую программу пар на этапе Гран-при в Токио"
-        },
-        {
-          "source": "https://www.championat.ru/",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPV1lmOWZZSlFUc1FUTXRDTkQzX3pUWHM1QXhUSktBX2ppLVJ5c0xsR1pPbURwWEVXN3dNWlJrYjBWTkNWN3p5MkwxSmx4WXNHRk1KbEpIZEV6SUJRNFhVcVRYVXFVYmJBaFdWV0xVbktTVkw0ZldHODAtZGlGaUlQUlhEcDN2Rmd0clNuNGVYbkFfT2dRTDBENXBfUk9sdlpPNjB3TTdhaGEtU3gxc2o3dmxpaS02VEZueXk0TnJCRTB3QzVXcUdtUjBxM2t3ZUMwaThMYWVaVGVLbWl4cDBSUUwxclpycmRheHFzRlpvQjhNeVRINXg3MWxmQVRSRHNDY01JZF9SczRROEdTWG45RTJEMjNBQQ?oc=5",
-          "title": "Горбачёва – в топ-3 на международном Гран-при! Петросян лишь на восьмом месте. LIVE"
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk5nUUxyemV0cWNqVXZJVzF2R3RJeGI0S0E1U2hQN19KM2xWa0lwcVZGS2k5RmNxUTUza3BtYjZibHp4V3dibmN5eDVUb1FnSXlaQUtyTHZDdnhNQ19QU3BKLXBfT1lRZUdVVW4xOTI1Q3lTUGNHWWJNSFhLZGdRX2ZWb0paYm5WQjEzN1Nva05hVWFLQVh2dmdfcUJ6YU5XRF8yXzlVRzNuUVZkMW5TR2toNVhwOGs?oc=5",
+          "title": "Гуменник получил 90,60 балла за короткую программу на этапе Гран-при в Японии"
         },
         {
           "source": "Championat",
-          "link": "https://www.championat.com/figureskating/news-6716124-zhulin-ocenil-vystupleniya-gorbachyovoj-i-petrosyan-v-korotkoj-programme-na-gran-pri-yaponii.html",
-          "title": "Жулин оценил выступления Горбачёвой и Петросян в короткой программе на Гран-при Японии"
+          "link": "https://www.championat.com/figureskating/news-6716328-gran-pri-yaponii-po-figurnomu-kataniyu-2026-6-j-etap-nhk-trophy-rezultaty-27-noyabrya-2026.html",
+          "title": "Гран-при Японии по фигурному катанию — 2026, 6-й этап, NHK Trophy: результаты 27 ноября"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTUtQnVvNHBUU1hXSHdSLWxya0JuZTAyMHBrbktzOFJPUkx1Z1F3enRjOG12QmN6OXctS0YxcGkwS2tkODhhLVppeTJQTEpVNzZLelFncDgwV0x4V0VMVTlmSkliV0pkZEVpMkVVVVN2dHB4QkczaGxlbnBwUTdlM0tGa29UZHV5dWY4SEVqMVlYaHZKUlhvUmFwMzhHdEUweDdsTzFJWU1ZWHdtNWlab2VLUjJuVXZueWJndEhIZTFYQlZDeFJwS253?oc=5",
+          "title": "Фигурное катание, Гран-при ISU, Япония, мужчины, короткая программа, прямая текстовая онлайн трансляция"
         },
         {
           "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYmZnRy1acnNEOTBhRThkdkY4aC1WVm5tdXVrTXJCSXNJRUJDYklWOVpKN3R0Q3pIbjBTUk5hTS1FUXVPVlhKMW5fa2hEOG1LWHZlTWNZcFJxRmhIUXJEQ2hjYjlCUnhnRVkzMXhrQzZIdXlVWERyTWRRc2M4RGViR1o1cjVaVVQ4Rm1LMG1FeG50Y2l2dEplZlhKakNnMFNtbFdaUVlRSHdqbmtxa21wSUFBcWFsM3VrdGpxSm5uUDBhbldwVmVodlNEWXh1alN3VGM5cG9ZQnFIRUxrLTM0N21KV2N0SVBGQWtRZElyTXlxM1NYM2hCaWE3dkJaNWkxaHpkSnF6eFVqeVN4OGFZSEwxQmJjYmF0em9VVm42eF94UU1JVGfSAasCQVVfeXFMUHQ5bFhBY2dTb2thUE9BRjVVNUNDd0p6dlJubXFwR3NJYjV6ZkNha0FGWHN5OHFBVUg2Y2E4T0hXUktkRTZSOS1Hd3RCM0hnMFVXbnltWVJkVS03OVU3R05FYkNSQUNpT2JPd3VmaTVjOXdRUjhyNG5BS2kzSlVVNjJRem5HQldlSmJrZzFlYVNhNmM2MlRpb2l3RThhbzIxOEZuaHF0anNkOWwzZ3JwZ1VCT0YxVFRhb2p5YjlGREYtUExndnE0eEw4SUw5RXE1Z2sxMWJXNXZWVklUazNUZVVnT2pTYXhNNktBQWtYTHF4VnAtMEM4WFh2a25TRDZ0cUVZb2RhSWdpNGdFOUdjWnZlNFV0bU1uRlJRWnBySXJFSldVOE5oZUhFQUE?oc=5",
-          "title": "Live: Дикиджи с Гуменником против Малинина, Петросян и Горбачева дерутся за подиум. Старт Гран-при Японии"
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVDlZaGVtY04yb1dITm5nemxva2xtcHNBbFNRT3l4cmFoQ3ZsY1dlNkRJYzAtSE96TlBwU0xYZUswbldzSld2anQzNVRnblF3OEhKcExRZVNGUHk1NmJ5U2UxMzZ3M1NYSEQ4am90aXR2RmFjSmFyZm9ydEMzUmRDY014QWVtRnhEdXhNcTVXcy00bWktS1RNVzhmczl1UlFyYURNVGZZUWRnQ0NIRkpQbHFwSm0tSGJ3Szd3eHRXQnljdEI1TmZXemJacmJReEFCSldpUWE2NVpCNFo5R2pKbm55bk44QnB0c0xNQzJVUDFoWDFDQW84bjl1VWVSN29yN2RlX3VmVUtjOTJ6b2xIbDlKczNXXzE4d3JCbkc4ZGRQRVlFTU1KS0JfendUa2Frb2xvcF9Zc3prSzAtMlo1bjBuMmc2dGJGUnBLWHJPSXNnUdIB1wJBVV95cUxNNDg3Mm5tOGhSX0VoXzJELVVmd1J2X1dFRndYLU9mM1MwTVlzME1IVzJocDJWcURzdTNYT0cyeG5EUmxBMjdON0JqNWN6NHBzaDBYcGtzbkdPaW1WckVHdlVwbVpTeUMxYUJXUFFQaTU0SkJ3YUlVSUVxVTVBSXA5VXNrQVBZcXBfeERTVk5keW5HcUU0RV9ScWRPQkYwd3B5bXV3RWVpUUxWc3pFSE5hdDlJN3hZa0d1TXhwOVNGbUNrRVNTNkUybHUwakRKdVJJU2FQN1cwNWdzLUY5eW9FQllabGk2bWlQcll3OERYVkQzb3lIQ3NrZ1VPcldHOVBIRF9zLUY1cnJmN1BSSFNnYms1MDE4ZWEwVHRHUFlxdFpfRTF0cmtkRFVLdFpWdDdPaEZLdWxlcndGYTVxXzFQckVyNHI4cWRUTzdZR3QwZF9EdHAxYWZ3?oc=5",
+          "title": "Экс-российский фигурист спокойно летит в финал Гран-при, пока наши суперпары сидят дома. Япония тоже разочаровала"
         }
       ],
-      "first_seen": "2026-11-27T09:42:44+00:00"
+      "first_seen": "2026-11-27T13:42:43+00:00"
     },
     {
-      "key": "2ff699e67b",
-      "title": "北京短池世锦赛报项名单出炉 49名中国选手主场出战",
-      "summary": "中新网北京11月27日电(记者 国璇) 2026年短池游泳世锦赛将于12月1日至6日在国家游泳中心“水立方”举行。根据日前公布的报项名单，奥运冠军汪顺、潘展乐和张雨霏等49名中国选手将在家门口携手作战。",
-      "lang": "zh",
-      "sport": "olympic",
-      "outlets": 6,
+      "key": "12a073983c",
+      "title": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA",
+      "summary": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA Sports.kz",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 7,
       "growth": 0,
-      "heat": 16.44,
-      "published": "2026-11-27T09:34:45+00:00",
-      "latest": "2026-11-27T09:57:05+00:00",
+      "heat": 18.16,
+      "published": "2026-11-27T12:17:55+00:00",
+      "latest": "2026-11-27T13:04:02+00:00",
       "refs": [
         {
-          "source": "中国新闻网 体育",
-          "link": "https://www.chinanews.com.cn/ty/2026/11-27/10738866.shtml",
-          "title": "北京短池世锦赛报项名单出炉 49名中国选手主场出战"
+          "source": "Sports.kz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWRCSmJaelQ5Yno0WFZMaDBxZWVRUjVBekdyMDdVU2kyellvOTRsa2VjZTNIeDE3c19vRUVCajB5ek5qQnpDdkVmbGFIbmlvMkc0Rnozb1R2M0lOY2dEb1hVS2ZfLVZOSlRKN0xJdUdGMWxmU1BNcHhEdHhwT2huNFpENWRKM0VmX3VwbWUzRXI0NWNuLUtERGZzTXVqdw?oc=5",
+          "title": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA"
         },
         {
-          "source": "Sohu",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTU04T1drekFjNFFBQmVVRi1SakdYMVlZQ2RVMU1TQTdaVWRSb29lb3dlb0JXd3ZGOTFaMVE0bVFfR3pfMEVpWXU2dWRURGhZV2FSVWFzb1VUS3VzLXVJS0hRZndMQmNXVllKTWZGM0sxM3JLdmlSdXVScDdfVFJjWUMzZzlZOVlGbGpsNA?oc=5",
-          "title": "北京短池世锦赛报项名单出炉 49名中国选手主场出战"
+          "source": "Sport5.by",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVBIYkhMOFJGOUw1aXdGUU9xemZvRzNETnJTY2FXcjk2SnRINjQxYUFRTmNhSGVSR1B1Wm9LQVlMZnB1NVNJd0pkMFF1YVNOUG5iSl9sV080SzFPYmJKN1lFeGFnUHBjcHFCRVZBU3V6alRxV0YzSGVsZjg5MFpJTGVFTmg3c0c1R09iNFpYS1I0YlZwMHVOZGFyMmFXZmN1UXlCX0RoMlJfZVBJZVZFSy1Wbmc3b1pzRXJsd0tjTHRISzNHV2s4SU1qYw?oc=5",
+          "title": "Мирра Андреева не должна была обращаться к украинке Элине Свитолиной после победы на Итоговом турнире"
         },
         {
-          "source": "京报网",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Kc0dFOGNmblBYWXcybDBXQXpBRmFmU2lqa1Q2cm8tOVRqZjhlaDNUWDJ0THo4MlgtNzVVUmJyR210MlY0N1hYaTlzYU5SanJlOHE5cUp2bDdTM3FoLUE?oc=5",
-          "title": "“所有人都向往在‘水立方’比赛” 中国游泳健儿期待短池世锦赛"
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3V1V0o3TzlTSFJzMlB0SFkzOXFwbGdQVmRRWTlJa1hZRDZLUnpMcER2RUNxRVhxWjdBYjJZWjRuWHk3X215NWtwbk03T3ZVbXlsTjJkbkpieXNvU1BCU0N2d3ZBb2ZzNDh6Yk44M3NPVWtxWFNraFNfX2dQN0s5NjBIamZLdl9hRjEyaVlfdmlVcVhob3N5dndCWWtvck93Vmd6U1ZCR1VBWTVpbXdqUjl2OVY2eG9Sa2c?oc=5",
+          "title": "Андреева не должна была обращаться к Свитолиной после победы на Итоговом турнире WTA"
         },
         {
-          "source": "企鹅体育",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5za3pmNV9DUlpqM2RTSWtyanBxZnVfTmxBRGUxN1pDUlFBNWk4YTRkUmJkUklyYzdteXg5anV2VkNJdjU0Z1FuRHdXQkQzOURvRW5xR1BFb091WnRlYXpLRw?oc=5",
-          "title": "2026英锦赛正赛签表出炉：丁俊晖再战卡特，9位中国选手出战"
+          "source": "Obzor.lt",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SZVhfdTlIX2wySm5tUEd6OFJINWlmSmxQYk9Qd29LT29od2k2MlZKbHJZdkpVZVY3RE5MU1RIXzRJQzl0MVpRcTdR?oc=5",
+          "title": "Россиянка Мирра Андреева поздравила украинку Элину Свитолину после того, как победила ее на теннисном турнире. Через несколько дней украинка назвала это провокацией - Новости политики, Общество, Новости спорта, ЧП и криминал, Но"
         },
         {
-          "source": "手机新浪网",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hczEwcDZ0QzVZVFhfRjRVYVVGeFRocmMxWUk5YUswVTFUN0dxX1JvMXpnVC0tMUF3d2JnOTlJeWR1WmpCSjBWOUU2dTdfOTg0Tld1RmZCWEE0SHhSQUlCY2l5c3ZDeFY3U0VsbFpnS2Zpdw?oc=5",
-          "title": "短池世锦赛汪顺仅出战100混：水里轻松，岸上扛起人气推广"
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-vyigrala-bolshe-vseh-setov-so-schetom-6-0-v-sezone-2026-goda-itogovaya-statistika-wta-2479460/",
+          "title": "Мирра Андреева выиграла больше всех сетов со счетом 6:0 в сезоне-2026"
         },
         {
-          "source": "极目新闻",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjVGYyaUtoWFAyWTNZcy12eDJhTDUtcUpxaG44NC05dEpxOWx5SW85ZUJmNm5nVi1Oa1JSRWQwdTRSYUZicjRvNWo0ZXpZelZPZFN0TUlDZTVlbGc?oc=5",
-          "title": "汪顺出任北京短池游泳世锦赛大使，2026年短池游泳世锦赛将于12月1日至6日在国家游泳中心“水立方”举行"
+          "source": "Metaratings",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa21nU2Z4SUdwMm5Fb0loOU1DcWVJWjNzM0RVM3pySG9DVUN0Y0hSTHNkejZ6eU5DZ2RXTllIN1FCMEozTTJ3NEtzMDJaSHFmdlZ3bjRfRmxLNHZBajdHd19ZUTFwNnY0UWJsZ3c1cl9CZ1o3a29DZTNoaGlVY3hrUHVkSl9QODRyUzl1Z2VpbUsyZnNLRUZOZ2laTEs5a0tHTHRieGdmdW8yRGxDem5vMVNKLWI?oc=5",
+          "title": "Андреева обратилась к Свитолиной после финала Итогового вопреки договорённости"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSy1MdVIwSTVYSV9na2owaUtwSEhoR2FnUmx2SUg5VnZ0dTZDOVNRMUotbE5VclZuQ1pVeGJXZ2otVkpNUnhqbjcxWkg3bi10UklTY1RfOGN1aDZHM1N2eHNndGpfS1F0T3J4LTQ5YlR1LTZTTXUySVJQMmI2eEVlNVI3dnJnTVpCbmtfa0hDVzJlYnVtNDFYalJ3U2llaGxheEdPd0g1VzRXNHVZa3c2M0M1T0NxM2JEWXc1OUtfMHdqdjlrWVozRg?oc=5",
+          "title": "«Прошло уже 20 лет! Андреева даже не родилась». Кузнецова — об Итоговом турнире — 2006"
         }
       ],
-      "first_seen": "2026-11-27T10:09:16+00:00"
+      "first_seen": "2026-11-27T13:42:43+00:00"
     }
   ],
   "known": {
-    "9ae9cd9581": {
-      "key": "9ae9cd9581",
-      "title": "Famed striking coach Eddie Cha dies at 53",
-      "summary": "Famed striking coach Eddie Cha dies at 53 MMA Fighting",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.67,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-25T15:00:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGNyMWdUS1VtOG53QUNMWFZNbHY2a3pnYlFfUDBsV19VYTEwUDBHRzhCSVI1TEh1MGZpOHJqcjZDeXpFNS14NjdRbGZYQUFDVEltMk1XbDZyR19yQTNGMjYxR0F3WGwwZlYyRktySjFocnB3OVQwY1hUaTRuelgwT09paFpMa1U?oc=5",
-          "title": "Famed striking coach Eddie Cha dies at 53"
-        },
-        {
-          "source": "MMA Fighting – latest",
-          "link": "https://www.mmafighting.com/ufc/523288/famed-striking-coach-eddie-cha-dies-at-53",
-          "title": "Famed striking coach Eddie Cha dies at 53"
-        },
-        {
-          "source": "The Korea Daily",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13SGhUbDF4d203em53bk90aVktWU5pcXkwQ2VIUTR4MjlGM1M2ejc4VFBGZWtOMEN2TmxYVENmQ2ZjNG45UzJVbTA5Y2IyU1ppOW5GY2Y2WUxlUlEzcThpaS1pZTJJZURV?oc=5",
-          "title": "Eddie Cha — Korean-American UFC Coach and Mentor to Jung Chan-sung Dies at 53"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODNiS2FSY09OX3BuLTNHQzNaVjY3dzVhUlhfdW12WE9HUXJLeWJwN1JadlZfaXFPSE9HTkVBTHNzeEVaZ3pCYTEwNzQzcnVZMXJpX2Y1NjViQnZnSHpUb3E1ekt3Wk1ZT09MMnVSMWg1NGFSeXVYYWRIUU5Lejl0dXN3aw?oc=5",
-          "title": "MMA Coach Eddie Cha Dead at Age 53"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/renowned-mma-coach-eddie-cha-035511576.html",
-          "title": "Renowned MMA coach Eddie Cha dead at 53"
-        }
-      ],
-      "first_seen": "2026-11-25T17:42:47+00:00"
-    },
-    "412ec49326": {
-      "key": "412ec49326",
-      "title": "UFC star Jean Silva hit by car during preparation for Ironman",
-      "summary": "UFC star Jean Silva hit by car during preparation for Ironman MMA Fighting",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.46,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-25T17:00:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0FxcDhzR3BBaXlMc2VWd2hWMUdLWElwX1F6R196Z2F5R0NaSktkSDBhU20tRXRsOWItQVAydlZkYUdxWDVpcnBRWmpOaUxIUnEtNkhCc1FEbHdBRXlCckluYlJYT1dJQkMwN0RoZXVhQl9KSzJHSVl3ZWZRVkNKNmw2TDFNMkktQnVDeGU3bGdHNE5KSW95Tzc5MUpVZDFpS1E?oc=5",
-          "title": "UFC star Jean Silva hit by car during preparation for Ironman"
-        },
-        {
-          "source": "MMA Fighting – latest",
-          "link": "https://www.mmafighting.com/ufc/523319/ufc-star-jean-silva-hit-by-car-during-preparation-for-ironman",
-          "title": "UFC star Jean Silva hit by car during preparation for Ironman"
-        },
-        {
-          "source": "MyMMANews",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3poMkJmQ2FNNnZISkJuNHVZci1VVGVuNFY3VUpMSFRfMmF6VmotRmM3blFVbFR6N0JmX21IUGVHVlZ4TzBDSkZZWFlqN3ZXREFwSnFhU2oyQmxVdTdxd184WDFJVmJubnpUdHFucTBXVXdPVkh4eFVvVmxBT2Mtdm55azBLV1J2TTRyS25INnhnYU5xS2o5dUpfMzg5bUtxeWRyU2hBRy1HUQ?oc=5",
-          "title": "UFC fighter Jean Silva victim of hit and run while training for Ironman competition"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemN3LV9sTjdSUkRNbk5ibjRNWnpCeFN2SnEta3FrLTJLSVBCYm9rbl9JVXoyVXhvcWJFbDdrZUtvZ0hXSTNxd3NLRjVsMnRfN2N6QVFfWjhGY0tJTV85Q29jTjVOWkF4S2tFdGNkVk43a05YYi1tUTIwSjFnTE1iV3FBdnlocWs?oc=5",
-          "title": "Car-nage! UFC contender Jean Silva says motorist tried to run him down during bike ride"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://www.sherdog.com/news/news/UFCs-Jean-Silva-seeks-justice-after-alleged-hitandrun-203736",
-          "title": "UFC’s Jean Silva seeks justice after alleged hit-and-run"
-        }
-      ],
-      "first_seen": "2026-11-25T17:42:47+00:00"
-    },
-    "a76dd99ffe": {
-      "key": "a76dd99ffe",
-      "title": "Aljamain Sterling Teases Quick UFC Return Following Close Loss",
-      "summary": "Aljamain Sterling Teases Quick UFC Return Following Close Loss Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": -1,
-      "heat": 10.3,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-25T15:29:36+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVUJOeGkzbG5SdXc0ZjFqNlg5MW5OLW5SV19LT1JFNl81NmJ5YWlOb0FKcFkzNUNKbGpFcFBvX3FBQW5MSUNIN0xMUGttU292ek1YRXY2Tm1TTDFYa3NXSkJRXzJ5NnpCTWN3aGo3M2prNkFNZnVFaTFHRkt4UmRQenN3cmM1WGVqWGEwcHd0X0Q?oc=5",
-          "title": "Aljamain Sterling Teases Quick UFC Return Following Close Loss"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/aljamain-sterling-teases-quick-ufc-152936296.html",
-          "title": "Aljamain Sterling Teases Quick UFC Return Following Close Loss"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSlhJVnliTFlocGhxV1RRTTNrOExsLXM1NENFLTJhTThtdVZVa05zaWpyRkpMSzFXdXJnMVhJUUtzbW9oUnZIY0F4b0o5ZjkxbjlWc1BNZTVZZVBvYUZENlJjemphM0MzYzdrZmxkRzltOGp1Z3FZT3hjdFRGWkV0ZkZRU2FiemdTYUlWUWVOc3k5RWE2dzc4RUtEWDNuRFNUbWh2ZVBqRk1nbEZmSDhSNjh4TkJXQzZmdl83aHZrdHM?oc=5",
-          "title": "Kevin Vallejos Sets Condition for Aljamain Sterling Rematch"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/523185/aljamain-sterling-questions-judging-conspiracy-kevin-vallejos-slippery-takedown-defense-in-ufc-qatar-loss",
-          "title": "Aljamain Sterling questions judging ‘conspiracy,’ Kevin Vallejos’ slippery takedown defense in UFC Qatar loss"
-        }
-      ],
-      "first_seen": "2026-11-25T17:42:47+00:00"
-    },
-    "7ae4fe5be3": {
-      "key": "7ae4fe5be3",
-      "title": "Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him after UFC 334",
-      "summary": "Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him after UFC 334 MMA Fighting Matt Brown defends Josh Hokit’s complaints about eye poke in Ciryl Gane fight: ‘A f*cking point deduction at minimum’ MMA Fighting Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334 MMA Junkie Josh Hokit reveals lingering vision problems, regrets not foulin",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 12.57,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-25T13:00:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeTA3ZGVwemR3UXNBa0pqLUxQalNlbU9xdnMwcW9sYk5jSklNVEFJRVNsX2g3NmQ4b1RCUk5MdDVPUUpBRkppZjFIN1V2Z0kyQ3UzaUNuNU1veTBWYUY5bWs0a1kzLUVuVWV3M1RQc1dpWWZwS1kxc0JXeFc2b1VyLXRSU2hLdzZuY1U5RGxPV0RUbFZ2bk8wQ1JmNzh2cE1WMkk5aHlPMDloSXM1dG91MVpMLWtEQzNlR1BIRTZKTFN1Q2pzcmtHeFJGcnJjY3R2TlJKbUloOTRvT29t?oc=5",
-          "title": "Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him after UFC 334"
-        },
-        {
-          "source": "MMA Fighting – latest",
-          "link": "https://www.mmafighting.com/ufc/523123/morning-report-josh-hokit-admits-ciryl-gane-is-a-nice-guy-reveals-backstage-run-in-with-him-after-ufc-334",
-          "title": "Morning Report | Josh Hokit admits Ciryl Gane is ‘a nice guy,’ reveals backstage run-in with him after UFC 334"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/josh-hokit-reveals-only-regret-211525189.html",
-          "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWFA5cU80emNDT3h4Q0ZGSVBwSVVUcl8yRDJCSmZGb0hCY2pvSXJ1dnEwQlNxeFJKY3YyaklDc0lKVlJRT2JQZExJRlFsd2c4TzZjNXZtcjA5akV6amdQdTZPaWl0anJXU0pzN3N0LWlYNHpNYmtVQ1BpMU5ERWtucEZZVWE5RmlIREZsanJXRm1uOC1FV1lYSkw5XzZKd3dVck82b2F0LTNabHA4RkdicWhNRHMtUThuQXpOOEtGb2c2d3ZlMjd3RmtfNERNb0xGMk9NUFlB?oc=5",
-          "title": "Josh Hokit reveals 'only regret' in Ciryl Gane title fight at UFC 334"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRV9VTC11STRHQXlkNThZRmxBWTFTZ1F5aDVjajctQ0FVNWx6N0xMOFdLOWx3SWt5Z0JCRF8ya1htM0ZBNFp6OXc5UU44X1p3WFEyalJiWkRRYURfUExRUVJPdFRyNy1UZHk4RHBNVHNuWlU5dlZZclh2ZjV6WE8xSHZjOG10ck1RR2JPUXd1Q19fWFFRYUprTXRCNmdxQlk0cFJwMzZlVGlxdUxYWm9XeHlyZlRKbGtfcjJGU1BybUc0Mjg?oc=5",
-          "title": "Josh Hokit Explains What Went Wrong Against Ciryl Gane at UFC 334 and Vows to Break Him in Rematch"
-        }
-      ],
-      "first_seen": "2026-11-25T17:42:47+00:00"
-    },
-    "6a8336171e": {
-      "key": "6a8336171e",
-      "title": "Qatar Grand Prix 2026 by James Martin",
-      "summary": "Qatar Grand Prix 2026 by James Martin Ferrari",
-      "lang": "en",
-      "sport": "motorsport",
-      "outlets": 19,
-      "growth": -2,
-      "heat": 41.46,
-      "published": "2026-11-25T18:00:00+00:00",
-      "latest": "2026-11-25T23:26:18+00:00",
-      "refs": [
-        {
-          "source": "Ferrari",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWG42ZWc5dlhRTk4zbmJXdnFOV0pYdWMwd29GcnNZV0d3VDJNVXR3ZmNyMDZhUmcyZ2wyUU1uTFgxcXpPaUJkT2NfNTBkUldqYkNFVjcxSlpWckR6TWlFdUdGU2hheno5SWppMGxxS0ptT0JSb0RjTGllTWpXZzRkVTlSdEk2QQ?oc=5",
-          "title": "Qatar Grand Prix 2026 by James Martin"
-        },
-        {
-          "source": "Oracle Red Bull Racing",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUd6RXpvcElvUHUwS0xpakQ3aVZlWEtmbXFYV2ZXVmQza0Z6ZFpHWkxpX0tESXdQTkRtWlRIOUVmNUZ3ZjlOR2ZYMC10cFRVbld2Smd5YXJieTljcnNUdVdKTzg3Q21meTJ6aHZOQ19Xa0lNWTZfOEIza2xhcHdJcldKTzFhSDhsVlYwQ3Fn?oc=5",
-          "title": "Oracle Virtual Laps: Qatar Grand Prix 2026"
-        },
-        {
-          "source": "Formula 1",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNnJ2NlpHUWJwa2M4WkotRzY4QlFCWnNsOFNjdmxMbHZIRHktd3pSQmpVRzIwVUl5clBtSWJpU1BjZ18xTkE3aXJSSnh0QTBIV0NFdHpfYldQbXlReEVJOG5JYXNaNjNaazVMaFd1VWV3M21jNW5sNkV2b1FhY0J2RW10aHhhQUxtZHY0NndBX1BJTzE4SVBEWHc1alo3eEQyeEd1S3JOVTdWNkxvcjIyZVNvNWVmUFFVTzJIZnFpWHlmRU96OE5RUTZRcjY?oc=5",
-          "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWFpXREstNjVnZFZpcy0xN2I4QWJnY0tNcmd5QUNhQkdjTkh6Vk12X0dLSEt3RE9mNUhnbU5NQk1Bc1F2dm41blBkNGZSOXJXam16T0ZRcy0wZFdpYXJVd0s5TGxmZzQ4VVBxaDRjdUxuTmFpVUw2OFh2d0h2UEJxbTg0RUwzNHJxYVdsTUliX1M1amY0Y2FvRmhjeVZxTzVKUk1NZnk1LVphX2F5VW1RUHFOTXdTeURDWDVac1h3SlpiSXFIdjJMSzZiWnRkUzJENVFj?oc=5",
-          "title": "F1 Qatar Grand Prix: Max Verstappen enters penultimate weekend on the calendar as the favorite"
-        },
-        {
-          "source": "Hypebae",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSnJDZ2VJdmNHd2dfV21tcmN2NkZjYjgycGR0S1ROQXVTUHVEQndZX0dYQi13OUhWVGIwZ2V3OXVZT1hWb2FySDVWU0xUT056STVsWVVYM3dmUHlvSFczWjA3RnAzaU8zOTB5VXd5RG5nRTdXLWtFTXRGdmt0TUotQ2E0YkZTVUhxa3RFd1VJajBwVHVOelE4NVFORmZ5Zw?oc=5",
-          "title": "LISA Debuts an Unreleased Nike Zoom Streak 3 at the F1 Las Vegas Grand Prix"
-        },
-        {
-          "source": "Daily Gate City",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMldlRzNhamxhTjFidnZkMVVaSVdJRHF6c2otQ2NwSklkQkdnTnJ1TmZweGtQUUJZemdGVmM5ck1XaGM0RzFobzFhTVU0YnlWZ2VJMkNzQXk5WVg0MVpfa0oyM2JqbjJiU21sNHd5aTNfNkhsQ0Jzc2w0bnlOWXlqNzhqcHRmaWtfSWdaaHg1R0J5cG9xTGkxVWg1eHZBbTdObGhKajlNN295OEl6SjY5SmtCemkyWmZ3eTdwd1l1NHNMM0VlQ19CZnlOZVRQRXFYdHA5OS0zTXhqaklQV21mRnk1OVRlMWV5WHFtT0kzYk5NTzQwSmZ0cnA0YWU?oc=5",
-          "title": "F1 is returning to the Middle East for the Qatar Grand Prix despite tensions"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObndTbXNNT0o4XzdlRnZySHEyUUtiU1doYlJ0Rm1sS3dRU3hYZXJRWmEwYzdJcG9oVWVuX1pYN1k2SFZIc19wMzB0cl9MMVJCMEpPSGVuNmhqRFUtMVBqaGFicnhOQVBqOFlORURQX0MwVE1DQm5jcFk0ejJwMUVlMHowWVhSUkVUNlpfZlVkLW9XTE5oMDZETndJQkdYYVFHZWVNWHMzQjB3OHdjalJjQm54UW5POHlnUWpJd21kU0g2emczSmdCcDVRNWxEQ1lxQ09hQ2FvUy14cmpzMWw2N0UzTUFIR0dHbVAzU1FmdGVFLV9kSmIyRUdOT2FTTzRB?oc=5",
-          "title": "Your Guide to Drama at the F1 Vegas Grand Prix! Plus, DK Metcalf’s Ejection, the DWTS Finale and the Current’s First Chip"
-        },
-        {
-          "source": "Українські Національні Новини (УНН)",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT0pqOWZOR0RqdEhQcW5ud2pNcFVJSTVRY1JCZVFQekxKb3NQMFRzUzVkXzVsRzlmX1o3MDN3eUpSTmxtRk96eHZNcXV0djhvRTRyUkFlc0NoWEhqMm05UFVKanlETUxyVkszU0hmM1R3LUVhaEwtQzJyR1plQWphOFNHQmtHeWw2TkxRZzI1R3JJRW1GSTBzR2k0ZkdLT1ZQV1A3cUFDQm5mS2IzaUNCOFpMNW5mZkhIdUZyMUE2VFpzaTE5eWdwZDhxMWgzYXdabmh5Z2Q2UzBiN2N1ckHSAdwBQVVfeXFMTnBQZlIxeEw1RmhIejluTWdPMWJIeUwwSGpKT0JvTUJoUm1QdXFBTFZpdk8zMXBDVDlJcEo1bVVLc0tiS2ZnR0gwMzI5bXRaZW91SHNkdDl0UEw4eG5EcmU0RVB4dE9MUnhBMkljRFE3MnhFRnJPZ3FkNzhPWjllSWhIQ0FkREFUY0ZPRDJYaDIzTkhGdVprME9qQWNzUWlMZUVsQmE2a1hhNTRxUVM5dkpocFlrcXNrTHE2NWpqR0Y5ZlZCQk5KR1RKVWlRcHFNRW4yMjB4UkVfNXUxYw?oc=5",
-          "title": "First he played GTA VI, then won the F1 Grand Prix – Verstappen spent 40 hours playing the game between races in Las Vegas"
-        }
-      ],
-      "first_seen": "2026-11-25T22:47:21+00:00"
-    },
-    "6d975b9486": {
-      "key": "6d975b9486",
-      "title": "Badminton: New Delhi to host Thomas & Uber Cup Finals 2028",
-      "summary": "Badminton: New Delhi to host Thomas & Uber Cup Finals 2028 Devdiscourse",
-      "lang": "en",
-      "sport": "olympic",
-      "outlets": 13,
-      "growth": 0,
-      "heat": 30.04,
-      "published": "2026-11-25T14:56:55+00:00",
-      "latest": "2026-11-25T14:56:55+00:00",
-      "refs": [
-        {
-          "source": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHlPSmtDNkExOS1hYlkySlBVU2F1QktYTjhzVXc4aTdkazBKejlGT01UN0dwV19KcUZDaXcyV1lzU21PTEhSZGFyVXNxYmdMSk82Rkd4WVhjRmM0dEdmOTU0Sk9VWkJDVWhSeURUcHZ4UmRlUFhzTlBjbHhiV2ZEMUpjY2dTMktCVVpXMkROaVBxN3pqZkNfTFhURGliUWh2bGhGRzZMRmkwM01OV1NFQ2IzblREYVV00gG4AUFVX3lxTFBweU9Ka0M2QTE5LWFiWTJKUFVTYXVCS1hOOHNVdzhpN2RrMEp6OUZPTVQ3R3BXX0pxRkNpdzJXWXNTbU9MSFJkYXJVc3FiZ0xKTzZGR3hZWGNGYzR0R2Y5NTRKT1VaQkNVaFJ5RFRwdnhSZGVQWHNOUGNseGJXZkQxSmNjZ1MyS0JVWlcyRE5pUHE3empmQ19MWFREaWJRaHZsaEZHNkxGaTAzTU5XU0VDYjNuVERhVXQ?oc=5",
-          "title": "Badminton: New Delhi to host Thomas & Uber Cup Finals 2028"
-        },
-        {
-          "source": "Olympics",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFhKS09DV0VIYjJMNFVWbnJ2X3R1NG1qZHNZdFdUSlBZRENma1ZjVHNtRWxZZ1lXRXpvNnFacjlwT3N2VUZiendJQ24tamhBWUtVQ0J3QkxlMTRZeGZ2VGluYUxIZWlxX1R2eDVmQ2dmMmEwbVR5UmtTUHRjTkFOYmZkMmt0RE01VWVIS2JVT3dKcV9FekE?oc=5",
-          "title": "Thomas & Uber Cup Finals 2028 badminton to be hosted in New Delhi"
-        },
-        {
-          "source": "NDTV Sports",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdWNRb2g0OTNHMEU3c3BUX2tvY1RGYjRmeXU5RjVTbGpfUEY0LVJxN25SaXQ3T1Job1VkX0N0VkZORnd3blp0c1U4SXhXVmdaN09BSGhmX2JiRTRaMjdyS1VQT3B3WDJZRWZzM3VnaUlHQVI2LU9iRFBoRVdHY2liOXhteWFheVgwTE5KZEExV1Bwbm83dm4w?oc=5",
-          "title": "New Delhi To Host 2028 Thomas And Uber Cup Finals"
-        },
-        {
-          "source": "Deccan Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2x4RVJqZnBfcE1tX1l5YXpOR3dXQ2xHNF9UY1ZuT2VOMjVQTzQzVVNBX3dyOGx4RkY3TWVmVDNtU2lCc3A3dVZRVk1fcjdnODM1blc3dzFiVm4zZE9ueUlyc2lxMm1FNmRFYUszckZuUGpfTnFhQml3Z25DNXFsMlY5cDF6enlQdFU2S2kwLXFEaFB4NWRCbUlGcXnSAZwBQVVfeXFMTjNseEVSamZwX3BNbV9ZeWF6Tkd3V0NsRzRfVGNWbk9lTjI1UE80M1VTQV93cjhseEZGN01lZlQzbVNpQnNwN3VWUVZNX3I3ZzgzNW5XN3cxYlZuM2RPbnlJcnNpcTJtRTZkRWFLM3JGblBqX05xYUJpd2duQzVxbDJWOXAxenp5UHRVNktpMC1xRGhQeDVkQm1JRnF5?oc=5",
-          "title": "India To Host 2028 BWF Thomas & Uber Cup Finals"
-        },
-        {
-          "source": "The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmIxTDg2blN3bnFmNVB1YVdOcXdhekM1cW9UWGRySWV4a2FvRUN2WmZQZW4xbWh3d2d6TjlvM2ZXQUpZeHhOUzhZV3kweTdrRnpYMmVoMGdZREdhQUFDUng3R3ZqMkowUjhGUnZmSFYwNlV0RDljbTZpNHl1cVdtWHdQX1dqRE1qLXJfWXJtSUFHVHZnelJnWlBLdWVuQzFldGp2OE5tdUJqSU04a0Rmb0V30gG_AUFVX3lxTE9PbkJSZWp6X3BhMXY3anZfcGdHNEd1MHlpUjl4M09DODJsTHFVQThVSVg5eHFoNUFOenF2Y3dhZy0zeHNGRVF2RzhRZGFwVElhcTZRZlBWNjU5UnNiU2JqRUZnM0dXNnl3MzhjNHpPRHpqMXpXa2NpM29SRmlSTzZMLTMtTFVaQVVQc1gxTTNrLUNhSTBlSFZVWWsyeXE4ejFlVjlickkyMVRzYmdVNHdUSmk0VmVfS0w0SGxjOXlj?oc=5",
-          "title": "New Delhi to host BWF Thomas & Uber Cup Finals 2028"
-        },
-        {
-          "source": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVm51cFNxeF9lSlJWU1RiWm9JalBTWl9mOHM3NXJndlFWUTdWUGlsRXJpbEF4SmZBWWM4WWJBdl96N1gxY2RPZ3QtVk15LWo3YjlIN1Z5SjYtVWZaRFpCT3c5RmUwcWFUY0NKWGZoTmtBS1pOUHJzeFpjQnE4Q0xhSHUxbUhZdDBfYXZ4VjNGalpZcmhtdHJ4Skg3VnFtMVZyY09qVHhQMlFCdVXSAbIBQVVfeXFMT3Ayd1did01meGMwNWtBNXNVY1kxMTBaakNHNGJtNXdLSmJFeFdIa0VTUll6cVV0YXgtLXI3dmFpUXZ0dUxnUUZsdF96QmgtT1l0REVZa1hQNHQtMnA4MDk0MlFCMG5DMGxzWnVQcWZIZGU3V09uN0psaEgwcEVRRXBLZFdxWWdiRlNra3Frc2ExMUFyR21PdmN6TDVqcnlkN0FZdkxQOFlrR3d6SVRDMUpuQQ?oc=5",
-          "title": "New Delhi to host 2028 Thomas & Uber Cup badminton"
-        },
-        {
-          "source": "Sportstar",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXVYNlNfUjlWTGJHaHZsa19DRXRKUkJEbGtSVy11WHozWVRUdk5tX2ROOTVQTF9Ra1FsUFRvZEQtSmxuTlhoNHRwN3Y0WDJlQW9HRzZ0ZVVNX1RtYW9yXzlJNVhDSlVwSmYtRVMtNFA1V2NDV3JEb1l3TlVoenk0N1BaR0ZCNWxWdHZXdXdOM1RySGFsVk5YZHZHWUtWWElkMWxxTzJMbkhIczk4N01vWlBKMG56QkJ5MXFObWJB0gHEAUFVX3lxTE80RFFWQW43ZHhsTUlXdi1NWDBmZEtsOTBKNjlGOF82OS1wUDhTajllLUt2aXF4TC1Qc0p0TzR1cGMtRW0tSVlPS184X2NrTHE4ZzBzb3JpUnMyMFRFU1hQdW1ySlh0WlMyVnkwV1U2NlJNNWhLZGliV3JQNURSc0Q1VXBvOXU1MktpYXpRdk9XVGxHV0w2U1h2bU5jWDQxUjVESFZBU0NkSU80U3FqZkR1MV9sZ1hQZHFzeDVWSUVJcnRJcUc?oc=5",
-          "title": "New Delhi to host BWF Thomas and Uber Cup Finals in 2028 with 3x15 scoring, best-of-three match format"
-        },
-        {
-          "source": "Indian Sports Home",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DeVRXNGxxak5kbUh6MlR2THpYX05fRmZCVHZCcmlrY1JtMHlRdzFpZ09xSkdFS1B3dFZBRGRaVE9LOHlETEV6OFdhMy10eU1sM1NLM241ZlhlMUhFYmdaOUN0UnR2dHlwSGRudjhTRGhuaWNNYlFn0gF8QVVfeXFMTUtSS09XMGxWTUhkbzR1dDR0WHhQUmJJR1R6ZXVOX0lTbkhnR3JKQTJnRm1KMDFXSXJ6NEdvcV8wSXYyZDVGMEdZVl9idVVWUmVoRC1TaEhJbFZSY3B2blZyZnhGbEpnWU9INzdYMzBtc3BRUjdxNDN3dGVUaQ?oc=5",
-          "title": "Badminton: India to host 2028 Thomas and Uber Cup in New Delhi"
-        }
-      ],
-      "first_seen": "2026-11-25T22:47:21+00:00"
-    },
-    "05f3b7bafd": {
-      "key": "05f3b7bafd",
-      "title": "\"Мне его не хватает\": Карлос Алькарас поддержал Янника Синнера после операции",
-      "summary": "\"Мне его не хватает\": Карлос Алькарас поддержал Янника Синнера после операции Sport5.by",
-      "lang": "ru",
-      "sport": "tennis",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.62,
-      "published": "2026-11-25T21:11:06+00:00",
-      "latest": "2026-11-25T21:11:06+00:00",
-      "refs": [
-        {
-          "source": "Sport5.by",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFg2ZzRkMnZUc2haZ3BTbkJ4bldXdjZiT2RKclpiQnBpek1Xckh5QXVMcnhjcXFrQU9ZNXhKMFhqeGJDQjh4a2NMaWZCNUFGLUUxUU1CQU53ZWplX3hoVFFxRUs0SV9FZG9CN05iWUZFZDRmUFNCVmNRUlBwb29vVGtlZVd5bFN1X1N4RkJhUmtBckdiR1pibzdsdF8yT2RlOGg5VVBSQUFXc1h3?oc=5",
-          "title": "\"Мне его не хватает\": Карлос Алькарас поддержал Янника Синнера после операции"
-        },
-        {
-          "source": "Чемпионат – Теннис",
-          "link": "https://www.championat.com/tennis/news-6713768-tennisu-ego-ne-hvataet-mne-ego-ne-hvataet-karlos-alkaras-ob-operacii-yannika-sinnera.html",
-          "title": "«Теннису его не хватает. Мне его не хватает». Карлос Алькарас — об операции Янника Синнера"
-        },
-        {
-          "source": "Чемпионат",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNlNKU0xTaHpxdzAwb3Vmc0lKUl9CMGloM0hrZEhWZTZKOGxEdUptRTlITXNaallPalVmSzBGaE51WmVBc01fSnFqV1pWdmdBMnFDSGRPQmZIVlNTMkNyaXpDUjJVNHFpbjBsVDR4blJHY05HTW0xeGFveEZoZlRRYUtLUmdMTE9idFcwUUhwNWxCaDA1b1FmZlVZam0tNzZDR1hyTWd2dWJuSEdUbXllZWxXYTFYUk1Ob0NjcGZReERxRjYtMDRUc1FiX0pMbEFG?oc=5",
-          "title": "«Он еженедельно надеялся на возвращение». Александр Зверев — о травме Янника Синнера"
-        },
-        {
-          "source": "Советский спорт",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzlDTlU3UkxQR2pRa2ttWDRvU1l3Tmp3dGNmVnZmQi0xQ0pwWWNfQmc5RUtnRkpkbUIwZVZNWVc2NmRLRDV1U0p6aEx5YnlqUjN3VVJQUFFBZG5RbUIyUWg5YlhJNVQ1am5IVGhxX1djcWRCaFQ5VXRTdzNjVldSODRmQlVPLXZXV2J2ZmxWVnBwVGl4MlhhaEhmazBqMjFlMzBsVVZyRGM5a0pvOUNTenJQR0l5SmlySUdLcHRnSkZpamRp?oc=5",
-          "title": "Рейтинг ATP: Даниил Медведев, Андрей Рублев, Янник Синнер, Карен Хачанов"
-        },
-        {
-          "source": "GoTennis.ru",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXRCMzAySHBVbmh4MWY4Y0JndWZvUEtjdjkxNC1vWnkwaTVwQlN3MTNNenhRZkl0R1dPbDlfSF94VlN0THc2MnNLaVJPUThoX3V6Rlc3UWt2bjhNR3Q1VnFSSjM3RFFmV0tfX1AxRXBmTm5QTzNwZHI4Y3dhbHlCUm1QcG5VY25OZXdJZEpqTHl2VGdDb0R2TUhYLU54eXExX09IUkkwR2M4QnM?oc=5",
-          "title": "Карлос Алькарас - об операции Синнера: Уверен, он вернётся ещё сильнее"
-        }
-      ],
-      "first_seen": "2026-11-25T22:47:21+00:00"
-    },
     "98b4417b52": {
       "key": "98b4417b52",
       "title": "Daniel Dubois to defend heavyweight title against ex-Anthony Joshua rival in Manchester",
@@ -2731,10 +2427,10 @@
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.4,
+      "heat": 12.06,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-27T03:45:00+00:00",
+      "published": "2026-11-27T03:59:23+00:00",
       "refs": [
         {
           "source": "Sherdog",
@@ -2770,11 +2466,11 @@
       "summary": "Great Britain overcome Germany to make first Davis Cup semi-final since 2019 Yahoo Sports",
       "lang": "en",
       "sport": "tennis",
-      "outlets": 22,
-      "growth": 0,
-      "heat": 48.42,
+      "outlets": 21,
+      "growth": -1,
+      "heat": 46.77,
       "published": "2026-11-26T21:19:14+00:00",
-      "latest": "2026-11-27T06:34:46+00:00",
+      "latest": "2026-11-27T13:00:00+00:00",
       "refs": [
         {
           "source": "Yahoo Sports",
@@ -2797,11 +2493,6 @@
           "title": "Great Britain overcome Germany to make first Davis Cup semi-final since 2019"
         },
         {
-          "source": "Sportscape Magazine",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjh2dWNLMDBMYk9VbVYxYk1VeFZNS0NUMF9md1ZINVVhUHo2WnZjM3A1blJDV0JjbFRtWEhWWkxOcmNWSldDRnZzWTUtYUV0ODBlMF9OaTJpaGhpLXdYVEhwTWdRU2ZSRi10b1JxLU5kTjhSZ3JfZFZhVjlBQ0p3aHhuUHktQzgweUFESVc2UEpyNkJSUUVGaXdNVlVrZ1FuQ2xmNzcwUlMzUjJYUUZvQ2pYSlY5VUE?oc=5",
-          "title": "Great Britain Defeat Germany to Reach Davis Cup Semifinals After Decisive Doubles Win"
-        },
-        {
           "source": "Tennis Majors",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjdjeWRhSWFWSWhuX3J1allEVlNTMmE4aDhvaWNmemd2cExMZ0NtR3JrQS1BYWxITkRva0FLRy1SbTF0VFhDWFJoX0dWME1fdXlKRVVScmNnQXJ2VklKdkpkWmFjRUR2aW1NYlZscVlKNVM5cmNFQXhDWWV0aGlYMVBoaEZaa280cmZMWUFQaUNsYVFsRXgtSXlBSVlYOTFYTDVobWt6U1hpbXM1Z2ZaZi1fTFc3VHhsaEd5ZG45OE10QXNlQ1NSblVYdnZ0enZERmFxMQ?oc=5",
           "title": "Great Britain knock out Zverev’s Germany to reach Davis Cup semi-finals"
@@ -2810,6 +2501,11 @@
           "source": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WdnR3Z1VuR1RuTHRYaDVxZjdhOXI5TkxhX3Q2RjlBQk80X0lMeERLVDRvY0RCY2JyWVJVRE5GOWcwUlMzTTRYLVVtV3l1dGVUaTRIbTFVWHJLeXlkelFHdEZla0Zhdw?oc=5",
           "title": "Davis Cup Finals 2026: Great Britain beat Germany to reach semi-finals"
+        },
+        {
+          "source": "Tennishead",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGhtay04cTB1ZWdUT3RoWV8ybFYxM3g4OTV6Ym04LTZhSlR0dnV6NE1DUkVOSmtmUnhMY0dhbGdxLTA0UTNmcElMQmdPZHBGeHZhWFRhYy1GWl96aXNTODlTaWkzelVORVNYMGZldDlJQ1hBa19uWmRtWjBRYkZ2eWpMVTdjY3V6bDVMRXlyWERVdDhkMlpab1JQZ1MtS0luLXB5YVpodjVEMGRZUGN6ajdaY3RsVURCdWNaNGE3eWw?oc=5",
+          "title": "David Ferrer suggests what Great Britain are the best in the world at ahead of Davis Cup semi-final"
         },
         {
           "source": "BBC Sport",
@@ -3623,7 +3319,7 @@
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.39,
+      "heat": 10.03,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-27T03:43:21+00:00",
@@ -3640,7 +3336,7 @@
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG5zYnNDb1I0NU56OHQ4SzE5TUE2bVAzVWF1aXM2WjRYLTNZOW1XWm8tTTFfdWFCa0xCTWFzNF9YcVB3MkszT1RmaUZ6ZmRGQjFnXzM3RGlIazQ0VGNCSGYwSGlJeURDN1N0T25hZUFwRlpKNkwwVHUwRHRVSUlXNU5SY1gyUFZwZm55eEwwUUV3Sk55MjIzNURLRQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2JGdlZESmVyMHl0OVpOd2pmaVc4Vkk1T0owMFFISEpkZXFKY2Fxejh4ckcwY2pkZFY5V2k2SnhzNUJlQkVDQmR5aVpKT1EydkREbjg2OHY3d3YxS1lZUklTZloyeTBiT3FEVWtHYXVSNURmN3RRTlhwbHNJSzZ5ejBZN3h1X3hjbDlUV2w0dDRvM2tGUTlSSXp3?oc=5",
           "title": "Muhammad Mokaev Shares His Life Update Outside Of UFC"
         },
         {
@@ -3977,6 +3673,344 @@
         }
       ],
       "first_seen": "2026-11-27T10:09:16+00:00"
+    },
+    "8e89efe650": {
+      "key": "8e89efe650",
+      "title": "A retirement in true Marc Marquez style",
+      "summary": "A retirement in true Marc Marquez style Autosport",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 20,
+      "growth": 0,
+      "heat": 46.5,
+      "published": "2026-11-27T13:24:39+00:00",
+      "latest": "2026-11-27T13:27:02+00:00",
+      "refs": [
+        {
+          "source": "Autosport",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHVtVmFJZmU2dkxZMjdrRGE2YkJ1WVVocjlLTm5SbTZMTm50TUF2Z3FPY0ZkZEc1ZThZMVpsYTNnbU14dFBKNU5nUDBTOGw4Wk1VZFRNZXQ5blJrTDFqaDlTZEZkN2h6ZVpQdDYtdXlPOU93Rl9La3JMMHh1Ui1vT0lVcUEyQnZWcU9zVUlQcEk?oc=5",
+          "title": "A retirement in true Marc Marquez style"
+        },
+        {
+          "source": "Crash.net",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkZHVXg2eTgxeGQxOVpFZHRhaTdlcndxUUpWNzEtMmFjNFNnQm5zMThrLXB3RFVRVjJYcnVLVWlBQTJyUXB3NVNGMEpBdnI4THF3dEFacjJFaEpHSjAyTVFGdFlTZTN5cm9ISEloYnpJYlF2SXQ5QlRDX0dfU1ZNeGRuQm5EbWdJeXRYaDg2VlQtQTNvcjBZbTlfS2FleEpWc3BCOTI2blUxNmtDN19yUzlmNkdvbWF0d1lxX3Z3?oc=5",
+          "title": "Marc Marquez made MotoGP retirement decision in October after “fear” over injuries"
+        },
+        {
+          "source": "The Race",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTQxZ05QeGpSYnlZeGcxRkZ6cU5wYnpFWTdwQVoxY3NQbXJCamJNVHNoamt4NEVObjBNWmlBVmsyVGFSdTFjMUcydFVQUjZoSVE5cm5mVGFEdjRCdHZvMEhvZXN1X0JJVEdrdW5JVGRRaVl1RHRFaHZHZU9PY1RDclFtU050RWNmSW1wMjA5U20?oc=5",
+          "title": "Marc Marquez stuns MotoGP with retirement announcement"
+        },
+        {
+          "source": "Motorsport.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDRjX1dIOWVGb3VZLUthaVdrZTZEZTJad1dYRUk3OUlwQm53azRpX3BJcGZ2TEd5OTFIdW50dmVfeXZUSWdqVjBEbHBKd0NtdVRJV2xOdElyaV82N3hoQnV4cjlETTNNendHUnBMTmttUmJMSE1aMHozUUFQTG9rUERVNC1tQzZxUTg1RzRkT0NacnNvTjJDb2pKbXctcU5YVDhtcl9B?oc=5",
+          "title": "Marc Marquez announces immediate retirement from MotoGP in bombshell announcement"
+        },
+        {
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXJLTF9ZcEN0NGh3cDBHVk5tWEdKWGd4OUpEd2kwNHRfN05SczVocTZOa3dmbm1pRG1IWnB3Wjg1TEtZVFBPSlN6d2YzUHdBaW5aSG0wZ0ZwZFUtYjBpelMwaXp1U0RYRndrSG5XV0dGWjU1MGxyTUtETHNrUUdpeWNWeV9ZaTA?oc=5",
+          "title": "Marc Márquez, MotoGP legend, announces shock retirement in ‘Love Actually’ style"
+        },
+        {
+          "source": "SPEEDWEEK.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanp4MTR0a2VMcXc4Q2tMZFZLOVdWdjBHUXZ6eFQwMnVDaEhwVFctZmZfZXRsWkRKYmd4SVF3N0dlM1RiMjMyR1Y0eHBSNXh3M2NlYlc5ZEZ3WlVMSlFMMlNqT2FyMkY0QmVHRGNyUTk1ak5CN2hmN25FQmQ5VXBRQnhVdEt2d2lURTdrb2VHNXNHcTVjTVMxZXczLXVqZ0Z2ajdfaUVfZXZIbGQ1akdF?oc=5",
+          "title": "Marc Marquez opens up: These are the reasons behind his MotoGP retirement"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/motorsport/videos/c5n4e3pxnengo?at_medium=RSS&at_campaign=rss",
+          "title": "Watch the moment Marc Marquez announced his retirement from Moto GP"
+        },
+        {
+          "source": "motogp.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFFDZ3k1anQyVFpvU1hnN3VBalVJYk00LXpMRlRaRkx6UWF1YW5ySm9HSFU4aDRwMTNuZ2tIQVdLYi1KQmt5NlQ4R1A0STJWUFpwajZmdVlyNWVsOEtWUzVER2hmb0ptbWZSQ3IyeXp4TTR6VzJYZmR6enNOUWE2TzRCUEkyTzVEcGZxNWRHeTNzbS16bl9CakRvc21ldVZJUVMxWjJ0NGh5TmtJRHFwODB6V3RRazNaVk80MU9KVm4?oc=5",
+          "title": "Bezzecchi fastest as Marc Marquez announces MotoGP retirement in Valencia"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "a15f9c9c69": {
+      "key": "a15f9c9c69",
+      "title": "Rohit Sharma to captain Mumbai in 2027 IPL",
+      "summary": "Rohit Sharma to captain Mumbai in 2027 IPL The Straits Times",
+      "lang": "en",
+      "sport": "cricket",
+      "outlets": 19,
+      "growth": 0,
+      "heat": 44.1,
+      "published": "2026-11-27T13:31:00+00:00",
+      "latest": "2026-11-27T13:31:00+00:00",
+      "refs": [
+        {
+          "source": "The Straits Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWlQOFoybl9EeElscGR1V3dYaEU5Z1dhZzZGN29YS1hPZVdoRzFpZTNwaDNjbWdfZndNcHFhM09LRU9ldnkxUjFBcEJBRGtscmxLY05XQm5fckMyTlppRVhoa1pVMExBSXV5ellyZGFEQlVXRlBkZllsd1NSTW14WFNMWQ?oc=5",
+          "title": "Rohit Sharma to captain Mumbai in 2027 IPL"
+        },
+        {
+          "source": "The Federal",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenhmZTdkYXVybDJteEdKY3UyRU1GWEgySU5mY1N6QjFYOXpwU1ZoR0t4TjlrY3lOQlBTUzhMSHI3YU1Qc1pFdkNfeFRKeUtDdE83VVdXSmtrUEh5N3hNMlJxdzNrc08ydTRhZEF6cy1Dbk4yOU03Uk1yYUFQNFoweGJ5TUIzYTk2S3MwZmQ3Wno4bHlvMzBFY1I1by1GMWJLbzVhZ3ViWQ?oc=5",
+          "title": "Rohit Sharma returns as Mumbai Indians captain for IPL 2027"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORERfT29US2RtT3haZW9QV0lmVkJncGpLMUlUOGtzX0l5Y2RMSEhFRktsZnhzZkQ1M04wZmpRdXkzNmt2NUtDM3RIN1hsTG1KTjg0dzdKNnU1dWpOM0RwMkN5UWx1anFSZTQxN2dDLTlHZk83eGw1YzBmVEpfUFhHbjdDd25NYkNiaUdsYTBESzloVmFmOGc?oc=5",
+          "title": "'Returning to bring the glory': Fans rejoice as MI aim for sixth IPL title with Rohit Sharma back as captain after 1078 days"
+        },
+        {
+          "source": "Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFFxa3ZXdmotRVpLNER5OTZZd1AwOFM2azdKMjFwcE1tV0stWGxJOWtXS25zNnduNV9BbXJNckxoZ1k4N3dRZkNTajh2NmMtei15NTAtTnFYcEY4UTJJWDFTYVp5ZUlobUVwWHEwNUo0UTZKRE9UeEowVURjdDJpSTE2RWdXbjdtbnEwTV9jM3l5NEhOX3NSVHFnaWFCZGFoZG9IcHBlRmp5NWRzbFZwV2w2QXZiWV9jRDdWLVhSbGZDVC1pcWIzb3VlcUVTcGFBenlicUxHZDHSAd4BQVVfeXFMT0NXaXhlcElkWVRwU3hjLVlMLUxkZEdocTlBQ3g3a0duVmNwb2JBQklEU2tXZHdCMHlaeXVjUEFfRUY2S05pVFhoMkp1b0pCQWNqQW1DbGdxTk9xQnJyWVI0NnktMWFQejl0ejBoTjhqRHc4RUk5XzB2N0JUSFJIcDJuVWowVVFkNk5NOVBFX3NXRElXMEcxVjZKOXZtM1RydlVXNVNDdGFkeDFOaHI0Z0F4TUpwd3JXVkpqYjI0d0ZIanROSmVhdE1uZk96QUhvNm5fazBaQU01WmdIcWN3?oc=5",
+          "title": "IPL 2027: Rohit Sharma returns as MI's captain after Pandya's departure"
+        },
+        {
+          "source": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmVuRzdUaXBhci02c1F3bDU3NVVBbGpwLUx4LXlWYm9BSDdxcXpnQXVvVi1yNXp1UlpfaU4zWEhwM0gyRTh0cmhWWlB6OFpsVFpnMEJ0bnJXMXlmVGFUQ2lsMGVIUHNCUFpsUVlSSHlGRTJaWnJjUmNUOGZSOVMyRUtUbkdRbFdsTlhaM2E5R3lYX3hmeVM1eTFPb0R2RXpxd1Byb2YyaDg2dFFPYnR5ZFR1VFk5VTVnaUxZUTRfNFVTRkFnaUpkeG84cEEyZU9DX1E?oc=5",
+          "title": "IPL 2027: Rohit Sharma to return as Mumbai Indians captain after three seasons"
+        },
+        {
+          "source": "ESPN India",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTZCNXFDcFdYdGhqVl9XQ3hDRGk1NTJBVXdFa1p5aFBLc3dvYVhhc2pGMVFHSzZXYnpxQzNFM2N2QTY1Mmk5dHRGalE0RFBXXzQyTURzZGVSRUNBbTAySjNRdUZmLUNXbUpndjFOWDZKUlVVYlpnTmRoTUxfSHNpM0tSOFh4UW9hUk9fV3dsNW9WQ19BODFpdHFQMEUzNU9QV2o4M3RqTV84OUcwWk9sRzNLTmhBeVJ2akE?oc=5",
+          "title": "Rohit Sharma to lead Mumbai Indians again in IPL 2027"
+        },
+        {
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjBnaEZaT0Q5a3VrWjJjcG5iNVE0bmNMaHhwM29Oa1JBa291NUh6MjRzNlNOcUVCUDZvWVlkbHdYTnBMckg0UWthQi1fWnAwZFFrekpMRUcyWWJXUXhfSUtxNDBLeGNTY2hyRVlIY0R5NGdPUko5cGtMX1RFMjRhaTU4X1BIRmx1Rk9rQ18wOGpKd3JJdUZuV0U1NFVDX3g5TjlvMGlib0N0RHllVjZkVnpfeHFyVHNDeHfSAcABQVVfeXFMTUtCVkE1bzlybGNkTUVjeFRPUjVMWTVqalp0dWhpSmM0UlltQV9zZFA4MU95NFRZQUwwSTE5Tl80TXF1dEFQSkhwVF9rQkRXdlhCX0lJSV93MnY0Z2Rmb09kbUZwbDd2Wk1KZlRmOGVLOEhlWnZ2aUxUZGRCTzFxSXE1T0VOTTRvN1g2d1hUb2x0OXVGMzM4QWpDUmpSVEJGOS15cXV6SkFCVkhiNEluM1d3NXc5TTZJYTRlT2VPcmRG?oc=5",
+          "title": "At hour of crisis, Mumbai Indians turn to Rohit Sharma to lead in IPL 2027"
+        },
+        {
+          "source": "ANI News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmR6TU1NMUpjMXYzUkNwMHdoV040OUlhT1NzQVpMSVJNUmNWZmtaVFFfSThzeU5BUDBMbmNxYWlEUlZIbmxjRnZrbzlrU0RWUXRHbml2cjFERDJpOG54UnpLS3RwYy00dW9mZjJpYS1KU3o0RXFhWjlJajVMN3hCcDREeW1PSlBUZmNiY281RGdacHg5SWhvZkVMV3BjR2Fac1BJYTRPV2NjT1RCemtQNHQ1eFM?oc=5",
+          "title": "Rohit Sharma to captain Mumbai Indians in IPL 2027 season"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "756938c03d": {
+      "key": "756938c03d",
+      "title": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции",
+      "summary": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции sport-express.net",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 8,
+      "growth": 0,
+      "heat": 19.73,
+      "published": "2026-11-27T06:30:01+00:00",
+      "latest": "2026-11-27T12:59:22+00:00",
+      "refs": [
+        {
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSGE4cjE0b0NuUG5DNnoteFRxTUpiNHk5SXdVOVBWUE1YdDlTaG9vaWYycVFrN01oUm45ZFdpRUJCZkFlVlNYeUVVNno5UXNsOXZINVRCX2d0UEViNkp6dktNS0VOMHV1MUl2bXZRT3dtd0NvdEJ5V3BDZTh6dnlXZ3lULUc3QU5DZm9jR3JlZWtXU2wxanFRYUxveUxfSnY0T05nakNoR0RQeGlxU0hDaVVCN1RWdTJRdFBlaVNFeEdEcEF1T1VBY21xeXZMWHYyc0k2WWluTkdFVUs2dVZTZ21faFdVWlZkVkdLTVg1RDRTRFY1cHJiSDhldnQxMDhVOHlscDN5MlZXWGVQUzc5ZGJKR0J6U3BZZ2huOEVVNFE?oc=5",
+          "title": "Гран-при Японии по фигурному катанию — 2026: российские участники, расписание и трансляции"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-yaponii-po-figurnomu-kataniyu-2026-raspisanie-sorevnovaniy-2479145/",
+          "title": "Гран-при Японии по фигурному катанию-2026: расписание соревнований"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261127/gumennik-2134377024.html",
+          "title": "Гуменник идет шестым после короткой программы на этапе Гран-при в Японии"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZks5WXZoaGtTa0o3V3dDdUVRdnJULXBSbWx4SGR1djItTFQ3SmtTRzh0WXBRbjNWT3Boazd6SllHVE1JaE9MTXNhR0VxNGdydzQtcUJGS0lNZkstVERuZU1vMmRpRVkzTG1tSGpYd2JBUzZkU202RmZPb3VNN0cyZXlvbVBOak1BUnU1UHhTNFA1R19UR0YyYTc5X0NYSnZmVTZnZEVybldPQUdtX2hzQnFoa0cteV9INWZ5T2RXUVhaSExWNWEzZjVPeXJEV05lY0h5ZVQyRWVQdW1PVzZ4N2c3Y1Nzc05sYXBrcWpSQlp6SV9aOFhWUDJJWnpnaVRTclF5YUVpeHFBRnl0?oc=5",
+          "title": "Гуменник занимает шестое место после короткой программы на этапе Гран‑при ISU в Японии, Дикиджи — девятое"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMk5nUUxyemV0cWNqVXZJVzF2R3RJeGI0S0E1U2hQN19KM2xWa0lwcVZGS2k5RmNxUTUza3BtYjZibHp4V3dibmN5eDVUb1FnSXlaQUtyTHZDdnhNQ19QU3BKLXBfT1lRZUdVVW4xOTI1Q3lTUGNHWWJNSFhLZGdRX2ZWb0paYm5WQjEzN1Nva05hVWFLQVh2dmdfcUJ6YU5XRF8yXzlVRzNuUVZkMW5TR2toNVhwOGs?oc=5",
+          "title": "Гуменник получил 90,60 балла за короткую программу на этапе Гран-при в Японии"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6716328-gran-pri-yaponii-po-figurnomu-kataniyu-2026-6-j-etap-nhk-trophy-rezultaty-27-noyabrya-2026.html",
+          "title": "Гран-при Японии по фигурному катанию — 2026, 6-й этап, NHK Trophy: результаты 27 ноября"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMTUtQnVvNHBUU1hXSHdSLWxya0JuZTAyMHBrbktzOFJPUkx1Z1F3enRjOG12QmN6OXctS0YxcGkwS2tkODhhLVppeTJQTEpVNzZLelFncDgwV0x4V0VMVTlmSkliV0pkZEVpMkVVVVN2dHB4QkczaGxlbnBwUTdlM0tGa29UZHV5dWY4SEVqMVlYaHZKUlhvUmFwMzhHdEUweDdsTzFJWU1ZWHdtNWlab2VLUjJuVXZueWJndEhIZTFYQlZDeFJwS253?oc=5",
+          "title": "Фигурное катание, Гран-при ISU, Япония, мужчины, короткая программа, прямая текстовая онлайн трансляция"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVDlZaGVtY04yb1dITm5nemxva2xtcHNBbFNRT3l4cmFoQ3ZsY1dlNkRJYzAtSE96TlBwU0xYZUswbldzSld2anQzNVRnblF3OEhKcExRZVNGUHk1NmJ5U2UxMzZ3M1NYSEQ4am90aXR2RmFjSmFyZm9ydEMzUmRDY014QWVtRnhEdXhNcTVXcy00bWktS1RNVzhmczl1UlFyYURNVGZZUWRnQ0NIRkpQbHFwSm0tSGJ3Szd3eHRXQnljdEI1TmZXemJacmJReEFCSldpUWE2NVpCNFo5R2pKbm55bk44QnB0c0xNQzJVUDFoWDFDQW84bjl1VWVSN29yN2RlX3VmVUtjOTJ6b2xIbDlKczNXXzE4d3JCbkc4ZGRQRVlFTU1KS0JfendUa2Frb2xvcF9Zc3prSzAtMlo1bjBuMmc2dGJGUnBLWHJPSXNnUdIB1wJBVV95cUxNNDg3Mm5tOGhSX0VoXzJELVVmd1J2X1dFRndYLU9mM1MwTVlzME1IVzJocDJWcURzdTNYT0cyeG5EUmxBMjdON0JqNWN6NHBzaDBYcGtzbkdPaW1WckVHdlVwbVpTeUMxYUJXUFFQaTU0SkJ3YUlVSUVxVTVBSXA5VXNrQVBZcXBfeERTVk5keW5HcUU0RV9ScWRPQkYwd3B5bXV3RWVpUUxWc3pFSE5hdDlJN3hZa0d1TXhwOVNGbUNrRVNTNkUybHUwakRKdVJJU2FQN1cwNWdzLUY5eW9FQllabGk2bWlQcll3OERYVkQzb3lIQ3NrZ1VPcldHOVBIRF9zLUY1cnJmN1BSSFNnYms1MDE4ZWEwVHRHUFlxdFpfRTF0cmtkRFVLdFpWdDdPaEZLdWxlcndGYTVxXzFQckVyNHI4cWRUTzdZR3QwZF9EdHAxYWZ3?oc=5",
+          "title": "Экс-российский фигурист спокойно летит в финал Гран-при, пока наши суперпары сидят дома. Япония тоже разочаровала"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "12a073983c": {
+      "key": "12a073983c",
+      "title": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA",
+      "summary": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA Sports.kz",
+      "lang": "ru",
+      "sport": "tennis",
+      "outlets": 7,
+      "growth": 0,
+      "heat": 18.16,
+      "published": "2026-11-27T12:17:55+00:00",
+      "latest": "2026-11-27T13:04:02+00:00",
+      "refs": [
+        {
+          "source": "Sports.kz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWRCSmJaelQ5Yno0WFZMaDBxZWVRUjVBekdyMDdVU2kyellvOTRsa2VjZTNIeDE3c19vRUVCajB5ek5qQnpDdkVmbGFIbmlvMkc0Rnozb1R2M0lOY2dEb1hVS2ZfLVZOSlRKN0xJdUdGMWxmU1BNcHhEdHhwT2huNFpENWRKM0VmX3VwbWUzRXI0NWNuLUtERGZzTXVqdw?oc=5",
+          "title": "Мирра Андреева приняла решение после победы на Итоговом турнире WTA"
+        },
+        {
+          "source": "Sport5.by",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVBIYkhMOFJGOUw1aXdGUU9xemZvRzNETnJTY2FXcjk2SnRINjQxYUFRTmNhSGVSR1B1Wm9LQVlMZnB1NVNJd0pkMFF1YVNOUG5iSl9sV080SzFPYmJKN1lFeGFnUHBjcHFCRVZBU3V6alRxV0YzSGVsZjg5MFpJTGVFTmg3c0c1R09iNFpYS1I0YlZwMHVOZGFyMmFXZmN1UXlCX0RoMlJfZVBJZVZFSy1Wbmc3b1pzRXJsd0tjTHRISzNHV2s4SU1qYw?oc=5",
+          "title": "Мирра Андреева не должна была обращаться к украинке Элине Свитолиной после победы на Итоговом турнире"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3V1V0o3TzlTSFJzMlB0SFkzOXFwbGdQVmRRWTlJa1hZRDZLUnpMcER2RUNxRVhxWjdBYjJZWjRuWHk3X215NWtwbk03T3ZVbXlsTjJkbkpieXNvU1BCU0N2d3ZBb2ZzNDh6Yk44M3NPVWtxWFNraFNfX2dQN0s5NjBIamZLdl9hRjEyaVlfdmlVcVhob3N5dndCWWtvck93Vmd6U1ZCR1VBWTVpbXdqUjl2OVY2eG9Sa2c?oc=5",
+          "title": "Андреева не должна была обращаться к Свитолиной после победы на Итоговом турнире WTA"
+        },
+        {
+          "source": "Obzor.lt",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SZVhfdTlIX2wySm5tUEd6OFJINWlmSmxQYk9Qd29LT29od2k2MlZKbHJZdkpVZVY3RE5MU1RIXzRJQzl0MVpRcTdR?oc=5",
+          "title": "Россиянка Мирра Андреева поздравила украинку Элину Свитолину после того, как победила ее на теннисном турнире. Через несколько дней украинка назвала это провокацией - Новости политики, Общество, Новости спорта, ЧП и криминал, Но"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/tennis/wta/news/mirra-andreeva-vyigrala-bolshe-vseh-setov-so-schetom-6-0-v-sezone-2026-goda-itogovaya-statistika-wta-2479460/",
+          "title": "Мирра Андреева выиграла больше всех сетов со счетом 6:0 в сезоне-2026"
+        },
+        {
+          "source": "Metaratings",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa21nU2Z4SUdwMm5Fb0loOU1DcWVJWjNzM0RVM3pySG9DVUN0Y0hSTHNkejZ6eU5DZ2RXTllIN1FCMEozTTJ3NEtzMDJaSHFmdlZ3bjRfRmxLNHZBajdHd19ZUTFwNnY0UWJsZ3c1cl9CZ1o3a29DZTNoaGlVY3hrUHVkSl9QODRyUzl1Z2VpbUsyZnNLRUZOZ2laTEs5a0tHTHRieGdmdW8yRGxDem5vMVNKLWI?oc=5",
+          "title": "Андреева обратилась к Свитолиной после финала Итогового вопреки договорённости"
+        },
+        {
+          "source": "https://www.championat.ru/",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSy1MdVIwSTVYSV9na2owaUtwSEhoR2FnUmx2SUg5VnZ0dTZDOVNRMUotbE5VclZuQ1pVeGJXZ2otVkpNUnhqbjcxWkg3bi10UklTY1RfOGN1aDZHM1N2eHNndGpfS1F0T3J4LTQ5YlR1LTZTTXUySVJQMmI2eEVlNVI3dnJnTVpCbmtfa0hDVzJlYnVtNDFYalJ3U2llaGxheEdPd0g1VzRXNHVZa3c2M0M1T0NxM2JEWXc1OUtfMHdqdjlrWVozRg?oc=5",
+          "title": "«Прошло уже 20 лет! Андреева даже не родилась». Кузнецова — об Итоговом турнире — 2006"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "bd1e20dab7": {
+      "key": "bd1e20dab7",
+      "title": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch",
+      "summary": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch MMA Mania",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.93,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T13:32:30+00:00",
+      "refs": [
+        {
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUg2R002SHdUVm9fUWhoT3NjcGpvdjdfV1JRR0s2QkxxX2lNMkNnOHQ5VkxrUnl2ajkyMXJTU2Q1VXJJdXE2bEZKQU1zMFZaVkRmWlFsNGNNc1B6dE1EeThNWG1sZ3dYajNrRzhDQ2dqY21ha2ozRjhMclNYU3FNRGpVS2diMVU0ODVVRGdFRTdESDJCMWlra0xaZ1I3bmRRY2Y3YjFlamR2VGFCV0N5b1FQWmJCODI1S0dmYTlkS3o?oc=5",
+          "title": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjgwaG94VHJ0QlBRUjAwUnlRaHpkd21hQllXWl8wdW5QU3FBUDhINVNvRUs0R2k5cnF2eWtJNXVSczc4UWVIemR6WlpoeWhPMGlKdlBwUGlCTHp3MWdVcGwtendlZElCTWF6V0FKRUF4X0FDZW5DazVpUTMtZ1FqaXJOa1dmei1aSUVjZDJjZjMzWGxubXlobEJRaW5fRkgydTZpNUcwUmU?oc=5",
+          "title": "Dricus du Plessis Reveals UFC Rejected His Request for Khamzat Chimaev Rematch"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajFQTUdFZ0ZoM0c5WFZ4RFp3d1ZYZ2VTcFBobVlsRUJvR0plcjNHTlFMWW9LbTY0NUNzM3R2dlY5SUtscHFVbF84Qzd5elprRDhLQVljS0pxcDEwYU5sbXBCNVFhX25XYlZGOFRuZ3J3SHJmRHBHTFphc2ZQdDIxZndYR3F4cXRxTy1malRtbGZGc2lHR1J6dlNtQ05zRURlQ1hR?oc=5",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+        },
+        {
+          "source": "MMA Fighting – latest",
+          "link": "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/dricus-du-plessis-claims-ufc-200000404.html",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "73e0794b59": {
+      "key": "73e0794b59",
+      "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health",
+      "summary": "The BBBoC indicated earlier this week that it would investigate comments from Fury’s wife Paris that the boxer had been diagnosed with schizophrenia.",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.55,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T12:45:20+00:00",
+      "refs": [
+        {
+          "source": "The Independent – Sport",
+          "link": "https://www.independent.co.uk/sport/anthony-joshua-paris-netflix-mental-health-robert-smith-b3092764.html",
+          "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+          "title": "Fury cleared to fight Joshua after medical checks"
+        },
+        {
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTmRsMW5lMncxVnVwek9OZnJBdUpab0lSbm9nR1BWdWlnQXBKbk83YzJ3dC1uN0psbHdTMGpFVVZfOEEwNWxLN0RDdE11M1B0QmU4TGsxc3hQUUZfd2pRd2YtUzFDZw?oc=5",
+          "title": "Fury cleared to fight Joshua after medical checks"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
+          "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/boxing/news/12040/13617026/tyson-fury-vs-anthony-joshua-paris-fury-retracts-claim-her-husband-has-been-diagnosed-with-schizophrenia",
+          "title": "Paris Fury retracts Tyson schizophrenia claim"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    "c845a45a2b": {
+      "key": "c845a45a2b",
+      "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo",
+      "summary": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo MMA Fighting",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 11.95,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T00:00:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTC0xeU8yOWtLZWxtTTc5N0hpSWpjZnA5NEJkN1RiZjR0dllCMTFGc2t6dEM1NXZGUEdOTkxSV01fOHBwUkVYRVZPMUh6Z2NKc1pESXNEcFVvcWhrakpZV1VWVXNrSmNiSDdseF9NS1l3SWxubU5oMlZyaVJ6VXBmWFlUa0hWWWw4eEpLVFdTXzJCQXRkczNDQ1dDalhQLUhFMFBfNHpGMFRLYmxEV0czUmlhOXMwR2xxdkc5eFlIaUxZT2lTR0k1LVZlc0pnZDdhOWJPT0JXTQ?oc=5",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
+        },
+        {
+          "source": "MMA Fighting – latest",
+          "link": "https://www.mmafighting.com/ufc/523473/video-valter-walker-enraged-after-being-struck-by-fruit-on-reality-show-accidentally-smacks-jose-aldo",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/video-valter-walker-enraged-being-000000989.html",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
+        },
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oZ2dHc3owRktrenhEU05wTVI4ZDBQU0d1cm51bjN2TlNUS3hQdi1kS2xKNWVEOE5BUjV2Q2xQVmpFSU50N0JKQm9TSnZZV0cycUg0?oc=5",
+          "title": "UFC Fighter Apologizes to Jose Aldo After Accidentally Striking Him During Wild Brawl"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVvb0VPcW1NVF9LZmczTDJXN2RZS0JFMmlMN1hXUnA4TG9qRzdwam9zM3ZZYUdNUkVPS1N2dlFCUmdaS1Rtd1Q0SFpQQmwyVllwVUVIbGg4ajB3U1p4Ulh5MVdLVDJrRUZRNDNpOTNuTnQ4QWIyQzc2akJZMUFRSWVKel9yMW95bFUxOVkyVGFELVg2bXUxdS1UbU4yb3I0eDJodGMyZXRxTkcxdzY5WWkxSmM1bHo4bFpJeXpmOFZjVFdoSG1zZw?oc=5",
+          "title": "Valter Walker apologizes to Jose Aldo after accidentally hitting UFC legend during wild brawl"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
     }
   },
   "sent": [
@@ -4250,50 +4284,86 @@
   "tg_offset": 360028013,
   "combat": [
     {
-      "key": "44cc9bc6a8",
-      "title": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement",
-      "summary": "Former UFC title challenger Anthony Smith had the criminal charges against him dismissed after he was initially arrested back in July. On Wednesday, the Sarpy County district attorney announced that the charges against Smith had been dropped. Smith pleaded not guilty during his arraignment after he was charged with four felonoes, including an attempt of […]",
+      "key": "bd1e20dab7",
+      "title": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch",
+      "summary": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch MMA Mania",
       "lang": "en",
       "sport": "combat",
-      "outlets": 6,
+      "outlets": 5,
       "growth": 0,
-      "heat": 13.2,
+      "heat": 13.93,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-25T23:56:07+00:00",
+      "published": "2026-11-27T13:32:30+00:00",
       "refs": [
         {
-          "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/ufc/523375/charges-dismissed-against-anthony-smith-after-july-arrest-smith-releases-statement",
-          "title": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNDJzalJWVjZZaURnazR1Q2JUZ1Q2UGdWMVZ1aGs0SW5Oc3R5dVhFZFBwSVJ6SEg5aWlYQmN6Nm9RYXJXcEZLaHFkeFhmRlVuaFh4X3VjbXhtZkZmNHp5OGUxWklVaEs2VmxRT21LZDJ5THB1QlB6cU9PMDNYaUNkck1zRDNnYnd2MHRKelpGWGxCcURZT3Y0UzBFUzliQV9OOWxBMzlyYkpZNnRRT0JmYVNSY3NrQWNfSllvcS1EQ2RSNDd1MWRwRDkwOFFRMlNJWGZzbzcxVUpmMWc3?oc=5",
-          "title": "Anthony Smith's criminal charges dismissed in Nebraska, ex-UFC star releases lengthy statement"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/article/anthony-smiths-criminal-charges-dismissed-in-nebraska-ex-ufc-star-releases-lengthy-statement-233427438.html",
-          "title": "Anthony Smith's criminal charges dismissed in Nebraska, ex-UFC star releases lengthy statement"
+          "source": "MMA Mania",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUg2R002SHdUVm9fUWhoT3NjcGpvdjdfV1JRR0s2QkxxX2lNMkNnOHQ5VkxrUnl2ajkyMXJTU2Q1VXJJdXE2bEZKQU1zMFZaVkRmWlFsNGNNc1B6dE1EeThNWG1sZ3dYajNrRzhDQ2dqY21ha2ozRjhMclNYU3FNRGpVS2diMVU0ODVVRGdFRTdESDJCMWlra0xaZ1I3bmRRY2Y3YjFlamR2VGFCV0N5b1FQWmJCODI1S0dmYTlkS3o?oc=5",
+          "title": "No revenge! UFC shuts door on Dricus du Plessis’ demands for Khamzat Chimaev rematch"
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckxqMHIzQTZ1OUY3djB6LTdJaFJyR0piR3JYX0phZXJmWmpFTXd4RGZSUFdPM2pCYlNwZGJLTWtmOFNtMTM4alBSNUpTdXlnSHlDb1pWU0d0R19JdFhrUUthb1dYLVNJc0NqejhZSjFoNndtbnR3LXBDdEpyZVVpaXB2dE1tR2dWOFdGX29vV21Qc2NsSTdDMGZiMk5BZURUaE9PN1dvaWxCNmNiSlFvY0xYaGg?oc=5",
-          "title": "Ex-UFC Light Heavyweight Anthony Smith Has Criminal Charges Dismissed After July Arrest"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjgwaG94VHJ0QlBRUjAwUnlRaHpkd21hQllXWl8wdW5QU3FBUDhINVNvRUs0R2k5cnF2eWtJNXVSczc4UWVIemR6WlpoeWhPMGlKdlBwUGlCTHp3MWdVcGwtendlZElCTWF6V0FKRUF4X0FDZW5DazVpUTMtZ1FqaXJOa1dmei1aSUVjZDJjZjMzWGxubXlobEJRaW5fRkgydTZpNUcwUmU?oc=5",
+          "title": "Dricus du Plessis Reveals UFC Rejected His Request for Khamzat Chimaev Rematch"
         },
         {
-          "source": "The Independent – Sport",
-          "link": "https://www.independent.co.uk/sport/ufc/anthony-smith-ufc-charges-dropped-arrest-b3092100.html",
-          "title": "UFC star Anthony Smith posts lengthy statement after charges dropped in terroristic threat case"
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajFQTUdFZ0ZoM0c5WFZ4RFp3d1ZYZ2VTcFBobVlsRUJvR0plcjNHTlFMWW9LbTY0NUNzM3R2dlY5SUtscHFVbF84Qzd5elprRDhLQVljS0pxcDEwYU5sbXBCNVFhX25XYlZGOFRuZ3J3SHJmRHBHTFphc2ZQdDIxZndYR3F4cXRxTy1malRtbGZGc2lHR1J6dlNtQ05zRURlQ1hR?oc=5",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
         },
         {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0ZHRmxsS0MyZUp1UTA4X3Zib0tHVzNJUHNzVFdJMW1JR2lhdFNWUncxYmRmSDBmZzlleDZ6UXFaQjc2N1pRdy1DV0tqUXNOeXRpbEFvalpnV0xCd2twRkx0dGN4MDBENzRsaXlvSkFGNllxaC1lbmlSbV9ESTJGMlZOLVlBZTlkemVCdzdzeGpuVEoxc1RabDhVcjhDWGxhVFE?oc=5",
-          "title": "Felony charges dropped against ex-UFC fighter Anthony Smith"
+          "source": "MMA Fighting – latest",
+          "link": "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/dricus-du-plessis-claims-ufc-200000404.html",
+          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
         }
       ],
-      "first_seen": "2026-11-26T01:42:37+00:00"
+      "first_seen": "2026-11-27T13:42:43+00:00"
+    },
+    {
+      "key": "73e0794b59",
+      "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health",
+      "summary": "The BBBoC indicated earlier this week that it would investigate comments from Fury’s wife Paris that the boxer had been diagnosed with schizophrenia.",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 13.55,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T12:45:20+00:00",
+      "refs": [
+        {
+          "source": "The Independent – Sport",
+          "link": "https://www.independent.co.uk/sport/anthony-joshua-paris-netflix-mental-health-robert-smith-b3092764.html",
+          "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+          "title": "Fury cleared to fight Joshua after medical checks"
+        },
+        {
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zTmRsMW5lMncxVnVwek9OZnJBdUpab0lSbm9nR1BWdWlnQXBKbk83YzJ3dC1uN0psbHdTMGpFVVZfOEEwNWxLN0RDdE11M1B0QmU4TGsxc3hQUUZfd2pRd2YtUzFDZw?oc=5",
+          "title": "Fury cleared to fight Joshua after medical checks"
+        },
+        {
+          "source": "The Guardian Sport",
+          "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
+          "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia"
+        },
+        {
+          "source": "Sky Sports",
+          "link": "https://www.skysports.com/boxing/news/12040/13617026/tyson-fury-vs-anthony-joshua-paris-fury-retracts-claim-her-husband-has-been-diagnosed-with-schizophrenia",
+          "title": "Paris Fury retracts Tyson schizophrenia claim"
+        }
+      ],
+      "first_seen": "2026-11-27T13:42:43+00:00"
     },
     {
       "key": "2cd5483fc6",
@@ -4303,10 +4373,10 @@
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 12.4,
+      "heat": 12.06,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-27T03:45:00+00:00",
+      "published": "2026-11-27T03:59:23+00:00",
       "refs": [
         {
           "source": "Sherdog",
@@ -4337,40 +4407,45 @@
       "first_seen": "2026-11-26T17:42:39+00:00"
     },
     {
-      "key": "ced15cb4d3",
-      "title": "Dricus du Plessis Reveals UFC Rejected His Request for Khamzat Chimaev Rematch",
-      "summary": "Dricus du Plessis Reveals UFC Rejected His Request for Khamzat Chimaev Rematch MMA Sucka",
+      "key": "c845a45a2b",
+      "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo",
+      "summary": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo MMA Fighting",
       "lang": "en",
       "sport": "combat",
-      "outlets": 4,
+      "outlets": 5,
       "growth": 0,
-      "heat": 10.89,
+      "heat": 11.95,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-27T02:40:13+00:00",
+      "published": "2026-11-27T00:00:00+00:00",
       "refs": [
         {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjgwaG94VHJ0QlBRUjAwUnlRaHpkd21hQllXWl8wdW5QU3FBUDhINVNvRUs0R2k5cnF2eWtJNXVSczc4UWVIemR6WlpoeWhPMGlKdlBwUGlCTHp3MWdVcGwtendlZElCTWF6V0FKRUF4X0FDZW5DazVpUTMtZ1FqaXJOa1dmei1aSUVjZDJjZjMzWGxubXlobEJRaW5fRkgydTZpNUcwUmU?oc=5",
-          "title": "Dricus du Plessis Reveals UFC Rejected His Request for Khamzat Chimaev Rematch"
-        },
-        {
           "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajFQTUdFZ0ZoM0c5WFZ4RFp3d1ZYZ2VTcFBobVlsRUJvR0plcjNHTlFMWW9LbTY0NUNzM3R2dlY5SUtscHFVbF84Qzd5elprRDhLQVljS0pxcDEwYU5sbXBCNVFhX25XYlZGOFRuZ3J3SHJmRHBHTFphc2ZQdDIxZndYR3F4cXRxTy1malRtbGZGc2lHR1J6dlNtQ05zRURlQ1hR?oc=5",
-          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTC0xeU8yOWtLZWxtTTc5N0hpSWpjZnA5NEJkN1RiZjR0dllCMTFGc2t6dEM1NXZGUEdOTkxSV01fOHBwUkVYRVZPMUh6Z2NKc1pESXNEcFVvcWhrakpZV1VWVXNrSmNiSDdseF9NS1l3SWxubU5oMlZyaVJ6VXBmWFlUa0hWWWw4eEpLVFdTXzJCQXRkczNDQ1dDalhQLUhFMFBfNHpGMFRLYmxEV0czUmlhOXMwR2xxdkc5eFlIaUxZT2lTR0k1LVZlc0pnZDdhOWJPT0JXTQ?oc=5",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
         },
         {
           "source": "MMA Fighting – latest",
-          "link": "https://www.mmafighting.com/ufc/523465/dricus-du-plessis-claims-ufc-shot-down-khamzat-chimaev-rematch",
-          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+          "link": "https://www.mmafighting.com/ufc/523473/video-valter-walker-enraged-after-being-struck-by-fruit-on-reality-show-accidentally-smacks-jose-aldo",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
         },
         {
           "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/dricus-du-plessis-claims-ufc-200000404.html",
-          "title": "Dricus du Plessis claims UFC shot down Khamzat Chimaev rematch"
+          "link": "https://sports.yahoo.com/mma/articles/video-valter-walker-enraged-being-000000989.html",
+          "title": "Video: Valter Walker enraged after being struck by fruit on reality show, accidentally smacks Jose Aldo"
+        },
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oZ2dHc3owRktrenhEU05wTVI4ZDBQU0d1cm51bjN2TlNUS3hQdi1kS2xKNWVEOE5BUjV2Q2xQVmpFSU50N0JKQm9TSnZZV0cycUg0?oc=5",
+          "title": "UFC Fighter Apologizes to Jose Aldo After Accidentally Striking Him During Wild Brawl"
+        },
+        {
+          "source": "Bloody Elbow",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVvb0VPcW1NVF9LZmczTDJXN2RZS0JFMmlMN1hXUnA4TG9qRzdwam9zM3ZZYUdNUkVPS1N2dlFCUmdaS1Rtd1Q0SFpQQmwyVllwVUVIbGg4ajB3U1p4Ulh5MVdLVDJrRUZRNDNpOTNuTnQ4QWIyQzc2akJZMUFRSWVKel9yMW95bFUxOVkyVGFELVg2bXUxdS1UbU4yb3I0eDJodGMyZXRxTkcxdzY5WWkxSmM1bHo4bFpJeXpmOFZjVFdoSG1zZw?oc=5",
+          "title": "Valter Walker apologizes to Jose Aldo after accidentally hitting UFC legend during wild brawl"
         }
       ],
-      "first_seen": "2026-11-26T22:36:46+00:00"
+      "first_seen": "2026-11-27T13:42:43+00:00"
     },
     {
       "key": "49f9c79b52",
@@ -4380,7 +4455,7 @@
       "sport": "combat",
       "outlets": 4,
       "growth": 0,
-      "heat": 10.39,
+      "heat": 10.03,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-27T03:43:21+00:00",
@@ -4397,7 +4472,7 @@
         },
         {
           "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG5zYnNDb1I0NU56OHQ4SzE5TUE2bVAzVWF1aXM2WjRYLTNZOW1XWm8tTTFfdWFCa0xCTWFzNF9YcVB3MkszT1RmaUZ6ZmRGQjFnXzM3RGlIazQ0VGNCSGYwSGlJeURDN1N0T25hZUFwRlpKNkwwVHUwRHRVSUlXNU5SY1gyUFZwZm55eEwwUUV3Sk55MjIzNURLRQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2JGdlZESmVyMHl0OVpOd2pmaVc4Vkk1T0owMFFISEpkZXFKY2Fxejh4ckcwY2pkZFY5V2k2SnhzNUJlQkVDQmR5aVpKT1EydkREbjg2OHY3d3YxS1lZUklTZloyeTBiT3FEVWtHYXVSNURmN3RRTlhwbHNJSzZ5ejBZN3h1X3hjbDlUV2w0dDRvM2tGUTlSSXp3?oc=5",
           "title": "Muhammad Mokaev Shares His Life Update Outside Of UFC"
         },
         {
@@ -4407,42 +4482,6 @@
         }
       ],
       "first_seen": "2026-11-27T05:42:40+00:00"
-    },
-    {
-      "key": "7e7245237d",
-      "title": "UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting",
-      "summary": "UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting MMA Fighting Coach Eugene Bareman shuts down any chance of Carlos Ulberg vs. Navajo Stirling UFC title fight Yahoo Sports UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says Sherdog Brendan Schaub Tells Navajo Stirling to Leave City Kickboxing Heavy.com Ex-UFC champ urges Navajo Stirling ",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 9.8,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-26T16:00:00+00:00",
-      "refs": [
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDVNaGMtUVdrd3YzcEdHOVpuRnM3R0VEVGNGU21rRDdZWEVtcXRMdnl6d0JoUmNTMVplTWlBdkY0NDB1TEFoM1dWZEk3UzhsNkZFNExvYzRDLTMweTdzdHVBeFVMSTNCTXltN0RHQkhaZG12d05EY2VrbjMtR3J0YnJMcTJtQ0p5WUdVd0JPNW5aZDN2ODFpNzdyb0hqUXVoNEhscUlVQ09SY2RhbGZLSFNsUGJrMURTVkJnSl9zMWhyUVR4?oc=5",
-          "title": "UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting"
-        },
-        {
-          "source": "MMA Fighting – latest",
-          "link": "https://www.mmafighting.com/ufc/523442/ufc-champion-carlos-ulberg-and-navajo-stirlings-coach-rules-out-teammates-ever-fighting",
-          "title": "UFC champion Carlos Ulberg and Navajo Stirling’s coach rules out teammates ever fighting"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://www.sherdog.com/news/news/UFC-champion-Carlos-Ulberg-Navajo-Stirling-will-never-fight-coach-says-203752",
-          "title": "UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/article/coach-eugene-bareman-shuts-down-any-chance-of-carlos-ulberg-vs-navajo-stirling-ufc-title-fight-011512755.html",
-          "title": "Coach Eugene Bareman shuts down any chance of Carlos Ulberg vs. Navajo Stirling UFC title fight"
-        }
-      ],
-      "first_seen": "2026-11-27T09:42:44+00:00"
     }
   ],
   "combat_sent": [
@@ -4638,25 +4677,6 @@
     }
   ],
   "first_seen": {
-    "f6d68f0331": "2026-11-25T10:23:18+00:00",
-    "2322be272d": "2026-11-25T10:23:18+00:00",
-    "1883c3da1f": "2026-11-25T10:23:18+00:00",
-    "e140517968": "2026-11-25T10:23:18+00:00",
-    "56fec9238f": "2026-11-25T10:23:18+00:00",
-    "aee146718d": "2026-11-25T10:23:18+00:00",
-    "d1c2415c6e": "2026-11-25T10:23:18+00:00",
-    "2edf8c5cdc": "2026-11-25T10:23:18+00:00",
-    "f6cb5bf5c6": "2026-11-25T10:23:18+00:00",
-    "2bb0139531": "2026-11-25T10:23:18+00:00",
-    "e388a4a919": "2026-11-25T10:23:18+00:00",
-    "631ed09752": "2026-11-25T10:23:18+00:00",
-    "c4c539a3af": "2026-11-25T10:23:18+00:00",
-    "586a2ae879": "2026-11-25T10:23:18+00:00",
-    "7b2b0ac8c1": "2026-11-25T10:23:18+00:00",
-    "06fef1b64a": "2026-11-25T10:23:18+00:00",
-    "d450fde961": "2026-11-25T10:55:53+00:00",
-    "5fe714ee3c": "2026-11-25T10:55:53+00:00",
-    "f4b079c4a2": "2026-11-25T10:55:53+00:00",
     "1a35b7d9e6": "2026-11-25T10:55:53+00:00",
     "97fadadfe9": "2026-11-25T10:55:53+00:00",
     "101002e37a": "2026-11-25T10:55:53+00:00",
@@ -4937,10 +4957,65 @@
     "d4e4ecfbf1": "2026-11-27T10:09:16+00:00",
     "3e1c7edf2d": "2026-11-27T10:09:16+00:00",
     "9b8285c450": "2026-11-27T10:09:16+00:00",
-    "f0c1aef59d": "2026-11-27T10:09:16+00:00"
+    "f0c1aef59d": "2026-11-27T10:09:16+00:00",
+    "8e89efe650": "2026-11-27T13:42:43+00:00",
+    "a15f9c9c69": "2026-11-27T13:42:43+00:00",
+    "756938c03d": "2026-11-27T13:42:43+00:00",
+    "12a073983c": "2026-11-27T13:42:43+00:00",
+    "bd1e20dab7": "2026-11-27T13:42:43+00:00",
+    "73e0794b59": "2026-11-27T13:42:43+00:00",
+    "c845a45a2b": "2026-11-27T13:42:43+00:00",
+    "8100ffedc5": "2026-11-27T13:42:43+00:00",
+    "a649e45c8c": "2026-11-27T13:42:43+00:00",
+    "c04ad6e456": "2026-11-27T13:42:43+00:00",
+    "22e6f51fa6": "2026-11-27T13:42:43+00:00",
+    "107cf3826a": "2026-11-27T13:42:43+00:00",
+    "aa873aa5da": "2026-11-27T13:42:43+00:00",
+    "5c1ea8a7b4": "2026-11-27T13:42:43+00:00",
+    "a95629b486": "2026-11-27T13:42:43+00:00",
+    "0e30680b6e": "2026-11-27T13:42:43+00:00",
+    "9fc3c058d0": "2026-11-27T13:42:43+00:00",
+    "70eb2e062c": "2026-11-27T13:42:43+00:00",
+    "e782aededd": "2026-11-27T13:42:43+00:00"
   },
   "board": {
     "en": [
+      {
+        "key": "73e0794b59",
+        "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health",
+        "summary": "The BBBoC indicated earlier this week that it would investigate comments from Fury’s wife Paris that the boxer had been diagnosed with schizophrenia.",
+        "lang": "en",
+        "sport": "combat",
+        "outlets": 4,
+        "growth": 0,
+        "heat": 14.53,
+        "published": "2026-11-27T12:45:20+00:00",
+        "latest": "2026-11-27T13:17:15+00:00",
+        "refs": [
+          {
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/anthony-joshua-paris-netflix-mental-health-robert-smith-b3092764.html",
+            "title": "Tyson Fury cleared to fight Anthony Joshua despite concerns about mental health"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+            "title": "Fury cleared to fight Joshua after medical checks"
+          },
+          {
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
+            "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia"
+          },
+          {
+            "source": "Sky Sports",
+            "link": "https://www.skysports.com/boxing/news/12040/13617026/tyson-fury-vs-anthony-joshua-paris-fury-retracts-claim-her-husband-has-been-diagnosed-with-schizophrenia",
+            "title": "Paris Fury retracts Tyson schizophrenia claim"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Fury receives medical clearance for Joshua bout as wife withdraws illness claim"
+      },
       {
         "key": "0aa0fd6e95",
         "title": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
@@ -4949,9 +5024,9 @@
         "sport": "football",
         "outlets": 4,
         "growth": 0,
-        "heat": 11.49,
+        "heat": 12.01,
         "published": "2026-11-26T22:10:14+00:00",
-        "latest": "2026-11-27T07:36:02+00:00",
+        "latest": "2026-11-27T13:30:00+00:00",
         "refs": [
           {
             "source": "The Guardian Sport",
@@ -4960,8 +5035,8 @@
           },
           {
             "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/thomas-frank-close-heart-attack-073602458.html",
-            "title": "Thomas Frank ‘close to a heart attack’ in dramatic first Crystal Palace win"
+            "link": "https://sports.yahoo.com/soccer/articles/lot-positives-thomas-frank-reacts-115000480.html",
+            "title": "“A lot of positives” – Thomas Frank reacts to his first win in charge of Crystal Palace"
           },
           {
             "source": "The Independent – Sport",
@@ -4969,75 +5044,101 @@
             "title": "Thomas Frank ‘close to a heart attack’ in dramatic first Crystal Palace win"
           },
           {
-            "source": "Sky Sports",
-            "link": "https://www.skysports.com/football/crystal-palace-vs-real-sociedad/report/577815",
-            "title": "Frank hopes Sociedad comeback win can be turning point in Palace's season"
+            "source": "Sky Sports – Football",
+            "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+            "title": "Palace latest: Frank compares Hull to his Brentford side"
           }
         ],
         "first_seen": "2026-11-27T01:42:41+00:00",
         "headline_own": "Thomas Frank secures first victory with Crystal Palace against Real Sociedad"
       },
       {
-        "key": "bba9c7b6de",
-        "title": "What happens now for Bayern Munich and Musiala?",
-        "summary": "Bayern Munich's Jamal Musiala might never return to his previous level and will deal with a medical condition for the rest of his life. What happens next?",
+        "key": "8100ffedc5",
+        "title": "Jamie Overton takes out frustration on Australia to put England in control",
+        "summary": "Overton took five for 12 in a scintillating spell at the Gabba.",
+        "lang": "en",
+        "sport": "cricket",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 11.78,
+        "published": "2026-11-27T13:16:33+00:00",
+        "latest": "2026-11-27T13:16:33+00:00",
+        "refs": [
+          {
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/cricket/jamie-overton-england-australia-rehan-ahmed-b3092785.html",
+            "title": "Jamie Overton takes out frustration on Australia to put England in control"
+          },
+          {
+            "source": "Sky Sports",
+            "link": "https://www.skysports.com/cricket/live-blog/12040/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
+            "title": "Australia's shot selection 'not up to it' in Gabba defeat to England"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "England moves ahead of Australia at the Gabba following Jamie Overton's display"
+      },
+      {
+        "key": "a649e45c8c",
+        "title": "Australia set to drop Lyon for first New Zealand Test",
+        "summary": "Australia are set to drop off-spinner Nathan Lyon for the first Test against New Zealand, starting on 9 December.",
         "lang": "en",
         "sport": null,
-        "outlets": 4,
+        "outlets": 3,
         "growth": 0,
-        "heat": 11.01,
-        "published": "2026-11-27T06:54:36+00:00",
-        "latest": "2026-11-27T07:40:00+00:00",
+        "heat": 11.58,
+        "published": "2026-11-27T12:24:09+00:00",
+        "latest": "2026-11-27T12:24:09+00:00",
         "refs": [
           {
             "source": "BBC Sport",
-            "link": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
-            "title": "What happens now for Bayern Munich and Musiala?"
+            "link": "https://www.bbc.co.uk/sport/cricket/articles/ckjre1p5g4l7o?at_medium=RSS&at_campaign=rss",
+            "title": "Australia set to drop Lyon for first New Zealand Test"
           },
           {
-            "source": "The Guardian – Football",
-            "link": "https://www.theguardian.com/football/2026/nov/26/football-daily-newsletter-bayern-munich",
-            "title": "Football Daily | Bayern Munich go from bad to worse with own goals on and off the pitch"
-          },
-          {
-            "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/bayern-munich-manager-wants-barcelona-074000489.html",
-            "title": "Bayern Munich manager wants Barcelona target to remain at the club in January – Romano"
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/sport/2026/nov/27/nathan-lyon-set-to-be-axed-from-australia-squad-nz-test",
+            "title": "Nathan Lyon set to be axed from Australia squad for opening New Zealand Test"
           },
           {
             "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/football/joshua-kimmich-jamal-musiala-health-bayern-munich-b3092070.html",
-            "title": "Joshua Kimmich calls out club’s handling of Jamal Musiala as ‘not Bayern-like’"
+            "link": "https://www.independent.co.uk/sport/cricket/nathan-lyon-ball-tampering-allegations-australia-sandpapergate-b3092641.html",
+            "title": "Nathan Lyon faces Australia axe with bowler accused in fresh ball tampering allegations"
           }
         ],
-        "first_seen": "2026-11-27T09:42:44+00:00",
-        "headline_own": "Joshua Kimmich criticises Bayern Munich over Jamal Musiala"
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Australia weighs leaving Nathan Lyon out of lineup ahead of initial Test against New Zealand"
       },
       {
-        "key": "0ad6afaaf0",
-        "title": "Jannik Sinner ruled out of Australian Open with knee injury",
-        "summary": "Two-time champion faces four months out after surgery World No 2 last played in July at Wimbledon Organisers have confirmed that two-time Australian Open champion Jannik Sinner has been ruled out of the grand slam at Melbourne Park ⁠in January after surgery on a persistent knee injury. Sinner said ⁠on Tuesday that ⁠he had ​had a minor operation, with Italian sports daily Corriere dello Sport repor",
+        "key": "c04ad6e456",
+        "title": "Newcastle United star banned from driving after being caught using phone at the wheel",
+        "summary": "The court heard the international footballer was filmed by a cyclist while he was stationary in traffic",
         "lang": "en",
-        "sport": "tennis",
-        "outlets": 2,
+        "sport": "football",
+        "outlets": 3,
         "growth": 0,
-        "heat": 10.82,
-        "published": "2026-11-26T15:57:07+00:00",
-        "latest": "2026-11-27T03:00:00+00:00",
+        "heat": 10.51,
+        "published": "2026-11-27T10:58:34+00:00",
+        "latest": "2026-11-27T10:58:34+00:00",
         "refs": [
           {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/sport/2026/nov/26/jannik-sinner-ruled-out-australian-open-knee-injury",
-            "title": "Jannik Sinner ruled out of Australian Open with knee injury"
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/general/articles/newcastle-united-star-banned-driving-105834322.html",
+            "title": "Newcastle United star banned from driving after being caught using phone at the wheel"
           },
           {
-            "source": "Yahoo Sports – Tennis",
-            "link": "https://sports.yahoo.com/tennis/articles/happened-last-time-carlos-alcaraz-020000950.html",
-            "title": "What happened the last time Carlos Alcaraz and Jannik Sinner did not compete at a Grand Slam event"
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/news/uk/crime/sven-botman-driving-ban-newcastle-b3092668.html",
+            "title": "Newcastle United star banned from driving after being caught using phone at the wheel"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss",
+            "title": "Botman banned from driving for using phone at wheel"
           }
         ],
-        "first_seen": "2026-11-26T17:42:39+00:00",
-        "headline_own": "Jannik Sinner to miss Australian Open following knee operation"
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Newcastle player Botman receives driving disqualification for mobile phone use"
       },
       {
         "key": "4dee30bee8",
@@ -5047,7 +5148,7 @@
         "sport": "combat",
         "outlets": 2,
         "growth": 0,
-        "heat": 10.27,
+        "heat": 9.31,
         "published": "2026-11-27T03:32:21+00:00",
         "latest": "2026-11-27T03:32:21+00:00",
         "refs": [
@@ -5066,195 +5167,71 @@
         "headline_own": "Navajo Stirling agrees to light heavyweight bout after Josh Hokit steps forward"
       },
       {
-        "key": "50e9389655",
-        "title": "Manchester United set sights on a 2027 move for Argentine international amid Real Madrid return links",
-        "summary": "The future of Nico Paz is going to become one of the hottest topics at the end of the season, with several teams expected to try to sign the Argentine international.After all, Paz has set the Serie A ...",
-        "lang": "en",
-        "sport": "football",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.84,
-        "published": "2026-11-27T09:55:00+00:00",
-        "latest": "2026-11-27T09:55:00+00:00",
-        "refs": [
-          {
-            "source": "Yahoo Sports – Soccer",
-            "link": "https://sports.yahoo.com/soccer/articles/manchester-united-set-sights-2027-095500332.html",
-            "title": "Manchester United set sights on a 2027 move for Argentine international amid Real Madrid return links"
-          },
-          {
-            "source": "The Guardian – Football",
-            "link": "https://www.theguardian.com/football/video/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
-            "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? | Football Weekly"
-          },
-          {
-            "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/football/joshua-zirkzee-manchester-united-sporting-draw-referee-b3092167.html",
-            "title": "Joshua Zirkzee urges Manchester United to look beyond refereeing decisions after Sporting draw"
-          }
-        ],
-        "first_seen": "2026-11-27T10:09:16+00:00",
-        "headline_own": "Manchester United eye 2027 deal for Argentine player after Lisbon draw"
-      },
-      {
-        "key": "44cc9bc6a8",
-        "title": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement",
-        "summary": "Former UFC title challenger Anthony Smith had the criminal charges against him dismissed after he was initially arrested back in July. On Wednesday, the Sarpy County district attorney announced that the charges against Smith had been dropped. Smith pleaded not guilty during his arraignment after he was charged with four felonoes, including an attempt of […]",
-        "lang": "en",
-        "sport": "combat",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.2,
-        "published": "2026-11-25T23:56:07+00:00",
-        "latest": "2026-11-26T11:57:01+00:00",
-        "refs": [
-          {
-            "source": "MMA Fighting",
-            "link": "https://www.mmafighting.com/ufc/523375/charges-dismissed-against-anthony-smith-after-july-arrest-smith-releases-statement",
-            "title": "Charges dismissed against Anthony Smith after July arrest; Smith releases statement"
-          },
-          {
-            "source": "Yahoo Sports – MMA",
-            "link": "https://sports.yahoo.com/mma/article/anthony-smiths-criminal-charges-dismissed-in-nebraska-ex-ufc-star-releases-lengthy-statement-233427438.html",
-            "title": "Anthony Smith's criminal charges dismissed in Nebraska, ex-UFC star releases lengthy statement"
-          },
-          {
-            "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/ufc/anthony-smith-ufc-charges-dropped-arrest-b3092100.html",
-            "title": "UFC star Anthony Smith posts lengthy statement after charges dropped in terroristic threat case"
-          }
-        ],
-        "first_seen": "2026-11-26T01:42:37+00:00",
-        "headline_own": "Anthony Smith issues statement after Nebraska charges dropped"
-      },
-      {
-        "key": "f870dd8aa8",
-        "title": "How Fury and Joshua changed British boxing forever",
-        "summary": "Before their long-awaited heavyweight bout, BBC Sport explores the impact Tyson Fury and Anthony Joshua have had on British boxing.",
-        "lang": "en",
-        "sport": "combat",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.16,
-        "published": "2026-11-27T06:51:53+00:00",
-        "latest": "2026-11-27T06:51:53+00:00",
-        "refs": [
-          {
-            "source": "BBC Sport",
-            "link": "https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&at_campaign=rss",
-            "title": "How Fury and Joshua changed British boxing forever"
-          },
-          {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
-            "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia"
-          },
-          {
-            "source": "Sky Sports",
-            "link": "https://www.skysports.com/boxing/news/12040/13617026/tyson-fury-vs-anthony-joshua-paris-fury-retracts-claim-her-husband-has-been-diagnosed-with-schizophrenia",
-            "title": "Paris Fury retracts Tyson schizophrenia claim"
-          }
-        ],
-        "first_seen": "2026-11-27T09:42:44+00:00",
-        "headline_own": "Paris Fury withdraws claim about Tyson Fury medical diagnosis"
-      },
-      {
-        "key": "8a835411d9",
-        "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
-        "summary": "The constant turnover of players and staff has made consistency an elusive quality at Stamford Bridge Liam Delap came and went. He joined Chelsea in the summer of 2025 and was hailed by Enzo Maresca as the next Harry Kane. Fast forward a year, though, and there was no chance of Delap joining Kane in England’s World Cup squad. The striker’s form was miserable and the only surprise was that Chelsea ",
+        "key": "22e6f51fa6",
+        "title": "Clashes mar European games as Macron condemns violence",
+        "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
         "lang": "en",
         "sport": "football",
         "outlets": 2,
         "growth": 0,
-        "heat": 8.23,
-        "published": "2026-11-27T08:00:57+00:00",
-        "latest": "2026-11-27T08:00:57+00:00",
+        "heat": 8.04,
+        "published": "2026-11-27T10:53:17+00:00",
+        "latest": "2026-11-27T10:53:17+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/soccer/articles/clashes-mar-european-games-macron-102428807.html",
+            "title": "Clashes mar European games as Macron condemns violence"
+          },
+          {
+            "source": "BBC Sport",
+            "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+            "title": "Clashes mar European games as Macron condemns violence"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Macron denounces disturbances during European fixtures"
+      },
+      {
+        "key": "107cf3826a",
+        "title": "Lights-out Luka and contagious chemistry: are these Lakers for real?",
+        "summary": "It’s early days, but after a dramatic roster overhaul and an offseason of team-bonding Dončić is playing at an MVP level and LA are looking like contenders One of the components of Luka Dončić’s shock trade from the Dallas Mavericks to the Los Angeles Lakers that caused great consternation was that he was just entering his prime as an NBA superstar. The worry was that the move could end that prime",
+        "lang": "en",
+        "sport": "basketball",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.95,
+        "published": "2026-11-27T11:00:22+00:00",
+        "latest": "2026-11-27T11:00:22+00:00",
         "refs": [
           {
             "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
-            "title": "Liam Delap’s struggles are symbolic of damaging Chelsea churn"
+            "link": "https://www.theguardian.com/sport/2026/nov/27/luka-doncic-los-angeles-lakers-san-antonio-spurs-nba",
+            "title": "Lights-out Luka and contagious chemistry: are these Lakers for real?"
           },
           {
-            "source": "Sky Sports – Football",
-            "link": "https://www.skysports.com/football/news/11095/13615913/liam-delap-has-a-chance-to-show-chelsea-what-theyre-missing-when-they-travel-to-nottingham-forest",
-            "title": "Delap's chance at redemption against toothless Chelsea"
+            "source": "Yahoo Sports – NBA",
+            "link": "https://sports.yahoo.com/nba/articles/lights-luka-contagious-chemistry-lakers-110022468.html",
+            "title": "Lights-out Luka and contagious chemistry: are these Lakers for real?"
           }
         ],
-        "first_seen": "2026-11-27T09:42:44+00:00",
-        "headline_own": "Liam Delap faces Chelsea following recent struggles"
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Strong play from Luka and team chemistry highlight recent Lakers performances"
       }
     ],
     "zh": [],
     "ru": [
-      {
-        "key": "2e0baa1658",
-        "title": "AS: Месси сыграет в прощальном матче Тевеса",
-        "summary": "Нападающий «Интер Майами» Лионель Месси станет участником прощального матча Карлоса Тевеса, сообщает AS. Игра пройдет на домашнем стадионе «Бока Хуниорс» «Ла Бомбонера» в Буэнос-Айресе 20 декабря",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 10.21,
-        "published": "2026-11-27T09:39:00+00:00",
-        "latest": "2026-11-27T09:39:00+00:00",
-        "refs": [
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/foreign/news/as-lionel-messi-sygraet-v-proschalnom-matche-karlosa-tevesa-2479627/",
-            "title": "AS: Месси сыграет в прощальном матче Тевеса"
-          },
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261127/teves-2134284762.html",
-            "title": "Тевес пригласил Месси и Роналду на свой прощальный матч"
-          }
-        ],
-        "first_seen": "2026-11-27T10:09:16+00:00",
-        "headline_own": "Месси и Роналду получили приглашения на прощальную игру Тевеса"
-      },
-      {
-        "key": "d4fe2c828b",
-        "title": "Умер четвертьфиналист Евро-2016 в составе сборной Исландии Йоунссон. Ему было 37 лет",
-        "summary": "Бывший вратарь сборной Исландии по футболу Ингвар Йоунссон скончался в возрасте 37 лет в результате онкологического заболевания, сообщает издание Visir.",
-        "lang": "ru",
-        "sport": "football",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 10.19,
-        "published": "2026-11-27T08:27:00+00:00",
-        "latest": "2026-11-27T09:40:00+00:00",
-        "refs": [
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/foreign/news/umer-chetvertfinalist-evro-2016-v-sostave-sbornoy-islandii-younsson-emu-bylo-37-let-2479601/",
-            "title": "Умер четвертьфиналист Евро-2016 в составе сборной Исландии Йоунссон. Ему было 37 лет"
-          },
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261127/younsson-2134306072.html",
-            "title": "Умер четвертьфиналист Евро-2016"
-          },
-          {
-            "source": "Sports.ru",
-            "link": "https://www.sports.ru/football/1117450168-v-37-let-umer-eks-vratar-sbornoj-islandii-jonsson-on-byl-v-zayavke-na-.html",
-            "title": "В 37 лет умер от рака экс-вратарь сборной Исландии Йонссон. Ингвар был в заявке на Евро-2016 и играл в Лиге конференций в прошлом сезоне"
-          }
-        ],
-        "first_seen": "2026-11-27T09:42:44+00:00",
-        "headline_own": "В возрасте 37 лет скончался экс-вратарь Исландии Ингвар Йонссон"
-      },
       {
         "key": "04c08ad671",
         "title": "Гран-при Японии по фигурному катанию-2026: время выхода на лед российских фигуристов 27 ноября",
         "summary": "Аделия Петросян, Алина Горбачева, Владислав Дикиджи и Петр Гуменник представят короткие программы.",
         "lang": "ru",
         "sport": "olympic",
-        "outlets": 2,
+        "outlets": 3,
         "growth": 0,
-        "heat": 9.94,
+        "heat": 15.71,
         "published": "2026-11-27T05:00:00+00:00",
-        "latest": "2026-11-27T10:05:09+00:00",
+        "latest": "2026-11-27T12:59:22+00:00",
         "refs": [
           {
             "source": "Спорт-Экспресс",
@@ -5262,39 +5239,127 @@
             "title": "Гран-при Японии по фигурному катанию-2026: время выхода на лед российских фигуристов 27 ноября"
           },
           {
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261127/gumennik-2134377024.html",
+            "title": "Гуменник идет шестым после короткой программы на этапе Гран-при в Японии"
+          },
+          {
             "source": "Championat",
-            "link": "https://www.championat.com/figureskating/news-6716124-zhulin-ocenil-vystupleniya-gorbachyovoj-i-petrosyan-v-korotkoj-programme-na-gran-pri-yaponii.html",
-            "title": "Жулин оценил выступления Горбачёвой и Петросян в короткой программе на Гран-при Японии"
+            "link": "https://www.championat.com/figureskating/news-6716328-gran-pri-yaponii-po-figurnomu-kataniyu-2026-6-j-etap-nhk-trophy-rezultaty-27-noyabrya-2026.html",
+            "title": "Гран-при Японии по фигурному катанию — 2026, 6-й этап, NHK Trophy: результаты 27 ноября"
           }
         ],
         "first_seen": "2026-11-27T05:42:40+00:00",
         "headline_own": "Жулин высказался о прокатах Горбачевой и Петросян на японском этапе Гран-при"
       },
       {
-        "key": "90dc26e726",
-        "title": "«Бешикташ» осудил действия полиции в Батуми после матча с «Хапоэлем»",
-        "summary": "«Бешикташ» на странице в социальной сети X осудил действия полиции Грузии в отношении болельщиков команды во время матча с «Хапоэлем» Беэр-Шева (2:1) в 5-м туре общего этапа Лиги Европы.",
+        "key": "aa873aa5da",
+        "title": "Дикиджи получил за короткую программу на этапе Гран-при в Токио 85,46 балла",
+        "summary": "Российский фигурист Владислав Дикиджи выступил с короткой программой на шестом этапе Гран-при ISU сезона-2026/27 в Токио (Япония).",
+        "lang": "ru",
+        "sport": null,
+        "outlets": 2,
+        "growth": 0,
+        "heat": 11.35,
+        "published": "2026-11-27T10:23:00+00:00",
+        "latest": "2026-11-27T12:07:01+00:00",
+        "refs": [
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/etap-gran-pri-isu-po-figurnomu-kataniyu-v-tokio-rezultat-vladislava-dikidzhi-v-korotkoy-programme-27-noyabrya-2026-2479641/",
+            "title": "Дикиджи получил за короткую программу на этапе Гран-при в Токио 85,46 балла"
+          },
+          {
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261127/gumennik-2134385170.html",
+            "title": "Гуменник рассказал о трудностях при подготовке к этапу Гран-при в Токио"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Дикиджи набрал 85,46 балла в коротком прокате на токийском этапе Гран-при"
+      },
+      {
+        "key": "5c1ea8a7b4",
+        "title": "«Сибирь» выменяла Попугаева у «Северстали» за Воробьева. Иван набрал 1 балл в 9 матчах сезона, Никита – 13 в 23",
+        "summary": "« Сибирь » обменяла нападающего Ивана Воробьева в « Северсталь ». Взамен новосибирский клуб получил форварда Никиту Попугаева . В этом сезоне Воробьев набрал 1 (1+0) балл за результативность при полезности «минус 2» в 9 матчах Фонбет чемпионата КХЛ . Среднее игровое время – 12:05. Попугаев записал на свой счет 13 (3+10) очков при полезности «плюс 5» в 23 играх чемпионата. Среднее игровое время – 1",
+        "lang": "ru",
+        "sport": "hockey",
+        "outlets": 3,
+        "growth": 0,
+        "heat": 10.11,
+        "published": "2026-11-27T13:15:00+00:00",
+        "latest": "2026-11-27T13:29:20+00:00",
+        "refs": [
+          {
+            "source": "Sports.ru",
+            "link": "https://www.sports.ru/hockey/1117450374-sibir-vymenyala-popugaeva-u-severstali-za-vorobeva.html",
+            "title": "«Сибирь» выменяла Попугаева у «Северстали» за Воробьева. Иван набрал 1 балл в 9 матчах сезона, Никита – 13 в 23"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/hockey/news-6716334-sibir-vymenyala-nikitu-popugaeva-u-severstali-na-ivana-vorobyova.html",
+            "title": "«Сибирь» выменяла Никиту Попугаева у «Северстали» на Ивана Воробьёва"
+          },
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/hockey/khl/news/sibir-obmenyala-vorobeva-na-popugaeva-iz-severstali-2479684/",
+            "title": "«Сибирь» обменяла Воробьева на Попугаева из «Северстали»"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "«Сибирь» и «Северсталь» провели обмен форвардами Воробьевым и Попугаевым"
+      },
+      {
+        "key": "a95629b486",
+        "title": "Пенальти в ворота ЦСКА в игре с «Ахматом» – ошибка судей. ЭСК единогласно признала это",
+        "summary": "ЭСК признала ошибочным решение судей назначить пенальти в ворота ЦСКА в матче 15-го тура Альфа-Банк РПЛ с « Ахматом » (1:2). Напомним, на 48-й минуте игры Данил Круговой упал в своей штрафной площади после подачи штрафного и ногой потянул ногу Георгия Мелкадзе . Главный арбитр Артем Чистяков сначала не усмотрел нарушение правил, но после просмотра повтора назначил 11-метровый в ворота армейцев. По",
         "lang": "ru",
         "sport": "football",
         "outlets": 2,
         "growth": 0,
-        "heat": 9.75,
-        "published": "2026-11-26T20:59:00+00:00",
-        "latest": "2026-11-27T08:45:01+00:00",
+        "heat": 8.23,
+        "published": "2026-11-27T13:17:00+00:00",
+        "latest": "2026-11-27T13:17:00+00:00",
+        "refs": [
+          {
+            "source": "Sports.ru",
+            "link": "https://www.sports.ru/football/1117450366-esk-edinoglasno-priznala-oshibochnym-naznachenie-penalti-v-vorota-czsk.html",
+            "title": "Пенальти в ворота ЦСКА в игре с «Ахматом» – ошибка судей. ЭСК единогласно признала это"
+          },
+          {
+            "source": "Спорт-Экспресс",
+            "link": "https://www.sport-express.ru/football/rfpl/news/esk-rfs-priznala-oshibochnym-naznachenie-penalti-v-vorota-cska-v-matche-s-ahmatom-2479676/",
+            "title": "ЭСК РФС признала ошибочным назначение пенальти в ворота ЦСКА в матче с «Ахматом»"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "ЭСК РФС сочла неверным одиннадцатиметровый удар против ЦСКА в игре с «Ахматом»"
+      },
+      {
+        "key": "0e30680b6e",
+        "title": "«Это просто потрясающе»: Йохауг восхитилась возвращением Терентьевой на Кубок мира после родов",
+        "summary": "Четырехкратная олимпийская чемпионка Тереза Йохауг оценила выступление российской лыжницы Натальи Терентьевой на этапе Кубка мира в финской Руке. После рождения второго ребенка россиянка вернулась на международные соревнования и заняла четвертое место в гонке на 10 км классическим стилем с раздельным стартом.",
+        "lang": "ru",
+        "sport": "olympic",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.95,
+        "published": "2026-11-27T13:21:00+00:00",
+        "latest": "2026-11-27T13:21:00+00:00",
         "refs": [
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/football/europa-league/news/beshiktash-osudil-deystviya-policii-v-batumi-posle-matcha-s-hapoelem-2479482/",
-            "title": "«Бешикташ» осудил действия полиции в Батуми после матча с «Хапоэлем»"
+            "link": "https://www.sport-express.ru/skiing/kubok-mira/news/eto-prosto-potryasayusche-yohaug-voshitilas-vozvrascheniem-terentevoy-na-kubok-mira-posle-rodov-2479705/",
+            "title": "«Это просто потрясающе»: Йохауг восхитилась возвращением Терентьевой на Кубок мира после родов"
           },
           {
             "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261127/beshiktash-2134301073.html",
-            "title": "В Батуми задержали 16 фанатов \"Бешикташа\", пострадали трое полицейских"
+            "link": "https://ria.ru/20261127/lyzhi-2134387422.html",
+            "title": "Норвежская лыжница восхитилась возвращением Терентьевой на Кубок мира"
           }
         ],
-        "first_seen": "2026-11-27T09:42:44+00:00",
-        "headline_own": "«Бешикташ» раскритиковал действия правоохранителей в Батуми"
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Норвежка Йохауг выразила восхищение Терентьевой, вышедшей на Кубок мира после родов"
       },
       {
         "key": "61335e6fef",
@@ -5304,7 +5369,7 @@
         "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 8.78,
+        "heat": 7.83,
         "published": "2026-11-26T20:28:00+00:00",
         "latest": "2026-11-27T07:05:00+00:00",
         "refs": [
@@ -5323,61 +5388,61 @@
         "headline_own": "Испания победила Австрию и пробилась в полуфинал Кубка Дэвиса"
       },
       {
-        "key": "d4e4ecfbf1",
-        "title": "«Никита должен успокоиться». Фетисов — о ситуации Кучерова в «Тампе»",
-        "summary": "Двукратный олимпийский чемпион депутат Госдумы Вячеслав Фетисов прокомментировал ситуацию Никиты Кучерова в «Тампа-Бэй Лайтнинг».",
+        "key": "9fc3c058d0",
+        "title": "Тренер по физподготовке Павленко вошел в штаб «Локомотива»",
+        "summary": "Роман Павленко назначен тренером по общей физической подготовке ярославского «Локомотива».",
         "lang": "ru",
-        "sport": "olympic",
+        "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 8.23,
-        "published": "2026-11-27T09:43:04+00:00",
-        "latest": "2026-11-27T09:43:04+00:00",
+        "heat": 7.8,
+        "published": "2026-11-27T13:40:00+00:00",
+        "latest": "2026-11-27T13:40:00+00:00",
         "refs": [
-          {
-            "source": "Championat",
-            "link": "https://www.championat.com/hockey/news-6716092-nikita-dolzhen-uspokoitsya-fetisov-o-situacii-kucherova-v-tampe.html",
-            "title": "«Никита должен успокоиться». Фетисов — о ситуации Кучерова в «Тампе»"
-          },
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261127/kucherov-2134330723.html",
-            "title": "\"Никита должен успокоиться\": Фетисов оценил перспективы Кучерова"
-          }
-        ],
-        "first_seen": "2026-11-27T10:09:16+00:00",
-        "headline_own": "Фетисов призвал нападающего «Тампы» Кучерова сохранять спокойствие"
-      },
-      {
-        "key": "3e1c7edf2d",
-        "title": "Аделия Петросян прокомментировала выступление в КП на этапе Гран-при ISU в Токио",
-        "summary": "Трёхкратная чемпионка России по фигурному катанию Аделия Петросян прокомментировала выступление в короткой программе на этапе Гран-при ISU в Японии.",
-        "lang": "ru",
-        "sport": "olympic",
-        "outlets": 2,
-        "growth": 0,
-        "heat": 7.74,
-        "published": "2026-11-27T10:06:31+00:00",
-        "latest": "2026-11-27T10:06:31+00:00",
-        "refs": [
-          {
-            "source": "Championat",
-            "link": "https://www.championat.com/figureskating/news-6716122-adeliya-petrosyan-prokommentirovala-vystuplenie-v-kp-na-etape-gran-pri-isu-v-tokio.html",
-            "title": "Аделия Петросян прокомментировала выступление в КП на этапе Гран-при ISU в Токио"
-          },
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/etap-gran-pri-po-figurnomu-kataniyu-rezultat-korotkoy-programmy-u-zhenschin-27-noyabrya-2026-2479606/",
-            "title": "Чиба выиграла короткую программу у фигуристок на этапе Гран-при в Токио, Горбачева — третья, Петросян — восьмая"
+            "link": "https://www.sport-express.ru/hockey/khl/news/trener-po-fizpodgotovke-pavlenko-voshel-v-shtab-lokomotiva-2479719/",
+            "title": "Тренер по физподготовке Павленко вошел в штаб «Локомотива»"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/hockey/news-6716348-roman-pavlenko-voshyol-v-trenerskij-shtab-lokomotiva.html",
+            "title": "Роман Павленко вошёл в тренерский штаб «Локомотива»"
           }
         ],
-        "first_seen": "2026-11-27T10:09:16+00:00"
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Роман Павленко назначен тренером по физической подготовке в «Локомотив»"
+      },
+      {
+        "key": "70eb2e062c",
+        "title": "Жена Фьюри отказалась от слов о шизофрении боксера",
+        "summary": "",
+        "lang": "ru",
+        "sport": "combat",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.7,
+        "published": "2026-11-27T13:30:32+00:00",
+        "latest": "2026-11-27T13:30:32+00:00",
+        "refs": [
+          {
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261127/fjuri-2134410123.html",
+            "title": "Жена Фьюри отказалась от слов о шизофрении боксера"
+          },
+          {
+            "source": "Championat",
+            "link": "https://www.championat.com/boxing/news-6716332-emu-ne-stavili-diagnoz-zhena-fyuri-zabrala-slova-o-shizofrenii-muzha-posle-boya-s-klichko.html",
+            "title": "«Не ставили диагноз». Жена Фьюри забрала назад слова о шизофрении мужа после боя с Кличко"
+          }
+        ],
+        "first_seen": "2026-11-27T13:42:43+00:00",
+        "headline_own": "Супруга боксера Фьюри опровергла собственное заявление о его шизофрении"
       }
     ]
   },
   "spotlight_history": {
     "en": [
-      "tennis",
       "combat",
       "football",
       "tennis",
@@ -5386,10 +5451,10 @@
       "tennis",
       "combat",
       "football",
-      "basketball"
+      "basketball",
+      "combat"
     ],
     "ru": [
-      "olympic",
       "tennis",
       "combat",
       "olympic",
@@ -5398,7 +5463,8 @@
       "olympic",
       "tennis",
       "hockey",
-      "olympic"
+      "olympic",
+      "combat"
     ],
     "zh": [
       "olympic",
@@ -5406,92 +5472,66 @@
     ]
   },
   "spotlight": {
-    "en": {},
-    "zh": {},
-    "ru": {
-      "sport": "olympic",
-      "total": 6,
+    "en": {
+      "sport": "combat",
+      "total": 11,
       "items": [
         {
-          "key": "9b8285c450",
-          "title": "Радионова — о Трусовой: рано или поздно она захочет исполнять контент, который был на ОИ",
-          "summary": "Бронзовый призёр чемпионата мира — 2025 по фигурному катанию Елена Радионова выразила уверенность в том, что фигуристка Александра Игнатова (Трусова) сможет восстановить все четверные прыжки.",
-          "lang": "ru",
-          "sport": "olympic",
+          "key": "b5d1b2536d",
+          "title": "UFC analyst says Israel Adesanya's camp change won't make him better",
+          "summary": "Israel Adesanya has made some changes ahead of his UFC return, but Chael Sonnen doesn't see him reinventing the wheel.",
+          "lang": "en",
+          "sport": "combat",
           "outlets": 2,
           "growth": 0,
-          "heat": 7.71,
-          "published": "2026-11-27T10:00:54+00:00",
-          "latest": "2026-11-27T10:00:54+00:00",
+          "heat": 6.73,
+          "published": "2026-11-26T20:30:20+00:00",
+          "latest": "2026-11-26T20:30:20+00:00",
           "refs": [
             {
-              "source": "Championat",
-              "link": "https://www.championat.com/figureskating/news-6716112-radionova-o-trusovoj-rano-ili-pozdno-ona-zahochet-ispolnyat-kontent-kotoryj-byl-na-oi.html",
-              "title": "Радионова — о Трусовой: рано или поздно она захочет исполнять контент, который был на ОИ"
+              "source": "Yahoo Sports – MMA",
+              "link": "https://sports.yahoo.com/mma/articles/ufc-analyst-says-israel-adesanyas-203020919.html",
+              "title": "UFC analyst says Israel Adesanya's camp change won't make him better"
             },
             {
-              "source": "РИА Новости Спорт",
-              "link": "https://ria.ru/20261127/radionova-2134281264.html",
-              "title": "Радионова: мы еще увидим олимпийский контент от Трусовой с пятью четверными"
+              "source": "Sherdog",
+              "link": "https://www.sherdog.com/news/news/Carlos-Ulberg-takes-a-shot-at-Israel-Adesanya-over-CKB-split-203747",
+              "title": "Carlos Ulberg takes a shot at Israel Adesanya over CKB split"
             }
           ],
-          "first_seen": "2026-11-27T10:09:16+00:00",
-          "headline_own": "Радионова ожидает возвращения Трусовой к олимпийской программе с четверными"
+          "first_seen": "2026-11-27T05:42:40+00:00",
+          "headline_own": "Israel Adesanya receives criticism over departure from training team"
         },
         {
-          "key": "f0c1aef59d",
-          "title": "Диана Шнайдер сыграет с Даниэлем Эвансом на турнире «Трофеи Северной Пальмиры» — 2026",
-          "summary": "Серебряный призёр Олимпиады-2024 в миксте 11-я ракетка мира Диана Шнайдер сыграет с бывшей 21-й ракеткой мира, обладателем Кубка Дэвиса в составе сборной Великобритании Даниэлем Эвансом в матче в формате «Битвы полов» на турнире «Трофеи Северной Пальмиры» – 2026.",
-          "lang": "ru",
-          "sport": "olympic",
+          "key": "e782aededd",
+          "title": "Anything but fighting: Jim Miller loves Thanksgiving",
+          "summary": "NEW YORK — UFC lightweight veteran Jim Miller speaks with MMA Fighting’s José Youngs on Anything But Fighting about his love for Thanksgiving, hunting, cooking, his cookbook, preparing and grilling meat, plus more. Miller (39-20) was last seen on the wrong end of a first-round knockout by Terrance McKinney in their catchweight fight at UFC […]",
+          "lang": "en",
+          "sport": "combat",
           "outlets": 2,
           "growth": 0,
-          "heat": 7.07,
-          "published": "2026-11-26T16:01:45+00:00",
-          "latest": "2026-11-27T07:00:04+00:00",
+          "heat": 4.98,
+          "published": "2026-11-26T18:00:00+00:00",
+          "latest": "2026-11-26T18:00:00+00:00",
           "refs": [
             {
-              "source": "Чемпионат – Теннис",
-              "link": "https://www.championat.com/tennis/news-6715260-diana-shnajder-sygraet-s-danielem-evansom-na-turnire-trofei-severnoj-palmiry-2026.html",
-              "title": "Диана Шнайдер сыграет с Даниэлем Эвансом на турнире «Трофеи Северной Пальмиры» — 2026"
+              "source": "MMA Fighting",
+              "link": "https://www.mmafighting.com/videos/523047/anything-but-fighting-jim-miller-loves-thanksgiving",
+              "title": "Anything but fighting: Jim Miller loves Thanksgiving"
             },
             {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/tennis/news/trofei-severnoy-palmiry-2026-spisok-uchastnikov-tennisnogo-turnira-2479200/",
-              "title": "«Трофеи Северной Пальмиры-2026»: список участников турнира"
+              "source": "Yahoo Sports – MMA",
+              "link": "https://sports.yahoo.com/mma/articles/anything-fighting-jim-miller-loves-180000034.html",
+              "title": "Anything but fighting: Jim Miller loves Thanksgiving"
             }
           ],
-          "first_seen": "2026-11-27T10:09:16+00:00",
-          "headline_own": "Шнайдер встретится с Эвансом в рамках турнира «Трофеи Северной Пальмиры»"
-        },
-        {
-          "key": "045c1e455c",
-          "title": "Овечкин дал совет Мирошниченко после матча «Вашингтона» с «Филадельфией»",
-          "summary": "Российский нападающий «Вашингтон Кэпиталз» Александр Овечкин высказался об игре соотечественника Ивана Мирошниченко в матче регулярного чемпионата Национальной хоккейной лиги с «Филадельфией Флайерз» (7:3).",
-          "lang": "ru",
-          "sport": "olympic",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 5.73,
-          "published": "2026-11-26T23:21:15+00:00",
-          "latest": "2026-11-27T01:39:56+00:00",
-          "refs": [
-            {
-              "source": "Чемпионат – Хоккей",
-              "link": "https://www.championat.com/hockey/news-6715640-ovechkin-dal-sovet-miroshnichenko-posle-matcha-vashingtona-s-filadelfiej.html",
-              "title": "Овечкин дал совет Мирошниченко после матча «Вашингтона» с «Филадельфией»"
-            },
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/vashington-filadelfiya-schet-6-3-rezultat-matcha-regulyarnogo-chempionata-nhl-26-noyabrya-2026-goda-2479079/",
-              "title": "«Вашингтон» победил «Филадельфию», Мирошниченко набрал 2 очка"
-            }
-          ],
-          "first_seen": "2026-11-27T01:42:41+00:00",
-          "headline_own": "«Вашингтон» обыграл «Филадельфию», Мирошниченко набрал два очка"
+          "first_seen": "2026-11-27T13:42:43+00:00",
+          "headline_own": "Fighter Jim Miller shares his fondness for Thanksgiving"
         }
       ]
-    }
+    },
+    "zh": {},
+    "ru": {}
   },
   "local": {
     "en": [],
@@ -5581,6 +5621,19 @@
     "ru:04c08ad671": "Жулин высказался о прокатах Горбачевой и Петросян на японском этапе Гран-при",
     "ru:d4e4ecfbf1": "Фетисов призвал нападающего «Тампы» Кучерова сохранять спокойствие",
     "ru:9b8285c450": "Радионова ожидает возвращения Трусовой к олимпийской программе с четверными",
-    "ru:f0c1aef59d": "Шнайдер встретится с Эвансом в рамках турнира «Трофеи Северной Пальмиры»"
+    "ru:f0c1aef59d": "Шнайдер встретится с Эвансом в рамках турнира «Трофеи Северной Пальмиры»",
+    "en:73e0794b59": "Fury receives medical clearance for Joshua bout as wife withdraws illness claim",
+    "en:8100ffedc5": "England moves ahead of Australia at the Gabba following Jamie Overton's display",
+    "en:a649e45c8c": "Australia weighs leaving Nathan Lyon out of lineup ahead of initial Test against New Zealand",
+    "en:c04ad6e456": "Newcastle player Botman receives driving disqualification for mobile phone use",
+    "en:22e6f51fa6": "Macron denounces disturbances during European fixtures",
+    "en:107cf3826a": "Strong play from Luka and team chemistry highlight recent Lakers performances",
+    "en:e782aededd": "Fighter Jim Miller shares his fondness for Thanksgiving",
+    "ru:aa873aa5da": "Дикиджи набрал 85,46 балла в коротком прокате на токийском этапе Гран-при",
+    "ru:5c1ea8a7b4": "«Сибирь» и «Северсталь» провели обмен форвардами Воробьевым и Попугаевым",
+    "ru:a95629b486": "ЭСК РФС сочла неверным одиннадцатиметровый удар против ЦСКА в игре с «Ахматом»",
+    "ru:0e30680b6e": "Норвежка Йохауг выразила восхищение Терентьевой, вышедшей на Кубок мира после родов",
+    "ru:9fc3c058d0": "Роман Павленко назначен тренером по физической подготовке в «Локомотив»",
+    "ru:70eb2e062c": "Супруга боксера Фьюри опровергла собственное заявление о его шизофрении"
   }
 }
