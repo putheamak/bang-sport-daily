@@ -4,7 +4,7 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Marc Marquez Announces Shock MotoGP Retirement Days After Securing Record-Tying Eighth Title
+## 📝 DRAFT · Marc Marquez Announces MotoGP Retirement Days After Winning Record-Equalling Eighth Title
 `2026-11-27-news-eb82c2` · 2026-11-27
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg/1280px-Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
@@ -19,7 +19,7 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Borussia Dortmund Lead Bundesliga by Two Points as Bayern Munich Suffer Kane Injury Crisis
+## 📝 DRAFT · Dortmund Lead Bundesliga by Two Points as Kane Injury Leaves Bayern Short
 `2026-11-27-news-ae7ce9` · 2026-11-27
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg/1280px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">

@@ -1,33 +1,40 @@
-# 多特蒙德两分优势领跑德甲 拜仁遭遇凯恩重伤危机
+# 多特蒙德两分领跑德甲 凯恩伤缺拜仁雪上加霜
 
-*科瓦奇率不败之师筑起全德最强防线，孔帕尼面临拜仁八大主力缺阵困局*
+*科瓦奇麾下保持不败的多特蒙德十轮过后登顶，而孔帕尼执教的拜仁在缺少哈里·凯恩的情况下客负里尔，遭遇赛季首败。*
 
 **新闻** · 2026-11-27
 
-进入11月下旬，多特蒙德在德甲积分榜上以两分优势力压拜仁慕尼黑登顶。在尼科·科瓦奇（Niko Kovac）的率领下，这支至今保持不败的青年军正向着球队15年来的首座联赛冠军发起强力冲击。
+十轮联赛战罢，多特蒙德在德甲积分榜上确立了2分的领先优势。根据德甲官方积分榜，尼科·科瓦奇（Niko Kovač）率领的球队凭借7胜3平积24分占据榜首，领先同积22分的拜仁慕尼黑与弗赖堡。本赛季迄今，多特蒙德和拜仁在联赛中均保持不败。
 
-多特蒙德上一次捧起德甲“沙拉盘”还要追溯到2012年尤尔根·克洛普执教时期。此后他们经历了一次次功亏一篑的苦涩——无论是2023年收官战的崩盘痛失好局，还是2013年欧冠决赛在第89分钟遭拜仁绝杀。截至2026年深秋，多特与拜仁在前10轮德甲联赛中均保持不败，但科瓦奇的球队在榜首争夺中抢占了先机。
+多特蒙德上一次夺得德甲冠军还要追溯到2012年尤尔根·克洛普执教时期。而在2023年，他们在最后一轮2-2战平美因茨，在与拜仁积分相同的情况下因净胜球劣势痛失冠军。
 
-## 稳健防守颠覆底层数据逻辑
+## 稳固防守奠定榜首根基
 
-多特蒙德能够暂居榜首，很大程度上并非依靠压倒性的进攻火力，而是源自极高的防守效率。科瓦奇的球队目前仅失7球，而他们的预期失球数（xGA）实则达到13.4个；同时，大黄蜂也是本赛季德甲零封场次最多的球队。阿尔及利亚国脚拉米·本塞拜尼（Ramy Bensebaini）在每90分钟防守贡献榜上高居全联赛前十。
+多特蒙德目前的领跑局面建立在坚固的防守之上。德甲积分榜数据显示，他们十场比赛仅失7球。拜仁的进球数远超多特（拜仁打进30球，多特为17球），但因遭遇4场平局丢掉了不少积分。
 
-相比之下，多特蒙德在预期进球创造（xG）榜上仅位列德甲第13名，联赛中有7支球队的进球数超过他们。更令人意外的是，联赛创造机会前30名的球员中竟没有一名多特球员。前锋法比奥·席尔瓦（Fábio Silva）是阵中射门最频繁的球员，其每90分钟射门数排在德甲第27位。与此同时，拜仁在前10场比赛中狂轰30球，各项进攻数据均对多特形成碾压之势。
+科瓦奇同样面临伤病困扰。8月29日对阵汉堡的首秀中，扬尼斯·康斯坦特利亚斯（Giannis Konstantelias）左膝十字韧带撕裂，俱乐部表示他将伤缺数月。队长埃姆雷·詹（Emre Can）自2月28日对阵拜仁一役遭遇十字韧带撕裂后，至今仍未重返赛场。
 
-此外，多特自身也面临着伤病减员的考验。扬尼斯·康斯坦特利亚斯（Giannis Konstantelias）在9月接受前十字韧带手术后已确定赛季报销，而队长埃姆雷·詹（Emre Can）自今年春季以来便一直高挂免战牌。
+## 凯恩缺阵重创拜仁
 
-## 拜仁伤病潮敲开多特争冠之窗
+拜仁的难题在过去一周集中爆发。11月20日1-1战平科隆的比赛中，哈里·凯恩（Harry Kane）左脚踝韧带受伤并接受了手术。据ESPN报道，俱乐部表示他将“在未来几个月内缺阵”，体育总监马克斯·埃贝尔（Max Eberl）则预计伤停时间约为三个月。据半岛电视台统计，凯恩代表拜仁出战161场比赛，攻入了156球。
 
-然而，樊尚·孔帕尼（Vincent Kompany）执教的拜仁慕尼黑突遭严重伤病潮，彻底改变了争冠格局。过去四个赛季出战163场轰入156球的超级前锋哈里·凯恩，在拜仁1-1战平科隆的比赛中遭遇脚踝韧带撕裂并接受了手术，将面临数月的休战。屋漏偏逢连夜雨，拜仁随后又在周中的欧冠赛场爆冷不敌里尔。
+美联社报道称，仅仅五天后，拜仁在欧冠赛场客场1-2不敌里尔，遭遇了本赛季的首场失利。达约·于帕梅卡诺（Dayot Upamecano）为拜仁打进一球。
 
-凯恩只是拜仁长长伤病名单上的最新一人。路易斯·迪亚斯、塞尔日·格纳布里以及门神曼努埃尔·诺伊尔本赛季均长期缺阵，伊斯梅尔·赛巴里（Ismael Saibari）、迈克尔·奥利塞与阿方索·戴维斯同样在伤兵营中。贾马尔·穆西亚拉则仍在神经系统疾病的康复期中无法登场。
+樊尚·孔帕尼（Vincent Kompany）手头的伤病名单冗长。美联社和ESPN报道指出，门将曼努埃尔·诺伊尔（Manuel Neuer）高挂免战牌，迈克尔·奥利塞（Michael Olise）前足挫伤将缺席周六客战汉堡的比赛，塞尔日·格纳布里（Serge Gnabry）和阿方索·戴维斯（Alphonso Davies）均遭遇腿筋伤势，伊斯梅尔·赛巴里（Ismael Saibari）则接受了脚踝手术。好消息是，路易斯·迪亚斯（Luis Díaz）在对阵里尔的比赛中替补登场迎来复出，贾马尔·穆西亚拉（Jamal Musiala）也在最近两场比赛中连续替补出战。
 
-眼下的局面不禁让人联想起勒沃库森在2023-24赛季的神奇夺冠轨迹——当时哈维·阿隆索率队以不败战绩狂甩拜仁17分登顶，打破了南大王的国内垄断。如今凯恩缺阵、孔帕尼手握八大一线队伤员，对于坐镇威斯特法伦球场的多特蒙德而言，他们严密的防守体系将在即将到来的12月迎来终极考验，以捍卫这来之不易的两分领跑优势。
+## 周末展望
+
+11月28日星期六，拜仁将客场挑战汉堡。11月29日星期日，多特蒙德将坐镇主场迎战勒沃库森。勒沃库森深知不败夺冠的滋味：在2023-24赛季，他们以整赛季德甲不败的傲人战绩夺冠，并最终以17分的巨大优势登顶。
 
 ---
 **来源**
 
-- [Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
-- [theguardian.com](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
-- [theguardian.com](https://www.theguardian.com/sport/sport+us-sport)
-- [Arsenal.com: U19s report: Arsenal 3-2 Borussia Dortmund](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSl9wNTMtUEQxM3RhWElYTHRScmZpNGZ0M1h4bkxueE5WS0F3elRxa2hpWkJaZ1M1ZUVrbDlDUVVCVkhyeTZwVGRSUEJGYkk5S3lkQ3NzUHB6bEZMYnJCS1ZUQ1ZOWng3bzZGazFXV3ZHamR3MnRuXzNJS1c5QXFEM2lDRnpVX3dSVW40?oc=5)
+- [The Guardian: Can Borussia Dortmund finally end their title wait?](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
+- [Bundesliga.com: Bayern Munich and Borussia Dortmund, tightest title race in years](https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-tightest-title-race-in-years-26-27-39958)
+- [Bundesliga.com: Bundesliga table](https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/table)
+- [AP (via Lethbridge Herald): Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list](https://lethbridgeherald.com/sports/national-sports/2026/11/27/bayern-injury-crisis-bites-with-michael-olise-joining-harry-kane-on-injured-forwards-list/)
+- [ESPN: Kane out a 'few months' after ankle injury in Bayern draw](https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich)
+- [Al Jazeera: Harry Kane to miss 'a few months' after injury as Bayern Munich draw](https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held)
+- [BVB: Konstantelias suffers a torn cruciate ligament](https://www.bvb.de/de/en/news/news-overview/news.html/2026/8/30/Konstantelias-suffers-a-torn-cruciate-ligament.html)
+- [Wikipedia: 2022–23 Bundesliga](https://en.wikipedia.org/wiki/2022%E2%80%9323_Bundesliga)
+- [Wikipedia: 2023–24 Bayer 04 Leverkusen season](https://en.wikipedia.org/wiki/2023%E2%80%9324_Bayer_04_Leverkusen_season)

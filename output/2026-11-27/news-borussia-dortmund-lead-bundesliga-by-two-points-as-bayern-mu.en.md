@@ -1,33 +1,40 @@
-# Borussia Dortmund Lead Bundesliga by Two Points as Bayern Munich Suffer Kane Injury Crisis
+# Dortmund Lead Bundesliga by Two Points as Kane Injury Leaves Bayern Short
 
-*Niko Kovac's unbeaten side boast Germany's top defence while Vincent Kompany navigates eight major Bayern absences*
+*Niko Kovač's unbeaten side top the table after ten games, while Vincent Kompany's Bayern lost their first match of the season at Lille without Harry Kane.*
 
 **News** · 2026-11-27
 
-Borussia Dortmund entered late November holding a two-point lead over Bayern Munich at the top of the Bundesliga table, positioning Niko Kovac's unbeaten side for a run at their first German league title in 15 years.
+Borussia Dortmund lead the Bundesliga by two points after ten rounds. Niko Kovač's side have 24 points from seven wins and three draws, ahead of Bayern Munich and Freiburg on 22, according to the official Bundesliga table. Neither Dortmund nor Bayern has lost a league game this season.
 
-Dortmund last lifted the Meisterschale under Jürgen Klopp in 2012, enduring near-misses such as their final-day title collapse in 2023 and an 89th-minute defeat to Bayern in the 2013 Champions League final. Through late autumn 2026, both Dortmund and Bayern have avoided defeat across their opening 10 Bundesliga matches, but Kovac's squad holds the advantage at the summit.
+Dortmund's last German title came in 2012 under Jürgen Klopp. In 2023 they lost the title on the final day after a 2-2 draw with Mainz, when Bayern finished level on points and won on goal difference.
 
-## Resolute defence defying underlying numbers
+## Built on defence
 
-Dortmund's place atop the standings rests largely on defensive efficiency rather than attacking volume. Kovac's team has conceded only seven goals from an expected goals against (xGA) tally of 13.4, registering more clean sheets than any other Bundesliga side. Algerian international Ramy Bensebaini ranks among the league's top 10 players for defensive contributions per 90 minutes.
+Dortmund's lead rests on their defence. They have conceded only seven goals in ten games, the Bundesliga table shows. Bayern have scored far more, 30 goals to Dortmund's 17, but have dropped points in four draws.
 
-In contrast, Dortmund sit 13th in the Bundesliga for expected goals created, with seven teams scoring more goals. Dortmund do not feature a single player inside the league's top 30 for chances created. Striker Fábio Silva stands as the squad's most frequent shooter, ranking 27th in the Bundesliga for shots per 90 minutes. Bayern, meanwhile, have scored 30 goals in 10 matches while outperforming Dortmund across attacking metrics.
+Kovač is also missing players. Giannis Konstantelias tore the cruciate ligament in his left knee on his debut against Hamburg on 29 August, and the club said he would be out for several months. Captain Emre Can has not played since tearing his cruciate ligament against Bayern on 28 February.
 
-Dortmund must also navigate their own squad absences. Giannis Konstantelias was ruled out for the rest of the campaign following ACL surgery in September, while club captain Emre Can has remained sidelined since the spring.
+## Bayern without Kane
 
-## Bayern's injury crisis widens title window
+Bayern's problems have grown in the last week. Harry Kane injured ligaments in his left ankle in the 1-1 draw with Köln on 20 November and had surgery. The club said he would be out "for the next few months", and sporting director Max Eberl spoke of about three months, ESPN reported. Kane has scored 156 goals in 161 games for Bayern, according to Al Jazeera.
 
-The title race has tilted following significant personnel losses for Vincent Kompany's Bayern Munich. Striker Harry Kane, who has tallied 156 goals in 163 appearances over the past four seasons, underwent surgery on torn ankle ligaments suffered during a 1-1 draw with Cologne and faces several months out. Bayern followed that domestic setback with a midweek Champions League defeat against Lille.
+Five days later Bayern lost 2-1 at Lille in the Champions League, their first defeat of the season, AP reported. Dayot Upamecano scored for Bayern.
 
-Kane joins an extensive injury list in Munich. Luis Díaz, Serge Gnabry, and goalkeeper Manuel Neuer have missed substantial portions of the campaign, alongside absences for Ismael Saibari, Michael Olise, and Alphonso Davies. Jamal Musiala remains unavailable while recovering from a neurological condition.
+Vincent Kompany's injury list is long. Goalkeeper Manuel Neuer is out, Michael Olise has a bruised forefoot and will miss Saturday's trip to Hamburg, Serge Gnabry and Alphonso Davies have hamstring injuries, and Ismael Saibari has had ankle surgery, according to AP and ESPN. There is better news on Luis Díaz, who returned as a substitute at Lille, and Jamal Musiala, who has come off the bench in the last two matches.
 
-The scenario draws comparisons to Bayer Leverkusen's 2023-24 title campaign, where Xabi Alonso's side stayed unbeaten and finished 17 points ahead to break Bayern's domestic monopoly. With Kane sidelined and Kompany managing eight first-team absences, Dortmund's defensive structure at the Westfalenstadion faces its defining test to protect their two-point cushion heading into December.
+## The weekend ahead
+
+Bayern play at Hamburger SV on Saturday, 28 November. Dortmund host Bayer Leverkusen on Sunday, 29 November. Leverkusen know what an unbeaten title run looks like: in 2023-24 they went through the Bundesliga season without a defeat and finished 17 points clear.
 
 ---
 **Sources**
 
-- [Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
-- [theguardian.com](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
-- [theguardian.com](https://www.theguardian.com/sport/sport+us-sport)
-- [Arsenal.com: U19s report: Arsenal 3-2 Borussia Dortmund](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSl9wNTMtUEQxM3RhWElYTHRScmZpNGZ0M1h4bkxueE5WS0F3elRxa2hpWkJaZ1M1ZUVrbDlDUVVCVkhyeTZwVGRSUEJGYkk5S3lkQ3NzUHB6bEZMYnJCS1ZUQ1ZOWng3bzZGazFXV3ZHamR3MnRuXzNJS1c5QXFEM2lDRnpVX3dSVW40?oc=5)
+- [The Guardian: Can Borussia Dortmund finally end their title wait?](https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga)
+- [Bundesliga.com: Bayern Munich and Borussia Dortmund, tightest title race in years](https://www.bundesliga.com/en/bundesliga/news/bayern-munich-borussia-dortmund-tightest-title-race-in-years-26-27-39958)
+- [Bundesliga.com: Bundesliga table](https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund/table)
+- [AP (via Lethbridge Herald): Bayern injury crisis bites with Michael Olise joining Harry Kane on injured forwards list](https://lethbridgeherald.com/sports/national-sports/2026/11/27/bayern-injury-crisis-bites-with-michael-olise-joining-harry-kane-on-injured-forwards-list/)
+- [ESPN: Kane out a 'few months' after ankle injury in Bayern draw](https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich)
+- [Al Jazeera: Harry Kane to miss 'a few months' after injury as Bayern Munich draw](https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held)
+- [BVB: Konstantelias suffers a torn cruciate ligament](https://www.bvb.de/de/en/news/news-overview/news.html/2026/8/30/Konstantelias-suffers-a-torn-cruciate-ligament.html)
+- [Wikipedia: 2022–23 Bundesliga](https://en.wikipedia.org/wiki/2022%E2%80%9323_Bundesliga)
+- [Wikipedia: 2023–24 Bayer 04 Leverkusen season](https://en.wikipedia.org/wiki/2023%E2%80%9324_Bayer_04_Leverkusen_season)
