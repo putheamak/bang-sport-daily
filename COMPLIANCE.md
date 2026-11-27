@@ -52,6 +52,11 @@ Quality matters more than quantity.
 
 - **Facebook monetization** excludes "unoriginal content". Post your own stories and summaries, not copies of other outlets' posts.
 - **Telegram** channel ads and revenue sharing have their own rules. Keep posts free of gambling promotion and misleading claims.
+- **Voiced Reels (27 Nov 2026, editor):** only on the editor's request, for big names with enough free photos; normal
+  stories keep the plain Facebook post text. Reason: free video-safe photos (no share-alike) exist mainly for famous
+  athletes (Davis Cup players: all CC BY-SA), and a Reel without real photos adds little. The voice is AI: say so in the
+  caption and use Meta's "AI info" label; the script uses only facts from the reviewed story; each take is checked by a
+  transcript (on 27 Nov a voice read its instruction aloud).
 - **Betting.** Betting content is blocked in `config.yaml`. Gambling ads and content are restricted almost everywhere, including AdSense.
 
 ## 6. Ongoing habits

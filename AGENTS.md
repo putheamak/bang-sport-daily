@@ -17,6 +17,12 @@ stop and ask the editor.** When in doubt, do not publish.
    90 min) and never 05:00–06:00 Phnom Penh time (editor, 26 Nov 2026: night posts 00:00–05:00 allowed, was
    00:00–06:00 quiet) (`facebook_gap_minutes`, `facebook_quiet_hours`): a batch is *scheduled* on the Page, not
    posted at once. Don't bypass the spacing. The editor can re-order the queue with `facebook.yml` mode `requeue`.
+   **Voiced Reels (AI presenter, photos or our own graphics) are made only when the editor asks**, for a story about
+   a big name with enough free photos (editor, 27 Nov 2026). Never make one on your own. For every other story the
+   usual Facebook post text is written for the editor, as before. How: script `voiceover/<id>.en.txt` (facts only from
+   the reviewed story), captions `<id>.en.captions.txt`, pictures `<id>.photos.yaml` (Commons CC0/PD/CC BY only, or our
+   own graphics), then run `voiceover.yml` (male voice Charon preferred); find free photos with `reel-photos.yml`. Every
+   take is checked by a transcript; say "AI voice" in the caption and use Meta's "AI info" label.
    Facebook itself sometimes notifies the editor with a "Create event" form built from one of our posts (its own
    suggestion, with a made-up date). Nothing is created until someone clicks "Create event". Tell the editor to
    close it, and never create Facebook events from stories. Events only for real dated happenings (a watch
