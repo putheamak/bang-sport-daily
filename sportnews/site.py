@@ -371,7 +371,7 @@ def _page(cfg, lang, title, desc, body, alternates: dict[str, str], canonical: s
   <div><a class="brand light" href="index.html"><b>BANG</b><span>SPORT</span><i>DAILY</i></a>
        <p>{E(_tagline(cfg, lang))}</p></div>
   <div><h4>{UI2[lang]['sections']}</h4><ul>{foot_sections}</ul></div>
-  <div><h4>{E(_site_name(cfg, lang))}</h4><ul><li><a href="about.html">{UI[lang]['about']}</a></li>
+  <div><h4>{E(_site_name(cfg, lang))}</h4><ul><li><a href="about.html">{UI[lang]['about']}</a></li>{f'<li><a href="author.html">{AUTHOR_T[lang]}</a></li>' if byline_mode(cfg) != "pen_names" else ""}
        <li><a href="editorial.html">{LEGAL_T["editorial"][lang]}</a></li><li><a href="contact.html">{LEGAL_T["contact"][lang]}</a></li>
        <li><a href="privacy.html">{LEGAL_T["privacy"][lang]}</a></li><li><a href="terms.html">{LEGAL_T["terms"][lang]}</a></li>
        <li><a href="feed.xml">RSS</a></li>
@@ -619,7 +619,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
   {f'<p class="dek">{E(L["subheadline"])}</p>' if L.get('subheadline') else ''}
   <div class="byline">
     <span class="mono k-{key}">{E(initials(name))}</span>
-    <div><b>{E(name)}</b> · {E(columnist(cfg, a).get('beat_' + lang, ''))}<br>
+    <div><b>{f'<a href="author.html">{E(name)}</a>' if byline_mode(cfg) != "pen_names" else E(name)}</b> · {E(columnist(cfg, a).get('beat_' + lang, ''))}<br>
       <small><time>{fmt_date(a['date'], lang)}</time> · {read_minutes(L, lang)} {UI2[lang]['read']} ·
       <a href="{note_link(cfg)}">{E(byline_note(cfg, lang))}</a></small></div>
   </div>
