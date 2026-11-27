@@ -1523,3 +1523,11 @@ def test_voice_reel_timing():
     assert st[0] == 0 and st == sorted(st) and len(st) == 4
     assert st[1] == 1.9 and st[2] == 4.1 and st[3] == 15.2          # pauses near the estimates are used
     assert boundaries(paras, 20.0, [])[3] > 10                       # no pauses: length-based estimate
+
+
+def test_voice_take_check():
+    from sportnews.voiceover import check_take
+    script = "Forty-seven trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com."
+    assert check_take(script, "Forty-seven trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]
+    assert check_take(script, "47 trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]
+    assert not check_take(script, "Text to read. Forty-seven trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]

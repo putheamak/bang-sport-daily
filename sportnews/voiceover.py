@@ -29,9 +29,10 @@ SCRIPTS = ROOT / "voiceover"
 OUT = ROOT / "output" / "voice"
 LEAD_IN = 1.3          # seconds of the "Bang" logo before the voice starts
 TAIL = 2.2             # seconds after the voice (closing sting + fade)
-STYLE = ("Read this as a professional sports news presenter on international TV: clear, warm and confident, "
-         "steady pace, natural pauses between sentences, neutral accent, never shouting or over-dramatic. "
-         "Read every name carefully. Text to read:\n\n")
+# 27 Nov 2026: a long instruction ending "Text to read:" was once read aloud by the female voice. Now a short
+# "Say ...:" line (the form Gemini's speech models expect) and every take is checked by a transcript (check_take).
+STYLE = "Say in a calm, warm, professional TV sports news presenter voice:\n"
+LEAK = re.compile(r"text to read|presenter|say in a|news presenter voice|professional tv", re.I)
 FALLBACK_MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-pro-preview-tts"]
 
 
@@ -85,6 +86,54 @@ def speak(text: str, voice: str) -> tuple[bytes, int, str]:
     raise RuntimeError("Text-to-speech failed: " + " | ".join(errors))
 
 
+def transcribe(pcm: bytes, rate: int) -> str:
+    """What the voice really says (Gemini listens to the audio)."""
+    import io
+    from .common import load_config
+    from .llm import generate
+    buf = io.BytesIO()
+    with wave.open(buf, "wb") as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(rate)
+        w.writeframes(pcm)
+    text, _, _ = generate(load_config(), "You transcribe audio exactly. Output only the spoken words.",
+                          "Transcribe this audio word for word.", images=[(buf.getvalue(), "audio/wav")])
+    return " ".join((text or "").split())
+
+
+def check_take(script: str, heard: str) -> tuple[bool, str]:
+    """A take is good when it says the script (numbers may be written as digits) and nothing of the instruction."""
+    from rapidfuzz import fuzz
+    if LEAK.search(heard) and not LEAK.search(script):
+        return False, "instruction read aloud: " + LEAK.search(heard).group(0)
+    words = lambda t: re.sub(r"[^a-z ]+", " ", t.lower()).split()      # noqa: E731
+    a, b = " ".join(words(script)), " ".join(words(heard))
+    score = fuzz.ratio(a, b)
+    extra = len(words(heard)) - len(words(script))
+    if extra > 6 and score < 80:
+        return False, f"{extra} extra words (match {score:.0f}%)"
+    return True, f"match {score:.0f}%"
+
+
+def take(text: str, voice: str, tries: int = 3) -> tuple[bytes, int, str]:
+    """Speak, listen back, and try again (up to 3 times) if the voice read anything that is not in the script."""
+    last = None
+    for n in range(1, tries + 1):
+        pcm, rate, model = speak(text, voice)
+        last = (pcm, rate, model)
+        try:
+            heard = transcribe(pcm, rate)
+        except Exception as e:  # noqa: BLE001
+            log.warning("Voice check skipped (%s): %s", voice, str(e)[:150])
+            return last
+        ok, why = check_take(text, heard)
+        log.info("Voice take %d (%s): %s — heard: %s", n, voice, "OK" if ok else "REDO, " + why, heard[:160])
+        if ok:
+            return last
+    raise RuntimeError(f"Voice {voice}: every take read something that is not in the script ({why})")
+
+
 def _write_wav(path: Path, pcm: bytes, rate: int) -> float:
     with wave.open(str(path), "wb") as w:
         w.setnchannels(1)
@@ -128,7 +177,7 @@ def run(ids: list[str], voices: list[str]) -> list[Path]:
             continue
         text = script_for(sid)
         for voice in voices:
-            pcm, rate, model = speak(text, voice)
+            pcm, rate, model = take(text, voice)
             with tempfile.TemporaryDirectory() as tmp:
                 wav = Path(tmp) / "voice.wav"
                 secs = _write_wav(wav, pcm, rate)
