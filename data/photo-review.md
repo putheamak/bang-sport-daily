@@ -64,7 +64,7 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="../docs/photos/c/952c80389c2ac775-640.jpg" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Marc Marquez at the 2026 Spanish Grand Prix**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg)
+**1. ⚪ not checked** · cover<br>Caption: **Marc Marquez at the 2026 Spanish Grand Prix**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg)
 <br clear="left">
 
 🔗 Embedded post: [MotoGP (official Facebook page)](https://www.facebook.com/reel/1209291261533641/) — {'en': 'MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia', 'zh': 'MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役', 'ru': 'Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии'}

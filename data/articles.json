@@ -439,16 +439,7 @@
         "height": 1665,
         "year": 2026,
         "subject": "Marc Marquez at the 2026 Spanish Grand Prix",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:marc_marquez_at_the_2026_spanish_grand_prix_(cropped).jpg|Marc Marquez at the 2026 Spanish Grand Prix",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
+        "editor": true
       }
     ],
     "standards": [
@@ -464,17 +455,18 @@
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/reel/1209291261533641/",
-        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1209291261533641%2F&show_text=true&width=500",
+        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1209291261533641%2F&show_text=true&width=267&height=476",
         "caption": {
           "en": "MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia",
           "zh": "MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役",
           "ru": "Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии"
         },
         "account": "MotoGP (official Facebook page)",
-        "height": 640
+        "height": 591,
+        "vertical": true
       }
     ],
-    "photos_override": "{\"embeds\": [{\"account\": \"MotoGP (official Facebook page)\", \"caption\": {\"en\": \"MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia\", \"ru\": \"Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии\", \"zh\": \"MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役\"}, \"url\": \"https://www.facebook.com/reel/1209291261533641/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"Marc Marquez at the 2026 Spanish Grand Prix\", \"commons\": \"File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg\"}]}",
+    "photos_override": "{\"embeds\": [{\"account\": \"MotoGP (official Facebook page)\", \"caption\": {\"en\": \"MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia\", \"ru\": \"Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии\", \"zh\": \"MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役\"}, \"height\": 591, \"url\": \"https://www.facebook.com/reel/1209291261533641/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"Marc Marquez at the 2026 Spanish Grand Prix\", \"commons\": \"File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg\"}]}",
     "published_at": "2026-11-27T19:26:42+07:00"
   },
   {
@@ -3138,20 +3130,21 @@
         "msg": "2 weaker source(s) (blog/social). Do not rely on them alone"
       }
     ],
-    "photos_override": "{\"embeds\": [{\"account\": \"CNA (official Facebook page)\", \"caption\": {\"en\": \"CNA video: David Beckham's surprise visit to Bedok South Secondary School\", \"ru\": \"Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут\", \"zh\": \"CNA视频：贝克汉姆突访勿洛南中学\"}, \"url\": \"https://www.facebook.com/reel/1982174182757033/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"David Beckham\", \"commons\": \"File:David_Beckham_UNICEF_(cropped2).jpg\"}, {\"caption\": \"Singapore goalkeeper Hassan Sunny\", \"commons\": \"File:HassanSunny.jpg\"}]}",
+    "photos_override": "{\"embeds\": [{\"account\": \"CNA (official Facebook page)\", \"caption\": {\"en\": \"CNA video: David Beckham's surprise visit to Bedok South Secondary School\", \"ru\": \"Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут\", \"zh\": \"CNA视频：贝克汉姆突访勿洛南中学\"}, \"height\": 591, \"url\": \"https://www.facebook.com/reel/1982174182757033/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"David Beckham\", \"commons\": \"File:David_Beckham_UNICEF_(cropped2).jpg\"}, {\"caption\": \"Singapore goalkeeper Hassan Sunny\", \"commons\": \"File:HassanSunny.jpg\"}]}",
     "published_at": "2026-11-26T16:31:47+07:00",
     "embeds": [
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/reel/1982174182757033/",
-        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1982174182757033%2F&show_text=true&width=500",
+        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1982174182757033%2F&show_text=true&width=267&height=476",
         "caption": {
           "en": "CNA video: David Beckham's surprise visit to Bedok South Secondary School",
           "zh": "CNA视频：贝克汉姆突访勿洛南中学",
           "ru": "Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут"
         },
         "account": "CNA (official Facebook page)",
-        "height": 640
+        "height": 591,
+        "vertical": true
       }
     ]
   },
@@ -3599,17 +3592,18 @@
       {
         "platform": "Facebook",
         "url": "https://www.facebook.com/reel/1012398621820953/",
-        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1012398621820953%2F&show_text=true&width=500",
+        "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1012398621820953%2F&show_text=true&width=267&height=476",
         "caption": {
           "en": "Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)",
           "zh": "万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）",
           "ru": "«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)"
         },
         "account": "Boeung Ket Football Club (official Facebook page)",
-        "height": 640
+        "height": 591,
+        "vertical": true
       }
     ],
-    "photos_override": "{\"embeds\": [{\"account\": \"Cambodian Premier League (@the_official_cpl)\", \"caption\": {\"en\": \"Chan Vathanaka in an official Cambodian Premier League post\", \"ru\": \"Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги\", \"zh\": \"柬埔寨超级联赛官方帖子中的占·瓦塔纳卡\"}, \"url\": \"https://www.instagram.com/p/DdeH7JXgVxy/\"}, {\"account\": \"Boeung Ket Football Club (official Facebook page)\", \"caption\": {\"en\": \"Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)\", \"ru\": \"«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)\", \"zh\": \"万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）\"}, \"url\": \"https://www.facebook.com/reel/1012398621820953/\"}]}"
+    "photos_override": "{\"embeds\": [{\"account\": \"Cambodian Premier League (@the_official_cpl)\", \"caption\": {\"en\": \"Chan Vathanaka in an official Cambodian Premier League post\", \"ru\": \"Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги\", \"zh\": \"柬埔寨超级联赛官方帖子中的占·瓦塔纳卡\"}, \"url\": \"https://www.instagram.com/p/DdeH7JXgVxy/\"}, {\"account\": \"Boeung Ket Football Club (official Facebook page)\", \"caption\": {\"en\": \"Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)\", \"ru\": \"«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)\", \"zh\": \"万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）\"}, \"height\": 591, \"url\": \"https://www.facebook.com/reel/1012398621820953/\"}]}"
   },
   {
     "id": "2026-11-25-news-e226ae",
