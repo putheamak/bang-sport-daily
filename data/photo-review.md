@@ -4,28 +4,27 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up
+## ✅ live · Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up
 `2026-11-27-news-cbc2c5` · 2026-11-27
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Go_Kuroda_2025.jpg/1280px-Go_Kuroda_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/cabdbf6013186116-640.jpg" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Machida Zelvia coach Go Kuroda**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Go_Kuroda_2025.jpg)<br>AI sees: _Go Kuroda being interviewed at a football match_
+**1. ⚪ not checked** · cover<br>Caption: **Machida Zelvia coach Go Kuroda**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Go_Kuroda_2025.jpg)
 <br clear="left">
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/f786a226409815e9-640.jpg" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
+**2. ⚪ not checked**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-27-news-cbc2c5.png" width="240" align="left" hspace="10">
 
-**4. 🟢 our score card**<br>Caption: **Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two**<br>2026 · Own work
+**3. 🟢 our score card**<br>Caption: **Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two**<br>2026 · Own work
 <br clear="left">
+
+🔗 Embedded post: [PKR Svay Rieng FC (@pkrsvr_fc_official)](https://www.instagram.com/reel/DgOf5_pgmUm/) — {'en': "Svay Rieng's official Instagram reel after the 2-0 win over Machida Zelvia", 'zh': '柴桢俱乐部官方Instagram视频：2-0战胜町田泽维亚', 'ru': 'Видео из официального Instagram «Свайриенга» после победы над «Матидой Зельвией» 2:0'}
+
+🔗 Embedded post: [PKR Svay Rieng FC (@pkrsvr_fc_official)](https://www.instagram.com/reel/DgOqld1memU/) — {'en': 'Another official Svay Rieng reel from the night they beat Machida Zelvia', 'zh': '柴桢俱乐部官方Instagram视频：击败町田泽维亚之夜', 'ru': 'Ещё одно видео «Свайриенга» из официального Instagram с вечера победы над «Матидой Зельвией»'}
 
 ---
 

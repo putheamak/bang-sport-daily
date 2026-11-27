@@ -5,7 +5,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T13:27:09+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "editor",
     "sport": "football",
     "tags": [
@@ -221,7 +221,20 @@
         "url": "https://africa.espn.com/football/match/_/gameId/401912754"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-27T15:09:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-27T15:09:40+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-27T15:09:40+07:00"
+      }
+    ],
     "en": {
       "headline": "Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up",
       "subheadline": "Svay Rieng beat Japan's Machida Zelvia 2-0 in Phnom Penh, Phnom Penh Crown lost 3-0 in Malaysia, and both Cambodian clubs still lead their own fate into the final round",
@@ -270,16 +283,7 @@
         "subject": "Machida Zelvia coach Go Kuroda",
         "asked": "Go Kuroda",
         "page_title": "Go Kuroda",
-        "editor": false,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:go_kuroda_2025.jpg|Machida Zelvia coach Go Kuroda",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "Go Kuroda being interviewed at a football match",
-          "reason": "The photo clearly shows football manager Go Kuroda being interviewed at a stadium.",
-          "by": "ai"
-        }
+        "editor": false
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -292,38 +296,7 @@
         "height": 930,
         "year": 2026,
         "subject": "Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:safawi_rasid.png|Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
-        "artist": "中国新闻社",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-        "description": "Morodok Techno Stadium in 2021",
-        "width": 1200,
-        "height": 706,
-        "year": 2021,
-        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
+        "editor": true
       },
       {
         "url": "../photos/card-2026-11-27-news-cbc2c5.png",
@@ -340,12 +313,39 @@
       }
     ],
     "standards": [],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Machida Zelvia coach Go Kuroda\", \"wikipedia\": \"Go Kuroda\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}",
+    "photos_override": "{\"embeds\": [{\"account\": \"PKR Svay Rieng FC (@pkrsvr_fc_official)\", \"caption\": {\"en\": \"Svay Rieng's official Instagram reel after the 2-0 win over Machida Zelvia\", \"ru\": \"Видео из официального Instagram «Свайриенга» после победы над «Матидой Зельвией» 2:0\", \"zh\": \"柴桢俱乐部官方Instagram视频：2-0战胜町田泽维亚\"}, \"url\": \"https://www.instagram.com/reel/DgOf5_pgmUm/\"}, {\"account\": \"PKR Svay Rieng FC (@pkrsvr_fc_official)\", \"caption\": {\"en\": \"Another official Svay Rieng reel from the night they beat Machida Zelvia\", \"ru\": \"Ещё одно видео «Свайриенга» из официального Instagram с вечера победы над «Матидой Зельвией»\", \"zh\": \"柴桢俱乐部官方Instagram视频：击败町田泽维亚之夜\"}, \"url\": \"https://www.instagram.com/reel/DgOqld1memU/\"}], \"mode\": \"replace\", \"photos\": [{\"caption\": \"Machida Zelvia coach Go Kuroda\", \"wikipedia\": \"Go Kuroda\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}]}",
     "updated_at": "2026-11-27T14:50:55+07:00",
     "lang_updated": {
       "zh": "2026-11-27T14:50:55+07:00",
       "ru": "2026-11-27T14:50:55+07:00"
-    }
+    },
+    "embeds": [
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DgOf5_pgmUm/",
+        "src": "https://www.instagram.com/reel/DgOf5_pgmUm/embed/captioned/",
+        "caption": {
+          "en": "Svay Rieng's official Instagram reel after the 2-0 win over Machida Zelvia",
+          "zh": "柴桢俱乐部官方Instagram视频：2-0战胜町田泽维亚",
+          "ru": "Видео из официального Instagram «Свайриенга» после победы над «Матидой Зельвией» 2:0"
+        },
+        "account": "PKR Svay Rieng FC (@pkrsvr_fc_official)",
+        "height": 720
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/reel/DgOqld1memU/",
+        "src": "https://www.instagram.com/reel/DgOqld1memU/embed/captioned/",
+        "caption": {
+          "en": "Another official Svay Rieng reel from the night they beat Machida Zelvia",
+          "zh": "柴桢俱乐部官方Instagram视频：击败町田泽维亚之夜",
+          "ru": "Ещё одно видео «Свайриенга» из официального Instagram с вечера победы над «Матидой Зельвией»"
+        },
+        "account": "PKR Svay Rieng FC (@pkrsvr_fc_official)",
+        "height": 720
+      }
+    ],
+    "published_at": "2026-11-27T15:09:40+07:00"
   },
   {
     "id": "2026-11-27-athl-9e7b9b",
