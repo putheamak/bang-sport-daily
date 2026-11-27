@@ -406,11 +406,16 @@
         ru: "Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут"
 
 # 27 Nov 2026: the automatic "Martins Júnior" photo was again the 19th-century Brazilian doctor (photo check: WRONG).
-# Replaced by Kuching City's first scorer (cover: Morodok Techo is already a recent cover) and the venue of
-# Svay Rieng 2-0 Machida (the match card stays).
+# Editor's cover ideas (ACL Two logo: not a free licence; Jeddah stadium: not this match; AFC website photos: not
+# allowed) could not be used. Cover: free Wikipedia photo of Machida's coach or Duke (checked by the photo check),
+# then Safawi Rasid and Morodok Techo (the match card stays).
 2026-11-27-news-cbc2c5:
   mode: replace
   photos:
+    - wikipedia: "Go Kuroda"
+      caption: "Machida Zelvia coach Go Kuroda"
+    - wikipedia: "Mitchell Duke"
+      caption: "Machida Zelvia forward Mitchell Duke"
     - commons: "File:Safawi_Rasid.png"
       caption: "Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown"
     - commons: "File:Morodok_Techno_Stadium_in_2021.png"
