@@ -1,13 +1,19 @@
-2026-11-27 03:39:26,114 INFO Corrected English for 2026-11-27-athl-9e7b9b
-2026-11-27 03:39:26,114 INFO Added zh translation for 2026-11-27-athl-9e7b9b
-2026-11-27 03:39:26,114 INFO Added ru translation for 2026-11-27-athl-9e7b9b
-2026-11-27 03:39:26,136 INFO Corrected English for 2026-11-27-news-bcbdd0
-2026-11-27 03:39:26,136 INFO Added zh translation for 2026-11-27-news-bcbdd0
-2026-11-27 03:39:26,136 INFO Added ru translation for 2026-11-27-news-bcbdd0
-2026-11-27 03:39:26,777 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-27 03:39:34,434 INFO Photo check 2026-11-27-news-bcbdd0 #1 'Kwon Soon-woo': OK
-2026-11-27 03:39:34,605 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-27
-2026-11-27 03:39:36,380 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-27 03:39:37,617 INFO Website built: 100 published stories, 348 pages
-2026-11-27 03:39:37,617 INFO Imported 2 editor's article(s): 2026-11-27-athl-9e7b9b, 2026-11-27-news-bcbdd0
-2026-11-27 03:39:37,619 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 48 ok / 0 failed (86,312 in / 89,467 out tokens) · estimated cost if billed: US$0.400
+2026-11-27 06:25:46,691 INFO Importing editor's article: 2026-11-27-acl-two-matchday-5-roundup.md
+2026-11-27 06:25:46,691 INFO Adapting to zh, ru ...
+2026-11-27 06:25:47,258 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-27 06:27:09,417 INFO Looking up photos for 2026-11-27-news-cbc2c5: ['Morodok Techo National Stadium', 'FC Machida Zelvia', 'Kuching City F.C.', 'Phnom Penh Crown FC', 'Martins Júnior', 'Tiago Alves']
+2026-11-27 06:27:09,841 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
+2026-11-27 06:27:09,842 INFO Photo for 'Morodok Techo National Stadium': Morodok_Techno_Stadium_in_2021.png (中国新闻社, CC BY-SA 3.0)
+2026-11-27 06:27:09,995 WARNING No free-licence photo for 'FC Machida Zelvia' (FC_Machida_Zelvia_(logo).svg)
+2026-11-27 06:27:10,154 WARNING No free-licence photo for 'Kuching City F.C.' (Logo_Kuching_City_FC.jpg)
+2026-11-27 06:27:11,072 INFO Photo check Dr._Martins_Junior.jpg (Wikimedia Commons, 573x728): OK, licence 'Public domain'
+2026-11-27 06:27:11,072 INFO Photo for 'Martins Júnior': Dr._Martins_Junior.jpg (Unknown author Unknown author, Public domain)
+2026-11-27 06:27:11,675 INFO Match card added to 2026-11-27-news-cbc2c5
+2026-11-27 06:27:11,710 INFO Cover photo of 2026-11-27-news-cbc2c5 changed: another story already uses that picture
+2026-11-27 06:27:18,589 INFO Photo check 2026-11-27-news-cbc2c5 #1 'Martins Júnior': WRONG — looks like a drawing / old portrait (Dr.)
+2026-11-27 06:27:26,631 INFO Photo check 2026-11-27-news-cbc2c5 #2 'Morodok Techo National Stadium': OK
+2026-11-27 06:27:26,915 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-27
+2026-11-27 06:27:29,170 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-27 06:27:31,172 INFO Website built: 102 published stories, 354 pages
+2026-11-27 06:27:31,172 INFO Imported 1 editor's article(s): 2026-11-27-news-cbc2c5
+2026-11-27 06:27:31,174 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 51 ok / 0 failed (92,169 in / 99,588 out tokens) · estimated cost if billed: US$0.443
