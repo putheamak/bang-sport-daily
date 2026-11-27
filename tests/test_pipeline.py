@@ -1298,6 +1298,14 @@ def test_transliteration_and_live_updates():
     from sportnews.pipeline import LIVE, PREVIEW
     assert not name_mismatch("Lechi Sadulaev", "Lechi Sadulayev")
     assert name_mismatch("Navajo Stirling", "Aljamain Sterling")
+    assert not name_mismatch("Soonwoo Kwon", "Kwon Soon-woo")       # joined / split Korean given name
+    assert not name_mismatch("Kwon Soon-woo", "Soonwoo Kwon")
+    assert name_mismatch("Soonwoo Kwon", "Kwon Hyuk")
+    from sportnews.photocheck import needs_check
+    im = {"url": "x", "asked": "Soonwoo Kwon", "page_title": "Kwon Soon-woo", "subject": "Kwon Soon-woo",
+          "check": {"v": 99, "key": "k", "verdict": "wrong",
+                    "flags": ["asked for 'Soonwoo Kwon' but the photo comes from the page 'Kwon Soon-woo'"]}}
+    assert needs_check(im)                                             # old false alarm gets looked at again
     assert LIVE.search("ЦСКА — «Ахмат»: Мелкадзе удвоил преимущество грозненцев на 63-й минуте")
     assert LIVE.search("ЦСКА – «Ахмат» — 0:2. Грозненцы забили второй гол в матче РПЛ. Видео")
     assert not LIVE.search("Lauren Price beats Kotaskova to become undisputed champion")

@@ -39,11 +39,14 @@ def _norm(s: str) -> str:
 def name_mismatch(asked: str, got: str) -> bool:
     """True when the Wikipedia page we got is clearly not the subject we asked for (e.g. asked 'Navajo Stirling',
     got 'Aljamain Sterling'; asked 'Carlos Ulberg', got a page about motorcycle stunts). Accents, brackets and
-    word order are ignored; every word of the shorter name must appear in the longer one."""
-    a, g = set(_norm(asked).split()), set(_norm(got).split())
+    word order are ignored; every word of the shorter name must appear in the longer one. Joined and split spellings
+    count as the same name (27 Nov 2026: 'Soonwoo Kwon' = 'Kwon Soon-woo', Korean names are written both ways)."""
+    al, gl = _norm(asked).split(), _norm(got).split()
+    a, g = set(al), set(gl)
     if not a or not g:
         return False
     small, big = (a, g) if len(a) <= len(g) else (g, a)
+    big = big | {x + y for x, y in zip(al, al[1:])} | {x + y for x, y in zip(gl, gl[1:])}
     from rapidfuzz import fuzz                     # transliteration: Sadulaev / Sadulayev, Nurmagomedov / Nurmagomedow
     return not all(w in big or any(fuzz.ratio(w, x) >= 85 for x in big) for w in small)
 
@@ -144,6 +147,9 @@ def needs_check(im: dict) -> bool:
     if not im.get("url") or im.get("card"):
         return False                                  # our own score card: always correct
     c = im.get("check") or {}
+    if any(str(f).startswith("asked for") for f in c.get("flags") or []) \
+            and not name_mismatch(im.get("asked") or "", im.get("page_title") or im.get("subject") or ""):
+        return True                                   # the name rule was improved since: look again
     return c.get("v") != CHECK_VERSION or c.get("key") != _key(im)
 
 
