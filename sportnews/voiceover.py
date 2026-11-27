@@ -48,7 +48,8 @@ def _tts_models(client) -> list[str]:
     except Exception as e:  # noqa: BLE001
         log.warning("Could not list Gemini models: %s", str(e)[:150])
         names = []
-    tts = [n for n in names if "tts" in n]
+    log.info("Gemini models: %s", ", ".join(names))
+    tts = [n for n in names if any(k in n for k in ("tts", "speech", "audio"))]
 
     def rank(n: str) -> tuple:
         v = re.search(r"(\d+(?:\.\d+)?)", n)
@@ -62,21 +63,23 @@ def speak(text: str, voice: str) -> tuple[bytes, int, str]:
     from google.genai import types
     client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"))
     errors = []
+    speech = types.SpeechConfig(voice_config=types.VoiceConfig(
+        prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice)))
     for model in _tts_models(client):
-        try:
-            resp = client.models.generate_content(
-                model=model, contents=STYLE + text,
-                config=types.GenerateContentConfig(
-                    response_modalities=["AUDIO"],
-                    speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
-                        prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice)))))
-            part = resp.candidates[0].content.parts[0].inline_data
-            rate = int((re.search(r"rate=(\d+)", part.mime_type or "") or [0, 24000])[1])
-            if part.data:
-                return part.data, rate, model
-            errors.append(f"{model}: empty audio")
-        except Exception as e:  # noqa: BLE001
-            errors.append(f"{model}: {str(e)[:160]}")
+        for sc in (speech, None):                   # None: the model's default voice, if the voice setting is refused
+            try:
+                resp = client.models.generate_content(
+                    model=model, contents=STYLE + text,
+                    config=types.GenerateContentConfig(response_modalities=["AUDIO"], speech_config=sc))
+                part = resp.candidates[0].content.parts[0].inline_data
+                rate = int((re.search(r"rate=(\d+)", part.mime_type or "") or [0, 24000])[1])
+                if part.data:
+                    if sc is None:
+                        log.warning("%s: voice %s refused, default voice used", model, voice)
+                    return part.data, rate, model
+                errors.append(f"{model}: empty audio")
+            except Exception as e:  # noqa: BLE001
+                errors.append(f"{model}{'' if sc else ' (default voice)'}: {str(e)[:300]}")
     raise RuntimeError("Text-to-speech failed: " + " | ".join(errors))
 
 
