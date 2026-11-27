@@ -1,8 +1,43 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Marc Marquez Announces Shock MotoGP Retirement Days After Securing Record-Tying Eighth Title
+`2026-11-27-news-eb82c2` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg/1280px-Marc_Marquez_at_the_2026_Spanish_Grand_Prix_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Marc Márquez**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg)<br>AI sees: _Marc Márquez in Ducati Corse team kit_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Ducati_350_cc_racer_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🔴 WRONG**<br>Caption: **Ducati Corse**<br>Asked for: Ducati Lenovo Team → got page: Ducati Corse<br>2010 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Ducati_350_cc_racer_1968.jpg)<br>AI sees: _A vintage 1968 Ducati 350 cc racing motorcycle_<br>Why: This is a vintage 1960s motorcycle, completely unrelated to modern MotoGP or the Ducati Corse racing team.<br>⚑ asked for 'Ducati Lenovo Team' but the photo comes from the page 'Ducati Corse'
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Borussia Dortmund Lead Bundesliga by Two Points as Bayern Munich Suffer Kane Injury Crisis
+`2026-11-27-news-ae7ce9` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg/1280px-FC_Salzburg_gegen_GNK_Dinamo_Zagreb_%282024-10-23_Championsleague_Dritte_Runde%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Niko Kovač**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:FC_Salzburg_gegen_GNK_Dinamo_Zagreb_(2024-10-23_Championsleague_Dritte_Runde)_04.jpg)<br>AI sees: _Niko Kovač at a football stadium_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg/1280px-Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Harry Kane**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-024_(cropped).jpg)<br>AI sees: _Harry Kane wearing an England national team kit_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Signal_iduna_park_stadium_dortmund_4.jpg/1280px-Signal_iduna_park_stadium_dortmund_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Westfalenstadion**<br>2019 · CC BY-SA 3.0 de · [source](https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_4.jpg)<br>AI sees: _Aerial view of Westfalenstadion (Signal Iduna Park) in Dortmund_
+<br clear="left">
+
+---
 
 ## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
 `2026-11-27-news-67c902` · 2026-11-27
@@ -45,6 +80,16 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrew_Scheer_with_Wayne_Gretzky_%2848055697168%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Wayne Gretzky**<br>2019 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg)<br>AI sees: _Wayne Gretzky smiling in a suit jacket_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From High School Cut to Global Icon: The Life and Legacy of Michael Jordan
+`2026-11-27-athl-5e9dcf` · 2026-11-27
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dean_Smith_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟠 CHECK** · cover<br>Caption: **Dean Smith**<br>1973 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dean_Smith_1973.jpg)<br>AI sees: _portrait of college basketball coach Dean Smith_<br>Why: The photo accurately shows legendary North Carolina basketball coach Dean Smith from the 1970s era.<br>⚑ photo is from 1973: too old for a story about current athletes
 <br clear="left">
 
 ---

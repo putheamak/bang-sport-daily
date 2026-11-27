@@ -1,0 +1,34 @@
+# From High School Cut to Global Icon: The Life and Legacy of Michael Jordan
+
+*Six NBA titles, two Olympic golds, and an enduring sporting empire that transformed modern basketball from North Carolina to worldwide stardom.*
+
+**Athlete story** · 2026-11-27
+
+Michael Jeffrey Jordan was born on February 17, 1963, at Cumberland Hospital in Brooklyn, New York, to bank employee Deloris and equipment supervisor James R. Jordan Sr. In 1968, the family relocated to Wilmington, North Carolina, where Jordan grew up alongside four siblings: James Jr., Larry, Deloris, and Roslyn. At Emsley A. Laney High School, Jordan competed in baseball, football, and basketball. During his sophomore tryouts in 1978, the varsity coaching staff left the 5-foot-11 (1.80 m) guard off the roster in favor of 6-foot-7 classmate Leroy Smith. Assigned to junior varsity, Jordan registered several 40-point games, grew four inches over the summer of 1979, and claimed varsity jersey No. 23. Over his final two prep seasons, he averaged more than 25 points per contest, recording 26.8 points, 11.6 rebounds, and 10.1 assists per game as a senior before posting 30 points at the 1981 McDonald's All-American Game.
+
+Jordan accepted an athletic scholarship to the University of North Carolina at Chapel Hill in 1980, selecting cultural geography as his major due to an interest in meteorology. Playing under head coach Dean Smith, he earned ACC Freshman of the Year honors in 1981–82 with 13.4 points per game on 53.4 percent shooting. On March 29, 1982, Jordan sank a 16-foot baseline jump shot with 15 seconds remaining to deliver a 63–62 national championship victory over Patrick Ewing's Georgetown Hoyas in New Orleans, later designating the shot as the primary turning point of his career. Jordan collected consensus First Team All-American honors in 1983 and 1984, swept the Naismith and Wooden College Player of the Year awards in 1984, and finished his collegiate career with averages of 17.7 points and 5.0 rebounds across 101 games before entering the professional ranks. He completed his Bachelor of Arts degree in 1986.
+
+## Chapel Hill Turning Point and Chicago Arrival
+
+The Chicago Bulls selected Jordan with the third overall pick in the 1984 NBA draft, following Hakeem Olajuwon to the Houston Rockets and Sam Bowie to the Portland Trail Blazers. Jordan made his NBA debut on October 26, 1984, scoring 16 points against the Washington Bullets. He averaged 28.2 points, 6.5 rebounds, and 5.9 assists as a rookie, capturing the NBA Rookie of the Year award and lifting Chicago from a 27–55 mark to a 38–44 playoff finish. After missing 64 games during his second season with a broken bone in his foot, Jordan set an NBA playoff single-game scoring record with 63 points against the Boston Celtics on April 20, 1986. He captured his first scoring title in the 1986–87 season with 37.1 points per game, and in 1988 swept both the regular season MVP and Defensive Player of the Year awards while leading the league with 3.2 steals per contest.
+
+Physical postseason eliminations against the Detroit Pistons in 1988, 1989, and 1990 tested Chicago before head coach Phil Jackson and forward Scottie Pippen established the core that broke through. Chicago swept Detroit in the 1991 Eastern Conference Finals and secured the franchise’s first NBA title by beating the Los Angeles Lakers 4–1 in the 1991 Finals. Jordan led the Bulls to consecutive championships over Portland in 1992 and Phoenix in 1993, achieving the league’s first title three-peat since 1966 and claiming Finals MVP in all three series. He also anchored the 1992 United States Olympic "Dream Team" in Barcelona, winning his second Olympic gold after previously captaining the 1984 collegiate national team to gold in Los Angeles.
+
+## The Baseball Hiatus and Second Three-Peat
+
+Exhausted by global celebrity and grieving the July 1993 murder of his father James Jordan Sr., Jordan announced his retirement from basketball in October 1993. In February 1994, he signed a Minor League Baseball contract with the Chicago White Sox organization. Assigned to the Double-A Birmingham Barons, Jordan played 127 games in 1994, batting .202 with three home runs and 30 stolen bases. On March 18, 1995, Jordan revealed his NBA return with a two-word statement: "I'm back." Wearing jersey No. 45, he scored 19 points against the Indiana Pacers the next night and poured in 55 points against the New York Knicks at Madison Square Garden on March 28.
+
+Switching back to No. 23, Jordan paced the 1995–96 Bulls to an NBA-record 72–10 regular season and the 1996 championship over the Seattle SuperSonics. Chicago defended its crown against the Utah Jazz in 1997, featuring Jordan’s 38-point performance while battling illness in Game 5. In Game 6 of the 1998 Finals in Salt Lake City, Jordan stripped Karl Malone with 20 seconds remaining and hit a 17-foot jumper over Bryon Russell with 5.2 seconds left to seal an 87–86 victory. That basket clinched his second three-peat, sixth NBA championship, and sixth Finals MVP award before he retired for a second time in January 1999.
+
+## Washington Comeback and Billion-Dollar Legacy
+
+Jordan returned to active play with the Washington Wizards from 2001 to 2003 after previously serving as the team's head of basketball operations and part-owner. In Washington, he averaged 21.2 points, crossed 30,000 career points, and made two additional All-Star appearances before playing his final NBA game on April 16, 2003, in Philadelphia. Jordan concluded his 15-season career with 32,292 regular season points, five regular season MVPs, 10 scoring titles, and unbroken league records for career regular-season scoring average (30.12 points) and playoff scoring average (33.45 points). He entered the Naismith Memorial Basketball Hall of Fame in 2009 for his playing career and in 2010 with the Dream Team. In 2022, the league renamed the regular season MVP trophy the Michael Jordan Trophy.
+
+Off the court, Jordan transformed sports business through his Nike Air Jordan partnership, launched in 1984, along with starring in the 1996 film *Space Jam* and the 2020 documentary *The Last Dance*. In 2010, he paid $175 million to secure majority ownership of the Charlotte Bobcats (later Hornets), operating the franchise until selling his majority stake in August 2023 for approximately $3 billion. In 2020, Jordan co-founded the NASCAR Cup Series team 23XI Racing. Awarded the Presidential Medal of Freedom by President Barack Obama in 2016, Jordan stands as the wealthiest athlete in recorded history, with Forbes valuing his net worth at $4.7 billion as of 2026.
+
+---
+**Sources**
+
+- [Michael Jordan - Wikipedia](https://en.wikipedia.org/wiki/Michael_Jordan)
+- [Michael Jordan - Forbes Profile](https://www.forbes.com/profile/michael-jordan/)
+- [Michael Jordan Career Profile - USA Basketball](https://www.usab.com)
