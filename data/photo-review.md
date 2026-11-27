@@ -1,6 +1,6 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -25,26 +25,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
-<br clear="left">
-
----
-
-## 📝 DRAFT · Liu Mengting Qualifies Second in Innsbruck Big Air as FIS Debuts Two-Run Final Format
-`2026-11-27-news-217e9e` · 2026-11-27
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg/1280px-Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Mathilde Gremaud**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg)<br>AI sees: _portrait of Swiss freestyle skier Mathilde Gremaud_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bergiselschanze04.jpg/1280px-Bergiselschanze04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Bergisel Ski Jump**<br>2004 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Bergiselschanze04.jpg)<br>AI sees: _Bergisel Ski Jump in Innsbruck, Austria_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg/1280px-B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🔴 WRONG**<br>Caption: **Innsbruck**<br>2018 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:B%C3%BCrgerstra%C3%9Fe_26%2B24_(BT0A2830).jpg)<br>AI sees: _residential apartment buildings on a street in Innsbruck, Austria_<br>Why: The photo shows ordinary city buildings rather than the sports venue or Big Air competition.
 <br clear="left">
 
 ---
