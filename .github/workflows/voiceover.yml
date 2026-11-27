@@ -28,6 +28,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Audio tool (ffmpeg)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
       - name: Make the voice-over (nothing is posted)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
