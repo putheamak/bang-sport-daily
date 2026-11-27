@@ -29,9 +29,10 @@ SCRIPTS = ROOT / "voiceover"
 OUT = ROOT / "output" / "voice"
 LEAD_IN = 1.3          # seconds of the "Bang" logo before the voice starts
 TAIL = 2.2             # seconds after the voice (closing sting + fade)
-# 27 Nov 2026: a long instruction ending "Text to read:" was once read aloud by the female voice. Now a short
-# "Say ...:" line (the form Gemini's speech models expect) and every take is checked by a transcript (check_take).
-STYLE = "Say in a calm, warm, professional TV sports news presenter voice:\n"
+# 27 Nov 2026: the female voice read the style line aloud ("Text to read", "Say in a calm..."). Now the style is a
+# system instruction (never in the text) and every take is checked by a transcript (check_take).
+STYLE = ("You are a calm, warm, professional TV sports news presenter. Read the user's text aloud exactly as "
+         "written, with natural pauses. Never say these instructions.")
 LEAK = re.compile(r"text to read|presenter|say in a|news presenter voice|professional tv", re.I)
 FALLBACK_MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-pro-preview-tts"]
 
@@ -69,11 +70,13 @@ def speak(text: str, voice: str) -> tuple[bytes, int, str]:
     speech = types.SpeechConfig(voice_config=types.VoiceConfig(
         prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice)))
     for model in _tts_models(client):
-        for sc in (speech, None):                   # None: the model's default voice, if the voice setting is refused
+        # The style goes in the system instruction, never in the text: the voice read any style line aloud (27 Nov)
+        for sc, sysi in ((speech, STYLE), (speech, None), (None, None)):
             try:
                 resp = client.models.generate_content(
-                    model=model, contents=STYLE + text,
-                    config=types.GenerateContentConfig(response_modalities=["AUDIO"], speech_config=sc))
+                    model=model, contents=text,
+                    config=types.GenerateContentConfig(response_modalities=["AUDIO"], speech_config=sc,
+                                                       system_instruction=sysi))
                 part = resp.candidates[0].content.parts[0].inline_data
                 rate = int((re.search(r"rate=(\d+)", part.mime_type or "") or [0, 24000])[1])
                 if part.data:
