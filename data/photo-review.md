@@ -29,26 +29,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · Kuching City Sweep Phnom Penh Crown 3-0 to Reopen ACL Two Group H
-`2026-11-27-news-9ce70f` · 2026-11-27
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Safawi Rasid**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)<br>AI sees: _portrait of Malaysian footballer Safawi Rasid in a Malaysia national team polo_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Aidil_Sharin_Sahak.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Aidil Sharin Sahak**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Aidil_Sharin_Sahak.png)<br>AI sees: _Aidil Sharin Sahak speaking at a football press conference_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-27-news-9ce70f.png" width="240" align="left" hspace="10">
-
-**3. 🟢 our score card**<br>Caption: **Kuching City 3 - 0 Phnom Penh Crown · AFC Champions League Two**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## ✅ live · Italy Beat South Korea 2-1 to Reach Davis Cup Semifinals
 `2026-11-27-news-bcbdd0` · 2026-11-27
 
