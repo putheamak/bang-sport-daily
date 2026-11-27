@@ -1,16 +1,7 @@
-2026-11-24 12:24:07,015 INFO Photo check Humo_Arena_2019.jpg (Wikimedia Commons, 4608x2128): OK, licence 'CC BY-SA 4.0'
-2026-11-24 12:24:07,308 INFO Photo check Nest_One_Tashkent.jpg (English Wikipedia only, 1916x1079): REFUSED, licence 'CC-BY-SA-4.0' (a file kept only on Wikipedia must be public domain)
-2026-11-24 12:24:07,308 WARNING No free-licence lead photo for Wikipedia article 'Tashkent'
-2026-11-24 12:24:07,308 INFO Photos for 2026-11-24-news-0390f5 set from photos.yaml (1 photo(s))
-2026-11-24 12:24:07,482 INFO Photo check Panama_Papers_(148830809).jpeg (Wikimedia Commons, 2048x1152): OK, licence 'CC BY 3.0'
-2026-11-24 12:24:07,482 INFO Photos for 2026-11-24-news-4177ff set from photos.yaml (2 photo(s))
-2026-11-24 12:24:08,018 WARNING No free-licence lead photo for Wikipedia article 'Aspire Academy'
-2026-11-24 12:24:08,114 INFO Match card added to 2026-11-24-news-95243b
-2026-11-24 12:24:08,114 INFO Photos for 2026-11-24-news-95243b set from photos.yaml (1 photo(s))
-2026-11-24 12:24:08,891 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-24 12:24:16,541 INFO Photo check 2026-11-24-news-0390f5 #1 'Humo Arena, Tashkent': OK
-2026-11-24 12:24:23,436 INFO Photo check 2026-11-24-news-4177ff #1 'Panama City, where the World Boxing cong': OK
-2026-11-24 12:24:29,440 INFO Photo check 2026-11-24-news-4177ff #2 'Gennady Golovkin': OK
-2026-11-24 12:24:29,673 INFO IndexNow: 3 page(s) waiting for the next run
-2026-11-24 12:24:31,245 INFO Website built: 80 published stories, 285 pages
-2026-11-24 12:24:31,247 INFO Gemini today (2026-11-24, Pacific): gemini-3.8-flash 23 ok / 0 failed (44,215 in / 59,760 out tokens) · estimated cost if billed: US$0.257
+2026-11-27 06:28:51,208 INFO Photo check Morodok_Techno_Stadium_in_2021.png (Wikimedia Commons, 1073x631): OK, licence 'CC BY-SA 3.0'
+2026-11-27 06:28:51,296 INFO Photo check Safawi_Rasid.png (Wikimedia Commons, 1484x1150): OK, licence 'CC0'
+2026-11-27 06:28:51,363 INFO Match card added to 2026-11-27-news-cbc2c5
+2026-11-27 06:28:51,363 INFO Photos for 2026-11-27-news-cbc2c5 set from photos.yaml (3 photo(s))
+2026-11-27 06:28:51,369 INFO Photo check 2026-11-27-news-cbc2c5 #1 'Morodok Techo National Stadium in Phnom ': OK
+2026-11-27 06:28:51,369 INFO Photo check 2026-11-27-news-cbc2c5 #2 'Safawi Rasid, who opened the scoring for': OK
+2026-11-27 06:28:52,734 INFO Website built: 102 published stories, 354 pages

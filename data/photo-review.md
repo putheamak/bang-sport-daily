@@ -1,20 +1,20 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
 ## 📝 DRAFT · Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up
 `2026-11-27-news-cbc2c5` · 2026-11-27
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Dr._Martins_Junior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🔴 WRONG** · cover<br>Caption: **Martins Júnior**<br>2019 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dr._Martins_Junior.jpg)<br>AI sees: _a historical drawing of a 19th-century man with spectacles and a mustache_<br>Why: The image is a 19th-century portrait of historical figure Dr. Martins Júnior, not a modern professional football player.<br>⚑ looks like a drawing / old portrait (Dr.)
-<br clear="left">
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Morodok Techo National Stadium**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)<br>AI sees: _Morodok Techo National Stadium in Phnom Penh, Cambodia_
+**1. 🟢 OK** · cover<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-27-news-cbc2c5.png" width="240" align="left" hspace="10">

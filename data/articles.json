@@ -254,31 +254,6 @@
     },
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Dr._Martins_Junior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Dr._Martins_Junior.jpg",
-        "artist": "Unknown author Unknown author",
-        "license": "Public domain",
-        "license_url": "",
-        "description": "Dr. Martins Junior",
-        "width": 1200,
-        "height": 1525,
-        "year": 2019,
-        "subject": "Martins Júnior",
-        "asked": "Martins Júnior",
-        "page_title": "Martins Júnior",
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:dr._martins_junior.jpg|Martins Júnior",
-          "verdict": "wrong",
-          "flags": [
-            "looks like a drawing / old portrait (Dr.)"
-          ],
-          "shows": "a historical drawing of a 19th-century man with spectacles and a mustache",
-          "reason": "The image is a 19th-century portrait of historical figure Dr. Martins Júnior, not a modern professional football player.",
-          "by": "ai"
-        }
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
         "artist": "中国新闻社",
@@ -288,17 +263,38 @@
         "width": 1200,
         "height": 706,
         "year": 2021,
-        "subject": "Morodok Techo National Stadium",
-        "asked": "Morodok Techo National Stadium",
-        "page_title": "Morodok Techo National Stadium",
+        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
+        "editor": true,
         "check": {
           "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium",
+          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
           "verdict": "ok",
           "flags": [],
-          "shows": "Morodok Techo National Stadium in Phnom Penh, Cambodia",
-          "reason": "The distinctive prow-like cable-stayed tower structure and blue running track accurately match Morodok Techo National Stadium.",
-          "by": "ai"
+          "shows": "",
+          "reason": "",
+          "by": "editor"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png",
+        "artist": "Hihi reny",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Picture of Safawi Rasid, transparent background",
+        "width": 1200,
+        "height": 930,
+        "year": 2026,
+        "subject": "Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown",
+        "editor": true,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:safawi_rasid.png|Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "",
+          "reason": "",
+          "by": "editor"
         }
       },
       {
@@ -317,16 +313,17 @@
     ],
     "standards": [
       {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Photo 1 (cover) captioned 'Martins Júnior' looks WRONG (shows a historical drawing of a 19th-century man with spectacles and a mustache; looks like a drawing / old portrait (Dr.); The image is a 19th-century portrait of historical figure Dr. Martins Júnior, not a modern profe). Replace or remove it in photos.yaml — see data/photo-review.md"
-      },
-      {
         "level": "WARN",
         "area": "photos",
-        "msg": "Cover photo is from 2019. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
       }
-    ]
+    ],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}]}"
   },
   {
     "id": "2026-11-27-athl-9e7b9b",
