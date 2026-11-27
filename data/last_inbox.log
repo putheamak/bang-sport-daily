@@ -1,13 +1,7 @@
-2026-11-27 07:43:30,863 INFO Updating story 2026-11-27-news-cbc2c5 from inbox
-2026-11-27 07:43:30,864 INFO Adapting to zh, ru ...
-2026-11-27 07:43:31,831 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-27 07:44:59,919 WARNING Model returned invalid JSON; asking again without search
-2026-11-27 07:46:35,058 ERROR Localization failed (Expecting ',' delimiter: line 13 column 3526 (char 8823)) — article kept in English only
-2026-11-27 07:46:35,058 WARNING Translation to zh failed — the zh page is hidden until a later run re-translates it
-2026-11-27 07:46:35,058 WARNING Translation to ru failed — the ru page is hidden until a later run re-translates it
-2026-11-27 07:46:35,116 INFO Cover photo of 2026-11-27-news-cbc2c5 changed: another story already uses that picture
-2026-11-27 07:46:35,467 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-27
-2026-11-27 07:46:37,522 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-27 07:46:39,598 INFO Website built: 102 published stories, 354 pages
-2026-11-27 07:46:39,598 INFO Imported 1 editor's article(s): 2026-11-27-news-cbc2c5
-2026-11-27 07:46:39,600 INFO Gemini today (2026-11-26, Pacific): gemini-3.8-flash 53 ok / 0 failed (98,103 in / 120,699 out tokens) · estimated cost if billed: US$0.526
+2026-11-27 07:50:55,411 INFO Corrected English for 2026-11-27-news-cbc2c5
+2026-11-27 07:50:55,411 INFO Added zh translation for 2026-11-27-news-cbc2c5
+2026-11-27 07:50:55,411 INFO Added ru translation for 2026-11-27-news-cbc2c5
+2026-11-27 07:50:55,800 INFO Exported 4 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-27
+2026-11-27 07:50:57,757 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-27 07:50:59,727 INFO Website built: 102 published stories, 354 pages
+2026-11-27 07:50:59,728 INFO Imported 1 editor's article(s): 2026-11-27-news-cbc2c5
