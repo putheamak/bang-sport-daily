@@ -138,8 +138,30 @@ def fetch_photos(sid: str, titles: list[str], max_n: int = 40, width: int = 1280
     dest = OUT / "photos" / sid
     dest.mkdir(parents=True, exist_ok=True)
     index, seen = [], set()
+    from .images import _get, commons_info
+
+    def category(cat: str):                           # "Category:..." = files in a Commons category (video-safe only)
+        try:
+            d = _get("https://commons.wikimedia.org/w/api.php", {"action": "query", "list": "categorymembers",
+                     "cmtitle": cat, "cmtype": "file", "cmlimit": 60})
+        except Exception as e:  # noqa: BLE001
+            log.warning("Category %s: %s", cat, e)
+            return
+        found = 0
+        for m in d.get("query", {}).get("categorymembers", []):
+            name = m.get("title", "").split(":", 1)[-1]
+            if not re.search(r"\.(jpe?g|png|webp)$", name, re.I):
+                continue
+            info = commons_info(name.replace(" ", "_"), width=1280, min_width=600)
+            if info and video_safe(info):
+                found += 1
+                yield info
+            if found >= max_n // 4:
+                return
+
     for title in titles:
-        for info in article_photos(title, max_n=max_n, min_width=600):
+        source = category(title) if title.startswith("Category:") else article_photos(title, max_n=max_n, min_width=600)
+        for info in source:
             if info["page"] in seen:
                 continue
             seen.add(info["page"])
