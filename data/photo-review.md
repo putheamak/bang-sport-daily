@@ -4,6 +4,51 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
+## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
+`2026-11-27-news-67c902` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_Prairie_Stadium_seating%2C_April_2024.jpg/1280px-Grand_Prairie_Stadium_seating%2C_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Grand Prairie Stadium**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Grand_Prairie_Stadium_seating,_April_2024.jpg)<br>AI sees: _Grand Prairie Stadium cricket ground and seating area_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · China Crush Fiji 8-0 to Clinch Historic U-17 World Cup Knockout Berth
+`2026-11-27-news-33c855` · 2026-11-27
+
+<img src="../docs/photos/card-2026-11-27-news-33c855.png" width="240" align="left" hspace="10">
+
+**1. 🟢 our score card** · cover<br>Caption: **China U17 8 - 0 Fiji U17 · FIFA U-17 World Cup**<br>2026 · Own work
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Alexander Ovechkin: The Moscow Prodigy Who Broke Wayne Gretzky's NHL Record
+`2026-11-27-athl-c4b783` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Capital_One_Arena_-_Washington%2C_D.C.jpg/1280px-Capital_One_Arena_-_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Capital One Arena**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Capital_One_Arena_-_Washington,_D.C.jpg)<br>AI sees: _Exterior of Capital One Arena in Washington, D.C._
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Alexander_Ovechkin_%2849479646361%29_%281%29.jpg/1280px-Alexander_Ovechkin_%2849479646361%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Alexander Ovechkin**<br>2020 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_(49479646361)_(1).jpg)<br>AI sees: _Alexander Ovechkin in Washington Capitals uniform_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrew_Scheer_with_Wayne_Gretzky_%2848055697168%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Wayne Gretzky**<br>2019 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg)<br>AI sees: _Wayne Gretzky smiling in a suit jacket_
+<br clear="left">
+
+---
+
 ## ✅ live · Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up
 `2026-11-27-news-cbc2c5` · 2026-11-27
 
