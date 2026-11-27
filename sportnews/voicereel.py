@@ -15,6 +15,7 @@ import logging
 import re
 import subprocess
 import tempfile
+import time
 from pathlib import Path
 
 from .common import ROOT
@@ -152,7 +153,13 @@ def fetch_photos(sid: str, titles: list[str], max_n: int = 40, width: int = 1280
             name = m.get("title", "").split(":", 1)[-1]
             if not re.search(r"\.(jpe?g|png|webp)$", name, re.I):
                 continue
-            info = commons_info(name.replace(" ", "_"), width=1280, min_width=600)
+            time.sleep(1.5)                           # Wikimedia asks bots to go slowly (429 otherwise)
+            try:
+                info = commons_info(name.replace(" ", "_"), width=1280, min_width=600)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Commons %s: %s (waiting 60 s)", name[:60], str(e)[:80])
+                time.sleep(60)
+                continue
             if info and video_safe(info):
                 found += 1
                 yield info
@@ -166,6 +173,7 @@ def fetch_photos(sid: str, titles: list[str], max_n: int = 40, width: int = 1280
                 continue
             seen.add(info["page"])
             url = re.sub(r"/\d+px-", f"/{width}px-", info["url"])
+            time.sleep(1.5)
             try:
                 data = _download(url)
             except Exception as e:  # noqa: BLE001
