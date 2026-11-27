@@ -5,7 +5,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T01:42:12+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -60,7 +60,20 @@
         "url": "https://www.espn.com/soccer/report/_/gameId/633850"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-27T10:42:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-27T10:42:40+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-27T10:42:40+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.028,
       "longest": 15,
@@ -156,7 +169,8 @@
     "lang_updated": {
       "zh": "2026-11-27T10:39:26+07:00",
       "ru": "2026-11-27T10:39:26+07:00"
-    }
+    },
+    "published_at": "2026-11-27T10:42:40+07:00"
   },
   {
     "id": "2026-11-27-news-9ce70f",
@@ -371,7 +385,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T01:39:40+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -434,7 +448,20 @@
         "url": "https://www.oasport.it/2026/11/flavio-cobolli-sorpreso-dal-n-139-del-mondo-kwon-italia-corea-del-sud-si-decidera-al-doppio-decisivo/amp/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-27T10:42:41+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-27T10:42:41+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-27T10:42:42+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -542,7 +569,8 @@
     "lang_updated": {
       "zh": "2026-11-27T10:39:26+07:00",
       "ru": "2026-11-27T10:39:26+07:00"
-    }
+    },
+    "published_at": "2026-11-27T10:42:42+07:00"
   },
   {
     "id": "2026-11-26-news-6daa79",

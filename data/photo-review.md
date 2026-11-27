@@ -4,26 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Italy Beat South Korea 2-1 to Reach Davis Cup Semifinals
-`2026-11-27-news-bcbdd0` · 2026-11-27
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kwon_WMQ26_%284%29_%2855466987996%29.jpg/1280px-Kwon_WMQ26_%284%29_%2855466987996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Kwon Soon-woo**<br>Asked for: Soonwoo Kwon → got page: Kwon Soon-woo<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg)<br>AI sees: _tennis player Kwon Soon-woo in action_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cobolli_RGQ23_%2852944096963%29.jpg/1280px-Cobolli_RGQ23_%2852944096963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Flavio Cobolli**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Cobolli_RGQ23_(52944096963).jpg)<br>AI sees: _tennis player Flavio Cobolli holding a racquet during a match_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Matteo_Berrettini_at_2025_Miami_Open_01_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Matteo Berrettini**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped)_(cropped).jpg)<br>AI sees: _Matteo Berrettini wearing a cap and purple shirt_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · Kuching City Sweep Phnom Penh Crown 3-0 to Reopen ACL Two Group H
 `2026-11-27-news-9ce70f` · 2026-11-27
 
@@ -44,15 +24,35 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · From a Paper Napkin to 47 Trophies: The Life and Legacy of Lionel Messi
+## ✅ live · Italy Beat South Korea 2-1 to Reach Davis Cup Semifinals
+`2026-11-27-news-bcbdd0` · 2026-11-27
+
+<img src="../docs/photos/c/acf2982aa267e24e-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Kwon Soon-woo**<br>Asked for: Soonwoo Kwon → got page: Kwon Soon-woo<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg)<br>AI sees: _tennis player Kwon Soon-woo in action_
+<br clear="left">
+
+<img src="../docs/photos/c/1745e1d13f14da34-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Flavio Cobolli**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Cobolli_RGQ23_(52944096963).jpg)<br>AI sees: _tennis player Flavio Cobolli holding a racquet during a match_
+<br clear="left">
+
+<img src="../docs/photos/c/a368bb7fd60f6e5e.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Matteo Berrettini**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Matteo_Berrettini_at_2025_Miami_Open_01_(cropped)_(cropped).jpg)<br>AI sees: _Matteo Berrettini wearing a cap and purple shirt_
+<br clear="left">
+
+---
+
+## ✅ live · From a Paper Napkin to 47 Trophies: The Life and Legacy of Lionel Messi
 `2026-11-27-athl-9e7b9b` · 2026-11-27
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/1280px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/e036dbe2ec1453b2-640.jpg" width="240" align="left" hspace="10">
 
 **1. 🟢 OK** · cover<br>Caption: **Lionel Messi**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg)<br>AI sees: _Lionel Messi in an Argentina national football team kit_
 <br clear="left">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+<img src="../docs/photos/c/edf91c86f2a66eb7.jpg" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Gerard Piqué**<br>2012 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg)<br>AI sees: _Gerard Piqué in a Spain national team jacket_
 <br clear="left">
