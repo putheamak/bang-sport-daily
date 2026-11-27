@@ -12,15 +12,15 @@ After five of six group matches, both Cambodian clubs know a draw in the final r
 
 Svay Rieng played the match at Morodok Techo National Stadium. Machida arrived having won all four group games, including a 2-0 win over Svay Rieng in Japan on the first matchday.
 
-The first half was even. Kwame Peprah shot just wide early on, and goalkeeper Vireak Dara made an important save before half-time, the AFC reported. Tiago Alves had the best chance of the half when he was sent through on goal, but he pulled his shot wide.
+The first half was even. Kwame Peprah shot just wide early on, and goalkeeper Vireak Dara made a fine left-handed save from Takahiro Akimoto in the 24th minute, the AFC reported. Tiago Alves had the best chance of the half when he was sent through on goal, but he pulled his shot wide.
 
-Machida changed two players at half-time, but Svay Rieng scored first. In the 59th minute, Alessandro Martins Júnior curled a low shot past goalkeeper Tani from the edge of the box. Thirteen minutes later, Rui Pires lifted the ball over Machida's defence, Alves beat the offside trap and chipped the ball over Tani for 2-0.
+Machida changed two players at half-time, but Svay Rieng scored first. In the 59th minute, Alessandro Martins Júnior curled a low shot past goalkeeper Kosei Tani from the edge of the box. Thirteen minutes later, Rui Pires lifted the ball over Machida's defence, Alves beat the offside trap and chipped the ball over Tani for 2-0.
 
 Machida pushed for a way back. Futa Tokumura's long shot hit the crossbar and Kim Min-tae's header hit the post, according to the AFC. Dara and his defence kept a clean sheet to the end.
 
-**What worked for Svay Rieng:** they kept their shape against a side that had more of the ball (ESPN's statistics gave Machida 56% possession) and took their chances in a 13-minute spell after the break. Kampuchea Thmey called it the first win by a Cambodian club over a Japanese club, a week after Svay Rieng beat Thailand's Port FC 4-1 in the ASEAN Club Championship.
+**What worked for Svay Rieng:** they kept their shape against a side that had more of the ball (ESPN's statistics gave Machida 56% possession) and took their chances in a 13-minute spell after the break. Coach Matthew McConkey said a small tactical change made the difference. "We wanted to encourage the opponents to press us, because when they pushed forward, spaces would open up behind them for us to attack," he told the Phnom Penh Post. "We performed well, and this is the level our club demonstrated in this match." Kampuchea Thmey called it the first win by a Cambodian club over a Japanese club, a week after Svay Rieng beat Thailand's Port FC 4-1 in the ASEAN Club Championship.
 
-**What went wrong for Machida:** it was their first defeat in the tournament, and, according to Soccer Digest, their first in 15 competitive matches. Machida coach Go Kuroda pointed to a busy match schedule, the long journey and the heat in Phnom Penh, Kampuchea Thmey reported in Khmer. "When we arrived here, we had to face even hotter weather," he said (translated from Khmer).
+**What went wrong for Machida:** it was their first defeat in the tournament, and, according to Soccer Digest, their first in 15 competitive matches. Coach Go Kuroda said his team had little time to prepare after finishing their J1 League season just before the trip, the Phnom Penh Post reported; he also mentioned the heat in Phnom Penh, according to Kampuchea Thmey. But he did not hide behind it. "I knew Svay Rieng would play on the counterattack in this match, and we prepared for that, but our players still did not perform well enough," Kuroda said.
 
 Svay Rieng now have 10 points, two behind Machida, who are already through. Their last game is away to Shanghai Shenhua on 3 December. Shenhua have 7 points and must win; a draw is enough for Svay Rieng, Troryorng reported. The first meeting between the two sides in Cambodia ended 0-0.
 
@@ -63,6 +63,7 @@ The East groups finish on 2 and 3 December, the West groups on 8 and 9 December.
 ---
 **Sources**
 
+- [Phnom Penh Post: Svay Rieng make history against Japanese as Crown suffer heavy defeat in Malaysia](https://phnompenhpost.com/sport/svay-rieng-make-history-against-japanese-as-crown-suffer-heavy-defeat-in-malaysia/)
 - [AFC: Group G – Preah Khan Reach Svay Rieng FC 2-0 FC Machida Zelvia](https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-2-0-fc-machida-zelvia-jpn)
 - [J.League: ACL2 match report, Svay Rieng v Machida](https://www.jleague.jp/news/article/35478/?navicode=acl2)
 - [Soccer Digest: Machida lose in Cambodia](https://www.soccerdigestweb.com/news/detail/id=200182)

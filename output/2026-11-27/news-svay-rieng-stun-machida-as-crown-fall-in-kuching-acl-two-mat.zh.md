@@ -63,6 +63,7 @@
 ---
 **来源**
 
+- [Phnom Penh Post: Svay Rieng make history against Japanese as Crown suffer heavy defeat in Malaysia](https://phnompenhpost.com/sport/svay-rieng-make-history-against-japanese-as-crown-suffer-heavy-defeat-in-malaysia/)
 - [AFC: Group G – Preah Khan Reach Svay Rieng FC 2-0 FC Machida Zelvia](https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-2-0-fc-machida-zelvia-jpn)
 - [J.League: ACL2 match report, Svay Rieng v Machida](https://www.jleague.jp/news/article/35478/?navicode=acl2)
 - [Soccer Digest: Machida lose in Cambodia](https://www.soccerdigestweb.com/news/detail/id=200182)
