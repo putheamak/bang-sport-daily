@@ -258,17 +258,54 @@
     },
     "images": [
       {
-        "url": "../photos/card-2026-11-27-news-cbc2c5.png",
-        "page": "",
-        "artist": "Bang Sport Daily (graphic)",
-        "license": "Own work",
-        "license_url": "",
-        "subject": "Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two",
-        "via": "",
-        "card": true,
-        "year": 2026,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Go_Kuroda_2025.jpg/1280px-Go_Kuroda_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Go_Kuroda_2025.jpg",
+        "artist": "RuinDig/Yuki Uchida",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "日本の東京都新宿区にある国立競技場で開催された天皇杯 JFA 第105回全日本サッカー選手権大会の決勝戦、 FC町田ゼルビア 対 ヴィッセル神戸 の試合。FC町田ゼルビアが優勝し、FC町田ゼルビアのベンチ裏でインタビューを受ける監督の 黒田剛 。",
         "width": 1200,
-        "height": 675
+        "height": 1717,
+        "year": 2025,
+        "subject": "Machida Zelvia coach Go Kuroda",
+        "asked": "Go Kuroda",
+        "page_title": "Go Kuroda",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:go_kuroda_2025.jpg|Machida Zelvia coach Go Kuroda",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Machida Zelvia manager Go Kuroda being interviewed",
+          "reason": "The photo clearly shows Go Kuroda being interviewed at a football match with official tournament branding.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mitchell_Duke_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Mitchell_Duke_2020.png",
+        "artist": "Western Sydney Wanderers FC",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Duke training with Western Sydney Wanderers in 2020",
+        "width": 1200,
+        "height": 1513,
+        "year": 2020,
+        "subject": "Machida Zelvia forward Mitchell Duke",
+        "asked": "Mitchell Duke",
+        "page_title": "Mitch Duke",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:mitchell_duke_2020.png|Machida Zelvia forward Mitchell Duke",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Mitchell Duke' but the photo comes from the page 'Mitch Duke'"
+          ],
+          "shows": "Australian footballer Mitchell Duke at training",
+          "reason": "The photo clearly shows Mitchell Duke during a training session; older photos of the captioned subject are acceptable.",
+          "by": "ai"
+        }
       },
       {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -313,9 +350,27 @@
           "reason": "",
           "by": "editor"
         }
+      },
+      {
+        "url": "../photos/card-2026-11-27-news-cbc2c5.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
       }
     ],
     "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 2 captioned 'Machida Zelvia forward Mitchell Duke' looks WRONG (shows Australian footballer Mitchell Duke at training; asked for 'Mitchell Duke' but the photo comes from the page 'Mitch Duke'; The photo clearly shows Mitchell Duke during a training session; older photos of the captio). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
       {
         "level": "WARN",
         "area": "translation",
@@ -327,7 +382,7 @@
         "msg": "RU version is older than the English correction (hidden on site)"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}",
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Machida Zelvia coach Go Kuroda\", \"wikipedia\": \"Go Kuroda\"}, {\"caption\": \"Machida Zelvia forward Mitchell Duke\", \"wikipedia\": \"Mitchell Duke\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}",
     "updated_at": "2026-11-27T14:46:35+07:00"
   },
   {
