@@ -4,7 +4,7 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Saudi Arabia Stuns China 82-80 in FIBA World Cup Qualifiers for First Win in 33 Years
+## 📝 DRAFT · Saudi Arabia Beat China 82-80 in FIBA World Cup Qualifiers for First Win in 33 Years
 `2026-11-27-news-7bb2d2` · 2026-11-27
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/ZhouQi2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
