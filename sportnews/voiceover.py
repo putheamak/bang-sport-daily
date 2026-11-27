@@ -3,7 +3,8 @@
 The editor (or Claude) writes the script in voiceover/<story id>.en.txt (facts only from the published story;
 lines starting with # are notes and are not read). Gemini's text-to-speech reads it in a presenter style, and the
 voice is mixed over Bang Sport Daily's own sound (sound.py: logo, quiet bed that ducks under the voice, closing
-sting) and levelled to -16 LUFS. Output: output/voice/<id>-<voice>.mp3 (+ a voice-only file without music).
+sting) and levelled to -16 LUFS. Output: output/voice/<id>-<voice>.mp3 (+ a voice-only file without music) and
+the voiced Reel output/voice/<id>-<voice>.mp4 (voicereel.py; captions in voiceover/<id>.en.captions.txt).
 
 Nothing is posted anywhere: the files are for the editor to check and use by hand. Say in the caption that the
 voice is AI-generated (and use Meta's "AI info" label) when posting.
@@ -135,4 +136,12 @@ def run(ids: list[str], voices: list[str]) -> list[Path]:
                 mix(wav, secs, mood_for(a), out, OUT / f"{sid}-{voice.lower()}-voice-only.mp3")
             log.info("Voice-over %s (%s, %s): %.1f s -> %s", sid, voice, model, secs, out.relative_to(ROOT))
             made.append(out)
+            try:                                        # the Reel with this voice (voicereel.py)
+                from .common import load_config
+                from .voicereel import make as voice_reel
+                mp4 = voice_reel(load_config(), a, voice, lead_in=LEAD_IN)
+                if mp4:
+                    made.append(mp4)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Voice reel not made for %s (%s): %s", sid, voice, str(e)[:200])
     return made

@@ -1514,3 +1514,12 @@ def test_voiceover_script_and_mix(monkeypatch, tmp_path):
     assert seen["t"] == "Hello.\nThis is Bang Sport Daily."
     assert out and out[0].exists() and out[0].stat().st_size > 10_000
     assert (tmp_path / "out" / "x1-kore-voice-only.mp3").exists()
+
+
+def test_voice_reel_timing():
+    from sportnews.voicereel import boundaries
+    paras = ["Short hook.", "This is Bang Sport Daily.", "A much longer paragraph " * 4, "Full story."]
+    st = boundaries(paras, 20.0, [1.9, 4.1, 15.2, 30.0])
+    assert st[0] == 0 and st == sorted(st) and len(st) == 4
+    assert st[1] == 1.9 and st[2] == 4.1 and st[3] == 15.2          # pauses near the estimates are used
+    assert boundaries(paras, 20.0, [])[3] > 10                       # no pauses: length-based estimate
