@@ -208,7 +208,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T21:40:59+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "basketball",
     "tags": [
@@ -273,7 +273,16 @@
         "url": "https://www.163.com/dy/article/LCOPQS7K0549OSC9.html"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-27T22:06:29+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-27T22:06:32+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -348,7 +357,8 @@
     "lang_updated": {
       "zh": "2026-11-27T22:01:46+07:00",
       "ru": "2026-11-27T22:01:46+07:00"
-    }
+    },
+    "published_at": "2026-11-27T22:06:34+07:00"
   },
   {
     "id": "2026-11-27-news-217e9e",

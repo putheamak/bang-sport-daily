@@ -4,21 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Saudi Arabia Beat China 82-80 in FIBA World Cup Qualifiers for First Win in 33 Years
-`2026-11-27-news-7bb2d2` · 2026-11-27
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/ZhouQi2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Zhou Qi**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:ZhouQi2017.png)<br>AI sees: _Chinese basketball player Zhou Qi_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-27-news-7bb2d2.png" width="240" align="left" hspace="10">
-
-**2. 🟢 our score card**<br>Caption: **Saudi Arabia 82 - 80 China · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
 `2026-11-27-news-67c902` · 2026-11-27
 
@@ -186,6 +171,21 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/c/20daef9adf0f6a3a-640.jpg" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Westfalenstadion**<br>2019 · CC BY-SA 3.0 de · [source](https://commons.wikimedia.org/wiki/File:Signal_iduna_park_stadium_dortmund_4.jpg)<br>AI sees: _Aerial view of Westfalenstadion (Signal Iduna Park) in Dortmund_
+<br clear="left">
+
+---
+
+## ✅ live · Saudi Arabia Beat China 82-80 in FIBA World Cup Qualifiers for First Win in 33 Years
+`2026-11-27-news-7bb2d2` · 2026-11-27
+
+<img src="../docs/photos/c/93c221dc0f5bc065-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Zhou Qi**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:ZhouQi2017.png)<br>AI sees: _Chinese basketball player Zhou Qi_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-27-news-7bb2d2.png" width="240" align="left" hspace="10">
+
+**2. 🟢 our score card**<br>Caption: **Saudi Arabia 82 - 80 China · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
 <br clear="left">
 
 ---
