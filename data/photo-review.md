@@ -1,8 +1,23 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Saudi Arabia Stuns China 82-80 in FIBA World Cup Qualifiers for First Win in 33 Years
+`2026-11-27-news-7bb2d2` · 2026-11-27
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/ZhouQi2017.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Zhou Qi**<br>2017 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:ZhouQi2017.png)<br>AI sees: _Chinese basketball player Zhou Qi_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-27-news-7bb2d2.png" width="240" align="left" hspace="10">
+
+**2. 🟢 our score card**<br>Caption: **Saudi Arabia 82 - 80 China · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
+<br clear="left">
+
+---
 
 ## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
 `2026-11-27-news-67c902` · 2026-11-27
@@ -29,6 +44,26 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
+## 📝 DRAFT · Liu Mengting Qualifies Second in Innsbruck Big Air as FIS Debuts Two-Run Final Format
+`2026-11-27-news-217e9e` · 2026-11-27
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg/1280px-Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Mathilde Gremaud**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mathilde_Gremaud_at_2026_XGL_Winter_Draft-2.jpg)<br>AI sees: _portrait of Swiss freestyle skier Mathilde Gremaud_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bergiselschanze04.jpg/1280px-Bergiselschanze04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Bergisel Ski Jump**<br>2004 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Bergiselschanze04.jpg)<br>AI sees: _Bergisel Ski Jump in Innsbruck, Austria_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg/1280px-B%C3%BCrgerstra%C3%9Fe_26%2B24_%28BT0A2830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🔴 WRONG**<br>Caption: **Innsbruck**<br>2018 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:B%C3%BCrgerstra%C3%9Fe_26%2B24_(BT0A2830).jpg)<br>AI sees: _residential apartment buildings on a street in Innsbruck, Austria_<br>Why: The photo shows ordinary city buildings rather than the sports venue or Big Air competition.
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Alexander Ovechkin: The Moscow Prodigy Who Broke Wayne Gretzky's NHL Record
 `2026-11-27-athl-c4b783` · 2026-11-27
 
@@ -45,6 +80,26 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrew_Scheer_with_Wayne_Gretzky_%2848055697168%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
 **3. 🟢 OK**<br>Caption: **Wayne Gretzky**<br>2019 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg)<br>AI sees: _Wayne Gretzky smiling in a suit jacket_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Yelena Isinbayeva: The Gymnast Who Redefined Women's Pole Vaulting
+`2026-11-27-athl-c09e34` · 2026-11-27
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Yelena_Isinbayeva_by_Augustas_Didzgalvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Yelena Isinbayeva**<br>2013 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Yelena_Isinbayeva_by_Augustas_Didzgalvis.jpg)<br>AI sees: _Yelena Isinbayeva celebrating in a Russian athletics uniform_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Svetlana_Feofanova_Daegu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Svetlana Feofanova**<br>2011 · GFDL · [source](https://commons.wikimedia.org/wiki/File:Svetlana_Feofanova_Daegu_2011.jpg)<br>AI sees: _Svetlana Feofanova celebrating with a Russian flag_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Jennifer_Suhr_London_2012_%28cropped%29.jpg/1280px-Jennifer_Suhr_London_2012_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Jenn Suhr**<br>2012 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Jennifer_Suhr_London_2012_(cropped).jpg)<br>AI sees: _American pole vaulter Jenn Suhr celebrating with a US flag_
 <br clear="left">
 
 ---
