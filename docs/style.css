@@ -171,6 +171,7 @@ a:hover .media .ph{transform:scale(1.03)}
 .fcard:hover h3{color:var(--gold)}
 
 /* ---- section page ---- */
+.sechero .role{font:700 14px var(--ui);text-transform:uppercase;letter-spacing:1px;color:var(--red);margin:0 0 10px}
 .sechero{padding:26px 16px 6px;border-bottom:1px solid var(--line);margin-bottom:22px}
 .sechero h1{font:700 clamp(32px,5vw,54px)/1 var(--head);text-transform:uppercase;margin:0 0 8px;color:var(--kc,var(--ink))}
 .l-zh .sechero h1{font-family:var(--zh)}
