@@ -404,3 +404,13 @@
         en: "CNA video: David Beckham's surprise visit to Bedok South Secondary School"
         zh: "CNA视频：贝克汉姆突访勿洛南中学"
         ru: "Видео CNA: неожиданный визит Дэвида Бекхэма в школу Бедок-Саут"
+
+# 27 Nov 2026: the automatic "Martins Júnior" photo was again the 19th-century Brazilian doctor (photo check: WRONG).
+# Replaced by the venue of Svay Rieng 2-0 Machida and Kuching City's first scorer (the match card stays).
+2026-11-27-news-cbc2c5:
+  mode: replace
+  photos:
+    - commons: "File:Morodok_Techno_Stadium_in_2021.png"
+      caption: "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0"
+    - commons: "File:Safawi_Rasid.png"
+      caption: "Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown"
