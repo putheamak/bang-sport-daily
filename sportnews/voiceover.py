@@ -49,7 +49,7 @@ def _tts_models(client) -> list[str]:
         log.warning("Could not list Gemini models: %s", str(e)[:150])
         names = []
     log.info("Gemini models: %s", ", ".join(names))
-    tts = [n for n in names if any(k in n for k in ("tts", "speech", "audio"))]
+    tts = [n for n in names if any(k in n for k in ("tts", "speech", "audio", "omni"))]
 
     def rank(n: str) -> tuple:
         v = re.search(r"(\d+(?:\.\d+)?)", n)
@@ -61,7 +61,8 @@ def speak(text: str, voice: str) -> tuple[bytes, int, str]:
     """Gemini text-to-speech. Returns (16-bit mono PCM, sample rate, model)."""
     from google import genai
     from google.genai import types
-    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"))
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY"),
+                          http_options=types.HttpOptions(api_version="v1beta"))   # speech settings: v1beta only
     errors = []
     speech = types.SpeechConfig(voice_config=types.VoiceConfig(
         prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice)))
