@@ -1,5 +1,594 @@
 [
   {
+    "id": "2026-11-28-hist-4d4b27",
+    "slug": "on-this-day-in-1895-frank-duryea-wins-america-s-first-automo",
+    "date": "2026-11-28",
+    "created": "2026-11-28T01:31:34+07:00",
+    "type": "history",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Auto racing",
+    "tags": [
+      "Auto racing",
+      "On This Day",
+      "Chicago Times-Herald race",
+      "Frank Duryea",
+      "Motorsport history"
+    ],
+    "athletes": [
+      "Frank Duryea",
+      "Oscar B. Mueller",
+      "Charles Brady King"
+    ],
+    "image_subjects": [
+      "Frank Duryea",
+      "Duryea Motor Wagon Company",
+      "Museum of Science and Industry (Chicago)",
+      "Karl Benz"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Duryea's winning share of the prize was $2,000 out of the $5,000 total purse offered by the Chicago Times-Herald."
+    ],
+    "sources": [
+      {
+        "title": "Chicago Times-Herald race - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chicago_Times-Herald_race"
+      },
+      {
+        "title": "Auto racing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Auto_racing"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Chicago_Times-Herald_race"
+      },
+      {
+        "title": "racingnelliebly.com",
+        "url": "https://racingnelliebly.com/weirdscience/first-american-car-race/"
+      },
+      {
+        "title": "williameggersmotorcycles.com",
+        "url": "https://williameggersmotorcycles.com/wp-content/uploads/2021/04/aaca-duryea.pdf"
+      },
+      {
+        "title": "larryprintz.com",
+        "url": "https://www.larryprintz.com/history/the-first-auto-race-in-america"
+      },
+      {
+        "title": "automotivehistory.org",
+        "url": "https://automotivehistory.org/first-us-auto-race/"
+      },
+      {
+        "title": "as.com",
+        "url": "https://en.as.com/other_sports/on-this-day-in-1895-the-motor-car-race-that-changed-history-and-paid-off-big-f202511-n/"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "On This Day in 1895: Frank Duryea Wins America's First Automobile Race in Chicago Snow",
+      "seo_title": "1895 Chicago Race: Frank Duryea Wins First US Auto Race",
+      "subheadline": "Battling blizzards, breakdowns and horse tram collisions, Duryea averaged 5 mph across 54 miles to claim the Times-Herald purse.",
+      "body_markdown": "On November 28, 1895, American competitive motorsport began in the snow and mud of Chicago when six horseless vehicles started the Chicago Times-Herald race. The 54-mile (87 km) contest ran from Jackson Park to Evanston and back, testing early road machines through slush and snow drifts at 38 °F (4 °C). Frank Duryea drove his petrol-powered Duryea Motor Wagon across the finish line first near the Palace of Fine Arts after 10 hours and 23 minutes, claiming the $2,000 first prize with an average overall speed of 5.0 mph.\n\n## Snow drifts and six starters in Jackson Park\n\nHermann H. Kohlsaat, proprietor of the Chicago Times-Herald, announced the event on July 10, 1895, offering a total purse of $5,000 to stimulate domestic automobile engineering and increase newspaper circulation. Seeking an alternative to the cumbersome phrase \"horseless carriage,\" the newspaper sponsored a $500 naming contest that selected the label \"motocycle\". Organizers initially mapped a 100-mile course to Milwaukee, but deep mud and unpaved roads forced a revision to Waukegan and a target date of November 2.\n\nWhen only two cars were ready on November 2, the paper converted the run into a 100-mile exhibition for a $500 prize. Oscar B. Mueller won that purse in a German Benz Vis-à-vis after Duryea swerved into a ditch at Prairie View to avoid a farmer's wagon, wrecking a wheel. Municipal authorities also halted cars entering Chicago, declaring that motor wagons possessed no legal right to use city streets without horses. The race was postponed to Thanksgiving Day while the newspaper successfully lobbied the Chicago city council to pass an ordinance legalizing self-propelled road vehicles.\n\n## Forges, frostbite and horse sleighs on the road to Evanston\n\nEighty-three entries had registered, but incomplete builds, transit delays, and mechanical failures reduced the Thanksgiving field to six. Early favorite Elwood Haynes suffered vehicle damage while driving to Chicago and withdrew. The final starting grid featured four gasoline vehicles—Duryea's wagon and three Benz carriages imported through French agent Emile Roger—alongside two battery-powered entries: a Sturges Electro Motocycle and a Morris & Salom Electrobat.\n\nThe electric cars, lacking arranged roadside charging stations, stalled on the course's grades and succumbed to freezing temperatures. Shortly after departing Jackson Park, one Benz slipped on wet tram tracks and collided with a horse-drawn streetcar, forcing its retirement. Duryea started at 8:55 a.m. but suffered two breakdowns that required stops at local blacksmith shops for forge repairs. Having designed and constructed the vehicle himself, Duryea completed the repairs and resumed driving. Over the final 12 miles from Douglas Park, he followed a horse-drawn sleigh that broke a path through deep drifts.\n\nMueller's Benz started at 10:06 a.m. with twine wrapped around its solid-rubber tires and sanded drive belts to reduce slippage. As night fell, Mueller collapsed from cold exposure. Race umpire Charles Brady King took the steering lever at course point 31 and guided the Benz across the finish line at 8:53 p.m. Mueller was awarded second place with an elapsed time of 10 hours 47 minutes (running time 9 hours 32 minutes) at an average speed of 4.9 mph.\n\n## From a 5 mph crawl to an American industry\n\nDuryea crossed the line at 7:18 p.m., recording a running time of 7 hours and 53 minutes, or 6.7 mph (11 km/h) while in motion. Only the Duryea and Mueller's Benz finished the course. King later wrote that the contest proved the operational superiority of pneumatic tires over solid rubber on winter roads.\n\nThe Thanksgiving race demonstrated that internal combustion engines could function in harsh winter climates where electric batteries failed. The publicity and the $2,000 winner's check gave Frank and his brother Charles Duryea the capital needed to commercialize the Duryea Motor Wagon Company. Their victory established the viability of American automobile manufacturing and marked the starting point of organized motor racing in the United States.",
+      "social_post": "83 vehicles entered, but only 6 made the starting line in freezing snow, and just 2 reached the finish. On November 28, 1895, the Chicago Times-Herald race staged America's first automobile competition over 54 miles from Jackson Park to Evanston. Frank Duryea won at an average speed of 5.0 mph after 10 hours and 23 minutes, battling breakdowns and snowdrifts. Could you have endured a 10-hour race in an open carriage at 4°C? Share your thoughts below! #MotorsportHistory #OnThisDay #AutoRacing"
+    },
+    "zh": {
+      "headline": "历史上的今天（1895）：弗兰克·杜里埃在芝加哥暴雪中赢得美国首场汽车拉力赛",
+      "seo_title": "1895芝加哥汽车赛：杜里埃夺得美国历史首冠",
+      "subheadline": "历经暴雪、抛锚以及与有轨马车的碰撞，杜里埃以时速5英里跑完54英里，斩获《时代先驱报》大奖。",
+      "body_markdown": "1895年11月28日，美国竞技赛车运动在芝加哥的冰雪与泥泞中拉开战幕，六辆无马客车（horseless vehicles）正式出战《芝加哥时代先驱报》（Chicago Times-Herald）汽车赛。这条全长54英里（87公里）的赛道从杰克逊公园（Jackson Park）延伸至埃文斯顿（Evanston）并折返，让早期的公路机械在华氏38度（摄氏4度）的泥泞与积雪中接受严苛考验。弗兰克·杜里埃（Frank Duryea）驾驶由汽油驱动的杜里埃汽车（Duryea Motor Wagon），历时10小时23分钟，在美术宫（Palace of Fine Arts）附近率先冲过终点线，以5.0英里的全程平均时速斩获2000美元的冠军大奖。\n\n## 积雪严寒与杰克逊公园的六位发车者\n\n《芝加哥时代先驱报》掌门人赫尔曼·H·科尔萨特（Hermann H. Kohlsaat）于1895年7月10日宣布举办这项赛事，设立了总计5000美元的奖金池，旨在推动本土汽车工程技术发展并拉动报纸发行量。为了替换当时拗口的「无马客车」这一称谓，该报还出资500美元举办命名征集活动，最终选定了「机动车」（motocycle）一词。赛事组织者最初规划了一条通往密尔沃基的100英里赛道，但因路况泥泞、未铺装路面难行，不得不将路线缩减至沃基根（Waukegan），并将比赛日期定在11月2日。\n\n然而到了11月2日，仅有两辆车整备就绪，主办方遂将比赛改为一场争夺500美元奖金的100英里表演赛。在这场较量中，杜里埃在普雷里维尤（Prairie View）为避让一辆农夫的大车冲入路沟砸坏车轮，奥斯卡·B·穆勒（Oscar B. Mueller）驾驶一辆德国造奔驰（Benz）Vis-à-vis夺得奖金。与此同时，市政当局还扣停了进城的赛车，宣称未经马匹牵引的机动车辆没有在城市街道行驶的法定权利。正赛因此被推迟至感恩节当天举行，期间该报成功游说芝加哥市议会通过法令，确立了自走式公路车辆通行的合法性。\n\n## 铁匠铺、冻伤与通往埃文斯顿路上的马拉雪橇\n\n赛事原本吸引了多达83辆赛车报名，但因工期未完、运输延误以及机械故障，感恩节当天的发车名单锐减至6辆。赛前热门埃尔伍德·海因斯（Elwood Haynes）在驱车前往芝加哥途中遭遇车损，无奈退赛。最终的发车排位由四辆汽油动力车组成——杜里埃的自制汽车以及通过法国代理人埃米尔·罗杰（Emile Roger）进口的三辆奔驰客车；另外还有两辆蓄电池动力车：一辆斯特吉斯（Sturges）电动摩托车和一辆莫里斯与萨洛姆（Morris & Salom）生产的Electrobat。\n\n这两辆电动车由于沿途未设充电补给站，在赛道坡道处屡屡趴窝，终究难敌零下低温。一辆奔驰车在驶出杰克逊公园后不久，便在湿滑的轨道上失控与一辆有轨马车相撞，被迫退赛。杜里埃于上午8点55分发车，途中两次遭遇机械故障，不得不就近借用当地铁匠铺的锻炉敲打抢修。由于整车皆由其亲手设计制造，杜里埃顺利完成修复并重返赛道。在从道格拉斯公园（Douglas Park）出发的最后12英里路程中，他紧紧跟在一辆马拉雪橇身后，借其开辟出穿透深厚积雪的通路。\n\n穆勒驾驶的奔驰车于上午10点06分发车，其特意在实心橡胶轮胎上缠绑麻绳，并在传动皮带上撒上细沙以防打滑。夜幕降临后，穆勒因严寒侵袭失温倒下。赛事裁判查尔斯·布雷迪·金（Charles Brady King）在赛道第31个检查点接管方向舵手柄，并操纵赛车于晚上8点53分冲过终点。穆勒最终获得亚军，总用时10小时47分钟（净行驶时间9小时32分钟），平均时速为4.9英里。\n\n## 从时速5英里的蹒跚起步到美国汽车工业的诞生\n\n杜里埃在当晚7点18分率先撞线，记录的净行驶时间为7小时53分钟，行驶过程中的平均时速为6.7英里（11公里/小时）。全场最终仅有杜里埃和穆勒的奔驰两辆赛车跑完全程。金在赛后写道，这场角逐证明了充气轮胎在冬季路况下较实心橡胶轮胎具有无与伦比的运行优越性。\n\n这场感恩节大赛用事实证明，在蓄电池失灵的严寒极境下，内燃机完全可以稳定运行。巨大的舆论声量加上2000美元的冠军支票，为弗兰克与兄长查尔斯·杜里埃（Charles Duryea）提供了将杜里埃汽车公司（Duryea Motor Wagon Company）推向商业化所需的启动资本。他们的胜利不仅确立了美国汽车制造业的可行性，更正式铸就了全美有组织赛车运动的起点。",
+      "social_post": "83辆车报名，仅6辆顶着暴雪起跑，最终仅2辆冲过终点！1895年11月28日，《芝加哥时代先驱报》大赛拉开了全美赛车运动的序幕。弗兰克·杜里埃历经抛锚与深雪跋涉，历时10小时23分钟、以5.0英里的时速跑完54英里夺冠。如果在4°C严寒中坐在一辆无顶棚的简易机动车上颠簸10个小时，你能顶得住吗？欢迎在评论区聊聊！#赛车历史 #历史上的今天 #汽车运动"
+    },
+    "ru": {
+      "headline": "В этот день в 1895 году: Фрэнк Дюриа выиграл первую в истории США автогонку среди снегов Чикаго",
+      "seo_title": "Гонка в Чикаго 1895: Фрэнк Дюриа выиграл первую автогонку в США",
+      "subheadline": "Превозмогая метель, поломки и столкновения с конкой, Дюриа преодолел 54 мили со средней скоростью 5 миль/ч и забрал главный приз Times-Herald.",
+      "body_markdown": "28 ноября 1895 года в снегу и грязи Чикаго зародился американский автоспорт: шесть самоходных повозок вышли на старт гонки Chicago Times-Herald. Маршрут длиной 54 мили (87 км) пролегал из Джексон-парка в Эванстон и обратно, став суровым испытанием для первых дорожных машин в условиях мокрого снега и сугробов при температуре 4 °C (38 °F). Фрэнк Дюриа (Frank Duryea) на бензиновом Duryea Motor Wagon первым пересек финишную черту возле Дворца изящных искусств спустя 10 часов и 23 минуты, завоевав главный приз в размере 2000 долларов со средней скоростью 5,0 миль в час.\n\n## Сугробы и шестеро смелых в Джексон-парке\n\nИздатель газеты Chicago Times-Herald Герман Х. Колсат (Hermann H. Kohlsaat) анонсировал соревнование 10 июля 1895 года, учредив общий призовой фонд в 5000 долларов, чтобы подстегнуть развитие отечественного автостроения и поднять тиражи издания. Желая найти замену громоздкому термину «безлошадный экипаж» (horseless carriage), газета провела конкурс с призом в 500 долларов, победителем которого стало слово «мотоцикл» (motocycle — в значении любого самоходного экипажа). Изначально организаторы наметили 100-мильный маршрут до Милуоки, однако глубокая грязь и отсутствие мощеных дорог вынудили перенести финиш в Уокиган, а дату старта назначить на 2 ноября.\n\nКогда ко 2 ноября оказались готовы лишь два автомобиля, редакция превратила заезд в 100-мильную демонстрационную гонку с призом в 500 долларов. Победу одержал Оскар Б. Мюллер (Oscar B. Mueller) на немецком «Бенце» (Benz) Vis-à-vis, в то время как Дюриа у Прейри-Вью свернул в кювет, уклоняясь от фермерской повозки, и сломал колесо. К тому же муниципальные власти запретили машинам въезд в Чикаго, заявив, что моторные повозки не имеют законного права появляться на городских улицах без упряжки лошадей. Заезд отложили до Дня благодарения, а газета тем временем успешно пролоббировала в городском совете Чикаго постановление, легализовавшее самоходный транспорт.\n\n## Кузницы, обморожения и конные сани по пути в Эванстон\n\nЗаявки подали 83 участника, однако из-за незавершенной сборки, задержек при транспортировке и механических поломок ко Дню благодарения на стартовой решетке осталось всего шестеро. Один из фаворитов, Элвуд Хейнс (Elwood Haynes), повредил машину по пути в Чикаго и снялся с дистанции. В итоге на старт вышли четыре бензиновых экипажа — повозка Дюриа и три «Бенца», импортированных через французского агента Эмиля Роже (Emile Roger), — а также два электромобиля: Sturges Electro Motocycle и Morris & Salom Electrobat.\n\nЭлектрокары, лишенные сети подзарядки на трассе, безнадежно застревали на подъемах и сдавались под натиском минусовой температуры. Вскоре после выезда из Джексон-парка один из «Бенцев» поскользнулся на мокрых рельсах и врезался в конку, сойдя с дистанции. Дюриа стартовал в 8:55 утра, но пережил две поломки, потребовавшие ремонта в местных кузницах. Поскольку конструкцию машины Фрэнк разработал сам от начала до конца, он лично справился с починкой и продолжил путь. На последних 12 милях от Дуглас-парка он держался за конными санями, пробивавшими колею сквозь глубокие сугробы.\n\n«Бенц» Мюллера ушел на дистанцию в 10:06 утра с бечевкой, обмотанной вокруг цельнолитых резиновых шин, и посыпанными песком приводными ремнями для уменьшения пробуксовки. С наступлением темноты Мюллер потерял сознание от переохлаждения. Судья гонки Чарльз Брейди Кинг (Charles Brady King) перехватил рулевой рычаг на 31-й контрольной отметке и довел машину до финиша в 20:53. Мюллеру присудили второе место с общим временем 10 часов 47 минут (чистое время в движении — 9 часов 32 минуты) при средней скорости 4,9 мили в час.\n\n## От черепашьего темпа к промышленному гиганту\n\nДюриа пересек финишную черту в 19:18, показав чистое время в движении 7 часов 53 минуты, что соответствовало средней скорости 6,7 мили в час (11 км/ч). Дистанцию преодолели только экипажи Дюриа и Мюллера. Позже Кинг подчеркивал в отчетах, что гонка наглядно доказала превосходство пневматических шин над литой резиной на зимней трассе.\n\nЗаезд в День благодарения доказал жизнеспособность двигателей внутреннего сгорания в суровых зимних условиях, где аккумуляторы оказались бессильны. Громкий резонанс и чемпионский чек на 2000 долларов дали Фрэнку и его брату Чарльзу Дюриа (Charles Duryea) стартовый капитал для масштабирования Duryea Motor Wagon Company. Их триумф доказал перспективность американского автомобилестроения и заложил фундамент профессионального автоспорта в Соединенных Штатах.",
+      "social_post": "Из 83 заявок до старта в снежную бурю добрались лишь шестеро, а до финиша — всего двое! 28 ноября 1895 года гонка Chicago Times-Herald открыла эру американского автоспорта на 54-мильной трассе. Фрэнк Дюриа победил со средней скоростью 5 миль/ч за 10 часов 23 минуты, сражаясь с поломками и сугробами. А вы смогли бы выдержать 10 часов в открытом экипаже при 4°C? Делитесь в комментариях! #Автоспорт #ВЭтотДень #ИсторияАвто"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/DuryeaBrothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:DuryeaBrothers.jpg",
+        "artist": "Unknown author Unknown author",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Photo of Charles (left) and J. Frank Duryea in the 1894 Duryea gasoline car.",
+        "width": 1200,
+        "height": 1080,
+        "year": 2009,
+        "subject": "J. Frank Duryea",
+        "asked": "Frank Duryea",
+        "page_title": "J. Frank Duryea",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:duryeabrothers.jpg|J. Frank Duryea",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Two men seated in an early 1890s Duryea motor wagon",
+          "reason": "Historic photograph accurately depicts early automotive pioneer J. Frank Duryea in a Duryea gasoline automobile.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Museum_of_Science_and_Industry_%28Chicago%29.jpg/1280px-Museum_of_Science_and_Industry_%28Chicago%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Museum_of_Science_and_Industry_(Chicago).jpg",
+        "artist": "zooey from Chicago, Illinois USA",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "description": "The Museum of Science and Industry, from the south side by the lagoon.",
+        "width": 1200,
+        "height": 845,
+        "year": 2007,
+        "subject": "Museum of Science and Industry (Chicago)",
+        "asked": "Museum of Science and Industry (Chicago)",
+        "page_title": "Museum of Science and Industry (Chicago)",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:museum_of_science_and_industry_(chicago).jpg|Museum of Science and Industry (Chicago)",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Museum of Science and Industry in Chicago",
+          "reason": "The photo accurately shows the Museum of Science and Industry in Chicago across the lagoon, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Carl_Benz_circa_1920.jpg/1280px-Carl_Benz_circa_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Carl_Benz_circa_1920.jpg",
+        "artist": "Unknown (same photo credited to various stock photo agencies. The copyright is also claimed by the Mercedes-Benz Public ",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Portrait photograph of Carl Benz, dated to around 1920",
+        "width": 1200,
+        "height": 1600,
+        "year": 2026,
+        "subject": "Carl Benz",
+        "asked": "Karl Benz",
+        "page_title": "Carl Benz",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:carl_benz_circa_1920.jpg|Carl Benz",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Karl Benz' but the photo comes from the page 'Carl Benz'"
+          ],
+          "shows": "Portrait of German automotive engineer Carl Benz",
+          "reason": "The photograph accurately depicts automobile pioneer Carl Benz as identified in the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 3 captioned 'Carl Benz' looks WRONG (shows Portrait of German automotive engineer Carl Benz; asked for 'Karl Benz' but the photo comes from the page 'Carl Benz'; The photograph accurately depicts automobile pioneer Carl Benz as identified in the caption.). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Duryea's winning share of the prize was $2,000 out of the $5,000 total purse offered by the Chicago Times-Herald."
+      }
+    ]
+  },
+  {
+    "id": "2026-11-28-news-c2986b",
+    "slug": "sotto-and-debutant-boatwright-dominate-as-gilas-pilipinas-ro",
+    "date": "2026-11-28",
+    "created": "2026-11-28T01:30:06+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Basketball",
+    "tags": [
+      "FIBA Basketball World Cup 2027",
+      "Gilas Pilipinas",
+      "Philippines Basketball",
+      "Kai Sotto",
+      "Bennie Boatwright",
+      "Asian Qualifiers"
+    ],
+    "athletes": [
+      "Kai Sotto",
+      "Bennie Boatwright",
+      "Kevin Quiambao",
+      "Juan Gomez de Liaño",
+      "CJ Perez",
+      "Mike Phillips",
+      "Tim Cone"
+    ],
+    "image_subjects": [
+      "Kai Sotto",
+      "Bennie Boatwright",
+      "Philippines men's national basketball team",
+      "Tim Cone"
+    ],
+    "match": {
+      "competition": "FIBA Basketball World Cup 2027 Asian Qualifiers",
+      "date": "27 November 2026",
+      "home": "Syria",
+      "away": "Philippines",
+      "home_score": 58,
+      "away_score": 97,
+      "home_scorers": [
+        "Atli 12",
+        "Harrison 10"
+      ],
+      "away_scorers": [
+        "Quiambao 18",
+        "Sotto 18",
+        "Boatwright 16",
+        "Gomez de Liaño 11",
+        "Perez 10",
+        "Phillips 10"
+      ],
+      "note": "Philippines improve to 5-4 in Group E"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Syria vs Philippines - Second Round - FIBA Basketball World Cup 2027 Asian Qualifiers",
+        "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/games/124233-SYR-PHI"
+      },
+      {
+        "title": "Gilas rout Syria to climb into three-way tie for third in World Cup qualifiers",
+        "url": "https://tiebreakertimes.com.ph/tbt/gilas-rout-syria-to-climb-into-three-way-tie-for-third-in-world-cup-qualifiers/351659"
+      },
+      {
+        "title": "FIBA: Scorching hot Gilas Pilipinas deals Syria 39-pt beating as Boatwright debuts",
+        "url": "https://news.abs-cbn.com/sports/2026/11/27/fiba-scorching-hot-gilas-pilipinas-deals-syria-39-pt-beating-as-boatwright-debuts-2144"
+      },
+      {
+        "title": "manilastandard.net",
+        "url": "https://manilastandard.net/sports/basketball/314824104/gilas-crushes-syria-in-fiba-asian-qualifiers-window-5.html"
+      },
+      {
+        "title": "sportsbytes.com.ph",
+        "url": "https://sportsbytes.com.ph/2026/11/27/gilas-pilipinas-crushes-syria-iran-clash/"
+      },
+      {
+        "title": "abs-cbn.com",
+        "url": "http://news.abs-cbn.com/sports/basketball/2026/11/27/fiba-scorching-hot-gilas-pilipinas-deals-syria-39-pt-beating-2144"
+      },
+      {
+        "title": "fiba.basketball",
+        "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/dawn-of-a-new-era-as-gilas-parade-frontcourt-of-the-future"
+      },
+      {
+        "title": "philstar.com",
+        "url": "https://www.philstar.com/sports/2026/11/27/2573114/boatwright-debuts-bang-gilas-blasts-syria"
+      },
+      {
+        "title": "tiebreakertimes.com.ph",
+        "url": "https://tiebreakertimes.com.ph/tbt/gilas-rout-syria-to-climb-into-three-way-tie-for-third-in-world-cup-qualifiers/391138"
+      },
+      {
+        "title": "gmanetwork.com",
+        "url": "https://www.gmanetwork.com/news/sports/basketball/1010990/gilas-pilipinas-dominates-syria-in-bennie-boatwright-s-fiba-world-cup-asian-qualifiers-debut/story/"
+      },
+      {
+        "title": "pba.ph",
+        "url": "https://www.pba.ph/news/hot-shooting-gilas-whips-syria"
+      },
+      {
+        "title": "365scores.com",
+        "url": "https://www.365scores.com/en-us/basketball/match/world-cup-qualifications-asia-6977/philippines-syria-20837-48864-6977"
+      },
+      {
+        "title": "fiba.basketball",
+        "url": "https://www.fiba.basketball/en/events/fiba-basketball-world-cup-2027-asian-qualifiers/news/kevin-quiambao-catches-fire-as-tallest-gilas-oust-syria"
+      },
+      {
+        "title": "Olympics: FIBA Basketball World Cup 2027 Asian Qualifiers: Kai Sotto and debutant Bennie Boatwright shine in Philippines' win over Syria",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVNXaFdmZFVNc00yR05YQ1gwUEV3TXVUZElrSUZPbk5WUGdlTlhYOWpEUE5KdFJRbkhrbDNMM1A4X3RsZDJDT0pWUElRa1dUdm5HSkhUc3JQS0NoRG1HX3lOZTRsTm5mSGFDbUIwSmh4LWRsX2t4ek83UHh6VXpzSUdLSjNhX3RmVTAyUnptbEtzS2VZczRFRUE0UEhSRmRRQk83Rk9oa1JJRzA?oc=5"
+      },
+      {
+        "title": "FIBA: FIBA Women's Basketball World Cup 2026 honored at annual Weibo Sports Awards",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0VucFBrdHVQQXVrZjlOcFdGdnZYYUhIN1VuRkNaaFNraHBnLS1idVU0NlBvbUxaRVB2V3RLM1JFa01DVDBRVFdla3EyWjlocWRqZ1FGeld5X2p1Qml0TGtUMWpDbUhLOV9fV3BpcmZSX3VvQ2p0azNQaWFQNkRxR2hGS0hETUdraGs0ckRKRUJXcm1yemZnQzNIQ3pnU0Z6N3dYZGJPeXhhVV96RUpncg?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Sotto and Debutant Boatwright Dominate as Gilas Pilipinas Rout Syria 97-58",
+      "seo_title": "Philippines 97-58 Syria: Sotto and Boatwright dominate",
+      "subheadline": "A 39-point victory in Malaysia lifts the Philippines to 5-4 in FIBA World Cup qualifying ahead of a pivotal clash with Iran.",
+      "body_markdown": "Gilas Pilipinas recorded a 97-58 victory over Syria on Friday, 27 November 2026, at the Karisma Arena in Seremban, Malaysia, to open the fifth window of the FIBA Basketball World Cup 2027 Asian Qualifiers. The 39-point margin gave the Philippines their third consecutive win in Group E and lifted their overall qualifying record to 5-4.\n\nNaturalized power forward Bennie Boatwright collected 16 points and 13 rebounds in his national team debut, partnering center Kai Sotto in the frontcourt. Sotto posted 18 points and 10 rebounds in 17 minutes and 40 seconds on the court. Head coach Tim Cone commended Boatwright's fast adjustment, stating, \"We only had a few practices with Bennie Boatwright, and yet, he's fitting into us like a glove. He didn't go out and force anything, and stayed in what we do\".\n\n## Record shooting breaks the deadlock\n\nAfter an 18-18 tie in the opening quarter, the Philippines built a 43-32 advantage by halftime behind a 21-6 scoring run. Kevin Quiambao scored 18 points off the bench, converting six three-pointers on eight attempts to set a single-game record for a Philippine player in the qualifiers. Gilas outscored Syria 29-13 in the third quarter and 25-13 in the fourth, extending the advantage to a peak of 40 points at 95-55. Juan Gomez de Liaño added 11 points, while CJ Perez and Mike Phillips contributed 10 points apiece.\n\n## Glass control and defensive clamps\n\nThe Philippines controlled the interior, finishing with a 60-30 rebounding advantage and outscoring Syria 42-26 inside the paint. Gilas made 14 of 28 attempts from beyond the arc (50 percent) while limiting Syria to 30.6 percent shooting from the floor. Syrian naturalized guard D'Angelo Harrison scored 10 points on 3-of-15 shooting, while Mohamad Bilal Atli led the Syrian offense with 12 points and nine rebounds. The loss dropped Syria to 2-7, eliminating them from World Cup contention.\n\n## Group E standings tighten\n\nThe victory pulled the Philippines into a three-way tie for third place in Group E alongside Jordan and Iran at 5-4. Earlier on Friday, undefeated Australia clinched their spot at the 2027 World Cup at 9-0 by beating Iran 84-67, while New Zealand defeated Jordan 103-64 to improve to 7-2. Gilas face Iran on Sunday, 29 November, at the Karisma Arena before concluding the qualifying tournament on home soil in Cebu City in February 2027.",
+      "social_post": "From Seremban to Manila 🇵🇭 Gilas Pilipinas dismantled Syria 97-58 to seize control of their World Cup qualifying fate. Bennie Boatwright posted 16 points and 13 rebounds on debut, while Kai Sotto matched Kevin Quiambao's 18-point haul. With 14 triples and a 60-30 rebounding edge, the Philippines are tied for third in Group E before Sunday's clash with Iran. Can this frontcourt carry Gilas to the 2027 World Cup? Share your thoughts below. #GilasPilipinas #FIBAWC #LabanPilipinas"
+    },
+    "zh": {
+      "headline": "索托联袂新援博特赖特统治内线，菲律宾男篮97-58大胜叙利亚",
+      "seo_title": "菲律宾97-58叙利亚：索托与博特赖特双塔闪耀",
+      "subheadline": "在马来西亚狂胜39分后，菲律宾队将世预赛战绩提升至5胜4负，即将迎来与伊朗的关键战。",
+      "body_markdown": "2026年11月27日周五，2027年国际篮联篮球世界杯亚大区预选赛第五窗口期拉开战幕。在马来西亚芙蓉市的卡里斯马体育馆（Karisma Arena），菲律宾男篮以97-58狂胜叙利亚男篮。这场39分的大胜不仅让菲律宾队收获E组三连胜，也将其预选赛总战绩改写为5胜4负。\n\n归化大前锋本尼·博特赖特（Bennie Boatwright）迎来国家队首秀，他与中锋凯·索托搭档镇守禁区，砍下16分和13个篮板的两双数据。索托在登场的17分40秒内高效贡献18分和10个篮板。主教练蒂姆·科恩盛赞了博特赖特的迅速融入：“我们和本尼只合练了几次，但他就像严丝合缝的手套一样迅速融入了体系。他上场后没有丝毫勉强，完全契合我们的战术打法。”\n\n## 破纪录三分雨打破僵局\n\n首节战成18-18平后，菲律宾队打出一波21-6的进攻高潮，在半场结束时建立起43-32的领先优势。替补登场的凯文·基安堡（Kevin Quiambao）手感滚烫，三分球8投6中轰下18分，刷新了菲律宾球员在世预赛单场三分球命中纪录。第三节和第四节，菲律宾队分别打出29-13和25-13的单节比分，并在比分达到95-55时将领先优势扩大到全场最大的40分。胡安·戈麦斯·德利亚尼奥（Juan Gomez de Liaño）添上11分，CJ·佩雷斯与迈克·菲利普斯（Mike Phillips）则各自贡献10分。\n\n## 掌控篮板与窒息防守\n\n菲律宾队彻底统治了油漆区，全场篮板球以60-30碾压对手，内线得分也以42-26占据绝对优势。全场比赛，菲律宾队外线28投14中，三分命中率高达50%，同时将叙利亚队的全场投篮命中率死死压制在30.6%。叙利亚归化后卫德安吉洛·哈里森（D'Angelo Harrison）全场15投仅3中仅得10分，穆罕默德·比拉尔·阿特利（Mohamad Bilal Atli）拿下全队最高的12分和9个篮板。此役落败后，叙利亚队战绩跌至2胜7负，彻底无缘2027年世界杯。\n\n## E组出线争夺日趋白热化\n\n这场大胜让菲律宾队战绩升至5胜4负，与约旦和伊朗在E组并列第三。在周五早先进行的比赛中，保持不败的澳大利亚队以84-67战胜伊朗队，以9胜0负的傲人战绩提前锁定2027年世界杯门票；新西兰队则以103-64大胜约旦队，战绩提升至7胜2负。11月29日周日，菲律宾队将继续在卡里斯马体育馆迎战伊朗队，随后他们将在2027年2月回到本土宿务市，完成世预赛的最后征程。",
+      "social_post": "从芙蓉市到马尼拉🇵🇭！菲律宾男篮97-58大胜叙利亚，牢牢握住世预赛出线主动权。新归化博特赖特首秀砍下16分13板，索托同砍18分两双比肩基安堡的6记三分！全场14记三分+篮板60-30碾压，菲律宾升至E组并列第三。周日决战伊朗，你看好这套内线双塔带队杀入2027世界杯吗？欢迎留言讨论！ #菲律宾男篮 #FIBA世界杯 #男篮世预赛"
+    },
+    "ru": {
+      "headline": "Сотто и дебютант Боутрайт разгромили Сирию: «Гилас Пилипинас» побеждают 97:58",
+      "seo_title": "Филиппины — Сирия 97:58: дубль Сотто и Боутрайта",
+      "subheadline": "Разгром с разницей в 39 очков в Малайзии вывел филиппинцев на показатель 5-4 в квалификации Кубка мира перед важнейшей битвой с Ираном.",
+      "body_markdown": "В пятницу, 27 ноября 2026 года, сборная Филиппин («Гилас Пилипинас») открыла пятое окно азиатской квалификации Кубка мира ФИБА 2027 года сверхуверенной победой над Сирией со счетом 97:58 на арене «Карисма» в малайзийском Серембане. Преимущество в 39 очков принесло филиппинцам третью викторию кряду в группе E и улучшило их общий баланс побед и поражений до 5-4.\n\nНатурализованный тяжелый форвард Бенни Боутрайт (Bennie Boatwright) в своем дебютном матче за национальную команду оформил дабл-дабл — 16 очков и 13 подборов, составив мощный тандем в передней линии с центровым Каем Сотто. Сам Сотто набрал 18 очков и сделал 10 подборов всего за 17 минут и 40 секунд на паркете. Главный тренер Тим Коун высоко оценил скорость адаптации Боутрайта: «Мы провели с Бенни всего пару тренировок, но он вписался в наш рисунок игры как влитой. Он не форсировал события и действовал строго в рамках нашей системы».\n\n## Рекордные трехочковые сломали сопротивление\n\nПосле ничьей 18:18 в стартовой четверти филиппинцы выдали рывок 21:6 и ушли на большой перерыв с комфортным перевесом — 43:32. Вышедший со скамейки Кевин Киамбао (Kevin Quiambao) настрелял 18 очков, реализовав 6 из 8 трехочковых, что стало рекордом для филиппинских игроков в одном матче квалификации. В третьем и четвертом отрезках «Гилас» попросту смели соперника (29:13 и 25:13 соответственно), доведя максимальный отрыв до 40 очков при счете 95:55. Хуан Гомес де Лианьо (Juan Gomez de Liaño) добавил в копилку 11 очков, а Си Джей Перес и Майк Филлипс (Mike Phillips) отметились 10 баллами каждый.\n\n## Тотальный контроль щитов и бетонная защита\n\nФилиппинцы безраздельно властвовали под кольцом: двукратное преимущество по подборам (60:30) и превосходство по очкам из трехсекундной зоны (42:26). С периметра подопечные Коуна атаковали с гроссмейстерской точностью — 14 точных попаданий из 28 попыток (50%), при этом они связали нападение сирийцев по рукам и ногам, позволив тем реализовать лишь 30,6% бросков с игры. Натурализованный защитник сборной Сирии Д’Анджело Харрисон (D'Angelo Harrison) набрал 10 очков, смазав 12 из 15 бросков, а самым результативным у проигравших стал Мохамад Билал Атли с 12 очками и 9 подборами. Поражение опустило Сирию на показатель 2-7 и окончательно лишило шансов на поездку на мировое первенство.\n\n## Плотность в группе E накаляется\n\nБлагодаря этой победе филиппинцы делят третье место в группе E с Иорданией и Ираном (у всех — по 5-4). Ранее в пятницу непобедимая Австралия гарантировала себе путевку на ЧМ-2027 (9-0), обыграв Иран со счетом 84:67, а Новая Зеландия разгромила Иорданию 103:64, поднявшись до показателя 7-2. В воскресенье, 29 ноября, «Гилас» сойдутся в очном споре с Ираном на арене «Карисма», а завершать отборочный цикл команда будет уже на домашней площадке в Себу в феврале 2027 года.",
+      "social_post": "Уверенная поступь «Гилас Пилипинас»! 🇵🇭 Филиппины разгромили Сирию со счетом 97:58 в отборе на ЧМ-2027. Бенни Боутрайт в дебютном матче собрал 16 очков и 13 подборов, Кай Сотто оформил 18+10, а Кевин Киамбао заложил 6 «трешек»! С преимуществом по подборам 60:30 филиппинцы делят 3-е место в группе. Впереди — важнейший бой с Ираном в воскресенье. Выйдет ли эта сборная на Кубок мира? Делитесь мнением в комментариях! #Баскетбол #ЧМ2027 #FIBAWC #GilasPilipinas"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_sotto_yokohama_b_corsairs_b_league.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg",
+        "artist": "Jericho Martinez",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "kai sotto yokohama b corsairs b league",
+        "width": 1200,
+        "height": 1938,
+        "year": 2024,
+        "subject": "Kai Sotto",
+        "asked": "Kai Sotto",
+        "page_title": "Kai Sotto",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:kai_sotto_yokohama_b_corsairs_b_league.jpg|Kai Sotto",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Kai Sotto in a Yokohama B-Corsairs basketball uniform",
+          "reason": "The photo clearly shows Filipino basketball player Kai Sotto wearing his B.League team kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bennie_Boatwright_2026.jpg/1280px-Bennie_Boatwright_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg",
+        "artist": "MarcusAbacus",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Bennie Boatwright with the San Miguel Beermen in 2026",
+        "width": 1200,
+        "height": 1500,
+        "year": 2026,
+        "subject": "Bennie Boatwright",
+        "asked": "Bennie Boatwright",
+        "page_title": "Bennie Boatwright",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:bennie_boatwright_2026.jpg|Bennie Boatwright",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Bennie Boatwright wearing a San Miguel Beermen warm-up shirt during a basketball game",
+          "reason": "The photo clearly shows basketball player Bennie Boatwright in a San Miguel Beermen uniform at a PBA game.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg",
+        "artist": "Jess Escaros for the Philippine News Agency",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "The Ginebra champion team led by coach Tim Cone, team manager Al Francis Chua and Ramon Ang (right), chief of San Miguel Corporation, celebrate during the victory party held at the San Miguel Corporat",
+        "width": 1200,
+        "height": 1794,
+        "year": 2018,
+        "subject": "Tim Cone",
+        "asked": "Tim Cone",
+        "page_title": "Tim Cone",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:barangay_ginebra_pba_champions_victory_party_tim_cone(cropped).jpg|Tim Cone",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Basketball coach Tim Cone speaking into a microphone",
+          "reason": "The image clearly shows basketball coach Tim Cone speaking during a championship celebration.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-28-news-c2986b.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Strong claim 'debut': confirm it in a source before publishing"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-28-news-02e69a",
+    "slug": "arsenal-part-ways-with-head-coach-renee-slegers-after-form-s",
+    "date": "2026-11-28",
+    "created": "2026-11-28T01:28:42+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "football",
+    "tags": [
+      "Arsenal WFC",
+      "Renee Slegers",
+      "Women's Super League",
+      "Women's Champions League",
+      "Richard Garlick",
+      "Clare Wheatley"
+    ],
+    "athletes": [
+      "Renee Slegers",
+      "Melissa Clarke-Reed",
+      "Aaron D'Antino",
+      "Lianne Sanderson"
+    ],
+    "image_subjects": [
+      "Renée Slegers",
+      "Arsenal W.F.C.",
+      "Emirates Stadium"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Arsenal head coach Slegers leaves by mutual consent",
+        "url": "https://sports.yahoo.com/womens-college-basketball/articles/arsenal-head-coach-slegers-leaves-153538516.html"
+      },
+      {
+        "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
+        "url": "https://www.bbc.com/sport/football"
+      },
+      {
+        "title": "arsenal.com",
+        "url": "https://www.arsenal.com/news/renee-slegers-departs-as-arsenal-women-head-coach-a8p4A1D08eah"
+      },
+      {
+        "title": "goal.com",
+        "url": "https://www.goal.com/en-us/news/change-necessary-arsenal-part-ways-champions-league-winning-coach-renee-slegers-six-straight-home-draws/bltc00c2e086c07eaac"
+      },
+      {
+        "title": "itv.com",
+        "url": "https://www.itv.com/news/london/2026-11-27/renee-slegers-leaves-arsenal-after-poor-start-to-womens-super-league-season"
+      },
+      {
+        "title": "onefootball.com",
+        "url": "https://onefootball.com/en/news/slegers-had-to-go-but-arsenal-cannot-get-the-next-appointment-wrong-43852999"
+      },
+      {
+        "title": "onlinegooner.com",
+        "url": "https://www.onlinegooner.com/articles/view/who-is-new-arsenal-women-interim-head-coach-melissa-clarke-reed"
+      },
+      {
+        "title": "reddit.com",
+        "url": "https://www.reddit.com/r/ArsenalWFC/comments/1y6vgah/it_happened_now_how_do_we_feel/"
+      },
+      {
+        "title": "theguardian.com",
+        "url": "https://www.theguardian.com/football/2026/nov/27/renee-slegers-leaves-arsenal-women-head-coach"
+      },
+      {
+        "title": "the-independent.com",
+        "url": "https://www.the-independent.com/sport/football/renee-slegers-leaves-arsenal-wsl-b3092903.html"
+      },
+      {
+        "title": "BBC Sport: Head coach Slegers leaves Arsenal 18 months after Champions League win",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC: Arsenal head coach Slegers leaves by mutual consent",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SNWcxOThwUTY2VUpxRVJxY3JLYTlBbXNtbW1sNHBiNjEzclhQYS0xa3gtQTRkZEdjcFhtU2FybnVvaVNkbjlzZXdSVDdia2ZWZUx2U1FaVG1jTUhLQU5yc0lLR2JrY2NM?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.017,
+      "longest": 10,
+      "phrases": [
+        "parted company with head coach renee slegers by mutual consent",
+        "the inaugural fifa women's champions cup in february 2026",
+        "sixth in the women's super league after 11"
+      ]
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Arsenal Part Ways With Head Coach Renee Slegers After Form Slump",
+      "seo_title": "Arsenal part ways with head coach Renee Slegers",
+      "subheadline": "The Dutch coach departs 18 months after winning the Champions League as the Gunners sit 12 points off the WSL summit.",
+      "body_markdown": "Arsenal parted company with head coach Renee Slegers by mutual consent on Friday, ending her two-year tenure despite delivering European and world honours to north London. Assistant coach Aaron D'Antino, who joined the club in August 2018, also left his post. Assistant Melissa Clarke-Reed has assumed interim charge while Arsenal conduct a search for a permanent successor.\n\nThe 37-year-old Dutch coach exits with Arsenal sixth in the Women's Super League after 11 fixtures. The Gunners sit 12 points behind league leaders Chelsea and eight points adrift of London City Lionesses in the third and final Women's Champions League qualification position. Arsenal's domestic slide includes a four-match winless sequence in the WSL and six consecutive games without a victory at Emirates Stadium.\n\n## Goal drought seals managerial exit\n\nA blunt attack proved central to Arsenal's downturn. The Gunners have registered 11 goals across 11 league matches this season, fewer than half the tallies managed by London City Lionesses (31), Chelsea (29), and second-placed Manchester City (28).\n\nMounting scrutiny preceded the exit following a 2-0 home defeat against Lyon in the Champions League and a league draw against West Ham. In the wake of the Lyon fixture, former Arsenal and England forward Lianne Sanderson publicly questioned the team's cohesion and direction, telling FourFourTwo that a leadership transition was required. Slegers herself conceded following Sunday's draw with West Ham that the team had failed to create enough attacking opportunities and accepted accountability for the club's poor run.\n\n## From European silverware to domestic slide\n\nThe separation represents a rapid shift in fortunes. Slegers originally stepped in as interim manager in October 2024 before securing the permanent post three months later in January 2025. Her tenure produced silverware rapidly, securing Arsenal's second Women's Champions League crown in May 2025 and lifting the inaugural FIFA Women's Champions Cup in February 2026.\n\nHowever, domestic standards could not be sustained. Arsenal director of women's football Clare Wheatley acknowledged that while Slegers provided historic milestones, recent on-pitch performance fell short of requirements, making a leadership reset unavoidable. Chief executive Richard Garlick echoed that sentiment, emphasizing the club's resolve to compete for silverware consistently across every campaign.",
+      "social_post": "11 goals scored in 11 league matches and 12 points off the summit: Arsenal have parted company with head coach Renee Slegers by mutual consent. Just 18 months after lifting the Women's Champions League and winning the inaugural FIFA Women's Champions Cup, the Dutch coach leaves with the Gunners sixth in the WSL. Did Arsenal make the right call to cut ties now, or did Slegers deserve more time? Share your thoughts below. #WSL #Arsenal #UWCL #WomensFootball"
+    },
+    "zh": {
+      "headline": "战绩滑坡难以为继：阿森纳女足主帅斯勒格斯黯然下课",
+      "seo_title": "阿森纳女足与主帅斯勒格斯解约：近况低迷落后榜首12分",
+      "subheadline": "率队夺得欧冠仅18个月后，这位荷兰教头在球队落后英女超榜首12分的困境中交出教鞭。",
+      "body_markdown": "周五，阿森纳俱乐部宣布经双方协商一致，女足主教练蕾妮·斯勒格斯（Renee Slegers）正式离任。尽管在两年的执教历程中她曾为北伦敦带回欧战与世界级冠军奖杯，但依然未能抵挡战绩下滑的宿命。自2018年8月起在队任职的助理教练阿隆·丹蒂诺（Aaron D'Antino）也一同离职。目前，助教梅丽莎·克拉克-里德（Melissa Clarke-Reed）已接管临时教鞭，俱乐部同时启动了寻找正式继任者的程序。\n\n在斯勒格斯离职之际，37岁的荷兰人留给阿森纳的是11轮战罢后仅列英女超（WSL）第6位的尴尬战绩。枪手女足如今落后领头羊切尔西多达12分，距离位列第三、手握最后一张欧冠入场券的伦敦城雌狮（London City Lionesses）也有8分之差。国内赛场的断崖式下滑触目惊心：球队在联赛中已遭遇连续四轮不胜，并在酋长球场吞下了各项赛事连续六场不胜的苦果。\n\n## 锋线哑火敲响下课丧钟\n\n进攻端极度乏力成为了阿森纳崩盘的致命伤。本赛季迄今11场联赛中，枪手仅仅打入微不足道的11粒进球，相比之下，伦敦城雌狮轰入31球、切尔西打进29球、位列次席的曼城也有28球入账——阿森纳的火力甚至不足争冠对手的一半。\n\n在欧冠主场0-2不敌里昂、联赛又被西汉姆联逼平之后，针对斯勒格斯的质疑声被推上了风口浪尖。在里昂一役过后，前阿森纳兼英格兰女足前锋莉安·桑德森（Lianne Sanderson）公开对球队的凝聚力与技战术方向提出质疑，她在接受《FourFourTwo》采访时直言球队必须更换掌舵人。斯勒格斯本人在周日战平西汉姆联后也承认，球队创造出的进攻机会远远不够，并对近期的低迷表现承担全部责任。\n\n## 从欧冠折桂到断崖滑坡\n\n双方的分道扬镳，见证了足球世界里命运的残酷反转。斯勒格斯最初于2024年10月以临时主帅身份走马上任，凭借出色表现于三个月后的2025年1月转正。她的执教生涯起步堪称梦幻：2025年5月，她率队斩获俱乐部历史上的第二座女足欧冠冠军奖杯；2026年2月，她更是带队捧起了首届国际足联女足冠军杯（FIFA Women's Champions Cup）。\n\n然而，球队在国内赛场上始终无法维持这种高水准。阿森纳女足总监克莱尔·惠特利（Clare Wheatley）坦言，斯勒格斯虽然创造了历史性的里程碑，但近期的场上表现已难以达到俱乐部的标准，换帅重组已不可避免。俱乐部首席执行官理查德·加里克（Richard Garlick）也表达了相同看法，强调俱乐部在任何赛季都必须具备持续争冠的坚定决心。",
+      "social_post": "11轮联赛仅进11球，距榜首落后整整12分：阿森纳女足正式宣布与主教练蕾妮·斯勒格斯协商解约。率队捧起欧冠并夺得首届国际足联女足冠军杯仅仅18个月后，这位荷兰名帅便在球队位列英女超第6的困境中告别酋长球场。你认为阿森纳在此刻换帅是果断止损，还是斯勒格斯理应获得更多时间？欢迎在评论区留下你的看法！ #女足 #阿森纳 #英女超 #欧冠"
+    },
+    "ru": {
+      "headline": "«Арсенал» расстался с главным тренером Рене Слегерс на фоне затяжного спада",
+      "seo_title": "«Арсенал» уволил Рене Слегерс: от победы в ЛЧ до кризиса в WSL",
+      "subheadline": "Нидерландский специалист покидает пост спустя всего полтора года после триумфа в Лиге чемпионов — «канонирки» отстают от вершины WSL на 12 очков.",
+      "body_markdown": "В пятницу женский футбольный клуб «Арсенал» по обоюдному согласию сторон расторг контракт с главным тренером Рене Слегерс (Renee Slegers). Двухлетний этап у руля команды подошел к концу, несмотря на недавние победы на европейской и мировой аренах. Клуб также покинул ассистент главного тренера Аарон Д'Антино (Aaron D'Antino), работавший в Северном Лондоне с августа 2018 года. Временно исполняющей обязанности наставника назначена помощница Мелисса Кларк-Рид (Melissa Clarke-Reed), пока руководство ведет поиски постоянного преемника.\n\n37-летняя уроженка Нидерландов оставляет «Арсенал» на шестой строчке в таблице Женской суперлиги (WSL) после 11 туров. Лондонский клуб отстает от лидирующего «Челси» на 12 очков, а до идущих третьими «Лондон Сити Лайонессес» (London City Lionesses), занимающих последнюю путевку в Лигу чемпионов, не хватает восьми баллов. В национальном первенстве команда угодила в кризис: безвыигрышная серия в WSL достигла четырех матчей, а на домашнем «Эмирейтс» «канонирки» не могут победить уже шесть встреч кряду.\n\n## Беззубая атака решила судьбу тренера\n\nГлавным катализатором спада стала катастрофическая импотенция в атаке. За 11 туров чемпионата «Арсенал» сподобился лишь на 11 забитых мячей. Для сравнения: показатели прямых конкурентов выше более чем в два раза — у «Лондон Сити Лайонессес» 31 гол, у «Челси» 29, а у идущего вторым «Манчестер Сити» — 28.\n\nКресло под Слегерс зашаталось с особой силой после домашнего поражения 0:2 от «Лиона» в Лиге чемпионов и осечки в дерби с «Вест Хэмом». После матча с француженками экс-форвард «Арсенала» и сборной Англии Лианн Сандерсон (Lianne Sanderson) публично раскритиковала команду, заявив в интервью журналу FourFourTwo о потере ориентиров и необходимости смены руководства. Сама Слегерс после ничьей с «Вест Хэмом» в воскресенье признала, что команда создает критически мало моментов у чужих ворот, и взяла вину за спад на себя.\n\n## От еврокубкового триумфа до внутреннего крушения\n\nЭта отставка подчеркивает, насколько скоротечной бывает футбольная слава. Слегерс приняла команду в статусе «и. о.» в октябре 2024 года, а полноценный контракт подписала спустя три месяца — в январе 2025-го. Трофеи не заставили себя ждать: в мае 2025 года она привела «Арсенал» ко второй в истории клуба победе в Лиге чемпионов, а в феврале 2026-го завоевала дебютный Кубок женских чемпионов ФИФА (FIFA Women's Champions Cup).\n\nОднако держать планку на внутренней арене не удалось. Директор женского департамента «Арсенала» Клэр Уитли (Clare Wheatley) отметила, что при всех исторических заслугах Слегерс последние результаты на поле перестали соответствовать уровню клуба, сделав перезагрузку неизбежной. Исполнительный директор Ричард Гарлик (Richard Garlick) поддержал эту позицию, подчеркнув непоколебимое намерение клуба бороться за трофеи в каждом турнире из сезона в сезон.",
+      "social_post": "Всего 11 голов за 11 туров и 12 очков отставания от первого места: женский «Арсенал» объявил об уходе Рене Слегерс по согласию сторон. Прошло всего полтора года после триумфа в Лиге чемпионов и победы в дебютном Кубке чемпионов ФИФА, а нидерландский специалист оставляет «канонирок» на 6-м месте в WSL. Правильно ли поступило руководство, уволив Слегерс прямо сейчас, или тренер заслуживала шанса исправить ситуацию? Пишите в комментариях! #WSL #Арсенал #UWCL #ЖенскийФутбол"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/20241116-Ren%C3%A9e_Slegers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:20241116-Ren%C3%A9e_Slegers.jpg",
+        "artist": "Katie Chan",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Renée Slegers applauding the fans after the match.",
+        "width": 1200,
+        "height": 1799,
+        "year": 2024,
+        "subject": "Renée Slegers",
+        "asked": "Renée Slegers",
+        "page_title": "Renée Slegers",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:20241116-ren%c3%a9e_slegers.jpg|Renée Slegers",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Renée Slegers applauding in sports jacket",
+          "reason": "Accurately depicts football coach Renée Slegers clapping while wearing Arsenal team gear.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/1280px-London_Emirates_Stadium_arsenal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg",
+        "artist": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "description": "Emirates Stadium, London, England, United Kingdom",
+        "width": 1200,
+        "height": 899,
+        "year": 2022,
+        "subject": "Emirates Stadium",
+        "asked": "Emirates Stadium",
+        "page_title": "Emirates Stadium",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:london_emirates_stadium_arsenal.jpg|Emirates Stadium",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aerial view of Emirates Stadium in London",
+          "reason": "The image clearly shows Emirates Stadium, the home ground of Arsenal FC.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "1 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
+  },
+  {
     "id": "2026-11-27-athl-c09e34",
     "slug": "yelena-isinbayeva-the-gymnast-who-redefined-women-s-pole-vau",
     "date": "2026-11-27",

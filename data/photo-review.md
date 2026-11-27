@@ -1,8 +1,68 @@
 # Photo review — 2026-11-28
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Sotto and Debutant Boatwright Dominate as Gilas Pilipinas Rout Syria 97-58
+`2026-11-28-news-c2986b` · 2026-11-28
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_sotto_yokohama_b_corsairs_b_league.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Kai Sotto**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg)<br>AI sees: _Kai Sotto in a Yokohama B-Corsairs basketball uniform_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bennie_Boatwright_2026.jpg/1280px-Bennie_Boatwright_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Bennie Boatwright**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg)<br>AI sees: _Bennie Boatwright wearing a San Miguel Beermen warm-up shirt during a basketball game_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tim Cone**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg)<br>AI sees: _Basketball coach Tim Cone speaking into a microphone_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-28-news-c2986b.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Arsenal Part Ways With Head Coach Renee Slegers After Form Slump
+`2026-11-28-news-02e69a` · 2026-11-28
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/20241116-Ren%C3%A9e_Slegers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Renée Slegers**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:20241116-Ren%C3%A9e_Slegers.jpg)<br>AI sees: _Renée Slegers applauding in sports jacket_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/1280px-London_Emirates_Stadium_arsenal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Emirates Stadium**<br>2022 · CC BY-SA 3.0 de · [source](https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg)<br>AI sees: _Aerial view of Emirates Stadium in London_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · On This Day in 1895: Frank Duryea Wins America's First Automobile Race in Chicago Snow
+`2026-11-28-hist-4d4b27` · 2026-11-28
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/DuryeaBrothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **J. Frank Duryea**<br>Asked for: Frank Duryea → got page: J. Frank Duryea<br>2009 · Public domain · [source](https://commons.wikimedia.org/wiki/File:DuryeaBrothers.jpg)<br>AI sees: _Two men seated in an early 1890s Duryea motor wagon_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Museum_of_Science_and_Industry_%28Chicago%29.jpg/1280px-Museum_of_Science_and_Industry_%28Chicago%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Museum of Science and Industry (Chicago)**<br>2007 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Museum_of_Science_and_Industry_(Chicago).jpg)<br>AI sees: _Museum of Science and Industry in Chicago_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Carl_Benz_circa_1920.jpg/1280px-Carl_Benz_circa_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🔴 WRONG**<br>Caption: **Carl Benz**<br>Asked for: Karl Benz → got page: Carl Benz<br>2026 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Carl_Benz_circa_1920.jpg)<br>AI sees: _Portrait of German automotive engineer Carl Benz_<br>Why: The photograph accurately depicts automobile pioneer Carl Benz as identified in the caption.<br>⚑ asked for 'Karl Benz' but the photo comes from the page 'Carl Benz'
+<br clear="left">
+
+---
 
 ## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
 `2026-11-27-news-67c902` · 2026-11-27
