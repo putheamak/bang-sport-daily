@@ -431,3 +431,18 @@
         en: "Another official Svay Rieng reel from the night they beat Machida Zelvia"
         zh: "柴桢俱乐部官方Instagram视频：击败町田泽维亚之夜"
         ru: "Ещё одно видео «Свайриенга» из официального Instagram с вечера победы над «Матидой Зельвией»"
+
+# 27 Nov 2026 (editor): wrong "Ducati Corse" photo (a 1968 motorbike) removed; MotoGP's Facebook reel of the
+# announcement embedded (loaded on the reader's click, never copied). The motogp.com video itself cannot be embedded.
+2026-11-27-news-eb82c2:
+  mode: replace
+  photos:
+    - commons: "File:Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg"
+      caption: "Marc Marquez at the 2026 Spanish Grand Prix"
+  embeds:
+    - url: "https://www.facebook.com/reel/1209291261533641/"
+      account: "MotoGP (official Facebook page)"
+      caption:
+        en: "MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia"
+        zh: "MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役"
+        ru: "Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии"
