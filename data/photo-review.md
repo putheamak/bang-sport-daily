@@ -1,15 +1,15 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Italy Survives South Korea Scare to Reach Davis Cup Semifinals
+## 📝 DRAFT · Italy Beat South Korea 2-1 to Reach Davis Cup Semifinals
 `2026-11-27-news-bcbdd0` · 2026-11-27
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kwon_WMQ26_%284%29_%2855466987996%29.jpg/1280px-Kwon_WMQ26_%284%29_%2855466987996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🔴 WRONG** · cover<br>Caption: **Kwon Soon-woo**<br>Asked for: Soonwoo Kwon → got page: Kwon Soon-woo<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg)<br>AI sees: _tennis player Kwon Soon-woo in action_<br>Why: The photo clearly shows South Korean tennis player Kwon Soon-woo in tennis attire on court.<br>⚑ asked for 'Soonwoo Kwon' but the photo comes from the page 'Kwon Soon-woo'
+**1. 🟢 OK** · cover<br>Caption: **Kwon Soon-woo**<br>Asked for: Soonwoo Kwon → got page: Kwon Soon-woo<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kwon_WMQ26_(4)_(55466987996).jpg)<br>AI sees: _tennis player Kwon Soon-woo in action_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cobolli_RGQ23_%2852944096963%29.jpg/1280px-Cobolli_RGQ23_%2852944096963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
