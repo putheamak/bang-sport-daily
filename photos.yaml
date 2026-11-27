@@ -408,7 +408,7 @@
 # 27 Nov 2026: the automatic "Martins Júnior" photo was again the 19th-century Brazilian doctor (photo check: WRONG).
 # Editor's cover ideas (ACL Two logo: not a free licence; Jeddah stadium: not this match; AFC website photos: not
 # allowed) could not be used. Cover: free Wikipedia photo of Machida's coach Go Kuroda (Mitchell Duke dropped),
-# then Safawi Rasid and Morodok Techo (the match card stays).
+# then Safawi Rasid (the match card stays).
 2026-11-27-news-cbc2c5:
   mode: replace
   photos:
@@ -416,5 +416,18 @@
       caption: "Machida Zelvia coach Go Kuroda"
     - commons: "File:Safawi_Rasid.png"
       caption: "Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown"
-    - commons: "File:Morodok_Techno_Stadium_in_2021.png"
-      caption: "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0"
+  # 27 Nov 2026, editor: Morodok Techo photo removed; two reels from Svay Rieng's official Instagram embedded
+  # (loaded on the reader's click, never copied).
+  embeds:
+    - url: "https://www.instagram.com/reel/DgOf5_pgmUm/"
+      account: "PKR Svay Rieng FC (@pkrsvr_fc_official)"
+      caption:
+        en: "Svay Rieng's official Instagram reel after the 2-0 win over Machida Zelvia"
+        zh: "柴桢俱乐部官方Instagram视频：2-0战胜町田泽维亚"
+        ru: "Видео из официального Instagram «Свайриенга» после победы над «Матидой Зельвией» 2:0"
+    - url: "https://www.instagram.com/reel/DgOqld1memU/"
+      account: "PKR Svay Rieng FC (@pkrsvr_fc_official)"
+      caption:
+        en: "Another official Svay Rieng reel from the night they beat Machida Zelvia"
+        zh: "柴桢俱乐部官方Instagram视频：击败町田泽维亚之夜"
+        ru: "Ещё одно видео «Свайриенга» из официального Instagram с вечера победы над «Матидой Зельвией»"
