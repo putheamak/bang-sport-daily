@@ -401,10 +401,15 @@ def parse_embed(e) -> dict | None:
         url = m.group(0).rstrip('"\'>')
         clean = url.split("?")[0] if "/posts/" in url or "/videos/" in url else url
         kind = "video" if re.search(r"/videos?/|/reel/|/watch", url) else "post"
+        reel = "/reel/" in url                       # Reels are vertical (9:16): a wide box crops them (27 Nov 2026)
+        size = "&width=267&height=476" if reel else "&width=500"
         src = (f"https://www.facebook.com/plugins/{kind}.php?href={urllib.parse.quote(clean, safe='')}"
-               f"&show_text=true&width=500")
-        return {"platform": "Facebook", "url": clean, "src": src,
-                "caption": _cap(e.get("caption")), "account": str(e.get("account", "")), "height": int(e.get("height", 640))}
+               f"&show_text=true{size}")
+        out = {"platform": "Facebook", "url": clean, "src": src, "caption": _cap(e.get("caption")),
+               "account": str(e.get("account", "")), "height": int(e.get("height", 591 if reel else 640))}
+        if reel:
+            out["vertical"] = True
+        return out
     m = EMBED_X.search(url)                       # an X (Twitter) post link, or the whole "Embed post" code
     if m:
         user, sid = m.group(1), m.group(2)

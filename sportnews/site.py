@@ -519,7 +519,7 @@ def _embed(e: dict, lang: str) -> str:
     cap = e.get("caption") or ""
     if isinstance(cap, dict):
         cap = cap.get(lang) or cap.get("en") or ""
-    return (f'<figure class="embed embed-{E(re.sub(r"[^a-z]+", "-", p.lower()))}" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
+    return (f'<figure class="embed embed-{E(re.sub(r"[^a-z]+", "-", p.lower()))}{" embed-vertical" if e.get("vertical") else ""}" data-src="{E(e["src"])}" data-h="{int(e.get("height", 700))}" data-t="{E(who)} · {E(p)}">'
             f'<button type="button" class="embed-load" onclick="{_EMBED_JS}">'
             f'<span class="embed-plat">{E(p)}</span><b>{E(who)}</b>'
             + (f'<span class="embed-cap">{E(cap)}</span>' if cap else "")
