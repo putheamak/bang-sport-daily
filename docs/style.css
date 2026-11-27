@@ -213,6 +213,9 @@ figure.inline img{width:100%;height:auto;max-height:380px;object-fit:contain;bac
 figure.inline figcaption{font-size:11.5px}
 .prose h2{clear:both}
 @media (max-width:620px){figure.inline{float:none;width:auto;margin:1.2em 0}figure.inline img{max-height:340px;margin:0 auto;width:auto;max-width:100%}}
+.readalso{margin-top:26px;border-left:4px solid var(--red,#e10600);padding:6px 0 6px 14px}
+.readalso h4{font:700 14px var(--head);text-transform:uppercase;letter-spacing:1px;margin:0 0 6px}
+.readalso ul{margin:0;padding-left:18px}.readalso li{margin:4px 0}.readalso a{color:var(--ink);font-weight:600}
 .sources{margin-top:30px;border-top:4px solid var(--ink);padding-top:10px;font-size:14px}
 .sources h4{font:700 14px var(--head);text-transform:uppercase;letter-spacing:1px;margin:0 0 6px}
 .sources ul{padding-left:18px;margin:0 0 10px}.sources a{word-break:break-word;color:var(--ink2);text-decoration:underline}
