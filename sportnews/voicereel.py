@@ -134,6 +134,65 @@ def _card(cfg, a: dict, text: str, kind: str, n: int, lead_hint: str = "", photo
     return im
 
 
+COURT = (28, 62, 104)
+
+
+def graphic(g: dict, w: int = 1080, h: int = 1240):
+    """Our own broadcast-style graphic on a drawn tennis court (used where no video-safe photo exists).
+    g = {kind: score, title, rows: [[name, s1, s2, ...], ...], winner: 0}
+      | {kind: tie, left, right, score, note}  | {kind: big, top, main, bottom}"""
+    from PIL import Image, ImageDraw
+    from .reels import RED, _font, _len, _text
+    im = Image.new("RGB", (w, h), COURT)
+    d = ImageDraw.Draw(im)
+    line = (92, 128, 170)                                  # court lines, faint
+    x0, x1, y0, y1 = 140, w - 140, 120, h - 120
+    d.rectangle([x0, y0, x1, y1], outline=line, width=8)
+    d.line([x0 + 120, y0, x0 + 120, y1], fill=line, width=6)
+    d.line([x1 - 120, y0, x1 - 120, y1], fill=line, width=6)
+    d.line([x0 + 120, h // 2 - 260, x1 - 120, h // 2 - 260], fill=line, width=6)
+    d.line([x0 + 120, h // 2 + 260, x1 - 120, h // 2 + 260], fill=line, width=6)
+    d.line([w // 2, h // 2 - 260, w // 2, h // 2 + 260], fill=line, width=6)
+    d.rectangle([x0 - 40, h // 2 - 6, x1 + 40, h // 2 + 6], fill=(230, 232, 236))      # the net
+    kind = g.get("kind", "big")
+    panel = (13, 17, 23)
+    if kind == "score":
+        rows = g["rows"]
+        top = 330
+        d.rectangle([60, top - 110, w - 60, top + 150 * len(rows) + 30], fill=panel)
+        _text(d, (100, top - 90), g.get("title", "").upper(), 44, True, RED)
+        for r, row in enumerate(rows):
+            y = top + r * 150
+            win = r == g.get("winner", 0)
+            _text(d, (100, y + 20), row[0], 60 if len(row[0]) < 18 else 46, True, "white" if win else (170, 176, 186))
+            sets = [str(x) for x in row[1:]]
+            for k, sc in enumerate(reversed(sets)):
+                main, _, tb = sc.partition("(")
+                x = w - 140 - k * 120
+                _text(d, (x - _len(d, main, 84, True) // 2, y + 6), main, 84, True, "white" if win else (170, 176, 186))
+                if tb:
+                    _text(d, (x + 30, y + 8), tb.rstrip(")"), 34, True, RED)
+            if r < len(rows) - 1:
+                d.line([100, y + 140, w - 100, y + 140], fill=(50, 58, 70), width=3)
+    elif kind == "tie":
+        d.rectangle([60, 300, w - 60, 900], fill=panel)
+        _text(d, (100, 330), g.get("title", "").upper(), 44, True, RED)
+        for k, side in enumerate((g["left"], g["right"])):
+            _text(d, (100, 430 + k * 200), side, 80, True, "white")
+        sc = str(g["score"]).split("-")
+        for k, v in enumerate(sc[:2]):
+            _text(d, (w - 200, 400 + k * 200), v, 130, True, RED if k == 0 else "white")
+        if g.get("note"):
+            _text(d, (100, 820), g["note"], 44, False, (205, 210, 218))
+    else:
+        d.rectangle([60, 360, w - 60, 880], fill=panel)
+        _text(d, (100, 400), g.get("top", "").upper(), 48, True, RED)
+        size = 170 if _len(d, g.get("main", ""), 170, True) < w - 200 else 120
+        _text(d, (100, 490), g.get("main", ""), size, True, "white")
+        _text(d, (100, 760), g.get("bottom", ""), 48, False, (205, 210, 218))
+    return im
+
+
 def load_photos(sid: str) -> dict[int, dict]:
     """voiceover/<id>.photos.yaml: {paragraph number (1 = first): {commons: "File name.jpg", focus: [x, y]}}.
     The file is taken from output/voice/photos/<id>/ (saved by reelphotos) or fetched from Commons, where the
@@ -152,6 +211,12 @@ def load_photos(sid: str) -> dict[int, dict]:
             index[urllib.parse.unquote(e["page"].split("File:")[-1])] = e
     out = {}
     for para, e in spec.items():
+        if e.get("graphic"):                         # our own scoreboard graphic: no licence question
+            cache.mkdir(parents=True, exist_ok=True)
+            path = cache / f"graphic-{para}.png"
+            graphic(e["graphic"]).save(path)
+            out[int(para)] = {"path": path, "focus": [0.5, 0.5], "credit": "Graphic: Bang Sport Daily"}
+            continue
         name = str(e["commons"]).replace(" ", "_")
         info = index.get(name)
         path = cache / f"{info['n']:02d}.jpg" if info else None

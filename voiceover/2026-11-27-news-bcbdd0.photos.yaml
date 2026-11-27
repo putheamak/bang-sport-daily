@@ -1,0 +1,7 @@
+# Pictures for the voiced Reel, by script paragraph. No video-safe photo of Kwon, Cobolli, Berrettini, Vavassori or
+# Chung exists on Commons (all CC BY-SA, 27 Nov 2026), so these are our own graphics (no licence question).
+1: {graphic: {kind: big, top: "Davis Cup · Bologna", main: "No.139  v  No.7", bottom: "Kwon Soon-woo v Flavio Cobolli"}}
+3: {graphic: {kind: score, title: "Singles · Quarterfinal", winner: 0, rows: [["Kwon Soon-woo (KOR)", "3", "7", "7"], ["Flavio Cobolli (ITA)", "6", "6(3)", "6(5)"]]}}
+4: {graphic: {kind: score, title: "Doubles · deciding rubber", winner: 0, rows: [["Berrettini / Vavassori", "7", "7"], ["Kwon / Chung", "6(2)", "6(11)"]]}}
+5: {graphic: {kind: tie, title: "Davis Cup quarterfinal", left: "ITALY", right: "SOUTH KOREA", score: "2-1", note: "Semifinal: Italy v Czechia"}}
+6: {graphic: {kind: big, top: "South Korea · entered in 1960", main: "66 YEARS", bottom: "to a first Davis Cup quarterfinal"}}
