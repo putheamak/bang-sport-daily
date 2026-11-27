@@ -126,3 +126,33 @@ def make(cfg, a: dict, voice: str, lead_in: float = 1.3) -> Path | None:
                         "-shortest", "-movflags", "+faststart", str(dest)], check=True, timeout=600)
     log.info("Voice reel %s: %d cards, %.1f s -> %s", sid, len(caps), total, dest.relative_to(ROOT))
     return dest
+
+
+def fetch_photos(sid: str, titles: list[str], max_n: int = 40, width: int = 1280) -> int:
+    """Every free-licence photo in the given Wikipedia articles (licence read from Commons by images.commons_info),
+    saved for choosing Reel pictures: output/voice/photos/<id>/NN.jpg + index.json (file, licence, author, year,
+    description, video_safe). Runs on GitHub Actions (Wikimedia is not reachable from every machine)."""
+    import json
+    from .images import _download, article_photos
+    from .reels import video_safe
+    dest = OUT / "photos" / sid
+    dest.mkdir(parents=True, exist_ok=True)
+    index, seen = [], set()
+    for title in titles:
+        for info in article_photos(title, max_n=max_n, min_width=600):
+            if info["page"] in seen:
+                continue
+            seen.add(info["page"])
+            url = re.sub(r"/\d+px-", f"/{width}px-", info["url"])
+            try:
+                data = _download(url)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Photo download failed %s: %s", url[:100], e)
+                continue
+            n = len(index) + 1
+            (dest / f"{n:02d}.jpg").write_bytes(data)
+            index.append({"n": n, **{k: info.get(k) for k in ("page", "artist", "license", "license_url", "description",
+                                                              "year", "url")}, "video_safe": video_safe(info)})
+    (dest / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+    log.info("Reel photos for %s: %d saved (%d video-safe)", sid, len(index), sum(i["video_safe"] for i in index))
+    return len(index)

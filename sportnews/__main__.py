@@ -30,6 +30,8 @@ def main(argv=None):
     d.add_argument("--once", action="store_true", help="skip if today's stories are already written (scheduled runs)")
     sub.add_parser("collect")
     sub.add_parser("inbox")
+    rp = sub.add_parser("reelphotos", help="save free photos from Wikipedia articles to choose Reel pictures")
+    rp.add_argument("id"); rp.add_argument("titles", help="Wikipedia article titles, separated by |")
     vo = sub.add_parser("voiceover", help="AI presenter voice-over for a story (script in voiceover/<id>.en.txt)")
     vo.add_argument("ids"); vo.add_argument("--voices", default="Charon,Kore")
     sub.add_parser("build-style")
@@ -57,6 +59,9 @@ def main(argv=None):
     if a.cmd == "daily":
         from .pipeline import run_daily
         run_daily(publish_now=True if a.publish else None, once=a.once)
+    elif a.cmd == "reelphotos":
+        from .voicereel import fetch_photos
+        print(fetch_photos(a.id, [t.strip() for t in a.titles.split("|") if t.strip()]))
     elif a.cmd == "voiceover":
         from .voiceover import run as voiceover
         for x in voiceover([i.strip() for i in a.ids.split(",") if i.strip()], [v.strip() for v in a.voices.split(",") if v.strip()]):
