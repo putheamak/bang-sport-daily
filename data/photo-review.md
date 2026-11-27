@@ -7,14 +7,14 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 ## 📝 DRAFT · Svay Rieng Stun Machida as Crown Fall in Kuching: ACL Two Matchday 5 Round-Up
 `2026-11-27-news-cbc2c5` · 2026-11-27
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
-<br clear="left">
-
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**2. 🟢 OK**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
+**1. 🟢 OK** · cover<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-27-news-cbc2c5.png" width="240" align="left" hspace="10">

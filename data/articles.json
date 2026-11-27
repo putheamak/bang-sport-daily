@@ -254,28 +254,6 @@
     },
     "images": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
-        "artist": "中国新闻社",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-        "description": "Morodok Techno Stadium in 2021",
-        "width": 1200,
-        "height": 706,
-        "year": 2021,
-        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
-        "editor": true,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
-          "verdict": "ok",
-          "flags": [],
-          "shows": "",
-          "reason": "",
-          "by": "editor"
-        }
-      },
-      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png",
         "artist": "Hihi reny",
@@ -290,6 +268,28 @@
         "check": {
           "v": 2,
           "key": "https://commons.wikimedia.org/wiki/file:safawi_rasid.png|Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "",
+          "reason": "",
+          "by": "editor"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png",
+        "artist": "中国新闻社",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "description": "Morodok Techno Stadium in 2021",
+        "width": 1200,
+        "height": 706,
+        "year": 2021,
+        "subject": "Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
+        "editor": true,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:morodok_techno_stadium_in_2021.png|Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0",
           "verdict": "ok",
           "flags": [],
           "shows": "",
@@ -313,17 +313,12 @@
     ],
     "standards": [
       {
-        "level": "WARN",
-        "area": "photos",
-        "msg": "Cover photo is from 2021. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
-      },
-      {
         "level": "BLOCK",
         "area": "photos",
         "msg": "The cover photo is already the cover of another recent story. Choose a different free photo in photos.yaml (a person in the story, another view of the venue), or use publish-anyway if none exists"
       }
     ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}]}"
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}"
   },
   {
     "id": "2026-11-27-athl-9e7b9b",
