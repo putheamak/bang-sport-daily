@@ -804,15 +804,68 @@ def _legal_page(cfg, lang, key, store, **extra):
                  {l: f"{l}/{key}.html" for l in LANGS}, f"{lang}/{key}.html")
 
 
+AUTHOR_PAGE = {   # editor, 27 Nov 2026: a clear "who is behind this site and how it works" page (Google trust signal)
+    "en": {"role": "Founder and editor, Phnom Penh", "how": "How every story is made",
+           "steps": ["Facts come from at least two independent outlets, credited with links under each story. Betting and tipster sites are never used.",
+                     "The text is written in our own words with AI assistance, then checked automatically for copied sentences, filler, sources and photos.",
+                     "{author} reads, corrects and approves every story before it is published. Nothing goes online without his OK.",
+                     "Photos come from Wikimedia Commons with a free licence and a credit, or are our own graphics. Clubs' official videos are shown as click-to-load embeds.",
+                     "Mistakes are corrected and noted at the end of the story."],
+           "cover": "What we cover", "cover_text": "World sport in English, Chinese and Russian, with a special focus on Cambodia and Southeast Asia: Cambodian clubs in Asia, the Cambodian Premier League, Kun Khmer and the region's athletes.",
+           "count": "{n} stories published", "follow": "Contact and follow", "stories": "Stories by {author}"},
+    "zh": {"role": "创办人兼主编 · 金边", "how": "每篇文章如何产生",
+           "steps": ["事实至少来自两家独立媒体，并在文末注明来源和链接；从不使用博彩或竞猜网站。",
+                     "文章在 AI 协助下用我们自己的语言撰写，随后自动检查是否抄袭、空话、来源和图片。",
+                     "每篇文章发布前都由 {author} 阅读、修改并批准，未经他同意不会上线。",
+                     "图片来自维基共享资源（自由授权并署名），或为本站自制图表；俱乐部官方视频以点击加载的方式嵌入。",
+                     "如有错误，我们会更正并在文末注明。"],
+           "cover": "报道范围", "cover_text": "以英文、中文和俄文报道世界体育，并特别关注柬埔寨和东南亚：亚洲赛场上的柬埔寨俱乐部、柬埔寨足球超级联赛、高棉拳以及本地区的运动员。",
+           "count": "已发布 {n} 篇文章", "follow": "联系与关注", "stories": "{author} 的文章"},
+    "ru": {"role": "Основатель и редактор, Пномпень", "how": "Как готовится каждый материал",
+           "steps": ["Факты берутся минимум из двух независимых изданий; они указаны со ссылками под каждым материалом. Букмекерские и прогнозные сайты не используются никогда.",
+                     "Текст пишется своими словами с помощью ИИ, затем автоматически проверяется на заимствования, «воду», источники и фото.",
+                     "{author} читает, правит и одобряет каждый материал перед публикацией. Без его согласия ничего не выходит.",
+                     "Фото — с Викисклада под свободной лицензией и с указанием автора, или наша собственная графика. Официальные видео клубов встраиваются и загружаются по клику.",
+                     "Ошибки исправляются, а исправление отмечается в конце материала."],
+           "cover": "О чём мы пишем", "cover_text": "Мировой спорт на английском, китайском и русском с особым вниманием к Камбодже и Юго-Восточной Азии: камбоджийские клубы в Азии, Премьер-лига Камбоджи, кун-кхмер и спортсмены региона.",
+           "count": "Опубликовано материалов: {n}", "follow": "Связь и подписка", "stories": "Материалы автора {author}"},
+}
+
+
 def _author_page(cfg, lang, items):
     name = cfg["site"]["author"]
-    bio = cfg["site"].get(f"author_bio_{lang}") or cfg["site"].get("author_bio_en", "")
+    site = cfg["site"]
+    T = AUTHOR_PAGE[lang]
+    bio = site.get(f"author_bio_{lang}") or site.get("author_bio_en", "")
+    extra = site.get(f"author_more_{lang}") or ""                  # optional: more lines from the editor
     grid = "".join(_card(cfg, a, lang) for a in items[:30])
-    body = (f'<div class="wrap sechero"><h1>{E(name)}</h1><p><span class="mono">{E(initials(name))}</span>{E(bio)}</p>'
-            f'<p><a class="pen" href="editorial.html">{LEGAL_T["editorial"][lang]}</a> · <a class="pen" href="contact.html">{LEGAL_T["contact"][lang]}</a></p></div>'
-            f'<div class="wrap"><div class="grid g3">{grid}</div></div>')
+    steps = "".join(f"<li>{E(x.format(author=name))}</li>" for x in T["steps"])
+    links = [(f"mailto:{site['contact_email']}", site["contact_email"])] if site.get("contact_email") else []
+    if site.get("facebook_url"):
+        links.append((site["facebook_url"], "Facebook"))
+    tg = site.get(f"telegram_{lang}") or site.get("telegram_en")
+    if tg:
+        links.append((f"https://t.me/{tg}", "Telegram"))
+    if site.get("whatsapp_url"):
+        links.append((site["whatsapp_url"], "WhatsApp"))
+    follow = " · ".join(f'<a href="{E(u)}" rel="noopener">{E(t)}</a>' for u, t in links)
+    body = (f'<div class="wrap sechero"><h1>{E(name)}</h1><p class="role">{E(T["role"])}</p>'
+            f'<p><span class="mono">{E(initials(name))}</span>{E(bio)}</p>'
+            + (f'<p>{E(extra)}</p>' if extra else "")
+            + f'<p class="pen">{E(T["count"].format(n=len(items)))}</p></div>'
+            f'<div class="wrap"><article class="story narrow"><div class="prose about">'
+            f'<h2>{E(T["how"])}</h2><ol>{steps}</ol>'
+            f'<p><a href="editorial.html">{LEGAL_T["editorial"][lang]}</a> · <a href="contact.html">{LEGAL_T["contact"][lang]}</a></p>'
+            f'<h2>{E(T["cover"])}</h2><p>{E(T["cover_text"])}</p>'
+            + (f'<h2>{E(T["follow"])}</h2><p>{follow}</p>' if follow else "")
+            + f'</div></article></div>'
+            f'<div class="wrap"><h2 class="sech"><span>{E(T["stories"].format(author=name))}</span></h2><div class="grid g3">{grid}</div></div>')
+    same = [u for u, t in links if u.startswith("http")]
     ld = json.dumps({"@context": "https://schema.org", "@type": "ProfilePage",
-                     "mainEntity": {"@type": "Person", "name": name, "description": bio}}, ensure_ascii=False)
+                     "mainEntity": {"@type": "Person", "name": name, "description": bio, "jobTitle": "Founder and editor",
+                                    "homeLocation": {"@type": "Place", "name": "Phnom Penh, Cambodia"},
+                                    "worksFor": {"@type": "NewsMediaOrganization", "name": site["name"], "url": _base(cfg) or None},
+                                    "sameAs": same}}, ensure_ascii=False)
     return _page(cfg, lang, f"{name} — {_site_name(cfg, lang)}", bio, body, {l: f"{l}/author.html" for l in LANGS},
                  f"{lang}/author.html", f'<script type="application/ld+json">{ld}</script>')
 
