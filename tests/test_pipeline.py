@@ -1531,3 +1531,14 @@ def test_voice_take_check():
     assert check_take(script, "Forty-seven trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]
     assert check_take(script, "47 trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]
     assert not check_take(script, "Text to read. Forty-seven trophies. This is Bang Sport Daily. The full story is on bangsportdaily.com.")[0]
+
+
+def test_related_stories_prefer_same_team():
+    from sportnews.site import related_stories
+    cfg = {"columnists": {}, "sports": {"football": {}, "tennis": {}}}
+    a = {"id": "a", "type": "news", "sport": "football", "tags": ["Phnom Penh Crown"], "athletes": [], "region": "cambodia"}
+    same_team = {"id": "b", "type": "news", "sport": "football", "tags": ["Phnom Penh Crown", "Gangwon"], "athletes": []}
+    same_sport = {"id": "c", "type": "news", "sport": "football", "tags": ["Liverpool"], "athletes": []}
+    other = {"id": "d", "type": "news", "sport": "tennis", "tags": ["Sinner"], "athletes": []}
+    out = related_stories(cfg, a, [other, same_sport, a, same_team], 3)
+    assert [r["id"] for _, r in out] == ["b", "c", "d"] and out[0][0] >= 4

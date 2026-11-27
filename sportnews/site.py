@@ -564,6 +564,28 @@ def _shown_sources(sources: list[dict]) -> list[dict]:
     return out
 
 
+RELATED_T = {"en": ("Read also", "Related stories"), "zh": ("延伸阅读", "相关文章"), "ru": ("Читайте также", "Похожие материалы")}
+
+
+def _entities(a) -> set[str]:
+    return {str(x).strip().lower() for x in (a.get("tags") or []) + (a.get("athletes") or []) if str(x).strip()}
+
+
+def related_stories(cfg, a, items, n: int = 6) -> list[tuple[int, dict]]:
+    """Stories about the same teams/people first (shared tags or athletes), then the same sport, then the same
+    region; newest first within a score (items are newest first). Editor, 27 Nov 2026: related links help readers
+    and help Google find and value our stories. Returns [(score, story)]; score 0 = only a recent story."""
+    ents, key, reg = _entities(a), sport_key(cfg, a), a.get("region")
+    scored = []
+    for i, r in enumerate(items):
+        if r is a or r.get("id") == a.get("id"):
+            continue
+        sc = 4 * len(ents & _entities(r)) + (2 if sport_key(cfg, r) == key else 0) + (1 if reg and r.get("region") == reg else 0)
+        scored.append((-sc, i, sc, r))
+    scored.sort(key=lambda t: (t[0], t[1]))
+    return [(sc, r) for _, _, sc, r in scored[:n]]
+
+
 def _article_page(cfg, a, lang, related, latest, wire):
     L = a[lang]
     key = sport_key(cfg, a)
@@ -571,7 +593,11 @@ def _article_page(cfg, a, lang, related, latest, wire):
     src = "".join((f'<li>{E(s["title"])}</li>' if _is_google_stub(s.get("url"))   # never show Google redirect links
                    else f'<li><a href="{E(s["url"])}" rel="noopener nofollow" target="_blank">{E(s["title"])}</a></li>')
                   for s in _shown_sources(a.get("sources", [])))
-    rel = "".join(_card(cfg, r, lang) for r in related)
+    strong = [r for sc, r in related if sc >= 4][:3]               # same team / person: links inside the story
+    grid = [r for sc, r in related if r not in strong][:3]
+    rel = "".join(_card(cfg, r, lang) for r in grid)
+    also = "".join(f'<li><a href="{E(r["slug"])}.html">{E(r[lang]["headline"])}</a></li>' for r in strong)
+    grid_title = RELATED_T[lang][1] if any(sc >= 2 for sc, r in related if r in grid) else UI[lang]["more"]
     name = byline_name(cfg, a, lang)
     imgs = a.get("images") or []
     hero = (f'<figure class="hero-fig">{_img(a, 0, "heroimg")}<figcaption>{_credit(imgs[0], lang)}</figcaption></figure>'
@@ -600,13 +626,14 @@ def _article_page(cfg, a, lang, related, latest, wire):
   {_share(cfg, a, lang)}
   {hero}
   <div class="prose">{_body_with_images(a, lang)}</div>
+  {f'<aside class="readalso"><h4>{RELATED_T[lang][0]}</h4><ul>{also}</ul></aside>' if also else ''}
   <aside class="sources"><h4>{UI[lang]['sources']}</h4><ul>{src}</ul>
   <p class="ai">{E(UI[lang]['ai'].format(author=name))}</p></aside>
   {_share(cfg, a, lang)}
 </article>
 {_rail(cfg, lang, wire, latest)}
 </div>
-{f'<section class="wrap more"><h2 class="sech"><span>{UI[lang]["more"]}</span></h2><div class="grid g3">{rel}</div></section>' if rel else ''}"""
+{f'<section class="wrap more"><h2 class="sech"><span>{grid_title}</span></h2><div class="grid g3">{rel}</div></section>' if rel else ''}"""
     return _page(cfg, lang, f"{L.get('seo_title') or L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
                  body, alternates, f"{lang}/{a['slug']}.html", f'<script type="application/ld+json">{ld}</script>',
                  og_image=imgs[0]["url"] if imgs else "", active=key)
@@ -875,15 +902,9 @@ def build_site(cfg: dict) -> None:
         d.mkdir(parents=True, exist_ok=True)
         items = [a for a in pub if a.get(lang) and not stale(a, lang)]
         for a in items:
-            key = sport_key(cfg, a)
-            related = ([r for r in items if r is not a and sport_key(cfg, r) == key] + [r for r in items if r is not a])
-            seen, rel = set(), []
-            for r in related:
-                if id(r) not in seen:
-                    seen.add(id(r))
-                    rel.append(r)
+            rel = related_stories(cfg, a, items, 6)
             latest = [r for r in items if r is not a][:5]
-            (d / f"{a['slug']}.html").write_text(_article_page(cfg, a, lang, rel[:3], latest, wire), encoding="utf-8")
+            (d / f"{a['slug']}.html").write_text(_article_page(cfg, a, lang, rel, latest, wire), encoding="utf-8")
             urls.append(f"{lang}/{a['slug']}.html")
             for o in a.get("old_slugs") or []:          # renamed story: old links (Telegram, shares) still work
                 if o != a["slug"]:
