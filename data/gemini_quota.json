@@ -4,10 +4,10 @@
   "no_search": false,
   "usage": {
     "gemini-3.8-flash": {
-      "ok": 55,
+      "ok": 56,
       "fail": 0,
-      "in": 101191,
-      "out": 121140
+      "in": 102767,
+      "out": 121297
     }
   }
 }

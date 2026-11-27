@@ -276,34 +276,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:go_kuroda_2025.jpg|Machida Zelvia coach Go Kuroda",
           "verdict": "ok",
           "flags": [],
-          "shows": "Machida Zelvia manager Go Kuroda being interviewed",
-          "reason": "The photo clearly shows Go Kuroda being interviewed at a football match with official tournament branding.",
-          "by": "ai"
-        }
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mitchell_Duke_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "page": "https://commons.wikimedia.org/wiki/File:Mitchell_Duke_2020.png",
-        "artist": "Western Sydney Wanderers FC",
-        "license": "CC BY-SA 3.0",
-        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-        "description": "Duke training with Western Sydney Wanderers in 2020",
-        "width": 1200,
-        "height": 1513,
-        "year": 2020,
-        "subject": "Machida Zelvia forward Mitchell Duke",
-        "asked": "Mitchell Duke",
-        "page_title": "Mitch Duke",
-        "editor": false,
-        "check": {
-          "v": 2,
-          "key": "https://commons.wikimedia.org/wiki/file:mitchell_duke_2020.png|Machida Zelvia forward Mitchell Duke",
-          "verdict": "wrong",
-          "flags": [
-            "asked for 'Mitchell Duke' but the photo comes from the page 'Mitch Duke'"
-          ],
-          "shows": "Australian footballer Mitchell Duke at training",
-          "reason": "The photo clearly shows Mitchell Duke during a training session; older photos of the captioned subject are acceptable.",
+          "shows": "Go Kuroda being interviewed at a football match",
+          "reason": "The photo clearly shows football manager Go Kuroda being interviewed at a stadium.",
           "by": "ai"
         }
       },
@@ -365,14 +339,8 @@
         "height": 675
       }
     ],
-    "standards": [
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Photo 2 captioned 'Machida Zelvia forward Mitchell Duke' looks WRONG (shows Australian footballer Mitchell Duke at training; asked for 'Mitchell Duke' but the photo comes from the page 'Mitch Duke'; The photo clearly shows Mitchell Duke during a training session; older photos of the captio). Replace or remove it in photos.yaml — see data/photo-review.md"
-      }
-    ],
-    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Machida Zelvia coach Go Kuroda\", \"wikipedia\": \"Go Kuroda\"}, {\"caption\": \"Machida Zelvia forward Mitchell Duke\", \"wikipedia\": \"Mitchell Duke\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}",
+    "standards": [],
+    "photos_override": "{\"mode\": \"replace\", \"photos\": [{\"caption\": \"Machida Zelvia coach Go Kuroda\", \"wikipedia\": \"Go Kuroda\"}, {\"caption\": \"Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown\", \"commons\": \"File:Safawi_Rasid.png\"}, {\"caption\": \"Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0\", \"commons\": \"File:Morodok_Techno_Stadium_in_2021.png\"}]}",
     "updated_at": "2026-11-27T14:50:55+07:00",
     "lang_updated": {
       "zh": "2026-11-27T14:50:55+07:00",

@@ -1,6 +1,6 @@
 # Photo review — 2026-11-27
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 0**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 0**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -9,27 +9,22 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Go_Kuroda_2025.jpg/1280px-Go_Kuroda_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**1. 🟢 OK** · cover<br>Caption: **Machida Zelvia coach Go Kuroda**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Go_Kuroda_2025.jpg)<br>AI sees: _Machida Zelvia manager Go Kuroda being interviewed_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mitchell_Duke_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🔴 WRONG**<br>Caption: **Machida Zelvia forward Mitchell Duke**<br>Asked for: Mitchell Duke → got page: Mitch Duke<br>2020 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Mitchell_Duke_2020.png)<br>AI sees: _Australian footballer Mitchell Duke at training_<br>Why: The photo clearly shows Mitchell Duke during a training session; older photos of the captioned subject are acceptable.<br>⚑ asked for 'Mitchell Duke' but the photo comes from the page 'Mitch Duke'
+**1. 🟢 OK** · cover<br>Caption: **Machida Zelvia coach Go Kuroda**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Go_Kuroda_2025.jpg)<br>AI sees: _Go Kuroda being interviewed at a football match_
 <br clear="left">
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Safawi_Rasid.png/1280px-Safawi_Rasid.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
-**3. 🟢 OK**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
+**2. 🟢 OK**<br>Caption: **Safawi Rasid, who opened the scoring for Kuching City against Phnom Penh Crown**<br>2026 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Safawi_Rasid.png)
 <br clear="left">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Morodok_Techno_Stadium_in_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
-**4. 🟢 OK**<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
+**3. 🟢 OK**<br>Caption: **Morodok Techo National Stadium in Phnom Penh, where Svay Rieng beat Machida Zelvia 2-0**<br>2021 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Morodok_Techno_Stadium_in_2021.png)
 <br clear="left">
 
 <img src="../docs/photos/card-2026-11-27-news-cbc2c5.png" width="240" align="left" hspace="10">
 
-**5. 🟢 our score card**<br>Caption: **Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two**<br>2026 · Own work
+**4. 🟢 our score card**<br>Caption: **Svay Rieng 2 - 0 Machida Zelvia · AFC Champions League Two**<br>2026 · Own work
 <br clear="left">
 
 ---
