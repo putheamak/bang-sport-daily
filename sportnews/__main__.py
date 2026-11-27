@@ -13,6 +13,7 @@
   python -m sportnews write-trending 1 3    # write talking points 1 and 3 as short explainers (drafts)
   python -m sportnews audit [--no-links]    # standards audit of all stories -> data/audit.md
   python -m sportnews check ID              # standards check of one story
+python -m sportnews voiceover <id>[,<id>] [--voices Charon,Kore]   # presenter voice-over MP3 -> output/voice/
 python -m sportnews photocheck [recent]   # right person/place in each photo -> data/photo-review.md
 """
 import argparse
@@ -29,6 +30,8 @@ def main(argv=None):
     d.add_argument("--once", action="store_true", help="skip if today's stories are already written (scheduled runs)")
     sub.add_parser("collect")
     sub.add_parser("inbox")
+    vo = sub.add_parser("voiceover", help="AI presenter voice-over for a story (script in voiceover/<id>.en.txt)")
+    vo.add_argument("ids"); vo.add_argument("--voices", default="Charon,Kore")
     sub.add_parser("build-style")
     p = sub.add_parser("publish"); p.add_argument("ids", nargs="+"); p.add_argument("--force", action="store_true", help="publish even with BLOCK problems")
     sub.add_parser("publish-anyway").add_argument("ids", nargs="+")
@@ -54,6 +57,10 @@ def main(argv=None):
     if a.cmd == "daily":
         from .pipeline import run_daily
         run_daily(publish_now=True if a.publish else None, once=a.once)
+    elif a.cmd == "voiceover":
+        from .voiceover import run as voiceover
+        for x in voiceover([i.strip() for i in a.ids.split(",") if i.strip()], [v.strip() for v in a.voices.split(",") if v.strip()]):
+            print(x)
     elif a.cmd == "inbox":
         from .pipeline import run_inbox
         for x in run_inbox():

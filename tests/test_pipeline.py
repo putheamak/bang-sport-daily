@@ -1489,3 +1489,28 @@ def test_talking_points_noindex_no_ads_not_in_sitemap():
     assert 'active="talking", noindex=True' in src
     sm = src[src.find('"sitemap.xml"'):src.find('"news-sitemap.xml"')]
     assert "talking" not in sm
+
+
+# ---------------------------------------------------------------- voice-over (27 Nov 2026)
+def test_voiceover_script_and_mix(monkeypatch, tmp_path):
+    import shutil
+    import numpy as np
+    import pytest
+    import sportnews.voiceover as vo
+    if not shutil.which("ffmpeg"):
+        pytest.skip("ffmpeg not installed")
+    (tmp_path / "s").mkdir()
+    (tmp_path / "s" / "x1.en.txt").write_text("# note, not read\nHello.\n\nThis is Bang Sport Daily.\n", encoding="utf-8")
+    monkeypatch.setattr(vo, "SCRIPTS", tmp_path / "s")
+    monkeypatch.setattr(vo, "OUT", tmp_path / "out")
+    monkeypatch.setattr(vo, "ROOT", tmp_path)
+    assert vo.script_for("x1") == "Hello.\nThis is Bang Sport Daily."
+    t = np.arange(24000 * 2) / 24000
+    pcm = (np.sin(2 * np.pi * 220 * t) * 8000).astype(np.int16).tobytes()
+    seen = {}
+    monkeypatch.setattr(vo, "speak", lambda text, voice: (seen.setdefault("t", text), pcm, 24000, "fake-tts")[1:])
+    monkeypatch.setattr(vo, "load_articles", lambda: [{"id": "x1", "type": "news", "sport": "tennis"}])
+    out = vo.run(["x1"], ["Kore"])
+    assert seen["t"] == "Hello.\nThis is Bang Sport Daily."
+    assert out and out[0].exists() and out[0].stat().st_size > 10_000
+    assert (tmp_path / "out" / "x1-kore-voice-only.mp3").exists()

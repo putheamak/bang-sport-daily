@@ -1,0 +1,45 @@
+name: Voice-over (AI presenter)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Story ID(s), comma-separated (script must be in voiceover/<id>.en.txt)"
+        required: true
+      voices:
+        description: "Gemini voices, comma-separated (e.g. Charon = male, Kore = female)"
+        required: false
+        default: "Charon,Kore"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  voiceover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Make the voice-over (nothing is posted)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          IDS: ${{ inputs.ids }}
+          VOICES: ${{ inputs.voices }}
+        run: python -m sportnews voiceover "$IDS" --voices "$VOICES"
+      - run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add output/voice
+          git diff --cached --quiet || git commit -m "Voice-over: $IDS"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done
