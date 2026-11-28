@@ -1,5 +1,415 @@
 [
   {
+    "id": "2026-11-28-news-fb6895",
+    "slug": "henan-sports-authority-refutes-200-000-yuan-basketball-certi",
+    "date": "2026-11-28",
+    "created": "2026-11-28T21:40:56+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Basketball",
+    "tags": [
+      "China Basketball",
+      "Henan",
+      "Youth Sports",
+      "Sports Integrity",
+      "Gaokao"
+    ],
+    "athletes": [],
+    "image_subjects": [
+      "Henan",
+      "Basketball in China",
+      "National College Entrance Examination",
+      "General Administration of Sport of China"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Whether local public security departments in Henan have opened formal criminal fraud dockets against specific brokers named in investigative media reports",
+      "The identity of the original news bureau that conducted the undercover intermediary recordings"
+    ],
+    "sources": [
+      {
+        "title": "20万元代办河南篮球省锦标赛二级运动员证书？官方辟谣",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbVdmQTJrS2R2Y1AwMkpqZEl1aHlHcnEyR2tvQTlyMVlteGJSVHRSVlNQYV90TDcwMlFCZmxNNDVfcndFUF9VeEtPNnkzRENibzVSbGtuckpaMll3dmJmdDZYVGo?oc=5"
+      },
+      {
+        "title": "20万元代办篮球二级运动员证书？河南省球类运动中心回应",
+        "url": "https://www.guancha.cn/sports/2026_11_28_731456.shtml"
+      },
+      {
+        "title": "“20万元代办二级运动员证书”？河南省球类运动中心：切勿轻信中介受骗",
+        "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=827419"
+      },
+      {
+        "title": "163.com",
+        "url": "https://m.163.com/dy/article_cambrian/LCQRJBN90550AVKV.html"
+      },
+      {
+        "title": "guancha.cn",
+        "url": "https://www.guancha.cn/ZhengZhi/2026_11_28_910268.shtml"
+      },
+      {
+        "title": "jfdaily.com",
+        "url": "https://www.jfdaily.com/news/detail?id=1221632"
+      },
+      {
+        "title": "新浪新闻_手机新浪网: 20万元代办河南篮球省锦标赛二级运动员证书？官方辟谣",
+        "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOb2xMcDQ4RHM0SFJQeE1BUkF4a3FOTWFQUWNUV2VHRjVHX2lkSUwzc2poUC1hVVpQbGs2ZE50RmdKSFNYQndERjA5MzE4SzZpeDlwODh0RGQwZVctT19xaUFYbG1XWUxjcUNNUmE0d0UyTjdBX243c2NYVHVUMXpSSmdncm5kUlIyUXBRRkd1eDdRcXJMQmx2dlF2UXpyQW5hTEtIZWZURlZJMC1mUXlYdkhldXgzMkxIeWVhTC1YRVJFZU9aZGJtN3FLWUpaRmNCdFRjX0RCVHlReGNHVkhPT2ktc2lHUHlGaEFNQ3p3RGNNQ1JhbjVQUHJfU0xhZUc4cTVid1ZrUWxPanJ4V0ZYSUlOZ29HdzJfT0lDRkpTaVlyX2psclhEdWVlQTQzTEU2Y2lTWnpDcmtEaHpnS0RjRkxPMnc0a3JVWTZ6UkV5b2ExazgwcEJCRGg4VTJjMDRTRnY0Z2hROFZhZHNOSFpQakN6NDN6S2YxbVJVdng2NTFMc3NwX1BUcHZEbzJlS2ZLS0tVYy1EZk03cmktOUdrdUJseThLS09kbEhoN21xRGh3RkVBenlmNG9PV29fa0lIWHFsWXZLMlZMcUN3SldSNDRKLXF5NndBbFNr?oc=5"
+      },
+      {
+        "title": "Sohu: 20万元代办河南篮球省锦标赛二级运动员证书？官方辟谣",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdKakNoVTJaSXV5QU5RTDNaRHVsOUlya1BpY19tNHVidm95aTRBOHhPSkZyZ0JxX2ZoUjZ4Sy1rd0JON2I5VkdhNV9aWWVHSVctclpXZnI3T1M1ZDFkTjk1Q1pIR2djTGFabGc4QXV1X1l5Mm1iRk9idThRcUVrbFVTc0JGcnd0?oc=5"
+      },
+      {
+        "title": "东方财富: 20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DbmJyQmtsWUV2cUcwTUVwUThVamFQM3M2OV9IckJlendVRW1HUDBRZHRhUlNUZ0E3ZkswLXZfRDFwM09jWThPeXNSNW5qNXdvSjlHOU51SmRiNi1idDVfQQ?oc=5"
+      },
+      {
+        "title": "ThePaper.cn: 20万元代办河南篮球省锦标赛二级运动员证书？官方：虚假骗局",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YN0F0blB6Yk5YbjVvcDVyQWJ2STRpT3dkU3oxTzJCNWZxZ1BNQllaSGtUY1I2ZU9uT0tTeFRySnJHM2xfNWFHV01lMWtpR2d4MGQ4dTROOHNYNHBFcmJpSA?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Henan Sports Authority Refutes 200,000-Yuan Basketball Certificate Scam",
+      "seo_title": "Henan Shuts Down 200,000-Yuan Basketball Scam",
+      "subheadline": "Officials warn parents after brokers promised guaranteed tournament slots and manipulated game data for university admission credentials",
+      "body_markdown": "On Saturday, November 28, 2026, the Henan Provincial Ball Games Management Center issued an official statement dismissing underground claims that intermediaries could secure a Chinese National Second-Class Athlete basketball certificate for 200,000 yuan ($28,000) as a complete fabrication.\n\nThe clarification followed media reports revealing that unlicensed brokers had approached families of school-age athletes, offering paid routes through the provincial tournament structure. The middlemen claimed to hold partnerships across Henan, Liaoning, and Jiangxi provinces, promising guaranteed roster spots for the upcoming Henan Provincial Basketball Championship in early 2027. The package included fabricated game minutes, tampered data under the official K8 digital basketball tracking system, and expedited transfers of academic and household registrations.\n\n## Closed-Loop Oversight and Fee Warnings\n\nAs the governing body responsible for staging Henan's provincial basketball tournaments, the Henan Provincial Ball Games Management Center stated that every stage of registration and athlete evaluation is strictly insulated from outside interference.\n\n\"The qualification of participants and the accreditation of athlete ranks in our province's basketball events are subject to closed-loop supervision throughout the entire process,\" the center stated in its official notice. \"There is no channel to buy entry spots or certificates.\"\n\nThe center stressed that official athlete qualification procedures carry no fee whatsoever. Officials instructed parents and players not to transfer money to third parties and urged anyone approached by illicit brokers to notify public security authorities immediately.\n\n## The High Stakes of Sports Credentials in China\n\nIn China's education framework, the National Second-Class Athlete (*Erji*) status issued under the standards of the General Administration of Sport of China plays a decisive role in higher education admissions. Student-athletes holding the credential qualify for high-level athletic squad programs and national sports entrance examinations, which allow universities to grant admission with significantly lower academic cut-offs on the Gaokao. This demand has driven underground brokers to target provincial tournaments, where placement criteria can grant athletes the rank.\n\nEstablished in December 2002 under the Henan Provincial Sports Bureau, the Ball Games Management Center administers 12 sports squads across basketball, football, volleyball, baseball, and softball. Provincial sports federations have rolled out automated stat tracking, including the K8 platform, to prevent roster padding and ghost appearances, making third-party tampering claims a priority target for sports integrity regulators.",
+      "social_post": "200,000 yuan ($28,000) was the price underground brokers quoted to sell Chinese National Second-Class Athlete basketball certificates and fake game data for university admissions. On Saturday, November 28, 2026, the Henan Provincial Ball Games Management Center shut down the scheme, warning parents that competition entry and official sports certifications carry no fees and are under strict closed-loop monitoring. Should sports governing bodies move to fully digitized biometric tracking to stop youth sports fraud? Share your thoughts below. #Basketball #ChinaSports #YouthSports"
+    },
+    "zh": {
+      "headline": "花20万包办篮球二级运动员证？官方严正辟谣：纯属诈骗",
+      "seo_title": "河南辟谣20万办篮球二级证骗局",
+      "subheadline": "黑中介声称可包办参赛名额、篡改K8系统数据助考大学，河南省球类中心紧急提醒家长谨防受骗",
+      "body_markdown": "2026年11月28日（星期六），河南省球类运动中心发布官方声明，对近期地下流传的“花费20万元（约合2.8万美元）即可包办中国篮球国家二级运动员证书”一事进行公开辟谣，明确指出该言论纯属捏造。\n\n此前有媒体曝光，部分无资质的中介机构私下接触学龄运动员家长，声称可以通过付费运作打通省级赛事晋级通道。这些中介宣称在河南、辽宁、江西等省份拥有合作资源，能锁定将于2027年初举办的河南省篮球锦标赛参赛名额。他们兜售的“服务包”甚至涵盖虚构上场时间、在官方K8篮球数字采集系统中篡改比赛技术数据，以及快速跨区违规办理学籍和户籍转移。\n\n## 全流程闭环监管与免费提醒\n\n作为河南省内篮球官方赛事的统筹与主管单位，河南省球类运动中心明确表示，赛事从报名审核到运动员等级评定的每一个环节，均受到严密监管，绝无外界寻租与违规干预的空间。\n\n“我省举办的篮球赛事活动，参赛资格审核和运动员技术等级评定工作全过程实行闭环管理，”该中心在通告中郑重声明，“绝不存在任何花钱买名额、买证书的渠道。”\n\n该中心进一步强调，官方正规的运动员等级资质认定全程不收取任何费用。官方同时提醒广大学生家长与青年球员，切勿向任何第三方机构或个人转账汇款；一旦遭遇非法中介诱导，应立即向公安机关报案。\n\n## 体育等级背后的升学高杠杆\n\n在中国现行的升学选拔机制下，依据国家体育总局标准评定的“国家二级运动员”（俗称“二运”）资质，在高等教育招生录取中扮演着举足轻重的角色。持有该等级证书的体育生有资格报名高校高水平运动队及全国普通高校体育单招考试，在高考中可享受大幅度降低文化课录取控制线等优录政策。巨大的升学红利，让不少不法中介将目光瞄准了能直接产出等级证书的省级重点青少年锦标赛。\n\n河南省球类运动中心成立于2002年12月，隶属于河南省体育局，统辖篮球、足球、排球、棒球、垒球等12支运动队伍。近年来，省级体育管理部门已全面引入包括K8平台在内的人工智能与自动化数据采集系统，坚决杜绝“幽灵出场”与违规凑人数挂证现象。此次对非法篡改数据谣言的严厉驳斥，正是管理部门强化赛风赛纪、维护体育公正的重拳之举。",
+      "social_post": "20万元就能包办篮球国家二级运动员证、篡改官方比赛数据助考大学？2026年11月28日，河南省球类运动中心紧急发声辟谣，郑重提醒家长：赛事报名与技术等级评定全程闭环监管，不收分文！大家认为全面推行数字化与生物识别追踪能彻底根除青少年体育造假吗？欢迎留言讨论。 #篮球 #中国体育 #青少年体育"
+    },
+    "ru": {
+      "headline": "Власти провинции Хэнань опровергли аферу с продажей баскетбольных разрядов за 200 тысяч юаней",
+      "seo_title": "В Китае опровергли продажу спортивных разрядов по баскетболу",
+      "subheadline": "Спортивные функционеры предостерегли родителей: аферисты обещали места на турнирах и накрутку статистики для льготного поступления в вузы",
+      "body_markdown": "В субботу, 28 ноября 2026 года, Центр управления игровыми видами спорта провинции Хэнань выступил с официальным опровержением, назвав абсолютным вымыслом распространяемые подпольными посредниками заявления о возможности оформить звание баскетболиста второго национального разряда (National Second-Class Athlete) за 200 000 юаней (около 28 000 долларов США).\n\nЗаявление последовало за расследованиями в СМИ, вскрывшими деятельность теневых брокеров. Дельцы выходили на семьи юных спортсменов школьного возраста, предлагая платные схемы продвижения по турнирной сетке региона. Посредники уверяли, будто располагают связями в провинциях Хэнань, Ляонин и Цзянси, и гарантировали включение в заявку на чемпионат провинции Хэнань по баскетболу в начале 2027 года. В пакет «услуг» входили фиктивное игровое время, подделка персональной статистики в официальной цифровой трекинг-системе K8, а также ускоренный перевод школьных личных дел и прописки.\n\n## Закрытый контур контроля и предупреждение о мошенничестве\n\nЦентр управления игровыми видами спорта провинции Хэнань, отвечающий за организацию турниров в регионе, подчеркнул: каждый этап отбора, регистрации и аттестации участников полностью изолирован от внешнего вмешательства.\n\n«Проверка квалификации участников и присвоение спортивных разрядов на баскетбольных соревнованиях нашей провинции осуществляются под сквозным контролем в рамках закрытого контура, — говорится в официальном коммюнике ведомства. — Каких-либо лазеек для покупки мест в заявке или приобретения удостоверений не существует в принципе».\n\nСпорткомитет подчеркнул, что все официальные процедуры присвоения спортивных разрядов проводятся исключительно на бесплатной основе. Чиновники призвали родителей и баскетболистов ни в коем случае не переводить деньги третьим лицам, а при любых контактах с подобными вербовщиками немедленно обращаться в органы общественной безопасности.\n\n## Цена вопроса: льготы при поступлении в вузы Китая\n\nВ образовательной системе Китая статус спортсмена второго национального разряда («эрцзи»), присваиваемый по нормативам Главного государственного управления по делам физкультуры и спорта КНР, открывает колоссальные возможности. Атлеты с таким удостоверением претендуют на зачисление в университетские команды высокого уровня и сдачу всекитайского спортивного вступительного экзамена. Это позволяет поступить в престижные вузы со значительно заниженными проходными баллами по единому госэкзамену (гаокао). Именно ажиотажный спрос со стороны абитуриентов подталкивает теневой бизнес штурмовать провинциальные турниры, успешное выступление на которых дает право на получение разряда.\n\nЦентр управления игровыми видами спорта был учрежден в декабре 2002 года при Управлении спорта провинции Хэнань и курирует 12 сборных команд по баскетболу, футболу, волейболу, бейсболу и софтболу. Региональные федерации уже внедрили автоматизированные комплексы сбора статистики, включая систему K8, чтобы исключить искусственное раздувание протоколов и появление в них «мертвых душ». Поэтому любые попытки манипуляций со статистическими базами находятся под жестким контролем спортивных регуляторов.",
+      "social_post": "200 000 юаней ($28 000) требовали теневые посредники за продажу второго спортивного разряда по баскетболу и подделку протоколов для льготного поступления в вузы Китая. 28 ноября 2026 года спорткомитет провинции Хэнань пресек аферу, напомнив, что присвоение разрядов бесплатно и проходит под строгим контролем. Поможет ли полная биометрическая цифровизация навсегда искоренить махинации в детском спорте? Делитесь мнением в комментариях! #баскетбол #спортвКитае #детскийспорт"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg/1280px-%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_(1).jpg",
+        "artist": "江上清风1961",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "Longmen Grottoes .",
+        "width": 1200,
+        "height": 900,
+        "year": 2013,
+        "subject": "Henan",
+        "asked": "Henan",
+        "page_title": "Henan",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:%e9%be%99%e9%97%a8%e7%9f%b3%e7%aa%9f%e4%b8%bb%e7%aa%9f_-_panoramio_(1).jpg|Henan",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Longmen Grottoes rock carvings in Luoyang, Henan",
+          "reason": "The photo shows the Longmen Grottoes, a famous landmark in Henan province, matching the caption.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_%282752855852%29.jpg/1280px-Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_%282752855852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_(2752855852).jpg",
+        "artist": "kris krüg from Vancouver, Canada",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Team China - Men's Basketball - Beijing 2008 Olympics",
+        "width": 1200,
+        "height": 800,
+        "year": 2008,
+        "subject": "Basketball in China",
+        "asked": "Basketball in China",
+        "page_title": "Basketball in China",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:team_china_-_mens_basketball_-_beijing_2008_olympics_(2752855852).jpg|Basketball in China",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Chinese men's national basketball team at the Beijing 2008 Olympics",
+          "reason": "Accurately represents basketball in China, depicting the national basketball team on the court at Beijing 2008.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg/1280px-2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg",
+        "artist": "Liuxingy",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "​陕西省西安市雁塔区招生委员会办公室制发的普通高等学校招生全国统一考试准考证正面",
+        "width": 1200,
+        "height": 581,
+        "year": 2021,
+        "subject": "Gaokao",
+        "asked": "National College Entrance Examination",
+        "page_title": "Gaokao",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:2021%e9%99%95%e8%a5%bf%e9%ab%98%e8%80%83%e5%87%86%e8%80%83%e8%af%81%e6%ad%a3%e9%9d%a2.jpg|Gaokao",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'National College Entrance Examination' but the photo comes from the page 'Gaokao'"
+          ],
+          "shows": "A Chinese National College Entrance Examination (Gaokao) admission ticket",
+          "reason": "The image clearly shows an official Gaokao exam admission ticket, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 3 captioned 'Gaokao' looks WRONG (shows A Chinese National College Entrance Examination (Gaokao) admission ticket; asked for 'National College Entrance Examination' but the photo comes from the page 'Gaokao'; The image clearly shows an official Gaokao ex). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2013. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Whether local public security departments in Henan have opened formal criminal fraud dockets against specific brokers named in investigative media reports"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: The identity of the original news bureau that conducted the undercover intermediary recordings"
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-28-news-9f2c05",
+    "slug": "diana-shnaider-overwhelms-kamilla-rakhimova-13-5-at-northern",
+    "date": "2026-11-28",
+    "created": "2026-11-28T21:39:40+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Diana Shnaider",
+      "Kamilla Rakhimova",
+      "Northern Palmyra Trophies",
+      "WTA",
+      "St. Petersburg"
+    ],
+    "athletes": [
+      "Diana Shnaider",
+      "Kamilla Rakhimova"
+    ],
+    "image_subjects": [
+      "Diana Shnaider",
+      "Kamilla Rakhimova",
+      "KSK Arena",
+      "Janko Tipsarević"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Rakhimova's nationality change to Uzbekistan confirmed via WTA/ITF official records"
+    ],
+    "sources": [
+      {
+        "title": "Матч ТВ: Российская теннисистка Шнайдер обыграла Рахимову на турнире «Трофеи Северной Пальмиры»",
+        "url": "https://matchtv.ru/tennis/matchtvnews_NI2264627_Rossijskaja_tennisistka_Shnajder_obygrala_Rahimovu_na_turnire_Trofei_Severnoj_Palmiry"
+      },
+      {
+        "title": "Sportbox: Российская теннисистка Шнайдер обыграла Рахимову на турнире «Трофеи Северной Пальмиры»",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/WTA/spbnews_NI2264627_Rossijskaja_tennisistka_Shnajder_obygrala_Rahimovu_na_turnire_Trofei_Severnoj_Palmiry"
+      },
+      {
+        "title": "Inside The Games: Ukrainian tennis chief criticises players taking part in Russian exhibition",
+        "url": "https://www.insidethegames.biz/articles/1152060/ukraine-criticises-tennis-exhibition"
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2390344_Rossijskaja_tennisistka_Shnajder_obygrala_Rahimovu_na_turnire_Trofei_Severnoj_Palmiry"
+      },
+      {
+        "title": "matchtv.ru",
+        "url": "https://matchtv.ru/tennis/matchtvnews_NI2390344_Rossijskaja_tennisistka_Shnajder_obygrala_Rahimovu_na_turnire_Trofei_Severnoj_Palmiry"
+      },
+      {
+        "title": "vk.ru",
+        "url": "https://m.vk.ru/wall-46240037_71276"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/Kamilla_Rakhimova"
+      },
+      {
+        "title": "sport-weekend.com",
+        "url": "https://www.sport-weekend.com/tennis/263024-v-sankt-peterburge-diana-shnajder-brosit-vyzov-muzhchine-v-bitve-polov-na-traditsionnom-turnire-trofei-severnoj-palmiry"
+      },
+      {
+        "title": "tennisworldusa.org",
+        "url": "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/171884/northern-palmyra-trophies-diana-shnaider-ousts-daniel-evans-in-battle-of-the-sexes/"
+      },
+      {
+        "title": "bookmaker-ratings.ru",
+        "url": "https://bookmaker-ratings.ru/news/bublik-hachanov-i-shnayder-sygrayut-na-trofeyah-severnoy-palmiry/"
+      },
+      {
+        "title": "sportbox.ru",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Tennis/spbnews_NI2390377_Hachanov_obygral_Mute_na_tennisnom_turnire_Trofei_Severnoj_Palmiry"
+      },
+      {
+        "title": "insidethegames.biz",
+        "url": "https://www.insidethegames.biz/articles/ukrainian-tennis-chief-criticises-players-in-gazprom-funded-exhibition"
+      },
+      {
+        "title": "tennis365.com",
+        "url": "https://www.tennis365.com/tennis-news/former-british-atp-star-joins-alexander-bublik-diana-shnaider-controversial-russia-exhibition"
+      },
+      {
+        "title": "Матч ТВ: Российская теннисистка Шнайдер обыграла Рахимову на турнире «Трофеи Северной Пальмиры»",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFVXUGZzaWpjdFRJb2kwUTBuVzdDdGlCS1BXaGx2aEFxTU51SnpaOTZDWlZUUGxJYmQ4ZkJfdlk2Mmd4Y0p1ajBrSmVLY3Z6X244TUxMSVlYZ1c5eWNMM21lYVlJMTd0SWJIOXI0X2RVYWpwcWdTOTgwNnVjdzlPX3VDYy1vN2xFMUxxNDkwUlVoNFNVR0kyRGxWbjFmeU1xUzVZSnVvZXBRUlU5SlFieWdiYmdsTjF1QlZzSWp0SlpnSHZfM0VOVHdzZF9VZw?oc=5"
+      },
+      {
+        "title": "Sportbox: Российская теннисистка Шнайдер обыграла Рахимову на турнире «Трофеи Северной Пальмиры»",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObVVBY3k2MG11NktjR0JhNVNJZ2hfSGpqT1R1ZGdlZVpJZlpzN3ZIQl9fYURzc0tqaHBVbDRXbTRPd3FhUE1tSVZJblZobnJwTXI1YllQWExvVzRyOUZvTlhBRXZLNXJrZFRkQVlWWWpZRkppVFRLLUlJR3U4UUFRa3AwZG9IMnJQYkV6bExQdzA1T0tJejBoalI1c2JobHBJMWF2QVNXUXU2TmM2eloxSFFrTXJYdW5uR0tGS3JOQUIzUDBONGljem1MYVNjc1dIR3l2YXlCUTJTc1hmcGIwQQ?oc=5"
+      },
+      {
+        "title": "Чемпионат – Теннис: Диана Шнайдер обыграла Камиллу Рахимову на турнире «Трофеи Северной Пальмиры» — 2026",
+        "url": "https://www.championat.com/tennis/news-6717566-diana-shnajder-obygrala-kamillu-rahimovu-na-turnire-trofei-severnoj-palmiry-2026.html"
+      },
+      {
+        "title": "https://www.championat.ru/: Диана Шнайдер обыграла Камиллу Рахимову на турнире «Трофеи Северной Пальмиры» — 2026",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaXl1S0p3M2x3bTc2OFhrN2pxWDFwY0xJRnVCYWVESnVUNy1HM0xzaTluM3ZMMExIN2tWZV9VUldSYW5KWlhlbThLLU9GRTBvUnpaMy05dWpyTzdJUERFNDU3OGY4WkVkMG85UjM3M2xuZ08tdUNjcGtVME5JWGRPZ2U0bU5BaVN2Q2F1Vl9Oek1Yd3hzUFhFLWswdDJFM2JCZUJxcXFWUW1ud3UzZkM4aC1XSnp5QWFSOG1jS3JQRU54Tk8wY01lUVpTNA?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Diana Shnaider Overwhelms Kamilla Rakhimova 13-5 at Northern Palmyra Trophies",
+      "seo_title": "Diana Shnaider defeats Kamilla Rakhimova in St. Petersburg",
+      "subheadline": "The world No. 11 won 11 of the last 12 games to extend team Sphinxes' lead at KSK Arena.",
+      "body_markdown": "Diana Shnaider defeated Kamilla Rakhimova 13-5 by total games at the Northern Palmyra Trophies exhibition tournament in St. Petersburg on Saturday, November 28, 2026. Playing on the hard courts of KSK Arena, the Russian world No. 11 dropped the opening frame before sweeping the remaining two periods to take the match 2-4, 6-0, 5-1. The result handed the Sphinxes an aggregate 39-34 advantage over the Lions in the overall team standings.\n\n## Reversing the Deficit in Timed Sets\n\nRakhimova, who began representing Uzbekistan on the international circuit and holds a career-high ranking of world No. 44, seized early control by winning the opening 20-minute set 4-2. The tournament uses an experimental format where matches are limited to three 20-minute sessions—with a total match cap of 75 minutes—and every individual game won counts toward the team scoreboard.\n\nShnaider adjusted quickly after the restart. Dictating baseline rallies, the 22-year-old shut out Rakhimova 6-0 in the middle frame and maintained the pressure to close out the third set 5-1. Over the final 40 minutes of action, Shnaider outscored Rakhimova 11-1.\n\n## Team Momentum and Friday's Precedent\n\nShnaider is competing for the Sphinxes under Serbian captain Janko Tipsarevic, the former ATP world No. 8. The Lions are captained by Elena Vesnina, the 2016 Olympic doubles gold medalist. \n\nThe win marked Shnaider's second high-profile outing of the weekend. On Friday, November 27, she opened the tournament by defeating recently retired British player Dan Evans 5-2 in a singles \"Battle of the Sexes\" exhibition under modified court rules. The Sphinxes built further on Shnaider's Saturday triumph when teammate Karen Khachanov beat France's Corentin Moutet 12-10 (2-5, 6-1, 4-4), pushing their lead over the Lions to 51-44.\n\n## Context of the St. Petersburg Exhibition\n\nOrganized outside the official WTA and ATP calendars, the Northern Palmyra Trophies event has run annually since 2022, when professional tennis tours suspended official Russian tournaments. Primary sponsorship comes from state energy corporation Gazprom. While awarding no ranking points, the tournament attracted active tour players including Alexander Bublik, Yulia Putintseva, Anastasia Potapova, and Adrian Mannarino. The participation of international competitors drew public criticism from Ukrainian Tennis Federation executive director Evgeniy Zukin, who warned of reputational consequences.\n\nFor Shnaider, the event serves as an off-season exhibition following a career-best campaign. Her 2026 season included a run to the French Open semi-finals and a title at the WTA 500 in Tokyo on November 1. Competition at KSK Arena concludes on Sunday, November 29.",
+      "social_post": "11 games won out of the last 12 propelled world No. 11 Diana Shnaider past Kamilla Rakhimova 13-5 in St. Petersburg on Saturday. After dropping the opening frame 2-4, Shnaider stormed back in the timed-set format at KSK Arena to give the Sphinxes a 39-34 aggregate lead over the Lions. How do you feel about timed exhibition tennis formats? Share your thoughts below! #Tennis #DianaShnaider #WTA"
+    },
+    "zh": {
+      "headline": "北帕尔米拉杯施耐德13-5大胜拉希莫娃 强势逆转助“斯芬克斯队”扩大优势",
+      "seo_title": "施耐德13-5拉希莫娃：北帕尔米拉杯大胜",
+      "subheadline": "世界排名第11位的施耐德在后12局狂揽11局，在KSK竞技场为斯芬克斯队奠定胜局。",
+      "body_markdown": "在2026年11月28日周六于圣彼得堡举行的“北帕尔米拉杯”（Northern Palmyra Trophies）表演赛上，戴安娜·施耐德（Diana Shnaider）以总局数13-5横扫卡米拉·拉希莫娃（Kamilla Rakhimova）。在KSK竞技场的硬地球场上，这位目前世界排名第11位的俄罗斯名将虽先失一盘，但随后接管了比赛，以2-4、6-0、5-1的比分连扳两城逆转获胜。凭借这场胜利，“斯芬克斯队”在总比分上以39-34领先于“狮子队”。\n\n## 限时盘制下上演大逆转\n\n拉希莫娃职业生涯最高单打排名曾达到世界第44位，目前代表乌兹别克斯坦出战国际巡回赛。她在首个20分钟的比赛阶段率先发难，以4-2拔得头筹。本次表演赛采用了独具特色的创新赛制：每场比赛分为三节、每节限时20分钟，整场比赛上限为75分钟，球员赢下的每一局都将直接计入队伍的总得分池。\n\n局间休息归来后，施耐德迅速调整了技战术。22岁的施耐德牢牢掌控了底线对攻的主动权，在第二阶段直接送出6-0的“鸭蛋”横扫拉希莫娃，并在决胜阶段保持压迫感，以5-1锁定胜局。在比赛最后40分钟的时间里，施耐德打出了一波11-1的悬殊攻击波。\n\n## 团队势头正盛，周五奠定胜势\n\n施耐德所在的斯芬克斯队由塞尔维亚名宿、前ATP世界第8的扬科·蒂普萨雷维奇（Janko Tipsarevic）担任队长；而狮子队则由2016年里约奥运会女双金牌得主叶莲娜·维斯尼娜（Elena Vesnina）领衔。\n\n这场胜利是施耐德本周末的第二场焦点战。在11月27日周五的揭幕日上，她在一场采用特殊场地规则的单打“性别大战”中，以5-2击败了刚刚退役的英国名将丹·埃文斯（Dan Evans）。周六在施耐德取胜后，队友卡伦·哈恰诺夫（Karen Khachanov）乘胜追击，以12-10（2-5、6-1、4-4）险胜法国选手科朗坦·穆泰（Corentin Moutet），将斯芬克斯队对狮子队的领先优势扩大至51-44。\n\n## 圣彼得堡表演赛背景\n\n自2022年国际网球巡回赛暂停在俄罗斯举办官方赛事以来，独立于WTA和ATP正式赛历之外的“北帕尔米拉杯”每年如期举行，主要赞助商为俄罗斯国有能源巨头俄罗斯天然气工业股份公司（Gazprom）。尽管本项赛事不设任何巡回赛积分，但依然吸引了众多巡回赛现役名将参赛，包括亚历山大·布勃利克（Alexander Bublik）、尤利娅·普丁塞娃（Yulia Putintseva）、阿纳斯塔西娅·波塔波娃（Anastasia Potapova）以及阿德里安·马纳里诺（Adrian Mannarino）等。乌克兰网球联合会执行董事叶夫根尼·祖金（Evgeniy Zukin）曾公开发声抨击国际选手的参赛行为，并警告其可能面临声誉层面的后果。\n\n对施耐德而言，这场比赛是她迎来职业生涯突破性赛季后的休赛期表演舞台。在2026赛季中，她不仅打进了法国网球公开赛女单四强，还在11月1日斩获了WTA 500东京站女单冠军。KSK竞技场的这站表演赛将于11月29日周日收官。",
+      "social_post": "最后12局狂扫11局！世界排名第11的戴安娜·施耐德在周六圣彼得堡北帕尔米拉杯上以13-5大胜拉希莫娃。首节2-4落后无碍后程发力，施耐德在独具特色的限时赛制下为斯芬克斯队立下战功，助队伍总比分39-34反超狮子队！你如何看待这种限时网球表演赛赛制？欢迎在评论区分享你的看法！#网球 #施耐德 #WTA"
+    },
+    "ru": {
+      "headline": "Диана Шнайдер разгромила Камиллу Рахимову со счетом 13:5 на «Трофеях Северной Пальмиры»",
+      "seo_title": "Шнайдер — Рахимова 13:5: разгром на кортах Петербурга",
+      "subheadline": "11-я ракетка мира забрала 11 из последних 12 геймов на КСК «Арена», укрепив лидерство «Сфинксов».",
+      "body_markdown": "В субботу, 28 ноября 2026 года, Диана Шнайдер уверенно переиграла Камиллу Рахимову по сумме выигранных геймов со счетом 13:5 в рамках выставочного турнира «Трофеи Северной Пальмиры» в Санкт-Петербурге. На хардовом корте КСК «Арена» 11-я ракетка мира отдала сопернице стартовый отрезок, но затем буквально смела ее с корта в двух последующих таймах — 2:4, 6:0, 5:1. Благодаря этому успеху команда «Сфинксы» оторвалась от «Львов» в общем зачете, доведя командный счет до 39:34.\n\n## Перелом в тайм-сетах\n\nРахимова, выступающая на международной арене под флагом Узбекистана и добиравшаяся в карьере до 44-й строчки рейтинга WTA, лучше вошла в игру и забрала первую 20-минутку со счетом 4:2. Регламент соревнований экспериментальный: встречи состоят из трех 20-минутных сетов (общая продолжительность матча ограничена 75 минутами), а каждый взятый гейм идет в общую командную копилку.\n\nПосле паузы Шнайдер моментально перестроилась. Полностью захватив инициативу в обменах на задней линии, 22-летняя теннисистка повесила сопернице «баранку» во втором отрезке (6:0) и не сбавила оборотов в заключительной трети — 5:1. За последние 40 минут игрового времени Шнайдер отдала Рахимовой всего один гейм, выиграв 11.\n\n## Командная динамика и победа в пятничной «Битве полов»\n\nШнайдер выступает за «Сфинксов» под капитанством серба Янко Типсаревича, экс-восьмой ракетки мира в одиночном разряде. «Львов» ведет за собой олимпийская чемпионка Рио-2016 в паре Елена Веснина.\n\nСубботний триумф стал для Дианы уже вторым заметным успехом за уик-энд. В пятницу, 27 ноября, она открыла турнир победой в одиночной «Битве полов» по модифицированным правилам, обыграв недавно завершившего карьеру британца Дэна Эванса (5:2). Победный почин Шнайдер в субботу поддержал Карен Хачанов: переиграв француза Корентена Муте со счетом 12:10 (2:5, 6:1, 4:4), он увеличил отрыв «Сфинксов» от «Львов» до 51:44.\n\n## Контекст петербургского турнира\n\nТурнир «Трофеи Северной Пальмиры» проходит вне официального календаря WTA и ATP с 2022 года — с момента, когда туры отменили официальные соревнования на территории России. Генеральным спонсором выступает ПАО «Газпром». Несмотря на отсутствие рейтинговых очков, турнир вновь собрал действующих игроков топ-тура: в Петербург приехали Александр Бублик, Юлия Путинцева, Анастасия Потапова и Адриан Маннарино. Выступление иностранных теннисистов вызвало публичную критику исполнительного директора Федерации тенниса Украины Евгения Зукина, предостерегшего игроков о репутационных рисках.\n\nДля Шнайдер этот старт — яркая выставочная точка в лучшем сезоне карьеры. В 2026 году она дошла до полуфинала «Ролан Гаррос» и 1 ноября завоевала титул на турнире WTA 500 в Токио. Программа соревнований на КСК «Арена» завершится в воскресенье, 29 ноября.",
+      "social_post": "11 выигранных геймов из последних 12! Диана Шнайдер разгромила Камиллу Рахимову со счетом 13:5 на «Трофеях Северной Пальмиры». Уступив стартовый тайм 2:4, Диана включила максимум и принесла «Сфинксам» лидерство над «Львами» (39:34). Как вам формат тенниса с контролем времени? Делитесь в комментариях! #Теннис #ДианаШнайдер #ТрофеиСевернойПальмиры #WTA"
+    },
+    "region": "russia",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg/1280px-Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Diana_Shnaider_(2023_US_Open)_05_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Diana Shnaider playing in the first round of qualifying at the 2023 US Open",
+        "width": 1200,
+        "height": 1714,
+        "year": 2023,
+        "subject": "Diana Shnaider",
+        "asked": "Diana Shnaider",
+        "page_title": "Diana Shnaider",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:diana_shnaider_(2023_us_open)_05_(cropped).jpg|Diana Shnaider",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Diana Shnaider playing tennis wearing her signature bandana",
+          "reason": "The photo clearly shows tennis player Diana Shnaider wearing her trademark headscarf on a tennis court.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg/1280px-Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Kamilla_Rakhimova_(2024_DC_Open)_05_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Kamilla Rakhimova after winning in the first round at the 2024 Washington Open",
+        "width": 1200,
+        "height": 1747,
+        "year": 2024,
+        "subject": "Kamilla Rakhimova",
+        "asked": "Kamilla Rakhimova",
+        "page_title": "Kamilla Rakhimova",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:kamilla_rakhimova_(2024_dc_open)_05_(cropped).jpg|Kamilla Rakhimova",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "portrait of tennis player Kamilla Rakhimova wearing a visor",
+          "reason": "The photo clearly shows professional tennis player Kamilla Rakhimova, matching the caption and story.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/6559.1._St._Petersburg._Sibur_Arena_Complex.jpg/1280px-6559.1._St._Petersburg._Sibur_Arena_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:6559.1._St._Petersburg._Sibur_Arena_Complex.jpg",
+        "artist": "GAlexandrova",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Sports and Concert Complex \"Sibur Arena\", 2010-2013 (architects P.I. Loshakov, N.P. Loshakov): Krestovsky Island, Petrogradsky District, St. Petersburg.",
+        "width": 1200,
+        "height": 900,
+        "year": 2019,
+        "subject": "KSK Arena",
+        "asked": "KSK Arena",
+        "page_title": "KSK Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:6559.1._st._petersburg._sibur_arena_complex.jpg|KSK Arena",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Exterior of the sports venue in Saint Petersburg, formerly Sibur Arena, now KSK Arena",
+          "reason": "KSK Arena was formerly named Sibur Arena; the image shows the correct venue where the Northern Palmyra Trophies are held.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Rakhimova's nationality change to Uzbekistan confirmed via WTA/ITF official records"
+      }
+    ]
+  },
+  {
     "id": "2026-11-28-news-435fbd",
     "slug": "pitchamon-opatniputh-banned-three-months-by-bwf-after-positi",
     "date": "2026-11-28",
