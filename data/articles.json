@@ -1723,7 +1723,7 @@
           "verdict": "ok",
           "flags": [],
           "shows": "Exterior of Capital One Arena in Washington, D.C.",
-          "reason": "The image clearly shows Capital One Arena, the home venue of Alexander Ovechkin's Washington Capitals.",
+          "reason": "The image clearly shows the exterior of Capital One Arena, including signage and the Gallery Place Metro entrance.",
           "by": "ai"
         }
       },
@@ -1745,8 +1745,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:alexander_ovechkin_(49479646361)_(1).jpg|Alexander Ovechkin",
           "verdict": "ok",
           "flags": [],
-          "shows": "Alexander Ovechkin in Washington Capitals uniform",
-          "reason": "Clearly shows Washington Capitals captain Alexander Ovechkin wearing jersey number 8 on his helmet.",
+          "shows": "Alexander Ovechkin wearing a Washington Capitals jersey and helmet",
+          "reason": "The photo clearly depicts ice hockey player Alexander Ovechkin in his Washington Capitals uniform.",
           "by": "ai"
         }
       },
@@ -1768,8 +1768,8 @@
           "key": "https://commons.wikimedia.org/wiki/file:andrew_scheer_with_wayne_gretzky_(48055697168)_(cropped).jpg|Wayne Gretzky",
           "verdict": "ok",
           "flags": [],
-          "shows": "Wayne Gretzky smiling in a suit jacket",
-          "reason": "The photo clearly shows ice hockey legend Wayne Gretzky, matching the caption.",
+          "shows": "Portrait of ice hockey legend Wayne Gretzky smiling in a suit",
+          "reason": "The photo clearly shows Wayne Gretzky, who is the subject mentioned in the caption.",
           "by": "ai"
         }
       }
@@ -1867,6 +1867,54 @@
     "region": "global",
     "images": [
       {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Oakland_Coliseum_from_above_2024.png/1280px-Oakland_Coliseum_from_above_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Oakland_Coliseum_from_above_2024.png",
+        "artist": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "description": "Oakland Coliseum from above before the Athletics 2024 Opening Day game",
+        "width": 1200,
+        "height": 899,
+        "year": 2024,
+        "subject": "The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup",
+        "asked": "Oakland Coliseum",
+        "page_title": "Oakland Coliseum",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:oakland_coliseum_from_above_2024.png|The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Aerial view of Oakland Coliseum baseball stadium",
+          "reason": "The photo correctly shows Oakland Coliseum, with Athletics branding visible on the outfield structure.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA_%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%89_%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA_%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%89_%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.jpg",
+        "artist": "NCanny2",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "description": "Nassau County Cricket Stadium - IND v IRE",
+        "width": 1200,
+        "height": 786,
+        "year": 2024,
+        "subject": "The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup",
+        "asked": "Nassau County International Cricket Stadium",
+        "page_title": "Nassau County International Cricket Stadium",
+        "editor": false,
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:%e0%a7%a8%e0%a7%a6%e0%a7%a8%e0%a7%aa_%e0%a6%9f%e0%a6%bf%e0%a7%a8%e0%a7%a6_%e0%a6%ac%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%ac%e0%a6%95%e0%a6%be%e0%a6%aa%e0%a7%87%e0%a6%b0_%e0%a6%b8%e0%a6%ae%e0%a6%af%e0%a6%bc_%e0%a6%a8%e0%a6%be%e0%a6%b8%e0%a6%be%e0%a6%89_%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf_%e0%a6%86%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%8d%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a6%bf%e0%a6%95_%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%9f_%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%af%e0%a6%bc%e0%a6%be%e0%a6%ae.jpg|The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "A cricket match at Nassau County International Cricket Stadium during the 2024 T20 World Cup",
+          "reason": "The image clearly shows the modular cricket stadium in Nassau County, New York during the 2024 Men's T20 World Cup.",
+          "by": "ai"
+        }
+      },
+      {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_Prairie_Stadium_seating%2C_April_2024.jpg/1280px-Grand_Prairie_Stadium_seating%2C_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "page": "https://commons.wikimedia.org/wiki/File:Grand_Prairie_Stadium_seating,_April_2024.jpg",
         "artist": "SounderBruce",
@@ -1884,21 +1932,16 @@
           "key": "https://commons.wikimedia.org/wiki/file:grand_prairie_stadium_seating,_april_2024.jpg|Grand Prairie Stadium",
           "verdict": "ok",
           "flags": [],
-          "shows": "Grand Prairie Stadium cricket ground and seating area",
-          "reason": "The image accurately shows the Grand Prairie Stadium cricket venue in Texas with its pitch and grandstands.",
+          "shows": "Grand Prairie Stadium cricket ground and seating in Texas",
+          "reason": "The image accurately shows Grand Prairie Stadium prepared for cricket with a pitch and stadium seating.",
           "by": "ai"
         }
       }
     ],
-    "standards": [
-      {
-        "level": "BLOCK",
-        "area": "photos",
-        "msg": "Only 1 picture(s). Rule: at least 2 relevant pictures (people in the story, venue, match card). Add free photos in photos.yaml, or use publish-anyway if no free photo exists"
-      }
-    ],
+    "standards": [],
     "updated_at": "2026-11-28T13:40:14+07:00",
-    "translated_at": "2026-11-28T13:40:14+07:00"
+    "translated_at": "2026-11-28T13:40:14+07:00",
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup\", \"wikipedia\": \"Oakland Coliseum\"}, {\"caption\": \"The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup\", \"wikipedia\": \"Nassau County International Cricket Stadium\"}]}"
   },
   {
     "id": "2026-11-27-news-33c855",

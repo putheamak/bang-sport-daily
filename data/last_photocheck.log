@@ -1,9 +1,12 @@
-2026-11-27 12:24:00,794 INFO Photo check Marc_Marquez_at_the_2026_Spanish_Grand_Prix_(cropped).jpg (Wikimedia Commons, 3331x4621): OK, licence 'CC BY-SA 4.0'
-2026-11-27 12:24:00,794 INFO Photos for 2026-11-27-news-eb82c2 set from photos.yaml (1 photo(s))
-2026-11-27 12:24:01,530 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-27 12:24:07,547 INFO Photo check 2026-11-27-news-ae7ce9 #1 'Niko Kovač': OK
-2026-11-27 12:24:13,603 INFO Photo check 2026-11-27-news-ae7ce9 #2 'Harry Kane': OK
-2026-11-27 12:24:20,318 INFO Photo check 2026-11-27-news-ae7ce9 #3 'Westfalenstadion': OK
-2026-11-27 12:24:20,318 INFO Photo check 2026-11-27-news-eb82c2 #1 'Marc Marquez at the 2026 Spanish Grand P': OK
-2026-11-27 12:24:21,803 INFO Website built: 103 published stories, 357 pages
-2026-11-27 12:24:21,805 INFO Gemini today (2026-11-27, Pacific): gemini-3.8-flash 28 ok / 0 failed (55,169 in / 73,670 out tokens) · estimated cost if billed: US$0.318
+2026-11-28 06:41:41,429 INFO Photo check Oakland_Coliseum_from_above_2024.png (Wikimedia Commons, 5272x3948): OK, licence 'CC BY 4.0'
+2026-11-28 06:41:41,544 INFO Photo check ২০২৪_টি২০_বিশ্বকাপের_সময়_নাসাউ_কাউন্টি_আন্তর্জাতিক_ক্রিকেট_স্টেডিয়াম.jpg (Wikimedia Commons, 3024x1980): OK, licence 'CC0'
+2026-11-28 06:41:41,545 INFO Photos for 2026-11-27-news-67c902 set from photos.yaml (3 photo(s))
+2026-11-28 06:41:42,172 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-28 06:41:49,300 INFO Photo check 2026-11-27-athl-c4b783 #1 'Capital One Arena': OK
+2026-11-28 06:41:55,875 INFO Photo check 2026-11-27-athl-c4b783 #2 'Alexander Ovechkin': OK
+2026-11-28 06:42:03,335 INFO Photo check 2026-11-27-athl-c4b783 #3 'Wayne Gretzky': OK
+2026-11-28 06:42:11,110 INFO Photo check 2026-11-27-news-67c902 #1 'The Oakland Coliseum, one of the venues ': OK
+2026-11-28 06:42:18,127 INFO Photo check 2026-11-27-news-67c902 #2 'The temporary Nassau County stadium in N': OK
+2026-11-28 06:42:25,249 INFO Photo check 2026-11-27-news-67c902 #3 'Grand Prairie Stadium': OK
+2026-11-28 06:42:27,201 INFO Website built: 106 published stories, 366 pages
+2026-11-28 06:42:27,203 INFO Gemini today (2026-11-27, Pacific): gemini-3.8-flash 64 ok / 0 failed (123,081 in / 140,595 out tokens) · estimated cost if billed: US$0.620
