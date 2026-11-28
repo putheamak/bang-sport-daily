@@ -88,6 +88,17 @@ def _abs(cfg, url: str) -> str:
         return f"{_base(cfg)}/{url[3:]}"
     return url
 
+def _own_img(cfg, im: dict | None) -> str:
+    """Full address of a picture for previews (og:image, schema, RSS): our own copy on bangsportdaily.com when we
+    have one (docs/photos/c/...), because Flipboard and other preview robots often cannot load Wikimedia links."""
+    if not im or not im.get("url"):
+        return ""
+    from .reels import _local_file, DOCS
+    p = _local_file(im)
+    if im["url"].startswith("http") and p and p.is_file() and _base(cfg):
+        return f"{_base(cfg)}/{p.relative_to(DOCS).as_posix()}"
+    return _abs(cfg, im["url"])
+
 
 def _site_name(cfg, lang):
     s = cfg["site"]
@@ -609,7 +620,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
             if imgs else f'<figure class="hero-fig">{_cover(cfg, a, lang, "heroimg")}</figure>')
     ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": L["headline"][:110],
                      "datePublished": a.get("published_at") or a["created"], "inLanguage": HTML_LANG[lang],
-                     "image": [_abs(cfg, imgs[0]["url"])] if imgs else [],
+                     "image": [_own_img(cfg, imgs[0])] if imgs else [],
                      "dateModified": max(a.get("updated_at") or "", a.get("published_at") or a["created"]),
                      "author": ({"@type": "Person", "name": cfg["site"]["author"], "url": f"{_base(cfg)}/{lang}/author"}
                                 if byline_mode(cfg) != "pen_names" else
@@ -641,7 +652,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
 {f'<section class="wrap more"><h2 class="sech"><span>{grid_title}</span></h2><div class="grid g3">{rel}</div></section>' if rel else ''}"""
     return _page(cfg, lang, f"{L.get('seo_title') or L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
                  body, alternates, f"{lang}/{a['slug']}.html", f'<script type="application/ld+json">{ld}</script>',
-                 og_image=imgs[0]["url"] if imgs else "", active=key)
+                 og_image=_own_img(cfg, imgs[0]) if imgs else "", active=key)
 
 
 def _website_ld(cfg, lang) -> str:
@@ -704,7 +715,7 @@ def _home_page(cfg, lang, items, wire):
 {feat}"""
     return _page(cfg, lang, f"{_site_name(cfg, lang)} — {_tagline(cfg, lang)}", _tagline(cfg, lang), body, alternates,
                  f"{lang}/index.html", _website_ld(cfg, lang), ticker=items,
-                 og_image=(lead.get("images") or [{}])[0].get("url", ""), active="home")
+                 og_image=_own_img(cfg, (lead.get("images") or [None])[0]), active="home")
 
 
 _TP: dict = {}
@@ -898,7 +909,7 @@ def _rss(cfg, lang, items):
         if imgs:
             im = imgs[0]
             credit = " · ".join(x for x in [im.get("artist", ""), im.get("license", "")] if x) or _site_name(cfg, lang)
-            media = (f'<media:content url="{E(_abs(cfg, im["url"]))}" medium="image" width="{int(im.get("width") or 1200)}"'
+            media = (f'<media:content url="{E(_own_img(cfg, im))}" medium="image" width="{int(im.get("width") or 1200)}"'
                      + (f' height="{int(im["height"])}"' if im.get("height") else "")
                      + f'><media:credit>{E(credit)}</media:credit></media:content>')
         body = md_to_html(L.get("body_markdown", ""))

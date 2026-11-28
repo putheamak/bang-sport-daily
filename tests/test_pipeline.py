@@ -1565,3 +1565,20 @@ def test_rss_has_images_and_full_text():
     x = _rss(cfg, "en", [a])
     xml.dom.minidom.parseString(x)                     # well-formed
     assert "media:content" in x and "content:encoded" in x and "[[embed" not in x and 'width="1280"' in x
+
+
+def test_preview_image_uses_our_own_copy(tmp_path, monkeypatch):
+    """Flipboard showed a blank card with Wikimedia og:image links: previews use our own copy when we have one."""
+    from sportnews import reels
+    from sportnews.common import load_config
+    from sportnews.site import _own_img
+    cfg = load_config()
+    monkeypatch.setattr(reels, "DOCS", tmp_path)
+    im = {"url": "https://thumb.wikimedia.org/x/1280px-a.jpg"}
+    assert _own_img(cfg, im) == im["url"]              # no copy yet: the original link
+    p = reels._local_file(im)
+    p.parent.mkdir(parents=True)
+    p.write_bytes(b"jpg")
+    out = _own_img(cfg, im)
+    assert out.startswith("https://bangsportdaily.com/photos/c/") and out.endswith(".jpg")
+    assert _own_img(cfg, None) == ""
