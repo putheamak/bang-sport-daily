@@ -409,6 +409,13 @@ def publish_articles(cfg: dict, ids: list[str], force: bool = False) -> list[str
                     a["published_to"].append({"channel": f"telegram-{lang}", "at": now_iso(cfg)})
                 except Exception as e:  # noqa: BLE001
                     log.error("Telegram %s failed for %s: %s", lang, a["id"], e)
+        if cfg["publish"].get("bluesky") and "bluesky" not in posted and a.get("en"):
+            from . import bluesky
+            if bluesky.ready():                          # editor, 28 Nov 2026: one English post per story
+                try:
+                    a["published_to"].append({"channel": "bluesky", "id": bluesky.post(cfg, a), "at": now_iso(cfg)})
+                except Exception as e:  # noqa: BLE001
+                    log.error("Bluesky failed for %s: %s", a["id"], e)
         if os.environ.get("DEFER_FACEBOOK") == "1":
             pass                                             # posted by the workflow's next step, once the page is live
         elif cfg["publish"].get("facebook") and facebook_ready():

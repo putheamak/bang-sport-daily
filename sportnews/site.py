@@ -886,14 +886,38 @@ def _author_page(cfg, lang, items):
 
 
 def _rss(cfg, lang, items):
+    """RSS 2.0 feed per language: full text, cover image (media:content, at least 1200 px wide) with credit, author
+    and section. Flipboard asks for full feeds with images and at least 30 items (editor, 28 Nov 2026)."""
     base = _base(cfg) or "."
-    entries = "".join(
-        f"<item><title>{E(a[lang]['headline'])}</title><link>{base}/{lang}/{a['slug']}</link>"
-        f"<guid>{base}/{lang}/{a['slug']}</guid><description>{E(_plain(a[lang].get('body_markdown', ''), 300))}</description>"
-        f"<pubDate>{format_datetime(datetime.fromisoformat(a.get('published_at') or a['created']))}</pubDate></item>"
-        for a in items[:30])
-    return (f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>{E(_site_name(cfg, lang))}</title>'
-            f"<link>{base}/{lang}/</link><description>{E(_tagline(cfg, lang))}</description><language>{HTML_LANG[lang]}</language>{entries}</channel></rss>")
+    out = []
+    for a in items[:40]:
+        L = a[lang]
+        url = f"{base}/{lang}/{a['slug']}"
+        imgs = [i for i in a.get("images") or [] if i.get("url")]
+        media = ""
+        if imgs:
+            im = imgs[0]
+            credit = " · ".join(x for x in [im.get("artist", ""), im.get("license", "")] if x) or _site_name(cfg, lang)
+            media = (f'<media:content url="{E(_abs(cfg, im["url"]))}" medium="image" width="{int(im.get("width") or 1200)}"'
+                     + (f' height="{int(im["height"])}"' if im.get("height") else "")
+                     + f'><media:credit>{E(credit)}</media:credit></media:content>')
+        body = md_to_html(L.get("body_markdown", ""))
+        body = re.sub(r"\[\[(embed|img):[^\]]*\]\]", "", body)          # our placement markers, not for feeds
+        note = f'<p><em>{E(UI[lang]["ai"].format(author=byline_name(cfg, a, lang)))}</em></p>'
+        out.append(
+            f"<item><title>{E(L['headline'])}</title><link>{url}</link><guid isPermaLink=\"true\">{url}</guid>"
+            f"<description>{E(L.get('subheadline') or _plain(L.get('body_markdown', ''), 300))}</description>"
+            f"<content:encoded><![CDATA[{body.replace(']]>', ']]&gt;')}{note}<p><a href=\"{url}\">{E(_site_name(cfg, lang))}</a></p>]]></content:encoded>"
+            f"<dc:creator>{E(byline_name(cfg, a, lang))}</dc:creator><category>{E(section_name(cfg, sport_key(cfg, a), lang))}</category>"
+            f"<pubDate>{format_datetime(datetime.fromisoformat(a.get('published_at') or a['created']))}</pubDate>{media}</item>")
+    return ('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" '
+            'xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" '
+            'xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+            f"<title>{E(_site_name(cfg, lang))}</title><link>{base}/{lang}/</link>"
+            f'<atom:link href="{base}/{lang}/feed.xml" rel="self" type="application/rss+xml"/>'
+            f"<description>{E(_tagline(cfg, lang))}</description><language>{HTML_LANG[lang]}</language>"
+            f"<image><url>{base}/icon-512.png</url><title>{E(_site_name(cfg, lang))}</title><link>{base}/{lang}/</link></image>"
+            f"{''.join(out)}</channel></rss>")
 
 
 # Absolute links (/en/, not en/): Cloudflare Pages used to serve this page for unknown addresses, and relative

@@ -1542,3 +1542,26 @@ def test_related_stories_prefer_same_team():
     other = {"id": "d", "type": "news", "sport": "tennis", "tags": ["Sinner"], "athletes": []}
     out = related_stories(cfg, a, [other, same_sport, a, same_team], 3)
     assert [r["id"] for _, r in out] == ["b", "c", "d"] and out[0][0] >= 4
+
+
+def test_bluesky_text_and_facets():
+    from sportnews.bluesky import hashtag_facets, text_for
+    a = {"en": {"social_post": "Saudi Arabia beat China 82-80. " + "Long detail. " * 40 + "Share your thoughts below! #FIBAWC #Basketball"}}
+    t = text_for(a, "https://x")
+    assert len(t) <= 300 and "#FIBAWC" in t and "Share your thoughts" not in t
+    f = hashtag_facets("Go 🏀 #FIBAWC now")
+    s, e = f[0]["index"]["byteStart"], f[0]["index"]["byteEnd"]
+    assert "Go 🏀 #FIBAWC now".encode()[s:e] == "#FIBAWC".encode()
+
+
+def test_rss_has_images_and_full_text():
+    import xml.dom.minidom
+    from sportnews.common import load_config
+    from sportnews.site import _rss
+    cfg = load_config()
+    a = {"id": "x", "type": "news", "sport": "tennis", "slug": "s", "created": "2026-11-28T10:00:00+07:00",
+         "date": "2026-11-28", "en": {"headline": "H", "subheadline": "Sub", "body_markdown": "Para one.\n\n[[embed:1]]\n\nTwo."},
+         "images": [{"url": "https://upload.wikimedia.org/a.jpg", "width": 1280, "height": 720, "artist": "A", "license": "CC0"}]}
+    x = _rss(cfg, "en", [a])
+    xml.dom.minidom.parseString(x)                     # well-formed
+    assert "media:content" in x and "content:encoded" in x and "[[embed" not in x and 'width="1280"' in x

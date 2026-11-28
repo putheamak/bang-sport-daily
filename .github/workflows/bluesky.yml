@@ -1,0 +1,49 @@
+name: Bluesky (setup or post)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "setup = label the account as automated (do once); post = post published stories by ID"
+        type: choice
+        options: [setup, post]
+        default: setup
+      ids:
+        description: "For post: published story ID(s), space-separated"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sportnews
+  cancel-in-progress: false
+
+jobs:
+  bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MODE: ${{ inputs.mode }}
+          IDS: ${{ inputs.ids }}
+        run: |
+          if [ "$MODE" = "setup" ]; then python -m sportnews bluesky --setup; else python -m sportnews bluesky $IDS; fi
+      - run: |
+          git config user.name  "sportnews-bot"
+          git config user.email "sportnews-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Bluesky: $IDS"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            sleep 10
+          done

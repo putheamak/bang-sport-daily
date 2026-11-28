@@ -30,6 +30,8 @@ def main(argv=None):
     d.add_argument("--once", action="store_true", help="skip if today's stories are already written (scheduled runs)")
     sub.add_parser("collect")
     sub.add_parser("inbox")
+    bs = sub.add_parser("bluesky", help="label the Bluesky account as automated (--setup) or post published stories")
+    bs.add_argument("ids", nargs="*"); bs.add_argument("--setup", action="store_true")
     rp = sub.add_parser("reelphotos", help="save free photos from Wikipedia articles to choose Reel pictures")
     rp.add_argument("id"); rp.add_argument("titles", help="Wikipedia article titles, separated by |")
     vo = sub.add_parser("voiceover", help="AI presenter voice-over for a story (script in voiceover/<id>.en.txt)")
@@ -59,6 +61,21 @@ def main(argv=None):
     if a.cmd == "daily":
         from .pipeline import run_daily
         run_daily(publish_now=True if a.publish else None, once=a.once)
+    elif a.cmd == "bluesky":
+        from . import bluesky
+        from .common import load_articles, now_iso, save_articles
+        if not bluesky.ready():
+            print("Bluesky secrets missing (BLUESKY_HANDLE, BLUESKY_APP_PASSWORD)")
+        elif a.setup:
+            print(bluesky.setup_profile())
+        else:
+            arts = load_articles()
+            for x in arts:
+                if x["id"] in a.ids and x.get("status") == "published" and \
+                        "bluesky" not in {p.get("channel") for p in x.get("published_to") or []}:
+                    x.setdefault("published_to", []).append({"channel": "bluesky", "id": bluesky.post(cfg, x), "at": now_iso(cfg)})
+                    print("Bluesky:", x["id"])
+            save_articles(arts)
     elif a.cmd == "reelphotos":
         from .voicereel import fetch_photos
         print(fetch_photos(a.id, [t.strip() for t in a.titles.split("|") if t.strip()]))

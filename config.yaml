@@ -125,6 +125,7 @@ block: ["betting tips", "odds", "casino", "fantasy picks", "live stream free", "
 publish:
   auto_publish: false      # false = drafts go to your private Telegram review chat + email; you approve
   website: true            # public reader site on GitHub Pages (published stories only)
+  bluesky: true            # 28 Nov 2026, editor: one English post per published story (needs BLUESKY_HANDLE + BLUESKY_APP_PASSWORD secrets; without them nothing is posted)
   telegram: true           # one channel per language: TELEGRAM_CHANNEL_EN / _ZH / _RU
   facebook: false          # 28 Nov 2026: Facebook account PERMANENTLY DISABLED by Meta (no posting, no new account). 26 Nov 2026 ~22:30: PAUSED by the editor (Facebook security checkpoint, "API access blocked"). 25 Nov: editor turned on automatic posting. Posts each story to the Page when it is
                            # published (needs FB_PAGE_ID + FB_PAGE_TOKEN secrets; without them nothing is posted)
