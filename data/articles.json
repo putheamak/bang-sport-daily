@@ -5,7 +5,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T21:40:56+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "Basketball",
     "tags": [
@@ -206,7 +206,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T21:39:40+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [

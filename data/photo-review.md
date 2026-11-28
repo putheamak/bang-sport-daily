@@ -1,48 +1,8 @@
 # Photo review — 2026-11-28
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 3 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
-
-## 📝 DRAFT · Henan Sports Authority Refutes 200,000-Yuan Basketball Certificate Scam
-`2026-11-28-news-fb6895` · 2026-11-28
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg/1280px-%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Henan**<br>2013 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E4%B8%BB%E7%AA%9F_-_panoramio_(1).jpg)<br>AI sees: _Longmen Grottoes rock carvings in Luoyang, Henan_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_%282752855852%29.jpg/1280px-Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_%282752855852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Basketball in China**<br>2008 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Team_China_-_Mens_Basketball_-_Beijing_2008_Olympics_(2752855852).jpg)<br>AI sees: _Chinese men's national basketball team at the Beijing 2008 Olympics_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg/1280px-2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🔴 WRONG**<br>Caption: **Gaokao**<br>Asked for: National College Entrance Examination → got page: Gaokao<br>2021 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:2021%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%86%E8%80%83%E8%AF%81%E6%AD%A3%E9%9D%A2.jpg)<br>AI sees: _A Chinese National College Entrance Examination (Gaokao) admission ticket_<br>Why: The image clearly shows an official Gaokao exam admission ticket, matching the caption.<br>⚑ asked for 'National College Entrance Examination' but the photo comes from the page 'Gaokao'
-<br clear="left">
-
----
-
-## 📝 DRAFT · Diana Shnaider Overwhelms Kamilla Rakhimova 13-5 at Northern Palmyra Trophies
-`2026-11-28-news-9f2c05` · 2026-11-28
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg/1280px-Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Diana Shnaider**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Diana_Shnaider_(2023_US_Open)_05_(cropped).jpg)<br>AI sees: _Diana Shnaider playing tennis wearing her signature bandana_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg/1280px-Kamilla_Rakhimova_%282024_DC_Open%29_05_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Kamilla Rakhimova**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kamilla_Rakhimova_(2024_DC_Open)_05_(cropped).jpg)<br>AI sees: _portrait of tennis player Kamilla Rakhimova wearing a visor_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/6559.1._St._Petersburg._Sibur_Arena_Complex.jpg/1280px-6559.1._St._Petersburg._Sibur_Arena_Complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **KSK Arena**<br>2019 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:6559.1._St._Petersburg._Sibur_Arena_Complex.jpg)<br>AI sees: _Exterior of the sports venue in Saint Petersburg, formerly Sibur Arena, now KSK Arena_
-<br clear="left">
-
----
 
 ## 📝 DRAFT · USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth
 `2026-11-28-news-80638d` · 2026-11-28
