@@ -4,31 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Sotto and Debutant Boatwright Dominate as Gilas Pilipinas Rout Syria 97-58
-`2026-11-28-news-c2986b` · 2026-11-28
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Kai_sotto_yokohama_b_corsairs_b_league.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Kai Sotto**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg)<br>AI sees: _Kai Sotto in a Yokohama B-Corsairs basketball uniform_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bennie_Boatwright_2026.jpg/1280px-Bennie_Boatwright_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Bennie Boatwright**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg)<br>AI sees: _Bennie Boatwright wearing a San Miguel Beermen warm-up shirt during a basketball game_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Tim Cone**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg)<br>AI sees: _Basketball coach Tim Cone speaking into a microphone_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-28-news-c2986b.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## 📝 DRAFT · USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth
 `2026-11-28-news-80638d` · 2026-11-28
 
@@ -150,6 +125,31 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Dean_Smith_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
 
 **1. 🟠 CHECK** · cover<br>Caption: **Dean Smith**<br>1973 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dean_Smith_1973.jpg)<br>AI sees: _portrait of college basketball coach Dean Smith_<br>Why: The photo accurately shows legendary North Carolina basketball coach Dean Smith from the 1970s era.<br>⚑ photo is from 1973: too old for a story about current athletes
+<br clear="left">
+
+---
+
+## ✅ live · Sotto and Debutant Boatwright Dominate as Gilas Pilipinas Rout Syria 97-58
+`2026-11-28-news-c2986b` · 2026-11-28
+
+<img src="../docs/photos/c/0d3fa0b9b925f047.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Kai Sotto**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Kai_sotto_yokohama_b_corsairs_b_league.jpg)<br>AI sees: _Kai Sotto in a Yokohama B-Corsairs basketball uniform_
+<br clear="left">
+
+<img src="../docs/photos/c/862a54e34c16fc9d-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Bennie Boatwright**<br>2026 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Bennie_Boatwright_2026.jpg)<br>AI sees: _Bennie Boatwright wearing a San Miguel Beermen warm-up shirt during a basketball game_
+<br clear="left">
+
+<img src="../docs/photos/c/b1e0247dd5f1d5d8-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Tim Cone**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg)<br>AI sees: _Basketball coach Tim Cone speaking into a microphone_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-28-news-c2986b.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
 <br clear="left">
 
 ---

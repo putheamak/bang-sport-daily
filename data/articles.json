@@ -629,7 +629,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T01:30:06+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Basketball",
     "tags": [
@@ -740,7 +740,20 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0VucFBrdHVQQXVrZjlOcFdGdnZYYUhIN1VuRkNaaFNraHBnLS1idVU0NlBvbUxaRVB2V3RLM1JFa01DVDBRVFdla3EyWjlocWRqZ1FGeld5X2p1Qml0TGtUMWpDbUhLOV9fV3BpcmZSX3VvQ2p0azNQaWFQNkRxR2hGS0hETUdraGs0ckRKRUJXcm1yemZnQzNIQ3pnU0Z6N3dYZGJPeXhhVV96RUpncg?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T17:26:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T17:26:40+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T17:26:40+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -859,7 +872,8 @@
         "area": "facts",
         "msg": "Strong claim 'debut': confirm it in a source before publishing"
       }
-    ]
+    ],
+    "published_at": "2026-11-28T17:26:40+07:00"
   },
   {
     "id": "2026-11-28-news-02e69a",
