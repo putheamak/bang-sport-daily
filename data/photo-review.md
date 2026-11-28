@@ -29,6 +29,46 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
+## 📝 DRAFT · Musetti Stars in Singles and Doubles as Italy Edge Czech Republic to Reach Davis Cup Final
+`2026-11-28-news-5e9885` · 2026-11-28
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Musetti_MCM23_%2811%29_%2852883593753%29.jpg/1280px-Musetti_MCM23_%2811%29_%2852883593753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Lorenzo Musetti**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Musetti_MCM23_(11)_(52883593753).jpg)<br>AI sees: _Lorenzo Musetti playing tennis_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Andrea_Vavassori_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Andrea_Vavassori_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Andrea Vavassori**<br>2025 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Andrea_Vavassori_(2025_DC_Open)_01_(cropped).jpg)<br>AI sees: _Andrea Vavassori on a tennis court_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/1280px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Jiří Lehečka**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg)<br>AI sees: _tennis player Jiří Lehečka on a clay court_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-28-news-5e9885.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **Italy 2 - 1 Czech Republic · Davis Cup Finals**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Pitchamon Opatniputh Banned Three Months by BWF After Positive Doping Test
+`2026-11-28-news-435fbd` · 2026-11-28
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg/1280px-%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Pitchamon Opatniputh**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg)<br>AI sees: _Pitchamon Opatniputh playing badminton_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg/1280px-Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Nagoya**<br>2022 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg)<br>AI sees: _cityscape of Nagoya with railway tracks and skyscrapers_
+<br clear="left">
+
+---
+
 ## 📝 DRAFT · Cody Garbrandt Confirms UFC Retirement Fight Set for Cleveland in February
 `2026-11-28-news-276d13` · 2026-11-28
 

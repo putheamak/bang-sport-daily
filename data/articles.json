@@ -1,5 +1,433 @@
 [
   {
+    "id": "2026-11-28-news-435fbd",
+    "slug": "pitchamon-opatniputh-banned-three-months-by-bwf-after-positi",
+    "date": "2026-11-28",
+    "created": "2026-11-28T18:40:44+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "badminton",
+    "tags": [
+      "Badminton",
+      "Pitchamon Opatniputh",
+      "Thailand",
+      "BWF",
+      "Anti-Doping"
+    ],
+    "athletes": [
+      "Pitchamon Opatniputh"
+    ],
+    "image_subjects": [
+      "Pitchamon Opatniputh",
+      "Badminton World Federation",
+      "World Anti-Doping Agency",
+      "Nagoya"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "Whether the BWF published a separate reasoned decision detailing the exact degree of fault found in the case beyond its website summary."
+    ],
+    "sources": [
+      {
+        "title": "BWF Statement on Pitchamon Opatniputh",
+        "url": "https://bwfbadminton.com"
+      },
+      {
+        "title": "Thai badminton star banned for doping offence - The Edge Malaysia",
+        "url": "https://theedgemalaysia.com"
+      },
+      {
+        "title": "Asian Games Aichi-Nagoya 2026 - The ITA sanctions Thai athlete Pitchamon Opatniputh for her anti-doping rule violation - International Testing Agency",
+        "url": "https://ita.sport"
+      },
+      {
+        "title": "freemalaysiatoday.com",
+        "url": "https://www.freemalaysiatoday.com/category/sports/2026/11/28/thai-badminton-star-banned-for-doping-offence"
+      },
+      {
+        "title": "timesnownews.com",
+        "url": "https://www.timesnownews.com/sports/badminton/world-junior-champion-pitchamon-opatniputh-handed-three-month-ban-for-doping-violation-article-156576131"
+      },
+      {
+        "title": "ita.sport",
+        "url": "https://ita.sport/news/asian-games-aichi-nagoya-2026-the-ita-sanctions-thai-athlete-pitchamon-opatniputh-for-her-anti-doping-rule-violation/"
+      },
+      {
+        "title": "bwfbadminton.com",
+        "url": "https://corporate.bwfbadminton.com/news-single/2026/11/27/bwf-statement-on-pitchamon-opatniputh/"
+      },
+      {
+        "title": "bangkokpost.com",
+        "url": "https://www.bangkokpost.com/sports/3362439/rising-thai-star-pitchamon-hit-with-threemonth-ban"
+      },
+      {
+        "title": "khaosodenglish.com",
+        "url": "https://www.khaosodenglish.com/news/sports/2026/11/27/bwf-bans-thai-badminton-player-pink-pitchamon-for-3-months-over-banned-substance/"
+      },
+      {
+        "title": "The Edge Malaysia: Thai badminton star banned for doping offence",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PZVFaRTBLU1UtS19CaFJnWEk2aG5TSllRRzAxb3phWHBGN0E2bENyZWlCTlRkZ1VoNFdtSDNZZTFXcnNNdy1LdmNBelFiVEJ6?oc=5"
+      },
+      {
+        "title": "The Straits Times: Upcoming Thai badminton star Pitchamon Opatniputh banned three months for doping offence",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM0k0SHVoajJ5eV95ZmJFX21WdUVZS0NqUjdqS2ozTVFmeHc3c0VROUNULTJBaWhFSzVNTXJsRDMtSnN3VDNWRC1GV3pwaE5uNDc4U3k0ajJyWWo1WWlURnBuVE05eVA4QzBxNG1BY3dod0pLMUg1NHJHNVNVd3VqaFB4Y21jTHcxMkV4Z0FibnVxZDFyeDRMQnQ0TFFLekg3enpiSnpRZmVjNXBtQVRZb1kxZ0RaSHFESDZ4bHVkYU4?oc=5"
+      },
+      {
+        "title": "Chosunbiz: Thai badminton star Pitchamon receives 3-month doping suspension",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bXZfcFp0RTJ2clFCc09maWFwbVRUOGtkcE9SSnl2ek9YR2Q0ZG0wMExqN3VhcF80R0NjRmo5N1hDX1EyRkFla2o1THpRcHd5cjZraGFfNjlYcmRJOUhlQk4tOTktUEZmeEJBZzNvRGFOUVZQaUhjTmIwUDFLaHPSAZMBQVVfeXFMUHRVMXlmcC13dE1DckEzVngxSjVicGlfQ2dleTZtd1dvM2tXeHNlS01DYVVVbTk5LTlGcTZ5UjROeTNnTHdqZF9NeXlFVjBzWXJFNnF5U2dQcHhFeGhiaXZhWWpaMFJnQXdTdDhDU09uMzdlbnVGNmZXQ25EeWRHcHlqa2dGeVYwN00ycmV5VVlFekNR?oc=5"
+      },
+      {
+        "title": "조선일보: Thai Badminton Star Pichamon Receives Three-Month Doping Suspension",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1dHQlpWeTllNW1TWlBtSnlnLXpYT2RsUG56SkQtMXlPaV8yZHhSMnd6WUlPRWVOY19uWXBEX1piZ0k5Ulk5YkdBN3pzSGw2bEZWNXNXdmtCNGU3Y2Y0UkVieXZyRUh1LVYwV254Qk9WZlp0eTVqMjEybkQ3eHBYY1ZFU2cwZw?oc=5"
+      },
+      {
+        "title": "Rediff.com: Thai Badminton Star Pitchamon Opatniputh Receives Three-Month Doping Ban",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTJWNjNGY0ttWElGVDBkb3pBMS0wZldkWU42QXFuNFpLOVZDazNiVlpYWGJTOWRqR0d0akZtTS1fMVA1T2c4TGR6cVdJb3RkbmRfbTZuZS0yN2E1dzJBRnNxRjBRMGw3cnVkakRkN1d0WGczOUhRRXc4Z3ZnaFpXZHB6SHpPVDA3VTd4QTlZWlpEck5nSVdWOWRnWkN4VEY3N0hqTtIBpwFBVV95cUxOM2JraFJDZXF3ZzdnYjJ2bGw4UWdZMGRXN0p0aTYwaHI0VTdkSEd5UmxjREJ4NEFkR3V4RXdoOElrOU1iUllpV0xpSG5jZUlhXzlFbjdsczBYRzcyMmtfdnFYVDRNWE9OWjJlMU5TS0cxdUU4bjB5M0tQMERnNG9mT0VacVZNUUN1V1hlOEFpNkgzaktwdGZKUzZBTkFUbFBqS1N5bk4zWQ?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Pitchamon Opatniputh Banned Three Months by BWF After Positive Doping Test",
+      "seo_title": "Pitchamon Opatniputh banned 3 months for doping offence",
+      "subheadline": "The 2023 world junior champion tested positive for furosemide ahead of the Asian Games in Nagoya, with her suspension backdated to expire on 20 December",
+      "body_markdown": "The Badminton World Federation (BWF) has handed Thailand's 19-year-old women's singles player Pitchamon Opatniputh a three-month suspension following an anti-doping rule violation, the governing body confirmed on Friday, 27 November 2026. Pitchamon tested positive for furosemide during an out-of-competition test conducted by the International Testing Agency (ITA) on 17 September 2026 in Nagoya, Japan, two days before the opening ceremony of the Asian Games.\n\n## The finding in Nagoya and the BWF ruling\n\nFurosemide is prohibited at all times under section S5 of the World Anti-Doping Agency (WADA) prohibited list as a diuretic and masking agent, substances that can facilitate rapid weight loss through fluid excretion or conceal the presence of other banned substances. Following the adverse analytical finding in her A-sample, Pitchamon requested the analysis of her B-sample, which was opened on 24 September 2026 in the presence of an independent witness and confirmed the presence of the substance. She accepted the violation under Olympic Council of Asia (OCA) rules, leading to her exclusion from the Asian Games and the withdrawal of her accreditation.\n\nThe BWF confirmed that her three-month sanction was backdated to begin from the date of her provisional suspension in September. \"The matter has now concluded, with a three-month period of ineligibility commencing from her provisional suspension. Her period of ineligibility will expire on 20 December 2026,\" the BWF stated on its website. Thai sports minister Surasak Phancharoenworakul stated after the initial test that Pitchamon believed the substance originated from an anti-inflammatory ointment she had applied.\n\n## Ranking slide and immediate pathway back to the court\n\nPitchamon, who won the BWF World Junior Championships women's singles title in 2023, sat at world No. 18 when the provisional ban was imposed, though her absence from autumn tournaments has dropped her to No. 22. Prior to the sanction, she reached the final of the Indonesia Masters Super 500, losing to China's Chen Yufei, and finished as runner-up to Japan's Nozomi Okuhara at the Orleans Masters Super 300. Her senior titles on tour include the 2023 Malaysia Masters Super 100 and the 2025 Baoji China Masters Super 100.\n\nBecause the three-month period concludes on 20 December 2026, Pitchamon is cleared to return to competition on 21 December, leaving her eligible for the start of the 2027 BWF World Tour calendar in January. Neither Pitchamon nor the Badminton Association of Thailand issued an additional public response following Friday's BWF confirmation.",
+      "social_post": "From Bangkok to Nagoya 🇹🇭 Thailand's 19-year-old badminton star Pitchamon Opatniputh has received a three-month suspension from the Badminton World Federation following a positive test for furosemide ahead of the Asian Games. The 2023 world junior champion had her ban backdated to September, meaning she is cleared to return to the court on 21 December. Did the governing body reach the appropriate ruling? Share your thoughts below. #Badminton #Thailand #PitchamonOpatniputh #BWF"
+    },
+    "zh": {
+      "headline": "因药检呈阳性，泰国羽毛球名将欧帕妮普遭世界羽联禁赛三个月",
+      "seo_title": "欧帕妮普药检阳性被禁赛3个月",
+      "subheadline": "这位2023年世青赛女单冠军在名古屋亚运会前被查出利尿剂呋塞米阳性，禁赛期追溯至9月，将于12月20日解禁",
+      "body_markdown": "世界羽毛球联合会（BWF）于2026年11月27日星期五证实，泰国19岁女单新星皮查蒙·欧帕妮普（Pitchamon Opatniputh）因违反反兴奋剂条例，被处以禁赛三个月的处罚。2026年9月17日，即日本名古屋亚运会开幕式前两天，欧帕妮普在国际检测机构（ITA）实施的赛外检查中被查出呋塞米（furosemide）呈阳性。\n\n## 名古屋检测结果与世界羽联裁决\n\n在世界反兴奋剂机构（WADA）的禁用清单中，呋塞米在任何时候都属于S5类别的禁用物质，被归类为利尿剂和遮蔽剂。这类物质能通过促进排尿实现快速减重，亦或掩盖体内其他违禁药物的存在。在A瓶样本呈现不利分析结果后，欧帕妮普要求对B瓶样本进行复检。2026年9月24日，B瓶在独立见证人的监督下开启检测，结果同样确认存在该物质。随后，她接受了亚奥理事会（OCA）规则下的违规认定，直接导致其被取消亚运会参赛资格，相关证件亦被收回。\n\n世界羽联确认，对其为期三个月的禁赛追溯自9月份的临时禁赛之日开始执行。“该事件目前已告一段落，其三个月的禁赛期自临时停赛之日起算。她的禁赛期将于2026年12月20日正式届满，”世界羽联在官方声明中写道。在初次检测结果出炉后，泰国体育部长素拉萨·攀差伦沃拉军（Surasak Phancharoenworakul）曾公开表示，欧帕妮普认为该物质来自其此前涂抹的一款消炎药膏。\n\n## 排名下滑与重返赛场的倒计时\n\n欧帕妮普曾在2023年斩获世界羽联青年世锦赛女单冠军。在被处以临时禁赛时，她的世界排名位列第18位，但由于缺席了秋季的多站赛事，目前世界排名已滑落至第22位。在此次受罚前，她刚刚打入印尼大师赛（超级500赛）决赛，不敌中国名将陈雨菲屈居亚军；随后又在奥尔良大师赛（超级300赛）决赛中惜败于日本名将奥原希望。在成年组巡回赛中，她曾夺得2023年吉隆坡大师赛（超级100赛）和2025年中国宝鸡大师赛（超级100赛）冠军。\n\n鉴于这三个月的禁赛期将在2026年12月20日结束，欧帕妮普获准于12月21日重获比赛资格，这也意味着她完全能够赶上2027年1月拉开帷幕的世界羽联世界巡回赛新赛季。在周五世界羽联公布处罚裁决后，欧帕妮普本人及泰国羽毛球协会均未发表进一步的公开声明。",
+      "social_post": "从曼谷到名古屋 🇹🇭 泰国19岁羽毛球新星欧帕妮普因在亚运会前药检中查出呋塞米阳性，被世界羽联处以禁赛三个月的处罚。由于处罚追溯至9月，这位2023年世青赛冠军将在12月21日解禁复出。你认为这起处罚判罚尺度是否合理？欢迎在评论区留下你的看法！ #羽毛球 #泰国羽毛球 #欧帕妮普 #BWF"
+    },
+    "ru": {
+      "headline": "Питчамон Опатнипут дисквалифицирована BWF на три месяца из-за положительного допинг-теста",
+      "seo_title": "Питчамон Опатнипут дисквалифицирована на 3 месяца за допинг",
+      "subheadline": "Чемпионка мира среди юниоров 2023 года сдала положительный тест на фуросемид перед Азиатскими играми в Нагое; срок отстранения истекает 20 декабря",
+      "body_markdown": "Всемирная федерация бадминтона (BWF) отстранила 19-летнюю таиландскую бадминтонистку Питчамон Опатнипут (Pitchamon Opatniputh) на три месяца за нарушение антидопинговых правил. Руководящий орган подтвердил это решение в пятницу, 27 ноября 2026 года. В пробе Опатнипут был обнаружен фуросемид во время внесоревновательного контроля, проведенного Международным агентством по тестированию (ITA) 17 сентября 2026 года в японской Нагое — за два дня до церемонии открытия Азиатских игр.\n\n## Инцидент в Нагое и вердикт BWF\n\nФуросемид запрещен во все периоды в соответствии с классом S5 Запрещенного списка Всемирного антидопингового агентства (WADA) как диуретик и маскирующий агент — эти субстанции могут способствовать быстрому снижению веса за счет выведения жидкости либо скрывать присутствие в организме других запрещенных веществ. Получив неблагоприятный результат анализа пробы «А», спортсменка запросила вскрытие пробы «Б». Анализ состоялся 24 сентября 2026 года в присутствии независимого наблюдателя и подтвердил наличие субстанции. Опатнипут признала факт нарушения правил Олимпийского совета Азии (ОСА), после чего была отстранена от участия в Азиатских играх, а ее аккредитацию аннулировали.\n\nВ BWF подтвердили, что трехмесячная дисквалификация отсчитывается ретроактивно — с момента введения временного отстранения в сентябре. «Дело закрыто; спортсменке назначен трехмесячный срок дисквалификации, отсчитываемый со дня ее временного отстранения. Период дисквалификации истекает 20 декабря 2026 года», — сообщается на официальном сайте федерации. Ранее министр спорта Таиланда Сурасак Пханчаренворакул (Surasak Phancharoenworakul) заявлял, что, по мнению самой Опатнипут, вещество могло попасть в организм через противовоспалительную мазь, которую она использовала.\n\n## Падение в рейтинге и возвращение на корт\n\nОпатнипут, выигравшая золотую медаль чемпионата мира среди юниоров в одиночном разряде в 2023 году, занимала 18-ю строчку мирового рейтинга на момент наложения временного бана. Из-за пропуска осенних стартов она опустилась на 22-ю позицию. Незадолго до дисквалификации представительница Таиланда дошла до финала турнира Indonesia Masters (Super 500), где уступила китаянке Чэнь Юйфэй, а также завоевала серебро на Orleans Masters (Super 300), проиграв японке Нодзоми Окухаре. В ее послужном списке во взрослом туре значатся победы на Malaysia Masters (Super 100) 2023 года и Baoji China Masters (Super 100) 2025 года.\n\nПоскольку трехмесячный период санкций завершается 20 декабря 2026 года, Опатнипут получит право вернуться на корт уже 21 декабря. Таким образом, она сможет стартовать в календаре Мирового тура BWF 2027 года уже в январе. Ни сама бадминтонистка, ни Ассоциация бадминтона Таиланда не стали давать дополнительных публичных комментариев после официального релиза BWF в пятницу.",
+      "social_post": "Из Бангкока в Нагою 🇹🇭 19-летняя звезда таиландского бадминтона Питчамон Опатнипут получила трехмесячную дисквалификацию от BWF после положительного теста на фуросемид накануне Азиатских игр. Срок отстранения чемпионки мира среди юниоров 2023 года отсчитывается с сентября, так что она сможет выйти на корт уже 21 декабря. Справедлив ли такой вердикт? Делитесь мнением в комментариях! #бадминтон #Таиланд #Опатнипут #BWF"
+    },
+    "region": "sea",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg/1280px-%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:%E7%A2%A7%E6%9F%A5%E5%A4%A2%C2%B7%E6%AD%90%E5%B8%95%E5%A6%AE%E6%99%AE.jpg",
+        "artist": "Tony2803.tw",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "​碧查夢·歐帕妮普相片",
+        "width": 1200,
+        "height": 800,
+        "year": 2024,
+        "subject": "Pitchamon Opatniputh",
+        "asked": "Pitchamon Opatniputh",
+        "page_title": "Pitchamon Opatniputh",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:%e7%a2%a7%e6%9f%a5%e5%a4%a2%c2%b7%e6%ad%90%e5%b8%95%e5%a6%ae%e6%99%ae.jpg|Pitchamon Opatniputh",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Pitchamon Opatniputh playing badminton",
+          "reason": "The image clearly shows Thai badminton player Pitchamon Opatniputh in competition, matching the caption and story.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg/1280px-Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Nagoya_Station_-_View_from_the_Main_Building_in_Nagoya_Campus_of_Aichi_University_2022-6-29.jpg",
+        "artist": "ウィキ太郎(WikiTaro)",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Nagoya Station viewd from the 20th floor of Main Building in Nagoya Campus of Aichi University Public domain Public domain false false I, the copyright holder of this work, release this work into the ",
+        "width": 1200,
+        "height": 900,
+        "year": 2022,
+        "subject": "Nagoya",
+        "asked": "Nagoya",
+        "page_title": "Nagoya",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:nagoya_station_-_view_from_the_main_building_in_nagoya_campus_of_aichi_university_2022-6-29.jpg|Nagoya",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "cityscape of Nagoya with railway tracks and skyscrapers",
+          "reason": "The photo accurately depicts the city of Nagoya as captioned.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Whether the BWF published a separate reasoned decision detailing the exact degree of fault found in the case beyond its website summary."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://bwfbadminton.com, https://theedgemalaysia.com, https://ita.sport"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-28-news-5e9885",
+    "slug": "musetti-stars-in-singles-and-doubles-as-italy-edge-czech-rep",
+    "date": "2026-11-28",
+    "created": "2026-11-28T18:39:30+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "tennis",
+    "tags": [
+      "Tennis",
+      "Davis Cup",
+      "Lorenzo Musetti",
+      "Andrea Vavassori",
+      "Italy Davis Cup team"
+    ],
+    "athletes": [
+      "Lorenzo Musetti",
+      "Andrea Vavassori",
+      "Jiří Lehečka",
+      "Flavio Cobolli",
+      "Jakub Menšík",
+      "Tomáš Macháč"
+    ],
+    "image_subjects": [
+      "Lorenzo Musetti",
+      "Andrea Vavassori",
+      "Jiří Lehečka",
+      "Unipol Arena"
+    ],
+    "match": {
+      "competition": "Davis Cup Finals",
+      "date": "27 November 2026",
+      "home": "Italy",
+      "away": "Czech Republic",
+      "home_score": 2,
+      "away_score": 1,
+      "home_scorers": [],
+      "away_scorers": [],
+      "note": "Italy advance to their fourth consecutive Davis Cup final"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "Italy beat Czech Republic to reach Davis Cup final",
+        "url": "https://www.geosuper.tv/latest/61661-italy-beat-czech-republic-to-reach-davis-cup-final"
+      },
+      {
+        "title": "Italy advances to Davis Cup final with win over Czech Republic",
+        "url": "https://www.tsn.ca/tennis/italy-advances-to-davis-cup-final-with-win-over-czech-republic-1.2292671"
+      },
+      {
+        "title": "Holders Italy edge out Czechs to reach Davis Cup final again",
+        "url": "https://www.devdiscourse.com/article/sports-games/3624835-tennis-holders-italy-edge-out-czechs-to-reach-davis-cup-final-again"
+      },
+      {
+        "title": "flashscore.com",
+        "url": "https://www.flashscore.com/news/tennis-davis-cup-2026-semi-final-report-italy-czech-republic-lorenzo-musetti-flavio-cobolli-jakub-mensik-jiri-lehecka-matteo-berrettini/0jZiPQd3/"
+      },
+      {
+        "title": "tsn.ca",
+        "url": "https://www.tsn.ca/tennis/atp/article/italy-advances-to-davis-cup-final-with-win-over-czech-republic/"
+      },
+      {
+        "title": "jkn.co.kr",
+        "url": "https://news.jkn.co.kr/editions/english/post/1130108"
+      },
+      {
+        "title": "geosuper.tv",
+        "url": "https://www.geosuper.tv/latest/61626-italy-beat-czech-republic-to-reach-davis-cup-final"
+      },
+      {
+        "title": "radio.cz",
+        "url": "https://english.radio.cz/czech-tennis-team-miss-out-davis-cup-final-after-losing-italy-8903838"
+      },
+      {
+        "title": "puntodebreak.com",
+        "url": "https://www.puntodebreak.com/en/2026/11/27/italy-revives-in-time-retains-the-crown-and-will-fight-for-its-fourth-consecutive-davis"
+      },
+      {
+        "title": "tsn.ca",
+        "url": "https://www.tsn.ca/tennis/canadian-tennis-rankings-1.113238-6"
+      },
+      {
+        "title": "dongqiudi.com",
+        "url": "https://m.dongqiudi.com/en/news/272024"
+      },
+      {
+        "title": "wikipedia.org",
+        "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals"
+      },
+      {
+        "title": "Geo Super: Italy beat Czech Republic to reach Davis Cup final",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQWNISnBhNnhydUlDc0JGNFdJQWNEdWpHb0xDT25jc2ctREZiaHJhUWZvazRITm1tYkUwZk5Hd24xM1FWdkw4MF9kUDFiTW5NWU9ZTlMyWFJJQzNKNmlnSVZuVXZEdUpXdURTYlM1UHdBSVRXZnVqazBsNEFYNFByYkhCZURBcXplWjc2R1VlQkvSAYwBQVVfeXFMTXRIa0g4TGdzaTg0eGxWSXgtMVdUZTJ2anJwQW05MEZFU1JDdnh0bU82eEFCWXZZaUJFMUxEajZuZkZOSHRuV0IxU2JGS1ZZeFpMa0taWWFOQVZMZVJ0czFRd3BOVTBzOFhWOGhzRHlqZnRPcGJWR1R6OVFTQUQ1TEtCNmM1V2dma25wRG8?oc=5"
+      },
+      {
+        "title": "ESPN: Italy advances to Davis Cup final with win over Czech Republic",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcXdmbzkwSjZGU3RIamRSU3lqUWQ1SGYzWExYWWJfVmhMckw1TXdGVENaWFdLbFlUVUttX2dQQnpiX1BIU09MTjROT0Y4dGxnZm5ub3RLLW5ZMTdreVFPVTdyUTdtNmZ2SWFBeGpqaktvVVZSMnktdkJMQlpBRXZROHN5MWpSNUJfYkVVYnV5eHlmOGJCZEMwMVFRR1kwUQ?oc=5"
+      },
+      {
+        "title": "Yahoo: Italy advances to the Davis Cup final with win over Czech Republic",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaUxhNm1pWFZnTnNZTTdMU3RfeFRYMHFDSE5PTVBJcHVyVnIwSjNIaEhHVzBnRjdOQVBibzVFU2dCZTZQX2lUVjNvdUl1dGZobXdNWTRtOEEyOEJFMThYVmNJRFVHcE5xUEw2U0pLMjJRYmdqYXBQZ3BwVHdTT25aSHRXTEY?oc=5"
+      },
+      {
+        "title": "Traverse City Record-Eagle: Italy advances to the Davis Cup final with win over Czech Republic",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaFJnVDV3NW9YaUxiNnY1UnM2SDJZZzd2SGVKcnJVc2xIRHJpY0s1ZExDcFRZTnA1RW5XbC1tRE03QWRtUVVIMjhGUkxkNFhHSXBCNGFmM0tmbFJReFFkRVNOVktTLW82S3pDUWFKRmtKdHJTM0ZOTm9BUFVWcEpvWGU2WDZGX0I5SFhIV19TUTNTQUl6Ylk3SURRYXo1M0o0MFgyYXQ1RWozbzlIY1l4THVqTFk3UTIzeDA1OE9URUNVc2ptNlZoZUJzTUFrMURINWtnZUFrdlphd2k1MVJxOU91cTBJdElzYmZV?oc=5"
+      },
+      {
+        "title": "巴士的報: Italy advances to the Davis Cup final with win over Czech Republic",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmVqMmtSSEQwRHVZVDRaVTE2UEJkZjAxYmp4Y2FIb214amRNcVNOSFdtOHZDbFpNZkJ3dnAyM1IwMzNYSWMzY3Exd3lvZWlFdU80dEtjQThxWjJZQ2hWSWo1SzVCTHRpc19sMWZYTVozY0d5LUIzbl9LMUZMX0Z1bjdyWHR3R0ZuWFZUeUZkMnFDcUh1UHZkZVg1QVM4SGtyZWZ4eEpkS3NEWW14bEJ5RVZhYlpXc1Uta0E?oc=5"
+      },
+      {
+        "title": "Yahoo Sports – Tennis: Italy advances to the Davis Cup final with win over Czech Republic",
+        "url": "https://sports.yahoo.com/tennis/articles/italy-advances-davis-cup-final-032132857.html"
+      },
+      {
+        "title": "Reuters: Holders Italy edge out Czechs to reach Davis Cup final again",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2ZCOUdneDVzeE9zQXhWTTluVkV4algzN0hkb3ZOYWdnU0hrVW9ETmFueUtzSzhuSmhtY0F6a011UFFTODlIcUE1OU9jYmFGZy1lX2JWVk1mbHhMaHZVN1h1MElRZ3R3enY4TEpCSERZVXBDNkcyYTdlM3FWd29WV2h4ZnJJdnJveF9RRHpCNk9wX2ZycVhMTy1uWQ?oc=5"
+      },
+      {
+        "title": "beIN SPORTS: Holder Italy edges Czechs to reach Davis Cup final",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWFHNXRodFU5UThqWGRNYlVNSHBQS1VJQWlhRUlTZ2R5YVJ3dXdmbEhnc05fY0loNm1kR1dKSks3Q3c4SjBlM3VSUUpxX0w4VTY3ZWpCaVp0OWFPOE5jYnhZWkswcXktUHU5SnI3V1BxY3ZCc0VwV2tUOU1PV2h2YVNzUFkxTlRJQ0x0WHNzZ1lRV3l3c0k5RnFFOEpJSlczdFBBaXNEdUhqb1dzTmhR?oc=5"
+      },
+      {
+        "title": "Devdiscourse: Tennis-Holders Italy edge out Czechs to reach Davis Cup final again",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV01ITXFoUWV1Rm8wa1lPUnM2N3Jrc2hiMnBBMTRnRVZqRTJpY3c3eHdyazhyTlNiZGZ1OXJtMkMzM0ozaEZGRXZIZllxODJ5eEJZa3ByTzl3WHhYQUpLLUFhRV9pVTRTbjJmeWlhcEU2NnFpelp6VnpfVXYtM25TUThtYjNVZnUtNFNSSzJ6dG5ndGk5eEFnaTFidEJaaVVKeXBubFdHR1oxMTZVWTNwejlnS2UtRGhYRW1YTC1taU10VkhZ0gHKAUFVX3lxTE1kbFJRMDNvR0R6dDI1a1NMcl9Xa2NFcnVvM0V3Q3RJMjBiUUFUR1phZXVBNFlOc2JrY1I5WW9qRGotWVhkNHF4Sl9SazhFUG51NTBUZWRvb2phV0diUk9HZnFGMjB5UXMtSFpreWRGUzFsaVo2a29jQXlQcC1BZjl6cHNtdWtnSlpQcGVGMXdYWnNKZ2JYOGRSN2pyWm80QjU4alNZeWdTNUZsbGM5TXNzOWd6QUJ3TUtPam16SnhqellIRkJXbnB5U3c?oc=5"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Musetti Stars in Singles and Doubles as Italy Edge Czech Republic to Reach Davis Cup Final",
+      "seo_title": "Italy 2-1 Czech Republic: Musetti Seals Davis Cup Final Spot",
+      "subheadline": "Lorenzo Musetti and Andrea Vavassori survived a deciding tiebreak in Bologna to send the three-time defending champions into their fourth straight final.",
+      "body_markdown": "Lorenzo Musetti delivered in both singles and doubles on Friday, Nov. 27, 2026, to carry defending champions Italy past the Czech Republic 2-1 at the SuperTennis Arena in Bologna and into their fourth consecutive Davis Cup final.\n\n## Musetti anchors decisive doubles thriller\n\nMusetti gave the host nation an opening advantage by defeating Jakub Mensik 6-3, 6-4 in the first singles rubber. Czech number one Jiri Lehecka responded immediately for the visitors, overcoming world No. 7 Flavio Cobolli 6-2, 1-6, 6-3 to square the semifinal tie and force a winner-take-all doubles contest.\n\nItalian captain Filippo Volandri altered his doubles pairing from Wednesday's quarterfinal victory over South Korea, inserting Musetti alongside specialist Andrea Vavassori in place of Matteo Berrettini. Lehecka returned to the indoor hardcourt to partner Tomas Machac for Czechia, breaking Vavassori's serve early to claim the opening set 6-3.\n\nThe Italians struck back quickly in the second set, claiming two breaks of serve to wrap up a 6-1 set in under 30 minutes. The deciding set produced no breaks, though the Czech pair reached double break point at 4-3 on Vavassori's serve. Italy held serve, sent the contest into a final-set tiebreak, and clinched a 3-6, 6-1, 7-6 (7-4) victory after nearly two hours on court.\n\n\"This has a special meaning in my heart,\" Musetti said. \"My last matches in Davis Cup weren't a win, so I felt like I needed this, to come back and prove that I could help the team. I don't have a voice because I screamed all the match, but I'm really happy and proud of what we did.\"\n\n## Chasing a fourth consecutive crown\n\nThe triumph stretched Italy's winning streak to 16 consecutive Davis Cup ties since September 2023. The Italians reached Sunday's championship tie without world No. 2 Jannik Sinner, who was ruled out of the Finals following right knee surgery. Czechia departed after beating Canada 2-0 in Tuesday's quarterfinals, falling just short of reaching their first final since 2013.\n\nSunday's final in Bologna pits Italy against the winner of Saturday's semifinal between Spain and Great Britain. If Italy lift the trophy on Sunday, Nov. 29, they will become the first nation to win four consecutive Davis Cup titles since the United States won five straight between 1968 and 1972.",
+      "social_post": "16 consecutive Davis Cup tie victories, and now a fourth straight final for Italy. Defending champions Italy edged the Czech Republic 2-1 in Bologna on Friday as Lorenzo Musetti won his singles match before teaming with Andrea Vavassori to claim a 3-6, 6-1, 7-6 (4) doubles decider against Jiri Lehecka and Tomas Machac. Italy will chase history in Sunday's final without injured Jannik Sinner. Can Italy secure a fourth straight crown on Sunday? Tell us below."
+    },
+    "zh": {
+      "headline": "穆塞蒂单双打连克强敌立奇功，卫冕冠军意大利力克捷克挺进戴维斯杯决赛",
+      "seo_title": "意大利2-1捷克：穆塞蒂单双打建功进决赛",
+      "subheadline": "穆塞蒂与瓦瓦索里在博洛尼亚决胜盘抢七中顶住压力险胜，助三连冠霸主意大利连续第四年杀入戴维斯杯决赛。",
+      "body_markdown": "在2026年11月27日周五进行的戴维斯杯半决赛中，洛伦佐·穆塞蒂（Lorenzo Musetti）在博洛尼亚的超级网球竞技场（SuperTennis Arena）连战单双打立下头功，带领卫冕冠军意大利队以大比分2-1险胜捷克队，昂首挺进连续第四届戴维斯杯决赛。\n\n## 穆塞蒂领衔双打决胜惊魂抢七\n\n首场单打较量，穆塞蒂以6-3、6-4直落两盘完胜捷克小将雅库布·门希克（Jakub Mensik），为东道主拔得头筹。随后客队头号单打伊日·莱赫奇卡（Jiri Lehecka）迅速做出回应，以6-2、1-6、6-3力克世界排名第七的弗拉维奥·科博利（Flavio Cobolli），将总比分扳平，将悬念拖入一战定乾坤的双打决胜局。\n\n相比周三击败韩国队的四分之一决赛，意大利队队长菲利波·沃兰德里（Filippo Volandri）做出了换人调整，派上穆塞蒂替代马泰奥·贝雷蒂尼（Matteo Berrettini），与双打专家安德烈亚·瓦瓦索里（Andrea Vavassori）搭档。捷克队方面，莱赫奇卡再度披挂上阵，联手托马斯·马哈奇（Tomas Machac）。捷克组合开局迅速打破瓦瓦索里的发球局，以6-3先声夺人。\n\n意大利组合在第二盘迅速吹响反击号角，两度破发得手，用时不到30分钟便以6-1横扫扳回一城。决胜盘双方展开白刃战，均未送出发球局，尽管捷克组合曾在4-3领先时在瓦瓦索里的发球局逼出连续两个破发点。意大利人顶住重压化解险情保发，将比赛拖入终极抢七，并在苦战近两小时后以3-6、6-1、7-6（7-4）锁定胜局。\n\n“这场胜利在我心中有着非常特殊的意义，”穆塞蒂赛后感慨道，“我此前几场戴维斯杯比赛都没能赢球，所以我非常渴望这一刻，想要重整旗鼓证明自己能够帮到球队。整场比赛我都在声嘶力竭地呐喊，现在嗓子都喊哑了，但我真的感到无比开心，也为我们所做的一切感到骄傲。”\n\n## 剑指历史性四连冠伟业\n\n此役过后，意大利队自2023年9月以来的戴维斯杯连胜纪录已经扩大到了惊人的16场。值得一提的是，由于世界排名第二的当家球星扬尼克·辛纳（Jannik Sinner）接受了右膝手术缺席总决赛，意大利队是在缺少主力核心的情况下杀入周日争冠战的。捷克队此前在周二的八强战中以2-0淘汰加拿大队，此番苦战惜败，遗憾错失自2013年以来首次重返决赛的良机。\n\n周日在博洛尼亚上演的巅峰对决中，意大利队将迎战西班牙队与英国队之间的半决赛胜者。如果能在11月29日周日成功捧杯，意大利队将成为自美国队（1968年至1972年缔造五连冠）之后，首支达成戴维斯杯四连冠霸业的国家队。",
+      "social_post": "戴维斯杯16连胜，意大利连续第四年挺进决赛！周五在博洛尼亚，洛伦佐·穆塞蒂先拔头筹拿下首场单打，随后携手瓦瓦索里在决胜场苦战三盘以3-6、6-1、7-6(4)险胜莱赫奇卡/马哈奇，力助卫冕冠军大比分2-1力克捷克队。在辛纳因伤缺阵的情况下，意大利队正向历史发起冲击。你看好他们周日夺得四连冠吗？欢迎在评论区聊聊！#戴维斯杯 #网球 #穆塞蒂 #意大利网球"
+    },
+    "ru": {
+      "headline": "Музетти блеснул в одиночке и паре: Италия вырвала победу у Чехии и вышла в финал Кубка Дэвиса",
+      "seo_title": "Италия — Чехия 2:1: Музетти вывел сборную в финал Кубка Дэвиса",
+      "subheadline": "Лоренцо Музетти и Андреа Вавассори вырвали победу на тай-брейке в Болонье и вывели действующих чемпионов в четвертый финал подряд.",
+      "body_markdown": "Лоренцо Музетти (Lorenzo Musetti) выдал феноменальный пятничный вечер 27 ноября 2026 года, победив и в одиночном разряде, и в паре. Действующие чемпионы итальянцы сломили сопротивление сборной Чехии со счетом 2:1 на домашней арене SuperTennis Arena в Болонье и оформили путевку в свой четвертый подряд финал Кубка Дэвиса.\n\n## Музетти решил судьбу триллера в паре\n\nМузетти обеспечил хозяевам корта задел на старте матча, уверенно переиграв Якуба Меншика (Jakub Mensik) со счетом 6:3, 6-4 в первой одиночной встрече. Лидер чешской сборной Иржи Легечка (Jiri Lehecka) тут же восстановил статус-кво: седьмая ракетка мира Флавио Коболли (Flavio Cobolli) уступил ему со счетом 2:6, 6:1, 3:6. Счет в полуфинале сравнялся, и судьба путевки в финал перенеслась в парную битву.\n\nКапитан «Скуадры Адзурры» Филиппо Воландри (Filippo Volandri) по сравнению со средой и четвертьфинальной победой над Южной Кореей перетасовал парный дуэт: вместо Маттео Берреттини (Matteo Berrettini) в пару к профильному парнику Андреа Вавассори (Andrea Vavassori) он отрядил Музетти. Легечка вновь вышел на хард под крышей вместе с Томашем Махачем (Tomas Machac). Чехи быстро взяли подачу Вавассори и записали первый сет на свой счет — 6:3.\n\nИтальянцы мгновенно перехватили инициативу во второй партии: два брейка — и разгромные 6:1 менее чем за полчаса. В решающем сете оба дуэта держали подачи намертво, хотя при счете 4:3 на подаче Вавассори у чехов был двойной брейк-пойнт. Хозяева выстояли, перевели дело на чемпионский тай-брейк и после почти двух часов борьбы поставили победную точку — 3:6, 6-1, 7-6 (7-4).\n\n«Для меня эта победа имеет совершенно особое значение, — признался Музетти. — Мои предыдущие матчи в Кубке Дэвиса заканчивались поражениями, поэтому мне было жизненно необходимо выйти на корт и доказать, что я могу помочь команде. Я сорвал голос, потому что кричал всю игру, но я невероятно счастлив и горжусь тем, что мы сделали».\n\n## В погоне за историческим покером\n\nЭтот триумф продлил победную серию сборной Италии до 16 выигранных матчевых встреч подряд в Кубке Дэвиса, начиная с сентября 2023 года. Итальянцы пробились в воскресный финал без второй ракетки мира Янника Синнера (Jannik Sinner), который пропускает финальный турнир из-за перенесенной операции на правом колене. Чехия, одолевшая Канаду во вторник со счетом 2:0, покидает турнир в шаге от своего первого финала с 2013 года.\n\nВ воскресном решающем противостоянии в Болонье Италия сойдется с победителем субботнего полуфинала между Испанией и Великобританией. Если 29 ноября хозяева поднимут «Серебряную салатницу» над головой, они станут первой сборной с четырьмя титулами Кубка Дэвиса кряду со времен триумфа США, побеждавших пять раз подряд с 1968 по 1972 год.",
+      "social_post": "16 победных матчевых встреч подряд в Кубке Дэвиса и четвертый финал кряду для Италии! Действующие чемпионы в Болонье дожали сборную Чехии — 2:1. Лоренцо Музетти сначала забрал одиночку, а затем в паре с Андреа Вавассори выгрыз решающий парный матч у Легечки и Махача: 3:6, 6:1, 7:6(4). Без травмированного Янника Синнера «Адзурри» продолжают творить историю. Заберут итальянцы четвертый титул подряд в воскресенье? Делитесь в комментариях! #КубокДэвиса #Теннис #Музетти #ИталияЧехия"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Musetti_MCM23_%2811%29_%2852883593753%29.jpg/1280px-Musetti_MCM23_%2811%29_%2852883593753%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Musetti_MCM23_(11)_(52883593753).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Musetti MCM23 (11)",
+        "width": 1200,
+        "height": 1800,
+        "year": 2023,
+        "subject": "Lorenzo Musetti",
+        "asked": "Lorenzo Musetti",
+        "page_title": "Lorenzo Musetti",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:musetti_mcm23_(11)_(52883593753).jpg|Lorenzo Musetti",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Lorenzo Musetti playing tennis",
+          "reason": "The photo clearly shows Italian tennis player Lorenzo Musetti during a match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Andrea_Vavassori_%282025_DC_Open%29_01_%28cropped%29.jpg/1280px-Andrea_Vavassori_%282025_DC_Open%29_01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Andrea_Vavassori_(2025_DC_Open)_01_(cropped).jpg",
+        "artist": "Hameltion",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Andrea Vavassori playing in the first round of qualifying at the 2025 Washington Open",
+        "width": 1200,
+        "height": 1490,
+        "year": 2025,
+        "subject": "Andrea Vavassori",
+        "asked": "Andrea Vavassori",
+        "page_title": "Andrea Vavassori",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:andrea_vavassori_(2025_dc_open)_01_(cropped).jpg|Andrea Vavassori",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Andrea Vavassori on a tennis court",
+          "reason": "The photo clearly shows Italian professional tennis player Andrea Vavassori in tennis kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Lehecka_MCM23_%285%29_%2852883527310%29.jpg/1280px-Lehecka_MCM23_%285%29_%2852883527310%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg",
+        "artist": "si.robi",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "description": "Lehecka MCM23 (5)",
+        "width": 1200,
+        "height": 1799,
+        "year": 2023,
+        "subject": "Jiří Lehečka",
+        "asked": "Jiří Lehečka",
+        "page_title": "Jiří Lehečka",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:lehecka_mcm23_(5)_(52883527310).jpg|Jiří Lehečka",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "tennis player Jiří Lehečka on a clay court",
+          "reason": "The photo clearly shows Czech tennis player Jiří Lehečka in action during a tennis match.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-28-news-5e9885.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "Italy 2 - 1 Czech Republic · Davis Cup Finals",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
+      }
+    ]
+  },
+  {
     "id": "2026-11-28-news-80638d",
     "slug": "uswnt-crushes-el-salvador-8-0-to-seal-2027-world-cup-berth",
     "date": "2026-11-28",
