@@ -1,32 +1,31 @@
-# USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth
+# Ashley Sanchez Hat-Trick as USWNT Beat El Salvador 8-0 to Reach 2027 World Cup
 
-*Ashley Sanchez hits a seven-minute hat-trick in Texas as Emma Hayes' squad books tickets to Brazil 2027 and the 2028 Olympics.*
+*Sanchez scored three times in seven minutes as the United States led 7-0 at half-time of their Concacaf W Championship quarter-final in Texas.*
 
 **News** · 2026-11-28
 
-The United States women's national team secured qualification for the 2027 FIFA Women's World Cup and the 2028 Los Angeles Olympics on Friday night, defeating El Salvador 8-0 in the Concacaf W Championship quarter-finals at Texas Health Mansfield Stadium in Mansfield, Texas.
+The United States women's national team qualified for the 2027 Women's World Cup in Brazil on Friday night, 27 November, beating El Salvador 8-0 in the quarter-finals of the Concacaf W Championship at Texas Health Mansfield Stadium in Mansfield, Texas. Ashley Sanchez scored a hat-trick in the space of seven minutes.
 
-Emma Hayes' side built a 7-0 lead before half-time in what was their first competitive fixture since winning Olympic gold in Paris in August 2024. Kennedy Wesley opened the scoring in the ninth minute, turning home a set-piece routine. Tierna Davidson doubled the advantage in the 31st minute with a header from a Mallory Swanson free kick, and Swanson added a third just one minute later after latching onto a through ball from Wilson.
+## Seven goals before the break
 
-## Sanchez sparks seven-minute blitz
+Kennedy Wesley opened the scoring in the ninth minute. Tierna Davidson headed in a Mallory Swanson free kick in the 31st minute, and Swanson added the third moments later. Sanchez then took over, scoring in the 36th, 39th and 43rd minutes, and Sophia Wilson made it 7-0 in the 45th minute. Substitute Croix Bethune completed the scoring in the 80th minute from a Lindsey Horan pass.
 
-Ashley Sanchez, recently named the National Women's Soccer League Most Valuable Player, extended the lead in the 36th minute by converting a cross from Alyssa Thompson. That strike initiated a seven-minute hat-trick for Sanchez, before Wilson made it 7-0 in the 44th minute. The scoring spree put the contest out of reach against an El Salvador side ranked 78th in the world, 76 places below the second-ranked Americans.
+The gap between the sides was wide: the United States are ranked second in the world, El Salvador 78th, according to AP. El Salvador are coached by Eric Acuña.
 
-El Salvador head coach Eric Acuña opted against a congested low-block defense, setting up with open space between lines. While goalkeeper Riley Meléndez thwarted multiple second-half attempts from Jaedyn Shaw, substitute Croix Bethune added the eighth goal in the 80th minute to round out the scoring.
+## Sanchez in form
 
-## Ticket to Brazil and Los Angeles
+Sanchez arrived in good form after a club season in which she won the National Women's Soccer League Golden Boot with 20 goals for the North Carolina Courage, AP reported. "I think it was a really big accomplishment what I did at club, and I was just trying to feed off that," she said.
 
-The quarter-final victory ensures the United States will participate in the 2027 Women's World Cup in Brazil, preserving the team's unbroken record of appearing at all 10 editions of the tournament since the inaugural competition in 1991. The result also confirms a spot at the 2028 Summer Games in Los Angeles, as Concacaf allocates both tournament berths to its four semi-finalists.
+Head coach Emma Hayes was pleased with the opening 45 minutes. "I think it was a really good performance from the team in the first half," she said. Claudia Dickey started in goal, and Jaedyn Shaw joined the squad in place of Trinity Rodman, who is out with a minor shoulder injury.
 
-Earlier on Friday, Jamaica secured their World Cup berth with a 3-0 win over Costa Rica at the same venue. Reggae Girlz head coach Hubert Busby Jr noted after his match that his squad had "three days to prepare" for Hayes' team hours before the American quarter-final kicked off. The United States will face Jamaica in the semi-finals on 1 December, while Canada play Panama and Mexico face Haiti on Saturday to fill the remaining two qualification places.
+## Jamaica next
+
+The United States will meet Jamaica in the semi-finals. Earlier on Friday, Jamaica also secured their place at the 2027 World Cup by beating Costa Rica 3-0 at the same stadium. For Swanson, the focus now turns to the trophy itself: "But now we get to play for something else and it's a tournament," she said.
 
 ---
 **Sources**
 
-- [USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador](https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier)
-- [Sanchez hat trick sends USWNT to the World Cup with 8-0 qualifying victory over El Salvador](https://sports.yahoo.com/)
-- [yahoo.com](https://malaysia.news.yahoo.com/sports/)
-- [crayon.net](https://crayon.net/story/50563/with-world-cup-qualification-on-the-line-uswnt-s-focus-solel)
-- [sledhouse.com](https://sledhouse.com/)
-- [theguardian.com](https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier)
-- [Yahoo Sports – Soccer: USWNT qualifies for 2027 Women's World Cup with 8-0 rout of El Salvador behind Ashley Sanchez's hat trick](https://sports.yahoo.com/soccer/article/uswnt-qualifies-for-2027-womens-world-cup-with-8-0-rout-of-el-salvador-behind-ashley-sanchezs-hat-trick-033020919.html)
+- [AP (via WRAL): Sanchez hat trick sends USWNT to the World Cup with 8-0 qualifying victory over El Salvador](https://www.wral.com/news/ap/a06a0-sanchez-hat-trick-sends-uswnt-to-the-world-cup-with-8-0-qualifying-victory-over-el-salvador/)
+- [The Guardian: USWNT seal Women's World Cup qualification with 8-0 win over El Salvador](https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier)
+- [Dallas Morning News: Sanchez's hat trick powers USWNT past El Salvador, into 2027 World Cup](https://www.dallasnews.com/sports/fc-dallas/article/uswnt-ashley-sanchez-hat-trick-el-salvador-22550080.php)
+- [Goal: USWNT player ratings vs El Salvador](https://www.goal.com/en/lists/uswnt-player-ratings-vs-el-salvador-ashley-sanchez-steals-the-show-with-hat-trick-as-americans-clinch-2027-world-cup-berth/blt9d69bfba4893b883)

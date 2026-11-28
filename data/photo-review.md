@@ -4,7 +4,7 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth
+## 📝 DRAFT · Ashley Sanchez Hat-Trick as USWNT Beat El Salvador 8-0 to Reach 2027 World Cup
 `2026-11-28-news-80638d` · 2026-11-28
 
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg/1280px-Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
