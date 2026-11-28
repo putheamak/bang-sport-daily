@@ -9,6 +9,9 @@ stop and ask the editor.** When in doubt, do not publish.
 
 1. Nothing is published, rejected or posted without the editor's explicit "publish" / "reject" for that story.
    `publish.auto_publish` stays `false`.
+   **Daily target: the best 4 stories per day are published** (editor, 28 Nov 2026); more only on special days when
+   the editor asks. Each day, pick the strongest drafts (Cambodia/SEA first, fresh, at least 2 solid sources, facts
+   checked), show them to the editor, and suggest rejecting weak or stale ones. Still nothing goes out without his OK.
 2. WhatsApp, Telegram and other social posts are written as drafts for the editor; the editor posts them
    (unless the editor has turned on automatic posting for that platform). **Facebook: the account was permanently
    disabled by Meta on 28 Nov 2026** (review unsuccessful, no further review). No Facebook posting, no API calls, all
