@@ -100,6 +100,36 @@ def _own_img(cfg, im: dict | None) -> str:
     return _abs(cfg, im["url"])
 
 
+def _og_img(cfg, im: dict | None) -> str:
+    """Link-card picture (og:image): a 1200x630 crop of our own copy, because Bluesky, Telegram and others cut a
+    tall photo through the middle (Sotto's face was cut off on Bluesky). Portrait photos keep the upper part, where
+    faces usually are; an image's `focus: [x, y]` (0-1) overrides. Falls back to the normal picture."""
+    if not im or not im.get("url"):
+        return ""
+    from .reels import _local_file, DOCS
+    p = _local_file(im)
+    if not (im["url"].startswith("http") and p and p.is_file() and _base(cfg)):
+        return _own_img(cfg, im)
+    out = p.with_name(p.stem + "-og.jpg")
+    if not out.is_file():
+        try:
+            from PIL import Image
+            with Image.open(p) as img:
+                img = img.convert("RGB")
+                w, h = img.size
+                fx, fy = (im.get("focus") or [0.5, 0.25 if h > w else 0.45])[:2]
+                if w / h > 1200 / 630:
+                    cw, ch = round(h * 1200 / 630), h
+                else:
+                    cw, ch = w, round(w * 630 / 1200)
+                x = min(max(round(fx * w - cw / 2), 0), w - cw)
+                y = min(max(round(fy * h - ch / 2), 0), h - ch)
+                img.crop((x, y, x + cw, y + ch)).resize((1200, 630), Image.LANCZOS).save(out, "JPEG", quality=85)
+        except Exception:  # noqa: BLE001
+            return _own_img(cfg, im)
+    return f"{_base(cfg)}/{out.relative_to(DOCS).as_posix()}"
+
+
 def _site_name(cfg, lang):
     s = cfg["site"]
     return {"en": s["name"], "zh": s.get("name_zh", s["name"]), "ru": s.get("name_ru", s["name"])}[lang]
@@ -652,7 +682,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
 {f'<section class="wrap more"><h2 class="sech"><span>{grid_title}</span></h2><div class="grid g3">{rel}</div></section>' if rel else ''}"""
     return _page(cfg, lang, f"{L.get('seo_title') or L['headline']} — {_site_name(cfg, lang)}", L.get("subheadline") or _plain(L.get("body_markdown", "")),
                  body, alternates, f"{lang}/{a['slug']}.html", f'<script type="application/ld+json">{ld}</script>',
-                 og_image=_own_img(cfg, imgs[0]) if imgs else "", active=key)
+                 og_image=_og_img(cfg, imgs[0]) if imgs else "", active=key)
 
 
 def _website_ld(cfg, lang) -> str:
@@ -715,7 +745,7 @@ def _home_page(cfg, lang, items, wire):
 {feat}"""
     return _page(cfg, lang, f"{_site_name(cfg, lang)} — {_tagline(cfg, lang)}", _tagline(cfg, lang), body, alternates,
                  f"{lang}/index.html", _website_ld(cfg, lang), ticker=items,
-                 og_image=_own_img(cfg, (lead.get("images") or [None])[0]), active="home")
+                 og_image=_og_img(cfg, (lead.get("images") or [None])[0]), active="home")
 
 
 _TP: dict = {}

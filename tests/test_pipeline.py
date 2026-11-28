@@ -1582,3 +1582,22 @@ def test_preview_image_uses_our_own_copy(tmp_path, monkeypatch):
     out = _own_img(cfg, im)
     assert out.startswith("https://bangsportdaily.com/photos/c/") and out.endswith(".jpg")
     assert _own_img(cfg, None) == ""
+
+
+def test_link_card_crop_keeps_top_of_portrait(tmp_path, monkeypatch):
+    """Bluesky cut Sotto's face off a tall photo: og:image is a 1200x630 crop from the upper part."""
+    from PIL import Image
+    from sportnews import reels
+    from sportnews.common import load_config
+    from sportnews.site import _og_img
+    monkeypatch.setattr(reels, "DOCS", tmp_path)
+    im = {"url": "https://upload.wikimedia.org/tall.jpg"}
+    p = reels._local_file(im)
+    p.parent.mkdir(parents=True)
+    img = Image.new("RGB", (1200, 1900), "blue")
+    img.paste((255, 0, 0), (0, 0, 1200, 400))                  # "face" area at the top
+    img.save(p)
+    out = _og_img(load_config(), im)
+    assert out.endswith("-og.jpg")
+    card = Image.open(p.with_name(p.stem + "-og.jpg"))
+    assert card.size == (1200, 630) and card.getpixel((600, 50))[0] > 200   # top part kept

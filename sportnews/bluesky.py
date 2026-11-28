@@ -71,8 +71,9 @@ def _thumb(a: dict, token: str) -> dict | None:
     from .reels import _local_file
     for im in a.get("images") or []:
         p = _local_file(im)
+        og = p.with_name(p.stem + "-og.jpg") if p else None      # 1200x630 card crop made by the site build
         sm = p.with_name(p.stem + "-640" + p.suffix) if p else None
-        for f in (sm, p):
+        for f in (og, sm, p):
             if f and Path(f).is_file() and Path(f).stat().st_size < 950_000:
                 try:
                     return _call("com.atproto.repo.uploadBlob", raw=Path(f).read_bytes(), token=token,
