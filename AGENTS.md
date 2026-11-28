@@ -14,6 +14,9 @@ stop and ask the editor.** When in doubt, do not publish.
    disabled by Meta on 28 Nov 2026** (review unsuccessful, no further review). No Facebook posting, no API calls, all
    Facebook links removed from the site (`site.facebook_url: ""`), and never suggest creating a new Facebook,
    Instagram or Threads account (Meta's terms forbid a new account after a disable without Meta's permission).
+   **Bluesky: automatic posting ON (editor, 28 Nov 2026)**: one English post per published story (link card,
+   our own social text), account self-labelled "bot"; it never likes, follows or replies (`publish.bluesky`).
+   Flipboard reads our RSS feeds.
    Readers' own "share on Facebook" buttons and click-to-load embeds of other pages' official posts stay. History: Were ON since 25 Nov 2026, and they go out only when the editor publishes a story. Facebook groups: always by hand.
    Facebook items (Page posts and Reels alike) are spaced 2.5 hours apart (editor, 26 Nov 2026: 2–3 hours, was
    90 min) and never 05:00–06:00 Phnom Penh time (editor, 26 Nov 2026: night posts 00:00–05:00 allowed, was
