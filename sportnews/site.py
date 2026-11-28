@@ -428,6 +428,10 @@ def _rail(cfg, lang, wire, latest=None, tp: str = "") -> str:
         fbb = f' <a class="btn fbbtn" href="{E(fbu)}" target="_blank" rel="noopener">Facebook →</a>' if fbu else ""
         wau = cfg["site"].get("whatsapp_url") or ""
         fbb += f' <a class="btn wabtn" href="{E(wau)}" target="_blank" rel="noopener">WhatsApp →</a>' if wau else ""
+        dom = (cfg["site"].get("custom_domain") or "").strip()
+        if dom:                                     # Google "preferred source" (Top Stories); plain link, no Google script
+            fbb += (f' <a class="btn gbtn" href="https://www.google.com/preferences/source?q={E(dom)}" target="_blank" '
+                    f'rel="noopener">{PREFERRED_T[lang]} →</a>')
         parts.append(f'<section class="box cta"><h4>{UI2[lang]["follow"]}</h4><a class="btn" href="https://t.me/{E(tg)}" target="_blank" rel="noopener">{UI2[lang]["follow_btn"]} →</a>{fbb}</section>')
     if byline_mode(cfg) != "pen_names":
         bio = cfg["site"].get(f"author_bio_{lang}") or cfg["site"].get("author_bio_en", "")
@@ -564,6 +568,7 @@ def _shown_sources(sources: list[dict]) -> list[dict]:
     return out
 
 
+PREFERRED_T = {"en": "Add us on Google", "zh": "在 Google 上关注我们", "ru": "Добавить в Google"}
 RELATED_T = {"en": ("Read also", "Related stories"), "zh": ("延伸阅读", "相关文章"), "ru": ("Читайте также", "Похожие материалы")}
 
 
@@ -605,7 +610,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
     ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": L["headline"][:110],
                      "datePublished": a.get("published_at") or a["created"], "inLanguage": HTML_LANG[lang],
                      "image": [_abs(cfg, imgs[0]["url"])] if imgs else [],
-                     "dateModified": a.get("updated_at") or a.get("published_at") or a["created"],
+                     "dateModified": max(a.get("updated_at") or "", a.get("published_at") or a["created"]),
                      "author": ({"@type": "Person", "name": cfg["site"]["author"], "url": f"{_base(cfg)}/{lang}/author"}
                                 if byline_mode(cfg) != "pen_names" else
                                 {"@type": "Person", "name": name, "description": "Pen name, edited by " + cfg["site"]["author"]}),
@@ -620,7 +625,7 @@ def _article_page(cfg, a, lang, related, latest, wire):
   <div class="byline">
     <span class="mono k-{key}">{E(initials(name))}</span>
     <div><b>{f'<a href="author.html">{E(name)}</a>' if byline_mode(cfg) != "pen_names" else E(name)}</b> · {E(columnist(cfg, a).get('beat_' + lang, ''))}<br>
-      <small><time>{fmt_date(a['date'], lang)}</time> · {read_minutes(L, lang)} {UI2[lang]['read']} ·
+      <small><time datetime="{E(a.get('published_at') or a['created'])}">{fmt_date((a.get('published_at') or a['date'])[:10], lang)}{', ' + (a.get('published_at') or '')[11:16] + ' (GMT+7)' if a.get('published_at') else ''}</time> · {read_minutes(L, lang)} {UI2[lang]['read']} ·
       <a href="{note_link(cfg)}">{E(byline_note(cfg, lang))}</a></small></div>
   </div>
   {_share(cfg, a, lang)}
@@ -639,11 +644,20 @@ def _article_page(cfg, a, lang, related, latest, wire):
                  og_image=imgs[0]["url"] if imgs else "", active=key)
 
 
+def _website_ld(cfg, lang) -> str:
+    """WebSite schema: tells Google the site's name (shown in Search and Google News)."""
+    ld = {"@context": "https://schema.org", "@type": "WebSite", "name": cfg["site"]["name"],
+          "alternateName": [x for x in {cfg["site"].get("name_zh"), "Bang Sport"} if x],
+          "url": (_base(cfg) or "") + "/", "inLanguage": HTML_LANG[lang]}
+    return f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>'
+
+
 def _home_page(cfg, lang, items, wire):
     alternates = {l: f"{l}/index.html" for l in LANGS}
     if not items:
         body = f'<div class="wrap"><p class="empty">{UI[lang]["empty"]}</p></div>'
-        return _page(cfg, lang, _site_name(cfg, lang), _tagline(cfg, lang), body, alternates, f"{lang}/index.html", active="home")
+        return _page(cfg, lang, _site_name(cfg, lang), _tagline(cfg, lang), body, alternates, f"{lang}/index.html",
+                     _website_ld(cfg, lang), active="home")
     news = [a for a in items if a["type"] == "news"] or items
     lead = news[0]
     side = [a for a in items if a is not lead][:4]
@@ -689,7 +703,8 @@ def _home_page(cfg, lang, items, wire):
 </div>
 {feat}"""
     return _page(cfg, lang, f"{_site_name(cfg, lang)} — {_tagline(cfg, lang)}", _tagline(cfg, lang), body, alternates,
-                 f"{lang}/index.html", ticker=items, og_image=(lead.get("images") or [{}])[0].get("url", ""), active="home")
+                 f"{lang}/index.html", _website_ld(cfg, lang), ticker=items,
+                 og_image=(lead.get("images") or [{}])[0].get("url", ""), active="home")
 
 
 _TP: dict = {}
