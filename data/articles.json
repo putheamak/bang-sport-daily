@@ -5,7 +5,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T18:40:44+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "badminton",
     "tags": [
@@ -87,7 +87,20 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTJWNjNGY0ttWElGVDBkb3pBMS0wZldkWU42QXFuNFpLOVZDazNiVlpYWGJTOWRqR0d0akZtTS1fMVA1T2c4TGR6cVdJb3RkbmRfbTZuZS0yN2E1dzJBRnNxRjBRMGw3cnVkakRkN1d0WGczOUhRRXc4Z3ZnaFpXZHB6SHpPVDA3VTd4QTlZWlpEck5nSVdWOWRnWkN4VEY3N0hqTtIBpwFBVV95cUxOM2JraFJDZXF3ZzdnYjJ2bGw4UWdZMGRXN0p0aTYwaHI0VTdkSEd5UmxjREJ4NEFkR3V4RXdoOElrOU1iUllpV0xpSG5jZUlhXzlFbjdsczBYRzcyMmtfdnFYVDRNWE9OWjJlMU5TS0cxdUU4bjB5M0tQMERnNG9mT0VacVZNUUN1V1hlOEFpNkgzaktwdGZKUzZBTkFUbFBqS1N5bk4zWQ?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T19:19:39+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T19:19:40+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T19:19:40+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -175,7 +188,8 @@
         "area": "sources",
         "msg": "3 source(s) are homepages, not articles: https://bwfbadminton.com, https://theedgemalaysia.com, https://ita.sport"
       }
-    ]
+    ],
+    "published_at": "2026-11-28T19:19:40+07:00"
   },
   {
     "id": "2026-11-28-news-5e9885",
@@ -183,7 +197,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T18:39:30+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "tennis",
     "tags": [
@@ -306,7 +320,20 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV01ITXFoUWV1Rm8wa1lPUnM2N3Jrc2hiMnBBMTRnRVZqRTJpY3c3eHdyazhyTlNiZGZ1OXJtMkMzM0ozaEZGRXZIZllxODJ5eEJZa3ByTzl3WHhYQUpLLUFhRV9pVTRTbjJmeWlhcEU2NnFpelp6VnpfVXYtM25TUThtYjNVZnUtNFNSSzJ6dG5ndGk5eEFnaTFidEJaaVVKeXBubFdHR1oxMTZVWTNwejlnS2UtRGhYRW1YTC1taU10VkhZ0gHKAUFVX3lxTE1kbFJRMDNvR0R6dDI1a1NMcl9Xa2NFcnVvM0V3Q3RJMjBiUUFUR1phZXVBNFlOc2JrY1I5WW9qRGotWVhkNHF4Sl9SazhFUG51NTBUZWRvb2phV0diUk9HZnFGMjB5UXMtSFpreWRGUzFsaVo2a29jQXlQcC1BZjl6cHNtdWtnSlpQcGVGMXdYWnNKZ2JYOGRSN2pyWm80QjU4alNZeWdTNUZsbGM5TXNzOWd6QUJ3TUtPam16SnhqellIRkJXbnB5U3c?oc=5"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T19:19:38+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T19:19:38+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T19:19:39+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -425,7 +452,8 @@
         "area": "sources",
         "msg": "No major or official outlet among the sources (e.g. BBC, Reuters, AP, ESPN, the Guardian, FIFA/UEFA/AFC, the club or federation)"
       }
-    ]
+    ],
+    "published_at": "2026-11-28T19:19:39+07:00"
   },
   {
     "id": "2026-11-28-news-80638d",
