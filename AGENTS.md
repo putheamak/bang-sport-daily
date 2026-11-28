@@ -47,6 +47,8 @@ stop and ask the editor.** When in doubt, do not publish.
    published or rejected in the last 3 days.
 7. Off-audience topics are skipped: American/Canadian football (also in history stories), US college and school
    sport, fantasy sport.
+   Exception kept by the editor (28 Nov 2026): the published history story `2026-11-12-hist-4f230f` (Pudge
+   Heffelfinger, from before this rule) stays online. Do not write new American football stories.
 
 ## 3. Writing
 
