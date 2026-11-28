@@ -1,7 +1,10 @@
-2026-11-27 15:01:46,871 INFO Corrected English for 2026-11-27-news-7bb2d2
-2026-11-27 15:01:46,871 INFO Added zh translation for 2026-11-27-news-7bb2d2
-2026-11-27 15:01:46,871 INFO Added ru translation for 2026-11-27-news-7bb2d2
-2026-11-27 15:01:47,385 INFO Exported 13 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-27
-2026-11-27 15:01:48,064 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-27 15:01:49,859 INFO Website built: 105 published stories, 363 pages
-2026-11-27 15:01:49,859 INFO Imported 1 editor's article(s): 2026-11-27-news-7bb2d2
+2026-11-28 06:39:06,143 INFO Updating story 2026-11-27-athl-c4b783 from inbox
+2026-11-28 06:39:06,143 INFO Adapting to zh, ru ...
+2026-11-28 06:39:06,689 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-28 06:39:44,418 INFO Updating story 2026-11-27-news-67c902 from inbox
+2026-11-28 06:39:44,418 INFO Adapting to zh, ru ...
+2026-11-28 06:40:14,315 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-28
+2026-11-28 06:40:16,103 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-28 06:40:17,546 INFO Website built: 106 published stories, 366 pages
+2026-11-28 06:40:17,546 INFO Imported 2 editor's article(s): 2026-11-27-athl-c4b783, 2026-11-27-news-67c902
+2026-11-28 06:40:17,548 INFO Gemini today (2026-11-27, Pacific): gemini-3.8-flash 58 ok / 0 failed (114,088 in / 139,344 out tokens) · estimated cost if billed: US$0.608
