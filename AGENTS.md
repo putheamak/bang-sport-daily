@@ -21,7 +21,7 @@ stop and ask the editor.** When in doubt, do not publish.
    posted at once. Don't bypass the spacing. The editor can re-order the queue with `facebook.yml` mode `requeue`.
    **Voiced Reels (AI presenter, photos or our own graphics) are made only when the editor asks**, for a story about
    a big name with enough free photos (editor, 27 Nov 2026). Never make one on your own. For every other story the
-   usual Facebook post text is written for the editor, as before. How: script `voiceover/<id>.en.txt` (facts only from
+   usual social post text (Telegram, WhatsApp) is written for the editor, as before. How: script `voiceover/<id>.en.txt` (facts only from
    the reviewed story), captions `<id>.en.captions.txt`, pictures `<id>.photos.yaml` (Commons CC0/PD/CC BY only, or our
    own graphics), then run `voiceover.yml` (male voice Charon preferred); find free photos with `reel-photos.yml`. Every
    take is checked by a transcript; say "AI voice" in the caption and use Meta's "AI info" label.
