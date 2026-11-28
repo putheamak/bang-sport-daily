@@ -1074,7 +1074,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T15:39:16+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "combat",
     "tags": [
@@ -1314,7 +1314,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T01:31:34+07:00",
     "type": "history",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "Auto racing",
     "tags": [
@@ -1747,7 +1747,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T01:28:42+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [
@@ -1917,7 +1917,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T21:42:27+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "Athletics",
     "tags": [
@@ -3300,7 +3300,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T15:39:34+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "rejected",
     "model": "gemini-3.8-flash",
     "sport": "football",
     "tags": [

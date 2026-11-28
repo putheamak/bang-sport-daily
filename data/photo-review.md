@@ -1,6 +1,6 @@
 # Photo review — 2026-11-28
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -25,96 +25,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-28-news-80638d.png" width="240" align="left" hspace="10">
 
 **4. 🟢 our score card**<br>Caption: **United States 8 - 0 El Salvador · Concacaf W Championship**<br>2026 · Own work
-<br clear="left">
-
----
-
-## 📝 DRAFT · Cody Garbrandt Confirms UFC Retirement Fight Set for Cleveland in February
-`2026-11-28-news-276d13` · 2026-11-28
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Dom_Cruz_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Dominick Cruz**<br>2017 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dom_Cruz_2.png)<br>AI sees: _Dominick Cruz smiling_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png/1280px-Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🔴 WRONG**<br>Caption: **Rocket Arena**<br>Asked for: Rocket Mortgage FieldHouse → got page: Rocket Arena<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse_2022_(cropped).png)<br>AI sees: _Rocket Mortgage FieldHouse arena in Cleveland_<br>Why: The image shows the exterior of Rocket Mortgage FieldHouse in Cleveland, matching the caption and location.<br>⚑ asked for 'Rocket Mortgage FieldHouse' but the photo comes from the page 'Rocket Arena'
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/TJ_Dillashaw.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **T.J. Dillashaw**<br>2017 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:TJ_Dillashaw.png)<br>AI sees: _close-up of UFC fighter T.J. Dillashaw during an interview_
-<br clear="left">
-
----
-
-## 📝 DRAFT · Arsenal Part Ways With Head Coach Renee Slegers After Form Slump
-`2026-11-28-news-02e69a` · 2026-11-28
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/20241116-Ren%C3%A9e_Slegers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Renée Slegers**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:20241116-Ren%C3%A9e_Slegers.jpg)<br>AI sees: _Renée Slegers applauding in sports jacket_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/1280px-London_Emirates_Stadium_arsenal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Emirates Stadium**<br>2022 · CC BY-SA 3.0 de · [source](https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg)<br>AI sees: _Aerial view of Emirates Stadium in London_
-<br clear="left">
-
----
-
-## 📝 DRAFT · On This Day in 1895: Frank Duryea Wins America's First Automobile Race in Chicago Snow
-`2026-11-28-hist-4d4b27` · 2026-11-28
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/DuryeaBrothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **J. Frank Duryea**<br>Asked for: Frank Duryea → got page: J. Frank Duryea<br>2009 · Public domain · [source](https://commons.wikimedia.org/wiki/File:DuryeaBrothers.jpg)<br>AI sees: _Two men seated in an early 1890s Duryea motor wagon_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Museum_of_Science_and_Industry_%28Chicago%29.jpg/1280px-Museum_of_Science_and_Industry_%28Chicago%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Museum of Science and Industry (Chicago)**<br>2007 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Museum_of_Science_and_Industry_(Chicago).jpg)<br>AI sees: _Museum of Science and Industry in Chicago_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Carl_Benz_circa_1920.jpg/1280px-Carl_Benz_circa_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🔴 WRONG**<br>Caption: **Carl Benz**<br>Asked for: Karl Benz → got page: Carl Benz<br>2026 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Carl_Benz_circa_1920.jpg)<br>AI sees: _Portrait of German automotive engineer Carl Benz_<br>Why: The photograph accurately depicts automobile pioneer Carl Benz as identified in the caption.<br>⚑ asked for 'Karl Benz' but the photo comes from the page 'Carl Benz'
-<br clear="left">
-
----
-
-## 📝 DRAFT · China Crush Fiji 8-0 to Clinch Historic U-17 World Cup Knockout Berth
-`2026-11-27-news-33c855` · 2026-11-27
-
-<img src="../docs/photos/card-2026-11-27-news-33c855.png" width="240" align="left" hspace="10">
-
-**1. 🟢 our score card** · cover<br>Caption: **China U17 8 - 0 Fiji U17 · FIFA U-17 World Cup**<br>2026 · Own work
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
-<br clear="left">
-
----
-
-## 📝 DRAFT · Yelena Isinbayeva: The Gymnast Who Redefined Women's Pole Vaulting
-`2026-11-27-athl-c09e34` · 2026-11-27
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Yelena_Isinbayeva_by_Augustas_Didzgalvis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Yelena Isinbayeva**<br>2013 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Yelena_Isinbayeva_by_Augustas_Didzgalvis.jpg)<br>AI sees: _Yelena Isinbayeva celebrating in a Russian athletics uniform_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Svetlana_Feofanova_Daegu_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Svetlana Feofanova**<br>2011 · GFDL · [source](https://commons.wikimedia.org/wiki/File:Svetlana_Feofanova_Daegu_2011.jpg)<br>AI sees: _Svetlana Feofanova celebrating with a Russian flag_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Jennifer_Suhr_London_2012_%28cropped%29.jpg/1280px-Jennifer_Suhr_London_2012_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Jenn Suhr**<br>2012 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Jennifer_Suhr_London_2012_(cropped).jpg)<br>AI sees: _American pole vaulter Jenn Suhr celebrating with a US flag_
 <br clear="left">
 
 ---
