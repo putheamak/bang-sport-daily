@@ -1,6 +1,6 @@
 # Photo review — 2026-11-28
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 1 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
@@ -25,6 +25,51 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-28-news-c2986b.png" width="240" align="left" hspace="10">
 
 **4. 🟢 our score card**<br>Caption: **Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth
+`2026-11-28-news-80638d` · 2026-11-28
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg/1280px-Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Ashley Sanchez**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg)<br>AI sees: _Ashley Sanchez in a North Carolina Courage soccer kit_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg/1280px-Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Emma Hayes**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg)<br>AI sees: _Emma Hayes smiling in US team jacket_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg/1280px-Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Mallory Swanson**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg)<br>AI sees: _Mallory Swanson in a Chicago Stars FC soccer kit_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-28-news-80638d.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **United States 8 - 0 El Salvador · Concacaf W Championship**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Cody Garbrandt Confirms UFC Retirement Fight Set for Cleveland in February
+`2026-11-28-news-276d13` · 2026-11-28
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Dom_Cruz_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Dominick Cruz**<br>2017 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Dom_Cruz_2.png)<br>AI sees: _Dominick Cruz smiling_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png/1280px-Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🔴 WRONG**<br>Caption: **Rocket Arena**<br>Asked for: Rocket Mortgage FieldHouse → got page: Rocket Arena<br>2022 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse_2022_(cropped).png)<br>AI sees: _Rocket Mortgage FieldHouse arena in Cleveland_<br>Why: The image shows the exterior of Rocket Mortgage FieldHouse in Cleveland, matching the caption and location.<br>⚑ asked for 'Rocket Mortgage FieldHouse' but the photo comes from the page 'Rocket Arena'
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/TJ_Dillashaw.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **T.J. Dillashaw**<br>2017 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:TJ_Dillashaw.png)<br>AI sees: _close-up of UFC fighter T.J. Dillashaw during an interview_
 <br clear="left">
 
 ---

@@ -1,5 +1,448 @@
 [
   {
+    "id": "2026-11-28-news-80638d",
+    "slug": "uswnt-crushes-el-salvador-8-0-to-seal-2027-world-cup-berth",
+    "date": "2026-11-28",
+    "created": "2026-11-28T15:40:46+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "Football",
+    "tags": [
+      "USWNT",
+      "Concacaf W Championship",
+      "Women's World Cup",
+      "Ashley Sanchez",
+      "Emma Hayes",
+      "El Salvador women's national football team"
+    ],
+    "athletes": [
+      "Ashley Sanchez",
+      "Kennedy Wesley",
+      "Tierna Davidson",
+      "Mallory Swanson",
+      "Croix Bethune"
+    ],
+    "image_subjects": [
+      "Ashley Sanchez",
+      "Emma Hayes",
+      "United States women's national soccer team",
+      "Mallory Swanson"
+    ],
+    "match": {
+      "competition": "Concacaf W Championship",
+      "date": "27 November 2026",
+      "home": "United States",
+      "away": "El Salvador",
+      "home_score": 8,
+      "away_score": 0,
+      "home_scorers": [
+        "Wesley 9'",
+        "Davidson 31'",
+        "Swanson 32'",
+        "Sanchez 36'",
+        "Sanchez",
+        "Sanchez",
+        "Wilson 44'",
+        "Bethune 80'"
+      ],
+      "away_scorers": [],
+      "note": "USA qualify for 2027 World Cup and 2028 Olympics"
+    },
+    "fight": null,
+    "facts_to_verify": [],
+    "sources": [
+      {
+        "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+        "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier"
+      },
+      {
+        "title": "Sanchez hat trick sends USWNT to the World Cup with 8-0 qualifying victory over El Salvador",
+        "url": "https://sports.yahoo.com/"
+      },
+      {
+        "title": "yahoo.com",
+        "url": "https://malaysia.news.yahoo.com/sports/"
+      },
+      {
+        "title": "crayon.net",
+        "url": "https://crayon.net/story/50563/with-world-cup-qualification-on-the-line-uswnt-s-focus-solel"
+      },
+      {
+        "title": "sledhouse.com",
+        "url": "https://sledhouse.com/"
+      },
+      {
+        "title": "theguardian.com",
+        "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier"
+      },
+      {
+        "title": "Yahoo Sports – Soccer: USWNT qualifies for 2027 Women's World Cup with 8-0 rout of El Salvador behind Ashley Sanchez's hat trick",
+        "url": "https://sports.yahoo.com/soccer/article/uswnt-qualifies-for-2027-womens-world-cup-with-8-0-rout-of-el-salvador-behind-ashley-sanchezs-hat-trick-033020919.html"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "USWNT Crushes El Salvador 8-0 to Seal 2027 World Cup Berth",
+      "seo_title": "USA 8-0 El Salvador: USWNT seals 2027 World Cup spot",
+      "subheadline": "Ashley Sanchez hits a seven-minute hat-trick in Texas as Emma Hayes' squad books tickets to Brazil 2027 and the 2028 Olympics.",
+      "body_markdown": "The United States women's national team secured qualification for the 2027 FIFA Women's World Cup and the 2028 Los Angeles Olympics on Friday night, defeating El Salvador 8-0 in the Concacaf W Championship quarter-finals at Texas Health Mansfield Stadium in Mansfield, Texas.\n\nEmma Hayes' side built a 7-0 lead before half-time in what was their first competitive fixture since winning Olympic gold in Paris in August 2024. Kennedy Wesley opened the scoring in the ninth minute, turning home a set-piece routine. Tierna Davidson doubled the advantage in the 31st minute with a header from a Mallory Swanson free kick, and Swanson added a third just one minute later after latching onto a through ball from Wilson.\n\n## Sanchez sparks seven-minute blitz\n\nAshley Sanchez, recently named the National Women's Soccer League Most Valuable Player, extended the lead in the 36th minute by converting a cross from Alyssa Thompson. That strike initiated a seven-minute hat-trick for Sanchez, before Wilson made it 7-0 in the 44th minute. The scoring spree put the contest out of reach against an El Salvador side ranked 78th in the world, 76 places below the second-ranked Americans.\n\nEl Salvador head coach Eric Acuña opted against a congested low-block defense, setting up with open space between lines. While goalkeeper Riley Meléndez thwarted multiple second-half attempts from Jaedyn Shaw, substitute Croix Bethune added the eighth goal in the 80th minute to round out the scoring.\n\n## Ticket to Brazil and Los Angeles\n\nThe quarter-final victory ensures the United States will participate in the 2027 Women's World Cup in Brazil, preserving the team's unbroken record of appearing at all 10 editions of the tournament since the inaugural competition in 1991. The result also confirms a spot at the 2028 Summer Games in Los Angeles, as Concacaf allocates both tournament berths to its four semi-finalists.\n\nEarlier on Friday, Jamaica secured their World Cup berth with a 3-0 win over Costa Rica at the same venue. Reggae Girlz head coach Hubert Busby Jr noted after his match that his squad had \"three days to prepare\" for Hayes' team hours before the American quarter-final kicked off. The United States will face Jamaica in the semi-finals on 1 December, while Canada play Panama and Mexico face Haiti on Saturday to fill the remaining two qualification places.",
+      "social_post": "Seven minutes was all Ashley Sanchez needed to net a first-half hat-trick as the USWNT routed El Salvador 8-0 in Mansfield, Texas. The win sends Emma Hayes' squad to the 2027 Women's World Cup in Brazil and the 2028 Los Angeles Olympics, preserving an unbroken streak across all 10 World Cups. Next up is Jamaica in the semi-finals on 1 December. Can anyone in Concacaf slow down this attack? Let us know below! #USWNT #WWC2027 #ConcacafW"
+    },
+    "zh": {
+      "headline": "8-0狂胜萨尔瓦多！美国女足强势锁定2027世界杯入场券",
+      "seo_title": "美国8-0萨尔瓦多：桑切斯7分钟戴帽进军世界杯",
+      "subheadline": "阿什莉·桑切斯在得州7分钟内连入三球上演帽子戏法，海斯军团直通2027巴西世界杯与2028洛杉矶奥运会。",
+      "body_markdown": "周五晚，在中北美及加勒比海女足锦标赛四分之一决赛中，美国女足在得克萨斯州曼斯菲尔德的德克萨斯健康曼斯菲尔德体育场以8-0横扫萨尔瓦多队，顺利锁定2027年国际足联女足世界杯以及2028年洛杉矶奥运会的参赛资格。\n\n这也是埃玛·海斯（Emma Hayes）执教的这支球队自2024年8月在巴黎夺得奥运金牌以来的首场正式比赛，她们在上半场便狂轰7球确立胜局。第9分钟，肯尼迪·韦斯利（Kennedy Wesley）利用角球定位球配合抢点破门，为球队先拔头筹。第31分钟，蒂尔娜·戴维森（Tierna Davidson）接马洛丽·斯旺森（Mallory Swanson）开出的任意球头槌破网扩大比分；仅过了一分钟，斯旺森反越位接威尔逊（Wilson）的直塞球单刀命中，将比分改写为3-0。\n\n## 桑切斯7分钟戴帽掀起进球狂潮\n\n新科美国女足联赛（NWSL）最有价值球员阿什莉·桑切斯（Ashley Sanchez）在第36分钟接艾丽莎·汤普森（Alyssa Thompson）的传中推射入网。这粒进球点燃了她惊人的7分钟帽子戏法狂潮，随后威尔逊在第44分钟破门，将半场比分定格在7-0。面对世界排名第78位、落后美国队（世界第二）76个身位的萨尔瓦多女足，比赛悬念早已被彻底扼杀。\n\n萨尔瓦多主教练埃里克·阿库尼亚（Eric Acuña）此役并未选择在后场摆出密集低位大巴，反而给对手留下了防线空当。尽管萨尔瓦多门将莱利·梅伦德斯（Riley Meléndez）在下半场高接抵挡，多次化解了杰丁·肖（Jaedyn Shaw）的威胁攻门，但替补登场的克罗伊·贝休恩（Croix Bethune）仍在第80分钟打入全场第8球，为这场狂胜画上句号。\n\n## 进军巴西与洛杉矶\n\n这场八强战的胜利，让美国女足成功拿到了2027年巴西女足世界杯的门票，延续了自1991年首届赛事以来从未缺席任何一届世界杯的傲人纪录（连续10届参赛）。与此同时，由于中北美及加勒比海足联将世界杯与奥运会资格直接授予四强球队，美国队也自动获得了2028年洛杉矶夏奥会的参赛席位。\n\n在周五早些时候的另一场对决中，牙买加女足在同一块球场3-0战胜哥斯达黎加队，同样斩获世界杯门票。「雷鬼女孩」主教练休伯特·巴斯比（Hubert Busby Jr）在赛后打趣道，在美国队开赛前几个小时，他们就已经拥有了「整整三天时间」来研究并准备迎战海斯的队伍。12月1日，美国女足将在半决赛中与牙买加交锋；而周六进行的加拿大对阵巴拿马、墨西哥对战海地的两场对决，将决出最后两个出线名额。",
+      "social_post": "阿什莉·桑切斯仅用7分钟便在上半场完成帽子戏法！美国女足在得州曼斯菲尔德8-0狂胜萨尔瓦多，顺利进军2027巴西女足世界杯和2028洛杉矶奥运会，继续保持世界杯全勤纪录。12月1日半决赛迎战牙买加，在中北美赛区还有谁能挡住这支美国队的火力？欢迎在评论区聊聊！ #美国女足 #女足世界杯 #中北美女足锦标赛"
+    },
+    "ru": {
+      "headline": "Сборная США разгромила Сальвадор со счетом 8:0 и вышла на ЧМ-2027",
+      "seo_title": "США — Сальвадор 8:0: разгром и путевка на женский ЧМ-2027",
+      "subheadline": "Эшли Санчес оформила хет-трик за семь минут в Техасе, а команда Эммы Хейз квалифицировалась в Бразилию-2027 и на Олимпиаду-2028.",
+      "body_markdown": "Женская сборная США по футболу в пятницу вечером гарантировала себе путевку на чемпионат мира 2027 года в Бразилии и Олимпийские игры 2028 года в Лос-Анджелесе. В четвертьфинале чемпионата КОНКАКАФ W американки разгромили команду Сальвадора со счетом 8:0 на стадионе «Техас Хелс Мэнсфилд» в городе Мэнсфилд, штат Техас.\n\nПодопечные Эммы Хейз (Emma Hayes) забили семь безответных мячей еще до свистка на перерыв — это был их первый официальный матч после завоевания золота на парижской Олимпиаде в августе 2024 года. Кеннеди Уэсли (Kennedy Wesley) открыла счет на девятой минуте, замкнув розыгрыш стандарта. На 31-й минуте Тирна Дэвидсон (Tierna Davidson) удвоила преимущество ударом головой после навеса Мэллори Свонсон (Mallory Swanson) со штрафного, а всего минуту спустя сама Свонсон забила третий гол, откликнувшись на разрезающую передачу Уилсон (Wilson).\n\n## Семиминутный блицкриг от Санчес\n\nЭшли Санчес (Ashley Sanchez), недавно признанная самым ценным игроком Национальной женской футбольной лиги (NWSL), на 36-й минуте довела счет до разгромного, замкнув передачу Алиссы Томпсон (Alyssa Thompson). Этот гол положил начало невероятному хет-трику Санчес, на который у нее ушло всего семь минут, а на 44-й минуте Уилсон сделала счет 7:0. Исход противостояния с сальвадорками, занимающими 78-е место в мировом рейтинге (на 76 строчек ниже вторых американок), был предрешен задолго до перерыва.\n\nГлавный тренер сборной Сальвадора Эрик Акунья (Eric Acuña) отказался от идеи глухой обороны у своей штрафной и оставил свободные зоны между линиями. Несмотря на то что голкипер Райли Мелендес (Riley Meléndez) во втором тайме нейтрализовала несколько опасных ударов Джейдин Шоу (Jaedyn Shaw), вышедшая на замену Круа Бетюн (Croix Bethune) на 80-й минуте установила окончательный счет — 8:0.\n\n## Билеты в Бразилию и Лос-Анджелес\n\nПобеда в четвертьфинале гарантировала сборной США участие в женском мундиале 2027 года в Бразилии, сохранив безупречный рекорд команды: американки не пропустили ни одного из десяти розыгрышей турнира с момента его основания в 1991 году. Этот результат также дает путевку на домашнюю Олимпиаду-2028, поскольку КОНКАКАФ распределяет квоты на оба турнира среди четырех полуфиналистов.\n\nРанее в пятницу путевку на ЧМ завоевала сборная Ямайки, обыгравшая Коста-Рику со счетом 3:0 на том же стадионе. Наставник ямаек Хьюберт Басби-младший (Hubert Busby Jr) после игры заметил, что у его команды есть «три дня на подготовку» к встрече с подопечными Хейз — еще до того, как американки вышли на газон. Полуфинальный матч США — Ямайка состоится 1 декабря. Оставшиеся две путевки разыграют в субботу пары Канада — Панама и Мексика — Гаити.",
+      "social_post": "Эшли Санчес хватило семи минут, чтобы оформить хет-трик в ворота Сальвадора! Сборная США разгромила соперниц со счетом 8:0 в Техасе. Команда Эммы Хейз досрочно отобралась на ЧМ-2027 в Бразилии и Олимпиаду-2028 в Лос-Анджелесе, продлив уникальную серию участий во всех 10 чемпионатах мира. 1 декабря в полуфинале — битва с Ямайкой. Способен ли кто-то в КОНКАКАФ сдержать эту атаку? Пишите в комментариях! #ЧМ2027 #USWNT #ЖенскийФутбол"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg/1280px-Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Ashley Sanchez during Gotham vs North Carolina Courage on March 21, 2026",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Ashley Sanchez",
+        "asked": "Ashley Sanchez",
+        "page_title": "Ashley Sanchez",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:ashley_sanchez_gotham_nc_courage_mar_21_2026-63_(cropped).jpg|Ashley Sanchez",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Ashley Sanchez in a North Carolina Courage soccer kit",
+          "reason": "The photo clearly shows American soccer player Ashley Sanchez wearing her North Carolina Courage uniform.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg/1280px-Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Emma Hayes during the US Women's Soccer Team vs Colombia at the SheBelieves Cup on March 7, 2026",
+        "width": 1200,
+        "height": 1599,
+        "year": 2026,
+        "subject": "Emma Hayes",
+        "asked": "Emma Hayes",
+        "page_title": "Emma Hayes",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:emma_hayes_uswnt_v_colombia_mar_7_2026-68_(cropped).jpg|Emma Hayes",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Emma Hayes smiling in US team jacket",
+          "reason": "Clearly recognisable photo of USWNT head coach Emma Hayes in official team gear.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg/1280px-Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg",
+        "artist": "Bryan Berlin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Mallory Swanson during Gotham FC v Chicago Stars on 25 September 2026",
+        "width": 1200,
+        "height": 1799,
+        "year": 2026,
+        "subject": "Mallory Swanson",
+        "asked": "Mallory Swanson",
+        "page_title": "Mallory Swanson",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:mallory_swanson_gotham_v_chicago_25_september_2026-056_(cropped).jpg|Mallory Swanson",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Mallory Swanson in a Chicago Stars FC soccer kit",
+          "reason": "The photo clearly shows USWNT and Chicago Stars forward Mallory Swanson in her club kit.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "../photos/card-2026-11-28-news-80638d.png",
+        "page": "",
+        "artist": "Bang Sport Daily (graphic)",
+        "license": "Own work",
+        "license_url": "",
+        "subject": "United States 8 - 0 El Salvador · Concacaf W Championship",
+        "via": "",
+        "card": true,
+        "year": 2026,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "standards": [
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "2 source(s) are homepages, not articles: https://sports.yahoo.com/, https://sledhouse.com/"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-28-news-276d13",
+    "slug": "cody-garbrandt-confirms-ufc-retirement-fight-set-for-clevela",
+    "date": "2026-11-28",
+    "created": "2026-11-28T15:39:16+07:00",
+    "type": "news",
+    "status": "draft",
+    "model": "gemini-3.8-flash",
+    "sport": "combat",
+    "tags": [
+      "Cody Garbrandt",
+      "UFC",
+      "MMA",
+      "UFC Cleveland",
+      "Bantamweight"
+    ],
+    "athletes": [
+      "Cody Garbrandt",
+      "Dominick Cruz",
+      "T.J. Dillashaw",
+      "Adrian Yanez",
+      "Sergio Pettis"
+    ],
+    "image_subjects": [
+      "Cody Garbrandt",
+      "Dominick Cruz",
+      "Rocket Mortgage FieldHouse",
+      "Ultimate Fighting Championship"
+    ],
+    "match": null,
+    "fight": null,
+    "facts_to_verify": [
+      "UFC has not yet officially announced Garbrandt's opponent for UFC Cleveland.",
+      "Confirmation of UFC Cleveland event details at Rocket Mortgage FieldHouse on February 13, 2027."
+    ],
+    "sources": [
+      {
+        "title": "Cody Garbrandt confirms UFC retirement fight in Cleveland, keen on future with RAF",
+        "url": "https://mmajunkie.usatoday.com"
+      },
+      {
+        "title": "Cody Garbrandt Plans to Hang Up His Gloves After UFC Cleveland",
+        "url": "https://www.mmafighting.com"
+      },
+      {
+        "title": "Cody Garbrandt Plans Final UFC Appearance At Cleveland Event In February",
+        "url": "https://sports.ndtv.com"
+      },
+      {
+        "title": "ndtv.com",
+        "url": "https://sports.ndtv.com/us/mma/cody-garbrandt-plans-final-ufc-appearance-at-cleveland-event-in-february-12387861"
+      },
+      {
+        "title": "yardbarker.com",
+        "url": "https://www.yardbarker.com/mma/articles/garbrandt_announces_farewell_fight_on_feb_13/s1_17349_44627951"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://www.youtube.com/shorts/P5LPnG-ArP0"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://www.youtube.com/watch?v=jhZNIEwJ9Q8"
+      },
+      {
+        "title": "mmasucka.com",
+        "url": "https://mmasucka.com/news/cody-garbrandt-plans-to-hang-up-his-gloves-after-ufc-cleveland/"
+      },
+      {
+        "title": "agentmma.com",
+        "url": "https://agentmma.com/news/93412-cody-garbrandt-expects-to-fight-at-ufc-cleveland-will-retire-after"
+      },
+      {
+        "title": "youtube.com",
+        "url": "https://www.youtube.com/watch?v=97s8wGZ6R5g"
+      },
+      {
+        "title": "boec.com",
+        "url": "https://boec.com/a/13-mma/13391-cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+      },
+      {
+        "title": "شبكة تواصل الإخبارية: Cody Garbrandt Confirms UFC Retirement Fight Set to Happen at Cleveland",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LYXpfUUZlaHdiRUlEaUNMT3g4UllqLWVZU2FxNnFZN29TR1ZUOVExNDJ2bmhmaHdjcVBJMWt6TlRib3N6MF9IdWZDNDNZaDRnV2ZB?oc=5"
+      },
+      {
+        "title": "Yahoo Sports: Cody Garbrandt confirms UFC retirement fight planned for Cleveland",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjgzV1dLSUdhR1ZWR0N5M3EtXzhHbTJqeGtQaXJXcDRja3Zyem5KRjhwTWpHb3pYMzR4ZlJKZ0JjRGNRNEJPSVBsRzRITGJ3ZkNuZG1Ca1cwZm0xMGFqQnNvMm9HdVVuUnBsZHNTSVRaTGZqdV9LVGh0ajU2MmpfakN6akhOY0RSV1hIcE1tUk4xOUU1WHV6LUpQYThKQ2tZdUFWcW1xVENZdw?oc=5"
+      },
+      {
+        "title": "MMA Junkie: Cody Garbrandt confirms UFC 'farewell' fight planned for Cleveland",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHRNcVNtM0VidnVsWjM5VUs0aXZKdTVBUV8yVWgzQV9PTDNtVnA5UlY4ZExLdkNpSU11cjZyajFfTEowMEhkOVVQWndfcDVKZXJnZURpYVFsa1NYMFRRcFhkRGVKXy1fNUNQbVpDYmttZ2JHMzZzWWNadlR1MUtzLW9LbWloS3l5R1VlSllmck9HRUEyTkh1TENhYVJOenptWVNjWllKYlA1RENnWExlWTVPd0ROY09SaHROTGZERlR2eXo4UXE5VkdMRHpXVENX?oc=5"
+      },
+      {
+        "title": "Yahoo Sports – MMA: Cody Garbrandt confirms UFC 'farewell' fight planned for Cleveland",
+        "url": "https://sports.yahoo.com/mma/articles/cody-garbrandt-confirms-ufc-farewell-191545766.html"
+      },
+      {
+        "title": "MMA Fighting: Cody Garbrandt announces retirement bout to take place at UFC Cleveland",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODNuUWR4QkFqdUJsME5lamN3WFNwSXJLcE9qdEZ2dzFNMUdRYVJhZ0FEdEoxZVQyU3dncWFwWTYzQW9abWIwYW95XzBLY1RpdGhQU2djdUJjRzFwbTIxOThrUVl3R0hJSnVlZHl1dUxBbWEySVRqTHdyOEJGV19Sd294S3JrUjlqWFpTODc3em55bkFWY2Y3ZmQtRHJIUEFTVlRuUGFYcTVWY041S1FJ?oc=5"
+      },
+      {
+        "title": "MMA Fighting – latest: Cody Garbrandt announces retirement bout to take place at UFC Cleveland",
+        "url": "https://www.mmafighting.com/ufc/523641/cody-garbrandt-announces-retirement-bout-to-take-place-at-ufc-cleveland"
+      }
+    ],
+    "published_to": [],
+    "originality": {
+      "overlap": 0.0,
+      "longest": 0,
+      "phrases": []
+    },
+    "grounded": true,
+    "en": {
+      "headline": "Cody Garbrandt Confirms UFC Retirement Fight Set for Cleveland in February",
+      "seo_title": "Cody Garbrandt confirms UFC retirement fight in Cleveland",
+      "subheadline": "The former bantamweight champion reveals plans to finish his UFC contract on home soil after a 12-year octagon career.",
+      "body_markdown": "Former UFC bantamweight champion Cody Garbrandt announced on Friday, November 27, 2026, that his upcoming bout at UFC Cleveland on February 13, 2027, will serve as the final fight of his mixed martial arts career in the promotion.\n\nSpeaking to MMA Fighting and MMA Junkie in Chicago ahead of his wrestling match against Sergio Pettis at RAF 15, the 35-year-old Ohio native confirmed he is in discussions with UFC matchmaker Sean Shelby to fulfill the last remaining fight on his contract in his home state.\n\n## Final walk on home soil\n\n\"In my head, my mind, my heart, I know that it will be my last one,\" Garbrandt said when discussing his planned appearance at Rocket Mortgage FieldHouse. While the UFC has not yet confirmed an opponent, the Cleveland card is slated to feature a five-round middleweight headliner between Bo Nickal and Joe Pyfer.\n\nGarbrandt enters the scheduled farewell bout with a professional record of 15 wins and 8 losses. When asked about potential opponents, he named former two-time champion and former Team Alpha Male teammate T.J. Dillashaw as his preferred fantasy matchup, despite Dillashaw having retired in 2022.\n\n## From Cruz masterclass to octagon decline\n\nGarbrandt reached the pinnacle of his MMA career on December 30, 2016, at UFC 207 in Las Vegas, where he handed Dominick Cruz a unanimous decision defeat to capture the bantamweight championship and advance to 11-0. That performance stood out as one of the sharpest boxing displays in division history.\n\nHis championship reign lasted 11 months. Dillashaw stopped Garbrandt by second-round knockout at UFC 217 at Madison Square Garden in November 2017, then secured another first-round stoppage in their rematch at UFC 227 in Los Angeles in August 2018. Following those defeats, Garbrandt posted a 4-8 record over his subsequent 12 UFC appearances.\n\n## One contract fight remaining\n\nGarbrandt’s recent form includes three losses in his past four octagon outings. He fell to Deiveson Figueiredo by submission at UFC 300 in April 2024 and dropped a unanimous decision against Raoni Barcelos in June 2025. \n\nAlthough he secured a unanimous decision victory over Xiao Long at UFC 326 in March 2026, he was stopped by first-round knockout against Adrian Yanez at UFC 329 on July 11, 2026. Garbrandt briefly removed his gloves inside the octagon following the Yanez loss before confirming on social media that he planned one final walk. His wrestling exhibition against Pettis on Saturday, November 28, 2026, at the NOW Arena in Hoffman Estates, Illinois, marks his final competitive tuneup before closing out his UFC tenure.",
+      "social_post": "4 wins in his last 12 fights since taking the bantamweight belt in 2016 have convinced Cody Garbrandt that it is time to walk away. The 35-year-old Ohio native confirmed his UFC farewell fight will take place on February 13, 2027, at UFC Cleveland to fulfill the final bout on his contract. Who should the UFC match him against for his final walk? Let us know below. #UFC #CodyGarbrandt #UFCCleveland #MMA"
+    },
+    "zh": {
+      "headline": "科迪·加布兰特确认UFC退役战定档：2027年2月在故乡克利夫兰谢幕",
+      "seo_title": "加布兰特确认UFC退役战：2027年2月克利夫兰收官",
+      "subheadline": "前雏量级冠军透露计划在俄亥俄家乡打完UFC合同最后一场比赛，为长达12年的八角笼生涯画上句号。",
+      "body_markdown": "前UFC雏量级冠军科迪·加布兰特（Cody Garbrandt）于2026年11月27日周五正式宣布，他将于2027年2月13日在UFC克利夫兰站迎来职业综合格斗生涯及八角笼征程的最后一战。\n\n在芝加哥参加RAF 15赛事摔跤超级战对阵塞尔吉奥·佩蒂斯（Sergio Pettis）前夕，这位现年35岁的俄亥俄名将向MMA Fighting和MMA Junkie证实，他目前正与UFC赛事策划人肖恩·谢尔比（Sean Shelby）进行沟通，争取在自己的家乡州履行完现有合同中的最后一场比赛。\n\n## 故土之上的谢幕演出\n\n“无论在我的脑海、思绪还是内心里，我都十分清楚，这必将是我的谢幕战，”谈及即将在火箭按揭球馆（Rocket Mortgage FieldHouse）上演的登场时，加布兰特如此表示。尽管UFC尚未正式公布其比赛对手，但该站克利夫兰赛事预计将由博·尼卡尔（Bo Nickal）与乔·派弗（Joe Pyfer）领衔五回合中量级头条主赛。\n\n加布兰特目前带着15胜8负的职业战绩进入这场告别战。当被问及心仪的潜在对手时，尽管前阿尔法男模拳馆队友、两届冠军T.J.迪拉肖（T.J. Dillashaw）早在2022年便已挂拳退役，加布兰特依然将他视作自己心目中最具意义的“宿敌对决”。\n\n## 从完胜克鲁兹的巅峰到八角笼的滑落\n\n加布兰特MMA生涯的至高荣耀定格在2016年12月30日的UFC 207。在拉斯维加斯，他凭借无懈可击的表现一致判定战胜多米尼克·克鲁兹（Dominick Cruz），将个人战绩改写为11战全胜并斩获雏量级冠军金腰带。那场近乎拳击教科书级的华丽发挥，至今仍是该量级历史上最顶级的站立打击秀之一。\n\n然而他的冠军统治仅维持了11个月。2017年11月在麦迪逊广场花园举行的UFC 217上，迪拉肖在第二回合KO终结加布兰特夺走金腰带；随后在2018年8月洛杉矶举行的UFC 228二番战中，迪拉肖再度在首回合终结取胜。自丢掉冠军头衔后，加布兰特在随后的12场UFC比赛中仅打出了4胜8负的低迷战绩。\n\n## 合同仅剩最后一战\n\n加布兰特近期的竞技状态同样挣扎，在过去的四场八角笼出战中吞下三场败绩。2024年4月的UFC 300上，他遭到戴维森·菲格雷多（Deiveson Figueiredo）降服击败；2025年6月，他又一致判定负于拉奥尼·巴塞洛斯（Raoni Barcelos）。\n\n尽管在2026年3月的UFC 326上，加布兰特通过一致判定击败了中国选手肖龙（Xiao Long），但在2026年7月11日的UFC 329中，他首回合便遭阿德里安·亚内兹（Adrian Yanez）拳法KO终结。在输给亚内兹后，加布兰特曾在八角笼内短暂摘下手套，随后在社交媒体上证实自己计划再打最后一场。而2026年11月28日周六在伊利诺伊州霍夫曼庄园NOW竞技场与佩蒂斯的这场摔跤表演赛，也将成为他彻底告别UFC生涯前最后的实战热身。",
+      "social_post": "自2016年夺冠后近12战仅取4胜，科迪·加布兰特终于做出了离场的决定。这位35岁的俄亥俄名将确认，将于2027年2月13日在UFC克利夫兰站打完合同最后一场比赛，正式迎来八角笼告别战。大家希望看到谁来担任他的退役战对手？欢迎在评论区留言讨论！#UFC #加布兰特 #UFCCleveland #MMA"
+    },
+    "ru": {
+      "headline": "Коди Гарбрандт проведет прощальный бой в UFC в феврале 2027 года в Кливленде",
+      "seo_title": "Коди Гарбрандт завершит карьеру: прощальный бой пройдет в Кливленде",
+      "subheadline": "Экс-чемпион легчайшего веса намерен отработать последний бой по контракту с промоушеном на глазах у родных трибун Огайо.",
+      "body_markdown": "Бывший чемпион UFC в легчайшем весе Коди Гарбрандт в пятницу, 27 ноября 2026 года, объявил, что его следующее выступление на турнире UFC в Кливленде 13 февраля 2027 года станет заключительным боем в смешанных единоборствах под эгидой ведущей мировой лиги.\n\nОбщаясь с репортерами MMA Fighting и MMA Junkie в Чикаго накануне схватки по борьбе против Серхио Петтиса (Sergio Pettis) на турнире RAF 15, 35-летний уроженец Огайо подтвердил, что ведет диалог с матчмейкером UFC Шоном Шелби о закрытии действующего контракта поединком в родном штате.\n\n## Последний выход на домашней арене\n\n«В мыслях, в душе и в сердце я твердо знаю, что этот выход станет последним», — подчеркнул Гарбрандт, комментируя планы выступить в стенах спорткомплекса Rocket Mortgage FieldHouse. Официального оппонента промоушен пока не утвердил, однако известно, что главным событием вечера в Кливленде станет пятираундовый бой в среднем весе между Бо Никалом и Джо Пайфером.\n\nГарбрандт подходит к прощальному поединку с послужным списком из 15 побед и 8 поражений. Отвечая на вопрос о желаемом сопернике, Коди назвал своего давнего оппонента и бывшего спарринг-партнера по Team Alpha Male Ти Джея Диллашоу, хотя двукратный чемпион официально повесил перчатки на гвоздь еще в 2022 году.\n\n## От триумфа с Крусом до череды спадов\n\nПиком бойцовской карьеры Гарбрандта стало 30 декабря 2016 года: на турнире UFC 207 в Лас-Вегасе он деклассировал Доминика Круса, одержав победу единогласным решением судей, завоевал пояс в легчайшем весе и довел свой рекорд до идеальных 11-0. Тот поединок до сих пор считается одним из ярчайших образцов боксерского мастерства в истории дивизиона.\n\nЧемпионский ренессанс продлился 11 месяцев. В ноябре 2017 года на UFC 217 в Нью-Йорке Диллашоу нокаутировал Гарбрандта во втором раунде, отобрав пояс, а в августе 2018-го на UFC 227 в Лос-Анджелесе закрепил успех, оформив технический нокаут уже в стартовом отрезке. После тех сокрушительных неудач карьера Коди пошла на спад — в следующих 12 боях в октагоне он показал блеклый результат 4-8.\n\n## Финальная глава в октагоне\n\nВ последних четырех поединках Гарбрандт уступил трижды. На юбилейном турнире UFC 300 в апреле 2024 года он сдался Дейвесону Фигейредо, а в июне 2025-го проиграл по очкам Раони Барселосу.\n\nНесмотря на победу единогласным решением над китайским проспектом Сяо Луном (Xiao Long) на UFC 326 в марте 2026-го, уже 11 июля того же года на UFC 329 Коди улетел в тяжелый нокаут в первом раунде от Эдриана Янеза. Сразу после поражения Гарбрандт снял перчатки в октагоне, но позже уточнил в соцсетях, что намерен провести еще одно, завершающее выступление. Схватка по правилам борьбы против Петтиса в субботу, 28 ноября 2026 года, на NOW Arena в Хоффман-Эстейтс (штат Иллинойс) станет для ветерана финальной разминкой перед уходом на заслуженный покой.",
+      "social_post": "Всего 4 победы в 12 боях после триумфа 2016 года подтолкнули Коди Гарбрандта к решению повесить перчатки на гвоздь. 35-летний экс-чемпион подтвердил: его прощальный бой в UFC состоится 13 февраля 2027 года в родном Кливленде. Кого бы вы хотели видеть в качестве его соперника в последнем выходе? Делитесь мнениями в комментариях! #UFC #КодиГарбрандт #UFCCleveland #ММА"
+    },
+    "region": "global",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dom_Cruz_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:Dom_Cruz_2.png",
+        "artist": "James K. McCann",
+        "license": "Public domain",
+        "license_url": "",
+        "description": "Dominick Cruz, mixed-martial artist, sits in the cockpit of an MH-60R Seahawk helicopter assigned to the \"Spartans\" of Helicopter Maritime Strike Squadron (HSM) 70 while meeting sailors aboard the air",
+        "width": 1200,
+        "height": 1619,
+        "year": 2017,
+        "subject": "Dominick Cruz",
+        "asked": "Dominick Cruz",
+        "page_title": "Dominick Cruz",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:dom_cruz_2.png|Dominick Cruz",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "Dominick Cruz smiling",
+          "reason": "The image clearly shows former UFC champion Dominick Cruz, who is mentioned in the story.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png/1280px-Rocket_Mortgage_FieldHouse_2022_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "page": "https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse_2022_(cropped).png",
+        "artist": "Cards84664",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "description": "Cleveland",
+        "width": 1200,
+        "height": 820,
+        "year": 2022,
+        "subject": "Rocket Arena",
+        "asked": "Rocket Mortgage FieldHouse",
+        "page_title": "Rocket Arena",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:rocket_mortgage_fieldhouse_2022_(cropped).png|Rocket Arena",
+          "verdict": "wrong",
+          "flags": [
+            "asked for 'Rocket Mortgage FieldHouse' but the photo comes from the page 'Rocket Arena'"
+          ],
+          "shows": "Rocket Mortgage FieldHouse arena in Cleveland",
+          "reason": "The image shows the exterior of Rocket Mortgage FieldHouse in Cleveland, matching the caption and location.",
+          "by": "ai"
+        }
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/TJ_Dillashaw.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "page": "https://commons.wikimedia.org/wiki/File:TJ_Dillashaw.png",
+        "artist": "K.O. Artist Sports",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "description": "TJ Dillashaw being interviewed.",
+        "width": 1200,
+        "height": 1553,
+        "year": 2017,
+        "subject": "T.J. Dillashaw",
+        "asked": "T.J. Dillashaw",
+        "page_title": "T.J. Dillashaw",
+        "check": {
+          "v": 2,
+          "key": "https://commons.wikimedia.org/wiki/file:tj_dillashaw.png|T.J. Dillashaw",
+          "verdict": "ok",
+          "flags": [],
+          "shows": "close-up of UFC fighter T.J. Dillashaw during an interview",
+          "reason": "The image clearly shows former UFC champion T.J. Dillashaw, matching the caption.",
+          "by": "ai"
+        }
+      }
+    ],
+    "standards": [
+      {
+        "level": "BLOCK",
+        "area": "photos",
+        "msg": "Photo 2 captioned 'Rocket Arena' looks WRONG (shows Rocket Mortgage FieldHouse arena in Cleveland; asked for 'Rocket Mortgage FieldHouse' but the photo comes from the page 'Rocket Arena'; The image shows the exterior of Rocket Mortgage FieldHouse in Cleveland, match). Replace or remove it in photos.yaml — see data/photo-review.md"
+      },
+      {
+        "level": "WARN",
+        "area": "photos",
+        "msg": "Cover photo is from 2017. Use the most recent free photo available (for example the latest title celebration), even if it is not from this event"
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: UFC has not yet officially announced Garbrandt's opponent for UFC Cleveland."
+      },
+      {
+        "level": "INFO",
+        "area": "facts",
+        "msg": "Verify: Confirmation of UFC Cleveland event details at Rocket Mortgage FieldHouse on February 13, 2027."
+      },
+      {
+        "level": "WARN",
+        "area": "sources",
+        "msg": "3 source(s) are homepages, not articles: https://mmajunkie.usatoday.com, https://www.mmafighting.com, https://sports.ndtv.com"
+      },
+      {
+        "level": "INFO",
+        "area": "sources",
+        "msg": "3 weaker source(s) (blog/social). Do not rely on them alone"
+      }
+    ]
+  },
+  {
     "id": "2026-11-28-hist-4d4b27",
     "slug": "on-this-day-in-1895-frank-duryea-wins-america-s-first-automo",
     "date": "2026-11-28",

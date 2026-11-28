@@ -1,154 +1,130 @@
-2026-11-27 18:26:37,064 INFO BBC Sport                         44 items
-2026-11-27 18:26:37,200 INFO The Guardian Sport                26 items
-2026-11-27 18:26:37,228 INFO ESPN                               0 items
-2026-11-27 18:26:37,453 INFO Sky Sports                        18 items
-2026-11-27 18:26:37,731 INFO Google News – Sports (EN)         46 items
-2026-11-27 18:26:38,639 INFO Google News – 体育 (ZH)             49 items
-2026-11-27 18:26:39,515 INFO Google News – Спорт (RU)          47 items
-2026-11-27 18:26:40,362 INFO Championat                        30 items
-2026-11-27 18:26:41,286 INFO Sports.ru                         14 items
-2026-11-27 18:26:43,090 INFO Спорт-Экспресс                   513 items
-2026-11-27 18:26:44,012 INFO РИА Новости Спорт                 20 items
-2026-11-27 18:26:45,059 INFO 中国新闻网 体育                          29 items
-2026-11-27 18:26:45,446 INFO Google News – Cambodia sport      20 items
-2026-11-27 18:26:46,071 INFO Google News – Southeast Asia sport  60 items
-2026-11-27 18:26:46,561 INFO Google News – Combat promotions   92 items
-2026-11-27 18:26:47,010 INFO Google News – Boxing              40 items
-2026-11-27 18:26:47,215 INFO Google News – Kun Khmer            2 items
-2026-11-27 18:26:47,423 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-27 18:26:48,072 INFO Google News – Единоборства (RU)   99 items
-2026-11-27 18:26:48,480 INFO Google News – 格斗 (ZH)             34 items
-2026-11-27 18:26:48,703 INFO MMA Fighting                      10 items
-2026-11-27 18:26:48,957 INFO Google News – Khmer Times sport    7 items
-2026-11-27 18:26:49,177 INFO BBC Sport – Tennis                 6 items
-2026-11-27 18:26:49,433 INFO BBC Sport – Formula 1              6 items
-2026-11-27 18:26:49,682 INFO BBC Sport – Cricket               12 items
-2026-11-27 18:26:49,945 INFO BBC Sport – Boxing                 3 items
-2026-11-27 18:26:50,218 INFO BBC Sport – Athletics              1 items
-2026-11-27 18:26:50,376 INFO The Guardian – Tennis              2 items
-2026-11-27 18:26:50,738 INFO The Guardian – Formula 1           2 items
-2026-11-27 18:26:50,890 INFO The Guardian – Cricket             7 items
-2026-11-27 18:26:51,006 INFO Sherdog                            7 items
-2026-11-27 18:26:51,079 INFO Sky Sports – Football             18 items
-2026-11-27 18:26:52,279 INFO Чемпионат – Теннис                31 items
-2026-11-27 18:26:53,250 INFO Чемпионат – Хоккей                28 items
-2026-11-27 18:26:53,328 INFO MMA Fighting – latest             10 items
-2026-11-27 18:26:53,471 INFO BBC Sport – Football              40 items
-2026-11-27 18:26:53,605 INFO The Guardian – Football           18 items
-2026-11-27 18:26:53,905 INFO Yahoo Sports – Soccer             47 items
-2026-11-27 18:26:54,238 INFO Yahoo Sports – MMA                50 items
-2026-11-27 18:26:54,539 INFO Yahoo Sports – Tennis             48 items
-2026-11-27 18:26:54,971 INFO Yahoo Sports – NBA                44 items
-2026-11-27 18:26:55,232 INFO The Independent – Sport           49 items
-2026-11-27 18:26:55,804 INFO Google News – Tennis              93 items
-2026-11-27 18:26:56,392 INFO Google News – Basketball          92 items
-2026-11-27 18:26:56,912 INFO Google News – Motorsport          96 items
-2026-11-27 18:26:57,396 INFO Google News – Badminton, athletics, table tennis  79 items
-2026-11-27 18:26:58,136 INFO Google News – Cricket             93 items
-2026-11-27 18:26:58,731 INFO Google News – 网球与篮球 (ZH)         100 items
-2026-11-27 18:26:59,137 INFO Google News – 羽毛球与乒乓 (ZH)         86 items
-2026-11-27 18:26:59,700 INFO Google News – Теннис и баскетбол (RU)  99 items
-2026-11-27 18:27:00,183 INFO Google News – Формула-1 и биатлон (RU)  83 items
-2026-11-27 18:27:04,225 INFO Candidate stories after clustering: 1975
-2026-11-27 18:27:04,442 INFO Skipped (pre-match piece, no previews): Davis Cup Final 8: Great Britain face Carlos Alcaraz’s Spain as Italy face Czechia - Semi-final schedule and all results
-2026-11-27 18:27:04,446 INFO Skipped (we already have this story): Marc Marquez kicks off retirement tour with a new lap record
-2026-11-27 18:27:04,450 INFO Skipped (match still in progress, live update): Kuching City thrash Phnom Penh Crown in ACL2
-2026-11-27 18:27:04,483 INFO Skipped (we already have this story): Musetti puts Italy ahead in Davis Cup semi-final
-2026-11-27 18:27:04,650 INFO Skipped (we already have this story): Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title
-2026-11-27 18:27:04,654 INFO Skipped (pre-match piece, no previews): Mirra Andreeva’s Grand Slam total for 2027 has already been predicted, ‘I would be surprised’
-2026-11-27 18:27:04,691 INFO Skipped (we already have this story): Eight-time MotoGP champion Marc Márquez announces surprise retirement
-2026-11-27 18:27:04,697 INFO Kept (result after our pre-event story): Jannik Sinner to miss Australian Open: Former world No 1 won't play first Grand Slam of 2027 after knee surgery
-2026-11-27 18:27:04,713 INFO Skipped (we already have this story): End of an era as Marquez announces shock retirement after eighth MotoGP title
-2026-11-27 18:27:04,732 INFO Skipped (we already have this story): How Jannik Sinner performed on his Australian Open debut as he skips 2027 tournament due to injury
-2026-11-27 18:27:04,771 INFO Skipped (we already have this story): Southeast Asian media mentions 5 goals of U17 Vietnam at the World Cup
-2026-11-27 18:27:04,914 INFO Skipped (pre-match piece, no previews): Fiery Hamilton-Leclerc lineup casts doubt on Ferrari functioning in a title fight
-2026-11-27 18:27:04,975 INFO Skipped (we already have this story): Watch the moment Marc Marquez announced his retirement from Moto GP
-2026-11-27 18:27:05,029 INFO Skipped (we already have this story): Sports world reacts to Marc Marquez shock MotoGP retirement
-2026-11-27 18:27:05,067 INFO Skipped (we already have this story): 崇礼首场！“雪如意”准备好了！2026~2027赛季国际雪联单板滑雪平行项目世界杯即将开赛
-2026-11-27 18:27:05,079 INFO Skipped (we already have this story): Who will replace Marc Marquez at Ducati?
-2026-11-27 18:27:05,112 INFO Skipped (we already have this story): Marc Marquez announces immediate retirement from MotoGP in bombshell announcement
-2026-11-27 18:27:05,224 INFO Skipped (pre-match piece, no previews): 2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 27
-2026-11-27 18:27:05,265 INFO Skipped (pre-match piece, no previews): 国王 vs 森林狼比分预测：模型看好森林狼，胜率88%_篮球新闻
-2026-11-27 18:27:05,284 INFO Skipped (pre-match piece, no previews): Milwaukee Bucks vs. Detroit Pistons Preview & Game Thread: Time to get back on track
-2026-11-27 18:27:05,497 INFO Skipped (pre-match piece, no previews): CBA丨西尔扎提：稳扎首发 破茧成长
-2026-11-27 18:27:05,934 INFO Skipped (we already have this story): MotoGP series chief responds to seismic Marc Marquez retirement news
-2026-11-27 18:27:06,175 INFO Skipped (we already have this story): Marc Marquez made MotoGP retirement decision in October after “fear” over injuries
-2026-11-27 18:27:06,191 INFO Skipped (match still in progress, live update): LIVE: F1 Qatar GP updates - FP1 | Live text
-2026-11-27 18:27:06,274 INFO Skipped (we already have this story): Marc Marquez opens up: These are the reasons behind his MotoGP retirement
-2026-11-27 18:27:06,313 INFO Skipped (pre-match piece, no previews): «Гронинген» – «Виллем II»: стартовые составы команд на матч Эредивизи Нидерландов, 27 ноября 2026 года
-2026-11-27 18:27:06,384 INFO Skipped (pre-match piece, no previews): Tennis: Spain completed the Davis Cup semifinal lineup / What the semifinals look like
-2026-11-27 18:27:06,511 INFO Skipped (we already have this story): Marc Marquez reveals double vision issues contributed to retirement
-2026-11-27 18:27:06,512 INFO Skipped (match still in progress, live update): Qatar GP: Hamilton stops late on, Gasly in wild exit in Antonelli-topped practice LIVE!
-2026-11-27 18:27:06,674 INFO Skipped (pre-match piece, no previews): Chelsea Starting XI vs Nottingham Forest: Confirmed Team News and Predicted Lineup
-2026-11-27 18:27:06,764 INFO Skipped (we already have this story): В Челябинске открыли набор волонтеров на чемпионат России по фигурному катанию
-2026-11-27 18:27:06,826 INFO Skipped (match still in progress, live update): Live: Дикиджи с Гуменником против Малинина, Петросян и Горбачева дерутся за подиум. Старт Гран-при Японии
-2026-11-27 18:27:07,070 INFO Skipped (we already have this story): Lionel Messi to play first match in Argentina since international retirement
-2026-11-27 18:27:07,131 INFO Skipped (pre-match piece, no previews): Kings of Leon complete star-studded line-up for Abu Dhabi GP
-2026-11-27 18:27:07,133 INFO Skipped (we already have this story): PEACH hosts the ITTF World Para Table Tennis Championships
-2026-11-27 18:27:07,155 INFO Skipped (pre-match piece, no previews): "We know how good he is" - Navajo Stirling Issues Preview of Carlos Prates vs. Michael Morales Fight
-2026-11-27 18:27:07,234 INFO Skipped (pre-match piece, no previews): «Динамо» — «Факел»: стартовые составы на кубковый матч
-2026-11-27 18:27:07,255 INFO Skipped (pre-match piece, no previews): «Смогу поучиться актерской игре у нападающего соперника». ЦСКА анонсировал матч с «Зенитом» стендапом Кругового
-2026-11-27 18:27:07,444 INFO Skipped (pre-match piece, no previews): Italy v Czechia: Preview
-2026-11-27 18:27:07,668 INFO Skipped (pre-match piece, no previews): Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview
-2026-11-27 18:27:07,751 INFO Skipped (pre-match piece, no previews): Bloober Team анонсировали дату релиза полного издания сурвайвал-хоррора Cronos: The New Dawn
-2026-11-27 18:27:07,795 INFO Skipped (pre-match piece, no previews): СКА против «Барыса», «Лада» примет «Локомотив». Превью 27 ноября: Новости
-2026-11-27 18:27:08,039 INFO Kept (result after our pre-event story): Flavio Cobolli claims he had one of his 'best performances' despite losing to the world number 139 in the Davis Cup
-2026-11-27 18:27:08,156 INFO Skipped (we already have this story): Svay Rieng make history against Japanese as Crown suffer heavy defeat in Malaysia
-2026-11-27 18:27:08,182 INFO Skipped (pre-match piece, no previews): Game Preview #20: Wolves vs Grizzlies Game Thread
-2026-11-27 18:27:08,320 INFO Skipped (we already have this story): Bearman to continue with Haas in 2027
-2026-11-27 18:27:08,680 INFO Skipped (pre-match piece, no previews): ФКС России анонсировала XI сезон Студенческой лиги — в программе CS2, Dota 2, StarCraft II и Tekken 8
-2026-11-27 18:27:08,730 INFO Skipped (we already have this story): Group G: Preah Khan Reach Svay Rieng FC (CAM) 2-0 FC Machida Zelvia (JPN)
-2026-11-27 18:27:08,876 INFO Skipped (we already have this story): «Хаас» продлил контракт с Берманом на сезон-2027
-2026-11-27 18:27:09,200 INFO Google News search                 1 items
-2026-11-27 18:27:09,200 INFO Skipped (only 1 outlet): Pelle Larsson on Sweden's bid to reach a first FIBA World Cup
-2026-11-27 18:27:09,499 INFO Google News search                 7 items
-2026-11-27 18:27:09,500 INFO Confirmed by 2+ outlets: 24 of 25 candidates (2 searches)
-2026-11-27 18:27:09,516 INFO Picked [global football 7.4 · 4 outlets] Arsenal head coach Slegers leaves by mutual consent
-2026-11-27 18:27:10,090 INFO Writing news (EN) ...
-2026-11-27 18:27:10,977 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-27 18:27:48,733 WARNING Story too close to its source (10% overlap, 18-word run) — rewriting
-2026-11-27 18:28:13,072 INFO Adapting to zh, ru ...
-2026-11-27 18:28:42,713 INFO Picked [sea football 5.8 · 2 outlets] FIBA Basketball World Cup 2027 Asian Qualifiers: Kai Sotto and debutant Bennie Boatwright shine in Philippines' win over Syria
-2026-11-27 18:28:42,713 INFO Writing news (EN) ...
-2026-11-27 18:29:35,287 INFO Adapting to zh, ru ...
-2026-11-27 18:30:09,464 INFO On this day 11-28: 1895 – The Chicago Times-Herald race, the first automobile race in the U.S., was held in Chicago. (global)
-2026-11-27 18:30:09,466 INFO Writing history (EN) ...
-2026-11-27 18:30:53,083 INFO Adapting to zh, ru ...
-2026-11-27 18:31:34,886 INFO Looking up photos for 2026-11-28-news-02e69a: ['Renée Slegers', 'Arsenal W.F.C.', 'Emirates Stadium', 'Renee Slegers', 'Melissa Clarke-Reed', "Aaron D'Antino"]
-2026-11-27 18:31:35,119 INFO Photo check 20241116-Renée_Slegers.jpg (Wikimedia Commons, 503x754): OK, licence 'CC BY-SA 4.0'
-2026-11-27 18:31:35,119 INFO Photo for 'Renée Slegers': 20241116-Renée_Slegers.jpg (Katie Chan, CC BY-SA 4.0)
-2026-11-27 18:31:35,755 INFO Photo check London_Emirates_Stadium_arsenal.jpg (Wikimedia Commons, 4241x3176): OK, licence 'CC BY-SA 3.0 de'
-2026-11-27 18:31:35,756 INFO Photo for 'Emirates Stadium': London_Emirates_Stadium_arsenal.jpg (Arne Müseler, CC BY-SA 3.0 de)
-2026-11-27 18:31:36,744 WARNING No free-licence photo for "Aaron D'Antino" (ACSC_Altona_City_Crest_Logo.png)
-2026-11-27 18:31:36,744 INFO Looking up photos for 2026-11-28-news-c2986b: ['Kai Sotto', 'Bennie Boatwright', "Philippines men's national basketball team", 'Tim Cone', 'Kevin Quiambao', 'Juan Gomez de Liaño']
-2026-11-27 18:31:36,929 INFO Photo check Kai_sotto_yokohama_b_corsairs_b_league.jpg (Wikimedia Commons, 634x1024): OK, licence 'CC0'
-2026-11-27 18:31:36,929 INFO Photo for 'Kai Sotto': Kai_sotto_yokohama_b_corsairs_b_league.jpg (Jericho Martinez, CC0)
-2026-11-27 18:31:37,114 INFO Photo check Bennie_Boatwright_2026.jpg (Wikimedia Commons, 1414x1768): OK, licence 'CC BY 4.0'
-2026-11-27 18:31:37,114 INFO Photo for 'Bennie Boatwright': Bennie_Boatwright_2026.jpg (MarcusAbacus, CC BY 4.0)
-2026-11-27 18:31:37,820 INFO Photo check Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg (Wikimedia Commons, 659x985): OK, licence 'Public domain'
-2026-11-27 18:31:37,820 INFO Photo for 'Tim Cone': Barangay_Ginebra_PBA_champions_victory_party_Tim_Cone(cropped).jpg (Jess Escaros for the Philippine News Age, Public domain)
-2026-11-27 18:31:37,976 INFO Match card added to 2026-11-28-news-c2986b
-2026-11-27 18:31:37,976 INFO Looking up photos for 2026-11-28-hist-4d4b27: ['Frank Duryea', 'Duryea Motor Wagon Company', 'Museum of Science and Industry (Chicago)', 'Karl Benz', 'Oscar B. Mueller', 'Charles Brady King']
-2026-11-27 18:31:38,170 INFO Photo check DuryeaBrothers.jpg (Wikimedia Commons, 518x466): OK, licence 'Public domain'
-2026-11-27 18:31:38,170 INFO Photo for 'Frank Duryea': DuryeaBrothers.jpg (Unknown author Unknown author, Public domain)
-2026-11-27 18:31:38,352 INFO Photo check Duryeaauto.png (Wikimedia Commons, 300x231): REFUSED, smaller than 400 px wide (licence 'Public domain' is fine)
-2026-11-27 18:31:38,352 WARNING No free-licence photo for 'Duryea Motor Wagon Company' (Duryeaauto.png)
-2026-11-27 18:31:38,558 INFO Photo check Museum_of_Science_and_Industry_(Chicago).jpg (Wikimedia Commons, 2397x1687): OK, licence 'CC BY 2.0'
-2026-11-27 18:31:38,559 INFO Photo for 'Museum of Science and Industry (Chicago)': Museum_of_Science_and_Industry_(Chicago).jpg (zooey from Chicago, Illinois USA, CC BY 2.0)
-2026-11-27 18:31:38,768 INFO Photo check Carl_Benz_circa_1920.jpg (Wikimedia Commons, 1536x2048): OK, licence 'Public domain'
-2026-11-27 18:31:38,768 INFO Photo for 'Karl Benz': Carl_Benz_circa_1920.jpg (Unknown (same photo credited to various , Public domain)
-2026-11-27 18:31:45,928 INFO Replaced 24 Google News links with the outlets' own links
-2026-11-27 18:31:52,966 INFO Photo check 2026-11-28-news-02e69a #1 'Renée Slegers': OK
-2026-11-27 18:31:58,894 INFO Photo check 2026-11-28-news-02e69a #2 'Emirates Stadium': OK
-2026-11-27 18:32:05,284 INFO Photo check 2026-11-28-news-c2986b #1 'Kai Sotto': OK
-2026-11-27 18:32:12,849 INFO Photo check 2026-11-28-news-c2986b #2 'Bennie Boatwright': OK
-2026-11-27 18:32:19,676 INFO Photo check 2026-11-28-news-c2986b #3 'Tim Cone': OK
-2026-11-27 18:32:26,584 INFO Photo check 2026-11-28-hist-4d4b27 #1 'J. Frank Duryea': OK
-2026-11-27 18:32:34,232 INFO Photo check 2026-11-28-hist-4d4b27 #2 'Museum of Science and Industry (Chicago)': OK
-2026-11-27 18:32:42,363 INFO Photo check 2026-11-28-hist-4d4b27 #3 'Carl Benz': WRONG — asked for 'Karl Benz' but the photo comes from the page 'Carl Benz'
-2026-11-27 18:32:42,523 INFO Drafts for review: 3 of 3 (others auto-rejected by the standards check)
-2026-11-27 18:32:42,644 INFO Wrote 3 new articles for 2026-11-28
-2026-11-27 18:32:42,753 INFO Exported 3 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-28
-2026-11-27 18:32:45,334 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
-2026-11-27 18:32:47,484 INFO Website built: 106 published stories, 366 pages
-2026-11-27 18:32:47,487 INFO Gemini today (2026-11-27, Pacific): gemini-3.8-flash 56 ok / 0 failed (111,474 in / 132,401 out tokens) · estimated cost if billed: US$0.580
+2026-11-28 08:37:35,233 INFO BBC Sport                         42 items
+2026-11-28 08:37:35,389 INFO The Guardian Sport                25 items
+2026-11-28 08:37:35,500 INFO ESPN                               0 items
+2026-11-28 08:37:35,687 INFO Sky Sports                        20 items
+2026-11-28 08:37:36,057 INFO Google News – Sports (EN)         54 items
+2026-11-28 08:37:36,725 INFO Google News – 体育 (ZH)             51 items
+2026-11-28 08:37:37,331 INFO Google News – Спорт (RU)          38 items
+2026-11-28 08:37:38,251 INFO Championat                        26 items
+2026-11-28 08:37:39,099 INFO Sports.ru                         13 items
+2026-11-28 08:37:40,703 INFO Спорт-Экспресс                   407 items
+2026-11-28 08:37:41,510 INFO РИА Новости Спорт                 20 items
+2026-11-28 08:37:42,467 INFO 中国新闻网 体育                          28 items
+2026-11-28 08:37:42,804 INFO Google News – Cambodia sport      10 items
+2026-11-28 08:37:43,361 INFO Google News – Southeast Asia sport  59 items
+2026-11-28 08:37:43,931 INFO Google News – Combat promotions   97 items
+2026-11-28 08:37:44,320 INFO Google News – Boxing              33 items
+2026-11-28 08:37:44,538 INFO Google News – Kun Khmer            2 items
+2026-11-28 08:37:44,736 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-28 08:37:45,269 INFO Google News – Единоборства (RU)   98 items
+2026-11-28 08:37:45,640 INFO Google News – 格斗 (ZH)             38 items
+2026-11-28 08:37:45,879 INFO MMA Fighting                      10 items
+2026-11-28 08:37:46,116 INFO Google News – Khmer Times sport    8 items
+2026-11-28 08:37:46,213 INFO BBC Sport – Tennis                 1 items
+2026-11-28 08:37:46,399 INFO BBC Sport – Formula 1              2 items
+2026-11-28 08:37:46,564 INFO BBC Sport – Cricket                8 items
+2026-11-28 08:37:46,788 INFO BBC Sport – Boxing                 3 items
+2026-11-28 08:37:46,994 INFO BBC Sport – Athletics              0 items
+2026-11-28 08:37:47,057 INFO The Guardian – Tennis              1 items
+2026-11-28 08:37:47,120 INFO The Guardian – Formula 1           1 items
+2026-11-28 08:37:47,191 INFO The Guardian – Cricket             7 items
+2026-11-28 08:37:47,330 INFO Sherdog                            8 items
+2026-11-28 08:37:47,408 INFO Sky Sports – Football             19 items
+2026-11-28 08:37:48,412 INFO Чемпионат – Теннис                31 items
+2026-11-28 08:37:49,166 INFO Чемпионат – Хоккей                26 items
+2026-11-28 08:37:49,264 INFO MMA Fighting – latest             10 items
+2026-11-28 08:37:49,487 INFO BBC Sport – Football              39 items
+2026-11-28 08:37:49,647 INFO The Guardian – Football           19 items
+2026-11-28 08:37:50,144 INFO Yahoo Sports – Soccer             48 items
+2026-11-28 08:37:50,786 INFO Yahoo Sports – MMA                50 items
+2026-11-28 08:37:51,273 INFO Yahoo Sports – Tennis             48 items
+2026-11-28 08:37:51,760 INFO Yahoo Sports – NBA                44 items
+2026-11-28 08:37:51,985 INFO The Independent – Sport           41 items
+2026-11-28 08:37:52,539 INFO Google News – Tennis              84 items
+2026-11-28 08:37:53,041 INFO Google News – Basketball          99 items
+2026-11-28 08:37:53,599 INFO Google News – Motorsport          89 items
+2026-11-28 08:37:54,053 INFO Google News – Badminton, athletics, table tennis  65 items
+2026-11-28 08:37:54,548 INFO Google News – Cricket             93 items
+2026-11-28 08:37:55,073 INFO Google News – 网球与篮球 (ZH)          91 items
+2026-11-28 08:37:55,476 INFO Google News – 羽毛球与乒乓 (ZH)         75 items
+2026-11-28 08:37:56,019 INFO Google News – Теннис и баскетбол (RU)  99 items
+2026-11-28 08:37:56,521 INFO Google News – Формула-1 и биатлон (RU)  78 items
+2026-11-28 08:37:59,792 INFO Candidate stories after clustering: 1770
+2026-11-28 08:37:59,980 INFO Skipped (we already have this story): Head coach Slegers leaves Arsenal 18 months after Champions League win
+2026-11-28 08:38:00,228 INFO Skipped (pre-match piece, no previews): Mirra Andreeva’s Grand Slam total for 2027 has already been predicted, ‘I would be surprised’
+2026-11-28 08:38:00,240 INFO Skipped (we already have this story): Marc Marquez stuns MotoGP with retirement announcement
+2026-11-28 08:38:00,303 INFO Skipped (we already have this story): [Breaking News] Marc Marquez announces his retirement from MotoGP after the 2026 season! Who will be the next rider!?
+2026-11-28 08:38:00,345 INFO Skipped (we already have this story): Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title
+2026-11-28 08:38:00,507 INFO Skipped (we already have this story): Southeast Asian media mentions 5 goals of U17 Vietnam at the World Cup
+2026-11-28 08:38:00,592 INFO Skipped (we already have this story): Marc Marquez kicks off retirement tour with a new lap record
+2026-11-28 08:38:00,991 INFO Kept (result after our pre-event story): Jannik Sinner to miss Australian Open: Former world No 1 won't play first Grand Slam of 2027 after knee surgery
+2026-11-28 08:38:01,248 INFO Skipped (we already have this story): David Ferrer suggests what Great Britain are the best in the world at ahead of Davis Cup semi-final
+2026-11-28 08:38:01,348 INFO Skipped (we already have this story): Marc Marquez feels "free", Alex’s Catalunya crash a factor in MotoGP retirement decision
+2026-11-28 08:38:01,394 INFO Skipped (pre-match piece, no previews): Fiery Hamilton-Leclerc lineup casts doubt on Ferrari functioning in a title fight
+2026-11-28 08:38:01,436 INFO Skipped (pre-match piece, no previews): Great Britain v Spain: Preview
+2026-11-28 08:38:01,458 INFO Skipped (pre-match piece, no previews): «Зенит» в Москве «Спартак» в Воронеже и южное дерби: анонс 16-го тура РПЛ
+2026-11-28 08:38:01,510 INFO Skipped (pre-match piece, no previews): UFC 333 Preview | HQ UFC
+2026-11-28 08:38:01,575 INFO Skipped (pre-match piece, no previews): Week 12 Fantasy Football Start 'Em, Sit 'Em: Justin Boone's lineup advice
+2026-11-28 08:38:01,781 INFO Skipped (match still in progress, live update): Гол на 82-й минуте лишил беттора выигрыша в 4,3 миллиона рублей
+2026-11-28 08:38:02,043 INFO Skipped (match still in progress, live update): Live: россиянин Дикиджи раскапывает самого себя в Японии, Горбачева идет на дебютный подиум. Финал NHK Trophy 2026
+2026-11-28 08:38:02,167 INFO Skipped (pre-match piece, no previews): Houston Rockets vs. Philadelphia 76ers game preview
+2026-11-28 08:38:02,539 INFO Skipped (match still in progress, live update): Rivalry Week live: Top plays and playoff analysis
+2026-11-28 08:38:02,966 INFO Skipped (we already have this story): Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results
+2026-11-28 08:38:02,986 INFO Skipped (we already have this story): Sports world reacts to Marc Marquez shock MotoGP retirement
+2026-11-28 08:38:03,095 INFO Skipped (we already have this story): End of an era as Marquez announces shock retirement after eighth MotoGP title
+2026-11-28 08:38:03,297 INFO Skipped (we already have this story): PEACH hosts the ITTF World Para Table Tennis Championships
+2026-11-28 08:38:03,410 INFO Skipped (we already have this story): Marc Marquez reveals double vision issues contributed to retirement
+2026-11-28 08:38:03,419 INFO Skipped (pre-match piece, no previews): Czechia v Canada: Preview
+2026-11-28 08:38:03,453 INFO Skipped (pre-match piece, no previews): Jumbo Package: Iron Bowl previews, Black Friday open thread
+2026-11-28 08:38:03,678 INFO Skipped (we already have this story): Lionel Messi to play first match in Argentina since international retirement
+2026-11-28 08:38:03,827 INFO Skipped (pre-match piece, no previews): Italy v Czechia: Preview
+2026-11-28 08:38:03,916 INFO Skipped (pre-match piece, no previews): Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview
+2026-11-28 08:38:03,955 INFO Skipped (pre-match piece, no previews): Bloober Team анонсировали дату релиза полного издания сурвайвал-хоррора Cronos: The New Dawn
+2026-11-28 08:38:04,064 INFO Skipped (we already have this story): Svay Rieng make history against Japanese as Crown suffer heavy defeat in Malaysia
+2026-11-28 08:38:04,107 INFO Skipped (pre-match piece, no previews): 欧联赛前球迷冲突 保加利亚球场11人受伤
+2026-11-28 08:38:04,456 INFO Google News search                 5 items
+2026-11-28 08:38:04,456 INFO Skipped (same event as a stronger story): Holders Italy edge out Czechs to reach Davis Cup final again
+2026-11-28 08:38:04,823 INFO Google News search                52 items
+2026-11-28 08:38:04,824 INFO Skipped (same event as a stronger story): Manchester United v Brentford buildup, Premier League news and more – matchday live
+2026-11-28 08:38:05,350 INFO Google News search                99 items
+2026-11-28 08:38:05,351 INFO Confirmed by 2+ outlets: 23 of 25 candidates (3 searches)
+2026-11-28 08:38:05,365 INFO Picked [global combat 7.3 · 6 outlets] Cody Garbrandt Confirms UFC Retirement Fight Set to Happen at Cleveland
+2026-11-28 08:38:05,366 INFO Writing news (EN) ...
+2026-11-28 08:38:05,997 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-28 08:38:45,760 INFO Adapting to zh, ru ...
+2026-11-28 08:39:16,081 INFO Picked [global football 7.2 · 3 outlets] USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador
+2026-11-28 08:39:16,236 INFO Writing news (EN) ...
+2026-11-28 08:40:10,633 INFO Adapting to zh, ru ...
+2026-11-28 08:40:46,537 INFO History story for 2026-11-28 already written (2026-11-28-hist-4d4b27): not repeated
+2026-11-28 08:40:46,544 INFO Looking up photos for 2026-11-28-news-276d13: ['Cody Garbrandt', 'Dominick Cruz', 'Rocket Mortgage FieldHouse', 'Ultimate Fighting Championship', 'T.J. Dillashaw', 'Adrian Yanez']
+2026-11-28 08:40:47,552 INFO Photo check Cody_Garbrandt.png (Wikimedia Commons, 363x450): REFUSED, smaller than 400 px wide (licence 'CC BY 3.0' is fine)
+2026-11-28 08:40:47,552 WARNING No free-licence photo for 'Cody Garbrandt' (Cody_Garbrandt.png)
+2026-11-28 08:40:47,664 INFO Photo check Dom_Cruz_2.png (Wikimedia Commons, 410x553): OK, licence 'Public domain'
+2026-11-28 08:40:47,665 INFO Photo for 'Dominick Cruz': Dom_Cruz_2.png (James K. McCann, Public domain)
+2026-11-28 08:40:47,767 INFO Photo check Rocket_Mortgage_FieldHouse_2022_(cropped).png (Wikimedia Commons, 2770x1893): OK, licence 'CC BY-SA 4.0'
+2026-11-28 08:40:47,767 INFO Photo for 'Rocket Mortgage FieldHouse': Rocket_Mortgage_FieldHouse_2022_(cropped).png (Cards84664, CC BY-SA 4.0)
+2026-11-28 08:40:47,813 WARNING No free-licence photo for 'Ultimate Fighting Championship' (UFC_Logo.svg)
+2026-11-28 08:40:47,927 INFO Photo check TJ_Dillashaw.png (Wikimedia Commons, 652x844): OK, licence 'CC BY 3.0'
+2026-11-28 08:40:47,927 INFO Photo for 'T.J. Dillashaw': TJ_Dillashaw.png (K.O. Artist Sports, CC BY 3.0)
+2026-11-28 08:40:47,927 INFO Looking up photos for 2026-11-28-news-80638d: ['Ashley Sanchez', 'Emma Hayes', "United States women's national soccer team", 'Mallory Swanson', 'Kennedy Wesley', 'Tierna Davidson']
+2026-11-28 08:40:48,036 INFO Photo check Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg (Wikimedia Commons, 3159x4210): OK, licence 'CC BY-SA 4.0'
+2026-11-28 08:40:48,036 INFO Photo for 'Ashley Sanchez': Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg (Bryan Berlin, CC BY-SA 4.0)
+2026-11-28 08:40:48,159 INFO Photo check Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg (Wikimedia Commons, 3031x4039): OK, licence 'CC BY-SA 4.0'
+2026-11-28 08:40:48,159 INFO Photo for 'Emma Hayes': Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg (Bryan Berlin, CC BY-SA 4.0)
+2026-11-28 08:40:48,212 WARNING No free-licence photo for "United States women's national soccer team" (United_States_women's_national_soccer_team_logo.svg)
+2026-11-28 08:40:48,339 INFO Photo check Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg (Wikimedia Commons, 1744x2615): OK, licence 'CC BY-SA 4.0'
+2026-11-28 08:40:48,339 INFO Photo for 'Mallory Swanson': Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg (Bryan Berlin, CC BY-SA 4.0)
+2026-11-28 08:40:48,429 INFO Match card added to 2026-11-28-news-80638d
+2026-11-28 08:40:53,760 INFO Replaced 12 Google News links with the outlets' own links
+2026-11-28 08:40:59,711 INFO Photo check 2026-11-28-news-276d13 #1 'Dominick Cruz': OK
+2026-11-28 08:41:06,597 INFO Photo check 2026-11-28-news-276d13 #2 'Rocket Arena': WRONG — asked for 'Rocket Mortgage FieldHouse' but the photo comes from the page 'Rocket Arena'
+2026-11-28 08:41:13,203 INFO Photo check 2026-11-28-news-276d13 #3 'T.J. Dillashaw': OK
+2026-11-28 08:41:20,391 INFO Photo check 2026-11-28-news-80638d #1 'Ashley Sanchez': OK
+2026-11-28 08:41:27,355 INFO Photo check 2026-11-28-news-80638d #2 'Emma Hayes': OK
+2026-11-28 08:41:39,720 INFO Photo check 2026-11-28-news-80638d #3 'Mallory Swanson': OK
+2026-11-28 08:41:39,857 INFO Drafts for review: 2 of 2 (others auto-rejected by the standards check)
+2026-11-28 08:41:39,973 INFO Wrote 2 new articles for 2026-11-28
+2026-11-28 08:41:40,148 INFO Exported 5 articles to /home/runner/work/bang-sport-daily/bang-sport-daily/output/2026-11-28
+2026-11-28 08:41:41,767 INFO Email digest skipped (SMTP_USER / SMTP_PASS / EMAIL_TO not set)
+2026-11-28 08:41:43,944 INFO Website built: 108 published stories, 375 pages
+2026-11-28 08:41:43,947 INFO Gemini today (2026-11-28, Pacific): gemini-3.8-flash 10 ok / 0 failed (17,568 in / 16,738 out tokens) · estimated cost if billed: US$0.076
