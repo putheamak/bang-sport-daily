@@ -871,7 +871,7 @@
     "date": "2026-11-28",
     "created": "2026-11-28T15:40:46+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Football",
     "tags": [
@@ -935,7 +935,20 @@
         "url": "https://www.goal.com/en/lists/uswnt-player-ratings-vs-el-salvador-ashley-sanchez-steals-the-show-with-hat-trick-as-americans-clinch-2027-world-cup-berth/blt9d69bfba4893b883"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T22:43:26+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T22:43:27+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T22:43:27+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.0,
       "longest": 0,
@@ -1047,7 +1060,8 @@
     ],
     "standards": [],
     "updated_at": "2026-11-28T22:36:24+07:00",
-    "translated_at": "2026-11-28T22:36:24+07:00"
+    "translated_at": "2026-11-28T22:36:24+07:00",
+    "published_at": "2026-11-28T22:43:27+07:00"
   },
   {
     "id": "2026-11-28-news-276d13",

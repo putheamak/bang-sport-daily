@@ -4,31 +4,6 @@ Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
 
-## 📝 DRAFT · Ashley Sanchez Hat-Trick as USWNT Beat El Salvador 8-0 to Reach 2027 World Cup
-`2026-11-28-news-80638d` · 2026-11-28
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg/1280px-Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Ashley Sanchez**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg)<br>AI sees: _Ashley Sanchez in a North Carolina Courage soccer kit_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg/1280px-Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Emma Hayes**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg)<br>AI sees: _Emma Hayes smiling in US team jacket_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg/1280px-Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Mallory Swanson**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg)<br>AI sees: _Mallory Swanson in a Chicago Stars FC soccer kit_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-28-news-80638d.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **United States 8 - 0 El Salvador · Concacaf W Championship**<br>2026 · Own work
-<br clear="left">
-
----
-
 ## 📝 DRAFT · From High School Cut to Global Icon: The Life and Legacy of Michael Jordan
 `2026-11-27-athl-5e9dcf` · 2026-11-27
 
@@ -60,6 +35,31 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-28-news-c2986b.png" width="240" align="left" hspace="10">
 
 **4. 🟢 our score card**<br>Caption: **Syria 58 - 97 Philippines · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## ✅ live · Ashley Sanchez Hat-Trick as USWNT Beat El Salvador 8-0 to Reach 2027 World Cup
+`2026-11-28-news-80638d` · 2026-11-28
+
+<img src="../docs/photos/c/2c810560232dc0e3-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Ashley Sanchez**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Ashley_Sanchez_Gotham_NC_Courage_Mar_21_2026-63_(cropped).jpg)<br>AI sees: _Ashley Sanchez in a North Carolina Courage soccer kit_
+<br clear="left">
+
+<img src="../docs/photos/c/11cf8a58f7f8a30b-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Emma Hayes**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Emma_Hayes_USWNT_v_Colombia_Mar_7_2026-68_(cropped).jpg)<br>AI sees: _Emma Hayes smiling in US team jacket_
+<br clear="left">
+
+<img src="../docs/photos/c/80dab16fc63243ce-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Mallory Swanson**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mallory_Swanson_Gotham_v_Chicago_25_September_2026-056_(cropped).jpg)<br>AI sees: _Mallory Swanson in a Chicago Stars FC soccer kit_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-28-news-80638d.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **United States 8 - 0 El Salvador · Concacaf W Championship**<br>2026 · Own work
 <br clear="left">
 
 ---
