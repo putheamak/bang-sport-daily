@@ -1,8 +1,63 @@
-# Photo review — 2026-11-28
+# Photo review — 2026-11-29
 
-Drafts and stories published in the last 3 days. **🔴 wrong: 0 · 🟠 to look at: 1**
+Drafts and stories published in the last 3 days. **🔴 wrong: 2 · 🟠 to look at: 1**
 
 How to use (about a minute): look at each picture next to its caption. 🔴 photos block publishing. To remove or replace a photo, add the story ID to `photos.yaml` (examples at the top of that file), or tell Claude the story ID and which photo is wrong. Official Instagram/Facebook posts can be added with `embed:` lines in `photos.yaml`.
+
+## 📝 DRAFT · Spurs Overcome 20-Point Deficit to Beat Lakers 99-96 in NBA Cup
+`2026-11-29-news-d42b7a` · 2026-11-29
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Victor_Wembanyama_San_Antonio_Spurs_2024.jpg/1280px-Victor_Wembanyama_San_Antonio_Spurs_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Victor Wembanyama**<br>2024 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Victor_Wembanyama_San_Antonio_Spurs_2024.jpg)<br>AI sees: _Victor Wembanyama wearing a San Antonio Spurs jersey_
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Stephon_Castle_in_2026_Western_Conference_Finals_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**2. 🔴 WRONG**<br>Caption: **Stephon Castle**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Stephon_Castle_in_2026_Western_Conference_Finals_(cropped).jpg)<br>AI sees: _Dejounte Murray playing for the San Antonio Spurs_<br>Why: The photo shows former Spurs player Dejounte Murray wearing jersey number 5, not Stephon Castle.
+<br clear="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Luka_Don%C4%8Di%C4%87_and_Marines%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Luka Dončić**<br>2026 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Luka_Don%C4%8Di%C4%87_and_Marines,_2026_(cropped).jpg)<br>AI sees: _Luka Dončić wearing a Jordan baseball cap and white shirt_
+<br clear="left">
+
+<img src="../docs/photos/card-2026-11-29-news-d42b7a.png" width="240" align="left" hspace="10">
+
+**4. 🟢 our score card**<br>Caption: **San Antonio Spurs 99 - 96 Los Angeles Lakers · NBA Cup**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## 📝 DRAFT · Maria Wophill Named 2026 World Athletics Woman of the Year
+`2026-11-29-news-7bab33` · 2026-11-29
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Lord_Coe_-_World_Economic_Forum_Annual_Meeting_2012_cropped.jpg/1280px-Lord_Coe_-_World_Economic_Forum_Annual_Meeting_2012_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Sebastian Coe**<br>2012 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lord_Coe_-_World_Economic_Forum_Annual_Meeting_2012_cropped.jpg)<br>AI sees: _Sebastian Coe speaking at a conference_
+<br clear="left">
+
+---
+
+## 📝 DRAFT · From Foster Care to Paris Gold: The Extraordinary Life of Simone Biles
+`2026-11-29-athl-86ac4f` · 2026-11-29
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/1280px-Simone_Biles_National_Team_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Simone Biles**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Simone_Biles_National_Team_2024.jpg)<br>AI sees: _gymnast Simone Biles wearing a red Team USA jacket_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Jonathan_Owens_%28cropped%29.jpg/1280px-Jonathan_Owens_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Jonathan Owens**<br>2022 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Jonathan_Owens_(cropped).jpg)<br>AI sees: _Houston Texans player Jonathan Owens in action during an NFL game_
+<br clear="left">
+
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Esplanade_Palais_Omnisports_Paris_Bercy_-_Paris_XII_%28FR75%29_-_2026-08-18_-_1.jpg/1280px-Esplanade_Palais_Omnisports_Paris_Bercy_-_Paris_XII_%28FR75%29_-_2026-08-18_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
+
+**3. 🔴 WRONG**<br>Caption: **Accor Arena**<br>Asked for: Bercy Arena → got page: Accor Arena<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Esplanade_Palais_Omnisports_Paris_Bercy_-_Paris_XII_(FR75)_-_2026-08-18_-_1.jpg)<br>AI sees: _Exterior of the Accor Arena in Paris with grass-covered sloping walls_<br>Why: The image clearly shows the exterior of the Accor Arena (Bercy), the Paris 2024 gymnastics venue.<br>⚑ asked for 'Bercy Arena' but the photo comes from the page 'Accor Arena'
+<br clear="left">
+
+---
 
 ## 📝 DRAFT · From High School Cut to Global Icon: The Life and Legacy of Michael Jordan
 `2026-11-27-athl-5e9dcf` · 2026-11-27
@@ -359,192 +414,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 **3. 🟢 OK**<br>Caption: **Frank Nighbor**<br>2018 · Public domain · [source](https://commons.wikimedia.org/wiki/File:Frank_Nighbor,_Vancouver_Millionaires.jpg)<br>AI sees: _Frank Nighbor in a Vancouver Millionaires hockey jersey_
 <br clear="left">
-
----
-
-## ✅ live · Lehecka and Machac Sweep Canada to Send Czechia Into Davis Cup Semi-Finals
-`2026-11-25-news-f7a857` · 2026-11-25
-
-<img src="../docs/photos/c/69fadbac68cd054b-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jiří Lehečka**<br>2023 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Lehecka_MCM23_(5)_(52883527310).jpg)<br>AI sees: _Jiří Lehečka playing tennis_
-<br clear="left">
-
-<img src="../docs/photos/c/c77b6d817965a74a-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Félix Auger-Aliassime**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Auger-Aliassime_(2023_DC_Open)_01_(cropped).jpg)<br>AI sees: _portrait of tennis player Félix Auger-Aliassime_
-<br clear="left">
-
-<img src="../docs/photos/c/e0390f377d5828c7-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Tomáš Macháč**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tom%C3%A1%C5%A1_Mach%C3%A1%C4%8D_(2023_US_Open)_06.jpg)<br>AI sees: _Czech tennis player Tomáš Macháč smiling after a match_
-<br clear="left">
-
----
-
-## ✅ live · Arthur Rinderknech Denies ITIA Anti-Doping Charge Over Alleged Test Refusal
-`2026-11-25-news-e226ae` · 2026-11-25
-
-<img src="../docs/photos/c/015107637a1d59e0-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Arthur Rinderknech**<br>2022 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Rinderknech_MCM22_(16)_(52036912945).jpg)<br>AI sees: _Arthur Rinderknech playing tennis on a clay court_
-<br clear="left">
-
-<img src="../docs/photos/c/0151cc1780b28d43-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Markéta Vondroušová**<br>2023 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1_(2023_US_Open)_14.jpg)<br>AI sees: _Markéta Vondroušová on a tennis court_
-<br clear="left">
-
-<img src="../docs/photos/c/151e9c2943f634a0-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Valentin Vacherot**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Valentin_Vacherot_Swiss_Indoors_2026_(cropped).jpg)<br>AI sees: _tennis player Valentin Vacherot holding a trophy_
-<br clear="left">
-
----
-
-## ✅ live · Kamila Valieva Ruled Out of Russian Figure Skating Championships in Chelyabinsk
-`2026-11-25-news-d8cd04` · 2026-11-25
-
-<img src="../docs/photos/c/63fe3a9ea8140a5c-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Kamila Valieva**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Kamila_Valieva_-_2023_Russian_GP_Stage_4_-_06_(cropped).jpg)<br>AI sees: _Kamila Valieva figure skating in a red dress on ice_
-<br clear="left">
-
-<img src="../docs/photos/c/78b89c84c0cf0531-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Eteri Tutberidze**<br>2025 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Eteri_Tutberidze_at_2025_Skate_Canada_International.jpg)<br>AI sees: _figure skating coach Eteri Tutberidze standing by the rink boards_
-<br clear="left">
-
-<img src="../docs/photos/c/621d546e9a01c3bf-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Chelyabinsk**<br>2018 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Saint_Alexander_Nevsky_Church_(Chelyabinsk).jpg)<br>AI sees: _Saint Alexander Nevsky Church in Chelyabinsk_
-<br clear="left">
-
----
-
-## ✅ live · Jayson Tatum Pours in 41 Points as Celtics Hold Off Wizards 131-116 to Snap Four-Game Skid
-`2026-11-25-news-c4f690` · 2026-11-25
-
-<img src="../docs/photos/c/29751c2a230f308a-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Jayson Tatum**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Celtics_at_Wizards_2024-12-044_(cropped_2).jpg)<br>AI sees: _Boston Celtics player Jayson Tatum wearing jersey number 0_
-<br clear="left">
-
-<img src="../docs/photos/c/352417d293511db9-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Paul George**<br>2026 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:1_paul_george_2026_(cropped)_(cropped).jpg)<br>AI sees: _Paul George in a Philadelphia 76ers jersey_
-<br clear="left">
-
-<img src="../docs/photos/c/b95fb43bfca6df76-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Anthony Davis**<br>2022 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Anthony_Davis_pre-game_(cropped).jpg)<br>AI sees: _Anthony Davis in a Lakers hoodie holding a basketball_
-<br clear="left">
-
-<img src="../docs/photos/card-2026-11-25-news-c4f690.png" width="240" align="left" hspace="10">
-
-**4. 🟢 our score card**<br>Caption: **Washington Wizards 116 - 131 Boston Celtics · NBA Cup**<br>2026 · Own work
-<br clear="left">
-
----
-
-## ✅ live · Bojan Hodak Appointed Malaysia Head Coach as Harimau Malaya Reorganise
-`2026-11-25-news-b8d792` · 2026-11-25
-
-<img src="../docs/photos/c/574614fc67b29823-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Bojan Hodak**<br>2014 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:BojanHodak2014.jpg)<br>AI sees: _Bojan Hodak speaking at a football press conference_
-<br clear="left">
-
-<img src="../docs/photos/c/f644b7211351a2c7-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Tan Cheng Hoe**<br>2014 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Tan_Cheng_Hoe_2014.png)<br>AI sees: _Tan Cheng Hoe wearing a Kedah football team polo shirt_
-<br clear="left">
-
----
-
-## ✅ live · Former Singapore Captain Rosnani Azman Retires from International Football
-`2026-11-25-news-4afcf1` · 2026-11-25
-
-<img src="../docs/photos/own-2026-11-25-news-4afcf1.png" width="240" align="left" hspace="10">
-
-**1. ⚪ not checked** · cover<br>Caption: **Rosnani Azman retires from international football: 58 caps, captain from 2023**<br>2026 · Own work
-<br clear="left">
-
-🔗 Embedded post: [Football Association of Singapore (official Instagram)](https://www.instagram.com/p/DgKX2DyGaqc/) — {'en': "FAS announces Rosnani Azman's retirement from international football", 'zh': '新加坡足球总会宣布罗斯娜妮退出国家队', 'ru': 'Футбольная ассоциация Сингапура объявляет о завершении международной карьеры Роснани Азман'}
-
----
-
-## ✅ live · Joseph Schooling's Journey: From Childhood Dream to Singapore's First Olympic Gold
-`2026-11-25-athl-f4dbe9` · 2026-11-25
-
-<img src="../docs/photos/c/3d5b8b958d1f4412-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Joseph Schooling**<br>2015 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Joseph_Schooling_Kazan_2015.jpg)<br>AI sees: _Joseph Schooling on the podium holding his medal at a swimming competition_
-<br clear="left">
-
-<img src="../docs/photos/c/9fcb32d56ad5f273-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Michael Phelps**<br>2016 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg)<br>AI sees: _Michael Phelps smiling during an interview or event_
-<br clear="left">
-
-<img src="../docs/photos/c/92ae5a416195c270-640.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **The Bolles School**<br>Asked for: Bolles School → got page: The Bolles School<br>2011 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Jax_FL_7356_San_Jose_Blvd_House_Bolles_School_stone01.jpg)<br>AI sees: _A stone crest of The Bolles School mounted on a stucco wall_
-<br clear="left">
-
----
-
-## ✅ live · From a Sweet Factory Court to Badminton History: The Life of Ratchanok Intanon
-`2026-11-25-athl-a5a295` · 2026-11-25
-
-<img src="../docs/photos/c/8c64691398572ee1.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Ratchanok Intanon**<br>2025 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Ratchanok_Intanon_Indonesia_Masters_2025.jpg)<br>AI sees: _Ratchanok Intanon holding a badminton tournament gold medal_
-<br clear="left">
-
-<img src="../docs/photos/c/53e2bd531c1b4429-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Li Xuerui**<br>2012 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Li_Xuerui_2012_(portrait).jpg)<br>AI sees: _Chinese badminton player Li Xuerui at London 2012_
-<br clear="left">
-
-<img src="../docs/photos/c/635ee903c88b1ff6.jpg" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Tai Tzu-ying**<br>2024 · CC BY 2.0 · [source](https://commons.wikimedia.org/wiki/File:Tai_Tzu-ying_in_2024.jpg)<br>AI sees: _Badminton player Tai Tzu-ying holding a framed certificate_
-<br clear="left">
-
----
-
-## ✅ live · From Heartbreak in London to History in Rio: The Life of Hoang Xuan Vinh
-`2026-11-25-athl-9fb3af` · 2026-11-25
-
-<img src="../docs/photos/c/7e759887a94d561b-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Hoàng Xuân Vinh**<br>2016 · CC BY 3.0 br · [source](https://commons.wikimedia.org/wiki/File:Hoang_Xuan_Vinh.jpg)<br>AI sees: _Hoàng Xuân Vinh holding his Rio 2016 Olympic gold medal_
-<br clear="left">
-
-<img src="../docs/photos/c/0f6b87b2254ce0c3-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Shooting at the 2016 Summer Olympics – Men's 10 metre air pistol**<br>2016 · CC BY 3.0 br · [source](https://commons.wikimedia.org/wiki/File:Rio2016_julho_ZonaB_Deodoro_004_8180_-c-2016_GabrielHeusi_HeusiAction.jpg)<br>AI sees: _Aerial view of the National Shooting Center in Deodoro, Rio de Janeiro_
-<br clear="left">
-
----
-
-## ✅ live · Chan Vathanaka: The Kampot Prodigy Who Put Cambodian Football on the Regional Map
-`2026-11-25-athl-077aa4` · 2026-11-25
-
-<img src="../docs/photos/c/572469dd503648f8-640.jpg" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Chan Vathanaka**<br>2013 · CC BY-SA 3.0 · [source](https://commons.wikimedia.org/wiki/File:Chan_vathanaka_2013-11-04_11-18.jpg)<br>AI sees: _Chan Vathanaka holding a Golden Boot trophy on a football pitch_
-<br clear="left">
-
-<img src="../docs/photos/c/084285315a90c207-640.jpg" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Olympic Stadium (Phnom Penh)**<br>Asked for: Phnom Penh Olympic Stadium → got page: Olympic Stadium (Phnom Penh)<br>2023 · CC BY 3.0 · [source](https://commons.wikimedia.org/wiki/File:Olympic_Stadium_Phnom_Penh_SG2023.png)<br>AI sees: _Olympic Stadium in Phnom Penh during the 2023 SEA Games final_
-<br clear="left">
-
-🔗 Embedded post: [Cambodian Premier League (@the_official_cpl)](https://www.instagram.com/p/DdeH7JXgVxy/) — {'en': 'Chan Vathanaka in an official Cambodian Premier League post', 'zh': '柬埔寨超级联赛官方帖子中的占·瓦塔纳卡', 'ru': 'Чан Ватанака в официальной публикации Камбоджийской Премьер-лиги'}
-
-🔗 Embedded post: [Boeung Ket Football Club (official Facebook page)](https://www.facebook.com/reel/1012398621820953/) — {'en': 'Boeung Ket welcome Chan Vathanaka back to the pitch (19 September 2026)', 'zh': '万吉俱乐部欢迎占·瓦塔纳卡重返赛场（2026年9月19日）', 'ru': '«Боэнг Кет» приветствует возвращение Чан Ватанаки на поле (19 сентября 2026 года)'}
 
 ---
 
