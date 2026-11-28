@@ -1617,7 +1617,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T15:42:37+07:00",
     "type": "athlete_story",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Ice hockey",
     "tags": [
@@ -1673,7 +1673,20 @@
         "url": "https://en.wikipedia.org/wiki/Alexander_Ovechkin"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T14:27:26+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T14:27:27+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T14:27:27+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.009,
       "longest": 12,
@@ -1782,7 +1795,8 @@
       }
     ],
     "updated_at": "2026-11-28T13:39:44+07:00",
-    "translated_at": "2026-11-28T13:39:44+07:00"
+    "translated_at": "2026-11-28T13:39:44+07:00",
+    "published_at": "2026-11-28T14:27:27+07:00"
   },
   {
     "id": "2026-11-27-news-67c902",
@@ -1790,7 +1804,7 @@
     "date": "2026-11-27",
     "created": "2026-11-27T15:40:48+07:00",
     "type": "news",
-    "status": "draft",
+    "status": "published",
     "model": "gemini-3.8-flash",
     "sport": "Cricket",
     "tags": [
@@ -1837,7 +1851,20 @@
         "url": "https://ministryofsport.com/united-states-and-west-indies-lined-up-to-co-host-2034-icc-mens-t20-world-cup/"
       }
     ],
-    "published_to": [],
+    "published_to": [
+      {
+        "channel": "telegram-en",
+        "at": "2026-11-28T14:27:28+07:00"
+      },
+      {
+        "channel": "telegram-zh",
+        "at": "2026-11-28T14:27:29+07:00"
+      },
+      {
+        "channel": "telegram-ru",
+        "at": "2026-11-28T14:27:30+07:00"
+      }
+    ],
     "originality": {
       "overlap": 0.002,
       "longest": 8,
@@ -1941,7 +1968,8 @@
     "standards": [],
     "updated_at": "2026-11-28T13:40:14+07:00",
     "translated_at": "2026-11-28T13:40:14+07:00",
-    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup\", \"wikipedia\": \"Oakland Coliseum\"}, {\"caption\": \"The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup\", \"wikipedia\": \"Nassau County International Cricket Stadium\"}]}"
+    "photos_override": "{\"mode\": \"add\", \"photos\": [{\"caption\": \"The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup\", \"wikipedia\": \"Oakland Coliseum\"}, {\"caption\": \"The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup\", \"wikipedia\": \"Nassau County International Cricket Stadium\"}]}",
+    "published_at": "2026-11-28T14:27:30+07:00"
   },
   {
     "id": "2026-11-27-news-33c855",

@@ -64,26 +64,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 
 ---
 
-## 📝 DRAFT · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
-`2026-11-27-news-67c902` · 2026-11-27
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Oakland_Coliseum_from_above_2024.png/1280px-Oakland_Coliseum_from_above_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup**<br>2024 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Oakland_Coliseum_from_above_2024.png)<br>AI sees: _Aerial view of Oakland Coliseum baseball stadium_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA_%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%89_%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA_%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%89_%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.jpg)<br>AI sees: _A cricket match at Nassau County International Cricket Stadium during the 2024 T20 World Cup_
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Grand_Prairie_Stadium_seating%2C_April_2024.jpg/1280px-Grand_Prairie_Stadium_seating%2C_April_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Grand Prairie Stadium**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Grand_Prairie_Stadium_seating,_April_2024.jpg)<br>AI sees: _Grand Prairie Stadium cricket ground and seating in Texas_
-<br clear="left">
-
----
-
 ## 📝 DRAFT · China Crush Fiji 8-0 to Clinch Historic U-17 World Cup Knockout Berth
 `2026-11-27-news-33c855` · 2026-11-27
 
@@ -95,26 +75,6 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Asian_Games_Doha_2006_fireworks.jpg/1280px-Asian_Games_Doha_2006_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
 
 **2. 🟢 OK**<br>Caption: **Aspire Zone**<br>2006 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Asian_Games_Doha_2006_fireworks.jpg)<br>AI sees: _Aspire Tower and Khalifa International Stadium in Aspire Zone, Doha_<br>⚑ file looks like a non-sport scene (Fireworks)
-<br clear="left">
-
----
-
-## 📝 DRAFT · Alexander Ovechkin: The Moscow Prodigy Who Broke Wayne Gretzky's NHL Record
-`2026-11-27-athl-c4b783` · 2026-11-27
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Capital_One_Arena_-_Washington%2C_D.C.jpg/1280px-Capital_One_Arena_-_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**1. 🟢 OK** · cover<br>Caption: **Capital One Arena**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Capital_One_Arena_-_Washington,_D.C.jpg)<br>AI sees: _Exterior of Capital One Arena in Washington, D.C._
-<br clear="left">
-
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Alexander_Ovechkin_%2849479646361%29_%281%29.jpg/1280px-Alexander_Ovechkin_%2849479646361%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="240" align="left" hspace="10">
-
-**2. 🟢 OK**<br>Caption: **Alexander Ovechkin**<br>2020 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_(49479646361)_(1).jpg)<br>AI sees: _Alexander Ovechkin wearing a Washington Capitals jersey and helmet_
-<br clear="left">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Andrew_Scheer_with_Wayne_Gretzky_%2848055697168%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="240" align="left" hspace="10">
-
-**3. 🟢 OK**<br>Caption: **Wayne Gretzky**<br>2019 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg)<br>AI sees: _Portrait of ice hockey legend Wayne Gretzky smiling in a suit_
 <br clear="left">
 
 ---
@@ -236,6 +196,46 @@ How to use (about a minute): look at each picture next to its caption. 🔴 phot
 <img src="../docs/photos/card-2026-11-27-news-7bb2d2.png" width="240" align="left" hspace="10">
 
 **2. 🟢 our score card**<br>Caption: **Saudi Arabia 82 - 80 China · FIBA Basketball World Cup 2027 Asian Qualifiers**<br>2026 · Own work
+<br clear="left">
+
+---
+
+## ✅ live · United States and West Indies Lined Up as Preferred Co-Hosts for 2034 Men's T20 World Cup
+`2026-11-27-news-67c902` · 2026-11-27
+
+<img src="../docs/photos/c/ec5581ff6f46f8e0-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup**<br>2024 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Oakland_Coliseum_from_above_2024.png)<br>AI sees: _Aerial view of Oakland Coliseum baseball stadium_
+<br clear="left">
+
+<img src="../docs/photos/c/228d4f8c5e76a355-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup**<br>2024 · CC0 · [source](https://commons.wikimedia.org/wiki/File:%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AA_%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%89_%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE.jpg)<br>AI sees: _A cricket match at Nassau County International Cricket Stadium during the 2024 T20 World Cup_
+<br clear="left">
+
+<img src="../docs/photos/c/0eac7b5773aec0ce-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Grand Prairie Stadium**<br>2024 · CC BY-SA 4.0 · [source](https://commons.wikimedia.org/wiki/File:Grand_Prairie_Stadium_seating,_April_2024.jpg)<br>AI sees: _Grand Prairie Stadium cricket ground and seating in Texas_
+<br clear="left">
+
+---
+
+## ✅ live · Alexander Ovechkin: The Moscow Prodigy Who Broke Wayne Gretzky's NHL Record
+`2026-11-27-athl-c4b783` · 2026-11-27
+
+<img src="../docs/photos/c/f2812893bd535d45-640.jpg" width="240" align="left" hspace="10">
+
+**1. 🟢 OK** · cover<br>Caption: **Capital One Arena**<br>2023 · CC BY 4.0 · [source](https://commons.wikimedia.org/wiki/File:Capital_One_Arena_-_Washington,_D.C.jpg)<br>AI sees: _Exterior of Capital One Arena in Washington, D.C._
+<br clear="left">
+
+<img src="../docs/photos/c/d1d31ff6f29c2b70-640.jpg" width="240" align="left" hspace="10">
+
+**2. 🟢 OK**<br>Caption: **Alexander Ovechkin**<br>2020 · CC BY-SA 2.0 · [source](https://commons.wikimedia.org/wiki/File:Alexander_Ovechkin_(49479646361)_(1).jpg)<br>AI sees: _Alexander Ovechkin wearing a Washington Capitals jersey and helmet_
+<br clear="left">
+
+<img src="../docs/photos/c/730a3b2ba662350b-640.jpg" width="240" align="left" hspace="10">
+
+**3. 🟢 OK**<br>Caption: **Wayne Gretzky**<br>2019 · CC0 · [source](https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg)<br>AI sees: _Portrait of ice hockey legend Wayne Gretzky smiling in a suit_
 <br clear="left">
 
 ---
