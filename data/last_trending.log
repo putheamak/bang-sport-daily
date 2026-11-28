@@ -1,74 +1,72 @@
-2026-11-28 09:42:04,635 INFO BBC Sport                         42 items
-2026-11-28 09:42:04,800 INFO The Guardian Sport                24 items
-2026-11-28 09:42:04,867 INFO ESPN                               0 items
-2026-11-28 09:42:05,171 INFO Sky Sports                        20 items
-2026-11-28 09:42:05,474 INFO Google News – Sports (EN)         59 items
-2026-11-28 09:42:06,169 INFO Google News – 体育 (ZH)             52 items
-2026-11-28 09:42:06,421 INFO Google News – Спорт (RU)          43 items
-2026-11-28 09:42:07,131 INFO Championat                        28 items
-2026-11-28 09:42:07,902 INFO Sports.ru                         17 items
-2026-11-28 09:42:09,014 INFO Спорт-Экспресс                   407 items
-2026-11-28 09:42:10,057 INFO РИА Новости Спорт                 20 items
-2026-11-28 09:42:11,032 INFO 中国新闻网 体育                          29 items
-2026-11-28 09:42:11,459 INFO Google News – Cambodia sport      23 items
-2026-11-28 09:42:12,011 INFO Google News – Southeast Asia sport  57 items
-2026-11-28 09:42:12,614 INFO Google News – Combat promotions   97 items
-2026-11-28 09:42:12,972 INFO Google News – Boxing              30 items
-2026-11-28 09:42:13,218 INFO Google News – Kun Khmer            2 items
-2026-11-28 09:42:13,388 INFO Google News – គុនខ្មែរ (Khmer)     0 items
-2026-11-28 09:42:13,949 INFO Google News – Единоборства (RU)   97 items
-2026-11-28 09:42:14,373 INFO Google News – 格斗 (ZH)             39 items
-2026-11-28 09:42:14,613 INFO MMA Fighting                      10 items
-2026-11-28 09:42:14,834 INFO Google News – Khmer Times sport   10 items
-2026-11-28 09:42:14,997 INFO BBC Sport – Tennis                 0 items
-2026-11-28 09:42:15,171 INFO BBC Sport – Formula 1              2 items
-2026-11-28 09:42:15,351 INFO BBC Sport – Cricket                8 items
-2026-11-28 09:42:15,530 INFO BBC Sport – Boxing                 2 items
-2026-11-28 09:42:15,680 INFO BBC Sport – Athletics              0 items
-2026-11-28 09:42:15,809 INFO The Guardian – Tennis              1 items
-2026-11-28 09:42:16,142 INFO The Guardian – Formula 1           1 items
-2026-11-28 09:42:16,202 INFO The Guardian – Cricket             7 items
-2026-11-28 09:42:16,275 INFO Sherdog                            8 items
-2026-11-28 09:42:16,333 INFO Sky Sports – Football             19 items
-2026-11-28 09:42:17,017 INFO Чемпионат – Теннис                31 items
-2026-11-28 09:42:17,760 INFO Чемпионат – Хоккей                26 items
-2026-11-28 09:42:17,841 INFO MMA Fighting – latest             10 items
-2026-11-28 09:42:17,942 INFO BBC Sport – Football              40 items
-2026-11-28 09:42:18,073 INFO The Guardian – Football           19 items
-2026-11-28 09:42:18,510 INFO Yahoo Sports – Soccer             47 items
-2026-11-28 09:42:19,023 INFO Yahoo Sports – MMA                50 items
-2026-11-28 09:42:19,445 INFO Yahoo Sports – Tennis             47 items
-2026-11-28 09:42:19,836 INFO Yahoo Sports – NBA                46 items
-2026-11-28 09:42:20,050 INFO The Independent – Sport           41 items
-2026-11-28 09:42:20,580 INFO Google News – Tennis              77 items
-2026-11-28 09:42:21,050 INFO Google News – Basketball          99 items
-2026-11-28 09:42:21,521 INFO Google News – Motorsport          94 items
-2026-11-28 09:42:22,016 INFO Google News – Badminton, athletics, table tennis  65 items
-2026-11-28 09:42:22,337 WARNING Feed unreadable Google News – Cricket: <unknown>:2:252: not well-formed (invalid token)
-2026-11-28 09:42:22,737 INFO Google News – 网球与篮球 (ZH)          95 items
-2026-11-28 09:42:23,159 INFO Google News – 羽毛球与乒乓 (ZH)         75 items
-2026-11-28 09:42:23,711 INFO Google News – Теннис и баскетбол (RU) 100 items
-2026-11-28 09:42:24,219 INFO Google News – Формула-1 и биатлон (RU)  82 items
-2026-11-28 09:42:26,683 INFO Candidate stories after clustering: 1733
-2026-11-28 09:42:30,299 INFO Trending skipped (not our audience): Don't sleep on the NFL 'uncs' - can they finally win a Super Bowl?
-2026-11-28 09:42:30,303 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
-2026-11-28 09:42:30,309 INFO Trending skipped (clickbait): Константин Генич назвал шоком лидерство «Динамо» и результаты «Зенита» и «Краснодара» в РП
-2026-11-28 09:42:30,313 INFO Trending skipped (not our audience): Micah Parsons after debut: Packers lacked ‘championship attitude, competitiveness, drive’ 
-2026-11-28 09:42:30,313 INFO Trending skipped (not our audience): Did Chiefs get hosed by NFL clock controversy? Breaking down the final seconds of Bills' w
-2026-11-28 09:42:31,645 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
-2026-11-28 09:42:31,997 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
-2026-11-28 09:42:32,343 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
-2026-11-28 09:42:34,753 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
-2026-11-28 09:42:49,516 INFO Talking Points: 4 new own headlines
-2026-11-28 09:42:49,517 INFO Talking points: 5 stories (not sent now: due=False quiet=False)
-2026-11-28 09:42:49,517 INFO   1. [en 21 outlets, heat 47.6] Italy beat Czech Republic to reach Davis Cup final
-2026-11-28 09:42:49,517 INFO   2. [en 12 outlets, heat 28.1] FP2 Highlights: 2026 Qatar Grand Prix
-2026-11-28 09:42:49,517 INFO   3. [ru 11 outlets, heat 26.4] Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке
-2026-11-28 09:42:49,517 INFO   4. [en 11 outlets, heat 25.9] Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia
-2026-11-28 09:42:49,517 INFO   5. [ru 9 outlets, heat 22.9] Горбачева стала пятой на Гран-при в Японии, Петросян – седьмой, Син Чжи А победила
-2026-11-28 09:42:49,517 INFO   C1. [en 9 outlets, heat 20.3] Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia
-2026-11-28 09:42:49,517 INFO   C2. [en 6 outlets, heat 13.8] Cody Garbrandt announces retirement bout to take place at UFC Cleveland
-2026-11-28 09:42:49,517 INFO   C3. [ru 5 outlets, heat 13.0] Менеджер Махачева ответил экс-чемпиону UFC Вудли о лишении Ислама титула
-2026-11-28 09:42:49,517 INFO   C4. [en 5 outlets, heat 12.9] UFC icon wants Navajo Stirling and Carlos Ulberg to fight
-2026-11-28 09:42:49,517 INFO   C5. [en 5 outlets, heat 11.8] ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC 
-2026-11-28 09:42:49,524 INFO Gemini today (2026-11-28, Pacific): gemini-3.8-flash 11 ok / 0 failed (18,171 in / 18,166 out tokens) · estimated cost if billed: US$0.082
+2026-11-28 13:42:08,784 INFO BBC Sport                         37 items
+2026-11-28 13:42:09,404 INFO The Guardian Sport                24 items
+2026-11-28 13:42:09,438 INFO ESPN                               0 items
+2026-11-28 13:42:09,598 INFO Sky Sports                        19 items
+2026-11-28 13:42:10,004 INFO Google News – Sports (EN)         58 items
+2026-11-28 13:42:10,595 INFO Google News – 体育 (ZH)             56 items
+2026-11-28 13:42:11,369 INFO Google News – Спорт (RU)          46 items
+2026-11-28 13:42:12,646 INFO Championat                        28 items
+2026-11-28 13:42:13,759 INFO Sports.ru                         10 items
+2026-11-28 13:42:15,950 INFO Спорт-Экспресс                   458 items
+2026-11-28 13:42:16,984 INFO РИА Новости Спорт                 20 items
+2026-11-28 13:42:17,532 INFO 中国新闻网 体育                          29 items
+2026-11-28 13:42:18,060 INFO Google News – Cambodia sport      25 items
+2026-11-28 13:42:18,481 INFO Google News – Southeast Asia sport  29 items
+2026-11-28 13:42:19,057 INFO Google News – Combat promotions   88 items
+2026-11-28 13:42:19,437 INFO Google News – Boxing              33 items
+2026-11-28 13:42:19,712 INFO Google News – Kun Khmer            2 items
+2026-11-28 13:42:19,911 INFO Google News – គុនខ្មែរ (Khmer)     0 items
+2026-11-28 13:42:20,513 INFO Google News – Единоборства (RU)   96 items
+2026-11-28 13:42:20,895 INFO Google News – 格斗 (ZH)             39 items
+2026-11-28 13:42:21,091 INFO MMA Fighting                       9 items
+2026-11-28 13:42:21,390 INFO Google News – Khmer Times sport   11 items
+2026-11-28 13:42:21,632 INFO BBC Sport – Tennis                 1 items
+2026-11-28 13:42:21,890 INFO BBC Sport – Formula 1              2 items
+2026-11-28 13:42:22,157 INFO BBC Sport – Cricket                8 items
+2026-11-28 13:42:22,425 INFO BBC Sport – Boxing                 2 items
+2026-11-28 13:42:22,691 INFO BBC Sport – Athletics              0 items
+2026-11-28 13:42:23,102 INFO The Guardian – Tennis              1 items
+2026-11-28 13:42:23,312 INFO The Guardian – Formula 1           1 items
+2026-11-28 13:42:23,393 INFO The Guardian – Cricket             6 items
+2026-11-28 13:42:23,542 INFO Sherdog                            8 items
+2026-11-28 13:42:23,668 INFO Sky Sports – Football             17 items
+2026-11-28 13:42:24,990 INFO Чемпионат – Теннис                31 items
+2026-11-28 13:42:26,239 INFO Чемпионат – Хоккей                25 items
+2026-11-28 13:42:26,329 INFO MMA Fighting – latest              9 items
+2026-11-28 13:42:26,610 INFO BBC Sport – Football              36 items
+2026-11-28 13:42:26,802 INFO The Guardian – Football           18 items
+2026-11-28 13:42:27,599 INFO Yahoo Sports – Soccer             47 items
+2026-11-28 13:42:28,042 INFO Yahoo Sports – MMA                43 items
+2026-11-28 13:42:28,808 INFO Yahoo Sports – Tennis             45 items
+2026-11-28 13:42:29,578 INFO Yahoo Sports – NBA                50 items
+2026-11-28 13:42:29,913 INFO The Independent – Sport           30 items
+2026-11-28 13:42:30,477 INFO Google News – Tennis              87 items
+2026-11-28 13:42:31,081 INFO Google News – Basketball          96 items
+2026-11-28 13:42:31,744 INFO Google News – Motorsport          92 items
+2026-11-28 13:42:32,307 INFO Google News – Badminton, athletics, table tennis  70 items
+2026-11-28 13:42:33,003 INFO Google News – Cricket             93 items
+2026-11-28 13:42:33,486 INFO Google News – 网球与篮球 (ZH)          93 items
+2026-11-28 13:42:34,059 INFO Google News – 羽毛球与乒乓 (ZH)         74 items
+2026-11-28 13:42:34,694 INFO Google News – Теннис и баскетбол (RU)  97 items
+2026-11-28 13:42:35,345 INFO Google News – Формула-1 и биатлон (RU)  87 items
+2026-11-28 13:42:38,713 INFO Candidate stories after clustering: 1821
+2026-11-28 13:42:44,166 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
+2026-11-28 13:42:44,176 INFO Trending skipped (clickbait): Константин Генич назвал шоком лидерство «Динамо» и результаты «Зенита» и «Краснодара» в РП
+2026-11-28 13:42:44,179 INFO Trending skipped (not our audience): Did Chiefs get hosed by NFL clock controversy? Breaking down the final seconds of Bills' w
+2026-11-28 13:42:46,241 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
+2026-11-28 13:42:46,667 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
+2026-11-28 13:42:47,086 INFO Trending skipped (not our audience): No Rodgers, no problem! Steelers shock Broncos after dramatic week
+2026-11-28 13:42:50,924 INFO Gemini models available: 26 · fallback chain: gemini-3.8-flash > gemini-3.7-flash > gemini-omni-flash-preview > gemini-flash-latest
+2026-11-28 13:43:00,340 INFO Talking Points: 14 new own headlines
+2026-11-28 13:43:01,000 INFO Talking points sent to Telegram (5 stories)
+2026-11-28 13:43:01,000 INFO   1. [en 24 outlets, heat 53.5] Italy Davis Cup Finals Tennis
+2026-11-28 13:43:01,000 INFO   2. [en 15 outlets, heat 33.9] MotoGP Full Qualifying Results | Bezzecchi steals pole from Marc Marquez
+2026-11-28 13:43:01,000 INFO   3. [en 12 outlets, heat 27.8] Moto3™ Q2: Motul Grand Prix of Valencia
+2026-11-28 13:43:01,000 INFO   4. [ru 11 outlets, heat 25.7] Биатлон: Александр Корнев выиграл спринт Кубка Содружества
+2026-11-28 13:43:01,000 INFO   5. [ru 7 outlets, heat 18.3] Гуменник и Дикиджи остались без медалей на Гран-при Японии, Малинин взял золото
+2026-11-28 13:43:01,000 INFO   C1. [en 9 outlets, heat 19.9] Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia
+2026-11-28 13:43:01,001 INFO   C2. [en 6 outlets, heat 13.4] Cody Garbrandt announces retirement bout to take place at UFC Cleveland
+2026-11-28 13:43:01,001 INFO   C3. [en 5 outlets, heat 12.9] CKB Teammate Wants Carlos Ulberg & Navajo Stirling to Fight
+2026-11-28 13:43:01,001 INFO   C4. [en 5 outlets, heat 11.6] ‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC 
+2026-11-28 13:43:01,001 INFO   C5. [ru 4 outlets, heat 10.2] Менеджер Махачева ответил экс-чемпиону UFC Вудли о лишении Ислама титула
+2026-11-28 13:43:01,009 INFO Gemini today (2026-11-28, Pacific): gemini-3.8-flash 20 ok / 0 failed (34,141 in / 33,615 out tokens) · estimated cost if billed: US$0.152
