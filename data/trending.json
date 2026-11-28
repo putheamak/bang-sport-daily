@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T09:28:43+00:00",
+  "updated": "2026-11-28T09:42:30+00:00",
   "stories": [
     {
       "key": "1ef038ee75",
@@ -9,7 +9,7 @@
       "sport": "tennis",
       "outlets": 21,
       "growth": 0,
-      "heat": 47.71,
+      "heat": 47.65,
       "published": "2026-11-28T08:12:00+00:00",
       "latest": "2026-11-28T09:00:00+00:00",
       "refs": [
@@ -57,127 +57,92 @@
       "first_seen": "2026-11-28T09:28:43+00:00"
     },
     {
-      "key": "a649e45c8c",
-      "title": "Nathan Lyon dropped by Australia for Test series against New Zealand",
-      "summary": "Nathan Lyon dropped by Australia for Test series against New Zealand Sky Sports",
+      "key": "5a47b28bf2",
+      "title": "FP2 Highlights: 2026 Qatar Grand Prix",
+      "summary": "FP2 Highlights: 2026 Qatar Grand Prix Formula 1",
       "lang": "en",
-      "sport": null,
-      "outlets": 20,
+      "sport": "motorsport",
+      "outlets": 12,
       "growth": 0,
-      "heat": 44.04,
-      "published": "2026-11-28T09:00:00+00:00",
-      "latest": "2026-11-28T09:00:00+00:00",
+      "heat": 28.09,
+      "published": "2026-11-27T20:17:00+00:00",
+      "latest": "2026-11-28T09:25:53+00:00",
       "refs": [
         {
-          "source": "Sky Sports",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVFpWmRmLWthTDY3RlRSZHJabEpmdUdMdWt2MVp3R01SeUh6MzZfcHVzdEZTMlpYM3M0dGk1VDdwRHBKYUpqM1VRUk9acXlBb0JyZ1VaeVFmY0t5S3FpbmtqS1dlVG9xQWZpczFiNDlyZGtaTnJVNTQyTnE1NGRYZHhVSVg3ZGZITnFMdTJCeXNwYkV0dmhzZFl5cE8wcWxQX1hVY2s3Vkw3dVZfX0hCZmU1VUpxQVI1WDRyR28yMA?oc=5",
-          "title": "Nathan Lyon dropped by Australia for Test series against New Zealand"
+          "source": "Formula 1",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW1hbTRCblp2X0hIcVJTYUpwZkJCUDkxaUwwdVhydWhmS0JEMnRHdkxoZG83NmJBbGR5OV9LTl9xOUdHVEMyYUVjVGxmVVlaODdpUXd5dEFOR1p0cnhEdVBFRnJMRk56cWh1dzZfOG9GYWFIUVlvY0t6V1VqM0NMeWJUUi1qcVA0bnZ2QXVSRDcwNTRC?oc=5",
+          "title": "FP2 Highlights: 2026 Qatar Grand Prix"
         },
         {
-          "source": "Rediff.com",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVc5OEdEVU9rR3pjS3lFa0JieUN0WG5PLXpsa25GeFVXT1BxalQ1RUtMNzA1cGJ4Tjk1MDJmaDhMbExyay1scGRORFEtWnBTVWdhcG52MHJzdjRUYXZWaTJ2U2YyT0hNeUpTc09IRnYxcTBhQS1tcjR6dUM5cTVPZHVkd0ZfUmplMjNFbnJJckUyRmhFNUJKVkx6NDEzS2l4UkV3S3k0VlFYTXpSU2VXcmVFNnVTYVJqT3RESFY4LTdzb1lqX2hrclFHVUpXamfSAdIBQVVfeXFMTVZMeFpQQm1vTW55RllldlkyeWRaQ0JJdUR6NDJMSTJUek9kZERSQllabWczQjBwbGl6Zks0NWZfamhmRmFEcWdkTGwycm92WU9sTExuTHNSUGp2cGpNd1p0bkVyYm9WS1hMRlZISTBYeE1ORkJYWVZTOExjNkNNVTdkMjVGckpYVDRvUFc1T1JaWm5oU0VXOENvQ013RnFrR2Q2empRemRDaS00ZW1MLVN3bW1EaGhxdXZnR2xpUFRvZXhfanhybEphQWczSEZEenBB?oc=5",
-          "title": "Nathan Lyon omitted from Australia squad for New Zealand Test series"
+          "source": "The Race",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkc5OFJYM2VWb19nRnFiTmhlSDUwRlljMkVtN0hPZ1ZFMWJlVkotNFpiUGM1cWJscHBXSmhtTFFUeW1CRVBaN1Jvdzhqd2JwZmlpdE16WVNGWEtHWFdQT0NvRFZQLUVUdklhZExNZXNQMGlSclFhc1l3UUItd2V5RlpBYw?oc=5",
+          "title": "F1 2026 Qatar Grand Prix practice results"
         },
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/cricket/articles/ckjre1p5g4l7o?at_medium=RSS&at_campaign=rss",
-          "title": "Australia drop Lyon for New Zealand Tests"
+          "source": "RacingNews365",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZ1FaMVpqWnV4VXRXQlJBM21CRmtYTjg4QUFMSVJWdktGYzY5ZG9LWTM3TW1YUzZvYWZndVp0ZU1Bbi04UUtmNlp0VEN4YTR4YXJVSDhWekFGSVFKNXZTakhOOW1pQUg2VXZrOUdJLTRKN09CV0lSZ3lLLThYN0E?oc=5",
+          "title": "2026 F1 Qatar Grand Prix - Free Practice 2 results"
         },
         {
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkJOVkFndkdCYko3Z2tQNEFHbU80TGtkS2J1V3VHX1phNDFhelF2dTBabHVWNldwcmlpSHE3ejZpYmRRRzFCdGZUUGdvcG15Qk9nSjJsdWVTdlpzYXV6ekotaHhQT2JSQ1M4VmxQNUhQWE1JUkUtcEZmejgxN2RaSWtUdkd4VTJDUGlEOWlrTFhrUjdXMVhpemY2UGtja0FuNFRZ?oc=5",
-          "title": "Nathan Lyon set to be axed from Australia squad for opening New Zealand Test"
+          "source": "Federation Internationale de l'Automobile",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRG9SQ1JHeXVVbHN5cTBLUVFwb3BhS3JCVzBKV0FZQlFlZ0ZtdVZDQWhka2pZMEFORlphcnZqbVF5YmNhN0o2cTZRVEJfWVB4alpPQ2FNMnVqb1Nwc0tNZXdBRmxfQTNNbmNMYlowOTFzQi0wZ2VLQld5alAxWmJBZFVnTkVUWmJNSnJYTw?oc=5",
+          "title": "F1 - 2026 Qatar Grand Prix - Friday Press Conference Transcript"
         },
         {
-          "source": "The Guardian – Cricket",
-          "link": "https://www.theguardian.com/sport/2026/nov/27/nathan-lyon-set-to-be-axed-from-australia-squad-nz-test",
-          "title": "Nathan Lyon set to be axed from Australia squad for opening New Zealand Test"
+          "source": "World of Showjumping",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3hmUVg2Rm1ickllMC1uem04a3I0MnJMVHJwTHhKY2FldjBtUXBCaWVEN1NOSXYxc3o1VGVhZWl0RnQ2X2s4MDd4aUN2akxfT0xxbXpYb1dyUnlFS2tEZVRCSHRWZmtVdnRFWDRpczJ3bUlYYXZMYndoeGRQYUJRUTFublI0Y1FrWU9NZV9YaWtjeDNxZ0g4VVZXclp0SkgzdzNLcF9mQ1pPNExMMEpyRHY3WDViWG9YMTBwSGpnTVpqc1RILXhSMWpSZGFLMHh6UzNRWUM3bV95d2RQd01YRmRrbFlYUEEyNFd6anJ5QQ?oc=5",
+          "title": "Mark Bluman and Phelina de Septon win BrainJava CSI4* Grand Prix qualifier at Wellington International"
         },
         {
-          "source": "WA Cricket",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSENIcjFteld0cEVDZHRIcElnOWtiSGFxcVhrS25RN3J0aTR5WGw3Y3FrOEpjdWtaLXRzTC1RbDFvb09JalhhRm5CQVNacHM2cGh4eVlnSVNFTmRyQ0l5YmJ2N2hzNUFkZHFMV3NyVmtZRmpfSzcxcGN2VW0zM2FlaENfTlR4Y0hS?oc=5",
-          "title": "Rocchiccioli earns Test squad selection"
+          "source": "| Eurodressage",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDFaa2NOUVpSbmJNYzBTSVJ6VUU0NzIzb09HazJLNllEdEJWb2cyTXYybUl4V190d3BLaEtzNUVOZHBYSXgtcnpsRnd5bkY5T2Z3TE03N21MRWg2WDVYMVFfZG1abTROc1RMbTBvZEpDa1YyTElPbGRjc1RwNjE3Nm5Tckw0Q1hKUnBsT0pzS3RYcE5YYUZ6NQ?oc=5",
+          "title": "Cristall, Aniko Losnczy's Grand Prix Ride, Moves to Germany"
         },
         {
-          "source": "Fox Sports",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOThDcW0zQWtRdVN4ekdtRWpkQnNmZmJ5MHdyZ09CdGFKQUpacVFuNHM4Y05MTU90YlVTN0lMbWI4OWJjUzIxT3RrQ1l4THJmNjNzRXRYUDMxZU9QcHczYmhGZ09CMnZrdGEzV0lsbWFyWGZHaXpXR203am9ZcFJUdndrTFVyRmVVMUFNMW9xYWVHRjg5NkdvMDhUdUxHb0FKNWptMHZyRXNrNWk5MmVQNUI3Yy1OZi1aRnc?oc=5",
-          "title": "New Zealand vs India | Test 2, Day 2 Highlights"
+          "source": "GPFans",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjdNNlEwSkJ0XzNnWHMxM3pOWnlCLWdRZ2VVSkk0MGdJcTRIdjJmbXhiYlZaMnhaZEZJX2x3UW9ZaWd1MGZUeXE1aVRnOGNXTXVMaXIyMjVRZmlNcTZsT2VKYlM2MnJ0S1pzREZiQ09VRkprSUxYNVZWQXkwdVZZc0VRbUxmVlpjYk8yT3Z6Q3NfajFmUWFvRi1ESS0tLW9jMTNGdw?oc=5",
+          "title": "'I lost all respect' - The Qatar Grand Prix moment which broke Verstappen and Russell's relationship"
         },
         {
-          "source": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjZfXzNuU0czNmVSdm45MUNQQXBtN2lTNWpQNVJpY3RXd21QTTgzeWEteklMWUQzSG5oZ1FqVjNnX1JSOURKaDJ3YjJ6VjlNcWswLTc0WWZhRk9QandVZkR0OGJVODEtRWtPalhzc1B5LUd4TUd0NlR3RjN3WXlodXptQjNJRUlPc1VjRThjSUlXSENfcWltZUNJUHZDeGVTdTQ3QzJRVW0?oc=5",
-          "title": "India 116-6, trails New Zealand by 240 runs at stumps on Day 2 of the 2nd cricket test"
+          "source": "GPOne.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3FIWVB4eW04SU1RQjdLVDFIcTBWMVZvWkFKQUhqVXdJS2QwQ3ZUbWphZko2N2UzSUstQkRxTnIteXlyZ0Nydm85bi1XNWV1ZDg5OVQxUHpTNEhkMGJ5ZXpJbkgwb1RSZDZKZ2NUWVY4TDZFeGFVT1BtaVRoTGNQeFZHV2ZaTmtuX0tEMERfaGNsaHJabDJ3Zkw1dDVvY2VXZENWTzZxTQ?oc=5",
+          "title": "LIVE - Valencia MotoGP Grand Prix Qualifying: Live Coverage"
         }
       ],
-      "first_seen": "2026-11-27T13:42:43+00:00"
+      "first_seen": "2026-11-28T09:42:30+00:00"
     },
     {
-      "key": "7fd189ee0c",
-      "title": "'Felt this team needed direction' - Rohit Sharma opens up on why he returned as MI captain for IPL 2027",
-      "summary": "'Felt this team needed direction' - Rohit Sharma opens up on why he returned as MI captain for IPL 2027 Yahoo Sports",
-      "lang": "en",
-      "sport": "cricket",
-      "outlets": 13,
-      "growth": 0,
-      "heat": 29.75,
-      "published": "2026-11-28T06:32:00+00:00",
-      "latest": "2026-11-28T07:52:31+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdERBWTJ4ckdBVGZVR1hMbjNteXlDVzFZQUt0YmZHTV83b0FLd3hkeFNKU0dfTzdSSlBzbXZhcWNNZTBSVkZtNlAwNEtVZ3QtWlFFemwwa2F3UVZqSS0wNWd3NTgtTms5ZTlCZzVzbVZsVVR5LWgyU3VobWNZX0VuMm5PbnpoVFZvUlhMN0VGWTZSRHM?oc=5",
-          "title": "'Felt this team needed direction' - Rohit Sharma opens up on why he returned as MI captain for IPL 2027"
-        },
-        {
-          "source": "Khaleej Times",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUpMb1NVUEdGSFlFaFlva2poaDItMFVCUnZVS3g1QWM0MHdqM3l5V09OdDhjM2JSS0o3UzJhV3NGN1JNNkozX3N4RHYwMkN6TkotdW93dUo3V3BCS05pdUI5RkR4cHZMSklNTWtwanJMS0l1dVZhMl84NkhrVElSMlItNk5CLWdIUU1RTEpmbmxBeVdIMUhWXw?oc=5",
-          "title": "Mumbai Indians bring back Rohit Sharma as 2027 IPL team captain"
-        },
-        {
-          "source": "t2ONLINE",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmxxeVNWTU85RkRGZXNmNVhpek5fUEpjM0NNamVZemtyUVQzX3BUUS1rdHdnUllUT0Nwc0pyd1d0VzlCYjNnbmlYckplZVEwcnZOTFo1MFlfNnczWk1kb2NXTzRseUlNbHhRSlUxbjAzVFl5SUFXeHRjQ05obEkzV2J0TTNVd2x6UUhIc0NxWGFjNmtwRE5rbWJFTThHWHhLT2o1SVFB?oc=5",
-          "title": "Rohit Sharma returns as Mumbai Indians captain for IPL 2027"
-        },
-        {
-          "source": "Olympics",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbzB2b3pYVFFaT004N0taRktGSHNYa01hRFZJbS14V05GQV9HMGIyZjFKTlQ0ZFJiZXA2YUNaNUlKdnZxMXVMem1xN2o5bXBnRG9Oc3NTMVREazlhajFJaU9pcGZXbExzVUdMZXVoOUtrMXkyODVNT1JBOF9SSHFubzFYbw?oc=5",
-          "title": "Rohit Sharma returns as Mumbai Indians captain for IPL 2027"
-        },
-        {
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVRJQUJJQkhtcmpZSERzWVNjZGtYUk81cm9NMjNnR3FxcFpFdW5fTFNjVnZPZldnUTEwQm1oeV8zN1JBZnNOZHBNblo1bmlyWFZKY3JlLWg3dTVrd2MtVHItUFZUWUQwakJqU3NLejdBak1IRXppS09CaUVXWnd6OU5KdnBzSDg2Y3RHMG9uUHY?oc=5",
-          "title": "Rohit Sharma to captain Mumbai in 2027 IPL"
-        },
-        {
-          "source": "MensXP",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHNrelZ5NGN4Nk5MQ2EyemVFZlBZLU5UZTR3M1JxZXRRdUptM1FkSGlnbzNFU0xIQnNFY1ZUQ1ZaTjByZjJiV1NaTXUtbWsxSkdKc1hQQXIwQmJVd2UtY0EzVHNrekRlNVlQaDQ1OEN2STZETXluX0FzVm15MDVzaDhlMERGZVNpVlpGT1RqV0w5XzVkNUZobVJBLU1vY1FPUGsyWmlrekdaX3QwM1czSDNsU29NVEZfY0pjZWdfdlFFVXB2ZHFjR19HeXZhcFRONEtpSNIB2gFBVV95cUxPeUJfN19nWXJscmtHb2ZWaVZNVnpaeVZDaDZGeFdCZmRvZV9LODhQU25LcjI0WldvbnF6TUFUSHdlZ3lzYm5PVnMyTDJGa0dKZ1VfOVVQSkpJUjRxZjd4R3JmOFRmWDdJaTZ6QXk4dmZNTEcySUZjd0lFOVR0bEpIbTNfaGI1WlkwQ1A4NG9OUGdNaS1rcHBMSjlvZFliSUUzSXREZE5QZU1tRTNoQXhXLS12RVdtc0RDR2w1RFlpUzRUeHdPV3JjN2t2SlVDNzNnNFdrYTRDb21CQQ?oc=5",
-          "title": "Rohit Sharma Has the Chance to Set 4 New IPL Records When the 2027 Edition Gets Underway"
-        },
-        {
-          "source": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUG80NGQyTmJoa29NbzBHMlNubU02QmtLNjhCRU5VZlpIb2xIekQzaXAwajJrS3FUWDlRbmpQRG5ScmpJTnhONDZJWVcxbWpReGlTdUt3cFFLTEZHSnkzUVJLSU9aN3RrNUV6dnQyMHN0Ym9ocGdmWDQ2TFNyTWxDbTA0MW96Y0YtRXNMWHVfc1pQQ2hyclk4X2p6czloZlBtZ2kyN1RRd3h1ZDV2bUxtWHliWlNFRHpsajl3N3ZDdVN6YzZHTW5rbUJrRmdTYlZERTZUOTkwVEhqNzRZeWfSAeQBQVVfeXFMTWpEQWpHV0gxamNGSUhrd0FrbDlLNm90NXRUeHhhcS1RaURWcC0wdDYzSHpZQmtiRkNSU2RiVlVjTVdOZ2Z4TnY0NEZYcW9RM0hCMnVmUlNleFhzUWtDMWpBY1Y4NXNPeW1LR1RoZzlvY1FzVVdqVFBiU0xLS3hrWWhPcUkzVTE3eHNQekR0SEZ3QVNWNTdRcy1Ddm9OLVZvTHVXNzhPRnJZNTNWVHN0czdrNmE4NEphTDk0XzdxblNEZUhncTFVb0hFRXI3MnZoVUtySEE2a3E4TE9BbE1HSlQtYkJQ?oc=5",
-          "title": "‘Entire Mumbai Indians was failing’: Rohit Sharma reflects on three difficult IPL seasons"
-        },
-        {
-          "source": "Cricinfo",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNBVkpkX0lDcUxOVUhIcE9meldGSW1oYmZRc1AtTW9RV0JvYkFhZEdzejQ1cExQb083cm9VN1htbGZsTEtlWDA2bVR2c2VTTnhKdVFBNk5weGV6aHk1Y2gyWnR2QmhJN0RwMnY1VW85aW9sbjBvVDBMZEtoRFlIZ1Y1eHlxSllxYWJ0M3FnQVIxelkxSjZ5eWgxa2JZQXJ1QnJzeTlJdmRuVmdoeVkweW16SkxlbWFOTkNEazRpcFlMUdIB0wFBVV95cUxOM0tVcGVuMUdzcTFZVG9VR0lZWGZUNE0tRW9YRlFVSFNSbEFNRXdjOTQzOHhCa0tPeXlxUERDQUNuajBHVGJLOXk1NmlNay05MDV4dUJScU5SRXB1OEhSZVk3X2J3S3hJTmhxbzhGWjFXOE1IZVNxS3lvSFl6bGlYRjF1ZnpjRXJQeWpnVkZMdkRTZ251WkhNbmhzaXhoaVF4eWhBRXhhMjEzcnVINlRCejZ4MXJ2VkpNTTE4UzlhMDZwOXJ4TF9rb0ZvdFo0cUNUSzNF?oc=5",
-          "title": "Rohit Sharma to lead Mumbai Indians again in IPL 2027"
-        }
-      ],
-      "first_seen": "2026-11-28T09:28:43+00:00"
-    },
-    {
-      "key": "0c83490671",
-      "title": "Российская биатлонистка Зырянова одержала победу в спринте на первом этапе Кубка Содружества в Ханты‑Мансийске",
-      "summary": "Российская биатлонистка Зырянова одержала победу в спринте на первом этапе Кубка Содружества в Ханты‑Мансийске Sportbox",
+      "key": "4432072994",
+      "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке",
+      "summary": "Российская биатлонистка Анастасия Зырянова стала победительницей спринта на первом этапе Кубка Содружества в Ханты-Мансийске.",
       "lang": "ru",
       "sport": null,
-      "outlets": 10,
+      "outlets": 11,
       "growth": 0,
-      "heat": 24.13,
-      "published": "2026-11-28T09:19:17+00:00",
-      "latest": "2026-11-28T09:19:17+00:00",
+      "heat": 26.39,
+      "published": "2026-11-28T09:37:37+00:00",
+      "latest": "2026-11-28T09:37:37+00:00",
       "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/biathlon/news-6717458-zyryanova-vyigrala-sprint-na-pervom-etape-kubka-sodruzhestva-v-hanty-mansijke.html",
+          "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/biathlon/news/etap-kubka-sodruzhestva-po-biatlonu-v-hanty-mansiyske-rezultaty-zhenskogo-sprinta-28-noyabrya-2026-2480014/",
+          "title": "Биатлонистка Зырянова стала первой в спринте на этапе Кубка Содружества в Ханты-Мансийске"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261128/biatlon-2134593880.html",
+          "title": "Зырянова выиграла спринт на старте Кубка Содружества, опередив Резцову"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb29wTXNpeDV5OXFEQkhHdUFlRHZYcFA0cU5vVHRPWDlSZDJ1d29FNUFTbkFyc1JwSkRDdVU1eEQtak41VUtpUUd6WTNuRWUwWjlMODhieHByMG5jS0RvUmVlai1zOWxOeW1XVlBBZ1g0NHJfeDNEbnFzUVFvVHRqT2dpUGZlV1NBTVRpTXNpS2NpTi0wMVdPZ0dUQXJxT284TkNQZmpvY1ctdmhzMFA0NWR1VGQ5U1AtN21Uem1RZWROSEhuRFhqeNIBzgFBVV95cUxNQ0hGRG04RUk2MWNiWWl0eEp4X2JVeTlkdEdac1lqU1NqanRNQWF6bXNBdm9NUjlVUC1ZMWZlNkNSSjJDV0ZROXp2SDVTY0tFUHU5ZWF5aHZldUw3SFp6N3ZoQUdpUkNPZzUtSW5Gbk9fUXZQZEV4RHE4MUlSTDNhbmlOTTdxMXVBbEt5S2pPdXotc1J2US1HcEE5VjRMOGlqcU5ncmRnQXZpMGFhUzdQUkZ6VklTNVg0YjVvdjYya21mV091UTEyTVE1eXBDZw?oc=5",
+          "title": "Зырянова выиграла спринт на этапе Кубка Содружества в Ханты-Мансийске, Резцова — вторая"
+        },
         {
           "source": "Sportbox",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGg0OFlhUDYwLXBUMFg4UVZleWtjeGp4V1g3UzJwQ1VBb3pXNGE2c3VXUjMyMC01NURaaVlFNEdDaUVvRzR5ZFVnV1Rmd1ZCcDZlQVBxWVlxQWMtenB4YmNVVmVoemxpUExMYVFHYmV1U1hkXzhQV0N4SnVyZnJoOHZuQXNGNy1fUkk5VFpyRjFzVzJ6Q2kxMTBnNzhmeGtuenJ1NV9feW9Vdk4yempkdDBnUjBTcElXR1QtbFl5MGtKQ1dfaDVWbHc2ZXJtZTRPMkRNSFllTkk1cVdKaVVvQVdsd0QzVjU5RVg4eXc3QU11MEp2blJ5TlZRVVlaRV9fV01RbnpVMA?oc=5",
@@ -189,59 +154,104 @@
           "title": "Зырянова выиграла спринт на 1 этапе Кубка Содружества в Ханты-Мансийске"
         },
         {
-          "source": "Sport24.ru",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTjZCUU80LVktUWlTTlVUaExUSnBGSjNra29rc2Q4UWtGbS1iRVMzT0pra0Jrdkk3YjZUY2o5N0EtUmFsNlJYdXNRd29OYTM0VENEMFB5ek1nMGp3TFF3dEF3alBRWS1ZbFZESjhqSlNEQm1pbF9VMmlQZjR2SG1ySlNKTEVDanlqc29YeTZtcHRscjNmXy1zTWhtaFpveTlvRDlTZDR6SDBlb0F0NkdlTNIBtgFBVV95cUxNMUY4bVZzVVhzaWl6MFI3YVFQWFRlaExMOEtZOHV4M0IwN0czMDlKZnpfWUNFam4tQVVKV0JXRWpBU3JrN1owMDVmQ0NpOGpXcXhXNnpUdFdrN1VGVkNiN1VOT3V5bFRrSDRVek5BcUV2SHptQXlsbjRfeDNRalU3NzNEN0xicjlsSUg4WFNZZTJHcGFWN0NIRzJZMGdPZ05UNjlYUHRfRnlsOU5BUnN3WEZ4eFhTdw?oc=5",
-          "title": "Корнев победил в спринте на этапе Кубка Содружества в Ханты-Мансийске"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/biathlon/news/etap-kubka-sodruzhestva-po-biatlonu-v-hanty-mansiyske-rezultaty-muzhskogo-sprinta-28-noyabrya-2026-2479960/",
-          "title": "Корнев выиграл спринт на этапе Кубка Содружества по биатлону в Ханты-Мансийске"
-        },
-        {
-          "source": "sport-express.net",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNby0zbF9NWExtcnZxbXBCejFpRXdJSkVjS1o4d2lYNG9CU0hCai1Ea2RtaTNuY0UxclkxbllXZlAzb2NVcE5RSFA0TEpaaGUyWEJGdnBYSXhRNFdzWkFaOUJUclZnbDh3X2R6czVuQkFDd2pZRlhScTVRd25iVTFXUnNveVFFV1BGaXcwdF9sZC0taGFZbS1pNjVxeVZVVENRa3paLV9jeFJMcnJvVjFrbzFqRHB3cFhQU0prYnliSUg1RVdhQldESjNtdEUyaWZFUmhLMGxmYUloTGNheC12NEtiWmdaUQ?oc=5",
-          "title": "Корнев выиграл спринт на этапе Кубка Содружества по биатлону в Ханты-Мансийске"
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGk2b2tIWjRqQXA3UnFVM1l4NmVfN1Q1dk9RbEtpa1djYV9iVU8yMGR1SlEyZEdXVEZlUmQzdFNoWVhQUHFpaXJkQVo1OUdKc0JPMmFmRGRhMDlrQUdZTG1WQThHQUVYYUZsLVlteVBQODdpeDlUSHNnZnYzdS1MQVVodDE0NlhtRkpWeUw0T0VrVGpLWHRMY2hjbFVOQ2RJTmZhN2N6QmhMODJrQk5DVFFUc2tSSTVTMGNMcVVYRk4?oc=5",
+          "title": "Корнев выиграл спринт на этапе Кубка Содружества в Ханты-Мансийске, Серохвостов - второй"
         },
         {
           "source": "Olympteka.ru",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRZjZkZE00T1FUWlVGanhUR3ZLZThsV0xoR2VlWlZRaWg1aWhYU1JoS3lid2V0cmtLVms5ZWQ5cDlheXZsT0ZRTEs5M0VBQmU1UUptQ1k4eFlGMEVhMHcyaA?oc=5",
           "title": "Александр Корнев — победитель спринта на первом этапе Кубка Содружества по биатлону в Ханты-Мансийске"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    {
+      "key": "233e48f129",
+      "title": "Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia",
+      "summary": "Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia motogp.com",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 11,
+      "growth": 0,
+      "heat": 25.92,
+      "published": "2026-11-27T16:12:34+00:00",
+      "latest": "2026-11-28T09:09:52+00:00",
+      "refs": [
+        {
+          "source": "motogp.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkhqQlI5QnFJaE9EWklLQ3FxZm1YbE9aUzRwVmJvUDB1dVRuWUFrWFVoX2FrVy1FbFRSR0hlQklNQ0l0eURJdGwtYnZFLXFNUHBUblpZUGdEWjAxQVYyUU5lUkxaMlFjclpBYUpJWDE2Wm1ocjBEYndyMkd4T2c5eW03c3M1TW1rR1F1YkJhYWF4WGtWTW9naUJ1NUVaU0o5U1lRcGtDRnY4RUpEQ0dMMnJrV0NDMWVBUkFoUHRXX2w4VHJsS1E?oc=5",
+          "title": "Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia"
+        },
+        {
+          "source": "Motorsport.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjVYc2ZFQ0tyR0JTQ19KdWctZW1nN3NRZ2NBeEs4Qmt1cmlwUExtLUFLRm9aU1JueDZ0dTRQXzA2amp6LVRCcHhVUFlnenczMUJXa2tmMUNyS0w4VFpjNXBDR3EybEFMdUUzN0p1NXBMTnVobXpjcEJyblczUThrVjZoUFV3WmpUc2MySV9RVFRaRjZyVWpjUVFUR0V2LS0tX1UzZXFuYVR3ckZmVkRpcmI1M1M2WTREVEtjekRDd1dsd3dKc1lHRzZKUWk?oc=5",
+          "title": "MotoGP Valencia GP: Marc Marquez ends first day of final MotoGP weekend in style"
+        },
+        {
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2hCS19nNWh5VnNxaWQzRmJtTTczWEJ0Q2NCT2pvNU1qYWc5RXp0Q2dLdWV0aUV1VWx2N2NXWUwwUW5DVkJYZFJfb1VXOFFYYXJZT0JabVlyNEtkUXdQMmZhdU8zUlhrREd5NGI3YVdIZ1c2WGg4dW54cHo3RVlfR2wwQmlZSWRPX0J5SDU0ZGV3VFVneFJmU0FiWGhhUHdJUks4MXRmRUpKd0pXQWJubHotRkFlVkd1b0dpTG1DUFdZRkdqcEF2ZGtUSdIBywFBVV95cUxPZDdoNHZOWlFjNFEzd0h1TUxUTk9DXzVUdG5LSktaeXpRcVVGOGJNcnJBYXJreXRwU0pxcERiZkJJM2VhZTNrU2VtNE16Qld2VE1pckZxYThGakVwbVNISVJYZGF6NVlheUJGdElYUW5YRG0tNTlWN1kyRWhVWmlCczJhMHpCYlBld3JlVXFYb245S3VidDh3UDBYN3FnbEV4LV9iM0NmWDBFODAycVFZU3VhM00yY1UtT25QVzlsZl9CcXdYclB0anpjNA?oc=5",
+          "title": "Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title"
+        },
+        {
+          "source": "Crash.net",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmZWSWJLWXJwU3hseXlmX1VKZ0lTT3dzaTBZX0pNOEF6UHpFbGVqQkNMMXJXc0VfaUFnT0w4OXAxMEdLZzNNVFJXdFdzVUUzekZCRFgtV1JrdXZ1MGN2c0ZwTXJ1Q2p3VVY0cU4xOWdHQnp5bnNBY21zVnJWZkN0ZXRfRmNsMnRsdzBGRFdwVnBtaFgtM1NjNVFBNmdXZU5qbGFFaXpid0o1dw?oc=5",
+          "title": "Pedro Acosta sends defiant Ducati message as Marc Marquez retires"
+        },
+        {
+          "source": "BBC Sport",
+          "link": "https://www.bbc.co.uk/sport/motorsport/articles/c539gd3r3mk2o?at_medium=RSS&at_campaign=rss",
+          "title": "Eight-time champion Marquez to retire from MotoGP"
+        },
+        {
+          "source": "GPOne.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkJ2cGI2YkYyQndBcURVRGtoeTF1dmpJNFRMVWRfb1NrajRWaVNoYnpBdVNRSTdTTEpxaC1iUk40WVNGTU5pdi1Jdk9McHR3ak1vVXRJdENmbXJlOHJ0VVpnVzBYQmY3SDJqTGdLRGZMVFY1UG9GSzdGUVhpTWhNSUZFM2N4ZkNuQXVZWTFYODc4cjFiZU9Jd2xmM3NDR1IzandKRjI4TE9VOTNMb1hWaWVIUFhzUHYtS0V3QmlYMlQ2UjNzTnVpZVVCUldBWkk?oc=5",
+          "title": "MotoGP, Acosta on Marquez's retirement: \"Sharing a garage with Marc was a dream and a goal for me\""
+        },
+        {
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUxOLXEyNlBlV0lQSFdvOVJ2cnh5RXRVcWJqWXRkSUM1QkFjUnNrQ2J3OV8wT2hyTjdULXlzN21EZGh0cXA1a29IZTRSU0FhRHNjNzFxUkpaYURaeW9yY3EySFpNX2tTclRTVkFBZGRuMVlxR3ZaR3UzMkVKa1U2RVZPcFdianIxN1pYN1ZsdmphMWtWMXAyN2gtakh0VjVVbVJOZU1iSmRNdzBVSnfSAbQBQVVfeXFMTy1sa3ZTZ3ZHc05MUTFzMTEzMlRlWE0zVXVMaVFWX2hueW9tT2hBRHhjT0ZhZ2syWHhveXhIUHBrbDJiZ3UzYVhHTS1tRG1Pc1U2VUVGYjFEb2ExS0JEcnJFazJSajF4Z0UyOXVaSXEzbzRCTjJEZ3FVOGpBdlpOV1BoUG81bnFZR0tnQ1p5SEVUV1pnbzQxdXkwMDl2ODFOMmFpOW1xMjlzSTZ2akUxeXhMdlBW?oc=5",
+          "title": "Marc Marquez v Valentino Rossi: Who wins MotoGP GOAT debate?"
+        },
+        {
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5",
+          "title": "End of an era as Marquez announces shock retirement after eighth MotoGP title"
+        }
+      ],
+      "first_seen": "2026-11-27T17:42:57+00:00"
+    },
+    {
+      "key": "e3dd803044",
+      "title": "Горбачева стала пятой на Гран-при в Японии, Петросян – седьмой, Син Чжи А победила",
+      "summary": "Горбачева стала пятой на Гран-при в Японии, Петросян – седьмой, Син Чжи А победила Рейтинг Букмекеров",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 9,
+      "growth": 0,
+      "heat": 22.89,
+      "published": "2026-11-28T09:29:55+00:00",
+      "latest": "2026-11-28T09:29:57+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261128/gorbacheva-2134593345.html",
+          "title": "Горбачева стала пятой на этапе Гран-при в Токио, Петросян — седьмой"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6717438-gorbachyova-zanyala-pyatoe-mesto-na-gran-pri-v-yaponii-petrosyan-sedmoe-sin-chzhi-a-pobedila.html",
+          "title": "Горбачёва заняла пятое место на этапе ГП ISU в Японии, Петросян – 7-е. Син Чжи А победила"
         },
         {
           "source": "Sports.ru",
-          "link": "https://www.sports.ru/biathlon/1117450388-kubok-sodruzhestva-rezczova-bazhina-sola-smolskaya-metelya-xalili-vyst.html",
-          "title": "Кубок Содружества. Зырянова выиграла спринт, Резцова – 2-я, Терещенко – 3-я, Бажина – 6-я, Метеля – 12-я"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261128/kornev-2134577108.html",
-          "title": "Биатлонист Корнев стал победителем спринта на этапе Кубка Содружества"
-        }
-      ],
-      "first_seen": "2026-11-28T09:28:43+00:00"
-    },
-    {
-      "key": "9e0a8fbaf8",
-      "title": "Горбачева два раза упала в произвольной программе на этапе Гран-при в Японии",
-      "summary": "Горбачева два раза упала в произвольной программе на этапе Гран-при в Японии Рейтинг Букмекеров",
-      "lang": "ru",
-      "sport": null,
-      "outlets": 9,
-      "growth": 0,
-      "heat": 21.92,
-      "published": "2026-11-28T09:21:40+00:00",
-      "latest": "2026-11-28T09:27:09+00:00",
-      "refs": [
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/figureskating/news-6717414-alina-gorbachyova-dvazhdy-upala-v-proizvolnoj-programme-na-etape-gran-pri-isu-v-yaponii.html",
-          "title": "Алина Горбачёва дважды упала в произвольной программе на этапе Гран-при ISU в Японии"
+          "link": "https://www.sports.ru/figure-skating/1117450457-gran-pri-yaponii-gorbacheva-petrosyan-chiba-sin-chzhi-a-yu-en-aoki-yam.html",
+          "title": "Гран-при Японии. Син Чжи А победила, Чиба – 2-я, Ю Ен – 3-я, Горбачева – 5-я, Петросян – 7-я"
         },
         {
           "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-po-figurnomu-kataniyu-2026-petrosyan-nabrala-121-62-balla-za-proizvolnuyu-programmu-v-yaponii-28-noyabrya-2026-2480003/",
-          "title": "Петросян дважды упала в произвольной программе на этапе Гран-при в Японии"
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-po-figurnomu-kataniyu-2026-rezultaty-zhenskogo-odinochnogo-kataniya-v-yaponii-28-noyabrya-2480009/",
+          "title": "Син Чжи А завоевала золото на Гран-при в Японии, Горбачева — пятая, Петросян — седьмая"
         },
         {
           "source": "sport-express.net",
@@ -259,234 +269,15 @@
           "title": "Хазе и Володин стали первыми на этапе Гран‑при ISU в Японии"
         },
         {
-          "source": "Sports.ru",
-          "link": "https://www.sports.ru/figure-skating/1117451110-alina-gorbacheva-s-dvumya-padeniyami-ispolnila-proizvolnuyu-programmu-.html",
-          "title": "Алина Горбачева с двумя падениями исполнила произвольную программу на Гран-при Японии"
-        },
-        {
-          "source": "РИА Новости Спорт",
-          "link": "https://ria.ru/20261128/gorbacheva-2134593345.html",
-          "title": "Горбачева стала пятой на этапе Гран-при в Токио, Петросян — седьмой"
-        },
-        {
           "source": "Советский спорт",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGtURk4tY3dtcThyX1h4V01KYnlyMlZxbUZaRFRYS0dpQlBUbWJHV1JJRFR4Q09HeGNzVHp6UTJkaEt1WTBtWXRkZW9jUW5laVd5Zlp0MW5ORzJPZ2xKWS1famNIR252Q01TcXNXNlRyRC03UTM3czBKRVNkbjZQT3RSVjFwNWlDOEN3cVpBd3VGSzd2YTNldGd2RnB0NHEwRnN0TldkVWM4MXU0bGtmUjhLNzl1ZlE?oc=5",
           "title": "Син Чжи А выиграла этап Гран-при ISU в Японии, Горбачёва – 5-я, Петросян – 7-я"
         }
       ],
-      "first_seen": "2026-11-28T09:28:43+00:00"
+      "first_seen": "2026-11-28T09:42:30+00:00"
     }
   ],
   "known": {
-    "ae97558647": {
-      "key": "ae97558647",
-      "title": "Артур Субханкулов и Энди Крус показали одинаковый вес перед боем за титул IBF",
-      "summary": "Артур Субханкулов и Энди Крус показали одинаковый вес перед боем за титул IBF Чемпионат",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 14.24,
-      "published": "2026-11-26T10:25:15+00:00",
-      "latest": "2026-11-26T13:30:09+00:00",
-      "refs": [
-        {
-          "source": "Чемпионат",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcEg4WldscHVuOXQ0LTA5Y000VllwdzhrSjRfclZKTk1WeGk5Tl9qMzl0VGt6dUhNcnlmUDlwQmV5Q01FR3czYU9CaHFzcmpYZWdmVXBVR0VMd0tpRmc3WjZaU1djeVZSd2oxWFBCWWxRQmlqSGFDVTN5TEU3YWlPYy11aE96X29TSjBMT0RpSEU1VmlBSEtacXBPQlNaa2wxS0Zzb2tRZ0p3aHdMSEhrREU1SHFQR1c5blVZMEZ2N2FhTU1rSVJF?oc=5",
-          "title": "Артур Субханкулов и Энди Крус показали одинаковый вес перед боем за титул IBF"
-        },
-        {
-          "source": "Спорт-Экспресс",
-          "link": "https://www.sport-express.ru/martial/boxing/professional/news/artur-subhankulov-i-endi-krus-pokazali-odinakovyy-ves-pered-boem-za-titul-ibf-v-ufe-2479222/",
-          "title": "Артур Субханкулов и Энди Крус показали одинаковый вес перед боем за титул IBF в Уфе"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFhzRV94Nk4zQWxPMUxYaUhxWTlXajVKcE5LeEV3V19BWnZuTHIzZmZkbVl2SjFkcHJ1bk51TVVPYWZmNHY0REF2cHlzckRDQ2JaZy1fWlphbEFjaFJxajJDR0lNYUFWdHZEWkdfalBlOXd0WURFRjdldVZzNWw4S2VNdEdWa0hWWlBFemgyTy1aLXdkSGZEcTZTcEpPV2h1ZXFYalhGZ0k0dTQ?oc=5",
-          "title": "Субханкулов и Крус показали одинаковый вес перед боем за титул IBF"
-        },
-        {
-          "source": "Championat",
-          "link": "https://www.championat.com/boxing/news-6715048-nepobezhdyonnyj-artur-subhankulov-nazval-tryoh-luchshih-boksyorov-mira.html",
-          "title": "Непобеждённый Артур Субханкулов назвал трёх лучших боксёров мира"
-        },
-        {
-          "source": "vRINGe.com",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WcXRJVzRGRG5oYzZZMnNvQy15bXJacldDTUVKMmFja0NZaHJzUHlWSllRNjhHMnRBNjlFSmNfRFR0Y0ZDVVdTT0pBcXFkUFMxdUgtUmg5QVNmeldmdGJXeTI5R1Jtby1NNkRtREZPNEppYXpU?oc=5",
-          "title": "Субханкулов и Крус прошли взвешивание: по 61 кг перед боем за пояс IBF"
-        }
-      ],
-      "first_seen": "2026-11-26T13:42:38+00:00"
-    },
-    "b19449ca4b": {
-      "key": "b19449ca4b",
-      "title": "Daniel Dubois to defend WBO title against Joseph Parker",
-      "summary": "Daniel Dubois to defend WBO title against Joseph Parker Geo Super",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 9,
-      "growth": 0,
-      "heat": 22.98,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-26T09:06:00+00:00",
-      "refs": [
-        {
-          "source": "Geo Super",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMThRcU0xTC05dnVWamJFTDRLVEhjeVRsLXNCaWFkYzBwdHJINTdvTTVKUnFpQUhyYU5Zek9wZUZkejhtWGFtNEtlVjlGdndudWtqQ25QLWtLTmVkRmRUQ2NiLWtSaHp1U05CV053TWJ2ZEw1ZFdWRktna1FUWTMxUFRIZ0dnMW1Mc0ZHU19tTmFiTHVXdENF0gGTAUFVX3lxTE1kOG9kb284aWpyV0dDYlBzMU9GQUtEMmJBQU9OaUNBYlJyekdxdFJKLURodlpfWmVzNGN0dE1EVkpvdnRYemxJQ3BCNzZwdVIxSExtaWF1U3Z4UFo2SEhVNXRoelZYdEIwMDRzOWE1QldUeTNYVVgwMEQ3Tk9Jb2h6Snd6X3A0ZzlOR1F3REpqa2tzSQ?oc=5",
-          "title": "Daniel Dubois to defend WBO title against Joseph Parker"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVF9BcDF1eFlBQ2N2QjFBa1RIUHRyajdqalZqRzl6bGxfTktyTjBOZmdXMDdkR0J0QnFZZ0RXVHpkblVtWFFnemZRbTdaWE1kRDlnMUExQ2RZbURXR3F2WGtVUVNlYUFmWHJ5WkxZOURHakRFNHc0bFRBR012d0NXOUg1TFNDMkZDaHBVa2sxdFkzb0prT3JGRkhISG9UM3pKd20wVFlGRkxyTVVOZUE?oc=5",
-          "title": "Daniel Dubois Set to Defend WBO Heavyweight Title Against Former Champion"
-        },
-        {
-          "source": "The Independent – Sport",
-          "link": "https://www.independent.co.uk/sport/boxing/daniel-dubois-joseph-parker-heavyweight-title-manchester-b3091799.html",
-          "title": "Daniel Dubois to defend heavyweight title against ex-Anthony Joshua rival in Manchester"
-        },
-        {
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0wxZkFtRUprS25TazE5bzFweHp6czdaTi1paE41WnY5Q0pWQTRKTlFzdEtUaThBNnlBaHU1MGtOZDVDYWxVT2k4cFlqN2ktZGZsbW5zdVhuYzFhU29DOWZuazRvXzYxcEZ4NEhqNGpZeXAtTGFFUUlqcm9Jb2FoSWZ2YWF6NzBVYjFQQ0pJbWFqUGtCMHFwY01ZWDF2QUQyMWc?oc=5",
-          "title": "Dubois to defend WBO heavyweight belt against Parker in January"
-        },
-        {
-          "source": "ESPN",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWEzWFpJUWQwZkNza1JGN3c4NmwycEtMTzNCN1BIOTB5WDBmZ3Q5aFZna0RSSnI5TVptV2lobTJqaWliNXJjcXRVZEVvZ3d3Y094WVk4YUxWeEpnX2ZldTIyU3V0S2lTU004b2lzdWJackp4V0c5WlZaMTJBVnhlTHVJVFpRV3FRTkVTd0dIT0VYX2ZwUndVYVplM0U4UlV3eXhLdTJjOXN1eW8?oc=5",
-          "title": "Daniel Dubois to defend WBO heavyweight title vs. Joseph Parker Jan. 30"
-        },
-        {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
-          "title": "Dubois to defend title against Parker in Manchester"
-        },
-        {
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Zd3k3cExEeEdSWUNiMFlQVEF1UmF1bUxiQ3RsMnQzVXVTYlNqNjR1UXEyOXc5TzhYeTNfdlhTQWtxOVFjeHlkcExLelIyVElYMWRaemhIX0M2N0w1UTJXSXVqVlFUZw?oc=5",
-          "title": "Daniel Dubois to defend world title against Joseph Parker"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0RJU042aEt3UE5WLU9NLS15NmU0WlpUOXg4ZTNRQk9KWVVvdks3eU9TU19ZRDBHQ3ctZkNBTXluclE2Sm05eEtjb0F1N3NXSENUWjZrQS13NXRzOVBQUWpyWWp0enBGV3A3ekhVWnBNay1mSUxNOFliYmpKRkNaMExQRjB3YnlHb3pvd3Noakc1QnlISG12eWdTbHJsU2lVS2VWaGpETmQ3N3diNktCOVVBSU10ZUxBZnB6U1dRcWg1WVoxYldZTWtvODlqQQ?oc=5",
-          "title": "Daniel Dubois to defend WBO heavyweight title against Joseph Parker in January"
-        }
-      ],
-      "first_seen": "2026-11-26T13:42:38+00:00"
-    },
-    "b33c3d76af": {
-      "key": "b33c3d76af",
-      "title": "Ислам Махачев допустил переход в средний вес ради третьего титула UFC",
-      "summary": "Ислам Махачев допустил переход в средний вес ради третьего титула UFC Newsroom24",
-      "lang": "ru",
-      "sport": "combat",
-      "outlets": 5,
-      "growth": 0,
-      "heat": 13.4,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-26T11:18:14+00:00",
-      "refs": [
-        {
-          "source": "Newsroom24",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iOHBZY2FRbG0zeDMydUFMZ0ROMnQwdFNQQXVWSW1uOTU5VmU3ODFQbHpuR2lRRnctYk13Vy1OS0d5Q3g3U19GdkxDWDFwT3VEaUZTdzkxd0hYcGxhYUk1Z2F4VE96TnM?oc=5",
-          "title": "Ислам Махачев допустил переход в средний вес ради третьего титула UFC"
-        },
-        {
-          "source": "airpress.kz",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uU0NQUE5kbHdqY0RDZTJLUm1XNVFraXJ1U3E3Z09yYUlycHFuNF96Nzh2anFOdGFMd01ZSFRBdEtsRTNTYnQ5bWR6aHhGeTFvMnlSVXRKZXJEYmMxMGxQSk4xLVIyMnVTWnk0?oc=5",
-          "title": "Махачев допустил переход в средний вес UFC: «Будет очень тяжело»"
-        },
-        {
-          "source": "Чемпионат",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWxaU2V3Q1FiVFRsYTJsV2p0WkRLdXpUZzBob0owbnFUbGxhalBRUDZGd3U3OV83RzR5NDNZTXo2UmliaTRFOHJ2eGhGMHF3MW9VLUMtN3lNWkhJTU43UjFPQ05aU0hUeFhYb3hMVmdXZ0RnVGpwYXJ1MWFiaXhETmh2SXVQRjMtcnVKMjBlcmVRSS11QksxT084WTlaeGpLN2RGa2RmQ0k?oc=5",
-          "title": "Махачев рассказал о мыслях про переход в средний вес UFC"
-        },
-        {
-          "source": "Meta MMA",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3FLTEZvcXprSHYwZFJZMWNqNkdiLWFFQm1xTlgwOFpnSFZGN1BDMUhZSjVvV01DTmNjaGVYcUhQQVRrV09rVjcxTHNPT2NxdURGOVpXem5ESERNRkh4cGFYMjc0NkdhazE0Z3Bfc29nTkVPSjNJQkFNall5RnpNQXFYTFFiak9EU0lWU0xDTUF0cFBY?oc=5",
-          "title": "Махачев допустил переход в средний дивизион UFC"
-        },
-        {
-          "source": "Meta-ratings.kz",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkVsNUZLNkNodkg2OXBkQlBUX3JpbU5kdlBKdGhLNEdGVEI5ZWlTNkp0SGdEOHVjczFlWWp6TmduVXRUcTlUR1BYNFA0Y1ZOTmk4aVAtNEVCVWxVSmcxakgtQWRxWEliMXRlUW02b292UXYtZzZ6U3NabGQwTU5iTm9sYS1yamg5TEV1R3pIRnBGc2RtY1cwZ1k2OWdDYnZ6U2U0T1ItdDM?oc=5",
-          "title": "Ислам Махачев высказался о возможном переходе в средний вес UFC"
-        }
-      ],
-      "first_seen": "2026-11-26T13:42:38+00:00"
-    },
-    "160c4356c7": {
-      "key": "160c4356c7",
-      "title": "Eugene Bareman shuts down Carlos Ulberg vs. Navajo Stirling talk",
-      "summary": "If you’re hoping for a teammate-vs.-teammate fight for the UFC light heavyweight title, stop dreaming, City Kickboxing’s coach said.",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 11.58,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-26T13:02:26+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/eugene-bareman-shuts-down-carlos-130226479.html",
-          "title": "Eugene Bareman shuts down Carlos Ulberg vs. Navajo Stirling talk"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPM2xTVnZzcmt0Wkl0ZVNTcGNiTmZFY0NxTlgyMTBmcUVRR1h2Vm1MbkJ1NkdaVTk4cmtyY3J5ZHE2UHNiZzdSekZlM1ktd25nakxPTG9BN3k4S2NwSXlnaTNzdjlwSTZGcHFUbzNNczY5SFFBcXphSFd1N2N6QkhJb05OM3NHazYxUWc3MmNNTjJqaTRMclBhblJfRHhGRk9pLTJuS2steU0wU1lVZ1lEUzJ3b0EwUEh2SmNvMEF3TDRqTTRNUDJYMkNEN2JGWGsySF9zeEZ3RG9kVE5MX1ZXdks0ZUZHX1E1R2Z0QS1FYVdwM0VEMDY2VzJ1VmV5MHJOeXc?oc=5",
-          "title": "Eugene Bareman shuts down Carlos Ulberg vs. Navajo Stirling talk"
-        },
-        {
-          "source": "BVM Sports",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVDUVMtS29pY1dwQ1Mxblowemw5UzNUOHE1V1FkYlJmanBuZUVxbjAtWWZkVFhjenFRVXBsdHJxeUN5SXpPQ3NjQnNXeXFac2ZpLXplbDdXckwzTl9kamVCc3lfTTVhOHRkSEhUOHJfSlVpQ05HX1VNRnA2NmpDSmhjS2FrSGtfbTZaQm5VeS1wYy0xMnhJUg?oc=5",
-          "title": "Eugene Bareman Rules Out Ulberg vs. Stirling UFC Title Fight"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcGhpVjhSVHpwXzJWR0o2NV9NVTkwYnoteG1zWWx5UkhTam5zcFVEWGpKQ0pWajFGY0FuRjc4ZzB4bU1SN1JLZ1Z6eU1kN2hjMzJOWGd1ZTd0QldnVlQ1MGR5Y3RyZ1FnTVMzMkxyVDZGRm1qaGdsUzZ1ZlJQS3Z3RkFUVWNtOGlscmFYR05pelZTNXRQSHZ6VWh5bktHWk9wQWlTb3BSSU5UbVlfQS03c0tDVmxXa0g5QmJLVGVGY09rOHFMb1ZUWFVsSkVDaDJ2aVdvUkIwaDhGVjFZLU9j?oc=5",
-          "title": "Coach Eugene Bareman shuts down any chance of Carlos Ulberg vs. Navajo Stirling UFC title fight"
-        }
-      ],
-      "first_seen": "2026-11-26T13:42:38+00:00"
-    },
-    "911e44f9ad": {
-      "key": "911e44f9ad",
-      "title": "Navajo Stirling & Carlos Ulberg Make Decision on Future UFC Fight",
-      "summary": "UFC light heavyweight teammates Navajo Stirling and Carlos Ulberg have made a decision about a future fight against each other.Ulberg is the current UFC light heavyweight champion, while Stirling is one of the top contenders in the weight class following his KO win over Jiri Prochazka at UFC Qatar — the same man whom Ulberg […] The post Navajo Stirling & Carlos Ulberg Make Decision on Future UFC F",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 4,
-      "growth": 0,
-      "heat": 10.97,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-26T07:00:36+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/navajo-stirling-carlos-ulberg-decision-070036890.html",
-          "title": "Navajo Stirling & Carlos Ulberg Make Decision on Future UFC Fight"
-        },
-        {
-          "source": "Sherdog",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzd4VHNjMjRwWDdsTlpkNDFPaXJhM3QzNVRiR0YzSlN0RlZIN0c3RWdwTnJJbHpRNFhSd0EyaklNSEkydnJaWThLSkMxN3dXWU9JaHN3WXEycUZHLTY0aVFEUFhwaHZEVGhHM0FHU0dVQ1JGS3lSeUJOVTZ1a1kxOUt5Z0MyUXl5YldPWlIxUTd0RVZaNU5za2NybUlfcEFhVktBRlVURUpRTXF0d1Z1MtIBtgFBVV95cUxPa2FUSDlweTJiWG5GV1Q2NHVkWnJndEdRUWRpUXNtXzRaUkYyMVE1MW5Od2NuV2FRaDNybHFIekNoR3BrdWtvMWgwNWhOX0xnb0M5bDdCb0JjejdNQ2c2N1F0UzFReWlRd1dKYkpQcHdVendYMzB5OW51UkNTMks2d1h5NW5TbFIzeGx2dHR1RmwtNEJpbi1HUHFEMTcwQkZSTi1sc0ZuR2ZIZWQzN2o2WFlKajFKdw?oc=5",
-          "title": "UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc0xCdlYycUhGeGZmenFGWXFtR24yMVYxczFBTlNFdGtfUEVrdUFlaWdOVzhxQ2VNR01rNkRfLTBfOWliVmVzeE1GaFZWWk1tV05OLUF4RjNOaEJhd2Jxc2wyX3BlZEd1OG9iaGZ4eXJSSmNiTUhEVjVzNDdnSW1FYWM5T2pqX2RjUWZ6bEY3NA?oc=5",
-          "title": "UFC champion Carlos Ulberg & Navajo Stirling will never fight, coach says"
-        },
-        {
-          "source": "MMA Mania",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHVNUDVnV1NROFVfMDJHb3dxbWU1NzFlb2FMcUVtWHlNeUpBS04tcnZtOXJ5ZjhEMTVpZjFNano1eXk1cTJLbEFPZUFTczRqLUpkRTdJZ0ZDdGlhbldWdEdwTDVtOWtTT1N1dTA5TmVZYzZKcDJMcDBob3ktUkt5ZGlqVUNiNnN0Nk9KNjZocnhVOEZhWWNtTFFYTWtLQWstMExMOWJvei02UWRtRXhxRlQwczZEQXpGVm9DSHF3ZjFhcGxsX1pYQTl5aDJUdE9G?oc=5",
-          "title": "‘What the hell?’ Navajo Stirling responds to ‘angry’ UFC critics trying to ‘rush’ Carlos Ulberg fight"
-        }
-      ],
-      "first_seen": "2026-11-26T13:42:38+00:00"
-    },
     "74cb287fa9": {
       "key": "74cb287fa9",
       "title": "Football Daily",
@@ -2489,11 +2280,11 @@
       "summary": "Marc Marquez sets new lap record in final Friday of MotoGP career in Valencia motogp.com",
       "lang": "en",
       "sport": "motorsport",
-      "outlets": 13,
+      "outlets": 11,
       "growth": 0,
-      "heat": 30.09,
-      "published": "2026-11-27T16:11:32+00:00",
-      "latest": "2026-11-27T16:39:25+00:00",
+      "heat": 25.92,
+      "published": "2026-11-27T16:12:34+00:00",
+      "latest": "2026-11-28T09:09:52+00:00",
       "refs": [
         {
           "source": "motogp.com",
@@ -2506,14 +2297,14 @@
           "title": "MotoGP Valencia GP: Marc Marquez ends first day of final MotoGP weekend in style"
         },
         {
-          "source": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3VqZ0VGUlpIbGgwYlBsSVlHTGlrbnF2ZmNPSTNaNEd0M2l5NU5tSUI4eFV2RUdVb2ZkbG1WcngwT1JaWkhiLURzVXo4UkhqU1FsT1V2X3B1dTJPaTVQSW1LUHVkVGFNb2hoNUtNX1BwZnBHdmFEQnEwWjlkbDYwa1ZGaDAzd1dhb3FtUWJ2TjBQdXlkeW5QcG5ScHAzeHNGMHpfbXlHSHg3S3VnX25HUlRYQVB5YkhFaXRqeFp0WGo?oc=5",
-          "title": "Eight-time MotoGP champion Marc Márquez announces surprise retirement"
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2hCS19nNWh5VnNxaWQzRmJtTTczWEJ0Q2NCT2pvNU1qYWc5RXp0Q2dLdWV0aUV1VWx2N2NXWUwwUW5DVkJYZFJfb1VXOFFYYXJZT0JabVlyNEtkUXdQMmZhdU8zUlhrREd5NGI3YVdIZ1c2WGg4dW54cHo3RVlfR2wwQmlZSWRPX0J5SDU0ZGV3VFVneFJmU0FiWGhhUHdJUks4MXRmRUpKd0pXQWJubHotRkFlVkd1b0dpTG1DUFdZRkdqcEF2ZGtUSdIBywFBVV95cUxPZDdoNHZOWlFjNFEzd0h1TUxUTk9DXzVUdG5LSktaeXpRcVVGOGJNcnJBYXJreXRwU0pxcERiZkJJM2VhZTNrU2VtNE16Qld2VE1pckZxYThGakVwbVNISVJYZGF6NVlheUJGdElYUW5YRG0tNTlWN1kyRWhVWmlCczJhMHpCYlBld3JlVXFYb245S3VidDh3UDBYN3FnbEV4LV9iM0NmWDBFODAycVFZU3VhM00yY1UtT25QVzlsZl9CcXdYclB0anpjNA?oc=5",
+          "title": "Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title"
         },
         {
-          "source": "The Race",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTQxZ05QeGpSYnlZeGcxRkZ6cU5wYnpFWTdwQVoxY3NQbXJCamJNVHNoamt4NEVObjBNWmlBVmsyVGFSdTFjMUcydFVQUjZoSVE5cm5mVGFEdjRCdHZvMEhvZXN1X0JJVEdrdW5JVGRRaVl1RHRFaHZHZU9PY1RDclFtU050RWNmSW1wMjA5U20?oc=5",
-          "title": "Marc Marquez stuns MotoGP with retirement announcement"
+          "source": "Crash.net",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmZWSWJLWXJwU3hseXlmX1VKZ0lTT3dzaTBZX0pNOEF6UHpFbGVqQkNMMXJXc0VfaUFnT0w4OXAxMEdLZzNNVFJXdFdzVUUzekZCRFgtV1JrdXZ1MGN2c0ZwTXJ1Q2p3VVY0cU4xOWdHQnp5bnNBY21zVnJWZkN0ZXRfRmNsMnRsdzBGRFdwVnBtaFgtM1NjNVFBNmdXZU5qbGFFaXpid0o1dw?oc=5",
+          "title": "Pedro Acosta sends defiant Ducati message as Marc Marquez retires"
         },
         {
           "source": "BBC Sport",
@@ -2521,19 +2312,19 @@
           "title": "Eight-time champion Marquez to retire from MotoGP"
         },
         {
-          "source": "Grande Prêmio",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2xDaEV3RExYX3d2XzIyUTY0Q2QtZ1FDLWVpSzV3cEIweUNmdXJjbnl5blB4WXVER2FFY0t1REtDLWJxaTJBMGI3NmN1OWNIT1JQTnh6a0RleGd3MkhXSEhkdU1fdUpEbzBIN0FKR3ZPWFhRTDRKdkVqY0hmWGMwTDhob3puenNmRXE1WUZJOWJfS1VKZ3dMRWlxU1kyZUVSdVFCcS1Pc3JfV243LXVWOTFHOU1FQTQ?oc=5",
-          "title": "Ducati was convinced Marc Márquez would stay. Days later, the MotoGP champion announced his retirement"
+          "source": "GPOne.com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkJ2cGI2YkYyQndBcURVRGtoeTF1dmpJNFRMVWRfb1NrajRWaVNoYnpBdVNRSTdTTEpxaC1iUk40WVNGTU5pdi1Jdk9McHR3ak1vVXRJdENmbXJlOHJ0VVpnVzBYQmY3SDJqTGdLRGZMVFY1UG9GSzdGUVhpTWhNSUZFM2N4ZkNuQXVZWTFYODc4cjFiZU9Jd2xmM3NDR1IzandKRjI4TE9VOTNMb1hWaWVIUFhzUHYtS0V3QmlYMlQ2UjNzTnVpZVVCUldBWkk?oc=5",
+          "title": "MotoGP, Acosta on Marquez's retirement: \"Sharing a garage with Marc was a dream and a goal for me\""
+        },
+        {
+          "source": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUxOLXEyNlBlV0lQSFdvOVJ2cnh5RXRVcWJqWXRkSUM1QkFjUnNrQ2J3OV8wT2hyTjdULXlzN21EZGh0cXA1a29IZTRSU0FhRHNjNzFxUkpaYURaeW9yY3EySFpNX2tTclRTVkFBZGRuMVlxR3ZaR3UzMkVKa1U2RVZPcFdianIxN1pYN1ZsdmphMWtWMXAyN2gtakh0VjVVbVJOZU1iSmRNdzBVSnfSAbQBQVVfeXFMTy1sa3ZTZ3ZHc05MUTFzMTEzMlRlWE0zVXVMaVFWX2hueW9tT2hBRHhjT0ZhZ2syWHhveXhIUHBrbDJiZ3UzYVhHTS1tRG1Pc1U2VUVGYjFEb2ExS0JEcnJFazJSajF4Z0UyOXVaSXEzbzRCTjJEZ3FVOGpBdlpOV1BoUG81bnFZR0tnQ1p5SEVUV1pnbzQxdXkwMDl2ODFOMmFpOW1xMjlzSTZ2akUxeXhMdlBW?oc=5",
+          "title": "Marc Marquez v Valentino Rossi: Who wins MotoGP GOAT debate?"
         },
         {
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5",
           "title": "End of an era as Marquez announces shock retirement after eighth MotoGP title"
-        },
-        {
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXJLTF9ZcEN0NGh3cDBHVk5tWEdKWGd4OUpEd2kwNHRfN05SczVocTZOa3dmbm1pRG1IWnB3Wjg1TEtZVFBPSlN6d2YzUHdBaW5aSG0wZ0ZwZFUtYjBpelMwaXp1U0RYRndrSG5XV0dGWjU1MGxyTUtETHNrUUdpeWNWeV9ZaTA?oc=5",
-          "title": "Marc Márquez, MotoGP legend, announces shock retirement in ‘Love Actually’ style"
         }
       ],
       "first_seen": "2026-11-27T17:42:57+00:00"
@@ -3662,8 +3453,8 @@
       "lang": "en",
       "sport": "combat",
       "outlets": 9,
-      "growth": 1,
-      "heat": 22.15,
+      "growth": 0,
+      "heat": 20.32,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-28T02:34:08+00:00",
@@ -3671,11 +3462,6 @@
         {
           "source": "Yahoo Sports – MMA",
           "link": "https://sports.yahoo.com/mma/articles/israel-adesanya-back-against-wall-023408172.html",
-          "title": "Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlFHb0ZONkZjcG9ESGRKODNIOWJlNEVDYW4tQVNCV1IwWTBlMTZtQW9LQ1QydG9mQUZydU1GcHltNVBpZDJzbmJEdV81X0ZyUVp5LVFJR01ZQzBSU2hCX1NUeFZfZWtKSGNza1lfRU1FWnhTdVp1dDBTd09fM0xMZktVSzY4a0p5SmJtYVBfTQ?oc=5",
           "title": "Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia"
         },
         {
@@ -3706,6 +3492,11 @@
         {
           "source": "Sherdog",
           "link": "https://www.sherdog.com/news/news/Israel-Adesanyas-next-UFC-fight-could-be-his-last-says-Dricus-du-Plessis-203756",
+          "title": "Israel Adesanya's next UFC fight could be his last, says Dricus du Plessis"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONERxbUs3V3NTTzZHX1NaQkdUaGdNY2NfUHBQWFBXTFRSeV9Xei1jQmxuUWNzVFpRbnJIRDJjRXlYQVdpbFJidnREOC1BYmR1R2s4V0ptNkF1TFBueGhWS0tzWFJkMUdxQUpadVVrdzl2X1ZqTEM2dlBkY1ROZDVQMFhYVWJwYUkyczVaZw?oc=5",
           "title": "Israel Adesanya's next UFC fight could be his last, says Dricus du Plessis"
         }
       ],
@@ -3755,7 +3546,7 @@
       "sport": "tennis",
       "outlets": 21,
       "growth": 0,
-      "heat": 47.71,
+      "heat": 47.65,
       "published": "2026-11-28T08:12:00+00:00",
       "latest": "2026-11-28T09:00:00+00:00",
       "refs": [
@@ -4030,7 +3821,7 @@
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 13.87,
+      "heat": 13.85,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-27T19:00:00+00:00",
@@ -4076,7 +3867,7 @@
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 13.28,
+      "heat": 12.96,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-28T05:50:13+00:00",
@@ -4108,6 +3899,253 @@
         }
       ],
       "first_seen": "2026-11-28T09:28:43+00:00"
+    },
+    "5a47b28bf2": {
+      "key": "5a47b28bf2",
+      "title": "FP2 Highlights: 2026 Qatar Grand Prix",
+      "summary": "FP2 Highlights: 2026 Qatar Grand Prix Formula 1",
+      "lang": "en",
+      "sport": "motorsport",
+      "outlets": 12,
+      "growth": 0,
+      "heat": 28.09,
+      "published": "2026-11-27T20:17:00+00:00",
+      "latest": "2026-11-28T09:25:53+00:00",
+      "refs": [
+        {
+          "source": "Formula 1",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLW1hbTRCblp2X0hIcVJTYUpwZkJCUDkxaUwwdVhydWhmS0JEMnRHdkxoZG83NmJBbGR5OV9LTl9xOUdHVEMyYUVjVGxmVVlaODdpUXd5dEFOR1p0cnhEdVBFRnJMRk56cWh1dzZfOG9GYWFIUVlvY0t6V1VqM0NMeWJUUi1qcVA0bnZ2QXVSRDcwNTRC?oc=5",
+          "title": "FP2 Highlights: 2026 Qatar Grand Prix"
+        },
+        {
+          "source": "The Race",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkc5OFJYM2VWb19nRnFiTmhlSDUwRlljMkVtN0hPZ1ZFMWJlVkotNFpiUGM1cWJscHBXSmhtTFFUeW1CRVBaN1Jvdzhqd2JwZmlpdE16WVNGWEtHWFdQT0NvRFZQLUVUdklhZExNZXNQMGlSclFhc1l3UUItd2V5RlpBYw?oc=5",
+          "title": "F1 2026 Qatar Grand Prix practice results"
+        },
+        {
+          "source": "RacingNews365",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZ1FaMVpqWnV4VXRXQlJBM21CRmtYTjg4QUFMSVJWdktGYzY5ZG9LWTM3TW1YUzZvYWZndVp0ZU1Bbi04UUtmNlp0VEN4YTR4YXJVSDhWekFGSVFKNXZTakhOOW1pQUg2VXZrOUdJLTRKN09CV0lSZ3lLLThYN0E?oc=5",
+          "title": "2026 F1 Qatar Grand Prix - Free Practice 2 results"
+        },
+        {
+          "source": "Federation Internationale de l'Automobile",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRG9SQ1JHeXVVbHN5cTBLUVFwb3BhS3JCVzBKV0FZQlFlZ0ZtdVZDQWhka2pZMEFORlphcnZqbVF5YmNhN0o2cTZRVEJfWVB4alpPQ2FNMnVqb1Nwc0tNZXdBRmxfQTNNbmNMYlowOTFzQi0wZ2VLQld5alAxWmJBZFVnTkVUWmJNSnJYTw?oc=5",
+          "title": "F1 - 2026 Qatar Grand Prix - Friday Press Conference Transcript"
+        },
+        {
+          "source": "World of Showjumping",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU3hmUVg2Rm1ickllMC1uem04a3I0MnJMVHJwTHhKY2FldjBtUXBCaWVEN1NOSXYxc3o1VGVhZWl0RnQ2X2s4MDd4aUN2akxfT0xxbXpYb1dyUnlFS2tEZVRCSHRWZmtVdnRFWDRpczJ3bUlYYXZMYndoeGRQYUJRUTFublI0Y1FrWU9NZV9YaWtjeDNxZ0g4VVZXclp0SkgzdzNLcF9mQ1pPNExMMEpyRHY3WDViWG9YMTBwSGpnTVpqc1RILXhSMWpSZGFLMHh6UzNRWUM3bV95d2RQd01YRmRrbFlYUEEyNFd6anJ5QQ?oc=5",
+          "title": "Mark Bluman and Phelina de Septon win BrainJava CSI4* Grand Prix qualifier at Wellington International"
+        },
+        {
+          "source": "| Eurodressage",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDFaa2NOUVpSbmJNYzBTSVJ6VUU0NzIzb09HazJLNllEdEJWb2cyTXYybUl4V190d3BLaEtzNUVOZHBYSXgtcnpsRnd5bkY5T2Z3TE03N21MRWg2WDVYMVFfZG1abTROc1RMbTBvZEpDa1YyTElPbGRjc1RwNjE3Nm5Tckw0Q1hKUnBsT0pzS3RYcE5YYUZ6NQ?oc=5",
+          "title": "Cristall, Aniko Losnczy's Grand Prix Ride, Moves to Germany"
+        },
+        {
+          "source": "GPFans",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjdNNlEwSkJ0XzNnWHMxM3pOWnlCLWdRZ2VVSkk0MGdJcTRIdjJmbXhiYlZaMnhaZEZJX2x3UW9ZaWd1MGZUeXE1aVRnOGNXTXVMaXIyMjVRZmlNcTZsT2VKYlM2MnJ0S1pzREZiQ09VRkprSUxYNVZWQXkwdVZZc0VRbUxmVlpjYk8yT3Z6Q3NfajFmUWFvRi1ESS0tLW9jMTNGdw?oc=5",
+          "title": "'I lost all respect' - The Qatar Grand Prix moment which broke Verstappen and Russell's relationship"
+        },
+        {
+          "source": "GPOne.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3FIWVB4eW04SU1RQjdLVDFIcTBWMVZvWkFKQUhqVXdJS2QwQ3ZUbWphZko2N2UzSUstQkRxTnIteXlyZ0Nydm85bi1XNWV1ZDg5OVQxUHpTNEhkMGJ5ZXpJbkgwb1RSZDZKZ2NUWVY4TDZFeGFVT1BtaVRoTGNQeFZHV2ZaTmtuX0tEMERfaGNsaHJabDJ3Zkw1dDVvY2VXZENWTzZxTQ?oc=5",
+          "title": "LIVE - Valencia MotoGP Grand Prix Qualifying: Live Coverage"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    "4432072994": {
+      "key": "4432072994",
+      "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке",
+      "summary": "Российская биатлонистка Анастасия Зырянова стала победительницей спринта на первом этапе Кубка Содружества в Ханты-Мансийске.",
+      "lang": "ru",
+      "sport": null,
+      "outlets": 11,
+      "growth": 0,
+      "heat": 26.39,
+      "published": "2026-11-28T09:37:37+00:00",
+      "latest": "2026-11-28T09:37:37+00:00",
+      "refs": [
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/biathlon/news-6717458-zyryanova-vyigrala-sprint-na-pervom-etape-kubka-sodruzhestva-v-hanty-mansijke.html",
+          "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/biathlon/news/etap-kubka-sodruzhestva-po-biatlonu-v-hanty-mansiyske-rezultaty-zhenskogo-sprinta-28-noyabrya-2026-2480014/",
+          "title": "Биатлонистка Зырянова стала первой в спринте на этапе Кубка Содружества в Ханты-Мансийске"
+        },
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261128/biatlon-2134593880.html",
+          "title": "Зырянова выиграла спринт на старте Кубка Содружества, опередив Резцову"
+        },
+        {
+          "source": "Sport24.ru",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb29wTXNpeDV5OXFEQkhHdUFlRHZYcFA0cU5vVHRPWDlSZDJ1d29FNUFTbkFyc1JwSkRDdVU1eEQtak41VUtpUUd6WTNuRWUwWjlMODhieHByMG5jS0RvUmVlai1zOWxOeW1XVlBBZ1g0NHJfeDNEbnFzUVFvVHRqT2dpUGZlV1NBTVRpTXNpS2NpTi0wMVdPZ0dUQXJxT284TkNQZmpvY1ctdmhzMFA0NWR1VGQ5U1AtN21Uem1RZWROSEhuRFhqeNIBzgFBVV95cUxNQ0hGRG04RUk2MWNiWWl0eEp4X2JVeTlkdEdac1lqU1NqanRNQWF6bXNBdm9NUjlVUC1ZMWZlNkNSSjJDV0ZROXp2SDVTY0tFUHU5ZWF5aHZldUw3SFp6N3ZoQUdpUkNPZzUtSW5Gbk9fUXZQZEV4RHE4MUlSTDNhbmlOTTdxMXVBbEt5S2pPdXotc1J2US1HcEE5VjRMOGlqcU5ncmRnQXZpMGFhUzdQUkZ6VklTNVg0YjVvdjYya21mV091UTEyTVE1eXBDZw?oc=5",
+          "title": "Зырянова выиграла спринт на этапе Кубка Содружества в Ханты-Мансийске, Резцова — вторая"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGg0OFlhUDYwLXBUMFg4UVZleWtjeGp4V1g3UzJwQ1VBb3pXNGE2c3VXUjMyMC01NURaaVlFNEdDaUVvRzR5ZFVnV1Rmd1ZCcDZlQVBxWVlxQWMtenB4YmNVVmVoemxpUExMYVFHYmV1U1hkXzhQV0N4SnVyZnJoOHZuQXNGNy1fUkk5VFpyRjFzVzJ6Q2kxMTBnNzhmeGtuenJ1NV9feW9Vdk4yempkdDBnUjBTcElXR1QtbFl5MGtKQ1dfaDVWbHc2ZXJtZTRPMkRNSFllTkk1cVdKaVVvQVdsd0QzVjU5RVg4eXc3QU11MEp2blJ5TlZRVVlaRV9fV01RbnpVMA?oc=5",
+          "title": "Российская биатлонистка Зырянова одержала победу в спринте на первом этапе Кубка Содружества в Ханты‑Мансийске"
+        },
+        {
+          "source": "Rusbiathlon.ru",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeTVWRXRoUlNNZ0MzQThCR3ZQdmNudUlWSFQxVTk3MEU4X0RCelVrTkg4MDUzY0pIT1U4cnRDUGVvbklpeGhSTGRWVUl6MVFvZ2RDNVg5MnRZZw?oc=5",
+          "title": "Зырянова выиграла спринт на 1 этапе Кубка Содружества в Ханты-Мансийске"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGk2b2tIWjRqQXA3UnFVM1l4NmVfN1Q1dk9RbEtpa1djYV9iVU8yMGR1SlEyZEdXVEZlUmQzdFNoWVhQUHFpaXJkQVo1OUdKc0JPMmFmRGRhMDlrQUdZTG1WQThHQUVYYUZsLVlteVBQODdpeDlUSHNnZnYzdS1MQVVodDE0NlhtRkpWeUw0T0VrVGpLWHRMY2hjbFVOQ2RJTmZhN2N6QmhMODJrQk5DVFFUc2tSSTVTMGNMcVVYRk4?oc=5",
+          "title": "Корнев выиграл спринт на этапе Кубка Содружества в Ханты-Мансийске, Серохвостов - второй"
+        },
+        {
+          "source": "Olympteka.ru",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRZjZkZE00T1FUWlVGanhUR3ZLZThsV0xoR2VlWlZRaWg1aWhYU1JoS3lid2V0cmtLVms5ZWQ5cDlheXZsT0ZRTEs5M0VBQmU1UUptQ1k4eFlGMEVhMHcyaA?oc=5",
+          "title": "Александр Корнев — победитель спринта на первом этапе Кубка Содружества по биатлону в Ханты-Мансийске"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    "e3dd803044": {
+      "key": "e3dd803044",
+      "title": "Горбачева стала пятой на Гран-при в Японии, Петросян – седьмой, Син Чжи А победила",
+      "summary": "Горбачева стала пятой на Гран-при в Японии, Петросян – седьмой, Син Чжи А победила Рейтинг Букмекеров",
+      "lang": "ru",
+      "sport": "olympic",
+      "outlets": 9,
+      "growth": 0,
+      "heat": 22.89,
+      "published": "2026-11-28T09:29:55+00:00",
+      "latest": "2026-11-28T09:29:57+00:00",
+      "refs": [
+        {
+          "source": "РИА Новости Спорт",
+          "link": "https://ria.ru/20261128/gorbacheva-2134593345.html",
+          "title": "Горбачева стала пятой на этапе Гран-при в Токио, Петросян — седьмой"
+        },
+        {
+          "source": "Championat",
+          "link": "https://www.championat.com/figureskating/news-6717438-gorbachyova-zanyala-pyatoe-mesto-na-gran-pri-v-yaponii-petrosyan-sedmoe-sin-chzhi-a-pobedila.html",
+          "title": "Горбачёва заняла пятое место на этапе ГП ISU в Японии, Петросян – 7-е. Син Чжи А победила"
+        },
+        {
+          "source": "Sports.ru",
+          "link": "https://www.sports.ru/figure-skating/1117450457-gran-pri-yaponii-gorbacheva-petrosyan-chiba-sin-chzhi-a-yu-en-aoki-yam.html",
+          "title": "Гран-при Японии. Син Чжи А победила, Чиба – 2-я, Ю Ен – 3-я, Горбачева – 5-я, Петросян – 7-я"
+        },
+        {
+          "source": "Спорт-Экспресс",
+          "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-po-figurnomu-kataniyu-2026-rezultaty-zhenskogo-odinochnogo-kataniya-v-yaponii-28-noyabrya-2480009/",
+          "title": "Син Чжи А завоевала золото на Гран-при в Японии, Горбачева — пятая, Петросян — седьмая"
+        },
+        {
+          "source": "sport-express.net",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdXVuejB6dEl3WGhweFZYQ0RPWXE1MEpsakRQMlNjclVFc19RSTFjb0VoTG9WMzJ2ZzdHaE4xYkVIanM4bVlPck95VE5XaVdSdmpydG01TjNwZkIxN2ZpSEdoYVZlVWhyMnVPcEFYektaS1pnaXVMN0NvbkxnUC1tRGV4WlpHSllHRUdLX0pENlg2YlY2RXpVMFlZazBLOE9SZ1JfZVJaczhqYklIaU1mNjdsVGhvX3pSbTBYbUU2R2xZZmhtdUQtcFYxMDJNWFE1MlNDQmt6UzlMQnBuR214ZWlnR1JBN18xeThBV0FCeTNxc1dkNWg3Ulh5VzNFODZlRHRmMzVBclhSVGpveDJEWlRMQkt4M0U?oc=5",
+          "title": "Петросян дважды упала в произвольной программе на этапе Гран-при в Японии"
+        },
+        {
+          "source": "Sport.ru",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWR1cFhfcFJUU3lPU2RFWVprZjhRV1dLdEwtZkpNWF9WY0RFQ05ydzI5eGNoZ1RRcnRkUjB0MVVBTUxFbm5aYkZQYVlfWE9hTk13NnhkVU9valZDZDFHNDZzcGV5aWNkNDhOcVdpUjhjYS1BbE4tVVlJdU9ZQ0VIUVFwVWFaYXpKbDhfb1hqQlRIaW5mbWFieVdSTkUyY3M4Z3lySWplZmFwMEVCT0g1dTNR?oc=5",
+          "title": "Фигурное катание. Гран-при Японии. Расписание на 28 ноября"
+        },
+        {
+          "source": "Sportbox",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnNzdUc0UmljRWFhSWRYSWZrR2Z0QVpldEZ6bklrYUpoQm4tUU1xZE1HUnVLd1dxdlM5ajVCcjdBSTlwUGxHa2JiWVlNVUdlMG52Yl9iZWU0QmMzOXpNN29hVmFWSFhacW9TalFZWG1yaU5PSjFERXN2V291UVZHT1FsTDg1LVlBNGZsWFBaZzdHOS1CRHhoLWU4bWVzYi11dW9CcU1xV0pIbElmNEYtYkJSNXViUnN2eWh1ck1ZRHMtbjRjSHlldlM5dw?oc=5",
+          "title": "Хазе и Володин стали первыми на этапе Гран‑при ISU в Японии"
+        },
+        {
+          "source": "Советский спорт",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGtURk4tY3dtcThyX1h4V01KYnlyMlZxbUZaRFRYS0dpQlBUbWJHV1JJRFR4Q09HeGNzVHp6UTJkaEt1WTBtWXRkZW9jUW5laVd5Zlp0MW5ORzJPZ2xKWS1famNIR252Q01TcXNXNlRyRC03UTM3czBKRVNkbjZQT3RSVjFwNWlDOEN3cVpBd3VGSzd2YTNldGd2RnB0NHEwRnN0TldkVWM4MXU0bGtmUjhLNzl1ZlE?oc=5",
+          "title": "Син Чжи А выиграла этап Гран-при ISU в Японии, Горбачёва – 5-я, Петросян – 7-я"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    "7b3b32bacf": {
+      "key": "7b3b32bacf",
+      "title": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight",
+      "summary": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight MMA Sucka",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 12.87,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-28T02:02:47+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTFvRjY5bUIzSFlaQXZTWG9NMFVWdzZmRjZHdlkzTnEwUHdva3lKVFZNclVDQlVVQlVPMzVHTENZTWhKOUlIMk9MMXZUbWJONHJYdjhYV2U4b01PZUhYV0ljZzM3S0ljVG1NblF1TmQ5TXdoVUVjMm5hZF9MbVdRa0lPTUdmeTNSRmpOOFduUkdUNUhkNGt0RXhaX1N6N3px?oc=5",
+          "title": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/dan-hooker-carlos-ulberg-navajo-020034754.html",
+          "title": "Dan Hooker on Carlos Ulberg and Navajo Stirling fighting: 'Let the boys play'"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXk5N3gxbnhPSThOOHRiYlU5dEpuS3VQUGJON1MyZUx4YklUY0tpb0pLN21DLTJtMjhhOHFnQzBlNzAyQkFrQm82aUh0WkFqQjdMTkgxQUZ4aHp1WXJwTGctWUFfSkY1d21XbVVxQlNqQkFMQUlOVUdUQmNqdDJaOHNPUVBTSWotY0MyNW5hVWJRcl9Bajhrc2NiUUVlR2ZIRkdLOGJ4aTRkWDN1U3JEaWxULWJ3UmR5YVE1VnVHUDFYV25ZbUdoejRUN0h3aU54aS1KUk5EWlJteEJMdXdZ?oc=5",
+          "title": "Dan Hooker on Carlos Ulberg and Navajo Stirling fighting: 'Let the boys play'"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWFEcEZ2aTZnZ2dCTkJNRjJNNm43WUs0TWhyTTZsaGlYZ1FlMC0xdC1CT3BYV2UyM3lnR1BLVzRwZTFBQXJMeVVUVDk2LWxkYmtla0hYR3JNQ1dyZ041SFNqN1pTeWx6RUlnTGdBcXRLaExoVHJObkZDR0w1aXdldzFSUVhsWFZXVFZqTV9BOEZvRnUwTjNrSnJpOG9MZVJvUlNDaHQ2YjhGUnpIT0JEUmhNUXNUZTZnYmc?oc=5",
+          "title": "UFC Champion Carlos Ulberg & Navajo Stirling Roasted by UFC Star for Fight Refusal"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2hsSk5PTzA0NjRPeTQ2aHVwZm82WnV2bkVCTUFNUkhzX3B6RUVwaWJPUUw2QlJoZUhtQ3BWbDc1RU01Vnl6MTJyWWZPQUFpamdMTEpMbUt2eGFac2VOM3YtQUxPalRjYUFDZVNnLWZVMG5VODF4ZXlSZmp1R3VSa1prYUp6Ym5NU041RmZFU2ZjOXRYQmJXOGxVb2ZzYlZnMjRRbEUyaFZoVWliZ2hHRjl1b3FER1dhQXVPRzFaTnRhQQ?oc=5",
+          "title": "Josh Hokit offers to save ‘bum’ UFC light heavyweight division, Navajo Stirling responds"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    "874ba2196f": {
+      "key": "874ba2196f",
+      "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement",
+      "summary": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement MMA Fighting",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 11.75,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T18:00:00+00:00",
+      "refs": [
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmt5a3VHdWVSaXlTc2pzTjRfNGVoVUlDcERCZ3hLQkV4cmVLbUNiNHNvc3l1eS14NjMxOTZONVNuOXo1S0ZPSWpxanEzcEtHX0NmRGZNbEtZYXRQc0FQWkxBdUNObm1aRUt0bmtJMm9ELTIxYlkwQ3dhTjQxbzRseUhMTWItYUdkY3pSSUlCQjY5MUJHRTFzLVlkUTJUbDZ5N01Cc0c1bVN5bzhqbFI4QnVUTEdGOGt6N2c4QWtVNmRENG5Ma3RIRGxTVk5nZVRFbkx3a3hFb25LelJF?oc=5",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
+        },
+        {
+          "source": "MMA Fighting – latest",
+          "link": "https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/bit-him-one-time-kicked-180000771.html",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
+        },
+        {
+          "source": "شبكة تواصل الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5",
+          "title": "Ex-UFC Champion Tyron Woodley Reveals Potential Opponent for Final MMA Fight in 2027"
+        },
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZSQlFvMW1BYWgyN0k1eDBIYlF5ZG5SMEUxNU1kVXlJc28zYWt4a2JKaG9XZUhTclpULV9Ub0ZjbUFieHc0dGw4QTZGNUFYclRxMmI5cDBjMk9tdEtvSU9uVGFOaWY3QlIydkx0bVQxX1RwVHZhN3ppNEdKdG5scEhOWVFDNW9FTFhIWDFVWExKNDdwVkhvMWhib0t1YWozdVhRRXkwT3g1OXltNWdVcHNB?oc=5",
+          "title": "Stephen Thompson reveals how he set up spinning kick TKO of Charles Radtke at UFC 334"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
     }
   },
   "sent": [
@@ -4397,8 +4435,8 @@
       "lang": "en",
       "sport": "combat",
       "outlets": 9,
-      "growth": 1,
-      "heat": 22.15,
+      "growth": 0,
+      "heat": 20.32,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-28T02:34:08+00:00",
@@ -4406,11 +4444,6 @@
         {
           "source": "Yahoo Sports – MMA",
           "link": "https://sports.yahoo.com/mma/articles/israel-adesanya-back-against-wall-023408172.html",
-          "title": "Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia"
-        },
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlFHb0ZONkZjcG9ESGRKODNIOWJlNEVDYW4tQVNCV1IwWTBlMTZtQW9LQ1QydG9mQUZydU1GcHltNVBpZDJzbmJEdV81X0ZyUVp5LVFJR01ZQzBSU2hCX1NUeFZfZWtKSGNza1lfRU1FWnhTdVp1dDBTd09fM0xMZktVSzY4a0p5SmJtYVBfTQ?oc=5",
           "title": "Israel Adesanya’s ‘Back Against the Wall’ at UFC Saudi Arabia"
         },
         {
@@ -4442,55 +4475,14 @@
           "source": "Sherdog",
           "link": "https://www.sherdog.com/news/news/Israel-Adesanyas-next-UFC-fight-could-be-his-last-says-Dricus-du-Plessis-203756",
           "title": "Israel Adesanya's next UFC fight could be his last, says Dricus du Plessis"
+        },
+        {
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONERxbUs3V3NTTzZHX1NaQkdUaGdNY2NfUHBQWFBXTFRSeV9Xei1jQmxuUWNzVFpRbnJIRDJjRXlYQVdpbFJidnREOC1BYmR1R2s4V0ptNkF1TFBueGhWS0tzWFJkMUdxQUpadVVrdzl2X1ZqTEM2dlBkY1ROZDVQMFhYVWJwYUkyczVaZw?oc=5",
+          "title": "Israel Adesanya's next UFC fight could be his last, says Dricus du Plessis"
         }
       ],
       "first_seen": "2026-11-28T05:43:31+00:00"
-    },
-    {
-      "key": "ae7fbf8cd9",
-      "title": "CKB Teammate Wants Carlos Ulberg & Navajo Stirling to Fight",
-      "summary": "CKB Teammate Wants Carlos Ulberg & Navajo Stirling to Fight Yahoo Sports",
-      "lang": "en",
-      "sport": "combat",
-      "outlets": 6,
-      "growth": 0,
-      "heat": 15.32,
-      "kun_khmer": false,
-      "needs_source": false,
-      "published": "2026-11-28T06:13:00+00:00",
-      "refs": [
-        {
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVBibWhSTERpV3RfUnU3UDdVVkRxX0pVSm51SlpzcXFBQzhxMGpjUFhpa2trbWxIZzRNY0tTNnhlbERyQ0VubHFybk1UYWlUZ19mQVV6djdQZnZKa21heFlGQmtCLVFRbko5ZWJiaUZwOTk2dTVGbHNrLU1SVXdPNjFvVkViMkFpMVdVVHFR?oc=5",
-          "title": "CKB Teammate Wants Carlos Ulberg & Navajo Stirling to Fight"
-        },
-        {
-          "source": "MMA Sucka",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVQzRjN1ZFFPdU5tSV9zdk1WblZhak9fdE43WEJjdFBHb0pzMFQ1TmpNU1ZMVWpiR2psUEpPeHBCenZvMXVjQVlLbF83REM4UnBUSHEzeGFKbmkxLVh1OWtlYXZ3aE5RTDlqTlRWMG9oTGI2NW53OUd4MkRlV1A4cjJQdWtYaGplazllYjE4MFdkZ05HTWIyN3kyZ04ybHByNURYUA?oc=5",
-          "title": "MMA Coach's Confirmation On Carlos Ulberg vs Navajo Stirling"
-        },
-        {
-          "source": "Yahoo Sports – MMA",
-          "link": "https://sports.yahoo.com/mma/articles/ufc-champion-carlos-ulberg-navajo-170806737.html",
-          "title": "UFC Champion Carlos Ulberg & Navajo Stirling Roasted by UFC Star for Fight Refusal"
-        },
-        {
-          "source": "Sports Illustrated",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWFEcEZ2aTZnZ2dCTkJNRjJNNm43WUs0TWhyTTZsaGlYZ1FlMC0xdC1CT3BYV2UyM3lnR1BLVzRwZTFBQXJMeVVUVDk2LWxkYmtla0hYR3JNQ1dyZ041SFNqN1pTeWx6RUlnTGdBcXRLaExoVHJObkZDR0w1aXdldzFSUVhsWFZXVFZqTV9BOEZvRnUwTjNrSnJpOG9MZVJvUlNDaHQ2YjhGUnpIT0JEUmhNUXNUZTZnYmc?oc=5",
-          "title": "UFC Champion Carlos Ulberg & Navajo Stirling Roasted by UFC Star for Fight Refusal"
-        },
-        {
-          "source": "MMA Junkie",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHNNN1Q0SVJObEVSZV9iYU1ITm5fNWVRZjFYUmVNMkl0OF9QMkx6dl8xaHk2ZWEycjVWVUJGM2pzN0hKdnFfc0lqMm03VGhBeDEzN1hHVGJkX21KMHZXdjBjVFh3MFFfbzVXazU4TGpZcktkbXFua3U1R3VacXhWTWFxYnoya2hmZ0hKS0VTalRxMlBvRkEyR3REdC0tNTktLXA3Zm5FWVRCNlVtOG5CaE9vUFNpaWl4MUliMkJ1cXlXei1IT3NHcXI2UlQ4S2FlMmp4SnJWWQ?oc=5",
-          "title": "Eugene Bareman doubts UFC would strip Carlos Ulberg for not fighting Navajo Stirling"
-        },
-        {
-          "source": "MMA Fighting",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2hsSk5PTzA0NjRPeTQ2aHVwZm82WnV2bkVCTUFNUkhzX3B6RUVwaWJPUUw2QlJoZUhtQ3BWbDc1RU01Vnl6MTJyWWZPQUFpamdMTEpMbUt2eGFac2VOM3YtQUxPalRjYUFDZVNnLWZVMG5VODF4ZXlSZmp1R3VSa1prYUp6Ym5NU041RmZFU2ZjOXRYQmJXOGxVb2ZzYlZnMjRRbEUyaFZoVWliZ2hHRjl1b3FER1dhQXVPRzFaTnRhQQ?oc=5",
-          "title": "Josh Hokit offers to save ‘bum’ UFC light heavyweight division, Navajo Stirling responds"
-        }
-      ],
-      "first_seen": "2026-11-26T17:42:39+00:00"
     },
     {
       "key": "9a912a329a",
@@ -4500,7 +4492,7 @@
       "sport": "combat",
       "outlets": 6,
       "growth": 0,
-      "heat": 13.87,
+      "heat": 13.85,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-27T19:00:00+00:00",
@@ -4546,7 +4538,7 @@
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 13.28,
+      "heat": 12.96,
       "kun_khmer": false,
       "needs_source": false,
       "published": "2026-11-28T05:50:13+00:00",
@@ -4580,45 +4572,86 @@
       "first_seen": "2026-11-28T09:28:43+00:00"
     },
     {
-      "key": "bc55516315",
-      "title": "Report: Tyson Fury cleared for Anthony Joshua fight, wife retracts schizophrenia claim",
-      "summary": "Tyson Fury is ready for his highly anticipated matchup with Anthony Joshua after being given a clean bill of mental health. A scene from Fury’s self-titled Netflix documentary recently raised concern, with the fighter discussing his well-documented battle with “depression,” “anxiety,” and a “bipolar diagnosis” following a career-changing win over Wladimir Klitschko in 2015. Fury’s […]",
+      "key": "7b3b32bacf",
+      "title": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight",
+      "summary": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight MMA Sucka",
       "lang": "en",
       "sport": "combat",
       "outlets": 5,
       "growth": 0,
-      "heat": 11.87,
+      "heat": 12.87,
       "kun_khmer": false,
       "needs_source": false,
-      "published": "2026-11-27T16:00:00+00:00",
+      "published": "2026-11-28T02:02:47+00:00",
+      "refs": [
+        {
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTFvRjY5bUIzSFlaQXZTWG9NMFVWdzZmRjZHdlkzTnEwUHdva3lKVFZNclVDQlVVQlVPMzVHTENZTWhKOUlIMk9MMXZUbWJONHJYdjhYV2U4b01PZUhYV0ljZzM3S0ljVG1NblF1TmQ5TXdoVUVjMm5hZF9MbVdRa0lPTUdmeTNSRmpOOFduUkdUNUhkNGt0RXhaX1N6N3px?oc=5",
+          "title": "UFC icon wants Navajo Stirling and Carlos Ulberg to fight"
+        },
+        {
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/dan-hooker-carlos-ulberg-navajo-020034754.html",
+          "title": "Dan Hooker on Carlos Ulberg and Navajo Stirling fighting: 'Let the boys play'"
+        },
+        {
+          "source": "MMA Junkie",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXk5N3gxbnhPSThOOHRiYlU5dEpuS3VQUGJON1MyZUx4YklUY0tpb0pLN21DLTJtMjhhOHFnQzBlNzAyQkFrQm82aUh0WkFqQjdMTkgxQUZ4aHp1WXJwTGctWUFfSkY1d21XbVVxQlNqQkFMQUlOVUdUQmNqdDJaOHNPUVBTSWotY0MyNW5hVWJRcl9Bajhrc2NiUUVlR2ZIRkdLOGJ4aTRkWDN1U3JEaWxULWJ3UmR5YVE1VnVHUDFYV25ZbUdoejRUN0h3aU54aS1KUk5EWlJteEJMdXdZ?oc=5",
+          "title": "Dan Hooker on Carlos Ulberg and Navajo Stirling fighting: 'Let the boys play'"
+        },
+        {
+          "source": "Sports Illustrated",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWFEcEZ2aTZnZ2dCTkJNRjJNNm43WUs0TWhyTTZsaGlYZ1FlMC0xdC1CT3BYV2UyM3lnR1BLVzRwZTFBQXJMeVVUVDk2LWxkYmtla0hYR3JNQ1dyZ041SFNqN1pTeWx6RUlnTGdBcXRLaExoVHJObkZDR0w1aXdldzFSUVhsWFZXVFZqTV9BOEZvRnUwTjNrSnJpOG9MZVJvUlNDaHQ2YjhGUnpIT0JEUmhNUXNUZTZnYmc?oc=5",
+          "title": "UFC Champion Carlos Ulberg & Navajo Stirling Roasted by UFC Star for Fight Refusal"
+        },
+        {
+          "source": "MMA Fighting",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS2hsSk5PTzA0NjRPeTQ2aHVwZm82WnV2bkVCTUFNUkhzX3B6RUVwaWJPUUw2QlJoZUhtQ3BWbDc1RU01Vnl6MTJyWWZPQUFpamdMTEpMbUt2eGFac2VOM3YtQUxPalRjYUFDZVNnLWZVMG5VODF4ZXlSZmp1R3VSa1prYUp6Ym5NU041RmZFU2ZjOXRYQmJXOGxVb2ZzYlZnMjRRbEUyaFZoVWliZ2hHRjl1b3FER1dhQXVPRzFaTnRhQQ?oc=5",
+          "title": "Josh Hokit offers to save ‘bum’ UFC light heavyweight division, Navajo Stirling responds"
+        }
+      ],
+      "first_seen": "2026-11-28T09:42:30+00:00"
+    },
+    {
+      "key": "874ba2196f",
+      "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement",
+      "summary": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement MMA Fighting",
+      "lang": "en",
+      "sport": "combat",
+      "outlets": 5,
+      "growth": 0,
+      "heat": 11.75,
+      "kun_khmer": false,
+      "needs_source": false,
+      "published": "2026-11-27T18:00:00+00:00",
       "refs": [
         {
           "source": "MMA Fighting",
-          "link": "https://www.mmafighting.com/boxing/523620/report-tyson-fury-cleared-for-anthony-joshua-fight-wife-retracts-schizophrenia-claim",
-          "title": "Report: Tyson Fury cleared for Anthony Joshua fight, wife retracts schizophrenia claim"
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmt5a3VHdWVSaXlTc2pzTjRfNGVoVUlDcERCZ3hLQkV4cmVLbUNiNHNvc3l1eS14NjMxOTZONVNuOXo1S0ZPSWpxanEzcEtHX0NmRGZNbEtZYXRQc0FQWkxBdUNObm1aRUt0bmtJMm9ELTIxYlkwQ3dhTjQxbzRseUhMTWItYUdkY3pSSUlCQjY5MUJHRTFzLVlkUTJUbDZ5N01Cc0c1bVN5bzhqbFI4QnVUTEdGOGt6N2c4QWtVNmRENG5Ma3RIRGxTVk5nZVRFbkx3a3hFb25LelJF?oc=5",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
         },
         {
-          "source": "BBC Sport",
-          "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
-          "title": "Fury cleared to fight Joshua after wife retracts schizophrenia claim"
+          "source": "MMA Fighting – latest",
+          "link": "https://www.mmafighting.com/ufc/523330/i-bit-him-one-time-and-he-kicked-me-in-my-throat-tyron-woodley-reacts-to-stephen-thompsons-ufc-retirement",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
         },
         {
-          "source": "The Independent – Sport",
-          "link": "https://www.independent.co.uk/sport/boxing/fury-joshua-record-kos-wins-losses-boxrec-b3092778.html",
-          "title": "Fury vs Joshua records: How many wins, losses and knockouts does each boxer have?"
+          "source": "Yahoo Sports – MMA",
+          "link": "https://sports.yahoo.com/mma/articles/bit-him-one-time-kicked-180000771.html",
+          "title": "‘I bit him one time… and he kicked me in my throat’: Tyron Woodley reacts to Stephen Thompson’s UFC retirement"
         },
         {
-          "source": "The Guardian Sport",
-          "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-cleared-fight-anthony-joshua-mental-health-concerns-allayed-boxing",
-          "title": "Tyson Fury cleared to fight Anthony Joshua after mental health concerns allayed"
+          "source": "شبكة تواصل الإخبارية",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92a2VPczl4ZTF3el9aMGJPenZQVDF5a1hBMHhlTXFpbUZlWGZTUEZ2Y1NRdEFGXzc3SmpVbjNmYWZXSGZKTTA1SGh5cE5maGt5SUQ0?oc=5",
+          "title": "Ex-UFC Champion Tyron Woodley Reveals Potential Opponent for Final MMA Fight in 2027"
         },
         {
-          "source": "Deadline",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1JlS3prR2tQY2FkZWJEcTkxcENLc1VOdnJ2NEt2b3VHYUJoSGVkYWtscm1WWWlVbmpvMzdraGlxUENYOU9oRVAxT3FKTmo4aXVaeW1CN04xd3g0TmpmZ2RXXzJCR01hZTJCMXZveHlPY3Fyb0RhZlNxc1V0S1E2VW9yd1NiN2xNWWxiMzFIMWc2Sk00UDUxYmZ3MkU?oc=5",
-          "title": "Netflix Edits Schizophrenia Scene Out Of Tyson Fury Doc After Wife Reveals Boxer Does Not Have Condition"
+          "source": "MMA Sucka",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWZSQlFvMW1BYWgyN0k1eDBIYlF5ZG5SMEUxNU1kVXlJc28zYWt4a2JKaG9XZUhTclpULV9Ub0ZjbUFieHc0dGw4QTZGNUFYclRxMmI5cDBjMk9tdEtvSU9uVGFOaWY3QlIydkx0bVQxX1RwVHZhN3ppNEdKdG5scEhOWVFDNW9FTFhIWDFVWExKNDdwVkhvMWhib0t1YWozdVhRRXkwT3g1OXltNWdVcHNB?oc=5",
+          "title": "Stephen Thompson reveals how he set up spinning kick TKO of Charles Radtke at UFC 334"
         }
       ],
-      "first_seen": "2026-11-27T17:42:57+00:00"
+      "first_seen": "2026-11-28T09:42:30+00:00"
     }
   ],
   "combat_sent": [
@@ -4854,14 +4887,6 @@
     }
   ],
   "first_seen": {
-    "0bce0b589d": "2026-11-26T05:42:40+00:00",
-    "8c2cf34cad": "2026-11-26T05:42:40+00:00",
-    "deaeb549b1": "2026-11-26T05:42:40+00:00",
-    "a830aae3c3": "2026-11-26T05:42:40+00:00",
-    "85bff45091": "2026-11-26T05:42:40+00:00",
-    "0a145660b7": "2026-11-26T05:42:40+00:00",
-    "0386f0e387": "2026-11-26T05:42:40+00:00",
-    "190e7527ed": "2026-11-26T09:42:35+00:00",
     "07c5a96aed": "2026-11-26T09:42:35+00:00",
     "18c55bb736": "2026-11-26T09:42:35+00:00",
     "8fdfa44c6c": "2026-11-26T09:42:35+00:00",
@@ -5153,7 +5178,15 @@
     "34d8219b57": "2026-11-28T09:28:43+00:00",
     "f256c1b00b": "2026-11-28T09:28:43+00:00",
     "e892c68b9e": "2026-11-28T09:28:43+00:00",
-    "c6c8c2d3f5": "2026-11-28T09:28:43+00:00"
+    "c6c8c2d3f5": "2026-11-28T09:28:43+00:00",
+    "5a47b28bf2": "2026-11-28T09:42:30+00:00",
+    "4432072994": "2026-11-28T09:42:30+00:00",
+    "e3dd803044": "2026-11-28T09:42:30+00:00",
+    "7b3b32bacf": "2026-11-28T09:42:30+00:00",
+    "874ba2196f": "2026-11-28T09:42:30+00:00",
+    "649b36cac2": "2026-11-28T09:42:30+00:00",
+    "b41cc1595c": "2026-11-28T09:42:30+00:00",
+    "1dbdd7b372": "2026-11-28T09:42:30+00:00"
   },
   "board": {
     "en": [
@@ -5165,7 +5198,7 @@
         "sport": "combat",
         "outlets": 2,
         "growth": 0,
-        "heat": 14.49,
+        "heat": 14.13,
         "published": "2026-11-28T02:34:08+00:00",
         "latest": "2026-11-28T02:34:08+00:00",
         "refs": [
@@ -5184,30 +5217,40 @@
         "headline_own": "Dricus du Plessis suggests upcoming bout may be final UFC appearance for Israel Adesanya"
       },
       {
-        "key": "222ea18077",
-        "title": "Song Yadong Open to Fighting Merab Dvalishvili Next",
-        "summary": "UFC bantamweight Song Yadong said that he is open to fighting Merab Dvalishvili next in a potential No. 1 contender's bout. The post Song Yadong Open to Fighting Merab Dvalishvili Next appeared first on HEAVY.",
+        "key": "388a05c557",
+        "title": "Tonda Eckert removes box of tissues as Southampton taunt Middlesbrough over Spygate",
+        "summary": "Eckert distanced himself from a series of incidents between the Spygate rivals, including Finn Azaz running the length of the pitch to make a ‘crying’ gesture at the Boro fans",
         "lang": "en",
-        "sport": "combat",
-        "outlets": 2,
+        "sport": null,
+        "outlets": 4,
         "growth": 0,
-        "heat": 11.43,
-        "published": "2026-11-28T06:02:19+00:00",
-        "latest": "2026-11-28T06:02:19+00:00",
+        "heat": 11.6,
+        "published": "2026-11-28T09:22:17+00:00",
+        "latest": "2026-11-28T09:22:17+00:00",
         "refs": [
           {
-            "source": "Yahoo Sports – MMA",
-            "link": "https://sports.yahoo.com/mma/articles/song-yadong-open-fighting-merab-060219085.html",
-            "title": "Song Yadong Open to Fighting Merab Dvalishvili Next"
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/college-football/articles/tonda-eckert-removes-box-tissues-092217535.html",
+            "title": "Tonda Eckert removes box of tissues as Southampton taunt Middlesbrough over Spygate"
           },
           {
-            "source": "Sherdog",
-            "link": "https://www.sherdog.com/news/news/Santiago-Luna-says-Usman-Nurmagomedov-slapping-Merab-Dvalishvili-was-well-deserved-203755",
-            "title": "Santiago Luna says Usman Nurmagomedov slapping Merab Dvalishvili was ‘well deserved’"
+            "source": "The Independent – Sport",
+            "link": "https://www.independent.co.uk/sport/football/southampton-middlesbrough-spygate-tonda-eckert-finn-azaz-b3093144.html",
+            "title": "Tonda Eckert removes box of tissues as Southampton taunt Middlesbrough over Spygate"
+          },
+          {
+            "source": "The Guardian Sport",
+            "link": "https://www.theguardian.com/football/2026/nov/27/southampton-middlesbrough-championship-match-report-spygate-finn-azaz",
+            "title": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro"
+          },
+          {
+            "source": "Sky Sports",
+            "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
+            "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'"
           }
         ],
         "first_seen": "2026-11-28T09:28:43+00:00",
-        "headline_own": "Song Yadong is willing to take on Merab Dvalishvili in upcoming bout"
+        "headline_own": "Southampton defeat Middlesbrough amid renewed Spygate tensions"
       },
       {
         "key": "fb7fb36785",
@@ -5217,7 +5260,7 @@
         "sport": "football",
         "outlets": 3,
         "growth": 0,
-        "heat": 9.73,
+        "heat": 9.66,
         "published": "2026-11-27T20:00:19+00:00",
         "latest": "2026-11-28T08:00:00+00:00",
         "refs": [
@@ -5239,37 +5282,6 @@
         ],
         "first_seen": "2026-11-27T22:21:20+00:00",
         "headline_own": "Enzo Maresca addresses Manchester City's recent slump and defends Erling Haaland"
-      },
-      {
-        "key": "388a05c557",
-        "title": "Tonda Eckert removes box of tissues as Southampton taunt Middlesbrough over Spygate",
-        "summary": "Eckert distanced himself from a series of incidents between the Spygate rivals, including Finn Azaz running the length of the pitch to make a ‘crying’ gesture at the Boro fans",
-        "lang": "en",
-        "sport": null,
-        "outlets": 3,
-        "growth": 0,
-        "heat": 9.54,
-        "published": "2026-11-28T09:22:17+00:00",
-        "latest": "2026-11-28T09:22:17+00:00",
-        "refs": [
-          {
-            "source": "The Independent – Sport",
-            "link": "https://www.independent.co.uk/sport/football/southampton-middlesbrough-spygate-tonda-eckert-finn-azaz-b3093144.html",
-            "title": "Tonda Eckert removes box of tissues as Southampton taunt Middlesbrough over Spygate"
-          },
-          {
-            "source": "The Guardian Sport",
-            "link": "https://www.theguardian.com/football/2026/nov/27/southampton-middlesbrough-championship-match-report-spygate-finn-azaz",
-            "title": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro"
-          },
-          {
-            "source": "Sky Sports",
-            "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
-            "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'"
-          }
-        ],
-        "first_seen": "2026-11-28T09:28:43+00:00",
-        "headline_own": "Southampton defeat Middlesbrough amid renewed Spygate tensions"
       },
       {
         "key": "bc55516315",
@@ -5308,6 +5320,32 @@
         "headline_own": "Tyson Fury approved to face Anthony Joshua following medical clarification"
       },
       {
+        "key": "222ea18077",
+        "title": "Song Yadong Open to Fighting Merab Dvalishvili Next",
+        "summary": "UFC bantamweight Song Yadong said that he is open to fighting Merab Dvalishvili next in a potential No. 1 contender's bout. The post Song Yadong Open to Fighting Merab Dvalishvili Next appeared first on HEAVY.",
+        "lang": "en",
+        "sport": "combat",
+        "outlets": 2,
+        "growth": 0,
+        "heat": 9.06,
+        "published": "2026-11-28T06:02:19+00:00",
+        "latest": "2026-11-28T06:02:19+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – MMA",
+            "link": "https://sports.yahoo.com/mma/articles/song-yadong-open-fighting-merab-060219085.html",
+            "title": "Song Yadong Open to Fighting Merab Dvalishvili Next"
+          },
+          {
+            "source": "Sherdog",
+            "link": "https://www.sherdog.com/news/news/Santiago-Luna-says-Usman-Nurmagomedov-slapping-Merab-Dvalishvili-was-well-deserved-203755",
+            "title": "Santiago Luna says Usman Nurmagomedov slapping Merab Dvalishvili was ‘well deserved’"
+          }
+        ],
+        "first_seen": "2026-11-28T09:28:43+00:00",
+        "headline_own": "Song Yadong is willing to take on Merab Dvalishvili in upcoming bout"
+      },
+      {
         "key": "c4c8282f07",
         "title": "Ranking the Premier League's ultimate free-kick specialists",
         "summary": "Who are the greatest free-kick specialists in Premier League history? BBC Sport delves into the stats and ranks the top 10.",
@@ -5315,7 +5353,7 @@
         "sport": "football",
         "outlets": 2,
         "growth": 0,
-        "heat": 8.72,
+        "heat": 8.66,
         "published": "2026-11-28T09:11:13+00:00",
         "latest": "2026-11-28T09:11:13+00:00",
         "refs": [
@@ -5341,9 +5379,9 @@
         "sport": "football",
         "outlets": 2,
         "growth": 0,
-        "heat": 8.29,
-        "published": "2026-11-28T09:14:43+00:00",
-        "latest": "2026-11-28T09:14:43+00:00",
+        "heat": 8.31,
+        "published": "2026-11-28T09:34:32+00:00",
+        "latest": "2026-11-28T09:34:32+00:00",
         "refs": [
           {
             "source": "The Guardian Sport",
@@ -5358,45 +5396,66 @@
         ],
         "first_seen": "2026-11-28T09:28:43+00:00",
         "headline_own": "Australia face Colombia in international women's soccer friendly"
+      },
+      {
+        "key": "649b36cac2",
+        "title": "Sheffield United scout Hearts' McPake - gossip",
+        "summary": "Hearts winger linked with Sheffield United as former St Johnstone chairman reveals 49ers approach.",
+        "lang": "en",
+        "sport": null,
+        "outlets": 2,
+        "growth": 0,
+        "heat": 7.52,
+        "published": "2026-11-28T09:05:01+00:00",
+        "latest": "2026-11-28T09:05:01+00:00",
+        "refs": [
+          {
+            "source": "Yahoo Sports – Soccer",
+            "link": "https://sports.yahoo.com/soccer/articles/sheffield-united-scout-hearts-mcpake-084322390.html",
+            "title": "Sheffield United scout Hearts' McPake - gossip"
+          },
+          {
+            "source": "BBC Sport – Football",
+            "link": "https://www.bbc.co.uk/sport/football/articles/cq143gn0gd80o?at_medium=RSS&at_campaign=rss",
+            "title": "Sheffield United scout Hearts' McPake - gossip"
+          }
+        ],
+        "first_seen": "2026-11-28T09:42:30+00:00",
+        "headline_own": "Hearts player McPake is being monitored by Sheffield United"
       }
     ],
     "zh": [],
     "ru": [
       {
-        "key": "019bca7be6",
-        "title": "\"Авангард\" одержал седьмую победу подряд, обыграв \"Амур\"",
-        "summary": "",
+        "key": "4432072994",
+        "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке",
+        "summary": "Российская биатлонистка Анастасия Зырянова стала победительницей спринта на первом этапе Кубка Содружества в Ханты-Мансийске.",
         "lang": "ru",
-        "sport": "hockey",
-        "outlets": 4,
-        "growth": 0,
-        "heat": 12.37,
-        "published": "2026-11-28T09:20:39+00:00",
-        "latest": "2026-11-28T09:20:39+00:00",
+        "sport": null,
+        "outlets": 3,
+        "growth": -3,
+        "heat": 20.39,
+        "published": "2026-11-28T09:37:37+00:00",
+        "latest": "2026-11-28T09:37:37+00:00",
         "refs": [
           {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261128/avangard-2134593008.html",
-            "title": "\"Авангард\" одержал седьмую победу подряд, обыграв \"Амур\""
+            "source": "Championat",
+            "link": "https://www.championat.com/biathlon/news-6717458-zyryanova-vyigrala-sprint-na-pervom-etape-kubka-sodruzhestva-v-hanty-mansijke.html",
+            "title": "Зырянова выиграла спринт на первом этапе Кубка Содружества в Ханты-Мансийке"
           },
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/hockey/khl/news/amur-avangard-schet-i-rezultat-matcha-khl-28-noyabrya-2026-2480008/",
-            "title": "«Авангард» обыграл «Амур» и одержал седьмую победу подряд"
+            "link": "https://www.sport-express.ru/biathlon/news/etap-kubka-sodruzhestva-po-biatlonu-v-hanty-mansiyske-rezultaty-zhenskogo-sprinta-28-noyabrya-2026-2480014/",
+            "title": "Биатлонистка Зырянова стала первой в спринте на этапе Кубка Содружества в Ханты-Мансийске"
           },
           {
-            "source": "Championat",
-            "link": "https://www.championat.com/hockey/news-6717394-amur-avangard-rezultat-matcha-28-noyabrya-2026-goda-schet-2-3-regulyarnyj-chempionat-khl-2026-2027.html",
-            "title": "«Авангард» одержал седьмую победу подряд, одолев в гостях «Амур»"
-          },
-          {
-            "source": "Sports.ru",
-            "link": "https://www.sports.ru/hockey/1117450976-fonbet-chempionat-kxl-amur-primet-avangard-traktor-protiv-metallurga-s.html",
-            "title": "Фонбет Чемпионат КХЛ. «Амур» уступил «Авангарду», «Трактор» против «Металлурга», «Спартак» сыграет с «Торпедо»"
+            "source": "РИА Новости Спорт",
+            "link": "https://ria.ru/20261128/biatlon-2134593880.html",
+            "title": "Зырянова выиграла спринт на старте Кубка Содружества, опередив Резцову"
           }
         ],
-        "first_seen": "2026-11-28T09:28:43+00:00",
-        "headline_own": "«Авангард» взял верх над «Амуром» и продлил победную серию до семи игр"
+        "first_seen": "2026-11-28T09:42:30+00:00",
+        "headline_own": "Зырянова одержала победу в спринтерской гонке на этапе Кубка Содружества"
       },
       {
         "key": "ec0ddb65bd",
@@ -5406,7 +5465,7 @@
         "sport": "olympic",
         "outlets": 3,
         "growth": 0,
-        "heat": 10.36,
+        "heat": 10.29,
         "published": "2026-11-28T08:56:29+00:00",
         "latest": "2026-11-28T08:56:29+00:00",
         "refs": [
@@ -5430,61 +5489,56 @@
         "headline_own": "Коростелев занял 48-е место в спринтерской квалификации этапа КМ в Руке"
       },
       {
-        "key": "c29afe3144",
-        "title": "Фото: реакция Алины Горбачёвой на оценку после произвольной на этапе Гран-при ISU в Токио",
-        "summary": "Бронзовый призёр чемпионата России – 2025 фигуристка Алина Горбачёва выступила с произвольной программой на этапе Гран-при ISU в Японии.",
+        "key": "b41cc1595c",
+        "title": "КХЛ, расписание и результаты 28 ноября: «Трактор» — «Металлург», «Спартак» — «Торпедо». Все матчи",
+        "summary": "Матчи ФОНБЕТ чемпионата КХЛ.",
         "lang": "ru",
-        "sport": "olympic",
-        "outlets": 3,
+        "sport": "hockey",
+        "outlets": 2,
         "growth": 0,
-        "heat": 9.74,
-        "published": "2026-11-28T09:18:08+00:00",
-        "latest": "2026-11-28T09:27:09+00:00",
+        "heat": 9.81,
+        "published": "2026-11-28T09:15:02+00:00",
+        "latest": "2026-11-28T09:15:02+00:00",
         "refs": [
           {
-            "source": "Championat",
-            "link": "https://www.championat.com/figureskating/news-6717428-foto-reakciya-aliny-gorbachyovoj-na-ocenku-posle-proizvolnoj-na-etape-gran-pri-isu-v-tokio.html",
-            "title": "Фото: реакция Алины Горбачёвой на оценку после произвольной на этапе Гран-при ISU в Токио"
-          },
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261128/gorbacheva-2134593345.html",
-            "title": "Горбачева стала пятой на этапе Гран-при в Токио, Петросян — седьмой"
-          },
-          {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/etap-gran-pri-po-figurnomu-kataniyu-rezultat-korotkoy-programmy-u-zhenschin-27-noyabrya-2026-2479606/",
-            "title": "Чиба выиграла короткую программу у фигуристок на этапе Гран-при в Токио, Горбачева — третья, Петросян — восьмая"
+            "link": "https://www.sport-express.ru/hockey/khl/news/khl-raspisanie-rezultaty-i-video-golov-28-noyabrya-2026-traktor-metallurg-spartak-torpedo-2479951/",
+            "title": "КХЛ, расписание и результаты 28 ноября: «Трактор» — «Металлург», «Спартак» — «Торпедо». Все матчи"
+          },
+          {
+            "source": "Sports.ru",
+            "link": "https://www.sports.ru/hockey/1117450976-fonbet-chempionat-kxl-amur-primet-avangard-traktor-protiv-metallurga-s.html",
+            "title": "Фонбет Чемпионат КХЛ. «Амур» уступил «Авангарду», «Трактор» против «Металлурга», «Спартак» сыграет с «Торпедо»"
           }
         ],
-        "first_seen": "2026-11-28T09:28:43+00:00",
-        "headline_own": "Горбачева завершила этап Гран-при в Токио на пятой позиции"
+        "first_seen": "2026-11-28T09:42:30+00:00",
+        "headline_own": "«Амур» проиграл «Авангарду», «Трактор» встретится с «Металлургом» в КХЛ"
       },
       {
-        "key": "1b012b6d2f",
-        "title": "Алина Горбачева с двумя падениями исполнила произвольную программу на Гран-при Японии",
-        "summary": "Фигуристка Алина Горбачева выступила с произвольной программой на этапе Гран-при в Японии. После короткой программы россиянка занимала третье место. В прокате Горбачева исполнила двойной аксель, тройной флип (упала после выезда), тройной риттбергер, а затем упала со второго прыжка в каскаде тройной лутц – тройной тулуп. В секвенции тройной лутц – двойной аксель – двойной сальхов она допустила каса",
+        "key": "1dbdd7b372",
+        "title": "Серохвостов о мононуклеозе Метели: «У Виктории восстановление прошло не так хорошо, как у меня. Сейчас ей довольно тяжело тренироваться и бегать»",
+        "summary": "Биатлонист Даниил Серохвостов рассказал о состоянии своей супруги Виктории Метели, которая восстанавливается от последствий мононуклеоза. Серохвостов взял серебро в спринте на этапе Альфа-Банк Кубка Содружества в Ханты-Мансийске. Он уступил 4,5 секунды Александру Корневу, оба биатлониста допустили по одному промаху. «Мне понравилась борьба на последнем круге за каждую секунду. Рад даже второму мес",
         "lang": "ru",
         "sport": null,
         "outlets": 2,
         "growth": 0,
-        "heat": 9.7,
-        "published": "2026-11-28T09:04:00+00:00",
-        "latest": "2026-11-28T09:04:00+00:00",
+        "heat": 9.66,
+        "published": "2026-11-28T09:36:00+00:00",
+        "latest": "2026-11-28T09:36:00+00:00",
         "refs": [
           {
             "source": "Sports.ru",
-            "link": "https://www.sports.ru/figure-skating/1117451110-alina-gorbacheva-s-dvumya-padeniyami-ispolnila-proizvolnuyu-programmu-.html",
-            "title": "Алина Горбачева с двумя падениями исполнила произвольную программу на Гран-при Японии"
+            "link": "https://www.sports.ru/biathlon/1117451159-seroxvostov-o-mononukleoze-meteli-u-viktorii-vosstanovlenie-proshlo-ne.html",
+            "title": "Серохвостов о мононуклеозе Метели: «У Виктории восстановление прошло не так хорошо, как у меня. Сейчас ей довольно тяжело тренироваться и бегать»"
           },
           {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/figure-skating/grand-pri/news/gran-pri-po-figurnomu-kataniyu-2026-gorbacheva-nabrala-122-39-balla-za-proizvolnuyu-programmu-v-yaponii-28-noyabrya-2480006/",
-            "title": "Горбачева с падениями исполнила произвольную программу на Гран-при ISU"
+            "source": "Championat",
+            "link": "https://www.championat.com/biathlon/news-6717408-sejchas-ej-tyazhelo-trenirovatsya-serohvostov-o-sostoyanii-meteli-posle-mononukleoza.html",
+            "title": "«Сейчас ей тяжело тренироваться». Серохвостов — о состоянии Метели после мононуклеоза"
           }
         ],
-        "first_seen": "2026-11-28T09:28:43+00:00",
-        "headline_own": "Алина Горбачева дважды упала в произвольной программе на Гран-при Японии"
+        "first_seen": "2026-11-28T09:42:30+00:00",
+        "headline_own": "Серохвостов рассказал о сложностях восстановления Метели после мононуклеоза"
       },
       {
         "key": "d3da4bbde9",
@@ -5494,7 +5548,7 @@
         "sport": "hockey",
         "outlets": 3,
         "growth": 0,
-        "heat": 9.12,
+        "heat": 9.05,
         "published": "2026-11-28T04:54:16+00:00",
         "latest": "2026-11-28T06:34:05+00:00",
         "refs": [
@@ -5525,7 +5579,7 @@
         "sport": "tennis",
         "outlets": 2,
         "growth": 0,
-        "heat": 8.95,
+        "heat": 8.88,
         "published": "2026-11-28T06:15:05+00:00",
         "latest": "2026-11-28T06:30:05+00:00",
         "refs": [
@@ -5536,8 +5590,8 @@
           },
           {
             "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/tennis/news/trofei-severnoy-palmiry-2026-spisok-uchastnikov-tennisnogo-turnira-2479200/",
-            "title": "«Трофеи Северной Пальмиры-2026»: список участников турнира"
+            "link": "https://www.sport-express.ru/tennis/wta/news/aleksandr-medvedev-obyasnil-pochemu-andreeva-i-rublev-ne-sygrayut-v-trofeyah-severnoy-palmiry-2026-2479736/",
+            "title": "Александр Медведев объяснил, почему Андреева и Рублев не сыграют в «Трофеях Северной Пальмиры»-2026"
           }
         ],
         "first_seen": "2026-11-28T09:28:43+00:00",
@@ -5551,7 +5605,7 @@
         "sport": null,
         "outlets": 3,
         "growth": 0,
-        "heat": 8.77,
+        "heat": 8.71,
         "published": "2026-11-28T06:30:05+00:00",
         "latest": "2026-11-28T06:30:05+00:00",
         "refs": [
@@ -5573,69 +5627,11 @@
         ],
         "first_seen": "2026-11-28T09:28:43+00:00",
         "headline_own": "«Интер Майами» проиграл «Коламбусу» и выбыл из плей-офф МЛС"
-      },
-      {
-        "key": "919153e927",
-        "title": "Гол и передача Малкина помогли \"Питтсбургу\" обыграть \"Баффало\" в матче НХЛ",
-        "summary": "",
-        "lang": "ru",
-        "sport": "hockey",
-        "outlets": 3,
-        "growth": 0,
-        "heat": 8.74,
-        "published": "2026-11-28T04:40:20+00:00",
-        "latest": "2026-11-28T05:05:00+00:00",
-        "refs": [
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261128/nkhl-2134567230.html",
-            "title": "Гол и передача Малкина помогли \"Питтсбургу\" обыграть \"Баффало\" в матче НХЛ"
-          },
-          {
-            "source": "Чемпионат – Хоккей",
-            "link": "https://www.championat.com/hockey/news-6717104-gol-i-assist-malkina-pomogli-pittsburgu-obygrat-baffalo-v-matche-s-9-shajbami.html",
-            "title": "Гол и ассист Малкина помогли «Питтсбургу» обыграть «Баффало» в матче с девятью шайбами"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/hockey/nhl/news/baffalo-pittsburg-videoobzor-matcha-nhl-i-luchshie-momenty-igry-28-noyabrya-2026-goda-2479946/",
-            "title": "«Баффало» — «Питтсбург»: видеообзор матча НХЛ"
-          }
-        ],
-        "first_seen": "2026-11-28T05:43:31+00:00",
-        "headline_own": "Очки Евгения Малкина помогли «Питтсбургу» взять верх над «Баффало»"
-      },
-      {
-        "key": "c089b6db9a",
-        "title": "\"Бруклин\" проиграл \"Торонто\" в матче НБА, несмотря на 7 очков Демина",
-        "summary": "",
-        "lang": "ru",
-        "sport": null,
-        "outlets": 2,
-        "growth": 0,
-        "heat": 8.54,
-        "published": "2026-11-28T04:45:00+00:00",
-        "latest": "2026-11-28T04:45:00+00:00",
-        "refs": [
-          {
-            "source": "РИА Новости Спорт",
-            "link": "https://ria.ru/20261128/nba-2134567652.html",
-            "title": "\"Бруклин\" проиграл \"Торонто\" в матче НБА, несмотря на 7 очков Демина"
-          },
-          {
-            "source": "Спорт-Экспресс",
-            "link": "https://www.sport-express.ru/basketball/nba/news/toronto-bruklin-schet-124-100-rezultat-matcha-regulyarnogo-chempionata-nba-28-noyabrya-2026-goda-2479923/",
-            "title": "«Бруклин» проиграл «Торонто», Дёмин набрал 7 очков"
-          }
-        ],
-        "first_seen": "2026-11-28T05:43:31+00:00",
-        "headline_own": "«Бруклин» уступил «Торонто» в игре регулярного чемпионата НБА"
       }
     ]
   },
   "spotlight_history": {
     "en": [
-      "tennis",
       "combat",
       "football",
       "basketball",
@@ -5644,10 +5640,10 @@
       "tennis",
       "combat",
       "football",
-      "tennis"
+      "tennis",
+      "basketball"
     ],
     "ru": [
-      "olympic",
       "tennis",
       "hockey",
       "olympic",
@@ -5656,7 +5652,8 @@
       "hockey",
       "olympic",
       "tennis",
-      "hockey"
+      "hockey",
+      "olympic"
     ],
     "zh": [
       "olympic",
@@ -5666,168 +5663,7 @@
   "spotlight": {
     "en": {},
     "zh": {},
-    "ru": {
-      "sport": "hockey",
-      "total": 9,
-      "items": [
-        {
-          "key": "f26b0c22e5",
-          "title": "«Этот парень известен как худший одноклубник в НХЛ». Форвард «Флориды» Маршан — о Мичкове",
-          "summary": "Нападающий «Флориды Пантерз» Брэд Маршан высказался о российском форварде «Филадельфии Флайерз» Матвее Мичкове.",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 7.76,
-          "published": "2026-11-28T08:50:07+00:00",
-          "latest": "2026-11-28T08:50:07+00:00",
-          "refs": [
-            {
-              "source": "Championat",
-              "link": "https://www.championat.com/hockey/news-6717386-etot-paren-izvesten-kak-hudshij-odnoklubnik-v-nhl-forvard-floridy-marshan-o-michkove.html",
-              "title": "«Этот парень известен как худший одноклубник в НХЛ». Форвард «Флориды» Маршан — о Мичкове"
-            },
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/napadayuschiy-bred-marshan-stal-tretim-igrokom-floridy-s-tremya-peredachami-za-match-nhl-v-vozraste-38-let-i-starshe-2479804/",
-              "title": "Маршан стал третьим игроком «Флориды», сделавшим три передачи за матч НХЛ в возрасте 38 лет и старше"
-            }
-          ],
-          "first_seen": "2026-11-28T09:28:43+00:00",
-          "headline_own": "Нападающий «Флориды» Маршан жестко высказался о Мичкове"
-        },
-        {
-          "key": "34d8219b57",
-          "title": "Макдэвид установил рекорд XXI века по скорости достижения 60 очков в НХЛ",
-          "summary": "Нападающий «Эдмонтона» Коннор Макдэвид отметился заброшенной шайбой в домашнем матче регулярного чемпионата НХЛ против «Сиэтла» (2:4).",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 6.93,
-          "published": "2026-11-28T05:46:00+00:00",
-          "latest": "2026-11-28T05:46:00+00:00",
-          "refs": [
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/makdevid-ustanovil-rekord-xxi-veka-po-skorosti-dostizheniya-60-ochkov-v-nhl-2479955/",
-              "title": "Макдэвид установил рекорд XXI века по скорости достижения 60 очков в НХЛ"
-            },
-            {
-              "source": "Чемпионат – Хоккей",
-              "link": "https://www.championat.com/hockey/news-6717092-makdevid-povtoril-redchajshee-dostizhenie-leme-ustanoviv-rekord-xxi-veka-v-nhl.html",
-              "title": "Макдэвид повторил редчайшее достижение и установил рекорд XXI века в НХЛ"
-            }
-          ],
-          "first_seen": "2026-11-28T09:28:43+00:00",
-          "headline_own": "Макдэвид быстрее всех в XXI веке набрал 60 очков за сезон НХЛ"
-        },
-        {
-          "key": "db7bd104be",
-          "title": "Александр Овечкин установил личный антирекорд игрового времени в матче НХЛ",
-          "summary": "Российский нападающий «Вашингтон Кэпиталз» Александр Овечкин установил антирекорд по игровому времени за карьеру в НХЛ.",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 6.62,
-          "published": "2026-11-28T05:30:05+00:00",
-          "latest": "2026-11-28T05:30:05+00:00",
-          "refs": [
-            {
-              "source": "Чемпионат – Хоккей",
-              "link": "https://www.championat.com/hockey/news-6717136-aleksandr-ovechkin-ustanovil-lichnyj-antirekord-igrovogo-vremeni-v-matche-nhl.html",
-              "title": "Александр Овечкин установил личный антирекорд игрового времени в матче НХЛ"
-            },
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/rotenberg-luchshiy-rossiyskiy-sportsmen-2026-goda-aleksandr-ovechkin-2479634/",
-              "title": "Ротенберг: «Лучший российский спортсмен 2026 года — Александр Овечкин»"
-            }
-          ],
-          "first_seen": "2026-11-28T05:43:31+00:00",
-          "headline_own": "Александр Овечкин провел на льду рекордно малое количество минут за матч НХЛ"
-        },
-        {
-          "key": "f256c1b00b",
-          "title": "Судье разбили до крови лицо шайбой в матче «Вашингтона» и «Флориды»",
-          "summary": "Судья матча регулярного чемпионата НХЛ между «Вашингтоном» и «Флоридой» Калеб Апперсон получил повреждение.",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 6.44,
-          "published": "2026-11-28T03:18:00+00:00",
-          "latest": "2026-11-28T04:00:01+00:00",
-          "refs": [
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/sude-razbili-do-krovi-lico-shayboy-v-matche-vashingtona-i-floridy-2479925/",
-              "title": "Судье разбили до крови лицо шайбой в матче «Вашингтона» и «Флориды»"
-            },
-            {
-              "source": "РИА Новости Спорт",
-              "link": "https://ria.ru/20261128/khokkey-2134556088.html",
-              "title": "Судье разбили до крови лицо шайбой в матче с участием Овечкина"
-            }
-          ],
-          "first_seen": "2026-11-28T09:28:43+00:00",
-          "headline_own": "Арбитр получил травму лица от попадания шайбы в игре «Вашингтона»"
-        },
-        {
-          "key": "e892c68b9e",
-          "title": "Канцеров признан игроком недели по версии профсоюза игроков НХЛ",
-          "summary": "Российский нападающий «Чикаго» Роман Канцеров признан игроком недели по версии профсоюза игроков НХЛ (NHLPA).",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 5.98,
-          "published": "2026-11-28T02:13:00+00:00",
-          "latest": "2026-11-28T02:13:00+00:00",
-          "refs": [
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/kancerov-priznan-igrokom-nedeli-po-versii-profsoyuza-igrokov-nhl-2479922/",
-              "title": "Канцеров признан игроком недели по версии профсоюза игроков НХЛ"
-            },
-            {
-              "source": "Чемпионат – Хоккей",
-              "link": "https://www.championat.com/hockey/news-6717008-kancerov-priznan-igrokom-nedeli-v-nhl-po-versii-nhlpa.html",
-              "title": "Канцеров признан игроком недели в НХЛ по версии NHLPA"
-            }
-          ],
-          "first_seen": "2026-11-28T09:28:43+00:00",
-          "headline_own": "Ассоциация игроков НХЛ назвала Канцерова лучшим хоккеистом недели"
-        },
-        {
-          "key": "c6c8c2d3f5",
-          "title": "«Чикаго» переиграл «Рейнджерс»",
-          "summary": "«Чикаго» выиграл у «Рейнджерс» в матче регулярного чемпионата НХЛ — 2:1.",
-          "lang": "ru",
-          "sport": "hockey",
-          "outlets": 2,
-          "growth": 0,
-          "heat": 5.71,
-          "published": "2026-11-28T01:14:00+00:00",
-          "latest": "2026-11-28T01:14:00+00:00",
-          "refs": [
-            {
-              "source": "Спорт-Экспресс",
-              "link": "https://www.sport-express.ru/hockey/nhl/news/chikago-reyndzhers-schet-2-1-rezultat-matcha-regulyarnogo-chempionata-nhl-27-noyabrya-2026-goda-2479917/",
-              "title": "«Чикаго» переиграл «Рейнджерс»"
-            },
-            {
-              "source": "Чемпионат – Хоккей",
-              "link": "https://www.championat.com/hockey/news-6717018-chikago-obygral-rejndzhers-v-nhl-kancerov-prerval-tryohmatchevuyu-golevuyu-seriyu.html",
-              "title": "«Чикаго» обыграл «Рейнджерс» в НХЛ, Канцеров прервал трёхматчевую голевую серию"
-            }
-          ],
-          "first_seen": "2026-11-28T09:28:43+00:00",
-          "headline_own": "«Чикаго» нанес поражение «Рейнджерс» в регулярном чемпионате НХЛ"
-        }
-      ]
-    }
+    "ru": {}
   },
   "local": {
     "en": [],
@@ -6012,6 +5848,10 @@
     "ru:34d8219b57": "Макдэвид быстрее всех в XXI веке набрал 60 очков за сезон НХЛ",
     "ru:f256c1b00b": "Арбитр получил травму лица от попадания шайбы в игре «Вашингтона»",
     "ru:e892c68b9e": "Ассоциация игроков НХЛ назвала Канцерова лучшим хоккеистом недели",
-    "ru:c6c8c2d3f5": "«Чикаго» нанес поражение «Рейнджерс» в регулярном чемпионате НХЛ"
+    "ru:c6c8c2d3f5": "«Чикаго» нанес поражение «Рейнджерс» в регулярном чемпионате НХЛ",
+    "en:649b36cac2": "Hearts player McPake is being monitored by Sheffield United",
+    "ru:4432072994": "Зырянова одержала победу в спринтерской гонке на этапе Кубка Содружества",
+    "ru:b41cc1595c": "«Амур» проиграл «Авангарду», «Трактор» встретится с «Металлургом» в КХЛ",
+    "ru:1dbdd7b372": "Серохвостов рассказал о сложностях восстановления Метели после мононуклеоза"
   }
 }
