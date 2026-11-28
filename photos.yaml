@@ -449,3 +449,12 @@
         en: "MotoGP video: Marc Marquez announces his retirement in the Ducati garage in Valencia"
         zh: "MotoGP官方视频：马克·马克斯在瓦伦西亚杜卡迪维修区宣布退役"
         ru: "Видео MotoGP: Марк Маркес объявляет о завершении карьеры в боксе Ducati в Валенсии"
+
+# 28 Nov 2026: T20 World Cup 2034 draft (67c902) had only 1 picture; add free photos of proposed US venues.
+2026-11-27-news-67c902:
+  mode: add
+  photos:
+    - wikipedia: "Oakland Coliseum"
+      caption: "The Oakland Coliseum, one of the venues discussed for the 2034 T20 World Cup"
+    - wikipedia: "Nassau County International Cricket Stadium"
+      caption: "The temporary Nassau County stadium in New York, a venue at the 2024 T20 World Cup"
